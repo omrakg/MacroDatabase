@@ -70,7 +70,7 @@
 | Stephenson County, IL  |               146 |
 | Macoupin County, IL    |               144 |
 | Henry County, IL       |               143 |
-| Rock Island County, IL |                 2 |
+| Rock Island County, IL |               147 |
 | Champaign County, IL   |               147 |
 | Perry County, IL       |                90 |
 | Kankakee County, IL    |               147 |
@@ -83,9 +83,9 @@
 | Bureau County, IL      |                90 |
 | Clay County, IL        |                88 |
 | Knox County, IL        |               146 |
-| Union County, IL       |                 2 |
+| Union County, IL       |                89 |
 | Christian County, IL   |                90 |
-| Tazewell County, IL    |               147 |
+| Tazewell County, IL    |                 0 |
 | Winnebago County, IL   |               147 |
 | Calhoun County, IL     |                88 |
 | Massac County, IL      |                89 |

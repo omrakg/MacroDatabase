@@ -27,7 +27,7 @@
 | Linn County, OR       |               147 |
 | Crook County, OR      |                90 |
 | Gilliam County, OR    |                88 |
-| Malheur County, OR    |                90 |
+| Malheur County, OR    |                 0 |
 | Hood River County, OR |                90 |
 | Washington County, OR |               147 |
 | Coos County, OR       |               146 |

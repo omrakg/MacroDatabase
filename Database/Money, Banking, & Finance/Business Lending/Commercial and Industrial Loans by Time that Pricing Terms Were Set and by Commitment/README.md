@@ -1,8 +1,8 @@
 | Folder               |   Files / Folders |
 |----------------------|-------------------|
-| Large Domestic Banks |                 2 |
-| Summary Statistics   |                 2 |
-| Foreign Banks        |                 2 |
-| Domestic Banks       |                 2 |
-| Small Domestic Banks |                 2 |
-| All Commercial Banks |                 1 |
+| Large Domestic Banks |                 1 |
+| Summary Statistics   |                 1 |
+| Foreign Banks        |                 1 |
+| Domestic Banks       |                 1 |
+| Small Domestic Banks |                 1 |
+| All Commercial Banks |                 0 |

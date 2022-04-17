@@ -1,8 +1,8 @@
 | Folder                          |   Files / Folders |
 |---------------------------------|-------------------|
-| Barre, VT                       |                 2 |
-| Bennington, VT                  |                 2 |
-| Burlington-South Burlington, VT |                75 |
-| Rutland, VT                     |                 2 |
-| Lebanon, NH-VT                  |                 2 |
-| North Adams, MA-VT              |                 1 |
+| Barre, VT                       |                 0 |
+| Bennington, VT                  |                 0 |
+| Burlington-South Burlington, VT |               116 |
+| Rutland, VT                     |                 0 |
+| Lebanon, NH-VT                  |                 0 |
+| North Adams, MA-VT              |                 0 |

@@ -15,7 +15,7 @@
 | Perry County, AL      |                89 |
 | Cullman County, AL    |               147 |
 | Lamar County, AL      |                89 |
-| Wilcox County, AL     |                88 |
+| Wilcox County, AL     |                 0 |
 | Pike County, AL       |                90 |
 | Sumter County, AL     |                88 |
 | Lowndes County, AL    |                88 |
@@ -33,7 +33,7 @@
 | Colbert County, AL    |               146 |
 | Coosa County, AL      |                89 |
 | Calhoun County, AL    |               147 |
-| Walker County, AL     |                 2 |
+| Walker County, AL     |               146 |
 | Dallas County, AL     |                89 |
 | Coffee County, AL     |               146 |
 | Tallapoosa County, AL |                90 |

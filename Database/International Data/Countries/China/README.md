@@ -1,5 +1,3 @@
-| id      | title                                                   | observation_start   | observation_end   |
-|---------|---------------------------------------------------------|---------------------|-------------------|
-| AEXCHUS | Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate | 1981-01-01          | 2021-01-01        |
-| DEXCHUS | Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate | 1981-01-02          | 2022-04-01        |
-| EXCHUS  | Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate | 1981-01-01          | 2022-03-01        |
+| Folder       |   Files / Folders |
+|--------------|-------------------|
+| Discontinued |                 0 |

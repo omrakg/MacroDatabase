@@ -13,6 +13,6 @@
 | Aroostook County, ME    |                91 |
 | Lincoln County, ME      |                90 |
 | Washington County, ME   |                90 |
-| Knox County, ME         |                 2 |
+| Knox County, ME         |                90 |
 | Kennebec County, ME     |               147 |
 | Somerset County, ME     |                90 |

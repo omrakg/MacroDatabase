@@ -6,7 +6,7 @@
 | Perry County, TN      |                88 |
 | Smith County, TN      |                90 |
 | Van Buren County, TN  |                89 |
-| Hamilton County, TN   |                 2 |
+| Hamilton County, TN   |               147 |
 | Washington County, TN |               147 |
 | Haywood County, TN    |                89 |
 | Lake County, TN       |                87 |
@@ -18,7 +18,7 @@
 | Campbell County, TN   |                90 |
 | White County, TN      |                90 |
 | Cumberland County, TN |               146 |
-| Polk County, TN       |                89 |
+| Polk County, TN       |                 0 |
 | Claiborne County, TN  |                89 |
 | Cocke County, TN      |                90 |
 | Rhea County, TN       |                90 |

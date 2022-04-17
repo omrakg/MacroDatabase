@@ -11,7 +11,7 @@
 | Carter County, MO         |                88 |
 | Laclede County, MO        |                90 |
 | Moniteau County, MO       |                90 |
-| Montgomery County, MO     |                89 |
+| Montgomery County, MO     |                 0 |
 | Clay County, MO           |               147 |
 | Callaway County, MO       |                90 |
 | St. Francois County, MO   |               146 |
@@ -29,8 +29,8 @@
 | St. Louis County, MO      |               147 |
 | Jefferson County, MO      |               147 |
 | Jackson County, MO        |               147 |
-| Jasper County, MO         |                 2 |
-| Carroll County, MO        |                 2 |
+| Jasper County, MO         |               147 |
+| Carroll County, MO        |                88 |
 | Vernon County, MO         |                90 |
 | Stoddard County, MO       |                90 |
 | Cape Girardeau County, MO |               147 |

@@ -48,7 +48,7 @@
 | Polk County, IA          |               147 |
 | Mitchell County, IA      |                90 |
 | Jackson County, IA       |                89 |
-| Howard County, IA        |                90 |
+| Howard County, IA        |                 0 |
 | Jones County, IA         |                90 |
 | Winnebago County, IA     |                90 |
 | Guthrie County, IA       |                89 |
@@ -73,7 +73,7 @@
 | Ringgold County, IA      |                88 |
 | Clayton County, IA       |                90 |
 | Decatur County, IA       |                88 |
-| Madison County, IA       |                 2 |
+| Madison County, IA       |                90 |
 | Delaware County, IA      |                90 |
 | Henry County, IA         |                89 |
 | Greene County, IA        |                89 |

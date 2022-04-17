@@ -27,7 +27,7 @@
 | Cottonwood County, MN        |                89 |
 | Itasca County, MN            |                90 |
 | Mower County, MN             |                90 |
-| Sherburne County, MN         |                 2 |
+| Sherburne County, MN         |               147 |
 | St. Louis County, MN         |               147 |
 | Watonwan County, MN          |                89 |
 | Pipestone County, MN         |                90 |
@@ -46,7 +46,7 @@
 | Le Sueur County, MN          |                89 |
 | Mahnomen County, MN          |                88 |
 | Mille Lacs County, MN        |                89 |
-| Lac Qui Parle County, MN     |                88 |
+| Lac Qui Parle County, MN     |                 0 |
 | Todd County, MN              |                89 |
 | Stearns County, MN           |               147 |
 | Goodhue County, MN           |               146 |

@@ -1,13 +1,13 @@
 | Folder                          |   Files / Folders |
 |---------------------------------|-------------------|
 | Inyo County, CA                 |                90 |
-| Santa Clara County, CA          |               147 |
+| Santa Clara County, CA          |                 0 |
 | Alpine County, CA               |                86 |
 | Lake County, CA                 |               147 |
 | Sonoma County, CA               |               147 |
 | Glenn County, CA                |                90 |
 | Butte County, CA                |               147 |
-| Modoc County, CA                |                 2 |
+| Modoc County, CA                |                90 |
 | Sierra County, CA               |                89 |
 | Solano County, CA               |               147 |
 | Tuolumne County, CA             |               146 |
@@ -41,7 +41,7 @@
 | Imperial County, CA             |               147 |
 | Shasta County, CA               |               147 |
 | Trinity County, CA              |                89 |
-| San Francisco County - city, CA |                 1 |
+| San Francisco County - city, CA |                 0 |
 | Del Norte County, CA            |                90 |
 | Yolo County, CA                 |               146 |
 | Placer County, CA               |               147 |

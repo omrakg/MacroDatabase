@@ -8,7 +8,7 @@
 | International Monetary Fund                                        |                 8 |
 | NAFTA                                                              |                21 |
 | Four Big European Countries                                        |                17 |
-| OECD Non-member Economies                                          |                 2 |
+| OECD Non-member Economies                                          |                 0 |
 | Bureau of Labor Statistics Latin America                           |                17 |
 | Non-OECD                                                           |                 8 |
 | European Union                                                     |               848 |
@@ -26,4 +26,4 @@
 | Advance Technology Products                                        |                 4 |
 | Bureau of Labor Statistics Pacific Rim                             |                42 |
 | OECD Total                                                         |               136 |
-| United Nations                                                     |                 2 |
+| United Nations                                                     |                 0 |

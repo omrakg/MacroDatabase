@@ -1,6 +1,6 @@
 | Folder    |   Files / Folders |
 |-----------|-------------------|
-| Northeast |                 2 |
+| Northeast |                 1 |
 | South     |                 2 |
 | Midwest   |                 2 |
 | West      |                 2 |

@@ -1,12 +1,12 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| Waterville, ME                        |                 2 |
+| Waterville, ME                        |                 0 |
 | Lewiston-Auburn, ME                   |                57 |
-| Sanford, ME                           |                 2 |
-| Augusta, ME                           |                 2 |
+| Sanford, ME                           |                 0 |
+| Augusta, ME                           |                 0 |
 | Portland-South Portland-Biddeford, ME |               104 |
-| Rochester-Dover, NH-ME                |                12 |
-| Bangor, ME                            |                92 |
-| Portsmouth, NH-ME                     |                89 |
-| Rockland, ME                          |                 2 |
-| Brunswick, ME                         |                 2 |
+| Rochester-Dover, NH-ME                |                 0 |
+| Bangor, ME                            |                77 |
+| Portsmouth, NH-ME                     |                 0 |
+| Rockland, ME                          |                 0 |
+| Brunswick, ME                         |                 0 |

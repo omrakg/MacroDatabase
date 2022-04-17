@@ -23,7 +23,7 @@
 | Lemhi County, ID      |                89 |
 | Bonneville County, ID |               147 |
 | Elmore County, ID     |                90 |
-| Butte County, ID      |                 2 |
+| Butte County, ID      |                88 |
 | Oneida County, ID     |                89 |
 | Ada County, ID        |               147 |
 | Madison County, ID    |                90 |
@@ -31,7 +31,7 @@
 | Bannock County, ID    |               147 |
 | Clark County, ID      |                86 |
 | Clearwater County, ID |                90 |
-| Bingham County, ID    |                 2 |
+| Bingham County, ID    |                91 |
 | Cassia County, ID     |                90 |
 | Shoshone County, ID   |                89 |
 | Gooding County, ID    |                90 |
@@ -41,6 +41,6 @@
 | Kootenai County, ID   |               147 |
 | Blaine County, ID     |                90 |
 | Owyhee County, ID     |                88 |
-| Jerome County, ID     |                90 |
+| Jerome County, ID     |                 0 |
 | Fremont County, ID    |                 2 |
 | Bear Lake County, ID  |                89 |

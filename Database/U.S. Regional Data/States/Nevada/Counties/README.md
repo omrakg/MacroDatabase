@@ -5,8 +5,8 @@
 | Esmeralda County, NV  |                85 |
 | Lincoln County, NV    |                88 |
 | Pershing County, NV   |                89 |
-| Carson City, NV       |                 2 |
-| Lyon County, NV       |               146 |
+| Carson City, NV       |                 0 |
+| Lyon County, NV       |                 0 |
 | Eureka County, NV     |                85 |
 | Clark County, NV      |               146 |
 | Lander County, NV     |                89 |

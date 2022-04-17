@@ -7,7 +7,7 @@
 | Halifax County, VA                                  |                89 |
 | Fauquier County, VA                                 |               147 |
 | Highland County, VA                                 |                88 |
-| Isle of Wight County, VA                            |                90 |
+| Isle of Wight County, VA                            |                 0 |
 | Accomack County, VA                                 |                90 |
 | King and Queen County, VA                           |                89 |
 | Mecklenburg County, VA                              |                90 |
@@ -34,7 +34,7 @@
 | Emporia City, VA                                    |                77 |
 | Prince William, Manassas + Manassas Park County, VA |                10 |
 | Martinsville City, VA                               |                78 |
-| South Boston City, VA                               |                 2 |
+| South Boston City, VA                               |                 1 |
 | Madison County, VA                                  |                90 |
 | Warren County, VA                                   |                90 |
 | Pittsylvania County, VA                             |               136 |
@@ -67,7 +67,7 @@
 | Botetourt County, VA                                |                90 |
 | Campbell County + Lynchburg City, VA                |                12 |
 | Pittsylvania County + Danville City, VA             |                12 |
-| Falls Church City, VA                               |                79 |
+| Falls Church City, VA                               |                 0 |
 | Charlottesville City, VA                            |               135 |
 | Virginia Beach City, VA                             |               145 |
 | Franklin County, VA                                 |               146 |
@@ -88,7 +88,7 @@
 | Salem City, VA                                      |                79 |
 | James City County, VA                               |               137 |
 | Orange County, VA                                   |                90 |
-| Henrico County, VA                                  |                 2 |
+| Henrico County, VA                                  |               147 |
 | Charles City County, VA                             |                90 |
 | Tazewell County, VA                                 |                90 |
 | Rockingham County, VA                               |               137 |
@@ -147,7 +147,7 @@
 | Russell County, VA                                  |                89 |
 | Sussex County, VA                                   |                90 |
 | Clarke County, VA                                   |                90 |
-| Clifton Forge City, VA                              |                 2 |
+| Clifton Forge City, VA                              |                 1 |
 | Floyd County, VA                                    |                90 |
 | Powhatan County, VA                                 |                90 |
 | Spotsylvania County + Fredericksburg City, VA       |                12 |

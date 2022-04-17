@@ -57,7 +57,7 @@
 | Letcher County, KY      |                88 |
 | Ohio County, KY         |                90 |
 | Garrard County, KY      |                89 |
-| Marion County, KY       |                 2 |
+| Marion County, KY       |                90 |
 | Hart County, KY         |                89 |
 | Boone County, KY        |               145 |
 | Pulaski County, KY      |               146 |
@@ -90,7 +90,7 @@
 | Jackson County, KY      |                89 |
 | Franklin County, KY     |               145 |
 | Warren County, KY       |               147 |
-| Knox County, KY         |                89 |
+| Knox County, KY         |                 0 |
 | Hancock County, KY      |                90 |
 | Calloway County, KY     |                90 |
 | Nicholas County, KY     |                89 |
@@ -98,7 +98,7 @@
 | Mason County, KY        |                90 |
 | Larue County, KY        |                89 |
 | Bourbon County, KY      |                90 |
-| Christian County, KY    |                 2 |
+| Christian County, KY    |               147 |
 | McCracken County, KY    |               147 |
 | Martin County, KY       |                88 |
 | Woodford County, KY     |                90 |

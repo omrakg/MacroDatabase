@@ -1,6 +1,6 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| Talbot County, MD          |                90 |
+| Talbot County, MD          |                 0 |
 | Charles County, MD         |               147 |
 | Kent County, MD            |                90 |
 | Calvert County, MD         |               147 |

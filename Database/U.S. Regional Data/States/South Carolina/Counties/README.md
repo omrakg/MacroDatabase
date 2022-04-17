@@ -23,7 +23,7 @@
 | Richland County, SC     |               146 |
 | Horry County, SC        |               147 |
 | Calhoun County, SC      |                89 |
-| Jasper County, SC       |                 2 |
+| Jasper County, SC       |                89 |
 | Edgefield County, SC    |                90 |
 | Florence County, SC     |               147 |
 | York County, SC         |               147 |

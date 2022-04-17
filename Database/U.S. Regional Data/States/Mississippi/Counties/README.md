@@ -7,7 +7,7 @@
 | Humphreys County, MS       |                86 |
 | Tallahatchie County, MS    |                87 |
 | Madison County, MS         |               147 |
-| Carroll County, MS         |                88 |
+| Carroll County, MS         |                 0 |
 | Prentiss County, MS        |                88 |
 | Wayne County, MS           |                88 |
 | Smith County, MS           |                88 |
@@ -74,7 +74,7 @@
 | Itawamba County, MS        |                90 |
 | Tishomingo County, MS      |                90 |
 | Webster County, MS         |                87 |
-| Jasper County, MS          |                 2 |
+| Jasper County, MS          |                87 |
 | Tate County, MS            |                89 |
 | Leflore County, MS         |                90 |
 | Panola County, MS          |                90 |

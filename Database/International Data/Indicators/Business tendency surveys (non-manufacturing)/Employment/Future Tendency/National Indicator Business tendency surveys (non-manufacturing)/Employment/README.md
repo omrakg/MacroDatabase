@@ -1,3 +1,3 @@
 | Folder          |   Files / Folders |
 |-----------------|-------------------|
-| Future Tendency |                 2 |
+| Future Tendency |                 1 |

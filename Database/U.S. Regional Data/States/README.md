@@ -35,7 +35,7 @@
 | North Carolina       |                 5 |
 | Montana              |                 5 |
 | Illinois             |                 7 |
-| Virgin Islands       |                 2 |
+| Virgin Islands       |               171 |
 | Indiana              |                 7 |
 | New York             |                 8 |
 | Kentucky             |                 6 |

@@ -3,7 +3,7 @@
 | Polk County, FL         |               147 |
 | Franklin County, FL     |                90 |
 | Marion County, FL       |               147 |
-| Bradford County, FL     |                90 |
+| Bradford County, FL     |                 0 |
 | Lee County, FL          |               146 |
 | Sumter County, FL       |               147 |
 | Union County, FL        |                88 |
@@ -38,7 +38,7 @@
 | Volusia County, FL      |               147 |
 | Pinellas County, FL     |               147 |
 | Orange County, FL       |               147 |
-| Clay County, FL         |                 2 |
+| Clay County, FL         |               147 |
 | Suwannee County, FL     |                90 |
 | Columbia County, FL     |               146 |
 | Hamilton County, FL     |                89 |

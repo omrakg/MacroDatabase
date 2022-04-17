@@ -1,6 +1,6 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Osborne County, KS      |                 2 |
+| Osborne County, KS      |                 0 |
 | Kearny County, KS       |                89 |
 | Ellsworth County, KS    |                89 |
 | Neosho County, KS       |                90 |
@@ -60,7 +60,7 @@
 | Smith County, KS        |                88 |
 | Morris County, KS       |                88 |
 | Wabaunsee County, KS    |                89 |
-| Morton County, KS       |                88 |
+| Morton County, KS       |                 0 |
 | Douglas County, KS      |               147 |
 | Osage County, KS        |                90 |
 | Miami County, KS        |                90 |

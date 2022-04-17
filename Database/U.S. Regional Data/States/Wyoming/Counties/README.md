@@ -20,6 +20,6 @@
 | Crook County, WY       |                90 |
 | Goshen County, WY      |                90 |
 | Johnson County, WY     |                90 |
-| Washakie County, WY    |                 2 |
+| Washakie County, WY    |                89 |
 | Sheridan County, WY    |                90 |
 | Sublette County, WY    |                89 |

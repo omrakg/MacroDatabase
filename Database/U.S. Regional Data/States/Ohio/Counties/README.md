@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Noble County, OH      |                90 |
+| Noble County, OH      |                 0 |
 | Jefferson County, OH  |               147 |
 | Lorain County, OH     |               147 |
 | Morrow County, OH     |                90 |
@@ -34,7 +34,7 @@
 | Shelby County, OH     |                90 |
 | Butler County, OH     |               147 |
 | Hocking County, OH    |                89 |
-| Darke County, OH      |                 2 |
+| Darke County, OH      |               146 |
 | Pike County, OH       |                90 |
 | Richland County, OH   |               147 |
 | Columbiana County, OH |               147 |
@@ -60,7 +60,7 @@
 | Montgomery County, OH |               147 |
 | Allen County, OH      |               147 |
 | Licking County, OH    |               147 |
-| Madison County, OH    |                90 |
+| Madison County, OH    |                 0 |
 | Adams County, OH      |                90 |
 | Highland County, OH   |                89 |
 | Logan County, OH      |                90 |

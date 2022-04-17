@@ -2,10 +2,10 @@
 |---------------------------------------------|-------------------|
 | Chambersburg-Waynesboro, PA                 |                97 |
 | Pittsburgh, PA                              |               291 |
-| Allentown-Bethlehem-Easton, PA-NJ           |               223 |
+| Allentown-Bethlehem-Easton, PA-NJ           |                 0 |
 | Erie, PA                                    |               170 |
 | Williamsport, PA                            |               120 |
-| Youngstown-Warren-Boardman, OH-PA           |               183 |
+| Youngstown-Warren-Boardman, OH-PA           |                 0 |
 | Lebanon, PA                                 |               137 |
 | Lancaster, PA                               |               186 |
 | Altoona, PA                                 |               138 |
@@ -17,6 +17,6 @@
 | York-Hanover, PA                            |               170 |
 | Johnstown, PA                               |               155 |
 | State College, PA                           |               143 |
-| New York-Newark-Jersey City, NY-NJ-PA       |               167 |
+| New York-Newark-Jersey City, NY-NJ-PA       |                 0 |
 | Scranton--Wilkes-Barre, PA                  |               195 |
-| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |               186 |
+| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |                 0 |

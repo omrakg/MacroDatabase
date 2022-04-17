@@ -1,3 +1,3 @@
 | Folder    |   Files / Folders |
 |-----------|-------------------|
-| Buildings |                 2 |
+| Buildings |                 1 |

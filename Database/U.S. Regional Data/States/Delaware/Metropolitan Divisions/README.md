@@ -1,3 +1,3 @@
 | Folder               |   Files / Folders |
 |----------------------|-------------------|
-| Wilmington, DE-MD-NJ |                 1 |
+| Wilmington, DE-MD-NJ |                 0 |

@@ -1,4 +1,4 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| EC Indicator                          |                 1 |
-| EC Indicator Consumer opinion surveys |                 2 |
+| EC Indicator                          |                 0 |
+| EC Indicator Consumer opinion surveys |                 1 |

@@ -5,7 +5,7 @@
 | Ames, IA                            |               101 |
 | Davenport-Moline-Rock Island, IA-IL |               185 |
 | Cedar Rapids, IA                    |               179 |
-| Sioux City, IA-NE-SD                |                 1 |
-| Omaha-Council Bluffs, NE-IA         |                 1 |
+| Sioux City, IA-NE-SD                |               144 |
+| Omaha-Council Bluffs, NE-IA         |               311 |
 | Des Moines-West Des Moines, IA      |               199 |
 | Waterloo-Cedar Falls, IA            |               158 |

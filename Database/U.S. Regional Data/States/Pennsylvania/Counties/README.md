@@ -35,7 +35,7 @@
 | Franklin County, PA            |               147 |
 | Northumberland County, PA      |               146 |
 | Huntingdon County, PA          |                89 |
-| Fayette County, PA             |                 2 |
+| Fayette County, PA             |               144 |
 | Susquehanna County, PA         |                89 |
 | Luzerne County, PA             |               146 |
 | Bradford County, PA            |               144 |
@@ -45,7 +45,7 @@
 | Allegheny County, PA           |               145 |
 | Delaware County, PA            |               107 |
 | McKean County, PA              |                87 |
-| Cambria County, PA             |               146 |
+| Cambria County, PA             |                 0 |
 | Sullivan County, PA            |                88 |
 | Montgomery County, PA          |               147 |
 | Somerset County, PA            |               144 |
@@ -66,4 +66,4 @@
 | Mifflin County, PA             |               143 |
 | Pike County, PA                |               146 |
 | Northampton County, PA         |               147 |
-| Philadelphia County - city, PA |                 1 |
+| Philadelphia County - city, PA |                 0 |

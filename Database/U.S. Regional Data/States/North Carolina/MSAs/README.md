@@ -5,10 +5,10 @@
 | New Bern, NC                                  |                62 |
 | Goldsboro, NC                                 |               105 |
 | Durham-Chapel Hill, NC                        |               136 |
-| Charlotte-Concord-Gastonia, NC-SC             |               267 |
+| Charlotte-Concord-Gastonia, NC-SC             |                 0 |
 | Greensboro-High Point, NC                     |               213 |
 | Myrtle Beach-Conway-North Myrtle Beach, SC-NC |               171 |
-| Virginia Beach-Norfolk-Newport News, VA-NC    |               211 |
+| Virginia Beach-Norfolk-Newport News, VA-NC    |                 0 |
 | Winston-Salem, NC                             |               183 |
 | Greenville, NC                                |               162 |
 | Rocky Mount, NC                               |               146 |

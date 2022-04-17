@@ -19,7 +19,7 @@
 | Johnson County, NE      |                88 |
 | Banner County, NE       |                82 |
 | Sherman County, NE      |                88 |
-| Thomas County, NE       |                 2 |
+| Thomas County, NE       |                85 |
 | Hitchcock County, NE    |                88 |
 | Boone County, NE        |                87 |
 | Platte County, NE       |                90 |
@@ -83,7 +83,7 @@
 | Hamilton County, NE     |                89 |
 | Butler County, NE       |                90 |
 | Rock County, NE         |                87 |
-| Nemaha County, NE       |                89 |
+| Nemaha County, NE       |                 0 |
 | Valley County, NE       |                88 |
 | Gage County, NE         |                90 |
 | Howard County, NE       |                90 |

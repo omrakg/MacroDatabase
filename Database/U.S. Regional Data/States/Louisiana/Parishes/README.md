@@ -2,7 +2,7 @@
 |---------------------------------|-------------------|
 | Pointe Coupee Parish, LA        |                89 |
 | Lincoln Parish, LA              |                90 |
-| Jefferson Davis Parish, LA      |                 2 |
+| Jefferson Davis Parish, LA      |                90 |
 | St. Landry Parish, LA           |               146 |
 | East Baton Rouge Parish, LA     |               148 |
 | Washington Parish, LA           |                90 |

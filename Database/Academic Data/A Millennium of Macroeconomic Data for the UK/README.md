@@ -1,7 +1,7 @@
 | Folder                           |   Files / Folders |
 |----------------------------------|-------------------|
 | Money and Credit                 |                23 |
-| National Accounts                |                 2 |
+| National Accounts                |                 0 |
 | Trade                            |                 8 |
 | Financial Markets                |                40 |
 | Fiscal                           |                10 |

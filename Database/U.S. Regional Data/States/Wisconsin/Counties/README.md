@@ -33,7 +33,7 @@
 | St. Croix County, WI                    |               147 |
 | Richland County, WI                     |                89 |
 | Jefferson County, WI                    |               147 |
-| Polk County, WI                         |                 2 |
+| Polk County, WI                         |                90 |
 | Wood County, WI                         |               147 |
 | Bayfield County, WI                     |                90 |
 | Marquette County, WI                    |                89 |
@@ -56,7 +56,7 @@
 | Calumet County, WI                      |               144 |
 | Green County, WI                        |                90 |
 | Waupaca County, WI                      |                90 |
-| Fond Du Lac County, WI                  |               147 |
+| Fond Du Lac County, WI                  |                 0 |
 | Rusk County, WI                         |                90 |
 | Dunn County, WI                         |                90 |
 | Kenosha County, WI                      |               147 |

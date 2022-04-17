@@ -18,7 +18,7 @@
 | Wayne County, NC        |               147 |
 | Pamlico County, NC      |                90 |
 | New Hanover County, NC  |               147 |
-| Cumberland County, NC   |                 2 |
+| Cumberland County, NC   |               147 |
 | Alleghany County, NC    |                89 |
 | Transylvania County, NC |                90 |
 | Greene County, NC       |                89 |
@@ -92,7 +92,7 @@
 | Avery County, NC        |                90 |
 | Pitt County, NC         |               147 |
 | Richmond County, NC     |                90 |
-| Beaufort County, NC     |               146 |
+| Beaufort County, NC     |                 0 |
 | Cleveland County, NC    |               147 |
 | Davie County, NC        |                90 |
 | Yancey County, NC       |                90 |

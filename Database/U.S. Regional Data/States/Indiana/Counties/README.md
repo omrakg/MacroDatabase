@@ -20,7 +20,7 @@
 | Lake County, IN        |               147 |
 | Wayne County, IN       |               147 |
 | Scott County, IN       |                90 |
-| Jay County, IN         |                 2 |
+| Jay County, IN         |                89 |
 | Warren County, IN      |                89 |
 | Blackford County, IN   |                89 |
 | Montgomery County, IN  |                90 |
@@ -29,7 +29,7 @@
 | Kosciusko County, IN   |               147 |
 | Harrison County, IN    |                90 |
 | Hamilton County, IN    |               146 |
-| Washington County, IN  |                89 |
+| Washington County, IN  |                 0 |
 | Newton County, IN      |                90 |
 | Delaware County, IN    |               147 |
 | Vanderburgh County, IN |               147 |

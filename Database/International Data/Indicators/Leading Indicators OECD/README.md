@@ -1,3 +1,3 @@
 | Folder           |   Files / Folders |
 |------------------|-------------------|
-| Component series |                 2 |
+| Component series |                 1 |

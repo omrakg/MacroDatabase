@@ -1,4 +1,4 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| Cincinnati-Hamilton, OH-KY-IN (CMSA)  |                 1 |
-| Chicago-Gary-Kenosha, IL-IN-WI (CMSA) |                 1 |
+| Cincinnati-Hamilton, OH-KY-IN (CMSA)  |                 0 |
+| Chicago-Gary-Kenosha, IL-IN-WI (CMSA) |                51 |

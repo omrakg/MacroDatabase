@@ -1,10 +1,10 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
 | Kennewick-Richland, WA                |               167 |
-| Lewiston, ID-WA                       |                 1 |
+| Lewiston, ID-WA                       |                 0 |
 | Spokane-Spokane Valley, WA            |               189 |
 | Wenatchee, WA                         |               123 |
-| Portland-Vancouver-Beaverton, OR-WA   |                 1 |
+| Portland-Vancouver-Beaverton, OR-WA   |                 0 |
 | Seattle-Tacoma-Bellevue, WA           |               207 |
 | Yakima, WA                            |               161 |
 | Mount Vernon-Anacortes, WA            |               120 |

@@ -18,7 +18,7 @@
 | La Moure County, ND      |                88 |
 | Cavalier County, ND      |                89 |
 | Foster County, ND        |                88 |
-| Walsh County, ND         |                 2 |
+| Walsh County, ND         |                89 |
 | Mercer County, ND        |                89 |
 | Traill County, ND        |                89 |
 | Emmons County, ND        |                88 |

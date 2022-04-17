@@ -39,7 +39,7 @@
 | Jackson County, AR      |                90 |
 | Franklin County, AR     |                90 |
 | Van Buren County, AR    |                89 |
-| Lee County, AR          |                 2 |
+| Lee County, AR          |                88 |
 | Benton County, AR       |               147 |
 | Lonoke County, AR       |               147 |
 | Ouachita County, AR     |                90 |

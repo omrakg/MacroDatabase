@@ -1,6 +1,6 @@
 | Folder                       |   Files / Folders |
 |------------------------------|-------------------|
-| Jackson County, CO           |                 2 |
+| Jackson County, CO           |                86 |
 | San Juan County, CO          |                86 |
 | Douglas County, CO           |               147 |
 | Phillips County, CO          |                89 |
@@ -14,7 +14,7 @@
 | Pitkin County, CO            |                90 |
 | Ouray County, CO             |                90 |
 | Washington County, CO        |                88 |
-| Broomfield County - city, CO |                 1 |
+| Broomfield County - city, CO |                 0 |
 | Pueblo County, CO            |               147 |
 | Chaffee County, CO           |                89 |
 | Gunnison County, CO          |                90 |
@@ -43,7 +43,7 @@
 | Montezuma County, CO         |                90 |
 | Prowers County, CO           |                89 |
 | Bent County, CO              |                89 |
-| Hinsdale County, CO          |                85 |
+| Hinsdale County, CO          |                 0 |
 | Teller County, CO            |                90 |
 | La Plata County, CO          |               146 |
 | Cheyenne County, CO          |                89 |

@@ -6,9 +6,9 @@
 | Job Openings and Labor Turnover (JOLTS)              |                 7 |
 | Productivity & Costs                                 |                23 |
 | Population                                           |                 4 |
-| Income Distribution                                  |               160 |
+| Income Distribution                                  |                 0 |
 | Current Population Survey (Household Survey)         |                15 |
 | ADP Employment                                       |                31 |
-| Education                                            |               998 |
+| Education                                            |                 0 |
 | Current Employment Statistics (Establishment Survey) |                22 |
 | Tax Data                                             |              1002 |

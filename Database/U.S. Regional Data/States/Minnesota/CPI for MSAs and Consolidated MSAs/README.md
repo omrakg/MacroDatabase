@@ -1,3 +1,3 @@
 | Folder                            |   Files / Folders |
 |-----------------------------------|-------------------|
-| Minneapolis-St. Paul, MN-WI (MSA) |                 7 |
+| Minneapolis-St. Paul, MN-WI (MSA) |                 0 |

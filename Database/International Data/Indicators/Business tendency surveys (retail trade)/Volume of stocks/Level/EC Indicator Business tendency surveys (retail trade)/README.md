@@ -1,3 +1,3 @@
 | Folder           |   Files / Folders |
 |------------------|-------------------|
-| Volume of stocks |                 2 |
+| Volume of stocks |                 1 |

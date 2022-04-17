@@ -14,7 +14,7 @@
 | Orange County, NY       |               146 |
 | Hamilton County, NY     |                89 |
 | Westchester County, NY  |               147 |
-| Sullivan County, NY     |                91 |
+| Sullivan County, NY     |                 0 |
 | Schoharie County, NY    |                89 |
 | Wayne County, NY        |               147 |
 | Oswego County, NY       |               146 |
@@ -27,7 +27,7 @@
 | Essex County, NY        |                90 |
 | Cortland County, NY     |               146 |
 | Schuyler County, NY     |                90 |
-| Cayuga County, NY       |                 2 |
+| Cayuga County, NY       |               146 |
 | Seneca County, NY       |                90 |
 | Allegany County, NY     |                90 |
 | Fulton County, NY       |               146 |

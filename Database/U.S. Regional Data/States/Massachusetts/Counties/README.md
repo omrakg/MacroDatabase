@@ -11,6 +11,6 @@
 | Suffolk County, MA    |               146 |
 | Dukes County, MA      |                89 |
 | Bristol County, MA    |               146 |
-| Hampden County, MA    |                 2 |
+| Hampden County, MA    |               146 |
 | Plymouth County, MA   |               146 |
 | Norfolk County, MA    |               146 |

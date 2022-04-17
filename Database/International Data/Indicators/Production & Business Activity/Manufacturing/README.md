@@ -1,4 +1,4 @@
 | Folder      |   Files / Folders |
 |-------------|-------------------|
-| Inventories |                 2 |
-| Orders      |                 2 |
+| Inventories |                20 |
+| Orders      |                 0 |

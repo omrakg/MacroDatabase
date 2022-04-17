@@ -1,6 +1,6 @@
 | Folder                   |   Files / Folders |
 |--------------------------|-------------------|
-| Leon County, TX          |                 2 |
+| Leon County, TX          |                89 |
 | Gregg County, TX         |               147 |
 | Foard County, TX         |                87 |
 | Austin County, TX        |                90 |
@@ -20,7 +20,7 @@
 | San Jacinto County, TX   |                90 |
 | Hill County, TX          |                90 |
 | Comal County, TX         |               147 |
-| Hays County, TX          |               147 |
+| Hays County, TX          |                 0 |
 | Dickens County, TX       |                86 |
 | Archer County, TX        |                89 |
 | Grayson County, TX       |               147 |
@@ -72,7 +72,7 @@
 | Rusk County, TX          |               146 |
 | Martin County, TX        |                88 |
 | Upshur County, TX        |                90 |
-| Ellis County, TX         |                 2 |
+| Ellis County, TX         |               147 |
 | Falls County, TX         |                89 |
 | Childress County, TX     |                87 |
 | Wise County, TX          |               146 |
@@ -80,7 +80,7 @@
 | Ector County, TX         |               147 |
 | Jack County, TX          |                89 |
 | Lavaca County, TX        |                89 |
-| Jasper County, TX        |                90 |
+| Jasper County, TX        |                 0 |
 | Donley County, TX        |                87 |
 | Rockwall County, TX      |               147 |
 | Delta County, TX         |                89 |
@@ -123,7 +123,7 @@
 | Fisher County, TX        |                86 |
 | Knox County, TX          |                89 |
 | Irion County, TX         |                88 |
-| Parmer County, TX        |                 2 |
+| Parmer County, TX        |                89 |
 | Jeff Davis County, TX    |                88 |
 | Lee County, TX           |                90 |
 | Dallam County, TX        |                89 |
@@ -135,7 +135,7 @@
 | Roberts County, TX       |                88 |
 | Andrews County, TX       |                90 |
 | Lubbock County, TX       |               147 |
-| Sabine County, TX        |                 2 |
+| Sabine County, TX        |                89 |
 | Crane County, TX         |                88 |
 | Gaines County, TX        |                88 |
 | Victoria County, TX      |               147 |
@@ -194,7 +194,7 @@
 | Karnes County, TX        |                89 |
 | Medina County, TX        |                90 |
 | Colorado County, TX      |                90 |
-| Refugio County, TX       |                89 |
+| Refugio County, TX       |                 0 |
 | Smith County, TX         |               147 |
 | Fannin County, TX        |                90 |
 | Hemphill County, TX      |                88 |
@@ -211,14 +211,14 @@
 | Kleberg County, TX       |                89 |
 | Collingsworth County, TX |                88 |
 | Borden County, TX        |                83 |
-| Midland County, TX       |                 2 |
+| Midland County, TX       |               147 |
 | La Salle County, TX      |                88 |
 | Upton County, TX         |                88 |
 | Garza County, TX         |                87 |
 | Glasscock County, TX     |                84 |
 | Frio County, TX          |                88 |
 | Grimes County, TX        |                89 |
-| Howard County, TX        |                 2 |
+| Howard County, TX        |                90 |
 | Real County, TX          |                88 |
 | Hansford County, TX      |                89 |
 | Orange County, TX        |               147 |
@@ -239,7 +239,7 @@
 | Hall County, TX          |                88 |
 | Limestone County, TX     |                88 |
 | Hudspeth County, TX      |                87 |
-| Robertson County, TX     |                 2 |
+| Robertson County, TX     |                88 |
 | Reagan County, TX        |                88 |
 | Crockett County, TX      |                86 |
 | Hockley County, TX       |                90 |

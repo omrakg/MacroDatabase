@@ -1,19 +1,19 @@
 | Folder                                                                   |   Files / Folders |
 |--------------------------------------------------------------------------|-------------------|
-| Administrative and Support and Waste Management and Remediation Services |                 1 |
-| Transportation and Warehousing                                           |                 1 |
-| Educational Services                                                     |                 1 |
-| Construction                                                             |                 1 |
-| Manufacturing                                                            |                 1 |
-| Accommodation and Food Services                                          |                 1 |
-| Agriculture, Forestry, Fishing and Hunting                               |                 1 |
-| Professional, Scientific, and Technical Services                         |                 1 |
-| Other Services (except Public Administration)                            |                 1 |
-| Arts, Entertainment, and Recreation                                      |                 1 |
+| Administrative and Support and Waste Management and Remediation Services |                 0 |
+| Transportation and Warehousing                                           |                 0 |
+| Educational Services                                                     |                 0 |
+| Construction                                                             |                 0 |
+| Manufacturing                                                            |                 0 |
+| Accommodation and Food Services                                          |                 0 |
+| Agriculture, Forestry, Fishing and Hunting                               |                 0 |
+| Professional, Scientific, and Technical Services                         |                 0 |
+| Other Services (except Public Administration)                            |                 0 |
+| Arts, Entertainment, and Recreation                                      |                 0 |
 | Public Administration                                                    |                13 |
-| Information                                                              |                 1 |
-| Health Care and Social Assistance                                        |                 1 |
-| Utilities                                                                |                 1 |
-| Finance and Insurance                                                    |                 1 |
-| Retail Trade                                                             |                 1 |
+| Information                                                              |                 0 |
+| Health Care and Social Assistance                                        |                 0 |
+| Utilities                                                                |                 0 |
+| Finance and Insurance                                                    |                 0 |
+| Retail Trade                                                             |                 0 |
 | Mining, Quarrying, and Oil and Gas Extraction                            |               145 |

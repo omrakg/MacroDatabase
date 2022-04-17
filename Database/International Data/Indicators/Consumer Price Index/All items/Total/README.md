@@ -1,3 +1,3 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| Total Consumer Price Index |                 2 |
+| Total Consumer Price Index |                 1 |

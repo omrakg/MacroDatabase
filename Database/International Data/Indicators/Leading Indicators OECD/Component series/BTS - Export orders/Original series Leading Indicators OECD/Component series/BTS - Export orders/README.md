@@ -1,3 +1,3 @@
 | Folder          |   Files / Folders |
 |-----------------|-------------------|
-| Original series |                 1 |
+| Original series |                 0 |

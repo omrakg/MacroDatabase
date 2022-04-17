@@ -1,3 +1,3 @@
 | Folder   |   Files / Folders |
 |----------|-------------------|
-| Current  |                 2 |
+| Current  |                 1 |

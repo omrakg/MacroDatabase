@@ -1,10 +1,10 @@
 | Folder                                          |   Files / Folders |
 |-------------------------------------------------|-------------------|
-| Anchorage Borough - municipality, AK            |                 1 |
+| Anchorage Borough - municipality, AK            |                 0 |
 | Aleutians East Borough, AK                      |                86 |
 | Bristol Bay Borough, AK                         |                85 |
 | Ketchikan Gateway Borough, AK                   |                88 |
-| Juneau Borough - city, AK                       |                 1 |
+| Juneau Borough - city, AK                       |                 0 |
 | Skagway-Hoonah-Angoon Census Area, AK           |                 7 |
 | Prince of Wales-Outer Ketchikan Census Area, AK |                 5 |
 | Prince of Wales-Hyder Census Area, AK           |                83 |
@@ -22,12 +22,12 @@
 | Skagway Municipality, AK                        |                83 |
 | Petersburg Census Area, AK                      |                83 |
 | Kenai Peninsula Borough, AK                     |                88 |
-| Wrangell Borough - City, AK                     |                 1 |
+| Wrangell Borough - City, AK                     |                 0 |
 | Wrangell-Petersburg Census Area, AK             |                 5 |
 | Aleutians West Census Area, AK                  |                86 |
-| Lake and Peninsula Borough, AK                  |                84 |
+| Lake and Peninsula Borough, AK                  |                 0 |
 | Bethel Census Area, AK                          |                88 |
-| Sitka Borough - city, AK                        |                 1 |
+| Sitka Borough - city, AK                        |                 0 |
 | Hoonah-Angoon Census Area, AK                   |                85 |
 | Matanuska-Susitna Borough, AK                   |               144 |
 | Southeast Fairbanks Census Area, AK             |                86 |

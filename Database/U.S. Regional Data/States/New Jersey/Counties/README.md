@@ -19,5 +19,5 @@
 | Somerset County, NJ   |               143 |
 | Middlesex County, NJ  |               143 |
 | Passaic County, NJ    |               143 |
-| Burlington County, NJ |                 2 |
+| Burlington County, NJ |               147 |
 | Essex County, NJ      |               143 |

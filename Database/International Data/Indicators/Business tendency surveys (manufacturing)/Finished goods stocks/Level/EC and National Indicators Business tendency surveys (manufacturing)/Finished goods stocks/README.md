@@ -1,3 +1,3 @@
 | Folder   |   Files / Folders |
 |----------|-------------------|
-| Level    |                 2 |
+| Level    |                 1 |

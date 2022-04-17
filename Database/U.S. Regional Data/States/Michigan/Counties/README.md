@@ -25,7 +25,7 @@
 | Menominee County, MI      |                90 |
 | Schoolcraft County, MI    |                90 |
 | Houghton County, MI       |                90 |
-| Isabella County, MI       |               146 |
+| Isabella County, MI       |                 0 |
 | Montcalm County, MI       |               146 |
 | Allegan County, MI        |               147 |
 | Missaukee County, MI      |                90 |
@@ -79,7 +79,7 @@
 | Genesee County, MI        |               147 |
 | Monroe County, MI         |               147 |
 | Lapeer County, MI         |               147 |
-| Crawford County, MI       |                 2 |
+| Crawford County, MI       |                90 |
 | Huron County, MI          |                90 |
 | Montmorency County, MI    |                89 |
 | Kent County, MI           |               147 |

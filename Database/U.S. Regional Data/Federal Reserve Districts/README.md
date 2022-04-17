@@ -5,7 +5,7 @@
 | Kansas City   |                 4 |
 | St. Louis     |                 4 |
 | Cleveland     |                 4 |
-| New York      |                 3 |
+| New York      |                 4 |
 | Atlanta       |                 4 |
 | Philadelphia  |                 4 |
 | Minneapolis   |                 4 |

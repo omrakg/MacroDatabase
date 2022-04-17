@@ -1,7 +1,7 @@
 | Folder             |   Files / Folders |
 |--------------------|-------------------|
 | Topeka, KS         |               179 |
-| Manhattan, KS      |                 2 |
+| Manhattan, KS      |                91 |
 | Wichita, KS        |               213 |
 | St. Joseph, MO-KS  |               106 |
 | Kansas City, MO-KS |               193 |

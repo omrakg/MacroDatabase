@@ -11,4 +11,4 @@
 | Poughkeepsie-Newburgh-Middletown, NY  |                 9 |
 | Buffalo-Cheektowaga, NY               |               201 |
 | Kingston, NY                          |               164 |
-| New York-Newark-Jersey City, NY-NJ-PA |                 1 |
+| New York-Newark-Jersey City, NY-NJ-PA |               167 |
