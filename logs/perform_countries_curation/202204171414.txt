@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "Methodology/perform_countries_curation.py", line 42, in <module>
+    dataset[country] = json.load(open(f"{path_str}/International Data/Countries/{country}/_{country}.json", "r"))
+FileNotFoundError: [Errno 2] No such file or directory: 'Database/International Data/Countries/Afghanistan/_Afghanistan.json'
