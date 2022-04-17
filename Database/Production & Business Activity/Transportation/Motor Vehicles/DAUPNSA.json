@@ -1,7 +1,7 @@
 {
   "id": "DAUPNSA",
-  "realtime_start": "2022-04-06",
-  "realtime_end": "2022-04-06",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
   "title": "Domestic Auto Production",
   "observation_start": "1993-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 07:59:12-05",
-  "popularity": 28,
-  "group_popularity": 61,
+  "popularity": 24,
+  "group_popularity": 62,
   "notes": "Domestic auto production is defined as all autos assembled in the U.S."
 }

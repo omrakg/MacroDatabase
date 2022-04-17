@@ -1,0 +1,18 @@
+{
+  "id": "M0437BUSM284NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Wholesale Price of Horse-Drawn Mowers, Composite, F.O.B. Shipping Point for United States",
+  "observation_start": "1933-01-01",
+  "observation_end": "1944-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Each",
+  "units_short": "$ Per Each",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:49:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1913-1937 (2)--Original Data, 1933-1944. Monthly Data Were Available Beginning In 1933. Annual Averages Date To 1913. The 1937 Annual Figure For The Two Variables Has A Ratio Of 1.063 (1937 2Nd Segment Divided By The 1St Segment Yields 877.43/825.31=1.063. Source: Bls Letters For 1933, 1934, 1936, 1937; Bls \"Wholesale Prices, \" January, 1936, P.17, For 1935; Current Bulletins For 1938 And Succeeding Years.\n\nThis NBER data series m04137b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04137b"
+}

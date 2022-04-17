@@ -1,0 +1,17 @@
+{
+  "id": "PCU4240004240004",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Producer Price Index by Industry: Merchant Wholesalers, Nondurable Goods: Wholesale Distribution of Grocery and Related Products",
+  "observation_start": "2009-02-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Feb 2009=100",
+  "units_short": "Index Feb 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-02-17 07:54:38-06",
+  "popularity": 5,
+  "group_popularity": 5
+}

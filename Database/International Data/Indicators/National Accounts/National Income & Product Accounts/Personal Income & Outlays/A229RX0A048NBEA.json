@@ -1,0 +1,18 @@
+{
+  "id": "A229RX0A048NBEA",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Real Disposable Personal Income: Per Capita",
+  "observation_start": "1929-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Chained 2012 Dollars",
+  "units_short": "Chn. 2012 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 07:55:06-05",
+  "popularity": 42,
+  "group_popularity": 66,
+  "notes": "BEA Account Code: A229RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,17 +1,17 @@
 {
   "id": "WPSID51113",
-  "realtime_start": "2022-04-06",
-  "realtime_end": "2022-04-06",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Production Flow: Inputs to Stage 1 Goods Producers, Goods Excluding Foods and Energy",
   "observation_start": "2009-11-01",
-  "observation_end": "2022-02-01",
+  "observation_end": "2022-03-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Nov 2009=100",
   "units_short": "Index Nov 2009=100",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-03-15 08:05:13-05",
-  "popularity": 1,
-  "group_popularity": 2
+  "last_updated": "2022-04-13 07:58:37-05",
+  "popularity": 5,
+  "group_popularity": 6
 }

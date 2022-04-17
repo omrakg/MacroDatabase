@@ -1,0 +1,18 @@
+{
+  "id": "M0469BUSM350NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Index of Wholesale Prices, Manufactured Goods, Total for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1968-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:51:01-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables-- (1)--Original Data, 1913-1951 (2)--Original Data, 1947-1968. Source: Bls \"Total Manufactures, Wholesale Price Index (1957-1959= 100)\", Table Covering 1947-November, 1961 (March, 1962); Thereafter Monthly Labor Review Or Wholesale Prices And Indexes (Monthly). 1960 On: Univac Printout L 214, March, 1962.\n\nThis NBER data series m04169b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04169b"
+}

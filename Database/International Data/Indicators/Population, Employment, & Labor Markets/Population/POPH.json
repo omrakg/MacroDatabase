@@ -1,0 +1,18 @@
+{
+  "id": "POPH",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "National Population",
+  "observation_start": "1900-01-01",
+  "observation_end": "1999-01-01",
+  "frequency": "Annual, As of July 1",
+  "frequency_short": "A",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-11-18 14:26:02-06",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "This historical series may be used in conjunction with other population data to construct long time series. Caution should be exercise as the series contains breaks.\nNational population data for the years 1900 to 1949 exclude the population residing in Alaska and Hawaii. National population data for the\nyears 1940 to 1979 cover the resident population plus Armed Forces overseas.\nNational population data for all other years cover only the resident population. Estimates of the population including Armed Forces\noverseas are as follows:\n\n1919 105,063,000\n1918 104,550,000\n1917 103,414,000\n\nNational population data for the years 1900 to 1929 are only available rounded to the nearest thousand.\n\nFor more information see https://www.census.gov/population/estimates/nation/popclockest.txt"
+}

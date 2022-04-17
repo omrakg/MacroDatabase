@@ -1,0 +1,18 @@
+{
+  "id": "M04148USIL099M275NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Wholesale Price of Zinc Sheet for LaSalle, IL",
+  "observation_start": "1890-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per 100 Pounds",
+  "units_short": "$ Per 100 Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:46:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Prices Are F.O.B. Lasalle, Illinois; Ordinary Numbers And Sizes, Packed In 600 Pound Casks. In 1933, The Description Of The Series Is Changed To \"F.O.B. Mill, Illinois,\" And In 1942 Is Changed To \"F.O.B. Mill.\" For 1890-1917, Prices Are First Of Month Quotations. For 1918-1931, They Are Daily Averages Of Quotations, And For 1932-1939, They Are The Average Of Quotations As Of One Day Each Week. (Bls Letter Dated 4/17/40) There Are No Quotations Published For 08/1946-12/1946 Because Of Insufficient Data. Source: Bls Bulletins And \"Wholesale Prices\"\n\nThis NBER data series m04148 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04148"
+}

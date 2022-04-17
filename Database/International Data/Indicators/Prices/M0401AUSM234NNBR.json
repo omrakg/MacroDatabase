@@ -1,0 +1,18 @@
+{
+  "id": "M0401AUSM234NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Index of Spot Market Prices of 16 Raw Industrial Commodities for United States",
+  "observation_start": "1935-01-01",
+  "observation_end": "1949-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Average Number per Week",
+  "units_short": "Average Number Per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:47:25-05",
+  "popularity": 10,
+  "group_popularity": 10,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1935-1949 (2)--Original Data, 1946-1968. Figures Are Monthly Averages Of Daily Quotations. Source: Bls, \"Spot Market Prices, \" Summary Ls 44-2297, 1935-February, 1948, And \"Daily Index Numbers And Spot Primary Market Prices For 28 Commodities\" (Mimeographed) Thereafter.\n\nThis NBER data series m04201a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04201a"
+}

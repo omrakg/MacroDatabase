@@ -1,0 +1,17 @@
+{
+  "id": "PCU42300042300045",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Producer Price Index by Industry: Merchant Wholesalers, Durable Goods: Wholesale Distribution of Medical, Dental, and Hospital Equipment and Supplies",
+  "observation_start": "2009-02-01",
+  "observation_end": "2019-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Feb 2009=100",
+  "units_short": "Index Feb 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-06-11 07:53:46-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M04145US38300M275NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Wholesale Price of Tin Plate for Pittsburgh, PA",
+  "observation_start": "1898-01-01",
+  "observation_end": "1955-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per 100 Pounds",
+  "units_short": "$ Per 100 Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:49:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1898-1955 (2)--Original Data, 1953-1958. Data Are Averages Of Weekly Quotations. The Published Price For January-November, 1938 Was $5.35 But In A Post-Season Action Producers Granted A Retroactive Price Adjustment On All Shipments Between January 1 And November 10. See Iron Age, December 1, 1938, P.94. (Reduction Made To $5.10) While The Iron Age Shows The 07/1948 Price As Continuous, The Bls (Which Has Shown The Series For A Long Period Under Code #455) Indicates A Change From \"F.O.B. Pittsburgh, Basing Point\" To \"F.O.B. Producing Points, Pittsburgh Area\" (Code #455.1 In Old Index; Code #10-14-66.01 In New Index). No Overlap Is Given. The Data Shown By Both Iron Age And Bls Are Identical. Source: Iron Age, January 7, 1915, P.24, January 4, 1923, P.76, January 4, 1940, P.172, And Subsequent Annual Issues Through 1956.\n\nThis NBER data series m04145 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04145"
+}

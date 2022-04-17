@@ -1,0 +1,18 @@
+{
+  "id": "M0495BUSM349NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Index of Wholesale Prices of Housefurnishing Goods for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1956-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1947-1949=100",
+  "units_short": "Index 1947-1949=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:52:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1951 (2)--Original Data, 1947-1956. Called\"Furniture And Other Household Durables\" In Source; Coverage Is Somewhat Diferent From That Of Preceeding Variable (Series 04095--Original Data, 1890-1951). Annual Figure For 1956 Is Based On 7 Months (January-July). Source: Bls \"Wholesale Price Index (1947-49=100), \" Indexes For Groups, Subgroups, And Product Classes Of Commodities, 1947-1951, Issued February, 1952, For 1947-1950; Monthly Release On Wholesale (Primary Market) Price Index, 1952 And Following, For 1951, 1953, And Following; Bls Bulletin No. 1143, For 1952.\n\nThis NBER data series m04095b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04095b"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M04H5AUSM336NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Index of Wholesale Price of Fuel and Lighting for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:51:48-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1926=100 Index, 1890-1951; (2) Original Data, 1947-49=100 Index, 1947-1956. A Revision In 1949 Reflects The Rearrangement And Addition Of Items Within The Data Group. Old Grouping -- Anthracite Coal, Bituminous Coal, Coke, Gas, Petroleum Products; New Grouping Includes Electricity. Source: 1890-1930: Bls Bulletin No. 543, Pp. 3-11; 1926-1931 (Revised): Bulletin No. 572, Pp. 5-6; 1931:\"Survey Of Current Business\", January 1932; 1932-1943: Bls, \"Wholesale Prices\"; 1944-1950: Bls Bulletins Nos. 736-1083; 1951: \"Monthly Labor Review\", 1952 Issues\n\nThis NBER data series m04065a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04065a"
+}

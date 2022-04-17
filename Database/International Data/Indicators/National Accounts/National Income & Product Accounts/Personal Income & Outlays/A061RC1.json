@@ -1,0 +1,18 @@
+{
+  "id": "A061RC1",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Contributions for government social insurance, domestic",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-31 07:44:01-05",
+  "popularity": 4,
+  "group_popularity": 5,
+  "notes": "BEA Account Code: A061RC\n"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0412AGBM524NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Pig Iron Price, Scotch Pig for Great Britain",
+  "observation_start": "1874-01-01",
+  "observation_end": "1897-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Shillings per Ton",
+  "units_short": "Shillings Per Ton",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:39-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1874-1897 (2)--Original Data, 1886-1933. Pounds, Shillings, And Pence Were Converted To Shillings And Decimal Of Shilling By NBER. Quotations Wre Given Weekly, Dated Friday. The Last Weekly Quotation For Any Month (Or The Quotation Dated Up To And Including The Third Of The Following Month) Is The Figure Taken For That Month. The Series Covers The Years 1874-1897, When Scotch Pig Was Considered A Leading Type Of The Product. Source: Computed By NBER, Based On Data In The London Economist\n\nThis NBER data series m04012a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04012a"
+}

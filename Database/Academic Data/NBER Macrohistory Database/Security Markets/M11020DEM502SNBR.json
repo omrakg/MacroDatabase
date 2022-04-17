@@ -1,7 +1,7 @@
 {
   "id": "M11020DEM502SNBR",
-  "realtime_start": "2022-04-06",
-  "realtime_end": "2022-04-06",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
   "title": "Prices of Three and One Half Per Cent Government Bonds for Germany",
   "observation_start": "1877-07-01",
   "observation_end": "1925-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-15 15:02:06-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Figures Are Monthly Averages. Stocks Are 4% Through September, 1897. Source: Volkswirtschaftliche Chronik\n\nThis NBER data series m11020 appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11020"
 }

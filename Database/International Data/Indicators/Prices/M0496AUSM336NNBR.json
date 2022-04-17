@@ -1,0 +1,18 @@
+{
+  "id": "M0496AUSM336NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Index of Wholesale Price of Chemicals and Drugs for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:54:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1951 (2)--Original Data, 1947-1961. 33.4 Is Figure Given For January, 1897, In Bls Bulletin 543 But According To Average For The Year, The Quotation Has Been Corrected By NBER To 73.4. For Revised Data, 1933-1939, See Wholesale Prices, June 1940, In Survey Of Current Business, August, 1940, P.18. Revised Data, For October, 1941-December, 1944, Has Been Published Only In Bls Monthly Release On Wholesale Prices (Mimeographed) For January 1945, Or In 1947 Edition Of Handbook Of Labor Statistics (Bls Bulletin No. 916). Index On 1926 Base Discontinued After 1951. Next Variable Begins Index On 1947-1949 Base. Source: Bls Bulletin Nos. 543 (Pp. 3-11) For 1890-1925, 572 (Pp. 8-9) For 1926-1931, Bls Monthly Wholesale Prices For 1932-9/1941, 916 (Handbook Of Labor Statistics, 1947 Ed.) For October, 1941-1944 877, 920, 947, 973, 1007, 1083, For November, 1944-1950; Monthly Labor Reiew 1952 Edition, For 1951.\n\nThis NBER data series m04096a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04096a"
+}

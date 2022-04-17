@@ -1,0 +1,18 @@
+{
+  "id": "M04115DE00AGBM371NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Wholesale Price of Cotton Yarn for Augsburg, Germany",
+  "observation_start": "1879-01-01",
+  "observation_end": "1935-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Marks per Kilogram",
+  "units_short": "Marks Per Kilogram",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:16-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Refers To The Monthly Average Of Cotton Yarn From The Factory (1879-1909: 30 Days = 1% Discount, 90 Days = No Discount; 1910-1929: 30 Days = 2% Discount, 90 Days = No Discount; 1930-1935: 30 Days = 2% Discount, 60 Days = No Discount). For 1917 The Prices On Receipt Of Permit Of Purchase Refer To Yarn Transactions Of American Cotton. These Yarns Were Manufactured Only In Exceptional Cases Usually On Order Of The War Minister. Source: 1879-1891:\"Monatshefte Zur Statistik Des Deutschen Reichs\", December 1879, P.119, And Following December Issues; 1892-1935:\"Rierteljahrs Hefte Zur Statistik Des Deutschen Reichs\", 1893, Vol. 1, P. 41, And Yearly Thereafter.\n\nThis NBER data series m04115 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04115"
+}

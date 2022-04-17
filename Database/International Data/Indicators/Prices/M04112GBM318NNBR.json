@@ -1,0 +1,18 @@
+{
+  "id": "M04112GBM318NNBR",
+  "realtime_start": "2022-04-17",
+  "realtime_end": "2022-04-17",
+  "title": "Iron and Steel Exports Prices for Great Britain",
+  "observation_start": "1880-01-01",
+  "observation_end": "1913-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1900=100",
+  "units_short": "Index 1900=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:55:25-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Source: This Series Is Described In A.G. Silverman, \"Monthly Index Numbers Of British Export And Import Prices, 1880-1913\" In Review Of Economic Statistics, Vol. Xii, 3, 1930.\n\nThis NBER data series m04112 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04112"
+}
