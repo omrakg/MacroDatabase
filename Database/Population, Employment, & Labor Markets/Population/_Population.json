@@ -16,7 +16,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "This data series refers to China Version 2. Two estimates are provided for China and their rationale is discussed in the Detailed Documentation. One estimate is based mostly on ICP 2005 and national growth statistics and is labeled China1. China1 does incorporate a productivity adjustment that has been applied to all countries in ICP 2005. China2 also adjusts for the urban character of its prices in ICP 2005 and also adjusts the growth rate.\n\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLAEA173NUPN": {
     "id": "POPTTLAEA173NUPN",
@@ -35,7 +35,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLAFA173NUPN": {
     "id": "POPTTLAFA173NUPN",
@@ -54,7 +54,7 @@
     "popularity": 2,
     "group_popularity": 2,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLAGA173NUPN": {
     "id": "POPTTLAGA173NUPN",
@@ -73,7 +73,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLALA173NUPN": {
     "id": "POPTTLALA173NUPN",
@@ -92,7 +92,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLAMA173NUPN": {
     "id": "POPTTLAMA173NUPN",
@@ -111,7 +111,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLAOA173NUPN": {
     "id": "POPTTLAOA173NUPN",
@@ -130,7 +130,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLARA173NUPN": {
     "id": "POPTTLARA173NUPN",
@@ -149,7 +149,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLATA173NUPN": {
     "id": "POPTTLATA173NUPN",
@@ -168,7 +168,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLAUA173NUPN": {
     "id": "POPTTLAUA173NUPN",
@@ -187,7 +187,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLAZA173NUPN": {
     "id": "POPTTLAZA173NUPN",
@@ -206,7 +206,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBAA173NUPN": {
     "id": "POPTTLBAA173NUPN",
@@ -225,7 +225,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBBA173NUPN": {
     "id": "POPTTLBBA173NUPN",
@@ -244,7 +244,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBDA173NUPN": {
     "id": "POPTTLBDA173NUPN",
@@ -263,7 +263,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBEA173NUPN": {
     "id": "POPTTLBEA173NUPN",
@@ -282,7 +282,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBFA173NUPN": {
     "id": "POPTTLBFA173NUPN",
@@ -301,7 +301,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBGA173NUPN": {
     "id": "POPTTLBGA173NUPN",
@@ -320,7 +320,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBHA173NUPN": {
     "id": "POPTTLBHA173NUPN",
@@ -339,7 +339,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBIA173NUPN": {
     "id": "POPTTLBIA173NUPN",
@@ -358,7 +358,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBJA173NUPN": {
     "id": "POPTTLBJA173NUPN",
@@ -377,7 +377,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBMA173NUPN": {
     "id": "POPTTLBMA173NUPN",
@@ -396,7 +396,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBNA173NUPN": {
     "id": "POPTTLBNA173NUPN",
@@ -415,7 +415,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBOA173NUPN": {
     "id": "POPTTLBOA173NUPN",
@@ -434,7 +434,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBRA173NUPN": {
     "id": "POPTTLBRA173NUPN",
@@ -453,7 +453,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBSA173NUPN": {
     "id": "POPTTLBSA173NUPN",
@@ -472,7 +472,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBTA173NUPN": {
     "id": "POPTTLBTA173NUPN",
@@ -491,7 +491,7 @@
     "popularity": 3,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBWA173NUPN": {
     "id": "POPTTLBWA173NUPN",
@@ -510,7 +510,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBYA173NUPN": {
     "id": "POPTTLBYA173NUPN",
@@ -529,7 +529,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLBZA173NUPN": {
     "id": "POPTTLBZA173NUPN",
@@ -548,7 +548,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCAA173NUPN": {
     "id": "POPTTLCAA173NUPN",
@@ -567,7 +567,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCDA173NUPN": {
     "id": "POPTTLCDA173NUPN",
@@ -586,7 +586,7 @@
     "popularity": 3,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCFA173NUPN": {
     "id": "POPTTLCFA173NUPN",
@@ -605,7 +605,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCGA173NUPN": {
     "id": "POPTTLCGA173NUPN",
@@ -624,7 +624,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCHA173NUPN": {
     "id": "POPTTLCHA173NUPN",
@@ -643,7 +643,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCIA173NUPN": {
     "id": "POPTTLCIA173NUPN",
@@ -662,7 +662,7 @@
     "popularity": 0,
     "group_popularity": 0,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCLA173NUPN": {
     "id": "POPTTLCLA173NUPN",
@@ -681,7 +681,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCMA173NUPN": {
     "id": "POPTTLCMA173NUPN",
@@ -700,7 +700,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCNA173NUPN": {
     "id": "POPTTLCNA173NUPN",
@@ -719,7 +719,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "This data series refers to China Version 1. Two estimates are provided for China and their rationale is discussed in the Detailed Documentation. One estimate is based mostly on ICP 2005 and national growth statistics and is labeled China1. China1 does incorporate a productivity adjustment that has been applied to all countries in ICP 2005. China2 also adjusts for the urban character of its prices in ICP 2005 and also adjusts the growth rate.\n\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCOA173NUPN": {
     "id": "POPTTLCOA173NUPN",
@@ -738,7 +738,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCRA173NUPN": {
     "id": "POPTTLCRA173NUPN",
@@ -757,7 +757,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCUA173NUPN": {
     "id": "POPTTLCUA173NUPN",
@@ -776,7 +776,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCVA173NUPN": {
     "id": "POPTTLCVA173NUPN",
@@ -795,7 +795,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCYA173NUPN": {
     "id": "POPTTLCYA173NUPN",
@@ -814,7 +814,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLCZA173NUPN": {
     "id": "POPTTLCZA173NUPN",
@@ -833,7 +833,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLDEA173NUPN": {
     "id": "POPTTLDEA173NUPN",
@@ -852,7 +852,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLDJA173NUPN": {
     "id": "POPTTLDJA173NUPN",
@@ -871,7 +871,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLDKA173NUPN": {
     "id": "POPTTLDKA173NUPN",
@@ -890,7 +890,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLDMA173NUPN": {
     "id": "POPTTLDMA173NUPN",
@@ -909,7 +909,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLDOA173NUPN": {
     "id": "POPTTLDOA173NUPN",
@@ -928,7 +928,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLDZA173NUPN": {
     "id": "POPTTLDZA173NUPN",
@@ -947,7 +947,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLECA173NUPN": {
     "id": "POPTTLECA173NUPN",
@@ -966,7 +966,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLEEA173NUPN": {
     "id": "POPTTLEEA173NUPN",
@@ -985,7 +985,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLEGA173NUPN": {
     "id": "POPTTLEGA173NUPN",
@@ -1004,7 +1004,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLERA173NUPN": {
     "id": "POPTTLERA173NUPN",
@@ -1023,7 +1023,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLESA173NUPN": {
     "id": "POPTTLESA173NUPN",
@@ -1042,7 +1042,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLETA173NUPN": {
     "id": "POPTTLETA173NUPN",
@@ -1061,7 +1061,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLFIA173NUPN": {
     "id": "POPTTLFIA173NUPN",
@@ -1080,7 +1080,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLFJA173NUPN": {
     "id": "POPTTLFJA173NUPN",
@@ -1099,7 +1099,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLFMA173NUPN": {
     "id": "POPTTLFMA173NUPN",
@@ -1118,7 +1118,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLFRA173NUPN": {
     "id": "POPTTLFRA173NUPN",
@@ -1137,7 +1137,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGAA173NUPN": {
     "id": "POPTTLGAA173NUPN",
@@ -1156,7 +1156,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGBA173NUPN": {
     "id": "POPTTLGBA173NUPN",
@@ -1175,7 +1175,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGDA173NUPN": {
     "id": "POPTTLGDA173NUPN",
@@ -1194,7 +1194,7 @@
     "popularity": 2,
     "group_popularity": 2,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGEA173NUPN": {
     "id": "POPTTLGEA173NUPN",
@@ -1213,7 +1213,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGHA173NUPN": {
     "id": "POPTTLGHA173NUPN",
@@ -1232,7 +1232,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGMA173NUPN": {
     "id": "POPTTLGMA173NUPN",
@@ -1251,7 +1251,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGNA173NUPN": {
     "id": "POPTTLGNA173NUPN",
@@ -1270,7 +1270,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGQA173NUPN": {
     "id": "POPTTLGQA173NUPN",
@@ -1289,7 +1289,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGRA173NUPN": {
     "id": "POPTTLGRA173NUPN",
@@ -1308,7 +1308,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGTA173NUPN": {
     "id": "POPTTLGTA173NUPN",
@@ -1327,7 +1327,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGWA173NUPN": {
     "id": "POPTTLGWA173NUPN",
@@ -1346,7 +1346,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLGYA173NUPN": {
     "id": "POPTTLGYA173NUPN",
@@ -1365,7 +1365,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLHKA173NUPN": {
     "id": "POPTTLHKA173NUPN",
@@ -1384,7 +1384,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLHNA173NUPN": {
     "id": "POPTTLHNA173NUPN",
@@ -1403,7 +1403,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLHRA173NUPN": {
     "id": "POPTTLHRA173NUPN",
@@ -1422,7 +1422,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLHTA173NUPN": {
     "id": "POPTTLHTA173NUPN",
@@ -1441,7 +1441,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLHUA173NUPN": {
     "id": "POPTTLHUA173NUPN",
@@ -1460,7 +1460,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLIDA173NUPN": {
     "id": "POPTTLIDA173NUPN",
@@ -1479,7 +1479,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLIEA173NUPN": {
     "id": "POPTTLIEA173NUPN",
@@ -1498,7 +1498,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLILA173NUPN": {
     "id": "POPTTLILA173NUPN",
@@ -1517,7 +1517,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLINA173NUPN": {
     "id": "POPTTLINA173NUPN",
@@ -1536,7 +1536,7 @@
     "popularity": 4,
     "group_popularity": 4,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLIQA173NUPN": {
     "id": "POPTTLIQA173NUPN",
@@ -1555,7 +1555,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLIRA173NUPN": {
     "id": "POPTTLIRA173NUPN",
@@ -1574,7 +1574,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLISA173NUPN": {
     "id": "POPTTLISA173NUPN",
@@ -1593,7 +1593,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLITA173NUPN": {
     "id": "POPTTLITA173NUPN",
@@ -1612,7 +1612,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLJMA173NUPN": {
     "id": "POPTTLJMA173NUPN",
@@ -1631,7 +1631,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLJOA173NUPN": {
     "id": "POPTTLJOA173NUPN",
@@ -1650,7 +1650,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLJPA173NUPN": {
     "id": "POPTTLJPA173NUPN",
@@ -1669,7 +1669,7 @@
     "popularity": 1,
     "group_popularity": 4,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKEA173NUPN": {
     "id": "POPTTLKEA173NUPN",
@@ -1688,7 +1688,7 @@
     "popularity": 1,
     "group_popularity": 2,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKGA173NUPN": {
     "id": "POPTTLKGA173NUPN",
@@ -1707,7 +1707,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKHA173NUPN": {
     "id": "POPTTLKHA173NUPN",
@@ -1726,7 +1726,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKIA173NUPN": {
     "id": "POPTTLKIA173NUPN",
@@ -1745,7 +1745,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKMA173NUPN": {
     "id": "POPTTLKMA173NUPN",
@@ -1764,7 +1764,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKNA173NUPN": {
     "id": "POPTTLKNA173NUPN",
@@ -1783,7 +1783,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKRA173NUPN": {
     "id": "POPTTLKRA173NUPN",
@@ -1802,7 +1802,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKWA173NUPN": {
     "id": "POPTTLKWA173NUPN",
@@ -1821,7 +1821,7 @@
     "popularity": 1,
     "group_popularity": 2,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLKZA173NUPN": {
     "id": "POPTTLKZA173NUPN",
@@ -1840,7 +1840,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLAA173NUPN": {
     "id": "POPTTLLAA173NUPN",
@@ -1859,7 +1859,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLBA173NUPN": {
     "id": "POPTTLLBA173NUPN",
@@ -1878,7 +1878,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLCA173NUPN": {
     "id": "POPTTLLCA173NUPN",
@@ -1897,7 +1897,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLKA173NUPN": {
     "id": "POPTTLLKA173NUPN",
@@ -1916,7 +1916,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLRA173NUPN": {
     "id": "POPTTLLRA173NUPN",
@@ -1935,7 +1935,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLSA173NUPN": {
     "id": "POPTTLLSA173NUPN",
@@ -1954,7 +1954,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLTA173NUPN": {
     "id": "POPTTLLTA173NUPN",
@@ -1973,7 +1973,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLUA173NUPN": {
     "id": "POPTTLLUA173NUPN",
@@ -1992,7 +1992,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLVA173NUPN": {
     "id": "POPTTLLVA173NUPN",
@@ -2011,7 +2011,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLLYA173NUPN": {
     "id": "POPTTLLYA173NUPN",
@@ -2030,7 +2030,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMAA173NUPN": {
     "id": "POPTTLMAA173NUPN",
@@ -2049,7 +2049,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMDA173NUPN": {
     "id": "POPTTLMDA173NUPN",
@@ -2068,7 +2068,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMEA173NUPN": {
     "id": "POPTTLMEA173NUPN",
@@ -2087,7 +2087,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMGA173NUPN": {
     "id": "POPTTLMGA173NUPN",
@@ -2106,7 +2106,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMHA173NUPN": {
     "id": "POPTTLMHA173NUPN",
@@ -2125,7 +2125,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMKA173NUPN": {
     "id": "POPTTLMKA173NUPN",
@@ -2144,7 +2144,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMLA173NUPN": {
     "id": "POPTTLMLA173NUPN",
@@ -2163,7 +2163,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMNA173NUPN": {
     "id": "POPTTLMNA173NUPN",
@@ -2182,7 +2182,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMOA173NUPN": {
     "id": "POPTTLMOA173NUPN",
@@ -2201,7 +2201,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMRA173NUPN": {
     "id": "POPTTLMRA173NUPN",
@@ -2220,7 +2220,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMTA173NUPN": {
     "id": "POPTTLMTA173NUPN",
@@ -2239,7 +2239,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMUA173NUPN": {
     "id": "POPTTLMUA173NUPN",
@@ -2258,7 +2258,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMVA173NUPN": {
     "id": "POPTTLMVA173NUPN",
@@ -2277,7 +2277,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMWA173NUPN": {
     "id": "POPTTLMWA173NUPN",
@@ -2296,7 +2296,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMXA173NUPN": {
     "id": "POPTTLMXA173NUPN",
@@ -2315,7 +2315,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMYA173NUPN": {
     "id": "POPTTLMYA173NUPN",
@@ -2334,7 +2334,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLMZA173NUPN": {
     "id": "POPTTLMZA173NUPN",
@@ -2353,7 +2353,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLNAA173NUPN": {
     "id": "POPTTLNAA173NUPN",
@@ -2372,7 +2372,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLNEA173NUPN": {
     "id": "POPTTLNEA173NUPN",
@@ -2391,7 +2391,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLNGA173NUPN": {
     "id": "POPTTLNGA173NUPN",
@@ -2410,7 +2410,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLNIA173NUPN": {
     "id": "POPTTLNIA173NUPN",
@@ -2429,7 +2429,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLNLA173NUPN": {
     "id": "POPTTLNLA173NUPN",
@@ -2448,7 +2448,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLNOA173NUPN": {
     "id": "POPTTLNOA173NUPN",
@@ -2467,7 +2467,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLNPA173NUPN": {
     "id": "POPTTLNPA173NUPN",
@@ -2486,7 +2486,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLNZA173NUPN": {
     "id": "POPTTLNZA173NUPN",
@@ -2505,7 +2505,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLOMA173NUPN": {
     "id": "POPTTLOMA173NUPN",
@@ -2524,7 +2524,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPAA173NUPN": {
     "id": "POPTTLPAA173NUPN",
@@ -2543,7 +2543,7 @@
     "popularity": 1,
     "group_popularity": 2,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPEA173NUPN": {
     "id": "POPTTLPEA173NUPN",
@@ -2562,7 +2562,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPGA173NUPN": {
     "id": "POPTTLPGA173NUPN",
@@ -2581,7 +2581,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPHA173NUPN": {
     "id": "POPTTLPHA173NUPN",
@@ -2600,7 +2600,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPKA173NUPN": {
     "id": "POPTTLPKA173NUPN",
@@ -2619,7 +2619,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPLA173NUPN": {
     "id": "POPTTLPLA173NUPN",
@@ -2638,7 +2638,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPRA173NUPN": {
     "id": "POPTTLPRA173NUPN",
@@ -2657,7 +2657,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPTA173NUPN": {
     "id": "POPTTLPTA173NUPN",
@@ -2676,7 +2676,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPWA173NUPN": {
     "id": "POPTTLPWA173NUPN",
@@ -2695,7 +2695,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLPYA173NUPN": {
     "id": "POPTTLPYA173NUPN",
@@ -2714,7 +2714,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLQAA173NUPN": {
     "id": "POPTTLQAA173NUPN",
@@ -2733,7 +2733,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLROA173NUPN": {
     "id": "POPTTLROA173NUPN",
@@ -2752,7 +2752,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLRSA173NUPN": {
     "id": "POPTTLRSA173NUPN",
@@ -2771,7 +2771,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLRUA173NUPN": {
     "id": "POPTTLRUA173NUPN",
@@ -2790,7 +2790,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLRWA173NUPN": {
     "id": "POPTTLRWA173NUPN",
@@ -2809,7 +2809,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSAA173NUPN": {
     "id": "POPTTLSAA173NUPN",
@@ -2828,7 +2828,7 @@
     "popularity": 1,
     "group_popularity": 2,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSBA173NUPN": {
     "id": "POPTTLSBA173NUPN",
@@ -2847,7 +2847,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSCA173NUPN": {
     "id": "POPTTLSCA173NUPN",
@@ -2866,7 +2866,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSDA173NUPN": {
     "id": "POPTTLSDA173NUPN",
@@ -2885,7 +2885,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSEA173NUPN": {
     "id": "POPTTLSEA173NUPN",
@@ -2904,7 +2904,7 @@
     "popularity": 1,
     "group_popularity": 2,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSGA173NUPN": {
     "id": "POPTTLSGA173NUPN",
@@ -2923,7 +2923,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSIA173NUPN": {
     "id": "POPTTLSIA173NUPN",
@@ -2942,7 +2942,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSKA173NUPN": {
     "id": "POPTTLSKA173NUPN",
@@ -2961,7 +2961,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSLA173NUPN": {
     "id": "POPTTLSLA173NUPN",
@@ -2980,7 +2980,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSNA173NUPN": {
     "id": "POPTTLSNA173NUPN",
@@ -2999,7 +2999,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSOA173NUPN": {
     "id": "POPTTLSOA173NUPN",
@@ -3018,7 +3018,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSRA173NUPN": {
     "id": "POPTTLSRA173NUPN",
@@ -3037,7 +3037,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSTA173NUPN": {
     "id": "POPTTLSTA173NUPN",
@@ -3056,7 +3056,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSVA173NUPN": {
     "id": "POPTTLSVA173NUPN",
@@ -3075,7 +3075,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSYA173NUPN": {
     "id": "POPTTLSYA173NUPN",
@@ -3094,7 +3094,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLSZA173NUPN": {
     "id": "POPTTLSZA173NUPN",
@@ -3113,7 +3113,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTDA173NUPN": {
     "id": "POPTTLTDA173NUPN",
@@ -3132,7 +3132,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTGA173NUPN": {
     "id": "POPTTLTGA173NUPN",
@@ -3151,7 +3151,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTHA173NUPN": {
     "id": "POPTTLTHA173NUPN",
@@ -3170,7 +3170,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTJA173NUPN": {
     "id": "POPTTLTJA173NUPN",
@@ -3189,7 +3189,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTLA173NUPN": {
     "id": "POPTTLTLA173NUPN",
@@ -3208,7 +3208,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTMA173NUPN": {
     "id": "POPTTLTMA173NUPN",
@@ -3227,7 +3227,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTNA173NUPN": {
     "id": "POPTTLTNA173NUPN",
@@ -3246,7 +3246,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTOA173NUPN": {
     "id": "POPTTLTOA173NUPN",
@@ -3265,7 +3265,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTRA173NUPN": {
     "id": "POPTTLTRA173NUPN",
@@ -3284,7 +3284,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTTA173NUPN": {
     "id": "POPTTLTTA173NUPN",
@@ -3303,7 +3303,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTWA173NUPN": {
     "id": "POPTTLTWA173NUPN",
@@ -3322,7 +3322,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLTZA173NUPN": {
     "id": "POPTTLTZA173NUPN",
@@ -3341,7 +3341,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLUAA173NUPN": {
     "id": "POPTTLUAA173NUPN",
@@ -3360,7 +3360,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLUGA173NUPN": {
     "id": "POPTTLUGA173NUPN",
@@ -3379,7 +3379,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLUSA173NUPN": {
     "id": "POPTTLUSA173NUPN",
@@ -3398,7 +3398,7 @@
     "popularity": 2,
     "group_popularity": 5,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLUYA173NUPN": {
     "id": "POPTTLUYA173NUPN",
@@ -3417,7 +3417,7 @@
     "popularity": 0,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLUZA173NUPN": {
     "id": "POPTTLUZA173NUPN",
@@ -3436,7 +3436,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLVCA173NUPN": {
     "id": "POPTTLVCA173NUPN",
@@ -3455,7 +3455,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLVEA173NUPN": {
     "id": "POPTTLVEA173NUPN",
@@ -3474,7 +3474,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLVNA173NUPN": {
     "id": "POPTTLVNA173NUPN",
@@ -3493,7 +3493,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLVUA173NUPN": {
     "id": "POPTTLVUA173NUPN",
@@ -3512,7 +3512,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLWSA173NUPN": {
     "id": "POPTTLWSA173NUPN",
@@ -3531,7 +3531,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLYEA173NUPN": {
     "id": "POPTTLYEA173NUPN",
@@ -3550,7 +3550,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLZAA173NUPN": {
     "id": "POPTTLZAA173NUPN",
@@ -3569,7 +3569,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLZMA173NUPN": {
     "id": "POPTTLZMA173NUPN",
@@ -3588,7 +3588,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   },
   "POPTTLZWA173NUPN": {
     "id": "POPTTLZWA173NUPN",
@@ -3607,6 +3607,6 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
-    "path": "../Database/Population, Employment, & Labor Markets/Population"
+    "path": "Database/Population, Employment, & Labor Markets/Population"
   }
 }

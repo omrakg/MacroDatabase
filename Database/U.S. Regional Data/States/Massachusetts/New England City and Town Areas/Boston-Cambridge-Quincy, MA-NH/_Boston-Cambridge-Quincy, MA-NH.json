@@ -16,7 +16,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625EDUHN).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625EDUHN": {
     "id": "BOST625EDUHN",
@@ -34,7 +34,7 @@
     "last_updated": "2022-03-26 03:49:00-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625FIRE": {
     "id": "BOST625FIRE",
@@ -53,7 +53,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625FIREN).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625FIREN": {
     "id": "BOST625FIREN",
@@ -71,7 +71,7 @@
     "last_updated": "2022-03-26 03:48:58-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625GOVT": {
     "id": "BOST625GOVT",
@@ -90,7 +90,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625GOVTN).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625GOVTN": {
     "id": "BOST625GOVTN",
@@ -108,7 +108,7 @@
     "last_updated": "2022-03-26 03:48:57-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625INFO": {
     "id": "BOST625INFO",
@@ -127,7 +127,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625INFON).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625INFON": {
     "id": "BOST625INFON",
@@ -145,7 +145,7 @@
     "last_updated": "2022-03-26 03:48:58-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625LEIH": {
     "id": "BOST625LEIH",
@@ -164,7 +164,7 @@
     "popularity": 1,
     "group_popularity": 2,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625LEIHN).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625LEIHN": {
     "id": "BOST625LEIHN",
@@ -182,7 +182,7 @@
     "last_updated": "2022-03-26 03:48:57-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625LF": {
     "id": "BOST625LF",
@@ -200,7 +200,7 @@
     "last_updated": "2022-03-18 17:15:21-05",
     "popularity": 3,
     "group_popularity": 4,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625LFN": {
     "id": "BOST625LFN",
@@ -218,7 +218,7 @@
     "last_updated": "2022-03-18 17:26:24-05",
     "popularity": 2,
     "group_popularity": 4,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625MFG": {
     "id": "BOST625MFG",
@@ -237,7 +237,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625MFGN).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625MFGN": {
     "id": "BOST625MFGN",
@@ -255,7 +255,7 @@
     "last_updated": "2022-03-26 03:48:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625NA": {
     "id": "BOST625NA",
@@ -273,7 +273,7 @@
     "last_updated": "2022-03-26 03:28:14-05",
     "popularity": 4,
     "group_popularity": 5,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625NAN": {
     "id": "BOST625NAN",
@@ -291,7 +291,7 @@
     "last_updated": "2022-03-26 03:20:06-05",
     "popularity": 2,
     "group_popularity": 5,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625PBSV": {
     "id": "BOST625PBSV",
@@ -310,7 +310,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625PBSVN).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625PBSVN": {
     "id": "BOST625PBSVN",
@@ -328,7 +328,7 @@
     "last_updated": "2022-03-26 03:48:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625PCPI": {
     "id": "BOST625PCPI",
@@ -346,7 +346,7 @@
     "last_updated": "2021-11-16 07:38:03-06",
     "popularity": 14,
     "group_popularity": 14,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625SRVO": {
     "id": "BOST625SRVO",
@@ -365,7 +365,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625SRVON).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625SRVON": {
     "id": "BOST625SRVON",
@@ -383,7 +383,7 @@
     "last_updated": "2022-03-26 03:48:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625TRAD": {
     "id": "BOST625TRAD",
@@ -402,7 +402,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/BOST625TRADN).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625TRADN": {
     "id": "BOST625TRADN",
@@ -420,7 +420,7 @@
     "last_updated": "2022-03-26 03:48:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625UR": {
     "id": "BOST625UR",
@@ -438,7 +438,7 @@
     "last_updated": "2022-03-18 17:14:33-05",
     "popularity": 4,
     "group_popularity": 26,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "BOST625URN": {
     "id": "BOST625URN",
@@ -456,7 +456,7 @@
     "last_updated": "2022-03-18 17:23:04-05",
     "popularity": 25,
     "group_popularity": 26,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMS25716500000000026": {
     "id": "SMS25716500000000026",
@@ -474,7 +474,7 @@
     "last_updated": "2022-03-26 04:10:12-05",
     "popularity": 1,
     "group_popularity": 5,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500000000001A": {
     "id": "SMU25716500000000001A",
@@ -492,7 +492,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 1,
     "group_popularity": 5,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000001": {
     "id": "SMU25716500500000001",
@@ -510,7 +510,7 @@
     "last_updated": "2022-03-26 03:47:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000001A": {
     "id": "SMU25716500500000001A",
@@ -528,7 +528,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 0,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000001SA": {
     "id": "SMU25716500500000001SA",
@@ -547,7 +547,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716500500000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000002": {
     "id": "SMU25716500500000002",
@@ -565,7 +565,7 @@
     "last_updated": "2022-03-26 03:47:13-05",
     "popularity": 1,
     "group_popularity": 3,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000002A": {
     "id": "SMU25716500500000002A",
@@ -583,7 +583,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000002SA": {
     "id": "SMU25716500500000002SA",
@@ -602,7 +602,7 @@
     "popularity": 1,
     "group_popularity": 3,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716500500000002).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000003": {
     "id": "SMU25716500500000003",
@@ -620,7 +620,7 @@
     "last_updated": "2022-03-26 03:47:13-05",
     "popularity": 1,
     "group_popularity": 3,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000003A": {
     "id": "SMU25716500500000003A",
@@ -638,7 +638,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 1,
     "group_popularity": 3,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000003SA": {
     "id": "SMU25716500500000003SA",
@@ -657,7 +657,7 @@
     "popularity": 3,
     "group_popularity": 3,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716500500000003).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000011": {
     "id": "SMU25716500500000011",
@@ -675,7 +675,7 @@
     "last_updated": "2022-03-26 03:47:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000011A": {
     "id": "SMU25716500500000011A",
@@ -693,7 +693,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500500000011SA": {
     "id": "SMU25716500500000011SA",
@@ -712,7 +712,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716500500000011).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500600000001": {
     "id": "SMU25716500600000001",
@@ -730,7 +730,7 @@
     "last_updated": "2022-03-26 03:47:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500600000001A": {
     "id": "SMU25716500600000001A",
@@ -748,7 +748,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500600000001SA": {
     "id": "SMU25716500600000001SA",
@@ -767,7 +767,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716500600000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500700000001": {
     "id": "SMU25716500700000001",
@@ -785,7 +785,7 @@
     "last_updated": "2022-03-26 03:47:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500700000001A": {
     "id": "SMU25716500700000001A",
@@ -803,7 +803,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500700000001SA": {
     "id": "SMU25716500700000001SA",
@@ -822,7 +822,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716500700000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500800000001": {
     "id": "SMU25716500800000001",
@@ -840,7 +840,7 @@
     "last_updated": "2022-03-26 03:47:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500800000001A": {
     "id": "SMU25716500800000001A",
@@ -858,7 +858,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 0,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716500800000001SA": {
     "id": "SMU25716500800000001SA",
@@ -877,7 +877,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716500800000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716501500000001": {
     "id": "SMU25716501500000001",
@@ -895,7 +895,7 @@
     "last_updated": "2022-03-26 03:20:04-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716501500000001A": {
     "id": "SMU25716501500000001A",
@@ -913,7 +913,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716501500000001SA": {
     "id": "SMU25716501500000001SA",
@@ -932,7 +932,7 @@
     "popularity": 2,
     "group_popularity": 2,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716501500000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716503000000001A": {
     "id": "SMU25716503000000001A",
@@ -950,7 +950,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716504000000001A": {
     "id": "SMU25716504000000001A",
@@ -968,7 +968,7 @@
     "last_updated": "2022-03-15 05:36:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716505000000001A": {
     "id": "SMU25716505000000001A",
@@ -986,7 +986,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716505500000001A": {
     "id": "SMU25716505500000001A",
@@ -1004,7 +1004,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716506000000001A": {
     "id": "SMU25716506000000001A",
@@ -1022,7 +1022,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716506500000001A": {
     "id": "SMU25716506500000001A",
@@ -1040,7 +1040,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716507000000001A": {
     "id": "SMU25716507000000001A",
@@ -1058,7 +1058,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716508000000001A": {
     "id": "SMU25716508000000001A",
@@ -1076,7 +1076,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509000000001A": {
     "id": "SMU25716509000000001A",
@@ -1094,7 +1094,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509091000001": {
     "id": "SMU25716509091000001",
@@ -1112,7 +1112,7 @@
     "last_updated": "2022-03-26 03:47:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509091000001A": {
     "id": "SMU25716509091000001A",
@@ -1130,7 +1130,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509091000001SA": {
     "id": "SMU25716509091000001SA",
@@ -1149,7 +1149,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716509091000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509092000001": {
     "id": "SMU25716509092000001",
@@ -1167,7 +1167,7 @@
     "last_updated": "2022-03-26 03:47:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509092000001A": {
     "id": "SMU25716509092000001A",
@@ -1185,7 +1185,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509092000001SA": {
     "id": "SMU25716509092000001SA",
@@ -1204,7 +1204,7 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716509092000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509093000001": {
     "id": "SMU25716509093000001",
@@ -1222,7 +1222,7 @@
     "last_updated": "2022-03-26 03:47:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509093000001A": {
     "id": "SMU25716509093000001A",
@@ -1240,7 +1240,7 @@
     "last_updated": "2022-03-15 05:36:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   },
   "SMU25716509093000001SA": {
     "id": "SMU25716509093000001SA",
@@ -1259,6 +1259,6 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU25716509093000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
-    "path": "../Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
+    "path": "Database/U.S. Regional Data/States/Massachusetts/New England City and Town Areas/Boston-Cambridge-Quincy, MA-NH"
   }
 }

@@ -1,8 +1,8 @@
 {
   "EXP0016": {
     "id": "EXP0016",
-    "realtime_start": "2022-04-06",
-    "realtime_end": "2022-04-06",
+    "realtime_start": "2022-04-17",
+    "realtime_end": "2022-04-17",
     "title": "U.S. Exports of Goods by F.A.S. Basis to Asia",
     "observation_start": "1985-01-01",
     "observation_end": "2022-02-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-04-05 07:52:53-05",
-    "popularity": 5,
-    "group_popularity": 5,
+    "popularity": 2,
+    "group_popularity": 2,
     "notes": "Further information related to the international trade data can be found at\u00a0https://www.census.gov/foreign-trade/data/index.html\nMethodology details can be found at\u00a0https://www.census.gov/foreign-trade/Press-Release/current_press_release/explain.pdf",
-    "path": "../Database/International Data/Geography/Asia"
+    "path": "Database/International Data/Geography/Asia"
   },
   "IMP0016": {
     "id": "IMP0016",
-    "realtime_start": "2022-04-06",
-    "realtime_end": "2022-04-06",
+    "realtime_start": "2022-04-17",
+    "realtime_end": "2022-04-17",
     "title": "U.S. Imports of Goods by Customs Basis from Asia",
     "observation_start": "1985-01-01",
     "observation_end": "2022-02-01",
@@ -32,9 +32,9 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-04-05 07:52:07-05",
-    "popularity": 7,
-    "group_popularity": 7,
+    "popularity": 4,
+    "group_popularity": 4,
     "notes": "Free Alongside Ship Basis (f.a.s.)\nFurther information related to the international trade data can be found at\u00a0https://www.census.gov/foreign-trade/data/index.html\nMethodology details can be found at\u00a0https://www.census.gov/foreign-trade/Press-Release/current_press_release/explain.pdf",
-    "path": "../Database/International Data/Geography/Asia"
+    "path": "Database/International Data/Geography/Asia"
   }
 }
