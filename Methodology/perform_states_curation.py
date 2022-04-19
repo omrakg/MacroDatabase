@@ -39,7 +39,10 @@ previous_frequency = None
 previous_seasonal_adjustment = None
 
 for state in STATES:
-    dataset[state] = json.load(open(f"{path_str}/U.S. Regional Data/States/{state}/_{state}.json", "r"))
+    try:
+        dataset[state] = json.load(open(f"{path_str}/U.S. Regional Data/States/{state}/_{state}.json", "r"))
+    except FileNotFoundError:
+        continue
 
     if not dataset[state]:
         print(f"Deleting {state} because the dictionary is empty.")
