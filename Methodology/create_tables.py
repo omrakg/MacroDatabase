@@ -51,9 +51,12 @@ for table_location in [path_str]:
                 else:
                     all_json_name = f"_{name}.json"
 
+                try:
+                    all_json_data = json.load(open(f"{path}/{all_json_name}", "r"))
+                except FileNotFoundError:
+                    continue
+                    
                 print(f"Creating Series README for {name} ({path})")
-
-                all_json_data = json.load(open(f"{path}/{all_json_name}", "r"))
 
                 if all_json_data:
                     df = pd.DataFrame.from_dict(all_json_data, orient='index')
