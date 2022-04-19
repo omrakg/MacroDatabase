@@ -39,7 +39,10 @@ previous_frequency = None
 previous_seasonal_adjustment = None
 
 for country in COUNTRIES:
-    dataset[country] = json.load(open(f"{path_str}/International Data/Countries/{country}/_{country}.json", "r"))
+    try:
+        dataset[country] = json.load(open(f"{path_str}/International Data/Countries/{country}/_{country}.json", "r"))
+    except FileNotFoundError:
+        continue
 
 # Create country macro data
 for country_1 in tqdm(dataset, desc="Collecting country options"):
