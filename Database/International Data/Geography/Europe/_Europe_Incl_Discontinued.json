@@ -1,8 +1,8 @@
 {
   "EXP0012": {
     "id": "EXP0012",
-    "realtime_start": "2022-04-17",
-    "realtime_end": "2022-04-17",
+    "realtime_start": "2022-04-24",
+    "realtime_end": "2022-04-24",
     "title": "U.S. Exports of Goods by F.A.S. Basis to Europe",
     "observation_start": "1997-01-01",
     "observation_end": "2022-02-01",
@@ -20,8 +20,8 @@
   },
   "IMP0012": {
     "id": "IMP0012",
-    "realtime_start": "2022-04-17",
-    "realtime_end": "2022-04-17",
+    "realtime_start": "2022-04-24",
+    "realtime_end": "2022-04-24",
     "title": "U.S. Imports of Goods by Customs Basis from Europe",
     "observation_start": "1997-01-01",
     "observation_end": "2022-02-01",
