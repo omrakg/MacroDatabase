@@ -1,2 +1,14 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                                                   | observation_start   | observation_end   |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CSCICP02CAA661N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Canada (DISCONTINUED)            | 2002-01-01          | 2014-01-01        |
+| CSCICP02CAM661N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Canada (DISCONTINUED)            | 2002-01-01          | 2014-12-01        |
+| CSCICP02CAQ661N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Canada (DISCONTINUED)            | 1980-01-01          | 2014-10-01        |
+| CSCICP02MXA066N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Mexico (DISCONTINUED)            | 2002-01-01          | 2012-01-01        |
+| CSCICP02MXM066N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Mexico (DISCONTINUED)            | 2001-04-01          | 2013-08-01        |
+| CSCICP02NZQ665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for New Zealand (DISCONTINUED)       | 1988-04-01          | 2015-07-01        |
+| CSCICP02USM661S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the United States (DISCONTINUED) | 1978-01-01          | 2013-08-01        |
+| CSCICP02ZAQ460N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for South Africa (DISCONTINUED)      | 1990-01-01          | 2013-04-01        |
+| CSCICP03CAM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Canada (DISCONTINUED)                                         | 1980-01-01          | 2017-12-01        |
+| CSCICP03G7M665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Group of Seven (DISCONTINUED)                             | 1973-01-01          | 2017-11-01        |
+| CSCICP03O1M665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD Total Area (DISCONTINUED)                            | 1974-01-01          | 2017-11-01        |
+| CSCICP03OEM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD Europe (DISCONTINUED)                                | 1974-01-01          | 2017-11-01        |

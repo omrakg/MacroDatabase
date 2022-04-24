@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Noble County, OH      |                 0 |
+| Noble County, OH      |                90 |
 | Jefferson County, OH  |               147 |
 | Lorain County, OH     |               147 |
 | Morrow County, OH     |                90 |
@@ -10,7 +10,7 @@
 | Scioto County, OH     |               147 |
 | Crawford County, OH   |                90 |
 | Brown County, OH      |                90 |
-| Pickaway County, OH   |               145 |
+| Pickaway County, OH   |                 0 |
 | Williams County, OH   |                90 |
 | Perry County, OH      |                90 |
 | Erie County, OH       |               147 |
@@ -60,7 +60,7 @@
 | Montgomery County, OH |               147 |
 | Allen County, OH      |               147 |
 | Licking County, OH    |               147 |
-| Madison County, OH    |                 0 |
+| Madison County, OH    |                90 |
 | Adams County, OH      |                90 |
 | Highland County, OH   |                89 |
 | Logan County, OH      |                90 |
@@ -70,7 +70,7 @@
 | Champaign County, OH  |                90 |
 | Franklin County, OH   |               147 |
 | Washington County, OH |               146 |
-| Preble County, OH     |                90 |
+| Preble County, OH     |                 0 |
 | Gallia County, OH     |                89 |
 | Mercer County, OH     |                90 |
 | Trumbull County, OH   |               147 |

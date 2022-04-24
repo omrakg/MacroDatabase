@@ -15,10 +15,10 @@
 | Monroe County, TN     |                90 |
 | Henderson County, TN  |                89 |
 | Trousdale County, TN  |                90 |
-| Campbell County, TN   |                90 |
+| Campbell County, TN   |                 0 |
 | White County, TN      |                90 |
 | Cumberland County, TN |               146 |
-| Polk County, TN       |                 0 |
+| Polk County, TN       |                89 |
 | Claiborne County, TN  |                89 |
 | Cocke County, TN      |                90 |
 | Rhea County, TN       |                90 |
@@ -75,7 +75,7 @@
 | Blount County, TN     |               147 |
 | Johnson County, TN    |                88 |
 | Marshall County, TN   |                90 |
-| Sullivan County, TN   |               147 |
+| Sullivan County, TN   |                 0 |
 | Rutherford County, TN |               147 |
 | Sumner County, TN     |               147 |
 | Union County, TN      |                90 |

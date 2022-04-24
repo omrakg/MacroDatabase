@@ -30,7 +30,7 @@
 | Talbot County, GA        |                88 |
 | Rabun County, GA         |                90 |
 | Towns County, GA         |                89 |
-| Tift County, GA          |                 0 |
+| Tift County, GA          |                90 |
 | Decatur County, GA       |                89 |
 | Union County, GA         |                90 |
 | Clayton County, GA       |               147 |
@@ -40,7 +40,7 @@
 | Burke County, GA         |                90 |
 | Brooks County, GA        |                89 |
 | Terrell County, GA       |                88 |
-| Fannin County, GA        |                90 |
+| Fannin County, GA        |                 0 |
 | Worth County, GA         |                90 |
 | Murray County, GA        |                90 |
 | Jones County, GA         |                90 |
@@ -100,7 +100,7 @@
 | Pickens County, GA       |                90 |
 | Habersham County, GA     |                90 |
 | Jeff Davis County, GA    |                90 |
-| Camden County, GA        |               146 |
+| Camden County, GA        |                 0 |
 | Upson County, GA         |                90 |
 | Twiggs County, GA        |                88 |
 | Pierce County, GA        |                89 |
@@ -130,7 +130,7 @@
 | Thomas County, GA        |                90 |
 | Taylor County, GA        |                88 |
 | Johnson County, GA       |                88 |
-| Rockdale County, GA      |                 0 |
+| Rockdale County, GA      |               147 |
 | Toombs County, GA        |                89 |
 | Barrow County, GA        |               147 |
 | Lincoln County, GA       |                89 |

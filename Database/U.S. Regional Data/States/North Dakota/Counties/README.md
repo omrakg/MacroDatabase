@@ -24,7 +24,7 @@
 | Emmons County, ND        |                88 |
 | Logan County, ND         |                89 |
 | Stutsman County, ND      |                90 |
-| Burke County, ND         |                87 |
+| Burke County, ND         |                 0 |
 | Pembina County, ND       |                89 |
 | Bowman County, ND        |                89 |
 | Cass County, ND          |               147 |

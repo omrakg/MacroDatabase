@@ -27,7 +27,7 @@
 | York County, PA                |               147 |
 | Beaver County, PA              |               145 |
 | Jefferson County, PA           |                90 |
-| Lebanon County, PA             |               145 |
+| Lebanon County, PA             |                 0 |
 | Cumberland County, PA          |               147 |
 | Lancaster County, PA           |               146 |
 | Centre County, PA              |               147 |
@@ -45,7 +45,7 @@
 | Allegheny County, PA           |               145 |
 | Delaware County, PA            |               107 |
 | McKean County, PA              |                87 |
-| Cambria County, PA             |                 0 |
+| Cambria County, PA             |               146 |
 | Sullivan County, PA            |                88 |
 | Montgomery County, PA          |               147 |
 | Somerset County, PA            |               144 |

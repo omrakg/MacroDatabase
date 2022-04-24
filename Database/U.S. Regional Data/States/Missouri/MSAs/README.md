@@ -6,5 +6,5 @@
 | Kansas City, MO-KS    |                 0 |
 | Joplin, MO            |               149 |
 | Columbia, MO          |               135 |
-| Springfield, MO       |                 0 |
+| Springfield, MO       |               182 |
 | St. Louis, MO-IL      |                 0 |

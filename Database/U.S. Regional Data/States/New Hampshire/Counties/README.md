@@ -9,4 +9,4 @@
 | Belknap County, NH      |               145 |
 | Coos County, NH         |                88 |
 | Hillsborough County, NH |               146 |
-| Carroll County, NH      |                90 |
+| Carroll County, NH      |                 0 |

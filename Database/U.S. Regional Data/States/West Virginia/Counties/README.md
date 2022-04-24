@@ -31,7 +31,7 @@
 | Lincoln County, WV    |                88 |
 | Putnam County, WV     |               144 |
 | Marshall County, WV   |                90 |
-| McDowell County, WV   |                 0 |
+| McDowell County, WV   |                89 |
 | Wetzel County, WV     |                90 |
 | Raleigh County, WV    |               147 |
 | Harrison County, WV   |               147 |
@@ -41,7 +41,7 @@
 | Upshur County, WV     |                90 |
 | Randolph County, WV   |                90 |
 | Wyoming County, WV    |                89 |
-| Wayne County, WV      |                90 |
+| Wayne County, WV      |                 0 |
 | Hancock County, WV    |                90 |
 | Monroe County, WV     |                89 |
 | Barbour County, WV    |                89 |

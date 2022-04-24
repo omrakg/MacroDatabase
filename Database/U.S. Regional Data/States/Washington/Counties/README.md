@@ -28,7 +28,7 @@
 | Thurston County, WA     |               147 |
 | Douglas County, WA      |                90 |
 | Garfield County, WA     |                87 |
-| Pierce County, WA       |               147 |
+| Pierce County, WA       |                 0 |
 | Wahkiakum County, WA    |                90 |
 | Lewis County, WA        |               147 |
 | Island County, WA       |               147 |

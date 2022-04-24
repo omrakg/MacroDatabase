@@ -30,7 +30,7 @@
 | Scott County, AR        |                89 |
 | Clark County, AR        |                90 |
 | Woodruff County, AR     |                88 |
-| Independence County, AR |                90 |
+| Independence County, AR |                 0 |
 | Saline County, AR       |               147 |
 | Crittenden County, AR   |               146 |
 | Newton County, AR       |                89 |

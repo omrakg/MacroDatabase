@@ -5,7 +5,7 @@
 | Ontonagon County, MI      |                89 |
 | St. Joseph County, MI     |               146 |
 | Gratiot County, MI        |                90 |
-| Mason County, MI          |                90 |
+| Mason County, MI          |                 0 |
 | Antrim County, MI         |                90 |
 | Iron County, MI           |                89 |
 | Calhoun County, MI        |               147 |
@@ -25,7 +25,7 @@
 | Menominee County, MI      |                90 |
 | Schoolcraft County, MI    |                90 |
 | Houghton County, MI       |                90 |
-| Isabella County, MI       |                 0 |
+| Isabella County, MI       |               146 |
 | Montcalm County, MI       |               146 |
 | Allegan County, MI        |               147 |
 | Missaukee County, MI      |                90 |
@@ -65,7 +65,7 @@
 | Sanilac County, MI        |                90 |
 | Dickinson County, MI      |                90 |
 | Mecosta County, MI        |                90 |
-| Grand Traverse County, MI |               147 |
+| Grand Traverse County, MI |                 0 |
 | Saginaw County, MI        |               147 |
 | Ottawa County, MI         |               147 |
 | Oceana County, MI         |                90 |

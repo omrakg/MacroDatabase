@@ -1,7 +1,7 @@
 | Folder                          |   Files / Folders |
 |---------------------------------|-------------------|
 | Inyo County, CA                 |                90 |
-| Santa Clara County, CA          |                 0 |
+| Santa Clara County, CA          |               147 |
 | Alpine County, CA               |                86 |
 | Lake County, CA                 |               147 |
 | Sonoma County, CA               |               147 |
@@ -33,7 +33,7 @@
 | Orange County, CA               |               147 |
 | San Bernardino County, CA       |               146 |
 | Contra Costa County, CA         |               147 |
-| Calaveras County, CA            |                90 |
+| Calaveras County, CA            |                 0 |
 | El Dorado County, CA            |               147 |
 | Tehama County, CA               |               146 |
 | Madera County, CA               |               147 |

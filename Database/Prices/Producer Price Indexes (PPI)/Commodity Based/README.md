@@ -6,7 +6,7 @@
 | Credit Intermediation Services                                     |                26 |
 | Educational Services                                               |                 0 |
 | Lumber and Wood Products                                           |               119 |
-| Durability of Product                                              |                 1 |
+| Durability of Product                                              |                 0 |
 | Processed Foods and Feeds                                          |               385 |
 | Warehousing, Storage, and Related Services                         |                 7 |
 | Fuels and Related Products and Power                               |               132 |
@@ -49,7 +49,7 @@
 | Pulp, Paper, and Allied Products                                   |               176 |
 | Special Indexes                                                    |                 0 |
 | Metals and Metal Products                                          |               374 |
-| Mining Services                                                    |                 0 |
+| Mining Services                                                    |                17 |
 | Machinery and Equipment                                            |               592 |
 | Publishing Sales, Excluding Software                               |                38 |
 | Retail Trade Services                                              |                88 |

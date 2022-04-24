@@ -5,7 +5,7 @@
 | Palestinian Territories                              |               209 |
 | Germany                                              |                 1 |
 | Montserrat                                           |                81 |
-| Congo, Republic of the                               |               233 |
+| Congo, Republic of the                               |                 0 |
 | Wallis and Futuna                                    |                33 |
 | Congo, Democratic Republic of the                    |               192 |
 | United States                                        |               155 |
@@ -19,7 +19,7 @@
 | Nigeria                                              |               266 |
 | Mauritania                                           |               192 |
 | Sint Maarten (Dutch part)                            |               111 |
-| Afghanistan                                          |                 0 |
+| Afghanistan                                          |               215 |
 | Seychelles                                           |               230 |
 | Lao People's Democratic Republic                     |               190 |
 | Turkey                                               |               887 |
@@ -98,7 +98,7 @@
 | Moldova, Republic of                                 |               235 |
 | Qatar                                                |               259 |
 | Nicaragua                                            |               235 |
-| Andorra                                              |                80 |
+| Andorra                                              |                 0 |
 | Belgium                                              |               804 |
 | Brazil                                               |                 5 |
 | Togo                                                 |               226 |
@@ -122,7 +122,7 @@
 | Liberia                                              |               237 |
 | Georgia                                              |               954 |
 | Guinea-Bissau                                        |               152 |
-| French Southern Territories                          |                 0 |
+| French Southern Territories                          |                39 |
 | Benin                                                |               253 |
 | Haiti                                                |               213 |
 | Morocco                                              |               271 |
@@ -170,7 +170,7 @@
 | Estonia                                              |               849 |
 | India                                                |                 5 |
 | Papua New Guinea                                     |               229 |
-| Luxembourg                                           |               832 |
+| Luxembourg                                           |                 0 |
 | Ireland                                              |               819 |
 | Guatemala                                            |               237 |
 | Taiwan                                               |               156 |
@@ -191,7 +191,7 @@
 | Saint Pierre and Miquelon                            |                33 |
 | Ukraine                                              |               357 |
 | Nepal                                                |               223 |
-| Kazakhstan                                           |                 0 |
+| Kazakhstan                                           |               264 |
 | Somalia                                              |                80 |
 | Albania                                              |               209 |
 | Vanuatu                                              |               166 |

@@ -50,7 +50,7 @@
 | Trigg County, KY        |                90 |
 | Simpson County, KY      |                90 |
 | Union County, KY        |                89 |
-| Hopkins County, KY      |               145 |
+| Hopkins County, KY      |                 0 |
 | Casey County, KY        |                90 |
 | Henderson County, KY    |               144 |
 | Butler County, KY       |                90 |
@@ -90,7 +90,7 @@
 | Jackson County, KY      |                89 |
 | Franklin County, KY     |               145 |
 | Warren County, KY       |               147 |
-| Knox County, KY         |                 0 |
+| Knox County, KY         |                89 |
 | Hancock County, KY      |                90 |
 | Calloway County, KY     |                90 |
 | Nicholas County, KY     |                89 |

@@ -8,10 +8,10 @@
 | Linn County, MO           |                90 |
 | Pemiscot County, MO       |                89 |
 | Taney County, MO          |               146 |
-| Carter County, MO         |                88 |
+| Carter County, MO         |                 0 |
 | Laclede County, MO        |                90 |
 | Moniteau County, MO       |                90 |
-| Montgomery County, MO     |                 0 |
+| Montgomery County, MO     |                89 |
 | Clay County, MO           |               147 |
 | Callaway County, MO       |                90 |
 | St. Francois County, MO   |               146 |
@@ -68,7 +68,7 @@
 | Pike County, MO           |                90 |
 | Barton County, MO         |                90 |
 | Pulaski County, MO        |                90 |
-| Lawrence County, MO       |                90 |
+| Lawrence County, MO       |                 0 |
 | Polk County, MO           |                90 |
 | Webster County, MO        |                90 |
 | Shannon County, MO        |                89 |

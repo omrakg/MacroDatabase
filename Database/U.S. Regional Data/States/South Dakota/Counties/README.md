@@ -43,7 +43,7 @@
 | McCook County, SD        |                89 |
 | Clay County, SD          |                90 |
 | Yankton County, SD       |                90 |
-| Mellette County, SD      |                88 |
+| Mellette County, SD      |                 0 |
 | Kingsbury County, SD     |                88 |
 | Grant County, SD         |                88 |
 | Corson County, SD        |                87 |

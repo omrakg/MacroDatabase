@@ -1,6 +1,6 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Cordova-McCarthy Division, AK        |                 4 |
+| Cordova-McCarthy Division, AK        |                 0 |
 | Sitka Division, AK                   |                 4 |
 | Angoon Division, AK                  |                 4 |
 | Barrow-North Slope Division, AK      |                 4 |

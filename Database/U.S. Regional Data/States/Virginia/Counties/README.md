@@ -7,7 +7,7 @@
 | Halifax County, VA                                  |                89 |
 | Fauquier County, VA                                 |               147 |
 | Highland County, VA                                 |                88 |
-| Isle of Wight County, VA                            |                 0 |
+| Isle of Wight County, VA                            |                90 |
 | Accomack County, VA                                 |                90 |
 | King and Queen County, VA                           |                89 |
 | Mecklenburg County, VA                              |                90 |
@@ -60,14 +60,14 @@
 | Wythe County, VA                                    |                89 |
 | Stafford County, VA                                 |               147 |
 | Nottoway County, VA                                 |                90 |
-| Newport News City, VA                               |               146 |
+| Newport News City, VA                               |                 0 |
 | Alleghany County, VA                                |                80 |
 | Staunton City, VA                                   |                79 |
 | Page County, VA                                     |                90 |
 | Botetourt County, VA                                |                90 |
 | Campbell County + Lynchburg City, VA                |                12 |
 | Pittsylvania County + Danville City, VA             |                12 |
-| Falls Church City, VA                               |                 0 |
+| Falls Church City, VA                               |                79 |
 | Charlottesville City, VA                            |               135 |
 | Virginia Beach City, VA                             |               145 |
 | Franklin County, VA                                 |               146 |
@@ -120,7 +120,7 @@
 | Chesterfield County, VA                             |               147 |
 | Fluvanna County, VA                                 |                90 |
 | Giles County, VA                                    |                89 |
-| Patrick County, VA                                  |                90 |
+| Patrick County, VA                                  |                 0 |
 | Amelia County, VA                                   |                90 |
 | York County, VA                                     |               137 |
 | Radford City, VA                                    |                79 |

@@ -38,7 +38,7 @@
 | Ravalli County, MT         |                90 |
 | Lewis and Clark County, MT |               147 |
 | Wheatland County, MT       |                87 |
-| Hill County, MT            |                 0 |
+| Hill County, MT            |                89 |
 | Silver Bow County, MT      |                90 |
 | Wibaux County, MT          |                85 |
 | Carter County, MT          |                86 |

@@ -8,7 +8,7 @@
 | Roger Mills County, OK  |                88 |
 | McClain County, OK      |                90 |
 | Kingfisher County, OK   |                89 |
-| Atoka County, OK        |                 0 |
+| Atoka County, OK        |                88 |
 | Blaine County, OK       |                89 |
 | Lincoln County, OK      |                90 |
 | McIntosh County, OK     |                90 |
@@ -31,7 +31,7 @@
 | Payne County, OK        |               147 |
 | Pottawatomie County, OK |               147 |
 | Kiowa County, OK        |                88 |
-| McCurtain County, OK    |                89 |
+| McCurtain County, OK    |                 0 |
 | Le Flore County, OK     |               145 |
 | Tillman County, OK      |                88 |
 | Garfield County, OK     |               144 |
@@ -68,7 +68,7 @@
 | Jackson County, OK      |                90 |
 | Okmulgee County, OK     |                90 |
 | Muskogee County, OK     |               147 |
-| Woodward County, OK     |                 0 |
+| Woodward County, OK     |                90 |
 | Garvin County, OK       |                89 |
 | Stephens County, OK     |                90 |
 | Jefferson County, OK    |                87 |

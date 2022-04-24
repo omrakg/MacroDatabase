@@ -26,7 +26,7 @@
 | Morgan County, CO            |                89 |
 | Las Animas County, CO        |                89 |
 | Kiowa County, CO             |                88 |
-| Rio Blanco County, CO        |                89 |
+| Rio Blanco County, CO        |                 0 |
 | Eagle County, CO             |               146 |
 | Moffat County, CO            |                89 |
 | Summit County, CO            |                90 |
@@ -43,7 +43,7 @@
 | Montezuma County, CO         |                90 |
 | Prowers County, CO           |                89 |
 | Bent County, CO              |                89 |
-| Hinsdale County, CO          |                 0 |
+| Hinsdale County, CO          |                85 |
 | Teller County, CO            |                90 |
 | La Plata County, CO          |               146 |
 | Cheyenne County, CO          |                89 |

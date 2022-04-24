@@ -1,9 +1,9 @@
 | Folder                                          |   Files / Folders |
 |-------------------------------------------------|-------------------|
 | Interest Checking Accounts                      |                 1 |
-| Mortgage Rates                                  |                26 |
+| Mortgage Rates                                  |                 0 |
 | Commercial Paper                                |                44 |
-| AMERIBOR Benchmark Rates                        |                11 |
+| AMERIBOR Benchmark Rates                        |                13 |
 | Treasury Bills                                  |                14 |
 | FRB Rates - discount, fed funds, primary credit |                49 |
 | Bankers Acceptance Rate                         |                 1 |
@@ -12,7 +12,7 @@
 | LIBOR Rates                                     |                 0 |
 | Corporate Bonds                                 |               356 |
 | Prime Bank Loan Rate                            |                 6 |
-| Treasury Inflation-Indexed Securities           |                60 |
+| Treasury Inflation-Indexed Securities           |                59 |
 | Interest Rate Spreads                           |                37 |
 | Money Market Accounts                           |                 1 |
 | SONIA Rates                                     |                 9 |

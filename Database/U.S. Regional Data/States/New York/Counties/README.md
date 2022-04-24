@@ -14,7 +14,7 @@
 | Orange County, NY       |               146 |
 | Hamilton County, NY     |                89 |
 | Westchester County, NY  |               147 |
-| Sullivan County, NY     |                 0 |
+| Sullivan County, NY     |                91 |
 | Schoharie County, NY    |                89 |
 | Wayne County, NY        |               147 |
 | Oswego County, NY       |               146 |

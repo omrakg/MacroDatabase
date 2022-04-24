@@ -1,7 +1,7 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
 | Houston-The Woodlands-Sugar Land, TX |               475 |
-| Amarillo, TX                         |                 0 |
+| Amarillo, TX                         |               168 |
 | Waco, TX                             |               165 |
 | Midland, TX                          |               169 |
 | Longview, TX                         |               175 |

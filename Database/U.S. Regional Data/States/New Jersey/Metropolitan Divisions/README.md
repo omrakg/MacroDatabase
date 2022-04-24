@@ -1,6 +1,6 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| Camden, NJ                               |               144 |
+| Camden, NJ                               |                 0 |
 | New York-Jersey City-White Plains, NY-NJ |                 0 |
 | Wilmington, DE-MD-NJ                     |                 0 |
 | Newark, NJ-PA                            |               210 |

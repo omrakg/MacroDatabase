@@ -67,7 +67,7 @@
 | Walthall County, MS        |                89 |
 | Washington County, MS      |                90 |
 | Oktibbeha County, MS       |               146 |
-| Jefferson Davis County, MS |                87 |
+| Jefferson Davis County, MS |                 0 |
 | Holmes County, MS          |                87 |
 | Neshoba County, MS         |                89 |
 | Forrest County, MS         |               147 |

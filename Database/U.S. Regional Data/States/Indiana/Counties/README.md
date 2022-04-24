@@ -29,9 +29,9 @@
 | Kosciusko County, IN   |               147 |
 | Harrison County, IN    |                90 |
 | Hamilton County, IN    |               146 |
-| Washington County, IN  |                 0 |
+| Washington County, IN  |                89 |
 | Newton County, IN      |                90 |
-| Delaware County, IN    |               147 |
+| Delaware County, IN    |                 0 |
 | Vanderburgh County, IN |               147 |
 | Tipton County, IN      |                90 |
 | Gibson County, IN      |                90 |

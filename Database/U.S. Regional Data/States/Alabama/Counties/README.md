@@ -15,7 +15,7 @@
 | Perry County, AL      |                89 |
 | Cullman County, AL    |               147 |
 | Lamar County, AL      |                89 |
-| Wilcox County, AL     |                 0 |
+| Wilcox County, AL     |                88 |
 | Pike County, AL       |                90 |
 | Sumter County, AL     |                88 |
 | Lowndes County, AL    |                88 |
@@ -49,7 +49,7 @@
 | Marion County, AL     |                89 |
 | Washington County, AL |                87 |
 | Randolph County, AL   |                90 |
-| Geneva County, AL     |                90 |
+| Geneva County, AL     |                 0 |
 | Monroe County, AL     |                89 |
 | Clay County, AL       |                88 |
 | Winston County, AL    |                90 |

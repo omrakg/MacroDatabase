@@ -14,7 +14,7 @@
 | St. Tammany Parish, LA          |               147 |
 | Grant Parish, LA                |                90 |
 | Madison Parish, LA              |                88 |
-| Concordia Parish, LA            |                90 |
+| Concordia Parish, LA            |                 0 |
 | Jackson Parish, LA              |                90 |
 | Calcasieu Parish, LA            |               147 |
 | West Carroll Parish, LA         |                88 |

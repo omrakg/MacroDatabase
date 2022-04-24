@@ -1,7 +1,7 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
 | Transportation and Warehousing       |                 0 |
-| Service-Providing                    |                 0 |
+| Service-Providing                    |                 3 |
 | Construction                         |                 0 |
 | Manufacturing                        |                 0 |
 | Professional and Business Services   |                 0 |

@@ -25,7 +25,7 @@
 | Wrangell Borough - City, AK                     |                 0 |
 | Wrangell-Petersburg Census Area, AK             |                 5 |
 | Aleutians West Census Area, AK                  |                86 |
-| Lake and Peninsula Borough, AK                  |                 0 |
+| Lake and Peninsula Borough, AK                  |                84 |
 | Bethel Census Area, AK                          |                88 |
 | Sitka Borough - city, AK                        |                 0 |
 | Hoonah-Angoon Census Area, AK                   |                85 |

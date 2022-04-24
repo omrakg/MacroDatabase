@@ -48,7 +48,7 @@
 | Polk County, IA          |               147 |
 | Mitchell County, IA      |                90 |
 | Jackson County, IA       |                89 |
-| Howard County, IA        |                 0 |
+| Howard County, IA        |                90 |
 | Jones County, IA         |                90 |
 | Winnebago County, IA     |                90 |
 | Guthrie County, IA       |                89 |
@@ -59,7 +59,7 @@
 | Tama County, IA          |                90 |
 | Johnson County, IA       |               147 |
 | Cedar County, IA         |                90 |
-| Davis County, IA         |                89 |
+| Davis County, IA         |                 0 |
 | Dubuque County, IA       |               147 |
 | Mahaska County, IA       |                90 |
 | Iowa County, IA          |                90 |

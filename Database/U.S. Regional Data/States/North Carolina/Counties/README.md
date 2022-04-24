@@ -30,7 +30,7 @@
 | Forsyth County, NC      |               147 |
 | Macon County, NC        |                90 |
 | Granville County, NC    |               145 |
-| Catawba County, NC      |               147 |
+| Catawba County, NC      |                 0 |
 | Montgomery County, NC   |                90 |
 | Union County, NC        |               147 |
 | Lincoln County, NC      |               147 |
@@ -90,9 +90,9 @@
 | Tyrrell County, NC      |                88 |
 | Person County, NC       |                90 |
 | Avery County, NC        |                90 |
-| Pitt County, NC         |               147 |
+| Pitt County, NC         |                 0 |
 | Richmond County, NC     |                90 |
-| Beaufort County, NC     |                 0 |
+| Beaufort County, NC     |               146 |
 | Cleveland County, NC    |               147 |
 | Davie County, NC        |                90 |
 | Yancey County, NC       |                90 |

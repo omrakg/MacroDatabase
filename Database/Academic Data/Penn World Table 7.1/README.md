@@ -8,7 +8,7 @@
 | Component Shares of GDP per Capita (Current Prices)              |               572 |
 | Gross Domestic Income, Adjustments for Changes in Terms of Trade |               192 |
 | Population                                                       |                 0 |
-| Purchasing Power Parity Converted GDP                            |               192 |
+| Purchasing Power Parity Converted GDP                            |                 0 |
 | Openness                                                         |               382 |
 | Real GDP per Capita Relative to U.S.                             |               382 |
 | Price Levels of GDP, Consumption, Government, and Investment     |               952 |

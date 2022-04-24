@@ -36,7 +36,7 @@
 | Grant County, NE        |                84 |
 | Dundy County, NE        |                89 |
 | Arthur County, NE       |                82 |
-| Jefferson County, NE    |                89 |
+| Jefferson County, NE    |                 0 |
 | Saunders County, NE     |                90 |
 | Douglas County, NE      |               147 |
 | Colfax County, NE       |                90 |
@@ -83,7 +83,7 @@
 | Hamilton County, NE     |                89 |
 | Butler County, NE       |                90 |
 | Rock County, NE         |                87 |
-| Nemaha County, NE       |                 0 |
+| Nemaha County, NE       |                89 |
 | Valley County, NE       |                88 |
 | Gage County, NE         |                90 |
 | Howard County, NE       |                90 |

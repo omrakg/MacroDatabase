@@ -10,6 +10,6 @@
 | Gadsden, AL                |               138 |
 | Montgomery, AL             |               173 |
 | Huntsville, AL             |               182 |
-| Florence-Muscle Shoals, AL |                 0 |
+| Florence-Muscle Shoals, AL |               155 |
 | Daphne-Fairhope-Foley, AL  |                62 |
 | Auburn-Opelika, AL         |               162 |

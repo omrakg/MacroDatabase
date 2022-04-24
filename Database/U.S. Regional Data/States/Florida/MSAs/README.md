@@ -21,5 +21,5 @@
 | Gainesville, FL                         |               168 |
 | Port St. Lucie, FL                      |               165 |
 | Lakeland-Winter Haven, FL               |               175 |
-| Ocala, FL                               |               165 |
+| Ocala, FL                               |                 0 |
 | Crestview-Fort Walton Beach-Destin, FL  |               162 |

@@ -20,7 +20,7 @@
 | San Jacinto County, TX   |                90 |
 | Hill County, TX          |                90 |
 | Comal County, TX         |               147 |
-| Hays County, TX          |                 0 |
+| Hays County, TX          |               147 |
 | Dickens County, TX       |                86 |
 | Archer County, TX        |                89 |
 | Grayson County, TX       |               147 |
@@ -35,7 +35,7 @@
 | King County, TX          |                81 |
 | Franklin County, TX      |                88 |
 | Swisher County, TX       |                88 |
-| Freestone County, TX     |                90 |
+| Freestone County, TX     |                 0 |
 | Crosby County, TX        |                87 |
 | Camp County, TX          |                88 |
 | Cameron County, TX       |               147 |
@@ -80,7 +80,7 @@
 | Ector County, TX         |               147 |
 | Jack County, TX          |                89 |
 | Lavaca County, TX        |                89 |
-| Jasper County, TX        |                 0 |
+| Jasper County, TX        |                90 |
 | Donley County, TX        |                87 |
 | Rockwall County, TX      |               147 |
 | Delta County, TX         |                89 |
@@ -95,7 +95,7 @@
 | Fayette County, TX       |                90 |
 | Kendall County, TX       |                90 |
 | Collin County, TX        |               147 |
-| Jones County, TX         |                89 |
+| Jones County, TX         |                 0 |
 | Maverick County, TX      |                89 |
 | Coryell County, TX       |               147 |
 | Duval County, TX         |                88 |
@@ -172,7 +172,7 @@
 | Starr County, TX         |                89 |
 | Coke County, TX          |                89 |
 | Terrell County, TX       |                85 |
-| Hardin County, TX        |               146 |
+| Hardin County, TX        |                 0 |
 | Haskell County, TX       |                88 |
 | Montague County, TX      |                90 |
 | Taylor County, TX        |               147 |
@@ -194,7 +194,7 @@
 | Karnes County, TX        |                89 |
 | Medina County, TX        |                90 |
 | Colorado County, TX      |                90 |
-| Refugio County, TX       |                 0 |
+| Refugio County, TX       |                89 |
 | Smith County, TX         |               147 |
 | Fannin County, TX        |                90 |
 | Hemphill County, TX      |                88 |
@@ -232,7 +232,7 @@
 | Wichita County, TX       |               147 |
 | Wilbarger County, TX     |                90 |
 | Goliad County, TX        |                89 |
-| Cooke County, TX         |                90 |
+| Cooke County, TX         |                 0 |
 | Bexar County, TX         |               147 |
 | Lampasas County, TX      |                90 |
 | San Augustine County, TX |                87 |

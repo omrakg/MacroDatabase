@@ -25,7 +25,7 @@
 | Iron County, UT       |                90 |
 | Juab County, UT       |                89 |
 | Cache County, UT      |               147 |
-| Davis County, UT      |                 0 |
+| Davis County, UT      |               147 |
 | Wayne County, UT      |                88 |
 | Carbon County, UT     |                90 |
 | Weber County, UT      |               147 |

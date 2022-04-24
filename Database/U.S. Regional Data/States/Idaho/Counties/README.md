@@ -31,7 +31,7 @@
 | Bannock County, ID    |               147 |
 | Clark County, ID      |                86 |
 | Clearwater County, ID |                90 |
-| Bingham County, ID    |                91 |
+| Bingham County, ID    |                90 |
 | Cassia County, ID     |                90 |
 | Shoshone County, ID   |                89 |
 | Gooding County, ID    |                90 |
@@ -41,6 +41,6 @@
 | Kootenai County, ID   |               147 |
 | Blaine County, ID     |                90 |
 | Owyhee County, ID     |                88 |
-| Jerome County, ID     |                 0 |
+| Jerome County, ID     |                90 |
 | Fremont County, ID    |                 2 |
 | Bear Lake County, ID  |                89 |

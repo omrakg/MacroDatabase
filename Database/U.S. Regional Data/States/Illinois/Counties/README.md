@@ -56,7 +56,7 @@
 | Greene County, IL      |                90 |
 | Carroll County, IL     |                90 |
 | Fulton County, IL      |                90 |
-| Jo Daviess County, IL  |                90 |
+| Jo Daviess County, IL  |                 0 |
 | Livingston County, IL  |                90 |
 | Saline County, IL      |                90 |
 | Adams County, IL       |               147 |
@@ -85,7 +85,7 @@
 | Knox County, IL        |               146 |
 | Union County, IL       |                89 |
 | Christian County, IL   |                90 |
-| Tazewell County, IL    |                 0 |
+| Tazewell County, IL    |               147 |
 | Winnebago County, IL   |               147 |
 | Calhoun County, IL     |                88 |
 | Massac County, IL      |                89 |

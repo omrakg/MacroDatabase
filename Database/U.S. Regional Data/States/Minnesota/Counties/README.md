@@ -19,7 +19,7 @@
 | Kandiyohi County, MN         |                90 |
 | Dakota County, MN            |               147 |
 | Washington County, MN        |               147 |
-| Blue Earth County, MN        |               146 |
+| Blue Earth County, MN        |                 0 |
 | Pennington County, MN        |                90 |
 | Traverse County, MN          |                88 |
 | Carlton County, MN           |                90 |
@@ -46,7 +46,7 @@
 | Le Sueur County, MN          |                89 |
 | Mahnomen County, MN          |                88 |
 | Mille Lacs County, MN        |                89 |
-| Lac Qui Parle County, MN     |                 0 |
+| Lac Qui Parle County, MN     |                88 |
 | Todd County, MN              |                89 |
 | Stearns County, MN           |               147 |
 | Goodhue County, MN           |               146 |

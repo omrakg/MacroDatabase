@@ -1,2 +1,51 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                                                    | observation_start   | observation_end   |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DDAI01ATA642NWDB | Number of Bank Accounts for Austria (DISCONTINUED)                                                                                       | 2004-01-01          | 2010-01-01        |
+| DDAI01BAA642NWDB | Number of Bank Accounts for Bosnia and Herzegovina (DISCONTINUED)                                                                        | 2004-01-01          | 2010-01-01        |
+| DDAI01BGA642NWDB | Number of Bank Accounts for Bulgaria (DISCONTINUED)                                                                                      | 2005-01-01          | 2010-01-01        |
+| DDAI01CDA642NWDB | Number of Bank Accounts for the Democratic Republic of the Congo (DISCONTINUED)                                                          | 2004-01-01          | 2014-01-01        |
+| DDAI01ESA642NWDB | Number of Bank Accounts for Spain (DISCONTINUED)                                                                                         | 1998-01-01          | 2010-01-01        |
+| DDAI01EZA642NWDB | Number of Bank Accounts for Euro Area (DISCONTINUED)                                                                                     | 2004-01-01          | 2015-01-01        |
+| DDAI01GRA642NWDB | Number of Bank Accounts for Greece (DISCONTINUED)                                                                                        | 2010-01-01          | 2010-01-01        |
+| DDAI01JPA642NWDB | Number of Bank Accounts for Japan (DISCONTINUED)                                                                                         | 2004-01-01          | 2010-01-01        |
+| DDAI01KHA642NWDB | Number of Bank Accounts for Cambodia (DISCONTINUED)                                                                                      | 2008-01-01          | 2010-01-01        |
+| DDAI01KRA642NWDB | Number of Bank Accounts for Republic of Korea (DISCONTINUED)                                                                             | 2004-01-01          | 2010-01-01        |
+| DDAI01KVA642NWDB | Number of Bank Accounts for Kosovo (DISCONTINUED)                                                                                        | 2008-01-01          | 2010-01-01        |
+| DDAI01MAA642NWDB | Number of Bank Accounts for Morocco (DISCONTINUED)                                                                                       | 2004-01-01          | 2010-01-01        |
+| DDAI01MXA642NWDB | Number of Bank Accounts for Mexico (DISCONTINUED)                                                                                        | 2009-01-01          | 2010-01-01        |
+| DDAI01NLA642NWDB | Number of Bank Accounts for Netherlands (DISCONTINUED)                                                                                   | 2004-01-01          | 2010-01-01        |
+| DDAI01PTA642NWDB | Number of Bank Accounts for Portugal (DISCONTINUED)                                                                                      | 2004-01-01          | 2010-01-01        |
+| DDAI01TLA642NWDB | Number of Bank Accounts for Democratic Republic of Timor-Leste (DISCONTINUED)                                                            | 2004-01-01          | 2013-01-01        |
+| DDAI01USA642NWDB | Number of Bank Accounts for United States (DISCONTINUED)                                                                                 | 2004-01-01          | 2007-01-01        |
+| DDAI01ZAA642NWDB | Number of Bank Accounts for South Africa (DISCONTINUED)                                                                                  | 2004-01-01          | 2010-01-01        |
+| DDAI02CDA643NWDB | Number of Bank Branches for the Democratic Republic of the Congo (DISCONTINUED)                                                          | 2004-01-01          | 2013-01-01        |
+| DDAI02EZA643NWDB | Number of Bank Branches for Euro Area (DISCONTINUED)                                                                                     | 2004-01-01          | 2015-01-01        |
+| DDAI02ROA643NWDB | Number of Bank Branches for Romania (DISCONTINUED)                                                                                       | 2008-01-01          | 2014-01-01        |
+| DDAI02TLA643NWDB | Number of Bank Branches for Democratic Republic of Timor-Leste (DISCONTINUED)                                                            | 2004-01-01          | 2013-01-01        |
+| DDAI05CDA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for the Democratic Republic of the Congo (DISCONTINUED)          | 2011-01-01          | 2014-01-01        |
+| DDAI05EZA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Euro Area (DISCONTINUED)                                     | 2011-01-01          | 2014-01-01        |
+| DDAI05KVA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Kosovo (DISCONTINUED)                                        | 2011-01-01          | 2014-01-01        |
+| DDAI05ROA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Romania (DISCONTINUED)                                       | 2011-01-01          | 2014-01-01        |
+| DDAI06CDA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for the Democratic Republic of the Congo (DISCONTINUED)      | 2011-01-01          | 2014-01-01        |
+| DDAI06EZA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Euro Area (DISCONTINUED)                                 | 2011-01-01          | 2014-01-01        |
+| DDAI06KVA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Kosovo (DISCONTINUED)                                    | 2011-01-01          | 2014-01-01        |
+| DDAI06ROA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Romania (DISCONTINUED)                                   | 2011-01-01          | 2014-01-01        |
+| DDAI07CDA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for the Democratic Republic of the Congo (DISCONTINUED) | 2011-01-01          | 2014-01-01        |
+| DDAI07EZA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Euro Area (DISCONTINUED)                            | 2011-01-01          | 2014-01-01        |
+| DDAI07KVA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Kosovo (DISCONTINUED)                               | 2011-01-01          | 2014-01-01        |
+| DDAI07ROA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Romania (DISCONTINUED)                              | 2011-01-01          | 2014-01-01        |
+| DDAI011WA642NWDB | Number of Bank Accounts for World (DISCONTINUED)                                                                                         | 2001-01-01          | 2015-01-01        |
+| DDAI021WA643NWDB | Number of Bank Branches for World (DISCONTINUED)                                                                                         | 2001-01-01          | 2015-01-01        |
+| DDAI051WA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for World (DISCONTINUED)                                         | 2011-01-01          | 2014-01-01        |
+| DDAI061WA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for World (DISCONTINUED)                                     | 2011-01-01          | 2014-01-01        |
+| DDAI071WA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for World (DISCONTINUED)                                | 2011-01-01          | 2014-01-01        |
+| DDDI01CDA156NWDB | Private Credit by Deposit Money Banks to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                     | 1963-01-01          | 2014-01-01        |
+| DDDI01EZA156NWDB | Private Credit by Deposit Money Banks to GDP for Euro Area (DISCONTINUED)                                                                | 1960-01-01          | 2015-01-01        |
+| DDDI01KVA156NWDB | Private Credit by Deposit Money Banks to GDP for Kosovo (DISCONTINUED)                                                                   | 2003-01-01          | 2011-01-01        |
+| DDDI01ROA156NWDB | Private Credit by Deposit Money Banks to GDP for Romania (DISCONTINUED)                                                                  | 1980-01-01          | 2014-01-01        |
+| DDDI01TLA156NWDB | Private Credit by Deposit Money Banks to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                                       | 2012-01-01          | 2012-01-01        |
+| DDDI02CDA156NWDB | Deposit Money Bank Assets to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                                 | 1963-01-01          | 2014-01-01        |
+| DDDI02EZA156NWDB | Deposit Money Bank Assets to GDP for Euro Area (DISCONTINUED)                                                                            | 1973-01-01          | 2015-01-01        |
+| DDDI02KVA156NWDB | Deposit Money Bank Assets to GDP for Kosovo (DISCONTINUED)                                                                               | 2003-01-01          | 2011-01-01        |
+| DDDI011WA156NWDB | Private Credit by Deposit Money Banks to GDP for World (DISCONTINUED)                                                                    | 1960-01-01          | 2015-01-01        |
+| DDDI021WA156NWDB | Deposit Money Bank Assets to GDP for World (DISCONTINUED)                                                                                | 1973-01-01          | 2015-01-01        |

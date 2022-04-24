@@ -4,7 +4,7 @@
 | Syracuse, NY                          |               186 |
 | Albany-Schenectady-Troy, NY           |               210 |
 | Ithaca, NY                            |               143 |
-| Watertown-Fort Drum, NY               |                89 |
+| Watertown-Fort Drum, NY               |                 0 |
 | Binghamton, NY                        |               173 |
 | Elmira, NY                            |               149 |
 | Rochester, NY                         |               237 |

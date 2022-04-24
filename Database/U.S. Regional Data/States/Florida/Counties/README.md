@@ -3,7 +3,7 @@
 | Polk County, FL         |               147 |
 | Franklin County, FL     |                90 |
 | Marion County, FL       |               147 |
-| Bradford County, FL     |                 0 |
+| Bradford County, FL     |                90 |
 | Lee County, FL          |               146 |
 | Sumter County, FL       |               147 |
 | Union County, FL        |                88 |
@@ -28,7 +28,7 @@
 | Palm Beach County, FL   |               147 |
 | Levy County, FL         |                89 |
 | Hernando County, FL     |               147 |
-| Dixie County, FL        |                89 |
+| Dixie County, FL        |                 0 |
 | Santa Rosa County, FL   |               147 |
 | Leon County, FL         |               146 |
 | Gilchrist County, FL    |                90 |

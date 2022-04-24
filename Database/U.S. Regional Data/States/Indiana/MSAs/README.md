@@ -1,6 +1,6 @@
 | Folder                             |   Files / Folders |
 |------------------------------------|-------------------|
-| Lafayette-West Lafayette, IN       |               122 |
+| Lafayette-West Lafayette, IN       |                 0 |
 | Bloomington, IN                    |               174 |
 | Evansville, IN-KY                  |                 0 |
 | Kokomo, IN                         |               136 |
