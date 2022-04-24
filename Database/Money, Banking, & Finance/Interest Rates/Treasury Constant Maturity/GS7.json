@@ -1,7 +1,7 @@
 {
   "id": "GS7",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity",
   "observation_start": "1969-07-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 15:17:19-05",
-  "popularity": 18,
-  "group_popularity": 61,
+  "popularity": 15,
+  "group_popularity": 62,
   "notes": "Averages of business days. For further information regarding treasury constant maturity data, please refer to http://www.federalreserve.gov/releases/h15/current/h15.pdf and http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WICH648UR",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Unemployment Rate in Wichita Falls, TX (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SSA",
   "last_updated": "2022-04-06 13:33:06-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

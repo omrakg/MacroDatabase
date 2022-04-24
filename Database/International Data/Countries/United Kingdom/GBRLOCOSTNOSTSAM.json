@@ -1,7 +1,7 @@
 {
   "id": "GBRLOCOSTNOSTSAM",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Leading Indicators OECD: Component series: Short-term interest rate: Normalised for the United Kingdom",
   "observation_start": "1960-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-14 14:33:25-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "OECD descriptor ID: LOCOSTNO OECD unit ID: STSA OECD country ID: GBR All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

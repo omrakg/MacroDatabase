@@ -1,7 +1,7 @@
 {
   "id": "ADOP65OM",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Unemployment Rate - Associate Degree - Occupational Program, 65 years and over, Men",
   "observation_start": "2000-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 09:35:37-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The unemployment rate represents the number unemployed as a percent of the labor force.\n\nThe series comes from the 'Current Population Survey (Household Survey)'."
 }

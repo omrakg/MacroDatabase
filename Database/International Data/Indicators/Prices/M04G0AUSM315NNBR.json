@@ -1,7 +1,7 @@
 {
   "id": "M04G0AUSM315NNBR",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Price Index of Business Cycles for United States",
   "observation_start": "1891-01-01",
   "observation_end": "1919-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:53:56-05",
-  "popularity": 2,
-  "group_popularity": 6,
+  "popularity": 1,
+  "group_popularity": 7,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1891-1919 (2)--Original Data, 1919-1927. The Index Is The Simple Geometric Average Of Prices For First Of Each Month Of Ten Commodities Relative To The Geometric Average Price For 1890-1899 As The Base (Pig Iron, Bar Iron, Coke, Spelter, Hides, Cotton Sheetings, Print Cloths, Worsted Yarns, Salt Mess Pork, And Cottonseed Oil). Source: Review Of Economic Statistics, Harvard Economic Service, Monthly Supplement\n\nThis NBER data series m04050a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04050a"
 }

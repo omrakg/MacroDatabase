@@ -1,7 +1,7 @@
 {
   "id": "IGREA",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Index of Global Real Economic Activity",
   "observation_start": "1968-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-12 14:03:05-05",
-  "popularity": 30,
-  "group_popularity": 30,
+  "popularity": 33,
+  "group_popularity": 33,
   "notes": "This series is an updated index of global real economic activity in industrial commodity markets, as proposed in Kilian (2009) (https://doi.org/10.1257/aer.99.3.1053), with the correction discussed in Kilian (2019) (https://doi.org/10.1016/j.econlet.2019.03.001). This business-cycle index is expressed in percent deviations from trend. It is derived from a panel of dollar-denominated global bulk dry cargo shipping rates and may be viewed as a proxy for the volume of shipping in global industrial commodity markets. For further discussion of the advantages of this index compared with measures of global real GDP or global industrial production see Kilian and Zhou (2018) (https://doi.org/10.1016/j.jimonfin.2018.07.001)."
 }

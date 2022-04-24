@@ -1,0 +1,17 @@
+{
+  "id": "PCU311352311352",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
+  "title": "Producer Price Index by Industry: Confectionery Manufacturing from Purchased Chocolate",
+  "observation_start": "2011-12-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2011=100",
+  "units_short": "Index Dec 2011=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-13 08:17:36-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

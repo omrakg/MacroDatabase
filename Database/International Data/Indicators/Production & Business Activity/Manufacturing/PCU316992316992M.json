@@ -1,0 +1,17 @@
+{
+  "id": "PCU316992316992M",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
+  "title": "Producer Price Index by Industry: Women's Handbag and Purse Manufacturing: Miscellaneous Receipts",
+  "observation_start": "1999-11-01",
+  "observation_end": "2009-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Nov 1999=100",
+  "units_short": "Index Nov 1999=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:43:53-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

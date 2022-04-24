@@ -1,7 +1,7 @@
 {
   "id": "DPCMRC1Q027SBEA",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Personal consumption expenditures: Market-based",
   "observation_start": "1987-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 08:04:03-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "BEA Account Code: DPCMRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "NDNGSP",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Gross Domestic Product: All Industry Total in North Dakota",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 10:32:12-05",
-  "popularity": 14,
-  "group_popularity": 19
+  "popularity": 17,
+  "group_popularity": 20
 }

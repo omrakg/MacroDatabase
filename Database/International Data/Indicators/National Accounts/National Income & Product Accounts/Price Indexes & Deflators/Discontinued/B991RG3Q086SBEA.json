@@ -1,7 +1,7 @@
 {
   "id": "B991RG3Q086SBEA",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Government consumption expenditures: State and local (chain-type price index) (DISCONTINUED)",
   "observation_start": "1947-01-01",
   "observation_end": "2015-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-08-05 13:31:04-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: B991RG3\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,17 +1,17 @@
 {
   "id": "SOFRVOL",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Secured Overnight Financing Volume",
   "observation_start": "2018-04-03",
-  "observation_end": "2022-04-13",
+  "observation_end": "2022-04-21",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Billions of U.S. Dollars",
   "units_short": "Bil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-14 07:01:16-05",
-  "popularity": 33,
-  "group_popularity": 33
+  "last_updated": "2022-04-22 07:01:14-05",
+  "popularity": 37,
+  "group_popularity": 37
 }

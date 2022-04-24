@@ -1,7 +1,7 @@
 {
   "id": "WPU801105",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Producer Price Index by Commodity: Construction (Partial): New Health Care Building Construction",
   "observation_start": "2012-06-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:53:55-05",
   "popularity": 3,
-  "group_popularity": 7
+  "group_popularity": 10
 }

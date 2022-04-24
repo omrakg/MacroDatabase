@@ -1,7 +1,7 @@
 {
   "id": "A5MLORSGPORIXOBSAM",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for Major Five Asia",
   "observation_start": "1978-01-01",
   "observation_end": "2021-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-14 16:00:58-05",
-  "popularity": 1,
-  "group_popularity": 7,
+  "popularity": 5,
+  "group_popularity": 8,
   "notes": "OECD descriptor ID: LORSGPOR OECD unit ID: IXOBSA OECD country ID: A5M All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

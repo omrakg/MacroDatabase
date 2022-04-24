@@ -1,7 +1,7 @@
 {
   "id": "SPRI125URN",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Unemployment Rate in Springfield, MA-CT (NECTA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-06 10:08:54-05",
   "popularity": 2,
-  "group_popularity": 4
+  "group_popularity": 3
 }

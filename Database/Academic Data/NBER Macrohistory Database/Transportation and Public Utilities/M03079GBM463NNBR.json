@@ -1,7 +1,7 @@
 {
   "id": "M03079GBM463NNBR",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Net Ton-Miles Per Freight Train-Mile for Great Britain",
   "observation_start": "1920-01-01",
   "observation_end": "1931-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:03:45-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Source: Computed By NBER By Dividing Series (Total Net Ton-Miles, Excluding Free Hauled) By Series (Freight Train-Miles).\n\nThis NBER data series m03079 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03079"
 }

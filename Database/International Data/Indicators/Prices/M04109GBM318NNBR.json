@@ -1,7 +1,7 @@
 {
   "id": "M04109GBM318NNBR",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Index of Export Prices, Total for Great Britain",
   "observation_start": "1880-01-01",
   "observation_end": "1913-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:49:46-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "There Is No Data For November, 1893 Or March, 1912 Because Of Coal Strikes. Source: This Series Is Described In A.G. Silverman, \"Monthly Index Numbers Of British Export And Import Prices, 1880-1913\" In Review Of Economic Statistics, Vol. Xii, 3, 1930.\n\nThis NBER data series m04109 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04109"
 }

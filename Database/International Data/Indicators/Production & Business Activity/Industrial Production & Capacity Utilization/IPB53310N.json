@@ -1,7 +1,7 @@
 {
   "id": "IPB53310N",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Industrial Production: Energy Materials: Primary Energy",
   "observation_start": "1967-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-15 08:22:30-05",
-  "popularity": 2,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 2,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nSource Code: IP.B53310.N"
 }

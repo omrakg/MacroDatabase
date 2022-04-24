@@ -1,7 +1,7 @@
 {
   "id": "WPU01130223",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Producer Price Index by Commodity: Farm Products: Cauliflower",
   "observation_start": "1991-12-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:53:49-05",
-  "popularity": 11,
-  "group_popularity": 11
+  "popularity": 8,
+  "group_popularity": 8
 }

@@ -1,7 +1,7 @@
 {
   "id": "IRLB6DBTD01NCCUSAQ",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Balance of payments BPM6: Current account Debits: Goods: Total Debits for Ireland",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 12:11:24-06",
   "popularity": 0,
-  "group_popularity": 0,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: B6DBTD01 OECD unit ID: NCCUSA OECD country ID: IRL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

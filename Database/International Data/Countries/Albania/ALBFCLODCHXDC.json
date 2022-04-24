@@ -1,7 +1,7 @@
 {
   "id": "ALBFCLODCHXDC",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Use of Financial Services, Liabilities: Outstanding Deposits by Households at Commercial Banks for Albania",
   "observation_start": "2004-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-05 08:23:23-05",
-  "popularity": 0,
-  "group_popularity": 0,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

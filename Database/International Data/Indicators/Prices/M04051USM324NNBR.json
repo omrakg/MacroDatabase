@@ -1,7 +1,7 @@
 {
   "id": "M04051USM324NNBR",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Index of the General Price Level for United States",
   "observation_start": "1860-01-01",
   "observation_end": "1939-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:50:53-05",
-  "popularity": 28,
-  "group_popularity": 28,
+  "popularity": 30,
+  "group_popularity": 29,
   "notes": "Components Of This Index And Their Respective Weights Are: Industrial Prices, Non-Agricultural, Wholesale (10); Farm Prices At The Farm (10); Retail Food Prices In 51 Cities (10); Rents, In 32 Cities (5); Clothing, Fuel, Furnishings, Etc., Retail (10); Freight And Transportation Costs (5); Realty Value, Urban And Farm (10); Securities, Bonds, And Stocks (10); Equipment And Machinery (10); Hardware Prices (3); Automobile Prices (2); Wages, Federal Reserve Board, New York Composite (15). \"Data For 1934-November, 1939, Are Correct As Given In The\"Monthly Review\"; They Are Discontinued After November, 1939.\" Telephone Conversation Of 5/24/41 With Reports Division Of The Federal Reserve Board Of New York. Source: Federal Reserve Bank Of New York City, Letter From Reports Department For 1860-1933. For 1934-1939, Data Are From \"Monthly Review Of Credit And Business Conditions.\"\n\nThis NBER data series m04051 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04051"
 }

@@ -1,7 +1,7 @@
 {
   "id": "SMS06112440000000001",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "All Employees: Total Nonfarm in Anaheim-Santa Ana-Irvine, CA (MD)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-16 03:22:10-05",
   "popularity": 1,
-  "group_popularity": 6
+  "group_popularity": 4
 }

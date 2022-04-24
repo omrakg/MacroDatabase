@@ -1,7 +1,7 @@
 {
   "id": "LCEAPR01IEQ661N",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Hourly Earnings: Private Sector for Ireland",
   "observation_start": "1996-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-14 14:52:42-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "OECD descriptor ID: LCEAPR01\nOECD unit ID: IXOB\nOECD country ID: IRL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

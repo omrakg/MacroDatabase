@@ -1,7 +1,7 @@
 {
   "id": "NCOSOC",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Personal Contributions for Social Insurance in North Carolina",
   "observation_start": "1948-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-23 13:32:00-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Please visit http://research.stlouisfed.org/fred2/personalincome for documentation on the derivation of personal income."
 }

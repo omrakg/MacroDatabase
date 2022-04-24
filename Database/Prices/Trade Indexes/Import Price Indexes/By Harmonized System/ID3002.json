@@ -1,7 +1,7 @@
 {
   "id": "ID3002",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Export Price Index (Harmonized System): Human Blood; Animal Blood Prepared for Therapeutic, Prophylactic or Diagnostic Uses, Other Blood Fractions and Immunological Products; Vaccines; Toxins, Cultures (Excluding Yeasts)",
   "observation_start": "2014-12-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-14 07:37:46-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

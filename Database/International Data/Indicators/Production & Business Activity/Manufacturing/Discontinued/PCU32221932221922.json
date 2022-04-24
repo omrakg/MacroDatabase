@@ -1,0 +1,17 @@
+{
+  "id": "PCU32221932221922",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
+  "title": "Producer Price Index by Industry: Other Paperboard Container Manufacturing: Fiber Cans, Tubes, and Similar Fiber Products (DISCONTINUED)",
+  "observation_start": "1975-12-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1985=100",
+  "units_short": "Index Dec 1985=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-11 09:09:33-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

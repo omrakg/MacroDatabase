@@ -1,7 +1,7 @@
 {
   "id": "WPU072A",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Producer Price Index by Commodity: Rubber and Plastic Products: Plastic Packaging Products",
   "observation_start": "2006-12-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:52:58-05",
-  "popularity": 3,
+  "popularity": 4,
   "group_popularity": 33
 }

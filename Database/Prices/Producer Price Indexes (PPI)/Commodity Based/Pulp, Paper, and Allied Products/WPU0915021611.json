@@ -1,7 +1,7 @@
 {
   "id": "WPU0915021611",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Specialty Bags, Pouches, and Liners, Coated and Single-Web Paper",
   "observation_start": "2013-06-01",
   "observation_end": "2017-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-10-12 09:16:38-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

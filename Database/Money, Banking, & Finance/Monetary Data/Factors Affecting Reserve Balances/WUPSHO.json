@@ -1,17 +1,17 @@
 {
   "id": "WUPSHO",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Assets: Unamortized Premiums on Securities Held Outright: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-04-13",
+  "observation_end": "2022-04-20",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-14 15:35:27-05",
-  "popularity": 12,
-  "group_popularity": 12
+  "last_updated": "2022-04-21 15:34:22-05",
+  "popularity": 11,
+  "group_popularity": 11
 }

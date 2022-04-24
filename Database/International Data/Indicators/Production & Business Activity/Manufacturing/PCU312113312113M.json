@@ -1,0 +1,17 @@
+{
+  "id": "PCU312113312113M",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
+  "title": "Producer Price Index by Industry: Ice Manufacturing: Miscellaneous Receipts",
+  "observation_start": "1998-08-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Aug 1998=100",
+  "units_short": "Index Aug 1998=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-13 08:16:25-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

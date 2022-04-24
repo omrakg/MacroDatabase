@@ -1,0 +1,17 @@
+{
+  "id": "PCU3161131611",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
+  "title": "Producer Price Index by Industry: Leather and Hide Tanning and Finishing",
+  "observation_start": "1977-12-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1981=100",
+  "units_short": "Index Jun 1981=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-13 07:59:17-05",
+  "popularity": 4,
+  "group_popularity": 5
+}

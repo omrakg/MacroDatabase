@@ -1,0 +1,17 @@
+{
+  "id": "PCU3121203121207",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
+  "title": "Producer Price Index by Industry: Breweries: Beer and Ale in Barrels and Kegs",
+  "observation_start": "1982-06-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1982=100",
+  "units_short": "Index Jun 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-13 07:55:51-05",
+  "popularity": 13,
+  "group_popularity": 13
+}

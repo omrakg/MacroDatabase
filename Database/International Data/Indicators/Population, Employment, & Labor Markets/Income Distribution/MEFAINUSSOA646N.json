@@ -1,7 +1,7 @@
 {
   "id": "MEFAINUSSOA646N",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Median Family Income in South Census Region",
   "observation_start": "1953-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-09-14 14:11:04-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "Families as of March of the following year."
 }

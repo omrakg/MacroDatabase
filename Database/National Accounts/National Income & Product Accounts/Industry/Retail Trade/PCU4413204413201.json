@@ -1,7 +1,7 @@
 {
   "id": "PCU4413204413201",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Producer Price Index by Industry: Tire Dealers: Tire Dealer Services",
   "observation_start": "2003-12-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:57:34-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 4,
+  "group_popularity": 4
 }

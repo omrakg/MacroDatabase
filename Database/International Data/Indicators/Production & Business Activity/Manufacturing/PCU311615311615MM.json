@@ -1,0 +1,17 @@
+{
+  "id": "PCU311615311615MM",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
+  "title": "Producer Price Index by Industry: Poultry Processing: Miscellaneous Receipts",
+  "observation_start": "1981-12-01",
+  "observation_end": "2003-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1981=100",
+  "units_short": "Index Dec 1981=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:48:41-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

@@ -1,17 +1,17 @@
 {
   "id": "HOUST5FNSA",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More",
   "observation_start": "1963-08-01",
-  "observation_end": "2022-02-01",
+  "observation_end": "2022-03-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-17 07:31:20-05",
-  "popularity": 6,
-  "group_popularity": 43
+  "last_updated": "2022-04-19 07:36:29-05",
+  "popularity": 7,
+  "group_popularity": 48
 }

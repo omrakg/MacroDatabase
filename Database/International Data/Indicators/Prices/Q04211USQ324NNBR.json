@@ -1,7 +1,7 @@
 {
   "id": "Q04211USQ324NNBR",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Price Index of Exports of Iron and Steel for United States",
   "observation_start": "1879-01-01",
   "observation_end": "1923-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:57:20-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "The Data Represent Manufactured Iron And Steel Products Including Machinery And Vehicles. Source: Unpublished Tabulation. For A Description And Coverage Of This Series, See Robert E. Lipsey, Price And Quantity Trends In The Foreign Trade Of The United States, NBER, 1963, Pp.289-295.\n\nThis NBER data series q04211 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: q04211"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPS026",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Beverages and Beverage Materials",
   "observation_start": "1986-01-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-13 08:11:19-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

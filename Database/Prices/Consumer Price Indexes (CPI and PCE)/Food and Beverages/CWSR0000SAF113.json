@@ -1,7 +1,7 @@
 {
   "id": "CWSR0000SAF113",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Fruits and Vegetables in U.S. City Average",
   "observation_start": "1947-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-12 07:43:35-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

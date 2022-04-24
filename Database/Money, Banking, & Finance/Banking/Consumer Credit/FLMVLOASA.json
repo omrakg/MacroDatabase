@@ -1,7 +1,7 @@
 {
   "id": "FLMVLOASA",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Motor Vehicle Loans Owned and Securitized, Flow",
   "observation_start": "1943-04-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-07 14:02:49-05",
   "popularity": 2,
-  "group_popularity": 9,
+  "group_popularity": 7,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
 }

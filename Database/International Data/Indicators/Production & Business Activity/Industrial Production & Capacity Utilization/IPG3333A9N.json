@@ -1,7 +1,7 @@
 {
   "id": "IPG3333A9N",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Industrial Production: Manufacturing: Durable Goods: Commercial and Service Industry Machinery and Other General Purpose Machinery (NAICS = 3333,9)",
   "observation_start": "1972-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-15 08:19:41-05",
-  "popularity": 5,
-  "group_popularity": 7,
+  "popularity": 2,
+  "group_popularity": 6,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 3333,9\n\nSource Code: IP.G3333A9.N"
 }

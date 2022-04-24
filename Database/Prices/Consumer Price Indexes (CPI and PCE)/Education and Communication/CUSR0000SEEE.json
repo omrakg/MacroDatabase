@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SEEE",
-  "realtime_start": "2022-04-17",
-  "realtime_end": "2022-04-17",
+  "realtime_start": "2022-04-24",
+  "realtime_end": "2022-04-24",
   "title": "Consumer Price Index for All Urban Consumers: Information Technology, Hardware and Services in U.S. City Average",
   "observation_start": "2006-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-12 07:37:10-05",
-  "popularity": 30,
-  "group_popularity": 32
+  "popularity": 34,
+  "group_popularity": 35
 }
