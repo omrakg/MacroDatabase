@@ -1,0 +1,21 @@
+{
+  "Puerto Rico": {
+    "id": "SMU72000003231100006",
+    "realtime_start": "2022-04-24",
+    "realtime_end": "2022-04-24",
+    "title": "Production or Nonsupervisory Employees: Non-Durable Goods: Food Manufacturing in Puerto Rico",
+    "observation_start": "2001-01-01",
+    "observation_end": "2017-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Thousands of Persons",
+    "units_short": "Thous. of Persons",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-01-23 15:01:09-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "The Bureau of Labor Statistics (BLS) does not seasonally adjust this series.\u00a0Although the Federal Reserve Bank of St. Louis seasonally adjusts series whenever possible, the current nature of this series does not allow for such an adjustment.",
+    "path": "Database/International Data/Countries/Puerto Rico"
+  }
+}
