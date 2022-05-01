@@ -1,2 +1,44 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                       | observation_start   | observation_end   |
+|------------------|-------------------------------------------------------------|---------------------|-------------------|
+| CPF1M            | 30-Day AA Financial Commercial Paper Interest Rate          | 1997-01-01          | 2022-03-01        |
+| CPF2M            | 60-Day AA Financial Commercial Paper Interest Rate          | 1997-01-01          | 2022-03-01        |
+| CPF3M            | 90-Day AA Financial Commercial Paper Interest Rate          | 1997-01-01          | 2022-03-01        |
+| CPN1M            | 30-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-01          | 2022-03-01        |
+| CPN2M            | 60-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-01          | 2022-03-01        |
+| CPN3M            | 90-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-01          | 2022-03-01        |
+| DCPF1M           | 30-Day AA Financial Commercial Paper Interest Rate          | 1997-01-02          | 2022-04-27        |
+| DCPF2M           | 60-Day AA Financial Commercial Paper Interest Rate          | 1997-01-02          | 2022-04-25        |
+| DCPF3M           | 90-Day AA Financial Commercial Paper Interest Rate          | 1997-01-02          | 2022-04-28        |
+| DCPN2M           | 60-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-02          | 2022-04-27        |
+| DCPN3M           | 90-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-02          | 2022-04-27        |
+| DCPN30           | 30-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-02          | 2022-04-28        |
+| RIFSPPAAAD01NB   | Overnight AA Asset-Backed Commercial Paper Interest Rate    | 2001-01-02          | 2022-04-27        |
+| RIFSPPAAAD07NB   | 7-Day AA Asset-Backed Commercial Paper Interest Rate        | 2001-01-02          | 2022-04-27        |
+| RIFSPPAAAD15NB   | 15-Day AA Asset-Backed Commercial Paper Interest Rate       | 2001-01-02          | 2022-04-27        |
+| RIFSPPAAAD30NB   | 30-Day AA Asset-Backed Commercial Paper Interest Rate       | 2001-01-02          | 2022-04-27        |
+| RIFSPPAAAD60NB   | 60-Day AA Asset-Backed Commercial Paper Interest Rate       | 2001-01-02          | 2022-04-27        |
+| RIFSPPAAAD90NB   | 90-Day AA Asset-Backed Commercial Paper Interest Rate       | 2001-01-02          | 2022-04-27        |
+| RIFSPPFAAD01NB   | Overnight AA Financial Commercial Paper Interest Rate       | 1998-01-02          | 2022-04-27        |
+| RIFSPPFAAD07NB   | 7-Day AA Financial Commercial Paper Interest Rate           | 1997-01-02          | 2022-04-27        |
+| RIFSPPFAAD15NB   | 15-Day AA Financial Commercial Paper Interest Rate          | 1997-01-02          | 2022-04-27        |
+| RIFSPPFAAD30NB   | 30-Day AA Financial Commercial Paper Interest Rate          | 1997-01-02          | 2022-04-27        |
+| RIFSPPFAAD60NB   | 60-Day AA Financial Commercial Paper Interest Rate          | 1997-01-02          | 2022-04-25        |
+| RIFSPPFAAD90NB   | 90-Day AA Financial Commercial Paper Interest Rate          | 1997-01-02          | 2022-04-27        |
+| RIFSPPNA2P2D01NB | Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate | 1998-01-02          | 2022-04-27        |
+| RIFSPPNA2P2D07NB | 7-Day A2/P2 Nonfinancial Commercial Paper Interest Rate     | 1998-01-02          | 2022-04-27        |
+| RIFSPPNA2P2D15NB | 15-Day A2/P2 Nonfinancial Commercial Paper Interest Rate    | 1998-01-02          | 2022-04-27        |
+| RIFSPPNA2P2D30NB | 30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate    | 1997-01-02          | 2022-04-27        |
+| RIFSPPNA2P2D60NB | 60-Day A2/P2 Nonfinancial Commercial Paper Interest Rate    | 1998-01-02          | 2022-04-27        |
+| RIFSPPNA2P2D90NB | 90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate    | 1998-01-02          | 2022-04-27        |
+| RIFSPPNAAD01NB   | Overnight AA Nonfinancial Commercial Paper Interest Rate    | 1998-01-02          | 2022-04-27        |
+| RIFSPPNAAD07NB   | 7-Day AA Nonfinancial Commercial Paper Interest Rate        | 1997-01-02          | 2022-04-27        |
+| RIFSPPNAAD15NB   | 15-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-02          | 2022-04-27        |
+| RIFSPPNAAD30NB   | 30-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-02          | 2022-04-27        |
+| RIFSPPNAAD60NB   | 60-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-02          | 2022-04-27        |
+| RIFSPPNAAD90NB   | 90-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-02          | 2022-04-27        |
+| WCPF1M           | 30-Day AA Financial Commercial Paper Interest Rate          | 1997-01-03          | 2022-04-22        |
+| WCPF2M           | 60-Day AA Financial Commercial Paper Interest Rate          | 1997-01-03          | 2022-04-22        |
+| WCPF3M           | 90-Day AA Financial Commercial Paper Interest Rate          | 1997-01-03          | 2022-04-22        |
+| WCPN1M           | 30-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-03          | 2022-04-22        |
+| WCPN2M           | 60-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-03          | 2022-04-22        |
+| WCPN3M           | 90-Day AA Nonfinancial Commercial Paper Interest Rate       | 1997-01-03          | 2022-04-22        |

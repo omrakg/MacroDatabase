@@ -1,10 +1,10 @@
 | id                     | title                                                                                                                               | observation_start   | observation_end   |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS20500Q         | All-Transactions House Price Index for Durham-Chapel Hill, NC (MSA)                                                                 | 1978-07-01          | 2021-10-01        |
-| DURH537BP1FH           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Durham-Chapel Hill, NC (MSA)                        | 2004-01-01          | 2022-02-01        |
-| DURH537BP1FHSA         | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Durham-Chapel Hill, NC (MSA)                        | 2004-01-01          | 2022-02-01        |
-| DURH537BPPRIV          | New Private Housing Structures Authorized by Building Permits for Durham-Chapel Hill, NC (MSA)                                      | 2004-01-01          | 2022-02-01        |
-| DURH537BPPRIVSA        | New Private Housing Structures Authorized by Building Permits for Durham-Chapel Hill, NC (MSA)                                      | 2004-01-01          | 2022-02-01        |
+| DURH537BP1FH           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Durham-Chapel Hill, NC (MSA)                        | 2004-01-01          | 2022-03-01        |
+| DURH537BP1FHSA         | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Durham-Chapel Hill, NC (MSA)                        | 2004-01-01          | 2022-03-01        |
+| DURH537BPPRIV          | New Private Housing Structures Authorized by Building Permits for Durham-Chapel Hill, NC (MSA)                                      | 2004-01-01          | 2022-03-01        |
+| DURH537BPPRIVSA        | New Private Housing Structures Authorized by Building Permits for Durham-Chapel Hill, NC (MSA)                                      | 2004-01-01          | 2022-03-01        |
 | DURH537EDUH            | All Employees: Education and Health Services in Durham-Chapel Hill, NC (MSA)                                                        | 1990-01-01          | 2022-03-01        |
 | DURH537EDUHN           | All Employees: Education and Health Services in Durham-Chapel Hill, NC (MSA)                                                        | 1990-01-01          | 2022-03-01        |
 | DURH537FIRE            | All Employees: Financial Activities in Durham-Chapel Hill, NC (MSA)                                                                 | 1990-01-01          | 2022-03-01        |
@@ -15,8 +15,8 @@
 | DURH537INFON           | All Employees: Information in Durham-Chapel Hill, NC (MSA)                                                                          | 1990-01-01          | 2022-03-01        |
 | DURH537LEIH            | All Employees: Leisure and Hospitality in Durham-Chapel Hill, NC (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | DURH537LEIHN           | All Employees: Leisure and Hospitality in Durham-Chapel Hill, NC (MSA)                                                              | 1990-01-01          | 2022-03-01        |
-| DURH537LF              | Civilian Labor Force in Durham-Chapel Hill, NC (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
-| DURH537LFN             | Civilian Labor Force in Durham-Chapel Hill, NC (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
+| DURH537LF              | Civilian Labor Force in Durham-Chapel Hill, NC (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
+| DURH537LFN             | Civilian Labor Force in Durham-Chapel Hill, NC (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
 | DURH537MFG             | All Employees: Manufacturing in Durham-Chapel Hill, NC (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | DURH537MFGN            | All Employees: Manufacturing in Durham-Chapel Hill, NC (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | DURH537NA              | All Employees: Total Nonfarm in Durham-Chapel Hill, NC (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
@@ -30,8 +30,8 @@
 | DURH537SRVON           | All Employees: Other Services in Durham-Chapel Hill, NC (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | DURH537TRAD            | All Employees: Trade, Transportation, and Utilities in Durham-Chapel Hill, NC (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | DURH537TRADN           | All Employees: Trade, Transportation, and Utilities in Durham-Chapel Hill, NC (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| DURH537UR              | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
-| DURH537URN             | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
+| DURH537UR              | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
+| DURH537URN             | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
 | ENUC205030010          | Total Quarterly Wages in Durham-Chapel Hill, NC (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
 | ENUC205030010SA        | Total Quarterly Wages in Durham-Chapel Hill, NC (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
 | ENUC205040010          | Average Weekly Wages for Employees in Total Covered Establishments in Durham, NC (MSA)                                              | 1990-01-01          | 2021-07-01        |
@@ -41,12 +41,12 @@
 | ENUC205040510          | Average Weekly Wages for Employees in Private Establishments in Durham, NC (MSA)                                                    | 1990-01-01          | 2021-07-01        |
 | ENUC205040510SA        | Average Weekly Wages for Employees in Private Establishments in Durham, NC (MSA)                                                    | 1990-01-01          | 2021-07-01        |
 | IRPD20500              | Implicit Regional Price Deflator for Durham-Chapel Hill, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| LAUMT372050000000003A  | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2020-01-01        |
-| LAUMT372050000000004   | Unemployed Persons in Durham-Chapel Hill, NC (MSA)                                                                                  | 1990-01-01          | 2022-02-01        |
-| LAUMT372050000000004A  | Unemployed Persons in Durham-Chapel Hill, NC (MSA)                                                                                  | 1990-01-01          | 2020-01-01        |
-| LAUMT372050000000005   | Employed Persons in Durham-Chapel Hill, NC (MSA)                                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT372050000000005A  | Employed Persons in Durham-Chapel Hill, NC (MSA)                                                                                    | 1990-01-01          | 2020-01-01        |
-| LAUMT372050000000006A  | Civilian Labor Force in Durham-Chapel Hill, NC (MSA)                                                                                | 1990-01-01          | 2020-01-01        |
+| LAUMT372050000000003A  | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
+| LAUMT372050000000004   | Unemployed Persons in Durham-Chapel Hill, NC (MSA)                                                                                  | 1990-01-01          | 2022-03-01        |
+| LAUMT372050000000004A  | Unemployed Persons in Durham-Chapel Hill, NC (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
+| LAUMT372050000000005   | Employed Persons in Durham-Chapel Hill, NC (MSA)                                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT372050000000005A  | Employed Persons in Durham-Chapel Hill, NC (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
+| LAUMT372050000000006A  | Civilian Labor Force in Durham-Chapel Hill, NC (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | NGMP20500              | Total Gross Domestic Product for Durham-Chapel Hill, NC (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
 | QGMP20500              | Total Quantity Indexes for Real GDP for Durham-Chapel Hill, NC (MSA)                                                                | 2001-01-01          | 2020-01-01        |
 | RADPOP                 | Resident Population in Durham-Chapel Hill, NC (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
@@ -64,13 +64,10 @@
 | SMU37205000500000001SA | All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | SMU37205000500000002   | Average Weekly Hours of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU37205000500000002A  | Average Weekly Hours of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU37205000500000002SA | Average Weekly Hours of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU37205000500000003   | Average Hourly Earnings of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU37205000500000003A  | Average Hourly Earnings of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU37205000500000003SA | Average Hourly Earnings of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU37205000500000011   | Average Weekly Earnings of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU37205000500000011A  | Average Weekly Earnings of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU37205000500000011SA | Average Weekly Earnings of All Employees: Total Private in Durham-Chapel Hill, NC (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU37205000600000001   | All Employees: Goods Producing in Durham-Chapel Hill, NC (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
 | SMU37205000600000001A  | All Employees: Goods Producing in Durham-Chapel Hill, NC (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | SMU37205000600000001SA | All Employees: Goods Producing in Durham-Chapel Hill, NC (MSA)                                                                      | 1990-01-01          | 2022-03-01        |

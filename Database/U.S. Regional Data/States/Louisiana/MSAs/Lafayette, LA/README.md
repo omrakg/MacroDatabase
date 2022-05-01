@@ -35,8 +35,8 @@
 | LAFA122INFON              | All Employees: Information in Lafayette, LA (MSA)                                                                          | 1990-01-01          | 2022-03-01        |
 | LAFA122LEIH               | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | LAFA122LEIHN              | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
-| LAFA122LF                 | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
-| LAFA122LFN                | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
+| LAFA122LF                 | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
+| LAFA122LFN                | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
 | LAFA122MFG                | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAFA122MFGN               | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAFA122NA                 | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
@@ -48,14 +48,14 @@
 | LAFA122SRVON              | All Employees: Other Services in Lafayette, LA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | LAFA122TRAD               | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | LAFA122TRADN              | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| LAFA122UR                 | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
-| LAFA122URN                | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
-| LAUMT222918000000003A     | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2020-01-01        |
-| LAUMT222918000000004      | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2022-02-01        |
-| LAUMT222918000000004A     | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2020-01-01        |
-| LAUMT222918000000005      | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT222918000000005A     | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2020-01-01        |
-| LAUMT222918000000006A     | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2020-01-01        |
+| LAFA122UR                 | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
+| LAFA122URN                | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
+| LAUMT222918000000003A     | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
+| LAUMT222918000000004      | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2022-03-01        |
+| LAUMT222918000000004A     | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
+| LAUMT222918000000005      | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT222918000000005A     | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
+| LAUMT222918000000006A     | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA29180          | Market Hotness: Listing Views per Property in Lafayette, LA (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA29180        | Market Hotness: Listing Views per Property Versus the United States in Lafayette, LA (CBSA)                                | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA29180          | Market Hotness: Listing Views per Property in Lafayette, LA (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
@@ -113,13 +113,10 @@
 | SMU22291800500000001SA    | All Employees: Total Private in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | SMU22291800500000002      | Average Weekly Hours of All Employees: Total Private in Lafayette, LA (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU22291800500000002A     | Average Weekly Hours of All Employees: Total Private in Lafayette, LA (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU22291800500000002SA    | Average Weekly Hours of All Employees: Total Private in Lafayette, LA (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU22291800500000003      | Average Hourly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU22291800500000003A     | Average Hourly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU22291800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU22291800500000011      | Average Weekly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU22291800500000011A     | Average Weekly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU22291800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU22291800600000001      | All Employees: Goods Producing in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
 | SMU22291800600000001A     | All Employees: Goods Producing in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | SMU22291800600000001SA    | All Employees: Goods Producing in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |

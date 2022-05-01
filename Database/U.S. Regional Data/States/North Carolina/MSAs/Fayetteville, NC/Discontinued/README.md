@@ -1,3 +1,6 @@
-| id          | title                                                                                  | observation_start   | observation_end   |
-|-------------|----------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP22180 | Total Per Capita Real Gross Domestic Product for Fayetteville, NC (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| id                     | title                                                                                            | observation_start   | observation_end   |
+|------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP22180            | Total Per Capita Real Gross Domestic Product for Fayetteville, NC (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
+| SMU37221800500000002SA | Average Weekly Hours of All Employees: Total Private in Fayetteville, NC (MSA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU37221800500000003SA | Average Hourly Earnings of All Employees: Total Private in Fayetteville, NC (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU37221800500000011SA | Average Weekly Earnings of All Employees: Total Private in Fayetteville, NC (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

@@ -23,12 +23,12 @@
 | HORAYYMSA40420            | Market Hotness: Hotness Rank in Rockford, IL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA40420              | Market Hotness: Hotness Score in Rockford, IL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD40420                 | Implicit Regional Price Deflator for Rockford, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT174042000000003A     | Unemployment Rate in Rockford, IL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT174042000000004      | Unemployed Persons in Rockford, IL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT174042000000004A     | Unemployed Persons in Rockford, IL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT174042000000005      | Employed Persons in Rockford, IL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT174042000000005A     | Employed Persons in Rockford, IL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT174042000000006A     | Civilian Labor Force in Rockford, IL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT174042000000003A     | Unemployment Rate in Rockford, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT174042000000004      | Unemployed Persons in Rockford, IL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT174042000000004A     | Unemployed Persons in Rockford, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT174042000000005      | Employed Persons in Rockford, IL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT174042000000005A     | Employed Persons in Rockford, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT174042000000006A     | Civilian Labor Force in Rockford, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA40420          | Market Hotness: Listing Views per Property in Rockford, IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA40420        | Market Hotness: Listing Views per Property Versus the United States in Rockford, IL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA40420          | Market Hotness: Listing Views per Property in Rockford, IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -82,8 +82,8 @@
 | ROCK417INFON              | All Employees: Information in Rockford, IL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | ROCK417LEIH               | All Employees: Leisure and Hospitality in Rockford, IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | ROCK417LEIHN              | All Employees: Leisure and Hospitality in Rockford, IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| ROCK417LF                 | Civilian Labor Force in Rockford, IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| ROCK417LFN                | Civilian Labor Force in Rockford, IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| ROCK417LF                 | Civilian Labor Force in Rockford, IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| ROCK417LFN                | Civilian Labor Force in Rockford, IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | ROCK417MFG                | All Employees: Manufacturing in Rockford, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ROCK417MFGN               | All Employees: Manufacturing in Rockford, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ROCK417NA                 | All Employees: Total Nonfarm in Rockford, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -97,8 +97,8 @@
 | ROCK417SRVON              | All Employees: Other Services in Rockford, IL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | ROCK417TRAD               | All Employees: Trade, Transportation, and Utilities in Rockford, IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | ROCK417TRADN              | All Employees: Trade, Transportation, and Utilities in Rockford, IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| ROCK417UR                 | Unemployment Rate in Rockford, IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| ROCK417URN                | Unemployment Rate in Rockford, IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| ROCK417UR                 | Unemployment Rate in Rockford, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| ROCK417URN                | Unemployment Rate in Rockford, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | RPI40420                  | Real Personal Income for Rockford, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC40420                | Real Per Capita Personal Income for Rockford, IL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL40420               | Regional Price Parities: All Items for Rockford, IL (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -112,13 +112,10 @@
 | SMU17404200500000001SA    | All Employees: Total Private in Rockford, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU17404200500000002      | Average Weekly Hours of All Employees: Total Private in Rockford, IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17404200500000002A     | Average Weekly Hours of All Employees: Total Private in Rockford, IL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU17404200500000002SA    | Average Weekly Hours of All Employees: Total Private in Rockford, IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17404200500000003      | Average Hourly Earnings of All Employees: Total Private in Rockford, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17404200500000003A     | Average Hourly Earnings of All Employees: Total Private in Rockford, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17404200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Rockford, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17404200500000011      | Average Weekly Earnings of All Employees: Total Private in Rockford, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17404200500000011A     | Average Weekly Earnings of All Employees: Total Private in Rockford, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17404200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Rockford, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17404200600000001      | All Employees: Goods Producing in Rockford, IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU17404200600000001A     | All Employees: Goods Producing in Rockford, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU17404200600000001SA    | All Employees: Goods Producing in Rockford, IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

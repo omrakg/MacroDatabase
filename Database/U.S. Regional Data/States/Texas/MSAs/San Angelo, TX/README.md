@@ -20,12 +20,12 @@
 | ENUC416640510             | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC416640510SA           | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD41660                 | Implicit Regional Price Deflator for San Angelo, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT484166000000003A     | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT484166000000004      | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT484166000000004A     | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT484166000000005      | Employed Persons in San Angelo, TX (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT484166000000005A     | Employed Persons in San Angelo, TX (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT484166000000006A     | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT484166000000003A     | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT484166000000004      | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT484166000000004A     | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT484166000000005      | Employed Persons in San Angelo, TX (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT484166000000005A     | Employed Persons in San Angelo, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT484166000000006A     | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR41660          | Housing Inventory: Median Days on Market in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM41660        | Housing Inventory: Median Days on Market Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY41660        | Housing Inventory: Median Days on Market Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -60,10 +60,10 @@
 | RPPGOOD41660              | Regional Price Parities: Goods for San Angelo, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH41660          | Regional Price Parities: Services: Other for San Angelo, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT41660         | Regional Price Parities: Services: Rents for San Angelo, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SANA648BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Angelo, TX (MSA)            | 1988-01-01          | 2022-02-01        |
-| SANA648BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Angelo, TX (MSA)            | 1988-01-01          | 2022-02-01        |
-| SANA648BPPRIV             | New Private Housing Units Authorized by Building Permits for San Angelo, TX (MSA)                               | 1988-01-01          | 2022-02-01        |
-| SANA648BPPRIVSA           | New Private Housing Units Authorized by Building Permits for San Angelo, TX (MSA)                               | 1988-01-01          | 2022-02-01        |
+| SANA648BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Angelo, TX (MSA)            | 1988-01-01          | 2022-03-01        |
+| SANA648BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Angelo, TX (MSA)            | 1988-01-01          | 2022-03-01        |
+| SANA648BPPRIV             | New Private Housing Units Authorized by Building Permits for San Angelo, TX (MSA)                               | 1988-01-01          | 2022-03-01        |
+| SANA648BPPRIVSA           | New Private Housing Units Authorized by Building Permits for San Angelo, TX (MSA)                               | 1988-01-01          | 2022-03-01        |
 | SANA648EDUH               | All Employees: Education and Health Services in San Angelo, TX (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SANA648EDUHN              | All Employees: Education and Health Services in San Angelo, TX (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SANA648FIRE               | All Employees: Financial Activities in San Angelo, TX (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -74,8 +74,8 @@
 | SANA648INFON              | All Employees: Information in San Angelo, TX (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | SANA648LEIH               | All Employees: Leisure and Hospitality in San Angelo, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | SANA648LEIHN              | All Employees: Leisure and Hospitality in San Angelo, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| SANA648LF                 | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| SANA648LFN                | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SANA648LF                 | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| SANA648LFN                | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | SANA648MFG                | All Employees: Manufacturing in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SANA648MFGN               | All Employees: Manufacturing in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SANA648NA                 | All Employees: Total Nonfarm in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -89,8 +89,8 @@
 | SANA648SRVON              | All Employees: Other Services in San Angelo, TX (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | SANA648TRAD               | All Employees: Trade, Transportation, and Utilities in San Angelo, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | SANA648TRADN              | All Employees: Trade, Transportation, and Utilities in San Angelo, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| SANA648UR                 | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| SANA648URN                | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| SANA648UR                 | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| SANA648URN                | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SMS48416600000000026      | All Employees: Total Nonfarm in San Angelo, TX (MSA)                                                            | 1990-04-01          | 2022-03-01        |
 | SMU48416600000000001A     | All Employees: Total Nonfarm in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48416600500000001      | All Employees: Total Private in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -98,13 +98,10 @@
 | SMU48416600500000001SA    | All Employees: Total Private in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU48416600500000002      | Average Weekly Hours of All Employees: Total Private in San Angelo, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48416600500000002A     | Average Weekly Hours of All Employees: Total Private in San Angelo, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48416600500000002SA    | Average Weekly Hours of All Employees: Total Private in San Angelo, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48416600500000003      | Average Hourly Earnings of All Employees: Total Private in San Angelo, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48416600500000003A     | Average Hourly Earnings of All Employees: Total Private in San Angelo, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48416600500000003SA    | Average Hourly Earnings of All Employees: Total Private in San Angelo, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48416600500000011      | Average Weekly Earnings of All Employees: Total Private in San Angelo, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48416600500000011A     | Average Weekly Earnings of All Employees: Total Private in San Angelo, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48416600500000011SA    | Average Weekly Earnings of All Employees: Total Private in San Angelo, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48416600600000001      | All Employees: Goods Producing in San Angelo, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU48416600600000001A     | All Employees: Goods Producing in San Angelo, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU48416600600000001SA    | All Employees: Goods Producing in San Angelo, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |

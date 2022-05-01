@@ -24,14 +24,14 @@
 | HORAMSA39340              | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA39340            | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA39340              | Market Hotness: Hotness Score in Provo-Orem, UT (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
-| IHLCHG39340               | Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                  | 2020-02-01          | 2022-04-15        |
+| IHLCHG39340               | Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                  | 2020-02-01          | 2022-04-22        |
 | IRPD39340                 | Implicit Regional Price Deflator for Provo-Orem, UT (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT493934000000003A     | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT493934000000004      | Unemployed Persons in Provo-Orem, UT (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT493934000000004A     | Unemployed Persons in Provo-Orem, UT (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT493934000000005      | Employed Persons in Provo-Orem, UT (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT493934000000005A     | Employed Persons in Provo-Orem, UT (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT493934000000006A     | Civilian Labor Force in Provo-Orem, UT (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT493934000000003A     | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT493934000000004      | Unemployed Persons in Provo-Orem, UT (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT493934000000004A     | Unemployed Persons in Provo-Orem, UT (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT493934000000005      | Employed Persons in Provo-Orem, UT (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT493934000000005A     | Employed Persons in Provo-Orem, UT (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT493934000000006A     | Civilian Labor Force in Provo-Orem, UT (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA39340          | Market Hotness: Listing Views per Property in Provo-Orem, UT (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA39340        | Market Hotness: Listing Views per Property Versus the United States in Provo-Orem, UT (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA39340          | Market Hotness: Listing Views per Property in Provo-Orem, UT (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -82,8 +82,8 @@
 | PROV349INFON              | All Employees: Information in Provo-Orem, UT (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | PROV349LEIH               | All Employees: Leisure and Hospitality in Provo-Orem, UT (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | PROV349LEIHN              | All Employees: Leisure and Hospitality in Provo-Orem, UT (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| PROV349LF                 | Civilian Labor Force in Provo-Orem, UT (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| PROV349LFN                | Civilian Labor Force in Provo-Orem, UT (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| PROV349LF                 | Civilian Labor Force in Provo-Orem, UT (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| PROV349LFN                | Civilian Labor Force in Provo-Orem, UT (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | PROV349MFG                | All Employees: Manufacturing in Provo-Orem, UT (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | PROV349MFGN               | All Employees: Manufacturing in Provo-Orem, UT (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | PROV349NA                 | All Employees: Total Nonfarm in Provo-Orem, UT (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -97,8 +97,8 @@
 | PROV349SRVON              | All Employees: Other Services in Provo-Orem, UT (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | PROV349TRAD               | All Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | PROV349TRADN              | All Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| PROV349UR                 | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| PROV349URN                | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| PROV349UR                 | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| PROV349URN                | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | PRVPOP                    | Resident Population in Provo-Orem, UT (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | QGMP39340                 | Total Quantity Indexes for Real GDP for Provo-Orem, UT (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP39340                 | Total Real Gross Domestic Product for Provo-Orem, UT (MSA)                                                      | 2001-01-01          | 2020-01-01        |
@@ -115,13 +115,10 @@
 | SMU49393400500000001SA    | All Employees: Total Private in Provo-Orem, UT (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU49393400500000002      | Average Weekly Hours of All Employees: Total Private in Provo-Orem, UT (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU49393400500000002A     | Average Weekly Hours of All Employees: Total Private in Provo-Orem, UT (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU49393400500000002SA    | Average Weekly Hours of All Employees: Total Private in Provo-Orem, UT (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU49393400500000003      | Average Hourly Earnings of All Employees: Total Private in Provo-Orem, UT (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU49393400500000003A     | Average Hourly Earnings of All Employees: Total Private in Provo-Orem, UT (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU49393400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Provo-Orem, UT (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU49393400500000011      | Average Weekly Earnings of All Employees: Total Private in Provo-Orem, UT (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU49393400500000011A     | Average Weekly Earnings of All Employees: Total Private in Provo-Orem, UT (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU49393400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Provo-Orem, UT (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU49393400600000001      | All Employees: Goods Producing in Provo-Orem, UT (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU49393400600000001A     | All Employees: Goods Producing in Provo-Orem, UT (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU49393400600000001SA    | All Employees: Goods Producing in Provo-Orem, UT (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -142,13 +139,10 @@
 | SMU49393404000000006SA    | Production or Nonsupervisory Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)            | 2002-01-01          | 2022-03-01        |
 | SMU49393404000000007      | Average Weekly Hours of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)      | 2002-01-01          | 2022-03-01        |
 | SMU49393404000000007A     | Average Weekly Hours of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)      | 2002-01-01          | 2021-01-01        |
-| SMU49393404000000007SA    | Average Weekly Hours of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)      | 2002-01-01          | 2022-03-01        |
 | SMU49393404000000008      | Average Hourly Earnings of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)   | 2002-01-01          | 2022-03-01        |
 | SMU49393404000000008A     | Average Hourly Earnings of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)   | 2002-01-01          | 2021-01-01        |
-| SMU49393404000000008SA    | Average Hourly Earnings of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)   | 2002-01-01          | 2022-03-01        |
 | SMU49393404000000030      | Average Weekly Earnings of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)   | 2002-01-01          | 2022-03-01        |
 | SMU49393404000000030A     | Average Weekly Earnings of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)   | 2002-01-01          | 2021-01-01        |
-| SMU49393404000000030SA    | Average Weekly Earnings of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA)   | 2002-01-01          | 2022-03-01        |
 | SMU49393404100000001      | All Employees: Wholesale Trade in Provo-Orem, UT (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU49393404100000001A     | All Employees: Wholesale Trade in Provo-Orem, UT (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU49393404100000001SA    | All Employees: Wholesale Trade in Provo-Orem, UT (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -160,13 +154,10 @@
 | SMU49393404200000006SA    | Production or Nonsupervisory Employees: Retail Trade in Provo-Orem, UT (MSA)                                    | 2002-01-01          | 2022-03-01        |
 | SMU49393404200000007      | Average Weekly Hours of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                              | 2002-01-01          | 2022-03-01        |
 | SMU49393404200000007A     | Average Weekly Hours of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                              | 2002-01-01          | 2021-01-01        |
-| SMU49393404200000007SA    | Average Weekly Hours of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                              | 2002-01-01          | 2022-03-01        |
 | SMU49393404200000008      | Average Hourly Earnings of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                           | 2002-01-01          | 2022-03-01        |
 | SMU49393404200000008A     | Average Hourly Earnings of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                           | 2002-01-01          | 2021-01-01        |
-| SMU49393404200000008SA    | Average Hourly Earnings of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                           | 2002-01-01          | 2022-03-01        |
 | SMU49393404200000030      | Average Weekly Earnings of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                           | 2002-01-01          | 2022-03-01        |
 | SMU49393404200000030A     | Average Weekly Earnings of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                           | 2002-01-01          | 2021-01-01        |
-| SMU49393404200000030SA    | Average Weekly Earnings of Production Employees: Retail Trade in Provo-Orem, UT (MSA)                           | 2002-01-01          | 2022-03-01        |
 | SMU49393404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Provo-Orem, UT (MSA) | 1990-01-01          | 2022-03-01        |
 | SMU49393404300000001A     | All Employees: Transportation and Utilities in Provo-Orem, UT (MSA)                                             | 1990-01-01          | 2021-01-01        |
 | SMU49393404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Provo-Orem, UT (MSA) | 1990-01-01          | 2022-03-01        |

@@ -9,6 +9,9 @@
 | NORAGRIDX              | Economic Conditions Index for New Orleans-Metairie, LA (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
 | PCRGMP35380            | Total Per Capita Real Gross Domestic Product for New Orleans-Metairie, LA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
 | ROANOR                 | Return on Average Assets for Commercial Banks with Assets under $5B in New Orleans-Metairie, LA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SMU22353800500000002SA | Average Weekly Hours of All Employees: Total Private in New Orleans-Metairie, LA (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
+| SMU22353800500000003SA | Average Hourly Earnings of All Employees: Total Private in New Orleans-Metairie, LA (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU22353800500000011SA | Average Weekly Earnings of All Employees: Total Private in New Orleans-Metairie, LA (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
 | SMU22353801021100001   | All Employees: Mining: Oil and Gas Extraction in New Orleans-Metairie-Kenner, LA (MSA) (DISCONTINUED)                           | 2005-01-01          | 2013-12-01        |
 | SMU22353801021100001A  | All Employees: Mining: Oil and Gas Extraction in New Orleans-Metairie-Kenner, LA (MSA) (DISCONTINUED)                           | 2005-01-01          | 2012-01-01        |
 | SMU22353801021100001SA | All Employees: Mining: Oil and Gas Extraction in New Orleans-Metairie-Kenner, LA (MSA) (DISCONTINUED)                           | 2005-01-01          | 2013-12-01        |

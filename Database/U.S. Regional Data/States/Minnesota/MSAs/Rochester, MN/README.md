@@ -26,12 +26,12 @@
 | HOSCMSA40340              | Market Hotness: Hotness Score in Rochester, MN (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD40340                 | Implicit Regional Price Deflator for Rochester, MN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD40380                 | Implicit Regional Price Deflator for Rochester, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT274034000000003A     | Unemployment Rate in Rochester, MN (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT274034000000004      | Unemployed Persons in Rochester, MN (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT274034000000004A     | Unemployed Persons in Rochester, MN (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT274034000000005      | Employed Persons in Rochester, MN (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT274034000000005A     | Employed Persons in Rochester, MN (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT274034000000006A     | Civilian Labor Force in Rochester, MN (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT274034000000003A     | Unemployment Rate in Rochester, MN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT274034000000004      | Unemployed Persons in Rochester, MN (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT274034000000004A     | Unemployed Persons in Rochester, MN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT274034000000005      | Employed Persons in Rochester, MN (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT274034000000005A     | Employed Persons in Rochester, MN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT274034000000006A     | Civilian Labor Force in Rochester, MN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA40340          | Market Hotness: Listing Views per Property in Rochester, MN (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA40340        | Market Hotness: Listing Views per Property Versus the United States in Rochester, MN (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA40340          | Market Hotness: Listing Views per Property in Rochester, MN (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -84,8 +84,8 @@
 | ROCH327INFON              | All Employees: Information in Rochester, MN (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | ROCH327LEIH               | All Employees: Leisure and Hospitality in Rochester, MN (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | ROCH327LEIHN              | All Employees: Leisure and Hospitality in Rochester, MN (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| ROCH327LF                 | Civilian Labor Force in Rochester, MN (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| ROCH327LFN                | Civilian Labor Force in Rochester, MN (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| ROCH327LF                 | Civilian Labor Force in Rochester, MN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| ROCH327LFN                | Civilian Labor Force in Rochester, MN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | ROCH327MFG                | All Employees: Manufacturing in Rochester, MN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ROCH327MFGN               | All Employees: Manufacturing in Rochester, MN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ROCH327NA                 | All Employees: Total Nonfarm in Rochester, MN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -99,8 +99,8 @@
 | ROCH327SRVON              | All Employees: Other Services in Rochester, MN (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | ROCH327TRAD               | All Employees: Trade, Transportation, and Utilities in Rochester, MN (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | ROCH327TRADN              | All Employees: Trade, Transportation, and Utilities in Rochester, MN (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| ROCH327UR                 | Unemployment Rate in Rochester, MN (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| ROCH327URN                | Unemployment Rate in Rochester, MN (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| ROCH327UR                 | Unemployment Rate in Rochester, MN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| ROCH327URN                | Unemployment Rate in Rochester, MN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | ROTPOP                    | Resident Population in Rochester, MN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | RPI40340                  | Real Personal Income for Rochester, MN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPI40380                  | Real Personal Income for Rochester, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -122,13 +122,10 @@
 | SMU27403400500000001SA    | All Employees: Total Private in Rochester, MN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU27403400500000002      | Average Weekly Hours of All Employees: Total Private in Rochester, MN (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU27403400500000002A     | Average Weekly Hours of All Employees: Total Private in Rochester, MN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU27403400500000002SA    | Average Weekly Hours of All Employees: Total Private in Rochester, MN (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU27403400500000003      | Average Hourly Earnings of All Employees: Total Private in Rochester, MN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU27403400500000003A     | Average Hourly Earnings of All Employees: Total Private in Rochester, MN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU27403400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Rochester, MN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU27403400500000011      | Average Weekly Earnings of All Employees: Total Private in Rochester, MN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU27403400500000011A     | Average Weekly Earnings of All Employees: Total Private in Rochester, MN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU27403400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Rochester, MN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU27403400600000001      | All Employees: Goods Producing in Rochester, MN (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU27403400600000001A     | All Employees: Goods Producing in Rochester, MN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU27403400600000001SA    | All Employees: Goods Producing in Rochester, MN (MSA)                                                          | 1990-01-01          | 2022-03-01        |

@@ -8,7 +8,7 @@
 | AZBLZA052SCEN       | Value of Exports to Belize from Arizona                                                                                                     | 1997-01-01          | 2017-01-01        |
 | AZBLZA475SCEN       | Number of Identified Exporters to Belize from Arizona                                                                                       | 1992-01-01          | 2017-01-01        |
 | BARTERICMP25UPZSBLZ | Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Belize                                 | 1970-01-01          | 2010-01-01        |
-| BLZBCAGDPBP6        | Balance of Payments for Belize                                                                                                              | 1980-01-01          | 2026-01-01        |
+| BLZBCAGDPBP6        | Balance of Payments for Belize                                                                                                              | 1980-01-01          | 2027-01-01        |
 | BLZFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Belize                                                                    | 2004-01-01          | 2020-01-01        |
 | BLZFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Belize                                                  | 2004-01-01          | 2020-01-01        |
 | BLZFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Belize                                                                          | 2004-01-01          | 2020-01-01        |
@@ -51,14 +51,14 @@
 | BLZFCSODUXDC        | Use of Financial Services, Assets: Outstanding Loans at Credit Unions and Financial Cooperatives for Belize                                 | 2006-01-01          | 2020-01-01        |
 | BLZGGEIGDP          | General Government Expense for Belize                                                                                                       | 2011-01-01          | 2024-01-01        |
 | BLZGGRGDP           | General Government Revenue for Belize                                                                                                       | 2011-01-01          | 2024-01-01        |
-| BLZGGXCNLGDP        | General Government Net Lending/Borrowing for Belize                                                                                         | 1996-01-01          | 2026-01-01        |
+| BLZGGXCNLGDP        | General Government Net Lending/Borrowing for Belize                                                                                         | 1996-01-01          | 2027-01-01        |
 | BLZGGXGDP           | General Government Total Expenditure for Belize                                                                                             | 2011-01-01          | 2024-01-01        |
-| BLZGGXONLBGDP       | General Government Primary Net Lending/Borrowing for Belize                                                                                 | 1996-01-01          | 2026-01-01        |
-| BLZGGXWDGGDP        | General Government Gross Debt for Belize                                                                                                    | 2001-01-01          | 2026-01-01        |
+| BLZGGXONLBGDP       | General Government Primary Net Lending/Borrowing for Belize                                                                                 | 1996-01-01          | 2027-01-01        |
+| BLZGGXWDGGDP        | General Government Gross Debt for Belize                                                                                                    | 2001-01-01          | 2027-01-01        |
 | BLZNGDPD            | Gross Domestic Product in U.S. Dollars for Belize                                                                                           | 2011-01-01          | 2024-01-01        |
 | BLZNGDPFY           | Fiscal Year Gross Domestic Product for Belize                                                                                               | 2011-01-01          | 2024-01-01        |
-| BLZNGDPRPCH         | Gross Domestic Product for Belize                                                                                                           | 1980-01-01          | 2026-01-01        |
-| BLZPCPIEPCH         | Consumer Prices for Belize                                                                                                                  | 1989-01-01          | 2026-01-01        |
+| BLZNGDPRPCH         | Gross Domestic Product for Belize                                                                                                           | 1980-01-01          | 2027-01-01        |
+| BLZPCPIEPCH         | Consumer Prices for Belize                                                                                                                  | 1989-01-01          | 2027-01-01        |
 | BLZPPPSH            | Purchasing Power Parity, Share of World for Belize                                                                                          | 2011-01-01          | 2024-01-01        |
 | CABLZA052SCEN       | Value of Exports to Belize from California                                                                                                  | 1992-01-01          | 2017-01-01        |
 | CABLZA475SCEN       | Number of Identified Exporters to Belize from California                                                                                    | 1992-01-01          | 2017-01-01        |

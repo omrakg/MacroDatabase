@@ -9,6 +9,9 @@
 | PCRGMP41860            | Total Per Capita Real Gross Domestic Product for San Francisco-Oakland-Hayward, CA (MSA) (DISCONTINUED)                                           | 2001-01-01          | 2017-01-01        |
 | ROASFC                 | Return on Average Assets for Commercial Banks with Assets under $5B in San Francisco-Oakland-Hayward, CA (MSA) (DISCONTINUED)                     | 1989-01-01          | 2020-07-01        |
 | SFCAGRIDX              | Economic Conditions Index for San Francisco-Oakland-Hayward, CA (MSA) (DISCONTINUED)                                                              | 1990-02-01          | 2019-12-01        |
+| SMU06418600500000002SA | Average Weekly Hours of All Employees: Total Private in San Francisco-Oakland-Hayward, CA (MSA) (DISCONTINUED)                                    | 2011-01-01          | 2022-03-01        |
+| SMU06418600500000003SA | Average Hourly Earnings of All Employees: Total Private in San Francisco-Oakland-Hayward, CA (MSA) (DISCONTINUED)                                 | 2011-01-01          | 2022-03-01        |
+| SMU06418600500000011SA | Average Weekly Earnings of All Employees: Total Private in San Francisco-Oakland-Hayward, CA (MSA) (DISCONTINUED)                                 | 2011-01-01          | 2022-03-01        |
 | SMU06418602023800001   | All Employees: Construction: Specialty Trade Contractors in San Francisco-Oakland-Fremont, CA (MSA) (DISCONTINUED)                                | 1990-01-01          | 2014-12-01        |
 | SMU06418602023800001A  | All Employees: Construction: Specialty Trade Contractors in San Francisco-Oakland-Fremont, CA (MSA) (DISCONTINUED)                                | 1990-01-01          | 2013-01-01        |
 | SMU06418602023800001SA | All Employees: Construction: Specialty Trade Contractors in San Francisco-Oakland-Fremont, CA (MSA) (DISCONTINUED)                                | 1990-01-01          | 2014-12-01        |

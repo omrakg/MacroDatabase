@@ -1,4 +1,4 @@
 | Folder                          |   Files / Folders |
 |---------------------------------|-------------------|
-| Putnam-Rockland-Westchester, NY |               177 |
-| New York City, NY               |               440 |
+| New York City, NY               |               422 |
+| Putnam-Rockland-Westchester, NY |               174 |

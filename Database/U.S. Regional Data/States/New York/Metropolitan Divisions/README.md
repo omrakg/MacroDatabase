@@ -1,6 +1,6 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| New York-Jersey City-White Plains, NY-NJ |               150 |
-| Nassau County-Suffolk County, NY         |               208 |
-| Dutchess County-Putnam County, NY        |                83 |
+| Dutchess County-Putnam County, NY        |                80 |
 | New York-White Plains-Wayne, NY-NJ       |                 1 |
+| New York-Jersey City-White Plains, NY-NJ |               149 |
+| Nassau County-Suffolk County, NY         |               205 |

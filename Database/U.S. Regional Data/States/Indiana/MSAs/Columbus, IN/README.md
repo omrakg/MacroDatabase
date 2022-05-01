@@ -18,8 +18,8 @@
 | COLU018INFON              | All Employees: Information in Columbus, IN (MSA)                                                | 1990-01-01          | 2022-03-01        |
 | COLU018LEIH               | All Employees: Leisure and Hospitality in Columbus, IN (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | COLU018LEIHN              | All Employees: Leisure and Hospitality in Columbus, IN (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| COLU018LF                 | Civilian Labor Force in Columbus, IN (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| COLU018LFN                | Civilian Labor Force in Columbus, IN (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| COLU018LF                 | Civilian Labor Force in Columbus, IN (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| COLU018LFN                | Civilian Labor Force in Columbus, IN (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | COLU018MFG                | All Employees: Manufacturing in Columbus, IN (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | COLU018MFGN               | All Employees: Manufacturing in Columbus, IN (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | COLU018NA                 | All Employees: Total Nonfarm in Columbus, IN (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -33,8 +33,8 @@
 | COLU018SRVON              | All Employees: Other Services in Columbus, IN (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | COLU018TRAD               | All Employees: Trade, Transportation, and Utilities in Columbus, IN (MSA)                       | 1990-01-01          | 2022-03-01        |
 | COLU018TRADN              | All Employees: Trade, Transportation, and Utilities in Columbus, IN (MSA)                       | 1990-01-01          | 2022-03-01        |
-| COLU018UR                 | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| COLU018URN                | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| COLU018UR                 | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| COLU018URN                | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | ENUC180230010             | Total Quarterly Wages in Columbus, IN (MSA)                                                     | 1990-01-01          | 2021-07-01        |
 | ENUC180230010SA           | Total Quarterly Wages in Columbus, IN (MSA)                                                     | 1990-01-01          | 2021-07-01        |
 | ENUC180240010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, IN (MSA)        | 1990-01-01          | 2021-07-01        |
@@ -48,12 +48,12 @@
 | ENUC180240510             | Average Weekly Wages for Employees in Private Establishments in Columbus, IN (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC180240510SA           | Average Weekly Wages for Employees in Private Establishments in Columbus, IN (MSA)              | 1990-01-01          | 2021-07-01        |
 | IRPD18020                 | Implicit Regional Price Deflator for Columbus, IN (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT181802000000003A     | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT181802000000004      | Unemployed Persons in Columbus, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT181802000000004A     | Unemployed Persons in Columbus, IN (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT181802000000005      | Employed Persons in Columbus, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT181802000000005A     | Employed Persons in Columbus, IN (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT181802000000006A     | Civilian Labor Force in Columbus, IN (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT181802000000003A     | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT181802000000004      | Unemployed Persons in Columbus, IN (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT181802000000004A     | Unemployed Persons in Columbus, IN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT181802000000005      | Employed Persons in Columbus, IN (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT181802000000005A     | Employed Persons in Columbus, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT181802000000006A     | Civilian Labor Force in Columbus, IN (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR18020          | Housing Inventory: Median Days on Market in Columbus, IN (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM18020        | Housing Inventory: Median Days on Market Month-Over-Month in Columbus, IN (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY18020        | Housing Inventory: Median Days on Market Year-Over-Year in Columbus, IN (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -95,13 +95,10 @@
 | SMU18180200500000001SA    | All Employees: Total Private in Columbus, IN (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU18180200500000002      | Average Weekly Hours of All Employees: Total Private in Columbus, IN (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU18180200500000002A     | Average Weekly Hours of All Employees: Total Private in Columbus, IN (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU18180200500000002SA    | Average Weekly Hours of All Employees: Total Private in Columbus, IN (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU18180200500000003      | Average Hourly Earnings of All Employees: Total Private in Columbus, IN (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU18180200500000003A     | Average Hourly Earnings of All Employees: Total Private in Columbus, IN (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU18180200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Columbus, IN (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU18180200500000011      | Average Weekly Earnings of All Employees: Total Private in Columbus, IN (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU18180200500000011A     | Average Weekly Earnings of All Employees: Total Private in Columbus, IN (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU18180200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Columbus, IN (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU18180200600000001      | All Employees: Goods Producing in Columbus, IN (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU18180200600000001A     | All Employees: Goods Producing in Columbus, IN (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU18180200600000001SA    | All Employees: Goods Producing in Columbus, IN (MSA)                                            | 1990-01-01          | 2022-03-01        |

@@ -25,19 +25,19 @@
 | HORAYYMSA31340            | Market Hotness: Hotness Rank in Lynchburg, VA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA31340              | Market Hotness: Hotness Score in Lynchburg, VA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD31340                 | Implicit Regional Price Deflator for Lynchburg, VA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT513134000000003A     | Unemployment Rate in Lynchburg, VA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT513134000000004      | Unemployed Persons in Lynchburg, VA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT513134000000004A     | Unemployed Persons in Lynchburg, VA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT513134000000005      | Employed Persons in Lynchburg, VA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT513134000000005A     | Employed Persons in Lynchburg, VA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT513134000000006A     | Civilian Labor Force in Lynchburg, VA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT513134000000003A     | Unemployment Rate in Lynchburg, VA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT513134000000004      | Unemployed Persons in Lynchburg, VA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT513134000000004A     | Unemployed Persons in Lynchburg, VA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT513134000000005      | Employed Persons in Lynchburg, VA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT513134000000005A     | Employed Persons in Lynchburg, VA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT513134000000006A     | Civilian Labor Force in Lynchburg, VA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA31340          | Market Hotness: Listing Views per Property in Lynchburg, VA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA31340        | Market Hotness: Listing Views per Property Versus the United States in Lynchburg, VA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA31340          | Market Hotness: Listing Views per Property in Lynchburg, VA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LYNC351GOVT               | All Employees: Government in Lynchburg, VA (MSA)                                                               | 1990-01-01          | 2022-03-01        |
 | LYNC351GOVTN              | All Employees: Government in Lynchburg, VA (MSA)                                                               | 1990-01-01          | 2022-03-01        |
-| LYNC351LF                 | Civilian Labor Force in Lynchburg, VA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| LYNC351LFN                | Civilian Labor Force in Lynchburg, VA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| LYNC351LF                 | Civilian Labor Force in Lynchburg, VA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| LYNC351LFN                | Civilian Labor Force in Lynchburg, VA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | LYNC351MFG                | All Employees: Manufacturing in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LYNC351MFGN               | All Employees: Manufacturing in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LYNC351NA                 | All Employees: Total Nonfarm in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -45,8 +45,8 @@
 | LYNC351PCPI               | Per Capita Personal Income in Lynchburg, VA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | LYNC351TRAD               | All Employees: Trade, Transportation, and Utilities in Lynchburg, VA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | LYNC351TRADN              | All Employees: Trade, Transportation, and Utilities in Lynchburg, VA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| LYNC351UR                 | Unemployment Rate in Lynchburg, VA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LYNC351URN                | Unemployment Rate in Lynchburg, VA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| LYNC351UR                 | Unemployment Rate in Lynchburg, VA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LYNC351URN                | Unemployment Rate in Lynchburg, VA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | LYNPOP                    | Resident Population in Lynchburg, VA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA31340        | Market Hotness: Median Days on Market in Lynchburg, VA (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
 | MEDAONMAMSA31340          | Market Hotness: Median Days on Market in Lynchburg, VA (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
@@ -100,13 +100,10 @@
 | SMU51313400500000001SA    | All Employees: Total Private in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU51313400500000002      | Average Weekly Hours of All Employees: Total Private in Lynchburg, VA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU51313400500000002A     | Average Weekly Hours of All Employees: Total Private in Lynchburg, VA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU51313400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lynchburg, VA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU51313400500000003      | Average Hourly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU51313400500000003A     | Average Hourly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU51313400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU51313400500000011      | Average Weekly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU51313400500000011A     | Average Weekly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU51313400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU51313400600000001      | All Employees: Goods Producing in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU51313400600000001A     | All Employees: Goods Producing in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU51313400600000001SA    | All Employees: Goods Producing in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

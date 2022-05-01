@@ -17,8 +17,8 @@
 | DECA517INFON              | All Employees: Information in Decatur, IL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | DECA517LEIH               | All Employees: Leisure and Hospitality in Decatur, IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | DECA517LEIHN              | All Employees: Leisure and Hospitality in Decatur, IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| DECA517LF                 | Civilian Labor Force in Decatur, IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| DECA517LFN                | Civilian Labor Force in Decatur, IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| DECA517LF                 | Civilian Labor Force in Decatur, IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| DECA517LFN                | Civilian Labor Force in Decatur, IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | DECA517MFG                | All Employees: Manufacturing in Decatur, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | DECA517MFGN               | All Employees: Manufacturing in Decatur, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | DECA517NA                 | All Employees: Total Nonfarm in Decatur, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -32,8 +32,8 @@
 | DECA517SRVON              | All Employees: Other Services in Decatur, IL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | DECA517TRAD               | All Employees: Trade, Transportation, and Utilities in Decatur, IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | DECA517TRADN              | All Employees: Trade, Transportation, and Utilities in Decatur, IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| DECA517UR                 | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| DECA517URN                | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| DECA517UR                 | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| DECA517URN                | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | DECPOP                    | Resident Population in Decatur, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC195030010             | Total Quarterly Wages in Decatur, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC195030010SA           | Total Quarterly Wages in Decatur, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -44,12 +44,12 @@
 | ENUC195040510             | Average Weekly Wages for Employees in Private Establishments in Decatur, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC195040510SA           | Average Weekly Wages for Employees in Private Establishments in Decatur, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD19500                 | Implicit Regional Price Deflator for Decatur, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT171950000000003A     | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT171950000000004      | Unemployed Persons in Decatur, IL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT171950000000004A     | Unemployed Persons in Decatur, IL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT171950000000005      | Employed Persons in Decatur, IL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT171950000000005A     | Employed Persons in Decatur, IL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT171950000000006A     | Civilian Labor Force in Decatur, IL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT171950000000003A     | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT171950000000004      | Unemployed Persons in Decatur, IL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT171950000000004A     | Unemployed Persons in Decatur, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT171950000000005      | Employed Persons in Decatur, IL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT171950000000005A     | Employed Persons in Decatur, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT171950000000006A     | Civilian Labor Force in Decatur, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR19500          | Housing Inventory: Median Days on Market in Decatur, IL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM19500        | Housing Inventory: Median Days on Market Month-Over-Month in Decatur, IL (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY19500        | Housing Inventory: Median Days on Market Year-Over-Year in Decatur, IL (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -91,13 +91,10 @@
 | SMU17195000500000001SA    | All Employees: Total Private in Decatur, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU17195000500000002      | Average Weekly Hours of All Employees: Total Private in Decatur, IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17195000500000002A     | Average Weekly Hours of All Employees: Total Private in Decatur, IL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU17195000500000002SA    | Average Weekly Hours of All Employees: Total Private in Decatur, IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17195000500000003      | Average Hourly Earnings of All Employees: Total Private in Decatur, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17195000500000003A     | Average Hourly Earnings of All Employees: Total Private in Decatur, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17195000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Decatur, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17195000500000011      | Average Weekly Earnings of All Employees: Total Private in Decatur, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17195000500000011A     | Average Weekly Earnings of All Employees: Total Private in Decatur, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17195000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Decatur, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17195000600000001      | All Employees: Goods Producing in Decatur, IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU17195000600000001A     | All Employees: Goods Producing in Decatur, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU17195000600000001SA    | All Employees: Goods Producing in Decatur, IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

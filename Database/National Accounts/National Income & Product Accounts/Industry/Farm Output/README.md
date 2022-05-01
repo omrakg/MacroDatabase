@@ -11,7 +11,7 @@
 | A2006C1A027NBEA | Farm output: Compensation of employees                                                                                                     | 1929-01-01          | 2020-01-01        |
 | A2051C1A027NBEA | Gross domestic product: Farm products consumed on farms                                                                                    | 1929-01-01          | 2020-01-01        |
 | B359RC1A027NBEA | Farm output: Gross farm value added                                                                                                        | 1929-01-01          | 2021-01-01        |
-| B359RC1Q027SBEA | Gross value added: GDP: Business: Farm                                                                                                     | 1947-01-01          | 2021-10-01        |
+| B359RC1Q027SBEA | Gross value added: GDP: Business: Farm                                                                                                     | 1947-01-01          | 2022-01-01        |
 | B366RC1A027NBEA | Farm output: Consumption of fixed capital                                                                                                  | 1929-01-01          | 2020-01-01        |
 | B366RX1A020NBEA | Real farm output: Consumption of fixed capital                                                                                             | 2002-01-01          | 2020-01-01        |
 | B1005C1A027NBEA | Farm output: Cash receipts from farm marketings: Crops                                                                                     | 1929-01-01          | 2020-01-01        |

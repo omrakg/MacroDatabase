@@ -27,20 +27,20 @@
 | IRPD27340                 | Implicit Regional Price Deflator for Jacksonville, NC (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | JACK337GOVT               | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | JACK337GOVTN              | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| JACK337LF                 | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| JACK337LFN                | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| JACK337LF                 | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| JACK337LFN                | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | JACK337NA                 | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | JACK337NAN                | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | JACK337PCPI               | Per Capita Personal Income in Jacksonville, NC (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| JACK337UR                 | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| JACK337URN                | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| JACK337UR                 | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| JACK337URN                | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | JCVPOP                    | Resident Population in Jacksonville, NC (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| LAUMT372734000000003A     | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT372734000000004      | Unemployed Persons in Jacksonville, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT372734000000004A     | Unemployed Persons in Jacksonville, NC (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT372734000000005      | Employed Persons in Jacksonville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT372734000000005A     | Employed Persons in Jacksonville, NC (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT372734000000006A     | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT372734000000003A     | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT372734000000004      | Unemployed Persons in Jacksonville, NC (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT372734000000004A     | Unemployed Persons in Jacksonville, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT372734000000005      | Employed Persons in Jacksonville, NC (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT372734000000005A     | Employed Persons in Jacksonville, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT372734000000006A     | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA27340          | Market Hotness: Listing Views per Property in Jacksonville, NC (CBSA)                               | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA27340        | Market Hotness: Listing Views per Property Versus the United States in Jacksonville, NC (CBSA)      | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA27340          | Market Hotness: Listing Views per Property in Jacksonville, NC (CBSA)                               | 2018-08-01          | 2022-03-01        |
@@ -96,13 +96,10 @@
 | SMU37273400500000001SA    | All Employees: Total Private in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU37273400500000002      | Average Weekly Hours of All Employees: Total Private in Jacksonville, NC (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU37273400500000002A     | Average Weekly Hours of All Employees: Total Private in Jacksonville, NC (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU37273400500000002SA    | Average Weekly Hours of All Employees: Total Private in Jacksonville, NC (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU37273400500000003      | Average Hourly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU37273400500000003A     | Average Hourly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU37273400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU37273400500000011      | Average Weekly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU37273400500000011A     | Average Weekly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU37273400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU37273400600000001      | All Employees: Goods Producing in Jacksonville, NC (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU37273400600000001A     | All Employees: Goods Producing in Jacksonville, NC (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU37273400600000001SA    | All Employees: Goods Producing in Jacksonville, NC (MSA)                                            | 1990-01-01          | 2022-03-01        |

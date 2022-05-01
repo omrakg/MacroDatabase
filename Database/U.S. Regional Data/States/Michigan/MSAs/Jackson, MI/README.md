@@ -37,8 +37,8 @@
 | JACK126INFON              | All Employees: Information in Jackson, MI (MSA)                                                | 1990-01-01          | 2022-03-01        |
 | JACK126LEIH               | All Employees: Leisure and Hospitality in Jackson, MI (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | JACK126LEIHN              | All Employees: Leisure and Hospitality in Jackson, MI (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| JACK126LF                 | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| JACK126LFN                | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| JACK126LF                 | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| JACK126LFN                | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | JACK126MFG                | All Employees: Manufacturing in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | JACK126MFGN               | All Employees: Manufacturing in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | JACK126NA                 | All Employees: Total Nonfarm in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -52,15 +52,15 @@
 | JACK126SRVON              | All Employees: Other Services in Jackson, MI (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | JACK126TRAD               | All Employees: Trade, Transportation, and Utilities in Jackson, MI (MSA)                       | 1990-01-01          | 2022-03-01        |
 | JACK126TRADN              | All Employees: Trade, Transportation, and Utilities in Jackson, MI (MSA)                       | 1990-01-01          | 2022-03-01        |
-| JACK126UR                 | Unemployment Rate in Jackson, MI (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| JACK126URN                | Unemployment Rate in Jackson, MI (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| JACK126UR                 | Unemployment Rate in Jackson, MI (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| JACK126URN                | Unemployment Rate in Jackson, MI (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | JAKPOP                    | Resident Population in Jackson, MI (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| LAUMT262710000000003A     | Unemployment Rate in Jackson, MI (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT262710000000004      | Unemployed Persons in Jackson, MI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT262710000000004A     | Unemployed Persons in Jackson, MI (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT262710000000005      | Employed Persons in Jackson, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT262710000000005A     | Employed Persons in Jackson, MI (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT262710000000006A     | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT262710000000003A     | Unemployment Rate in Jackson, MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT262710000000004      | Unemployed Persons in Jackson, MI (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT262710000000004A     | Unemployed Persons in Jackson, MI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT262710000000005      | Employed Persons in Jackson, MI (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT262710000000005A     | Employed Persons in Jackson, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT262710000000006A     | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA27100          | Market Hotness: Listing Views per Property in Jackson, MI (CBSA)                               | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA27100        | Market Hotness: Listing Views per Property Versus the United States in Jackson, MI (CBSA)      | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA27100          | Market Hotness: Listing Views per Property in Jackson, MI (CBSA)                               | 2018-08-01          | 2022-03-01        |
@@ -128,13 +128,10 @@
 | SMU26271000500000001SA    | All Employees: Total Private in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU26271000500000002      | Average Weekly Hours of All Employees: Total Private in Jackson, MI (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU26271000500000002A     | Average Weekly Hours of All Employees: Total Private in Jackson, MI (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU26271000500000002SA    | Average Weekly Hours of All Employees: Total Private in Jackson, MI (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU26271000500000003      | Average Hourly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU26271000500000003A     | Average Hourly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU26271000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU26271000500000011      | Average Weekly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU26271000500000011A     | Average Weekly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU26271000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU26271000600000001      | All Employees: Goods Producing in Jackson, MI (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU26271000600000001A     | All Employees: Goods Producing in Jackson, MI (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU26271000600000001SA    | All Employees: Goods Producing in Jackson, MI (MSA)                                            | 1990-01-01          | 2022-03-01        |

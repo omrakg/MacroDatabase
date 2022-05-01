@@ -14,14 +14,14 @@
 | ENUC434240510          | Average Weekly Wages for Employees in Private Establishments in Sierra Vista-Douglas, AZ (MSA)            | 2013-01-01          | 2021-07-01        |
 | ENUC434240510SA        | Average Weekly Wages for Employees in Private Establishments in Sierra Vista-Douglas, AZ (MSA)            | 2013-01-01          | 2021-07-01        |
 | IRPD43420              | Implicit Regional Price Deflator for Sierra Vista-Douglas, AZ (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT044342000000003   | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT044342000000003A  | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT044342000000004   | Unemployed Persons in Sierra Vista-Douglas, AZ (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT044342000000004A  | Unemployed Persons in Sierra Vista-Douglas, AZ (MSA)                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT044342000000005   | Employed Persons in Sierra Vista-Douglas, AZ (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT044342000000005A  | Employed Persons in Sierra Vista-Douglas, AZ (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT044342000000006   | Civilian Labor Force in Sierra Vista-Douglas, AZ (MSA)                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT044342000000006A  | Civilian Labor Force in Sierra Vista-Douglas, AZ (MSA)                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT044342000000003   | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT044342000000003A  | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT044342000000004   | Unemployed Persons in Sierra Vista-Douglas, AZ (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT044342000000004A  | Unemployed Persons in Sierra Vista-Douglas, AZ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT044342000000005   | Employed Persons in Sierra Vista-Douglas, AZ (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT044342000000005A  | Employed Persons in Sierra Vista-Douglas, AZ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT044342000000006   | Civilian Labor Force in Sierra Vista-Douglas, AZ (MSA)                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT044342000000006A  | Civilian Labor Force in Sierra Vista-Douglas, AZ (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP43420              | Total Gross Domestic Product for Sierra Vista-Douglas, AZ (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP43420              | Total Quantity Indexes for Real GDP for Sierra Vista-Douglas, AZ (MSA)                                    | 2001-01-01          | 2020-01-01        |
 | RGMP43420              | Total Real Gross Domestic Product for Sierra Vista-Douglas, AZ (MSA)                                      | 2001-01-01          | 2020-01-01        |
@@ -39,13 +39,10 @@
 | SMU04434200500000001SA | All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU04434200500000002   | Average Weekly Hours of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                    | 2011-01-01          | 2022-03-01        |
 | SMU04434200500000002A  | Average Weekly Hours of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU04434200500000002SA | Average Weekly Hours of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                    | 2011-01-01          | 2022-03-01        |
 | SMU04434200500000003   | Average Hourly Earnings of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU04434200500000003A  | Average Hourly Earnings of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU04434200500000003SA | Average Hourly Earnings of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU04434200500000011   | Average Weekly Earnings of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU04434200500000011A  | Average Weekly Earnings of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU04434200500000011SA | Average Weekly Earnings of All Employees: Total Private in Sierra Vista-Douglas, AZ (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU04434200600000001   | All Employees: Goods Producing in Sierra Vista-Douglas, AZ (MSA)                                          | 1990-01-01          | 2022-03-01        |
 | SMU04434200600000001A  | All Employees: Goods Producing in Sierra Vista-Douglas, AZ (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU04434200600000001SA | All Employees: Goods Producing in Sierra Vista-Douglas, AZ (MSA)                                          | 1990-01-01          | 2022-03-01        |

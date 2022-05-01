@@ -1,0 +1,6 @@
+| id                     | title                                                                                                                         | observation_start   | observation_end   |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU25748040000000001SA | All Employees: Total Nonfarm in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division) (DISCONTINUED)                            | 1990-01-01          | 2017-01-01        |
+| SMU25748040500000002SA | Average Weekly Hours of All Employees: Total Private in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU25748040500000003SA | Average Hourly Earnings of All Employees: Total Private in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU25748040500000011SA | Average Weekly Earnings of All Employees: Total Private in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

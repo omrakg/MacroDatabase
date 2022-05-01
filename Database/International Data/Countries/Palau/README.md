@@ -63,7 +63,7 @@
 | PAPLWA475SCEN     | Number of Identified Exporters to Palau from Pennsylvania                                                     | 1992-01-01          | 2016-01-01        |
 | PCAGDPPWA646NWDB  | Gross Domestic Product Per Capita for Palau                                                                   | 2000-01-01          | 2020-01-01        |
 | PLWBCABP6USD      | Balance of Payments: Total Net Current Account for Palau                                                      | 2016-01-01          | 2024-01-01        |
-| PLWBCAGDPBP6PT    | Balance of Payments: Total Net Current Account for Palau                                                      | 2000-01-01          | 2026-01-01        |
+| PLWBCAGDPBP6PT    | Balance of Payments: Total Net Current Account for Palau                                                      | 2000-01-01          | 2027-01-01        |
 | PLWFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Palau                                       | 2007-01-01          | 2017-01-01        |
 | PLWFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Palau                     | 2007-01-01          | 2017-01-01        |
 | PLWFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Palau                                             | 2007-01-01          | 2017-01-01        |
@@ -84,11 +84,11 @@
 | PLWFCSODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks to Households for Palau    | 2009-01-01          | 2017-01-01        |
 | PLWFCSODCHXDC     | Use of Financial Services, Assets: Outstanding Loans to Households at Commercial Banks for Palau              | 2009-01-01          | 2017-01-01        |
 | PLWFCSODCXDC      | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Palau                            | 2005-01-01          | 2017-01-01        |
-| PLWGGXCNLG01GDPPT | Fiscal Situation of General Government: Net Lending/borrowing for Palau                                       | 2000-01-01          | 2026-01-01        |
+| PLWGGXCNLG01GDPPT | Fiscal Situation of General Government: Net Lending/borrowing for Palau                                       | 2000-01-01          | 2027-01-01        |
 | PLWNGDPDUSD       | National Accounts: Gross Domestic Product for Palau                                                           | 2016-01-01          | 2024-01-01        |
-| PLWNGDPRPCPPPT    | National Accounts: Real Gross Domestic Product for Palau                                                      | 2001-01-01          | 2026-01-01        |
+| PLWNGDPRPCPPPT    | National Accounts: Real Gross Domestic Product for Palau                                                      | 2001-01-01          | 2027-01-01        |
 | PLWNTDDRPCPPPT    | National Accounts: Real Total Domestic Demand for Palau                                                       | 2016-01-01          | 2024-01-01        |
-| PLWPCPIPCPPPT     | Prices: Consumer Price Index for Palau                                                                        | 2001-01-01          | 2026-01-01        |
+| PLWPCPIPCPPPT     | Prices: Consumer Price Index for Palau                                                                        | 2001-01-01          | 2027-01-01        |
 | PLWTMRPCPPPT      | External Trade: Volume of Imports of Goods and Services for Palau                                             | 2016-01-01          | 2024-01-01        |
 | PLWTXRPCPPPT      | External Trade: Volume of Exports of Goods and Services for Palau                                             | 2016-01-01          | 2024-01-01        |
 | POPTOTPW52647NWDB | Population, Total for Palau                                                                                   | 1967-01-01          | 2012-01-01        |

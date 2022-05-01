@@ -1,11 +1,11 @@
 | id                     | title                                                                                                            | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| LAUMT097870000000003A  | Unemployment Rate in Waterbury, CT (NECTA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT097870000000004   | Unemployed Persons in Waterbury, CT (NECTA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT097870000000004A  | Unemployed Persons in Waterbury, CT (NECTA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT097870000000005   | Employed Persons in Waterbury, CT (NECTA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT097870000000005A  | Employed Persons in Waterbury, CT (NECTA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT097870000000006A  | Civilian Labor Force in Waterbury, CT (NECTA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT097870000000003A  | Unemployment Rate in Waterbury, CT (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT097870000000004   | Unemployed Persons in Waterbury, CT (NECTA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT097870000000004A  | Unemployed Persons in Waterbury, CT (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT097870000000005   | Employed Persons in Waterbury, CT (NECTA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT097870000000005A  | Employed Persons in Waterbury, CT (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT097870000000006A  | Civilian Labor Force in Waterbury, CT (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
 | SMS09787000000000001   | All Employees: Total Nonfarm in Waterbury, CT (NECTA)                                                            | 1990-01-01          | 2018-02-01        |
 | SMS09787000000000026   | All Employees: Total Nonfarm in Waterbury, CT (NECTA)                                                            | 1990-04-01          | 2022-03-01        |
 | SMU09787000000000001A  | All Employees: Total Nonfarm in Waterbury, CT (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
@@ -14,13 +14,10 @@
 | SMU09787000500000001SA | All Employees: Total Private in Waterbury, CT (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU09787000500000002   | Average Weekly Hours of All Employees: Total Private in Waterbury, CT (NECTA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU09787000500000002A  | Average Weekly Hours of All Employees: Total Private in Waterbury, CT (NECTA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU09787000500000002SA | Average Weekly Hours of All Employees: Total Private in Waterbury, CT (NECTA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU09787000500000003   | Average Hourly Earnings of All Employees: Total Private in Waterbury, CT (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU09787000500000003A  | Average Hourly Earnings of All Employees: Total Private in Waterbury, CT (NECTA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU09787000500000003SA | Average Hourly Earnings of All Employees: Total Private in Waterbury, CT (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU09787000500000011   | Average Weekly Earnings of All Employees: Total Private in Waterbury, CT (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU09787000500000011A  | Average Weekly Earnings of All Employees: Total Private in Waterbury, CT (NECTA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU09787000500000011SA | Average Weekly Earnings of All Employees: Total Private in Waterbury, CT (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU09787000600000001   | All Employees: Goods Producing in Waterbury, CT (NECTA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU09787000600000001A  | All Employees: Goods Producing in Waterbury, CT (NECTA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU09787000600000001SA | All Employees: Goods Producing in Waterbury, CT (NECTA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -71,8 +68,8 @@
 | WATE709INFON           | All Employees: Information in Waterbury, CT (NECTA)                                                              | 1990-01-01          | 2022-03-01        |
 | WATE709LEIH            | All Employees: Leisure and Hospitality in Waterbury, CT (NECTA)                                                  | 1990-01-01          | 2022-03-01        |
 | WATE709LEIHN           | All Employees: Leisure and Hospitality in Waterbury, CT (NECTA)                                                  | 1990-01-01          | 2022-03-01        |
-| WATE709LF              | Civilian Labor Force in Waterbury, CT (NECTA)                                                                    | 1990-01-01          | 2022-02-01        |
-| WATE709LFN             | Civilian Labor Force in Waterbury, CT (NECTA)                                                                    | 1990-01-01          | 2022-02-01        |
+| WATE709LF              | Civilian Labor Force in Waterbury, CT (NECTA)                                                                    | 1990-01-01          | 2022-03-01        |
+| WATE709LFN             | Civilian Labor Force in Waterbury, CT (NECTA)                                                                    | 1990-01-01          | 2022-03-01        |
 | WATE709MFG             | All Employees: Manufacturing in Waterbury, CT (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | WATE709MFGN            | All Employees: Manufacturing in Waterbury, CT (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | WATE709NA              | All Employees: Total Nonfarm in Waterbury, CT (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -85,5 +82,5 @@
 | WATE709SRVON           | All Employees: Other Services in Waterbury, CT (NECTA)                                                           | 1990-01-01          | 2022-03-01        |
 | WATE709TRAD            | All Employees: Trade, Transportation, and Utilities in Waterbury, CT (NECTA)                                     | 1990-01-01          | 2022-03-01        |
 | WATE709TRADN           | All Employees: Trade, Transportation, and Utilities in Waterbury, CT (NECTA)                                     | 1990-01-01          | 2022-03-01        |
-| WATE709UR              | Unemployment Rate in Waterbury, CT (NECTA)                                                                       | 1990-01-01          | 2022-02-01        |
-| WATE709URN             | Unemployment Rate in Waterbury, CT (NECTA)                                                                       | 1990-01-01          | 2022-02-01        |
+| WATE709UR              | Unemployment Rate in Waterbury, CT (NECTA)                                                                       | 1990-01-01          | 2022-03-01        |
+| WATE709URN             | Unemployment Rate in Waterbury, CT (NECTA)                                                                       | 1990-01-01          | 2022-03-01        |

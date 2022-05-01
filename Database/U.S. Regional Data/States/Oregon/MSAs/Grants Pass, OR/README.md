@@ -16,14 +16,14 @@
 | GRPPOP                 | Resident Population in Grants Pass, OR (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | GRPS941PCPI            | Per Capita Personal Income in Grants Pass, OR (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | IRPD24420              | Implicit Regional Price Deflator for Grants Pass, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT412442000000003   | Unemployment Rate in Grants Pass, OR (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT412442000000003A  | Unemployment Rate in Grants Pass, OR (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT412442000000004   | Unemployed Persons in Grants Pass, OR (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT412442000000004A  | Unemployed Persons in Grants Pass, OR (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT412442000000005   | Employed Persons in Grants Pass, OR (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT412442000000005A  | Employed Persons in Grants Pass, OR (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT412442000000006   | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT412442000000006A  | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT412442000000003   | Unemployment Rate in Grants Pass, OR (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT412442000000003A  | Unemployment Rate in Grants Pass, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT412442000000004   | Unemployed Persons in Grants Pass, OR (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT412442000000004A  | Unemployed Persons in Grants Pass, OR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT412442000000005   | Employed Persons in Grants Pass, OR (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT412442000000005A  | Employed Persons in Grants Pass, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT412442000000006   | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT412442000000006A  | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP24420              | Total Gross Domestic Product for Grants Pass, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | QGMP24420              | Total Quantity Indexes for Real GDP for Grants Pass, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP24420              | Total Real Gross Domestic Product for Grants Pass, OR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
@@ -41,13 +41,10 @@
 | SMU41244200500000001SA | All Employees: Total Private in Grants Pass, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU41244200500000002   | Average Weekly Hours of All Employees: Total Private in Grants Pass, OR (MSA)                                    | 2011-01-01          | 2022-03-01        |
 | SMU41244200500000002A  | Average Weekly Hours of All Employees: Total Private in Grants Pass, OR (MSA)                                    | 2011-01-01          | 2021-01-01        |
-| SMU41244200500000002SA | Average Weekly Hours of All Employees: Total Private in Grants Pass, OR (MSA)                                    | 2011-01-01          | 2022-03-01        |
 | SMU41244200500000003   | Average Hourly Earnings of All Employees: Total Private in Grants Pass, OR (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU41244200500000003A  | Average Hourly Earnings of All Employees: Total Private in Grants Pass, OR (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU41244200500000003SA | Average Hourly Earnings of All Employees: Total Private in Grants Pass, OR (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU41244200500000011   | Average Weekly Earnings of All Employees: Total Private in Grants Pass, OR (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU41244200500000011A  | Average Weekly Earnings of All Employees: Total Private in Grants Pass, OR (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU41244200500000011SA | Average Weekly Earnings of All Employees: Total Private in Grants Pass, OR (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU41244200600000001   | All Employees: Goods Producing in Grants Pass, OR (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU41244200600000001A  | All Employees: Goods Producing in Grants Pass, OR (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU41244200600000001SA | All Employees: Goods Producing in Grants Pass, OR (MSA)                                                          | 1990-01-01          | 2022-03-01        |

@@ -90,15 +90,15 @@
 | SPDYNLE00INSTP      | Life Expectancy at Birth, Total for Sao Tome and Principe                                                                               | 1960-01-01          | 2019-01-01        |
 | SPDYNTFRTINSTP      | Fertility Rate, Total for Sao Tome and Principe                                                                                         | 1960-01-01          | 2019-01-01        |
 | SPPOP65UPTOZSSTP    | Population ages 65 and above for Sao Tome and Principe                                                                                  | 1960-01-01          | 2020-01-01        |
-| STPBCABP6GDPPT      | Net Current Account Total for Sao Tome and Principe                                                                                     | 2004-01-01          | 2022-01-01        |
-| STPBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Sao Tome and Principe                     | 2004-01-01          | 2022-01-01        |
-| STPBGSBP6GDPPT      | Goods and Services: Net for Sao Tome and Principe                                                                                       | 2004-01-01          | 2022-01-01        |
-| STPBMGSBP6GDPPT     | Goods and Services: Debit for Sao Tome and Principe                                                                                     | 2004-01-01          | 2022-01-01        |
-| STPBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Sao Tome and Principe                                                         | 2004-01-01          | 2022-01-01        |
-| STPBXGSBP6GDPPT     | Goods and Services: Credit for Sao Tome and Principe                                                                                    | 2004-01-01          | 2022-01-01        |
-| STPDGGDPPT          | Official External Debt: Debtor Based for Sao Tome and Principe                                                                          | 2004-01-01          | 2022-01-01        |
-| STPENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Sao Tome and Principe                                              | 2004-01-01          | 2020-01-01        |
-| STPEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Sao Tome and Principe                                                 | 2004-01-01          | 2020-01-01        |
+| STPBCABP6GDPPT      | Net Current Account Total for Sao Tome and Principe                                                                                     | 2004-01-01          | 2023-01-01        |
+| STPBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Sao Tome and Principe                     | 2004-01-01          | 2023-01-01        |
+| STPBGSBP6GDPPT      | Goods and Services: Net for Sao Tome and Principe                                                                                       | 2004-01-01          | 2023-01-01        |
+| STPBMGSBP6GDPPT     | Goods and Services: Debit for Sao Tome and Principe                                                                                     | 2004-01-01          | 2023-01-01        |
+| STPBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Sao Tome and Principe                                                         | 2004-01-01          | 2023-01-01        |
+| STPBXGSBP6GDPPT     | Goods and Services: Credit for Sao Tome and Principe                                                                                    | 2004-01-01          | 2023-01-01        |
+| STPDGGDPPT          | Official External Debt: Debtor Based for Sao Tome and Principe                                                                          | 2004-01-01          | 2023-01-01        |
+| STPENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Sao Tome and Principe                                              | 2004-01-01          | 2021-01-01        |
+| STPEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Sao Tome and Principe                                                 | 2004-01-01          | 2021-01-01        |
 | STPFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Sao Tome and Principe                                                 | 2011-01-01          | 2018-01-01        |
 | STPFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Sao Tome and Principe                               | 2011-01-01          | 2018-01-01        |
 | STPFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Sao Tome and Principe                                                       | 2011-01-01          | 2018-01-01        |
@@ -137,22 +137,22 @@
 | STPFCSODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Sao Tome and Principe                            | 2004-01-01          | 2018-01-01        |
 | STPFCSODCXDC        | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Sao Tome and Principe                                      | 2004-01-01          | 2018-01-01        |
 | STPFDSAOPGDPPT      | Claims on Private Sector for Sao Tome and Principe                                                                                      | 2004-01-01          | 2020-01-01        |
-| STPFDSAOPPCPPPT     | Claims on Private Sector for Sao Tome and Principe                                                                                      | 2004-01-01          | 2020-01-01        |
-| STPFMBGDPPT         | Broad Money for Sao Tome and Principe                                                                                                   | 2004-01-01          | 2022-01-01        |
-| STPFMBPCPPPT        | Broad Money for Sao Tome and Principe                                                                                                   | 2004-01-01          | 2022-01-01        |
-| STPGGRG01GDPPT      | General Government Revenue for Sao Tome and Principe                                                                                    | 2004-01-01          | 2022-01-01        |
-| STPGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Sao Tome and Principe                                                                   | 2004-01-01          | 2022-01-01        |
-| STPGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Sao Tome and Principe                                               | 2004-01-01          | 2022-01-01        |
-| STPGGXG01GDPPT      | Total Expenditure of General Government for Sao Tome and Principe                                                                       | 2004-01-01          | 2022-01-01        |
-| STPGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Sao Tome and Principe                                                                 | 2004-01-01          | 2022-01-01        |
-| STPNGDPRPCPCPPPT    | Real GDP Per Capita for Sao Tome and Principe                                                                                           | 2004-01-01          | 2022-01-01        |
-| STPNGDPRPCPPPT      | Real Gross Domestic Product for Sao Tome and Principe                                                                                   | 2004-01-01          | 2022-01-01        |
-| STPNGDPXORPCPPPT    | Real Non-Oil GDP for Sao Tome and Principe                                                                                              | 2004-01-01          | 2022-01-01        |
-| STPNGSGDPPT         | Nominal Gross National Saving for Sao Tome and Principe                                                                                 | 2004-01-01          | 2022-01-01        |
-| STPNIGDPPT          | Nominal Gross Capital Formation for Sao Tome and Principe                                                                               | 2004-01-01          | 2022-01-01        |
-| STPPCPIEOPPCPPPT    | Consumer Prices at End of Period for Sao Tome and Principe                                                                              | 2004-01-01          | 2022-01-01        |
-| STPPCPIPCPPPT       | Consumer Prices: All Items for Sao Tome and Principe                                                                                    | 2004-01-01          | 2022-01-01        |
-| STPTTTIX            | Terms of Trade for Goods for Sao Tome and Principe                                                                                      | 2004-01-01          | 2022-01-01        |
+| STPFDSAOPPCPPPT     | Claims on Private Sector for Sao Tome and Principe                                                                                      | 2004-01-01          | 2021-01-01        |
+| STPFMBGDPPT         | Broad Money for Sao Tome and Principe                                                                                                   | 2004-01-01          | 2023-01-01        |
+| STPFMBPCPPPT        | Broad Money for Sao Tome and Principe                                                                                                   | 2004-01-01          | 2023-01-01        |
+| STPGGRG01GDPPT      | General Government Revenue for Sao Tome and Principe                                                                                    | 2004-01-01          | 2023-01-01        |
+| STPGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Sao Tome and Principe                                                                   | 2004-01-01          | 2023-01-01        |
+| STPGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Sao Tome and Principe                                               | 2004-01-01          | 2023-01-01        |
+| STPGGXG01GDPPT      | Total Expenditure of General Government for Sao Tome and Principe                                                                       | 2004-01-01          | 2023-01-01        |
+| STPGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Sao Tome and Principe                                                                 | 2004-01-01          | 2023-01-01        |
+| STPNGDPRPCPCPPPT    | Real GDP Per Capita for Sao Tome and Principe                                                                                           | 2004-01-01          | 2023-01-01        |
+| STPNGDPRPCPPPT      | Real Gross Domestic Product for Sao Tome and Principe                                                                                   | 2004-01-01          | 2023-01-01        |
+| STPNGDPXORPCPPPT    | Real Non-Oil GDP for Sao Tome and Principe                                                                                              | 2004-01-01          | 2023-01-01        |
+| STPNGSGDPPT         | Nominal Gross National Saving for Sao Tome and Principe                                                                                 | 2004-01-01          | 2023-01-01        |
+| STPNIGDPPT          | Nominal Gross Capital Formation for Sao Tome and Principe                                                                               | 2004-01-01          | 2023-01-01        |
+| STPPCPIEOPPCPPPT    | Consumer Prices at End of Period for Sao Tome and Principe                                                                              | 2004-01-01          | 2023-01-01        |
+| STPPCPIPCPPPT       | Consumer Prices: All Items for Sao Tome and Principe                                                                                    | 2004-01-01          | 2023-01-01        |
+| STPTTTIX            | Terms of Trade for Goods for Sao Tome and Principe                                                                                      | 2004-01-01          | 2023-01-01        |
 | TNSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Tennessee                                                                  | 2002-01-01          | 2015-01-01        |
 | TXSTPA052SCEN       | Value of Exports to Sao Tome and Principe from Texas                                                                                    | 2006-01-01          | 2017-01-01        |
 | TXSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Texas                                                                      | 2002-01-01          | 2017-01-01        |

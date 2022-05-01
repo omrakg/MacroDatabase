@@ -79,7 +79,7 @@
 | GAHNDA475SCEN       | Number of Identified Exporters to Honduras from Georgia                                                                             | 1992-01-01          | 2017-01-01        |
 | HIHNDA052SCEN       | Value of Exports to Honduras from Hawaii                                                                                            | 2007-01-01          | 2007-01-01        |
 | HIHNDA475SCEN       | Number of Identified Exporters to Honduras from Hawaii                                                                              | 2006-01-01          | 2016-01-01        |
-| HNDBCAGDPBP6        | Balance of Payments for Honduras                                                                                                    | 1980-01-01          | 2026-01-01        |
+| HNDBCAGDPBP6        | Balance of Payments for Honduras                                                                                                    | 1980-01-01          | 2027-01-01        |
 | HNDFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Honduras                                                          | 2004-01-01          | 2020-01-01        |
 | HNDFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Honduras                                        | 2004-01-01          | 2020-01-01        |
 | HNDFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Honduras                                                                | 2004-01-01          | 2020-01-01        |
@@ -132,14 +132,14 @@
 | HNDGGEIGDP          | General Government Expense for Honduras                                                                                             | 2011-01-01          | 2024-01-01        |
 | HNDGGRGDP           | General Government Revenue for Honduras                                                                                             | 2011-01-01          | 2024-01-01        |
 | HNDGGROPI           | General Government Revenue, interest income for Honduras                                                                            | 2008-01-01          | 2021-01-01        |
-| HNDGGXCNLGDP        | General Government Net Lending/Borrowing for Honduras                                                                               | 1990-01-01          | 2026-01-01        |
+| HNDGGXCNLGDP        | General Government Net Lending/Borrowing for Honduras                                                                               | 1990-01-01          | 2027-01-01        |
 | HNDGGXGDP           | General Government Total Expenditure for Honduras                                                                                   | 2011-01-01          | 2024-01-01        |
-| HNDGGXONLBGDP       | General Government Primary Net Lending/Borrowing for Honduras                                                                       | 1990-01-01          | 2026-01-01        |
-| HNDGGXWDGGDP        | General Government Gross Debt for Honduras                                                                                          | 1990-01-01          | 2026-01-01        |
+| HNDGGXONLBGDP       | General Government Primary Net Lending/Borrowing for Honduras                                                                       | 1990-01-01          | 2027-01-01        |
+| HNDGGXWDGGDP        | General Government Gross Debt for Honduras                                                                                          | 1990-01-01          | 2027-01-01        |
 | HNDNGDPD            | Gross Domestic Product in U.S. Dollars for Honduras                                                                                 | 2011-01-01          | 2024-01-01        |
 | HNDNGDPFY           | Fiscal Year Gross Domestic Product for Honduras                                                                                     | 2011-01-01          | 2024-01-01        |
-| HNDNGDPRPCH         | Gross Domestic Product for Honduras                                                                                                 | 1980-01-01          | 2026-01-01        |
-| HNDPCPIEPCH         | Consumer Prices for Honduras                                                                                                        | 1980-01-01          | 2026-01-01        |
+| HNDNGDPRPCH         | Gross Domestic Product for Honduras                                                                                                 | 1980-01-01          | 2027-01-01        |
+| HNDPCPIEPCH         | Consumer Prices for Honduras                                                                                                        | 1980-01-01          | 2027-01-01        |
 | HNDPPPSH            | Purchasing Power Parity, Share of World for Honduras                                                                                | 2011-01-01          | 2024-01-01        |
 | IAHNDA052SCEN       | Value of Exports to Honduras from Iowa                                                                                              | 1992-01-01          | 2017-01-01        |
 | IAHNDA475SCEN       | Number of Identified Exporters to Honduras from Iowa                                                                                | 1992-01-01          | 2017-01-01        |

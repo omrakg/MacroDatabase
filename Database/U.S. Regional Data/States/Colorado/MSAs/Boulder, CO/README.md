@@ -18,8 +18,8 @@
 | BOUL508INFON              | All Employees: Information in Boulder, CO (MSA)                                                                          | 1990-01-01          | 2022-03-01        |
 | BOUL508LEIH               | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | BOUL508LEIHN              | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2022-03-01        |
-| BOUL508LF                 | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
-| BOUL508LFN                | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
+| BOUL508LF                 | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
+| BOUL508LFN                | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
 | BOUL508MFG                | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | BOUL508MFGN               | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | BOUL508NA                 | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
@@ -33,8 +33,8 @@
 | BOUL508SRVON              | All Employees: Other Services in Boulder, CO (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | BOUL508TRAD               | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | BOUL508TRADN              | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| BOUL508UR                 | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
-| BOUL508URN                | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
+| BOUL508UR                 | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
+| BOUL508URN                | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
 | DESCMSA14500              | Market Hotness: Demand Score in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-03-01        |
 | ENUC145030010             | Total Quarterly Wages in Boulder, CO (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
 | ENUC145030010SA           | Total Quarterly Wages in Boulder, CO (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
@@ -53,12 +53,12 @@
 | HORAYYMSA14500            | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2018-08-01          | 2022-03-01        |
 | HOSCMSA14500              | Market Hotness: Hotness Score in Boulder, CO (CBSA)                                                                      | 2017-08-01          | 2022-03-01        |
 | IRPD14500                 | Implicit Regional Price Deflator for Boulder, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| LAUMT081450000000003A     | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2020-01-01        |
-| LAUMT081450000000004      | Unemployed Persons in Boulder, CO (MSA)                                                                                  | 1990-01-01          | 2022-02-01        |
-| LAUMT081450000000004A     | Unemployed Persons in Boulder, CO (MSA)                                                                                  | 1990-01-01          | 2020-01-01        |
-| LAUMT081450000000005      | Employed Persons in Boulder, CO (MSA)                                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT081450000000005A     | Employed Persons in Boulder, CO (MSA)                                                                                    | 1990-01-01          | 2020-01-01        |
-| LAUMT081450000000006A     | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2020-01-01        |
+| LAUMT081450000000003A     | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
+| LAUMT081450000000004      | Unemployed Persons in Boulder, CO (MSA)                                                                                  | 1990-01-01          | 2022-03-01        |
+| LAUMT081450000000004A     | Unemployed Persons in Boulder, CO (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
+| LAUMT081450000000005      | Employed Persons in Boulder, CO (MSA)                                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT081450000000005A     | Employed Persons in Boulder, CO (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
+| LAUMT081450000000006A     | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA14500          | Market Hotness: Listing Views per Property in Boulder, CO (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA14500        | Market Hotness: Listing Views per Property Versus the United States in Boulder, CO (CBSA)                                | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA14500          | Market Hotness: Listing Views per Property in Boulder, CO (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU08145000500000001SA    | All Employees: Total Private in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | SMU08145000500000002      | Average Weekly Hours of All Employees: Total Private in Boulder, CO (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU08145000500000002A     | Average Weekly Hours of All Employees: Total Private in Boulder, CO (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU08145000500000002SA    | Average Weekly Hours of All Employees: Total Private in Boulder, CO (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU08145000500000003      | Average Hourly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU08145000500000003A     | Average Hourly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU08145000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU08145000500000011      | Average Weekly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU08145000500000011A     | Average Weekly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU08145000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU08145000600000001      | All Employees: Goods Producing in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
 | SMU08145000600000001A     | All Employees: Goods Producing in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | SMU08145000600000001SA    | All Employees: Goods Producing in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-03-01        |

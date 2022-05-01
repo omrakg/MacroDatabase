@@ -25,12 +25,12 @@
 | HORAYYMSA41500            | Market Hotness: Hotness Rank in Salinas, CA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA41500              | Market Hotness: Hotness Score in Salinas, CA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD41500                 | Implicit Regional Price Deflator for Salinas, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT064150000000003A     | Unemployment Rate in Salinas, CA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT064150000000004      | Unemployed Persons in Salinas, CA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT064150000000004A     | Unemployed Persons in Salinas, CA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT064150000000005      | Employed Persons in Salinas, CA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT064150000000005A     | Employed Persons in Salinas, CA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT064150000000006A     | Civilian Labor Force in Salinas, CA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT064150000000003A     | Unemployment Rate in Salinas, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT064150000000004      | Unemployed Persons in Salinas, CA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT064150000000004A     | Unemployed Persons in Salinas, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT064150000000005      | Employed Persons in Salinas, CA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT064150000000005A     | Employed Persons in Salinas, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT064150000000006A     | Civilian Labor Force in Salinas, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA41500          | Market Hotness: Listing Views per Property in Salinas, CA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA41500        | Market Hotness: Listing Views per Property Versus the United States in Salinas, CA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA41500          | Market Hotness: Listing Views per Property in Salinas, CA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -89,8 +89,8 @@
 | SALI506INFON              | All Employees: Information in Salinas, CA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | SALI506LEIH               | All Employees: Leisure and Hospitality in Salinas, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | SALI506LEIHN              | All Employees: Leisure and Hospitality in Salinas, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| SALI506LF                 | Civilian Labor Force in Salinas, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| SALI506LFN                | Civilian Labor Force in Salinas, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SALI506LF                 | Civilian Labor Force in Salinas, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| SALI506LFN                | Civilian Labor Force in Salinas, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | SALI506MFG                | All Employees: Manufacturing in Salinas, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SALI506MFGN               | All Employees: Manufacturing in Salinas, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SALI506NA                 | All Employees: Total Nonfarm in Salinas, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -102,8 +102,8 @@
 | SALI506SRVON              | All Employees: Other Services in Salinas, CA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | SALI506TRAD               | All Employees: Trade, Transportation, and Utilities in Salinas, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | SALI506TRADN              | All Employees: Trade, Transportation, and Utilities in Salinas, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| SALI506UR                 | Unemployment Rate in Salinas, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| SALI506URN                | Unemployment Rate in Salinas, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| SALI506UR                 | Unemployment Rate in Salinas, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| SALI506URN                | Unemployment Rate in Salinas, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SMS06415000000000026      | All Employees: Total Nonfarm in Salinas, CA (MSA)                                                            | 1990-04-01          | 2022-03-01        |
 | SMU06415000000000001A     | All Employees: Total Nonfarm in Salinas, CA (MSA)                                                            | 1957-01-01          | 2021-01-01        |
 | SMU06415000500000001      | All Employees: Total Private in Salinas, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -111,13 +111,10 @@
 | SMU06415000500000001SA    | All Employees: Total Private in Salinas, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU06415000500000002      | Average Weekly Hours of All Employees: Total Private in Salinas, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06415000500000002A     | Average Weekly Hours of All Employees: Total Private in Salinas, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06415000500000002SA    | Average Weekly Hours of All Employees: Total Private in Salinas, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06415000500000003      | Average Hourly Earnings of All Employees: Total Private in Salinas, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06415000500000003A     | Average Hourly Earnings of All Employees: Total Private in Salinas, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06415000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Salinas, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06415000500000011      | Average Weekly Earnings of All Employees: Total Private in Salinas, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06415000500000011A     | Average Weekly Earnings of All Employees: Total Private in Salinas, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06415000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Salinas, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06415000600000001      | All Employees: Goods Producing in Salinas, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU06415000600000001A     | All Employees: Goods Producing in Salinas, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU06415000600000001SA    | All Employees: Goods Producing in Salinas, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

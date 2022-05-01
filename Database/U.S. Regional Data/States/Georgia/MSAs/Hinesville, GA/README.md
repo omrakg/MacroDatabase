@@ -20,20 +20,20 @@
 | HFSPOP                    | Resident Population in Hinesville, GA (MSA)                                                                  | 2000-01-01          | 2021-01-01        |
 | HINE913GOVT               | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | HINE913GOVTN              | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
-| HINE913LF                 | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-02-01        |
-| HINE913LFN                | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-02-01        |
+| HINE913LF                 | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-03-01        |
+| HINE913LFN                | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-03-01        |
 | HINE913NA                 | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | HINE913NAN                | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | HINE913PCPI               | Per Capita Personal Income in Hinesville, GA (MSA)                                                           | 1969-01-01          | 2020-01-01        |
-| HINE913UR                 | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| HINE913URN                | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| HINE913UR                 | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| HINE913URN                | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | IRPD25980                 | Implicit Regional Price Deflator for Hinesville, GA (MSA)                                                    | 2008-01-01          | 2020-01-01        |
-| LAUMT132598000000003A     | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
-| LAUMT132598000000004      | Unemployed Persons in Hinesville, GA (MSA)                                                                   | 1990-01-01          | 2022-02-01        |
-| LAUMT132598000000004A     | Unemployed Persons in Hinesville, GA (MSA)                                                                   | 1990-01-01          | 2020-01-01        |
-| LAUMT132598000000005      | Employed Persons in Hinesville, GA (MSA)                                                                     | 1990-01-01          | 2022-02-01        |
-| LAUMT132598000000005A     | Employed Persons in Hinesville, GA (MSA)                                                                     | 1990-01-01          | 2020-01-01        |
-| LAUMT132598000000006A     | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2020-01-01        |
+| LAUMT132598000000003A     | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
+| LAUMT132598000000004      | Unemployed Persons in Hinesville, GA (MSA)                                                                   | 1990-01-01          | 2022-03-01        |
+| LAUMT132598000000004A     | Unemployed Persons in Hinesville, GA (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
+| LAUMT132598000000005      | Employed Persons in Hinesville, GA (MSA)                                                                     | 1990-01-01          | 2022-03-01        |
+| LAUMT132598000000005A     | Employed Persons in Hinesville, GA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
+| LAUMT132598000000006A     | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR25980          | Housing Inventory: Median Days on Market in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM25980        | Housing Inventory: Median Days on Market Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY25980        | Housing Inventory: Median Days on Market Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-03-01        |
@@ -75,13 +75,10 @@
 | SMU13259800500000001SA    | All Employees: Total Private in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | SMU13259800500000002      | Average Weekly Hours of All Employees: Total Private in Hinesville, GA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU13259800500000002A     | Average Weekly Hours of All Employees: Total Private in Hinesville, GA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13259800500000002SA    | Average Weekly Hours of All Employees: Total Private in Hinesville, GA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU13259800500000003      | Average Hourly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-03-01        |
 | SMU13259800500000003A     | Average Hourly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2021-01-01        |
-| SMU13259800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-03-01        |
 | SMU13259800500000011      | Average Weekly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-03-01        |
 | SMU13259800500000011A     | Average Weekly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2021-01-01        |
-| SMU13259800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-03-01        |
 | SMU13259800600000001      | All Employees: Goods Producing in Hinesville, GA (MSA)                                                       | 1990-01-01          | 2022-03-01        |
 | SMU13259800600000001A     | All Employees: Goods Producing in Hinesville, GA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
 | SMU13259800600000001SA    | All Employees: Goods Producing in Hinesville, GA (MSA)                                                       | 1990-01-01          | 2022-03-01        |

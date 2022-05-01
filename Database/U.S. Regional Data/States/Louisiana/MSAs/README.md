@@ -1,11 +1,11 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Lafayette, LA               |               189 |
-| Shreveport-Bossier City, LA |               195 |
-| Monroe, LA                  |               158 |
-| New Orleans-Metairie, LA    |               265 |
-| Hammond, LA                 |                62 |
-| Alexandria, LA              |               134 |
-| Lake Charles, LA            |               164 |
-| Houma-Thibodaux, LA         |               155 |
-| Baton Rouge, LA             |               223 |
+| Alexandria, LA              |               131 |
+| Monroe, LA                  |               155 |
+| Lake Charles, LA            |               161 |
+| Houma-Thibodaux, LA         |               152 |
+| Hammond, LA                 |                59 |
+| Lafayette, LA               |               186 |
+| New Orleans-Metairie, LA    |               262 |
+| Shreveport-Bossier City, LA |               192 |
+| Baton Rouge, LA             |               220 |

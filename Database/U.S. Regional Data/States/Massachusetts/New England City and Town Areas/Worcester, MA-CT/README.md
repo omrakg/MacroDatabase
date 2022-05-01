@@ -24,7 +24,7 @@
 | HORAMSA49340              | Market Hotness: Hotness Rank in Worcester, MA-CT (CBSA)                                             | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA49340            | Market Hotness: Hotness Rank in Worcester, MA-CT (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | HOSCMSA49340              | Market Hotness: Hotness Score in Worcester, MA-CT (CBSA)                                            | 2017-08-01          | 2022-03-01        |
-| IHLCHG49340               | Job Postings on Indeed in Worcester, MA-CT (MSA)                                                    | 2020-02-01          | 2022-04-15        |
+| IHLCHG49340               | Job Postings on Indeed in Worcester, MA-CT (MSA)                                                    | 2020-02-01          | 2022-04-22        |
 | IRPD49340                 | Implicit Regional Price Deflator for Worcester, MA-CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA49340          | Market Hotness: Listing Views per Property in Worcester, MA-CT (CBSA)                               | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA49340        | Market Hotness: Listing Views per Property Versus the United States in Worcester, MA-CT (CBSA)      | 2017-08-01          | 2022-03-01        |

@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                             | observation_start   | observation_end   |
+|------------------------|---------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU25755500500000002SA | Average Weekly Hours of All Employees: Total Private in New Bedford, MA (NECTA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU25755500500000003SA | Average Hourly Earnings of All Employees: Total Private in New Bedford, MA (NECTA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU25755500500000011SA | Average Weekly Earnings of All Employees: Total Private in New Bedford, MA (NECTA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

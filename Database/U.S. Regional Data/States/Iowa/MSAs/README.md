@@ -1,11 +1,11 @@
 | Folder                              |   Files / Folders |
 |-------------------------------------|-------------------|
-| Iowa City, IA                       |               138 |
-| Dubuque, IA                         |               110 |
-| Ames, IA                            |               101 |
-| Davenport-Moline-Rock Island, IA-IL |               185 |
-| Cedar Rapids, IA                    |               179 |
-| Sioux City, IA-NE-SD                |               144 |
-| Omaha-Council Bluffs, NE-IA         |               311 |
-| Des Moines-West Des Moines, IA      |               199 |
-| Waterloo-Cedar Falls, IA            |               158 |
+| Sioux City, IA-NE-SD                |                 0 |
+| Iowa City, IA                       |               135 |
+| Des Moines-West Des Moines, IA      |               196 |
+| Omaha-Council Bluffs, NE-IA         |                 0 |
+| Dubuque, IA                         |               107 |
+| Davenport-Moline-Rock Island, IA-IL |               179 |
+| Ames, IA                            |                98 |
+| Waterloo-Cedar Falls, IA            |               155 |
+| Cedar Rapids, IA                    |               176 |

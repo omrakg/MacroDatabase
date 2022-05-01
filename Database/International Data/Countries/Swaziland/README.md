@@ -139,15 +139,15 @@
 | SPDYNLE00INSWZ      | Life Expectancy at Birth, Total for Swaziland                                                                                 | 1960-01-01          | 2019-01-01        |
 | SPDYNTFRTINSWZ      | Fertility Rate, Total for Swaziland                                                                                           | 1960-01-01          | 2019-01-01        |
 | SPPOP65UPTOZSSWZ    | Population ages 65 and above for Swaziland                                                                                    | 1960-01-01          | 2020-01-01        |
-| SWZBCABP6GDPPT      | Net Current Account Total for Swaziland                                                                                       | 2004-01-01          | 2022-01-01        |
-| SWZBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Swaziland                       | 2004-01-01          | 2022-01-01        |
-| SWZBGSBP6GDPPT      | Goods and Services: Net for Swaziland                                                                                         | 2004-01-01          | 2022-01-01        |
-| SWZBMGSBP6GDPPT     | Goods and Services: Debit for Swaziland                                                                                       | 2004-01-01          | 2022-01-01        |
-| SWZBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Swaziland                                                           | 2004-01-01          | 2022-01-01        |
-| SWZBXGSBP6GDPPT     | Goods and Services: Credit for Swaziland                                                                                      | 2004-01-01          | 2022-01-01        |
-| SWZDGGDPPT          | Official External Debt: Debtor Based for Swaziland                                                                            | 2004-01-01          | 2022-01-01        |
-| SWZENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Swaziland                                                | 2004-01-01          | 2020-01-01        |
-| SWZEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Swaziland                                                   | 2004-01-01          | 2020-01-01        |
+| SWZBCABP6GDPPT      | Net Current Account Total for Swaziland                                                                                       | 2004-01-01          | 2023-01-01        |
+| SWZBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Swaziland                       | 2004-01-01          | 2023-01-01        |
+| SWZBGSBP6GDPPT      | Goods and Services: Net for Swaziland                                                                                         | 2004-01-01          | 2023-01-01        |
+| SWZBMGSBP6GDPPT     | Goods and Services: Debit for Swaziland                                                                                       | 2004-01-01          | 2023-01-01        |
+| SWZBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Swaziland                                                           | 2004-01-01          | 2023-01-01        |
+| SWZBXGSBP6GDPPT     | Goods and Services: Credit for Swaziland                                                                                      | 2004-01-01          | 2023-01-01        |
+| SWZDGGDPPT          | Official External Debt: Debtor Based for Swaziland                                                                            | 2004-01-01          | 2023-01-01        |
+| SWZENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Swaziland                                                | 2004-01-01          | 2021-01-01        |
+| SWZEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Swaziland                                                   | 2004-01-01          | 2021-01-01        |
 | SWZFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Swaziland                                                   | 2004-01-01          | 2020-01-01        |
 | SWZFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Swaziland                                 | 2004-01-01          | 2020-01-01        |
 | SWZFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Swaziland                                                         | 2004-01-01          | 2020-01-01        |
@@ -183,23 +183,23 @@
 | SWZFCSODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Swaziland                              | 2004-01-01          | 2020-01-01        |
 | SWZFCSODCXDC        | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Swaziland                                        | 2004-01-01          | 2020-01-01        |
 | SWZFCSODDXDC        | Use of Financial Services, Assets: Outstanding Loans at Other Deposit Takers for Swaziland                                    | 2004-01-01          | 2020-01-01        |
-| SWZFDSAOPGDPPT      | Claims on Private Sector for Swaziland                                                                                        | 2004-01-01          | 2020-01-01        |
-| SWZFDSAOPPCPPPT     | Claims on Private Sector for Swaziland                                                                                        | 2004-01-01          | 2020-01-01        |
-| SWZFMBGDPPT         | Broad Money for Swaziland                                                                                                     | 2004-01-01          | 2022-01-01        |
-| SWZFMBPCPPPT        | Broad Money for Swaziland                                                                                                     | 2004-01-01          | 2022-01-01        |
-| SWZGGRG01GDPPT      | General Government Revenue for Swaziland                                                                                      | 2004-01-01          | 2022-01-01        |
-| SWZGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Swaziland                                                                     | 2004-01-01          | 2022-01-01        |
-| SWZGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Swaziland                                                 | 2004-01-01          | 2022-01-01        |
-| SWZGGXG01GDPPT      | Total Expenditure of General Government for Swaziland                                                                         | 2004-01-01          | 2022-01-01        |
-| SWZGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Swaziland                                                                   | 2004-01-01          | 2022-01-01        |
-| SWZNGDPRPCPCPPPT    | Real GDP Per Capita for Swaziland                                                                                             | 2004-01-01          | 2022-01-01        |
-| SWZNGDPRPCPPPT      | Real Gross Domestic Product for Swaziland                                                                                     | 2004-01-01          | 2022-01-01        |
-| SWZNGDPXORPCPPPT    | Real Non-Oil GDP for Swaziland                                                                                                | 2004-01-01          | 2022-01-01        |
-| SWZNGSGDPPT         | Nominal Gross National Saving for Swaziland                                                                                   | 2004-01-01          | 2022-01-01        |
-| SWZNIGDPPT          | Nominal Gross Capital Formation for Swaziland                                                                                 | 2004-01-01          | 2022-01-01        |
-| SWZPCPIEOPPCPPPT    | Consumer Prices at End of Period for Swaziland                                                                                | 2004-01-01          | 2022-01-01        |
-| SWZPCPIPCPPPT       | Consumer Prices: All Items for Swaziland                                                                                      | 2004-01-01          | 2022-01-01        |
-| SWZTTTIX            | Terms of Trade for Goods for Swaziland                                                                                        | 2004-01-01          | 2022-01-01        |
+| SWZFDSAOPGDPPT      | Claims on Private Sector for Swaziland                                                                                        | 2004-01-01          | 2021-01-01        |
+| SWZFDSAOPPCPPPT     | Claims on Private Sector for Swaziland                                                                                        | 2004-01-01          | 2021-01-01        |
+| SWZFMBGDPPT         | Broad Money for Swaziland                                                                                                     | 2004-01-01          | 2023-01-01        |
+| SWZFMBPCPPPT        | Broad Money for Swaziland                                                                                                     | 2004-01-01          | 2023-01-01        |
+| SWZGGRG01GDPPT      | General Government Revenue for Swaziland                                                                                      | 2004-01-01          | 2023-01-01        |
+| SWZGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Swaziland                                                                     | 2004-01-01          | 2023-01-01        |
+| SWZGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Swaziland                                                 | 2004-01-01          | 2023-01-01        |
+| SWZGGXG01GDPPT      | Total Expenditure of General Government for Swaziland                                                                         | 2004-01-01          | 2023-01-01        |
+| SWZGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Swaziland                                                                   | 2004-01-01          | 2023-01-01        |
+| SWZNGDPRPCPCPPPT    | Real GDP Per Capita for Swaziland                                                                                             | 2004-01-01          | 2023-01-01        |
+| SWZNGDPRPCPPPT      | Real Gross Domestic Product for Swaziland                                                                                     | 2004-01-01          | 2023-01-01        |
+| SWZNGDPXORPCPPPT    | Real Non-Oil GDP for Swaziland                                                                                                | 2004-01-01          | 2023-01-01        |
+| SWZNGSGDPPT         | Nominal Gross National Saving for Swaziland                                                                                   | 2004-01-01          | 2023-01-01        |
+| SWZNIGDPPT          | Nominal Gross Capital Formation for Swaziland                                                                                 | 2004-01-01          | 2023-01-01        |
+| SWZPCPIEOPPCPPPT    | Consumer Prices at End of Period for Swaziland                                                                                | 2004-01-01          | 2023-01-01        |
+| SWZPCPIPCPPPT       | Consumer Prices: All Items for Swaziland                                                                                      | 2004-01-01          | 2023-01-01        |
+| SWZTTTIX            | Terms of Trade for Goods for Swaziland                                                                                        | 2004-01-01          | 2023-01-01        |
 | TNSWZA052SCEN       | Value of Exports to Swaziland from Tennessee                                                                                  | 2005-01-01          | 2017-01-01        |
 | TNSWZA475SCEN       | Number of Identified Exporters to Swaziland from Tennessee                                                                    | 1997-01-01          | 2017-01-01        |
 | TXSWZA052SCEN       | Value of Exports to Swaziland from Texas                                                                                      | 1997-01-01          | 2017-01-01        |

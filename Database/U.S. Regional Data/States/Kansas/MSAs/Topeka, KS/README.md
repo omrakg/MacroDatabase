@@ -25,12 +25,12 @@
 | HORAYYMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA45820              | Market Hotness: Hotness Score in Topeka, KS (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD45820                 | Implicit Regional Price Deflator for Topeka, KS (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT204582000000003A     | Unemployment Rate in Topeka, KS (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT204582000000004      | Unemployed Persons in Topeka, KS (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT204582000000004A     | Unemployed Persons in Topeka, KS (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT204582000000005      | Employed Persons in Topeka, KS (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT204582000000005A     | Employed Persons in Topeka, KS (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT204582000000006A     | Civilian Labor Force in Topeka, KS (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT204582000000003A     | Unemployment Rate in Topeka, KS (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT204582000000004      | Unemployed Persons in Topeka, KS (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT204582000000004A     | Unemployed Persons in Topeka, KS (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT204582000000005      | Employed Persons in Topeka, KS (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT204582000000005A     | Employed Persons in Topeka, KS (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT204582000000006A     | Civilian Labor Force in Topeka, KS (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA45820          | Market Hotness: Listing Views per Property in Topeka, KS (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA45820        | Market Hotness: Listing Views per Property Versus the United States in Topeka, KS (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA45820          | Market Hotness: Listing Views per Property in Topeka, KS (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -86,13 +86,10 @@
 | SMU20458200500000001SA    | All Employees: Total Private in Topeka, KS (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU20458200500000002      | Average Weekly Hours of All Employees: Total Private in Topeka, KS (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU20458200500000002A     | Average Weekly Hours of All Employees: Total Private in Topeka, KS (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU20458200500000002SA    | Average Weekly Hours of All Employees: Total Private in Topeka, KS (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU20458200500000003      | Average Hourly Earnings of All Employees: Total Private in Topeka, KS (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU20458200500000003A     | Average Hourly Earnings of All Employees: Total Private in Topeka, KS (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU20458200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Topeka, KS (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU20458200500000011      | Average Weekly Earnings of All Employees: Total Private in Topeka, KS (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU20458200500000011A     | Average Weekly Earnings of All Employees: Total Private in Topeka, KS (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU20458200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Topeka, KS (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU20458200600000001      | All Employees: Goods Producing in Topeka, KS (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU20458200600000001A     | All Employees: Goods Producing in Topeka, KS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU20458200600000001SA    | All Employees: Goods Producing in Topeka, KS (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -159,8 +156,8 @@
 | TOPE820INFON              | All Employees: Information in Topeka, KS (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | TOPE820LEIH               | All Employees: Leisure and Hospitality in Topeka, KS (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | TOPE820LEIHN              | All Employees: Leisure and Hospitality in Topeka, KS (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| TOPE820LF                 | Civilian Labor Force in Topeka, KS (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| TOPE820LFN                | Civilian Labor Force in Topeka, KS (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| TOPE820LF                 | Civilian Labor Force in Topeka, KS (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| TOPE820LFN                | Civilian Labor Force in Topeka, KS (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | TOPE820MFG                | All Employees: Manufacturing in Topeka, KS (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | TOPE820MFGN               | All Employees: Manufacturing in Topeka, KS (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | TOPE820NA                 | All Employees: Total Nonfarm in Topeka, KS (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -174,6 +171,6 @@
 | TOPE820SRVON              | All Employees: Other Services in Topeka, KS (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | TOPE820TRAD               | All Employees: Trade, Transportation, and Utilities in Topeka, KS (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | TOPE820TRADN              | All Employees: Trade, Transportation, and Utilities in Topeka, KS (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| TOPE820UR                 | Unemployment Rate in Topeka, KS (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| TOPE820URN                | Unemployment Rate in Topeka, KS (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| TOPE820UR                 | Unemployment Rate in Topeka, KS (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| TOPE820URN                | Unemployment Rate in Topeka, KS (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | TPKPOP                    | Resident Population in Topeka, KS (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

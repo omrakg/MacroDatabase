@@ -25,12 +25,12 @@
 | HORAYYMSA33660            | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA33660              | Market Hotness: Hotness Score in Mobile, AL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD33660                 | Implicit Regional Price Deflator for Mobile, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT013366000000003A     | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT013366000000004      | Unemployed Persons in Mobile, AL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT013366000000004A     | Unemployed Persons in Mobile, AL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT013366000000005      | Employed Persons in Mobile, AL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT013366000000005A     | Employed Persons in Mobile, AL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT013366000000006A     | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT013366000000003A     | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT013366000000004      | Unemployed Persons in Mobile, AL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT013366000000004A     | Unemployed Persons in Mobile, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT013366000000005      | Employed Persons in Mobile, AL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT013366000000005A     | Employed Persons in Mobile, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT013366000000006A     | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA33660          | Market Hotness: Listing Views per Property in Mobile, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA33660        | Market Hotness: Listing Views per Property Versus the United States in Mobile, AL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA33660          | Market Hotness: Listing Views per Property in Mobile, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -66,8 +66,8 @@
 | MOBI601INFON              | All Employees: Information in Mobile, AL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | MOBI601LEIH               | All Employees: Leisure and Hospitality in Mobile, AL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | MOBI601LEIHN              | All Employees: Leisure and Hospitality in Mobile, AL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| MOBI601LF                 | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| MOBI601LFN                | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| MOBI601LF                 | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| MOBI601LFN                | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | MOBI601MFG                | All Employees: Manufacturing in Mobile, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MOBI601MFGN               | All Employees: Manufacturing in Mobile, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MOBI601NA                 | All Employees: Total Nonfarm in Mobile, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -81,8 +81,8 @@
 | MOBI601SRVON              | All Employees: Other Services in Mobile, AL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | MOBI601TRAD               | All Employees: Trade, Transportation, and Utilities in Mobile, AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | MOBI601TRADN              | All Employees: Trade, Transportation, and Utilities in Mobile, AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| MOBI601UR                 | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| MOBI601URN                | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| MOBI601UR                 | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| MOBI601URN                | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MOBPOP                    | Resident Population in Mobile, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU33660            | Housing Inventory: New Listing Count in Mobile, AL (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
 | NEWLISCOUMM33660          | Housing Inventory: New Listing Count Month-Over-Month in Mobile, AL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU01336600500000001SA    | All Employees: Total Private in Mobile, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU01336600500000002      | Average Weekly Hours of All Employees: Total Private in Mobile, AL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU01336600500000002A     | Average Weekly Hours of All Employees: Total Private in Mobile, AL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU01336600500000002SA    | Average Weekly Hours of All Employees: Total Private in Mobile, AL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU01336600500000003      | Average Hourly Earnings of All Employees: Total Private in Mobile, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01336600500000003A     | Average Hourly Earnings of All Employees: Total Private in Mobile, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01336600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Mobile, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01336600500000011      | Average Weekly Earnings of All Employees: Total Private in Mobile, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01336600500000011A     | Average Weekly Earnings of All Employees: Total Private in Mobile, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01336600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Mobile, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01336600600000001      | All Employees: Goods Producing in Mobile, AL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU01336600600000001A     | All Employees: Goods Producing in Mobile, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU01336600600000001SA    | All Employees: Goods Producing in Mobile, AL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

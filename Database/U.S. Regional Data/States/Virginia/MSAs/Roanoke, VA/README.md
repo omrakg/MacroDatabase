@@ -25,12 +25,12 @@
 | HORAYYMSA40220            | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA40220              | Market Hotness: Hotness Score in Roanoke, VA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD40220                 | Implicit Regional Price Deflator for Roanoke, VA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT514022000000003A     | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT514022000000004      | Unemployed Persons in Roanoke, VA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT514022000000004A     | Unemployed Persons in Roanoke, VA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT514022000000005      | Employed Persons in Roanoke, VA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT514022000000005A     | Employed Persons in Roanoke, VA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT514022000000006A     | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT514022000000003A     | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT514022000000004      | Unemployed Persons in Roanoke, VA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT514022000000004A     | Unemployed Persons in Roanoke, VA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT514022000000005      | Employed Persons in Roanoke, VA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT514022000000005A     | Employed Persons in Roanoke, VA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT514022000000006A     | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA40220          | Market Hotness: Listing Views per Property in Roanoke, VA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA40220        | Market Hotness: Listing Views per Property Versus the United States in Roanoke, VA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA40220          | Market Hotness: Listing Views per Property in Roanoke, VA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -84,8 +84,8 @@
 | ROAN251INFON              | All Employees: Information in Roanoke, VA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | ROAN251LEIH               | All Employees: Leisure and Hospitality in Roanoke, VA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | ROAN251LEIHN              | All Employees: Leisure and Hospitality in Roanoke, VA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| ROAN251LF                 | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| ROAN251LFN                | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| ROAN251LF                 | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| ROAN251LFN                | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | ROAN251MFG                | All Employees: Manufacturing in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ROAN251MFGN               | All Employees: Manufacturing in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ROAN251NA                 | All Employees: Total Nonfarm in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -99,8 +99,8 @@
 | ROAN251SRVON              | All Employees: Other Services in Roanoke, VA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | ROAN251TRAD               | All Employees: Trade, Transportation, and Utilities in Roanoke, VA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | ROAN251TRADN              | All Employees: Trade, Transportation, and Utilities in Roanoke, VA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| ROAN251UR                 | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| ROAN251URN                | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| ROAN251UR                 | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| ROAN251URN                | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | RPI40220                  | Real Personal Income for Roanoke, VA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC40220                | Real Per Capita Personal Income for Roanoke, VA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL40220               | Regional Price Parities: All Items for Roanoke, VA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -114,13 +114,10 @@
 | SMU51402200500000001SA    | All Employees: Total Private in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU51402200500000002      | Average Weekly Hours of All Employees: Total Private in Roanoke, VA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU51402200500000002A     | Average Weekly Hours of All Employees: Total Private in Roanoke, VA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU51402200500000002SA    | Average Weekly Hours of All Employees: Total Private in Roanoke, VA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU51402200500000003      | Average Hourly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU51402200500000003A     | Average Hourly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU51402200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU51402200500000011      | Average Weekly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU51402200500000011A     | Average Weekly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU51402200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU51402200600000001      | All Employees: Goods Producing in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU51402200600000001A     | All Employees: Goods Producing in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU51402200600000001SA    | All Employees: Goods Producing in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

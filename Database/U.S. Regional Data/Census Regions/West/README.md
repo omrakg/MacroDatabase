@@ -1,4 +1,4 @@
 | Folder           |   Files / Folders |
 |------------------|-------------------|
-| Census Divisions |                 2 |
 | Discontinued     |                 0 |
+| Census Divisions |                 2 |

@@ -16,8 +16,8 @@
 | COLU913INFON              | All Employees: Information in Columbus, GA-AL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | COLU913LEIH               | All Employees: Leisure and Hospitality in Columbus, GA-AL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | COLU913LEIHN              | All Employees: Leisure and Hospitality in Columbus, GA-AL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| COLU913LF                 | Civilian Labor Force in Columbus, GA-AL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| COLU913LFN                | Civilian Labor Force in Columbus, GA-AL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| COLU913LF                 | Civilian Labor Force in Columbus, GA-AL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| COLU913LFN                | Civilian Labor Force in Columbus, GA-AL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | COLU913NA                 | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | COLU913NAN                | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | COLU913PBSV               | All Employees: Professional and Business Services in Columbus, GA-AL (MSA)                                       | 1990-01-01          | 2022-03-01        |
@@ -25,8 +25,8 @@
 | COLU913PCPI               | Per Capita Personal Income in Columbus, GA-AL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | COLU913TRAD               | All Employees: Trade, Transportation, and Utilities in Columbus, GA-AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | COLU913TRADN              | All Employees: Trade, Transportation, and Utilities in Columbus, GA-AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| COLU913UR                 | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| COLU913URN                | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| COLU913UR                 | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| COLU913URN                | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | DESCMSA17980              | Market Hotness: Demand Score in Columbus, GA-AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | ENUC179830010             | Total Quarterly Wages in Columbus, GA-AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC179830010SA           | Total Quarterly Wages in Columbus, GA-AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -43,12 +43,12 @@
 | HORAYYMSA17980            | Market Hotness: Hotness Rank in Columbus, GA-AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA17980              | Market Hotness: Hotness Score in Columbus, GA-AL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD17980                 | Implicit Regional Price Deflator for Columbus, GA-AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT131798000000003A     | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT131798000000004      | Unemployed Persons in Columbus, GA-AL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT131798000000004A     | Unemployed Persons in Columbus, GA-AL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT131798000000005      | Employed Persons in Columbus, GA-AL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT131798000000005A     | Employed Persons in Columbus, GA-AL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT131798000000006A     | Civilian Labor Force in Columbus, GA-AL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT131798000000003A     | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT131798000000004      | Unemployed Persons in Columbus, GA-AL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT131798000000004A     | Unemployed Persons in Columbus, GA-AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT131798000000005      | Employed Persons in Columbus, GA-AL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT131798000000005A     | Employed Persons in Columbus, GA-AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT131798000000006A     | Civilian Labor Force in Columbus, GA-AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA17980          | Market Hotness: Listing Views per Property in Columbus, GA-AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA17980        | Market Hotness: Listing Views per Property Versus the United States in Columbus, GA-AL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA17980          | Market Hotness: Listing Views per Property in Columbus, GA-AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -104,13 +104,10 @@
 | SMU13179800500000001SA    | All Employees: Total Private in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU13179800500000002      | Average Weekly Hours of All Employees: Total Private in Columbus, GA-AL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU13179800500000002A     | Average Weekly Hours of All Employees: Total Private in Columbus, GA-AL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU13179800500000002SA    | Average Weekly Hours of All Employees: Total Private in Columbus, GA-AL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU13179800500000003      | Average Hourly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU13179800500000003A     | Average Hourly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13179800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU13179800500000011      | Average Weekly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU13179800500000011A     | Average Weekly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13179800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU13179800600000001      | All Employees: Goods Producing in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU13179800600000001A     | All Employees: Goods Producing in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU13179800600000001SA    | All Employees: Goods Producing in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

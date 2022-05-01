@@ -18,8 +18,8 @@
 | CANT939INFON              | All Employees: Information in Canton-Massillon, OH (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | CANT939LEIH               | All Employees: Leisure and Hospitality in Canton-Massillon, OH (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | CANT939LEIHN              | All Employees: Leisure and Hospitality in Canton-Massillon, OH (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| CANT939LF                 | Civilian Labor Force in Canton-Massillon, OH (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| CANT939LFN                | Civilian Labor Force in Canton-Massillon, OH (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| CANT939LF                 | Civilian Labor Force in Canton-Massillon, OH (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| CANT939LFN                | Civilian Labor Force in Canton-Massillon, OH (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | CANT939MFG                | All Employees: Manufacturing in Canton-Massillon, OH (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | CANT939MFGN               | All Employees: Manufacturing in Canton-Massillon, OH (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | CANT939NA                 | All Employees: Total Nonfarm in Canton-Massillon, OH (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -33,8 +33,8 @@
 | CANT939SRVON              | All Employees: Other Services in Canton-Massillon, OH (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | CANT939TRAD               | All Employees: Trade, Transportation, and Utilities in Canton-Massillon, OH (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | CANT939TRADN              | All Employees: Trade, Transportation, and Utilities in Canton-Massillon, OH (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| CANT939UR                 | Unemployment Rate in Canton-Massillon, OH (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| CANT939URN                | Unemployment Rate in Canton-Massillon, OH (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| CANT939UR                 | Unemployment Rate in Canton-Massillon, OH (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| CANT939URN                | Unemployment Rate in Canton-Massillon, OH (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | DESCMSA15940              | Market Hotness: Demand Score in Canton-Massillon, OH (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | ENUC159430010             | Total Quarterly Wages in Canton-Massillon, OH (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC159430010SA           | Total Quarterly Wages in Canton-Massillon, OH (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -53,12 +53,12 @@
 | HORAYYMSA15940            | Market Hotness: Hotness Rank in Canton-Massillon, OH (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA15940              | Market Hotness: Hotness Score in Canton-Massillon, OH (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD15940                 | Implicit Regional Price Deflator for Canton-Massillon, OH (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT391594000000003A     | Unemployment Rate in Canton-Massillon, OH (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT391594000000004      | Unemployed Persons in Canton-Massillon, OH (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT391594000000004A     | Unemployed Persons in Canton-Massillon, OH (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT391594000000005      | Employed Persons in Canton-Massillon, OH (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT391594000000005A     | Employed Persons in Canton-Massillon, OH (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT391594000000006A     | Civilian Labor Force in Canton-Massillon, OH (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT391594000000003A     | Unemployment Rate in Canton-Massillon, OH (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT391594000000004      | Unemployed Persons in Canton-Massillon, OH (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT391594000000004A     | Unemployed Persons in Canton-Massillon, OH (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT391594000000005      | Employed Persons in Canton-Massillon, OH (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT391594000000005A     | Employed Persons in Canton-Massillon, OH (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT391594000000006A     | Civilian Labor Force in Canton-Massillon, OH (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA15940          | Market Hotness: Listing Views per Property in Canton-Massillon, OH (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA15940        | Market Hotness: Listing Views per Property Versus the United States in Canton-Massillon, OH (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA15940          | Market Hotness: Listing Views per Property in Canton-Massillon, OH (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU39159400500000001SA    | All Employees: Total Private in Canton-Massillon, OH (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU39159400500000002      | Average Weekly Hours of All Employees: Total Private in Canton-Massillon, OH (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU39159400500000002A     | Average Weekly Hours of All Employees: Total Private in Canton-Massillon, OH (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU39159400500000002SA    | Average Weekly Hours of All Employees: Total Private in Canton-Massillon, OH (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU39159400500000003      | Average Hourly Earnings of All Employees: Total Private in Canton-Massillon, OH (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39159400500000003A     | Average Hourly Earnings of All Employees: Total Private in Canton-Massillon, OH (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU39159400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Canton-Massillon, OH (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39159400500000011      | Average Weekly Earnings of All Employees: Total Private in Canton-Massillon, OH (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39159400500000011A     | Average Weekly Earnings of All Employees: Total Private in Canton-Massillon, OH (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU39159400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Canton-Massillon, OH (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39159400600000001      | All Employees: Goods Producing in Canton-Massillon, OH (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU39159400600000001A     | All Employees: Goods Producing in Canton-Massillon, OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU39159400600000001SA    | All Employees: Goods Producing in Canton-Massillon, OH (MSA)                                                          | 1990-01-01          | 2022-03-01        |

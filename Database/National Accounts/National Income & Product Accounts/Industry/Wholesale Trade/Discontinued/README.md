@@ -1,7 +1,2 @@
-| id                | title                                                                                                                                      | observation_start   | observation_end   |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCU429930429930M  | Producer Price Index by Industry: Material Recyclers: Miscellaneous Receipts (DISCONTINUED)                                                | 1986-12-01          | 2014-12-01        |
-| PCU429930429930SM | Producer Price Index by Industry: Material Recyclers: Other Receipts (DISCONTINUED)                                                        | 1986-12-01          | 2006-06-01        |
-| PCU42993042993041 | Producer Price Index by Industry: Material Recyclers: Recyclable Textiles, Including Rags, Textile Scrap, and Wiping Cloths (DISCONTINUED) | 2006-06-01          | 2014-12-01        |
-| PCU42993042993043 | Producer Price Index by Industry: Material Recyclers: Recyclable Glass (DISCONTINUED)                                                      | 1996-06-01          | 2013-05-01        |
-| PCU42993042993044 | Producer Price Index by Industry: Material Recyclers: Other Recyclable Materials (DISCONTINUED)                                            | 2006-06-01          | 2014-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

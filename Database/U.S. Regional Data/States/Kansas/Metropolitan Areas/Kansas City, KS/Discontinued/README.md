@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                     | observation_start   | observation_end   |
+|------------------------|-------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU20928120500000002SA | Average Weekly Hours of All Employees: Total Private in Kansas City, KS (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU20928120500000003SA | Average Hourly Earnings of All Employees: Total Private in Kansas City, KS (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU20928120500000011SA | Average Weekly Earnings of All Employees: Total Private in Kansas City, KS (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

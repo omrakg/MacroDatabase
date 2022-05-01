@@ -4,10 +4,10 @@
 | ACTLISCOUMM12100          | Housing Inventory: Active Listing Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                               | 2017-07-01          | 2022-03-01        |
 | ACTLISCOUYY12100          | Housing Inventory: Active Listing Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                 | 2017-07-01          | 2022-03-01        |
 | ACTPOP                    | Resident Population in Atlantic City-Hammonton, NJ (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ATLA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-02-01        |
-| ATLA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-02-01        |
-| ATLA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Atlantic City-Hammonton, NJ (MSA)                               | 1988-01-01          | 2022-02-01        |
-| ATLA134BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Atlantic City-Hammonton, NJ (MSA)                               | 1988-01-01          | 2022-02-01        |
+| ATLA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-03-01        |
+| ATLA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-03-01        |
+| ATLA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Atlantic City-Hammonton, NJ (MSA)                               | 1988-01-01          | 2022-03-01        |
+| ATLA134BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Atlantic City-Hammonton, NJ (MSA)                               | 1988-01-01          | 2022-03-01        |
 | ATLA134EDUH               | All Employees: Education and Health Services in Atlantic City-Hammonton, NJ (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | ATLA134EDUHN              | All Employees: Education and Health Services in Atlantic City-Hammonton, NJ (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | ATLA134FIRE               | All Employees: Financial Activities in Atlantic City-Hammonton, NJ (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -18,8 +18,8 @@
 | ATLA134INFON              | All Employees: Information in Atlantic City-Hammonton, NJ (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | ATLA134LEIH               | All Employees: Leisure and Hospitality in Atlantic City-Hammonton, NJ (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | ATLA134LEIHN              | All Employees: Leisure and Hospitality in Atlantic City-Hammonton, NJ (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| ATLA134LF                 | Civilian Labor Force in Atlantic City-Hammonton, NJ (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| ATLA134LFN                | Civilian Labor Force in Atlantic City-Hammonton, NJ (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| ATLA134LF                 | Civilian Labor Force in Atlantic City-Hammonton, NJ (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| ATLA134LFN                | Civilian Labor Force in Atlantic City-Hammonton, NJ (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | ATLA134MFG                | All Employees: Manufacturing in Atlantic City-Hammonton, NJ (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ATLA134MFGN               | All Employees: Manufacturing in Atlantic City-Hammonton, NJ (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ATLA134NA                 | All Employees: Total Nonfarm in Atlantic City-Hammonton, NJ (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -33,8 +33,8 @@
 | ATLA134SRVON              | All Employees: Other Services in Atlantic City-Hammonton, NJ (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | ATLA134TRAD               | All Employees: Trade, Transportation, and Utilities in Atlantic City-Hammonton, NJ (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | ATLA134TRADN              | All Employees: Trade, Transportation, and Utilities in Atlantic City-Hammonton, NJ (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| ATLA134UR                 | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| ATLA134URN                | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| ATLA134UR                 | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| ATLA134URN                | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | ATNHPIUS12100Q            | All-Transactions House Price Index for Atlantic City-Hammonton, NJ (MSA)                                                     | 1982-10-01          | 2021-10-01        |
 | AVELISPRI12100            | Housing Inventory: Average Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | AVELISPRIMM12100          | Housing Inventory: Average Listing Price Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-03-01        |
@@ -57,12 +57,12 @@
 | HORAYYMSA12100            | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA12100              | Market Hotness: Hotness Score in Atlantic City-Hammonton, NJ (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD12100                 | Implicit Regional Price Deflator for Atlantic City-Hammonton, NJ (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT341210000000003A     | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT341210000000004      | Unemployed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT341210000000004A     | Unemployed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT341210000000005      | Employed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT341210000000005A     | Employed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT341210000000006A     | Civilian Labor Force in Atlantic City-Hammonton, NJ (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT341210000000003A     | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT341210000000004      | Unemployed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT341210000000004A     | Unemployed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT341210000000005      | Employed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT341210000000005A     | Employed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT341210000000006A     | Civilian Labor Force in Atlantic City-Hammonton, NJ (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA12100          | Market Hotness: Listing Views per Property in Atlantic City-Hammonton, NJ (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA12100        | Market Hotness: Listing Views per Property Versus the United States in Atlantic City-Hammonton, NJ (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA12100          | Market Hotness: Listing Views per Property in Atlantic City-Hammonton, NJ (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -118,13 +118,10 @@
 | SMU34121000500000001SA    | All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU34121000500000002      | Average Weekly Hours of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU34121000500000002A     | Average Weekly Hours of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU34121000500000002SA    | Average Weekly Hours of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU34121000500000003      | Average Hourly Earnings of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU34121000500000003A     | Average Hourly Earnings of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU34121000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU34121000500000011      | Average Weekly Earnings of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU34121000500000011A     | Average Weekly Earnings of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU34121000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Atlantic City-Hammonton, NJ (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU34121000600000001      | All Employees: Goods Producing in Atlantic City-Hammonton, NJ (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU34121000600000001A     | All Employees: Goods Producing in Atlantic City-Hammonton, NJ (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU34121000600000001SA    | All Employees: Goods Producing in Atlantic City-Hammonton, NJ (MSA)                                                          | 1990-01-01          | 2022-03-01        |

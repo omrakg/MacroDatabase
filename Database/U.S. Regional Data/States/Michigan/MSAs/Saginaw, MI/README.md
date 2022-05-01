@@ -25,12 +25,12 @@
 | HORAYYMSA40980            | Market Hotness: Hotness Rank in Saginaw, MI (CBSA)                                                                  | 2018-08-01          | 2022-03-01        |
 | HOSCMSA40980              | Market Hotness: Hotness Score in Saginaw, MI (CBSA)                                                                 | 2017-08-01          | 2022-03-01        |
 | IRPD40980                 | Implicit Regional Price Deflator for Saginaw, MI (MSA)                                                              | 2008-01-01          | 2020-01-01        |
-| LAUMT264098000000003A     | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2020-01-01        |
-| LAUMT264098000000004      | Unemployed Persons in Saginaw, MI (MSA)                                                                             | 1990-01-01          | 2022-02-01        |
-| LAUMT264098000000004A     | Unemployed Persons in Saginaw, MI (MSA)                                                                             | 1990-01-01          | 2020-01-01        |
-| LAUMT264098000000005      | Employed Persons in Saginaw, MI (MSA)                                                                               | 1990-01-01          | 2022-02-01        |
-| LAUMT264098000000005A     | Employed Persons in Saginaw, MI (MSA)                                                                               | 1990-01-01          | 2020-01-01        |
-| LAUMT264098000000006A     | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2020-01-01        |
+| LAUMT264098000000003A     | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2021-01-01        |
+| LAUMT264098000000004      | Unemployed Persons in Saginaw, MI (MSA)                                                                             | 1990-01-01          | 2022-03-01        |
+| LAUMT264098000000004A     | Unemployed Persons in Saginaw, MI (MSA)                                                                             | 1990-01-01          | 2021-01-01        |
+| LAUMT264098000000005      | Employed Persons in Saginaw, MI (MSA)                                                                               | 1990-01-01          | 2022-03-01        |
+| LAUMT264098000000005A     | Employed Persons in Saginaw, MI (MSA)                                                                               | 1990-01-01          | 2021-01-01        |
+| LAUMT264098000000006A     | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA40980          | Market Hotness: Listing Views per Property in Saginaw, MI (CBSA)                                                    | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA40980        | Market Hotness: Listing Views per Property Versus the United States in Saginaw, MI (CBSA)                           | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA40980          | Market Hotness: Listing Views per Property in Saginaw, MI (CBSA)                                                    | 2018-08-01          | 2022-03-01        |
@@ -89,8 +89,8 @@
 | SAGI926INFON              | All Employees: Information in Saginaw, MI (MSA)                                                                     | 1990-01-01          | 2022-03-01        |
 | SAGI926LEIH               | All Employees: Leisure and Hospitality in Saginaw, MI (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | SAGI926LEIHN              | All Employees: Leisure and Hospitality in Saginaw, MI (MSA)                                                         | 1990-01-01          | 2022-03-01        |
-| SAGI926LF                 | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
-| SAGI926LFN                | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
+| SAGI926LF                 | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2022-03-01        |
+| SAGI926LFN                | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2022-03-01        |
 | SAGI926MFG                | All Employees: Manufacturing in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2022-03-01        |
 | SAGI926MFGN               | All Employees: Manufacturing in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2022-03-01        |
 | SAGI926NA                 | All Employees: Total Nonfarm in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2022-03-01        |
@@ -104,8 +104,8 @@
 | SAGI926SRVON              | All Employees: Other Services in Saginaw, MI (MSA)                                                                  | 1990-01-01          | 2022-03-01        |
 | SAGI926TRAD               | All Employees: Trade, Transportation, and Utilities in Saginaw, MI (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SAGI926TRADN              | All Employees: Trade, Transportation, and Utilities in Saginaw, MI (MSA)                                            | 1990-01-01          | 2022-03-01        |
-| SAGI926UR                 | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2022-02-01        |
-| SAGI926URN                | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2022-02-01        |
+| SAGI926UR                 | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2022-03-01        |
+| SAGI926URN                | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2022-03-01        |
 | SAGPOP                    | Resident Population in Saginaw, MI (MSA)                                                                            | 2000-01-01          | 2021-01-01        |
 | SMS26409800000000026      | All Employees: Total Nonfarm in Saginaw, MI (MSA)                                                                   | 1990-04-01          | 2022-03-01        |
 | SMU26409800000000001A     | All Employees: Total Nonfarm in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
@@ -114,13 +114,10 @@
 | SMU26409800500000001SA    | All Employees: Total Private in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2022-03-01        |
 | SMU26409800500000002      | Average Weekly Hours of All Employees: Total Private in Saginaw, MI (MSA)                                           | 2007-01-01          | 2022-03-01        |
 | SMU26409800500000002A     | Average Weekly Hours of All Employees: Total Private in Saginaw, MI (MSA)                                           | 2007-01-01          | 2021-01-01        |
-| SMU26409800500000002SA    | Average Weekly Hours of All Employees: Total Private in Saginaw, MI (MSA)                                           | 2007-01-01          | 2022-03-01        |
 | SMU26409800500000003      | Average Hourly Earnings of All Employees: Total Private in Saginaw, MI (MSA)                                        | 2007-01-01          | 2022-03-01        |
 | SMU26409800500000003A     | Average Hourly Earnings of All Employees: Total Private in Saginaw, MI (MSA)                                        | 2007-01-01          | 2021-01-01        |
-| SMU26409800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Saginaw, MI (MSA)                                        | 2007-01-01          | 2022-03-01        |
 | SMU26409800500000011      | Average Weekly Earnings of All Employees: Total Private in Saginaw, MI (MSA)                                        | 2007-01-01          | 2022-03-01        |
 | SMU26409800500000011A     | Average Weekly Earnings of All Employees: Total Private in Saginaw, MI (MSA)                                        | 2007-01-01          | 2021-01-01        |
-| SMU26409800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Saginaw, MI (MSA)                                        | 2007-01-01          | 2022-03-01        |
 | SMU26409800600000001      | All Employees: Goods Producing in Saginaw, MI (MSA)                                                                 | 1990-01-01          | 2022-03-01        |
 | SMU26409800600000001A     | All Employees: Goods Producing in Saginaw, MI (MSA)                                                                 | 1990-01-01          | 2021-01-01        |
 | SMU26409800600000001SA    | All Employees: Goods Producing in Saginaw, MI (MSA)                                                                 | 1990-01-01          | 2022-03-01        |

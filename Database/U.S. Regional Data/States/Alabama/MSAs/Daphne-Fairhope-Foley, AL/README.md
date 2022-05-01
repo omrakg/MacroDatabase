@@ -16,14 +16,14 @@
 | ENUC193040510          | Average Weekly Wages for Employees in Private Establishments in Daphne-Fairhope-Foley, AL (MSA)            | 2013-01-01          | 2021-07-01        |
 | ENUC193040510SA        | Average Weekly Wages for Employees in Private Establishments in Daphne-Fairhope-Foley, AL (MSA)            | 2013-01-01          | 2021-07-01        |
 | IRPD19300              | Implicit Regional Price Deflator for Daphne-Fairhope-Foley, AL (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT011930000000003   | Unemployment Rate in Daphne-Fairhope-Foley, AL (MSA)                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT011930000000003A  | Unemployment Rate in Daphne-Fairhope-Foley, AL (MSA)                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT011930000000004   | Unemployed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT011930000000004A  | Unemployed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT011930000000005   | Employed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT011930000000005A  | Employed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT011930000000006   | Civilian Labor Force in Daphne-Fairhope-Foley, AL (MSA)                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT011930000000006A  | Civilian Labor Force in Daphne-Fairhope-Foley, AL (MSA)                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT011930000000003   | Unemployment Rate in Daphne-Fairhope-Foley, AL (MSA)                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT011930000000003A  | Unemployment Rate in Daphne-Fairhope-Foley, AL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT011930000000004   | Unemployed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT011930000000004A  | Unemployed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT011930000000005   | Employed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT011930000000005A  | Employed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT011930000000006   | Civilian Labor Force in Daphne-Fairhope-Foley, AL (MSA)                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT011930000000006A  | Civilian Labor Force in Daphne-Fairhope-Foley, AL (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP19300              | Total Gross Domestic Product for Daphne-Fairhope-Foley, AL (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP19300              | Total Quantity Indexes for Real GDP for Daphne-Fairhope-Foley, AL (MSA)                                    | 2001-01-01          | 2020-01-01        |
 | RGMP19300              | Total Real Gross Domestic Product for Daphne-Fairhope-Foley, AL (MSA)                                      | 2001-01-01          | 2020-01-01        |
@@ -41,13 +41,10 @@
 | SMU01193000500000001SA | All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU01193000500000002   | Average Weekly Hours of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                    | 2011-01-01          | 2022-03-01        |
 | SMU01193000500000002A  | Average Weekly Hours of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU01193000500000002SA | Average Weekly Hours of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                    | 2011-01-01          | 2022-03-01        |
 | SMU01193000500000003   | Average Hourly Earnings of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU01193000500000003A  | Average Hourly Earnings of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU01193000500000003SA | Average Hourly Earnings of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU01193000500000011   | Average Weekly Earnings of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU01193000500000011A  | Average Weekly Earnings of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU01193000500000011SA | Average Weekly Earnings of All Employees: Total Private in Daphne-Fairhope-Foley, AL (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU01193000600000001   | All Employees: Goods Producing in Daphne-Fairhope-Foley, AL (MSA)                                          | 1990-01-01          | 2022-03-01        |
 | SMU01193000600000001A  | All Employees: Goods Producing in Daphne-Fairhope-Foley, AL (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU01193000600000001SA | All Employees: Goods Producing in Daphne-Fairhope-Foley, AL (MSA)                                          | 1990-01-01          | 2022-03-01        |

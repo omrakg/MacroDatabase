@@ -1,2 +1,9 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                      | observation_start   | observation_end   |
+|------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP36260            | Total Per Capita Real Gross Domestic Product for Ogden-Clearfield, UT (MSA) (DISCONTINUED)                 | 2001-01-01          | 2017-01-01        |
+| SMU49362600500000002SA | Average Weekly Hours of All Employees: Total Private in Ogden-Clearfield, UT (MSA) (DISCONTINUED)          | 2007-01-01          | 2022-03-01        |
+| SMU49362600500000003SA | Average Hourly Earnings of All Employees: Total Private in Ogden-Clearfield, UT (MSA) (DISCONTINUED)       | 2007-01-01          | 2022-03-01        |
+| SMU49362600500000011SA | Average Weekly Earnings of All Employees: Total Private in Ogden-Clearfield, UT (MSA) (DISCONTINUED)       | 2007-01-01          | 2022-03-01        |
+| SMU49362604200000007SA | Average Weekly Hours of Production Employees: Retail Trade in Ogden-Clearfield, UT (MSA) (DISCONTINUED)    | 2002-01-01          | 2022-03-01        |
+| SMU49362604200000008SA | Average Hourly Earnings of Production Employees: Retail Trade in Ogden-Clearfield, UT (MSA) (DISCONTINUED) | 2002-01-01          | 2022-03-01        |
+| SMU49362604200000030SA | Average Weekly Earnings of Production Employees: Retail Trade in Ogden-Clearfield, UT (MSA) (DISCONTINUED) | 2003-01-01          | 2022-03-01        |

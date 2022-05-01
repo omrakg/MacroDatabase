@@ -47,7 +47,7 @@
 | TRESEGTRM052N | Total Reserves excluding Gold for Turkey                   | 1950-12-01          | 2021-11-01        |
 | TRESEGTRM194N | Total Reserves excluding Gold for Turkey                   | 1950-12-01          | 2021-11-01        |
 | TRESEGTWM194N | Total Reserves excluding Gold for Taiwan Province of China | 1950-12-01          | 2022-02-01        |
-| TRESEGUSM052N | Total Reserves excluding Gold for United States            | 1950-12-01          | 2022-02-01        |
-| TRESEGUSM194N | Total Reserves excluding Gold for United States            | 1950-12-01          | 2022-02-01        |
+| TRESEGUSM052N | Total Reserves excluding Gold for United States            | 1950-12-01          | 2022-03-01        |
+| TRESEGUSM194N | Total Reserves excluding Gold for United States            | 1950-12-01          | 2022-03-01        |
 | TRESEGZAM052N | Total Reserves excluding Gold for South Africa             | 1950-12-01          | 2022-03-01        |
 | TRESEGZAM194N | Total Reserves excluding Gold for South Africa             | 1950-12-01          | 2022-03-01        |

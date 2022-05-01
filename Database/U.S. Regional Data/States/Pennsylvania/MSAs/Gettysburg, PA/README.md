@@ -16,14 +16,14 @@
 | GETT942PCPI            | Per Capita Personal Income in Gettysburg, PA (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | GTYPOP                 | Resident Population in Gettysburg, PA (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | IRPD23900              | Implicit Regional Price Deflator for Gettysburg, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT422390000000003   | Unemployment Rate in Gettysburg, PA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT422390000000003A  | Unemployment Rate in Gettysburg, PA (MSA)                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT422390000000004   | Unemployed Persons in Gettysburg, PA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT422390000000004A  | Unemployed Persons in Gettysburg, PA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT422390000000005   | Employed Persons in Gettysburg, PA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT422390000000005A  | Employed Persons in Gettysburg, PA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT422390000000006   | Civilian Labor Force in Gettysburg, PA (MSA)                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT422390000000006A  | Civilian Labor Force in Gettysburg, PA (MSA)                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT422390000000003   | Unemployment Rate in Gettysburg, PA (MSA)                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT422390000000003A  | Unemployment Rate in Gettysburg, PA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT422390000000004   | Unemployed Persons in Gettysburg, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT422390000000004A  | Unemployed Persons in Gettysburg, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT422390000000005   | Employed Persons in Gettysburg, PA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT422390000000005A  | Employed Persons in Gettysburg, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT422390000000006   | Civilian Labor Force in Gettysburg, PA (MSA)                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT422390000000006A  | Civilian Labor Force in Gettysburg, PA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP23900              | Total Gross Domestic Product for Gettysburg, PA (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP23900              | Total Quantity Indexes for Real GDP for Gettysburg, PA (MSA)                                    | 2001-01-01          | 2020-01-01        |
 | RGMP23900              | Total Real Gross Domestic Product for Gettysburg, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
@@ -41,13 +41,10 @@
 | SMU42239000500000001SA | All Employees: Total Private in Gettysburg, PA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU42239000500000002   | Average Weekly Hours of All Employees: Total Private in Gettysburg, PA (MSA)                    | 2011-01-01          | 2022-03-01        |
 | SMU42239000500000002A  | Average Weekly Hours of All Employees: Total Private in Gettysburg, PA (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU42239000500000002SA | Average Weekly Hours of All Employees: Total Private in Gettysburg, PA (MSA)                    | 2011-01-01          | 2022-03-01        |
 | SMU42239000500000003   | Average Hourly Earnings of All Employees: Total Private in Gettysburg, PA (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU42239000500000003A  | Average Hourly Earnings of All Employees: Total Private in Gettysburg, PA (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU42239000500000003SA | Average Hourly Earnings of All Employees: Total Private in Gettysburg, PA (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU42239000500000011   | Average Weekly Earnings of All Employees: Total Private in Gettysburg, PA (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU42239000500000011A  | Average Weekly Earnings of All Employees: Total Private in Gettysburg, PA (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU42239000500000011SA | Average Weekly Earnings of All Employees: Total Private in Gettysburg, PA (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU42239000600000001   | All Employees: Goods Producing in Gettysburg, PA (MSA)                                          | 1990-01-01          | 2022-03-01        |
 | SMU42239000600000001A  | All Employees: Goods Producing in Gettysburg, PA (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU42239000600000001SA | All Employees: Goods Producing in Gettysburg, PA (MSA)                                          | 1990-01-01          | 2022-03-01        |

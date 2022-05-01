@@ -1,8 +1,8 @@
 | Folder                                             |   Files / Folders |
 |----------------------------------------------------|-------------------|
-| Los Angeles-Long Beach-Glendale, CA                |               529 |
+| San Rafael, CA                                     |                91 |
+| Anaheim-Santa Ana-Irvine, CA                       |               289 |
+| Oakland-Hayward-Berkeley, CA                       |               250 |
+| Los Angeles-Long Beach-Glendale, CA                |               526 |
+| San Francisco-Redwood City-South San Francisco, CA |               259 |
 | Santa Ana-Anaheim-Irvine, CA                       |                 1 |
-| San Francisco-Redwood City-South San Francisco, CA |               262 |
-| Oakland-Hayward-Berkeley, CA                       |               253 |
-| Anaheim-Santa Ana-Irvine, CA                       |               292 |
-| San Rafael, CA                                     |                94 |

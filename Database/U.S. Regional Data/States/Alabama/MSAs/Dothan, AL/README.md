@@ -18,8 +18,8 @@
 | DOTH001INFON              | All Employees: Information in Dothan, AL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | DOTH001LEIH               | All Employees: Leisure and Hospitality in Dothan, AL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | DOTH001LEIHN              | All Employees: Leisure and Hospitality in Dothan, AL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| DOTH001LF                 | Civilian Labor Force in Dothan, AL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| DOTH001LFN                | Civilian Labor Force in Dothan, AL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| DOTH001LF                 | Civilian Labor Force in Dothan, AL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| DOTH001LFN                | Civilian Labor Force in Dothan, AL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | DOTH001MFG                | All Employees: Manufacturing in Dothan, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | DOTH001MFGN               | All Employees: Manufacturing in Dothan, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | DOTH001NA                 | All Employees: Total Nonfarm in Dothan, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -33,8 +33,8 @@
 | DOTH001SRVON              | All Employees: Other Services in Dothan, AL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | DOTH001TRAD               | All Employees: Trade, Transportation, and Utilities in Dothan, AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | DOTH001TRADN              | All Employees: Trade, Transportation, and Utilities in Dothan, AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| DOTH001UR                 | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| DOTH001URN                | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| DOTH001UR                 | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| DOTH001URN                | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | DOTPOP                    | Resident Population in Dothan, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC200230010             | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC200230010SA           | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -53,12 +53,12 @@
 | HORAYYMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA20020              | Market Hotness: Hotness Score in Dothan, AL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD20020                 | Implicit Regional Price Deflator for Dothan, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT012002000000003A     | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT012002000000004      | Unemployed Persons in Dothan, AL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT012002000000004A     | Unemployed Persons in Dothan, AL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT012002000000005      | Employed Persons in Dothan, AL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT012002000000005A     | Employed Persons in Dothan, AL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT012002000000006A     | Civilian Labor Force in Dothan, AL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT012002000000003A     | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT012002000000004      | Unemployed Persons in Dothan, AL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT012002000000004A     | Unemployed Persons in Dothan, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT012002000000005      | Employed Persons in Dothan, AL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT012002000000005A     | Employed Persons in Dothan, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT012002000000006A     | Civilian Labor Force in Dothan, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA20020          | Market Hotness: Listing Views per Property in Dothan, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA20020        | Market Hotness: Listing Views per Property Versus the United States in Dothan, AL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA20020          | Market Hotness: Listing Views per Property in Dothan, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU01200200500000001SA    | All Employees: Total Private in Dothan, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU01200200500000002      | Average Weekly Hours of All Employees: Total Private in Dothan, AL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU01200200500000002A     | Average Weekly Hours of All Employees: Total Private in Dothan, AL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU01200200500000002SA    | Average Weekly Hours of All Employees: Total Private in Dothan, AL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU01200200500000003      | Average Hourly Earnings of All Employees: Total Private in Dothan, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01200200500000003A     | Average Hourly Earnings of All Employees: Total Private in Dothan, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01200200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Dothan, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01200200500000011      | Average Weekly Earnings of All Employees: Total Private in Dothan, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01200200500000011A     | Average Weekly Earnings of All Employees: Total Private in Dothan, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01200200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Dothan, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01200200600000001      | All Employees: Goods Producing in Dothan, AL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU01200200600000001A     | All Employees: Goods Producing in Dothan, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU01200200600000001SA    | All Employees: Goods Producing in Dothan, AL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

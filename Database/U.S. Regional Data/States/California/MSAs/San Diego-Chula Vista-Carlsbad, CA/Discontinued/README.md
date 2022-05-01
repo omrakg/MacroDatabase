@@ -9,6 +9,9 @@
 | PCRGMP41740            | Total Per Capita Real Gross Domestic Product for San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
 | ROASDI                 | Return on Average Assets for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
 | SDIAGRIDX              | Economic Conditions Index for San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| SMU06417400500000002SA | Average Weekly Hours of All Employees: Total Private in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
+| SMU06417400500000003SA | Average Hourly Earnings of All Employees: Total Private in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU06417400500000011SA | Average Weekly Earnings of All Employees: Total Private in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
 | SMU06417407072251101   | All Employees: Full-Service Restaurants in San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                             | 1990-01-01          | 2014-12-01        |
 | SMU06417407072251101A  | All Employees: Full-Service Restaurants in San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                             | 1990-01-01          | 2013-01-01        |
 | SMU06417407072251101SA | All Employees: Full-Service Restaurants in San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                             | 1990-01-01          | 2014-12-01        |

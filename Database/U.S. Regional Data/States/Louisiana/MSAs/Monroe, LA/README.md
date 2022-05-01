@@ -26,12 +26,12 @@
 | HOSCMSA33740              | Market Hotness: Hotness Score in Monroe, LA (CBSA)                                                                      | 2017-08-01          | 2022-03-01        |
 | IRPD33740                 | Implicit Regional Price Deflator for Monroe, LA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | IRPD33780                 | Implicit Regional Price Deflator for Monroe, MI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| LAUMT223374000000003A     | Unemployment Rate in Monroe, LA (MSA)                                                                                   | 1990-01-01          | 2020-01-01        |
-| LAUMT223374000000004      | Unemployed Persons in Monroe, LA (MSA)                                                                                  | 1990-01-01          | 2022-02-01        |
-| LAUMT223374000000004A     | Unemployed Persons in Monroe, LA (MSA)                                                                                  | 1990-01-01          | 2020-01-01        |
-| LAUMT223374000000005      | Employed Persons in Monroe, LA (MSA)                                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT223374000000005A     | Employed Persons in Monroe, LA (MSA)                                                                                    | 1990-01-01          | 2020-01-01        |
-| LAUMT223374000000006A     | Civilian Labor Force in Monroe, LA (MSA)                                                                                | 1990-01-01          | 2020-01-01        |
+| LAUMT223374000000003A     | Unemployment Rate in Monroe, LA (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
+| LAUMT223374000000004      | Unemployed Persons in Monroe, LA (MSA)                                                                                  | 1990-01-01          | 2022-03-01        |
+| LAUMT223374000000004A     | Unemployed Persons in Monroe, LA (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
+| LAUMT223374000000005      | Employed Persons in Monroe, LA (MSA)                                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT223374000000005A     | Employed Persons in Monroe, LA (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
+| LAUMT223374000000006A     | Civilian Labor Force in Monroe, LA (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA33740          | Market Hotness: Listing Views per Property in Monroe, LA (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA33740        | Market Hotness: Listing Views per Property Versus the United States in Monroe, LA (CBSA)                                | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA33740          | Market Hotness: Listing Views per Property in Monroe, LA (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
@@ -63,8 +63,8 @@
 | MONR722GOVTN              | All Employees: Government in Monroe, LA (MSA)                                                                           | 1990-01-01          | 2022-03-01        |
 | MONR722LEIH               | All Employees: Leisure and Hospitality in Monroe, LA (MSA)                                                              | 2004-01-01          | 2022-03-01        |
 | MONR722LEIHN              | All Employees: Leisure and Hospitality in Monroe, LA (MSA)                                                              | 2004-01-01          | 2022-03-01        |
-| MONR722LF                 | Civilian Labor Force in Monroe, LA (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
-| MONR722LFN                | Civilian Labor Force in Monroe, LA (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
+| MONR722LF                 | Civilian Labor Force in Monroe, LA (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
+| MONR722LFN                | Civilian Labor Force in Monroe, LA (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
 | MONR722MFG                | All Employees: Manufacturing in Monroe, LA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | MONR722MFGN               | All Employees: Manufacturing in Monroe, LA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | MONR722NA                 | All Employees: Total Nonfarm in Monroe, LA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
@@ -74,8 +74,8 @@
 | MONR722PCPI               | Per Capita Personal Income in Monroe, LA (MSA)                                                                          | 1969-01-01          | 2020-01-01        |
 | MONR722TRAD               | All Employees: Trade, Transportation, and Utilities in Monroe, LA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | MONR722TRADN              | All Employees: Trade, Transportation, and Utilities in Monroe, LA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| MONR722UR                 | Unemployment Rate in Monroe, LA (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
-| MONR722URN                | Unemployment Rate in Monroe, LA (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
+| MONR722UR                 | Unemployment Rate in Monroe, LA (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
+| MONR722URN                | Unemployment Rate in Monroe, LA (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
 | MREPOP                    | Resident Population in Monroe, LA (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU33740            | Housing Inventory: New Listing Count in Monroe, LA (CBSA)                                                               | 2016-07-01          | 2022-03-01        |
 | NEWLISCOUMM33740          | Housing Inventory: New Listing Count Month-Over-Month in Monroe, LA (CBSA)                                              | 2017-07-01          | 2022-03-01        |
@@ -113,13 +113,10 @@
 | SMU22337400500000001SA    | All Employees: Total Private in Monroe, LA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | SMU22337400500000002      | Average Weekly Hours of All Employees: Total Private in Monroe, LA (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU22337400500000002A     | Average Weekly Hours of All Employees: Total Private in Monroe, LA (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU22337400500000002SA    | Average Weekly Hours of All Employees: Total Private in Monroe, LA (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU22337400500000003      | Average Hourly Earnings of All Employees: Total Private in Monroe, LA (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU22337400500000003A     | Average Hourly Earnings of All Employees: Total Private in Monroe, LA (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU22337400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Monroe, LA (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU22337400500000011      | Average Weekly Earnings of All Employees: Total Private in Monroe, LA (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU22337400500000011A     | Average Weekly Earnings of All Employees: Total Private in Monroe, LA (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU22337400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Monroe, LA (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU22337400600000001      | All Employees: Goods Producing in Monroe, LA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
 | SMU22337400600000001A     | All Employees: Goods Producing in Monroe, LA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | SMU22337400600000001SA    | All Employees: Goods Producing in Monroe, LA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |

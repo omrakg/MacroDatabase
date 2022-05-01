@@ -20,12 +20,12 @@
 | ENUC470240510             | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC470240510SA           | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD47020                 | Implicit Regional Price Deflator for Victoria, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT484702000000003A     | Unemployment Rate in Victoria, TX (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT484702000000004      | Unemployed Persons in Victoria, TX (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT484702000000004A     | Unemployed Persons in Victoria, TX (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT484702000000005      | Employed Persons in Victoria, TX (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT484702000000005A     | Employed Persons in Victoria, TX (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT484702000000006A     | Civilian Labor Force in Victoria, TX (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT484702000000003A     | Unemployment Rate in Victoria, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT484702000000004      | Unemployed Persons in Victoria, TX (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT484702000000004A     | Unemployed Persons in Victoria, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT484702000000005      | Employed Persons in Victoria, TX (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT484702000000005A     | Employed Persons in Victoria, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT484702000000006A     | Civilian Labor Force in Victoria, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR47020          | Housing Inventory: Median Days on Market in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM47020        | Housing Inventory: Median Days on Market Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY47020        | Housing Inventory: Median Days on Market Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -68,13 +68,10 @@
 | SMU48470200500000001SA    | All Employees: Total Private in Victoria, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU48470200500000002      | Average Weekly Hours of All Employees: Total Private in Victoria, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48470200500000002A     | Average Weekly Hours of All Employees: Total Private in Victoria, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48470200500000002SA    | Average Weekly Hours of All Employees: Total Private in Victoria, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48470200500000003      | Average Hourly Earnings of All Employees: Total Private in Victoria, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48470200500000003A     | Average Hourly Earnings of All Employees: Total Private in Victoria, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48470200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Victoria, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48470200500000011      | Average Weekly Earnings of All Employees: Total Private in Victoria, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48470200500000011A     | Average Weekly Earnings of All Employees: Total Private in Victoria, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48470200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Victoria, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48470200600000001      | All Employees: Goods Producing in Victoria, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU48470200600000001A     | All Employees: Goods Producing in Victoria, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU48470200600000001SA    | All Employees: Goods Producing in Victoria, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -123,8 +120,8 @@
 | VICT048INFON              | All Employees: Information in Victoria, TX (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | VICT048LEIH               | All Employees: Leisure and Hospitality in Victoria, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | VICT048LEIHN              | All Employees: Leisure and Hospitality in Victoria, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| VICT048LF                 | Civilian Labor Force in Victoria, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| VICT048LFN                | Civilian Labor Force in Victoria, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| VICT048LF                 | Civilian Labor Force in Victoria, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| VICT048LFN                | Civilian Labor Force in Victoria, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | VICT048MFG                | All Employees: Manufacturing in Victoria, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | VICT048MFGN               | All Employees: Manufacturing in Victoria, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | VICT048NA                 | All Employees: Total Nonfarm in Victoria, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -138,5 +135,5 @@
 | VICT048SRVON              | All Employees: Other Services in Victoria, TX (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | VICT048TRAD               | All Employees: Trade, Transportation, and Utilities in Victoria, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | VICT048TRADN              | All Employees: Trade, Transportation, and Utilities in Victoria, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| VICT048UR                 | Unemployment Rate in Victoria, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| VICT048URN                | Unemployment Rate in Victoria, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| VICT048UR                 | Unemployment Rate in Victoria, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| VICT048URN                | Unemployment Rate in Victoria, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |

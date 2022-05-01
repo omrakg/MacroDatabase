@@ -13,8 +13,8 @@
 | BELL353GOVTN              | All Employees: Government in Bellingham, WA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | BELL353LEIH               | All Employees: Leisure and Hospitality in Bellingham, WA (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | BELL353LEIHN              | All Employees: Leisure and Hospitality in Bellingham, WA (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| BELL353LF                 | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| BELL353LFN                | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| BELL353LF                 | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| BELL353LFN                | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | BELL353MFG                | All Employees: Manufacturing in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | BELL353MFGN               | All Employees: Manufacturing in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | BELL353NA                 | All Employees: Total Nonfarm in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -26,8 +26,8 @@
 | BELL353PCPI               | Per Capita Personal Income in Bellingham, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | BELL353TRAD               | All Employees: Trade, Transportation, and Utilities in Bellingham, WA (MSA)                       | 1990-01-01          | 2022-03-01        |
 | BELL353TRADN              | All Employees: Trade, Transportation, and Utilities in Bellingham, WA (MSA)                       | 1990-01-01          | 2022-03-01        |
-| BELL353UR                 | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| BELL353URN                | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| BELL353UR                 | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| BELL353URN                | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | BLLPOP                    | Resident Population in Bellingham, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA13380              | Market Hotness: Demand Score in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-03-01        |
 | ENUC133830010             | Total Quarterly Wages in Bellingham, WA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
@@ -47,12 +47,12 @@
 | HORAYYMSA13380            | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | HOSCMSA13380              | Market Hotness: Hotness Score in Bellingham, WA (CBSA)                                            | 2017-08-01          | 2022-03-01        |
 | IRPD13380                 | Implicit Regional Price Deflator for Bellingham, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT531338000000003A     | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT531338000000004      | Unemployed Persons in Bellingham, WA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT531338000000004A     | Unemployed Persons in Bellingham, WA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT531338000000005      | Employed Persons in Bellingham, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT531338000000005A     | Employed Persons in Bellingham, WA (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT531338000000006A     | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT531338000000003A     | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT531338000000004      | Unemployed Persons in Bellingham, WA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT531338000000004A     | Unemployed Persons in Bellingham, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT531338000000005      | Employed Persons in Bellingham, WA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT531338000000005A     | Employed Persons in Bellingham, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT531338000000006A     | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA13380          | Market Hotness: Listing Views per Property in Bellingham, WA (CBSA)                               | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA13380        | Market Hotness: Listing Views per Property Versus the United States in Bellingham, WA (CBSA)      | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA13380          | Market Hotness: Listing Views per Property in Bellingham, WA (CBSA)                               | 2018-08-01          | 2022-03-01        |
@@ -108,13 +108,10 @@
 | SMU53133800500000001SA    | All Employees: Total Private in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU53133800500000002      | Average Weekly Hours of All Employees: Total Private in Bellingham, WA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU53133800500000002A     | Average Weekly Hours of All Employees: Total Private in Bellingham, WA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU53133800500000002SA    | Average Weekly Hours of All Employees: Total Private in Bellingham, WA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU53133800500000003      | Average Hourly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU53133800500000003A     | Average Hourly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53133800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU53133800500000011      | Average Weekly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU53133800500000011A     | Average Weekly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53133800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU53133800600000001      | All Employees: Goods Producing in Bellingham, WA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU53133800600000001A     | All Employees: Goods Producing in Bellingham, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU53133800600000001SA    | All Employees: Goods Producing in Bellingham, WA (MSA)                                            | 1990-01-01          | 2022-03-01        |

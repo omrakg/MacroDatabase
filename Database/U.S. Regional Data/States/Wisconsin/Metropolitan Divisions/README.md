@@ -1,3 +1,3 @@
 | Folder                            |   Files / Folders |
 |-----------------------------------|-------------------|
-| Lake County-Kenosha County, IL-WI |                 0 |
+| Lake County-Kenosha County, IL-WI |                94 |

@@ -1,7 +1,7 @@
 | Folder          |   Files / Folders |
 |-----------------|-------------------|
-| Las Cruces, NM  |               165 |
-| Santa Fe, NM    |               165 |
-| Espanola, NM    |                 0 |
-| Farmington, NM  |               108 |
-| Albuquerque, NM |               166 |
+| Las Cruces, NM  |               162 |
+| Santa Fe, NM    |               162 |
+| Espanola, NM    |                32 |
+| Farmington, NM  |               105 |
+| Albuquerque, NM |               163 |

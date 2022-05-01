@@ -17,8 +17,8 @@
 | ELCE906INFON              | All Employees: Information in El Centro, CA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | ELCE906LEIH               | All Employees: Leisure and Hospitality in El Centro, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | ELCE906LEIHN              | All Employees: Leisure and Hospitality in El Centro, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| ELCE906LF                 | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| ELCE906LFN                | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| ELCE906LF                 | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| ELCE906LFN                | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | ELCE906MFG                | All Employees: Manufacturing in El Centro, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ELCE906MFGN               | All Employees: Manufacturing in El Centro, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ELCE906NA                 | All Employees: Total Nonfarm in El Centro, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -32,8 +32,8 @@
 | ELCE906SRVON              | All Employees: Other Services in El Centro, CA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | ELCE906TRAD               | All Employees: Trade, Transportation, and Utilities in El Centro, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | ELCE906TRADN              | All Employees: Trade, Transportation, and Utilities in El Centro, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| ELCE906UR                 | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| ELCE906URN                | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| ELCE906UR                 | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| ELCE906URN                | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | ELCPOP                    | Resident Population in El Centro, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC209430010             | Total Quarterly Wages in El Centro, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC209430010SA           | Total Quarterly Wages in El Centro, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -48,12 +48,12 @@
 | ENUC209440510             | Average Weekly Wages for Employees in Private Establishments in El Centro, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC209440510SA           | Average Weekly Wages for Employees in Private Establishments in El Centro, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD20940                 | Implicit Regional Price Deflator for El Centro, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT062094000000003A     | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT062094000000004      | Unemployed Persons in El Centro, CA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT062094000000004A     | Unemployed Persons in El Centro, CA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT062094000000005      | Employed Persons in El Centro, CA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT062094000000005A     | Employed Persons in El Centro, CA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT062094000000006A     | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT062094000000003A     | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT062094000000004      | Unemployed Persons in El Centro, CA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT062094000000004A     | Unemployed Persons in El Centro, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT062094000000005      | Employed Persons in El Centro, CA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT062094000000005A     | Employed Persons in El Centro, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT062094000000006A     | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR20940          | Housing Inventory: Median Days on Market in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM20940        | Housing Inventory: Median Days on Market Month-Over-Month in El Centro, CA (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY20940        | Housing Inventory: Median Days on Market Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -95,13 +95,10 @@
 | SMU06209400500000001SA    | All Employees: Total Private in El Centro, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU06209400500000002      | Average Weekly Hours of All Employees: Total Private in El Centro, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06209400500000002A     | Average Weekly Hours of All Employees: Total Private in El Centro, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06209400500000002SA    | Average Weekly Hours of All Employees: Total Private in El Centro, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06209400500000003      | Average Hourly Earnings of All Employees: Total Private in El Centro, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06209400500000003A     | Average Hourly Earnings of All Employees: Total Private in El Centro, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06209400500000003SA    | Average Hourly Earnings of All Employees: Total Private in El Centro, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06209400500000011      | Average Weekly Earnings of All Employees: Total Private in El Centro, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06209400500000011A     | Average Weekly Earnings of All Employees: Total Private in El Centro, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06209400500000011SA    | Average Weekly Earnings of All Employees: Total Private in El Centro, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06209400600000001      | All Employees: Goods Producing in El Centro, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU06209400600000001A     | All Employees: Goods Producing in El Centro, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU06209400600000001SA    | All Employees: Goods Producing in El Centro, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

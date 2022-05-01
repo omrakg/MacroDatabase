@@ -60,5 +60,8 @@
 | SMU45113409093000001   | All Employees: Local Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2014-12-01        |
 | SMU45113409093000001A  | All Employees: Local Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2013-01-01        |
 | SMU45113409093000001SA | All Employees: Local Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2014-12-01        |
+| SMU45248600500000002SA | Average Weekly Hours of All Employees: Total Private in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
+| SMU45248600500000003SA | Average Hourly Earnings of All Employees: Total Private in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU45248600500000011SA | Average Weekly Earnings of All Employees: Total Private in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
 | TOTASSETGNV            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
 | TOTLOANGNV             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

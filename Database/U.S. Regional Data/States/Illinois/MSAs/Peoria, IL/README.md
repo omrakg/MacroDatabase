@@ -23,12 +23,12 @@
 | HORAYYMSA37900            | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA37900              | Market Hotness: Hotness Score in Peoria, IL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD37900                 | Implicit Regional Price Deflator for Peoria, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT173790000000003A     | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT173790000000004      | Unemployed Persons in Peoria, IL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT173790000000004A     | Unemployed Persons in Peoria, IL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT173790000000005      | Employed Persons in Peoria, IL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT173790000000005A     | Employed Persons in Peoria, IL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT173790000000006A     | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT173790000000003A     | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT173790000000004      | Unemployed Persons in Peoria, IL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT173790000000004A     | Unemployed Persons in Peoria, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT173790000000005      | Employed Persons in Peoria, IL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT173790000000005A     | Employed Persons in Peoria, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT173790000000006A     | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA37900          | Market Hotness: Listing Views per Property in Peoria, IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA37900        | Market Hotness: Listing Views per Property Versus the United States in Peoria, IL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA37900          | Market Hotness: Listing Views per Property in Peoria, IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -74,8 +74,8 @@
 | PEOR917INFON              | All Employees: Information in Peoria, IL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | PEOR917LEIH               | All Employees: Leisure and Hospitality in Peoria, IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | PEOR917LEIHN              | All Employees: Leisure and Hospitality in Peoria, IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| PEOR917LF                 | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| PEOR917LFN                | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| PEOR917LF                 | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| PEOR917LFN                | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | PEOR917MFG                | All Employees: Manufacturing in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | PEOR917MFGN               | All Employees: Manufacturing in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | PEOR917NA                 | All Employees: Total Nonfarm in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -89,8 +89,8 @@
 | PEOR917SRVON              | All Employees: Other Services in Peoria, IL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | PEOR917TRAD               | All Employees: Trade, Transportation, and Utilities in Peoria, IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | PEOR917TRADN              | All Employees: Trade, Transportation, and Utilities in Peoria, IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| PEOR917UR                 | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| PEOR917URN                | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| PEOR917UR                 | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| PEOR917URN                | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | PRIINCCOU37900            | Housing Inventory: Price Increased Count in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | PRIINCCOUMM37900          | Housing Inventory: Price Increased Count Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-02-01        |
 | PRIINCCOUYY37900          | Housing Inventory: Price Increased Count Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -112,13 +112,10 @@
 | SMU17379000500000001SA    | All Employees: Total Private in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU17379000500000002      | Average Weekly Hours of All Employees: Total Private in Peoria, IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17379000500000002A     | Average Weekly Hours of All Employees: Total Private in Peoria, IL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU17379000500000002SA    | Average Weekly Hours of All Employees: Total Private in Peoria, IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17379000500000003      | Average Hourly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17379000500000003A     | Average Hourly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17379000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17379000500000011      | Average Weekly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17379000500000011A     | Average Weekly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17379000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17379000600000001      | All Employees: Goods Producing in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU17379000600000001A     | All Employees: Goods Producing in Peoria, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU17379000600000001SA    | All Employees: Goods Producing in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

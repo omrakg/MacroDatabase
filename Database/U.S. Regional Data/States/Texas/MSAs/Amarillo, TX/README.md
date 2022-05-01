@@ -14,8 +14,8 @@
 | AMAR148INFON              | All Employees: Information in Amarillo, TX (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | AMAR148LEIH               | All Employees: Leisure and Hospitality in Amarillo, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | AMAR148LEIHN              | All Employees: Leisure and Hospitality in Amarillo, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| AMAR148LF                 | Civilian Labor Force in Amarillo, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| AMAR148LFN                | Civilian Labor Force in Amarillo, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| AMAR148LF                 | Civilian Labor Force in Amarillo, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| AMAR148LFN                | Civilian Labor Force in Amarillo, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | AMAR148MFG                | All Employees: Manufacturing in Amarillo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | AMAR148MFGN               | All Employees: Manufacturing in Amarillo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | AMAR148NA                 | All Employees: Total Nonfarm in Amarillo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -29,8 +29,8 @@
 | AMAR148SRVON              | All Employees: Other Services in Amarillo, TX (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | AMAR148TRAD               | All Employees: Trade, Transportation, and Utilities in Amarillo, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | AMAR148TRADN              | All Employees: Trade, Transportation, and Utilities in Amarillo, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| AMAR148UR                 | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| AMAR148URN                | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| AMAR148UR                 | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| AMAR148URN                | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | AMASA158MFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1990-02-01          | 2022-03-01        |
 | AMASA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                             | 1990-02-01          | 2022-03-01        |
 | AMASA175MFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1990-01-01          | 2022-03-01        |
@@ -57,12 +57,12 @@
 | HORAYYMSA11100            | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA11100              | Market Hotness: Hotness Score in Amarillo, TX (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD11100                 | Implicit Regional Price Deflator for Amarillo, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT481110000000003A     | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT481110000000004      | Unemployed Persons in Amarillo, TX (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT481110000000004A     | Unemployed Persons in Amarillo, TX (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT481110000000005      | Employed Persons in Amarillo, TX (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT481110000000005A     | Employed Persons in Amarillo, TX (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT481110000000006A     | Civilian Labor Force in Amarillo, TX (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT481110000000003A     | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT481110000000004      | Unemployed Persons in Amarillo, TX (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT481110000000004A     | Unemployed Persons in Amarillo, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT481110000000005      | Employed Persons in Amarillo, TX (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT481110000000005A     | Employed Persons in Amarillo, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT481110000000006A     | Civilian Labor Force in Amarillo, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA11100          | Market Hotness: Listing Views per Property in Amarillo, TX (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA11100        | Market Hotness: Listing Views per Property Versus the United States in Amarillo, TX (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA11100          | Market Hotness: Listing Views per Property in Amarillo, TX (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -118,13 +118,10 @@
 | SMU48111000500000001SA    | All Employees: Total Private in Amarillo, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU48111000500000002      | Average Weekly Hours of All Employees: Total Private in Amarillo, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48111000500000002A     | Average Weekly Hours of All Employees: Total Private in Amarillo, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48111000500000002SA    | Average Weekly Hours of All Employees: Total Private in Amarillo, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48111000500000003      | Average Hourly Earnings of All Employees: Total Private in Amarillo, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48111000500000003A     | Average Hourly Earnings of All Employees: Total Private in Amarillo, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48111000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Amarillo, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48111000500000011      | Average Weekly Earnings of All Employees: Total Private in Amarillo, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48111000500000011A     | Average Weekly Earnings of All Employees: Total Private in Amarillo, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48111000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Amarillo, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48111000600000001      | All Employees: Goods Producing in Amarillo, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU48111000600000001A     | All Employees: Goods Producing in Amarillo, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU48111000600000001SA    | All Employees: Goods Producing in Amarillo, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |

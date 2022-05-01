@@ -1,25 +1,25 @@
 | Folder                                  |   Files / Folders |
 |-----------------------------------------|-------------------|
-| The Villages, FL                        |                62 |
-| Punta Gorda, FL                         |               165 |
-| Sebring-Avon Park, FL                   |                62 |
-| Panama City, FL                         |               162 |
-| Deltona-Daytona Beach-Ormond Beach, FL  |               176 |
-| Sebastian-Vero Beach, FL                |               164 |
-| Orlando-Kissimmee, FL                   |               250 |
-| Cape Coral-Fort Myers, FL               |               172 |
-| Palm Bay-Melbourne-Titusville, FL       |               184 |
-| Tallahassee, FL                         |               171 |
-| Miami-Fort Lauderdale-Pompano Beach, FL |               202 |
-| North Port-Sarasota-Bradenton, FL       |               181 |
-| Tampa-St. Petersburg-Clearwater, FL     |               278 |
-| Naples-Marco Island, FL                 |               165 |
-| Pensacola-Ferry Pass-Brent, FL          |               178 |
-| Homosassa Springs, FL                   |                62 |
-| Jacksonville, FL                        |               218 |
+| Crestview-Fort Walton Beach-Destin, FL  |               159 |
+| Cape Coral-Fort Myers, FL               |               169 |
+| Miami-Fort Lauderdale-Pompano Beach, FL |               199 |
+| The Villages, FL                        |                59 |
+| Sebastian-Vero Beach, FL                |               161 |
+| Punta Gorda, FL                         |               162 |
+| Ocala, FL                               |               162 |
+| Sebring-Avon Park, FL                   |                59 |
+| Lakeland-Winter Haven, FL               |               172 |
+| North Port-Sarasota-Bradenton, FL       |               178 |
+| Pensacola-Ferry Pass-Brent, FL          |               175 |
+| Homosassa Springs, FL                   |                59 |
+| Panama City, FL                         |               159 |
+| Gainesville, FL                         |               165 |
+| Jacksonville, FL                        |               215 |
+| Naples-Marco Island, FL                 |               162 |
+| Orlando-Kissimmee, FL                   |               247 |
+| Port St. Lucie, FL                      |               162 |
+| Tallahassee, FL                         |               168 |
 | Palm Coast, FL                          |                 8 |
-| Gainesville, FL                         |               168 |
-| Port St. Lucie, FL                      |               165 |
-| Lakeland-Winter Haven, FL               |               175 |
-| Ocala, FL                               |                 0 |
-| Crestview-Fort Walton Beach-Destin, FL  |               162 |
+| Palm Bay-Melbourne-Titusville, FL       |               181 |
+| Tampa-St. Petersburg-Clearwater, FL     |               275 |
+| Deltona-Daytona Beach-Ormond Beach, FL  |               173 |

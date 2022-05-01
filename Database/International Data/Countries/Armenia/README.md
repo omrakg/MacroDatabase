@@ -5,12 +5,12 @@
 | ALARMA475SCEN       | Number of Identified Exporters to Armenia from Alabama                                                                      | 1997-01-01          | 2017-01-01        |
 | ARARMA052SCEN       | Value of Exports to Armenia from Arkansas                                                                                   | 2013-01-01          | 2013-01-01        |
 | ARARMA475SCEN       | Number of Identified Exporters to Armenia from Arkansas                                                                     | 1997-01-01          | 2016-01-01        |
-| ARMBCAGDPGDPPT      | Current Account Balance for Armenia                                                                                         | 2000-01-01          | 2022-01-01        |
-| ARMBCAUSD           | Balance on Current Account for Armenia                                                                                      | 2000-01-01          | 2022-01-01        |
-| ARMBMUSD            | Imports of Goods and Services for Armenia                                                                                   | 2000-01-01          | 2022-01-01        |
-| ARMBXUSD            | Exports of Goods and Services for Armenia                                                                                   | 2000-01-01          | 2022-01-01        |
-| ARMDGDPGDPPT        | Total External Debt for Armenia                                                                                             | 2000-01-01          | 2022-01-01        |
-| ARMFAFARUSD         | Gross International Reserves Held by Central Bank for Armenia                                                               | 2000-01-01          | 2022-01-01        |
+| ARMBCAGDPGDPPT      | Current Account Balance for Armenia                                                                                         | 2000-01-01          | 2023-01-01        |
+| ARMBCAUSD           | Balance on Current Account for Armenia                                                                                      | 2000-01-01          | 2023-01-01        |
+| ARMBMUSD            | Imports of Goods and Services for Armenia                                                                                   | 2000-01-01          | 2023-01-01        |
+| ARMBXUSD            | Exports of Goods and Services for Armenia                                                                                   | 2000-01-01          | 2023-01-01        |
+| ARMDGDPGDPPT        | Total External Debt for Armenia                                                                                             | 2000-01-01          | 2023-01-01        |
+| ARMFAFARUSD         | Gross International Reserves Held by Central Bank for Armenia                                                               | 2000-01-01          | 2023-01-01        |
 | ARMFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Armenia                                                   | 2004-01-01          | 2020-01-01        |
 | ARMFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Armenia                                 | 2004-01-01          | 2020-01-01        |
 | ARMFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Armenia                                                         | 2004-01-01          | 2020-01-01        |
@@ -74,17 +74,17 @@
 | ARMFCSODDHXDC       | Use of Financial Services, Assets: Outstanding Loans to Households at Other Deposit Takers for Armenia                      | 2004-01-01          | 2020-01-01        |
 | ARMFCSODDXDC        | Use of Financial Services, Assets: Outstanding Loans at Other Deposit Takers for Armenia                                    | 2004-01-01          | 2020-01-01        |
 | ARMFCSODXDC         | Use of Financial Services, Assets: Outstanding Loans at Other Depository Corporations for Armenia                           | 2004-01-01          | 2017-01-01        |
-| ARMFMBPCHPT         | Broad Money for Armenia                                                                                                     | 2000-01-01          | 2022-01-01        |
-| ARMGCXCNLGDPGDPPT   | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Armenia                                          | 2005-01-01          | 2022-01-01        |
-| ARMGGBGDPGDPPT      | Overall Fiscal Balance for General Government for Armenia                                                                   | 2000-01-01          | 2022-01-01        |
-| ARMGGDGDPGDPPT      | Total Government Debt for General Government for Armenia                                                                    | 2000-01-01          | 2022-01-01        |
+| ARMFMBPCHPT         | Broad Money for Armenia                                                                                                     | 2000-01-01          | 2023-01-01        |
+| ARMGCXCNLGDPGDPPT   | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Armenia                                          | 2005-01-01          | 2023-01-01        |
+| ARMGGBGDPGDPPT      | Overall Fiscal Balance for General Government for Armenia                                                                   | 2000-01-01          | 2023-01-01        |
+| ARMGGDGDPGDPPT      | Total Government Debt for General Government for Armenia                                                                    | 2000-01-01          | 2023-01-01        |
 | ARMGGENLGDPGDPPT    | Total Expenditure and Net Lending for General Government for Armenia                                                        | 2000-01-01          | 2021-01-01        |
-| ARMGGRXGGDPGDPPT    | Total Revenue, Excluding Grants, for General Government for Armenia                                                         | 2000-01-01          | 2022-01-01        |
-| ARMNGDPDUSD         | Gross Domestic Product in Current Prices for Armenia                                                                        | 2000-01-01          | 2022-01-01        |
-| ARMNGDPRPCHPT       | Gross Domestic Product in Constant Prices for Armenia                                                                       | 2000-01-01          | 2022-01-01        |
-| ARMNGDPXORPCHPT     | Non-Oil Real GDP Growth in Constant Prices for Armenia                                                                      | 2000-01-01          | 2022-01-01        |
-| ARMPCPICOREPCHPT    | Core Consumer Price Inflation for Armenia                                                                                   | 2000-01-01          | 2022-01-01        |
-| ARMPCPIPCHPT        | Consumer Price Inflation for Armenia                                                                                        | 2000-01-01          | 2022-01-01        |
+| ARMGGRXGGDPGDPPT    | Total Revenue, Excluding Grants, for General Government for Armenia                                                         | 2000-01-01          | 2023-01-01        |
+| ARMNGDPDUSD         | Gross Domestic Product in Current Prices for Armenia                                                                        | 2000-01-01          | 2023-01-01        |
+| ARMNGDPRPCHPT       | Gross Domestic Product in Constant Prices for Armenia                                                                       | 2000-01-01          | 2023-01-01        |
+| ARMNGDPXORPCHPT     | Non-Oil Real GDP Growth in Constant Prices for Armenia                                                                      | 2000-01-01          | 2023-01-01        |
+| ARMPCPICOREPCHPT    | Core Consumer Price Inflation for Armenia                                                                                   | 2000-01-01          | 2023-01-01        |
+| ARMPCPIPCHPT        | Consumer Price Inflation for Armenia                                                                                        | 2000-01-01          | 2023-01-01        |
 | AZARMA052SCEN       | Value of Exports to Armenia from Arizona                                                                                    | 2006-01-01          | 2013-01-01        |
 | AZARMA475SCEN       | Number of Identified Exporters to Armenia from Arizona                                                                      | 1997-01-01          | 2017-01-01        |
 | BARTERICMP25UPZSARM | Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Armenia                | 1970-01-01          | 2010-01-01        |

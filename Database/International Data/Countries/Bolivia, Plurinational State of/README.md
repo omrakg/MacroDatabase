@@ -9,7 +9,7 @@
 | AZBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Arizona                                                                          | 1992-01-01          | 2016-01-01        |
 | AZBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Arizona                                                            | 1992-01-01          | 2016-01-01        |
 | BARTERICMP25UPZSBOL | Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Plurinational State of Bolivia      | 1970-01-01          | 2010-01-01        |
-| BOLBCAGDPBP6        | Balance of Payments for Bolivia                                                                                                              | 1980-01-01          | 2026-01-01        |
+| BOLBCAGDPBP6        | Balance of Payments for Bolivia                                                                                                              | 1980-01-01          | 2027-01-01        |
 | BOLFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Bolivia                                                                    | 2007-01-01          | 2020-01-01        |
 | BOLFCACLNUM         | Geographical Outreach: Number of Automated Teller Machines (ATMs) in 3 Largest Cities for Bolivia                                            | 2007-01-01          | 2015-01-01        |
 | BOLFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Bolivia                                                  | 2007-01-01          | 2020-01-01        |
@@ -48,14 +48,14 @@
 | BOLFCSODDXDC        | Use of Financial Services, Assets: Outstanding Loans at Other Deposit Takers for Bolivia                                                     | 2004-01-01          | 2020-01-01        |
 | BOLGGEIGDP          | General Government Expense for Bolivia                                                                                                       | 2011-01-01          | 2024-01-01        |
 | BOLGGRGDP           | General Government Revenue for Bolivia                                                                                                       | 2011-01-01          | 2024-01-01        |
-| BOLGGXCNLGDP        | General Government Net Lending/Borrowing for Bolivia                                                                                         | 1981-01-01          | 2026-01-01        |
+| BOLGGXCNLGDP        | General Government Net Lending/Borrowing for Bolivia                                                                                         | 1981-01-01          | 2027-01-01        |
 | BOLGGXGDP           | General Government Total Expenditure for Bolivia                                                                                             | 2011-01-01          | 2024-01-01        |
-| BOLGGXONLBGDP       | General Government Primary Net Lending/Borrowing for Bolivia                                                                                 | 1985-01-01          | 2026-01-01        |
-| BOLGGXWDGGDP        | General Government Gross Debt for Bolivia                                                                                                    | 2000-01-01          | 2026-01-01        |
+| BOLGGXONLBGDP       | General Government Primary Net Lending/Borrowing for Bolivia                                                                                 | 1985-01-01          | 2027-01-01        |
+| BOLGGXWDGGDP        | General Government Gross Debt for Bolivia                                                                                                    | 2000-01-01          | 2027-01-01        |
 | BOLNGDPD            | Gross Domestic Product in U.S. Dollars for Bolivia                                                                                           | 2011-01-01          | 2024-01-01        |
 | BOLNGDPFY           | Fiscal Year Gross Domestic Product for Bolivia                                                                                               | 2011-01-01          | 2024-01-01        |
-| BOLNGDPRPCH         | Gross Domestic Product for Bolivia                                                                                                           | 1980-01-01          | 2026-01-01        |
-| BOLPCPIEPCH         | Consumer Prices for Bolivia                                                                                                                  | 1980-01-01          | 2026-01-01        |
+| BOLNGDPRPCH         | Gross Domestic Product for Bolivia                                                                                                           | 1980-01-01          | 2027-01-01        |
+| BOLPCPIEPCH         | Consumer Prices for Bolivia                                                                                                                  | 1980-01-01          | 2027-01-01        |
 | BOLPPPSH            | Purchasing Power Parity, Share of World for Bolivia                                                                                          | 2011-01-01          | 2024-01-01        |
 | CABOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from California                                                                       | 1992-01-01          | 2016-01-01        |
 | CABOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from California                                                         | 1992-01-01          | 2016-01-01        |

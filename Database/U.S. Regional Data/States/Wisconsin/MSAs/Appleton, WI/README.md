@@ -14,8 +14,8 @@
 | APPL555INFON              | All Employees: Information in Appleton, WI (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | APPL555LEIH               | All Employees: Leisure and Hospitality in Appleton, WI (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | APPL555LEIHN              | All Employees: Leisure and Hospitality in Appleton, WI (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| APPL555LF                 | Civilian Labor Force in Appleton, WI (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| APPL555LFN                | Civilian Labor Force in Appleton, WI (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| APPL555LF                 | Civilian Labor Force in Appleton, WI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| APPL555LFN                | Civilian Labor Force in Appleton, WI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | APPL555MFG                | All Employees: Manufacturing in Appleton, WI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | APPL555MFGN               | All Employees: Manufacturing in Appleton, WI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | APPL555NA                 | All Employees: Total Nonfarm in Appleton, WI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -29,8 +29,8 @@
 | APPL555SRVON              | All Employees: Other Services in Appleton, WI (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | APPL555TRAD               | All Employees: Trade, Transportation, and Utilities in Appleton, WI (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | APPL555TRADN              | All Employees: Trade, Transportation, and Utilities in Appleton, WI (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| APPL555UR                 | Unemployment Rate in Appleton, WI (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| APPL555URN                | Unemployment Rate in Appleton, WI (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| APPL555UR                 | Unemployment Rate in Appleton, WI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| APPL555URN                | Unemployment Rate in Appleton, WI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | ATNHPIUS11540Q            | All-Transactions House Price Index for Appleton, WI (MSA)                                                     | 1985-04-01          | 2021-10-01        |
 | AVELISPRI11540            | Housing Inventory: Average Listing Price in Appleton, WI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | AVELISPRIMM11540          | Housing Inventory: Average Listing Price Month-Over-Month in Appleton, WI (CBSA)                              | 2017-07-01          | 2022-03-01        |
@@ -53,12 +53,12 @@
 | HORAYYMSA11540            | Market Hotness: Hotness Rank in Appleton, WI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA11540              | Market Hotness: Hotness Score in Appleton, WI (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD11540                 | Implicit Regional Price Deflator for Appleton, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT551154000000003A     | Unemployment Rate in Appleton, WI (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT551154000000004      | Unemployed Persons in Appleton, WI (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT551154000000004A     | Unemployed Persons in Appleton, WI (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT551154000000005      | Employed Persons in Appleton, WI (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT551154000000005A     | Employed Persons in Appleton, WI (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT551154000000006A     | Civilian Labor Force in Appleton, WI (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT551154000000003A     | Unemployment Rate in Appleton, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT551154000000004      | Unemployed Persons in Appleton, WI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT551154000000004A     | Unemployed Persons in Appleton, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT551154000000005      | Employed Persons in Appleton, WI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT551154000000005A     | Employed Persons in Appleton, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT551154000000006A     | Civilian Labor Force in Appleton, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA11540          | Market Hotness: Listing Views per Property in Appleton, WI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA11540        | Market Hotness: Listing Views per Property Versus the United States in Appleton, WI (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA11540          | Market Hotness: Listing Views per Property in Appleton, WI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU55115400500000001SA    | All Employees: Total Private in Appleton, WI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU55115400500000002      | Average Weekly Hours of All Employees: Total Private in Appleton, WI (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU55115400500000002A     | Average Weekly Hours of All Employees: Total Private in Appleton, WI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU55115400500000002SA    | Average Weekly Hours of All Employees: Total Private in Appleton, WI (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU55115400500000003      | Average Hourly Earnings of All Employees: Total Private in Appleton, WI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU55115400500000003A     | Average Hourly Earnings of All Employees: Total Private in Appleton, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55115400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Appleton, WI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU55115400500000011      | Average Weekly Earnings of All Employees: Total Private in Appleton, WI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU55115400500000011A     | Average Weekly Earnings of All Employees: Total Private in Appleton, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55115400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Appleton, WI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU55115400600000001      | All Employees: Goods Producing in Appleton, WI (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU55115400600000001A     | All Employees: Goods Producing in Appleton, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU55115400600000001SA    | All Employees: Goods Producing in Appleton, WI (MSA)                                                          | 1990-01-01          | 2022-03-01        |

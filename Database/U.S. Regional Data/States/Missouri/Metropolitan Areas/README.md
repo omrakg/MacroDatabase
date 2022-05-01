@@ -1,3 +1,3 @@
 | Folder          |   Files / Folders |
 |-----------------|-------------------|
-| Kansas City, MO |               144 |
+| Kansas City, MO |               132 |

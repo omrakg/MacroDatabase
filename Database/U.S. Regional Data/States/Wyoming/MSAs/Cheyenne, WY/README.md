@@ -7,10 +7,10 @@
 | AVELISPRI16940            | Housing Inventory: Average Listing Price in Cheyenne, WY (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | AVELISPRIMM16940          | Housing Inventory: Average Listing Price Month-Over-Month in Cheyenne, WY (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | AVELISPRIYY16940          | Housing Inventory: Average Listing Price Year-Over-Year in Cheyenne, WY (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| CHEY956BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cheyenne, WY (MSA)            | 1988-01-01          | 2022-02-01        |
-| CHEY956BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cheyenne, WY (MSA)            | 1988-01-01          | 2022-02-01        |
-| CHEY956BPPRIV             | New Private Housing Units Authorized by Building Permits for Cheyenne, WY (MSA)                               | 1988-01-01          | 2022-02-01        |
-| CHEY956BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Cheyenne, WY (MSA)                               | 1988-01-01          | 2022-02-01        |
+| CHEY956BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cheyenne, WY (MSA)            | 1988-01-01          | 2022-03-01        |
+| CHEY956BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cheyenne, WY (MSA)            | 1988-01-01          | 2022-03-01        |
+| CHEY956BPPRIV             | New Private Housing Units Authorized by Building Permits for Cheyenne, WY (MSA)                               | 1988-01-01          | 2022-03-01        |
+| CHEY956BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Cheyenne, WY (MSA)                               | 1988-01-01          | 2022-03-01        |
 | CHEY956EDUH               | All Employees: Education and Health Services in Cheyenne, WY (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | CHEY956EDUHN              | All Employees: Education and Health Services in Cheyenne, WY (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | CHEY956FIRE               | All Employees: Financial Activities in Cheyenne, WY (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -21,8 +21,8 @@
 | CHEY956INFON              | All Employees: Information in Cheyenne, WY (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | CHEY956LEIH               | All Employees: Leisure and Hospitality in Cheyenne, WY (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | CHEY956LEIHN              | All Employees: Leisure and Hospitality in Cheyenne, WY (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| CHEY956LF                 | Civilian Labor Force in Cheyenne, WY (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| CHEY956LFN                | Civilian Labor Force in Cheyenne, WY (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| CHEY956LF                 | Civilian Labor Force in Cheyenne, WY (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| CHEY956LFN                | Civilian Labor Force in Cheyenne, WY (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | CHEY956MFG                | All Employees: Manufacturing in Cheyenne, WY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | CHEY956MFGN               | All Employees: Manufacturing in Cheyenne, WY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | CHEY956NA                 | All Employees: Total Nonfarm in Cheyenne, WY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -36,8 +36,8 @@
 | CHEY956SRVON              | All Employees: Other Services in Cheyenne, WY (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | CHEY956TRAD               | All Employees: Trade, Transportation, and Utilities in Cheyenne, WY (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | CHEY956TRADN              | All Employees: Trade, Transportation, and Utilities in Cheyenne, WY (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| CHEY956UR                 | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| CHEY956URN                | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| CHEY956UR                 | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| CHEY956URN                | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | CHYPOP                    | Resident Population in Cheyenne, WY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC169430010             | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC169430010SA           | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -52,12 +52,12 @@
 | ENUC169440510             | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC169440510SA           | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD16940                 | Implicit Regional Price Deflator for Cheyenne, WY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT561694000000003A     | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT561694000000004      | Unemployed Persons in Cheyenne, WY (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT561694000000004A     | Unemployed Persons in Cheyenne, WY (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT561694000000005      | Employed Persons in Cheyenne, WY (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT561694000000005A     | Employed Persons in Cheyenne, WY (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT561694000000006A     | Civilian Labor Force in Cheyenne, WY (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT561694000000003A     | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT561694000000004      | Unemployed Persons in Cheyenne, WY (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT561694000000004A     | Unemployed Persons in Cheyenne, WY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT561694000000005      | Employed Persons in Cheyenne, WY (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT561694000000005A     | Employed Persons in Cheyenne, WY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT561694000000006A     | Civilian Labor Force in Cheyenne, WY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR16940          | Housing Inventory: Median Days on Market in Cheyenne, WY (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM16940        | Housing Inventory: Median Days on Market Month-Over-Month in Cheyenne, WY (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY16940        | Housing Inventory: Median Days on Market Year-Over-Year in Cheyenne, WY (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -99,13 +99,10 @@
 | SMU56169400500000001SA    | All Employees: Total Private in Cheyenne, WY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU56169400500000002      | Average Weekly Hours of All Employees: Total Private in Cheyenne, WY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU56169400500000002A     | Average Weekly Hours of All Employees: Total Private in Cheyenne, WY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU56169400500000002SA    | Average Weekly Hours of All Employees: Total Private in Cheyenne, WY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU56169400500000003      | Average Hourly Earnings of All Employees: Total Private in Cheyenne, WY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU56169400500000003A     | Average Hourly Earnings of All Employees: Total Private in Cheyenne, WY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU56169400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Cheyenne, WY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU56169400500000011      | Average Weekly Earnings of All Employees: Total Private in Cheyenne, WY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU56169400500000011A     | Average Weekly Earnings of All Employees: Total Private in Cheyenne, WY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU56169400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Cheyenne, WY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU56169400600000001      | All Employees: Goods Producing in Cheyenne, WY (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU56169400600000001A     | All Employees: Goods Producing in Cheyenne, WY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU56169400600000001SA    | All Employees: Goods Producing in Cheyenne, WY (MSA)                                                          | 1990-01-01          | 2022-03-01        |

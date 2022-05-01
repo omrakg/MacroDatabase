@@ -24,21 +24,21 @@
 | HORAMSA31540              | Market Hotness: Hotness Rank in Madison, WI (CBSA)                                                                       | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA31540            | Market Hotness: Hotness Rank in Madison, WI (CBSA)                                                                       | 2018-08-01          | 2022-03-01        |
 | HOSCMSA31540              | Market Hotness: Hotness Score in Madison, WI (CBSA)                                                                      | 2017-08-01          | 2022-03-01        |
-| IHLCHG31540               | Job Postings on Indeed in Madison, WI (MSA)                                                                              | 2020-02-01          | 2022-04-15        |
+| IHLCHG31540               | Job Postings on Indeed in Madison, WI (MSA)                                                                              | 2020-02-01          | 2022-04-22        |
 | IRPD31540                 | Implicit Regional Price Deflator for Madison, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| LAUMT553154000000003A     | Unemployment Rate in Madison, WI (MSA)                                                                                   | 1990-01-01          | 2020-01-01        |
-| LAUMT553154000000004      | Unemployed Persons in Madison, WI (MSA)                                                                                  | 1990-01-01          | 2022-02-01        |
-| LAUMT553154000000004A     | Unemployed Persons in Madison, WI (MSA)                                                                                  | 1990-01-01          | 2020-01-01        |
-| LAUMT553154000000005      | Employed Persons in Madison, WI (MSA)                                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT553154000000005A     | Employed Persons in Madison, WI (MSA)                                                                                    | 1990-01-01          | 2020-01-01        |
-| LAUMT553154000000006A     | Civilian Labor Force in Madison, WI (MSA)                                                                                | 1990-01-01          | 2020-01-01        |
+| LAUMT553154000000003A     | Unemployment Rate in Madison, WI (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
+| LAUMT553154000000004      | Unemployed Persons in Madison, WI (MSA)                                                                                  | 1990-01-01          | 2022-03-01        |
+| LAUMT553154000000004A     | Unemployed Persons in Madison, WI (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
+| LAUMT553154000000005      | Employed Persons in Madison, WI (MSA)                                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT553154000000005A     | Employed Persons in Madison, WI (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
+| LAUMT553154000000006A     | Civilian Labor Force in Madison, WI (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA31540          | Market Hotness: Listing Views per Property in Madison, WI (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA31540        | Market Hotness: Listing Views per Property Versus the United States in Madison, WI (CBSA)                                | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA31540          | Market Hotness: Listing Views per Property in Madison, WI (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
-| MADI555BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Madison, WI (MSA)                        | 1988-01-01          | 2022-02-01        |
-| MADI555BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Madison, WI (MSA)                        | 1988-01-01          | 2022-02-01        |
-| MADI555BPPRIV             | New Private Housing Units Authorized by Building Permits for Madison, WI (MSA)                                           | 1988-01-01          | 2022-02-01        |
-| MADI555BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Madison, WI (MSA)                                           | 1988-01-01          | 2022-02-01        |
+| MADI555BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Madison, WI (MSA)                        | 1988-01-01          | 2022-03-01        |
+| MADI555BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Madison, WI (MSA)                        | 1988-01-01          | 2022-03-01        |
+| MADI555BPPRIV             | New Private Housing Units Authorized by Building Permits for Madison, WI (MSA)                                           | 1988-01-01          | 2022-03-01        |
+| MADI555BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Madison, WI (MSA)                                           | 1988-01-01          | 2022-03-01        |
 | MADI555EDUH               | All Employees: Education and Health Services in Madison, WI (MSA)                                                        | 1990-01-01          | 2022-03-01        |
 | MADI555EDUHN              | All Employees: Education and Health Services in Madison, WI (MSA)                                                        | 1990-01-01          | 2022-03-01        |
 | MADI555FIRE               | All Employees: Financial Activities in Madison, WI (MSA)                                                                 | 1990-01-01          | 2022-03-01        |
@@ -49,8 +49,8 @@
 | MADI555INFON              | All Employees: Information in Madison, WI (MSA)                                                                          | 1990-01-01          | 2022-03-01        |
 | MADI555LEIH               | All Employees: Leisure and Hospitality in Madison, WI (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | MADI555LEIHN              | All Employees: Leisure and Hospitality in Madison, WI (MSA)                                                              | 1990-01-01          | 2022-03-01        |
-| MADI555LF                 | Civilian Labor Force in Madison, WI (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
-| MADI555LFN                | Civilian Labor Force in Madison, WI (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
+| MADI555LF                 | Civilian Labor Force in Madison, WI (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
+| MADI555LFN                | Civilian Labor Force in Madison, WI (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
 | MADI555MFG                | All Employees: Manufacturing in Madison, WI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | MADI555MFGN               | All Employees: Manufacturing in Madison, WI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | MADI555NA                 | All Employees: Total Nonfarm in Madison, WI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
@@ -64,8 +64,8 @@
 | MADI555SRVON              | All Employees: Other Services in Madison, WI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MADI555TRAD               | All Employees: Trade, Transportation, and Utilities in Madison, WI (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | MADI555TRADN              | All Employees: Trade, Transportation, and Utilities in Madison, WI (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| MADI555UR                 | Unemployment Rate in Madison, WI (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
-| MADI555URN                | Unemployment Rate in Madison, WI (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
+| MADI555UR                 | Unemployment Rate in Madison, WI (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
+| MADI555URN                | Unemployment Rate in Madison, WI (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
 | MDSPOP                    | Resident Population in Madison, WI (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA31540        | Market Hotness: Median Days on Market in Madison, WI (CBSA)                                                              | 2018-08-01          | 2022-03-01        |
 | MEDAONMAMSA31540          | Market Hotness: Median Days on Market in Madison, WI (CBSA)                                                              | 2017-08-01          | 2022-03-01        |
@@ -120,13 +120,10 @@
 | SMU55315400500000001SA    | All Employees: Total Private in Madison, WI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | SMU55315400500000002      | Average Weekly Hours of All Employees: Total Private in Madison, WI (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU55315400500000002A     | Average Weekly Hours of All Employees: Total Private in Madison, WI (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU55315400500000002SA    | Average Weekly Hours of All Employees: Total Private in Madison, WI (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU55315400500000003      | Average Hourly Earnings of All Employees: Total Private in Madison, WI (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU55315400500000003A     | Average Hourly Earnings of All Employees: Total Private in Madison, WI (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU55315400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Madison, WI (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU55315400500000011      | Average Weekly Earnings of All Employees: Total Private in Madison, WI (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU55315400500000011A     | Average Weekly Earnings of All Employees: Total Private in Madison, WI (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU55315400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Madison, WI (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU55315400600000001      | All Employees: Goods Producing in Madison, WI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
 | SMU55315400600000001A     | All Employees: Goods Producing in Madison, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | SMU55315400600000001SA    | All Employees: Goods Producing in Madison, WI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |

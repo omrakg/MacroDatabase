@@ -8,13 +8,10 @@
 | SMU25782540500000001SA | All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division)                            | 1990-01-01          | 2022-03-01        |
 | SMU25782540500000002   | Average Weekly Hours of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division)    | 2011-01-01          | 2022-03-01        |
 | SMU25782540500000002A  | Average Weekly Hours of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division)    | 2011-01-01          | 2021-01-01        |
-| SMU25782540500000002SA | Average Weekly Hours of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division)    | 2011-01-01          | 2022-03-01        |
 | SMU25782540500000003   | Average Hourly Earnings of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division) | 2011-01-01          | 2022-03-01        |
 | SMU25782540500000003A  | Average Hourly Earnings of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division) | 2011-01-01          | 2021-01-01        |
-| SMU25782540500000003SA | Average Hourly Earnings of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division) | 2011-01-01          | 2022-03-01        |
 | SMU25782540500000011   | Average Weekly Earnings of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division) | 2011-01-01          | 2022-03-01        |
 | SMU25782540500000011A  | Average Weekly Earnings of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division) | 2011-01-01          | 2021-01-01        |
-| SMU25782540500000011SA | Average Weekly Earnings of All Employees: Total Private in Taunton-Middleborough-Norton, MA (NECTA Division) | 2011-01-01          | 2022-03-01        |
 | SMU25782540600000001   | All Employees: Goods Producing in Taunton-Middleborough-Norton, MA (NECTA Division)                          | 1990-01-01          | 2022-03-01        |
 | SMU25782540600000001A  | All Employees: Goods Producing in Taunton-Middleborough-Norton, MA (NECTA Division)                          | 1990-01-01          | 2021-01-01        |
 | SMU25782540600000001SA | All Employees: Goods Producing in Taunton-Middleborough-Norton, MA (NECTA Division)                          | 1990-01-01          | 2022-03-01        |

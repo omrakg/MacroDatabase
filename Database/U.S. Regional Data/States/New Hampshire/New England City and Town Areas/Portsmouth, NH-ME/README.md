@@ -10,8 +10,8 @@
 | PORT933INFON           | All Employees: Information in Portsmouth, NH-ME (NECTA)                                                              | 1990-01-01          | 2022-03-01        |
 | PORT933LEIH            | All Employees: Leisure and Hospitality in Portsmouth, NH-ME (NECTA)                                                  | 1990-01-01          | 2022-03-01        |
 | PORT933LEIHN           | All Employees: Leisure and Hospitality in Portsmouth, NH-ME (NECTA)                                                  | 1990-01-01          | 2022-03-01        |
-| PORT933LF              | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2022-02-01        |
-| PORT933LFN             | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2022-02-01        |
+| PORT933LF              | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2022-03-01        |
+| PORT933LFN             | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2022-03-01        |
 | PORT933MFG             | All Employees: Manufacturing in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | PORT933MFGN            | All Employees: Manufacturing in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | PORT933NA              | All Employees: Total Nonfarm in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -24,8 +24,8 @@
 | PORT933SRVON           | All Employees: Other Services in Portsmouth, NH-ME (NECTA)                                                           | 1990-01-01          | 2022-03-01        |
 | PORT933TRAD            | All Employees: Trade, Transportation, and Utilities in Portsmouth, NH-ME (NECTA)                                     | 1990-01-01          | 2022-03-01        |
 | PORT933TRADN           | All Employees: Trade, Transportation, and Utilities in Portsmouth, NH-ME (NECTA)                                     | 1990-01-01          | 2022-03-01        |
-| PORT933UR              | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2022-02-01        |
-| PORT933URN             | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2022-02-01        |
+| PORT933UR              | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2022-03-01        |
+| PORT933URN             | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SMS33769000000000001   | All Employees: Total Nonfarm in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2018-02-01        |
 | SMS33769000000000026   | All Employees: Total Nonfarm in Portsmouth, NH-ME (NECTA)                                                            | 1990-04-01          | 2022-03-01        |
 | SMU33769000000000001A  | All Employees: Total Nonfarm in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
@@ -34,13 +34,10 @@
 | SMU33769000500000001SA | All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU33769000500000002   | Average Weekly Hours of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU33769000500000002A  | Average Weekly Hours of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU33769000500000002SA | Average Weekly Hours of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU33769000500000003   | Average Hourly Earnings of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU33769000500000003A  | Average Hourly Earnings of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU33769000500000003SA | Average Hourly Earnings of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU33769000500000011   | Average Weekly Earnings of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU33769000500000011A  | Average Weekly Earnings of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU33769000500000011SA | Average Weekly Earnings of All Employees: Total Private in Portsmouth, NH-ME (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU33769000600000001   | All Employees: Goods Producing in Portsmouth, NH-ME (NECTA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU33769000600000001A  | All Employees: Goods Producing in Portsmouth, NH-ME (NECTA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU33769000600000001SA | All Employees: Goods Producing in Portsmouth, NH-ME (NECTA)                                                          | 1990-01-01          | 2022-03-01        |

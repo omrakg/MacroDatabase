@@ -24,7 +24,7 @@
 | HORAMSA29540              | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA29540              | Market Hotness: Hotness Score in Lancaster, PA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
-| IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-04-15        |
+| IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-04-22        |
 | IRPD29540                 | Implicit Regional Price Deflator for Lancaster, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LACPOP                    | Resident Population in Lancaster, PA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LANC542EDUH               | All Employees: Education and Health Services in Lancaster, PA (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -37,8 +37,8 @@
 | LANC542INFON              | All Employees: Information in Lancaster, PA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | LANC542LEIH               | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | LANC542LEIHN              | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| LANC542LF                 | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| LANC542LFN                | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| LANC542LF                 | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| LANC542LFN                | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | LANC542MFG                | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LANC542MFGN               | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LANC542NA                 | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -52,14 +52,14 @@
 | LANC542SRVON              | All Employees: Other Services in Lancaster, PA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | LANC542TRAD               | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | LANC542TRADN              | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| LANC542UR                 | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LANC542URN                | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT422954000000003A     | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT422954000000004      | Unemployed Persons in Lancaster, PA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT422954000000004A     | Unemployed Persons in Lancaster, PA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT422954000000005      | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT422954000000005A     | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT422954000000006A     | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LANC542UR                 | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LANC542URN                | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT422954000000003A     | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT422954000000004      | Unemployed Persons in Lancaster, PA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT422954000000004A     | Unemployed Persons in Lancaster, PA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT422954000000005      | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT422954000000005A     | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT422954000000006A     | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA29540          | Market Hotness: Listing Views per Property in Lancaster, PA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA29540        | Market Hotness: Listing Views per Property Versus the United States in Lancaster, PA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA29540          | Market Hotness: Listing Views per Property in Lancaster, PA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -115,13 +115,10 @@
 | SMU42295400500000001SA    | All Employees: Total Private in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU42295400500000002      | Average Weekly Hours of All Employees: Total Private in Lancaster, PA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU42295400500000002A     | Average Weekly Hours of All Employees: Total Private in Lancaster, PA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU42295400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lancaster, PA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU42295400500000003      | Average Hourly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU42295400500000003A     | Average Hourly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU42295400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU42295400500000011      | Average Weekly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU42295400500000011A     | Average Weekly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU42295400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU42295400600000001      | All Employees: Goods Producing in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU42295400600000001A     | All Employees: Goods Producing in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU42295400600000001SA    | All Employees: Goods Producing in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

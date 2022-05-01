@@ -25,6 +25,9 @@
 | ENUC140630010          | Total Quarterly Wages in Bloomington-Normal, IL (MSA) (DISCONTINUED)                                   | 1990-01-01          | 2012-10-01        |
 | ENUC140630010SA        | Total Quarterly Wages in Bloomington-Normal, IL (MSA) (DISCONTINUED)                                   | 1990-01-01          | 2012-10-01        |
 | PCRGMP14010            | Total Per Capita Real Gross Domestic Product for Bloomington, IL (MSA) (DISCONTINUED)                  | 2001-01-01          | 2017-01-01        |
+| SMU17140100500000002SA | Average Weekly Hours of All Employees: Total Private in Bloomington, IL (MSA) (DISCONTINUED)           | 2011-01-01          | 2022-03-01        |
+| SMU17140100500000003SA | Average Hourly Earnings of All Employees: Total Private in Bloomington, IL (MSA) (DISCONTINUED)        | 2011-01-01          | 2022-03-01        |
+| SMU17140100500000011SA | Average Weekly Earnings of All Employees: Total Private in Bloomington, IL (MSA) (DISCONTINUED)        | 2011-01-01          | 2022-03-01        |
 | SMU17140600000000001A  | All Employees: Total Nonfarm in Bloomington-Normal, IL (MSA) (DISCONTINUED)                            | 1972-01-01          | 2013-01-01        |
 | SMU17140600500000001   | All Employees: Total Private in Bloomington-Normal, IL (MSA) (DISCONTINUED)                            | 1990-01-01          | 2014-12-01        |
 | SMU17140600500000001A  | All Employees: Total Private in Bloomington-Normal, IL (MSA) (DISCONTINUED)                            | 1990-01-01          | 2013-01-01        |

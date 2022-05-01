@@ -8,6 +8,9 @@
 | NIVEN                  | Net Income for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                          | 1989-01-01          | 2019-10-01        |
 | PCRGMP37100            | Total Per Capita Real Gross Domestic Product for Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
 | ROAVEN                 | Return on Average Assets for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)            | 1989-01-01          | 2019-10-01        |
+| SMU06371000500000002SA | Average Weekly Hours of All Employees: Total Private in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
+| SMU06371000500000003SA | Average Hourly Earnings of All Employees: Total Private in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU06371000500000011SA | Average Weekly Earnings of All Employees: Total Private in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
 | SMU06371005051700001   | All Employees: Information: Telecommunications in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2014-12-01        |
 | SMU06371005051700001A  | All Employees: Information: Telecommunications in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2013-01-01        |
 | SMU06371005051700001SA | All Employees: Information: Telecommunications in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2014-12-01        |

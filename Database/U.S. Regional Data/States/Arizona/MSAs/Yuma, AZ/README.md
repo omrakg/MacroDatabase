@@ -25,12 +25,12 @@
 | HORAYYMSA49740            | Market Hotness: Hotness Rank in Yuma, AZ (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | HOSCMSA49740              | Market Hotness: Hotness Score in Yuma, AZ (CBSA)                                            | 2017-08-01          | 2022-03-01        |
 | IRPD49740                 | Implicit Regional Price Deflator for Yuma, AZ (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT044974000000003A     | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT044974000000004      | Unemployed Persons in Yuma, AZ (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT044974000000004A     | Unemployed Persons in Yuma, AZ (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT044974000000005      | Employed Persons in Yuma, AZ (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT044974000000005A     | Employed Persons in Yuma, AZ (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT044974000000006A     | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT044974000000003A     | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT044974000000004      | Unemployed Persons in Yuma, AZ (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT044974000000004A     | Unemployed Persons in Yuma, AZ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT044974000000005      | Employed Persons in Yuma, AZ (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT044974000000005A     | Employed Persons in Yuma, AZ (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT044974000000006A     | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA49740          | Market Hotness: Listing Views per Property in Yuma, AZ (CBSA)                               | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA49740        | Market Hotness: Listing Views per Property Versus the United States in Yuma, AZ (CBSA)      | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA49740          | Market Hotness: Listing Views per Property in Yuma, AZ (CBSA)                               | 2018-08-01          | 2022-03-01        |
@@ -86,13 +86,10 @@
 | SMU04497400500000001SA    | All Employees: Total Private in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU04497400500000002      | Average Weekly Hours of All Employees: Total Private in Yuma, AZ (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU04497400500000002A     | Average Weekly Hours of All Employees: Total Private in Yuma, AZ (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU04497400500000002SA    | Average Weekly Hours of All Employees: Total Private in Yuma, AZ (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU04497400500000003      | Average Hourly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU04497400500000003A     | Average Hourly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04497400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU04497400500000011      | Average Weekly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU04497400500000011A     | Average Weekly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04497400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU04497400600000001      | All Employees: Goods Producing in Yuma, AZ (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU04497400600000001A     | All Employees: Goods Producing in Yuma, AZ (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU04497400600000001SA    | All Employees: Goods Producing in Yuma, AZ (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -129,8 +126,8 @@
 | YUMA704INFON              | All Employees: Information in Yuma, AZ (MSA)                                                | 1990-01-01          | 2022-03-01        |
 | YUMA704LEIH               | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | YUMA704LEIHN              | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| YUMA704LF                 | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| YUMA704LFN                | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| YUMA704LF                 | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| YUMA704LFN                | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | YUMA704MFG                | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | YUMA704MFGN               | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | YUMA704NA                 | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -144,6 +141,6 @@
 | YUMA704SRVON              | All Employees: Other Services in Yuma, AZ (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | YUMA704TRAD               | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2022-03-01        |
 | YUMA704TRADN              | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2022-03-01        |
-| YUMA704UR                 | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| YUMA704URN                | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| YUMA704UR                 | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| YUMA704URN                | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | YUMPOP                    | Resident Population in Yuma, AZ (MSA)                                                       | 2000-01-01          | 2021-01-01        |

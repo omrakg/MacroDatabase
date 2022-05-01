@@ -1,11 +1,11 @@
 | id                     | title                                                                                                                                 | observation_start   | observation_end   |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| LAUMT097645000000003A  | Unemployment Rate in Norwich-New London-Westerly, CT-RI (NECTA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT097645000000004   | Unemployed Persons in Norwich-New London-Westerly, CT-RI (NECTA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT097645000000004A  | Unemployed Persons in Norwich-New London-Westerly, CT-RI (NECTA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT097645000000005   | Employed Persons in Norwich-New London-Westerly, CT-RI (NECTA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT097645000000005A  | Employed Persons in Norwich-New London-Westerly, CT-RI (NECTA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT097645000000006A  | Civilian Labor Force in Norwich-New London-Westerly, CT-RI (NECTA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT097645000000003A  | Unemployment Rate in Norwich-New London-Westerly, CT-RI (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT097645000000004   | Unemployed Persons in Norwich-New London-Westerly, CT-RI (NECTA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT097645000000004A  | Unemployed Persons in Norwich-New London-Westerly, CT-RI (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT097645000000005   | Employed Persons in Norwich-New London-Westerly, CT-RI (NECTA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT097645000000005A  | Employed Persons in Norwich-New London-Westerly, CT-RI (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT097645000000006A  | Civilian Labor Force in Norwich-New London-Westerly, CT-RI (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
 | NORW409EDUH            | All Employees: Education and Health Services in Norwich-New London-Westerly, CT-RI (NECTA)                                            | 1990-01-01          | 2022-03-01        |
 | NORW409EDUHN           | All Employees: Education and Health Services in Norwich-New London-Westerly, CT-RI (NECTA)                                            | 1990-01-01          | 2022-03-01        |
 | NORW409FIRE            | All Employees: Financial Activities in Norwich-New London-Westerly, CT-RI (NECTA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -16,8 +16,8 @@
 | NORW409INFON           | All Employees: Information in Norwich-New London-Westerly, CT-RI (NECTA)                                                              | 1990-01-01          | 2022-03-01        |
 | NORW409LEIH            | All Employees: Leisure and Hospitality in Norwich-New London-Westerly, CT-RI (NECTA)                                                  | 1990-01-01          | 2022-03-01        |
 | NORW409LEIHN           | All Employees: Leisure and Hospitality in Norwich-New London-Westerly, CT-RI (NECTA)                                                  | 1990-01-01          | 2022-03-01        |
-| NORW409LF              | Civilian Labor Force in Norwich-New London-Westerly, CT-RI (NECTA)                                                                    | 1990-01-01          | 2022-02-01        |
-| NORW409LFN             | Civilian Labor Force in Norwich-New London-Westerly, CT-RI (NECTA)                                                                    | 1990-01-01          | 2022-02-01        |
+| NORW409LF              | Civilian Labor Force in Norwich-New London-Westerly, CT-RI (NECTA)                                                                    | 1990-01-01          | 2022-03-01        |
+| NORW409LFN             | Civilian Labor Force in Norwich-New London-Westerly, CT-RI (NECTA)                                                                    | 1990-01-01          | 2022-03-01        |
 | NORW409MFG             | All Employees: Manufacturing in Norwich-New London-Westerly, CT-RI (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | NORW409MFGN            | All Employees: Manufacturing in Norwich-New London-Westerly, CT-RI (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | NORW409NA              | All Employees: Total Nonfarm in Norwich-New London-Westerly, CT-RI (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -31,8 +31,8 @@
 | NORW409SRVON           | All Employees: Other Services in Norwich-New London-Westerly, CT-RI (NECTA)                                                           | 1990-01-01          | 2022-03-01        |
 | NORW409TRAD            | All Employees: Trade, Transportation, and Utilities in Norwich-New London-Westerly, CT-RI (NECTA)                                     | 1990-01-01          | 2022-03-01        |
 | NORW409TRADN           | All Employees: Trade, Transportation, and Utilities in Norwich-New London-Westerly, CT-RI (NECTA)                                     | 1990-01-01          | 2022-03-01        |
-| NORW409UR              | Unemployment Rate in Norwich-New London-Westerly, CT-RI (NECTA)                                                                       | 1990-01-01          | 2022-02-01        |
-| NORW409URN             | Unemployment Rate in Norwich-New London-Westerly, CT-RI (NECTA)                                                                       | 1990-01-01          | 2022-02-01        |
+| NORW409UR              | Unemployment Rate in Norwich-New London-Westerly, CT-RI (NECTA)                                                                       | 1990-01-01          | 2022-03-01        |
+| NORW409URN             | Unemployment Rate in Norwich-New London-Westerly, CT-RI (NECTA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SMS09764500000000026   | All Employees: Total Nonfarm in Norwich-New London-Westerly, CT-RI (NECTA)                                                            | 1990-04-01          | 2022-03-01        |
 | SMU09764500000000001A  | All Employees: Total Nonfarm in Norwich-New London-Westerly, CT-RI (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU09764500500000001   | All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -40,13 +40,10 @@
 | SMU09764500500000001SA | All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU09764500500000002   | Average Weekly Hours of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU09764500500000002A  | Average Weekly Hours of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU09764500500000002SA | Average Weekly Hours of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU09764500500000003   | Average Hourly Earnings of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU09764500500000003A  | Average Hourly Earnings of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU09764500500000003SA | Average Hourly Earnings of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU09764500500000011   | Average Weekly Earnings of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU09764500500000011A  | Average Weekly Earnings of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU09764500500000011SA | Average Weekly Earnings of All Employees: Total Private in Norwich-New London-Westerly, CT-RI (NECTA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU09764500600000001   | All Employees: Goods Producing in Norwich-New London-Westerly, CT-RI (NECTA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU09764500600000001A  | All Employees: Goods Producing in Norwich-New London-Westerly, CT-RI (NECTA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU09764500600000001SA | All Employees: Goods Producing in Norwich-New London-Westerly, CT-RI (NECTA)                                                          | 1990-01-01          | 2022-03-01        |

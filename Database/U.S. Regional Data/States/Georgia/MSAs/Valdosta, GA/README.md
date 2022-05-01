@@ -16,12 +16,12 @@
 | ENUC466640510             | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC466640510SA           | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2021-07-01        |
 | IRPD46660                 | Implicit Regional Price Deflator for Valdosta, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT134666000000003A     | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT134666000000004      | Unemployed Persons in Valdosta, GA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT134666000000004A     | Unemployed Persons in Valdosta, GA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT134666000000005      | Employed Persons in Valdosta, GA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT134666000000005A     | Employed Persons in Valdosta, GA (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT134666000000006A     | Civilian Labor Force in Valdosta, GA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT134666000000003A     | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT134666000000004      | Unemployed Persons in Valdosta, GA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT134666000000004A     | Unemployed Persons in Valdosta, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT134666000000005      | Employed Persons in Valdosta, GA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT134666000000005A     | Employed Persons in Valdosta, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT134666000000006A     | Civilian Labor Force in Valdosta, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR46660          | Housing Inventory: Median Days on Market in Valdosta, GA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM46660        | Housing Inventory: Median Days on Market Month-Over-Month in Valdosta, GA (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY46660        | Housing Inventory: Median Days on Market Year-Over-Year in Valdosta, GA (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -63,13 +63,10 @@
 | SMU13466600500000001SA    | All Employees: Total Private in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU13466600500000002      | Average Weekly Hours of All Employees: Total Private in Valdosta, GA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU13466600500000002A     | Average Weekly Hours of All Employees: Total Private in Valdosta, GA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU13466600500000002SA    | Average Weekly Hours of All Employees: Total Private in Valdosta, GA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU13466600500000003      | Average Hourly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU13466600500000003A     | Average Hourly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13466600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU13466600500000011      | Average Weekly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU13466600500000011A     | Average Weekly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13466600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU13466600600000001      | All Employees: Goods Producing in Valdosta, GA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU13466600600000001A     | All Employees: Goods Producing in Valdosta, GA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU13466600600000001SA    | All Employees: Goods Producing in Valdosta, GA (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -95,13 +92,13 @@
 | SMU13466609093000001SA    | All Employees: Government: Local Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-03-01        |
 | VALD613GOVT               | All Employees: Government in Valdosta, GA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | VALD613GOVTN              | All Employees: Government in Valdosta, GA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| VALD613LF                 | Civilian Labor Force in Valdosta, GA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| VALD613LFN                | Civilian Labor Force in Valdosta, GA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| VALD613LF                 | Civilian Labor Force in Valdosta, GA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| VALD613LFN                | Civilian Labor Force in Valdosta, GA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | VALD613NA                 | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | VALD613NAN                | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | VALD613PCPI               | Per Capita Personal Income in Valdosta, GA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | VALD613TRAD               | All Employees: Trade, Transportation, and Utilities in Valdosta, GA (MSA)                       | 1990-01-01          | 2022-03-01        |
 | VALD613TRADN              | All Employees: Trade, Transportation, and Utilities in Valdosta, GA (MSA)                       | 1990-01-01          | 2022-03-01        |
-| VALD613UR                 | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| VALD613URN                | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| VALD613UR                 | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| VALD613URN                | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | VLDPOP                    | Resident Population in Valdosta, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |

@@ -1,6 +1,18 @@
-| id               | title                                                                    | observation_start   | observation_end   |
-|------------------|--------------------------------------------------------------------------|---------------------|-------------------|
-| DDEI01VIA156NWDB | Bank's Net Interest Margin for U.S. Virgin Islands (DISCONTINUED)        | 2004-01-01          | 2008-01-01        |
-| DDOI01VIA156NWDB | Bank Concentration for U.S. Virgin Islands (DISCONTINUED)                | 2004-01-01          | 2008-01-01        |
-| DDOI05VIA156NWDB | Boone Indicator in Banking Market for U.S. Virgin Islands (DISCONTINUED) | 1997-01-01          | 2010-01-01        |
-| DDOI06VIA156NWDB | 5-Bank Asset Concentration for U.S. Virgin Islands (DISCONTINUED)        | 2005-01-01          | 2006-01-01        |
+| id                     | title                                                                                                                      | observation_start   | observation_end   |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DDEI01VIA156NWDB       | Bank's Net Interest Margin for U.S. Virgin Islands (DISCONTINUED)                                                          | 2004-01-01          | 2008-01-01        |
+| DDOI01VIA156NWDB       | Bank Concentration for U.S. Virgin Islands (DISCONTINUED)                                                                  | 2004-01-01          | 2008-01-01        |
+| DDOI05VIA156NWDB       | Boone Indicator in Banking Market for U.S. Virgin Islands (DISCONTINUED)                                                   | 1997-01-01          | 2010-01-01        |
+| DDOI06VIA156NWDB       | 5-Bank Asset Concentration for U.S. Virgin Islands (DISCONTINUED)                                                          | 2005-01-01          | 2006-01-01        |
+| SMU78000003000000007SA | Average Weekly Hours of Production Employees: Manufacturing in the U.S. Virgin Islands (DISCONTINUED)                      | 2001-01-01          | 2022-03-01        |
+| SMU78000003000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in the U.S. Virgin Islands (DISCONTINUED)                   | 2001-01-01          | 2022-03-01        |
+| SMU78000003000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in the U.S. Virgin Islands (DISCONTINUED)                   | 2005-01-01          | 2022-03-01        |
+| SMU78000007000000007SA | Average Weekly Hours of Production Employees: Leisure and Hospitality in the U.S. Virgin Islands (DISCONTINUED)            | 2001-01-01          | 2017-12-01        |
+| SMU78000007000000008SA | Average Hourly Earnings of Production Employees: Leisure and Hospitality in the U.S. Virgin Islands (DISCONTINUED)         | 2001-01-01          | 2017-12-01        |
+| SMU78000007000000030SA | Average Weekly Earnings of Production Employees: Leisure and Hospitality in the U.S. Virgin Islands (DISCONTINUED)         | 2001-01-01          | 2017-12-01        |
+| SMU78000007072000007SA | Average Weekly Hours of Production Employees: Accommodation and Food Services in the U.S. Virgin Islands (DISCONTINUED)    | 2001-01-01          | 2017-12-01        |
+| SMU78000007072000008SA | Average Hourly Earnings of Production Employees: Accommodation and Food Services in the U.S. Virgin Islands (DISCONTINUED) | 2001-01-01          | 2017-12-01        |
+| SMU78000007072000030SA | Average Weekly Earnings of Production Employees: Accommodation and Food Services in the U.S. Virgin Islands (DISCONTINUED) | 2001-01-01          | 2017-12-01        |
+| SMU78000007072100007SA | Average Weekly Hours of Production Employees: Accommodation in the U.S. Virgin Islands (DISCONTINUED)                      | 2001-01-01          | 2017-12-01        |
+| SMU78000007072100008SA | Average Hourly Earnings of Production Employees: Accommodation in the U.S. Virgin Islands (DISCONTINUED)                   | 2001-01-01          | 2017-12-01        |
+| SMU78000007072100030SA | Average Weekly Earnings of Production Employees: Accommodation in the U.S. Virgin Islands (DISCONTINUED)                   | 2001-01-01          | 2017-12-01        |

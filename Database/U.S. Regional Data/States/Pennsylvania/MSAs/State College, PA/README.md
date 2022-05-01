@@ -25,12 +25,12 @@
 | HORAYYMSA44300            | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | HOSCMSA44300              | Market Hotness: Hotness Score in State College, PA (CBSA)                                            | 2017-08-01          | 2022-03-01        |
 | IRPD44300                 | Implicit Regional Price Deflator for State College, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT424430000000003A     | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT424430000000004      | Unemployed Persons in State College, PA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT424430000000004A     | Unemployed Persons in State College, PA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT424430000000005      | Employed Persons in State College, PA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT424430000000005A     | Employed Persons in State College, PA (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT424430000000006A     | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT424430000000003A     | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT424430000000004      | Unemployed Persons in State College, PA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT424430000000004A     | Unemployed Persons in State College, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT424430000000005      | Employed Persons in State College, PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT424430000000005A     | Employed Persons in State College, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT424430000000006A     | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA44300          | Market Hotness: Listing Views per Property in State College, PA (CBSA)                               | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA44300        | Market Hotness: Listing Views per Property Versus the United States in State College, PA (CBSA)      | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA44300          | Market Hotness: Listing Views per Property in State College, PA (CBSA)                               | 2018-08-01          | 2022-03-01        |
@@ -87,13 +87,10 @@
 | SMU42443000500000001SA    | All Employees: Total Private in State College, PA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU42443000500000002      | Average Weekly Hours of All Employees: Total Private in State College, PA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU42443000500000002A     | Average Weekly Hours of All Employees: Total Private in State College, PA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU42443000500000002SA    | Average Weekly Hours of All Employees: Total Private in State College, PA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU42443000500000003      | Average Hourly Earnings of All Employees: Total Private in State College, PA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU42443000500000003A     | Average Hourly Earnings of All Employees: Total Private in State College, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42443000500000003SA    | Average Hourly Earnings of All Employees: Total Private in State College, PA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU42443000500000011      | Average Weekly Earnings of All Employees: Total Private in State College, PA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU42443000500000011A     | Average Weekly Earnings of All Employees: Total Private in State College, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42443000500000011SA    | Average Weekly Earnings of All Employees: Total Private in State College, PA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU42443000600000001      | All Employees: Goods Producing in State College, PA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU42443000600000001A     | All Employees: Goods Producing in State College, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU42443000600000001SA    | All Employees: Goods Producing in State College, PA (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -127,8 +124,8 @@
 | STAT342GOVTN              | All Employees: Government in State College, PA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | STAT342LEIH               | All Employees: Leisure and Hospitality in State College, PA (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | STAT342LEIHN              | All Employees: Leisure and Hospitality in State College, PA (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| STAT342LF                 | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| STAT342LFN                | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| STAT342LF                 | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| STAT342LFN                | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | STAT342MFG                | All Employees: Manufacturing in State College, PA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | STAT342MFGN               | All Employees: Manufacturing in State College, PA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | STAT342NA                 | All Employees: Total Nonfarm in State College, PA (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -138,6 +135,6 @@
 | STAT342PCPI               | Per Capita Personal Income in State College, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | STAT342TRAD               | All Employees: Trade, Transportation, and Utilities in State College, PA (MSA)                       | 1990-01-01          | 2022-03-01        |
 | STAT342TRADN              | All Employees: Trade, Transportation, and Utilities in State College, PA (MSA)                       | 1990-01-01          | 2022-03-01        |
-| STAT342UR                 | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| STAT342URN                | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| STAT342UR                 | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| STAT342URN                | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | SUSCMSA44300              | Market Hotness: Supply Score in State College, PA (CBSA)                                             | 2017-08-01          | 2022-03-01        |

@@ -36,8 +36,8 @@
 | KING736INFON              | All Employees: Information in Kingston, NY (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | KING736LEIH               | All Employees: Leisure and Hospitality in Kingston, NY (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | KING736LEIHN              | All Employees: Leisure and Hospitality in Kingston, NY (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| KING736LF                 | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| KING736LFN                | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| KING736LF                 | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| KING736LFN                | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | KING736MFG                | All Employees: Manufacturing in Kingston, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | KING736MFGN               | All Employees: Manufacturing in Kingston, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | KING736NA                 | All Employees: Total Nonfarm in Kingston, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -51,14 +51,14 @@
 | KING736SRVON              | All Employees: Other Services in Kingston, NY (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | KING736TRAD               | All Employees: Trade, Transportation, and Utilities in Kingston, NY (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | KING736TRADN              | All Employees: Trade, Transportation, and Utilities in Kingston, NY (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| KING736UR                 | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| KING736URN                | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT362874000000003A     | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT362874000000004      | Unemployed Persons in Kingston, NY (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT362874000000004A     | Unemployed Persons in Kingston, NY (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT362874000000005      | Employed Persons in Kingston, NY (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT362874000000005A     | Employed Persons in Kingston, NY (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT362874000000006A     | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| KING736UR                 | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| KING736URN                | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT362874000000003A     | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT362874000000004      | Unemployed Persons in Kingston, NY (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT362874000000004A     | Unemployed Persons in Kingston, NY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT362874000000005      | Employed Persons in Kingston, NY (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT362874000000005A     | Employed Persons in Kingston, NY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT362874000000006A     | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA28740          | Market Hotness: Listing Views per Property in Kingston, NY (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA28740        | Market Hotness: Listing Views per Property Versus the United States in Kingston, NY (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA28740          | Market Hotness: Listing Views per Property in Kingston, NY (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU36287400500000001SA    | All Employees: Total Private in Kingston, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU36287400500000002      | Average Weekly Hours of All Employees: Total Private in Kingston, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36287400500000002A     | Average Weekly Hours of All Employees: Total Private in Kingston, NY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU36287400500000002SA    | Average Weekly Hours of All Employees: Total Private in Kingston, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36287400500000003      | Average Hourly Earnings of All Employees: Total Private in Kingston, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36287400500000003A     | Average Hourly Earnings of All Employees: Total Private in Kingston, NY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU36287400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Kingston, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36287400500000011      | Average Weekly Earnings of All Employees: Total Private in Kingston, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36287400500000011A     | Average Weekly Earnings of All Employees: Total Private in Kingston, NY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU36287400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Kingston, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36287400600000001      | All Employees: Goods Producing in Kingston, NY (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU36287400600000001A     | All Employees: Goods Producing in Kingston, NY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU36287400600000001SA    | All Employees: Goods Producing in Kingston, NY (MSA)                                                          | 1990-01-01          | 2022-03-01        |

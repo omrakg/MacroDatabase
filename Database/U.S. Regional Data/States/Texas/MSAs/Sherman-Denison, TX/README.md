@@ -20,12 +20,12 @@
 | ENUC433040510             | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC433040510SA           | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD43300                 | Implicit Regional Price Deflator for Sherman-Denison, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT484330000000003A     | Unemployment Rate in Sherman-Denison, TX (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT484330000000004      | Unemployed Persons in Sherman-Denison, TX (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT484330000000004A     | Unemployed Persons in Sherman-Denison, TX (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT484330000000005      | Employed Persons in Sherman-Denison, TX (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT484330000000005A     | Employed Persons in Sherman-Denison, TX (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT484330000000006A     | Civilian Labor Force in Sherman-Denison, TX (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT484330000000003A     | Unemployment Rate in Sherman-Denison, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT484330000000004      | Unemployed Persons in Sherman-Denison, TX (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT484330000000004A     | Unemployed Persons in Sherman-Denison, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT484330000000005      | Employed Persons in Sherman-Denison, TX (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT484330000000005A     | Employed Persons in Sherman-Denison, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT484330000000006A     | Civilian Labor Force in Sherman-Denison, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR43300          | Housing Inventory: Median Days on Market in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM43300        | Housing Inventory: Median Days on Market Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY43300        | Housing Inventory: Median Days on Market Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -70,8 +70,8 @@
 | SHER348INFON              | All Employees: Information in Sherman-Denison, TX (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | SHER348LEIH               | All Employees: Leisure and Hospitality in Sherman-Denison, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | SHER348LEIHN              | All Employees: Leisure and Hospitality in Sherman-Denison, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| SHER348LF                 | Civilian Labor Force in Sherman-Denison, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| SHER348LFN                | Civilian Labor Force in Sherman-Denison, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SHER348LF                 | Civilian Labor Force in Sherman-Denison, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| SHER348LFN                | Civilian Labor Force in Sherman-Denison, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | SHER348MFG                | All Employees: Manufacturing in Sherman-Denison, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SHER348MFGN               | All Employees: Manufacturing in Sherman-Denison, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SHER348NA                 | All Employees: Total Nonfarm in Sherman-Denison, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -85,8 +85,8 @@
 | SHER348SRVON              | All Employees: Other Services in Sherman-Denison, TX (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | SHER348TRAD               | All Employees: Trade, Transportation, and Utilities in Sherman-Denison, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | SHER348TRADN              | All Employees: Trade, Transportation, and Utilities in Sherman-Denison, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| SHER348UR                 | Unemployment Rate in Sherman-Denison, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| SHER348URN                | Unemployment Rate in Sherman-Denison, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| SHER348UR                 | Unemployment Rate in Sherman-Denison, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| SHER348URN                | Unemployment Rate in Sherman-Denison, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SHMPOP                    | Resident Population in Sherman-Denison, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SMS48433000000000026      | All Employees: Total Nonfarm in Sherman-Denison, TX (MSA)                                                            | 1990-04-01          | 2022-03-01        |
 | SMU48433000000000001A     | All Employees: Total Nonfarm in Sherman-Denison, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
@@ -95,13 +95,10 @@
 | SMU48433000500000001SA    | All Employees: Total Private in Sherman-Denison, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU48433000500000002      | Average Weekly Hours of All Employees: Total Private in Sherman-Denison, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48433000500000002A     | Average Weekly Hours of All Employees: Total Private in Sherman-Denison, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48433000500000002SA    | Average Weekly Hours of All Employees: Total Private in Sherman-Denison, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48433000500000003      | Average Hourly Earnings of All Employees: Total Private in Sherman-Denison, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48433000500000003A     | Average Hourly Earnings of All Employees: Total Private in Sherman-Denison, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48433000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sherman-Denison, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48433000500000011      | Average Weekly Earnings of All Employees: Total Private in Sherman-Denison, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48433000500000011A     | Average Weekly Earnings of All Employees: Total Private in Sherman-Denison, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48433000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sherman-Denison, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48433000600000001      | All Employees: Goods Producing in Sherman-Denison, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU48433000600000001A     | All Employees: Goods Producing in Sherman-Denison, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU48433000600000001SA    | All Employees: Goods Producing in Sherman-Denison, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |

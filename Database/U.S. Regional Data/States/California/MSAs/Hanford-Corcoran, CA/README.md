@@ -29,8 +29,8 @@
 | HANF206INFON              | All Employees: Information in Hanford-Corcoran, CA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | HANF206LEIH               | All Employees: Leisure and Hospitality in Hanford-Corcoran, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | HANF206LEIHN              | All Employees: Leisure and Hospitality in Hanford-Corcoran, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| HANF206LF                 | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| HANF206LFN                | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| HANF206LF                 | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| HANF206LFN                | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | HANF206MFG                | All Employees: Manufacturing in Hanford-Corcoran, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | HANF206MFGN               | All Employees: Manufacturing in Hanford-Corcoran, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | HANF206NA                 | All Employees: Total Nonfarm in Hanford-Corcoran, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -44,16 +44,16 @@
 | HANF206SRVON              | All Employees: Other Services in Hanford-Corcoran, CA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | HANF206TRAD               | All Employees: Trade, Transportation, and Utilities in Hanford-Corcoran, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | HANF206TRADN              | All Employees: Trade, Transportation, and Utilities in Hanford-Corcoran, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| HANF206UR                 | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| HANF206URN                | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| HANF206UR                 | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| HANF206URN                | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | HNCPOP                    | Resident Population in Hanford-Corcoran, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | IRPD25260                 | Implicit Regional Price Deflator for Hanford-Corcoran, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT062526000000003A     | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT062526000000004      | Unemployed Persons in Hanford-Corcoran, CA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT062526000000004A     | Unemployed Persons in Hanford-Corcoran, CA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT062526000000005      | Employed Persons in Hanford-Corcoran, CA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT062526000000005A     | Employed Persons in Hanford-Corcoran, CA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT062526000000006A     | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT062526000000003A     | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT062526000000004      | Unemployed Persons in Hanford-Corcoran, CA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT062526000000004A     | Unemployed Persons in Hanford-Corcoran, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT062526000000005      | Employed Persons in Hanford-Corcoran, CA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT062526000000005A     | Employed Persons in Hanford-Corcoran, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT062526000000006A     | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR25260          | Housing Inventory: Median Days on Market in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM25260        | Housing Inventory: Median Days on Market Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY25260        | Housing Inventory: Median Days on Market Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -95,13 +95,10 @@
 | SMU06252600500000001SA    | All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU06252600500000002      | Average Weekly Hours of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06252600500000002A     | Average Weekly Hours of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06252600500000002SA    | Average Weekly Hours of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06252600500000003      | Average Hourly Earnings of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06252600500000003A     | Average Hourly Earnings of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06252600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06252600500000011      | Average Weekly Earnings of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06252600500000011A     | Average Weekly Earnings of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06252600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Hanford-Corcoran, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06252600600000001      | All Employees: Goods Producing in Hanford-Corcoran, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU06252600600000001A     | All Employees: Goods Producing in Hanford-Corcoran, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU06252600600000001SA    | All Employees: Goods Producing in Hanford-Corcoran, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

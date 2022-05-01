@@ -18,12 +18,12 @@
 | ENUC411440510             | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC411440510SA           | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2021-07-01        |
 | IRPD41140                 | Implicit Regional Price Deflator for St. Joseph, MO-KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT294114000000003A     | Unemployment Rate in St. Joseph, MO-KS (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT294114000000004      | Unemployed Persons in St. Joseph, MO-KS (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT294114000000004A     | Unemployed Persons in St. Joseph, MO-KS (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT294114000000005      | Employed Persons in St. Joseph, MO-KS (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT294114000000005A     | Employed Persons in St. Joseph, MO-KS (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT294114000000006A     | Civilian Labor Force in St. Joseph, MO-KS (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT294114000000003A     | Unemployment Rate in St. Joseph, MO-KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT294114000000004      | Unemployed Persons in St. Joseph, MO-KS (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT294114000000004A     | Unemployed Persons in St. Joseph, MO-KS (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT294114000000005      | Employed Persons in St. Joseph, MO-KS (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT294114000000005A     | Employed Persons in St. Joseph, MO-KS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT294114000000006A     | Civilian Labor Force in St. Joseph, MO-KS (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR41140          | Housing Inventory: Median Days on Market in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM41140        | Housing Inventory: Median Days on Market Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY41140        | Housing Inventory: Median Days on Market Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -66,13 +66,10 @@
 | SMU29411400500000001SA    | All Employees: Total Private in St. Joseph, MO-KS (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU29411400500000002      | Average Weekly Hours of All Employees: Total Private in St. Joseph, MO-KS (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU29411400500000002A     | Average Weekly Hours of All Employees: Total Private in St. Joseph, MO-KS (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU29411400500000002SA    | Average Weekly Hours of All Employees: Total Private in St. Joseph, MO-KS (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU29411400500000003      | Average Hourly Earnings of All Employees: Total Private in St. Joseph, MO-KS (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU29411400500000003A     | Average Hourly Earnings of All Employees: Total Private in St. Joseph, MO-KS (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU29411400500000003SA    | Average Hourly Earnings of All Employees: Total Private in St. Joseph, MO-KS (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU29411400500000011      | Average Weekly Earnings of All Employees: Total Private in St. Joseph, MO-KS (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU29411400500000011A     | Average Weekly Earnings of All Employees: Total Private in St. Joseph, MO-KS (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU29411400500000011SA    | Average Weekly Earnings of All Employees: Total Private in St. Joseph, MO-KS (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU29411400600000001      | All Employees: Goods Producing in St. Joseph, MO-KS (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU29411400600000001A     | All Employees: Goods Producing in St. Joseph, MO-KS (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU29411400600000001SA    | All Employees: Goods Producing in St. Joseph, MO-KS (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -95,12 +92,12 @@
 | SMU29411409093000001SA    | All Employees: Government: Local Government in St. Joseph, MO-KS (MSA)                               | 1990-01-01          | 2022-03-01        |
 | STJO129GOVT               | All Employees: Government in St. Joseph, MO-KS (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | STJO129GOVTN              | All Employees: Government in St. Joseph, MO-KS (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| STJO129LF                 | Civilian Labor Force in St. Joseph, MO-KS (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| STJO129LFN                | Civilian Labor Force in St. Joseph, MO-KS (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| STJO129LF                 | Civilian Labor Force in St. Joseph, MO-KS (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| STJO129LFN                | Civilian Labor Force in St. Joseph, MO-KS (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | STJO129NA                 | All Employees: Total Nonfarm in St. Joseph, MO-KS (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | STJO129NAN                | All Employees: Total Nonfarm in St. Joseph, MO-KS (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | STJO129PCPI               | Per Capita Personal Income in St. Joseph, MO-KS (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | STJO129TRAD               | All Employees: Trade, Transportation, and Utilities in St. Joseph, MO-KS (MSA)                       | 1990-01-01          | 2022-03-01        |
 | STJO129TRADN              | All Employees: Trade, Transportation, and Utilities in St. Joseph, MO-KS (MSA)                       | 1990-01-01          | 2022-03-01        |
-| STJO129UR                 | Unemployment Rate in St. Joseph, MO-KS (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| STJO129URN                | Unemployment Rate in St. Joseph, MO-KS (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| STJO129UR                 | Unemployment Rate in St. Joseph, MO-KS (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| STJO129URN                | Unemployment Rate in St. Joseph, MO-KS (MSA)                                                         | 1990-01-01          | 2022-03-01        |

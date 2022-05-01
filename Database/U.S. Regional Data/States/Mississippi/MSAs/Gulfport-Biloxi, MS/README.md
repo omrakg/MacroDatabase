@@ -25,8 +25,8 @@
 | GULF028GOVTN              | All Employees: Government in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                               | 1990-01-01          | 2022-03-01        |
 | GULF028LEIH               | All Employees: Leisure and Hospitality in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | GULF028LEIHN              | All Employees: Leisure and Hospitality in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| GULF028LF                 | Civilian Labor Force in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| GULF028LFN                | Civilian Labor Force in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| GULF028LF                 | Civilian Labor Force in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| GULF028LFN                | Civilian Labor Force in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | GULF028MFG                | All Employees: Manufacturing in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | GULF028MFGN               | All Employees: Manufacturing in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | GULF028NA                 | All Employees: Total Nonfarm in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -36,19 +36,19 @@
 | GULF028PCPI               | Per Capita Personal Income in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | GULF028TRAD               | All Employees: Trade, Transportation, and Utilities in Gulfport-Biloxi-Pascagoula, MS (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | GULF028TRADN              | All Employees: Trade, Transportation, and Utilities in Gulfport-Biloxi-Pascagoula, MS (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| GULF028UR                 | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| GULF028URN                | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| GULF028UR                 | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| GULF028URN                | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | HORAMMMSA25060            | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HORAMSA25060              | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA25060            | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA25060              | Market Hotness: Hotness Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD25060                 | Implicit Regional Price Deflator for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT282506000000003A     | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT282506000000004      | Unemployed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT282506000000004A     | Unemployed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT282506000000005      | Employed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT282506000000005A     | Employed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT282506000000006A     | Civilian Labor Force in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT282506000000003A     | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT282506000000004      | Unemployed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT282506000000004A     | Unemployed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT282506000000005      | Employed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT282506000000005A     | Employed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT282506000000006A     | Civilian Labor Force in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA25060          | Market Hotness: Listing Views per Property in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA25060        | Market Hotness: Listing Views per Property Versus the United States in Gulfport-Biloxi-Pascagoula, MS (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA25060          | Market Hotness: Listing Views per Property in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -105,13 +105,10 @@
 | SMU28250600500000001SA    | All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU28250600500000002      | Average Weekly Hours of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU28250600500000002A     | Average Weekly Hours of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU28250600500000002SA    | Average Weekly Hours of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU28250600500000003      | Average Hourly Earnings of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU28250600500000003A     | Average Hourly Earnings of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU28250600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU28250600500000011      | Average Weekly Earnings of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU28250600500000011A     | Average Weekly Earnings of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU28250600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Gulfport-Biloxi-Pascagoula, MS (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU28250600600000001      | All Employees: Goods Producing in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU28250600600000001A     | All Employees: Goods Producing in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU28250600600000001SA    | All Employees: Goods Producing in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                          | 1990-01-01          | 2022-03-01        |

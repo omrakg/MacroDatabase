@@ -16,14 +16,14 @@
 | ENUC165440510          | Average Weekly Wages for Employees in Private Establishments in Chambersburg-Waynesboro, PA (MSA)                            | 2013-01-01          | 2021-07-01        |
 | ENUC165440510SA        | Average Weekly Wages for Employees in Private Establishments in Chambersburg-Waynesboro, PA (MSA)                            | 2013-01-01          | 2021-07-01        |
 | IRPD16540              | Implicit Regional Price Deflator for Chambersburg-Waynesboro, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT421654000000003   | Unemployment Rate in Chambersburg-Waynesboro, PA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT421654000000003A  | Unemployment Rate in Chambersburg-Waynesboro, PA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT421654000000004   | Unemployed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT421654000000004A  | Unemployed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT421654000000005   | Employed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT421654000000005A  | Employed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT421654000000006   | Civilian Labor Force in Chambersburg-Waynesboro, PA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT421654000000006A  | Civilian Labor Force in Chambersburg-Waynesboro, PA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT421654000000003   | Unemployment Rate in Chambersburg-Waynesboro, PA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT421654000000003A  | Unemployment Rate in Chambersburg-Waynesboro, PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT421654000000004   | Unemployed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT421654000000004A  | Unemployed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT421654000000005   | Employed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT421654000000005A  | Employed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT421654000000006   | Civilian Labor Force in Chambersburg-Waynesboro, PA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT421654000000006A  | Civilian Labor Force in Chambersburg-Waynesboro, PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP16540              | Total Gross Domestic Product for Chambersburg-Waynesboro, PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | QGMP16540              | Total Quantity Indexes for Real GDP for Chambersburg-Waynesboro, PA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP16540              | Total Real Gross Domestic Product for Chambersburg-Waynesboro, PA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
@@ -41,13 +41,10 @@
 | SMU42165400500000001SA | All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU42165400500000002   | Average Weekly Hours of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                    | 2011-01-01          | 2022-03-01        |
 | SMU42165400500000002A  | Average Weekly Hours of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                    | 2011-01-01          | 2021-01-01        |
-| SMU42165400500000002SA | Average Weekly Hours of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                    | 2011-01-01          | 2022-03-01        |
 | SMU42165400500000003   | Average Hourly Earnings of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU42165400500000003A  | Average Hourly Earnings of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU42165400500000003SA | Average Hourly Earnings of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU42165400500000011   | Average Weekly Earnings of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU42165400500000011A  | Average Weekly Earnings of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU42165400500000011SA | Average Weekly Earnings of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU42165400600000001   | All Employees: Goods Producing in Chambersburg-Waynesboro, PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU42165400600000001A  | All Employees: Goods Producing in Chambersburg-Waynesboro, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU42165400600000001SA | All Employees: Goods Producing in Chambersburg-Waynesboro, PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

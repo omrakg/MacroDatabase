@@ -26,8 +26,8 @@
 | GREA530GOVTN              | All Employees: Government in Great Falls, MT (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | GREA530LEIH               | All Employees: Leisure and Hospitality in Great Falls, MT (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | GREA530LEIHN              | All Employees: Leisure and Hospitality in Great Falls, MT (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| GREA530LF                 | Civilian Labor Force in Great Falls, MT (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| GREA530LFN                | Civilian Labor Force in Great Falls, MT (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| GREA530LF                 | Civilian Labor Force in Great Falls, MT (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| GREA530LFN                | Civilian Labor Force in Great Falls, MT (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | GREA530NA                 | All Employees: Total Nonfarm in Great Falls, MT (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | GREA530NAN                | All Employees: Total Nonfarm in Great Falls, MT (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | GREA530PBSV               | All Employees: Professional and Business Services in Great Falls, MT (MSA)                         | 1990-01-01          | 2022-03-01        |
@@ -35,15 +35,15 @@
 | GREA530PCPI               | Per Capita Personal Income in Great Falls, MT (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | GREA530TRAD               | All Employees: Trade, Transportation, and Utilities in Great Falls, MT (MSA)                       | 1990-01-01          | 2022-03-01        |
 | GREA530TRADN              | All Employees: Trade, Transportation, and Utilities in Great Falls, MT (MSA)                       | 1990-01-01          | 2022-03-01        |
-| GREA530UR                 | Unemployment Rate in Great Falls, MT (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| GREA530URN                | Unemployment Rate in Great Falls, MT (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| GREA530UR                 | Unemployment Rate in Great Falls, MT (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| GREA530URN                | Unemployment Rate in Great Falls, MT (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | IRPD24500                 | Implicit Regional Price Deflator for Great Falls, MT (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT302450000000003A     | Unemployment Rate in Great Falls, MT (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT302450000000004      | Unemployed Persons in Great Falls, MT (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT302450000000004A     | Unemployed Persons in Great Falls, MT (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT302450000000005      | Employed Persons in Great Falls, MT (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT302450000000005A     | Employed Persons in Great Falls, MT (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT302450000000006A     | Civilian Labor Force in Great Falls, MT (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT302450000000003A     | Unemployment Rate in Great Falls, MT (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT302450000000004      | Unemployed Persons in Great Falls, MT (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT302450000000004A     | Unemployed Persons in Great Falls, MT (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT302450000000005      | Employed Persons in Great Falls, MT (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT302450000000005A     | Employed Persons in Great Falls, MT (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT302450000000006A     | Civilian Labor Force in Great Falls, MT (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR24500          | Housing Inventory: Median Days on Market in Great Falls, MT (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM24500        | Housing Inventory: Median Days on Market Month-Over-Month in Great Falls, MT (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY24500        | Housing Inventory: Median Days on Market Year-Over-Year in Great Falls, MT (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -85,13 +85,10 @@
 | SMU30245000500000001SA    | All Employees: Total Private in Great Falls, MT (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU30245000500000002      | Average Weekly Hours of All Employees: Total Private in Great Falls, MT (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU30245000500000002A     | Average Weekly Hours of All Employees: Total Private in Great Falls, MT (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU30245000500000002SA    | Average Weekly Hours of All Employees: Total Private in Great Falls, MT (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU30245000500000003      | Average Hourly Earnings of All Employees: Total Private in Great Falls, MT (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU30245000500000003A     | Average Hourly Earnings of All Employees: Total Private in Great Falls, MT (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU30245000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Great Falls, MT (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU30245000500000011      | Average Weekly Earnings of All Employees: Total Private in Great Falls, MT (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU30245000500000011A     | Average Weekly Earnings of All Employees: Total Private in Great Falls, MT (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU30245000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Great Falls, MT (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU30245000600000001      | All Employees: Goods Producing in Great Falls, MT (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU30245000600000001A     | All Employees: Goods Producing in Great Falls, MT (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU30245000600000001SA    | All Employees: Goods Producing in Great Falls, MT (MSA)                                            | 1990-01-01          | 2022-03-01        |

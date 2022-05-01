@@ -1,5 +1,5 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| Chicago-Naperville-Arlington Heights, IL |               413 |
-| Elgin, IL                                |                93 |
-| Lake County-Kenosha County, IL-WI        |                99 |
+| Lake County-Kenosha County, IL-WI        |                 0 |
+| Chicago-Naperville-Arlington Heights, IL |               395 |
+| Elgin, IL                                |                90 |

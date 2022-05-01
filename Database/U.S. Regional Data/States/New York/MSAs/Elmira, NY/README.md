@@ -17,8 +17,8 @@
 | ELMI336INFON              | All Employees: Information in Elmira, NY (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | ELMI336LEIH               | All Employees: Leisure and Hospitality in Elmira, NY (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | ELMI336LEIHN              | All Employees: Leisure and Hospitality in Elmira, NY (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| ELMI336LF                 | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| ELMI336LFN                | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| ELMI336LF                 | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| ELMI336LFN                | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | ELMI336MFG                | All Employees: Manufacturing in Elmira, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ELMI336MFGN               | All Employees: Manufacturing in Elmira, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | ELMI336NA                 | All Employees: Total Nonfarm in Elmira, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -32,8 +32,8 @@
 | ELMI336SRVON              | All Employees: Other Services in Elmira, NY (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | ELMI336TRAD               | All Employees: Trade, Transportation, and Utilities in Elmira, NY (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | ELMI336TRADN              | All Employees: Trade, Transportation, and Utilities in Elmira, NY (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| ELMI336UR                 | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| ELMI336URN                | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| ELMI336UR                 | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| ELMI336URN                | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | ELMPOP                    | Resident Population in Elmira, NY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC213030010             | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC213030010SA           | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -48,12 +48,12 @@
 | ENUC213040510             | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC213040510SA           | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD21300                 | Implicit Regional Price Deflator for Elmira, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT362130000000003A     | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT362130000000004      | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT362130000000004A     | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT362130000000005      | Employed Persons in Elmira, NY (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT362130000000005A     | Employed Persons in Elmira, NY (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT362130000000006A     | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT362130000000003A     | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT362130000000004      | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT362130000000004A     | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT362130000000005      | Employed Persons in Elmira, NY (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT362130000000005A     | Employed Persons in Elmira, NY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT362130000000006A     | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR21300          | Housing Inventory: Median Days on Market in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM21300        | Housing Inventory: Median Days on Market Month-Over-Month in Elmira, NY (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY21300        | Housing Inventory: Median Days on Market Year-Over-Year in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -95,13 +95,10 @@
 | SMU36213000500000001SA    | All Employees: Total Private in Elmira, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU36213000500000002      | Average Weekly Hours of All Employees: Total Private in Elmira, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36213000500000002A     | Average Weekly Hours of All Employees: Total Private in Elmira, NY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU36213000500000002SA    | Average Weekly Hours of All Employees: Total Private in Elmira, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36213000500000003      | Average Hourly Earnings of All Employees: Total Private in Elmira, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36213000500000003A     | Average Hourly Earnings of All Employees: Total Private in Elmira, NY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU36213000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Elmira, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36213000500000011      | Average Weekly Earnings of All Employees: Total Private in Elmira, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36213000500000011A     | Average Weekly Earnings of All Employees: Total Private in Elmira, NY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU36213000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Elmira, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36213000600000001      | All Employees: Goods Producing in Elmira, NY (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU36213000600000001A     | All Employees: Goods Producing in Elmira, NY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU36213000600000001SA    | All Employees: Goods Producing in Elmira, NY (MSA)                                                          | 1990-01-01          | 2022-03-01        |

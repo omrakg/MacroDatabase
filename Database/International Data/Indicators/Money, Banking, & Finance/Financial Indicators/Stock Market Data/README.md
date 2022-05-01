@@ -834,7 +834,7 @@
 | DDSM01VEA066NWDB | Volatility of Stock Price Index for Bolivarian Republic of Venezuela                                                  | 1996-01-01          | 2017-01-01        |
 | DDSM01VNA066NWDB | Volatility of Stock Price Index for Viet Nam                                                                          | 2003-01-01          | 2020-01-01        |
 | DDSM01ZAA066NWDB | Volatility of Stock Price Index for South Africa                                                                      | 1996-01-01          | 2017-01-01        |
-| NIKKEI225        | Nikkei Stock Average, Nikkei 225                                                                                      | 1949-05-16          | 2022-04-22        |
+| NIKKEI225        | Nikkei Stock Average, Nikkei 225                                                                                      | 1949-05-16          | 2022-04-28        |
 | SPASTT01ATA657N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2021-01-01        |
 | SPASTT01ATA661N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2021-01-01        |
 | SPASTT01ATM657N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2022-03-01        |

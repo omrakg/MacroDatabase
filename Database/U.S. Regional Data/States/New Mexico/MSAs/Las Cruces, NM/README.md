@@ -25,10 +25,10 @@
 | HORAYYMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA29740              | Market Hotness: Hotness Score in Las Cruces, NM (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD29740                 | Implicit Regional Price Deflator for Las Cruces, NM (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LASC735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-02-01        |
-| LASC735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-02-01        |
-| LASC735BPPRIV             | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-02-01        |
-| LASC735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-02-01        |
+| LASC735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-03-01        |
+| LASC735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-03-01        |
+| LASC735BPPRIV             | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-03-01        |
+| LASC735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-03-01        |
 | LASC735EDUH               | All Employees: Education and Health Services in Las Cruces, NM (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | LASC735EDUHN              | All Employees: Education and Health Services in Las Cruces, NM (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | LASC735FIRE               | All Employees: Financial Activities in Las Cruces, NM (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -39,8 +39,8 @@
 | LASC735INFON              | All Employees: Information in Las Cruces, NM (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | LASC735LEIH               | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | LASC735LEIHN              | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| LASC735LF                 | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| LASC735LFN                | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| LASC735LF                 | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| LASC735LFN                | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | LASC735MFG                | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LASC735MFGN               | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LASC735NA                 | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -54,14 +54,14 @@
 | LASC735SRVON              | All Employees: Other Services in Las Cruces, NM (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | LASC735TRAD               | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | LASC735TRADN              | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| LASC735UR                 | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LASC735URN                | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT352974000000003A     | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT352974000000004      | Unemployed Persons in Las Cruces, NM (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT352974000000004A     | Unemployed Persons in Las Cruces, NM (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT352974000000005      | Employed Persons in Las Cruces, NM (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT352974000000005A     | Employed Persons in Las Cruces, NM (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT352974000000006A     | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LASC735UR                 | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LASC735URN                | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT352974000000003A     | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT352974000000004      | Unemployed Persons in Las Cruces, NM (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT352974000000004A     | Unemployed Persons in Las Cruces, NM (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT352974000000005      | Employed Persons in Las Cruces, NM (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT352974000000005A     | Employed Persons in Las Cruces, NM (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT352974000000006A     | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA29740          | Market Hotness: Listing Views per Property in Las Cruces, NM (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA29740        | Market Hotness: Listing Views per Property Versus the United States in Las Cruces, NM (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA29740          | Market Hotness: Listing Views per Property in Las Cruces, NM (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -118,13 +118,10 @@
 | SMU35297400500000001SA    | All Employees: Total Private in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU35297400500000002      | Average Weekly Hours of All Employees: Total Private in Las Cruces, NM (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU35297400500000002A     | Average Weekly Hours of All Employees: Total Private in Las Cruces, NM (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU35297400500000002SA    | Average Weekly Hours of All Employees: Total Private in Las Cruces, NM (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU35297400500000003      | Average Hourly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU35297400500000003A     | Average Hourly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU35297400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU35297400500000011      | Average Weekly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU35297400500000011A     | Average Weekly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU35297400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU35297400600000001      | All Employees: Goods Producing in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU35297400600000001A     | All Employees: Goods Producing in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU35297400600000001SA    | All Employees: Goods Producing in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-03-01        |

@@ -30,8 +30,8 @@
 | JACINFON                  | All Employees: Information in Jackson, TN (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | JACLEIH                   | All Employees: Leisure and Hospitality in Jackson, TN (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | JACLEIHN                  | All Employees: Leisure and Hospitality in Jackson, TN (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| JACLF                     | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| JACLFN                    | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| JACLF                     | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| JACLFN                    | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | JACMFG                    | All Employees: Manufacturing in Jackson, TN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | JACMFGN                   | All Employees: Manufacturing in Jackson, TN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | JACNA                     | All Employees: Total Nonfarm in Jackson, TN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -46,14 +46,14 @@
 | JACSRVON                  | All Employees: Other Services in Jackson, TN (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | JACTRAD                   | All Employees: Trade, Transportation, and Utilities in Jackson, TN (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | JACTRADN                  | All Employees: Trade, Transportation, and Utilities in Jackson, TN (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| JACUR                     | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| JACURN                    | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT472718000000003A     | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT472718000000004      | Unemployed Persons in Jackson, TN (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT472718000000004A     | Unemployed Persons in Jackson, TN (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT472718000000005      | Employed Persons in Jackson, TN (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT472718000000005A     | Employed Persons in Jackson, TN (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT472718000000006A     | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| JACUR                     | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| JACURN                    | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT472718000000003A     | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT472718000000004      | Unemployed Persons in Jackson, TN (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT472718000000004A     | Unemployed Persons in Jackson, TN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT472718000000005      | Employed Persons in Jackson, TN (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT472718000000005A     | Employed Persons in Jackson, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT472718000000006A     | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR27180          | Housing Inventory: Median Days on Market in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM27180        | Housing Inventory: Median Days on Market Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY27180        | Housing Inventory: Median Days on Market Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -96,13 +96,10 @@
 | SMU47271800500000001SA    | All Employees: Total Private in Jackson, TN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU47271800500000002      | Average Weekly Hours of All Employees: Total Private in Jackson, TN (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU47271800500000002A     | Average Weekly Hours of All Employees: Total Private in Jackson, TN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU47271800500000002SA    | Average Weekly Hours of All Employees: Total Private in Jackson, TN (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU47271800500000003      | Average Hourly Earnings of All Employees: Total Private in Jackson, TN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU47271800500000003A     | Average Hourly Earnings of All Employees: Total Private in Jackson, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47271800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Jackson, TN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU47271800500000011      | Average Weekly Earnings of All Employees: Total Private in Jackson, TN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU47271800500000011A     | Average Weekly Earnings of All Employees: Total Private in Jackson, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47271800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Jackson, TN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU47271800600000001      | All Employees: Goods Producing in Jackson, TN (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU47271800600000001A     | All Employees: Goods Producing in Jackson, TN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU47271800600000001SA    | All Employees: Goods Producing in Jackson, TN (MSA)                                                          | 1990-01-01          | 2022-03-01        |

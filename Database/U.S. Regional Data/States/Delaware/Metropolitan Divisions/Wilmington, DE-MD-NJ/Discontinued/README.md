@@ -1,0 +1,8 @@
+| id                     | title                                                                                                      | observation_start   | observation_end   |
+|------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU10488640500000002SA | Average Weekly Hours of All Employees: Total Private in Wilmington, DE-MD-NJ (MD) (DISCONTINUED)           | 2007-01-01          | 2022-03-01        |
+| SMU10488640500000003SA | Average Hourly Earnings of All Employees: Total Private in Wilmington, DE-MD-NJ (MD) (DISCONTINUED)        | 2007-01-01          | 2022-03-01        |
+| SMU10488640500000011SA | Average Weekly Earnings of All Employees: Total Private in Wilmington, DE-MD-NJ (MD) (DISCONTINUED)        | 2007-01-01          | 2022-03-01        |
+| SMU10488643000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Wilmington, DE-MD-NJ (MD) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU10488643000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Wilmington, DE-MD-NJ (MD) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU10488643000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Wilmington, DE-MD-NJ (MD) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

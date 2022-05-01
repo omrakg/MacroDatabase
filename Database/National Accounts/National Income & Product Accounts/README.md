@@ -1,17 +1,17 @@
 | Folder                                         |   Files / Folders |
 |------------------------------------------------|-------------------|
-| Personal Income & Outlays                      |                 5 |
-| Foreign Transactions                           |                 2 |
-| Gross Domestic Income                          |                 0 |
-| Academic Series                                |                 0 |
-| Imputations                                    |               102 |
+| GDP - GNP                                      |                 1 |
+| Gross Domestic Income                          |                45 |
+| Health Care Spending                           |               167 |
+| Foreign Transactions                           |                 3 |
+| Price Indexes & Deflators                      |               917 |
+| Quantity Indexes                               |               907 |
 | Fixed Assets                                   |                 3 |
 | Effect of ARRA on Selected NIPA Estimates      |                 1 |
-| Price Indexes & Deflators                      |                 0 |
-| GDP - GNP                                      |                 1 |
+| Private Enterprise Income                      |                 5 |
+| Imputations                                    |               102 |
+| Domestic Capital Account (Saving & Investment) |                 9 |
+| Academic Series                                |                 0 |
 | Industry                                       |                25 |
 | Gov't Receipts, Expenditures & Investment      |                 7 |
-| Domestic Capital Account (Saving & Investment) |                 9 |
-| Health Care Spending                           |               167 |
-| Quantity Indexes                               |               907 |
-| Private Enterprise Income                      |                 5 |
+| Personal Income & Outlays                      |                 6 |

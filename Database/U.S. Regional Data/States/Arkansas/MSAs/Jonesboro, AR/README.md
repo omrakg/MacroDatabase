@@ -22,20 +22,20 @@
 | IRPD27860                 | Implicit Regional Price Deflator for Jonesboro, AR (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | JORGOVT                   | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | JORGOVTN                  | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| JORLF                     | Civilian Labor Force in Jonesboro, AR (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| JORLFN                    | Civilian Labor Force in Jonesboro, AR (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| JORLF                     | Civilian Labor Force in Jonesboro, AR (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| JORLFN                    | Civilian Labor Force in Jonesboro, AR (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | JORNA                     | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | JORNAN                    | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | JORPCPI                   | Per Capita Personal Income in Jonesboro, AR (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | JORPOP                    | Resident Population in Jonesboro, AR (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| JORUR                     | Unemployment Rate in Jonesboro, AR (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| JORURN                    | Unemployment Rate in Jonesboro, AR (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| LAUMT052786000000003A     | Unemployment Rate in Jonesboro, AR (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT052786000000004      | Unemployed Persons in Jonesboro, AR (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT052786000000004A     | Unemployed Persons in Jonesboro, AR (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT052786000000005      | Employed Persons in Jonesboro, AR (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT052786000000005A     | Employed Persons in Jonesboro, AR (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT052786000000006A     | Civilian Labor Force in Jonesboro, AR (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| JORUR                     | Unemployment Rate in Jonesboro, AR (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| JORURN                    | Unemployment Rate in Jonesboro, AR (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| LAUMT052786000000003A     | Unemployment Rate in Jonesboro, AR (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT052786000000004      | Unemployed Persons in Jonesboro, AR (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT052786000000004A     | Unemployed Persons in Jonesboro, AR (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT052786000000005      | Employed Persons in Jonesboro, AR (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT052786000000005A     | Employed Persons in Jonesboro, AR (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT052786000000006A     | Civilian Labor Force in Jonesboro, AR (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR27860          | Housing Inventory: Median Days on Market in Jonesboro, AR (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM27860        | Housing Inventory: Median Days on Market Month-Over-Month in Jonesboro, AR (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY27860        | Housing Inventory: Median Days on Market Year-Over-Year in Jonesboro, AR (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -77,13 +77,10 @@
 | SMU05278600500000001SA    | All Employees: Total Private in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU05278600500000002      | Average Weekly Hours of All Employees: Total Private in Jonesboro, AR (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU05278600500000002A     | Average Weekly Hours of All Employees: Total Private in Jonesboro, AR (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU05278600500000002SA    | Average Weekly Hours of All Employees: Total Private in Jonesboro, AR (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU05278600500000003      | Average Hourly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU05278600500000003A     | Average Hourly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU05278600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU05278600500000011      | Average Weekly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU05278600500000011A     | Average Weekly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU05278600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU05278600600000001      | All Employees: Goods Producing in Jonesboro, AR (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU05278600600000001A     | All Employees: Goods Producing in Jonesboro, AR (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU05278600600000001SA    | All Employees: Goods Producing in Jonesboro, AR (MSA)                                            | 1990-01-01          | 2022-03-01        |

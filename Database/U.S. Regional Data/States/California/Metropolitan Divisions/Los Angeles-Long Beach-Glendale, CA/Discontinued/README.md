@@ -1,5 +1,8 @@
 | id                     | title                                                                                                                                   | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU06310840500000002SA | Average Weekly Hours of All Employees: Total Private in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                         | 2007-01-01          | 2022-03-01        |
+| SMU06310840500000003SA | Average Hourly Earnings of All Employees: Total Private in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                      | 2007-01-01          | 2022-03-01        |
+| SMU06310840500000011SA | Average Weekly Earnings of All Employees: Total Private in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                      | 2007-01-01          | 2022-03-01        |
 | SMU06310843231200001   | All Employees: Non-Durable Goods: Beverage and Tobacco Product Manufacturing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
 | SMU06310843231200001A  | All Employees: Non-Durable Goods: Beverage and Tobacco Product Manufacturing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED) | 1990-01-01          | 2013-01-01        |
 | SMU06310843231200001SA | All Employees: Non-Durable Goods: Beverage and Tobacco Product Manufacturing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |

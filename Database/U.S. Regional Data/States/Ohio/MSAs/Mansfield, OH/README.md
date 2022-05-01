@@ -20,12 +20,12 @@
 | ENUC319040510             | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC319040510SA           | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2021-07-01        |
 | IRPD31900                 | Implicit Regional Price Deflator for Mansfield, OH (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT393190000000003A     | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT393190000000004      | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT393190000000004A     | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT393190000000005      | Employed Persons in Mansfield, OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT393190000000005A     | Employed Persons in Mansfield, OH (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT393190000000006A     | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT393190000000003A     | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT393190000000004      | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT393190000000004A     | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT393190000000005      | Employed Persons in Mansfield, OH (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT393190000000005A     | Employed Persons in Mansfield, OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT393190000000006A     | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MANPOP                    | Resident Population in Mansfield, OH (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | MANS939EDUH               | All Employees: Education and Health Services in Mansfield, OH (MSA)                              | 1990-01-01          | 2022-03-01        |
 | MANS939EDUHN              | All Employees: Education and Health Services in Mansfield, OH (MSA)                              | 1990-01-01          | 2022-03-01        |
@@ -35,8 +35,8 @@
 | MANS939GOVTN              | All Employees: Government in Mansfield, OH (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | MANS939LEIH               | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | MANS939LEIHN              | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| MANS939LF                 | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| MANS939LFN                | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| MANS939LF                 | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| MANS939LFN                | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | MANS939MFG                | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | MANS939MFGN               | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | MANS939NA                 | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -50,8 +50,8 @@
 | MANS939SRVON              | All Employees: Other Services in Mansfield, OH (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | MANS939TRAD               | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2022-03-01        |
 | MANS939TRADN              | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2022-03-01        |
-| MANS939UR                 | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| MANS939URN                | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| MANS939UR                 | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| MANS939URN                | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | MEDDAYONMAR31900          | Housing Inventory: Median Days on Market in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM31900        | Housing Inventory: Median Days on Market Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY31900        | Housing Inventory: Median Days on Market Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -93,13 +93,10 @@
 | SMU39319000500000001SA    | All Employees: Total Private in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU39319000500000002      | Average Weekly Hours of All Employees: Total Private in Mansfield, OH (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU39319000500000002A     | Average Weekly Hours of All Employees: Total Private in Mansfield, OH (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU39319000500000002SA    | Average Weekly Hours of All Employees: Total Private in Mansfield, OH (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU39319000500000003      | Average Hourly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU39319000500000003A     | Average Hourly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU39319000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU39319000500000011      | Average Weekly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU39319000500000011A     | Average Weekly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU39319000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU39319000600000001      | All Employees: Goods Producing in Mansfield, OH (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU39319000600000001A     | All Employees: Goods Producing in Mansfield, OH (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU39319000600000001SA    | All Employees: Goods Producing in Mansfield, OH (MSA)                                            | 1990-01-01          | 2022-03-01        |

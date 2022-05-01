@@ -1,77 +1,86 @@
-| id                        | title                                                                                                  | observation_start   | observation_end   |
-|---------------------------|--------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU12700            | Housing Inventory: Active Listing Count in Barnstable Town, MA (CBSA)                                  | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM12700          | Housing Inventory: Active Listing Count Month-Over-Month in Barnstable Town, MA (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY12700          | Housing Inventory: Active Listing Count Year-Over-Year in Barnstable Town, MA (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| ATNHPIUS12700Q            | All-Transactions House Price Index for Barnstable Town, MA (MSA)                                       | 1983-10-01          | 2021-10-01        |
-| AVELISPRI12700            | Housing Inventory: Average Listing Price in Barnstable Town, MA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM12700          | Housing Inventory: Average Listing Price Month-Over-Month in Barnstable Town, MA (CBSA)                | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY12700          | Housing Inventory: Average Listing Price Year-Over-Year in Barnstable Town, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| BYMPOP                    | Resident Population in Barnstable Town, MA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| DESCMSA12700              | Market Hotness: Demand Score in Barnstable Town, MA (CBSA)                                             | 2017-08-01          | 2022-03-01        |
-| ENUC127030010             | Total Quarterly Wages in Barnstable Town, MA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC127030010SA           | Total Quarterly Wages in Barnstable Town, MA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC127040010             | Average Weekly Wages for Employees in Total Covered Establishments in Barnstable Town, MA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC127040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Barnstable Town, MA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC127040110             | Average Weekly Wages for Employees in Federal Government Establishments in Barnstable Town, MA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC127040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Barnstable Town, MA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC127040210             | Average Weekly Wages for Employees in State Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC127040210SA           | Average Weekly Wages for Employees in State Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC127040310             | Average Weekly Wages for Employees in Local Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC127040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC127040510             | Average Weekly Wages for Employees in Private Establishments in Barnstable Town, MA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC127040510SA           | Average Weekly Wages for Employees in Private Establishments in Barnstable Town, MA (MSA)              | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA12700            | Market Hotness: Hotness Rank in Barnstable Town, MA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| HORAMSA12700              | Market Hotness: Hotness Rank in Barnstable Town, MA (CBSA)                                             | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA12700            | Market Hotness: Hotness Rank in Barnstable Town, MA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| HOSCMSA12700              | Market Hotness: Hotness Score in Barnstable Town, MA (CBSA)                                            | 2017-08-01          | 2022-03-01        |
-| IRPD12700                 | Implicit Regional Price Deflator for Barnstable Town, MA (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LDPEPRMMMSA12700          | Market Hotness: Listing Views per Property in Barnstable Town, MA (CBSA)                               | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA12700        | Market Hotness: Listing Views per Property Versus the United States in Barnstable Town, MA (CBSA)      | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA12700          | Market Hotness: Listing Views per Property in Barnstable Town, MA (CBSA)                               | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA12700        | Market Hotness: Median Days on Market in Barnstable Town, MA (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA12700          | Market Hotness: Median Days on Market in Barnstable Town, MA (CBSA)                                    | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA12700        | Market Hotness: Median Days on Market in Barnstable Town, MA (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR12700          | Housing Inventory: Median Days on Market in Barnstable Town, MA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM12700        | Housing Inventory: Median Days on Market Month-Over-Month in Barnstable Town, MA (CBSA)                | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY12700        | Housing Inventory: Median Days on Market Year-Over-Year in Barnstable Town, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI12700            | Housing Inventory: Median Listing Price in Barnstable Town, MA (CBSA)                                  | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM12700          | Housing Inventory: Median Listing Price Month-Over-Month in Barnstable Town, MA (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE12700   | Housing Inventory: Median Listing Price per Square Feet in Barnstable Town, MA (CBSA)                  | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM12700 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Barnstable Town, MA (CBSA) | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY12700 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Barnstable Town, MA (CBSA)   | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY12700          | Housing Inventory: Median Listing Price Year-Over-Year in Barnstable Town, MA (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA12700          | Market Hotness: Median Days on Market in Barnstable Town, MA (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA12700          | Market Hotness: Median Days on Market Versus the United States in Barnstable Town, MA (CBSA)           | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA12700          | Market Hotness: Median Days on Market Day in Barnstable Town, MA (CBSA)                                | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE12700            | Housing Inventory: Median Home Size in Square Feet in Barnstable Town, MA (CBSA)                       | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM12700          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Barnstable Town, MA (CBSA)      | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY12700          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Barnstable Town, MA (CBSA)        | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA12700          | Market Hotness: Median Listing Price in Barnstable Town, MA (CBSA)                                     | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA12700            | Market Hotness: Median Listing Price in Barnstable Town, MA (CBSA)                                     | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA12700        | Market Hotness: Median Listing Price Versus the United States in Barnstable Town, MA (CBSA)            | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA12700          | Market Hotness: Median Listing Price in Barnstable Town, MA (CBSA)                                     | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU12700            | Housing Inventory: New Listing Count in Barnstable Town, MA (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM12700          | Housing Inventory: New Listing Count Month-Over-Month in Barnstable Town, MA (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY12700          | Housing Inventory: New Listing Count Year-Over-Year in Barnstable Town, MA (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| NGMP12700                 | Total Gross Domestic Product for Barnstable Town, MA (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA12700            | Market Hotness: Nielsen Household Rank in Barnstable Town, MA (CBSA)                                   | 2017-08-01          | 2022-03-01        |
-| PATENTCBSA112700          | U.S. Granted Utility Patents Originating in Barnstable Town, MA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU12700            | Housing Inventory: Pending Listing Count in Barnstable Town, MA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM12700          | Housing Inventory: Pending Listing Count Month-Over-Month in Barnstable Town, MA (CBSA)                | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY12700          | Housing Inventory: Pending Listing Count Year-Over-Year in Barnstable Town, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU12700            | Housing Inventory: Price Increased Count in Barnstable Town, MA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM12700          | Housing Inventory: Price Increased Count Month-Over-Month in Barnstable Town, MA (CBSA)                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY12700          | Housing Inventory: Price Increased Count Year-Over-Year in Barnstable Town, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU12700            | Housing Inventory: Price Reduced Count in Barnstable Town, MA (CBSA)                                   | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM12700          | Housing Inventory: Price Reduced Count Month-Over-Month in Barnstable Town, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY12700          | Housing Inventory: Price Reduced Count Year-Over-Year in Barnstable Town, MA (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| QGMP12700                 | Total Quantity Indexes for Real GDP for Barnstable Town, MA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP12700                 | Total Real Gross Domestic Product for Barnstable Town, MA (MSA)                                        | 2001-01-01          | 2020-01-01        |
-| RPI12700                  | Real Personal Income for Barnstable Town, MA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC12700                | Real Per Capita Personal Income for Barnstable Town, MA (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL12700               | Regional Price Parities: All Items for Barnstable Town, MA (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD12700              | Regional Price Parities: Goods for Barnstable Town, MA (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH12700          | Regional Price Parities: Services: Other for Barnstable Town, MA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT12700         | Regional Price Parities: Services: Rents for Barnstable Town, MA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SUSCMSA12700              | Market Hotness: Supply Score in Barnstable Town, MA (CBSA)                                             | 2017-08-01          | 2022-03-01        |
+| id                     | title                                                                                                                  | observation_start   | observation_end   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BARN925EDUH            | All Employees: Education and Health Services in Barnstable Town, MA (NECTA)                                            | 1990-01-01          | 2022-03-01        |
+| BARN925EDUHN           | All Employees: Education and Health Services in Barnstable Town, MA (NECTA)                                            | 1990-01-01          | 2022-03-01        |
+| BARN925FIRE            | All Employees: Financial Activities in Barnstable Town, MA (NECTA)                                                     | 1990-01-01          | 2022-03-01        |
+| BARN925FIREN           | All Employees: Financial Activities in Barnstable Town, MA (NECTA)                                                     | 1990-01-01          | 2022-03-01        |
+| BARN925GOVT            | All Employees: Government in Barnstable Town, MA (NECTA)                                                               | 1990-01-01          | 2022-03-01        |
+| BARN925GOVTN           | All Employees: Government in Barnstable Town, MA (NECTA)                                                               | 1990-01-01          | 2022-03-01        |
+| BARN925INFO            | All Employees: Information in Barnstable Town, MA (NECTA)                                                              | 1990-01-01          | 2022-03-01        |
+| BARN925INFON           | All Employees: Information in Barnstable Town, MA (NECTA)                                                              | 1990-01-01          | 2022-03-01        |
+| BARN925LEIH            | All Employees: Leisure and Hospitality in Barnstable Town, MA (NECTA)                                                  | 1990-01-01          | 2022-03-01        |
+| BARN925LEIHN           | All Employees: Leisure and Hospitality in Barnstable Town, MA (NECTA)                                                  | 1990-01-01          | 2022-03-01        |
+| BARN925LF              | Civilian Labor Force in Barnstable Town, MA (NECTA)                                                                    | 1990-01-01          | 2022-03-01        |
+| BARN925LFN             | Civilian Labor Force in Barnstable Town, MA (NECTA)                                                                    | 1990-01-01          | 2022-03-01        |
+| BARN925MFG             | All Employees: Manufacturing in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
+| BARN925MFGN            | All Employees: Manufacturing in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
+| BARN925NA              | All Employees: Total Nonfarm in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
+| BARN925NAN             | All Employees: Total Nonfarm in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
+| BARN925NRMN            | All Employees: Mining, Logging, and Construction in Barnstable Town, MA (NECTA)                                        | 1990-01-01          | 2022-03-01        |
+| BARN925NRMNN           | All Employees: Mining, Logging, and Construction in Barnstable Town, MA (NECTA)                                        | 1990-01-01          | 2022-03-01        |
+| BARN925PBSV            | All Employees: Professional and Business Services in Barnstable Town, MA (NECTA)                                       | 1990-01-01          | 2022-03-01        |
+| BARN925PBSVN           | All Employees: Professional and Business Services in Barnstable Town, MA (NECTA)                                       | 1990-01-01          | 2022-03-01        |
+| BARN925PCPI            | Per Capita Personal Income in Barnstable Town, MA (MSA)                                                                | 1969-01-01          | 2020-01-01        |
+| BARN925SRVO            | All Employees: Other Services in Barnstable Town, MA (NECTA)                                                           | 1990-01-01          | 2022-03-01        |
+| BARN925SRVON           | All Employees: Other Services in Barnstable Town, MA (NECTA)                                                           | 1990-01-01          | 2022-03-01        |
+| BARN925TRAD            | All Employees: Trade, Transportation, and Utilities in Barnstable Town, MA (NECTA)                                     | 1990-01-01          | 2022-03-01        |
+| BARN925TRADN           | All Employees: Trade, Transportation, and Utilities in Barnstable Town, MA (NECTA)                                     | 1990-01-01          | 2022-03-01        |
+| BARN925UR              | Unemployment Rate in Barnstable Town, MA (NECTA)                                                                       | 1990-01-01          | 2022-03-01        |
+| BARN925URN             | Unemployment Rate in Barnstable Town, MA (NECTA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT257090000000003A  | Unemployment Rate in Barnstable Town, MA (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT257090000000004   | Unemployed Persons in Barnstable Town, MA (NECTA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT257090000000004A  | Unemployed Persons in Barnstable Town, MA (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT257090000000005   | Employed Persons in Barnstable Town, MA (NECTA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT257090000000005A  | Employed Persons in Barnstable Town, MA (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT257090000000006A  | Civilian Labor Force in Barnstable Town, MA (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
+| SMS25709000000000026   | All Employees: Total Nonfarm in Barnstable Town, MA (NECTA)                                                            | 1990-04-01          | 2022-03-01        |
+| SMU25709000000000001A  | All Employees: Total Nonfarm in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU25709000500000001   | All Employees: Total Private in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
+| SMU25709000500000001A  | All Employees: Total Private in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU25709000500000001SA | All Employees: Total Private in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-03-01        |
+| SMU25709000500000002   | Average Weekly Hours of All Employees: Total Private in Barnstable Town, MA (NECTA)                                    | 2007-01-01          | 2022-03-01        |
+| SMU25709000500000002A  | Average Weekly Hours of All Employees: Total Private in Barnstable Town, MA (NECTA)                                    | 2007-01-01          | 2021-01-01        |
+| SMU25709000500000003   | Average Hourly Earnings of All Employees: Total Private in Barnstable Town, MA (NECTA)                                 | 2007-01-01          | 2022-03-01        |
+| SMU25709000500000003A  | Average Hourly Earnings of All Employees: Total Private in Barnstable Town, MA (NECTA)                                 | 2007-01-01          | 2021-01-01        |
+| SMU25709000500000011   | Average Weekly Earnings of All Employees: Total Private in Barnstable Town, MA (NECTA)                                 | 2007-01-01          | 2022-03-01        |
+| SMU25709000500000011A  | Average Weekly Earnings of All Employees: Total Private in Barnstable Town, MA (NECTA)                                 | 2007-01-01          | 2021-01-01        |
+| SMU25709000600000001   | All Employees: Goods Producing in Barnstable Town, MA (NECTA)                                                          | 1990-01-01          | 2022-03-01        |
+| SMU25709000600000001A  | All Employees: Goods Producing in Barnstable Town, MA (NECTA)                                                          | 1990-01-01          | 2021-01-01        |
+| SMU25709000600000001SA | All Employees: Goods Producing in Barnstable Town, MA (NECTA)                                                          | 1990-01-01          | 2022-03-01        |
+| SMU25709000700000001   | All Employees: Service-Providing in Barnstable Town, MA (NECTA)                                                        | 1990-01-01          | 2022-03-01        |
+| SMU25709000700000001A  | All Employees: Service-Providing in Barnstable Town, MA (NECTA)                                                        | 1990-01-01          | 2021-01-01        |
+| SMU25709000700000001SA | All Employees: Service-Providing in Barnstable Town, MA (NECTA)                                                        | 1990-01-01          | 2022-03-01        |
+| SMU25709000800000001   | All Employees: Private Service Providing in Barnstable Town, MA (NECTA)                                                | 1990-01-01          | 2022-03-01        |
+| SMU25709000800000001A  | All Employees: Private Service Providing in Barnstable Town, MA (NECTA)                                                | 1990-01-01          | 2021-01-01        |
+| SMU25709000800000001SA | All Employees: Private Service Providing in Barnstable Town, MA (NECTA)                                                | 1990-01-01          | 2022-03-01        |
+| SMU25709001500000001A  | All Employees: Mining, Logging, and Construction in Barnstable Town, MA (NECTA)                                        | 1990-01-01          | 2021-01-01        |
+| SMU25709003000000001A  | All Employees: Manufacturing in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU25709004000000001A  | All Employees: Trade, Transportation, and Utilities in Barnstable Town, MA (NECTA)                                     | 1990-01-01          | 2021-01-01        |
+| SMU25709004100000001   | All Employees: Wholesale Trade in Barnstable Town, MA (NECTA)                                                          | 1990-01-01          | 2022-03-01        |
+| SMU25709004100000001A  | All Employees: Wholesale Trade in Barnstable Town, MA (NECTA)                                                          | 1990-01-01          | 2021-01-01        |
+| SMU25709004100000001SA | All Employees: Wholesale Trade in Barnstable Town, MA (NECTA)                                                          | 1990-01-01          | 2022-03-01        |
+| SMU25709004200000001   | All Employees: Retail Trade in Barnstable Town, MA (NECTA)                                                             | 1990-01-01          | 2022-03-01        |
+| SMU25709004200000001A  | All Employees: Retail Trade in Barnstable Town, MA (NECTA)                                                             | 1990-01-01          | 2021-01-01        |
+| SMU25709004200000001SA | All Employees: Retail Trade in Barnstable Town, MA (NECTA)                                                             | 1990-01-01          | 2022-03-01        |
+| SMU25709004300000001   | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Barnstable Town, MA (NECTA) | 1990-01-01          | 2022-03-01        |
+| SMU25709004300000001A  | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Barnstable Town, MA (NECTA) | 1990-01-01          | 2021-01-01        |
+| SMU25709004300000001SA | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Barnstable Town, MA (NECTA) | 1990-01-01          | 2022-03-01        |
+| SMU25709005000000001A  | All Employees: Information in Barnstable Town, MA (NECTA)                                                              | 1990-01-01          | 2021-01-01        |
+| SMU25709005500000001A  | All Employees: Financial Activities in Barnstable Town, MA (NECTA)                                                     | 1990-01-01          | 2021-01-01        |
+| SMU25709006000000001A  | All Employees: Professional and Business Services in Barnstable Town, MA (NECTA)                                       | 1990-01-01          | 2021-01-01        |
+| SMU25709006500000001A  | All Employees: Education and Health Services in Barnstable Town, MA (NECTA)                                            | 1990-01-01          | 2021-01-01        |
+| SMU25709006562000001   | All Employees: Education and Health Services: Health Care and Social Assistance in Barnstable Town, MA (NECTA)         | 1990-01-01          | 2022-03-01        |
+| SMU25709006562000001A  | All Employees: Health Care and Social Assistance in Barnstable Town, MA (NECTA)                                        | 1990-01-01          | 2021-01-01        |
+| SMU25709006562000001SA | All Employees: Education and Health Services: Health Care and Social Assistance in Barnstable Town, MA (NECTA)         | 1990-01-01          | 2022-03-01        |
+| SMU25709007000000001A  | All Employees: Leisure and Hospitality in Barnstable Town, MA (NECTA)                                                  | 1990-01-01          | 2021-01-01        |
+| SMU25709008000000001A  | All Employees: Other Services in Barnstable Town, MA (NECTA)                                                           | 1990-01-01          | 2021-01-01        |
+| SMU25709009000000001A  | All Employees: Government in Barnstable Town, MA (NECTA)                                                               | 1990-01-01          | 2021-01-01        |
+| SMU25709009091000001   | All Employees: Government: Federal Government in Barnstable Town, MA (NECTA)                                           | 1990-01-01          | 2022-03-01        |
+| SMU25709009091000001A  | All Employees: Federal Government in Barnstable Town, MA (NECTA)                                                       | 1990-01-01          | 2021-01-01        |
+| SMU25709009091000001SA | All Employees: Government: Federal Government in Barnstable Town, MA (NECTA)                                           | 1990-01-01          | 2022-03-01        |
+| SMU25709009092000001   | All Employees: Government: State Government in Barnstable Town, MA (NECTA)                                             | 1990-01-01          | 2022-03-01        |
+| SMU25709009092000001A  | All Employees: State Government in Barnstable Town, MA (NECTA)                                                         | 1990-01-01          | 2021-01-01        |
+| SMU25709009092000001SA | All Employees: Government: State Government in Barnstable Town, MA (NECTA)                                             | 1990-01-01          | 2022-03-01        |
+| SMU25709009093000001   | All Employees: Government: Local Government in Barnstable Town, MA (NECTA)                                             | 1990-01-01          | 2022-03-01        |
+| SMU25709009093000001A  | All Employees: Local Government in Barnstable Town, MA (NECTA)                                                         | 1990-01-01          | 2021-01-01        |
+| SMU25709009093000001SA | All Employees: Government: Local Government in Barnstable Town, MA (NECTA)                                             | 1990-01-01          | 2022-03-01        |

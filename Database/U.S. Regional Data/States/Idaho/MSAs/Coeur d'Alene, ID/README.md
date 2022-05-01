@@ -18,8 +18,8 @@
 | COEU616INFON              | All Employees: Information in Coeur d'Alene, ID (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | COEU616LEIH               | All Employees: Leisure and Hospitality in Coeur d'Alene, ID (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | COEU616LEIHN              | All Employees: Leisure and Hospitality in Coeur d'Alene, ID (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| COEU616LF                 | Civilian Labor Force in Coeur d'Alene, ID (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| COEU616LFN                | Civilian Labor Force in Coeur d'Alene, ID (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| COEU616LF                 | Civilian Labor Force in Coeur d'Alene, ID (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| COEU616LFN                | Civilian Labor Force in Coeur d'Alene, ID (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | COEU616MFG                | All Employees: Manufacturing in Coeur d'Alene, ID (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | COEU616MFGN               | All Employees: Manufacturing in Coeur d'Alene, ID (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | COEU616NA                 | All Employees: Total Nonfarm in Coeur d'Alene, ID (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -31,8 +31,8 @@
 | COEU616SRVON              | All Employees: Other Services in Coeur d'Alene, ID (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | COEU616TRAD               | All Employees: Trade, Transportation, and Utilities in Coeur d'Alene, ID (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | COEU616TRADN              | All Employees: Trade, Transportation, and Utilities in Coeur d'Alene, ID (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| COEU616UR                 | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| COEU616URN                | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| COEU616UR                 | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| COEU616URN                | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | DESCMSA17660              | Market Hotness: Demand Score in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | ENUC176630010             | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC176630010SA           | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -51,12 +51,12 @@
 | HORAYYMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA17660              | Market Hotness: Hotness Score in Coeur D'Alene, ID (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD17660                 | Implicit Regional Price Deflator for Coeur d'Alene, ID (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT161766000000003A     | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT161766000000004      | Unemployed Persons in Coeur d'Alene, ID (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT161766000000004A     | Unemployed Persons in Coeur d'Alene, ID (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT161766000000005      | Employed Persons in Coeur d'Alene, ID (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT161766000000005A     | Employed Persons in Coeur d'Alene, ID (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT161766000000006A     | Civilian Labor Force in Coeur d'Alene, ID (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT161766000000003A     | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT161766000000004      | Unemployed Persons in Coeur d'Alene, ID (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT161766000000004A     | Unemployed Persons in Coeur d'Alene, ID (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT161766000000005      | Employed Persons in Coeur d'Alene, ID (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT161766000000005A     | Employed Persons in Coeur d'Alene, ID (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT161766000000006A     | Civilian Labor Force in Coeur d'Alene, ID (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA17660          | Market Hotness: Listing Views per Property in Coeur D'Alene, ID (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA17660        | Market Hotness: Listing Views per Property Versus the United States in Coeur D'Alene, ID (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA17660          | Market Hotness: Listing Views per Property in Coeur D'Alene, ID (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -112,13 +112,10 @@
 | SMU16176600500000001SA    | All Employees: Total Private in Coeur d'Alene, ID (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU16176600500000002      | Average Weekly Hours of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU16176600500000002A     | Average Weekly Hours of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU16176600500000002SA    | Average Weekly Hours of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU16176600500000003      | Average Hourly Earnings of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU16176600500000003A     | Average Hourly Earnings of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU16176600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU16176600500000011      | Average Weekly Earnings of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU16176600500000011A     | Average Weekly Earnings of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU16176600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Coeur d'Alene, ID (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU16176600600000001      | All Employees: Goods Producing in Coeur d'Alene, ID (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU16176600600000001A     | All Employees: Goods Producing in Coeur d'Alene, ID (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU16176600600000001SA    | All Employees: Goods Producing in Coeur d'Alene, ID (MSA)                                                          | 1990-01-01          | 2022-03-01        |

@@ -1,8 +1,14 @@
-| id                     | title                                                                                            | observation_start   | observation_end   |
-|------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU25716541000000001   | All Employees: Mining and Logging in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU25716541000000001A  | All Employees: Mining and Logging in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED) | 1990-01-01          | 2013-01-01        |
-| SMU25716541000000001SA | All Employees: Mining and Logging in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU25716542000000001   | All Employees: Construction in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)       | 1990-01-01          | 2014-12-01        |
-| SMU25716542000000001A  | All Employees: Construction in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)       | 1990-01-01          | 2013-01-01        |
-| SMU25716542000000001SA | All Employees: Construction in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)       | 1990-01-01          | 2014-12-01        |
+| id                     | title                                                                                                                         | observation_start   | observation_end   |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU25716540500000002SA | Average Weekly Hours of All Employees: Total Private in Boston-Cambridge-Newton, MA (NECTA Division) (DISCONTINUED)           | 2007-01-01          | 2022-03-01        |
+| SMU25716540500000003SA | Average Hourly Earnings of All Employees: Total Private in Boston-Cambridge-Newton, MA (NECTA Division) (DISCONTINUED)        | 2007-01-01          | 2022-03-01        |
+| SMU25716540500000011SA | Average Weekly Earnings of All Employees: Total Private in Boston-Cambridge-Newton, MA (NECTA Division) (DISCONTINUED)        | 2007-01-01          | 2022-03-01        |
+| SMU25716541000000001   | All Employees: Mining and Logging in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)                              | 1990-01-01          | 2014-12-01        |
+| SMU25716541000000001A  | All Employees: Mining and Logging in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)                              | 1990-01-01          | 2013-01-01        |
+| SMU25716541000000001SA | All Employees: Mining and Logging in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)                              | 1990-01-01          | 2014-12-01        |
+| SMU25716542000000001   | All Employees: Construction in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)                                    | 1990-01-01          | 2014-12-01        |
+| SMU25716542000000001A  | All Employees: Construction in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)                                    | 1990-01-01          | 2013-01-01        |
+| SMU25716542000000001SA | All Employees: Construction in Boston-Cambridge-Quincy, MA (NECTA Division) (DISCONTINUED)                                    | 1990-01-01          | 2014-12-01        |
+| SMU25716543000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Boston-Cambridge-Newton, MA (NECTA Division) (DISCONTINUED)    | 2003-01-01          | 2022-03-01        |
+| SMU25716543000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Boston-Cambridge-Newton, MA (NECTA Division) (DISCONTINUED) | 2003-01-01          | 2022-03-01        |
+| SMU25716543000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Boston-Cambridge-Newton, MA (NECTA Division) (DISCONTINUED) | 2003-01-01          | 2022-03-01        |

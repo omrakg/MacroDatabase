@@ -73,7 +73,7 @@
 | INKHMA475SCEN       | Number of Identified Exporters to Cambodia from Indiana                                                                                         | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2KHM      | Internet users for Cambodia                                                                                                                     | 1990-01-01          | 2020-01-01        |
 | KHMBCABP6USD        | Balance of Payments: Total Net Current Account for Cambodia                                                                                     | 2016-01-01          | 2024-01-01        |
-| KHMBCAGDPBP6PT      | Balance of Payments: Total Net Current Account for Cambodia                                                                                     | 1992-01-01          | 2026-01-01        |
+| KHMBCAGDPBP6PT      | Balance of Payments: Total Net Current Account for Cambodia                                                                                     | 1992-01-01          | 2027-01-01        |
 | KHMFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Cambodia                                                                      | 2005-01-01          | 2020-01-01        |
 | KHMFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Cambodia                                                    | 2005-01-01          | 2020-01-01        |
 | KHMFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Cambodia                                                                            | 2005-01-01          | 2020-01-01        |
@@ -126,12 +126,12 @@
 | KHMFCSODMFGGDPPT    | Use of Financial Services: Key Indicators, Outstanding Loans from All Microfinance Institutions (MFIs) for Cambodia                             | 2011-01-01          | 2017-01-01        |
 | KHMFCSODMFXDC       | Use of Financial Services, Assets: Outstanding Loans at Deposit Taking Microfinance Institutions (MFIs) for Cambodia                            | 2011-01-01          | 2020-01-01        |
 | KHMFCSODXDC         | Use of Financial Services, Assets: Outstanding Loans at Other Depository Corporations for Cambodia                                              | 2011-01-01          | 2014-01-01        |
-| KHMGGXCNLG01GDPPT   | Fiscal Situation of General Government: Net Lending/borrowing for Cambodia                                                                      | 1996-01-01          | 2026-01-01        |
+| KHMGGXCNLG01GDPPT   | Fiscal Situation of General Government: Net Lending/borrowing for Cambodia                                                                      | 1996-01-01          | 2027-01-01        |
 | KHMGGXWDGG01GDPPT   | Fiscal Situation of General Government: Gross Debt Position for Cambodia                                                                        | 2016-01-01          | 2024-01-01        |
 | KHMNGDPDUSD         | National Accounts: Gross Domestic Product for Cambodia                                                                                          | 2016-01-01          | 2024-01-01        |
-| KHMNGDPRPCPPPT      | National Accounts: Real Gross Domestic Product for Cambodia                                                                                     | 1990-01-01          | 2026-01-01        |
+| KHMNGDPRPCPPPT      | National Accounts: Real Gross Domestic Product for Cambodia                                                                                     | 1990-01-01          | 2027-01-01        |
 | KHMNTDDRPCPPPT      | National Accounts: Real Total Domestic Demand for Cambodia                                                                                      | 2016-01-01          | 2024-01-01        |
-| KHMPCPIPCPPPT       | Prices: Consumer Price Index for Cambodia                                                                                                       | 1990-01-01          | 2026-01-01        |
+| KHMPCPIPCPPPT       | Prices: Consumer Price Index for Cambodia                                                                                                       | 1990-01-01          | 2027-01-01        |
 | KHMTMRPCPPPT        | External Trade: Volume of Imports of Goods and Services for Cambodia                                                                            | 2016-01-01          | 2024-01-01        |
 | KHMTXRPCPPPT        | External Trade: Volume of Exports of Goods and Services for Cambodia                                                                            | 2016-01-01          | 2024-01-01        |
 | KSKHMA052SCEN       | Value of Exports to Cambodia from Kansas                                                                                                        | 2014-01-01          | 2017-01-01        |

@@ -1,5 +1,8 @@
-| id           | title                                                                                | observation_start   | observation_end   |
-|--------------|--------------------------------------------------------------------------------------|---------------------|-------------------|
-| KOKO018EDUHN | All Employees: Education and Health Services in Kokomo, IN (MSA) (DISCONTINUED)      | 1990-01-01          | 2007-12-01        |
-| KOKO018PBSVN | All Employees: Professional and Business Services in Kokomo, IN (MSA) (DISCONTINUED) | 1990-01-01          | 2007-12-01        |
-| PCRGMP29020  | Total Per Capita Real Gross Domestic Product for Kokomo, IN (MSA) (DISCONTINUED)     | 2001-01-01          | 2017-01-01        |
+| id                     | title                                                                                      | observation_start   | observation_end   |
+|------------------------|--------------------------------------------------------------------------------------------|---------------------|-------------------|
+| KOKO018EDUHN           | All Employees: Education and Health Services in Kokomo, IN (MSA) (DISCONTINUED)            | 1990-01-01          | 2007-12-01        |
+| KOKO018PBSVN           | All Employees: Professional and Business Services in Kokomo, IN (MSA) (DISCONTINUED)       | 1990-01-01          | 2007-12-01        |
+| PCRGMP29020            | Total Per Capita Real Gross Domestic Product for Kokomo, IN (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
+| SMU18290200500000002SA | Average Weekly Hours of All Employees: Total Private in Kokomo, IN (MSA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU18290200500000003SA | Average Hourly Earnings of All Employees: Total Private in Kokomo, IN (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU18290200500000011SA | Average Weekly Earnings of All Employees: Total Private in Kokomo, IN (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

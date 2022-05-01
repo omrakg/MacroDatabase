@@ -1,3 +1,3 @@
 | Folder             |   Files / Folders |
 |--------------------|-------------------|
-| Condition of Banks |               953 |
+| Condition of Banks |                 0 |

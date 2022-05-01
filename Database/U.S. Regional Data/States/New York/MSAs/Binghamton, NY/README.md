@@ -17,8 +17,8 @@
 | BING736INFON              | All Employees: Information in Binghamton, NY (MSA)                                                                 | 1990-01-01          | 2022-03-01        |
 | BING736LEIH               | All Employees: Leisure and Hospitality in Binghamton, NY (MSA)                                                     | 1990-01-01          | 2022-03-01        |
 | BING736LEIHN              | All Employees: Leisure and Hospitality in Binghamton, NY (MSA)                                                     | 1990-01-01          | 2022-03-01        |
-| BING736LF                 | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| BING736LFN                | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| BING736LF                 | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| BING736LFN                | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | BING736MFG                | All Employees: Manufacturing in Binghamton, NY (MSA)                                                               | 1990-01-01          | 2022-03-01        |
 | BING736MFGN               | All Employees: Manufacturing in Binghamton, NY (MSA)                                                               | 1990-01-01          | 2022-03-01        |
 | BING736NA                 | All Employees: Total Nonfarm in Binghamton, NY (MSA)                                                               | 1990-01-01          | 2022-03-01        |
@@ -32,8 +32,8 @@
 | BING736SRVON              | All Employees: Other Services in Binghamton, NY (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | BING736TRAD               | All Employees: Trade, Transportation, and Utilities in Binghamton, NY (MSA)                                        | 1990-01-01          | 2022-03-01        |
 | BING736TRADN              | All Employees: Trade, Transportation, and Utilities in Binghamton, NY (MSA)                                        | 1990-01-01          | 2022-03-01        |
-| BING736UR                 | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-02-01        |
-| BING736URN                | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-02-01        |
+| BING736UR                 | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-03-01        |
+| BING736URN                | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-03-01        |
 | BINPOP                    | Resident Population in Binghamton, NY (MSA)                                                                        | 2000-01-01          | 2021-01-01        |
 | DESCMSA13780              | Market Hotness: Demand Score in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-03-01        |
 | ENUC137830010             | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2021-07-01        |
@@ -53,12 +53,12 @@
 | HORAYYMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2018-08-01          | 2022-03-01        |
 | HOSCMSA13780              | Market Hotness: Hotness Score in Binghamton, NY (CBSA)                                                             | 2017-08-01          | 2022-03-01        |
 | IRPD13780                 | Implicit Regional Price Deflator for Binghamton, NY (MSA)                                                          | 2008-01-01          | 2020-01-01        |
-| LAUMT361378000000003A     | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT361378000000004      | Unemployed Persons in Binghamton, NY (MSA)                                                                         | 1990-01-01          | 2022-02-01        |
-| LAUMT361378000000004A     | Unemployed Persons in Binghamton, NY (MSA)                                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT361378000000005      | Employed Persons in Binghamton, NY (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
-| LAUMT361378000000005A     | Employed Persons in Binghamton, NY (MSA)                                                                           | 1990-01-01          | 2020-01-01        |
-| LAUMT361378000000006A     | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
+| LAUMT361378000000003A     | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT361378000000004      | Unemployed Persons in Binghamton, NY (MSA)                                                                         | 1990-01-01          | 2022-03-01        |
+| LAUMT361378000000004A     | Unemployed Persons in Binghamton, NY (MSA)                                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT361378000000005      | Employed Persons in Binghamton, NY (MSA)                                                                           | 1990-01-01          | 2022-03-01        |
+| LAUMT361378000000005A     | Employed Persons in Binghamton, NY (MSA)                                                                           | 1990-01-01          | 2021-01-01        |
+| LAUMT361378000000006A     | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA13780          | Market Hotness: Listing Views per Property in Binghamton, NY (CBSA)                                                | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA13780        | Market Hotness: Listing Views per Property Versus the United States in Binghamton, NY (CBSA)                       | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA13780          | Market Hotness: Listing Views per Property in Binghamton, NY (CBSA)                                                | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU36137800500000001SA    | All Employees: Total Private in Binghamton, NY (MSA)                                                               | 1990-01-01          | 2022-03-01        |
 | SMU36137800500000002      | Average Weekly Hours of All Employees: Total Private in Binghamton, NY (MSA)                                       | 2007-01-01          | 2022-03-01        |
 | SMU36137800500000002A     | Average Weekly Hours of All Employees: Total Private in Binghamton, NY (MSA)                                       | 2007-01-01          | 2021-01-01        |
-| SMU36137800500000002SA    | Average Weekly Hours of All Employees: Total Private in Binghamton, NY (MSA)                                       | 2007-01-01          | 2022-03-01        |
 | SMU36137800500000003      | Average Hourly Earnings of All Employees: Total Private in Binghamton, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36137800500000003A     | Average Hourly Earnings of All Employees: Total Private in Binghamton, NY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU36137800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Binghamton, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36137800500000011      | Average Weekly Earnings of All Employees: Total Private in Binghamton, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36137800500000011A     | Average Weekly Earnings of All Employees: Total Private in Binghamton, NY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU36137800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Binghamton, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36137800600000001      | All Employees: Goods Producing in Binghamton, NY (MSA)                                                             | 1990-01-01          | 2022-03-01        |
 | SMU36137800600000001A     | All Employees: Goods Producing in Binghamton, NY (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | SMU36137800600000001SA    | All Employees: Goods Producing in Binghamton, NY (MSA)                                                             | 1990-01-01          | 2022-03-01        |

@@ -101,32 +101,32 @@
 | SPPOP65UPTOZSTKM     | Population ages 65 and above for Turkmenistan                                                     | 1960-01-01          | 2020-01-01        |
 | TNTKMA052SCEN        | Value of Exports to Turkmenistan from Tennessee                                                   | 2005-01-01          | 2017-01-01        |
 | TNTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Tennessee                                     | 1997-01-01          | 2017-01-01        |
-| TRNBCAGDPGDPPT       | Current Account Balance for Turkmenistan                                                          | 2009-01-01          | 2022-01-01        |
-| TRNBCAUSD            | Balance on Current Account for Turkmenistan                                                       | 2009-01-01          | 2022-01-01        |
-| TRNBMUSD             | Imports of Goods and Services for Turkmenistan                                                    | 2009-01-01          | 2022-01-01        |
-| TRNBXUSD             | Exports of Goods and Services for Turkmenistan                                                    | 2009-01-01          | 2022-01-01        |
-| TRNDGDPGDPPT         | Total External Debt for Turkmenistan                                                              | 2009-01-01          | 2022-01-01        |
+| TRNBCAGDPGDPPT       | Current Account Balance for Turkmenistan                                                          | 2009-01-01          | 2023-01-01        |
+| TRNBCAUSD            | Balance on Current Account for Turkmenistan                                                       | 2009-01-01          | 2023-01-01        |
+| TRNBMUSD             | Imports of Goods and Services for Turkmenistan                                                    | 2009-01-01          | 2023-01-01        |
+| TRNBXUSD             | Exports of Goods and Services for Turkmenistan                                                    | 2009-01-01          | 2023-01-01        |
+| TRNDGDPGDPPT         | Total External Debt for Turkmenistan                                                              | 2009-01-01          | 2023-01-01        |
 | TRNFAFARUSD          | Gross International Reserves Held by Central Bank for Turkmenistan                                | 2004-01-01          | 2010-01-01        |
-| TRNFMBPCHPT          | Broad Money for Turkmenistan                                                                      | 2010-01-01          | 2022-01-01        |
-| TRNGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Turkmenistan                                    | 2009-01-01          | 2022-01-01        |
-| TRNGGBXOGDPXOGDPXOPT | Overall Non-Oil Fiscal Balance for General Government for Turkmenistan                            | 2009-01-01          | 2022-01-01        |
-| TRNGGDGDPGDPPT       | Total Government Debt for General Government for Turkmenistan                                     | 2009-01-01          | 2022-01-01        |
+| TRNFMBPCHPT          | Broad Money for Turkmenistan                                                                      | 2010-01-01          | 2023-01-01        |
+| TRNGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Turkmenistan                                    | 2009-01-01          | 2023-01-01        |
+| TRNGGBXOGDPXOGDPXOPT | Overall Non-Oil Fiscal Balance for General Government for Turkmenistan                            | 2009-01-01          | 2023-01-01        |
+| TRNGGDGDPGDPPT       | Total Government Debt for General Government for Turkmenistan                                     | 2009-01-01          | 2023-01-01        |
 | TRNGGENLGDPGDPPT     | Total Expenditure and Net Lending for General Government for Turkmenistan                         | 2009-01-01          | 2021-01-01        |
-| TRNGGRXGGDPGDPPT     | Total Revenue, Excluding Grants, for General Government for Turkmenistan                          | 2009-01-01          | 2022-01-01        |
-| TRNGGRXOGDPXOPT      | Non-oil Revenue for General Government for Turkmenistan                                           | 2009-01-01          | 2022-01-01        |
-| TRNNGDPDUSD          | Gross Domestic Product in Current Prices for Turkmenistan                                         | 2009-01-01          | 2022-01-01        |
-| TRNNGDPMG            | Gas Production for Turkmenistan                                                                   | 2009-01-01          | 2022-01-01        |
-| TRNNGDPMOMBD         | Crude Oil Production for Turkmenistan                                                             | 2009-01-01          | 2022-01-01        |
-| TRNNGDPORPCHPT       | Oil Real GDP Growth in Constant Prices for Turkmenistan                                           | 2010-01-01          | 2022-01-01        |
-| TRNNGDPRPCHPT        | Gross Domestic Product in Constant Prices for Turkmenistan                                        | 2010-01-01          | 2022-01-01        |
-| TRNNGDPXORPCHPT      | Non-Oil Real GDP Growth in Constant Prices for Turkmenistan                                       | 2010-01-01          | 2022-01-01        |
-| TRNNXGO              | Total Oil Exports Including Crude for Turkmenistan                                                | 2009-01-01          | 2022-01-01        |
-| TRNNXGOCMBD          | Crude Oil Exports for Turkmenistan                                                                | 2009-01-01          | 2022-01-01        |
-| TRNNXGOG             | Gas and Condensates Exports for Turkmenistan                                                      | 2009-01-01          | 2022-01-01        |
+| TRNGGRXGGDPGDPPT     | Total Revenue, Excluding Grants, for General Government for Turkmenistan                          | 2009-01-01          | 2023-01-01        |
+| TRNGGRXOGDPXOPT      | Non-oil Revenue for General Government for Turkmenistan                                           | 2009-01-01          | 2023-01-01        |
+| TRNNGDPDUSD          | Gross Domestic Product in Current Prices for Turkmenistan                                         | 2009-01-01          | 2023-01-01        |
+| TRNNGDPMG            | Gas Production for Turkmenistan                                                                   | 2009-01-01          | 2023-01-01        |
+| TRNNGDPMOMBD         | Crude Oil Production for Turkmenistan                                                             | 2009-01-01          | 2023-01-01        |
+| TRNNGDPORPCHPT       | Oil Real GDP Growth in Constant Prices for Turkmenistan                                           | 2010-01-01          | 2023-01-01        |
+| TRNNGDPRPCHPT        | Gross Domestic Product in Constant Prices for Turkmenistan                                        | 2010-01-01          | 2023-01-01        |
+| TRNNGDPXORPCHPT      | Non-Oil Real GDP Growth in Constant Prices for Turkmenistan                                       | 2010-01-01          | 2023-01-01        |
+| TRNNXGO              | Total Oil Exports Including Crude for Turkmenistan                                                | 2009-01-01          | 2023-01-01        |
+| TRNNXGOCMBD          | Crude Oil Exports for Turkmenistan                                                                | 2009-01-01          | 2023-01-01        |
+| TRNNXGOG             | Gas and Condensates Exports for Turkmenistan                                                      | 2009-01-01          | 2023-01-01        |
 | TRNPCPICOREPCHPT     | Core Consumer Price Inflation for Turkmenistan                                                    | 2004-01-01          | 2015-01-01        |
-| TRNPCPIPCHPT         | Consumer Price Inflation for Turkmenistan                                                         | 2010-01-01          | 2022-01-01        |
-| TRNPZPIOILBEBUSD     | Breakeven External Oil Price for Turkmenistan                                                     | 2011-01-01          | 2022-01-01        |
-| TRNPZPIOILBEGUSD     | Breakeven Fiscal Oil Price for Turkmenistan                                                       | 2011-01-01          | 2022-01-01        |
+| TRNPCPIPCHPT         | Consumer Price Inflation for Turkmenistan                                                         | 2010-01-01          | 2023-01-01        |
+| TRNPZPIOILBEBUSD     | Breakeven External Oil Price for Turkmenistan                                                     | 2011-01-01          | 2023-01-01        |
+| TRNPZPIOILBEGUSD     | Breakeven Fiscal Oil Price for Turkmenistan                                                       | 2011-01-01          | 2023-01-01        |
 | TXTKMA052SCEN        | Value of Exports to Turkmenistan from Texas                                                       | 1997-01-01          | 2017-01-01        |
 | TXTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Texas                                         | 1997-01-01          | 2017-01-01        |
 | UTTKMA052SCEN        | Value of Exports to Turkmenistan from Utah                                                        | 2004-01-01          | 2016-01-01        |

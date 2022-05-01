@@ -102,12 +102,12 @@
 | ITNETUSERP2KWT       | Internet users for Kuwait                                                                                                | 1990-01-01          | 2020-01-01        |
 | KSKWTA052SCEN        | Value of Exports to Kuwait from Kansas                                                                                   | 1992-01-01          | 2017-01-01        |
 | KSKWTA475SCEN        | Number of Identified Exporters to Kuwait from Kansas                                                                     | 1992-01-01          | 2017-01-01        |
-| KWTBCAGDPGDPPT       | Current Account Balance for Kuwait                                                                                       | 2000-01-01          | 2022-01-01        |
-| KWTBCAUSD            | Balance on Current Account for Kuwait                                                                                    | 2000-01-01          | 2022-01-01        |
-| KWTBMUSD             | Imports of Goods and Services for Kuwait                                                                                 | 2000-01-01          | 2022-01-01        |
-| KWTBXUSD             | Exports of Goods and Services for Kuwait                                                                                 | 2000-01-01          | 2022-01-01        |
-| KWTDGDPGDPPT         | Total External Debt for Kuwait                                                                                           | 2000-01-01          | 2022-01-01        |
-| KWTFAFARUSD          | Gross International Reserves Held by Central Bank for Kuwait                                                             | 2000-01-01          | 2022-01-01        |
+| KWTBCAGDPGDPPT       | Current Account Balance for Kuwait                                                                                       | 2000-01-01          | 2023-01-01        |
+| KWTBCAUSD            | Balance on Current Account for Kuwait                                                                                    | 2000-01-01          | 2023-01-01        |
+| KWTBMUSD             | Imports of Goods and Services for Kuwait                                                                                 | 2000-01-01          | 2023-01-01        |
+| KWTBXUSD             | Exports of Goods and Services for Kuwait                                                                                 | 2000-01-01          | 2023-01-01        |
+| KWTDGDPGDPPT         | Total External Debt for Kuwait                                                                                           | 2000-01-01          | 2023-01-01        |
+| KWTFAFARUSD          | Gross International Reserves Held by Central Bank for Kuwait                                                             | 2000-01-01          | 2023-01-01        |
 | KWTFCAANUM           | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Kuwait                                                 | 2004-01-01          | 2020-01-01        |
 | KWTFCACNUM           | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Kuwait                               | 2004-01-01          | 2020-01-01        |
 | KWTFCAKNUM           | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Kuwait                                                       | 2004-01-01          | 2020-01-01        |
@@ -130,27 +130,27 @@
 | KWTFCRODCPENUM       | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Kuwait                                  | 2004-01-01          | 2020-01-01        |
 | KWTFCSODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Kuwait                            | 2004-01-01          | 2020-01-01        |
 | KWTFCSODCXDC         | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Kuwait                                      | 2004-01-01          | 2020-01-01        |
-| KWTFMBPCHPT          | Broad Money for Kuwait                                                                                                   | 2000-01-01          | 2022-01-01        |
-| KWTGCXCNLGDPGDPPT    | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Kuwait                                        | 2000-01-01          | 2022-01-01        |
-| KWTGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Kuwait                                                                 | 2000-01-01          | 2022-01-01        |
-| KWTGGBXOGDPXOGDPXOPT | Overall Non-Oil Fiscal Balance for General Government for Kuwait                                                         | 2000-01-01          | 2022-01-01        |
-| KWTGGDGDPGDPPT       | Total Government Debt for General Government for Kuwait                                                                  | 2000-01-01          | 2022-01-01        |
+| KWTFMBPCHPT          | Broad Money for Kuwait                                                                                                   | 2000-01-01          | 2023-01-01        |
+| KWTGCXCNLGDPGDPPT    | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Kuwait                                        | 2000-01-01          | 2023-01-01        |
+| KWTGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Kuwait                                                                 | 2000-01-01          | 2023-01-01        |
+| KWTGGBXOGDPXOGDPXOPT | Overall Non-Oil Fiscal Balance for General Government for Kuwait                                                         | 2000-01-01          | 2023-01-01        |
+| KWTGGDGDPGDPPT       | Total Government Debt for General Government for Kuwait                                                                  | 2000-01-01          | 2023-01-01        |
 | KWTGGENLGDPGDPPT     | Total Expenditure and Net Lending for General Government for Kuwait                                                      | 2000-01-01          | 2021-01-01        |
-| KWTGGRXGGDPGDPPT     | Total Revenue, Excluding Grants, for General Government for Kuwait                                                       | 2000-01-01          | 2022-01-01        |
-| KWTGGRXOGDPXOPT      | Non-oil Revenue for General Government for Kuwait                                                                        | 2000-01-01          | 2022-01-01        |
-| KWTNGDPDUSD          | Gross Domestic Product in Current Prices for Kuwait                                                                      | 2000-01-01          | 2022-01-01        |
-| KWTNGDPMG            | Gas Production for Kuwait                                                                                                | 2000-01-01          | 2022-01-01        |
-| KWTNGDPMOMBD         | Crude Oil Production for Kuwait                                                                                          | 2000-01-01          | 2022-01-01        |
-| KWTNGDPORPCHPT       | Oil Real GDP Growth in Constant Prices for Kuwait                                                                        | 2000-01-01          | 2022-01-01        |
-| KWTNGDPRPCHPT        | Gross Domestic Product in Constant Prices for Kuwait                                                                     | 2000-01-01          | 2022-01-01        |
-| KWTNGDPXORPCHPT      | Non-Oil Real GDP Growth in Constant Prices for Kuwait                                                                    | 2000-01-01          | 2022-01-01        |
-| KWTNXGO              | Total Oil Exports Including Crude for Kuwait                                                                             | 2000-01-01          | 2022-01-01        |
-| KWTNXGOCMBD          | Crude Oil Exports for Kuwait                                                                                             | 2000-01-01          | 2022-01-01        |
-| KWTNXGOG             | Gas and Condensates Exports for Kuwait                                                                                   | 2000-01-01          | 2022-01-01        |
+| KWTGGRXGGDPGDPPT     | Total Revenue, Excluding Grants, for General Government for Kuwait                                                       | 2000-01-01          | 2023-01-01        |
+| KWTGGRXOGDPXOPT      | Non-oil Revenue for General Government for Kuwait                                                                        | 2000-01-01          | 2023-01-01        |
+| KWTNGDPDUSD          | Gross Domestic Product in Current Prices for Kuwait                                                                      | 2000-01-01          | 2023-01-01        |
+| KWTNGDPMG            | Gas Production for Kuwait                                                                                                | 2000-01-01          | 2023-01-01        |
+| KWTNGDPMOMBD         | Crude Oil Production for Kuwait                                                                                          | 2000-01-01          | 2023-01-01        |
+| KWTNGDPORPCHPT       | Oil Real GDP Growth in Constant Prices for Kuwait                                                                        | 2000-01-01          | 2023-01-01        |
+| KWTNGDPRPCHPT        | Gross Domestic Product in Constant Prices for Kuwait                                                                     | 2000-01-01          | 2023-01-01        |
+| KWTNGDPXORPCHPT      | Non-Oil Real GDP Growth in Constant Prices for Kuwait                                                                    | 2000-01-01          | 2023-01-01        |
+| KWTNXGO              | Total Oil Exports Including Crude for Kuwait                                                                             | 2000-01-01          | 2023-01-01        |
+| KWTNXGOCMBD          | Crude Oil Exports for Kuwait                                                                                             | 2000-01-01          | 2023-01-01        |
+| KWTNXGOG             | Gas and Condensates Exports for Kuwait                                                                                   | 2000-01-01          | 2023-01-01        |
 | KWTPCPICOREPCHPT     | Core Consumer Price Inflation for Kuwait                                                                                 | 2002-01-01          | 2010-01-01        |
-| KWTPCPIPCHPT         | Consumer Price Inflation for Kuwait                                                                                      | 2000-01-01          | 2022-01-01        |
-| KWTPZPIOILBEBUSD     | Breakeven External Oil Price for Kuwait                                                                                  | 2008-01-01          | 2022-01-01        |
-| KWTPZPIOILBEGUSD     | Breakeven Fiscal Oil Price for Kuwait                                                                                    | 2008-01-01          | 2022-01-01        |
+| KWTPCPIPCHPT         | Consumer Price Inflation for Kuwait                                                                                      | 2000-01-01          | 2023-01-01        |
+| KWTPZPIOILBEBUSD     | Breakeven External Oil Price for Kuwait                                                                                  | 2008-01-01          | 2023-01-01        |
+| KWTPZPIOILBEGUSD     | Breakeven Fiscal Oil Price for Kuwait                                                                                    | 2008-01-01          | 2023-01-01        |
 | KYKWTA052SCEN        | Value of Exports to Kuwait from Kentucky                                                                                 | 1992-01-01          | 2017-01-01        |
 | KYKWTA475SCEN        | Number of Identified Exporters to Kuwait from Kentucky                                                                   | 1992-01-01          | 2017-01-01        |
 | LAKWTA052SCEN        | Value of Exports to Kuwait from Louisiana                                                                                | 1992-01-01          | 2017-01-01        |

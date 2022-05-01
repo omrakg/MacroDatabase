@@ -35,8 +35,8 @@
 | JANE555INFON              | All Employees: Information in Janesville-Beloit, WI (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | JANE555LEIH               | All Employees: Leisure and Hospitality in Janesville-Beloit, WI (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | JANE555LEIHN              | All Employees: Leisure and Hospitality in Janesville-Beloit, WI (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| JANE555LF                 | Civilian Labor Force in Janesville-Beloit, WI (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| JANE555LFN                | Civilian Labor Force in Janesville-Beloit, WI (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| JANE555LF                 | Civilian Labor Force in Janesville-Beloit, WI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| JANE555LFN                | Civilian Labor Force in Janesville-Beloit, WI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | JANE555MFG                | All Employees: Manufacturing in Janesville-Beloit, WI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | JANE555MFGN               | All Employees: Manufacturing in Janesville-Beloit, WI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | JANE555NA                 | All Employees: Total Nonfarm in Janesville-Beloit, WI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -50,15 +50,15 @@
 | JANE555SRVON              | All Employees: Other Services in Janesville-Beloit, WI (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | JANE555TRAD               | All Employees: Trade, Transportation, and Utilities in Janesville-Beloit, WI (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | JANE555TRADN              | All Employees: Trade, Transportation, and Utilities in Janesville-Beloit, WI (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| JANE555UR                 | Unemployment Rate in Janesville-Beloit, WI (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| JANE555URN                | Unemployment Rate in Janesville-Beloit, WI (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| JANE555UR                 | Unemployment Rate in Janesville-Beloit, WI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| JANE555URN                | Unemployment Rate in Janesville-Beloit, WI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | JNBPOP                    | Resident Population in Janesville-Beloit, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| LAUMT552750000000003A     | Unemployment Rate in Janesville-Beloit, WI (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT552750000000004      | Unemployed Persons in Janesville-Beloit, WI (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT552750000000004A     | Unemployed Persons in Janesville-Beloit, WI (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT552750000000005      | Employed Persons in Janesville-Beloit, WI (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT552750000000005A     | Employed Persons in Janesville-Beloit, WI (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT552750000000006A     | Civilian Labor Force in Janesville-Beloit, WI (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT552750000000003A     | Unemployment Rate in Janesville-Beloit, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT552750000000004      | Unemployed Persons in Janesville-Beloit, WI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT552750000000004A     | Unemployed Persons in Janesville-Beloit, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT552750000000005      | Employed Persons in Janesville-Beloit, WI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT552750000000005A     | Employed Persons in Janesville-Beloit, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT552750000000006A     | Civilian Labor Force in Janesville-Beloit, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA27500          | Market Hotness: Listing Views per Property in Janesville-Beloit, WI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA27500        | Market Hotness: Listing Views per Property Versus the United States in Janesville-Beloit, WI (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA27500          | Market Hotness: Listing Views per Property in Janesville-Beloit, WI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU55275000500000001SA    | All Employees: Total Private in Janesville-Beloit, WI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU55275000500000002      | Average Weekly Hours of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU55275000500000002A     | Average Weekly Hours of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU55275000500000002SA    | Average Weekly Hours of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU55275000500000003      | Average Hourly Earnings of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU55275000500000003A     | Average Hourly Earnings of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55275000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU55275000500000011      | Average Weekly Earnings of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU55275000500000011A     | Average Weekly Earnings of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55275000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Janesville-Beloit, WI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU55275000600000001      | All Employees: Goods Producing in Janesville-Beloit, WI (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU55275000600000001A     | All Employees: Goods Producing in Janesville-Beloit, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU55275000600000001SA    | All Employees: Goods Producing in Janesville-Beloit, WI (MSA)                                                          | 1990-01-01          | 2022-03-01        |

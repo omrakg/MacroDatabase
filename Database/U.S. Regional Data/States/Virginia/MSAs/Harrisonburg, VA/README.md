@@ -15,29 +15,29 @@
 | ENUC255040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2021-07-01        |
 | ENUC255040510             | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2021-07-01        |
 | ENUC255040510SA           | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| HARR551BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-02-01        |
-| HARR551BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-02-01        |
-| HARR551BPPRIV             | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-02-01        |
-| HARR551BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-02-01        |
+| HARR551BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-03-01        |
+| HARR551BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-03-01        |
+| HARR551BPPRIV             | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-03-01        |
+| HARR551BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-03-01        |
 | HARR551GOVT               | All Employees: Government in Harrisonburg, VA (MSA)                                                    | 1990-01-01          | 2022-03-01        |
 | HARR551GOVTN              | All Employees: Government in Harrisonburg, VA (MSA)                                                    | 1990-01-01          | 2022-03-01        |
-| HARR551LF                 | Civilian Labor Force in Harrisonburg, VA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| HARR551LFN                | Civilian Labor Force in Harrisonburg, VA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| HARR551LF                 | Civilian Labor Force in Harrisonburg, VA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| HARR551LFN                | Civilian Labor Force in Harrisonburg, VA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | HARR551NA                 | All Employees: Total Nonfarm in Harrisonburg, VA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | HARR551NAN                | All Employees: Total Nonfarm in Harrisonburg, VA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | HARR551PCPI               | Per Capita Personal Income in Harrisonburg, VA (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | HARR551TRAD               | All Employees: Trade, Transportation, and Utilities in Harrisonburg, VA (MSA)                          | 1990-01-01          | 2022-03-01        |
 | HARR551TRADN              | All Employees: Trade, Transportation, and Utilities in Harrisonburg, VA (MSA)                          | 1990-01-01          | 2022-03-01        |
-| HARR551UR                 | Unemployment Rate in Harrisonburg, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
-| HARR551URN                | Unemployment Rate in Harrisonburg, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| HARR551UR                 | Unemployment Rate in Harrisonburg, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
+| HARR551URN                | Unemployment Rate in Harrisonburg, VA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | HAVPOP                    | Resident Population in Harrisonburg, VA (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | IRPD25500                 | Implicit Regional Price Deflator for Harrisonburg, VA (MSA)                                            | 2008-01-01          | 2020-01-01        |
-| LAUMT512550000000003A     | Unemployment Rate in Harrisonburg, VA (MSA)                                                            | 1990-01-01          | 2020-01-01        |
-| LAUMT512550000000004      | Unemployed Persons in Harrisonburg, VA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
-| LAUMT512550000000004A     | Unemployed Persons in Harrisonburg, VA (MSA)                                                           | 1990-01-01          | 2020-01-01        |
-| LAUMT512550000000005      | Employed Persons in Harrisonburg, VA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
-| LAUMT512550000000005A     | Employed Persons in Harrisonburg, VA (MSA)                                                             | 1990-01-01          | 2020-01-01        |
-| LAUMT512550000000006A     | Civilian Labor Force in Harrisonburg, VA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
+| LAUMT512550000000003A     | Unemployment Rate in Harrisonburg, VA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
+| LAUMT512550000000004      | Unemployed Persons in Harrisonburg, VA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
+| LAUMT512550000000004A     | Unemployed Persons in Harrisonburg, VA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
+| LAUMT512550000000005      | Employed Persons in Harrisonburg, VA (MSA)                                                             | 1990-01-01          | 2022-03-01        |
+| LAUMT512550000000005A     | Employed Persons in Harrisonburg, VA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
+| LAUMT512550000000006A     | Civilian Labor Force in Harrisonburg, VA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR25500          | Housing Inventory: Median Days on Market in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM25500        | Housing Inventory: Median Days on Market Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY25500        | Housing Inventory: Median Days on Market Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-03-01        |
@@ -79,13 +79,10 @@
 | SMU51255000500000001SA    | All Employees: Total Private in Harrisonburg, VA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | SMU51255000500000002      | Average Weekly Hours of All Employees: Total Private in Harrisonburg, VA (MSA)                         | 2007-01-01          | 2022-03-01        |
 | SMU51255000500000002A     | Average Weekly Hours of All Employees: Total Private in Harrisonburg, VA (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU51255000500000002SA    | Average Weekly Hours of All Employees: Total Private in Harrisonburg, VA (MSA)                         | 2007-01-01          | 2022-03-01        |
 | SMU51255000500000003      | Average Hourly Earnings of All Employees: Total Private in Harrisonburg, VA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU51255000500000003A     | Average Hourly Earnings of All Employees: Total Private in Harrisonburg, VA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU51255000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Harrisonburg, VA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU51255000500000011      | Average Weekly Earnings of All Employees: Total Private in Harrisonburg, VA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU51255000500000011A     | Average Weekly Earnings of All Employees: Total Private in Harrisonburg, VA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU51255000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Harrisonburg, VA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU51255000600000001      | All Employees: Goods Producing in Harrisonburg, VA (MSA)                                               | 1990-01-01          | 2022-03-01        |
 | SMU51255000600000001A     | All Employees: Goods Producing in Harrisonburg, VA (MSA)                                               | 1990-01-01          | 2021-01-01        |
 | SMU51255000600000001SA    | All Employees: Goods Producing in Harrisonburg, VA (MSA)                                               | 1990-01-01          | 2022-03-01        |

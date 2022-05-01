@@ -25,12 +25,12 @@
 | HORAYYMSA39660            | Market Hotness: Hotness Rank in Rapid City, SD (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA39660              | Market Hotness: Hotness Score in Rapid City, SD (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD39660                 | Implicit Regional Price Deflator for Rapid City, SD (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT463966000000003A     | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT463966000000004      | Unemployed Persons in Rapid City, SD (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT463966000000004A     | Unemployed Persons in Rapid City, SD (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT463966000000005      | Employed Persons in Rapid City, SD (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT463966000000005A     | Employed Persons in Rapid City, SD (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT463966000000006A     | Civilian Labor Force in Rapid City, SD (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT463966000000003A     | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT463966000000004      | Unemployed Persons in Rapid City, SD (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT463966000000004A     | Unemployed Persons in Rapid City, SD (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT463966000000005      | Employed Persons in Rapid City, SD (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT463966000000005A     | Employed Persons in Rapid City, SD (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT463966000000006A     | Civilian Labor Force in Rapid City, SD (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA39660          | Market Hotness: Listing Views per Property in Rapid City, SD (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA39660        | Market Hotness: Listing Views per Property Versus the United States in Rapid City, SD (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA39660          | Market Hotness: Listing Views per Property in Rapid City, SD (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -82,8 +82,8 @@
 | RAPI646INFON              | All Employees: Information in Rapid City, SD (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | RAPI646LEIH               | All Employees: Leisure and Hospitality in Rapid City, SD (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | RAPI646LEIHN              | All Employees: Leisure and Hospitality in Rapid City, SD (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| RAPI646LF                 | Civilian Labor Force in Rapid City, SD (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| RAPI646LFN                | Civilian Labor Force in Rapid City, SD (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| RAPI646LF                 | Civilian Labor Force in Rapid City, SD (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| RAPI646LFN                | Civilian Labor Force in Rapid City, SD (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | RAPI646MFG                | All Employees: Manufacturing in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | RAPI646MFGN               | All Employees: Manufacturing in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | RAPI646NA                 | All Employees: Total Nonfarm in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -97,8 +97,8 @@
 | RAPI646SRVON              | All Employees: Other Services in Rapid City, SD (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | RAPI646TRAD               | All Employees: Trade, Transportation, and Utilities in Rapid City, SD (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | RAPI646TRADN              | All Employees: Trade, Transportation, and Utilities in Rapid City, SD (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| RAPI646UR                 | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| RAPI646URN                | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| RAPI646UR                 | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| RAPI646URN                | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | RGMP39660                 | Total Real Gross Domestic Product for Rapid City, SD (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPCPOP                    | Resident Population in Rapid City, SD (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | RPI39660                  | Real Personal Income for Rapid City, SD (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -114,13 +114,10 @@
 | SMU46396600500000001SA    | All Employees: Total Private in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU46396600500000002      | Average Weekly Hours of All Employees: Total Private in Rapid City, SD (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU46396600500000002A     | Average Weekly Hours of All Employees: Total Private in Rapid City, SD (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU46396600500000002SA    | Average Weekly Hours of All Employees: Total Private in Rapid City, SD (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU46396600500000003      | Average Hourly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU46396600500000003A     | Average Hourly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU46396600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU46396600500000011      | Average Weekly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU46396600500000011A     | Average Weekly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU46396600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU46396600600000001      | All Employees: Goods Producing in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU46396600600000001A     | All Employees: Goods Producing in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU46396600600000001SA    | All Employees: Goods Producing in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-03-01        |

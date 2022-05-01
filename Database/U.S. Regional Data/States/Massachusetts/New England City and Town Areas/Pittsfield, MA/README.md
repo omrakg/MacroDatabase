@@ -1,78 +1,77 @@
-| id                     | title                                                                             | observation_start   | observation_end   |
-|------------------------|-----------------------------------------------------------------------------------|---------------------|-------------------|
-| LAUMT257660000000003A  | Unemployment Rate in Pittsfield, MA (NECTA)                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT257660000000004   | Unemployed Persons in Pittsfield, MA (NECTA)                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT257660000000004A  | Unemployed Persons in Pittsfield, MA (NECTA)                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT257660000000005   | Employed Persons in Pittsfield, MA (NECTA)                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT257660000000005A  | Employed Persons in Pittsfield, MA (NECTA)                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT257660000000006A  | Civilian Labor Force in Pittsfield, MA (NECTA)                                    | 1990-01-01          | 2020-01-01        |
-| PITT625EDUH            | All Employees: Education and Health Services in Pittsfield, MA (NECTA)            | 1990-01-01          | 2022-03-01        |
-| PITT625EDUHN           | All Employees: Education and Health Services in Pittsfield, MA (NECTA)            | 1990-01-01          | 2022-03-01        |
-| PITT625FIRE            | All Employees: Financial Activities in Pittsfield, MA (NECTA)                     | 1990-01-01          | 2022-03-01        |
-| PITT625FIREN           | All Employees: Financial Activities in Pittsfield, MA (NECTA)                     | 1990-01-01          | 2022-03-01        |
-| PITT625GOVT            | All Employees: Government in Pittsfield, MA (NECTA)                               | 1990-01-01          | 2022-03-01        |
-| PITT625GOVTN           | All Employees: Government in Pittsfield, MA (NECTA)                               | 1990-01-01          | 2022-03-01        |
-| PITT625INFO            | All Employees: Information in Pittsfield, MA (NECTA)                              | 1990-01-01          | 2022-03-01        |
-| PITT625INFON           | All Employees: Information in Pittsfield, MA (NECTA)                              | 1990-01-01          | 2022-03-01        |
-| PITT625LEIH            | All Employees: Leisure and Hospitality in Pittsfield, MA (NECTA)                  | 1990-01-01          | 2022-03-01        |
-| PITT625LEIHN           | All Employees: Leisure and Hospitality in Pittsfield, MA (NECTA)                  | 1990-01-01          | 2022-03-01        |
-| PITT625LF              | Civilian Labor Force in Pittsfield, MA (NECTA)                                    | 1990-01-01          | 2022-02-01        |
-| PITT625LFN             | Civilian Labor Force in Pittsfield, MA (NECTA)                                    | 1990-01-01          | 2022-02-01        |
-| PITT625MFG             | All Employees: Manufacturing in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-03-01        |
-| PITT625MFGN            | All Employees: Manufacturing in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-03-01        |
-| PITT625NA              | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-03-01        |
-| PITT625NAN             | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-03-01        |
-| PITT625NRMN            | All Employees: Mining, Logging, and Construction in Pittsfield, MA (NECTA)        | 1990-01-01          | 2022-03-01        |
-| PITT625NRMNN           | All Employees: Mining, Logging, and Construction in Pittsfield, MA (NECTA)        | 1990-01-01          | 2022-03-01        |
-| PITT625PBSV            | All Employees: Professional and Business Services in Pittsfield, MA (NECTA)       | 1990-01-01          | 2022-03-01        |
-| PITT625PBSVN           | All Employees: Professional and Business Services in Pittsfield, MA (NECTA)       | 1990-01-01          | 2022-03-01        |
-| PITT625PCPI            | Per Capita Personal Income in Pittsfield, MA (MSA)                                | 1969-01-01          | 2020-01-01        |
-| PITT625SRVO            | All Employees: Other Services in Pittsfield, MA (NECTA)                           | 1990-01-01          | 2022-03-01        |
-| PITT625SRVON           | All Employees: Other Services in Pittsfield, MA (NECTA)                           | 1990-01-01          | 2022-03-01        |
-| PITT625TRAD            | All Employees: Trade, Transportation, and Utilities in Pittsfield, MA (NECTA)     | 1990-01-01          | 2022-03-01        |
-| PITT625TRADN           | All Employees: Trade, Transportation, and Utilities in Pittsfield, MA (NECTA)     | 1990-01-01          | 2022-03-01        |
-| PITT625UR              | Unemployment Rate in Pittsfield, MA (NECTA)                                       | 1990-01-01          | 2022-02-01        |
-| PITT625URN             | Unemployment Rate in Pittsfield, MA (NECTA)                                       | 1990-01-01          | 2022-02-01        |
-| SMS25766000000000001   | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2018-02-01        |
-| SMS25766000000000026   | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-04-01          | 2022-03-01        |
-| SMU25766000000000001A  | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2021-01-01        |
-| SMU25766000500000001   | All Employees: Total Private in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-03-01        |
-| SMU25766000500000001A  | All Employees: Total Private in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2021-01-01        |
-| SMU25766000500000001SA | All Employees: Total Private in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-03-01        |
-| SMU25766000500000002   | Average Weekly Hours of All Employees: Total Private in Pittsfield, MA (NECTA)    | 2007-01-01          | 2022-03-01        |
-| SMU25766000500000002A  | Average Weekly Hours of All Employees: Total Private in Pittsfield, MA (NECTA)    | 2007-01-01          | 2021-01-01        |
-| SMU25766000500000002SA | Average Weekly Hours of All Employees: Total Private in Pittsfield, MA (NECTA)    | 2007-01-01          | 2022-03-01        |
-| SMU25766000500000003   | Average Hourly Earnings of All Employees: Total Private in Pittsfield, MA (NECTA) | 2007-01-01          | 2022-03-01        |
-| SMU25766000500000003A  | Average Hourly Earnings of All Employees: Total Private in Pittsfield, MA (NECTA) | 2007-01-01          | 2021-01-01        |
-| SMU25766000500000003SA | Average Hourly Earnings of All Employees: Total Private in Pittsfield, MA (NECTA) | 2007-01-01          | 2022-03-01        |
-| SMU25766000500000011   | Average Weekly Earnings of All Employees: Total Private in Pittsfield, MA (NECTA) | 2007-01-01          | 2022-03-01        |
-| SMU25766000500000011A  | Average Weekly Earnings of All Employees: Total Private in Pittsfield, MA (NECTA) | 2007-01-01          | 2021-01-01        |
-| SMU25766000500000011SA | Average Weekly Earnings of All Employees: Total Private in Pittsfield, MA (NECTA) | 2007-01-01          | 2022-03-01        |
-| SMU25766000600000001   | All Employees: Goods Producing in Pittsfield, MA (NECTA)                          | 1990-01-01          | 2022-03-01        |
-| SMU25766000600000001A  | All Employees: Goods Producing in Pittsfield, MA (NECTA)                          | 1990-01-01          | 2021-01-01        |
-| SMU25766000600000001SA | All Employees: Goods Producing in Pittsfield, MA (NECTA)                          | 1990-01-01          | 2022-03-01        |
-| SMU25766000700000001   | All Employees: Service-Providing in Pittsfield, MA (NECTA)                        | 1990-01-01          | 2022-03-01        |
-| SMU25766000700000001A  | All Employees: Service-Providing in Pittsfield, MA (NECTA)                        | 1990-01-01          | 2021-01-01        |
-| SMU25766000700000001SA | All Employees: Service-Providing in Pittsfield, MA (NECTA)                        | 1990-01-01          | 2022-03-01        |
-| SMU25766000800000001   | All Employees: Private Service Providing in Pittsfield, MA (NECTA)                | 1990-01-01          | 2022-03-01        |
-| SMU25766000800000001A  | All Employees: Private Service Providing in Pittsfield, MA (NECTA)                | 1990-01-01          | 2021-01-01        |
-| SMU25766000800000001SA | All Employees: Private Service Providing in Pittsfield, MA (NECTA)                | 1990-01-01          | 2022-03-01        |
-| SMU25766001500000001A  | All Employees: Mining, Logging, and Construction in Pittsfield, MA (NECTA)        | 1990-01-01          | 2021-01-01        |
-| SMU25766003000000001A  | All Employees: Manufacturing in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2021-01-01        |
-| SMU25766004000000001A  | All Employees: Trade, Transportation, and Utilities in Pittsfield, MA (NECTA)     | 1990-01-01          | 2021-01-01        |
-| SMU25766005000000001A  | All Employees: Information in Pittsfield, MA (NECTA)                              | 1990-01-01          | 2021-01-01        |
-| SMU25766005500000001A  | All Employees: Financial Activities in Pittsfield, MA (NECTA)                     | 1990-01-01          | 2021-01-01        |
-| SMU25766006000000001A  | All Employees: Professional and Business Services in Pittsfield, MA (NECTA)       | 1990-01-01          | 2021-01-01        |
-| SMU25766006500000001A  | All Employees: Education and Health Services in Pittsfield, MA (NECTA)            | 1990-01-01          | 2021-01-01        |
-| SMU25766007000000001A  | All Employees: Leisure and Hospitality in Pittsfield, MA (NECTA)                  | 1990-01-01          | 2021-01-01        |
-| SMU25766008000000001A  | All Employees: Other Services in Pittsfield, MA (NECTA)                           | 1990-01-01          | 2021-01-01        |
-| SMU25766009000000001A  | All Employees: Government in Pittsfield, MA (NECTA)                               | 1990-01-01          | 2021-01-01        |
-| SMU25766009091000001   | All Employees: Government: Federal Government in Pittsfield, MA (NECTA)           | 1990-01-01          | 2022-03-01        |
-| SMU25766009091000001A  | All Employees: Government: Federal Government in Pittsfield, MA (NECTA)           | 1990-01-01          | 2021-01-01        |
-| SMU25766009091000001SA | All Employees: Government: Federal Government in Pittsfield, MA (NECTA)           | 1990-01-01          | 2022-03-01        |
-| SMU25766009092000001   | All Employees: Government: State Government in Pittsfield, MA (NECTA)             | 1990-01-01          | 2022-03-01        |
-| SMU25766009092000001A  | All Employees: Government: State Government in Pittsfield, MA (NECTA)             | 1990-01-01          | 2021-01-01        |
-| SMU25766009092000001SA | All Employees: Government: State Government in Pittsfield, MA (NECTA)             | 1990-01-01          | 2022-03-01        |
-| SMU25766009093000001   | All Employees: Government: Local Government in Pittsfield, MA (NECTA)             | 1990-01-01          | 2022-03-01        |
-| SMU25766009093000001A  | All Employees: Local Government in Pittsfield, MA (NECTA)                         | 1990-01-01          | 2021-01-01        |
-| SMU25766009093000001SA | All Employees: Government: Local Government in Pittsfield, MA (NECTA)             | 1990-01-01          | 2022-03-01        |
+| id                        | title                                                                                             | observation_start   | observation_end   |
+|---------------------------|---------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ACTLISCOU38340            | Housing Inventory: Active Listing Count in Pittsfield, MA (CBSA)                                  | 2016-07-01          | 2022-03-01        |
+| ACTLISCOUMM38340          | Housing Inventory: Active Listing Count Month-Over-Month in Pittsfield, MA (CBSA)                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOUYY38340          | Housing Inventory: Active Listing Count Year-Over-Year in Pittsfield, MA (CBSA)                   | 2017-07-01          | 2022-03-01        |
+| ATNHPIUS38340Q            | All-Transactions House Price Index for Pittsfield, MA (MSA)                                       | 1986-04-01          | 2021-10-01        |
+| AVELISPRI38340            | Housing Inventory: Average Listing Price in Pittsfield, MA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
+| AVELISPRIMM38340          | Housing Inventory: Average Listing Price Month-Over-Month in Pittsfield, MA (CBSA)                | 2017-07-01          | 2022-03-01        |
+| AVELISPRIYY38340          | Housing Inventory: Average Listing Price Year-Over-Year in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
+| DESCMSA38340              | Market Hotness: Demand Score in Pittsfield, MA (CBSA)                                             | 2017-08-01          | 2022-03-01        |
+| ENUC383430010             | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
+| ENUC383430010SA           | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
+| ENUC383440010             | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2021-07-01        |
+| ENUC383440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2021-07-01        |
+| ENUC383440110             | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2021-07-01        |
+| ENUC383440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2021-07-01        |
+| ENUC383440210             | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2021-07-01        |
+| ENUC383440210SA           | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2021-07-01        |
+| ENUC383440310             | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2021-07-01        |
+| ENUC383440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2021-07-01        |
+| ENUC383440510             | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC383440510SA           | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2021-07-01        |
+| HORAMMMSA38340            | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
+| HORAMSA38340              | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2017-08-01          | 2022-03-01        |
+| HORAYYMSA38340            | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
+| HOSCMSA38340              | Market Hotness: Hotness Score in Pittsfield, MA (CBSA)                                            | 2017-08-01          | 2022-03-01        |
+| IRPD38340                 | Implicit Regional Price Deflator for Pittsfield, MA (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| LDPEPRMMMSA38340          | Market Hotness: Listing Views per Property in Pittsfield, MA (CBSA)                               | 2018-08-01          | 2022-03-01        |
+| LDPEPRVSUSMSA38340        | Market Hotness: Listing Views per Property Versus the United States in Pittsfield, MA (CBSA)      | 2017-08-01          | 2022-03-01        |
+| LDPEPRYYMSA38340          | Market Hotness: Listing Views per Property in Pittsfield, MA (CBSA)                               | 2018-08-01          | 2022-03-01        |
+| MEDAONMAMMMSA38340        | Market Hotness: Median Days on Market in Pittsfield, MA (CBSA)                                    | 2018-08-01          | 2022-03-01        |
+| MEDAONMAMSA38340          | Market Hotness: Median Days on Market in Pittsfield, MA (CBSA)                                    | 2017-08-01          | 2022-03-01        |
+| MEDAONMAYYMSA38340        | Market Hotness: Median Days on Market in Pittsfield, MA (CBSA)                                    | 2018-08-01          | 2022-03-01        |
+| MEDDAYONMAR38340          | Housing Inventory: Median Days on Market in Pittsfield, MA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
+| MEDDAYONMARMM38340        | Housing Inventory: Median Days on Market Month-Over-Month in Pittsfield, MA (CBSA)                | 2017-07-01          | 2022-03-01        |
+| MEDDAYONMARYY38340        | Housing Inventory: Median Days on Market Year-Over-Year in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
+| MEDLISPRI38340            | Housing Inventory: Median Listing Price in Pittsfield, MA (CBSA)                                  | 2016-07-01          | 2022-03-01        |
+| MEDLISPRIMM38340          | Housing Inventory: Median Listing Price Month-Over-Month in Pittsfield, MA (CBSA)                 | 2017-07-01          | 2022-03-01        |
+| MEDLISPRIPERSQUFEE38340   | Housing Inventory: Median Listing Price per Square Feet in Pittsfield, MA (CBSA)                  | 2016-07-01          | 2022-03-01        |
+| MEDLISPRIPERSQUFEEMM38340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Pittsfield, MA (CBSA) | 2017-07-01          | 2022-03-01        |
+| MEDLISPRIPERSQUFEEYY38340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Pittsfield, MA (CBSA)   | 2017-07-01          | 2022-03-01        |
+| MEDLISPRIYY38340          | Housing Inventory: Median Listing Price Year-Over-Year in Pittsfield, MA (CBSA)                   | 2017-07-01          | 2022-03-01        |
+| MEDOMMDAMSA38340          | Market Hotness: Median Days on Market in Pittsfield, MA (CBSA)                                    | 2018-08-01          | 2022-03-01        |
+| MEDOVSUSMSA38340          | Market Hotness: Median Days on Market Versus the United States in Pittsfield, MA (CBSA)           | 2017-08-01          | 2022-03-01        |
+| MEDOYYDAMSA38340          | Market Hotness: Median Days on Market Day in Pittsfield, MA (CBSA)                                | 2018-08-01          | 2022-03-01        |
+| MEDSQUFEE38340            | Housing Inventory: Median Home Size in Square Feet in Pittsfield, MA (CBSA)                       | 2016-07-01          | 2022-03-01        |
+| MEDSQUFEEMM38340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Pittsfield, MA (CBSA)      | 2017-07-01          | 2022-03-01        |
+| MEDSQUFEEYY38340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Pittsfield, MA (CBSA)        | 2017-07-01          | 2022-03-01        |
+| MELIPRMMMSA38340          | Market Hotness: Median Listing Price in Pittsfield, MA (CBSA)                                     | 2018-08-01          | 2022-03-01        |
+| MELIPRMSA38340            | Market Hotness: Median Listing Price in Pittsfield, MA (CBSA)                                     | 2017-08-01          | 2022-03-01        |
+| MELIPRVSUSMSA38340        | Market Hotness: Median Listing Price Versus the United States in Pittsfield, MA (CBSA)            | 2017-08-01          | 2022-03-01        |
+| MELIPRYYMSA38340          | Market Hotness: Median Listing Price in Pittsfield, MA (CBSA)                                     | 2018-08-01          | 2022-03-01        |
+| NEWLISCOU38340            | Housing Inventory: New Listing Count in Pittsfield, MA (CBSA)                                     | 2016-07-01          | 2022-03-01        |
+| NEWLISCOUMM38340          | Housing Inventory: New Listing Count Month-Over-Month in Pittsfield, MA (CBSA)                    | 2017-07-01          | 2022-03-01        |
+| NEWLISCOUYY38340          | Housing Inventory: New Listing Count Year-Over-Year in Pittsfield, MA (CBSA)                      | 2017-07-01          | 2022-03-01        |
+| NGMP38340                 | Total Gross Domestic Product for Pittsfield, MA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NIHHRAMSA38340            | Market Hotness: Nielsen Household Rank in Pittsfield, MA (CBSA)                                   | 2017-08-01          | 2022-03-01        |
+| PATENTCBSA138340          | U.S. Granted Utility Patents Originating in Pittsfield, MA (MSA)                                  | 2000-01-01          | 2015-01-01        |
+| PENLISCOU38340            | Housing Inventory: Pending Listing Count in Pittsfield, MA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
+| PENLISCOUMM38340          | Housing Inventory: Pending Listing Count Month-Over-Month in Pittsfield, MA (CBSA)                | 2017-07-01          | 2022-03-01        |
+| PENLISCOUYY38340          | Housing Inventory: Pending Listing Count Year-Over-Year in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
+| PRIINCCOU38340            | Housing Inventory: Price Increased Count in Pittsfield, MA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
+| PRIINCCOUMM38340          | Housing Inventory: Price Increased Count Month-Over-Month in Pittsfield, MA (CBSA)                | 2017-07-01          | 2022-03-01        |
+| PRIINCCOUYY38340          | Housing Inventory: Price Increased Count Year-Over-Year in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-02-01        |
+| PRIREDCOU38340            | Housing Inventory: Price Reduced Count in Pittsfield, MA (CBSA)                                   | 2016-07-01          | 2022-03-01        |
+| PRIREDCOUMM38340          | Housing Inventory: Price Reduced Count Month-Over-Month in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-03-01        |
+| PRIREDCOUYY38340          | Housing Inventory: Price Reduced Count Year-Over-Year in Pittsfield, MA (CBSA)                    | 2017-07-01          | 2022-03-01        |
+| PTSPOP                    | Resident Population in Pittsfield, MA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
+| QGMP38340                 | Total Quantity Indexes for Real GDP for Pittsfield, MA (MSA)                                      | 2001-01-01          | 2020-01-01        |
+| RGMP38340                 | Total Real Gross Domestic Product for Pittsfield, MA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| RPI38340                  | Real Personal Income for Pittsfield, MA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
+| RPIPC38340                | Real Per Capita Personal Income for Pittsfield, MA (MSA)                                          | 2008-01-01          | 2020-01-01        |
+| RPPALL38340               | Regional Price Parities: All Items for Pittsfield, MA (MSA)                                       | 2008-01-01          | 2020-01-01        |
+| RPPGOOD38340              | Regional Price Parities: Goods for Pittsfield, MA (MSA)                                           | 2008-01-01          | 2020-01-01        |
+| RPPSERVEOTH38340          | Regional Price Parities: Services: Other for Pittsfield, MA (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| RPPSERVERENT38340         | Regional Price Parities: Services: Rents for Pittsfield, MA (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| SUSCMSA38340              | Market Hotness: Supply Score in Pittsfield, MA (CBSA)                                             | 2017-08-01          | 2022-03-01        |

@@ -16,14 +16,14 @@
 | ESTPOP                 | Resident Population in East Stroudsburg, PA (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | ESTR942PCPI            | Per Capita Personal Income in East Stroudsburg, PA (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | IRPD20700              | Implicit Regional Price Deflator for East Stroudsburg, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT422070000000003   | Unemployment Rate in East Stroudsburg, PA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT422070000000003A  | Unemployment Rate in East Stroudsburg, PA (MSA)                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT422070000000004   | Unemployed Persons in East Stroudsburg, PA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT422070000000004A  | Unemployed Persons in East Stroudsburg, PA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT422070000000005   | Employed Persons in East Stroudsburg, PA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT422070000000005A  | Employed Persons in East Stroudsburg, PA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT422070000000006   | Civilian Labor Force in East Stroudsburg, PA (MSA)                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT422070000000006A  | Civilian Labor Force in East Stroudsburg, PA (MSA)                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT422070000000003   | Unemployment Rate in East Stroudsburg, PA (MSA)                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT422070000000003A  | Unemployment Rate in East Stroudsburg, PA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT422070000000004   | Unemployed Persons in East Stroudsburg, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT422070000000004A  | Unemployed Persons in East Stroudsburg, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT422070000000005   | Employed Persons in East Stroudsburg, PA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT422070000000005A  | Employed Persons in East Stroudsburg, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT422070000000006   | Civilian Labor Force in East Stroudsburg, PA (MSA)                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT422070000000006A  | Civilian Labor Force in East Stroudsburg, PA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP20700              | Total Gross Domestic Product for East Stroudsburg, PA (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP20700              | Total Quantity Indexes for Real GDP for East Stroudsburg, PA (MSA)                                    | 2001-01-01          | 2020-01-01        |
 | RGMP20700              | Total Real Gross Domestic Product for East Stroudsburg, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
@@ -41,13 +41,10 @@
 | SMU42207000500000001SA | All Employees: Total Private in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU42207000500000002   | Average Weekly Hours of All Employees: Total Private in East Stroudsburg, PA (MSA)                    | 2011-01-01          | 2022-03-01        |
 | SMU42207000500000002A  | Average Weekly Hours of All Employees: Total Private in East Stroudsburg, PA (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU42207000500000002SA | Average Weekly Hours of All Employees: Total Private in East Stroudsburg, PA (MSA)                    | 2011-01-01          | 2022-03-01        |
 | SMU42207000500000003   | Average Hourly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU42207000500000003A  | Average Hourly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU42207000500000003SA | Average Hourly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU42207000500000011   | Average Weekly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU42207000500000011A  | Average Weekly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU42207000500000011SA | Average Weekly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-03-01        |
 | SMU42207000600000001   | All Employees: Goods Producing in East Stroudsburg, PA (MSA)                                          | 1990-01-01          | 2022-03-01        |
 | SMU42207000600000001A  | All Employees: Goods Producing in East Stroudsburg, PA (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU42207000600000001SA | All Employees: Goods Producing in East Stroudsburg, PA (MSA)                                          | 1990-01-01          | 2022-03-01        |

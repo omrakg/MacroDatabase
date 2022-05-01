@@ -25,12 +25,12 @@
 | HORAYYMSA44180            | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA44180              | Market Hotness: Hotness Score in Springfield, MO (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD44180                 | Implicit Regional Price Deflator for Springfield, MO (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT294418000000003A     | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT294418000000004      | Unemployed Persons in Springfield, MO (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT294418000000004A     | Unemployed Persons in Springfield, MO (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT294418000000005      | Employed Persons in Springfield, MO (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT294418000000005A     | Employed Persons in Springfield, MO (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT294418000000006A     | Civilian Labor Force in Springfield, MO (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT294418000000003A     | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT294418000000004      | Unemployed Persons in Springfield, MO (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT294418000000004A     | Unemployed Persons in Springfield, MO (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT294418000000005      | Employed Persons in Springfield, MO (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT294418000000005A     | Employed Persons in Springfield, MO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT294418000000006A     | Civilian Labor Force in Springfield, MO (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA44180          | Market Hotness: Listing Views per Property in Springfield, MO (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA44180        | Market Hotness: Listing Views per Property Versus the United States in Springfield, MO (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA44180          | Market Hotness: Listing Views per Property in Springfield, MO (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -86,13 +86,10 @@
 | SMU29441800500000001SA    | All Employees: Total Private in Springfield, MO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU29441800500000002      | Average Weekly Hours of All Employees: Total Private in Springfield, MO (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU29441800500000002A     | Average Weekly Hours of All Employees: Total Private in Springfield, MO (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU29441800500000002SA    | Average Weekly Hours of All Employees: Total Private in Springfield, MO (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU29441800500000003      | Average Hourly Earnings of All Employees: Total Private in Springfield, MO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU29441800500000003A     | Average Hourly Earnings of All Employees: Total Private in Springfield, MO (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU29441800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Springfield, MO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU29441800500000011      | Average Weekly Earnings of All Employees: Total Private in Springfield, MO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU29441800500000011A     | Average Weekly Earnings of All Employees: Total Private in Springfield, MO (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU29441800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Springfield, MO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU29441800600000001      | All Employees: Goods Producing in Springfield, MO (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU29441800600000001A     | All Employees: Goods Producing in Springfield, MO (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU29441800600000001SA    | All Employees: Goods Producing in Springfield, MO (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -116,13 +113,10 @@
 | SMU29441804200000006SA    | Production or Nonsupervisory Employees: Retail Trade in Springfield, MO (MSA)                                    | 2003-01-01          | 2022-03-01        |
 | SMU29441804200000007      | Average Weekly Hours of Production Employees: Retail Trade in Springfield, MO (MSA)                              | 2003-01-01          | 2022-03-01        |
 | SMU29441804200000007A     | Average Weekly Hours of Production Employees: Retail Trade in Springfield, MO (MSA)                              | 2003-01-01          | 2021-01-01        |
-| SMU29441804200000007SA    | Average Weekly Hours of Production Employees: Retail Trade in Springfield, MO (MSA)                              | 2003-01-01          | 2022-03-01        |
 | SMU29441804200000008      | Average Hourly Earnings of Production Employees: Retail Trade in Springfield, MO (MSA)                           | 2003-01-01          | 2022-03-01        |
 | SMU29441804200000008A     | Average Hourly Earnings of Production Employees: Retail Trade in Springfield, MO (MSA)                           | 2003-01-01          | 2021-01-01        |
-| SMU29441804200000008SA    | Average Hourly Earnings of Production Employees: Retail Trade in Springfield, MO (MSA)                           | 2003-01-01          | 2022-03-01        |
 | SMU29441804200000030      | Average Weekly Earnings of Production Employees: Retail Trade in Springfield, MO (MSA)                           | 2003-01-01          | 2022-03-01        |
 | SMU29441804200000030A     | Average Weekly Earnings of Production Employees: Retail Trade in Springfield, MO (MSA)                           | 2003-01-01          | 2021-01-01        |
-| SMU29441804200000030SA    | Average Weekly Earnings of Production Employees: Retail Trade in Springfield, MO (MSA)                           | 2003-01-01          | 2022-03-01        |
 | SMU29441804245200001      | All Employees: Retail Trade: General Merchandise Stores in Springfield, MO (MSA)                                 | 1990-01-01          | 2022-03-01        |
 | SMU29441804245200001A     | All Employees: Retail Trade: General Merchandise Stores in Springfield, MO (MSA)                                 | 1990-01-01          | 2021-01-01        |
 | SMU29441804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Springfield, MO (MSA)                                 | 1990-01-01          | 2022-03-01        |
@@ -161,8 +155,8 @@
 | SPIINFON                  | All Employees: Information in Springfield, MO (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | SPILEIH                   | All Employees: Leisure and Hospitality in Springfield, MO (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | SPILEIHN                  | All Employees: Leisure and Hospitality in Springfield, MO (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| SPILF                     | Civilian Labor Force in Springfield, MO (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| SPILFN                    | Civilian Labor Force in Springfield, MO (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SPILF                     | Civilian Labor Force in Springfield, MO (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| SPILFN                    | Civilian Labor Force in Springfield, MO (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | SPIMFG                    | All Employees: Manufacturing in Springfield, MO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SPIMFGN                   | All Employees: Manufacturing in Springfield, MO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SPINA                     | All Employees: Total Nonfarm in Springfield, MO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -177,6 +171,6 @@
 | SPISRVON                  | All Employees: Other Services in Springfield, MO (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | SPITRAD                   | All Employees: Trade, Transportation, and Utilities in Springfield, MO (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | SPITRADN                  | All Employees: Trade, Transportation, and Utilities in Springfield, MO (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| SPIUR                     | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| SPIURN                    | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| SPIUR                     | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| SPIURN                    | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SUSCMSA44180              | Market Hotness: Supply Score in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-03-01        |

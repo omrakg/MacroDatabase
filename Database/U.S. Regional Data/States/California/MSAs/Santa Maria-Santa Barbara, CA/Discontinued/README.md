@@ -137,3 +137,6 @@
 | SMU06420609093200001   | All Employees: Local Government Excluding Educational Services in Santa Barbara-Santa Maria-Goleta, CA (MSA) (DISCONTINUED)                          | 2003-01-01          | 2014-12-01        |
 | SMU06420609093200001A  | All Employees: Local Government Excluding Educational Services in Santa Barbara-Santa Maria-Goleta, CA (MSA) (DISCONTINUED)                          | 2003-01-01          | 2013-01-01        |
 | SMU06420609093200001SA | All Employees: Local Government Excluding Educational Services in Santa Barbara-Santa Maria-Goleta, CA (MSA) (DISCONTINUED)                          | 2003-01-01          | 2014-12-01        |
+| SMU06422000500000002SA | Average Weekly Hours of All Employees: Total Private in Santa Maria-Santa Barbara, CA (MSA) (DISCONTINUED)                                           | 2007-01-01          | 2022-03-01        |
+| SMU06422000500000003SA | Average Hourly Earnings of All Employees: Total Private in Santa Maria-Santa Barbara, CA (MSA) (DISCONTINUED)                                        | 2007-01-01          | 2022-03-01        |
+| SMU06422000500000011SA | Average Weekly Earnings of All Employees: Total Private in Santa Maria-Santa Barbara, CA (MSA) (DISCONTINUED)                                        | 2007-01-01          | 2022-03-01        |

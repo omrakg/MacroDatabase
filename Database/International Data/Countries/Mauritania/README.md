@@ -88,12 +88,12 @@
 | MNMRTA475SCEN        | Number of Identified Exporters to Mauritania from Minnesota                                                                  | 1997-01-01          | 2017-01-01        |
 | MOMRTA052SCEN        | Value of Exports to Mauritania from Missouri                                                                                 | 2010-01-01          | 2014-01-01        |
 | MOMRTA475SCEN        | Number of Identified Exporters to Mauritania from Missouri                                                                   | 1997-01-01          | 2017-01-01        |
-| MRTBCAGDPGDPPT       | Current Account Balance for Mauritania                                                                                       | 2000-01-01          | 2022-01-01        |
-| MRTBCAUSD            | Balance on Current Account for Mauritania                                                                                    | 2000-01-01          | 2022-01-01        |
-| MRTBMUSD             | Imports of Goods and Services for Mauritania                                                                                 | 2000-01-01          | 2022-01-01        |
-| MRTBXUSD             | Exports of Goods and Services for Mauritania                                                                                 | 2000-01-01          | 2022-01-01        |
-| MRTDGDPGDPPT         | Total External Debt for Mauritania                                                                                           | 2006-01-01          | 2022-01-01        |
-| MRTFAFARUSD          | Gross International Reserves Held by Central Bank for Mauritania                                                             | 2000-01-01          | 2022-01-01        |
+| MRTBCAGDPGDPPT       | Current Account Balance for Mauritania                                                                                       | 2000-01-01          | 2023-01-01        |
+| MRTBCAUSD            | Balance on Current Account for Mauritania                                                                                    | 2000-01-01          | 2023-01-01        |
+| MRTBMUSD             | Imports of Goods and Services for Mauritania                                                                                 | 2000-01-01          | 2023-01-01        |
+| MRTBXUSD             | Exports of Goods and Services for Mauritania                                                                                 | 2000-01-01          | 2023-01-01        |
+| MRTDGDPGDPPT         | Total External Debt for Mauritania                                                                                           | 2006-01-01          | 2023-01-01        |
+| MRTFAFARUSD          | Gross International Reserves Held by Central Bank for Mauritania                                                             | 2000-01-01          | 2023-01-01        |
 | MRTFCAANUM           | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Mauritania                                                 | 2011-01-01          | 2020-01-01        |
 | MRTFCACNUM           | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Mauritania                               | 2011-01-01          | 2020-01-01        |
 | MRTFCAKNUM           | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Mauritania                                                       | 2011-01-01          | 2020-01-01        |
@@ -121,22 +121,22 @@
 | MRTFCSODCXDC         | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Mauritania                                      | 2010-01-01          | 2020-01-01        |
 | MRTFCSODUGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Loans from Credit Unions and Financial Cooperatives for Mauritania    | 2013-01-01          | 2020-01-01        |
 | MRTFCSODUXDC         | Use of Financial Services, Assets: Outstanding Loans at Credit Unions and Financial Cooperatives for Mauritania              | 2013-01-01          | 2020-01-01        |
-| MRTFMBPCHPT          | Broad Money for Mauritania                                                                                                   | 2000-01-01          | 2022-01-01        |
-| MRTGCXCNLGDPGDPPT    | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Mauritania                                        | 2006-01-01          | 2022-01-01        |
-| MRTGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Mauritania                                                                 | 2002-01-01          | 2022-01-01        |
-| MRTGGBXOGDPXOGDPXOPT | Overall Non-Oil Fiscal Balance for General Government for Mauritania                                                         | 2000-01-01          | 2022-01-01        |
-| MRTGGDGDPGDPPT       | Total Government Debt for General Government for Mauritania                                                                  | 2007-01-01          | 2022-01-01        |
+| MRTFMBPCHPT          | Broad Money for Mauritania                                                                                                   | 2000-01-01          | 2023-01-01        |
+| MRTGCXCNLGDPGDPPT    | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Mauritania                                        | 2006-01-01          | 2023-01-01        |
+| MRTGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Mauritania                                                                 | 2002-01-01          | 2023-01-01        |
+| MRTGGBXOGDPXOGDPXOPT | Overall Non-Oil Fiscal Balance for General Government for Mauritania                                                         | 2000-01-01          | 2023-01-01        |
+| MRTGGDGDPGDPPT       | Total Government Debt for General Government for Mauritania                                                                  | 2007-01-01          | 2023-01-01        |
 | MRTGGENLGDPGDPPT     | Total Expenditure and Net Lending for General Government for Mauritania                                                      | 2002-01-01          | 2021-01-01        |
-| MRTGGNDGDPGDPPT      | General Government Net Debt for Mauritania                                                                                   | 2007-01-01          | 2022-01-01        |
-| MRTGGRXGGDPGDPPT     | Total Revenue, Excluding Grants, for General Government for Mauritania                                                       | 2006-01-01          | 2022-01-01        |
-| MRTGGRXOGDPXOPT      | Non-oil Revenue for General Government for Mauritania                                                                        | 2002-01-01          | 2022-01-01        |
-| MRTNGDPDUSD          | Gross Domestic Product in Current Prices for Mauritania                                                                      | 2000-01-01          | 2022-01-01        |
-| MRTNGDPMG            | Gas Production for Mauritania                                                                                                | 2019-01-01          | 2022-01-01        |
-| MRTNGDPMOMBD         | Crude Oil Production for Mauritania                                                                                          | 2006-01-01          | 2022-01-01        |
-| MRTNGDPORPCHPT       | Oil Real GDP Growth in Constant Prices for Mauritania                                                                        | 2007-01-01          | 2022-01-01        |
-| MRTNGDPRPCHPT        | Gross Domestic Product in Constant Prices for Mauritania                                                                     | 2000-01-01          | 2022-01-01        |
-| MRTNGDPXORPCHPT      | Non-Oil Real GDP Growth in Constant Prices for Mauritania                                                                    | 2000-01-01          | 2022-01-01        |
-| MRTPCPIPCHPT         | Consumer Price Inflation for Mauritania                                                                                      | 2000-01-01          | 2022-01-01        |
+| MRTGGNDGDPGDPPT      | General Government Net Debt for Mauritania                                                                                   | 2007-01-01          | 2023-01-01        |
+| MRTGGRXGGDPGDPPT     | Total Revenue, Excluding Grants, for General Government for Mauritania                                                       | 2006-01-01          | 2023-01-01        |
+| MRTGGRXOGDPXOPT      | Non-oil Revenue for General Government for Mauritania                                                                        | 2002-01-01          | 2023-01-01        |
+| MRTNGDPDUSD          | Gross Domestic Product in Current Prices for Mauritania                                                                      | 2000-01-01          | 2023-01-01        |
+| MRTNGDPMG            | Gas Production for Mauritania                                                                                                | 2019-01-01          | 2023-01-01        |
+| MRTNGDPMOMBD         | Crude Oil Production for Mauritania                                                                                          | 2006-01-01          | 2023-01-01        |
+| MRTNGDPORPCHPT       | Oil Real GDP Growth in Constant Prices for Mauritania                                                                        | 2007-01-01          | 2018-01-01        |
+| MRTNGDPRPCHPT        | Gross Domestic Product in Constant Prices for Mauritania                                                                     | 2000-01-01          | 2023-01-01        |
+| MRTNGDPXORPCHPT      | Non-Oil Real GDP Growth in Constant Prices for Mauritania                                                                    | 2000-01-01          | 2023-01-01        |
+| MRTPCPIPCHPT         | Consumer Price Inflation for Mauritania                                                                                      | 2000-01-01          | 2023-01-01        |
 | MSMRTA052SCEN        | Value of Exports to Mauritania from Mississippi                                                                              | 2013-01-01          | 2013-01-01        |
 | MSMRTA475SCEN        | Number of Identified Exporters to Mauritania from Mississippi                                                                | 1992-01-01          | 2013-01-01        |
 | MTMRTA475SCEN        | Number of Identified Exporters to Mauritania from Montana                                                                    | 2004-01-01          | 2016-01-01        |

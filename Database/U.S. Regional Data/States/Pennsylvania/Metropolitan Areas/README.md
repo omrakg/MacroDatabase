@@ -1,4 +1,4 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
 | Delaware County, PA   |                 0 |
-| Philadelphia City, PA |               108 |
+| Philadelphia City, PA |                 0 |

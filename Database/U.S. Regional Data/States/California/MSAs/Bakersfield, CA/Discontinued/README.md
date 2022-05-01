@@ -9,6 +9,9 @@
 | NIMBAK                 | Net Interest Margin for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
 | PCRGMP12540            | Total Per Capita Real Gross Domestic Product for Bakersfield, CA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
 | ROABAK                 | Return on Average Assets for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SMU06125400500000002SA | Average Weekly Hours of All Employees: Total Private in Bakersfield, CA (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
+| SMU06125400500000003SA | Average Hourly Earnings of All Employees: Total Private in Bakersfield, CA (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU06125400500000011SA | Average Weekly Earnings of All Employees: Total Private in Bakersfield, CA (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
 | SMU06125407072259001   | All Employees: Limited-Service Eating Places in Bakersfield-Delano, CA (MSA) (DISCONTINUED)                            | 1990-01-01          | 2014-12-01        |
 | SMU06125407072259001A  | All Employees: Limited-Service Eating Places in Bakersfield-Delano, CA (MSA) (DISCONTINUED)                            | 1990-01-01          | 2013-01-01        |
 | SMU06125407072259001SA | All Employees: Limited-Service Eating Places in Bakersfield-Delano, CA (MSA) (DISCONTINUED)                            | 1990-01-01          | 2014-12-01        |

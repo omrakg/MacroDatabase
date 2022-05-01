@@ -101,15 +101,15 @@
 | INKENA052SCEN       | Value of Exports to Kenya from Indiana                                                                                                  | 1992-01-01          | 2017-01-01        |
 | INKENA475SCEN       | Number of Identified Exporters to Kenya from Indiana                                                                                    | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2KEN      | Internet users for Kenya                                                                                                                | 1990-01-01          | 2019-01-01        |
-| KENBCABP6GDPPT      | Net Current Account Total for Kenya                                                                                                     | 2004-01-01          | 2022-01-01        |
-| KENBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Kenya                                     | 2004-01-01          | 2022-01-01        |
-| KENBGSBP6GDPPT      | Goods and Services: Net for Kenya                                                                                                       | 2004-01-01          | 2022-01-01        |
-| KENBMGSBP6GDPPT     | Goods and Services: Debit for Kenya                                                                                                     | 2004-01-01          | 2022-01-01        |
-| KENBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Kenya                                                                         | 2004-01-01          | 2022-01-01        |
-| KENBXGSBP6GDPPT     | Goods and Services: Credit for Kenya                                                                                                    | 2004-01-01          | 2022-01-01        |
-| KENDGGDPPT          | Official External Debt: Debtor Based for Kenya                                                                                          | 2004-01-01          | 2022-01-01        |
-| KENENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Kenya                                                              | 2004-01-01          | 2020-01-01        |
-| KENEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Kenya                                                                 | 2004-01-01          | 2020-01-01        |
+| KENBCABP6GDPPT      | Net Current Account Total for Kenya                                                                                                     | 2004-01-01          | 2023-01-01        |
+| KENBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Kenya                                     | 2004-01-01          | 2023-01-01        |
+| KENBGSBP6GDPPT      | Goods and Services: Net for Kenya                                                                                                       | 2004-01-01          | 2023-01-01        |
+| KENBMGSBP6GDPPT     | Goods and Services: Debit for Kenya                                                                                                     | 2004-01-01          | 2023-01-01        |
+| KENBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Kenya                                                                         | 2004-01-01          | 2023-01-01        |
+| KENBXGSBP6GDPPT     | Goods and Services: Credit for Kenya                                                                                                    | 2004-01-01          | 2023-01-01        |
+| KENDGGDPPT          | Official External Debt: Debtor Based for Kenya                                                                                          | 2004-01-01          | 2023-01-01        |
+| KENENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Kenya                                                              | 2004-01-01          | 2021-01-01        |
+| KENEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Kenya                                                                 | 2004-01-01          | 2021-01-01        |
 | KENFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Kenya                                                                 | 2004-01-01          | 2020-01-01        |
 | KENFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Kenya                                               | 2004-01-01          | 2020-01-01        |
 | KENFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Kenya                                                                       | 2004-01-01          | 2020-01-01        |
@@ -165,23 +165,23 @@
 | KENFCSODMFXDC       | Use of Financial Services, Assets: Outstanding Loans at Deposit Taking Microfinance Institutions (MFIs) for Kenya                       | 2010-01-01          | 2020-01-01        |
 | KENFCSODUGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Loans from Credit Unions and Financial Cooperatives for Kenya                    | 2010-01-01          | 2011-01-01        |
 | KENFCSODUXDC        | Use of Financial Services, Assets: Outstanding Loans at Credit Unions and Financial Cooperatives for Kenya                              | 2010-01-01          | 2011-01-01        |
-| KENFDSAOPGDPPT      | Claims on Private Sector for Kenya                                                                                                      | 2004-01-01          | 2020-01-01        |
-| KENFDSAOPPCPPPT     | Claims on Private Sector for Kenya                                                                                                      | 2004-01-01          | 2020-01-01        |
-| KENFMBGDPPT         | Broad Money for Kenya                                                                                                                   | 2004-01-01          | 2022-01-01        |
-| KENFMBPCPPPT        | Broad Money for Kenya                                                                                                                   | 2004-01-01          | 2022-01-01        |
-| KENGGRG01GDPPT      | General Government Revenue for Kenya                                                                                                    | 2004-01-01          | 2022-01-01        |
-| KENGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Kenya                                                                                   | 2004-01-01          | 2022-01-01        |
-| KENGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Kenya                                                               | 2004-01-01          | 2022-01-01        |
-| KENGGXG01GDPPT      | Total Expenditure of General Government for Kenya                                                                                       | 2004-01-01          | 2022-01-01        |
-| KENGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Kenya                                                                                 | 2004-01-01          | 2022-01-01        |
-| KENNGDPRPCPCPPPT    | Real GDP Per Capita for Kenya                                                                                                           | 2004-01-01          | 2022-01-01        |
-| KENNGDPRPCPPPT      | Real Gross Domestic Product for Kenya                                                                                                   | 2004-01-01          | 2022-01-01        |
-| KENNGDPXORPCPPPT    | Real Non-Oil GDP for Kenya                                                                                                              | 2004-01-01          | 2022-01-01        |
-| KENNGSGDPPT         | Nominal Gross National Saving for Kenya                                                                                                 | 2004-01-01          | 2022-01-01        |
-| KENNIGDPPT          | Nominal Gross Capital Formation for Kenya                                                                                               | 2004-01-01          | 2022-01-01        |
-| KENPCPIEOPPCPPPT    | Consumer Prices at End of Period for Kenya                                                                                              | 2004-01-01          | 2022-01-01        |
-| KENPCPIPCPPPT       | Consumer Prices: All Items for Kenya                                                                                                    | 2004-01-01          | 2022-01-01        |
-| KENTTTIX            | Terms of Trade for Goods for Kenya                                                                                                      | 2004-01-01          | 2022-01-01        |
+| KENFDSAOPGDPPT      | Claims on Private Sector for Kenya                                                                                                      | 2004-01-01          | 2021-01-01        |
+| KENFDSAOPPCPPPT     | Claims on Private Sector for Kenya                                                                                                      | 2004-01-01          | 2021-01-01        |
+| KENFMBGDPPT         | Broad Money for Kenya                                                                                                                   | 2004-01-01          | 2023-01-01        |
+| KENFMBPCPPPT        | Broad Money for Kenya                                                                                                                   | 2004-01-01          | 2023-01-01        |
+| KENGGRG01GDPPT      | General Government Revenue for Kenya                                                                                                    | 2004-01-01          | 2023-01-01        |
+| KENGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Kenya                                                                                   | 2004-01-01          | 2023-01-01        |
+| KENGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Kenya                                                               | 2004-01-01          | 2023-01-01        |
+| KENGGXG01GDPPT      | Total Expenditure of General Government for Kenya                                                                                       | 2004-01-01          | 2023-01-01        |
+| KENGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Kenya                                                                                 | 2004-01-01          | 2023-01-01        |
+| KENNGDPRPCPCPPPT    | Real GDP Per Capita for Kenya                                                                                                           | 2004-01-01          | 2023-01-01        |
+| KENNGDPRPCPPPT      | Real Gross Domestic Product for Kenya                                                                                                   | 2004-01-01          | 2023-01-01        |
+| KENNGDPXORPCPPPT    | Real Non-Oil GDP for Kenya                                                                                                              | 2004-01-01          | 2023-01-01        |
+| KENNGSGDPPT         | Nominal Gross National Saving for Kenya                                                                                                 | 2004-01-01          | 2023-01-01        |
+| KENNIGDPPT          | Nominal Gross Capital Formation for Kenya                                                                                               | 2004-01-01          | 2023-01-01        |
+| KENPCPIEOPPCPPPT    | Consumer Prices at End of Period for Kenya                                                                                              | 2004-01-01          | 2023-01-01        |
+| KENPCPIPCPPPT       | Consumer Prices: All Items for Kenya                                                                                                    | 2004-01-01          | 2023-01-01        |
+| KENTTTIX            | Terms of Trade for Goods for Kenya                                                                                                      | 2004-01-01          | 2023-01-01        |
 | KSKENA052SCEN       | Value of Exports to Kenya from Kansas                                                                                                   | 1997-01-01          | 2017-01-01        |
 | KSKENA475SCEN       | Number of Identified Exporters to Kenya from Kansas                                                                                     | 1992-01-01          | 2017-01-01        |
 | KYKENA052SCEN       | Value of Exports to Kenya from Kentucky                                                                                                 | 1997-01-01          | 2017-01-01        |

@@ -20,12 +20,12 @@
 | ENUC406640510             | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2021-07-01        |
 | ENUC406640510SA           | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2021-07-01        |
 | IRPD40660                 | Implicit Regional Price Deflator for Rome, GA (MSA)                                            | 2008-01-01          | 2020-01-01        |
-| LAUMT134066000000003A     | Unemployment Rate in Rome, GA (MSA)                                                            | 1990-01-01          | 2020-01-01        |
-| LAUMT134066000000004      | Unemployed Persons in Rome, GA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
-| LAUMT134066000000004A     | Unemployed Persons in Rome, GA (MSA)                                                           | 1990-01-01          | 2020-01-01        |
-| LAUMT134066000000005      | Employed Persons in Rome, GA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
-| LAUMT134066000000005A     | Employed Persons in Rome, GA (MSA)                                                             | 1990-01-01          | 2020-01-01        |
-| LAUMT134066000000006A     | Civilian Labor Force in Rome, GA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
+| LAUMT134066000000003A     | Unemployment Rate in Rome, GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
+| LAUMT134066000000004      | Unemployed Persons in Rome, GA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
+| LAUMT134066000000004A     | Unemployed Persons in Rome, GA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
+| LAUMT134066000000005      | Employed Persons in Rome, GA (MSA)                                                             | 1990-01-01          | 2022-03-01        |
+| LAUMT134066000000005A     | Employed Persons in Rome, GA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
+| LAUMT134066000000006A     | Civilian Labor Force in Rome, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR40660          | Housing Inventory: Median Days on Market in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM40660        | Housing Inventory: Median Days on Market Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY40660        | Housing Inventory: Median Days on Market Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-03-01        |
@@ -55,16 +55,16 @@
 | QGMP40660                 | Total Quantity Indexes for Real GDP for Rome, GA (MSA)                                         | 2001-01-01          | 2020-01-01        |
 | RGMP40660                 | Total Real Gross Domestic Product for Rome, GA (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | RMEPOP                    | Resident Population in Rome, GA (MSA)                                                          | 2000-01-01          | 2021-01-01        |
-| ROME613BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-02-01        |
-| ROME613BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-02-01        |
-| ROME613BPPRIV             | New Private Housing Units Authorized by Building Permits for Rome, GA (MSA)                    | 2004-01-01          | 2022-02-01        |
-| ROME613BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Rome, GA (MSA)                    | 2004-01-01          | 2022-02-01        |
+| ROME613BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-03-01        |
+| ROME613BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-03-01        |
+| ROME613BPPRIV             | New Private Housing Units Authorized by Building Permits for Rome, GA (MSA)                    | 2004-01-01          | 2022-03-01        |
+| ROME613BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Rome, GA (MSA)                    | 2004-01-01          | 2022-03-01        |
 | ROME613EDUH               | All Employees: Education and Health Services in Rome, GA (MSA)                                 | 1990-01-01          | 2022-03-01        |
 | ROME613EDUHN              | All Employees: Education and Health Services in Rome, GA (MSA)                                 | 1990-01-01          | 2022-03-01        |
 | ROME613GOVT               | All Employees: Government in Rome, GA (MSA)                                                    | 1990-01-01          | 2022-03-01        |
 | ROME613GOVTN              | All Employees: Government in Rome, GA (MSA)                                                    | 1990-01-01          | 2022-03-01        |
-| ROME613LF                 | Civilian Labor Force in Rome, GA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| ROME613LFN                | Civilian Labor Force in Rome, GA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| ROME613LF                 | Civilian Labor Force in Rome, GA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| ROME613LFN                | Civilian Labor Force in Rome, GA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | ROME613MFG                | All Employees: Manufacturing in Rome, GA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | ROME613MFGN               | All Employees: Manufacturing in Rome, GA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | ROME613NA                 | All Employees: Total Nonfarm in Rome, GA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
@@ -72,8 +72,8 @@
 | ROME613PCPI               | Per Capita Personal Income in Rome, GA (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | ROME613TRAD               | All Employees: Trade, Transportation, and Utilities in Rome, GA (MSA)                          | 1990-01-01          | 2022-03-01        |
 | ROME613TRADN              | All Employees: Trade, Transportation, and Utilities in Rome, GA (MSA)                          | 1990-01-01          | 2022-03-01        |
-| ROME613UR                 | Unemployment Rate in Rome, GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
-| ROME613URN                | Unemployment Rate in Rome, GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ROME613UR                 | Unemployment Rate in Rome, GA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
+| ROME613URN                | Unemployment Rate in Rome, GA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | RPI40660                  | Real Personal Income for Rome, GA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPIPC40660                | Real Per Capita Personal Income for Rome, GA (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPALL40660               | Regional Price Parities: All Items for Rome, GA (MSA)                                          | 2008-01-01          | 2020-01-01        |
@@ -87,13 +87,10 @@
 | SMU13406600500000001SA    | All Employees: Total Private in Rome, GA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | SMU13406600500000002      | Average Weekly Hours of All Employees: Total Private in Rome, GA (MSA)                         | 2007-01-01          | 2022-03-01        |
 | SMU13406600500000002A     | Average Weekly Hours of All Employees: Total Private in Rome, GA (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU13406600500000002SA    | Average Weekly Hours of All Employees: Total Private in Rome, GA (MSA)                         | 2007-01-01          | 2022-03-01        |
 | SMU13406600500000003      | Average Hourly Earnings of All Employees: Total Private in Rome, GA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU13406600500000003A     | Average Hourly Earnings of All Employees: Total Private in Rome, GA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU13406600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Rome, GA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU13406600500000011      | Average Weekly Earnings of All Employees: Total Private in Rome, GA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU13406600500000011A     | Average Weekly Earnings of All Employees: Total Private in Rome, GA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU13406600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Rome, GA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU13406600600000001      | All Employees: Goods Producing in Rome, GA (MSA)                                               | 1990-01-01          | 2022-03-01        |
 | SMU13406600600000001A     | All Employees: Goods Producing in Rome, GA (MSA)                                               | 1990-01-01          | 2021-01-01        |
 | SMU13406600600000001SA    | All Employees: Goods Producing in Rome, GA (MSA)                                               | 1990-01-01          | 2022-03-01        |

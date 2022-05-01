@@ -14,14 +14,14 @@
 | ENUC474640510          | Average Weekly Wages for Employees in Private Establishments in Walla Walla, WA (MSA)                            | 2013-01-01          | 2021-07-01        |
 | ENUC474640510SA        | Average Weekly Wages for Employees in Private Establishments in Walla Walla, WA (MSA)                            | 2013-01-01          | 2021-07-01        |
 | IRPD47460              | Implicit Regional Price Deflator for Walla Walla, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT534746000000003   | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LAUMT534746000000003A  | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT534746000000004   | Unemployed Persons in Walla Walla, WA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT534746000000004A  | Unemployed Persons in Walla Walla, WA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT534746000000005   | Employed Persons in Walla Walla, WA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT534746000000005A  | Employed Persons in Walla Walla, WA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT534746000000006   | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT534746000000006A  | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT534746000000003   | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT534746000000003A  | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT534746000000004   | Unemployed Persons in Walla Walla, WA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT534746000000004A  | Unemployed Persons in Walla Walla, WA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT534746000000005   | Employed Persons in Walla Walla, WA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT534746000000005A  | Employed Persons in Walla Walla, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT534746000000006   | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT534746000000006A  | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP47460              | Total Gross Domestic Product for Walla Walla, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | QGMP47460              | Total Quantity Indexes for Real GDP for Walla Walla, WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP47460              | Total Real Gross Domestic Product for Walla Walla, WA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
@@ -39,13 +39,10 @@
 | SMU53474600500000001SA | All Employees: Total Private in Walla Walla, WA (MSA)                                                            | 2000-01-01          | 2022-03-01        |
 | SMU53474600500000002   | Average Weekly Hours of All Employees: Total Private in Walla Walla, WA (MSA)                                    | 2011-01-01          | 2022-03-01        |
 | SMU53474600500000002A  | Average Weekly Hours of All Employees: Total Private in Walla Walla, WA (MSA)                                    | 2011-01-01          | 2021-01-01        |
-| SMU53474600500000002SA | Average Weekly Hours of All Employees: Total Private in Walla Walla, WA (MSA)                                    | 2011-01-01          | 2022-03-01        |
 | SMU53474600500000003   | Average Hourly Earnings of All Employees: Total Private in Walla Walla, WA (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU53474600500000003A  | Average Hourly Earnings of All Employees: Total Private in Walla Walla, WA (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU53474600500000003SA | Average Hourly Earnings of All Employees: Total Private in Walla Walla, WA (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU53474600500000011   | Average Weekly Earnings of All Employees: Total Private in Walla Walla, WA (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU53474600500000011A  | Average Weekly Earnings of All Employees: Total Private in Walla Walla, WA (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU53474600500000011SA | Average Weekly Earnings of All Employees: Total Private in Walla Walla, WA (MSA)                                 | 2011-01-01          | 2022-03-01        |
 | SMU53474600600000001   | All Employees: Goods Producing in Walla Walla, WA (MSA)                                                          | 2000-01-01          | 2022-03-01        |
 | SMU53474600600000001A  | All Employees: Goods Producing in Walla Walla, WA (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | SMU53474600600000001SA | All Employees: Goods Producing in Walla Walla, WA (MSA)                                                          | 2000-01-01          | 2022-03-01        |

@@ -25,12 +25,12 @@
 | HORAYYMSA32900            | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA32900              | Market Hotness: Hotness Score in Merced, CA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD32900                 | Implicit Regional Price Deflator for Merced, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT063290000000003A     | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT063290000000004      | Unemployed Persons in Merced, CA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT063290000000004A     | Unemployed Persons in Merced, CA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT063290000000005      | Employed Persons in Merced, CA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT063290000000005A     | Employed Persons in Merced, CA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT063290000000006A     | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT063290000000003A     | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT063290000000004      | Unemployed Persons in Merced, CA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT063290000000004A     | Unemployed Persons in Merced, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT063290000000005      | Employed Persons in Merced, CA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT063290000000005A     | Employed Persons in Merced, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT063290000000006A     | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA32900          | Market Hotness: Listing Views per Property in Merced, CA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA32900        | Market Hotness: Listing Views per Property Versus the United States in Merced, CA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA32900          | Market Hotness: Listing Views per Property in Merced, CA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -66,8 +66,8 @@
 | MERC906INFON              | All Employees: Information in Merced, CA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | MERC906LEIH               | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | MERC906LEIHN              | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| MERC906LF                 | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| MERC906LFN                | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| MERC906LF                 | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| MERC906LFN                | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | MERC906MFG                | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MERC906MFGN               | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MERC906NA                 | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -81,8 +81,8 @@
 | MERC906SRVON              | All Employees: Other Services in Merced, CA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | MERC906TRAD               | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | MERC906TRADN              | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| MERC906UR                 | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| MERC906URN                | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| MERC906UR                 | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| MERC906URN                | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MRCPOP                    | Resident Population in Merced, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU32900            | Housing Inventory: New Listing Count in Merced, CA (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
 | NEWLISCOUMM32900          | Housing Inventory: New Listing Count Month-Over-Month in Merced, CA (CBSA)                                  | 2017-07-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU06329000500000001SA    | All Employees: Total Private in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU06329000500000002      | Average Weekly Hours of All Employees: Total Private in Merced, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06329000500000002A     | Average Weekly Hours of All Employees: Total Private in Merced, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06329000500000002SA    | Average Weekly Hours of All Employees: Total Private in Merced, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06329000500000003      | Average Hourly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06329000500000003A     | Average Hourly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06329000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06329000500000011      | Average Weekly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06329000500000011A     | Average Weekly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06329000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06329000600000001      | All Employees: Goods Producing in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU06329000600000001A     | All Employees: Goods Producing in Merced, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU06329000600000001SA    | All Employees: Goods Producing in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

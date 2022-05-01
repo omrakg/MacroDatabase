@@ -29,8 +29,8 @@
 | FLAG304INFON              | All Employees: Information in Flagstaff, AZ (MSA)                                                | 1990-01-01          | 2022-03-01        |
 | FLAG304LEIH               | All Employees: Leisure and Hospitality in Flagstaff, AZ (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | FLAG304LEIHN              | All Employees: Leisure and Hospitality in Flagstaff, AZ (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| FLAG304LF                 | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| FLAG304LFN                | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| FLAG304LF                 | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| FLAG304LFN                | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | FLAG304MFG                | All Employees: Manufacturing in Flagstaff, AZ (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | FLAG304MFGN               | All Employees: Manufacturing in Flagstaff, AZ (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | FLAG304NA                 | All Employees: Total Nonfarm in Flagstaff, AZ (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -44,16 +44,16 @@
 | FLAG304SRVON              | All Employees: Other Services in Flagstaff, AZ (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | FLAG304TRAD               | All Employees: Trade, Transportation, and Utilities in Flagstaff, AZ (MSA)                       | 1990-01-01          | 2022-03-01        |
 | FLAG304TRADN              | All Employees: Trade, Transportation, and Utilities in Flagstaff, AZ (MSA)                       | 1990-01-01          | 2022-03-01        |
-| FLAG304UR                 | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| FLAG304URN                | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| FLAG304UR                 | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| FLAG304URN                | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | FLGPOP                    | Resident Population in Flagstaff, AZ (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | IRPD22380                 | Implicit Regional Price Deflator for Flagstaff, AZ (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT042238000000003A     | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT042238000000004      | Unemployed Persons in Flagstaff, AZ (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT042238000000004A     | Unemployed Persons in Flagstaff, AZ (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT042238000000005      | Employed Persons in Flagstaff, AZ (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT042238000000005A     | Employed Persons in Flagstaff, AZ (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT042238000000006A     | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT042238000000003A     | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT042238000000004      | Unemployed Persons in Flagstaff, AZ (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT042238000000004A     | Unemployed Persons in Flagstaff, AZ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT042238000000005      | Employed Persons in Flagstaff, AZ (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT042238000000005A     | Employed Persons in Flagstaff, AZ (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT042238000000006A     | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR22380          | Housing Inventory: Median Days on Market in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM22380        | Housing Inventory: Median Days on Market Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY22380        | Housing Inventory: Median Days on Market Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -95,13 +95,10 @@
 | SMU04223800500000001SA    | All Employees: Total Private in Flagstaff, AZ (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU04223800500000002      | Average Weekly Hours of All Employees: Total Private in Flagstaff, AZ (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU04223800500000002A     | Average Weekly Hours of All Employees: Total Private in Flagstaff, AZ (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU04223800500000002SA    | Average Weekly Hours of All Employees: Total Private in Flagstaff, AZ (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU04223800500000003      | Average Hourly Earnings of All Employees: Total Private in Flagstaff, AZ (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU04223800500000003A     | Average Hourly Earnings of All Employees: Total Private in Flagstaff, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04223800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Flagstaff, AZ (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU04223800500000011      | Average Weekly Earnings of All Employees: Total Private in Flagstaff, AZ (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU04223800500000011A     | Average Weekly Earnings of All Employees: Total Private in Flagstaff, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04223800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Flagstaff, AZ (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU04223800600000001      | All Employees: Goods Producing in Flagstaff, AZ (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU04223800600000001A     | All Employees: Goods Producing in Flagstaff, AZ (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU04223800600000001SA    | All Employees: Goods Producing in Flagstaff, AZ (MSA)                                            | 1990-01-01          | 2022-03-01        |

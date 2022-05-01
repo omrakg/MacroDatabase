@@ -29,32 +29,32 @@
 | DDSI04ERA156NWDB    | Bank Credit to Bank Deposits for Eritrea                                                              | 1995-01-01          | 2014-01-01        |
 | DDSI06ERA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Eritrea                                          | 1997-01-01          | 2008-01-01        |
 | DEERIA475SCEN       | Number of Identified Exporters to Eritrea from Delaware                                               | 2010-01-01          | 2013-01-01        |
-| ERIBCABP6GDPPT      | Net Current Account Total for Eritrea                                                                 | 2004-01-01          | 2022-01-01        |
-| ERIBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Eritrea | 2004-01-01          | 2022-01-01        |
-| ERIBGSBP6GDPPT      | Goods and Services: Net for Eritrea                                                                   | 2004-01-01          | 2022-01-01        |
-| ERIBMGSBP6GDPPT     | Goods and Services: Debit for Eritrea                                                                 | 2004-01-01          | 2022-01-01        |
-| ERIBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Eritrea                                     | 2004-01-01          | 2022-01-01        |
-| ERIBXGSBP6GDPPT     | Goods and Services: Credit for Eritrea                                                                | 2004-01-01          | 2022-01-01        |
-| ERIDGGDPPT          | Official External Debt: Debtor Based for Eritrea                                                      | 2004-01-01          | 2022-01-01        |
-| ERIENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Eritrea                          | 2004-01-01          | 2020-01-01        |
-| ERIEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Eritrea                             | 2004-01-01          | 2020-01-01        |
-| ERIFDSAOPGDPPT      | Claims on Private Sector for Eritrea                                                                  | 2004-01-01          | 2020-01-01        |
-| ERIFDSAOPPCPPPT     | Claims on Private Sector for Eritrea                                                                  | 2004-01-01          | 2020-01-01        |
-| ERIFMBGDPPT         | Broad Money for Eritrea                                                                               | 2004-01-01          | 2022-01-01        |
-| ERIFMBPCPPPT        | Broad Money for Eritrea                                                                               | 2004-01-01          | 2022-01-01        |
-| ERIGGRG01GDPPT      | General Government Revenue for Eritrea                                                                | 2004-01-01          | 2022-01-01        |
-| ERIGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Eritrea                                               | 2004-01-01          | 2022-01-01        |
-| ERIGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Eritrea                           | 2004-01-01          | 2022-01-01        |
-| ERIGGXG01GDPPT      | Total Expenditure of General Government for Eritrea                                                   | 2004-01-01          | 2022-01-01        |
-| ERIGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Eritrea                                             | 2004-01-01          | 2022-01-01        |
-| ERINGDPRPCPCPPPT    | Real GDP Per Capita for Eritrea                                                                       | 2004-01-01          | 2022-01-01        |
-| ERINGDPRPCPPPT      | Real Gross Domestic Product for Eritrea                                                               | 2004-01-01          | 2022-01-01        |
-| ERINGDPXORPCPPPT    | Real Non-Oil GDP for Eritrea                                                                          | 2004-01-01          | 2022-01-01        |
-| ERINGSGDPPT         | Nominal Gross National Saving for Eritrea                                                             | 2004-01-01          | 2022-01-01        |
-| ERINIGDPPT          | Nominal Gross Capital Formation for Eritrea                                                           | 2004-01-01          | 2022-01-01        |
-| ERIPCPIEOPPCPPPT    | Consumer Prices at End of Period for Eritrea                                                          | 2004-01-01          | 2022-01-01        |
-| ERIPCPIPCPPPT       | Consumer Prices: All Items for Eritrea                                                                | 2004-01-01          | 2022-01-01        |
-| ERITTTIX            | Terms of Trade for Goods for Eritrea                                                                  | 2004-01-01          | 2022-01-01        |
+| ERIBCABP6GDPPT      | Net Current Account Total for Eritrea                                                                 | 2004-01-01          | 2023-01-01        |
+| ERIBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Eritrea | 2004-01-01          | 2023-01-01        |
+| ERIBGSBP6GDPPT      | Goods and Services: Net for Eritrea                                                                   | 2004-01-01          | 2023-01-01        |
+| ERIBMGSBP6GDPPT     | Goods and Services: Debit for Eritrea                                                                 | 2004-01-01          | 2023-01-01        |
+| ERIBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Eritrea                                     | 2004-01-01          | 2023-01-01        |
+| ERIBXGSBP6GDPPT     | Goods and Services: Credit for Eritrea                                                                | 2004-01-01          | 2023-01-01        |
+| ERIDGGDPPT          | Official External Debt: Debtor Based for Eritrea                                                      | 2004-01-01          | 2023-01-01        |
+| ERIENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Eritrea                          | 2004-01-01          | 2021-01-01        |
+| ERIEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Eritrea                             | 2004-01-01          | 2021-01-01        |
+| ERIFDSAOPGDPPT      | Claims on Private Sector for Eritrea                                                                  | 2004-01-01          | 2021-01-01        |
+| ERIFDSAOPPCPPPT     | Claims on Private Sector for Eritrea                                                                  | 2004-01-01          | 2021-01-01        |
+| ERIFMBGDPPT         | Broad Money for Eritrea                                                                               | 2004-01-01          | 2023-01-01        |
+| ERIFMBPCPPPT        | Broad Money for Eritrea                                                                               | 2004-01-01          | 2023-01-01        |
+| ERIGGRG01GDPPT      | General Government Revenue for Eritrea                                                                | 2004-01-01          | 2023-01-01        |
+| ERIGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Eritrea                                               | 2004-01-01          | 2023-01-01        |
+| ERIGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Eritrea                           | 2004-01-01          | 2023-01-01        |
+| ERIGGXG01GDPPT      | Total Expenditure of General Government for Eritrea                                                   | 2004-01-01          | 2023-01-01        |
+| ERIGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Eritrea                                             | 2004-01-01          | 2023-01-01        |
+| ERINGDPRPCPCPPPT    | Real GDP Per Capita for Eritrea                                                                       | 2004-01-01          | 2023-01-01        |
+| ERINGDPRPCPPPT      | Real Gross Domestic Product for Eritrea                                                               | 2004-01-01          | 2023-01-01        |
+| ERINGDPXORPCPPPT    | Real Non-Oil GDP for Eritrea                                                                          | 2004-01-01          | 2023-01-01        |
+| ERINGSGDPPT         | Nominal Gross National Saving for Eritrea                                                             | 2004-01-01          | 2023-01-01        |
+| ERINIGDPPT          | Nominal Gross Capital Formation for Eritrea                                                           | 2004-01-01          | 2023-01-01        |
+| ERIPCPIEOPPCPPPT    | Consumer Prices at End of Period for Eritrea                                                          | 2004-01-01          | 2023-01-01        |
+| ERIPCPIPCPPPT       | Consumer Prices: All Items for Eritrea                                                                | 2004-01-01          | 2023-01-01        |
+| ERITTTIX            | Terms of Trade for Goods for Eritrea                                                                  | 2004-01-01          | 2023-01-01        |
 | EXP7741             | U.S. Exports of Goods by F.A.S. Basis to Eritrea                                                      | 1993-01-01          | 2022-02-01        |
 | FLERIA052SCEN       | Value of Exports to Eritrea from Florida                                                              | 2002-01-01          | 2017-01-01        |
 | FLERIA475SCEN       | Number of Identified Exporters to Eritrea from Florida                                                | 1997-01-01          | 2017-01-01        |

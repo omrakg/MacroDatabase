@@ -25,12 +25,12 @@
 | HORAYYMSA47300            | Market Hotness: Hotness Rank in Visalia-Porterville, CA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA47300              | Market Hotness: Hotness Score in Visalia-Porterville, CA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD47300                 | Implicit Regional Price Deflator for Visalia-Porterville, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT064730000000003A     | Unemployment Rate in Visalia-Porterville, CA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT064730000000004      | Unemployed Persons in Visalia-Porterville, CA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT064730000000004A     | Unemployed Persons in Visalia-Porterville, CA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT064730000000005      | Employed Persons in Visalia-Porterville, CA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT064730000000005A     | Employed Persons in Visalia-Porterville, CA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT064730000000006A     | Civilian Labor Force in Visalia-Porterville, CA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT064730000000003A     | Unemployment Rate in Visalia-Porterville, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT064730000000004      | Unemployed Persons in Visalia-Porterville, CA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT064730000000004A     | Unemployed Persons in Visalia-Porterville, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT064730000000005      | Employed Persons in Visalia-Porterville, CA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT064730000000005A     | Employed Persons in Visalia-Porterville, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT064730000000006A     | Civilian Labor Force in Visalia-Porterville, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA47300          | Market Hotness: Listing Views per Property in Visalia-Porterville, CA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA47300        | Market Hotness: Listing Views per Property Versus the United States in Visalia-Porterville, CA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA47300          | Market Hotness: Listing Views per Property in Visalia-Porterville, CA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -86,13 +86,10 @@
 | SMU06473000500000001SA    | All Employees: Total Private in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU06473000500000002      | Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06473000500000002A     | Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06473000500000002SA    | Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06473000500000003      | Average Hourly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06473000500000003A     | Average Hourly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06473000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06473000500000011      | Average Weekly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06473000500000011A     | Average Weekly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06473000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06473000600000001      | All Employees: Goods Producing in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU06473000600000001A     | All Employees: Goods Producing in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU06473000600000001SA    | All Employees: Goods Producing in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -174,8 +171,8 @@
 | VISA306INFON              | All Employees: Information in Visalia-Porterville, CA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | VISA306LEIH               | All Employees: Leisure and Hospitality in Visalia-Porterville, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | VISA306LEIHN              | All Employees: Leisure and Hospitality in Visalia-Porterville, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| VISA306LF                 | Civilian Labor Force in Visalia-Porterville, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| VISA306LFN                | Civilian Labor Force in Visalia-Porterville, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| VISA306LF                 | Civilian Labor Force in Visalia-Porterville, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| VISA306LFN                | Civilian Labor Force in Visalia-Porterville, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | VISA306MFG                | All Employees: Manufacturing in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | VISA306MFGN               | All Employees: Manufacturing in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | VISA306NA                 | All Employees: Total Nonfarm in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -189,6 +186,6 @@
 | VISA306SRVON              | All Employees: Other Services in Visalia-Porterville, CA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | VISA306TRAD               | All Employees: Trade, Transportation, and Utilities in Visalia-Porterville, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | VISA306TRADN              | All Employees: Trade, Transportation, and Utilities in Visalia-Porterville, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| VISA306UR                 | Unemployment Rate in Visalia-Porterville, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| VISA306URN                | Unemployment Rate in Visalia-Porterville, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| VISA306UR                 | Unemployment Rate in Visalia-Porterville, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| VISA306URN                | Unemployment Rate in Visalia-Porterville, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | VTPPOP                    | Resident Population in Visalia-Porterville, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

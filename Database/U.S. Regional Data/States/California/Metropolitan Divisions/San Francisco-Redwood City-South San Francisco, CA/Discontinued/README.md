@@ -1,6 +1,9 @@
 | id                     | title                                                                                                                                       | observation_start   | observation_end   |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | SMU06418840000000001SA | All Employees: Total Nonfarm in San Francisco-Redwood City-South San Francisco, CA (MD) (DISCONTINUED)                                      | 1990-01-01          | 2017-01-01        |
+| SMU06418840500000002SA | Average Weekly Hours of All Employees: Total Private in San Francisco-Redwood City-South San Francisco, CA (MD) (DISCONTINUED)              | 2007-01-01          | 2022-03-01        |
+| SMU06418840500000003SA | Average Hourly Earnings of All Employees: Total Private in San Francisco-Redwood City-South San Francisco, CA (MD) (DISCONTINUED)           | 2007-01-01          | 2022-03-01        |
+| SMU06418840500000011SA | Average Weekly Earnings of All Employees: Total Private in San Francisco-Redwood City-South San Francisco, CA (MD) (DISCONTINUED)           | 2007-01-01          | 2022-03-01        |
 | SMU06418843133400001   | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
 | SMU06418843133400001A  | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED) | 1990-01-01          | 2013-01-01        |
 | SMU06418843133400001SA | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |

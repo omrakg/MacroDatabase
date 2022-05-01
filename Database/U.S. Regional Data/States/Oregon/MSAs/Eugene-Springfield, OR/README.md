@@ -20,10 +20,10 @@
 | ENUC216640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC216640510             | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC216640510SA           | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2021-07-01        |
-| EUGE641BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-02-01        |
-| EUGE641BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-02-01        |
-| EUGE641BPPRIV             | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-02-01        |
-| EUGE641BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-02-01        |
+| EUGE641BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-03-01        |
+| EUGE641BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-03-01        |
+| EUGE641BPPRIV             | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-03-01        |
+| EUGE641BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-03-01        |
 | EUGE641EDUH               | All Employees: Education and Health Services in Eugene, OR (MSA)                                                        | 1990-01-01          | 2022-03-01        |
 | EUGE641EDUHN              | All Employees: Education and Health Services in Eugene, OR (MSA)                                                        | 1990-01-01          | 2022-03-01        |
 | EUGE641FIRE               | All Employees: Financial Activities in Eugene, OR (MSA)                                                                 | 1990-01-01          | 2022-03-01        |
@@ -34,8 +34,8 @@
 | EUGE641INFON              | All Employees: Information in Eugene, OR (MSA)                                                                          | 1990-01-01          | 2022-03-01        |
 | EUGE641LEIH               | All Employees: Leisure and Hospitality in Eugene, OR (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | EUGE641LEIHN              | All Employees: Leisure and Hospitality in Eugene, OR (MSA)                                                              | 1990-01-01          | 2022-03-01        |
-| EUGE641LF                 | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
-| EUGE641LFN                | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2022-02-01        |
+| EUGE641LF                 | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
+| EUGE641LFN                | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2022-03-01        |
 | EUGE641MFG                | All Employees: Manufacturing in Eugene, OR (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | EUGE641MFGN               | All Employees: Manufacturing in Eugene, OR (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | EUGE641NA                 | All Employees: Total Nonfarm in Eugene, OR (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
@@ -47,20 +47,20 @@
 | EUGE641SRVON              | All Employees: Other Services in Eugene, OR (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | EUGE641TRAD               | All Employees: Trade, Transportation, and Utilities in Eugene, OR (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | EUGE641TRADN              | All Employees: Trade, Transportation, and Utilities in Eugene, OR (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| EUGE641UR                 | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
-| EUGE641URN                | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2022-02-01        |
+| EUGE641UR                 | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
+| EUGE641URN                | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2022-03-01        |
 | EUGPOP                    | Resident Population in Eugene, OR (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA21660            | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2018-08-01          | 2022-03-01        |
 | HORAMSA21660              | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA21660            | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2018-08-01          | 2022-03-01        |
 | HOSCMSA21660              | Market Hotness: Hotness Score in Eugene, OR (CBSA)                                                                      | 2017-08-01          | 2022-03-01        |
 | IRPD21660                 | Implicit Regional Price Deflator for Eugene, OR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| LAUMT412166000000003A     | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2020-01-01        |
-| LAUMT412166000000004      | Unemployed Persons in Eugene, OR (MSA)                                                                                  | 1990-01-01          | 2022-02-01        |
-| LAUMT412166000000004A     | Unemployed Persons in Eugene, OR (MSA)                                                                                  | 1990-01-01          | 2020-01-01        |
-| LAUMT412166000000005      | Employed Persons in Eugene, OR (MSA)                                                                                    | 1990-01-01          | 2022-02-01        |
-| LAUMT412166000000005A     | Employed Persons in Eugene, OR (MSA)                                                                                    | 1990-01-01          | 2020-01-01        |
-| LAUMT412166000000006A     | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2020-01-01        |
+| LAUMT412166000000003A     | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
+| LAUMT412166000000004      | Unemployed Persons in Eugene, OR (MSA)                                                                                  | 1990-01-01          | 2022-03-01        |
+| LAUMT412166000000004A     | Unemployed Persons in Eugene, OR (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
+| LAUMT412166000000005      | Employed Persons in Eugene, OR (MSA)                                                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT412166000000005A     | Employed Persons in Eugene, OR (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
+| LAUMT412166000000006A     | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA21660          | Market Hotness: Listing Views per Property in Eugene, OR (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA21660        | Market Hotness: Listing Views per Property Versus the United States in Eugene, OR (CBSA)                                | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA21660          | Market Hotness: Listing Views per Property in Eugene, OR (CBSA)                                                         | 2018-08-01          | 2022-03-01        |
@@ -116,13 +116,10 @@
 | SMU41216600500000001SA    | All Employees: Total Private in Eugene, OR (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | SMU41216600500000002      | Average Weekly Hours of All Employees: Total Private in Eugene, OR (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU41216600500000002A     | Average Weekly Hours of All Employees: Total Private in Eugene, OR (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU41216600500000002SA    | Average Weekly Hours of All Employees: Total Private in Eugene, OR (MSA)                                                | 2007-01-01          | 2022-03-01        |
 | SMU41216600500000003      | Average Hourly Earnings of All Employees: Total Private in Eugene, OR (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU41216600500000003A     | Average Hourly Earnings of All Employees: Total Private in Eugene, OR (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU41216600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Eugene, OR (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU41216600500000011      | Average Weekly Earnings of All Employees: Total Private in Eugene, OR (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU41216600500000011A     | Average Weekly Earnings of All Employees: Total Private in Eugene, OR (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU41216600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Eugene, OR (MSA)                                             | 2007-01-01          | 2022-03-01        |
 | SMU41216600600000001      | All Employees: Goods Producing in Eugene, OR (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
 | SMU41216600600000001A     | All Employees: Goods Producing in Eugene, OR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | SMU41216600600000001SA    | All Employees: Goods Producing in Eugene, OR (MSA)                                                                      | 1990-01-01          | 2022-03-01        |

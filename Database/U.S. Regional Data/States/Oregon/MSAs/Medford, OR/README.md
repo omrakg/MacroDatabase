@@ -25,12 +25,12 @@
 | HORAYYMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA32780              | Market Hotness: Hotness Score in Medford, OR (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD32780                 | Implicit Regional Price Deflator for Medford, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT413278000000003A     | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT413278000000004      | Unemployed Persons in Medford, OR (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT413278000000004A     | Unemployed Persons in Medford, OR (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT413278000000005      | Employed Persons in Medford, OR (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT413278000000005A     | Employed Persons in Medford, OR (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT413278000000006A     | Civilian Labor Force in Medford, OR (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT413278000000003A     | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT413278000000004      | Unemployed Persons in Medford, OR (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT413278000000004A     | Unemployed Persons in Medford, OR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT413278000000005      | Employed Persons in Medford, OR (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT413278000000005A     | Employed Persons in Medford, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT413278000000006A     | Civilian Labor Force in Medford, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA32780          | Market Hotness: Listing Views per Property in Medford, OR (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA32780        | Market Hotness: Listing Views per Property Versus the United States in Medford, OR (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA32780          | Market Hotness: Listing Views per Property in Medford, OR (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -40,10 +40,10 @@
 | MEDDAYONMAR32780          | Housing Inventory: Median Days on Market in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM32780        | Housing Inventory: Median Days on Market Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY32780        | Housing Inventory: Median Days on Market Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDF741BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-02-01        |
-| MEDF741BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-02-01        |
-| MEDF741BPPRIV             | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-02-01        |
-| MEDF741BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-02-01        |
+| MEDF741BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-03-01        |
+| MEDF741BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-03-01        |
+| MEDF741BPPRIV             | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-03-01        |
+| MEDF741BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-03-01        |
 | MEDF741EDUH               | All Employees: Education and Health Services in Medford, OR (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | MEDF741EDUHN              | All Employees: Education and Health Services in Medford, OR (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | MEDF741FIRE               | All Employees: Financial Activities in Medford, OR (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -54,8 +54,8 @@
 | MEDF741INFON              | All Employees: Information in Medford, OR (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | MEDF741LEIH               | All Employees: Leisure and Hospitality in Medford, OR (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | MEDF741LEIHN              | All Employees: Leisure and Hospitality in Medford, OR (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| MEDF741LF                 | Civilian Labor Force in Medford, OR (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| MEDF741LFN                | Civilian Labor Force in Medford, OR (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| MEDF741LF                 | Civilian Labor Force in Medford, OR (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| MEDF741LFN                | Civilian Labor Force in Medford, OR (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | MEDF741MFG                | All Employees: Manufacturing in Medford, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MEDF741MFGN               | All Employees: Manufacturing in Medford, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MEDF741NA                 | All Employees: Total Nonfarm in Medford, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -67,8 +67,8 @@
 | MEDF741SRVON              | All Employees: Other Services in Medford, OR (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | MEDF741TRAD               | All Employees: Trade, Transportation, and Utilities in Medford, OR (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | MEDF741TRADN              | All Employees: Trade, Transportation, and Utilities in Medford, OR (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| MEDF741UR                 | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| MEDF741URN                | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| MEDF741UR                 | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| MEDF741URN                | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MEDLISPRI32780            | Housing Inventory: Median Listing Price in Medford, OR (CBSA)                                                | 2016-07-01          | 2022-03-01        |
 | MEDLISPRIMM32780          | Housing Inventory: Median Listing Price Month-Over-Month in Medford, OR (CBSA)                               | 2017-07-01          | 2022-03-01        |
 | MEDLISPRIPERSQUFEE32780   | Housing Inventory: Median Listing Price per Square Feet in Medford, OR (CBSA)                                | 2016-07-01          | 2022-03-01        |
@@ -116,13 +116,10 @@
 | SMU41327800500000001SA    | All Employees: Total Private in Medford, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU41327800500000002      | Average Weekly Hours of All Employees: Total Private in Medford, OR (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU41327800500000002A     | Average Weekly Hours of All Employees: Total Private in Medford, OR (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU41327800500000002SA    | Average Weekly Hours of All Employees: Total Private in Medford, OR (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU41327800500000003      | Average Hourly Earnings of All Employees: Total Private in Medford, OR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU41327800500000003A     | Average Hourly Earnings of All Employees: Total Private in Medford, OR (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU41327800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Medford, OR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU41327800500000011      | Average Weekly Earnings of All Employees: Total Private in Medford, OR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU41327800500000011A     | Average Weekly Earnings of All Employees: Total Private in Medford, OR (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU41327800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Medford, OR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU41327800600000001      | All Employees: Goods Producing in Medford, OR (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU41327800600000001A     | All Employees: Goods Producing in Medford, OR (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU41327800600000001SA    | All Employees: Goods Producing in Medford, OR (MSA)                                                          | 1990-01-01          | 2022-03-01        |

@@ -1,13 +1,13 @@
 | Folder                                       |   Files / Folders |
 |----------------------------------------------|-------------------|
-| Cumberland, MD-WV                            |                 0 |
-| Weirton-Steubenville, WV-OH                  |                82 |
-| Parkersburg-Vienna, WV                       |               109 |
-| Wheeling, WV-OH                              |               130 |
-| Hagerstown-Martinsburg, MD-WV                |                 0 |
-| Huntington-Ashland, WV-KY-OH                 |               162 |
+| Wheeling, WV-OH                              |                 0 |
+| Charleston, WV                               |               171 |
 | Washington-Arlington-Alexandria, DC-VA-MD-WV |                 0 |
-| Charleston, WV                               |               174 |
-| Morgantown, WV                               |               140 |
-| Beckley, WV                                  |                62 |
-| Winchester, VA-WV                            |                 0 |
+| Morgantown, WV                               |               137 |
+| Weirton-Steubenville, WV-OH                  |                 0 |
+| Cumberland, MD-WV                            |                 0 |
+| Parkersburg-Vienna, WV                       |               106 |
+| Hagerstown-Martinsburg, MD-WV                |                 0 |
+| Beckley, WV                                  |                59 |
+| Winchester, VA-WV                            |               105 |
+| Huntington-Ashland, WV-KY-OH                 |                 0 |

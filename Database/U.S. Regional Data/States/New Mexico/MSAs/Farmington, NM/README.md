@@ -19,27 +19,27 @@
 | ENUC221440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2021-07-01        |
 | ENUC221440510             | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2021-07-01        |
 | ENUC221440510SA           | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2021-07-01        |
-| FARM135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-02-01        |
-| FARM135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-02-01        |
-| FARM135BPPRIV             | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-02-01        |
-| FARM135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-02-01        |
+| FARM135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-03-01        |
+| FARM135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-03-01        |
+| FARM135BPPRIV             | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-03-01        |
+| FARM135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-03-01        |
 | FARM135GOVT               | All Employees: Government in Farmington, NM (MSA)                                                    | 1990-01-01          | 2022-03-01        |
 | FARM135GOVTN              | All Employees: Government in Farmington, NM (MSA)                                                    | 1990-01-01          | 2022-03-01        |
-| FARM135LF                 | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| FARM135LFN                | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| FARM135LF                 | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| FARM135LFN                | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | FARM135NA                 | All Employees: Total Nonfarm in Farmington, NM (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | FARM135NAN                | All Employees: Total Nonfarm in Farmington, NM (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | FARM135PCPI               | Per Capita Personal Income in Farmington, NM (MSA)                                                   | 1969-01-01          | 2020-01-01        |
-| FARM135UR                 | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
-| FARM135URN                | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FARM135UR                 | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2022-03-01        |
+| FARM135URN                | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | FMTPOP                    | Resident Population in Farmington, NM (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | IRPD22140                 | Implicit Regional Price Deflator for Farmington, NM (MSA)                                            | 2008-01-01          | 2020-01-01        |
-| LAUMT352214000000003A     | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2020-01-01        |
-| LAUMT352214000000004      | Unemployed Persons in Farmington, NM (MSA)                                                           | 1990-01-01          | 2022-02-01        |
-| LAUMT352214000000004A     | Unemployed Persons in Farmington, NM (MSA)                                                           | 1990-01-01          | 2020-01-01        |
-| LAUMT352214000000005      | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2022-02-01        |
-| LAUMT352214000000005A     | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2020-01-01        |
-| LAUMT352214000000006A     | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2020-01-01        |
+| LAUMT352214000000003A     | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
+| LAUMT352214000000004      | Unemployed Persons in Farmington, NM (MSA)                                                           | 1990-01-01          | 2022-03-01        |
+| LAUMT352214000000004A     | Unemployed Persons in Farmington, NM (MSA)                                                           | 1990-01-01          | 2021-01-01        |
+| LAUMT352214000000005      | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2022-03-01        |
+| LAUMT352214000000005A     | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2021-01-01        |
+| LAUMT352214000000006A     | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR22140          | Housing Inventory: Median Days on Market in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM22140        | Housing Inventory: Median Days on Market Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY22140        | Housing Inventory: Median Days on Market Year-Over-Year in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-03-01        |
@@ -81,13 +81,10 @@
 | SMU35221400500000001SA    | All Employees: Total Private in Farmington, NM (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | SMU35221400500000002      | Average Weekly Hours of All Employees: Total Private in Farmington, NM (MSA)                         | 2007-01-01          | 2022-03-01        |
 | SMU35221400500000002A     | Average Weekly Hours of All Employees: Total Private in Farmington, NM (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU35221400500000002SA    | Average Weekly Hours of All Employees: Total Private in Farmington, NM (MSA)                         | 2007-01-01          | 2022-03-01        |
 | SMU35221400500000003      | Average Hourly Earnings of All Employees: Total Private in Farmington, NM (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU35221400500000003A     | Average Hourly Earnings of All Employees: Total Private in Farmington, NM (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU35221400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Farmington, NM (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU35221400500000011      | Average Weekly Earnings of All Employees: Total Private in Farmington, NM (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU35221400500000011A     | Average Weekly Earnings of All Employees: Total Private in Farmington, NM (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU35221400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Farmington, NM (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU35221400600000001      | All Employees: Goods Producing in Farmington, NM (MSA)                                               | 1990-01-01          | 2022-03-01        |
 | SMU35221400600000001A     | All Employees: Goods Producing in Farmington, NM (MSA)                                               | 1990-01-01          | 2021-01-01        |
 | SMU35221400600000001SA    | All Employees: Goods Producing in Farmington, NM (MSA)                                               | 1990-01-01          | 2022-03-01        |

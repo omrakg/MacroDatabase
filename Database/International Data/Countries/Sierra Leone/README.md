@@ -138,15 +138,15 @@
 | SCSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from South Carolina                                                            | 1997-01-01          | 2017-01-01        |
 | SDSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from South Dakota                                                              | 2006-01-01          | 2016-01-01        |
 | SEADTLITRZSSLE      | Literacy Rate, Adult Total for Sierra Leone                                                                                   | 2004-01-01          | 2018-01-01        |
-| SLEBCABP6GDPPT      | Net Current Account Total for Sierra Leone                                                                                    | 2004-01-01          | 2022-01-01        |
-| SLEBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Sierra Leone                    | 2004-01-01          | 2022-01-01        |
-| SLEBGSBP6GDPPT      | Goods and Services: Net for Sierra Leone                                                                                      | 2004-01-01          | 2022-01-01        |
-| SLEBMGSBP6GDPPT     | Goods and Services: Debit for Sierra Leone                                                                                    | 2004-01-01          | 2022-01-01        |
-| SLEBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Sierra Leone                                                        | 2004-01-01          | 2022-01-01        |
-| SLEBXGSBP6GDPPT     | Goods and Services: Credit for Sierra Leone                                                                                   | 2004-01-01          | 2022-01-01        |
-| SLEDGGDPPT          | Official External Debt: Debtor Based for Sierra Leone                                                                         | 2004-01-01          | 2022-01-01        |
-| SLEENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Sierra Leone                                             | 2004-01-01          | 2020-01-01        |
-| SLEEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Sierra Leone                                                | 2004-01-01          | 2020-01-01        |
+| SLEBCABP6GDPPT      | Net Current Account Total for Sierra Leone                                                                                    | 2004-01-01          | 2023-01-01        |
+| SLEBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Sierra Leone                    | 2004-01-01          | 2023-01-01        |
+| SLEBGSBP6GDPPT      | Goods and Services: Net for Sierra Leone                                                                                      | 2004-01-01          | 2023-01-01        |
+| SLEBMGSBP6GDPPT     | Goods and Services: Debit for Sierra Leone                                                                                    | 2004-01-01          | 2023-01-01        |
+| SLEBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Sierra Leone                                                        | 2004-01-01          | 2023-01-01        |
+| SLEBXGSBP6GDPPT     | Goods and Services: Credit for Sierra Leone                                                                                   | 2004-01-01          | 2023-01-01        |
+| SLEDGGDPPT          | Official External Debt: Debtor Based for Sierra Leone                                                                         | 2004-01-01          | 2023-01-01        |
+| SLEENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Sierra Leone                                             | 2004-01-01          | 2021-01-01        |
+| SLEEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Sierra Leone                                                | 2004-01-01          | 2021-01-01        |
 | SLEFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Sierra Leone                                                | 2008-01-01          | 2012-01-01        |
 | SLEFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Sierra Leone                              | 2008-01-01          | 2012-01-01        |
 | SLEFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Sierra Leone                                                      | 2008-01-01          | 2012-01-01        |
@@ -174,23 +174,23 @@
 | SLEFCSODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Sierra Leone                           | 2004-01-01          | 2012-01-01        |
 | SLEFCSODCXDC        | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Sierra Leone                                     | 2004-01-01          | 2012-01-01        |
 | SLEFCSODDXDC        | Use of Financial Services, Assets: Outstanding Loans at Other Deposit Takers for Sierra Leone                                 | 2004-01-01          | 2012-01-01        |
-| SLEFDSAOPGDPPT      | Claims on Private Sector for Sierra Leone                                                                                     | 2004-01-01          | 2020-01-01        |
-| SLEFDSAOPPCPPPT     | Claims on Private Sector for Sierra Leone                                                                                     | 2004-01-01          | 2020-01-01        |
-| SLEFMBGDPPT         | Broad Money for Sierra Leone                                                                                                  | 2004-01-01          | 2022-01-01        |
-| SLEFMBPCPPPT        | Broad Money for Sierra Leone                                                                                                  | 2004-01-01          | 2022-01-01        |
-| SLEGGRG01GDPPT      | General Government Revenue for Sierra Leone                                                                                   | 2004-01-01          | 2022-01-01        |
-| SLEGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Sierra Leone                                                                  | 2004-01-01          | 2022-01-01        |
-| SLEGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Sierra Leone                                              | 2004-01-01          | 2022-01-01        |
-| SLEGGXG01GDPPT      | Total Expenditure of General Government for Sierra Leone                                                                      | 2004-01-01          | 2022-01-01        |
-| SLEGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Sierra Leone                                                                | 2004-01-01          | 2022-01-01        |
-| SLENGDPRPCPCPPPT    | Real GDP Per Capita for Sierra Leone                                                                                          | 2004-01-01          | 2022-01-01        |
-| SLENGDPRPCPPPT      | Real Gross Domestic Product for Sierra Leone                                                                                  | 2004-01-01          | 2022-01-01        |
-| SLENGDPXORPCPPPT    | Real Non-Oil GDP for Sierra Leone                                                                                             | 2004-01-01          | 2022-01-01        |
-| SLENGSGDPPT         | Nominal Gross National Saving for Sierra Leone                                                                                | 2004-01-01          | 2022-01-01        |
-| SLENIGDPPT          | Nominal Gross Capital Formation for Sierra Leone                                                                              | 2004-01-01          | 2022-01-01        |
-| SLEPCPIEOPPCPPPT    | Consumer Prices at End of Period for Sierra Leone                                                                             | 2004-01-01          | 2022-01-01        |
-| SLEPCPIPCPPPT       | Consumer Prices: All Items for Sierra Leone                                                                                   | 2004-01-01          | 2022-01-01        |
-| SLETTTIX            | Terms of Trade for Goods for Sierra Leone                                                                                     | 2004-01-01          | 2022-01-01        |
+| SLEFDSAOPGDPPT      | Claims on Private Sector for Sierra Leone                                                                                     | 2004-01-01          | 2021-01-01        |
+| SLEFDSAOPPCPPPT     | Claims on Private Sector for Sierra Leone                                                                                     | 2004-01-01          | 2021-01-01        |
+| SLEFMBGDPPT         | Broad Money for Sierra Leone                                                                                                  | 2004-01-01          | 2023-01-01        |
+| SLEFMBPCPPPT        | Broad Money for Sierra Leone                                                                                                  | 2004-01-01          | 2023-01-01        |
+| SLEGGRG01GDPPT      | General Government Revenue for Sierra Leone                                                                                   | 2004-01-01          | 2023-01-01        |
+| SLEGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Sierra Leone                                                                  | 2004-01-01          | 2023-01-01        |
+| SLEGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Sierra Leone                                              | 2004-01-01          | 2023-01-01        |
+| SLEGGXG01GDPPT      | Total Expenditure of General Government for Sierra Leone                                                                      | 2004-01-01          | 2023-01-01        |
+| SLEGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Sierra Leone                                                                | 2004-01-01          | 2023-01-01        |
+| SLENGDPRPCPCPPPT    | Real GDP Per Capita for Sierra Leone                                                                                          | 2004-01-01          | 2023-01-01        |
+| SLENGDPRPCPPPT      | Real Gross Domestic Product for Sierra Leone                                                                                  | 2004-01-01          | 2023-01-01        |
+| SLENGDPXORPCPPPT    | Real Non-Oil GDP for Sierra Leone                                                                                             | 2004-01-01          | 2023-01-01        |
+| SLENGSGDPPT         | Nominal Gross National Saving for Sierra Leone                                                                                | 2004-01-01          | 2023-01-01        |
+| SLENIGDPPT          | Nominal Gross Capital Formation for Sierra Leone                                                                              | 2004-01-01          | 2023-01-01        |
+| SLEPCPIEOPPCPPPT    | Consumer Prices at End of Period for Sierra Leone                                                                             | 2004-01-01          | 2023-01-01        |
+| SLEPCPIPCPPPT       | Consumer Prices: All Items for Sierra Leone                                                                                   | 2004-01-01          | 2023-01-01        |
+| SLETTTIX            | Terms of Trade for Goods for Sierra Leone                                                                                     | 2004-01-01          | 2023-01-01        |
 | SMPOPNETMSLE        | Net migration for Sierra Leone                                                                                                | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINSLE      | Infant Mortality Rate for Sierra Leone                                                                                        | 1960-01-01          | 2020-01-01        |
 | SPDYNLE00INSLE      | Life Expectancy at Birth, Total for Sierra Leone                                                                              | 1960-01-01          | 2019-01-01        |

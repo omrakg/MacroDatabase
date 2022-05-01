@@ -25,12 +25,12 @@
 | HORAYYMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA31180              | Market Hotness: Hotness Score in Lubbock, TX (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD31180                 | Implicit Regional Price Deflator for Lubbock, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT483118000000003A     | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT483118000000004      | Unemployed Persons in Lubbock, TX (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT483118000000004A     | Unemployed Persons in Lubbock, TX (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT483118000000005      | Employed Persons in Lubbock, TX (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT483118000000005A     | Employed Persons in Lubbock, TX (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT483118000000006A     | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT483118000000003A     | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT483118000000004      | Unemployed Persons in Lubbock, TX (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT483118000000004A     | Unemployed Persons in Lubbock, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT483118000000005      | Employed Persons in Lubbock, TX (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT483118000000005A     | Employed Persons in Lubbock, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT483118000000006A     | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LBKPOP                    | Resident Population in Lubbock, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LDPEPRMMMSA31180          | Market Hotness: Listing Views per Property in Lubbock, TX (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA31180        | Market Hotness: Listing Views per Property Versus the United States in Lubbock, TX (CBSA)                    | 2017-08-01          | 2022-03-01        |
@@ -45,8 +45,8 @@
 | LUBB148INFON              | All Employees: Information in Lubbock, TX (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | LUBB148LEIH               | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | LUBB148LEIHN              | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| LUBB148LF                 | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| LUBB148LFN                | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| LUBB148LF                 | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| LUBB148LFN                | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | LUBB148MFG                | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LUBB148MFGN               | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LUBB148NA                 | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -60,8 +60,8 @@
 | LUBB148SRVON              | All Employees: Other Services in Lubbock, TX (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | LUBB148TRAD               | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | LUBB148TRADN              | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| LUBB148UR                 | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LUBB148URN                | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| LUBB148UR                 | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LUBB148URN                | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | LUBSA158MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-02-01          | 2022-03-01        |
 | LUBSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                             | 1990-02-01          | 2022-03-01        |
 | LUBSA175MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-01-01          | 2022-03-01        |
@@ -118,13 +118,10 @@
 | SMU48311800500000001SA    | All Employees: Total Private in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU48311800500000002      | Average Weekly Hours of All Employees: Total Private in Lubbock, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48311800500000002A     | Average Weekly Hours of All Employees: Total Private in Lubbock, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48311800500000002SA    | Average Weekly Hours of All Employees: Total Private in Lubbock, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48311800500000003      | Average Hourly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48311800500000003A     | Average Hourly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48311800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48311800500000011      | Average Weekly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48311800500000011A     | Average Weekly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48311800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48311800600000001      | All Employees: Goods Producing in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU48311800600000001A     | All Employees: Goods Producing in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU48311800600000001SA    | All Employees: Goods Producing in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |

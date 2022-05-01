@@ -17,8 +17,8 @@
 | DAVE317INFON              | All Employees: Information in Davenport-Moline-Rock Island, IA-IL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | DAVE317LEIH               | All Employees: Leisure and Hospitality in Davenport-Moline-Rock Island, IA-IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | DAVE317LEIHN              | All Employees: Leisure and Hospitality in Davenport-Moline-Rock Island, IA-IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| DAVE317LF                 | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| DAVE317LFN                | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| DAVE317LF                 | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| DAVE317LFN                | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | DAVE317MFG                | All Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | DAVE317MFGN               | All Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | DAVE317NA                 | All Employees: Total Nonfarm in Davenport-Moline-Rock Island, IA-IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -32,8 +32,8 @@
 | DAVE317SRVON              | All Employees: Other Services in Davenport-Moline-Rock Island, IA-IL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | DAVE317TRAD               | All Employees: Trade, Transportation, and Utilities in Davenport-Moline-Rock Island, IA-IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | DAVE317TRADN              | All Employees: Trade, Transportation, and Utilities in Davenport-Moline-Rock Island, IA-IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| DAVE317UR                 | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| DAVE317URN                | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| DAVE317UR                 | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| DAVE317URN                | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | DESCMSA19340              | Market Hotness: Demand Score in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | DRMPOP                    | Resident Population in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC193430010             | Total Quarterly Wages in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -53,12 +53,12 @@
 | HORAYYMSA19340            | Market Hotness: Hotness Rank in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA19340              | Market Hotness: Hotness Score in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD19340                 | Implicit Regional Price Deflator for Davenport-Moline-Rock Island, IA-IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT171934000000003A     | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT171934000000004      | Unemployed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT171934000000004A     | Unemployed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT171934000000005      | Employed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT171934000000005A     | Employed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT171934000000006A     | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT171934000000003A     | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT171934000000004      | Unemployed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT171934000000004A     | Unemployed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT171934000000005      | Employed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT171934000000005A     | Employed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT171934000000006A     | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA19340          | Market Hotness: Listing Views per Property in Davenport-Moline-Rock Island, IA-IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA19340        | Market Hotness: Listing Views per Property Versus the United States in Davenport-Moline-Rock Island, IA-IL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA19340          | Market Hotness: Listing Views per Property in Davenport-Moline-Rock Island, IA-IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU17193400500000001SA    | All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU17193400500000002      | Average Weekly Hours of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17193400500000002A     | Average Weekly Hours of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU17193400500000002SA    | Average Weekly Hours of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17193400500000003      | Average Hourly Earnings of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17193400500000003A     | Average Hourly Earnings of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17193400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17193400500000011      | Average Weekly Earnings of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17193400500000011A     | Average Weekly Earnings of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17193400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17193400600000001      | All Employees: Goods Producing in Davenport-Moline-Rock Island, IA-IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU17193400600000001A     | All Employees: Goods Producing in Davenport-Moline-Rock Island, IA-IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU17193400600000001SA    | All Employees: Goods Producing in Davenport-Moline-Rock Island, IA-IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -134,13 +131,10 @@
 | SMU17193403000000001A     | All Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU17193403000000007      | Average Weekly Hours of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                             | 2007-01-01          | 2018-12-01        |
 | SMU17193403000000007A     | Average Weekly Hours of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                             | 2007-01-01          | 2017-01-01        |
-| SMU17193403000000007SA    | Average Weekly Hours of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                             | 2007-01-01          | 2018-12-01        |
 | SMU17193403000000008      | Average Hourly Earnings of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                          | 2007-01-01          | 2018-12-01        |
 | SMU17193403000000008A     | Average Hourly Earnings of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                          | 2007-01-01          | 2017-01-01        |
-| SMU17193403000000008SA    | Average Hourly Earnings of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                          | 2007-01-01          | 2018-12-01        |
 | SMU17193403000000030      | Average Weekly Earnings of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                          | 2007-01-01          | 2018-12-01        |
 | SMU17193403000000030A     | Average Weekly Earnings of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                          | 2007-01-01          | 2017-01-01        |
-| SMU17193403000000030SA    | Average Weekly Earnings of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                          | 2007-01-01          | 2018-12-01        |
 | SMU17193403100000001      | All Employees: Manufacturing: Durable Goods in Davenport-Moline-Rock Island, IA-IL (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU17193403100000001A     | All Employees: Manufacturing: Durable Goods in Davenport-Moline-Rock Island, IA-IL (MSA)                                             | 1990-01-01          | 2021-01-01        |
 | SMU17193403100000001SA    | All Employees: Manufacturing: Durable Goods in Davenport-Moline-Rock Island, IA-IL (MSA)                                             | 1990-01-01          | 2022-03-01        |

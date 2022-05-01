@@ -20,12 +20,12 @@
 | ENUC346240510             | Average Weekly Wages for Employees in Private Establishments in Muncie, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC346240510SA           | Average Weekly Wages for Employees in Private Establishments in Muncie, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD34620                 | Implicit Regional Price Deflator for Muncie, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT183462000000003A     | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT183462000000004      | Unemployed Persons in Muncie, IN (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT183462000000004A     | Unemployed Persons in Muncie, IN (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT183462000000005      | Employed Persons in Muncie, IN (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT183462000000005A     | Employed Persons in Muncie, IN (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT183462000000006A     | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT183462000000003A     | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT183462000000004      | Unemployed Persons in Muncie, IN (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT183462000000004A     | Unemployed Persons in Muncie, IN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT183462000000005      | Employed Persons in Muncie, IN (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT183462000000005A     | Employed Persons in Muncie, IN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT183462000000006A     | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR34620          | Housing Inventory: Median Days on Market in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM34620        | Housing Inventory: Median Days on Market Month-Over-Month in Muncie, IN (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY34620        | Housing Inventory: Median Days on Market Year-Over-Year in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -48,8 +48,8 @@
 | MUNC618INFON              | All Employees: Information in Muncie, IN (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | MUNC618LEIH               | All Employees: Leisure and Hospitality in Muncie, IN (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | MUNC618LEIHN              | All Employees: Leisure and Hospitality in Muncie, IN (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| MUNC618LF                 | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| MUNC618LFN                | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| MUNC618LF                 | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| MUNC618LFN                | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | MUNC618MFG                | All Employees: Manufacturing in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MUNC618MFGN               | All Employees: Manufacturing in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MUNC618NA                 | All Employees: Total Nonfarm in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -61,8 +61,8 @@
 | MUNC618SRVON              | All Employees: Other Services in Muncie, IN (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | MUNC618TRAD               | All Employees: Trade, Transportation, and Utilities in Muncie, IN (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | MUNC618TRADN              | All Employees: Trade, Transportation, and Utilities in Muncie, IN (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| MUNC618UR                 | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| MUNC618URN                | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| MUNC618UR                 | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| MUNC618URN                | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MUNPOP                    | Resident Population in Muncie, IN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU34620            | Housing Inventory: New Listing Count in Muncie, IN (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
 | NEWLISCOUMM34620          | Housing Inventory: New Listing Count Month-Over-Month in Muncie, IN (CBSA)                                  | 2017-07-01          | 2022-03-01        |
@@ -93,13 +93,10 @@
 | SMU18346200500000001SA    | All Employees: Total Private in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU18346200500000002      | Average Weekly Hours of All Employees: Total Private in Muncie, IN (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU18346200500000002A     | Average Weekly Hours of All Employees: Total Private in Muncie, IN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU18346200500000002SA    | Average Weekly Hours of All Employees: Total Private in Muncie, IN (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU18346200500000003      | Average Hourly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU18346200500000003A     | Average Hourly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18346200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU18346200500000011      | Average Weekly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU18346200500000011A     | Average Weekly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18346200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU18346200600000001      | All Employees: Goods Producing in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU18346200600000001A     | All Employees: Goods Producing in Muncie, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU18346200600000001SA    | All Employees: Goods Producing in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-03-01        |

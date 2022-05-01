@@ -25,12 +25,12 @@
 | HORAYYMSA42100            | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA42100              | Market Hotness: Hotness Score in Santa Cruz-Watsonville, CA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD42100                 | Implicit Regional Price Deflator for Santa Cruz-Watsonville, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT064210000000003A     | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT064210000000004      | Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT064210000000004A     | Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT064210000000005      | Employed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT064210000000005A     | Employed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT064210000000006A     | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT064210000000003A     | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT064210000000004      | Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT064210000000004A     | Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT064210000000005      | Employed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT064210000000005A     | Employed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT064210000000006A     | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA42100          | Market Hotness: Listing Views per Property in Santa Cruz-Watsonville, CA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA42100        | Market Hotness: Listing Views per Property Versus the United States in Santa Cruz-Watsonville, CA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA42100          | Market Hotness: Listing Views per Property in Santa Cruz-Watsonville, CA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -89,8 +89,8 @@
 | SANT106INFON              | All Employees: Information in Santa Cruz-Watsonville, CA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | SANT106LEIH               | All Employees: Leisure and Hospitality in Santa Cruz-Watsonville, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | SANT106LEIHN              | All Employees: Leisure and Hospitality in Santa Cruz-Watsonville, CA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| SANT106LF                 | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| SANT106LFN                | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SANT106LF                 | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| SANT106LFN                | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | SANT106MFG                | All Employees: Manufacturing in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SANT106MFGN               | All Employees: Manufacturing in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SANT106NA                 | All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -104,8 +104,8 @@
 | SANT106SRVON              | All Employees: Other Services in Santa Cruz-Watsonville, CA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | SANT106TRAD               | All Employees: Trade, Transportation, and Utilities in Santa Cruz-Watsonville, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | SANT106TRADN              | All Employees: Trade, Transportation, and Utilities in Santa Cruz-Watsonville, CA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| SANT106UR                 | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| SANT106URN                | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| SANT106UR                 | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| SANT106URN                | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SCZPOP                    | Resident Population in Santa Cruz-Watsonville, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SMS06421000000000026      | All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-04-01          | 2022-03-01        |
 | SMU06421000000000001A     | All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
@@ -114,13 +114,10 @@
 | SMU06421000500000001SA    | All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU06421000500000002      | Average Weekly Hours of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06421000500000002A     | Average Weekly Hours of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06421000500000002SA    | Average Weekly Hours of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU06421000500000003      | Average Hourly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06421000500000003A     | Average Hourly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06421000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06421000500000011      | Average Weekly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06421000500000011A     | Average Weekly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06421000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU06421000600000001      | All Employees: Goods Producing in Santa Cruz-Watsonville, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU06421000600000001A     | All Employees: Goods Producing in Santa Cruz-Watsonville, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU06421000600000001SA    | All Employees: Goods Producing in Santa Cruz-Watsonville, CA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

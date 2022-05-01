@@ -1,13 +1,22 @@
-| id               | title                                                                                                                       | observation_start   | observation_end   |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA17460Q156N | CredAbility Consumer Distress Index for Cleveland-Elyria-Mentor, OH (MSA) (DISCONTINUED)                                    | 2005-01-01          | 2013-01-01        |
-| CVLAGRIDX        | Economic Conditions Index for Cleveland-Elyria, OH (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| INTINCOMECVL     | Net Interest Income for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSCVL           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRCVL          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NICVL            | Net Income for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMCVL           | Net Interest Margin for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP17460      | Total Per Capita Real Gross Domestic Product for Cleveland-Elyria, OH (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROACVL           | Return on Average Assets for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETCVL      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANCVL       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| id                     | title                                                                                                                       | observation_start   | observation_end   |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA17460Q156N       | CredAbility Consumer Distress Index for Cleveland-Elyria-Mentor, OH (MSA) (DISCONTINUED)                                    | 2005-01-01          | 2013-01-01        |
+| CVLAGRIDX              | Economic Conditions Index for Cleveland-Elyria, OH (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| INTINCOMECVL           | Net Interest Income for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSCVL                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| LLSRCVL                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| NICVL                  | Net Income for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| NIMCVL                 | Net Interest Margin for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| PCRGMP17460            | Total Per Capita Real Gross Domestic Product for Cleveland-Elyria, OH (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROACVL                 | Return on Average Assets for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SMU39174600500000002SA | Average Weekly Hours of All Employees: Total Private in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
+| SMU39174600500000003SA | Average Hourly Earnings of All Employees: Total Private in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU39174600500000011SA | Average Weekly Earnings of All Employees: Total Private in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU39174603000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                    | 2003-01-01          | 2022-03-01        |
+| SMU39174603000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                 | 2003-01-01          | 2022-03-01        |
+| SMU39174603000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Cleveland-Elyria, OH (MSA) (DISCONTINUED)                 | 2003-01-01          | 2022-03-01        |
+| SMU39174603100000007SA | Average Weekly Hours of Production Employees: Manufacturing: Durable Goods in Cleveland-Elyria, OH (MSA) (DISCONTINUED)     | 2003-01-01          | 2022-03-01        |
+| SMU39174603100000008SA | Average Hourly Earnings of Production Employees: Manufacturing: Durable Goods in Cleveland-Elyria, OH (MSA) (DISCONTINUED)  | 2003-01-01          | 2022-03-01        |
+| SMU39174603100000030SA | Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in Cleveland-Elyria, OH (MSA) (DISCONTINUED)  | 2003-01-01          | 2022-03-01        |
+| TOTASSETCVL            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANCVL             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Cleveland-Elyria, OH (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

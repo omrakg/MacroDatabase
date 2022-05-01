@@ -25,12 +25,12 @@
 | HORAYYMSA49420            | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA49420              | Market Hotness: Hotness Score in Yakima, WA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD49420                 | Implicit Regional Price Deflator for Yakima, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT534942000000003A     | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT534942000000004      | Unemployed Persons in Yakima, WA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT534942000000004A     | Unemployed Persons in Yakima, WA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT534942000000005      | Employed Persons in Yakima, WA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT534942000000005A     | Employed Persons in Yakima, WA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT534942000000006A     | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT534942000000003A     | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT534942000000004      | Unemployed Persons in Yakima, WA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT534942000000004A     | Unemployed Persons in Yakima, WA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT534942000000005      | Employed Persons in Yakima, WA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT534942000000005A     | Employed Persons in Yakima, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT534942000000006A     | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA49420          | Market Hotness: Listing Views per Property in Yakima, WA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA49420        | Market Hotness: Listing Views per Property Versus the United States in Yakima, WA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA49420          | Market Hotness: Listing Views per Property in Yakima, WA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -86,13 +86,10 @@
 | SMU53494200500000001SA    | All Employees: Total Private in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU53494200500000002      | Average Weekly Hours of All Employees: Total Private in Yakima, WA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU53494200500000002A     | Average Weekly Hours of All Employees: Total Private in Yakima, WA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU53494200500000002SA    | Average Weekly Hours of All Employees: Total Private in Yakima, WA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU53494200500000003      | Average Hourly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU53494200500000003A     | Average Hourly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53494200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU53494200500000011      | Average Weekly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU53494200500000011A     | Average Weekly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53494200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU53494200600000001      | All Employees: Goods Producing in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU53494200600000001A     | All Employees: Goods Producing in Yakima, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU53494200600000001SA    | All Employees: Goods Producing in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -143,8 +140,8 @@
 | YAKI453GOVTN              | All Employees: Government in Yakima, WA (MSA)                                                               | 1990-01-01          | 2022-03-01        |
 | YAKI453LEIH               | All Employees: Leisure and Hospitality in Yakima, WA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | YAKI453LEIHN              | All Employees: Leisure and Hospitality in Yakima, WA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| YAKI453LF                 | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| YAKI453LFN                | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| YAKI453LF                 | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| YAKI453LFN                | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | YAKI453MFG                | All Employees: Manufacturing in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | YAKI453MFGN               | All Employees: Manufacturing in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | YAKI453NA                 | All Employees: Total Nonfarm in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -156,6 +153,6 @@
 | YAKI453PCPI               | Per Capita Personal Income in Yakima, WA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | YAKI453TRAD               | All Employees: Trade, Transportation, and Utilities in Yakima, WA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | YAKI453TRADN              | All Employees: Trade, Transportation, and Utilities in Yakima, WA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| YAKI453UR                 | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| YAKI453URN                | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| YAKI453UR                 | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| YAKI453URN                | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | YAKPOP                    | Resident Population in Yakima, WA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

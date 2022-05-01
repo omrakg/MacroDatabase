@@ -17,8 +17,8 @@
 | CHAM517INFON              | All Employees: Information in Champaign-Urbana, IL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | CHAM517LEIH               | All Employees: Leisure and Hospitality in Champaign-Urbana, IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | CHAM517LEIHN              | All Employees: Leisure and Hospitality in Champaign-Urbana, IL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| CHAM517LF                 | Civilian Labor Force in Champaign-Urbana, IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| CHAM517LFN                | Civilian Labor Force in Champaign-Urbana, IL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| CHAM517LF                 | Civilian Labor Force in Champaign-Urbana, IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| CHAM517LFN                | Civilian Labor Force in Champaign-Urbana, IL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | CHAM517MFG                | All Employees: Manufacturing in Champaign-Urbana, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | CHAM517MFGN               | All Employees: Manufacturing in Champaign-Urbana, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | CHAM517NA                 | All Employees: Total Nonfarm in Champaign-Urbana, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -32,8 +32,8 @@
 | CHAM517SRVON              | All Employees: Other Services in Champaign-Urbana, IL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | CHAM517TRAD               | All Employees: Trade, Transportation, and Utilities in Champaign-Urbana, IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | CHAM517TRADN              | All Employees: Trade, Transportation, and Utilities in Champaign-Urbana, IL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| CHAM517UR                 | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| CHAM517URN                | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| CHAM517UR                 | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| CHAM517URN                | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | CHMPOP                    | Resident Population in Champaign-Urbana, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16580              | Market Hotness: Demand Score in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | ENUC165830010             | Total Quarterly Wages in Champaign-Urbana, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -49,12 +49,12 @@
 | HORAYYMSA16580            | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA16580              | Market Hotness: Hotness Score in Champaign-Urbana, IL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD16580                 | Implicit Regional Price Deflator for Champaign-Urbana, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT171658000000003A     | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT171658000000004      | Unemployed Persons in Champaign-Urbana, IL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT171658000000004A     | Unemployed Persons in Champaign-Urbana, IL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT171658000000005      | Employed Persons in Champaign-Urbana, IL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT171658000000005A     | Employed Persons in Champaign-Urbana, IL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT171658000000006A     | Civilian Labor Force in Champaign-Urbana, IL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT171658000000003A     | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT171658000000004      | Unemployed Persons in Champaign-Urbana, IL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT171658000000004A     | Unemployed Persons in Champaign-Urbana, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT171658000000005      | Employed Persons in Champaign-Urbana, IL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT171658000000005A     | Employed Persons in Champaign-Urbana, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT171658000000006A     | Civilian Labor Force in Champaign-Urbana, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA16580          | Market Hotness: Listing Views per Property in Champaign-Urbana, IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA16580        | Market Hotness: Listing Views per Property Versus the United States in Champaign-Urbana, IL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA16580          | Market Hotness: Listing Views per Property in Champaign-Urbana, IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -110,13 +110,10 @@
 | SMU17165800500000001SA    | All Employees: Total Private in Champaign-Urbana, IL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU17165800500000002      | Average Weekly Hours of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17165800500000002A     | Average Weekly Hours of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU17165800500000002SA    | Average Weekly Hours of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU17165800500000003      | Average Hourly Earnings of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17165800500000003A     | Average Hourly Earnings of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17165800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17165800500000011      | Average Weekly Earnings of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17165800500000011A     | Average Weekly Earnings of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17165800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Champaign-Urbana, IL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU17165800600000001      | All Employees: Goods Producing in Champaign-Urbana, IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU17165800600000001A     | All Employees: Goods Producing in Champaign-Urbana, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU17165800600000001SA    | All Employees: Goods Producing in Champaign-Urbana, IL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

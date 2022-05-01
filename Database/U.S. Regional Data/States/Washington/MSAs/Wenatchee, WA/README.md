@@ -20,12 +20,12 @@
 | ENUC483040510             | Average Weekly Wages for Employees in Private Establishments in Wenatchee, WA (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC483040510SA           | Average Weekly Wages for Employees in Private Establishments in Wenatchee, WA (MSA)              | 1990-01-01          | 2021-07-01        |
 | IRPD48300                 | Implicit Regional Price Deflator for Wenatchee, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT534830000000003A     | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT534830000000004      | Unemployed Persons in Wenatchee, WA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT534830000000004A     | Unemployed Persons in Wenatchee, WA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT534830000000005      | Employed Persons in Wenatchee, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT534830000000005A     | Employed Persons in Wenatchee, WA (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT534830000000006A     | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT534830000000003A     | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT534830000000004      | Unemployed Persons in Wenatchee, WA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT534830000000004A     | Unemployed Persons in Wenatchee, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT534830000000005      | Employed Persons in Wenatchee, WA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT534830000000005A     | Employed Persons in Wenatchee, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT534830000000006A     | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR48300          | Housing Inventory: Median Days on Market in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM48300        | Housing Inventory: Median Days on Market Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY48300        | Housing Inventory: Median Days on Market Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -67,13 +67,10 @@
 | SMU53483000500000001SA    | All Employees: Total Private in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU53483000500000002      | Average Weekly Hours of All Employees: Total Private in Wenatchee, WA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU53483000500000002A     | Average Weekly Hours of All Employees: Total Private in Wenatchee, WA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU53483000500000002SA    | Average Weekly Hours of All Employees: Total Private in Wenatchee, WA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU53483000500000003      | Average Hourly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU53483000500000003A     | Average Hourly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53483000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU53483000500000011      | Average Weekly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU53483000500000011A     | Average Weekly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53483000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU53483000600000001      | All Employees: Goods Producing in Wenatchee, WA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU53483000600000001A     | All Employees: Goods Producing in Wenatchee, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU53483000600000001SA    | All Employees: Goods Producing in Wenatchee, WA (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -107,8 +104,8 @@
 | WENA353GOVTN              | All Employees: Government in Wenatchee, WA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | WENA353LEIH               | All Employees: Leisure and Hospitality in Wenatchee, WA (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | WENA353LEIHN              | All Employees: Leisure and Hospitality in Wenatchee, WA (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| WENA353LF                 | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| WENA353LFN                | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| WENA353LF                 | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| WENA353LFN                | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | WENA353MFG                | All Employees: Manufacturing in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | WENA353MFGN               | All Employees: Manufacturing in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | WENA353NA                 | All Employees: Total Nonfarm in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -118,6 +115,6 @@
 | WENA353PCPI               | Per Capita Personal Income in Wenatchee, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | WENA353TRAD               | All Employees: Trade, Transportation, and Utilities in Wenatchee, WA (MSA)                       | 1990-01-01          | 2022-03-01        |
 | WENA353TRADN              | All Employees: Trade, Transportation, and Utilities in Wenatchee, WA (MSA)                       | 1990-01-01          | 2022-03-01        |
-| WENA353UR                 | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| WENA353URN                | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| WENA353UR                 | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| WENA353URN                | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | WNCPOP                    | Resident Population in Wenatchee, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |

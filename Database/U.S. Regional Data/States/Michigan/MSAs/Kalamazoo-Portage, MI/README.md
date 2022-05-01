@@ -35,8 +35,8 @@
 | KALA026INFON              | All Employees: Information in Kalamazoo-Portage, MI (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | KALA026LEIH               | All Employees: Leisure and Hospitality in Kalamazoo-Portage, MI (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | KALA026LEIHN              | All Employees: Leisure and Hospitality in Kalamazoo-Portage, MI (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| KALA026LF                 | Civilian Labor Force in Kalamazoo-Portage, MI (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| KALA026LFN                | Civilian Labor Force in Kalamazoo-Portage, MI (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| KALA026LF                 | Civilian Labor Force in Kalamazoo-Portage, MI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| KALA026LFN                | Civilian Labor Force in Kalamazoo-Portage, MI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | KALA026MFG                | All Employees: Manufacturing in Kalamazoo-Portage, MI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | KALA026MFGN               | All Employees: Manufacturing in Kalamazoo-Portage, MI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | KALA026NA                 | All Employees: Total Nonfarm in Kalamazoo-Portage, MI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -50,15 +50,15 @@
 | KALA026SRVON              | All Employees: Other Services in Kalamazoo-Portage, MI (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | KALA026TRAD               | All Employees: Trade, Transportation, and Utilities in Kalamazoo-Portage, MI (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | KALA026TRADN              | All Employees: Trade, Transportation, and Utilities in Kalamazoo-Portage, MI (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| KALA026UR                 | Unemployment Rate in Kalamazoo-Portage, MI (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| KALA026URN                | Unemployment Rate in Kalamazoo-Portage, MI (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| KALA026UR                 | Unemployment Rate in Kalamazoo-Portage, MI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| KALA026URN                | Unemployment Rate in Kalamazoo-Portage, MI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | KALPOP                    | Resident Population in Kalamazoo-Portage, MI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| LAUMT262802000000003A     | Unemployment Rate in Kalamazoo-Portage, MI (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT262802000000004      | Unemployed Persons in Kalamazoo-Portage, MI (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT262802000000004A     | Unemployed Persons in Kalamazoo-Portage, MI (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT262802000000005      | Employed Persons in Kalamazoo-Portage, MI (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT262802000000005A     | Employed Persons in Kalamazoo-Portage, MI (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT262802000000006A     | Civilian Labor Force in Kalamazoo-Portage, MI (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT262802000000003A     | Unemployment Rate in Kalamazoo-Portage, MI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT262802000000004      | Unemployed Persons in Kalamazoo-Portage, MI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT262802000000004A     | Unemployed Persons in Kalamazoo-Portage, MI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT262802000000005      | Employed Persons in Kalamazoo-Portage, MI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT262802000000005A     | Employed Persons in Kalamazoo-Portage, MI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT262802000000006A     | Civilian Labor Force in Kalamazoo-Portage, MI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA28020          | Market Hotness: Listing Views per Property in Kalamazoo-Portage, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA28020        | Market Hotness: Listing Views per Property Versus the United States in Kalamazoo-Portage, MI (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA28020          | Market Hotness: Listing Views per Property in Kalamazoo-Portage, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU26280200500000001SA    | All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU26280200500000002      | Average Weekly Hours of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU26280200500000002A     | Average Weekly Hours of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU26280200500000002SA    | Average Weekly Hours of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU26280200500000003      | Average Hourly Earnings of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU26280200500000003A     | Average Hourly Earnings of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU26280200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU26280200500000011      | Average Weekly Earnings of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU26280200500000011A     | Average Weekly Earnings of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU26280200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Kalamazoo-Portage, MI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU26280200600000001      | All Employees: Goods Producing in Kalamazoo-Portage, MI (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU26280200600000001A     | All Employees: Goods Producing in Kalamazoo-Portage, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU26280200600000001SA    | All Employees: Goods Producing in Kalamazoo-Portage, MI (MSA)                                                          | 1990-01-01          | 2022-03-01        |

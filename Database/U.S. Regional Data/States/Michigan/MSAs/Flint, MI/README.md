@@ -30,8 +30,8 @@
 | FLIN426INFON              | All Employees: Information in Flint, MI (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | FLIN426LEIH               | All Employees: Leisure and Hospitality in Flint, MI (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | FLIN426LEIHN              | All Employees: Leisure and Hospitality in Flint, MI (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| FLIN426LF                 | Civilian Labor Force in Flint, MI (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| FLIN426LFN                | Civilian Labor Force in Flint, MI (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| FLIN426LF                 | Civilian Labor Force in Flint, MI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| FLIN426LFN                | Civilian Labor Force in Flint, MI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | FLIN426MFG                | All Employees: Manufacturing in Flint, MI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | FLIN426MFGN               | All Employees: Manufacturing in Flint, MI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | FLIN426NA                 | All Employees: Total Nonfarm in Flint, MI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -45,20 +45,20 @@
 | FLIN426SRVON              | All Employees: Other Services in Flint, MI (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | FLIN426TRAD               | All Employees: Trade, Transportation, and Utilities in Flint, MI (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | FLIN426TRADN              | All Employees: Trade, Transportation, and Utilities in Flint, MI (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| FLIN426UR                 | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| FLIN426URN                | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| FLIN426UR                 | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| FLIN426URN                | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | FLTPOP                    | Resident Population in Flint, MI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA22420            | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HORAMSA22420              | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA22420            | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA22420              | Market Hotness: Hotness Score in Flint, MI (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD22420                 | Implicit Regional Price Deflator for Flint, MI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT262242000000003A     | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT262242000000004      | Unemployed Persons in Flint, MI (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT262242000000004A     | Unemployed Persons in Flint, MI (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT262242000000005      | Employed Persons in Flint, MI (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT262242000000005A     | Employed Persons in Flint, MI (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT262242000000006A     | Civilian Labor Force in Flint, MI (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT262242000000003A     | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT262242000000004      | Unemployed Persons in Flint, MI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT262242000000004A     | Unemployed Persons in Flint, MI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT262242000000005      | Employed Persons in Flint, MI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT262242000000005A     | Employed Persons in Flint, MI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT262242000000006A     | Civilian Labor Force in Flint, MI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA22420          | Market Hotness: Listing Views per Property in Flint, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA22420        | Market Hotness: Listing Views per Property Versus the United States in Flint, MI (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA22420          | Market Hotness: Listing Views per Property in Flint, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -114,13 +114,10 @@
 | SMU26224200500000001SA    | All Employees: Total Private in Flint, MI (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU26224200500000002      | Average Weekly Hours of All Employees: Total Private in Flint, MI (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU26224200500000002A     | Average Weekly Hours of All Employees: Total Private in Flint, MI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU26224200500000002SA    | Average Weekly Hours of All Employees: Total Private in Flint, MI (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU26224200500000003      | Average Hourly Earnings of All Employees: Total Private in Flint, MI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU26224200500000003A     | Average Hourly Earnings of All Employees: Total Private in Flint, MI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU26224200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Flint, MI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU26224200500000011      | Average Weekly Earnings of All Employees: Total Private in Flint, MI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU26224200500000011A     | Average Weekly Earnings of All Employees: Total Private in Flint, MI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU26224200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Flint, MI (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU26224200600000001      | All Employees: Goods Producing in Flint, MI (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU26224200600000001A     | All Employees: Goods Producing in Flint, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU26224200600000001SA    | All Employees: Goods Producing in Flint, MI (MSA)                                                          | 1990-01-01          | 2022-03-01        |

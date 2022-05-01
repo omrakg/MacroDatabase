@@ -6,13 +6,13 @@
 | AMEPOP                    | Resident Population in Ames, IA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | AMES119GOVT               | All Employees: Government in Ames, IA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | AMES119GOVTN              | All Employees: Government in Ames, IA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| AMES119LF                 | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| AMES119LFN                | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| AMES119LF                 | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| AMES119LFN                | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | AMES119NA                 | All Employees: Total Nonfarm in Ames, IA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | AMES119NAN                | All Employees: Total Nonfarm in Ames, IA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | AMES119PCPI               | Per Capita Personal Income in Ames, IA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| AMES119UR                 | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| AMES119URN                | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| AMES119UR                 | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| AMES119URN                | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | ATNHPIUS11180Q            | All-Transactions House Price Index for Ames, IA (MSA)                                       | 1986-10-01          | 2021-10-01        |
 | AVELISPRI11180            | Housing Inventory: Average Listing Price in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | AVELISPRIMM11180          | Housing Inventory: Average Listing Price Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-03-01        |
@@ -26,12 +26,12 @@
 | ENUC111840510             | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC111840510SA           | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2021-07-01        |
 | IRPD11180                 | Implicit Regional Price Deflator for Ames, IA (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT191118000000003A     | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT191118000000004      | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT191118000000004A     | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT191118000000005      | Employed Persons in Ames, IA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT191118000000005A     | Employed Persons in Ames, IA (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT191118000000006A     | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT191118000000003A     | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT191118000000004      | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT191118000000004A     | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT191118000000005      | Employed Persons in Ames, IA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT191118000000005A     | Employed Persons in Ames, IA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT191118000000006A     | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR11180          | Housing Inventory: Median Days on Market in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM11180        | Housing Inventory: Median Days on Market Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY11180        | Housing Inventory: Median Days on Market Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -73,13 +73,10 @@
 | SMU19111800500000001SA    | All Employees: Total Private in Ames, IA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU19111800500000002      | Average Weekly Hours of All Employees: Total Private in Ames, IA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU19111800500000002A     | Average Weekly Hours of All Employees: Total Private in Ames, IA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU19111800500000002SA    | Average Weekly Hours of All Employees: Total Private in Ames, IA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU19111800500000003      | Average Hourly Earnings of All Employees: Total Private in Ames, IA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU19111800500000003A     | Average Hourly Earnings of All Employees: Total Private in Ames, IA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU19111800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Ames, IA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU19111800500000011      | Average Weekly Earnings of All Employees: Total Private in Ames, IA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU19111800500000011A     | Average Weekly Earnings of All Employees: Total Private in Ames, IA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU19111800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Ames, IA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU19111800600000001      | All Employees: Goods Producing in Ames, IA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU19111800600000001A     | All Employees: Goods Producing in Ames, IA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU19111800600000001SA    | All Employees: Goods Producing in Ames, IA (MSA)                                            | 1990-01-01          | 2022-03-01        |

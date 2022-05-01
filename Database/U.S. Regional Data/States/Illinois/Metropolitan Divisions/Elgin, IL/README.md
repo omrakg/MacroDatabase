@@ -9,13 +9,10 @@
 | SMU17209940500000001SA | All Employees: Total Private in Elgin, IL (MD)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU17209940500000002   | Average Weekly Hours of All Employees: Total Private in Elgin, IL (MD)                                    | 2011-01-01          | 2022-03-01        |
 | SMU17209940500000002A  | Average Weekly Hours of All Employees: Total Private in Elgin, IL (MD)                                    | 2011-01-01          | 2021-01-01        |
-| SMU17209940500000002SA | Average Weekly Hours of All Employees: Total Private in Elgin, IL (MD)                                    | 2011-01-01          | 2022-03-01        |
 | SMU17209940500000003   | Average Hourly Earnings of All Employees: Total Private in Elgin, IL (MD)                                 | 2011-01-01          | 2022-03-01        |
 | SMU17209940500000003A  | Average Hourly Earnings of All Employees: Total Private in Elgin, IL (MD)                                 | 2011-01-01          | 2021-01-01        |
-| SMU17209940500000003SA | Average Hourly Earnings of All Employees: Total Private in Elgin, IL (MD)                                 | 2011-01-01          | 2022-03-01        |
 | SMU17209940500000011   | Average Weekly Earnings of All Employees: Total Private in Elgin, IL (MD)                                 | 2011-01-01          | 2022-03-01        |
 | SMU17209940500000011A  | Average Weekly Earnings of All Employees: Total Private in Elgin, IL (MD)                                 | 2011-01-01          | 2021-01-01        |
-| SMU17209940500000011SA | Average Weekly Earnings of All Employees: Total Private in Elgin, IL (MD)                                 | 2011-01-01          | 2022-03-01        |
 | SMU17209940600000001   | All Employees: Goods Producing in Elgin, IL (MD)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU17209940600000001A  | All Employees: Goods Producing in Elgin, IL (MD)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU17209940600000001SA | All Employees: Goods Producing in Elgin, IL (MD)                                                          | 1990-01-01          | 2022-03-01        |

@@ -20,10 +20,10 @@
 | ENUC245440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC245440510             | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC245440510SA           | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2021-07-01        |
-| GREE508BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-02-01        |
-| GREE508BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-02-01        |
-| GREE508BPPRIV             | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-02-01        |
-| GREE508BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-02-01        |
+| GREE508BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-03-01        |
+| GREE508BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-03-01        |
+| GREE508BPPRIV             | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-03-01        |
+| GREE508BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-03-01        |
 | GREE508EDUH               | All Employees: Education and Health Services in Greeley, CO (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | GREE508EDUHN              | All Employees: Education and Health Services in Greeley, CO (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | GREE508FIRE               | All Employees: Financial Activities in Greeley, CO (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -34,8 +34,8 @@
 | GREE508INFON              | All Employees: Information in Greeley, CO (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | GREE508LEIH               | All Employees: Leisure and Hospitality in Greeley, CO (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | GREE508LEIHN              | All Employees: Leisure and Hospitality in Greeley, CO (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| GREE508LF                 | Civilian Labor Force in Greeley, CO (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| GREE508LFN                | Civilian Labor Force in Greeley, CO (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| GREE508LF                 | Civilian Labor Force in Greeley, CO (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| GREE508LFN                | Civilian Labor Force in Greeley, CO (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | GREE508MFG                | All Employees: Manufacturing in Greeley, CO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | GREE508MFGN               | All Employees: Manufacturing in Greeley, CO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | GREE508NA                 | All Employees: Total Nonfarm in Greeley, CO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -49,20 +49,20 @@
 | GREE508SRVON              | All Employees: Other Services in Greeley, CO (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | GREE508TRAD               | All Employees: Trade, Transportation, and Utilities in Greeley, CO (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | GREE508TRADN              | All Employees: Trade, Transportation, and Utilities in Greeley, CO (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| GREE508UR                 | Unemployment Rate in Greeley, CO (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| GREE508URN                | Unemployment Rate in Greeley, CO (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| GREE508UR                 | Unemployment Rate in Greeley, CO (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| GREE508URN                | Unemployment Rate in Greeley, CO (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | GRLPOP                    | Resident Population in Greeley, CO (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA24540            | Market Hotness: Hotness Rank in Greeley, CO (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HORAMSA24540              | Market Hotness: Hotness Rank in Greeley, CO (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA24540            | Market Hotness: Hotness Rank in Greeley, CO (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA24540              | Market Hotness: Hotness Score in Greeley, CO (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD24540                 | Implicit Regional Price Deflator for Greeley, CO (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT082454000000003A     | Unemployment Rate in Greeley, CO (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT082454000000004      | Unemployed Persons in Greeley, CO (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT082454000000004A     | Unemployed Persons in Greeley, CO (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT082454000000005      | Employed Persons in Greeley, CO (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT082454000000005A     | Employed Persons in Greeley, CO (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT082454000000006A     | Civilian Labor Force in Greeley, CO (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT082454000000003A     | Unemployment Rate in Greeley, CO (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT082454000000004      | Unemployed Persons in Greeley, CO (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT082454000000004A     | Unemployed Persons in Greeley, CO (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT082454000000005      | Employed Persons in Greeley, CO (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT082454000000005A     | Employed Persons in Greeley, CO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT082454000000006A     | Civilian Labor Force in Greeley, CO (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA24540          | Market Hotness: Listing Views per Property in Greeley, CO (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA24540        | Market Hotness: Listing Views per Property Versus the United States in Greeley, CO (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA24540          | Market Hotness: Listing Views per Property in Greeley, CO (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -118,13 +118,10 @@
 | SMU08245400500000001SA    | All Employees: Total Private in Greeley, CO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU08245400500000002      | Average Weekly Hours of All Employees: Total Private in Greeley, CO (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU08245400500000002A     | Average Weekly Hours of All Employees: Total Private in Greeley, CO (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU08245400500000002SA    | Average Weekly Hours of All Employees: Total Private in Greeley, CO (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU08245400500000003      | Average Hourly Earnings of All Employees: Total Private in Greeley, CO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU08245400500000003A     | Average Hourly Earnings of All Employees: Total Private in Greeley, CO (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU08245400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Greeley, CO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU08245400500000011      | Average Weekly Earnings of All Employees: Total Private in Greeley, CO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU08245400500000011A     | Average Weekly Earnings of All Employees: Total Private in Greeley, CO (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU08245400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Greeley, CO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU08245400600000001      | All Employees: Goods Producing in Greeley, CO (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU08245400600000001A     | All Employees: Goods Producing in Greeley, CO (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU08245400600000001SA    | All Employees: Goods Producing in Greeley, CO (MSA)                                                          | 1990-01-01          | 2022-03-01        |

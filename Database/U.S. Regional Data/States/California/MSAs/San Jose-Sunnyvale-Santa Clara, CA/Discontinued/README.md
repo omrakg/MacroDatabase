@@ -8,6 +8,9 @@
 | NISSC                  | Net Income for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                             | 1989-01-01          | 2020-07-01        |
 | PCRGMP41940            | Total Per Capita Real Gross Domestic Product for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                     | 2001-01-01          | 2017-01-01        |
 | ROASSC                 | Return on Average Assets for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)               | 1989-01-01          | 2020-07-01        |
+| SMU06419400500000002SA | Average Weekly Hours of All Employees: Total Private in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                              | 2007-01-01          | 2022-03-01        |
+| SMU06419400500000003SA | Average Hourly Earnings of All Employees: Total Private in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
+| SMU06419400500000011SA | Average Weekly Earnings of All Employees: Total Private in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
 | SMU06419403133320001   | All Employees: Durable Goods: Industrial Machinery Manufacturing in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2013-12-01        |
 | SMU06419403133320001A  | All Employees: Durable Goods: Industrial Machinery Manufacturing in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2012-01-01        |
 | SMU06419403133320001SA | All Employees: Durable Goods: Industrial Machinery Manufacturing in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2013-12-01        |

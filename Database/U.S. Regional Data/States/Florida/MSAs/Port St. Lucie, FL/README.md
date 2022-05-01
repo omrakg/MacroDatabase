@@ -26,12 +26,12 @@
 | HORAYYMSA38940            | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA38940              | Market Hotness: Hotness Score in Port St. Lucie, FL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD38940                 | Implicit Regional Price Deflator for Port St. Lucie, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT123894000000003A     | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT123894000000004      | Unemployed Persons in Port St. Lucie, FL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT123894000000004A     | Unemployed Persons in Port St. Lucie, FL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT123894000000005      | Employed Persons in Port St. Lucie, FL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT123894000000005A     | Employed Persons in Port St. Lucie, FL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT123894000000006A     | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT123894000000003A     | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT123894000000004      | Unemployed Persons in Port St. Lucie, FL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT123894000000004A     | Unemployed Persons in Port St. Lucie, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT123894000000005      | Employed Persons in Port St. Lucie, FL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT123894000000005A     | Employed Persons in Port St. Lucie, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT123894000000006A     | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA38940          | Market Hotness: Listing Views per Property in Port St. Lucie, FL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA38940        | Market Hotness: Listing Views per Property Versus the United States in Port St. Lucie, FL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA38940          | Market Hotness: Listing Views per Property in Port St. Lucie, FL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -66,10 +66,10 @@
 | PENLISCOU38940            | Housing Inventory: Pending Listing Count in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | PENLISCOUMM38940          | Housing Inventory: Pending Listing Count Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | PENLISCOUYY38940          | Housing Inventory: Pending Listing Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PORT912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-02-01        |
-| PORT912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-02-01        |
-| PORT912BPPRIV             | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-02-01        |
-| PORT912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-02-01        |
+| PORT912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-03-01        |
+| PORT912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-03-01        |
+| PORT912BPPRIV             | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-03-01        |
+| PORT912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-03-01        |
 | PORT912EDUH               | All Employees: Education and Health Services in Port St. Lucie, FL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | PORT912EDUHN              | All Employees: Education and Health Services in Port St. Lucie, FL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | PORT912FIRE               | All Employees: Financial Activities in Port St. Lucie, FL (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -80,8 +80,8 @@
 | PORT912INFON              | All Employees: Information in Port St. Lucie, FL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | PORT912LEIH               | All Employees: Leisure and Hospitality in Port St. Lucie, FL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | PORT912LEIHN              | All Employees: Leisure and Hospitality in Port St. Lucie, FL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| PORT912LF                 | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| PORT912LFN                | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| PORT912LF                 | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| PORT912LFN                | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | PORT912MFG                | All Employees: Manufacturing in Port St. Lucie, FL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | PORT912MFGN               | All Employees: Manufacturing in Port St. Lucie, FL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | PORT912NA                 | All Employees: Total Nonfarm in Port St. Lucie, FL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -95,8 +95,8 @@
 | PORT912SRVON              | All Employees: Other Services in Port St. Lucie, FL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | PORT912TRAD               | All Employees: Trade, Transportation, and Utilities in Port St. Lucie, FL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | PORT912TRADN              | All Employees: Trade, Transportation, and Utilities in Port St. Lucie, FL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| PORT912UR                 | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| PORT912URN                | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| PORT912UR                 | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| PORT912URN                | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | PRIINCCOU38940            | Housing Inventory: Price Increased Count in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | PRIINCCOUMM38940          | Housing Inventory: Price Increased Count Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | PRIINCCOUYY38940          | Housing Inventory: Price Increased Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -118,13 +118,10 @@
 | SMU12389400500000001SA    | All Employees: Total Private in Port St. Lucie, FL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU12389400500000002      | Average Weekly Hours of All Employees: Total Private in Port St. Lucie, FL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU12389400500000002A     | Average Weekly Hours of All Employees: Total Private in Port St. Lucie, FL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU12389400500000002SA    | Average Weekly Hours of All Employees: Total Private in Port St. Lucie, FL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU12389400500000003      | Average Hourly Earnings of All Employees: Total Private in Port St. Lucie, FL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU12389400500000003A     | Average Hourly Earnings of All Employees: Total Private in Port St. Lucie, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12389400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Port St. Lucie, FL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU12389400500000011      | Average Weekly Earnings of All Employees: Total Private in Port St. Lucie, FL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU12389400500000011A     | Average Weekly Earnings of All Employees: Total Private in Port St. Lucie, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12389400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Port St. Lucie, FL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU12389400600000001      | All Employees: Goods Producing in Port St. Lucie, FL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU12389400600000001A     | All Employees: Goods Producing in Port St. Lucie, FL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU12389400600000001SA    | All Employees: Goods Producing in Port St. Lucie, FL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

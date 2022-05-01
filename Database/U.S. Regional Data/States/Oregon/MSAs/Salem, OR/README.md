@@ -25,12 +25,12 @@
 | HORAYYMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA41420              | Market Hotness: Hotness Score in Salem, OR (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD41420                 | Implicit Regional Price Deflator for Salem, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT414142000000003A     | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT414142000000004      | Unemployed Persons in Salem, OR (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT414142000000004A     | Unemployed Persons in Salem, OR (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT414142000000005      | Employed Persons in Salem, OR (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT414142000000005A     | Employed Persons in Salem, OR (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT414142000000006A     | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT414142000000003A     | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT414142000000004      | Unemployed Persons in Salem, OR (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT414142000000004A     | Unemployed Persons in Salem, OR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT414142000000005      | Employed Persons in Salem, OR (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT414142000000005A     | Employed Persons in Salem, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT414142000000006A     | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA41420          | Market Hotness: Listing Views per Property in Salem, OR (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA41420        | Market Hotness: Listing Views per Property Versus the United States in Salem, OR (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA41420          | Market Hotness: Listing Views per Property in Salem, OR (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -89,8 +89,8 @@
 | SALE441INFON              | All Employees: Information in Salem, OR (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | SALE441LEIH               | All Employees: Leisure and Hospitality in Salem, OR (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | SALE441LEIHN              | All Employees: Leisure and Hospitality in Salem, OR (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| SALE441LF                 | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| SALE441LFN                | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SALE441LF                 | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| SALE441LFN                | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | SALE441MFG                | All Employees: Manufacturing in Salem, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SALE441MFGN               | All Employees: Manufacturing in Salem, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SALE441NA                 | All Employees: Total Nonfarm in Salem, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -102,8 +102,8 @@
 | SALE441SRVON              | All Employees: Other Services in Salem, OR (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | SALE441TRAD               | All Employees: Trade, Transportation, and Utilities in Salem, OR (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | SALE441TRADN              | All Employees: Trade, Transportation, and Utilities in Salem, OR (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| SALE441UR                 | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| SALE441URN                | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| SALE441UR                 | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| SALE441URN                | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SALPOP                    | Resident Population in Salem, OR (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SMS41414200000000026      | All Employees: Total Nonfarm in Salem, OR (MSA)                                                            | 1990-04-01          | 2022-03-01        |
 | SMU41414200000000001A     | All Employees: Total Nonfarm in Salem, OR (MSA)                                                            | 1960-01-01          | 2021-01-01        |
@@ -112,13 +112,10 @@
 | SMU41414200500000001SA    | All Employees: Total Private in Salem, OR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU41414200500000002      | Average Weekly Hours of All Employees: Total Private in Salem, OR (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU41414200500000002A     | Average Weekly Hours of All Employees: Total Private in Salem, OR (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU41414200500000002SA    | Average Weekly Hours of All Employees: Total Private in Salem, OR (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU41414200500000003      | Average Hourly Earnings of All Employees: Total Private in Salem, OR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU41414200500000003A     | Average Hourly Earnings of All Employees: Total Private in Salem, OR (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU41414200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Salem, OR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU41414200500000011      | Average Weekly Earnings of All Employees: Total Private in Salem, OR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU41414200500000011A     | Average Weekly Earnings of All Employees: Total Private in Salem, OR (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU41414200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Salem, OR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU41414200600000001      | All Employees: Goods Producing in Salem, OR (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU41414200600000001A     | All Employees: Goods Producing in Salem, OR (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU41414200600000001SA    | All Employees: Goods Producing in Salem, OR (MSA)                                                          | 1990-01-01          | 2022-03-01        |

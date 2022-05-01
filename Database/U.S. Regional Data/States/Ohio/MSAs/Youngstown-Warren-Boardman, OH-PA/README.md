@@ -24,14 +24,14 @@
 | HORAMSA49660              | Market Hotness: Hotness Rank in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA49660            | Market Hotness: Hotness Rank in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA49660              | Market Hotness: Hotness Score in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
-| IHLCHG49660               | Job Postings on Indeed in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                  | 2020-02-01          | 2022-04-15        |
+| IHLCHG49660               | Job Postings on Indeed in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                  | 2020-02-01          | 2022-04-22        |
 | IRPD49660                 | Implicit Regional Price Deflator for Youngstown-Warren-Boardman, OH-PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT394966000000003A     | Unemployment Rate in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT394966000000004      | Unemployed Persons in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT394966000000004A     | Unemployed Persons in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT394966000000005      | Employed Persons in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT394966000000005A     | Employed Persons in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT394966000000006A     | Civilian Labor Force in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT394966000000003A     | Unemployment Rate in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT394966000000004      | Unemployed Persons in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT394966000000004A     | Unemployed Persons in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT394966000000005      | Employed Persons in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT394966000000005A     | Employed Persons in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT394966000000006A     | Civilian Labor Force in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA49660          | Market Hotness: Listing Views per Property in Youngstown-Warren-Boardman, OH-PA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA49660        | Market Hotness: Listing Views per Property Versus the United States in Youngstown-Warren-Boardman, OH-PA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA49660          | Market Hotness: Listing Views per Property in Youngstown-Warren-Boardman, OH-PA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -87,13 +87,10 @@
 | SMU39496600500000001SA    | All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU39496600500000002      | Average Weekly Hours of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU39496600500000002A     | Average Weekly Hours of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU39496600500000002SA    | Average Weekly Hours of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU39496600500000003      | Average Hourly Earnings of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39496600500000003A     | Average Hourly Earnings of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU39496600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39496600500000011      | Average Weekly Earnings of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39496600500000011A     | Average Weekly Earnings of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU39496600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Youngstown-Warren-Boardman, OH-PA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39496600600000001      | All Employees: Goods Producing in Youngstown-Warren-Boardman, OH-PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU39496600600000001A     | All Employees: Goods Producing in Youngstown-Warren-Boardman, OH-PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU39496600600000001SA    | All Employees: Goods Producing in Youngstown-Warren-Boardman, OH-PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -164,8 +161,8 @@
 | YOUN639INFON              | All Employees: Information in Youngstown-Warren-Boardman, OH-PA (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | YOUN639LEIH               | All Employees: Leisure and Hospitality in Youngstown-Warren-Boardman, OH-PA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | YOUN639LEIHN              | All Employees: Leisure and Hospitality in Youngstown-Warren-Boardman, OH-PA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| YOUN639LF                 | Civilian Labor Force in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| YOUN639LFN                | Civilian Labor Force in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| YOUN639LF                 | Civilian Labor Force in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| YOUN639LFN                | Civilian Labor Force in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | YOUN639MFG                | All Employees: Manufacturing in Youngstown-Warren-Boardman, OH-PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | YOUN639MFGN               | All Employees: Manufacturing in Youngstown-Warren-Boardman, OH-PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | YOUN639NA                 | All Employees: Total Nonfarm in Youngstown-Warren-Boardman, OH-PA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -179,5 +176,5 @@
 | YOUN639SRVON              | All Employees: Other Services in Youngstown-Warren-Boardman, OH-PA (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | YOUN639TRAD               | All Employees: Trade, Transportation, and Utilities in Youngstown-Warren-Boardman, OH-PA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | YOUN639TRADN              | All Employees: Trade, Transportation, and Utilities in Youngstown-Warren-Boardman, OH-PA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| YOUN639UR                 | Unemployment Rate in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| YOUN639URN                | Unemployment Rate in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| YOUN639UR                 | Unemployment Rate in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| YOUN639URN                | Unemployment Rate in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |

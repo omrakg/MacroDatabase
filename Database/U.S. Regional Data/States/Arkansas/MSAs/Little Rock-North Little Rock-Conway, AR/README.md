@@ -24,14 +24,14 @@
 | HORAMSA30780              | Market Hotness: Hotness Rank in Little Rock-North Little Rock-Conway, AR (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA30780            | Market Hotness: Hotness Rank in Little Rock-North Little Rock-Conway, AR (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA30780              | Market Hotness: Hotness Score in Little Rock-North Little Rock-Conway, AR (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
-| IHLCHG30780               | Job Postings on Indeed in Little Rock-North Little Rock-Conway, AR (MSA)                                                                  | 2020-02-01          | 2022-04-15        |
+| IHLCHG30780               | Job Postings on Indeed in Little Rock-North Little Rock-Conway, AR (MSA)                                                                  | 2020-02-01          | 2022-04-22        |
 | IRPD30780                 | Implicit Regional Price Deflator for Little Rock-North Little Rock-Conway, AR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT053078000000003A     | Unemployment Rate in Little Rock-North Little Rock-Conway, AR (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT053078000000004      | Unemployed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT053078000000004A     | Unemployed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT053078000000005      | Employed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT053078000000005A     | Employed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT053078000000006A     | Civilian Labor Force in Little Rock-North Little Rock-Conway, AR (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT053078000000003A     | Unemployment Rate in Little Rock-North Little Rock-Conway, AR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT053078000000004      | Unemployed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT053078000000004A     | Unemployed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT053078000000005      | Employed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT053078000000005A     | Employed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT053078000000006A     | Civilian Labor Force in Little Rock-North Little Rock-Conway, AR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA30780          | Market Hotness: Listing Views per Property in Little Rock-North Little Rock-Conway, AR (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA30780        | Market Hotness: Listing Views per Property Versus the United States in Little Rock-North Little Rock-Conway, AR (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA30780          | Market Hotness: Listing Views per Property in Little Rock-North Little Rock-Conway, AR (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -45,8 +45,8 @@
 | LRSINFON                  | All Employees: Information in Little Rock-North Little Rock-Conway, AR (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | LRSLEIH                   | All Employees: Leisure and Hospitality in Little Rock-North Little Rock-Conway, AR (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | LRSLEIHN                  | All Employees: Leisure and Hospitality in Little Rock-North Little Rock-Conway, AR (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| LRSLF                     | Civilian Labor Force in Little Rock-North Little Rock-Conway, AR (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| LRSLFN                    | Civilian Labor Force in Little Rock-North Little Rock-Conway, AR (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| LRSLF                     | Civilian Labor Force in Little Rock-North Little Rock-Conway, AR (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| LRSLFN                    | Civilian Labor Force in Little Rock-North Little Rock-Conway, AR (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | LRSMFG                    | All Employees: Manufacturing in Little Rock-North Little Rock-Conway, AR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LRSMFGN                   | All Employees: Manufacturing in Little Rock-North Little Rock-Conway, AR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | LRSNA                     | All Employees: Total Nonfarm in Little Rock-North Little Rock-Conway, AR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -61,8 +61,8 @@
 | LRSSRVON                  | All Employees: Other Services in Little Rock-North Little Rock-Conway, AR (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | LRSTRAD                   | All Employees: Trade, Transportation, and Utilities in Little Rock-North Little Rock-Conway, AR (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | LRSTRADN                  | All Employees: Trade, Transportation, and Utilities in Little Rock-North Little Rock-Conway, AR (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| LRSUR                     | Unemployment Rate in Little Rock-North Little Rock-Conway, AR (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| LRSURN                    | Unemployment Rate in Little Rock-North Little Rock-Conway, AR (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| LRSUR                     | Unemployment Rate in Little Rock-North Little Rock-Conway, AR (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| LRSURN                    | Unemployment Rate in Little Rock-North Little Rock-Conway, AR (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MEDAONMAMMMSA30780        | Market Hotness: Median Days on Market in Little Rock-North Little Rock-Conway, AR (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
 | MEDAONMAMSA30780          | Market Hotness: Median Days on Market in Little Rock-North Little Rock-Conway, AR (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
 | MEDAONMAYYMSA30780        | Market Hotness: Median Days on Market in Little Rock-North Little Rock-Conway, AR (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
@@ -115,13 +115,10 @@
 | SMU05307800500000001SA    | All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU05307800500000002      | Average Weekly Hours of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU05307800500000002A     | Average Weekly Hours of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU05307800500000002SA    | Average Weekly Hours of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU05307800500000003      | Average Hourly Earnings of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU05307800500000003A     | Average Hourly Earnings of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU05307800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU05307800500000011      | Average Weekly Earnings of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU05307800500000011A     | Average Weekly Earnings of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU05307800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Little Rock-North Little Rock-Conway, AR (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU05307800600000001      | All Employees: Goods Producing in Little Rock-North Little Rock-Conway, AR (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU05307800600000001A     | All Employees: Goods Producing in Little Rock-North Little Rock-Conway, AR (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU05307800600000001SA    | All Employees: Goods Producing in Little Rock-North Little Rock-Conway, AR (MSA)                                                          | 1990-01-01          | 2022-03-01        |

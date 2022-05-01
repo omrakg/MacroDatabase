@@ -32,8 +32,8 @@
 | JOHN742GOVTN              | All Employees: Government in Johnstown, PA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | JOHN742LEIH               | All Employees: Leisure and Hospitality in Johnstown, PA (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | JOHN742LEIHN              | All Employees: Leisure and Hospitality in Johnstown, PA (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| JOHN742LF                 | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| JOHN742LFN                | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| JOHN742LF                 | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| JOHN742LFN                | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | JOHN742MFG                | All Employees: Manufacturing in Johnstown, PA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | JOHN742MFGN               | All Employees: Manufacturing in Johnstown, PA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | JOHN742NA                 | All Employees: Total Nonfarm in Johnstown, PA (MSA)                                              | 1990-01-01          | 2022-03-01        |
@@ -43,14 +43,14 @@
 | JOHN742PCPI               | Per Capita Personal Income in Johnstown, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | JOHN742TRAD               | All Employees: Trade, Transportation, and Utilities in Johnstown, PA (MSA)                       | 1990-01-01          | 2022-03-01        |
 | JOHN742TRADN              | All Employees: Trade, Transportation, and Utilities in Johnstown, PA (MSA)                       | 1990-01-01          | 2022-03-01        |
-| JOHN742UR                 | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| JOHN742URN                | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| LAUMT422778000000003A     | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT422778000000004      | Unemployed Persons in Johnstown, PA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT422778000000004A     | Unemployed Persons in Johnstown, PA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT422778000000005      | Employed Persons in Johnstown, PA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT422778000000005A     | Employed Persons in Johnstown, PA (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT422778000000006A     | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| JOHN742UR                 | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| JOHN742URN                | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| LAUMT422778000000003A     | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT422778000000004      | Unemployed Persons in Johnstown, PA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT422778000000004A     | Unemployed Persons in Johnstown, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT422778000000005      | Employed Persons in Johnstown, PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT422778000000005A     | Employed Persons in Johnstown, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT422778000000006A     | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA27780          | Market Hotness: Listing Views per Property in Johnstown, PA (CBSA)                               | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA27780        | Market Hotness: Listing Views per Property Versus the United States in Johnstown, PA (CBSA)      | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA27780          | Market Hotness: Listing Views per Property in Johnstown, PA (CBSA)                               | 2018-08-01          | 2022-03-01        |
@@ -106,13 +106,10 @@
 | SMU42277800500000001SA    | All Employees: Total Private in Johnstown, PA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU42277800500000002      | Average Weekly Hours of All Employees: Total Private in Johnstown, PA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU42277800500000002A     | Average Weekly Hours of All Employees: Total Private in Johnstown, PA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU42277800500000002SA    | Average Weekly Hours of All Employees: Total Private in Johnstown, PA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU42277800500000003      | Average Hourly Earnings of All Employees: Total Private in Johnstown, PA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU42277800500000003A     | Average Hourly Earnings of All Employees: Total Private in Johnstown, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42277800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Johnstown, PA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU42277800500000011      | Average Weekly Earnings of All Employees: Total Private in Johnstown, PA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU42277800500000011A     | Average Weekly Earnings of All Employees: Total Private in Johnstown, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42277800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Johnstown, PA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU42277800600000001      | All Employees: Goods Producing in Johnstown, PA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU42277800600000001A     | All Employees: Goods Producing in Johnstown, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU42277800600000001SA    | All Employees: Goods Producing in Johnstown, PA (MSA)                                            | 1990-01-01          | 2022-03-01        |

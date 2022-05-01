@@ -9,6 +9,21 @@
 | PCRGMP38060            | Total Per Capita Real Gross Domestic Product for Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
 | PHXAGRIDX              | Economic Conditions Index for Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
 | ROAPHX                 | Return on Average Assets for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SMU04380600500000002SA | Average Weekly Hours of All Employees: Total Private in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
+| SMU04380600500000003SA | Average Hourly Earnings of All Employees: Total Private in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU04380600500000011SA | Average Weekly Earnings of All Employees: Total Private in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
+| SMU04380602000000007SA | Average Weekly Hours of Production Employees: Construction in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                     | 2001-01-01          | 2022-03-01        |
+| SMU04380602000000008SA | Average Hourly Earnings of Production Employees: Construction in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                  | 2001-01-01          | 2022-03-01        |
+| SMU04380602000000030SA | Average Weekly Earnings of Production Employees: Construction in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                  | 2001-01-01          | 2022-03-01        |
+| SMU04380603000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                    | 2001-01-01          | 2022-03-01        |
+| SMU04380603000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                 | 2001-01-01          | 2022-03-01        |
+| SMU04380603000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                 | 2001-01-01          | 2022-03-01        |
+| SMU04380604100000007SA | Average Weekly Hours of Production Employees: Wholesale Trade in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                  | 2001-01-01          | 2022-03-01        |
+| SMU04380604100000008SA | Average Hourly Earnings of Production Employees: Wholesale Trade in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)               | 2001-01-01          | 2022-03-01        |
+| SMU04380604100000030SA | Average Weekly Earnings of Production Employees: Wholesale Trade in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)               | 2001-01-01          | 2022-03-01        |
+| SMU04380604200000007SA | Average Weekly Hours of Production Employees: Retail Trade in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                     | 2001-01-01          | 2022-03-01        |
+| SMU04380604200000008SA | Average Hourly Earnings of Production Employees: Retail Trade in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                  | 2001-01-01          | 2022-03-01        |
+| SMU04380604200000030SA | Average Weekly Earnings of Production Employees: Retail Trade in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                  | 2001-01-01          | 2022-03-01        |
 | SMU04380604348100001   | All Employees: Air Transportation in Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                                | 1990-01-01          | 2014-12-01        |
 | SMU04380604348100001A  | All Employees: Air Transportation in Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                                | 1990-01-01          | 2013-01-01        |
 | SMU04380604348100001SA | All Employees: Air Transportation in Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                                | 1990-01-01          | 2014-12-01        |

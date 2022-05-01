@@ -25,12 +25,12 @@
 | HORAYYMSA36500            | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA36500              | Market Hotness: Hotness Score in Olympia-Tumwater, WA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD36500                 | Implicit Regional Price Deflator for Olympia-Tumwater, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT533650000000003A     | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT533650000000004      | Unemployed Persons in Olympia-Tumwater, WA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT533650000000004A     | Unemployed Persons in Olympia-Tumwater, WA (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT533650000000005      | Employed Persons in Olympia-Tumwater, WA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT533650000000005A     | Employed Persons in Olympia-Tumwater, WA (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT533650000000006A     | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT533650000000003A     | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT533650000000004      | Unemployed Persons in Olympia-Tumwater, WA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT533650000000004A     | Unemployed Persons in Olympia-Tumwater, WA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT533650000000005      | Employed Persons in Olympia-Tumwater, WA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT533650000000005A     | Employed Persons in Olympia-Tumwater, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT533650000000006A     | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA36500          | Market Hotness: Listing Views per Property in Olympia-Tumwater, WA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA36500        | Market Hotness: Listing Views per Property Versus the United States in Olympia-Tumwater, WA (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA36500          | Market Hotness: Listing Views per Property in Olympia-Tumwater, WA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -66,8 +66,8 @@
 | OLYM553GOVTN              | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2022-03-01        |
 | OLYM553LEIH               | All Employees: Leisure and Hospitality in Olympia-Tumwater, WA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | OLYM553LEIHN              | All Employees: Leisure and Hospitality in Olympia-Tumwater, WA (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| OLYM553LF                 | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| OLYM553LFN                | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| OLYM553LF                 | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| OLYM553LFN                | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | OLYM553MFG                | All Employees: Manufacturing in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | OLYM553MFGN               | All Employees: Manufacturing in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | OLYM553NA                 | All Employees: Total Nonfarm in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -79,8 +79,8 @@
 | OLYM553PCPI               | Per Capita Personal Income in Olympia-Tumwater, WA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | OLYM553TRAD               | All Employees: Trade, Transportation, and Utilities in Olympia-Tumwater, WA (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | OLYM553TRADN              | All Employees: Trade, Transportation, and Utilities in Olympia-Tumwater, WA (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| OLYM553UR                 | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| OLYM553URN                | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| OLYM553UR                 | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| OLYM553URN                | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | OLYPOP                    | Resident Population in Olympia-Tumwater, WA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136500          | U.S. Granted Utility Patents Originating in Olympia, WA (MSA)                                                         | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36500            | Housing Inventory: Pending Listing Count in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
@@ -107,13 +107,10 @@
 | SMU53365000500000001SA    | All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU53365000500000002      | Average Weekly Hours of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU53365000500000002A     | Average Weekly Hours of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU53365000500000002SA    | Average Weekly Hours of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU53365000500000003      | Average Hourly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU53365000500000003A     | Average Hourly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53365000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU53365000500000011      | Average Weekly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU53365000500000011A     | Average Weekly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53365000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU53365000600000001      | All Employees: Goods Producing in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU53365000600000001A     | All Employees: Goods Producing in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU53365000600000001SA    | All Employees: Goods Producing in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-03-01        |

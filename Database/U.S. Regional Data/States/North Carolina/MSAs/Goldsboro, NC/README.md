@@ -21,21 +21,21 @@
 | ENUC241440510SA           | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2021-07-01        |
 | GOLD137GOVT               | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | GOLD137GOVTN              | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-03-01        |
-| GOLD137LF                 | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| GOLD137LFN                | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| GOLD137LF                 | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| GOLD137LFN                | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | GOLD137NA                 | All Employees: Total Nonfarm in Goldsboro, NC (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | GOLD137NAN                | All Employees: Total Nonfarm in Goldsboro, NC (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | GOLD137PCPI               | Per Capita Personal Income in Goldsboro, NC (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| GOLD137UR                 | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| GOLD137URN                | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| GOLD137UR                 | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| GOLD137URN                | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | GROPOP                    | Resident Population in Goldsboro, NC (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | IRPD24140                 | Implicit Regional Price Deflator for Goldsboro, NC (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT372414000000003A     | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT372414000000004      | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT372414000000004A     | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT372414000000005      | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT372414000000005A     | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT372414000000006A     | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT372414000000003A     | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT372414000000004      | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT372414000000004A     | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT372414000000005      | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT372414000000005A     | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT372414000000006A     | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR24140          | Housing Inventory: Median Days on Market in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM24140        | Housing Inventory: Median Days on Market Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY24140        | Housing Inventory: Median Days on Market Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-03-01        |
@@ -77,13 +77,10 @@
 | SMU37241400500000001SA    | All Employees: Total Private in Goldsboro, NC (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU37241400500000002      | Average Weekly Hours of All Employees: Total Private in Goldsboro, NC (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU37241400500000002A     | Average Weekly Hours of All Employees: Total Private in Goldsboro, NC (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU37241400500000002SA    | Average Weekly Hours of All Employees: Total Private in Goldsboro, NC (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU37241400500000003      | Average Hourly Earnings of All Employees: Total Private in Goldsboro, NC (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU37241400500000003A     | Average Hourly Earnings of All Employees: Total Private in Goldsboro, NC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU37241400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Goldsboro, NC (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU37241400500000011      | Average Weekly Earnings of All Employees: Total Private in Goldsboro, NC (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU37241400500000011A     | Average Weekly Earnings of All Employees: Total Private in Goldsboro, NC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU37241400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Goldsboro, NC (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU37241400600000001      | All Employees: Goods Producing in Goldsboro, NC (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU37241400600000001A     | All Employees: Goods Producing in Goldsboro, NC (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU37241400600000001SA    | All Employees: Goods Producing in Goldsboro, NC (MSA)                                            | 1990-01-01          | 2022-03-01        |

@@ -25,12 +25,12 @@
 | HORAYYMSA33260            | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA33260              | Market Hotness: Hotness Score in Midland, TX (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD33260                 | Implicit Regional Price Deflator for Midland, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT483326000000003A     | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT483326000000004      | Unemployed Persons in Midland, TX (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT483326000000004A     | Unemployed Persons in Midland, TX (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT483326000000005      | Employed Persons in Midland, TX (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT483326000000005A     | Employed Persons in Midland, TX (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT483326000000006A     | Civilian Labor Force in Midland, TX (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT483326000000003A     | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT483326000000004      | Unemployed Persons in Midland, TX (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT483326000000004A     | Unemployed Persons in Midland, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT483326000000005      | Employed Persons in Midland, TX (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT483326000000005A     | Employed Persons in Midland, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT483326000000006A     | Civilian Labor Force in Midland, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA33260          | Market Hotness: Listing Views per Property in Midland, TX (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA33260        | Market Hotness: Listing Views per Property Versus the United States in Midland, TX (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA33260          | Market Hotness: Listing Views per Property in Midland, TX (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -57,10 +57,10 @@
 | MELIPRMSA33260            | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
 | MELIPRVSUSMSA33260        | Market Hotness: Median Listing Price Versus the United States in Midland, TX (CBSA)                          | 2017-08-01          | 2022-03-01        |
 | MELIPRYYMSA33260          | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MIDL248BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-02-01        |
-| MIDL248BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-02-01        |
-| MIDL248BPPRIV             | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-02-01        |
-| MIDL248BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-02-01        |
+| MIDL248BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-03-01        |
+| MIDL248BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-03-01        |
+| MIDL248BPPRIV             | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-03-01        |
+| MIDL248BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-03-01        |
 | MIDL248EDUH               | All Employees: Education and Health Services in Midland, TX (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | MIDL248EDUHN              | All Employees: Education and Health Services in Midland, TX (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | MIDL248FIRE               | All Employees: Financial Activities in Midland, TX (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -71,8 +71,8 @@
 | MIDL248INFON              | All Employees: Information in Midland, TX (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | MIDL248LEIH               | All Employees: Leisure and Hospitality in Midland, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | MIDL248LEIHN              | All Employees: Leisure and Hospitality in Midland, TX (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| MIDL248LF                 | Civilian Labor Force in Midland, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| MIDL248LFN                | Civilian Labor Force in Midland, TX (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| MIDL248LF                 | Civilian Labor Force in Midland, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| MIDL248LFN                | Civilian Labor Force in Midland, TX (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | MIDL248MFG                | All Employees: Manufacturing in Midland, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MIDL248MFGN               | All Employees: Manufacturing in Midland, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MIDL248NA                 | All Employees: Total Nonfarm in Midland, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -86,8 +86,8 @@
 | MIDL248SRVON              | All Employees: Other Services in Midland, TX (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | MIDL248TRAD               | All Employees: Trade, Transportation, and Utilities in Midland, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | MIDL248TRADN              | All Employees: Trade, Transportation, and Utilities in Midland, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| MIDL248UR                 | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| MIDL248URN                | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| MIDL248UR                 | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| MIDL248URN                | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MIDSA158MFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1990-02-01          | 2022-03-01        |
 | MIDSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Midland, TX (MSA)                                             | 1990-02-01          | 2022-03-01        |
 | MIDSA175MFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1990-01-01          | 2022-03-01        |
@@ -122,13 +122,10 @@
 | SMU48332600500000001SA    | All Employees: Total Private in Midland, TX (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU48332600500000002      | Average Weekly Hours of All Employees: Total Private in Midland, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48332600500000002A     | Average Weekly Hours of All Employees: Total Private in Midland, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48332600500000002SA    | Average Weekly Hours of All Employees: Total Private in Midland, TX (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU48332600500000003      | Average Hourly Earnings of All Employees: Total Private in Midland, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48332600500000003A     | Average Hourly Earnings of All Employees: Total Private in Midland, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48332600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Midland, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48332600500000011      | Average Weekly Earnings of All Employees: Total Private in Midland, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48332600500000011A     | Average Weekly Earnings of All Employees: Total Private in Midland, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48332600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Midland, TX (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU48332600600000001      | All Employees: Goods Producing in Midland, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU48332600600000001A     | All Employees: Goods Producing in Midland, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU48332600600000001SA    | All Employees: Goods Producing in Midland, TX (MSA)                                                          | 1990-01-01          | 2022-03-01        |

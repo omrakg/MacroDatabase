@@ -1,4 +1,7 @@
-| id              | title                                                                                           | observation_start   | observation_end   |
-|-----------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BRYSA175AFRBDAL | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA) (DISCONTINUED)             | 1990-01-01          | 2016-01-01        |
-| PCRGMP17780     | Total Per Capita Real Gross Domestic Product for College Station-Bryan, TX (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| id                     | title                                                                                                     | observation_start   | observation_end   |
+|------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BRYSA175AFRBDAL        | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA) (DISCONTINUED)                       | 1990-01-01          | 2016-01-01        |
+| PCRGMP17780            | Total Per Capita Real Gross Domestic Product for College Station-Bryan, TX (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
+| SMU48177800500000002SA | Average Weekly Hours of All Employees: Total Private in College Station-Bryan, TX (MSA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU48177800500000003SA | Average Hourly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU48177800500000011SA | Average Weekly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

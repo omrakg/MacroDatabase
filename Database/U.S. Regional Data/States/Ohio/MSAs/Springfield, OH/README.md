@@ -25,12 +25,12 @@
 | HORAYYMSA44220            | Market Hotness: Hotness Rank in Springfield, OH (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA44220              | Market Hotness: Hotness Score in Springfield, OH (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD44220                 | Implicit Regional Price Deflator for Springfield, OH (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT394422000000003A     | Unemployment Rate in Springfield, OH (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT394422000000004      | Unemployed Persons in Springfield, OH (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT394422000000004A     | Unemployed Persons in Springfield, OH (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT394422000000005      | Employed Persons in Springfield, OH (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT394422000000005A     | Employed Persons in Springfield, OH (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT394422000000006A     | Civilian Labor Force in Springfield, OH (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT394422000000003A     | Unemployment Rate in Springfield, OH (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT394422000000004      | Unemployed Persons in Springfield, OH (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT394422000000004A     | Unemployed Persons in Springfield, OH (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT394422000000005      | Employed Persons in Springfield, OH (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT394422000000005A     | Employed Persons in Springfield, OH (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT394422000000006A     | Civilian Labor Force in Springfield, OH (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA44220          | Market Hotness: Listing Views per Property in Springfield, OH (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA44220        | Market Hotness: Listing Views per Property Versus the United States in Springfield, OH (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA44220          | Market Hotness: Listing Views per Property in Springfield, OH (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -86,13 +86,10 @@
 | SMU39442200500000001SA    | All Employees: Total Private in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU39442200500000002      | Average Weekly Hours of All Employees: Total Private in Springfield, OH (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU39442200500000002A     | Average Weekly Hours of All Employees: Total Private in Springfield, OH (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU39442200500000002SA    | Average Weekly Hours of All Employees: Total Private in Springfield, OH (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU39442200500000003      | Average Hourly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39442200500000003A     | Average Hourly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU39442200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39442200500000011      | Average Weekly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39442200500000011A     | Average Weekly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU39442200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU39442200600000001      | All Employees: Goods Producing in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU39442200600000001A     | All Employees: Goods Producing in Springfield, OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU39442200600000001SA    | All Employees: Goods Producing in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -133,10 +130,10 @@
 | SMU39442209093161101A     | All Employees: Local Government Educational Services in Springfield, OH (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU39442209093161101SA    | All Employees: Government: Local Government Educational Services in Springfield, OH (MSA)                        | 1990-01-01          | 2022-03-01        |
 | SPGPOP                    | Resident Population in Springfield, OH (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| SPRI239BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-02-01        |
-| SPRI239BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-02-01        |
-| SPRI239BPPRIV             | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-02-01        |
-| SPRI239BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-02-01        |
+| SPRI239BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-03-01        |
+| SPRI239BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-03-01        |
+| SPRI239BPPRIV             | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-03-01        |
+| SPRI239BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-03-01        |
 | SPRI239EDUH               | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SPRI239EDUHN              | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SPRI239FIRE               | All Employees: Financial Activities in Springfield, OH (MSA)                                                     | 2003-01-01          | 2022-03-01        |
@@ -145,8 +142,8 @@
 | SPRI239GOVTN              | All Employees: Government in Springfield, OH (MSA)                                                               | 1990-01-01          | 2022-03-01        |
 | SPRI239LEIH               | All Employees: Leisure and Hospitality in Springfield, OH (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | SPRI239LEIHN              | All Employees: Leisure and Hospitality in Springfield, OH (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| SPRI239LF                 | Civilian Labor Force in Springfield, OH (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| SPRI239LFN                | Civilian Labor Force in Springfield, OH (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SPRI239LF                 | Civilian Labor Force in Springfield, OH (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| SPRI239LFN                | Civilian Labor Force in Springfield, OH (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | SPRI239MFG                | All Employees: Manufacturing in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SPRI239MFGN               | All Employees: Manufacturing in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SPRI239NA                 | All Employees: Total Nonfarm in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -160,6 +157,6 @@
 | SPRI239SRVON              | All Employees: Other Services in Springfield, OH (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | SPRI239TRAD               | All Employees: Trade, Transportation, and Utilities in Springfield, OH (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | SPRI239TRADN              | All Employees: Trade, Transportation, and Utilities in Springfield, OH (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| SPRI239UR                 | Unemployment Rate in Springfield, OH (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| SPRI239URN                | Unemployment Rate in Springfield, OH (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| SPRI239UR                 | Unemployment Rate in Springfield, OH (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| SPRI239URN                | Unemployment Rate in Springfield, OH (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | SUSCMSA44220              | Market Hotness: Supply Score in Springfield, OH (CBSA)                                                           | 2017-08-01          | 2022-03-01        |

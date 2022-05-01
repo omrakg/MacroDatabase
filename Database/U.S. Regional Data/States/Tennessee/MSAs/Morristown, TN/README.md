@@ -20,12 +20,12 @@
 | ENUC341040510             | Average Weekly Wages for Employees in Private Establishments in Morristown, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC341040510SA           | Average Weekly Wages for Employees in Private Establishments in Morristown, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
 | IRPD34100                 | Implicit Regional Price Deflator for Morristown, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT473410000000003A     | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT473410000000004      | Unemployed Persons in Morristown, TN (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT473410000000004A     | Unemployed Persons in Morristown, TN (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT473410000000005      | Employed Persons in Morristown, TN (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT473410000000005A     | Employed Persons in Morristown, TN (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT473410000000006A     | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT473410000000003A     | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT473410000000004      | Unemployed Persons in Morristown, TN (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT473410000000004A     | Unemployed Persons in Morristown, TN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT473410000000005      | Employed Persons in Morristown, TN (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT473410000000005A     | Employed Persons in Morristown, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT473410000000006A     | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR34100          | Housing Inventory: Median Days on Market in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM34100        | Housing Inventory: Median Days on Market Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY34100        | Housing Inventory: Median Days on Market Year-Over-Year in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -48,8 +48,8 @@
 | MORR147INFON              | All Employees: Information in Morristown, TN (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | MORR147LEIH               | All Employees: Leisure and Hospitality in Morristown, TN (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | MORR147LEIHN              | All Employees: Leisure and Hospitality in Morristown, TN (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| MORR147LF                 | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| MORR147LFN                | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| MORR147LF                 | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| MORR147LFN                | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | MORR147MFG                | All Employees: Manufacturing in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MORR147MFGN               | All Employees: Manufacturing in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | MORR147NA                 | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -62,8 +62,8 @@
 | MORR147SRVON              | All Employees: Other Services in Morristown, TN (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | MORR147TRAD               | All Employees: Trade, Transportation, and Utilities in Morristown, TN (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | MORR147TRADN              | All Employees: Trade, Transportation, and Utilities in Morristown, TN (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| MORR147UR                 | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| MORR147URN                | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| MORR147UR                 | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| MORR147URN                | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MRTPOP                    | Resident Population in Morristown, TN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU34100            | Housing Inventory: New Listing Count in Morristown, TN (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
 | NEWLISCOUMM34100          | Housing Inventory: New Listing Count Month-Over-Month in Morristown, TN (CBSA)                                  | 2017-07-01          | 2022-03-01        |
@@ -96,13 +96,10 @@
 | SMU47341000500000001SA    | All Employees: Total Private in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU47341000500000002      | Average Weekly Hours of All Employees: Total Private in Morristown, TN (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU47341000500000002A     | Average Weekly Hours of All Employees: Total Private in Morristown, TN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU47341000500000002SA    | Average Weekly Hours of All Employees: Total Private in Morristown, TN (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU47341000500000003      | Average Hourly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU47341000500000003A     | Average Hourly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47341000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU47341000500000011      | Average Weekly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU47341000500000011A     | Average Weekly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47341000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU47341000600000001      | All Employees: Goods Producing in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU47341000600000001A     | All Employees: Goods Producing in Morristown, TN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU47341000600000001SA    | All Employees: Goods Producing in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-03-01        |

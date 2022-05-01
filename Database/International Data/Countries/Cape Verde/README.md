@@ -10,15 +10,15 @@
 | CASHBLCVA188A       | Cash surplus/deficit (% of GDP) for Cape Verde                                                                     | 2005-01-01          | 2009-01-01        |
 | COCPVA052SCEN       | Value of Exports to Cape Verde from Colorado                                                                       | 2015-01-01          | 2015-01-01        |
 | COCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Colorado                                                         | 1992-01-01          | 2016-01-01        |
-| CPVBCABP6GDPPT      | Net Current Account Total for Cabo Verde                                                                           | 2004-01-01          | 2022-01-01        |
-| CPVBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Cabo Verde           | 2004-01-01          | 2022-01-01        |
-| CPVBGSBP6GDPPT      | Goods and Services: Net for Cabo Verde                                                                             | 2004-01-01          | 2022-01-01        |
-| CPVBMGSBP6GDPPT     | Goods and Services: Debit for Cabo Verde                                                                           | 2004-01-01          | 2022-01-01        |
-| CPVBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Cabo Verde                                               | 2004-01-01          | 2022-01-01        |
-| CPVBXGSBP6GDPPT     | Goods and Services: Credit for Cabo Verde                                                                          | 2004-01-01          | 2022-01-01        |
-| CPVDGGDPPT          | Official External Debt: Debtor Based for Cabo Verde                                                                | 2004-01-01          | 2022-01-01        |
-| CPVENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Cabo Verde                                    | 2004-01-01          | 2020-01-01        |
-| CPVEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Cabo Verde                                       | 2004-01-01          | 2020-01-01        |
+| CPVBCABP6GDPPT      | Net Current Account Total for Cabo Verde                                                                           | 2004-01-01          | 2023-01-01        |
+| CPVBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Cabo Verde           | 2004-01-01          | 2023-01-01        |
+| CPVBGSBP6GDPPT      | Goods and Services: Net for Cabo Verde                                                                             | 2004-01-01          | 2023-01-01        |
+| CPVBMGSBP6GDPPT     | Goods and Services: Debit for Cabo Verde                                                                           | 2004-01-01          | 2023-01-01        |
+| CPVBRASSMIMH        | Net Reserves by Months of Imported Goods and Services for Cabo Verde                                               | 2004-01-01          | 2023-01-01        |
+| CPVBXGSBP6GDPPT     | Goods and Services: Credit for Cabo Verde                                                                          | 2004-01-01          | 2023-01-01        |
+| CPVDGGDPPT          | Official External Debt: Debtor Based for Cabo Verde                                                                | 2004-01-01          | 2023-01-01        |
+| CPVENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Cabo Verde                                    | 2004-01-01          | 2021-01-01        |
+| CPVEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Cabo Verde                                       | 2004-01-01          | 2021-01-01        |
 | CPVFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Cabo Verde                                       | 2004-01-01          | 2020-01-01        |
 | CPVFCACLNUM         | Geographical Outreach: Number of Automated Teller Machines (ATMs) in 3 Largest Cities for Cabo Verde               | 2004-01-01          | 2015-01-01        |
 | CPVFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Cabo Verde                     | 2004-01-01          | 2020-01-01        |
@@ -36,23 +36,23 @@
 | CPVFCRODCPENUM      | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Cabo Verde                        | 2004-01-01          | 2020-01-01        |
 | CPVFCSODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Cabo Verde                  | 2004-01-01          | 2020-01-01        |
 | CPVFCSODCXDC        | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Cabo Verde                            | 2004-01-01          | 2020-01-01        |
-| CPVFDSAOPGDPPT      | Claims on Private Sector for Cabo Verde                                                                            | 2004-01-01          | 2020-01-01        |
-| CPVFDSAOPPCPPPT     | Claims on Private Sector for Cabo Verde                                                                            | 2004-01-01          | 2020-01-01        |
-| CPVFMBGDPPT         | Broad Money for Cabo Verde                                                                                         | 2004-01-01          | 2022-01-01        |
-| CPVFMBPCPPPT        | Broad Money for Cabo Verde                                                                                         | 2004-01-01          | 2022-01-01        |
-| CPVGGRG01GDPPT      | General Government Revenue for Cabo Verde                                                                          | 2004-01-01          | 2022-01-01        |
-| CPVGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Cabo Verde                                                         | 2004-01-01          | 2022-01-01        |
-| CPVGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Cabo Verde                                     | 2004-01-01          | 2022-01-01        |
-| CPVGGXG01GDPPT      | Total Expenditure of General Government for Cabo Verde                                                             | 2004-01-01          | 2022-01-01        |
-| CPVGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Cabo Verde                                                       | 2004-01-01          | 2022-01-01        |
-| CPVNGDPRPCPCPPPT    | Real GDP Per Capita for Cabo Verde                                                                                 | 2004-01-01          | 2022-01-01        |
-| CPVNGDPRPCPPPT      | Real Gross Domestic Product for Cabo Verde                                                                         | 2004-01-01          | 2022-01-01        |
-| CPVNGDPXORPCPPPT    | Real Non-Oil GDP for Cabo Verde                                                                                    | 2004-01-01          | 2022-01-01        |
-| CPVNGSGDPPT         | Nominal Gross National Saving for Cabo Verde                                                                       | 2004-01-01          | 2022-01-01        |
-| CPVNIGDPPT          | Nominal Gross Capital Formation for Cabo Verde                                                                     | 2004-01-01          | 2022-01-01        |
-| CPVPCPIEOPPCPPPT    | Consumer Prices at End of Period for Cabo Verde                                                                    | 2004-01-01          | 2022-01-01        |
-| CPVPCPIPCPPPT       | Consumer Prices: All Items for Cabo Verde                                                                          | 2004-01-01          | 2022-01-01        |
-| CPVTTTIX            | Terms of Trade for Goods for Cabo Verde                                                                            | 2004-01-01          | 2022-01-01        |
+| CPVFDSAOPGDPPT      | Claims on Private Sector for Cabo Verde                                                                            | 2004-01-01          | 2021-01-01        |
+| CPVFDSAOPPCPPPT     | Claims on Private Sector for Cabo Verde                                                                            | 2004-01-01          | 2021-01-01        |
+| CPVFMBGDPPT         | Broad Money for Cabo Verde                                                                                         | 2004-01-01          | 2023-01-01        |
+| CPVFMBPCPPPT        | Broad Money for Cabo Verde                                                                                         | 2004-01-01          | 2023-01-01        |
+| CPVGGRG01GDPPT      | General Government Revenue for Cabo Verde                                                                          | 2004-01-01          | 2023-01-01        |
+| CPVGGXCNLG01GDPPT   | Net Lending/borrowing of General Government for Cabo Verde                                                         | 2004-01-01          | 2023-01-01        |
+| CPVGGXCNLXGG01GDPPT | Net Lending/borrowing (excluding Grants) for General Government for Cabo Verde                                     | 2004-01-01          | 2023-01-01        |
+| CPVGGXG01GDPPT      | Total Expenditure of General Government for Cabo Verde                                                             | 2004-01-01          | 2023-01-01        |
+| CPVGGXWDGG01GDPPT   | Gross Debt Position of the General Government for Cabo Verde                                                       | 2004-01-01          | 2023-01-01        |
+| CPVNGDPRPCPCPPPT    | Real GDP Per Capita for Cabo Verde                                                                                 | 2004-01-01          | 2023-01-01        |
+| CPVNGDPRPCPPPT      | Real Gross Domestic Product for Cabo Verde                                                                         | 2004-01-01          | 2023-01-01        |
+| CPVNGDPXORPCPPPT    | Real Non-Oil GDP for Cabo Verde                                                                                    | 2004-01-01          | 2023-01-01        |
+| CPVNGSGDPPT         | Nominal Gross National Saving for Cabo Verde                                                                       | 2004-01-01          | 2023-01-01        |
+| CPVNIGDPPT          | Nominal Gross Capital Formation for Cabo Verde                                                                     | 2004-01-01          | 2023-01-01        |
+| CPVPCPIEOPPCPPPT    | Consumer Prices at End of Period for Cabo Verde                                                                    | 2004-01-01          | 2023-01-01        |
+| CPVPCPIPCPPPT       | Consumer Prices: All Items for Cabo Verde                                                                          | 2004-01-01          | 2023-01-01        |
+| CPVTTTIX            | Terms of Trade for Goods for Cabo Verde                                                                            | 2004-01-01          | 2023-01-01        |
 | CTCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Connecticut                                                      | 1997-01-01          | 2015-01-01        |
 | DCCPVA475SCEN       | Number of Identified Exporters to Cape Verde from District of Columbia                                             | 2005-01-01          | 2014-01-01        |
 | DDAI01CVA642NWDB    | Number of Bank Accounts for Cape Verde                                                                             | 2004-01-01          | 2019-01-01        |

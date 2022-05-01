@@ -20,10 +20,10 @@
 | ENUC243040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC243040510             | Average Weekly Wages for Employees in Private Establishments in Grand Junction, CO (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC243040510SA           | Average Weekly Wages for Employees in Private Establishments in Grand Junction, CO (MSA)                            | 1990-01-01          | 2021-07-01        |
-| GRAN308BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-02-01        |
-| GRAN308BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-02-01        |
-| GRAN308BPPRIV             | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-02-01        |
-| GRAN308BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-02-01        |
+| GRAN308BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-03-01        |
+| GRAN308BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-03-01        |
+| GRAN308BPPRIV             | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-03-01        |
+| GRAN308BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-03-01        |
 | GRAN308EDUH               | All Employees: Education and Health Services in Grand Junction, CO (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | GRAN308EDUHN              | All Employees: Education and Health Services in Grand Junction, CO (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | GRAN308FIRE               | All Employees: Financial Activities in Grand Junction, CO (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -34,8 +34,8 @@
 | GRAN308INFON              | All Employees: Information in Grand Junction, CO (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | GRAN308LEIH               | All Employees: Leisure and Hospitality in Grand Junction, CO (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | GRAN308LEIHN              | All Employees: Leisure and Hospitality in Grand Junction, CO (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| GRAN308LF                 | Civilian Labor Force in Grand Junction, CO (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| GRAN308LFN                | Civilian Labor Force in Grand Junction, CO (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| GRAN308LF                 | Civilian Labor Force in Grand Junction, CO (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| GRAN308LFN                | Civilian Labor Force in Grand Junction, CO (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | GRAN308MFG                | All Employees: Manufacturing in Grand Junction, CO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | GRAN308MFGN               | All Employees: Manufacturing in Grand Junction, CO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | GRAN308NA                 | All Employees: Total Nonfarm in Grand Junction, CO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -49,20 +49,20 @@
 | GRAN308SRVON              | All Employees: Other Services in Grand Junction, CO (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | GRAN308TRAD               | All Employees: Trade, Transportation, and Utilities in Grand Junction, CO (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | GRAN308TRADN              | All Employees: Trade, Transportation, and Utilities in Grand Junction, CO (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| GRAN308UR                 | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| GRAN308URN                | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| GRAN308UR                 | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| GRAN308URN                | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | GRJPOP                    | Resident Population in Grand Junction, CO (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA24300            | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HORAMSA24300              | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA24300            | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA24300              | Market Hotness: Hotness Score in Grand Junction, CO (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD24300                 | Implicit Regional Price Deflator for Grand Junction, CO (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT082430000000003A     | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT082430000000004      | Unemployed Persons in Grand Junction, CO (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT082430000000004A     | Unemployed Persons in Grand Junction, CO (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT082430000000005      | Employed Persons in Grand Junction, CO (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT082430000000005A     | Employed Persons in Grand Junction, CO (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT082430000000006A     | Civilian Labor Force in Grand Junction, CO (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT082430000000003A     | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT082430000000004      | Unemployed Persons in Grand Junction, CO (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT082430000000004A     | Unemployed Persons in Grand Junction, CO (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT082430000000005      | Employed Persons in Grand Junction, CO (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT082430000000005A     | Employed Persons in Grand Junction, CO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT082430000000006A     | Civilian Labor Force in Grand Junction, CO (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA24300          | Market Hotness: Listing Views per Property in Grand Junction, CO (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA24300        | Market Hotness: Listing Views per Property Versus the United States in Grand Junction, CO (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA24300          | Market Hotness: Listing Views per Property in Grand Junction, CO (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -118,13 +118,10 @@
 | SMU08243000500000001SA    | All Employees: Total Private in Grand Junction, CO (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU08243000500000002      | Average Weekly Hours of All Employees: Total Private in Grand Junction, CO (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU08243000500000002A     | Average Weekly Hours of All Employees: Total Private in Grand Junction, CO (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU08243000500000002SA    | Average Weekly Hours of All Employees: Total Private in Grand Junction, CO (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU08243000500000003      | Average Hourly Earnings of All Employees: Total Private in Grand Junction, CO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU08243000500000003A     | Average Hourly Earnings of All Employees: Total Private in Grand Junction, CO (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU08243000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Grand Junction, CO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU08243000500000011      | Average Weekly Earnings of All Employees: Total Private in Grand Junction, CO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU08243000500000011A     | Average Weekly Earnings of All Employees: Total Private in Grand Junction, CO (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU08243000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Grand Junction, CO (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU08243000600000001      | All Employees: Goods Producing in Grand Junction, CO (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU08243000600000001A     | All Employees: Goods Producing in Grand Junction, CO (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU08243000600000001SA    | All Employees: Goods Producing in Grand Junction, CO (MSA)                                                          | 1990-01-01          | 2022-03-01        |

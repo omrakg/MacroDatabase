@@ -7,10 +7,10 @@
 | AVELISPRI15980            | Housing Inventory: Average Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | AVELISPRIMM15980          | Housing Inventory: Average Listing Price Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | AVELISPRIYY15980          | Housing Inventory: Average Listing Price Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| CAPE912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-02-01        |
-| CAPE912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-02-01        |
-| CAPE912BPPRIV             | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-02-01        |
-| CAPE912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-02-01        |
+| CAPE912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-03-01        |
+| CAPE912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-03-01        |
+| CAPE912BPPRIV             | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-03-01        |
+| CAPE912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-03-01        |
 | CAPE912EDUH               | All Employees: Education and Health Services in Cape Coral-Fort Myers, FL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | CAPE912EDUHN              | All Employees: Education and Health Services in Cape Coral-Fort Myers, FL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | CAPE912FIRE               | All Employees: Financial Activities in Cape Coral-Fort Myers, FL (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -21,8 +21,8 @@
 | CAPE912INFON              | All Employees: Information in Cape Coral-Fort Myers, FL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | CAPE912LEIH               | All Employees: Leisure and Hospitality in Cape Coral-Fort Myers, FL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | CAPE912LEIHN              | All Employees: Leisure and Hospitality in Cape Coral-Fort Myers, FL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| CAPE912LF                 | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| CAPE912LFN                | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| CAPE912LF                 | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| CAPE912LFN                | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | CAPE912MFG                | All Employees: Manufacturing in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | CAPE912MFGN               | All Employees: Manufacturing in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | CAPE912NA                 | All Employees: Total Nonfarm in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -36,8 +36,8 @@
 | CAPE912SRVON              | All Employees: Other Services in Cape Coral-Fort Myers, FL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | CAPE912TRAD               | All Employees: Trade, Transportation, and Utilities in Cape Coral-Fort Myers, FL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | CAPE912TRADN              | All Employees: Trade, Transportation, and Utilities in Cape Coral-Fort Myers, FL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| CAPE912UR                 | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| CAPE912URN                | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| CAPE912UR                 | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| CAPE912URN                | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | DESCMSA15980              | Market Hotness: Demand Score in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | ENUC159830010             | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC159830010SA           | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -56,14 +56,14 @@
 | HORAMSA15980              | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA15980            | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA15980              | Market Hotness: Hotness Score in Cape Coral-Fort Myers, FL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
-| IHLCHG15980               | Job Postings on Indeed in Cape Coral-Fort Myers, FL (MSA)                                                                  | 2020-02-01          | 2022-04-15        |
+| IHLCHG15980               | Job Postings on Indeed in Cape Coral-Fort Myers, FL (MSA)                                                                  | 2020-02-01          | 2022-04-22        |
 | IRPD15980                 | Implicit Regional Price Deflator for Cape Coral-Fort Myers, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT121598000000003A     | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT121598000000004      | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT121598000000004A     | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT121598000000005      | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT121598000000005A     | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT121598000000006A     | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT121598000000003A     | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT121598000000004      | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT121598000000004A     | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT121598000000005      | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT121598000000005A     | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT121598000000006A     | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA15980          | Market Hotness: Listing Views per Property in Cape Coral-Fort Myers, FL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA15980        | Market Hotness: Listing Views per Property Versus the United States in Cape Coral-Fort Myers, FL (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA15980          | Market Hotness: Listing Views per Property in Cape Coral-Fort Myers, FL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -119,13 +119,10 @@
 | SMU12159800500000001SA    | All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU12159800500000002      | Average Weekly Hours of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU12159800500000002A     | Average Weekly Hours of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU12159800500000002SA    | Average Weekly Hours of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU12159800500000003      | Average Hourly Earnings of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU12159800500000003A     | Average Hourly Earnings of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12159800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU12159800500000011      | Average Weekly Earnings of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU12159800500000011A     | Average Weekly Earnings of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12159800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Cape Coral-Fort Myers, FL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU12159800600000001      | All Employees: Goods Producing in Cape Coral-Fort Myers, FL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU12159800600000001A     | All Employees: Goods Producing in Cape Coral-Fort Myers, FL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU12159800600000001SA    | All Employees: Goods Producing in Cape Coral-Fort Myers, FL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

@@ -30,8 +30,8 @@
 | GADS401INFON              | All Employees: Information in Gadsden, AL (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | GADS401LEIH               | All Employees: Leisure and Hospitality in Gadsden, AL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | GADS401LEIHN              | All Employees: Leisure and Hospitality in Gadsden, AL (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| GADS401LF                 | Civilian Labor Force in Gadsden, AL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| GADS401LFN                | Civilian Labor Force in Gadsden, AL (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| GADS401LF                 | Civilian Labor Force in Gadsden, AL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| GADS401LFN                | Civilian Labor Force in Gadsden, AL (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | GADS401MFG                | All Employees: Manufacturing in Gadsden, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | GADS401MFGN               | All Employees: Manufacturing in Gadsden, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | GADS401NA                 | All Employees: Total Nonfarm in Gadsden, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -45,15 +45,15 @@
 | GADS401SRVON              | All Employees: Other Services in Gadsden, AL (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | GADS401TRAD               | All Employees: Trade, Transportation, and Utilities in Gadsden, AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | GADS401TRADN              | All Employees: Trade, Transportation, and Utilities in Gadsden, AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| GADS401UR                 | Unemployment Rate in Gadsden, AL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| GADS401URN                | Unemployment Rate in Gadsden, AL (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| GADS401UR                 | Unemployment Rate in Gadsden, AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| GADS401URN                | Unemployment Rate in Gadsden, AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | IRPD23460                 | Implicit Regional Price Deflator for Gadsden, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT012346000000003A     | Unemployment Rate in Gadsden, AL (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT012346000000004      | Unemployed Persons in Gadsden, AL (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT012346000000004A     | Unemployed Persons in Gadsden, AL (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT012346000000005      | Employed Persons in Gadsden, AL (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT012346000000005A     | Employed Persons in Gadsden, AL (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT012346000000006A     | Civilian Labor Force in Gadsden, AL (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT012346000000003A     | Unemployment Rate in Gadsden, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT012346000000004      | Unemployed Persons in Gadsden, AL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT012346000000004A     | Unemployed Persons in Gadsden, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT012346000000005      | Employed Persons in Gadsden, AL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT012346000000005A     | Employed Persons in Gadsden, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT012346000000006A     | Civilian Labor Force in Gadsden, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR23460          | Housing Inventory: Median Days on Market in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
 | MEDDAYONMARMM23460        | Housing Inventory: Median Days on Market Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | MEDDAYONMARYY23460        | Housing Inventory: Median Days on Market Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
@@ -95,13 +95,10 @@
 | SMU01234600500000001SA    | All Employees: Total Private in Gadsden, AL (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU01234600500000002      | Average Weekly Hours of All Employees: Total Private in Gadsden, AL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU01234600500000002A     | Average Weekly Hours of All Employees: Total Private in Gadsden, AL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU01234600500000002SA    | Average Weekly Hours of All Employees: Total Private in Gadsden, AL (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU01234600500000003      | Average Hourly Earnings of All Employees: Total Private in Gadsden, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01234600500000003A     | Average Hourly Earnings of All Employees: Total Private in Gadsden, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01234600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Gadsden, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01234600500000011      | Average Weekly Earnings of All Employees: Total Private in Gadsden, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01234600500000011A     | Average Weekly Earnings of All Employees: Total Private in Gadsden, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01234600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Gadsden, AL (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU01234600600000001      | All Employees: Goods Producing in Gadsden, AL (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU01234600600000001A     | All Employees: Goods Producing in Gadsden, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU01234600600000001SA    | All Employees: Goods Producing in Gadsden, AL (MSA)                                                          | 1990-01-01          | 2022-03-01        |

@@ -25,12 +25,12 @@
 | HORAYYMSA46540            | Market Hotness: Hotness Rank in Utica-Rome, NY (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA46540              | Market Hotness: Hotness Score in Utica-Rome, NY (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
 | IRPD46540                 | Implicit Regional Price Deflator for Utica-Rome, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT364654000000003A     | Unemployment Rate in Utica-Rome, NY (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
-| LAUMT364654000000004      | Unemployed Persons in Utica-Rome, NY (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
-| LAUMT364654000000004A     | Unemployed Persons in Utica-Rome, NY (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
-| LAUMT364654000000005      | Employed Persons in Utica-Rome, NY (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT364654000000005A     | Employed Persons in Utica-Rome, NY (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT364654000000006A     | Civilian Labor Force in Utica-Rome, NY (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LAUMT364654000000003A     | Unemployment Rate in Utica-Rome, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT364654000000004      | Unemployed Persons in Utica-Rome, NY (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT364654000000004A     | Unemployed Persons in Utica-Rome, NY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT364654000000005      | Employed Persons in Utica-Rome, NY (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT364654000000005A     | Employed Persons in Utica-Rome, NY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT364654000000006A     | Civilian Labor Force in Utica-Rome, NY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA46540          | Market Hotness: Listing Views per Property in Utica-Rome, NY (CBSA)                                             | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA46540        | Market Hotness: Listing Views per Property Versus the United States in Utica-Rome, NY (CBSA)                    | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA46540          | Market Hotness: Listing Views per Property in Utica-Rome, NY (CBSA)                                             | 2018-08-01          | 2022-03-01        |
@@ -86,13 +86,10 @@
 | SMU36465400500000001SA    | All Employees: Total Private in Utica-Rome, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | SMU36465400500000002      | Average Weekly Hours of All Employees: Total Private in Utica-Rome, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36465400500000002A     | Average Weekly Hours of All Employees: Total Private in Utica-Rome, NY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU36465400500000002SA    | Average Weekly Hours of All Employees: Total Private in Utica-Rome, NY (MSA)                                    | 2007-01-01          | 2022-03-01        |
 | SMU36465400500000003      | Average Hourly Earnings of All Employees: Total Private in Utica-Rome, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36465400500000003A     | Average Hourly Earnings of All Employees: Total Private in Utica-Rome, NY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU36465400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Utica-Rome, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36465400500000011      | Average Weekly Earnings of All Employees: Total Private in Utica-Rome, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36465400500000011A     | Average Weekly Earnings of All Employees: Total Private in Utica-Rome, NY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU36465400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Utica-Rome, NY (MSA)                                 | 2007-01-01          | 2022-03-01        |
 | SMU36465400600000001      | All Employees: Goods Producing in Utica-Rome, NY (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | SMU36465400600000001A     | All Employees: Goods Producing in Utica-Rome, NY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU36465400600000001SA    | All Employees: Goods Producing in Utica-Rome, NY (MSA)                                                          | 1990-01-01          | 2022-03-01        |
@@ -148,8 +145,8 @@
 | UTIC536INFON              | All Employees: Information in Utica-Rome, NY (MSA)                                                              | 1990-01-01          | 2022-03-01        |
 | UTIC536LEIH               | All Employees: Leisure and Hospitality in Utica-Rome, NY (MSA)                                                  | 1990-01-01          | 2022-03-01        |
 | UTIC536LEIHN              | All Employees: Leisure and Hospitality in Utica-Rome, NY (MSA)                                                  | 1990-01-01          | 2022-03-01        |
-| UTIC536LF                 | Civilian Labor Force in Utica-Rome, NY (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
-| UTIC536LFN                | Civilian Labor Force in Utica-Rome, NY (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| UTIC536LF                 | Civilian Labor Force in Utica-Rome, NY (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| UTIC536LFN                | Civilian Labor Force in Utica-Rome, NY (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
 | UTIC536MFG                | All Employees: Manufacturing in Utica-Rome, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | UTIC536MFGN               | All Employees: Manufacturing in Utica-Rome, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
 | UTIC536NA                 | All Employees: Total Nonfarm in Utica-Rome, NY (MSA)                                                            | 1990-01-01          | 2022-03-01        |
@@ -163,5 +160,5 @@
 | UTIC536SRVON              | All Employees: Other Services in Utica-Rome, NY (MSA)                                                           | 1990-01-01          | 2022-03-01        |
 | UTIC536TRAD               | All Employees: Trade, Transportation, and Utilities in Utica-Rome, NY (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | UTIC536TRADN              | All Employees: Trade, Transportation, and Utilities in Utica-Rome, NY (MSA)                                     | 1990-01-01          | 2022-03-01        |
-| UTIC536UR                 | Unemployment Rate in Utica-Rome, NY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
-| UTIC536URN                | Unemployment Rate in Utica-Rome, NY (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| UTIC536UR                 | Unemployment Rate in Utica-Rome, NY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| UTIC536URN                | Unemployment Rate in Utica-Rome, NY (MSA)                                                                       | 1990-01-01          | 2022-03-01        |

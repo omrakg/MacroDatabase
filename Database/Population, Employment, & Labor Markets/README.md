@@ -1,14 +1,14 @@
 | Folder                                               |   Files / Folders |
 |------------------------------------------------------|-------------------|
-| Weekly Initial Claims                                |                25 |
-| Minimum Wage                                         |                53 |
-| Labor Market Conditions                              |               130 |
-| Job Openings and Labor Turnover (JOLTS)              |                 7 |
-| Productivity & Costs                                 |                23 |
-| Population                                           |                 4 |
 | Income Distribution                                  |                 0 |
-| Current Population Survey (Household Survey)         |                15 |
-| ADP Employment                                       |                31 |
+| Weekly Initial Claims                                |                25 |
 | Education                                            |                 0 |
-| Current Employment Statistics (Establishment Survey) |                22 |
 | Tax Data                                             |              1002 |
+| Current Employment Statistics (Establishment Survey) |                22 |
+| Population                                           |                 4 |
+| Job Openings and Labor Turnover (JOLTS)              |                 7 |
+| Labor Market Conditions                              |               130 |
+| ADP Employment                                       |                31 |
+| Current Population Survey (Household Survey)         |                15 |
+| Productivity & Costs                                 |                23 |
+| Minimum Wage                                         |                53 |

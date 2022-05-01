@@ -27,8 +27,8 @@
 | IOWA919GOVTN              | All Employees: Government in Iowa City, IA (MSA)                                                 | 1990-01-01          | 2022-03-01        |
 | IOWA919LEIH               | All Employees: Leisure and Hospitality in Iowa City, IA (MSA)                                    | 1990-01-01          | 2022-03-01        |
 | IOWA919LEIHN              | All Employees: Leisure and Hospitality in Iowa City, IA (MSA)                                    | 1990-01-01          | 2022-03-01        |
-| IOWA919LF                 | Civilian Labor Force in Iowa City, IA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
-| IOWA919LFN                | Civilian Labor Force in Iowa City, IA (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| IOWA919LF                 | Civilian Labor Force in Iowa City, IA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| IOWA919LFN                | Civilian Labor Force in Iowa City, IA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
 | IOWA919NA                 | All Employees: Total Nonfarm in Iowa City, IA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | IOWA919NAN                | All Employees: Total Nonfarm in Iowa City, IA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | IOWA919PBSV               | All Employees: Professional and Business Services in Iowa City, IA (MSA)                         | 1990-01-01          | 2022-03-01        |
@@ -36,15 +36,15 @@
 | IOWA919PCPI               | Per Capita Personal Income in Iowa City, IA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | IOWA919TRAD               | All Employees: Trade, Transportation, and Utilities in Iowa City, IA (MSA)                       | 1990-01-01          | 2022-03-01        |
 | IOWA919TRADN              | All Employees: Trade, Transportation, and Utilities in Iowa City, IA (MSA)                       | 1990-01-01          | 2022-03-01        |
-| IOWA919UR                 | Unemployment Rate in Iowa City, IA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
-| IOWA919URN                | Unemployment Rate in Iowa City, IA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| IOWA919UR                 | Unemployment Rate in Iowa City, IA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
+| IOWA919URN                | Unemployment Rate in Iowa City, IA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | IRPD26980                 | Implicit Regional Price Deflator for Iowa City, IA (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT192698000000003A     | Unemployment Rate in Iowa City, IA (MSA)                                                         | 1990-01-01          | 2020-01-01        |
-| LAUMT192698000000004      | Unemployed Persons in Iowa City, IA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
-| LAUMT192698000000004A     | Unemployed Persons in Iowa City, IA (MSA)                                                        | 1990-01-01          | 2020-01-01        |
-| LAUMT192698000000005      | Employed Persons in Iowa City, IA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
-| LAUMT192698000000005A     | Employed Persons in Iowa City, IA (MSA)                                                          | 1990-01-01          | 2020-01-01        |
-| LAUMT192698000000006A     | Civilian Labor Force in Iowa City, IA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT192698000000003A     | Unemployment Rate in Iowa City, IA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| LAUMT192698000000004      | Unemployed Persons in Iowa City, IA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT192698000000004A     | Unemployed Persons in Iowa City, IA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT192698000000005      | Employed Persons in Iowa City, IA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT192698000000005A     | Employed Persons in Iowa City, IA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| LAUMT192698000000006A     | Civilian Labor Force in Iowa City, IA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA26980          | Market Hotness: Listing Views per Property in Iowa City, IA (CBSA)                               | 2018-08-01          | 2022-03-01        |
 | LDPEPRVSUSMSA26980        | Market Hotness: Listing Views per Property Versus the United States in Iowa City, IA (CBSA)      | 2017-08-01          | 2022-03-01        |
 | LDPEPRYYMSA26980          | Market Hotness: Listing Views per Property in Iowa City, IA (CBSA)                               | 2018-08-01          | 2022-03-01        |
@@ -100,13 +100,10 @@
 | SMU19269800500000001SA    | All Employees: Total Private in Iowa City, IA (MSA)                                              | 1990-01-01          | 2022-03-01        |
 | SMU19269800500000002      | Average Weekly Hours of All Employees: Total Private in Iowa City, IA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU19269800500000002A     | Average Weekly Hours of All Employees: Total Private in Iowa City, IA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU19269800500000002SA    | Average Weekly Hours of All Employees: Total Private in Iowa City, IA (MSA)                      | 2007-01-01          | 2022-03-01        |
 | SMU19269800500000003      | Average Hourly Earnings of All Employees: Total Private in Iowa City, IA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU19269800500000003A     | Average Hourly Earnings of All Employees: Total Private in Iowa City, IA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU19269800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Iowa City, IA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU19269800500000011      | Average Weekly Earnings of All Employees: Total Private in Iowa City, IA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU19269800500000011A     | Average Weekly Earnings of All Employees: Total Private in Iowa City, IA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU19269800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Iowa City, IA (MSA)                   | 2007-01-01          | 2022-03-01        |
 | SMU19269800600000001      | All Employees: Goods Producing in Iowa City, IA (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | SMU19269800600000001A     | All Employees: Goods Producing in Iowa City, IA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU19269800600000001SA    | All Employees: Goods Producing in Iowa City, IA (MSA)                                            | 1990-01-01          | 2022-03-01        |

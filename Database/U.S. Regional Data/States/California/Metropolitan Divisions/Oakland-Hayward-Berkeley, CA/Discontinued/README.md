@@ -1,5 +1,8 @@
 | id                     | title                                                                                                                          | observation_start   | observation_end   |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU06360840500000002SA | Average Weekly Hours of All Employees: Total Private in Oakland-Hayward-Berkeley, CA (MD) (DISCONTINUED)                       | 2007-01-01          | 2022-03-01        |
+| SMU06360840500000003SA | Average Hourly Earnings of All Employees: Total Private in Oakland-Hayward-Berkeley, CA (MD) (DISCONTINUED)                    | 2007-01-01          | 2022-03-01        |
+| SMU06360840500000011SA | Average Weekly Earnings of All Employees: Total Private in Oakland-Hayward-Berkeley, CA (MD) (DISCONTINUED)                    | 2007-01-01          | 2022-03-01        |
 | SMU06360843133600001   | All Employees: Durable Goods: Transportation Equipment Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)        | 1990-01-01          | 2013-12-01        |
 | SMU06360843133600001A  | All Employees: Durable Goods: Transportation Equipment Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)        | 1990-01-01          | 2012-01-01        |
 | SMU06360843133600001SA | All Employees: Durable Goods: Transportation Equipment Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)        | 1990-01-01          | 2013-12-01        |
