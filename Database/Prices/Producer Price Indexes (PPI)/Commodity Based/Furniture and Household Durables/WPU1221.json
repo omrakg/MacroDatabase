@@ -1,7 +1,7 @@
 {
   "id": "WPU1221",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Wood Office Furniture and Store Fixtures",
   "observation_start": "1947-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 08:06:52-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

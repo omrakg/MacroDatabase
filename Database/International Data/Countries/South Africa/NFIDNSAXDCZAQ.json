@@ -1,0 +1,17 @@
+{
+  "id": "NFIDNSAXDCZAQ",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
+  "title": "Nominal Gross Fixed Capital Formation, Dwellings for South Africa",
+  "observation_start": "2010-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Domestic Currency",
+  "units_short": "Domestic Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-28 07:09:56-05",
+  "popularity": 0,
+  "group_popularity": 0
+}

@@ -1,7 +1,7 @@
 {
   "id": "CHINTDCHFUSD",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Swiss Intervention: Swiss National Bank Purchases of USD against CHF (Millions of USD)",
   "observation_start": "1986-01-01",
   "observation_end": "2001-04-05",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2009-06-30 10:16:38-05",
-  "popularity": 11,
-  "group_popularity": 11,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Copyright, 2016, Swiss National Bank.\n\n(+) numbers mean purchases of USD, (-) numbers mean sales of USD. Unpublished data."
 }

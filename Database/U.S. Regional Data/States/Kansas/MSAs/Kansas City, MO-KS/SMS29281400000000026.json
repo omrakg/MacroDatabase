@@ -1,7 +1,7 @@
 {
   "id": "SMS29281400000000026",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "All Employees: Total Nonfarm in Kansas City, MO-KS (MSA)",
   "observation_start": "1990-04-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-16 04:05:37-05",
   "popularity": 1,
-  "group_popularity": 6
+  "group_popularity": 7
 }

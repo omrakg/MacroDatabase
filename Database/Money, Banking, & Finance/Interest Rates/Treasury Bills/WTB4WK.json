@@ -1,18 +1,18 @@
 {
   "id": "WTB4WK",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "4-Week Treasury Bill Secondary Market Rate",
   "observation_start": "2001-08-03",
-  "observation_end": "2022-04-15",
+  "observation_end": "2022-04-22",
   "frequency": "Weekly, Ending Friday",
   "frequency_short": "W",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-18 15:16:05-05",
-  "popularity": 5,
+  "last_updated": "2022-04-25 15:22:33-05",
+  "popularity": 6,
   "group_popularity": 59,
   "notes": "Averages of business days. Discount basis."
 }

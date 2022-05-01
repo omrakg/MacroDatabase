@@ -1,0 +1,18 @@
+{
+  "id": "B202RC1",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
+  "title": "Compensation of employees, received: Wage and salary disbursements: Government",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-04-29 07:43:42-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "BEA Account Code: B202RC\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

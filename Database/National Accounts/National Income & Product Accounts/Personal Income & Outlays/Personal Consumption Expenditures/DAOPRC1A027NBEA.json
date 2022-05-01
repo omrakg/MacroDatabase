@@ -1,7 +1,7 @@
 {
   "id": "DAOPRC1A027NBEA",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Personal consumption expenditures: Nondurable goods: Alcoholic beverages purchased for off-premises consumption",
   "observation_start": "1933-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:54:13-05",
-  "popularity": 11,
-  "group_popularity": 11,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "BEA Account Code: DAOPRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

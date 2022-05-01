@@ -1,7 +1,7 @@
 {
   "id": "IPG3256SQ",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Industrial Production: Manufacturing: Non-Durable Goods: Soap, Cleaning Compound, and Toilet Preparation (NAICS = 3256)",
   "observation_start": "1972-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-15 08:23:30-05",
   "popularity": 2,
-  "group_popularity": 9,
+  "group_popularity": 8,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 3256\n\nSource Code: IP.G3256.S"
 }

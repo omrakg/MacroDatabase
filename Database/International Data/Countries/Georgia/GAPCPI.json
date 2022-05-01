@@ -1,7 +1,7 @@
 {
   "id": "GAPCPI",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Per Capita Personal Income in Georgia",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 13:28:23-05",
-  "popularity": 11,
-  "group_popularity": 11
+  "popularity": 9,
+  "group_popularity": 9
 }

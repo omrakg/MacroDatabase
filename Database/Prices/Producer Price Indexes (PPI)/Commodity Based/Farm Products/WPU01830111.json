@@ -1,7 +1,7 @@
 {
   "id": "WPU01830111",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Producer Price Index by Commodity: Farm Products: Peanuts",
   "observation_start": "1947-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:52:28-05",
-  "popularity": 18,
-  "group_popularity": 17
+  "popularity": 16,
+  "group_popularity": 16
 }

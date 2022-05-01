@@ -1,7 +1,7 @@
 {
   "id": "WPU142104",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Producer Price Index by Commodity: Transportation Equipment: Military Aircraft",
   "observation_start": "2013-06-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 08:06:23-05",
-  "popularity": 6,
-  "group_popularity": 7
+  "popularity": 3,
+  "group_popularity": 3
 }

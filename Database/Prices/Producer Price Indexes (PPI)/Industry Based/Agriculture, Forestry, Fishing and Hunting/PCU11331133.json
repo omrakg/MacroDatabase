@@ -1,0 +1,17 @@
+{
+  "id": "PCU11331133",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
+  "title": "Producer Price Index by Industry: Logging",
+  "observation_start": "1981-12-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1981=100",
+  "units_short": "Index Dec 1981=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-13 07:56:13-05",
+  "popularity": 13,
+  "group_popularity": 15
+}

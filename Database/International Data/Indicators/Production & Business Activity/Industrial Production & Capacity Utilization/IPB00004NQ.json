@@ -1,7 +1,7 @@
 {
   "id": "IPB00004NQ",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Industrial Production: Manufacturing (SIC)",
   "observation_start": "1919-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-15 08:20:16-05",
-  "popularity": 3,
+  "popularity": 4,
   "group_popularity": 35,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nSource Code: IP.B00004.N"
 }

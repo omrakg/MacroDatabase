@@ -1,7 +1,7 @@
 {
   "id": "WPU07120105",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Producer Price Index by Commodity: Rubber and Plastic Products: Truck and Bus (Including Off-the-Highway) Pneumatic Tires",
   "observation_start": "1947-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 08:00:30-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

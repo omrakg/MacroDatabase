@@ -1,17 +1,17 @@
 {
   "id": "SANA748LF",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Civilian Labor Force in San Antonio-New Braunfels, TX (MSA)",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-02-01",
+  "observation_end": "2022-03-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Persons",
   "units_short": "Persons",
   "seasonal_adjustment": "Smoothed Seasonally Adjusted",
   "seasonal_adjustment_short": "SSA",
-  "last_updated": "2022-04-06 13:32:38-05",
+  "last_updated": "2022-04-27 13:33:46-05",
   "popularity": 1,
-  "group_popularity": 6
+  "group_popularity": 4
 }

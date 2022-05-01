@@ -1,17 +1,17 @@
 {
   "id": "WLTLECL",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Liabilities and Capital: Liabilities: Total Liabilities (Less Eliminations from Consolidation): Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-04-20",
+  "observation_end": "2022-04-27",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-21 15:33:08-05",
-  "popularity": 29,
-  "group_popularity": 29
+  "last_updated": "2022-04-28 15:33:08-05",
+  "popularity": 33,
+  "group_popularity": 33
 }

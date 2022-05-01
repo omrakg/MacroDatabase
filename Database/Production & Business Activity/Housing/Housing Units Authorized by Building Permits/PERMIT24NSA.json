@@ -1,7 +1,7 @@
 {
   "id": "PERMIT24NSA",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 2-4 Units",
   "observation_start": "1959-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-19 07:36:29-05",
-  "popularity": 6,
-  "group_popularity": 14
+  "popularity": 4,
+  "group_popularity": 12
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU374102",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Residential Internet Access Services",
   "observation_start": "2011-12-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:56:58-05",
   "popularity": 3,
-  "group_popularity": 3
+  "group_popularity": 4
 }

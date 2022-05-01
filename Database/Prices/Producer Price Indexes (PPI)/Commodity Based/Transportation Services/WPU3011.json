@@ -1,7 +1,7 @@
 {
   "id": "WPU3011",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Freight and Mail",
   "observation_start": "2008-12-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:50:35-05",
-  "popularity": 19,
-  "group_popularity": 23
+  "popularity": 17,
+  "group_popularity": 21
 }

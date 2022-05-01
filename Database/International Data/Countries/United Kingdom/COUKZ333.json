@@ -1,7 +1,7 @@
 {
   "id": "COUKZ333",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Import Price Index by Origin (NAICS): Machinery Manufacturing for United Kingdom",
   "observation_start": "2012-06-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-14 07:40:37-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

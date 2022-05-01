@@ -1,7 +1,7 @@
 {
   "id": "DTB1",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "1-Year Treasury Bill: Secondary Market Rate (DISCONTINUED)",
   "observation_start": "1962-02-01",
   "observation_end": "2001-08-24",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2001-08-24 00:00:00-05",
   "popularity": 17,
-  "group_popularity": 20,
+  "group_popularity": 19,
   "notes": "Discount Basis"
 }

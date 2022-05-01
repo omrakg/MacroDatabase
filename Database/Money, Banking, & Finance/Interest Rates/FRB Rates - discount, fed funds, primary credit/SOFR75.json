@@ -1,17 +1,17 @@
 {
   "id": "SOFR75",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Secured Overnight Financing Rate: 75th Percentile",
   "observation_start": "2018-04-03",
-  "observation_end": "2022-04-21",
+  "observation_end": "2022-04-28",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-22 07:01:16-05",
-  "popularity": 15,
-  "group_popularity": 15
+  "last_updated": "2022-04-29 07:01:20-05",
+  "popularity": 16,
+  "group_popularity": 16
 }

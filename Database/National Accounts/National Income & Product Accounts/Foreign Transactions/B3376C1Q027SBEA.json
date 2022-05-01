@@ -1,0 +1,18 @@
+{
+  "id": "B3376C1Q027SBEA",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
+  "title": "Current payments to the rest of the world: Income payments on assets: Dividends",
+  "observation_start": "1986-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 08:05:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B3376C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

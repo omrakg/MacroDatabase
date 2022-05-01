@@ -1,7 +1,7 @@
 {
   "id": "NNUSBIS",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Narrow Effective Exchange Rate for United States",
   "observation_start": "1964-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-21 11:01:36-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Nominal effective exchange rates are calculated as geometric weighted averages of bilateral exchange rates.\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

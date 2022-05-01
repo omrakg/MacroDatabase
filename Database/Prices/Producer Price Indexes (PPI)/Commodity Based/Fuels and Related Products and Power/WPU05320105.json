@@ -1,7 +1,7 @@
 {
   "id": "WPU05320105",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Butane",
   "observation_start": "1977-06-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:53:46-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 8,
+  "group_popularity": 8
 }

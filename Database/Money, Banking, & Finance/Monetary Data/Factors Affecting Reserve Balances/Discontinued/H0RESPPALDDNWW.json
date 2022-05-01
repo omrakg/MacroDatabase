@@ -1,7 +1,7 @@
 {
   "id": "H0RESPPALDDNWW",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Assets: Liquidity and Credit Facilities: Loans: Primary Dealer and Other Broker-Dealer Credit: Wednesday Level (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2010-01-27",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-08-28 09:10:34-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 2,
+  "group_popularity": 2
 }

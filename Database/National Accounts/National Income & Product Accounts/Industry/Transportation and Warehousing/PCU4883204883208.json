@@ -1,0 +1,17 @@
+{
+  "id": "PCU4883204883208",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
+  "title": "Producer Price Index by Industry: Marine Cargo Handling: Movement of Containers",
+  "observation_start": "1998-12-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1998=100",
+  "units_short": "Index Dec 1998=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-13 07:54:16-05",
+  "popularity": 17,
+  "group_popularity": 17
+}

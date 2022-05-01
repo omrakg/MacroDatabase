@@ -1,7 +1,7 @@
 {
   "id": "H0RESPPLLDSF01NWW",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-05-01",
+  "realtime_end": "2022-05-01",
   "title": "Liabilities and Capital: Liabilities: Deposits: U.S. Treasury, Supplementary Financing Account: District 1: Boston: Wednesday Level (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2019-08-21",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-08-28 09:10:19-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }
