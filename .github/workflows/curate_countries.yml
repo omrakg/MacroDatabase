@@ -1,7 +1,7 @@
 name: Curate Countries
 on:
   workflow_run:
-    workflows: ["Create README Tables"]
+    workflows: ["Curate States"]
     types:
       - completed
 
