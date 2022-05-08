@@ -67,10 +67,10 @@
 | DDSM01MNA066NWDB    | Volatility of Stock Price Index for Mongolia                                                                                 | 2001-01-01          | 2020-01-01        |
 | DEBTTLMNA188A       | Central government debt, total (% of GDP) for Mongolia                                                                       | 1992-01-01          | 2009-01-01        |
 | DEMNGA475SCEN       | Number of Identified Exporters to Mongolia from Delaware                                                                     | 2004-01-01          | 2016-01-01        |
-| EXP5740             | U.S. Exports of Goods by F.A.S. Basis to Mongolia                                                                            | 1992-01-01          | 2022-02-01        |
+| EXP5740             | U.S. Exports of Goods by F.A.S. Basis to Mongolia                                                                            | 1992-01-01          | 2022-03-01        |
 | FLMNGA052SCEN       | Value of Exports to Mongolia from Florida                                                                                    | 2002-01-01          | 2017-01-01        |
 | FLMNGA475SCEN       | Number of Identified Exporters to Mongolia from Florida                                                                      | 1997-01-01          | 2017-01-01        |
-| FPCPITOTLZGMNG      | Inflation, consumer prices for Mongolia                                                                                      | 1993-01-01          | 2020-01-01        |
+| FPCPITOTLZGMNG      | Inflation, consumer prices for Mongolia                                                                                      | 1993-01-01          | 2021-01-01        |
 | GAMNGA052SCEN       | Value of Exports to Mongolia from Georgia                                                                                    | 2003-01-01          | 2017-01-01        |
 | GAMNGA475SCEN       | Number of Identified Exporters to Mongolia from Georgia                                                                      | 1992-01-01          | 2017-01-01        |
 | HIMNGA475SCEN       | Number of Identified Exporters to Mongolia from Hawaii                                                                       | 1997-01-01          | 2016-01-01        |
@@ -81,7 +81,7 @@
 | IDMNGA475SCEN       | Number of Identified Exporters to Mongolia from Idaho                                                                        | 2003-01-01          | 2017-01-01        |
 | ILMNGA052SCEN       | Value of Exports to Mongolia from Illinois                                                                                   | 2002-01-01          | 2017-01-01        |
 | ILMNGA475SCEN       | Number of Identified Exporters to Mongolia from Illinois                                                                     | 1992-01-01          | 2017-01-01        |
-| IMP5740             | U.S. Imports of Goods by Customs Basis from Mongolia                                                                         | 1992-01-01          | 2022-02-01        |
+| IMP5740             | U.S. Imports of Goods by Customs Basis from Mongolia                                                                         | 1992-01-01          | 2022-03-01        |
 | INMNGA052SCEN       | Value of Exports to Mongolia from Indiana                                                                                    | 2005-01-01          | 2017-01-01        |
 | INMNGA475SCEN       | Number of Identified Exporters to Mongolia from Indiana                                                                      | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2MNG      | Internet users for Mongolia                                                                                                  | 1990-01-01          | 2020-01-01        |
@@ -175,8 +175,8 @@
 | SEADTLITRZSMNG      | Literacy Rate, Adult Total for Mongolia                                                                                      | 2000-01-01          | 2020-01-01        |
 | SMPOPNETMMNG        | Net migration for Mongolia                                                                                                   | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINMNG      | Infant Mortality Rate for Mongolia                                                                                           | 1978-01-01          | 2020-01-01        |
-| SPDYNLE00INMNG      | Life Expectancy at Birth, Total for Mongolia                                                                                 | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINMNG      | Fertility Rate, Total for Mongolia                                                                                           | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INMNG      | Life Expectancy at Birth, Total for Mongolia                                                                                 | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINMNG      | Fertility Rate, Total for Mongolia                                                                                           | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSMNG    | Population ages 65 and above for Mongolia                                                                                    | 1960-01-01          | 2020-01-01        |
 | TNMNGA052SCEN       | Value of Exports to Mongolia from Tennessee                                                                                  | 2004-01-01          | 2017-01-01        |
 | TNMNGA475SCEN       | Number of Identified Exporters to Mongolia from Tennessee                                                                    | 1992-01-01          | 2017-01-01        |

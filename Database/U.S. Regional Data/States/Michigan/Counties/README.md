@@ -39,7 +39,7 @@
 | Washtenaw County, MI      |               147 |
 | Lake County, MI           |                90 |
 | Grand Traverse County, MI |               147 |
-| Saginaw County, MI        |                 0 |
+| Saginaw County, MI        |               147 |
 | Ionia County, MI          |               146 |
 | Newaygo County, MI        |                90 |
 | Charlevoix County, MI     |                90 |
@@ -69,7 +69,7 @@
 | Keweenaw County, MI       |                89 |
 | Crawford County, MI       |                90 |
 | Genesee County, MI        |               147 |
-| Benzie County, MI         |                90 |
+| Benzie County, MI         |                 0 |
 | Alger County, MI          |                89 |
 | Clinton County, MI        |               147 |
 | Manistee County, MI       |                89 |

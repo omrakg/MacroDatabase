@@ -38,7 +38,7 @@
 | Adams County, IA         |                89 |
 | Monroe County, IA        |                88 |
 | Wright County, IA        |                90 |
-| Lyon County, IA          |                 0 |
+| Lyon County, IA          |                90 |
 | Clarke County, IA        |                90 |
 | Marion County, IA        |                90 |
 | Dickinson County, IA     |                90 |
@@ -47,7 +47,7 @@
 | Cerro Gordo County, IA   |               145 |
 | Keokuk County, IA        |                89 |
 | Bremer County, IA        |                90 |
-| Benton County, IA        |                90 |
+| Benton County, IA        |                 0 |
 | Emmet County, IA         |                90 |
 | Mitchell County, IA      |                90 |
 | Marshall County, IA      |                90 |

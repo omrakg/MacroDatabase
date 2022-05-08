@@ -4,7 +4,7 @@
 | Noxubee County, MS         |                87 |
 | Amite County, MS           |                88 |
 | Holmes County, MS          |                87 |
-| Grenada County, MS         |                90 |
+| Grenada County, MS         |                 0 |
 | Walthall County, MS        |                89 |
 | Jasper County, MS          |                87 |
 | Madison County, MS         |               147 |
@@ -42,7 +42,7 @@
 | Jackson County, MS         |               147 |
 | Claiborne County, MS       |                87 |
 | Webster County, MS         |                87 |
-| Pearl River County, MS     |                 0 |
+| Pearl River County, MS     |               146 |
 | Clay County, MS            |                89 |
 | Greene County, MS          |                88 |
 | Jones County, MS           |               146 |
@@ -64,7 +64,7 @@
 | Attala County, MS          |                88 |
 | Warren County, MS          |               146 |
 | Copiah County, MS          |                89 |
-| Benton County, MS          |                88 |
+| Benton County, MS          |                 0 |
 | Lamar County, MS           |               145 |
 | Oktibbeha County, MS       |               146 |
 | Hinds County, MS           |               147 |

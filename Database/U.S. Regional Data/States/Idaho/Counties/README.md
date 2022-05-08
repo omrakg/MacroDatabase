@@ -35,7 +35,7 @@
 | Franklin County, ID   |                90 |
 | Bingham County, ID    |                90 |
 | Adams County, ID      |                90 |
-| Twin Falls County, ID |                 0 |
+| Twin Falls County, ID |               147 |
 | Butte County, ID      |                88 |
 | Bonneville County, ID |               147 |
 | Jefferson County, ID  |                90 |

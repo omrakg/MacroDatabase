@@ -55,7 +55,7 @@
 | Manassas Park City, VA                              |                79 |
 | Poquoson City, VA                                   |                78 |
 | Highland County, VA                                 |                88 |
-| Winchester City, VA                                 |                79 |
+| Winchester City, VA                                 |                 0 |
 | Washington County, VA                               |               136 |
 | Northumberland County, VA                           |                90 |
 | Greensville County, VA                              |                79 |
@@ -69,7 +69,7 @@
 | Norfolk City, VA                                    |               145 |
 | Pittsylvania County + Danville City, VA             |                12 |
 | Bedford City, VA                                    |                23 |
-| Essex County, VA                                    |                 0 |
+| Essex County, VA                                    |                89 |
 | Alexandria City, VA                                 |               146 |
 | Greene County, VA                                   |                89 |
 | Cumberland County, VA                               |                90 |
@@ -129,7 +129,7 @@
 | Montgomery County, VA                               |               137 |
 | Bath County, VA                                     |                89 |
 | Buchanan County, VA                                 |                88 |
-| Petersburg City, VA                                 |                 0 |
+| Petersburg City, VA                                 |                79 |
 | Charles City County, VA                             |                90 |
 | Arlington County, VA                                |               147 |
 | Clarke County, VA                                   |                90 |

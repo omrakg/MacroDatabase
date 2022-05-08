@@ -21,7 +21,7 @@
 | DEWLDA475SCEN     | Number of Identified Exporters to All Countries from Delaware             | 1992-01-01          | 2017-01-01        |
 | FLWLDA052SCEN     | Value of Exports to All Countries from Florida                            | 1992-01-01          | 2017-01-01        |
 | FLWLDA475SCEN     | Number of Identified Exporters to All Countries from Florida              | 1992-01-01          | 2017-01-01        |
-| FPCPITOTLZGWLD    | Inflation, consumer prices for the World                                  | 1981-01-01          | 2020-01-01        |
+| FPCPITOTLZGWLD    | Inflation, consumer prices for the World                                  | 1981-01-01          | 2021-01-01        |
 | GAWLDA052SCEN     | Value of Exports to All Countries from Georgia                            | 1992-01-01          | 2017-01-01        |
 | GAWLDA475SCEN     | Number of Identified Exporters to All Countries from Georgia              | 1992-01-01          | 2017-01-01        |
 | HIWLDA052SCEN     | Value of Exports to All Countries from Hawaii                             | 1992-01-01          | 2017-01-01        |
@@ -35,7 +35,7 @@
 | ILWLDA475SCEN     | Number of Identified Exporters to All Countries from Illinois             | 1992-01-01          | 2017-01-01        |
 | INWLDA052SCEN     | Value of Exports to All Countries from Indiana                            | 1992-01-01          | 2017-01-01        |
 | INWLDA475SCEN     | Number of Identified Exporters to All Countries from Indiana              | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2WLD    | Internet users for the World                                              | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2WLD    | Internet users for the World                                              | 1990-01-01          | 2020-01-01        |
 | KSWLDA052SCEN     | Value of Exports to All Countries from Kansas                             | 1992-01-01          | 2017-01-01        |
 | KSWLDA475SCEN     | Number of Identified Exporters to All Countries from Kansas               | 1992-01-01          | 2017-01-01        |
 | KYWLDA052SCEN     | Value of Exports to All Countries from Kentucky                           | 1992-01-01          | 2017-01-01        |

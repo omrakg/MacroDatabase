@@ -25,7 +25,7 @@
 | Lithuania                                            |               979 |
 | Congo, Democratic Republic of the                    |               192 |
 | Turkmenistan                                         |               142 |
-| Nigeria                                              |               266 |
+| Nigeria                                              |                 0 |
 | Maldives                                             |               213 |
 | Kenya                                                |               268 |
 | Sweden                                               |                 5 |
@@ -64,7 +64,7 @@
 | French Polynesia                                     |               120 |
 | Chile                                                |               854 |
 | Poland                                               |               889 |
-| Solomon Islands                                      |                 0 |
+| Solomon Islands                                      |               167 |
 | Tanzania, United Republic of                         |               236 |
 | Jamaica                                              |               241 |
 | Mali                                                 |               205 |
@@ -98,7 +98,7 @@
 | Honduras                                             |               238 |
 | Rwanda                                               |               300 |
 | Cambodia                                             |               211 |
-| Panama                                               |               225 |
+| Panama                                               |                 0 |
 | Greece                                               |                 1 |
 | Burkina Faso                                         |               207 |
 | Tonga                                                |               161 |
@@ -136,9 +136,9 @@
 | Virgin Islands, British                              |               106 |
 | Comoros                                              |               203 |
 | Singapore                                            |               279 |
-| Falkland Islands                                     |                 0 |
+| Falkland Islands                                     |                41 |
 | Costa Rica                                           |               578 |
-| France                                               |                 0 |
+| France                                               |                 1 |
 | Cape Verde                                           |               169 |
 | Greenland                                            |                82 |
 | Samoa                                                |               279 |
@@ -172,7 +172,7 @@
 | French Southern Territories                          |                39 |
 | Hong Kong                                            |               270 |
 | Denmark                                              |               831 |
-| Qatar                                                |               259 |
+| Qatar                                                |                 0 |
 | Moldova, Republic of                                 |               235 |
 | Yemen, Republic of                                   |               201 |
 | Northern Mariana Islands                             |                 6 |
@@ -219,7 +219,7 @@
 | Liberia                                              |               237 |
 | Armenia                                              |               242 |
 | Zimbabwe                                             |               288 |
-| Bermuda                                              |                 0 |
+| Bermuda                                              |               143 |
 | Pakistan                                             |               309 |
 | Portugal                                             |               829 |
 | Guinea                                               |               334 |

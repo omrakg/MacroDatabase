@@ -41,7 +41,7 @@
 | Bronx County, NY        |               146 |
 | New York County, NY     |               146 |
 | Chautauqua County, NY   |               147 |
-| Lewis County, NY        |                89 |
+| Lewis County, NY        |                 0 |
 | Westchester County, NY  |               147 |
 | Cattaraugus County, NY  |               147 |
 | Washington County, NY   |               146 |
@@ -61,4 +61,4 @@
 | Erie County, NY         |               147 |
 | Richmond County, NY     |               146 |
 | Orleans County, NY      |                89 |
-| Clinton County, NY      |                 0 |
+| Clinton County, NY      |               147 |

@@ -50,7 +50,7 @@
 | Perry County, OH      |                90 |
 | Washington County, OH |               146 |
 | Hardin County, OH     |                90 |
-| Shelby County, OH     |                 0 |
+| Shelby County, OH     |                90 |
 | Seneca County, OH     |               144 |
 | Athens County, OH     |               145 |
 | Logan County, OH      |                90 |

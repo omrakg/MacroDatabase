@@ -64,10 +64,10 @@
 | DEBTTLSLA188A       | Central government debt, total (% of GDP) for Sierra Leone                                                                    | 1990-01-01          | 1999-01-01        |
 | DESLEA052SCEN       | Value of Exports to Sierra Leone from Delaware                                                                                | 2010-01-01          | 2013-01-01        |
 | DESLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Delaware                                                                  | 2002-01-01          | 2016-01-01        |
-| EXP7470             | U.S. Exports of Goods by F.A.S. Basis to Sierra Leone                                                                         | 1992-01-01          | 2022-02-01        |
+| EXP7470             | U.S. Exports of Goods by F.A.S. Basis to Sierra Leone                                                                         | 1992-01-01          | 2022-03-01        |
 | FLSLEA052SCEN       | Value of Exports to Sierra Leone from Florida                                                                                 | 1992-01-01          | 2017-01-01        |
 | FLSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Florida                                                                   | 1992-01-01          | 2017-01-01        |
-| FPCPITOTLZGSLE      | Inflation, consumer prices for Sierra Leone                                                                                   | 2007-01-01          | 2020-01-01        |
+| FPCPITOTLZGSLE      | Inflation, consumer prices for Sierra Leone                                                                                   | 2007-01-01          | 2021-01-01        |
 | GASLEA052SCEN       | Value of Exports to Sierra Leone from Georgia                                                                                 | 1992-01-01          | 2017-01-01        |
 | GASLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Georgia                                                                   | 1992-01-01          | 2017-01-01        |
 | HISLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Hawaii                                                                    | 2002-01-01          | 2002-01-01        |
@@ -77,10 +77,10 @@
 | IDSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Idaho                                                                     | 1997-01-01          | 2014-01-01        |
 | ILSLEA052SCEN       | Value of Exports to Sierra Leone from Illinois                                                                                | 1992-01-01          | 2017-01-01        |
 | ILSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Illinois                                                                  | 1992-01-01          | 2017-01-01        |
-| IMP7470             | U.S. Imports of Goods by Customs Basis from Sierra Leone                                                                      | 1992-01-01          | 2022-02-01        |
+| IMP7470             | U.S. Imports of Goods by Customs Basis from Sierra Leone                                                                      | 1992-01-01          | 2022-03-01        |
 | INSLEA052SCEN       | Value of Exports to Sierra Leone from Indiana                                                                                 | 2002-01-01          | 2017-01-01        |
 | INSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Indiana                                                                   | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2SLE      | Internet users for Sierra Leone                                                                                               | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2SLE      | Internet users for Sierra Leone                                                                                               | 1990-01-01          | 2020-01-01        |
 | KSSLEA052SCEN       | Value of Exports to Sierra Leone from Kansas                                                                                  | 1997-01-01          | 2014-01-01        |
 | KSSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Kansas                                                                    | 1992-01-01          | 2015-01-01        |
 | KYSLEA052SCEN       | Value of Exports to Sierra Leone from Kentucky                                                                                | 2009-01-01          | 2015-01-01        |
@@ -193,8 +193,8 @@
 | SLETTTIX            | Terms of Trade for Goods for Sierra Leone                                                                                     | 2004-01-01          | 2023-01-01        |
 | SMPOPNETMSLE        | Net migration for Sierra Leone                                                                                                | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINSLE      | Infant Mortality Rate for Sierra Leone                                                                                        | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INSLE      | Life Expectancy at Birth, Total for Sierra Leone                                                                              | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINSLE      | Fertility Rate, Total for Sierra Leone                                                                                        | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INSLE      | Life Expectancy at Birth, Total for Sierra Leone                                                                              | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINSLE      | Fertility Rate, Total for Sierra Leone                                                                                        | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSSLE    | Population ages 65 and above for Sierra Leone                                                                                 | 1960-01-01          | 2020-01-01        |
 | TNSLEA052SCEN       | Value of Exports to Sierra Leone from Tennessee                                                                               | 2004-01-01          | 2015-01-01        |
 | TNSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Tennessee                                                                 | 1992-01-01          | 2016-01-01        |

@@ -2,11 +2,11 @@
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | IPUJN511L000000000    | Labor Productivity for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                          | 1987-01-01          | 2020-01-01        |
 | IPUJN511L001000000    | Labor Productivity for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                          | 1988-01-01          | 2020-01-01        |
-| IPUJN511L010000000    | Hours Worked for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                | 1987-01-01          | 2020-01-01        |
+| IPUJN511L010000000    | Hours Worked for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                | 1987-01-01          | 2021-01-01        |
 | IPUJN511L020000000    | Labor Compensation for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                          | 1987-01-01          | 2020-01-01        |
 | IPUJN511L021000000    | Labor Compensation for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                          | 1988-01-01          | 2020-01-01        |
-| IPUJN511L200000000    | Hours Worked for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                | 1987-01-01          | 2020-01-01        |
-| IPUJN511L201000000    | Hours Worked for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                | 1988-01-01          | 2020-01-01        |
+| IPUJN511L200000000    | Hours Worked for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                | 1987-01-01          | 2021-01-01        |
+| IPUJN511L201000000    | Hours Worked for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                | 1988-01-01          | 2021-01-01        |
 | IPUJN511T010000000    | Output for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                      | 1987-01-01          | 2020-01-01        |
 | IPUJN511T011000000    | Output for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                      | 1988-01-01          | 2020-01-01        |
 | IPUJN511T050000000    | Implicit Output Deflator for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                    | 1987-01-01          | 2020-01-01        |
@@ -20,22 +20,22 @@
 | IPUJN511U121000000    | Hourly Compensation for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                         | 1988-01-01          | 2020-01-01        |
 | IPUJN511W000000000    | Output per Employee for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                         | 1987-01-01          | 2020-01-01        |
 | IPUJN511W001000000    | Output per Employee for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                         | 1988-01-01          | 2020-01-01        |
-| IPUJN511W010000000    | Employment for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                  | 1987-01-01          | 2020-01-01        |
-| IPUJN511W200000000    | Employment for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                  | 1987-01-01          | 2020-01-01        |
-| IPUJN511W201000000    | Employment for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                  | 1988-01-01          | 2020-01-01        |
-| IPUJN512L010000000    | Hours Worked for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                          | 1987-01-01          | 2020-01-01        |
-| IPUJN512L200000000    | Hours Worked for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                          | 1987-01-01          | 2020-01-01        |
-| IPUJN512L201000000    | Hours Worked for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                          | 1988-01-01          | 2020-01-01        |
-| IPUJN512W010000000    | Employment for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                            | 1987-01-01          | 2020-01-01        |
-| IPUJN512W200000000    | Employment for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                            | 1987-01-01          | 2020-01-01        |
-| IPUJN512W201000000    | Employment for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                            | 1988-01-01          | 2020-01-01        |
+| IPUJN511W010000000    | Employment for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                  | 1987-01-01          | 2021-01-01        |
+| IPUJN511W200000000    | Employment for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                  | 1987-01-01          | 2021-01-01        |
+| IPUJN511W201000000    | Employment for Information: Publishing Industries (Except Internet) (NAICS 511) in the United States                                  | 1988-01-01          | 2021-01-01        |
+| IPUJN512L010000000    | Hours Worked for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                          | 1987-01-01          | 2021-01-01        |
+| IPUJN512L200000000    | Hours Worked for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                          | 1987-01-01          | 2021-01-01        |
+| IPUJN512L201000000    | Hours Worked for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                          | 1988-01-01          | 2021-01-01        |
+| IPUJN512W010000000    | Employment for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                            | 1987-01-01          | 2021-01-01        |
+| IPUJN512W200000000    | Employment for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                            | 1987-01-01          | 2021-01-01        |
+| IPUJN512W201000000    | Employment for Information: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                            | 1988-01-01          | 2021-01-01        |
 | IPUJN515L000000000    | Labor Productivity for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                   | 1987-01-01          | 2020-01-01        |
 | IPUJN515L001000000    | Labor Productivity for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                   | 1988-01-01          | 2020-01-01        |
-| IPUJN515L010000000    | Hours Worked for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                         | 1987-01-01          | 2020-01-01        |
+| IPUJN515L010000000    | Hours Worked for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                         | 1987-01-01          | 2021-01-01        |
 | IPUJN515L020000000    | Labor Compensation for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                   | 1987-01-01          | 2020-01-01        |
 | IPUJN515L021000000    | Labor Compensation for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                   | 1988-01-01          | 2020-01-01        |
-| IPUJN515L200000000    | Hours Worked for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                         | 1987-01-01          | 2020-01-01        |
-| IPUJN515L201000000    | Hours Worked for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                         | 1988-01-01          | 2020-01-01        |
+| IPUJN515L200000000    | Hours Worked for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                         | 1987-01-01          | 2021-01-01        |
+| IPUJN515L201000000    | Hours Worked for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                         | 1988-01-01          | 2021-01-01        |
 | IPUJN515T010000000    | Output for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                               | 1987-01-01          | 2020-01-01        |
 | IPUJN515T011000000    | Output for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                               | 1988-01-01          | 2020-01-01        |
 | IPUJN515T050000000    | Implicit Output Deflator for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                             | 1987-01-01          | 2020-01-01        |
@@ -49,34 +49,34 @@
 | IPUJN515U121000000    | Hourly Compensation for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                  | 1988-01-01          | 2020-01-01        |
 | IPUJN515W000000000    | Output per Employee for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                  | 1987-01-01          | 2020-01-01        |
 | IPUJN515W001000000    | Output per Employee for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                  | 1988-01-01          | 2020-01-01        |
-| IPUJN515W010000000    | Employment for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                           | 1987-01-01          | 2020-01-01        |
-| IPUJN515W200000000    | Employment for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                           | 1987-01-01          | 2020-01-01        |
-| IPUJN515W201000000    | Employment for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                           | 1988-01-01          | 2020-01-01        |
-| IPUJN517L010000000    | Hours Worked for Information: Telecommunications (NAICS 517) in the United States                                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN517L200000000    | Hours Worked for Information: Telecommunications (NAICS 517) in the United States                                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN517L201000000    | Hours Worked for Information: Telecommunications (NAICS 517) in the United States                                                     | 1988-01-01          | 2020-01-01        |
-| IPUJN517W010000000    | Employment for Information: Telecommunications (NAICS 517) in the United States                                                       | 1987-01-01          | 2020-01-01        |
-| IPUJN517W200000000    | Employment for Information: Telecommunications (NAICS 517) in the United States                                                       | 1987-01-01          | 2020-01-01        |
-| IPUJN517W201000000    | Employment for Information: Telecommunications (NAICS 517) in the United States                                                       | 1988-01-01          | 2020-01-01        |
-| IPUJN518L010000000    | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                         | 1987-01-01          | 2020-01-01        |
-| IPUJN518L200000000    | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                         | 1987-01-01          | 2020-01-01        |
-| IPUJN518L201000000    | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                         | 1988-01-01          | 2020-01-01        |
-| IPUJN518W010000000    | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                           | 1987-01-01          | 2020-01-01        |
-| IPUJN518W200000000    | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                           | 1987-01-01          | 2020-01-01        |
-| IPUJN518W201000000    | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                           | 1988-01-01          | 2020-01-01        |
-| IPUJN519L010000000    | Hours Worked for Information: Other Information Services (NAICS 519) in the United States                                             | 1987-01-01          | 2020-01-01        |
-| IPUJN519L200000000    | Hours Worked for Information: Other Information Services (NAICS 519) in the United States                                             | 1987-01-01          | 2020-01-01        |
-| IPUJN519L201000000    | Hours Worked for Information: Other Information Services (NAICS 519) in the United States                                             | 1988-01-01          | 2020-01-01        |
-| IPUJN519W010000000    | Employment for Information: Other Information Services (NAICS 519) in the United States                                               | 1987-01-01          | 2020-01-01        |
-| IPUJN519W200000000    | Employment for Information: Other Information Services (NAICS 519) in the United States                                               | 1987-01-01          | 2020-01-01        |
-| IPUJN519W201000000    | Employment for Information: Other Information Services (NAICS 519) in the United States                                               | 1988-01-01          | 2020-01-01        |
+| IPUJN515W010000000    | Employment for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                           | 1987-01-01          | 2021-01-01        |
+| IPUJN515W200000000    | Employment for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                           | 1987-01-01          | 2021-01-01        |
+| IPUJN515W201000000    | Employment for Information: Broadcasting (Except Internet) (NAICS 515) in the United States                                           | 1988-01-01          | 2021-01-01        |
+| IPUJN517L010000000    | Hours Worked for Information: Telecommunications (NAICS 517) in the United States                                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN517L200000000    | Hours Worked for Information: Telecommunications (NAICS 517) in the United States                                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN517L201000000    | Hours Worked for Information: Telecommunications (NAICS 517) in the United States                                                     | 1988-01-01          | 2021-01-01        |
+| IPUJN517W010000000    | Employment for Information: Telecommunications (NAICS 517) in the United States                                                       | 1987-01-01          | 2021-01-01        |
+| IPUJN517W200000000    | Employment for Information: Telecommunications (NAICS 517) in the United States                                                       | 1987-01-01          | 2021-01-01        |
+| IPUJN517W201000000    | Employment for Information: Telecommunications (NAICS 517) in the United States                                                       | 1988-01-01          | 2021-01-01        |
+| IPUJN518L010000000    | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                         | 1987-01-01          | 2021-01-01        |
+| IPUJN518L200000000    | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                         | 1987-01-01          | 2021-01-01        |
+| IPUJN518L201000000    | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                         | 1988-01-01          | 2021-01-01        |
+| IPUJN518W010000000    | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                           | 1987-01-01          | 2021-01-01        |
+| IPUJN518W200000000    | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                           | 1987-01-01          | 2021-01-01        |
+| IPUJN518W201000000    | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518) in the United States                           | 1988-01-01          | 2021-01-01        |
+| IPUJN519L010000000    | Hours Worked for Information: Other Information Services (NAICS 519) in the United States                                             | 1987-01-01          | 2021-01-01        |
+| IPUJN519L200000000    | Hours Worked for Information: Other Information Services (NAICS 519) in the United States                                             | 1987-01-01          | 2021-01-01        |
+| IPUJN519L201000000    | Hours Worked for Information: Other Information Services (NAICS 519) in the United States                                             | 1988-01-01          | 2021-01-01        |
+| IPUJN519W010000000    | Employment for Information: Other Information Services (NAICS 519) in the United States                                               | 1987-01-01          | 2021-01-01        |
+| IPUJN519W200000000    | Employment for Information: Other Information Services (NAICS 519) in the United States                                               | 1987-01-01          | 2021-01-01        |
+| IPUJN519W201000000    | Employment for Information: Other Information Services (NAICS 519) in the United States                                               | 1988-01-01          | 2021-01-01        |
 | IPUJN5111L000000000   | Labor Productivity for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States           | 1987-01-01          | 2020-01-01        |
 | IPUJN5111L001000000   | Labor Productivity for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States           | 1988-01-01          | 2020-01-01        |
-| IPUJN5111L010000000   | Hours Worked for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                 | 1987-01-01          | 2020-01-01        |
+| IPUJN5111L010000000   | Hours Worked for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                 | 1987-01-01          | 2021-01-01        |
 | IPUJN5111L020000000   | Labor Compensation for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States           | 1987-01-01          | 2020-01-01        |
 | IPUJN5111L021000000   | Labor Compensation for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States           | 1988-01-01          | 2020-01-01        |
-| IPUJN5111L200000000   | Hours Worked for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                 | 1987-01-01          | 2020-01-01        |
-| IPUJN5111L201000000   | Hours Worked for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                 | 1988-01-01          | 2020-01-01        |
+| IPUJN5111L200000000   | Hours Worked for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                 | 1987-01-01          | 2021-01-01        |
+| IPUJN5111L201000000   | Hours Worked for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                 | 1988-01-01          | 2021-01-01        |
 | IPUJN5111T010000000   | Output for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                       | 1987-01-01          | 2020-01-01        |
 | IPUJN5111T011000000   | Output for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                       | 1988-01-01          | 2020-01-01        |
 | IPUJN5111T050000000   | Implicit Output Deflator for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States     | 1987-01-01          | 2020-01-01        |
@@ -90,16 +90,16 @@
 | IPUJN5111U121000000   | Hourly Compensation for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States          | 1988-01-01          | 2020-01-01        |
 | IPUJN5111W000000000   | Output per Employee for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States          | 1987-01-01          | 2020-01-01        |
 | IPUJN5111W001000000   | Output per Employee for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States          | 1988-01-01          | 2020-01-01        |
-| IPUJN5111W010000000   | Employment for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                   | 1987-01-01          | 2020-01-01        |
-| IPUJN5111W200000000   | Employment for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                   | 1987-01-01          | 2020-01-01        |
-| IPUJN5111W201000000   | Employment for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                   | 1988-01-01          | 2020-01-01        |
+| IPUJN5111W010000000   | Employment for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                   | 1987-01-01          | 2021-01-01        |
+| IPUJN5111W200000000   | Employment for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                   | 1987-01-01          | 2021-01-01        |
+| IPUJN5111W201000000   | Employment for Information: Newspaper, Periodical, Book, and Directory Publishers (NAICS 5111) in the United States                   | 1988-01-01          | 2021-01-01        |
 | IPUJN5112L000000000   | Labor Productivity for Information: Software Publishers (NAICS 5112) in the United States                                             | 1987-01-01          | 2020-01-01        |
 | IPUJN5112L001000000   | Labor Productivity for Information: Software Publishers (NAICS 5112) in the United States                                             | 1988-01-01          | 2020-01-01        |
-| IPUJN5112L010000000   | Hours Worked for Information: Software Publishers (NAICS 5112) in the United States                                                   | 1987-01-01          | 2020-01-01        |
+| IPUJN5112L010000000   | Hours Worked for Information: Software Publishers (NAICS 5112) in the United States                                                   | 1987-01-01          | 2021-01-01        |
 | IPUJN5112L020000000   | Labor Compensation for Information: Software Publishers (NAICS 5112) in the United States                                             | 1987-01-01          | 2020-01-01        |
 | IPUJN5112L021000000   | Labor Compensation for Information: Software Publishers (NAICS 5112) in the United States                                             | 1988-01-01          | 2020-01-01        |
-| IPUJN5112L200000000   | Hours Worked for Information: Software Publishers (NAICS 5112) in the United States                                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN5112L201000000   | Hours Worked for Information: Software Publishers (NAICS 5112) in the United States                                                   | 1988-01-01          | 2020-01-01        |
+| IPUJN5112L200000000   | Hours Worked for Information: Software Publishers (NAICS 5112) in the United States                                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN5112L201000000   | Hours Worked for Information: Software Publishers (NAICS 5112) in the United States                                                   | 1988-01-01          | 2021-01-01        |
 | IPUJN5112T010000000   | Output for Information: Software Publishers (NAICS 5112) in the United States                                                         | 1987-01-01          | 2020-01-01        |
 | IPUJN5112T011000000   | Output for Information: Software Publishers (NAICS 5112) in the United States                                                         | 1988-01-01          | 2020-01-01        |
 | IPUJN5112T050000000   | Implicit Output Deflator for Information: Software Publishers (NAICS 5112) in the United States                                       | 1987-01-01          | 2020-01-01        |
@@ -113,28 +113,28 @@
 | IPUJN5112U121000000   | Hourly Compensation for Information: Software Publishers (NAICS 5112) in the United States                                            | 1988-01-01          | 2020-01-01        |
 | IPUJN5112W000000000   | Output per Employee for Information: Software Publishers (NAICS 5112) in the United States                                            | 1987-01-01          | 2020-01-01        |
 | IPUJN5112W001000000   | Output per Employee for Information: Software Publishers (NAICS 5112) in the United States                                            | 1988-01-01          | 2020-01-01        |
-| IPUJN5112W010000000   | Employment for Information: Software Publishers (NAICS 5112) in the United States                                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN5112W200000000   | Employment for Information: Software Publishers (NAICS 5112) in the United States                                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN5112W201000000   | Employment for Information: Software Publishers (NAICS 5112) in the United States                                                     | 1988-01-01          | 2020-01-01        |
-| IPUJN5121L010000000   | Hours Worked for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN5121L200000000   | Hours Worked for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN5121L201000000   | Hours Worked for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                   | 1988-01-01          | 2020-01-01        |
-| IPUJN5121W010000000   | Employment for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN5121W200000000   | Employment for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN5121W201000000   | Employment for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                     | 1988-01-01          | 2020-01-01        |
-| IPUJN5122L010000000   | Hours Worked for Information: Sound Recording Industries (NAICS 5122) in the United States                                            | 1987-01-01          | 2020-01-01        |
-| IPUJN5122L200000000   | Hours Worked for Information: Sound Recording Industries (NAICS 5122) in the United States                                            | 1987-01-01          | 2020-01-01        |
-| IPUJN5122L201000000   | Hours Worked for Information: Sound Recording Industries (NAICS 5122) in the United States                                            | 1988-01-01          | 2020-01-01        |
-| IPUJN5122W010000000   | Employment for Information: Sound Recording Industries (NAICS 5122) in the United States                                              | 1987-01-01          | 2020-01-01        |
-| IPUJN5122W200000000   | Employment for Information: Sound Recording Industries (NAICS 5122) in the United States                                              | 1987-01-01          | 2020-01-01        |
-| IPUJN5122W201000000   | Employment for Information: Sound Recording Industries (NAICS 5122) in the United States                                              | 1988-01-01          | 2020-01-01        |
+| IPUJN5112W010000000   | Employment for Information: Software Publishers (NAICS 5112) in the United States                                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN5112W200000000   | Employment for Information: Software Publishers (NAICS 5112) in the United States                                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN5112W201000000   | Employment for Information: Software Publishers (NAICS 5112) in the United States                                                     | 1988-01-01          | 2021-01-01        |
+| IPUJN5121L010000000   | Hours Worked for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN5121L200000000   | Hours Worked for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN5121L201000000   | Hours Worked for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                   | 1988-01-01          | 2021-01-01        |
+| IPUJN5121W010000000   | Employment for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN5121W200000000   | Employment for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN5121W201000000   | Employment for Information: Motion Picture and Video Industries (NAICS 5121) in the United States                                     | 1988-01-01          | 2021-01-01        |
+| IPUJN5122L010000000   | Hours Worked for Information: Sound Recording Industries (NAICS 5122) in the United States                                            | 1987-01-01          | 2021-01-01        |
+| IPUJN5122L200000000   | Hours Worked for Information: Sound Recording Industries (NAICS 5122) in the United States                                            | 1987-01-01          | 2021-01-01        |
+| IPUJN5122L201000000   | Hours Worked for Information: Sound Recording Industries (NAICS 5122) in the United States                                            | 1988-01-01          | 2021-01-01        |
+| IPUJN5122W010000000   | Employment for Information: Sound Recording Industries (NAICS 5122) in the United States                                              | 1987-01-01          | 2021-01-01        |
+| IPUJN5122W200000000   | Employment for Information: Sound Recording Industries (NAICS 5122) in the United States                                              | 1987-01-01          | 2021-01-01        |
+| IPUJN5122W201000000   | Employment for Information: Sound Recording Industries (NAICS 5122) in the United States                                              | 1988-01-01          | 2021-01-01        |
 | IPUJN5151L000000000   | Labor Productivity for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                               | 1987-01-01          | 2020-01-01        |
 | IPUJN5151L001000000   | Labor Productivity for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                               | 1988-01-01          | 2020-01-01        |
-| IPUJN5151L010000000   | Hours Worked for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                     | 1987-01-01          | 2020-01-01        |
+| IPUJN5151L010000000   | Hours Worked for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                     | 1987-01-01          | 2021-01-01        |
 | IPUJN5151L020000000   | Labor Compensation for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                               | 1987-01-01          | 2020-01-01        |
 | IPUJN5151L021000000   | Labor Compensation for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                               | 1988-01-01          | 2020-01-01        |
-| IPUJN5151L200000000   | Hours Worked for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN5151L201000000   | Hours Worked for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                     | 1988-01-01          | 2020-01-01        |
+| IPUJN5151L200000000   | Hours Worked for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN5151L201000000   | Hours Worked for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                     | 1988-01-01          | 2021-01-01        |
 | IPUJN5151T010000000   | Output for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                           | 1987-01-01          | 2020-01-01        |
 | IPUJN5151T011000000   | Output for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                           | 1988-01-01          | 2020-01-01        |
 | IPUJN5151T050000000   | Implicit Output Deflator for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                         | 1987-01-01          | 2020-01-01        |
@@ -148,16 +148,16 @@
 | IPUJN5151U121000000   | Hourly Compensation for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                              | 1988-01-01          | 2020-01-01        |
 | IPUJN5151W000000000   | Output per Employee for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                              | 1987-01-01          | 2020-01-01        |
 | IPUJN5151W001000000   | Output per Employee for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                              | 1988-01-01          | 2020-01-01        |
-| IPUJN5151W010000000   | Employment for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                       | 1987-01-01          | 2020-01-01        |
-| IPUJN5151W200000000   | Employment for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                       | 1987-01-01          | 2020-01-01        |
-| IPUJN5151W201000000   | Employment for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                       | 1988-01-01          | 2020-01-01        |
+| IPUJN5151W010000000   | Employment for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                       | 1987-01-01          | 2021-01-01        |
+| IPUJN5151W200000000   | Employment for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                       | 1987-01-01          | 2021-01-01        |
+| IPUJN5151W201000000   | Employment for Information: Radio and Television Broadcasting (NAICS 5151) in the United States                                       | 1988-01-01          | 2021-01-01        |
 | IPUJN5152L000000000   | Labor Productivity for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                        | 1987-01-01          | 2020-01-01        |
 | IPUJN5152L001000000   | Labor Productivity for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                        | 1988-01-01          | 2020-01-01        |
-| IPUJN5152L010000000   | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                              | 1987-01-01          | 2020-01-01        |
+| IPUJN5152L010000000   | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                              | 1987-01-01          | 2021-01-01        |
 | IPUJN5152L020000000   | Labor Compensation for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                        | 1987-01-01          | 2020-01-01        |
 | IPUJN5152L021000000   | Labor Compensation for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                        | 1988-01-01          | 2020-01-01        |
-| IPUJN5152L200000000   | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                              | 1987-01-01          | 2020-01-01        |
-| IPUJN5152L201000000   | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                              | 1988-01-01          | 2020-01-01        |
+| IPUJN5152L200000000   | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                              | 1987-01-01          | 2021-01-01        |
+| IPUJN5152L201000000   | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                              | 1988-01-01          | 2021-01-01        |
 | IPUJN5152T010000000   | Output for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                                    | 1987-01-01          | 2020-01-01        |
 | IPUJN5152T011000000   | Output for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                                    | 1988-01-01          | 2020-01-01        |
 | IPUJN5152T050000000   | Implicit Output Deflator for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                  | 1987-01-01          | 2020-01-01        |
@@ -171,16 +171,16 @@
 | IPUJN5152U121000000   | Hourly Compensation for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                       | 1988-01-01          | 2020-01-01        |
 | IPUJN5152W000000000   | Output per Employee for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                       | 1987-01-01          | 2020-01-01        |
 | IPUJN5152W001000000   | Output per Employee for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                       | 1988-01-01          | 2020-01-01        |
-| IPUJN5152W010000000   | Employment for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                                | 1987-01-01          | 2020-01-01        |
-| IPUJN5152W200000000   | Employment for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                                | 1987-01-01          | 2020-01-01        |
-| IPUJN5152W201000000   | Employment for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                                | 1988-01-01          | 2020-01-01        |
+| IPUJN5152W010000000   | Employment for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                                | 1987-01-01          | 2021-01-01        |
+| IPUJN5152W200000000   | Employment for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                                | 1987-01-01          | 2021-01-01        |
+| IPUJN5152W201000000   | Employment for Information: Cable and Other Subscription Programming (NAICS 5152) in the United States                                | 1988-01-01          | 2021-01-01        |
 | IPUJN5173L000000000   | Labor Productivity for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                  | 1987-01-01          | 2020-01-01        |
 | IPUJN5173L001000000   | Labor Productivity for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                  | 1988-01-01          | 2020-01-01        |
-| IPUJN5173L010000000   | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                        | 1987-01-01          | 2020-01-01        |
+| IPUJN5173L010000000   | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                        | 1987-01-01          | 2021-01-01        |
 | IPUJN5173L020000000   | Labor Compensation for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                  | 1987-01-01          | 2020-01-01        |
 | IPUJN5173L021000000   | Labor Compensation for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                  | 1988-01-01          | 2020-01-01        |
-| IPUJN5173L200000000   | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                        | 1987-01-01          | 2020-01-01        |
-| IPUJN5173L201000000   | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                        | 1988-01-01          | 2020-01-01        |
+| IPUJN5173L200000000   | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                        | 1987-01-01          | 2021-01-01        |
+| IPUJN5173L201000000   | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                        | 1988-01-01          | 2021-01-01        |
 | IPUJN5173T010000000   | Output for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                              | 1987-01-01          | 2020-01-01        |
 | IPUJN5173T011000000   | Output for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                              | 1988-01-01          | 2020-01-01        |
 | IPUJN5173T050000000   | Implicit Output Deflator for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States            | 1987-01-01          | 2020-01-01        |
@@ -194,40 +194,40 @@
 | IPUJN5173U121000000   | Hourly Compensation for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                 | 1988-01-01          | 2020-01-01        |
 | IPUJN5173W000000000   | Output per Employee for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                 | 1987-01-01          | 2020-01-01        |
 | IPUJN5173W001000000   | Output per Employee for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                 | 1988-01-01          | 2020-01-01        |
-| IPUJN5173W010000000   | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                          | 1987-01-01          | 2020-01-01        |
-| IPUJN5173W200000000   | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                          | 1987-01-01          | 2020-01-01        |
-| IPUJN5173W201000000   | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                          | 1988-01-01          | 2020-01-01        |
-| IPUJN5174L010000000   | Hours Worked for Information: Satellite Telecommunications (NAICS 5174) in the United States                                          | 1987-01-01          | 2020-01-01        |
-| IPUJN5174L200000000   | Hours Worked for Information: Satellite Telecommunications (NAICS 5174) in the United States                                          | 1987-01-01          | 2020-01-01        |
-| IPUJN5174L201000000   | Hours Worked for Information: Satellite Telecommunications (NAICS 5174) in the United States                                          | 1988-01-01          | 2020-01-01        |
-| IPUJN5174W010000000   | Employment for Information: Satellite Telecommunications (NAICS 5174) in the United States                                            | 1987-01-01          | 2020-01-01        |
-| IPUJN5174W200000000   | Employment for Information: Satellite Telecommunications (NAICS 5174) in the United States                                            | 1987-01-01          | 2020-01-01        |
-| IPUJN5174W201000000   | Employment for Information: Satellite Telecommunications (NAICS 5174) in the United States                                            | 1988-01-01          | 2020-01-01        |
-| IPUJN5179L010000000   | Hours Worked for Information: Other Telecommunications (NAICS 5179) in the United States                                              | 1987-01-01          | 2020-01-01        |
-| IPUJN5179L200000000   | Hours Worked for Information: Other Telecommunications (NAICS 5179) in the United States                                              | 1987-01-01          | 2020-01-01        |
-| IPUJN5179L201000000   | Hours Worked for Information: Other Telecommunications (NAICS 5179) in the United States                                              | 1988-01-01          | 2020-01-01        |
-| IPUJN5179W010000000   | Employment for Information: Other Telecommunications (NAICS 5179) in the United States                                                | 1987-01-01          | 2020-01-01        |
-| IPUJN5179W200000000   | Employment for Information: Other Telecommunications (NAICS 5179) in the United States                                                | 1987-01-01          | 2020-01-01        |
-| IPUJN5179W201000000   | Employment for Information: Other Telecommunications (NAICS 5179) in the United States                                                | 1988-01-01          | 2020-01-01        |
-| IPUJN5182L010000000   | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                        | 1987-01-01          | 2020-01-01        |
-| IPUJN5182L200000000   | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                        | 1987-01-01          | 2020-01-01        |
-| IPUJN5182L201000000   | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                        | 1988-01-01          | 2020-01-01        |
-| IPUJN5182W010000000   | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                          | 1987-01-01          | 2020-01-01        |
-| IPUJN5182W200000000   | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                          | 1987-01-01          | 2020-01-01        |
-| IPUJN5182W201000000   | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                          | 1988-01-01          | 2020-01-01        |
-| IPUJN5191L010000000   | Hours Worked for Information: Other Information Services (NAICS 5191) in the United States                                            | 1987-01-01          | 2020-01-01        |
-| IPUJN5191L200000000   | Hours Worked for Information: Other Information Services (NAICS 5191) in the United States                                            | 1987-01-01          | 2020-01-01        |
-| IPUJN5191L201000000   | Hours Worked for Information: Other Information Services (NAICS 5191) in the United States                                            | 1988-01-01          | 2020-01-01        |
-| IPUJN5191W010000000   | Employment for Information: Other Information Services (NAICS 5191) in the United States                                              | 1987-01-01          | 2020-01-01        |
-| IPUJN5191W200000000   | Employment for Information: Other Information Services (NAICS 5191) in the United States                                              | 1987-01-01          | 2020-01-01        |
-| IPUJN5191W201000000   | Employment for Information: Other Information Services (NAICS 5191) in the United States                                              | 1988-01-01          | 2020-01-01        |
+| IPUJN5173W010000000   | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                          | 1987-01-01          | 2021-01-01        |
+| IPUJN5173W200000000   | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                          | 1987-01-01          | 2021-01-01        |
+| IPUJN5173W201000000   | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 5173) in the United States                          | 1988-01-01          | 2021-01-01        |
+| IPUJN5174L010000000   | Hours Worked for Information: Satellite Telecommunications (NAICS 5174) in the United States                                          | 1987-01-01          | 2021-01-01        |
+| IPUJN5174L200000000   | Hours Worked for Information: Satellite Telecommunications (NAICS 5174) in the United States                                          | 1987-01-01          | 2021-01-01        |
+| IPUJN5174L201000000   | Hours Worked for Information: Satellite Telecommunications (NAICS 5174) in the United States                                          | 1988-01-01          | 2021-01-01        |
+| IPUJN5174W010000000   | Employment for Information: Satellite Telecommunications (NAICS 5174) in the United States                                            | 1987-01-01          | 2021-01-01        |
+| IPUJN5174W200000000   | Employment for Information: Satellite Telecommunications (NAICS 5174) in the United States                                            | 1987-01-01          | 2021-01-01        |
+| IPUJN5174W201000000   | Employment for Information: Satellite Telecommunications (NAICS 5174) in the United States                                            | 1988-01-01          | 2021-01-01        |
+| IPUJN5179L010000000   | Hours Worked for Information: Other Telecommunications (NAICS 5179) in the United States                                              | 1987-01-01          | 2021-01-01        |
+| IPUJN5179L200000000   | Hours Worked for Information: Other Telecommunications (NAICS 5179) in the United States                                              | 1987-01-01          | 2021-01-01        |
+| IPUJN5179L201000000   | Hours Worked for Information: Other Telecommunications (NAICS 5179) in the United States                                              | 1988-01-01          | 2021-01-01        |
+| IPUJN5179W010000000   | Employment for Information: Other Telecommunications (NAICS 5179) in the United States                                                | 1987-01-01          | 2021-01-01        |
+| IPUJN5179W200000000   | Employment for Information: Other Telecommunications (NAICS 5179) in the United States                                                | 1987-01-01          | 2021-01-01        |
+| IPUJN5179W201000000   | Employment for Information: Other Telecommunications (NAICS 5179) in the United States                                                | 1988-01-01          | 2021-01-01        |
+| IPUJN5182L010000000   | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                        | 1987-01-01          | 2021-01-01        |
+| IPUJN5182L200000000   | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                        | 1987-01-01          | 2021-01-01        |
+| IPUJN5182L201000000   | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                        | 1988-01-01          | 2021-01-01        |
+| IPUJN5182W010000000   | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                          | 1987-01-01          | 2021-01-01        |
+| IPUJN5182W200000000   | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                          | 1987-01-01          | 2021-01-01        |
+| IPUJN5182W201000000   | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 5182) in the United States                          | 1988-01-01          | 2021-01-01        |
+| IPUJN5191L010000000   | Hours Worked for Information: Other Information Services (NAICS 5191) in the United States                                            | 1987-01-01          | 2021-01-01        |
+| IPUJN5191L200000000   | Hours Worked for Information: Other Information Services (NAICS 5191) in the United States                                            | 1987-01-01          | 2021-01-01        |
+| IPUJN5191L201000000   | Hours Worked for Information: Other Information Services (NAICS 5191) in the United States                                            | 1988-01-01          | 2021-01-01        |
+| IPUJN5191W010000000   | Employment for Information: Other Information Services (NAICS 5191) in the United States                                              | 1987-01-01          | 2021-01-01        |
+| IPUJN5191W200000000   | Employment for Information: Other Information Services (NAICS 5191) in the United States                                              | 1987-01-01          | 2021-01-01        |
+| IPUJN5191W201000000   | Employment for Information: Other Information Services (NAICS 5191) in the United States                                              | 1988-01-01          | 2021-01-01        |
 | IPUJN51111L000000000  | Labor Productivity for Information: Newspaper Publishers (NAICS 51111) in the United States                                           | 1987-01-01          | 2020-01-01        |
 | IPUJN51111L001000000  | Labor Productivity for Information: Newspaper Publishers (NAICS 51111) in the United States                                           | 1988-01-01          | 2020-01-01        |
-| IPUJN51111L010000000  | Hours Worked for Information: Newspaper Publishers (NAICS 51111) in the United States                                                 | 1987-01-01          | 2020-01-01        |
+| IPUJN51111L010000000  | Hours Worked for Information: Newspaper Publishers (NAICS 51111) in the United States                                                 | 1987-01-01          | 2021-01-01        |
 | IPUJN51111L020000000  | Labor Compensation for Information: Newspaper Publishers (NAICS 51111) in the United States                                           | 1987-01-01          | 2020-01-01        |
 | IPUJN51111L021000000  | Labor Compensation for Information: Newspaper Publishers (NAICS 51111) in the United States                                           | 1988-01-01          | 2020-01-01        |
-| IPUJN51111L200000000  | Hours Worked for Information: Newspaper Publishers (NAICS 51111) in the United States                                                 | 1987-01-01          | 2020-01-01        |
-| IPUJN51111L201000000  | Hours Worked for Information: Newspaper Publishers (NAICS 51111) in the United States                                                 | 1988-01-01          | 2020-01-01        |
+| IPUJN51111L200000000  | Hours Worked for Information: Newspaper Publishers (NAICS 51111) in the United States                                                 | 1987-01-01          | 2021-01-01        |
+| IPUJN51111L201000000  | Hours Worked for Information: Newspaper Publishers (NAICS 51111) in the United States                                                 | 1988-01-01          | 2021-01-01        |
 | IPUJN51111T010000000  | Output for Information: Newspaper Publishers (NAICS 51111) in the United States                                                       | 1987-01-01          | 2020-01-01        |
 | IPUJN51111T011000000  | Output for Information: Newspaper Publishers (NAICS 51111) in the United States                                                       | 1988-01-01          | 2020-01-01        |
 | IPUJN51111T050000000  | Implicit Output Deflator for Information: Newspaper Publishers (NAICS 51111) in the United States                                     | 1987-01-01          | 2020-01-01        |
@@ -241,16 +241,16 @@
 | IPUJN51111U121000000  | Hourly Compensation for Information: Newspaper Publishers (NAICS 51111) in the United States                                          | 1988-01-01          | 2020-01-01        |
 | IPUJN51111W000000000  | Output per Employee for Information: Newspaper Publishers (NAICS 51111) in the United States                                          | 1987-01-01          | 2020-01-01        |
 | IPUJN51111W001000000  | Output per Employee for Information: Newspaper Publishers (NAICS 51111) in the United States                                          | 1988-01-01          | 2020-01-01        |
-| IPUJN51111W010000000  | Employment for Information: Newspaper Publishers (NAICS 51111) in the United States                                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN51111W200000000  | Employment for Information: Newspaper Publishers (NAICS 51111) in the United States                                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN51111W201000000  | Employment for Information: Newspaper Publishers (NAICS 51111) in the United States                                                   | 1988-01-01          | 2020-01-01        |
+| IPUJN51111W010000000  | Employment for Information: Newspaper Publishers (NAICS 51111) in the United States                                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN51111W200000000  | Employment for Information: Newspaper Publishers (NAICS 51111) in the United States                                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN51111W201000000  | Employment for Information: Newspaper Publishers (NAICS 51111) in the United States                                                   | 1988-01-01          | 2021-01-01        |
 | IPUJN51112L000000000  | Labor Productivity for Information: Periodical Publishers (NAICS 51112) in the United States                                          | 1987-01-01          | 2020-01-01        |
 | IPUJN51112L001000000  | Labor Productivity for Information: Periodical Publishers (NAICS 51112) in the United States                                          | 1988-01-01          | 2020-01-01        |
-| IPUJN51112L010000000  | Hours Worked for Information: Periodical Publishers (NAICS 51112) in the United States                                                | 1987-01-01          | 2020-01-01        |
+| IPUJN51112L010000000  | Hours Worked for Information: Periodical Publishers (NAICS 51112) in the United States                                                | 1987-01-01          | 2021-01-01        |
 | IPUJN51112L020000000  | Labor Compensation for Information: Periodical Publishers (NAICS 51112) in the United States                                          | 1987-01-01          | 2020-01-01        |
 | IPUJN51112L021000000  | Labor Compensation for Information: Periodical Publishers (NAICS 51112) in the United States                                          | 1988-01-01          | 2020-01-01        |
-| IPUJN51112L200000000  | Hours Worked for Information: Periodical Publishers (NAICS 51112) in the United States                                                | 1987-01-01          | 2020-01-01        |
-| IPUJN51112L201000000  | Hours Worked for Information: Periodical Publishers (NAICS 51112) in the United States                                                | 1988-01-01          | 2020-01-01        |
+| IPUJN51112L200000000  | Hours Worked for Information: Periodical Publishers (NAICS 51112) in the United States                                                | 1987-01-01          | 2021-01-01        |
+| IPUJN51112L201000000  | Hours Worked for Information: Periodical Publishers (NAICS 51112) in the United States                                                | 1988-01-01          | 2021-01-01        |
 | IPUJN51112T010000000  | Output for Information: Periodical Publishers (NAICS 51112) in the United States                                                      | 1987-01-01          | 2020-01-01        |
 | IPUJN51112T011000000  | Output for Information: Periodical Publishers (NAICS 51112) in the United States                                                      | 1988-01-01          | 2020-01-01        |
 | IPUJN51112T050000000  | Implicit Output Deflator for Information: Periodical Publishers (NAICS 51112) in the United States                                    | 1987-01-01          | 2020-01-01        |
@@ -264,16 +264,16 @@
 | IPUJN51112U121000000  | Hourly Compensation for Information: Periodical Publishers (NAICS 51112) in the United States                                         | 1988-01-01          | 2020-01-01        |
 | IPUJN51112W000000000  | Output per Employee for Information: Periodical Publishers (NAICS 51112) in the United States                                         | 1987-01-01          | 2020-01-01        |
 | IPUJN51112W001000000  | Output per Employee for Information: Periodical Publishers (NAICS 51112) in the United States                                         | 1988-01-01          | 2020-01-01        |
-| IPUJN51112W010000000  | Employment for Information: Periodical Publishers (NAICS 51112) in the United States                                                  | 1987-01-01          | 2020-01-01        |
-| IPUJN51112W200000000  | Employment for Information: Periodical Publishers (NAICS 51112) in the United States                                                  | 1987-01-01          | 2020-01-01        |
-| IPUJN51112W201000000  | Employment for Information: Periodical Publishers (NAICS 51112) in the United States                                                  | 1988-01-01          | 2020-01-01        |
+| IPUJN51112W010000000  | Employment for Information: Periodical Publishers (NAICS 51112) in the United States                                                  | 1987-01-01          | 2021-01-01        |
+| IPUJN51112W200000000  | Employment for Information: Periodical Publishers (NAICS 51112) in the United States                                                  | 1987-01-01          | 2021-01-01        |
+| IPUJN51112W201000000  | Employment for Information: Periodical Publishers (NAICS 51112) in the United States                                                  | 1988-01-01          | 2021-01-01        |
 | IPUJN51113L000000000  | Labor Productivity for Information: Book Publishers (NAICS 51113) in the United States                                                | 1987-01-01          | 2020-01-01        |
 | IPUJN51113L001000000  | Labor Productivity for Information: Book Publishers (NAICS 51113) in the United States                                                | 1988-01-01          | 2020-01-01        |
-| IPUJN51113L010000000  | Hours Worked for Information: Book Publishers (NAICS 51113) in the United States                                                      | 1987-01-01          | 2020-01-01        |
+| IPUJN51113L010000000  | Hours Worked for Information: Book Publishers (NAICS 51113) in the United States                                                      | 1987-01-01          | 2021-01-01        |
 | IPUJN51113L020000000  | Labor Compensation for Information: Book Publishers (NAICS 51113) in the United States                                                | 1987-01-01          | 2020-01-01        |
 | IPUJN51113L021000000  | Labor Compensation for Information: Book Publishers (NAICS 51113) in the United States                                                | 1988-01-01          | 2020-01-01        |
-| IPUJN51113L200000000  | Hours Worked for Information: Book Publishers (NAICS 51113) in the United States                                                      | 1987-01-01          | 2020-01-01        |
-| IPUJN51113L201000000  | Hours Worked for Information: Book Publishers (NAICS 51113) in the United States                                                      | 1988-01-01          | 2020-01-01        |
+| IPUJN51113L200000000  | Hours Worked for Information: Book Publishers (NAICS 51113) in the United States                                                      | 1987-01-01          | 2021-01-01        |
+| IPUJN51113L201000000  | Hours Worked for Information: Book Publishers (NAICS 51113) in the United States                                                      | 1988-01-01          | 2021-01-01        |
 | IPUJN51113T010000000  | Output for Information: Book Publishers (NAICS 51113) in the United States                                                            | 1987-01-01          | 2020-01-01        |
 | IPUJN51113T011000000  | Output for Information: Book Publishers (NAICS 51113) in the United States                                                            | 1988-01-01          | 2020-01-01        |
 | IPUJN51113T050000000  | Implicit Output Deflator for Information: Book Publishers (NAICS 51113) in the United States                                          | 1987-01-01          | 2020-01-01        |
@@ -287,16 +287,16 @@
 | IPUJN51113U121000000  | Hourly Compensation for Information: Book Publishers (NAICS 51113) in the United States                                               | 1988-01-01          | 2020-01-01        |
 | IPUJN51113W000000000  | Output per Employee for Information: Book Publishers (NAICS 51113) in the United States                                               | 1987-01-01          | 2020-01-01        |
 | IPUJN51113W001000000  | Output per Employee for Information: Book Publishers (NAICS 51113) in the United States                                               | 1988-01-01          | 2020-01-01        |
-| IPUJN51113W010000000  | Employment for Information: Book Publishers (NAICS 51113) in the United States                                                        | 1987-01-01          | 2020-01-01        |
-| IPUJN51113W200000000  | Employment for Information: Book Publishers (NAICS 51113) in the United States                                                        | 1987-01-01          | 2020-01-01        |
-| IPUJN51113W201000000  | Employment for Information: Book Publishers (NAICS 51113) in the United States                                                        | 1988-01-01          | 2020-01-01        |
+| IPUJN51113W010000000  | Employment for Information: Book Publishers (NAICS 51113) in the United States                                                        | 1987-01-01          | 2021-01-01        |
+| IPUJN51113W200000000  | Employment for Information: Book Publishers (NAICS 51113) in the United States                                                        | 1987-01-01          | 2021-01-01        |
+| IPUJN51113W201000000  | Employment for Information: Book Publishers (NAICS 51113) in the United States                                                        | 1988-01-01          | 2021-01-01        |
 | IPUJN51121L000000000  | Labor Productivity for Information: Software Publishers (NAICS 51121) in the United States                                            | 1987-01-01          | 2020-01-01        |
 | IPUJN51121L001000000  | Labor Productivity for Information: Software Publishers (NAICS 51121) in the United States                                            | 1988-01-01          | 2020-01-01        |
-| IPUJN51121L010000000  | Hours Worked for Information: Software Publishers (NAICS 51121) in the United States                                                  | 1987-01-01          | 2020-01-01        |
+| IPUJN51121L010000000  | Hours Worked for Information: Software Publishers (NAICS 51121) in the United States                                                  | 1987-01-01          | 2021-01-01        |
 | IPUJN51121L020000000  | Labor Compensation for Information: Software Publishers (NAICS 51121) in the United States                                            | 1987-01-01          | 2020-01-01        |
 | IPUJN51121L021000000  | Labor Compensation for Information: Software Publishers (NAICS 51121) in the United States                                            | 1988-01-01          | 2020-01-01        |
-| IPUJN51121L200000000  | Hours Worked for Information: Software Publishers (NAICS 51121) in the United States                                                  | 1987-01-01          | 2020-01-01        |
-| IPUJN51121L201000000  | Hours Worked for Information: Software Publishers (NAICS 51121) in the United States                                                  | 1988-01-01          | 2020-01-01        |
+| IPUJN51121L200000000  | Hours Worked for Information: Software Publishers (NAICS 51121) in the United States                                                  | 1987-01-01          | 2021-01-01        |
+| IPUJN51121L201000000  | Hours Worked for Information: Software Publishers (NAICS 51121) in the United States                                                  | 1988-01-01          | 2021-01-01        |
 | IPUJN51121T010000000  | Output for Information: Software Publishers (NAICS 51121) in the United States                                                        | 1987-01-01          | 2020-01-01        |
 | IPUJN51121T011000000  | Output for Information: Software Publishers (NAICS 51121) in the United States                                                        | 1988-01-01          | 2020-01-01        |
 | IPUJN51121T050000000  | Implicit Output Deflator for Information: Software Publishers (NAICS 51121) in the United States                                      | 1987-01-01          | 2020-01-01        |
@@ -310,16 +310,16 @@
 | IPUJN51121U121000000  | Hourly Compensation for Information: Software Publishers (NAICS 51121) in the United States                                           | 1988-01-01          | 2020-01-01        |
 | IPUJN51121W000000000  | Output per Employee for Information: Software Publishers (NAICS 51121) in the United States                                           | 1987-01-01          | 2020-01-01        |
 | IPUJN51121W001000000  | Output per Employee for Information: Software Publishers (NAICS 51121) in the United States                                           | 1988-01-01          | 2020-01-01        |
-| IPUJN51121W010000000  | Employment for Information: Software Publishers (NAICS 51121) in the United States                                                    | 1987-01-01          | 2020-01-01        |
-| IPUJN51121W200000000  | Employment for Information: Software Publishers (NAICS 51121) in the United States                                                    | 1987-01-01          | 2020-01-01        |
-| IPUJN51121W201000000  | Employment for Information: Software Publishers (NAICS 51121) in the United States                                                    | 1988-01-01          | 2020-01-01        |
+| IPUJN51121W010000000  | Employment for Information: Software Publishers (NAICS 51121) in the United States                                                    | 1987-01-01          | 2021-01-01        |
+| IPUJN51121W200000000  | Employment for Information: Software Publishers (NAICS 51121) in the United States                                                    | 1987-01-01          | 2021-01-01        |
+| IPUJN51121W201000000  | Employment for Information: Software Publishers (NAICS 51121) in the United States                                                    | 1988-01-01          | 2021-01-01        |
 | IPUJN51213L000000000  | Labor Productivity for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                            | 1987-01-01          | 2020-01-01        |
 | IPUJN51213L001000000  | Labor Productivity for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                            | 1988-01-01          | 2020-01-01        |
-| IPUJN51213L010000000  | Hours Worked for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                  | 1987-01-01          | 2020-01-01        |
+| IPUJN51213L010000000  | Hours Worked for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                  | 1987-01-01          | 2021-01-01        |
 | IPUJN51213L020000000  | Labor Compensation for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                            | 1987-01-01          | 2020-01-01        |
 | IPUJN51213L021000000  | Labor Compensation for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                            | 1988-01-01          | 2020-01-01        |
-| IPUJN51213L200000000  | Hours Worked for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                  | 1987-01-01          | 2020-01-01        |
-| IPUJN51213L201000000  | Hours Worked for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                  | 1988-01-01          | 2020-01-01        |
+| IPUJN51213L200000000  | Hours Worked for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                  | 1987-01-01          | 2021-01-01        |
+| IPUJN51213L201000000  | Hours Worked for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                  | 1988-01-01          | 2021-01-01        |
 | IPUJN51213T010000000  | Output for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                        | 1987-01-01          | 2020-01-01        |
 | IPUJN51213T011000000  | Output for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                        | 1988-01-01          | 2020-01-01        |
 | IPUJN51213T050000000  | Implicit Output Deflator for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                      | 1987-01-01          | 2020-01-01        |
@@ -333,16 +333,16 @@
 | IPUJN51213U121000000  | Hourly Compensation for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                           | 1988-01-01          | 2020-01-01        |
 | IPUJN51213W000000000  | Output per Employee for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                           | 1987-01-01          | 2020-01-01        |
 | IPUJN51213W001000000  | Output per Employee for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                           | 1988-01-01          | 2020-01-01        |
-| IPUJN51213W010000000  | Employment for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                    | 1987-01-01          | 2020-01-01        |
-| IPUJN51213W200000000  | Employment for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                    | 1987-01-01          | 2020-01-01        |
-| IPUJN51213W201000000  | Employment for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                    | 1988-01-01          | 2020-01-01        |
+| IPUJN51213W010000000  | Employment for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                    | 1987-01-01          | 2021-01-01        |
+| IPUJN51213W200000000  | Employment for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                    | 1987-01-01          | 2021-01-01        |
+| IPUJN51213W201000000  | Employment for Information: Motion Picture and Video Exhibition (NAICS 51213) in the United States                                    | 1988-01-01          | 2021-01-01        |
 | IPUJN51511L000000000  | Labor Productivity for Information: Radio Broadcasting (NAICS 51511) in the United States                                             | 1987-01-01          | 2020-01-01        |
 | IPUJN51511L001000000  | Labor Productivity for Information: Radio Broadcasting (NAICS 51511) in the United States                                             | 1988-01-01          | 2020-01-01        |
-| IPUJN51511L010000000  | Hours Worked for Information: Radio Broadcasting (NAICS 51511) in the United States                                                   | 1987-01-01          | 2020-01-01        |
+| IPUJN51511L010000000  | Hours Worked for Information: Radio Broadcasting (NAICS 51511) in the United States                                                   | 1987-01-01          | 2021-01-01        |
 | IPUJN51511L020000000  | Labor Compensation for Information: Radio Broadcasting (NAICS 51511) in the United States                                             | 1987-01-01          | 2020-01-01        |
 | IPUJN51511L021000000  | Labor Compensation for Information: Radio Broadcasting (NAICS 51511) in the United States                                             | 1988-01-01          | 2020-01-01        |
-| IPUJN51511L200000000  | Hours Worked for Information: Radio Broadcasting (NAICS 51511) in the United States                                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN51511L201000000  | Hours Worked for Information: Radio Broadcasting (NAICS 51511) in the United States                                                   | 1988-01-01          | 2020-01-01        |
+| IPUJN51511L200000000  | Hours Worked for Information: Radio Broadcasting (NAICS 51511) in the United States                                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN51511L201000000  | Hours Worked for Information: Radio Broadcasting (NAICS 51511) in the United States                                                   | 1988-01-01          | 2021-01-01        |
 | IPUJN51511T010000000  | Output for Information: Radio Broadcasting (NAICS 51511) in the United States                                                         | 1987-01-01          | 2020-01-01        |
 | IPUJN51511T011000000  | Output for Information: Radio Broadcasting (NAICS 51511) in the United States                                                         | 1988-01-01          | 2020-01-01        |
 | IPUJN51511T050000000  | Implicit Output Deflator for Information: Radio Broadcasting (NAICS 51511) in the United States                                       | 1987-01-01          | 2020-01-01        |
@@ -356,16 +356,16 @@
 | IPUJN51511U121000000  | Hourly Compensation for Information: Radio Broadcasting (NAICS 51511) in the United States                                            | 1988-01-01          | 2020-01-01        |
 | IPUJN51511W000000000  | Output per Employee for Information: Radio Broadcasting (NAICS 51511) in the United States                                            | 1987-01-01          | 2020-01-01        |
 | IPUJN51511W001000000  | Output per Employee for Information: Radio Broadcasting (NAICS 51511) in the United States                                            | 1988-01-01          | 2020-01-01        |
-| IPUJN51511W010000000  | Employment for Information: Radio Broadcasting (NAICS 51511) in the United States                                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN51511W200000000  | Employment for Information: Radio Broadcasting (NAICS 51511) in the United States                                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN51511W201000000  | Employment for Information: Radio Broadcasting (NAICS 51511) in the United States                                                     | 1988-01-01          | 2020-01-01        |
+| IPUJN51511W010000000  | Employment for Information: Radio Broadcasting (NAICS 51511) in the United States                                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN51511W200000000  | Employment for Information: Radio Broadcasting (NAICS 51511) in the United States                                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN51511W201000000  | Employment for Information: Radio Broadcasting (NAICS 51511) in the United States                                                     | 1988-01-01          | 2021-01-01        |
 | IPUJN51521L000000000  | Labor Productivity for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                       | 1987-01-01          | 2020-01-01        |
 | IPUJN51521L001000000  | Labor Productivity for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                       | 1988-01-01          | 2020-01-01        |
-| IPUJN51521L010000000  | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                             | 1987-01-01          | 2020-01-01        |
+| IPUJN51521L010000000  | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                             | 1987-01-01          | 2021-01-01        |
 | IPUJN51521L020000000  | Labor Compensation for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                       | 1987-01-01          | 2020-01-01        |
 | IPUJN51521L021000000  | Labor Compensation for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                       | 1988-01-01          | 2020-01-01        |
-| IPUJN51521L200000000  | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                             | 1987-01-01          | 2020-01-01        |
-| IPUJN51521L201000000  | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                             | 1988-01-01          | 2020-01-01        |
+| IPUJN51521L200000000  | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                             | 1987-01-01          | 2021-01-01        |
+| IPUJN51521L201000000  | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                             | 1988-01-01          | 2021-01-01        |
 | IPUJN51521T010000000  | Output for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                                   | 1987-01-01          | 2020-01-01        |
 | IPUJN51521T011000000  | Output for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                                   | 1988-01-01          | 2020-01-01        |
 | IPUJN51521T050000000  | Implicit Output Deflator for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                 | 1987-01-01          | 2020-01-01        |
@@ -379,16 +379,16 @@
 | IPUJN51521U121000000  | Hourly Compensation for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                      | 1988-01-01          | 2020-01-01        |
 | IPUJN51521W000000000  | Output per Employee for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                      | 1987-01-01          | 2020-01-01        |
 | IPUJN51521W001000000  | Output per Employee for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                      | 1988-01-01          | 2020-01-01        |
-| IPUJN51521W010000000  | Employment for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                               | 1987-01-01          | 2020-01-01        |
-| IPUJN51521W200000000  | Employment for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                               | 1987-01-01          | 2020-01-01        |
-| IPUJN51521W201000000  | Employment for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                               | 1988-01-01          | 2020-01-01        |
+| IPUJN51521W010000000  | Employment for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                               | 1987-01-01          | 2021-01-01        |
+| IPUJN51521W200000000  | Employment for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                               | 1987-01-01          | 2021-01-01        |
+| IPUJN51521W201000000  | Employment for Information: Cable and Other Subscription Programming (NAICS 51521) in the United States                               | 1988-01-01          | 2021-01-01        |
 | IPUJN51731L000000000  | Labor Productivity for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                 | 1987-01-01          | 2020-01-01        |
 | IPUJN51731L001000000  | Labor Productivity for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                 | 1988-01-01          | 2020-01-01        |
-| IPUJN51731L010000000  | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                       | 1987-01-01          | 2020-01-01        |
+| IPUJN51731L010000000  | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                       | 1987-01-01          | 2021-01-01        |
 | IPUJN51731L020000000  | Labor Compensation for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                 | 1987-01-01          | 2020-01-01        |
 | IPUJN51731L021000000  | Labor Compensation for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                 | 1988-01-01          | 2020-01-01        |
-| IPUJN51731L200000000  | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                       | 1987-01-01          | 2020-01-01        |
-| IPUJN51731L201000000  | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                       | 1988-01-01          | 2020-01-01        |
+| IPUJN51731L200000000  | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                       | 1987-01-01          | 2021-01-01        |
+| IPUJN51731L201000000  | Hours Worked for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                       | 1988-01-01          | 2021-01-01        |
 | IPUJN51731T010000000  | Output for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                             | 1987-01-01          | 2020-01-01        |
 | IPUJN51731T011000000  | Output for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                             | 1988-01-01          | 2020-01-01        |
 | IPUJN51731T050000000  | Implicit Output Deflator for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States           | 1987-01-01          | 2020-01-01        |
@@ -402,34 +402,34 @@
 | IPUJN51731U121000000  | Hourly Compensation for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                | 1988-01-01          | 2020-01-01        |
 | IPUJN51731W000000000  | Output per Employee for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                | 1987-01-01          | 2020-01-01        |
 | IPUJN51731W001000000  | Output per Employee for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                | 1988-01-01          | 2020-01-01        |
-| IPUJN51731W010000000  | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                         | 1987-01-01          | 2020-01-01        |
-| IPUJN51731W200000000  | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                         | 1987-01-01          | 2020-01-01        |
-| IPUJN51731W201000000  | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                         | 1988-01-01          | 2020-01-01        |
-| IPUJN51741L010000000  | Hours Worked for Information: Satellite Telecommunications (NAICS 51741) in the United States                                         | 1987-01-01          | 2020-01-01        |
-| IPUJN51741L200000000  | Hours Worked for Information: Satellite Telecommunications (NAICS 51741) in the United States                                         | 1987-01-01          | 2020-01-01        |
-| IPUJN51741L201000000  | Hours Worked for Information: Satellite Telecommunications (NAICS 51741) in the United States                                         | 1988-01-01          | 2020-01-01        |
-| IPUJN51741W010000000  | Employment for Information: Satellite Telecommunications (NAICS 51741) in the United States                                           | 1987-01-01          | 2020-01-01        |
-| IPUJN51741W200000000  | Employment for Information: Satellite Telecommunications (NAICS 51741) in the United States                                           | 1987-01-01          | 2020-01-01        |
-| IPUJN51741W201000000  | Employment for Information: Satellite Telecommunications (NAICS 51741) in the United States                                           | 1988-01-01          | 2020-01-01        |
-| IPUJN51791L010000000  | Hours Worked for Information: Other Telecommunications (NAICS 51791) in the United States                                             | 1987-01-01          | 2020-01-01        |
-| IPUJN51791L200000000  | Hours Worked for Information: Other Telecommunications (NAICS 51791) in the United States                                             | 1987-01-01          | 2020-01-01        |
-| IPUJN51791L201000000  | Hours Worked for Information: Other Telecommunications (NAICS 51791) in the United States                                             | 1988-01-01          | 2020-01-01        |
-| IPUJN51791W010000000  | Employment for Information: Other Telecommunications (NAICS 51791) in the United States                                               | 1987-01-01          | 2020-01-01        |
-| IPUJN51791W200000000  | Employment for Information: Other Telecommunications (NAICS 51791) in the United States                                               | 1987-01-01          | 2020-01-01        |
-| IPUJN51791W201000000  | Employment for Information: Other Telecommunications (NAICS 51791) in the United States                                               | 1988-01-01          | 2020-01-01        |
-| IPUJN51821L010000000  | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                       | 1987-01-01          | 2020-01-01        |
-| IPUJN51821L200000000  | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                       | 1987-01-01          | 2020-01-01        |
-| IPUJN51821L201000000  | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                       | 1988-01-01          | 2020-01-01        |
-| IPUJN51821W010000000  | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                         | 1987-01-01          | 2020-01-01        |
-| IPUJN51821W200000000  | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                         | 1987-01-01          | 2020-01-01        |
-| IPUJN51821W201000000  | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                         | 1988-01-01          | 2020-01-01        |
+| IPUJN51731W010000000  | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                         | 1987-01-01          | 2021-01-01        |
+| IPUJN51731W200000000  | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                         | 1987-01-01          | 2021-01-01        |
+| IPUJN51731W201000000  | Employment for Information: Wired and Wireless Telecommunications Carriers (NAICS 51731) in the United States                         | 1988-01-01          | 2021-01-01        |
+| IPUJN51741L010000000  | Hours Worked for Information: Satellite Telecommunications (NAICS 51741) in the United States                                         | 1987-01-01          | 2021-01-01        |
+| IPUJN51741L200000000  | Hours Worked for Information: Satellite Telecommunications (NAICS 51741) in the United States                                         | 1987-01-01          | 2021-01-01        |
+| IPUJN51741L201000000  | Hours Worked for Information: Satellite Telecommunications (NAICS 51741) in the United States                                         | 1988-01-01          | 2021-01-01        |
+| IPUJN51741W010000000  | Employment for Information: Satellite Telecommunications (NAICS 51741) in the United States                                           | 1987-01-01          | 2021-01-01        |
+| IPUJN51741W200000000  | Employment for Information: Satellite Telecommunications (NAICS 51741) in the United States                                           | 1987-01-01          | 2021-01-01        |
+| IPUJN51741W201000000  | Employment for Information: Satellite Telecommunications (NAICS 51741) in the United States                                           | 1988-01-01          | 2021-01-01        |
+| IPUJN51791L010000000  | Hours Worked for Information: Other Telecommunications (NAICS 51791) in the United States                                             | 1987-01-01          | 2021-01-01        |
+| IPUJN51791L200000000  | Hours Worked for Information: Other Telecommunications (NAICS 51791) in the United States                                             | 1987-01-01          | 2021-01-01        |
+| IPUJN51791L201000000  | Hours Worked for Information: Other Telecommunications (NAICS 51791) in the United States                                             | 1988-01-01          | 2021-01-01        |
+| IPUJN51791W010000000  | Employment for Information: Other Telecommunications (NAICS 51791) in the United States                                               | 1987-01-01          | 2021-01-01        |
+| IPUJN51791W200000000  | Employment for Information: Other Telecommunications (NAICS 51791) in the United States                                               | 1987-01-01          | 2021-01-01        |
+| IPUJN51791W201000000  | Employment for Information: Other Telecommunications (NAICS 51791) in the United States                                               | 1988-01-01          | 2021-01-01        |
+| IPUJN51821L010000000  | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                       | 1987-01-01          | 2021-01-01        |
+| IPUJN51821L200000000  | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                       | 1987-01-01          | 2021-01-01        |
+| IPUJN51821L201000000  | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                       | 1988-01-01          | 2021-01-01        |
+| IPUJN51821W010000000  | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                         | 1987-01-01          | 2021-01-01        |
+| IPUJN51821W200000000  | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                         | 1987-01-01          | 2021-01-01        |
+| IPUJN51821W201000000  | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 51821) in the United States                         | 1988-01-01          | 2021-01-01        |
 | IPUJN511110L000000000 | Labor Productivity for Information: Newspaper Publishers (NAICS 511110) in the United States                                          | 1987-01-01          | 2020-01-01        |
 | IPUJN511110L001000000 | Labor Productivity for Information: Newspaper Publishers (NAICS 511110) in the United States                                          | 1988-01-01          | 2020-01-01        |
-| IPUJN511110L010000000 | Hours Worked for Information: Newspaper Publishers (NAICS 511110) in the United States                                                | 1987-01-01          | 2020-01-01        |
+| IPUJN511110L010000000 | Hours Worked for Information: Newspaper Publishers (NAICS 511110) in the United States                                                | 1987-01-01          | 2021-01-01        |
 | IPUJN511110L020000000 | Labor Compensation for Information: Newspaper Publishers (NAICS 511110) in the United States                                          | 1987-01-01          | 2020-01-01        |
 | IPUJN511110L021000000 | Labor Compensation for Information: Newspaper Publishers (NAICS 511110) in the United States                                          | 1988-01-01          | 2020-01-01        |
-| IPUJN511110L200000000 | Hours Worked for Information: Newspaper Publishers (NAICS 511110) in the United States                                                | 1987-01-01          | 2020-01-01        |
-| IPUJN511110L201000000 | Hours Worked for Information: Newspaper Publishers (NAICS 511110) in the United States                                                | 1988-01-01          | 2020-01-01        |
+| IPUJN511110L200000000 | Hours Worked for Information: Newspaper Publishers (NAICS 511110) in the United States                                                | 1987-01-01          | 2021-01-01        |
+| IPUJN511110L201000000 | Hours Worked for Information: Newspaper Publishers (NAICS 511110) in the United States                                                | 1988-01-01          | 2021-01-01        |
 | IPUJN511110T010000000 | Output for Information: Newspaper Publishers (NAICS 511110) in the United States                                                      | 1987-01-01          | 2020-01-01        |
 | IPUJN511110T011000000 | Output for Information: Newspaper Publishers (NAICS 511110) in the United States                                                      | 1988-01-01          | 2020-01-01        |
 | IPUJN511110T050000000 | Implicit Output Deflator for Information: Newspaper Publishers (NAICS 511110) in the United States                                    | 1987-01-01          | 2020-01-01        |
@@ -443,16 +443,16 @@
 | IPUJN511110U121000000 | Hourly Compensation for Information: Newspaper Publishers (NAICS 511110) in the United States                                         | 1988-01-01          | 2020-01-01        |
 | IPUJN511110W000000000 | Output per Employee for Information: Newspaper Publishers (NAICS 511110) in the United States                                         | 1987-01-01          | 2020-01-01        |
 | IPUJN511110W001000000 | Output per Employee for Information: Newspaper Publishers (NAICS 511110) in the United States                                         | 1988-01-01          | 2020-01-01        |
-| IPUJN511110W010000000 | Employment for Information: Newspaper Publishers (NAICS 511110) in the United States                                                  | 1987-01-01          | 2020-01-01        |
-| IPUJN511110W200000000 | Employment for Information: Newspaper Publishers (NAICS 511110) in the United States                                                  | 1987-01-01          | 2020-01-01        |
-| IPUJN511110W201000000 | Employment for Information: Newspaper Publishers (NAICS 511110) in the United States                                                  | 1988-01-01          | 2020-01-01        |
+| IPUJN511110W010000000 | Employment for Information: Newspaper Publishers (NAICS 511110) in the United States                                                  | 1987-01-01          | 2021-01-01        |
+| IPUJN511110W200000000 | Employment for Information: Newspaper Publishers (NAICS 511110) in the United States                                                  | 1987-01-01          | 2021-01-01        |
+| IPUJN511110W201000000 | Employment for Information: Newspaper Publishers (NAICS 511110) in the United States                                                  | 1988-01-01          | 2021-01-01        |
 | IPUJN511120L000000000 | Labor Productivity for Information: Periodical Publishers (NAICS 511120) in the United States                                         | 1987-01-01          | 2020-01-01        |
 | IPUJN511120L001000000 | Labor Productivity for Information: Periodical Publishers (NAICS 511120) in the United States                                         | 1988-01-01          | 2020-01-01        |
-| IPUJN511120L010000000 | Hours Worked for Information: Periodical Publishers (NAICS 511120) in the United States                                               | 1987-01-01          | 2020-01-01        |
+| IPUJN511120L010000000 | Hours Worked for Information: Periodical Publishers (NAICS 511120) in the United States                                               | 1987-01-01          | 2021-01-01        |
 | IPUJN511120L020000000 | Labor Compensation for Information: Periodical Publishers (NAICS 511120) in the United States                                         | 1987-01-01          | 2020-01-01        |
 | IPUJN511120L021000000 | Labor Compensation for Information: Periodical Publishers (NAICS 511120) in the United States                                         | 1988-01-01          | 2020-01-01        |
-| IPUJN511120L200000000 | Hours Worked for Information: Periodical Publishers (NAICS 511120) in the United States                                               | 1987-01-01          | 2020-01-01        |
-| IPUJN511120L201000000 | Hours Worked for Information: Periodical Publishers (NAICS 511120) in the United States                                               | 1988-01-01          | 2020-01-01        |
+| IPUJN511120L200000000 | Hours Worked for Information: Periodical Publishers (NAICS 511120) in the United States                                               | 1987-01-01          | 2021-01-01        |
+| IPUJN511120L201000000 | Hours Worked for Information: Periodical Publishers (NAICS 511120) in the United States                                               | 1988-01-01          | 2021-01-01        |
 | IPUJN511120T010000000 | Output for Information: Periodical Publishers (NAICS 511120) in the United States                                                     | 1987-01-01          | 2020-01-01        |
 | IPUJN511120T011000000 | Output for Information: Periodical Publishers (NAICS 511120) in the United States                                                     | 1988-01-01          | 2020-01-01        |
 | IPUJN511120T050000000 | Implicit Output Deflator for Information: Periodical Publishers (NAICS 511120) in the United States                                   | 1987-01-01          | 2020-01-01        |
@@ -466,16 +466,16 @@
 | IPUJN511120U121000000 | Hourly Compensation for Information: Periodical Publishers (NAICS 511120) in the United States                                        | 1988-01-01          | 2020-01-01        |
 | IPUJN511120W000000000 | Output per Employee for Information: Periodical Publishers (NAICS 511120) in the United States                                        | 1987-01-01          | 2020-01-01        |
 | IPUJN511120W001000000 | Output per Employee for Information: Periodical Publishers (NAICS 511120) in the United States                                        | 1988-01-01          | 2020-01-01        |
-| IPUJN511120W010000000 | Employment for Information: Periodical Publishers (NAICS 511120) in the United States                                                 | 1987-01-01          | 2020-01-01        |
-| IPUJN511120W200000000 | Employment for Information: Periodical Publishers (NAICS 511120) in the United States                                                 | 1987-01-01          | 2020-01-01        |
-| IPUJN511120W201000000 | Employment for Information: Periodical Publishers (NAICS 511120) in the United States                                                 | 1988-01-01          | 2020-01-01        |
+| IPUJN511120W010000000 | Employment for Information: Periodical Publishers (NAICS 511120) in the United States                                                 | 1987-01-01          | 2021-01-01        |
+| IPUJN511120W200000000 | Employment for Information: Periodical Publishers (NAICS 511120) in the United States                                                 | 1987-01-01          | 2021-01-01        |
+| IPUJN511120W201000000 | Employment for Information: Periodical Publishers (NAICS 511120) in the United States                                                 | 1988-01-01          | 2021-01-01        |
 | IPUJN511130L000000000 | Labor Productivity for Information: Book Publishers (NAICS 511130) in the United States                                               | 1987-01-01          | 2020-01-01        |
 | IPUJN511130L001000000 | Labor Productivity for Information: Book Publishers (NAICS 511130) in the United States                                               | 1988-01-01          | 2020-01-01        |
-| IPUJN511130L010000000 | Hours Worked for Information: Book Publishers (NAICS 511130) in the United States                                                     | 1987-01-01          | 2020-01-01        |
+| IPUJN511130L010000000 | Hours Worked for Information: Book Publishers (NAICS 511130) in the United States                                                     | 1987-01-01          | 2021-01-01        |
 | IPUJN511130L020000000 | Labor Compensation for Information: Book Publishers (NAICS 511130) in the United States                                               | 1987-01-01          | 2020-01-01        |
 | IPUJN511130L021000000 | Labor Compensation for Information: Book Publishers (NAICS 511130) in the United States                                               | 1988-01-01          | 2020-01-01        |
-| IPUJN511130L200000000 | Hours Worked for Information: Book Publishers (NAICS 511130) in the United States                                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN511130L201000000 | Hours Worked for Information: Book Publishers (NAICS 511130) in the United States                                                     | 1988-01-01          | 2020-01-01        |
+| IPUJN511130L200000000 | Hours Worked for Information: Book Publishers (NAICS 511130) in the United States                                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN511130L201000000 | Hours Worked for Information: Book Publishers (NAICS 511130) in the United States                                                     | 1988-01-01          | 2021-01-01        |
 | IPUJN511130T010000000 | Output for Information: Book Publishers (NAICS 511130) in the United States                                                           | 1987-01-01          | 2020-01-01        |
 | IPUJN511130T011000000 | Output for Information: Book Publishers (NAICS 511130) in the United States                                                           | 1988-01-01          | 2020-01-01        |
 | IPUJN511130T050000000 | Implicit Output Deflator for Information: Book Publishers (NAICS 511130) in the United States                                         | 1987-01-01          | 2020-01-01        |
@@ -489,16 +489,16 @@
 | IPUJN511130U121000000 | Hourly Compensation for Information: Book Publishers (NAICS 511130) in the United States                                              | 1988-01-01          | 2020-01-01        |
 | IPUJN511130W000000000 | Output per Employee for Information: Book Publishers (NAICS 511130) in the United States                                              | 1987-01-01          | 2020-01-01        |
 | IPUJN511130W001000000 | Output per Employee for Information: Book Publishers (NAICS 511130) in the United States                                              | 1988-01-01          | 2020-01-01        |
-| IPUJN511130W010000000 | Employment for Information: Book Publishers (NAICS 511130) in the United States                                                       | 1987-01-01          | 2020-01-01        |
-| IPUJN511130W200000000 | Employment for Information: Book Publishers (NAICS 511130) in the United States                                                       | 1987-01-01          | 2020-01-01        |
-| IPUJN511130W201000000 | Employment for Information: Book Publishers (NAICS 511130) in the United States                                                       | 1988-01-01          | 2020-01-01        |
+| IPUJN511130W010000000 | Employment for Information: Book Publishers (NAICS 511130) in the United States                                                       | 1987-01-01          | 2021-01-01        |
+| IPUJN511130W200000000 | Employment for Information: Book Publishers (NAICS 511130) in the United States                                                       | 1987-01-01          | 2021-01-01        |
+| IPUJN511130W201000000 | Employment for Information: Book Publishers (NAICS 511130) in the United States                                                       | 1988-01-01          | 2021-01-01        |
 | IPUJN511210L000000000 | Labor Productivity for Information: Software Publishers (NAICS 511210) in the United States                                           | 1987-01-01          | 2020-01-01        |
 | IPUJN511210L001000000 | Labor Productivity for Information: Software Publishers (NAICS 511210) in the United States                                           | 1988-01-01          | 2020-01-01        |
-| IPUJN511210L010000000 | Hours Worked for Information: Software Publishers (NAICS 511210) in the United States                                                 | 1987-01-01          | 2020-01-01        |
+| IPUJN511210L010000000 | Hours Worked for Information: Software Publishers (NAICS 511210) in the United States                                                 | 1987-01-01          | 2021-01-01        |
 | IPUJN511210L020000000 | Labor Compensation for Information: Software Publishers (NAICS 511210) in the United States                                           | 1987-01-01          | 2020-01-01        |
 | IPUJN511210L021000000 | Labor Compensation for Information: Software Publishers (NAICS 511210) in the United States                                           | 1988-01-01          | 2020-01-01        |
-| IPUJN511210L200000000 | Hours Worked for Information: Software Publishers (NAICS 511210) in the United States                                                 | 1987-01-01          | 2020-01-01        |
-| IPUJN511210L201000000 | Hours Worked for Information: Software Publishers (NAICS 511210) in the United States                                                 | 1988-01-01          | 2020-01-01        |
+| IPUJN511210L200000000 | Hours Worked for Information: Software Publishers (NAICS 511210) in the United States                                                 | 1987-01-01          | 2021-01-01        |
+| IPUJN511210L201000000 | Hours Worked for Information: Software Publishers (NAICS 511210) in the United States                                                 | 1988-01-01          | 2021-01-01        |
 | IPUJN511210T010000000 | Output for Information: Software Publishers (NAICS 511210) in the United States                                                       | 1987-01-01          | 2020-01-01        |
 | IPUJN511210T011000000 | Output for Information: Software Publishers (NAICS 511210) in the United States                                                       | 1988-01-01          | 2020-01-01        |
 | IPUJN511210T050000000 | Implicit Output Deflator for Information: Software Publishers (NAICS 511210) in the United States                                     | 1987-01-01          | 2020-01-01        |
@@ -512,16 +512,16 @@
 | IPUJN511210U121000000 | Hourly Compensation for Information: Software Publishers (NAICS 511210) in the United States                                          | 1988-01-01          | 2020-01-01        |
 | IPUJN511210W000000000 | Output per Employee for Information: Software Publishers (NAICS 511210) in the United States                                          | 1987-01-01          | 2020-01-01        |
 | IPUJN511210W001000000 | Output per Employee for Information: Software Publishers (NAICS 511210) in the United States                                          | 1988-01-01          | 2020-01-01        |
-| IPUJN511210W010000000 | Employment for Information: Software Publishers (NAICS 511210) in the United States                                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN511210W200000000 | Employment for Information: Software Publishers (NAICS 511210) in the United States                                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN511210W201000000 | Employment for Information: Software Publishers (NAICS 511210) in the United States                                                   | 1988-01-01          | 2020-01-01        |
+| IPUJN511210W010000000 | Employment for Information: Software Publishers (NAICS 511210) in the United States                                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN511210W200000000 | Employment for Information: Software Publishers (NAICS 511210) in the United States                                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN511210W201000000 | Employment for Information: Software Publishers (NAICS 511210) in the United States                                                   | 1988-01-01          | 2021-01-01        |
 | IPUJN515210L000000000 | Labor Productivity for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                      | 1987-01-01          | 2020-01-01        |
 | IPUJN515210L001000000 | Labor Productivity for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                      | 1988-01-01          | 2020-01-01        |
-| IPUJN515210L010000000 | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                            | 1987-01-01          | 2020-01-01        |
+| IPUJN515210L010000000 | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                            | 1987-01-01          | 2021-01-01        |
 | IPUJN515210L020000000 | Labor Compensation for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                      | 1987-01-01          | 2020-01-01        |
 | IPUJN515210L021000000 | Labor Compensation for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                      | 1988-01-01          | 2020-01-01        |
-| IPUJN515210L200000000 | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                            | 1987-01-01          | 2020-01-01        |
-| IPUJN515210L201000000 | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                            | 1988-01-01          | 2020-01-01        |
+| IPUJN515210L200000000 | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                            | 1987-01-01          | 2021-01-01        |
+| IPUJN515210L201000000 | Hours Worked for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                            | 1988-01-01          | 2021-01-01        |
 | IPUJN515210T010000000 | Output for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                                  | 1987-01-01          | 2020-01-01        |
 | IPUJN515210T011000000 | Output for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                                  | 1988-01-01          | 2020-01-01        |
 | IPUJN515210T050000000 | Implicit Output Deflator for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                | 1987-01-01          | 2020-01-01        |
@@ -535,16 +535,16 @@
 | IPUJN515210U121000000 | Hourly Compensation for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                     | 1988-01-01          | 2020-01-01        |
 | IPUJN515210W000000000 | Output per Employee for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                     | 1987-01-01          | 2020-01-01        |
 | IPUJN515210W001000000 | Output per Employee for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                     | 1988-01-01          | 2020-01-01        |
-| IPUJN515210W010000000 | Employment for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                              | 1987-01-01          | 2020-01-01        |
-| IPUJN515210W200000000 | Employment for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                              | 1987-01-01          | 2020-01-01        |
-| IPUJN515210W201000000 | Employment for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                              | 1988-01-01          | 2020-01-01        |
+| IPUJN515210W010000000 | Employment for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                              | 1987-01-01          | 2021-01-01        |
+| IPUJN515210W200000000 | Employment for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                              | 1987-01-01          | 2021-01-01        |
+| IPUJN515210W201000000 | Employment for Information: Cable and Other Subscription Programming (NAICS 515210) in the United States                              | 1988-01-01          | 2021-01-01        |
 | IPUJN517311L000000000 | Labor Productivity for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                             | 1987-01-01          | 2020-01-01        |
 | IPUJN517311L001000000 | Labor Productivity for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                             | 1988-01-01          | 2020-01-01        |
-| IPUJN517311L010000000 | Hours Worked for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                   | 1987-01-01          | 2020-01-01        |
+| IPUJN517311L010000000 | Hours Worked for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                   | 1987-01-01          | 2021-01-01        |
 | IPUJN517311L020000000 | Labor Compensation for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                             | 1987-01-01          | 2020-01-01        |
 | IPUJN517311L021000000 | Labor Compensation for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                             | 1988-01-01          | 2020-01-01        |
-| IPUJN517311L200000000 | Hours Worked for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                   | 1987-01-01          | 2020-01-01        |
-| IPUJN517311L201000000 | Hours Worked for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                   | 1988-01-01          | 2020-01-01        |
+| IPUJN517311L200000000 | Hours Worked for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                   | 1987-01-01          | 2021-01-01        |
+| IPUJN517311L201000000 | Hours Worked for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                   | 1988-01-01          | 2021-01-01        |
 | IPUJN517311T010000000 | Output for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                         | 1987-01-01          | 2020-01-01        |
 | IPUJN517311T011000000 | Output for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                         | 1988-01-01          | 2020-01-01        |
 | IPUJN517311T050000000 | Implicit Output Deflator for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                       | 1987-01-01          | 2020-01-01        |
@@ -558,16 +558,16 @@
 | IPUJN517311U121000000 | Hourly Compensation for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                            | 1988-01-01          | 2020-01-01        |
 | IPUJN517311W000000000 | Output per Employee for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                            | 1987-01-01          | 2020-01-01        |
 | IPUJN517311W001000000 | Output per Employee for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                            | 1988-01-01          | 2020-01-01        |
-| IPUJN517311W010000000 | Employment for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN517311W200000000 | Employment for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                     | 1987-01-01          | 2020-01-01        |
-| IPUJN517311W201000000 | Employment for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                     | 1988-01-01          | 2020-01-01        |
+| IPUJN517311W010000000 | Employment for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN517311W200000000 | Employment for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                     | 1987-01-01          | 2021-01-01        |
+| IPUJN517311W201000000 | Employment for Information: Wired Telecommunications Carriers (NAICS 517311) in the United States                                     | 1988-01-01          | 2021-01-01        |
 | IPUJN517312L000000000 | Labor Productivity for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States       | 1987-01-01          | 2020-01-01        |
 | IPUJN517312L001000000 | Labor Productivity for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States       | 1988-01-01          | 2020-01-01        |
-| IPUJN517312L010000000 | Hours Worked for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States             | 1987-01-01          | 2020-01-01        |
+| IPUJN517312L010000000 | Hours Worked for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States             | 1987-01-01          | 2021-01-01        |
 | IPUJN517312L020000000 | Labor Compensation for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States       | 1987-01-01          | 2020-01-01        |
 | IPUJN517312L021000000 | Labor Compensation for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States       | 1988-01-01          | 2020-01-01        |
-| IPUJN517312L200000000 | Hours Worked for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States             | 1987-01-01          | 2020-01-01        |
-| IPUJN517312L201000000 | Hours Worked for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States             | 1988-01-01          | 2020-01-01        |
+| IPUJN517312L200000000 | Hours Worked for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States             | 1987-01-01          | 2021-01-01        |
+| IPUJN517312L201000000 | Hours Worked for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States             | 1988-01-01          | 2021-01-01        |
 | IPUJN517312T010000000 | Output for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States                   | 1987-01-01          | 2020-01-01        |
 | IPUJN517312T011000000 | Output for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States                   | 1988-01-01          | 2020-01-01        |
 | IPUJN517312T050000000 | Implicit Output Deflator for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States | 1987-01-01          | 2020-01-01        |
@@ -581,18 +581,18 @@
 | IPUJN517312U121000000 | Hourly Compensation for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States      | 1988-01-01          | 2020-01-01        |
 | IPUJN517312W000000000 | Output per Employee for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States      | 1987-01-01          | 2020-01-01        |
 | IPUJN517312W001000000 | Output per Employee for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States      | 1988-01-01          | 2020-01-01        |
-| IPUJN517312W010000000 | Employment for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States               | 1987-01-01          | 2020-01-01        |
-| IPUJN517312W200000000 | Employment for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States               | 1987-01-01          | 2020-01-01        |
-| IPUJN517312W201000000 | Employment for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States               | 1988-01-01          | 2020-01-01        |
-| IPUJN517410L010000000 | Hours Worked for Information: Satellite Telecommunications (NAICS 517410) in the United States                                        | 1987-01-01          | 2020-01-01        |
-| IPUJN517410L200000000 | Hours Worked for Information: Satellite Telecommunications (NAICS 517410) in the United States                                        | 1987-01-01          | 2020-01-01        |
-| IPUJN517410L201000000 | Hours Worked for Information: Satellite Telecommunications (NAICS 517410) in the United States                                        | 1988-01-01          | 2020-01-01        |
-| IPUJN517410W010000000 | Employment for Information: Satellite Telecommunications (NAICS 517410) in the United States                                          | 1987-01-01          | 2020-01-01        |
-| IPUJN517410W200000000 | Employment for Information: Satellite Telecommunications (NAICS 517410) in the United States                                          | 1987-01-01          | 2020-01-01        |
-| IPUJN517410W201000000 | Employment for Information: Satellite Telecommunications (NAICS 517410) in the United States                                          | 1988-01-01          | 2020-01-01        |
-| IPUJN518210L010000000 | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                      | 1987-01-01          | 2020-01-01        |
-| IPUJN518210L200000000 | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                      | 1987-01-01          | 2020-01-01        |
-| IPUJN518210L201000000 | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                      | 1988-01-01          | 2020-01-01        |
-| IPUJN518210W010000000 | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                        | 1987-01-01          | 2020-01-01        |
-| IPUJN518210W200000000 | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                        | 1987-01-01          | 2020-01-01        |
-| IPUJN518210W201000000 | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                        | 1988-01-01          | 2020-01-01        |
+| IPUJN517312W010000000 | Employment for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States               | 1987-01-01          | 2021-01-01        |
+| IPUJN517312W200000000 | Employment for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States               | 1987-01-01          | 2021-01-01        |
+| IPUJN517312W201000000 | Employment for Information: Wireless Telecommunications Carriers (Except Satellite) (NAICS 517312) in the United States               | 1988-01-01          | 2021-01-01        |
+| IPUJN517410L010000000 | Hours Worked for Information: Satellite Telecommunications (NAICS 517410) in the United States                                        | 1987-01-01          | 2021-01-01        |
+| IPUJN517410L200000000 | Hours Worked for Information: Satellite Telecommunications (NAICS 517410) in the United States                                        | 1987-01-01          | 2021-01-01        |
+| IPUJN517410L201000000 | Hours Worked for Information: Satellite Telecommunications (NAICS 517410) in the United States                                        | 1988-01-01          | 2021-01-01        |
+| IPUJN517410W010000000 | Employment for Information: Satellite Telecommunications (NAICS 517410) in the United States                                          | 1987-01-01          | 2021-01-01        |
+| IPUJN517410W200000000 | Employment for Information: Satellite Telecommunications (NAICS 517410) in the United States                                          | 1987-01-01          | 2021-01-01        |
+| IPUJN517410W201000000 | Employment for Information: Satellite Telecommunications (NAICS 517410) in the United States                                          | 1988-01-01          | 2021-01-01        |
+| IPUJN518210L010000000 | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                      | 1987-01-01          | 2021-01-01        |
+| IPUJN518210L200000000 | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                      | 1987-01-01          | 2021-01-01        |
+| IPUJN518210L201000000 | Hours Worked for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                      | 1988-01-01          | 2021-01-01        |
+| IPUJN518210W010000000 | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                        | 1987-01-01          | 2021-01-01        |
+| IPUJN518210W200000000 | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                        | 1987-01-01          | 2021-01-01        |
+| IPUJN518210W201000000 | Employment for Information: Data Processing, Hosting, and Related Services (NAICS 518210) in the United States                        | 1988-01-01          | 2021-01-01        |

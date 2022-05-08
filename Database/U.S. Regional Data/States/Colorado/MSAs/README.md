@@ -6,5 +6,5 @@
 | Colorado Springs, CO       |               211 |
 | Denver-Aurora-Lakewood, CO |               314 |
 | Boulder, CO                |               176 |
-| Pueblo, CO                 |               167 |
+| Pueblo, CO                 |                 0 |
 | Fort Collins, CO           |               177 |

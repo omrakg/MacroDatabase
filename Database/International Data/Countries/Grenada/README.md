@@ -47,10 +47,10 @@
 | DDSI04GDA156NWDB  | Bank Credit to Bank Deposits for Grenada                                                                                                     | 1970-01-01          | 2019-01-01        |
 | DDSI06GDA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Grenada                                                                                 | 1996-01-01          | 2016-01-01        |
 | DEGRDA475SCEN     | Number of Identified Exporters to Grenada from Delaware                                                                                      | 2004-01-01          | 2014-01-01        |
-| EXP2489           | U.S. Exports of Goods by F.A.S. Basis to Grenada                                                                                             | 1992-01-01          | 2022-02-01        |
+| EXP2489           | U.S. Exports of Goods by F.A.S. Basis to Grenada                                                                                             | 1992-01-01          | 2022-03-01        |
 | FLGRDA052SCEN     | Value of Exports to Grenada from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLGRDA475SCEN     | Number of Identified Exporters to Grenada from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
-| FPCPITOTLZGGRD    | Inflation, consumer prices for Grenada                                                                                                       | 1977-01-01          | 2020-01-01        |
+| FPCPITOTLZGGRD    | Inflation, consumer prices for Grenada                                                                                                       | 1977-01-01          | 2021-01-01        |
 | GAGRDA052SCEN     | Value of Exports to Grenada from Georgia                                                                                                     | 1992-01-01          | 2017-01-01        |
 | GAGRDA475SCEN     | Number of Identified Exporters to Grenada from Georgia                                                                                       | 1992-01-01          | 2017-01-01        |
 | GRDBCAGDPBP6      | Balance of Payments for Grenada                                                                                                              | 2014-01-01          | 2027-01-01        |
@@ -105,10 +105,10 @@
 | IDSGAMRINIGD      | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Grenada         | 2002-07-01          | 2012-04-01        |
 | ILGRDA052SCEN     | Value of Exports to Grenada from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILGRDA475SCEN     | Number of Identified Exporters to Grenada from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP2489           | U.S. Imports of Goods by Customs Basis from Grenada                                                                                          | 1992-01-01          | 2022-02-01        |
+| IMP2489           | U.S. Imports of Goods by Customs Basis from Grenada                                                                                          | 1992-01-01          | 2022-03-01        |
 | INGRDA052SCEN     | Value of Exports to Grenada from Indiana                                                                                                     | 1992-01-01          | 2017-01-01        |
 | INGRDA475SCEN     | Number of Identified Exporters to Grenada from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2GRD    | Internet users for Grenada                                                                                                                   | 1960-01-01          | 2017-01-01        |
+| ITNETUSERP2GRD    | Internet users for Grenada                                                                                                                   | 1960-01-01          | 2020-01-01        |
 | KSGRDA052SCEN     | Value of Exports to Grenada from Kansas                                                                                                      | 2002-01-01          | 2017-01-01        |
 | KSGRDA475SCEN     | Number of Identified Exporters to Grenada from Kansas                                                                                        | 2002-01-01          | 2017-01-01        |
 | KYGRDA052SCEN     | Value of Exports to Grenada from Kentucky                                                                                                    | 1992-01-01          | 2017-01-01        |
@@ -170,8 +170,8 @@
 | SEADTLITRZSGRD    | Literacy Rate, Adult Total for Grenada                                                                                                       | 1970-01-01          | 2014-01-01        |
 | SMPOPNETMGRD      | Net migration for Grenada                                                                                                                    | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINGRD    | Infant Mortality Rate for Grenada                                                                                                            | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INGRD    | Life Expectancy at Birth, Total for Grenada                                                                                                  | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINGRD    | Fertility Rate, Total for Grenada                                                                                                            | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INGRD    | Life Expectancy at Birth, Total for Grenada                                                                                                  | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINGRD    | Fertility Rate, Total for Grenada                                                                                                            | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSGRD  | Population ages 65 and above for Grenada                                                                                                     | 1960-01-01          | 2020-01-01        |
 | TNGRDA052SCEN     | Value of Exports to Grenada from Tennessee                                                                                                   | 1997-01-01          | 2017-01-01        |
 | TNGRDA475SCEN     | Number of Identified Exporters to Grenada from Tennessee                                                                                     | 1992-01-01          | 2017-01-01        |

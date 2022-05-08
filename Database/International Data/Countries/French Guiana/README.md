@@ -10,7 +10,7 @@
 | COGUFA475SCEN | Number of Identified Exporters to French Guiana from Colorado             | 1997-01-01          | 2016-01-01        |
 | CTGUFA475SCEN | Number of Identified Exporters to French Guiana from Connecticut          | 2004-01-01          | 2016-01-01        |
 | DCGUFA475SCEN | Number of Identified Exporters to French Guiana from District of Columbia | 1992-01-01          | 2011-01-01        |
-| EXP3170       | U.S. Exports of Goods by F.A.S. Basis to French Guiana                    | 1992-01-01          | 2022-02-01        |
+| EXP3170       | U.S. Exports of Goods by F.A.S. Basis to French Guiana                    | 1992-01-01          | 2022-03-01        |
 | FLGUFA052SCEN | Value of Exports to French Guiana from Florida                            | 1992-01-01          | 2016-01-01        |
 | FLGUFA475SCEN | Number of Identified Exporters to French Guiana from Florida              | 1992-01-01          | 2017-01-01        |
 | GAGUFA052SCEN | Value of Exports to French Guiana from Georgia                            | 1997-01-01          | 2017-01-01        |
@@ -19,7 +19,7 @@
 | IDGUFA475SCEN | Number of Identified Exporters to French Guiana from Idaho                | 1997-01-01          | 2016-01-01        |
 | ILGUFA052SCEN | Value of Exports to French Guiana from Illinois                           | 2006-01-01          | 2016-01-01        |
 | ILGUFA475SCEN | Number of Identified Exporters to French Guiana from Illinois             | 1992-01-01          | 2017-01-01        |
-| IMP3170       | U.S. Imports of Goods by Customs Basis from French Guiana                 | 1992-01-01          | 2022-02-01        |
+| IMP3170       | U.S. Imports of Goods by Customs Basis from French Guiana                 | 1992-01-01          | 2022-03-01        |
 | INGUFA052SCEN | Value of Exports to French Guiana from Indiana                            | 2012-01-01          | 2017-01-01        |
 | INGUFA475SCEN | Number of Identified Exporters to French Guiana from Indiana              | 1997-01-01          | 2017-01-01        |
 | KSGUFA475SCEN | Number of Identified Exporters to French Guiana from Kansas               | 1992-01-01          | 2015-01-01        |

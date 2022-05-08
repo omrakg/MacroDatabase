@@ -14,7 +14,7 @@
 | Crane County, TX         |                88 |
 | Van Zandt County, TX     |                90 |
 | Hopkins County, TX       |                90 |
-| Zapata County, TX        |                87 |
+| Zapata County, TX        |                 0 |
 | Grimes County, TX        |                89 |
 | Frio County, TX          |                88 |
 | Karnes County, TX        |                89 |
@@ -59,7 +59,7 @@
 | Cochran County, TX       |                87 |
 | Deaf Smith County, TX    |                89 |
 | Victoria County, TX      |               147 |
-| Bowie County, TX         |                 0 |
+| Bowie County, TX         |               147 |
 | Dallam County, TX        |                89 |
 | Ward County, TX          |                89 |
 | Jasper County, TX        |                90 |
@@ -74,7 +74,7 @@
 | Lampasas County, TX      |                90 |
 | Scurry County, TX        |                89 |
 | Coleman County, TX       |                89 |
-| Nolan County, TX         |                89 |
+| Nolan County, TX         |                 0 |
 | Tom Green County, TX     |               147 |
 | Kenedy County, TX        |                83 |
 | Dallas County, TX        |               147 |
@@ -119,7 +119,7 @@
 | Trinity County, TX       |                88 |
 | Caldwell County, TX      |                90 |
 | Gillespie County, TX     |                90 |
-| Waller County, TX        |                 0 |
+| Waller County, TX        |                90 |
 | Hamilton County, TX      |                88 |
 | Hays County, TX          |               147 |
 | Anderson County, TX      |                90 |
@@ -134,7 +134,7 @@
 | Collingsworth County, TX |                88 |
 | McMullen County, TX      |                85 |
 | Wharton County, TX       |                90 |
-| Madison County, TX       |                89 |
+| Madison County, TX       |                 0 |
 | Montgomery County, TX    |               147 |
 | Panola County, TX        |                90 |
 | Ochiltree County, TX     |                90 |
@@ -213,7 +213,7 @@
 | Gaines County, TX        |                88 |
 | Fisher County, TX        |                86 |
 | Hood County, TX          |               146 |
-| Brown County, TX         |                 0 |
+| Brown County, TX         |                90 |
 | Falls County, TX         |                89 |
 | Hill County, TX          |                90 |
 | Kleberg County, TX       |                89 |
@@ -229,7 +229,7 @@
 | Parmer County, TX        |                89 |
 | Fayette County, TX       |                90 |
 | Dickens County, TX       |                86 |
-| Hardeman County, TX      |                89 |
+| Hardeman County, TX      |                 0 |
 | Webb County, TX          |               147 |
 | Rockwall County, TX      |               147 |
 | Comal County, TX         |               147 |

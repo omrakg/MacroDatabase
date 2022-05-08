@@ -34,7 +34,7 @@
 | Crowley County, CO           |                88 |
 | Alamosa County, CO           |                90 |
 | Yuma County, CO              |                89 |
-| Hinsdale County, CO          |                 0 |
+| Hinsdale County, CO          |                85 |
 | Rio Blanco County, CO        |                89 |
 | Kit Carson County, CO        |                89 |
 | Conejos County, CO           |                88 |
@@ -59,7 +59,7 @@
 | Larimer County, CO           |               147 |
 | Douglas County, CO           |               147 |
 | Lake County, CO              |                90 |
-| Phillips County, CO          |                89 |
+| Phillips County, CO          |                 0 |
 | Denver County, CO            |               146 |
 | Jackson County, CO           |                86 |
 | El Paso County, CO           |               147 |

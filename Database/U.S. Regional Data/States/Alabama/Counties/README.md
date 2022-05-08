@@ -3,7 +3,7 @@
 | Hale County, AL       |                90 |
 | Jackson County, AL    |               143 |
 | Perry County, AL      |                89 |
-| Cherokee County, AL   |                 0 |
+| Cherokee County, AL   |                90 |
 | Madison County, AL    |               147 |
 | Lawrence County, AL   |                89 |
 | Morgan County, AL     |               146 |
@@ -19,7 +19,7 @@
 | Bibb County, AL       |                90 |
 | Geneva County, AL     |                90 |
 | Clarke County, AL     |                89 |
-| Coosa County, AL      |                89 |
+| Coosa County, AL      |                 0 |
 | Elmore County, AL     |               147 |
 | Clay County, AL       |                88 |
 | Tuscaloosa County, AL |               147 |

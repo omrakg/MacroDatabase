@@ -13,7 +13,7 @@
 | Clark County, IL       |                90 |
 | Union County, IL       |                89 |
 | Bureau County, IL      |                90 |
-| Richland County, IL    |                 0 |
+| Richland County, IL    |                89 |
 | Monroe County, IL      |                89 |
 | Iroquois County, IL    |                89 |
 | Cass County, IL        |                90 |
@@ -56,7 +56,7 @@
 | Bond County, IL        |                90 |
 | Brown County, IL       |                88 |
 | Lee County, IL         |                90 |
-| Boone County, IL       |                90 |
+| Boone County, IL       |                 0 |
 | McDonough County, IL   |                90 |
 | McHenry County, IL     |               147 |
 | Perry County, IL       |                90 |
@@ -84,7 +84,7 @@
 | Rock Island County, IL |               147 |
 | Ogle County, IL        |               146 |
 | Franklin County, IL    |                90 |
-| Washington County, IL  |                 0 |
+| Washington County, IL  |                89 |
 | Warren County, IL      |                90 |
 | Pulaski County, IL     |                88 |
 | Kane County, IL        |               147 |

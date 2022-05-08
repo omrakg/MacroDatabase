@@ -15,7 +15,7 @@
 | Crook County, OR      |                90 |
 | Josephine County, OR  |               147 |
 | Coos County, OR       |               146 |
-| Jackson County, OR    |               147 |
+| Jackson County, OR    |                 0 |
 | Curry County, OR      |                90 |
 | Lake County, OR       |                89 |
 | Tillamook County, OR  |                90 |

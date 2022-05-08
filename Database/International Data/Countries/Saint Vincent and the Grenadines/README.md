@@ -47,7 +47,7 @@
 | DEBTTLVCA188A     | Central government debt, total (% of GDP) for St. Vincent and the Grenadines                                                                   | 1990-01-01          | 2014-01-01        |
 | DEVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Delaware                                                                             | 2002-01-01          | 2013-01-01        |
 | DEVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Delaware                                                               | 2002-01-01          | 2016-01-01        |
-| EXP2488           | U.S. Exports of Goods by F.A.S. Basis to Saint Vincent and the Grenadines                                                                      | 1992-01-01          | 2022-02-01        |
+| EXP2488           | U.S. Exports of Goods by F.A.S. Basis to Saint Vincent and the Grenadines                                                                      | 1992-01-01          | 2022-03-01        |
 | FLVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Florida                                                                              | 1992-01-01          | 2016-01-01        |
 | FLVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Florida                                                                | 1992-01-01          | 2016-01-01        |
 | FPCPITOTLZGVCT    | Inflation, consumer prices for Saint Vincent and the Grenadines                                                                                | 1975-01-01          | 2020-01-01        |
@@ -60,10 +60,10 @@
 | IDVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Idaho                                                                  | 1997-01-01          | 2014-01-01        |
 | ILVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Illinois                                                                             | 2004-01-01          | 2016-01-01        |
 | ILVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Illinois                                                               | 1992-01-01          | 2016-01-01        |
-| IMP2488           | U.S. Imports of Goods by Customs Basis from Saint Vincent and the Grenadines                                                                   | 1992-01-01          | 2022-02-01        |
+| IMP2488           | U.S. Imports of Goods by Customs Basis from Saint Vincent and the Grenadines                                                                   | 1992-01-01          | 2022-03-01        |
 | INVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Indiana                                                                              | 1992-01-01          | 2016-01-01        |
 | INVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Indiana                                                                | 1992-01-01          | 2016-01-01        |
-| ITNETUSERP2VCT    | Internet users for Saint Vincent and the Grenadines                                                                                            | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2VCT    | Internet users for Saint Vincent and the Grenadines                                                                                            | 1990-01-01          | 2018-01-01        |
 | KSVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Kansas                                                                               | 2002-01-01          | 2015-01-01        |
 | KSVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Kansas                                                                 | 1992-01-01          | 2016-01-01        |
 | KYVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Kentucky                                                                             | 1997-01-01          | 2016-01-01        |
@@ -122,8 +122,8 @@
 | SDVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from South Dakota                                                           | 1997-01-01          | 2014-01-01        |
 | SMPOPNETMVCT      | Net migration for Saint Vincent and the Grenadines                                                                                             | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINVCT    | Infant Mortality Rate for Saint Vincent and the Grenadines                                                                                     | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INVCT    | Life Expectancy at Birth, Total for Saint Vincent and the Grenadines                                                                           | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINVCT    | Fertility Rate, Total for Saint Vincent and the Grenadines                                                                                     | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INVCT    | Life Expectancy at Birth, Total for Saint Vincent and the Grenadines                                                                           | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINVCT    | Fertility Rate, Total for Saint Vincent and the Grenadines                                                                                     | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSVCT  | Population ages 65 and above for Saint Vincent and the Grenadines                                                                              | 1960-01-01          | 2020-01-01        |
 | SVGFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for St. Vincent and the Grenadines                                               | 2004-01-01          | 2020-01-01        |
 | SVGFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for St. Vincent and the Grenadines                             | 2004-01-01          | 2020-01-01        |

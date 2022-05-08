@@ -1,6 +1,6 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Carroll County, NH      |                 0 |
+| Carroll County, NH      |                90 |
 | Grafton County, NH      |               146 |
 | Rockingham County, NH   |               147 |
 | Cheshire County, NH     |               147 |

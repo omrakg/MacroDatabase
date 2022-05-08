@@ -40,9 +40,9 @@
 | Cocke County, TN      |                90 |
 | Hawkins County, TN    |               145 |
 | Houston County, TN    |                89 |
-| Weakley County, TN    |                 0 |
+| Weakley County, TN    |                90 |
 | Henry County, TN      |                89 |
-| Stewart County, TN    |                90 |
+| Stewart County, TN    |                 0 |
 | Marshall County, TN   |                90 |
 | Meigs County, TN      |                89 |
 | Rutherford County, TN |               147 |

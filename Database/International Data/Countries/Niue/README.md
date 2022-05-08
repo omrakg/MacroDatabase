@@ -6,13 +6,13 @@
 | CANIUA475SCEN | Number of Identified Exporters to Niue from California     | 2002-01-01          | 2011-01-01        |
 | CONIUA475SCEN | Number of Identified Exporters to Niue from Colorado       | 2010-01-01          | 2010-01-01        |
 | CTNIUA475SCEN | Number of Identified Exporters to Niue from Connecticut    | 2007-01-01          | 2007-01-01        |
-| EXP6144       | U.S. Exports of Goods by F.A.S. Basis to Niue              | 1992-01-01          | 2022-02-01        |
+| EXP6144       | U.S. Exports of Goods by F.A.S. Basis to Niue              | 1992-01-01          | 2022-03-01        |
 | FLNIUA475SCEN | Number of Identified Exporters to Niue from Florida        | 2010-01-01          | 2015-01-01        |
 | GANIUA475SCEN | Number of Identified Exporters to Niue from Georgia        | 2007-01-01          | 2007-01-01        |
 | HINIUA475SCEN | Number of Identified Exporters to Niue from Hawaii         | 2004-01-01          | 2004-01-01        |
 | ILNIUA052SCEN | Value of Exports to Niue from Illinois                     | 2006-01-01          | 2006-01-01        |
 | ILNIUA475SCEN | Number of Identified Exporters to Niue from Illinois       | 2004-01-01          | 2015-01-01        |
-| IMP6144       | U.S. Imports of Goods by Customs Basis from Niue           | 1992-01-01          | 2022-02-01        |
+| IMP6144       | U.S. Imports of Goods by Customs Basis from Niue           | 1992-01-01          | 2022-03-01        |
 | INNIUA475SCEN | Number of Identified Exporters to Niue from Indiana        | 2004-01-01          | 2005-01-01        |
 | LANIUA475SCEN | Number of Identified Exporters to Niue from Louisiana      | 2003-01-01          | 2007-01-01        |
 | MANIUA475SCEN | Number of Identified Exporters to Niue from Massachusetts  | 1997-01-01          | 2003-01-01        |

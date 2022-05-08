@@ -80,10 +80,10 @@
 | DEBTTLTNA188A       | Central government debt, total (% of GDP) for Tunisia                                                                                        | 1990-01-01          | 2012-01-01        |
 | DETUNA052SCEN       | Value of Exports to Tunisia from Delaware                                                                                                    | 2003-01-01          | 2017-01-01        |
 | DETUNA475SCEN       | Number of Identified Exporters to Tunisia from Delaware                                                                                      | 2002-01-01          | 2017-01-01        |
-| EXP7230             | U.S. Exports of Goods by F.A.S. Basis to Tunisia                                                                                             | 1992-01-01          | 2022-02-01        |
+| EXP7230             | U.S. Exports of Goods by F.A.S. Basis to Tunisia                                                                                             | 1992-01-01          | 2022-03-01        |
 | FLTUNA052SCEN       | Value of Exports to Tunisia from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLTUNA475SCEN       | Number of Identified Exporters to Tunisia from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
-| FPCPITOTLZGTUN      | Inflation, consumer prices for Tunisia                                                                                                       | 1984-01-01          | 2020-01-01        |
+| FPCPITOTLZGTUN      | Inflation, consumer prices for Tunisia                                                                                                       | 1984-01-01          | 2021-01-01        |
 | GATUNA052SCEN       | Value of Exports to Tunisia from Georgia                                                                                                     | 1992-01-01          | 2017-01-01        |
 | GATUNA475SCEN       | Number of Identified Exporters to Tunisia from Georgia                                                                                       | 1992-01-01          | 2017-01-01        |
 | HITUNA475SCEN       | Number of Identified Exporters to Tunisia from Hawaii                                                                                        | 2009-01-01          | 2009-01-01        |
@@ -102,10 +102,10 @@
 | IDTUNA475SCEN       | Number of Identified Exporters to Tunisia from Idaho                                                                                         | 2006-01-01          | 2016-01-01        |
 | ILTUNA052SCEN       | Value of Exports to Tunisia from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILTUNA475SCEN       | Number of Identified Exporters to Tunisia from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP7230             | U.S. Imports of Goods by Customs Basis from Tunisia                                                                                          | 1992-01-01          | 2022-02-01        |
+| IMP7230             | U.S. Imports of Goods by Customs Basis from Tunisia                                                                                          | 1992-01-01          | 2022-03-01        |
 | INTUNA052SCEN       | Value of Exports to Tunisia from Indiana                                                                                                     | 1997-01-01          | 2016-01-01        |
 | INTUNA475SCEN       | Number of Identified Exporters to Tunisia from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2TUN      | Internet users for Tunisia                                                                                                                   | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2TUN      | Internet users for Tunisia                                                                                                                   | 1990-01-01          | 2020-01-01        |
 | KSTUNA052SCEN       | Value of Exports to Tunisia from Kansas                                                                                                      | 1992-01-01          | 2017-01-01        |
 | KSTUNA475SCEN       | Number of Identified Exporters to Tunisia from Kansas                                                                                        | 1992-01-01          | 2017-01-01        |
 | KYTUNA052SCEN       | Value of Exports to Tunisia from Kentucky                                                                                                    | 2002-01-01          | 2017-01-01        |
@@ -168,8 +168,8 @@
 | SEADTLITRZSTUN      | Literacy Rate, Adult Total for Tunisia                                                                                                       | 1984-01-01          | 2014-01-01        |
 | SMPOPNETMTUN        | Net migration for Tunisia                                                                                                                    | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINTUN      | Infant Mortality Rate for Tunisia                                                                                                            | 1962-01-01          | 2020-01-01        |
-| SPDYNLE00INTUN      | Life Expectancy at Birth, Total for Tunisia                                                                                                  | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINTUN      | Fertility Rate, Total for Tunisia                                                                                                            | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INTUN      | Life Expectancy at Birth, Total for Tunisia                                                                                                  | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINTUN      | Fertility Rate, Total for Tunisia                                                                                                            | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSTUN    | Population ages 65 and above for Tunisia                                                                                                     | 1960-01-01          | 2020-01-01        |
 | TNTUNA052SCEN       | Value of Exports to Tunisia from Tennessee                                                                                                   | 1992-01-01          | 2016-01-01        |
 | TNTUNA475SCEN       | Number of Identified Exporters to Tunisia from Tennessee                                                                                     | 1992-01-01          | 2017-01-01        |

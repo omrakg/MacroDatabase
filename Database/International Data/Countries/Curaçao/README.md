@@ -18,7 +18,7 @@
 | DCCUWA475SCEN     | Number of Identified Exporters to Curacao from District of Columbia                                                 | 2011-01-01          | 2016-01-01        |
 | DECUWA052SCEN     | Value of Exports to Curacao from Delaware                                                                           | 2011-01-01          | 2017-01-01        |
 | DECUWA475SCEN     | Number of Identified Exporters to Curacao from Delaware                                                             | 2011-01-01          | 2017-01-01        |
-| EXP2777           | U.S. Exports of Goods by F.A.S. Basis to Curacao                                                                    | 2011-01-01          | 2022-02-01        |
+| EXP2777           | U.S. Exports of Goods by F.A.S. Basis to Curacao                                                                    | 2011-01-01          | 2022-03-01        |
 | FLCUWA052SCEN     | Value of Exports to Curacao from Florida                                                                            | 2011-01-01          | 2017-01-01        |
 | FLCUWA475SCEN     | Number of Identified Exporters to Curacao from Florida                                                              | 2011-01-01          | 2017-01-01        |
 | FPCPITOTLZGCUW    | Inflation, consumer prices for Curacao                                                                              | 2001-01-01          | 2019-01-01        |
@@ -32,7 +32,7 @@
 | IDSAMRINICW       | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Curacao         | 2005-04-01          | 2021-10-01        |
 | ILCUWA052SCEN     | Value of Exports to Curacao from Illinois                                                                           | 2011-01-01          | 2017-01-01        |
 | ILCUWA475SCEN     | Number of Identified Exporters to Curacao from Illinois                                                             | 2011-01-01          | 2017-01-01        |
-| IMP2777           | U.S. Imports of Goods by Customs Basis from Curacao                                                                 | 2011-01-01          | 2022-02-01        |
+| IMP2777           | U.S. Imports of Goods by Customs Basis from Curacao                                                                 | 2011-01-01          | 2022-03-01        |
 | INCUWA052SCEN     | Value of Exports to Curacao from Indiana                                                                            | 2011-01-01          | 2017-01-01        |
 | INCUWA475SCEN     | Number of Identified Exporters to Curacao from Indiana                                                              | 2011-01-01          | 2017-01-01        |
 | ITNETUSERP2CUW    | Internet users for Curacao                                                                                          | 2016-01-01          | 2017-01-01        |
@@ -93,7 +93,7 @@
 | SDCUWA475SCEN     | Number of Identified Exporters to Curacao from South Dakota                                                         | 2011-01-01          | 2016-01-01        |
 | SMPOPNETMCUW      | Net migration for Curacao                                                                                           | 1962-01-01          | 2017-01-01        |
 | SPDYNLE00INCUW    | Life Expectancy at Birth, Total for Curacao                                                                         | 2006-01-01          | 2017-01-01        |
-| SPDYNTFRTINCUW    | Fertility Rate, Total for Curacao                                                                                   | 2006-01-01          | 2019-01-01        |
+| SPDYNTFRTINCUW    | Fertility Rate, Total for Curacao                                                                                   | 2006-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSCUW  | Population ages 65 and above for Curacao                                                                            | 1960-01-01          | 2020-01-01        |
 | TNCUWA052SCEN     | Value of Exports to Curacao from Tennessee                                                                          | 2011-01-01          | 2017-01-01        |
 | TNCUWA475SCEN     | Number of Identified Exporters to Curacao from Tennessee                                                            | 2011-01-01          | 2017-01-01        |

@@ -7,7 +7,7 @@
 | A5MLORSGPNOSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Normalised for Major Five Asia                       | 1978-01-01          | 2021-11-01        |
 | A5MLORSGPORGYSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for Major Five Asia                  | 1979-01-01          | 2021-11-01        |
 | A5MLORSGPORIXOBSAM | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for Major Five Asia                  | 1978-01-01          | 2021-11-01        |
-| A5MLORSGPRTSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Ratio to trend for Major Five Asia                   | 1978-01-01          | 2021-12-01        |
+| A5MLORSGPRTSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Ratio to trend for Major Five Asia                   | 1978-01-01          | 2021-11-01        |
 | A5MLORSGPTDSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for Major Five Asia                            | 1978-01-01          | 2021-11-01        |
 | BSCICP035AM665S    | Business Tendency Surveys for Manufacturing: Confidence Indicators: Composite Indicators: OECD Indicator for the Major 5 Asia | 2000-02-01          | 2021-12-01        |
 | CSCICP035AM665S    | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Major 5 Asia                    | 1990-01-01          | 2022-02-01        |

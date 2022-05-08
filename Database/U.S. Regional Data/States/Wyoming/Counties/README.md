@@ -1,6 +1,6 @@
 | Folder                 |   Files / Folders |
 |------------------------|-------------------|
-| Converse County, WY    |                89 |
+| Converse County, WY    |                 0 |
 | Crook County, WY       |                90 |
 | Sheridan County, WY    |                90 |
 | Sublette County, WY    |                89 |

@@ -244,178 +244,178 @@
 | ITNETSECRP6ZMB | Secure Internet Servers for Zambia                                                  | 2010-01-01          | 2020-01-01        |
 | ITNETSECRP6ZWE | Secure Internet Servers for Zimbabwe                                                | 2010-01-01          | 2020-01-01        |
 | ITNETUSERP2ABW | Internet users for Aruba                                                            | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2AFG | Internet users for the Islamic Republic of Afghanistan                              | 1990-01-01          | 2015-01-01        |
-| ITNETUSERP2AGO | Internet users for Angola                                                           | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2AFG | Internet users for the Islamic Republic of Afghanistan                              | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2AGO | Internet users for Angola                                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2ALB | Internet users for Albania                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2AND | Internet users for Andorra                                                          | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2ARB | Internet users for the Arab World                                                   | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2ARB | Internet users for the Arab World                                                   | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2ARE | Internet users for the United Arab Emirates                                         | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2ARG | Internet users for Argentina                                                        | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2ARM | Internet users for Armenia                                                          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2ARG | Internet users for Argentina                                                        | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2ARM | Internet users for Armenia                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2ASM | Internet users for American Samoa                                                   | 1990-01-01          | 1995-01-01        |
 | ITNETUSERP2ATG | Internet users for Antigua and Barbuda                                              | 1990-01-01          | 2016-01-01        |
-| ITNETUSERP2AUS | Internet users for Australia                                                        | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2AUS | Internet users for Australia                                                        | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2AUT | Internet users for Austria                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2AZE | Internet users for Azerbaijan                                                       | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2BDI | Internet users for Burundi                                                          | 1960-01-01          | 2019-01-01        |
+| ITNETUSERP2AZE | Internet users for Azerbaijan                                                       | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2BDI | Internet users for Burundi                                                          | 1960-01-01          | 2020-01-01        |
 | ITNETUSERP2BEL | Internet users for Belgium                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2BEN | Internet users for Benin                                                            | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2BFA | Internet users for Burkina Faso                                                     | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2BGD | Internet users for Bangladesh                                                       | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2BEN | Internet users for Benin                                                            | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2BFA | Internet users for Burkina Faso                                                     | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2BGD | Internet users for Bangladesh                                                       | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2BGR | Internet users for Bulgaria                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2BHR | Internet users for Bahrain                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2BHS | Internet users for the Bahamas                                                      | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2BHS | Internet users for the Bahamas                                                      | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2BIH | Internet users for Bosnia and Herzegovina                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2BLR | Internet users for Belarus                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2BLZ | Internet users for Belize                                                           | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2BLZ | Internet users for Belize                                                           | 1990-01-01          | 2019-01-01        |
 | ITNETUSERP2BMU | Internet users for Bermuda                                                          | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2BOL | Internet users for the Plurinational State of Bolivia                               | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2BRA | Internet users for Brazil                                                           | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2BRA | Internet users for Brazil                                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2BRB | Internet users for Barbados                                                         | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2BRN | Internet users for Brunei Darussalam                                                | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2BTN | Internet users for Bhutan                                                           | 1990-01-01          | 2016-01-01        |
-| ITNETUSERP2BWA | Internet users for Botswana                                                         | 1960-01-01          | 2019-01-01        |
-| ITNETUSERP2CAF | Internet users for the Central African Republic                                     | 1990-01-01          | 2016-01-01        |
-| ITNETUSERP2CAN | Internet users for Canada                                                           | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2BRN | Internet users for Brunei Darussalam                                                | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2BTN | Internet users for Bhutan                                                           | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2BWA | Internet users for Botswana                                                         | 1960-01-01          | 2020-01-01        |
+| ITNETUSERP2CAF | Internet users for the Central African Republic                                     | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2CAN | Internet users for Canada                                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2CEB | Internet users for Central Europe and the Baltics                                   | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2CHE | Internet users for Switzerland                                                      | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2CHL | Internet users for Chile                                                            | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2CHE | Internet users for Switzerland                                                      | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2CHL | Internet users for Chile                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2CHN | Internet users for China                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2CIV | Internet users for the Republic of Cote d'Ivoire                                    | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2CMR | Internet users for Cameroon                                                         | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2COD | Internet users for the Democratic Republic of the Congo                             | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2CMR | Internet users for Cameroon                                                         | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2COD | Internet users for the Democratic Republic of the Congo                             | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2COG | Internet users for the Republic of the Congo                                        | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2COL | Internet users for Colombia                                                         | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2COL | Internet users for Colombia                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2COM | Internet users for Comoros                                                          | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2CPV | Internet users for Cape Verde                                                       | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2CPV | Internet users for Cape Verde                                                       | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2CRI | Internet users for Costa Rica                                                       | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2CSS | Internet users for Caribbean Small States                                           | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2CUB | Internet users for Cuba                                                             | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2CUB | Internet users for Cuba                                                             | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2CYM | Internet users for Cayman Islands                                                   | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2CYP | Internet users for Cyprus                                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2CZE | Internet users for the Czech Republic                                               | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2DEU | Internet users for Germany                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2DJI | Internet users for Djibouti                                                         | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2DJI | Internet users for Djibouti                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2DMA | Internet users for Dominica                                                         | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2DNK | Internet users for Denmark                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2DOM | Internet users for the Dominican Republic                                           | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2DZA | Internet users for Algeria                                                          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2DOM | Internet users for the Dominican Republic                                           | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2DZA | Internet users for Algeria                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2EAP | Internet users for Developing Countries in East Asia and Pacific                    | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2EAS | Internet users: All Income Levels for East Asia and Pacific                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2ECA | Internet users for Developing Countries in Europe and Central Asia                  | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2ECS | Internet users: All Income Levels for Europe and Central Asia                       | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2ECU | Internet users for Ecuador                                                          | 1990-01-01          | 2016-01-01        |
+| ITNETUSERP2ECU | Internet users for Ecuador                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2EGY | Internet users for Egypt                                                            | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2EMU | Internet users for the Euro Area                                                    | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2EMU | Internet users for the Euro Area                                                    | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2ERI | Internet users for Eritrea                                                          | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2ESP | Internet users for Spain                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2EST | Internet users for Estonia                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2ETH | Internet users for Ethiopia                                                         | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2ETH | Internet users for Ethiopia                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2EUU | Internet users for the European Union                                               | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2FCS | Internet users for Countries with Fragile and Conflict Affected Situations          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2FCS | Internet users for Countries with Fragile and Conflict Affected Situations          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2FIN | Internet users for Finland                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2FJI | Internet users for Fiji                                                             | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2FRA | Internet users for France                                                           | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2FJI | Internet users for Fiji                                                             | 1990-01-01          | 2018-01-01        |
+| ITNETUSERP2FRA | Internet users for France                                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2FRO | Internet users for the Faroe Islands                                                | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2FSM | Internet users for the Federated States of Micronesia                               | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2GAB | Internet users for Gabon                                                            | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2GAB | Internet users for Gabon                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2GBR | Internet users for the United Kingdom                                               | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2GEO | Internet users for Georgia                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2GHA | Internet users for Ghana                                                            | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2GIN | Internet users for Guinea                                                           | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2GMB | Internet users for the Republic of the Gambia                                       | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2GNB | Internet users for Guinea-Bissau                                                    | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2GNQ | Internet users for Equatorial Guinea                                                | 1990-01-01          | 2014-01-01        |
+| ITNETUSERP2GHA | Internet users for Ghana                                                            | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2GIN | Internet users for Guinea                                                           | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2GMB | Internet users for the Republic of the Gambia                                       | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2GNB | Internet users for Guinea-Bissau                                                    | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2GNQ | Internet users for Equatorial Guinea                                                | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2GRC | Internet users for Greece                                                           | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2GRD | Internet users for Grenada                                                          | 1960-01-01          | 2017-01-01        |
+| ITNETUSERP2GRD | Internet users for Grenada                                                          | 1960-01-01          | 2020-01-01        |
 | ITNETUSERP2GRL | Internet users for Greenland                                                        | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2GTM | Internet users for Guatemala                                                        | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2GTM | Internet users for Guatemala                                                        | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2GUM | Internet users for Guam                                                             | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2GUY | Internet users for Guyana                                                           | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2HIC | Internet users for High Income Countries                                            | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2HIC | Internet users for High Income Countries                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2HKG | Internet users for Hong Kong SAR, China                                             | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2HND | Internet users for Honduras                                                         | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2HPC | Internet users for Heavily Indebted Poor Countries                                  | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2HND | Internet users for Honduras                                                         | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2HPC | Internet users for Heavily Indebted Poor Countries                                  | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2HRV | Internet users for Croatia                                                          | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2HTI | Internet users for Haiti                                                            | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2HTI | Internet users for Haiti                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2HUN | Internet users for Hungary                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2IDN | Internet users for Indonesia                                                        | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2IND | Internet users for India                                                            | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2IND | Internet users for India                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2IRL | Internet users for Ireland                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2IRN | Internet users for the Islamic Republic of Iran                                     | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2IRQ | Internet users for Iraq                                                             | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2ISL | Internet users for Iceland                                                          | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2ISR | Internet users for Israel                                                           | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2ITA | Internet users for Italy                                                            | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2IRQ | Internet users for Iraq                                                             | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2ISL | Internet users for Iceland                                                          | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2ISR | Internet users for Israel                                                           | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2ITA | Internet users for Italy                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2JAM | Internet users for Jamaica                                                          | 1990-01-01          | 2018-01-01        |
-| ITNETUSERP2JOR | Internet users for Jordan                                                           | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2JPN | Internet users for Japan                                                            | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2JOR | Internet users for Jordan                                                           | 1990-01-01          | 2018-01-01        |
+| ITNETUSERP2JPN | Internet users for Japan                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2KAZ | Internet users for Kazakhstan                                                       | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2KEN | Internet users for Kenya                                                            | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2KGZ | Internet users for the Kyrgyz Republic                                              | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2KHM | Internet users for Cambodia                                                         | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2KIR | Internet users for Kiribati                                                         | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2KEN | Internet users for Kenya                                                            | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2KGZ | Internet users for the Kyrgyz Republic                                              | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2KHM | Internet users for Cambodia                                                         | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2KIR | Internet users for Kiribati                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2KNA | Internet users for St. Kitts and Nevis                                              | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2KOR | Internet users for the Republic of Korea                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2KWT | Internet users for Kuwait                                                           | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2LAC | Internet users for Developing Countries in Latin America and Caribbean              | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2LAO | Internet users for the Lao People's Democratic Republic                             | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2LBN | Internet users for Lebanon                                                          | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2LBR | Internet users for Liberia                                                          | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2LBY | Internet users for Libyan Arab Jamahiriya                                           | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2LCA | Internet users for St. Lucia                                                        | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2LCN | Internet users: All Income Levels for Latin America and Caribbean                   | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2LDC | Internet users for Least Developed Countries                                        | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2LIC | Internet users for Low Income Countries                                             | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2LAC | Internet users for Developing Countries in Latin America and Caribbean              | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LAO | Internet users for the Lao People's Democratic Republic                             | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LBN | Internet users for Lebanon                                                          | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LBR | Internet users for Liberia                                                          | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LBY | Internet users for Libyan Arab Jamahiriya                                           | 1990-01-01          | 2014-01-01        |
+| ITNETUSERP2LCA | Internet users for St. Lucia                                                        | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LCN | Internet users: All Income Levels for Latin America and Caribbean                   | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LDC | Internet users for Least Developed Countries                                        | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LIC | Internet users for Low Income Countries                                             | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2LIE | Internet users for Liechtenstein                                                    | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2LKA | Internet users for Sri Lanka                                                        | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2LMC | Internet users for Lower Middle Income Countries                                    | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2LMY | Internet users for Low and Middle Income Countries                                  | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2LSO | Internet users for Lesotho                                                          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2LMC | Internet users for Lower Middle Income Countries                                    | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LMY | Internet users for Low and Middle Income Countries                                  | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2LSO | Internet users for Lesotho                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2LTU | Internet users for Lithuania                                                        | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2LUX | Internet users for Luxembourg                                                       | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2LVA | Internet users for Latvia                                                           | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2MAC | Internet users for Macao                                                            | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2MAC | Internet users for Macao                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MAR | Internet users for Morocco                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MCO | Internet users for Monaco                                                           | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2MDA | Internet users for the Republic of Moldova                                          | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2MDG | Internet users for Madagascar                                                       | 1990-01-01          | 2018-01-01        |
-| ITNETUSERP2MDV | Internet users for Maldives                                                         | 1960-01-01          | 2017-01-01        |
-| ITNETUSERP2MEA | Internet users: All Income Levels for Middle East and North Africa                  | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2MDV | Internet users for Maldives                                                         | 1960-01-01          | 2020-01-01        |
+| ITNETUSERP2MEA | Internet users: All Income Levels for Middle East and North Africa                  | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MEX | Internet users for Mexico                                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MHL | Internet users for the Marshall Islands                                             | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2MIC | Internet users for Middle Income Countries                                          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2MIC | Internet users for Middle Income Countries                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MKD | Internet users for the former Yugoslav Republic of Macedonia                        | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2MLI | Internet users for Mali                                                             | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2MLI | Internet users for Mali                                                             | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MLT | Internet users for Malta                                                            | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2MMR | Internet users for Myanmar                                                          | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2MNA | Internet users for Developing Countries in Middle East and North Africa             | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2MMR | Internet users for Myanmar                                                          | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2MNA | Internet users for Developing Countries in Middle East and North Africa             | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MNE | Internet users for Montenegro                                                       | 2004-01-01          | 2020-01-01        |
 | ITNETUSERP2MNG | Internet users for Mongolia                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MNP | Internet users for the Commonwealth of the Northern Mariana Islands                 | 1990-01-01          | 1995-01-01        |
-| ITNETUSERP2MOZ | Internet users for Mozambique                                                       | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2MRT | Internet users for Mauritania                                                       | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2MOZ | Internet users for Mozambique                                                       | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2MRT | Internet users for Mauritania                                                       | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MUS | Internet users for Mauritius                                                        | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2MWI | Internet users for Malawi                                                           | 1990-01-01          | 2019-01-01        |
 | ITNETUSERP2MYS | Internet users for Malaysia                                                         | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2NAM | Internet users for Namibia                                                          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2NAM | Internet users for Namibia                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2NCL | Internet users for New Caledonia                                                    | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2NER | Internet users for Niger                                                            | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2NGA | Internet users for Nigeria                                                          | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2NIC | Internet users for Nicaragua                                                        | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2NGA | Internet users for Nigeria                                                          | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2NIC | Internet users for Nicaragua                                                        | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2NLD | Internet users for the Netherlands                                                  | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2NOC | Internet users for the Non-OECD                                                     | 1990-01-01          | 2014-01-01        |
 | ITNETUSERP2NOR | Internet users for Norway                                                           | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2NPL | Internet users for Nepal                                                            | 1989-01-01          | 2017-01-01        |
-| ITNETUSERP2NZL | Internet users for New Zealand                                                      | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2NPL | Internet users for Nepal                                                            | 1989-01-01          | 2020-01-01        |
+| ITNETUSERP2NZL | Internet users for New Zealand                                                      | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2OEC | Internet users for High Income OECD Countries                                       | 1990-01-01          | 2014-01-01        |
-| ITNETUSERP2OED | Internet users for OECD Members                                                     | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2OED | Internet users for OECD Members                                                     | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2OMN | Internet users for Oman                                                             | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2OSS | Internet users for Other Small States                                               | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2PAK | Internet users for Pakistan                                                         | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2PAN | Internet users for Panama                                                           | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2OSS | Internet users for Other Small States                                               | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2PAK | Internet users for Pakistan                                                         | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2PAN | Internet users for Panama                                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2PER | Internet users for Peru                                                             | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2PHL | Internet users for the Philippines                                                  | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2PHL | Internet users for the Philippines                                                  | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2PLW | Internet users for Palau                                                            | 1990-01-01          | 2004-01-01        |
 | ITNETUSERP2PNG | Internet users for Papua New Guinea                                                 | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2POL | Internet users for Poland                                                           | 1990-01-01          | 2020-01-01        |
@@ -423,61 +423,61 @@
 | ITNETUSERP2PRK | Internet users for the Democratic People's Republic of Korea                        | 1990-01-01          | 2013-01-01        |
 | ITNETUSERP2PRT | Internet users for Portugal                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2PRY | Internet users for Paraguay                                                         | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2PSE | Internet users for the Occupied Palestinian Territory                               | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2PSE | Internet users for the Occupied Palestinian Territory                               | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2PSS | Internet users for Pacific Island Small States                                      | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2PYF | Internet users for French Polynesia                                                 | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2QAT | Internet users for Qatar                                                            | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2ROU | Internet users for Romania                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2RUS | Internet users for the Russian Federation                                           | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2RWA | Internet users for Rwanda                                                           | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2SAS | Internet users for South Asia                                                       | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2RWA | Internet users for Rwanda                                                           | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2SAS | Internet users for South Asia                                                       | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2SAU | Internet users for Saudi Arabia                                                     | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2SDN | Internet users for the Sudan                                                        | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2SEN | Internet users for Senegal                                                          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2SDN | Internet users for the Sudan                                                        | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2SEN | Internet users for Senegal                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2SGP | Internet users for Singapore                                                        | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2SLB | Internet users for the Solomon Islands                                              | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2SLE | Internet users for Sierra Leone                                                     | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2SLV | Internet users for El Salvador                                                      | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2SLE | Internet users for Sierra Leone                                                     | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2SLV | Internet users for El Salvador                                                      | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2SMR | Internet users for San Marino                                                       | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2SOM | Internet users for Somalia                                                          | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2SRB | Internet users for Serbia                                                           | 2004-01-01          | 2020-01-01        |
-| ITNETUSERP2SSA | Internet users for Developing Countries in Sub-Saharan Africa                       | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2SSF | Internet users: All Income Levels for Sub-Saharan Africa                            | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2SST | Internet users for Small States                                                     | 1990-01-01          | 2018-01-01        |
-| ITNETUSERP2STP | Internet users for Sao Tome and Principe                                            | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2SUR | Internet users for Suriname                                                         | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2SSA | Internet users for Developing Countries in Sub-Saharan Africa                       | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2SSF | Internet users: All Income Levels for Sub-Saharan Africa                            | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2SST | Internet users for Small States                                                     | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2STP | Internet users for Sao Tome and Principe                                            | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2SUR | Internet users for Suriname                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2SVK | Internet users for the Slovak Republic                                              | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2SVN | Internet users for Slovenia                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2SWE | Internet users for Sweden                                                           | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2SWZ | Internet users for Swaziland                                                        | 1990-01-01          | 2015-01-01        |
+| ITNETUSERP2SWZ | Internet users for Swaziland                                                        | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2SYC | Internet users for Seychelles                                                       | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2SYR | Internet users for the Syrian Arab Republic                                         | 1960-01-01          | 2017-01-01        |
+| ITNETUSERP2SYR | Internet users for the Syrian Arab Republic                                         | 1960-01-01          | 2020-01-01        |
 | ITNETUSERP2TCD | Internet users for Chad                                                             | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2TGO | Internet users for Togo                                                             | 1960-01-01          | 2019-01-01        |
+| ITNETUSERP2TGO | Internet users for Togo                                                             | 1960-01-01          | 2020-01-01        |
 | ITNETUSERP2THA | Internet users for Thailand                                                         | 1960-01-01          | 2020-01-01        |
 | ITNETUSERP2TJK | Internet users for Tajikistan                                                       | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2TKM | Internet users for Turkmenistan                                                     | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2TLS | Internet users for the Democratic Republic of Timor-Leste                           | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2TLS | Internet users for the Democratic Republic of Timor-Leste                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2TON | Internet users for Tonga                                                            | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2TTO | Internet users for Trinidad and Tobago                                              | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2TUN | Internet users for Tunisia                                                          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2TUN | Internet users for Tunisia                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2TUR | Internet users for Turkey                                                           | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2TUV | Internet users for Tuvalu                                                           | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2TZA | Internet users for the United Republic of Tanzania                                  | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2UGA | Internet users for Uganda                                                           | 1990-01-01          | 2007-01-01        |
-| ITNETUSERP2UKR | Internet users for Ukraine                                                          | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2TZA | Internet users for the United Republic of Tanzania                                  | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2UGA | Internet users for Uganda                                                           | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2UKR | Internet users for Ukraine                                                          | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2UMC | Internet users for Upper Middle Income Countries                                    | 1990-01-01          | 2020-01-01        |
-| ITNETUSERP2URY | Internet users for Uruguay                                                          | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2USA | Internet users for the United States                                                | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2UZB | Internet users for Uzbekistan                                                       | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2VCT | Internet users for Saint Vincent and the Grenadines                                 | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2VEN | Internet users for the Bolivarian Republic of Venezuela                             | 1990-01-01          | 2014-01-01        |
+| ITNETUSERP2URY | Internet users for Uruguay                                                          | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2USA | Internet users for the United States                                                | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2UZB | Internet users for Uzbekistan                                                       | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2VCT | Internet users for Saint Vincent and the Grenadines                                 | 1990-01-01          | 2018-01-01        |
+| ITNETUSERP2VEN | Internet users for the Bolivarian Republic of Venezuela                             | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2VIR | Internet users for the Virgin Islands of the United States                          | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2VNM | Internet users for Viet Nam                                                         | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2VUT | Internet users for Vanuatu                                                          | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2WLD | Internet users for the World                                                        | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2WLD | Internet users for the World                                                        | 1990-01-01          | 2020-01-01        |
 | ITNETUSERP2WSM | Internet users for Samoa                                                            | 1990-01-01          | 2017-01-01        |
 | ITNETUSERP2YEM | Internet users for the Republic of Yemen                                            | 1990-01-01          | 2017-01-01        |
-| ITNETUSERP2ZAF | Internet users for South Africa                                                     | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2ZMB | Internet users for Zambia                                                           | 1990-01-01          | 2019-01-01        |
-| ITNETUSERP2ZWE | Internet users for Zimbabwe                                                         | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2ZAF | Internet users for South Africa                                                     | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2ZMB | Internet users for Zambia                                                           | 1990-01-01          | 2020-01-01        |
+| ITNETUSERP2ZWE | Internet users for Zimbabwe                                                         | 1990-01-01          | 2020-01-01        |

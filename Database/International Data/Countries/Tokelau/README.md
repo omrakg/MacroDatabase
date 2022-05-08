@@ -13,7 +13,7 @@
 | CTTKLA475SCEN | Number of Identified Exporters to Tokelau from Connecticut          | 1997-01-01          | 2010-01-01        |
 | DCTKLA475SCEN | Number of Identified Exporters to Tokelau from District of Columbia | 2002-01-01          | 2007-01-01        |
 | DETKLA475SCEN | Number of Identified Exporters to Tokelau from Delaware             | 2004-01-01          | 2011-01-01        |
-| EXP6143       | U.S. Exports of Goods by F.A.S. Basis to Tokelau                    | 1992-01-01          | 2022-02-01        |
+| EXP6143       | U.S. Exports of Goods by F.A.S. Basis to Tokelau                    | 1992-01-01          | 2022-03-01        |
 | FLTKLA052SCEN | Value of Exports to Tokelau from Florida                            | 2002-01-01          | 2009-01-01        |
 | FLTKLA475SCEN | Number of Identified Exporters to Tokelau from Florida              | 2002-01-01          | 2014-01-01        |
 | GATKLA052SCEN | Value of Exports to Tokelau from Georgia                            | 2003-01-01          | 2008-01-01        |
@@ -23,7 +23,7 @@
 | IDTKLA475SCEN | Number of Identified Exporters to Tokelau from Idaho                | 2010-01-01          | 2010-01-01        |
 | ILTKLA052SCEN | Value of Exports to Tokelau from Illinois                           | 2002-01-01          | 2011-01-01        |
 | ILTKLA475SCEN | Number of Identified Exporters to Tokelau from Illinois             | 1997-01-01          | 2016-01-01        |
-| IMP6143       | U.S. Imports of Goods by Customs Basis from Tokelau                 | 1992-01-01          | 2022-02-01        |
+| IMP6143       | U.S. Imports of Goods by Customs Basis from Tokelau                 | 1992-01-01          | 2022-03-01        |
 | INTKLA052SCEN | Value of Exports to Tokelau from Indiana                            | 2005-01-01          | 2017-01-01        |
 | INTKLA475SCEN | Number of Identified Exporters to Tokelau from Indiana              | 2002-01-01          | 2017-01-01        |
 | KSTKLA052SCEN | Value of Exports to Tokelau from Kansas                             | 2003-01-01          | 2005-01-01        |

@@ -18,7 +18,7 @@
 | Montgomery County, KY   |                90 |
 | Rockcastle County, KY   |                88 |
 | Marion County, KY       |                90 |
-| Madison County, KY      |                 0 |
+| Madison County, KY      |               147 |
 | Meade County, KY        |                89 |
 | Hart County, KY         |                89 |
 | Anderson County, KY     |                90 |
@@ -34,7 +34,7 @@
 | Russell County, KY      |                90 |
 | Monroe County, KY       |                88 |
 | Lyon County, KY         |                90 |
-| Woodford County, KY     |                90 |
+| Woodford County, KY     |                 0 |
 | Nelson County, KY       |                90 |
 | Breathitt County, KY    |                89 |
 | Nicholas County, KY     |                89 |
@@ -78,7 +78,7 @@
 | Webster County, KY      |                90 |
 | Trimble County, KY      |                88 |
 | Knox County, KY         |                89 |
-| Elliott County, KY      |                 0 |
+| Elliott County, KY      |                88 |
 | Hancock County, KY      |                90 |
 | Bullitt County, KY      |               147 |
 | Carlisle County, KY     |                87 |
@@ -94,7 +94,7 @@
 | Lincoln County, KY      |                90 |
 | Hickman County, KY      |                87 |
 | Grayson County, KY      |                89 |
-| Leslie County, KY       |                88 |
+| Leslie County, KY       |                 0 |
 | Boyle County, KY        |                90 |
 | Taylor County, KY       |                90 |
 | Letcher County, KY      |                88 |

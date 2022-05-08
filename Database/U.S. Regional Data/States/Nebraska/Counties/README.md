@@ -5,7 +5,7 @@
 | Loup County, NE         |                83 |
 | Hayes County, NE        |                86 |
 | Banner County, NE       |                82 |
-| Douglas County, NE      |                 0 |
+| Douglas County, NE      |               147 |
 | Wheeler County, NE      |                84 |
 | Gage County, NE         |                90 |
 | Hall County, NE         |               145 |
@@ -35,7 +35,7 @@
 | Butler County, NE       |                90 |
 | McPherson County, NE    |                83 |
 | Dundy County, NE        |                89 |
-| Blaine County, NE       |                82 |
+| Blaine County, NE       |                 0 |
 | Cheyenne County, NE     |                89 |
 | Valley County, NE       |                88 |
 | Cherry County, NE       |                88 |

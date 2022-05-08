@@ -52,7 +52,7 @@
 | MKTGNIDOA646NWDB | Gross National Income for Dominican Republic                                                  | 1960-01-01          | 2020-01-01        |
 | MKTGNIDZA646NWDB | Gross National Income for Algeria                                                             | 1960-01-01          | 2020-01-01        |
 | MKTGNIECA646NWDB | Gross National Income for Ecuador                                                             | 1960-01-01          | 2020-01-01        |
-| MKTGNIEEA646NWDB | Gross National Income for Estonia                                                             | 2000-01-01          | 2020-01-01        |
+| MKTGNIEEA646NWDB | Gross National Income for Estonia                                                             | 2000-01-01          | 2019-01-01        |
 | MKTGNIEGA646NWDB | Gross National Income for Egypt                                                               | 1965-01-01          | 2020-01-01        |
 | MKTGNIERA646NWDB | Gross National Income for Eritrea                                                             | 1992-01-01          | 2011-01-01        |
 | MKTGNIESA646NWDB | Gross National Income for Spain                                                               | 1960-01-01          | 2020-01-01        |
@@ -65,7 +65,7 @@
 | MKTGNIGAA646NWDB | Gross National Income for Gabon                                                               | 1960-01-01          | 2020-01-01        |
 | MKTGNIGBA646NWDB | Gross National Income for United Kingdom                                                      | 1970-01-01          | 2020-01-01        |
 | MKTGNIGDA646NWDB | Gross National Income for Grenada                                                             | 1977-01-01          | 2020-01-01        |
-| MKTGNIGEA646NWDB | Gross National Income for Georgia                                                             | 1993-01-01          | 2020-01-01        |
+| MKTGNIGEA646NWDB | Gross National Income for Georgia                                                             | 1992-01-01          | 2020-01-01        |
 | MKTGNIGHA646NWDB | Gross National Income for Ghana                                                               | 1960-01-01          | 2020-01-01        |
 | MKTGNIGMA646NWDB | Gross National Income for Gambia                                                              | 1966-01-01          | 2020-01-01        |
 | MKTGNIGNA646NWDB | Gross National Income for Guinea                                                              | 1986-01-01          | 2020-01-01        |
@@ -90,7 +90,7 @@
 | MKTGNIITA646NWDB | Gross National Income for Italy                                                               | 1960-01-01          | 2020-01-01        |
 | MKTGNIJMA646NWDB | Gross National Income for Jamaica                                                             | 1960-01-01          | 2020-01-01        |
 | MKTGNIJOA646NWDB | Gross National Income for Jordan                                                              | 1965-01-01          | 2020-01-01        |
-| MKTGNIJPA646NWDB | Gross National Income for Japan                                                               | 1960-01-01          | 2020-01-01        |
+| MKTGNIJPA646NWDB | Gross National Income for Japan                                                               | 1960-01-01          | 2019-01-01        |
 | MKTGNIKEA646NWDB | Gross National Income for Kenya                                                               | 1960-01-01          | 2020-01-01        |
 | MKTGNIKGA646NWDB | Gross National Income for Kyrgyzstan                                                          | 1991-01-01          | 2020-01-01        |
 | MKTGNIKHA646NWDB | Gross National Income for Cambodia                                                            | 1960-01-01          | 2020-01-01        |
@@ -138,7 +138,7 @@
 | MKTGNINLA646NWDB | Gross National Income for Netherlands                                                         | 1960-01-01          | 2020-01-01        |
 | MKTGNINOA646NWDB | Gross National Income for Norway                                                              | 1960-01-01          | 2020-01-01        |
 | MKTGNINPA646NWDB | Gross National Income for Nepal                                                               | 1960-01-01          | 2020-01-01        |
-| MKTGNINZA646NWDB | Gross National Income for New Zealand                                                         | 1970-01-01          | 2020-01-01        |
+| MKTGNINZA646NWDB | Gross National Income for New Zealand                                                         | 1970-01-01          | 2019-01-01        |
 | MKTGNIOMA646NWDB | Gross National Income for Oman                                                                | 1965-01-01          | 2020-01-01        |
 | MKTGNIPAA646NWDB | Gross National Income for Panama                                                              | 1960-01-01          | 2020-01-01        |
 | MKTGNIPEA646NWDB | Gross National Income for Peru                                                                | 1960-01-01          | 2020-01-01        |
@@ -213,8 +213,8 @@
 | NYGDPPCAPCDGRL   | Gross Domestic Product Per Capita for Greenland                                               | 1970-01-01          | 2019-01-01        |
 | NYGDPPCAPCDHIC   | Gross Domestic Product Per Capita for High Income Countries                                   | 1960-01-01          | 2020-01-01        |
 | NYGDPPCAPCDHPC   | Gross Domestic Product Per Capita for Heavily Indebted Poor Countries                         | 1960-01-01          | 2020-01-01        |
-| NYGDPPCAPCDLAC   | Gross Domestic Product Per Capita for Developing Countries in Latin America and Caribbean     | 1961-01-01          | 2020-01-01        |
-| NYGDPPCAPCDLCN   | Gross Domestic Product Per Capita: All Income Levels for Latin America and Caribbean          | 1961-01-01          | 2020-01-01        |
+| NYGDPPCAPCDLAC   | Gross Domestic Product Per Capita for Developing Countries in Latin America and Caribbean     | 1960-01-01          | 2020-01-01        |
+| NYGDPPCAPCDLCN   | Gross Domestic Product Per Capita: All Income Levels for Latin America and Caribbean          | 1960-01-01          | 2020-01-01        |
 | NYGDPPCAPCDLDC   | Gross Domestic Product Per Capita for Least Developed Countries                               | 1980-01-01          | 2020-01-01        |
 | NYGDPPCAPCDLIC   | Gross Domestic Product Per Capita for Low Income Countries                                    | 1981-01-01          | 2020-01-01        |
 | NYGDPPCAPCDLMC   | Gross Domestic Product Per Capita for Lower Middle Income Countries                           | 1960-01-01          | 2020-01-01        |
@@ -299,7 +299,7 @@
 | PCAGDPBMA646NWDB | Gross Domestic Product Per Capita for Bermuda                                                 | 1960-01-01          | 2020-01-01        |
 | PCAGDPBNA646NWDB | Gross Domestic Product Per Capita for Brunei Darussalam                                       | 1965-01-01          | 2020-01-01        |
 | PCAGDPBOA646NWDB | Gross Domestic Product Per Capita for the Plurinational State of Bolivia                      | 1960-01-01          | 2020-01-01        |
-| PCAGDPBRA646NWDB | Gross Domestic Product Per Capita for Brazil                                                  | 1961-01-01          | 2020-01-01        |
+| PCAGDPBRA646NWDB | Gross Domestic Product Per Capita for Brazil                                                  | 1960-01-01          | 2020-01-01        |
 | PCAGDPBSA646NWDB | Gross Domestic Product Per Capita for Bahamas                                                 | 1960-01-01          | 2020-01-01        |
 | PCAGDPBTA646NWDB | Gross Domestic Product Per Capita for Bhutan                                                  | 1980-01-01          | 2020-01-01        |
 | PCAGDPBWA646NWDB | Gross Domestic Product Per Capita for Botswana                                                | 1960-01-01          | 2020-01-01        |

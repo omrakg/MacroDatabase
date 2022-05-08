@@ -171,7 +171,7 @@
 | MABMM301RUA657S | M3 for the Russian Federation | 1997-01-01          | 2021-01-01        |
 | MABMM301RUM189N | M3 for the Russian Federation | 1995-06-01          | 2022-02-01        |
 | MABMM301RUM189S | M3 for the Russian Federation | 1995-06-01          | 2022-01-01        |
-| MABMM301RUM657S | M3 for the Russian Federation | 1995-08-01          | 2021-09-01        |
+| MABMM301RUM657S | M3 for the Russian Federation | 1995-08-01          | 2022-01-01        |
 | MABMM301RUQ189N | M3 for the Russian Federation | 1995-07-01          | 2021-10-01        |
 | MABMM301RUQ189S | M3 for the Russian Federation | 1995-04-01          | 2021-10-01        |
 | MABMM301RUQ657S | M3 for the Russian Federation | 1995-10-01          | 2021-10-01        |
@@ -204,7 +204,7 @@
 | MABMM301ZAA657S | M3 for South Africa           | 1967-01-01          | 2021-01-01        |
 | MABMM301ZAM189N | M3 for South Africa           | 1965-03-01          | 2021-11-01        |
 | MABMM301ZAM189S | M3 for South Africa           | 1965-03-01          | 2022-02-01        |
-| MABMM301ZAM657S | M3 for South Africa           | 1965-05-01          | 2022-01-01        |
+| MABMM301ZAM657S | M3 for South Africa           | 1965-05-01          | 2022-02-01        |
 | MABMM301ZAQ189N | M3 for South Africa           | 1965-01-01          | 2021-07-01        |
 | MABMM301ZAQ189S | M3 for South Africa           | 1965-01-01          | 2021-10-01        |
 | MABMM301ZAQ657S | M3 for South Africa           | 1965-07-01          | 2021-10-01        |

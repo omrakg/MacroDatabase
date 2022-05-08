@@ -13,6 +13,6 @@
 | Distribution of Commodities         |               166 |
 | Financial Status of Business        |               144 |
 | Volume of Transactions              |                61 |
-| Production of Commodities           |                 0 |
+| Production of Commodities           |               456 |
 | Construction                        |                21 |
 | Stocks of Commodities               |               194 |

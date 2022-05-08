@@ -13,7 +13,7 @@
 | Eureka County, NV     |                85 |
 | Washoe County, NV     |               147 |
 | Humboldt County, NV   |                90 |
-| White Pine County, NV |                89 |
-| Storey County, NV     |                 0 |
+| White Pine County, NV |                 0 |
+| Storey County, NV     |                89 |
 | Churchill County, NV  |                90 |
 | Esmeralda County, NV  |                85 |

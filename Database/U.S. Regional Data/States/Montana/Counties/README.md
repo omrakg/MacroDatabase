@@ -17,7 +17,7 @@
 | Petroleum County, MT       |                82 |
 | Flathead County, MT        |               147 |
 | Wheatland County, MT       |                87 |
-| Dawson County, MT          |                89 |
+| Dawson County, MT          |                 0 |
 | Blaine County, MT          |                88 |
 | Mineral County, MT         |                89 |
 | Jefferson County, MT       |                90 |
@@ -47,7 +47,7 @@
 | Cascade County, MT         |               147 |
 | Glacier County, MT         |                90 |
 | Park County, MT            |                90 |
-| Deer Lodge County, MT      |                 0 |
+| Deer Lodge County, MT      |                89 |
 | Judith Basin County, MT    |                86 |
 | Liberty County, MT         |                85 |
 | Missoula County, MT        |               147 |

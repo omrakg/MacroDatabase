@@ -7,7 +7,7 @@
 | Blacksburg-Christiansburg, VA                |               122 |
 | Staunton, VA                                 |                59 |
 | Charlottesville, VA                          |               158 |
-| Danville, VA                                 |                36 |
+| Danville, VA                                 |                 0 |
 | Richmond, VA                                 |               181 |
 | Winchester, VA-WV                            |                 0 |
 | Harrisonburg, VA                             |               108 |

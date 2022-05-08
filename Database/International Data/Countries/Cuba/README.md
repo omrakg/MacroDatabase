@@ -25,7 +25,7 @@
 | DDOI14CUA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Cuba                                                     | 2005-01-01          | 2013-01-01        |
 | DDSI01CUA645NWDB    | Bank Z-Score for Cuba                                                                                                  | 2000-01-01          | 2019-01-01        |
 | DECUBA475SCEN       | Number of Identified Exporters to Cuba from Delaware                                                                   | 2010-01-01          | 2016-01-01        |
-| EXP2390             | U.S. Exports of Goods by F.A.S. Basis to Cuba                                                                          | 1992-01-01          | 2022-02-01        |
+| EXP2390             | U.S. Exports of Goods by F.A.S. Basis to Cuba                                                                          | 1992-01-01          | 2022-03-01        |
 | FLCUBA052SCEN       | Value of Exports to Cuba from Florida                                                                                  | 1997-01-01          | 2017-01-01        |
 | FLCUBA475SCEN       | Number of Identified Exporters to Cuba from Florida                                                                    | 1992-01-01          | 2017-01-01        |
 | GACUBA052SCEN       | Value of Exports to Cuba from Georgia                                                                                  | 2002-01-01          | 2017-01-01        |
@@ -40,9 +40,9 @@
 | IDSGAMNINICU        | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Cuba             | 1993-07-01          | 2009-01-01        |
 | ILCUBA052SCEN       | Value of Exports to Cuba from Illinois                                                                                 | 2002-01-01          | 2016-01-01        |
 | ILCUBA475SCEN       | Number of Identified Exporters to Cuba from Illinois                                                                   | 2002-01-01          | 2017-01-01        |
-| IMP2390             | U.S. Imports of Goods by Customs Basis from Cuba                                                                       | 1992-01-01          | 2022-02-01        |
+| IMP2390             | U.S. Imports of Goods by Customs Basis from Cuba                                                                       | 1992-01-01          | 2022-03-01        |
 | INCUBA475SCEN       | Number of Identified Exporters to Cuba from Indiana                                                                    | 2002-01-01          | 2016-01-01        |
-| ITNETUSERP2CUB      | Internet users for Cuba                                                                                                | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2CUB      | Internet users for Cuba                                                                                                | 1990-01-01          | 2020-01-01        |
 | KSCUBA475SCEN       | Number of Identified Exporters to Cuba from Kansas                                                                     | 2004-01-01          | 2016-01-01        |
 | KYCUBA475SCEN       | Number of Identified Exporters to Cuba from Kentucky                                                                   | 2003-01-01          | 2016-01-01        |
 | LACUBA052SCEN       | Value of Exports to Cuba from Louisiana                                                                                | 2002-01-01          | 2017-01-01        |
@@ -86,8 +86,8 @@
 | SEADTLITRZSCUB      | Literacy Rate, Adult Total for Cuba                                                                                    | 1981-01-01          | 2012-01-01        |
 | SMPOPNETMCUB        | Net migration for Cuba                                                                                                 | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINCUB      | Infant Mortality Rate for Cuba                                                                                         | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INCUB      | Life Expectancy at Birth, Total for Cuba                                                                               | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINCUB      | Fertility Rate, Total for Cuba                                                                                         | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INCUB      | Life Expectancy at Birth, Total for Cuba                                                                               | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINCUB      | Fertility Rate, Total for Cuba                                                                                         | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSCUB    | Population ages 65 and above for Cuba                                                                                  | 1960-01-01          | 2020-01-01        |
 | TNCUBA052SCEN       | Value of Exports to Cuba from Tennessee                                                                                | 2003-01-01          | 2006-01-01        |
 | TNCUBA475SCEN       | Number of Identified Exporters to Cuba from Tennessee                                                                  | 2002-01-01          | 2016-01-01        |

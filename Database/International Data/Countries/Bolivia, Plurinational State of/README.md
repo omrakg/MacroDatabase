@@ -126,10 +126,10 @@
 | DDSI07BOA156NWDB    | Provisions to Non-Performing Loans for the Plurinational State of Bolivia                                                                    | 1998-01-01          | 2015-01-01        |
 | DEBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Delaware                                                                         | 1997-01-01          | 2016-01-01        |
 | DEBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Delaware                                                           | 1997-01-01          | 2016-01-01        |
-| EXP3350             | U.S. Exports of Goods by F.A.S. Basis to Bolivia                                                                                             | 1992-01-01          | 2022-02-01        |
+| EXP3350             | U.S. Exports of Goods by F.A.S. Basis to Bolivia                                                                                             | 1992-01-01          | 2022-03-01        |
 | FLBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Florida                                                                          | 1992-01-01          | 2015-01-01        |
 | FLBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Florida                                                            | 1992-01-01          | 2016-01-01        |
-| FPCPITOTLZGBOL      | Inflation, consumer prices for the Plurinational State of Bolivia                                                                            | 1960-01-01          | 2020-01-01        |
+| FPCPITOTLZGBOL      | Inflation, consumer prices for the Plurinational State of Bolivia                                                                            | 1960-01-01          | 2021-01-01        |
 | GABOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Georgia                                                                          | 1992-01-01          | 2016-01-01        |
 | GABOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Georgia                                                            | 1992-01-01          | 2016-01-01        |
 | HIBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Hawaii                                                             | 2011-01-01          | 2011-01-01        |
@@ -149,7 +149,7 @@
 | IDSGAMRINIBO        | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Bolivia         | 1977-01-01          | 2017-01-01        |
 | ILBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Illinois                                                                         | 1992-01-01          | 2016-01-01        |
 | ILBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Illinois                                                           | 1992-01-01          | 2016-01-01        |
-| IMP3350             | U.S. Imports of Goods by Customs Basis from Bolivia                                                                                          | 1992-01-01          | 2022-02-01        |
+| IMP3350             | U.S. Imports of Goods by Customs Basis from Bolivia                                                                                          | 1992-01-01          | 2022-03-01        |
 | INBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Indiana                                                                          | 1992-01-01          | 2016-01-01        |
 | INBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Indiana                                                            | 1992-01-01          | 2016-01-01        |
 | ITNETUSERP2BOL      | Internet users for the Plurinational State of Bolivia                                                                                        | 1990-01-01          | 2020-01-01        |
@@ -216,8 +216,8 @@
 | SEADTLITRZSBOL      | Literacy Rate, Adult Total for the Plurinational State of Bolivia                                                                            | 1976-01-01          | 2015-01-01        |
 | SMPOPNETMBOL        | Net migration for the Plurinational State of Bolivia                                                                                         | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINBOL      | Infant Mortality Rate for the Plurinational State of Bolivia                                                                                 | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INBOL      | Life Expectancy at Birth, Total for the Plurinational State of Bolivia                                                                       | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINBOL      | Fertility Rate, Total for the Plurinational State of Bolivia                                                                                 | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INBOL      | Life Expectancy at Birth, Total for the Plurinational State of Bolivia                                                                       | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINBOL      | Fertility Rate, Total for the Plurinational State of Bolivia                                                                                 | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSBOL    | Population ages 65 and above for the Plurinational State of Bolivia                                                                          | 1960-01-01          | 2020-01-01        |
 | TNBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Tennessee                                                                        | 1992-01-01          | 2016-01-01        |
 | TNBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Tennessee                                                          | 1992-01-01          | 2016-01-01        |

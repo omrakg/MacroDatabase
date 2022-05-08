@@ -8,7 +8,7 @@
 | Washington County, ME   |                90 |
 | Penobscot County, ME    |               147 |
 | Kennebec County, ME     |               147 |
-| Piscataquis County, ME  |                 0 |
+| Piscataquis County, ME  |                89 |
 | Hancock County, ME      |                90 |
 | Androscoggin County, ME |               147 |
 | York County, ME         |               147 |

@@ -67,8 +67,8 @@
 | Reno County, KS         |               146 |
 | Wyandotte County, KS    |               147 |
 | Ellsworth County, KS    |                89 |
-| Meade County, KS        |                88 |
-| Morton County, KS       |                 0 |
+| Meade County, KS        |                 0 |
+| Morton County, KS       |                88 |
 | Riley County, KS        |               147 |
 | Neosho County, KS       |                90 |
 | Ness County, KS         |                88 |

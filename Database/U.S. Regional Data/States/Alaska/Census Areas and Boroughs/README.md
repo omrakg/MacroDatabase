@@ -23,9 +23,9 @@
 | Skagway Municipality, AK                        |                83 |
 | North Slope Borough, AK                         |                87 |
 | Wade Hampton Census Area, AK                    |                13 |
-| Southeast Fairbanks Census Area, AK             |                 0 |
+| Southeast Fairbanks Census Area, AK             |                86 |
 | Bristol Bay Borough, AK                         |                85 |
-| Denali Borough, AK                              |                83 |
+| Denali Borough, AK                              |                 0 |
 | Juneau Borough - city, AK                       |                 0 |
 | Nome Census Area, AK                            |                87 |
 | Skagway-Hoonah-Angoon Census Area, AK           |                 7 |

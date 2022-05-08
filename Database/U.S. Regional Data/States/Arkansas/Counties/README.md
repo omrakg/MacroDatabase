@@ -30,7 +30,7 @@
 | Marion County, AR       |                89 |
 | Pike County, AR         |                87 |
 | White County, AR        |               147 |
-| Madison County, AR      |                 0 |
+| Madison County, AR      |                89 |
 | Baxter County, AR       |               144 |
 | Johnson County, AR      |                89 |
 | Lawrence County, AR     |                89 |

@@ -2,7 +2,7 @@
 |-------------------------|-------------------|
 | Beaufort County, SC     |               147 |
 | Greenwood County, SC    |               143 |
-| Fairfield County, SC    |                90 |
+| Fairfield County, SC    |                 0 |
 | Dillon County, SC       |                89 |
 | Kershaw County, SC      |               146 |
 | Georgetown County, SC   |               146 |
@@ -19,7 +19,7 @@
 | Bamberg County, SC      |                89 |
 | McCormick County, SC    |                90 |
 | Laurens County, SC      |               143 |
-| Union County, SC        |                 0 |
+| Union County, SC        |                89 |
 | York County, SC         |               147 |
 | Florence County, SC     |               147 |
 | Greenville County, SC   |               143 |

@@ -48,7 +48,7 @@
 | DDSI06LCA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Saint Lucia                                                          | 1996-01-01          | 2016-01-01        |
 | DELCAA052SCEN     | Value of Exports to Saint Lucia from Delaware                                                                             | 2012-01-01          | 2012-01-01        |
 | DELCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Delaware                                                               | 1997-01-01          | 2016-01-01        |
-| EXP2487           | U.S. Exports of Goods by F.A.S. Basis to Saint Lucia                                                                      | 1992-01-01          | 2022-02-01        |
+| EXP2487           | U.S. Exports of Goods by F.A.S. Basis to Saint Lucia                                                                      | 1992-01-01          | 2022-03-01        |
 | FLLCAA052SCEN     | Value of Exports to Saint Lucia from Florida                                                                              | 1992-01-01          | 2015-01-01        |
 | FLLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Florida                                                                | 1992-01-01          | 2016-01-01        |
 | FPCPITOTLZGLCA    | Inflation, consumer prices for St. Lucia                                                                                  | 1966-01-01          | 2020-01-01        |
@@ -62,10 +62,10 @@
 | IDLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Idaho                                                                  | 1992-01-01          | 2015-01-01        |
 | ILLCAA052SCEN     | Value of Exports to Saint Lucia from Illinois                                                                             | 1992-01-01          | 2016-01-01        |
 | ILLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Illinois                                                               | 1992-01-01          | 2016-01-01        |
-| IMP2487           | U.S. Imports of Goods by Customs Basis from Saint Lucia                                                                   | 1992-01-01          | 2022-02-01        |
+| IMP2487           | U.S. Imports of Goods by Customs Basis from Saint Lucia                                                                   | 1992-01-01          | 2022-03-01        |
 | INLCAA052SCEN     | Value of Exports to Saint Lucia from Indiana                                                                              | 1992-01-01          | 2016-01-01        |
 | INLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Indiana                                                                | 1992-01-01          | 2016-01-01        |
-| ITNETUSERP2LCA    | Internet users for St. Lucia                                                                                              | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2LCA    | Internet users for St. Lucia                                                                                              | 1990-01-01          | 2020-01-01        |
 | KSLCAA052SCEN     | Value of Exports to Saint Lucia from Kansas                                                                               | 2002-01-01          | 2015-01-01        |
 | KSLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Kansas                                                                 | 1997-01-01          | 2016-01-01        |
 | KYLCAA052SCEN     | Value of Exports to Saint Lucia from Kentucky                                                                             | 1992-01-01          | 2016-01-01        |
@@ -147,8 +147,8 @@
 | SLAFCSODDXDC      | Use of Financial Services, Assets: Outstanding Loans at Other Deposit Takers for St. Lucia                                | 2007-01-01          | 2020-01-01        |
 | SMPOPNETMLCA      | Net migration for St. Lucia                                                                                               | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINLCA    | Infant Mortality Rate for St. Lucia                                                                                       | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INLCA    | Life Expectancy at Birth, Total for St. Lucia                                                                             | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINLCA    | Fertility Rate, Total for St. Lucia                                                                                       | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INLCA    | Life Expectancy at Birth, Total for St. Lucia                                                                             | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINLCA    | Fertility Rate, Total for St. Lucia                                                                                       | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSLCA  | Population ages 65 and above for St. Lucia                                                                                | 1960-01-01          | 2020-01-01        |
 | TNLCAA052SCEN     | Value of Exports to Saint Lucia from Tennessee                                                                            | 1992-01-01          | 2016-01-01        |
 | TNLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Tennessee                                                              | 1992-01-01          | 2016-01-01        |

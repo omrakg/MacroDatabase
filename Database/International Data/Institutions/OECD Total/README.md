@@ -5,7 +5,7 @@
 | OECDB6BLSI01CXCUQ   | Balance of payments BPM6: Current account Balance: Secondary income: Total Balance for OECD - Total                                          | 2005-01-01          | 2021-07-01        |
 | OECDB6BLTD01CXCUQ   | Balance of payments BPM6: Current account Balance: Goods: Total Balance for OECD - Total                                                     | 2005-01-01          | 2021-07-01        |
 | OECDB6BLTT01CXCUQ   | Balance of payments BPM6: Current account Balance: Total: Total Balance for OECD - Total                                                     | 2005-01-01          | 2021-07-01        |
-| OECDB6BLTT02STSAQ   | Balance of payments BPM6: Current account Balance: Total: Total Balance as % of GDP for OECD - Total                                         | 2005-01-01          | 2021-07-01        |
+| OECDB6BLTT02STSAQ   | Balance of payments BPM6: Current account Balance: Total: Total Balance as % of GDP for OECD - Total                                         | 2013-01-01          | 2021-07-01        |
 | OECDB6CRPI01CXCUQ   | Balance of payments BPM6: Current account Credits: Primary income: Total Credits for OECD - Total                                            | 2005-01-01          | 2021-07-01        |
 | OECDB6CRSE01CXCUQ   | Balance of payments BPM6: Current account Credits: Services: Total Credits for OECD - Total                                                  | 2005-01-01          | 2021-07-01        |
 | OECDB6CRSI01CXCUQ   | Balance of payments BPM6: Current account Credits: Secondary income: Total Credits for OECD - Total                                          | 2005-01-01          | 2021-07-01        |

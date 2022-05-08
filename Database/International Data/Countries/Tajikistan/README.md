@@ -56,7 +56,7 @@
 | DDSI07TJA156NWDB    | Provisions to Non-Performing Loans for Tajikistan                                                                                                 | 2006-01-01          | 2015-01-01        |
 | DEBTTLTJA188A       | Central government debt, total (% of GDP) for Tajikistan                                                                                          | 1999-01-01          | 2001-01-01        |
 | DETJKA475SCEN       | Number of Identified Exporters to Tajikistan from Delaware                                                                                        | 2004-01-01          | 2016-01-01        |
-| EXP4642             | U.S. Exports of Goods by F.A.S. Basis to Tajikistan                                                                                               | 1992-01-01          | 2022-02-01        |
+| EXP4642             | U.S. Exports of Goods by F.A.S. Basis to Tajikistan                                                                                               | 1992-01-01          | 2022-03-01        |
 | FLTJKA052SCEN       | Value of Exports to Tajikistan from Florida                                                                                                       | 2012-01-01          | 2017-01-01        |
 | FLTJKA475SCEN       | Number of Identified Exporters to Tajikistan from Florida                                                                                         | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGTJK      | Inflation, consumer prices for Tajikistan                                                                                                         | 2001-01-01          | 2016-01-01        |
@@ -68,7 +68,7 @@
 | IDTJKA475SCEN       | Number of Identified Exporters to Tajikistan from Idaho                                                                                           | 1997-01-01          | 2016-01-01        |
 | ILTJKA052SCEN       | Value of Exports to Tajikistan from Illinois                                                                                                      | 1997-01-01          | 2015-01-01        |
 | ILTJKA475SCEN       | Number of Identified Exporters to Tajikistan from Illinois                                                                                        | 1997-01-01          | 2016-01-01        |
-| IMP4642             | U.S. Imports of Goods by Customs Basis from Tajikistan                                                                                            | 1992-01-01          | 2022-02-01        |
+| IMP4642             | U.S. Imports of Goods by Customs Basis from Tajikistan                                                                                            | 1992-01-01          | 2022-03-01        |
 | INTJKA475SCEN       | Number of Identified Exporters to Tajikistan from Indiana                                                                                         | 2002-01-01          | 2016-01-01        |
 | ITNETUSERP2TJK      | Internet users for Tajikistan                                                                                                                     | 1990-01-01          | 2017-01-01        |
 | KSTJKA052SCEN       | Value of Exports to Tajikistan from Kansas                                                                                                        | 2007-01-01          | 2017-01-01        |
@@ -120,8 +120,8 @@
 | SEADTLITRZSTJK      | Literacy Rate, Adult Total for Tajikistan                                                                                                         | 1989-01-01          | 2014-01-01        |
 | SMPOPNETMTJK        | Net migration for Tajikistan                                                                                                                      | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINTJK      | Infant Mortality Rate for Tajikistan                                                                                                              | 1972-01-01          | 2020-01-01        |
-| SPDYNLE00INTJK      | Life Expectancy at Birth, Total for Tajikistan                                                                                                    | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINTJK      | Fertility Rate, Total for Tajikistan                                                                                                              | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INTJK      | Life Expectancy at Birth, Total for Tajikistan                                                                                                    | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINTJK      | Fertility Rate, Total for Tajikistan                                                                                                              | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSTJK    | Population ages 65 and above for Tajikistan                                                                                                       | 1960-01-01          | 2020-01-01        |
 | TJKBCAGDPGDPPT      | Current Account Balance for Tajikistan                                                                                                            | 2000-01-01          | 2023-01-01        |
 | TJKBCAUSD           | Balance on Current Account for Tajikistan                                                                                                         | 2000-01-01          | 2023-01-01        |

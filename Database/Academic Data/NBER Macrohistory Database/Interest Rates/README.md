@@ -1,8 +1,8 @@
 | id              | title                                                                                            | observation_start   | observation_end   |
 |-----------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ECBDFR          | ECB Deposit Facility Rate for Euro Area                                                          | 1999-01-01          | 2022-04-29        |
-| ECBMLFR         | ECB Marginal Lending Facility Rate for Euro Area                                                 | 1999-01-01          | 2022-04-29        |
-| ECBMRRFR        | ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                           | 1999-01-01          | 2022-04-29        |
+| ECBDFR          | ECB Deposit Facility Rate for Euro Area                                                          | 1999-01-01          | 2022-05-06        |
+| ECBMLFR         | ECB Marginal Lending Facility Rate for Euro Area                                                 | 1999-01-01          | 2022-05-06        |
+| ECBMRRFR        | ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                           | 1999-01-01          | 2022-05-06        |
 | INTDSRAUM193N   | Interest Rates, Discount Rate for Australia                                                      | 1969-07-01          | 2013-04-01        |
 | INTDSRBRM193N   | Interest Rates, Discount Rate for Brazil                                                         | 1996-10-01          | 2022-02-01        |
 | INTDSRCAM193N   | Interest Rates, Discount Rate for Canada                                                         | 1992-12-01          | 2013-01-01        |
@@ -183,7 +183,7 @@
 | IR3TIB01PTA156N | 3-Month or 90-day Rates and Yields: Interbank Rates for Portugal                                 | 1986-01-01          | 2021-01-01        |
 | IR3TIB01PTM156N | 3-Month or 90-day Rates and Yields: Interbank Rates for Portugal                                 | 1985-08-01          | 2022-03-01        |
 | IR3TIB01PTQ156N | 3-Month or 90-day Rates and Yields: Interbank Rates for Portugal                                 | 1985-10-01          | 2022-01-01        |
-| IR3TIB01RUA156N | 3-Month or 90-day Rates and Yields: Interbank Rates for the Russian Federation                   | 1997-01-01          | 2019-01-01        |
+| IR3TIB01RUA156N | 3-Month or 90-day Rates and Yields: Interbank Rates for the Russian Federation                   | 1997-01-01          | 2021-01-01        |
 | IR3TIB01RUM156N | 3-Month or 90-day Rates and Yields: Interbank Rates for the Russian Federation                   | 1997-01-01          | 2021-12-01        |
 | IR3TIB01RUQ156N | 3-Month or 90-day Rates and Yields: Interbank Rates for the Russian Federation                   | 1997-01-01          | 2021-10-01        |
 | IR3TIB01SEA156N | 3-Month or 90-day Rates and Yields: Interbank Rates for Sweden                                   | 1982-01-01          | 2021-01-01        |

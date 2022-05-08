@@ -25,7 +25,7 @@
 | Nevada County, CA               |               147 |
 | Humboldt County, CA             |               147 |
 | Del Norte County, CA            |                90 |
-| Napa County, CA                 |               147 |
+| Napa County, CA                 |                 0 |
 | Contra Costa County, CA         |               147 |
 | Solano County, CA               |               147 |
 | Santa Clara County, CA          |               147 |

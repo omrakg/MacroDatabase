@@ -5,7 +5,7 @@
 | Des Moines-West Des Moines, IA      |               196 |
 | Omaha-Council Bluffs, NE-IA         |                 0 |
 | Dubuque, IA                         |               107 |
-| Davenport-Moline-Rock Island, IA-IL |               179 |
+| Davenport-Moline-Rock Island, IA-IL |                 0 |
 | Ames, IA                            |                98 |
 | Waterloo-Cedar Falls, IA            |               155 |
 | Cedar Rapids, IA                    |               176 |

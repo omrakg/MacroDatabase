@@ -115,7 +115,7 @@
 | ETHPCPIPCPPPT       | Consumer Prices: All Items for Ethiopia                                                                                               | 2004-01-01          | 2023-01-01        |
 | ETHTTTIX            | Terms of Trade for Goods for Ethiopia                                                                                                 | 2004-01-01          | 2023-01-01        |
 | EXP7740             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1992-01-01          | 2003-12-01        |
-| EXP7749             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1993-01-01          | 2022-02-01        |
+| EXP7749             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1993-01-01          | 2022-03-01        |
 | FLETHA052SCEN       | Value of Exports to Ethiopia from Florida                                                                                             | 1992-01-01          | 2017-01-01        |
 | FLETHA475SCEN       | Number of Identified Exporters to Ethiopia from Florida                                                                               | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGETH      | Inflation, consumer prices for Ethiopia                                                                                               | 1966-01-01          | 2019-01-01        |
@@ -130,10 +130,10 @@
 | ILETHA052SCEN       | Value of Exports to Ethiopia from Illinois                                                                                            | 1992-01-01          | 2017-01-01        |
 | ILETHA475SCEN       | Number of Identified Exporters to Ethiopia from Illinois                                                                              | 1992-01-01          | 2017-01-01        |
 | IMP7740             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1992-01-01          | 2003-12-01        |
-| IMP7749             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1993-01-01          | 2022-02-01        |
+| IMP7749             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1993-01-01          | 2022-03-01        |
 | INETHA052SCEN       | Value of Exports to Ethiopia from Indiana                                                                                             | 1997-01-01          | 2017-01-01        |
 | INETHA475SCEN       | Number of Identified Exporters to Ethiopia from Indiana                                                                               | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2ETH      | Internet users for Ethiopia                                                                                                           | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2ETH      | Internet users for Ethiopia                                                                                                           | 1990-01-01          | 2020-01-01        |
 | KSETHA052SCEN       | Value of Exports to Ethiopia from Kansas                                                                                              | 2002-01-01          | 2017-01-01        |
 | KSETHA475SCEN       | Number of Identified Exporters to Ethiopia from Kansas                                                                                | 1992-01-01          | 2017-01-01        |
 | KYETHA052SCEN       | Value of Exports to Ethiopia from Kentucky                                                                                            | 2006-01-01          | 2017-01-01        |
@@ -194,8 +194,8 @@
 | SEADTLITRZSETH      | Literacy Rate, Adult Total for Ethiopia                                                                                               | 1994-01-01          | 2017-01-01        |
 | SMPOPNETMETH        | Net migration for Ethiopia                                                                                                            | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINETH      | Infant Mortality Rate for Ethiopia                                                                                                    | 1966-01-01          | 2020-01-01        |
-| SPDYNLE00INETH      | Life Expectancy at Birth, Total for Ethiopia                                                                                          | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINETH      | Fertility Rate, Total for Ethiopia                                                                                                    | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INETH      | Life Expectancy at Birth, Total for Ethiopia                                                                                          | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINETH      | Fertility Rate, Total for Ethiopia                                                                                                    | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSETH    | Population ages 65 and above for Ethiopia                                                                                             | 1960-01-01          | 2020-01-01        |
 | TNETHA052SCEN       | Value of Exports to Ethiopia from Tennessee                                                                                           | 1997-01-01          | 2017-01-01        |
 | TNETHA475SCEN       | Number of Identified Exporters to Ethiopia from Tennessee                                                                             | 1992-01-01          | 2017-01-01        |

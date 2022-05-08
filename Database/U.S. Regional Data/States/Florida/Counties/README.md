@@ -13,11 +13,11 @@
 | Liberty County, FL      |                88 |
 | Indian River County, FL |               147 |
 | Sumter County, FL       |               147 |
-| Hamilton County, FL     |                 0 |
+| Hamilton County, FL     |                89 |
 | Hardee County, FL       |                90 |
 | Gadsden County, FL      |                90 |
 | Putnam County, FL       |               147 |
-| Washington County, FL   |                90 |
+| Washington County, FL   |                 0 |
 | Santa Rosa County, FL   |               147 |
 | Hillsborough County, FL |               147 |
 | St. Johns County, FL    |               147 |

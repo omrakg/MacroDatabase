@@ -6,7 +6,7 @@
 | CACOKA475SCEN | Number of Identified Exporters to Cook Islands from California     | 1992-01-01          | 2017-01-01        |
 | COCOKA475SCEN | Number of Identified Exporters to Cook Islands from Colorado       | 2007-01-01          | 2014-01-01        |
 | CTCOKA475SCEN | Number of Identified Exporters to Cook Islands from Connecticut    | 2003-01-01          | 2016-01-01        |
-| EXP6142       | U.S. Exports of Goods by F.A.S. Basis to Cook Islands              | 1992-01-01          | 2022-02-01        |
+| EXP6142       | U.S. Exports of Goods by F.A.S. Basis to Cook Islands              | 1992-01-01          | 2022-03-01        |
 | FLCOKA052SCEN | Value of Exports to Cook Islands from Florida                      | 2007-01-01          | 2017-01-01        |
 | FLCOKA475SCEN | Number of Identified Exporters to Cook Islands from Florida        | 2002-01-01          | 2017-01-01        |
 | GACOKA052SCEN | Value of Exports to Cook Islands from Georgia                      | 2015-01-01          | 2015-01-01        |
@@ -17,7 +17,7 @@
 | IDCOKA475SCEN | Number of Identified Exporters to Cook Islands from Idaho          | 1997-01-01          | 2014-01-01        |
 | ILCOKA052SCEN | Value of Exports to Cook Islands from Illinois                     | 2012-01-01          | 2017-01-01        |
 | ILCOKA475SCEN | Number of Identified Exporters to Cook Islands from Illinois       | 1992-01-01          | 2017-01-01        |
-| IMP6142       | U.S. Imports of Goods by Customs Basis from Cook Islands           | 1992-01-01          | 2022-02-01        |
+| IMP6142       | U.S. Imports of Goods by Customs Basis from Cook Islands           | 1992-01-01          | 2022-03-01        |
 | INCOKA475SCEN | Number of Identified Exporters to Cook Islands from Indiana        | 2004-01-01          | 2016-01-01        |
 | KSCOKA475SCEN | Number of Identified Exporters to Cook Islands from Kansas         | 1992-01-01          | 2013-01-01        |
 | LACOKA475SCEN | Number of Identified Exporters to Cook Islands from Louisiana      | 2004-01-01          | 2015-01-01        |

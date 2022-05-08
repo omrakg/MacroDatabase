@@ -13,7 +13,7 @@
 | Beadle County, SD        |                89 |
 | Spink County, SD         |                89 |
 | McPherson County, SD     |                88 |
-| Hyde County, SD          |                86 |
+| Hyde County, SD          |                 0 |
 | Jerauld County, SD       |                88 |
 | Clark County, SD         |                88 |
 | Oglala Lakota County, SD |                46 |
@@ -43,7 +43,7 @@
 | Perkins County, SD       |                89 |
 | Custer County, SD        |                89 |
 | Minnehaha County, SD     |               147 |
-| Day County, SD           |                 0 |
+| Day County, SD           |                88 |
 | Jones County, SD         |                83 |
 | Ziebach County, SD       |                87 |
 | Roberts County, SD       |                89 |

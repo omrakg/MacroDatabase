@@ -19,12 +19,12 @@
 | Johnson County, GA       |                88 |
 | Spalding County, GA      |               146 |
 | Jenkins County, GA       |                87 |
-| Dooly County, GA         |                 0 |
+| Dooly County, GA         |                89 |
 | Bleckley County, GA      |                89 |
 | Gilmer County, GA        |                90 |
 | Stephens County, GA      |                90 |
 | Miller County, GA        |                87 |
-| Clayton County, GA       |               147 |
+| Clayton County, GA       |                 0 |
 | Floyd County, GA         |               147 |
 | Gwinnett County, GA      |               147 |
 | Emanuel County, GA       |                88 |
@@ -79,7 +79,7 @@
 | Lee County, GA           |                90 |
 | De Kalb County, GA       |               147 |
 | Atkinson County, GA      |                88 |
-| Fulton County, GA        |                 0 |
+| Fulton County, GA        |               147 |
 | Effingham County, GA     |               145 |
 | Evans County, GA         |                87 |
 | Wilcox County, GA        |                87 |
@@ -87,7 +87,7 @@
 | Whitfield County, GA     |               147 |
 | Wayne County, GA         |                89 |
 | Coffee County, GA        |                89 |
-| McIntosh County, GA      |                89 |
+| McIntosh County, GA      |                 0 |
 | Cobb County, GA          |               147 |
 | Randolph County, GA      |                88 |
 | Candler County, GA       |                89 |
@@ -147,7 +147,7 @@
 | Ware County, GA          |                89 |
 | Paulding County, GA      |               147 |
 | Richmond County, GA      |               146 |
-| Coweta County, GA        |               146 |
+| Coweta County, GA        |                 0 |
 | McDuffie County, GA      |                90 |
 | Oglethorpe County, GA    |                90 |
 | Thomas County, GA        |                90 |

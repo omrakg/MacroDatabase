@@ -58,7 +58,7 @@
 | Wagoner County, OK      |               147 |
 | Caddo County, OK        |                89 |
 | Muskogee County, OK     |               147 |
-| Texas County, OK        |                90 |
+| Texas County, OK        |                 0 |
 | Pittsburg County, OK    |                90 |
 | Noble County, OK        |                90 |
 | Seminole County, OK     |                90 |
@@ -74,6 +74,6 @@
 | Jefferson County, OK    |                87 |
 | Grant County, OK        |                87 |
 | Ellis County, OK        |                88 |
-| Blaine County, OK       |                 0 |
+| Blaine County, OK       |                89 |
 | Tulsa County, OK        |               147 |
 | Murray County, OK       |                90 |

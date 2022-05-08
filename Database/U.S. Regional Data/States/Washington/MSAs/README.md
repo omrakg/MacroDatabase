@@ -1,6 +1,6 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| Longview, WA                          |               123 |
+| Longview, WA                          |                 0 |
 | Mount Vernon-Anacortes, WA            |               117 |
 | Spokane-Spokane Valley, WA            |               186 |
 | Bremerton-Silverdale-Port Orchard, WA |               140 |

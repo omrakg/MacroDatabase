@@ -23,7 +23,7 @@
 | HORAMSA41860              | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA41860            | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA41860              | Market Hotness: Hotness Score in San Francisco-Oakland-Hayward, CA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
-| IHLCHG41860               | Job Postings on Indeed in San Francisco-Oakland-Berkeley, CA (MSA)                                                                 | 2020-02-01          | 2022-04-22        |
+| IHLCHG41860               | Job Postings on Indeed in San Francisco-Oakland-Berkeley, CA (MSA)                                                                 | 2020-02-01          | 2022-04-29        |
 | IRPD41860                 | Implicit Regional Price Deflator for San Francisco-Oakland-Hayward, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT064186000000003A     | Unemployment Rate in San Francisco-Oakland-Hayward, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT064186000000004      | Unemployed Persons in San Francisco-Oakland-Hayward, CA (MSA)                                                                      | 1990-01-01          | 2022-03-01        |

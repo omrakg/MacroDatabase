@@ -155,7 +155,7 @@
 | LCEAMN01ILA661N | Hourly Earnings: Manufacturing for Israel                   | 1995-01-01          | 2021-01-01        |
 | LCEAMN01ILM189N | Hourly Earnings: Manufacturing for Israel                   | 1995-01-01          | 2022-01-01        |
 | LCEAMN01ILM657S | Hourly Earnings: Manufacturing for Israel                   | 1995-02-01          | 2022-01-01        |
-| LCEAMN01ILM659S | Hourly Earnings: Manufacturing for Israel                   | 1996-01-01          | 2021-11-01        |
+| LCEAMN01ILM659S | Hourly Earnings: Manufacturing for Israel                   | 1996-01-01          | 2022-01-01        |
 | LCEAMN01ILM661N | Hourly Earnings: Manufacturing for Israel                   | 1995-01-01          | 2022-01-01        |
 | LCEAMN01ILQ189N | Hourly Earnings: Manufacturing for Israel                   | 1995-01-01          | 2021-10-01        |
 | LCEAMN01ILQ657S | Hourly Earnings: Manufacturing for Israel                   | 1995-04-01          | 2021-10-01        |

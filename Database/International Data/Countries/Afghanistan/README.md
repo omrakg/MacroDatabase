@@ -115,7 +115,7 @@
 | DDSI04AFA156NWDB     | Bank Credit to Bank Deposits for Afghanistan                                                                                             | 1960-01-01          | 2019-01-01        |
 | DEAFGA052SCEN        | Value of Exports to Afghanistan from Delaware                                                                                            | 2010-01-01          | 2016-01-01        |
 | DEAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Delaware                                                                              | 1992-01-01          | 2017-01-01        |
-| EXP5310              | U.S. Exports of Goods by F.A.S. Basis to Afghanistan                                                                                     | 1992-01-01          | 2022-02-01        |
+| EXP5310              | U.S. Exports of Goods by F.A.S. Basis to Afghanistan                                                                                     | 1992-01-01          | 2022-03-01        |
 | FLAFGA052SCEN        | Value of Exports to Afghanistan from Florida                                                                                             | 2003-01-01          | 2017-01-01        |
 | FLAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Florida                                                                               | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGAFG       | Inflation, consumer prices for the Islamic Republic of Afghanistan                                                                       | 2005-01-01          | 2019-01-01        |
@@ -129,10 +129,10 @@
 | IDAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Idaho                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILAFGA052SCEN        | Value of Exports to Afghanistan from Illinois                                                                                            | 2002-01-01          | 2017-01-01        |
 | ILAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Illinois                                                                              | 1997-01-01          | 2017-01-01        |
-| IMP5310              | U.S. Imports of Goods by Customs Basis from Afghanistan                                                                                  | 1992-01-01          | 2022-02-01        |
+| IMP5310              | U.S. Imports of Goods by Customs Basis from Afghanistan                                                                                  | 1992-01-01          | 2022-03-01        |
 | INAFGA052SCEN        | Value of Exports to Afghanistan from Indiana                                                                                             | 2004-01-01          | 2017-01-01        |
 | INAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Indiana                                                                               | 2003-01-01          | 2017-01-01        |
-| ITNETUSERP2AFG       | Internet users for the Islamic Republic of Afghanistan                                                                                   | 1990-01-01          | 2015-01-01        |
+| ITNETUSERP2AFG       | Internet users for the Islamic Republic of Afghanistan                                                                                   | 1990-01-01          | 2020-01-01        |
 | KSAFGA052SCEN        | Value of Exports to Afghanistan from Kansas                                                                                              | 2005-01-01          | 2016-01-01        |
 | KSAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Kansas                                                                                | 2003-01-01          | 2017-01-01        |
 | KYAFGA052SCEN        | Value of Exports to Afghanistan from Kentucky                                                                                            | 2003-01-01          | 2016-01-01        |
@@ -188,11 +188,11 @@
 | SCAFGA475SCEN        | Number of Identified Exporters to Afghanistan from South Carolina                                                                        | 1992-01-01          | 2017-01-01        |
 | SDAFGA052SCEN        | Value of Exports to Afghanistan from South Dakota                                                                                        | 2012-01-01          | 2012-01-01        |
 | SDAFGA475SCEN        | Number of Identified Exporters to Afghanistan from South Dakota                                                                          | 2003-01-01          | 2016-01-01        |
-| SEADTLITRZSAFG       | Literacy Rate, Adult Total for the Islamic Republic of Afghanistan                                                                       | 1979-01-01          | 2011-01-01        |
+| SEADTLITRZSAFG       | Literacy Rate, Adult Total for the Islamic Republic of Afghanistan                                                                       | 1979-01-01          | 2021-01-01        |
 | SMPOPNETMAFG         | Net migration for the Islamic Republic of Afghanistan                                                                                    | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINAFG       | Infant Mortality Rate for the Islamic Republic of Afghanistan                                                                            | 1961-01-01          | 2020-01-01        |
-| SPDYNLE00INAFG       | Life Expectancy at Birth, Total for the Islamic Republic of Afghanistan                                                                  | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINAFG       | Fertility Rate, Total for the Islamic Republic of Afghanistan                                                                            | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INAFG       | Life Expectancy at Birth, Total for the Islamic Republic of Afghanistan                                                                  | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINAFG       | Fertility Rate, Total for the Islamic Republic of Afghanistan                                                                            | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSAFG     | Population ages 65 and above for the Islamic Republic of Afghanistan                                                                     | 1960-01-01          | 2020-01-01        |
 | TNAFGA052SCEN        | Value of Exports to Afghanistan from Tennessee                                                                                           | 2002-01-01          | 2017-01-01        |
 | TNAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Tennessee                                                                             | 1992-01-01          | 2017-01-01        |

@@ -23,7 +23,7 @@
 | Montgomery County, NC   |                90 |
 | Wake County, NC         |               147 |
 | Chowan County, NC       |                90 |
-| Orange County, NC       |                 0 |
+| Orange County, NC       |               147 |
 | Pasquotank County, NC   |                89 |
 | Perquimans County, NC   |                90 |
 | Randolph County, NC     |               147 |
@@ -31,7 +31,7 @@
 | Stanly County, NC       |               146 |
 | Cumberland County, NC   |               147 |
 | Guilford County, NC     |               147 |
-| Moore County, NC        |               147 |
+| Moore County, NC        |                 0 |
 | Camden County, NC       |                89 |
 | Jones County, NC        |                90 |
 | Columbus County, NC     |                90 |
@@ -91,7 +91,7 @@
 | Chatham County, NC      |               146 |
 | Avery County, NC        |                90 |
 | Surry County, NC        |               147 |
-| McDowell County, NC     |                90 |
+| McDowell County, NC     |                 0 |
 | Madison County, NC      |                90 |
 | Swain County, NC        |                88 |
 | Yancey County, NC       |                90 |

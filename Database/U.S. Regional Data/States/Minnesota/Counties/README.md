@@ -41,7 +41,7 @@
 | Lake County, MN              |                89 |
 | Dakota County, MN            |               147 |
 | Waseca County, MN            |                90 |
-| Watonwan County, MN          |                89 |
+| Watonwan County, MN          |                 0 |
 | Cottonwood County, MN        |                89 |
 | Pope County, MN              |                90 |
 | Mille Lacs County, MN        |                89 |
@@ -71,7 +71,7 @@
 | Carlton County, MN           |                90 |
 | Yellow Medicine County, MN   |                89 |
 | Pine County, MN              |                90 |
-| Beltrami County, MN          |                 0 |
+| Beltrami County, MN          |                90 |
 | Cook County, MN              |                90 |
 | Le Sueur County, MN          |                89 |
 | Olmsted County, MN           |               147 |

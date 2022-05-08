@@ -1,7 +1,7 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
 | Daggett County, UT    |                86 |
-| Weber County, UT      |                 0 |
+| Weber County, UT      |               147 |
 | Box Elder County, UT  |                90 |
 | Carbon County, UT     |                90 |
 | Kane County, UT       |                89 |

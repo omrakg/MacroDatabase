@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Upshur County, WV     |                90 |
+| Upshur County, WV     |                 0 |
 | Putnam County, WV     |               144 |
 | Calhoun County, WV    |                87 |
 | Harrison County, WV   |               147 |

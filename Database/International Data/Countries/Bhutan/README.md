@@ -83,10 +83,10 @@
 | DDSI06BTA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Bhutan                                                          | 1996-01-01          | 2016-01-01        |
 | DDSI07BTA156NWDB  | Provisions to Non-Performing Loans for Bhutan                                                                        | 2009-01-01          | 2019-01-01        |
 | DEBTTLBTA188A     | Central government debt, total (% of GDP) for Bhutan                                                                 | 1990-01-01          | 2016-01-01        |
-| EXP5682           | U.S. Exports of Goods by F.A.S. Basis to Bhutan                                                                      | 1992-01-01          | 2022-02-01        |
+| EXP5682           | U.S. Exports of Goods by F.A.S. Basis to Bhutan                                                                      | 1992-01-01          | 2022-03-01        |
 | FLBTNA052SCEN     | Value of Exports to Bhutan from Florida                                                                              | 2005-01-01          | 2016-01-01        |
 | FLBTNA475SCEN     | Number of Identified Exporters to Bhutan from Florida                                                                | 1997-01-01          | 2016-01-01        |
-| FPCPITOTLZGBTN    | Inflation, consumer prices for Bhutan                                                                                | 1981-01-01          | 2020-01-01        |
+| FPCPITOTLZGBTN    | Inflation, consumer prices for Bhutan                                                                                | 1981-01-01          | 2021-01-01        |
 | GABTNA052SCEN     | Value of Exports to Bhutan from Georgia                                                                              | 2016-01-01          | 2016-01-01        |
 | GABTNA475SCEN     | Number of Identified Exporters to Bhutan from Georgia                                                                | 1997-01-01          | 2016-01-01        |
 | IABTNA475SCEN     | Number of Identified Exporters to Bhutan from Iowa                                                                   | 2007-01-01          | 2015-01-01        |
@@ -94,10 +94,10 @@
 | IDBTNA475SCEN     | Number of Identified Exporters to Bhutan from Idaho                                                                  | 2006-01-01          | 2015-01-01        |
 | ILBTNA052SCEN     | Value of Exports to Bhutan from Illinois                                                                             | 2008-01-01          | 2013-01-01        |
 | ILBTNA475SCEN     | Number of Identified Exporters to Bhutan from Illinois                                                               | 1992-01-01          | 2016-01-01        |
-| IMP5682           | U.S. Imports of Goods by Customs Basis from Bhutan                                                                   | 1992-01-01          | 2022-02-01        |
+| IMP5682           | U.S. Imports of Goods by Customs Basis from Bhutan                                                                   | 1992-01-01          | 2022-03-01        |
 | INBTNA052SCEN     | Value of Exports to Bhutan from Indiana                                                                              | 2007-01-01          | 2007-01-01        |
 | INBTNA475SCEN     | Number of Identified Exporters to Bhutan from Indiana                                                                | 2004-01-01          | 2014-01-01        |
-| ITNETUSERP2BTN    | Internet users for Bhutan                                                                                            | 1990-01-01          | 2016-01-01        |
+| ITNETUSERP2BTN    | Internet users for Bhutan                                                                                            | 1990-01-01          | 2020-01-01        |
 | KSBTNA475SCEN     | Number of Identified Exporters to Bhutan from Kansas                                                                 | 2004-01-01          | 2007-01-01        |
 | KYBTNA475SCEN     | Number of Identified Exporters to Bhutan from Kentucky                                                               | 2007-01-01          | 2016-01-01        |
 | LABTNA475SCEN     | Number of Identified Exporters to Bhutan from Louisiana                                                              | 2004-01-01          | 2010-01-01        |
@@ -138,8 +138,8 @@
 | SEADTLITRZSBTN    | Literacy Rate, Adult Total for Bhutan                                                                                | 2005-01-01          | 2017-01-01        |
 | SMPOPNETMBTN      | Net migration for Bhutan                                                                                             | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINBTN    | Infant Mortality Rate for Bhutan                                                                                     | 1969-01-01          | 2020-01-01        |
-| SPDYNLE00INBTN    | Life Expectancy at Birth, Total for Bhutan                                                                           | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINBTN    | Fertility Rate, Total for Bhutan                                                                                     | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INBTN    | Life Expectancy at Birth, Total for Bhutan                                                                           | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINBTN    | Fertility Rate, Total for Bhutan                                                                                     | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSBTN  | Population ages 65 and above for Bhutan                                                                              | 1960-01-01          | 2020-01-01        |
 | TNBTNA475SCEN     | Number of Identified Exporters to Bhutan from Tennessee                                                              | 1992-01-01          | 2014-01-01        |
 | TXBTNA052SCEN     | Value of Exports to Bhutan from Texas                                                                                | 2008-01-01          | 2017-01-01        |

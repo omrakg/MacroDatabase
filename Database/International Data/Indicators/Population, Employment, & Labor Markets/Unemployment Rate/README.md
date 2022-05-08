@@ -603,7 +603,7 @@
 | LRHU24TTGBA156N | Harmonized Unemployment: Aged 15-24: All Persons for the United Kingdom      | 1983-01-01          | 2021-01-01        |
 | LRHU24TTGBA156S | Harmonized Unemployment: Aged 15-24: All Persons for the United Kingdom      | 1983-01-01          | 2021-01-01        |
 | LRHU24TTGBM156N | Harmonized Unemployment: Aged 15-24: All Persons for the United Kingdom      | 1983-01-01          | 2021-12-01        |
-| LRHU24TTGBM156S | Harmonized Unemployment: Aged 15-24: All Persons for the United Kingdom      | 1983-01-01          | 2021-11-01        |
+| LRHU24TTGBM156S | Harmonized Unemployment: Aged 15-24: All Persons for the United Kingdom      | 1983-01-01          | 2022-02-01        |
 | LRHU24TTGBQ156N | Harmonized Unemployment: Aged 15-24: All Persons for the United Kingdom      | 1983-01-01          | 2021-10-01        |
 | LRHU24TTGBQ156S | Harmonized Unemployment: Aged 15-24: All Persons for the United Kingdom      | 1983-01-01          | 2022-01-01        |
 | LRHU24TTGRA156N | Harmonized Unemployment: Aged 15-24: All Persons for Greece                  | 1999-01-01          | 2021-01-01        |

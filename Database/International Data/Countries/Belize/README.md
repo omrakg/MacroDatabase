@@ -107,7 +107,7 @@
 | DDSI06BZA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Belize                                                                                 | 1996-01-01          | 2017-01-01        |
 | DEBLZA475SCEN       | Number of Identified Exporters to Belize from Delaware                                                                                      | 2003-01-01          | 2016-01-01        |
 | DEBTTLBZA188A       | Central government debt, total (% of GDP) for Belize                                                                                        | 1990-01-01          | 2014-01-01        |
-| EXP2080             | U.S. Exports of Goods by F.A.S. Basis to Belize                                                                                             | 1992-01-01          | 2022-02-01        |
+| EXP2080             | U.S. Exports of Goods by F.A.S. Basis to Belize                                                                                             | 1992-01-01          | 2022-03-01        |
 | FLBLZA052SCEN       | Value of Exports to Belize from Florida                                                                                                     | 1992-01-01          | 2016-01-01        |
 | FLBLZA475SCEN       | Number of Identified Exporters to Belize from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGBLZ      | Inflation, consumer prices for Belize                                                                                                       | 1981-01-01          | 2017-01-01        |
@@ -130,10 +130,10 @@
 | IDSGAMRINIBZ        | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Belize         | 2002-07-01          | 2021-10-01        |
 | ILBLZA052SCEN       | Value of Exports to Belize from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILBLZA475SCEN       | Number of Identified Exporters to Belize from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP2080             | U.S. Imports of Goods by Customs Basis from Belize                                                                                          | 1992-01-01          | 2022-02-01        |
+| IMP2080             | U.S. Imports of Goods by Customs Basis from Belize                                                                                          | 1992-01-01          | 2022-03-01        |
 | INBLZA052SCEN       | Value of Exports to Belize from Indiana                                                                                                     | 1997-01-01          | 2017-01-01        |
 | INBLZA475SCEN       | Number of Identified Exporters to Belize from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2BLZ      | Internet users for Belize                                                                                                                   | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2BLZ      | Internet users for Belize                                                                                                                   | 1990-01-01          | 2019-01-01        |
 | KSBLZA052SCEN       | Value of Exports to Belize from Kansas                                                                                                      | 2006-01-01          | 2017-01-01        |
 | KSBLZA475SCEN       | Number of Identified Exporters to Belize from Kansas                                                                                        | 1992-01-01          | 2017-01-01        |
 | KYBLZA052SCEN       | Value of Exports to Belize from Kentucky                                                                                                    | 1992-01-01          | 2017-01-01        |
@@ -195,8 +195,8 @@
 | SEADTLITRZSBLZ      | Literacy Rate, Adult Total for Belize                                                                                                       | 1991-01-01          | 2000-01-01        |
 | SMPOPNETMBLZ        | Net migration for Belize                                                                                                                    | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINBLZ      | Infant Mortality Rate for Belize                                                                                                            | 1967-01-01          | 2020-01-01        |
-| SPDYNLE00INBLZ      | Life Expectancy at Birth, Total for Belize                                                                                                  | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINBLZ      | Fertility Rate, Total for Belize                                                                                                            | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INBLZ      | Life Expectancy at Birth, Total for Belize                                                                                                  | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINBLZ      | Fertility Rate, Total for Belize                                                                                                            | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSBLZ    | Population ages 65 and above for Belize                                                                                                     | 1960-01-01          | 2020-01-01        |
 | TNBLZA052SCEN       | Value of Exports to Belize from Tennessee                                                                                                   | 1992-01-01          | 2017-01-01        |
 | TNBLZA475SCEN       | Number of Identified Exporters to Belize from Tennessee                                                                                     | 1992-01-01          | 2017-01-01        |

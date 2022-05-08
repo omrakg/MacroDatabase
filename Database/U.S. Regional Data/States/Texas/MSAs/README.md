@@ -17,7 +17,7 @@
 | Sherman-Denison, TX                  |               137 |
 | Abilene, TX                          |               162 |
 | College Station-Bryan, TX            |               162 |
-| Laredo, TX                           |                 0 |
+| Laredo, TX                           |               218 |
 | Odessa, TX                           |               166 |
 | Dallas-Fort Worth-Arlington, TX      |               245 |
 | San Angelo, TX                       |               142 |

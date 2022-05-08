@@ -11,6 +11,6 @@
 | Chittenden County, VT |               147 |
 | Orleans County, VT    |                90 |
 | Orange County, VT     |                90 |
-| Lamoille County, VT   |                90 |
+| Lamoille County, VT   |                 0 |
 | Essex County, VT      |                89 |
 | Windham County, VT    |                90 |

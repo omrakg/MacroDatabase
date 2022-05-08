@@ -76,10 +76,10 @@
 | DEBTTLKEA188A       | Central government debt, total (% of GDP) for Kenya                                                                                     | 1998-01-01          | 1999-01-01        |
 | DEKENA052SCEN       | Value of Exports to Kenya from Delaware                                                                                                 | 2003-01-01          | 2016-01-01        |
 | DEKENA475SCEN       | Number of Identified Exporters to Kenya from Delaware                                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP7790             | U.S. Exports of Goods by F.A.S. Basis to Kenya                                                                                          | 1992-01-01          | 2022-02-01        |
+| EXP7790             | U.S. Exports of Goods by F.A.S. Basis to Kenya                                                                                          | 1992-01-01          | 2022-03-01        |
 | FLKENA052SCEN       | Value of Exports to Kenya from Florida                                                                                                  | 1992-01-01          | 2017-01-01        |
 | FLKENA475SCEN       | Number of Identified Exporters to Kenya from Florida                                                                                    | 1992-01-01          | 2017-01-01        |
-| FPCPITOTLZGKEN      | Inflation, consumer prices for Kenya                                                                                                    | 1960-01-01          | 2020-01-01        |
+| FPCPITOTLZGKEN      | Inflation, consumer prices for Kenya                                                                                                    | 1960-01-01          | 2021-01-01        |
 | GAKENA052SCEN       | Value of Exports to Kenya from Georgia                                                                                                  | 1992-01-01          | 2017-01-01        |
 | GAKENA475SCEN       | Number of Identified Exporters to Kenya from Georgia                                                                                    | 1992-01-01          | 2017-01-01        |
 | HIKENA052SCEN       | Value of Exports to Kenya from Hawaii                                                                                                   | 2007-01-01          | 2007-01-01        |
@@ -97,10 +97,10 @@
 | IDSGAMNINIKE        | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kenya                             | 1997-10-01          | 2021-04-01        |
 | ILKENA052SCEN       | Value of Exports to Kenya from Illinois                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILKENA475SCEN       | Number of Identified Exporters to Kenya from Illinois                                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7790             | U.S. Imports of Goods by Customs Basis from Kenya                                                                                       | 1992-01-01          | 2022-02-01        |
+| IMP7790             | U.S. Imports of Goods by Customs Basis from Kenya                                                                                       | 1992-01-01          | 2022-03-01        |
 | INKENA052SCEN       | Value of Exports to Kenya from Indiana                                                                                                  | 1992-01-01          | 2017-01-01        |
 | INKENA475SCEN       | Number of Identified Exporters to Kenya from Indiana                                                                                    | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2KEN      | Internet users for Kenya                                                                                                                | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2KEN      | Internet users for Kenya                                                                                                                | 1990-01-01          | 2020-01-01        |
 | KENBCABP6GDPPT      | Net Current Account Total for Kenya                                                                                                     | 2004-01-01          | 2023-01-01        |
 | KENBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Kenya                                     | 2004-01-01          | 2023-01-01        |
 | KENBGSBP6GDPPT      | Goods and Services: Net for Kenya                                                                                                       | 2004-01-01          | 2023-01-01        |
@@ -245,8 +245,8 @@
 | SEADTLITRZSKEN      | Literacy Rate, Adult Total for Kenya                                                                                                    | 2000-01-01          | 2018-01-01        |
 | SMPOPNETMKEN        | Net migration for Kenya                                                                                                                 | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINKEN      | Infant Mortality Rate for Kenya                                                                                                         | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INKEN      | Life Expectancy at Birth, Total for Kenya                                                                                               | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINKEN      | Fertility Rate, Total for Kenya                                                                                                         | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INKEN      | Life Expectancy at Birth, Total for Kenya                                                                                               | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINKEN      | Fertility Rate, Total for Kenya                                                                                                         | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSKEN    | Population ages 65 and above for Kenya                                                                                                  | 1960-01-01          | 2020-01-01        |
 | TNKENA052SCEN       | Value of Exports to Kenya from Tennessee                                                                                                | 1992-01-01          | 2017-01-01        |
 | TNKENA475SCEN       | Number of Identified Exporters to Kenya from Tennessee                                                                                  | 1992-01-01          | 2017-01-01        |

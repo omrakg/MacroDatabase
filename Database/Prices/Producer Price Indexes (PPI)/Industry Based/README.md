@@ -1,7 +1,7 @@
 | Folder                                                                   |   Files / Folders |
 |--------------------------------------------------------------------------|-------------------|
 | Public Administration                                                    |                13 |
-| Health Care and Social Assistance                                        |               137 |
+| Health Care and Social Assistance                                        |                 0 |
 | Finance and Insurance                                                    |               167 |
 | Information                                                              |                 0 |
 | Educational Services                                                     |                 6 |

@@ -66,7 +66,7 @@
 | DDSI07SZA156NWDB    | Provisions to Non-Performing Loans for Swaziland                                                                              | 2003-01-01          | 2019-01-01        |
 | DEBTTLSZA188A       | Central government debt, total (% of GDP) for Swaziland                                                                       | 1999-01-01          | 2012-01-01        |
 | DESWZA475SCEN       | Number of Identified Exporters to Swaziland from Delaware                                                                     | 2002-01-01          | 2015-01-01        |
-| EXP7950             | U.S. Exports of Goods by F.A.S. Basis to Swaziland                                                                            | 1992-01-01          | 2022-02-01        |
+| EXP7950             | U.S. Exports of Goods by F.A.S. Basis to Swaziland                                                                            | 1992-01-01          | 2022-03-01        |
 | FLSWZA052SCEN       | Value of Exports to Swaziland from Florida                                                                                    | 1997-01-01          | 2017-01-01        |
 | FLSWZA475SCEN       | Number of Identified Exporters to Swaziland from Florida                                                                      | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSWZ      | Inflation, consumer prices for Swaziland                                                                                      | 1966-01-01          | 2019-01-01        |
@@ -79,10 +79,10 @@
 | IDSWZA475SCEN       | Number of Identified Exporters to Swaziland from Idaho                                                                        | 2004-01-01          | 2016-01-01        |
 | ILSWZA052SCEN       | Value of Exports to Swaziland from Illinois                                                                                   | 1997-01-01          | 2017-01-01        |
 | ILSWZA475SCEN       | Number of Identified Exporters to Swaziland from Illinois                                                                     | 1992-01-01          | 2017-01-01        |
-| IMP7950             | U.S. Imports of Goods by Customs Basis from Swaziland                                                                         | 1992-01-01          | 2022-02-01        |
+| IMP7950             | U.S. Imports of Goods by Customs Basis from Swaziland                                                                         | 1992-01-01          | 2022-03-01        |
 | INSWZA052SCEN       | Value of Exports to Swaziland from Indiana                                                                                    | 2004-01-01          | 2017-01-01        |
 | INSWZA475SCEN       | Number of Identified Exporters to Swaziland from Indiana                                                                      | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2SWZ      | Internet users for Swaziland                                                                                                  | 1990-01-01          | 2015-01-01        |
+| ITNETUSERP2SWZ      | Internet users for Swaziland                                                                                                  | 1990-01-01          | 2017-01-01        |
 | KSSWZA052SCEN       | Value of Exports to Swaziland from Kansas                                                                                     | 2002-01-01          | 2017-01-01        |
 | KSSWZA475SCEN       | Number of Identified Exporters to Swaziland from Kansas                                                                       | 2002-01-01          | 2017-01-01        |
 | KYSWZA052SCEN       | Value of Exports to Swaziland from Kentucky                                                                                   | 2011-01-01          | 2011-01-01        |
@@ -136,8 +136,8 @@
 | SEADTLITRZSSWZ      | Literacy Rate, Adult Total for Swaziland                                                                                      | 1976-01-01          | 2018-01-01        |
 | SMPOPNETMSWZ        | Net migration for Swaziland                                                                                                   | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINSWZ      | Infant Mortality Rate for Swaziland                                                                                           | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INSWZ      | Life Expectancy at Birth, Total for Swaziland                                                                                 | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINSWZ      | Fertility Rate, Total for Swaziland                                                                                           | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INSWZ      | Life Expectancy at Birth, Total for Swaziland                                                                                 | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINSWZ      | Fertility Rate, Total for Swaziland                                                                                           | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSSWZ    | Population ages 65 and above for Swaziland                                                                                    | 1960-01-01          | 2020-01-01        |
 | SWZBCABP6GDPPT      | Net Current Account Total for Swaziland                                                                                       | 2004-01-01          | 2023-01-01        |
 | SWZBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Swaziland                       | 2004-01-01          | 2023-01-01        |

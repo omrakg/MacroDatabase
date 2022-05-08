@@ -25,7 +25,7 @@
 | Miscellaneous Products                                             |               175 |
 | Selected Security Services                                         |                 7 |
 | Stage of Processing                                                |                 1 |
-| Processed Foods and Feeds                                          |                 0 |
+| Processed Foods and Feeds                                          |               385 |
 | Furniture and Household Durables                                   |               151 |
 | Wholesale Trade Services                                           |                43 |
 | Educational Services                                               |                 0 |
@@ -44,7 +44,7 @@
 | Professional Services                                              |                56 |
 | Fuels and Related Products and Power                               |               132 |
 | Metal Treatment Services                                           |                12 |
-| Insurance and Annuities                                            |                35 |
+| Insurance and Annuities                                            |                 0 |
 | Rubber and Plastic Products                                        |                94 |
 | Nonmetallic Mineral Products                                       |               183 |
 | Health Care Services                                               |                86 |

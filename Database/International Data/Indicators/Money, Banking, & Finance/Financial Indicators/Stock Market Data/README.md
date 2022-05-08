@@ -834,7 +834,7 @@
 | DDSM01VEA066NWDB | Volatility of Stock Price Index for Bolivarian Republic of Venezuela                                                  | 1996-01-01          | 2017-01-01        |
 | DDSM01VNA066NWDB | Volatility of Stock Price Index for Viet Nam                                                                          | 2003-01-01          | 2020-01-01        |
 | DDSM01ZAA066NWDB | Volatility of Stock Price Index for South Africa                                                                      | 1996-01-01          | 2017-01-01        |
-| NIKKEI225        | Nikkei Stock Average, Nikkei 225                                                                                      | 1949-05-16          | 2022-04-28        |
+| NIKKEI225        | Nikkei Stock Average, Nikkei 225                                                                                      | 1949-05-16          | 2022-05-06        |
 | SPASTT01ATA657N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2021-01-01        |
 | SPASTT01ATA661N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2021-01-01        |
 | SPASTT01ATM657N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2022-03-01        |
@@ -861,9 +861,9 @@
 | SPASTT01BRQ661N  | Total Share Prices for All Shares for Brazil                                                                          | 1980-01-01          | 2022-01-01        |
 | SPASTT01CAA657N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2021-01-01        |
 | SPASTT01CAA661N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2021-01-01        |
-| SPASTT01CAM657N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-01-01        |
+| SPASTT01CAM657N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-03-01        |
 | SPASTT01CAM661N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-03-01        |
-| SPASTT01CAQ657N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2021-10-01        |
+| SPASTT01CAQ657N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-01-01        |
 | SPASTT01CAQ661N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-01-01        |
 | SPASTT01CHA657N  | Total Share Prices for All Shares for Switzerland                                                                     | 1960-01-01          | 2021-01-01        |
 | SPASTT01CHA661N  | Total Share Prices for All Shares for Switzerland                                                                     | 1960-01-01          | 2021-01-01        |

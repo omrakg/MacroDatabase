@@ -9,4 +9,4 @@
 | Middle Atlantic Census Division    |                 1 |
 | South Atlantic Census Division     |                 1 |
 | East South Central Census Division |                 1 |
-| West South Central Census Division |                 1 |
+| West South Central Census Division |                 0 |

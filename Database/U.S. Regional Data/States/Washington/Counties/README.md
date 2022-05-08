@@ -27,7 +27,7 @@
 | Benton County, WA       |               147 |
 | Stevens County, WA      |                90 |
 | Whitman County, WA      |               145 |
-| Mason County, WA        |                 0 |
+| Mason County, WA        |               146 |
 | Skamania County, WA     |                90 |
 | Columbia County, WA     |                89 |
 | Snohomish County, WA    |               147 |

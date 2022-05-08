@@ -71,7 +71,7 @@
 | DDSM01TZA066NWDB    | Volatility of Stock Price Index for United Republic of Tanzania                                                                            | 2008-01-01          | 2017-01-01        |
 | DETZAA052SCEN       | Value of Exports to Tanzania from Delaware                                                                                                 | 2008-01-01          | 2017-01-01        |
 | DETZAA475SCEN       | Number of Identified Exporters to Tanzania from Delaware                                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP7830             | U.S. Exports of Goods by F.A.S. Basis to Tanzania                                                                                          | 1992-01-01          | 2022-02-01        |
+| EXP7830             | U.S. Exports of Goods by F.A.S. Basis to Tanzania                                                                                          | 1992-01-01          | 2022-03-01        |
 | FLTZAA052SCEN       | Value of Exports to Tanzania from Florida                                                                                                  | 1997-01-01          | 2017-01-01        |
 | FLTZAA475SCEN       | Number of Identified Exporters to Tanzania from Florida                                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGTZA      | Inflation, consumer prices for the United Republic of Tanzania                                                                             | 1966-01-01          | 2020-01-01        |
@@ -85,10 +85,10 @@
 | IDTZAA475SCEN       | Number of Identified Exporters to Tanzania from Idaho                                                                                      | 1997-01-01          | 2017-01-01        |
 | ILTZAA052SCEN       | Value of Exports to Tanzania from Illinois                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILTZAA475SCEN       | Number of Identified Exporters to Tanzania from Illinois                                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7830             | U.S. Imports of Goods by Customs Basis from Tanzania                                                                                       | 1992-01-01          | 2022-02-01        |
+| IMP7830             | U.S. Imports of Goods by Customs Basis from Tanzania                                                                                       | 1992-01-01          | 2022-03-01        |
 | INTZAA052SCEN       | Value of Exports to Tanzania from Indiana                                                                                                  | 2002-01-01          | 2017-01-01        |
 | INTZAA475SCEN       | Number of Identified Exporters to Tanzania from Indiana                                                                                    | 1992-01-01          | 2017-01-01        |
-| ITNETUSERP2TZA      | Internet users for the United Republic of Tanzania                                                                                         | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2TZA      | Internet users for the United Republic of Tanzania                                                                                         | 1990-01-01          | 2020-01-01        |
 | KSTZAA052SCEN       | Value of Exports to Tanzania from Kansas                                                                                                   | 2005-01-01          | 2017-01-01        |
 | KSTZAA475SCEN       | Number of Identified Exporters to Tanzania from Kansas                                                                                     | 1992-01-01          | 2017-01-01        |
 | KYTZAA052SCEN       | Value of Exports to Tanzania from Kentucky                                                                                                 | 2002-01-01          | 2017-01-01        |
@@ -147,8 +147,8 @@
 | SEADTLITRZSTZA      | Literacy Rate, Adult Total for the United Republic of Tanzania                                                                             | 1988-01-01          | 2015-01-01        |
 | SMPOPNETMTZA        | Net migration for the United Republic of Tanzania                                                                                          | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINTZA      | Infant Mortality Rate for the United Republic of Tanzania                                                                                  | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INTZA      | Life Expectancy at Birth, Total for the United Republic of Tanzania                                                                        | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINTZA      | Fertility Rate, Total for the United Republic of Tanzania                                                                                  | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INTZA      | Life Expectancy at Birth, Total for the United Republic of Tanzania                                                                        | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINTZA      | Fertility Rate, Total for the United Republic of Tanzania                                                                                  | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSTZA    | Population ages 65 and above for the United Republic of Tanzania                                                                           | 1960-01-01          | 2020-01-01        |
 | TNTZAA052SCEN       | Value of Exports to Tanzania from Tennessee                                                                                                | 2002-01-01          | 2017-01-01        |
 | TNTZAA475SCEN       | Number of Identified Exporters to Tanzania from Tennessee                                                                                  | 1997-01-01          | 2017-01-01        |

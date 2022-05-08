@@ -1,7 +1,7 @@
 | Folder                                        |   Files / Folders |
 |-----------------------------------------------|-------------------|
 | Housing Starts                                |                28 |
-| Housing Units Completed                       |                 0 |
+| Housing Units Completed                       |                28 |
 | Manufactured Housing                          |                30 |
 | Housing Units Authorized by Building Permits  |                10 |
 | New Residential Sales                         |               110 |

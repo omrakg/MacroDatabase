@@ -57,7 +57,7 @@
 | DDSI06SCA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Seychelles                                                                                   | 2005-01-01          | 2016-01-01        |
 | DDSI07SCA156NWDB    | Provisions to Non-Performing Loans for Seychelles                                                                                                 | 2006-01-01          | 2019-01-01        |
 | DESYCA475SCEN       | Number of Identified Exporters to Seychelles from Delaware                                                                                        | 2002-01-01          | 2016-01-01        |
-| EXP7800             | U.S. Exports of Goods by F.A.S. Basis to Seychelles                                                                                               | 1992-01-01          | 2022-02-01        |
+| EXP7800             | U.S. Exports of Goods by F.A.S. Basis to Seychelles                                                                                               | 1992-01-01          | 2022-03-01        |
 | FLSYCA052SCEN       | Value of Exports to Seychelles from Florida                                                                                                       | 1997-01-01          | 2017-01-01        |
 | FLSYCA475SCEN       | Number of Identified Exporters to Seychelles from Florida                                                                                         | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSYC      | Inflation, consumer prices for Seychelles                                                                                                         | 1971-01-01          | 2020-01-01        |
@@ -79,7 +79,7 @@
 | IDSYCA475SCEN       | Number of Identified Exporters to Seychelles from Idaho                                                                                           | 2008-01-01          | 2016-01-01        |
 | ILSYCA052SCEN       | Value of Exports to Seychelles from Illinois                                                                                                      | 1992-01-01          | 2017-01-01        |
 | ILSYCA475SCEN       | Number of Identified Exporters to Seychelles from Illinois                                                                                        | 1992-01-01          | 2017-01-01        |
-| IMP7800             | U.S. Imports of Goods by Customs Basis from Seychelles                                                                                            | 1992-01-01          | 2022-02-01        |
+| IMP7800             | U.S. Imports of Goods by Customs Basis from Seychelles                                                                                            | 1992-01-01          | 2022-03-01        |
 | INSYCA052SCEN       | Value of Exports to Seychelles from Indiana                                                                                                       | 2004-01-01          | 2015-01-01        |
 | INSYCA475SCEN       | Number of Identified Exporters to Seychelles from Indiana                                                                                         | 1997-01-01          | 2016-01-01        |
 | ITNETUSERP2SYC      | Internet users for Seychelles                                                                                                                     | 1990-01-01          | 2020-01-01        |
@@ -135,8 +135,8 @@
 | SEADTLITRZSSYC      | Literacy Rate, Adult Total for Seychelles                                                                                                         | 1987-01-01          | 2018-01-01        |
 | SMPOPNETMSYC        | Net migration for Seychelles                                                                                                                      | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINSYC      | Infant Mortality Rate for Seychelles                                                                                                              | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INSYC      | Life Expectancy at Birth, Total for Seychelles                                                                                                    | 1980-01-01          | 2019-01-01        |
-| SPDYNTFRTINSYC      | Fertility Rate, Total for Seychelles                                                                                                              | 1976-01-01          | 2019-01-01        |
+| SPDYNLE00INSYC      | Life Expectancy at Birth, Total for Seychelles                                                                                                    | 1980-01-01          | 2020-01-01        |
+| SPDYNTFRTINSYC      | Fertility Rate, Total for Seychelles                                                                                                              | 1976-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSSYC    | Population ages 65 and above for Seychelles                                                                                                       | 1960-01-01          | 2020-01-01        |
 | SYCBCABP6GDPPT      | Net Current Account Total for Seychelles                                                                                                          | 2004-01-01          | 2023-01-01        |
 | SYCBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Seychelles                                          | 2004-01-01          | 2023-01-01        |

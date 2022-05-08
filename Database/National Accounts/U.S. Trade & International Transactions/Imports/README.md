@@ -23,7 +23,7 @@
 | XTIMVA01AUA664N | Imports: Value Goods for Australia                                | 1960-01-01          | 2021-01-01        |
 | XTIMVA01AUA664S | Imports: Value Goods for Australia                                | 1960-01-01          | 2021-01-01        |
 | XTIMVA01AUA667S | Imports: Value Goods for Australia                                | 1960-01-01          | 2021-01-01        |
-| XTIMVA01AUM657S | Imports: Value Goods for Australia                                | 1960-01-01          | 2021-11-01        |
+| XTIMVA01AUM657S | Imports: Value Goods for Australia                                | 1960-01-01          | 2022-02-01        |
 | XTIMVA01AUM659S | Imports: Value Goods for Australia                                | 1960-01-01          | 2022-02-01        |
 | XTIMVA01AUM664N | Imports: Value Goods for Australia                                | 1960-01-01          | 2022-02-01        |
 | XTIMVA01AUM664S | Imports: Value Goods for Australia                                | 1960-01-01          | 2022-02-01        |
@@ -57,13 +57,13 @@
 | XTIMVA01BRA664S | Imports: Value Goods for Brazil                                   | 1990-01-01          | 2021-01-01        |
 | XTIMVA01BRA667N | Imports: Value Goods for Brazil                                   | 1971-01-01          | 2021-01-01        |
 | XTIMVA01BRA667S | Imports: Value Goods for Brazil                                   | 1971-01-01          | 2021-01-01        |
-| XTIMVA01BRM657S | Imports: Value Goods for Brazil                                   | 1971-02-01          | 2021-11-01        |
-| XTIMVA01BRM659S | Imports: Value Goods for Brazil                                   | 1972-01-01          | 2021-11-01        |
+| XTIMVA01BRM657S | Imports: Value Goods for Brazil                                   | 1971-02-01          | 2022-03-01        |
+| XTIMVA01BRM659S | Imports: Value Goods for Brazil                                   | 1972-01-01          | 2022-03-01        |
 | XTIMVA01BRM664S | Imports: Value Goods for Brazil                                   | 1990-01-01          | 2022-02-01        |
 | XTIMVA01BRM667N | Imports: Value Goods for Brazil                                   | 1971-01-01          | 2022-03-01        |
 | XTIMVA01BRM667S | Imports: Value Goods for Brazil                                   | 1971-01-01          | 2022-03-01        |
 | XTIMVA01BRQ188S | Imports: Value Goods for Brazil                                   | 1996-01-01          | 2021-10-01        |
-| XTIMVA01BRQ657S | Imports: Value Goods for Brazil                                   | 1971-04-01          | 2021-07-01        |
+| XTIMVA01BRQ657S | Imports: Value Goods for Brazil                                   | 1971-04-01          | 2022-01-01        |
 | XTIMVA01BRQ659S | Imports: Value Goods for Brazil                                   | 1972-01-01          | 2022-01-01        |
 | XTIMVA01BRQ664S | Imports: Value Goods for Brazil                                   | 1990-01-01          | 2021-10-01        |
 | XTIMVA01BRQ667N | Imports: Value Goods for Brazil                                   | 1971-01-01          | 2022-01-01        |
@@ -91,7 +91,7 @@
 | XTIMVA01CHA664N | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2021-01-01        |
 | XTIMVA01CHA664S | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2021-01-01        |
 | XTIMVA01CHA667S | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2021-01-01        |
-| XTIMVA01CHM657S | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2021-11-01        |
+| XTIMVA01CHM657S | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2022-02-01        |
 | XTIMVA01CHM659S | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2022-02-01        |
 | XTIMVA01CHM664N | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2022-02-01        |
 | XTIMVA01CHM664S | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2022-02-01        |
@@ -102,14 +102,14 @@
 | XTIMVA01CHQ664N | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2021-10-01        |
 | XTIMVA01CHQ664S | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2021-10-01        |
 | XTIMVA01CHQ667S | Imports: Value Goods for Switzerland                              | 1960-01-01          | 2021-10-01        |
-| XTIMVA01CLA188S | Imports: Value Goods for Chile                                    | 1996-01-01          | 2020-01-01        |
+| XTIMVA01CLA188S | Imports: Value Goods for Chile                                    | 2013-01-01          | 2021-01-01        |
 | XTIMVA01CLA664S | Imports: Value Goods for Chile                                    | 1996-01-01          | 2021-01-01        |
 | XTIMVA01CLA667N | Imports: Value Goods for Chile                                    | 1996-01-01          | 2021-01-01        |
 | XTIMVA01CLA667S | Imports: Value Goods for Chile                                    | 1996-01-01          | 2021-01-01        |
 | XTIMVA01CLM664S | Imports: Value Goods for Chile                                    | 1996-01-01          | 2022-03-01        |
 | XTIMVA01CLM667N | Imports: Value Goods for Chile                                    | 1996-01-01          | 2022-03-01        |
 | XTIMVA01CLM667S | Imports: Value Goods for Chile                                    | 1996-01-01          | 2022-03-01        |
-| XTIMVA01CLQ188S | Imports: Value Goods for Chile                                    | 1996-01-01          | 2021-07-01        |
+| XTIMVA01CLQ188S | Imports: Value Goods for Chile                                    | 2013-01-01          | 2021-10-01        |
 | XTIMVA01CLQ664S | Imports: Value Goods for Chile                                    | 1996-01-01          | 2022-01-01        |
 | XTIMVA01CLQ667N | Imports: Value Goods for Chile                                    | 1996-01-01          | 2022-01-01        |
 | XTIMVA01CLQ667S | Imports: Value Goods for Chile                                    | 1996-01-01          | 2022-01-01        |
@@ -273,8 +273,8 @@
 | XTIMVA01GBA664N | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2021-01-01        |
 | XTIMVA01GBA664S | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2021-01-01        |
 | XTIMVA01GBA667S | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2021-01-01        |
-| XTIMVA01GBM657S | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2021-11-01        |
-| XTIMVA01GBM659S | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2021-11-01        |
+| XTIMVA01GBM657S | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2022-01-01        |
+| XTIMVA01GBM659S | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2022-01-01        |
 | XTIMVA01GBM664N | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2022-01-01        |
 | XTIMVA01GBM664S | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2022-01-01        |
 | XTIMVA01GBM667S | Imports: Value Goods for the United Kingdom                       | 1960-01-01          | 2022-01-01        |
@@ -307,7 +307,7 @@
 | XTIMVA01HUA664N | Imports: Value Goods for Hungary                                  | 1976-01-01          | 2021-01-01        |
 | XTIMVA01HUA664S | Imports: Value Goods for Hungary                                  | 1976-01-01          | 2021-01-01        |
 | XTIMVA01HUA667S | Imports: Value Goods for Hungary                                  | 1991-01-01          | 2021-01-01        |
-| XTIMVA01HUM657S | Imports: Value Goods for Hungary                                  | 1991-01-01          | 2021-10-01        |
+| XTIMVA01HUM657S | Imports: Value Goods for Hungary                                  | 1991-01-01          | 2022-02-01        |
 | XTIMVA01HUM659S | Imports: Value Goods for Hungary                                  | 1991-01-01          | 2022-02-01        |
 | XTIMVA01HUM664N | Imports: Value Goods for Hungary                                  | 1976-01-01          | 2022-02-01        |
 | XTIMVA01HUM664S | Imports: Value Goods for Hungary                                  | 1976-01-01          | 2022-02-01        |
@@ -324,14 +324,14 @@
 | XTIMVA01IDA664S | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2021-01-01        |
 | XTIMVA01IDA667N | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2021-01-01        |
 | XTIMVA01IDA667S | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2021-01-01        |
-| XTIMVA01IDM657S | Imports: Value Goods for Indonesia                                | 1990-02-01          | 2021-11-01        |
-| XTIMVA01IDM659S | Imports: Value Goods for Indonesia                                | 1991-01-01          | 2021-11-01        |
+| XTIMVA01IDM657S | Imports: Value Goods for Indonesia                                | 1990-02-01          | 2022-02-01        |
+| XTIMVA01IDM659S | Imports: Value Goods for Indonesia                                | 1991-01-01          | 2022-02-01        |
 | XTIMVA01IDM664S | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2022-02-01        |
 | XTIMVA01IDM667N | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2022-02-01        |
 | XTIMVA01IDM667S | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2022-02-01        |
 | XTIMVA01IDQ188S | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2021-10-01        |
-| XTIMVA01IDQ657S | Imports: Value Goods for Indonesia                                | 1990-04-01          | 2021-07-01        |
-| XTIMVA01IDQ659S | Imports: Value Goods for Indonesia                                | 1991-01-01          | 2021-07-01        |
+| XTIMVA01IDQ657S | Imports: Value Goods for Indonesia                                | 1990-04-01          | 2021-10-01        |
+| XTIMVA01IDQ659S | Imports: Value Goods for Indonesia                                | 1991-01-01          | 2021-10-01        |
 | XTIMVA01IDQ664S | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2021-10-01        |
 | XTIMVA01IDQ667N | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2021-10-01        |
 | XTIMVA01IDQ667S | Imports: Value Goods for Indonesia                                | 1990-01-01          | 2021-10-01        |
@@ -370,15 +370,15 @@
 | XTIMVA01INA664S | Imports: Value Goods for India                                    | 1990-01-01          | 2021-01-01        |
 | XTIMVA01INA667N | Imports: Value Goods for India                                    | 1990-01-01          | 2021-01-01        |
 | XTIMVA01INA667S | Imports: Value Goods for India                                    | 1990-01-01          | 2021-01-01        |
-| XTIMVA01INM657S | Imports: Value Goods for India                                    | 1990-02-01          | 2021-11-01        |
+| XTIMVA01INM657S | Imports: Value Goods for India                                    | 1990-02-01          | 2022-02-01        |
 | XTIMVA01INM659S | Imports: Value Goods for India                                    | 1991-01-01          | 2022-02-01        |
 | XTIMVA01INM664N | Imports: Value Goods for India                                    | 1990-01-01          | 2022-02-01        |
 | XTIMVA01INM664S | Imports: Value Goods for India                                    | 1990-01-01          | 2022-02-01        |
 | XTIMVA01INM667N | Imports: Value Goods for India                                    | 1990-01-01          | 2022-02-01        |
 | XTIMVA01INM667S | Imports: Value Goods for India                                    | 1990-01-01          | 2022-02-01        |
 | XTIMVA01INQ188S | Imports: Value Goods for India                                    | 1996-04-01          | 2021-10-01        |
-| XTIMVA01INQ657S | Imports: Value Goods for India                                    | 1990-04-01          | 2021-07-01        |
-| XTIMVA01INQ659S | Imports: Value Goods for India                                    | 1991-01-01          | 2021-07-01        |
+| XTIMVA01INQ657S | Imports: Value Goods for India                                    | 1990-04-01          | 2021-10-01        |
+| XTIMVA01INQ659S | Imports: Value Goods for India                                    | 1991-01-01          | 2021-10-01        |
 | XTIMVA01INQ664N | Imports: Value Goods for India                                    | 1990-01-01          | 2021-10-01        |
 | XTIMVA01INQ664S | Imports: Value Goods for India                                    | 1990-01-01          | 2021-10-01        |
 | XTIMVA01INQ667N | Imports: Value Goods for India                                    | 1990-01-01          | 2021-10-01        |
@@ -389,14 +389,14 @@
 | XTIMVA01ISA664N | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-01-01        |
 | XTIMVA01ISA664S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-01-01        |
 | XTIMVA01ISA667S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-01-01        |
-| XTIMVA01ISM657S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-11-01        |
-| XTIMVA01ISM659S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-11-01        |
+| XTIMVA01ISM657S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2022-02-01        |
+| XTIMVA01ISM659S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2022-02-01        |
 | XTIMVA01ISM664N | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2022-02-01        |
 | XTIMVA01ISM664S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2022-02-01        |
 | XTIMVA01ISM667S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2022-02-01        |
 | XTIMVA01ISQ188S | Imports: Value Goods for Iceland                                  | 1995-01-01          | 2021-10-01        |
-| XTIMVA01ISQ657S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-07-01        |
-| XTIMVA01ISQ659S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-07-01        |
+| XTIMVA01ISQ657S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-10-01        |
+| XTIMVA01ISQ659S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-10-01        |
 | XTIMVA01ISQ664N | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-10-01        |
 | XTIMVA01ISQ664S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-10-01        |
 | XTIMVA01ISQ667S | Imports: Value Goods for Iceland                                  | 1960-01-01          | 2021-10-01        |
@@ -423,7 +423,7 @@
 | XTIMVA01JPA664N | Imports: Value Goods for Japan                                    | 1960-01-01          | 2021-01-01        |
 | XTIMVA01JPA664S | Imports: Value Goods for Japan                                    | 1960-01-01          | 2021-01-01        |
 | XTIMVA01JPA667S | Imports: Value Goods for Japan                                    | 1960-01-01          | 2021-01-01        |
-| XTIMVA01JPM657S | Imports: Value Goods for Japan                                    | 1960-01-01          | 2021-12-01        |
+| XTIMVA01JPM657S | Imports: Value Goods for Japan                                    | 1960-01-01          | 2022-02-01        |
 | XTIMVA01JPM659S | Imports: Value Goods for Japan                                    | 1960-01-01          | 2022-02-01        |
 | XTIMVA01JPM664N | Imports: Value Goods for Japan                                    | 1960-01-01          | 2022-02-01        |
 | XTIMVA01JPM664S | Imports: Value Goods for Japan                                    | 1960-01-01          | 2022-02-01        |
@@ -440,13 +440,13 @@
 | XTIMVA01KRA664S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-01-01        |
 | XTIMVA01KRA667N | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-01-01        |
 | XTIMVA01KRA667S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-01-01        |
-| XTIMVA01KRM657S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-11-01        |
-| XTIMVA01KRM659S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-11-01        |
+| XTIMVA01KRM657S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2022-02-01        |
+| XTIMVA01KRM659S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2022-02-01        |
 | XTIMVA01KRM664S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2022-02-01        |
 | XTIMVA01KRM667N | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2022-02-01        |
 | XTIMVA01KRM667S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2022-02-01        |
 | XTIMVA01KRQ188S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-10-01        |
-| XTIMVA01KRQ657S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-07-01        |
+| XTIMVA01KRQ657S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-10-01        |
 | XTIMVA01KRQ659S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-10-01        |
 | XTIMVA01KRQ664S | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-10-01        |
 | XTIMVA01KRQ667N | Imports: Value Goods for the Republic of Korea                    | 1960-01-01          | 2021-10-01        |
@@ -474,7 +474,7 @@
 | XTIMVA01MXA664S | Imports: Value Goods for Mexico                                   | 1980-01-01          | 2021-01-01        |
 | XTIMVA01MXA667N | Imports: Value Goods for Mexico                                   | 1980-01-01          | 2021-01-01        |
 | XTIMVA01MXA667S | Imports: Value Goods for Mexico                                   | 1980-01-01          | 2021-01-01        |
-| XTIMVA01MXM657S | Imports: Value Goods for Mexico                                   | 1980-02-01          | 2021-12-01        |
+| XTIMVA01MXM657S | Imports: Value Goods for Mexico                                   | 1980-02-01          | 2022-02-01        |
 | XTIMVA01MXM659S | Imports: Value Goods for Mexico                                   | 1981-01-01          | 2022-02-01        |
 | XTIMVA01MXM664S | Imports: Value Goods for Mexico                                   | 1980-01-01          | 2022-02-01        |
 | XTIMVA01MXM667N | Imports: Value Goods for Mexico                                   | 1980-01-01          | 2022-02-01        |
@@ -542,8 +542,8 @@
 | XTIMVA01PLA664N | Imports: Value Goods for Poland                                   | 1980-01-01          | 2021-01-01        |
 | XTIMVA01PLA664S | Imports: Value Goods for Poland                                   | 1980-01-01          | 2021-01-01        |
 | XTIMVA01PLA667S | Imports: Value Goods for Poland                                   | 1991-01-01          | 2021-01-01        |
-| XTIMVA01PLM657S | Imports: Value Goods for Poland                                   | 1991-01-01          | 2021-11-01        |
-| XTIMVA01PLM659S | Imports: Value Goods for Poland                                   | 1991-01-01          | 2021-11-01        |
+| XTIMVA01PLM657S | Imports: Value Goods for Poland                                   | 1991-01-01          | 2022-01-01        |
+| XTIMVA01PLM659S | Imports: Value Goods for Poland                                   | 1991-01-01          | 2022-01-01        |
 | XTIMVA01PLM664N | Imports: Value Goods for Poland                                   | 1980-01-01          | 2022-01-01        |
 | XTIMVA01PLM664S | Imports: Value Goods for Poland                                   | 1980-01-01          | 2022-01-01        |
 | XTIMVA01PLM667S | Imports: Value Goods for Poland                                   | 1991-01-01          | 2022-01-01        |
@@ -576,8 +576,8 @@
 | XTIMVA01RUA664S | Imports: Value Goods for the Russian Federation                   | 1993-01-01          | 2021-01-01        |
 | XTIMVA01RUA667N | Imports: Value Goods for the Russian Federation                   | 1991-01-01          | 2021-01-01        |
 | XTIMVA01RUA667S | Imports: Value Goods for the Russian Federation                   | 1991-01-01          | 2021-01-01        |
-| XTIMVA01RUM657S | Imports: Value Goods for the Russian Federation                   | 1991-02-01          | 2021-11-01        |
-| XTIMVA01RUM659S | Imports: Value Goods for the Russian Federation                   | 1992-01-01          | 2021-11-01        |
+| XTIMVA01RUM657S | Imports: Value Goods for the Russian Federation                   | 1991-02-01          | 2022-01-01        |
+| XTIMVA01RUM659S | Imports: Value Goods for the Russian Federation                   | 1992-01-01          | 2022-01-01        |
 | XTIMVA01RUM664S | Imports: Value Goods for the Russian Federation                   | 1992-06-01          | 2022-01-01        |
 | XTIMVA01RUM667N | Imports: Value Goods for the Russian Federation                   | 1991-01-01          | 2022-01-01        |
 | XTIMVA01RUM667S | Imports: Value Goods for the Russian Federation                   | 1991-01-01          | 2022-01-01        |
@@ -593,14 +593,14 @@
 | XTIMVA01SEA664N | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-01-01        |
 | XTIMVA01SEA664S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-01-01        |
 | XTIMVA01SEA667S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-01-01        |
-| XTIMVA01SEM657S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-11-01        |
+| XTIMVA01SEM657S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2022-02-01        |
 | XTIMVA01SEM659S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2022-02-01        |
 | XTIMVA01SEM664N | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2022-02-01        |
 | XTIMVA01SEM664S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2022-02-01        |
 | XTIMVA01SEM667S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2022-02-01        |
 | XTIMVA01SEQ188S | Imports: Value Goods for Sweden                                   | 1993-01-01          | 2021-10-01        |
 | XTIMVA01SEQ657S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-10-01        |
-| XTIMVA01SEQ659S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-07-01        |
+| XTIMVA01SEQ659S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-10-01        |
 | XTIMVA01SEQ664N | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-10-01        |
 | XTIMVA01SEQ664S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-10-01        |
 | XTIMVA01SEQ667S | Imports: Value Goods for Sweden                                   | 1960-01-01          | 2021-10-01        |
@@ -673,7 +673,7 @@
 | XTIMVA01ZAA664S | Imports: Value Goods for South Africa                             | 1960-01-01          | 2021-01-01        |
 | XTIMVA01ZAA667N | Imports: Value Goods for South Africa                             | 1960-01-01          | 2021-01-01        |
 | XTIMVA01ZAA667S | Imports: Value Goods for South Africa                             | 1960-01-01          | 2021-01-01        |
-| XTIMVA01ZAM657S | Imports: Value Goods for South Africa                             | 1960-01-01          | 2021-11-01        |
+| XTIMVA01ZAM657S | Imports: Value Goods for South Africa                             | 1960-01-01          | 2022-02-01        |
 | XTIMVA01ZAM659S | Imports: Value Goods for South Africa                             | 1960-01-01          | 2022-02-01        |
 | XTIMVA01ZAM664N | Imports: Value Goods for South Africa                             | 1960-01-01          | 2022-02-01        |
 | XTIMVA01ZAM664S | Imports: Value Goods for South Africa                             | 1960-01-01          | 2022-02-01        |

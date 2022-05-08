@@ -2,11 +2,11 @@
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | IPUCN22L000000000     | Labor Productivity for Utilities: Utilities (NAICS 22) in the United States                                                        | 1987-01-01          | 2020-01-01        |
 | IPUCN22L001000000     | Labor Productivity for Utilities: Utilities (NAICS 22) in the United States                                                        | 1988-01-01          | 2020-01-01        |
-| IPUCN22L010000000     | Hours Worked for Utilities: Utilities (NAICS 22) in the United States                                                              | 1987-01-01          | 2020-01-01        |
+| IPUCN22L010000000     | Hours Worked for Utilities: Utilities (NAICS 22) in the United States                                                              | 1987-01-01          | 2021-01-01        |
 | IPUCN22L020000000     | Labor Compensation for Utilities: Utilities (NAICS 22) in the United States                                                        | 1987-01-01          | 2020-01-01        |
 | IPUCN22L021000000     | Labor Compensation for Utilities: Utilities (NAICS 22) in the United States                                                        | 1988-01-01          | 2020-01-01        |
-| IPUCN22L200000000     | Hours Worked for Utilities: Utilities (NAICS 22) in the United States                                                              | 1987-01-01          | 2020-01-01        |
-| IPUCN22L201000000     | Hours Worked for Utilities: Utilities (NAICS 22) in the United States                                                              | 1988-01-01          | 2020-01-01        |
+| IPUCN22L200000000     | Hours Worked for Utilities: Utilities (NAICS 22) in the United States                                                              | 1987-01-01          | 2021-01-01        |
+| IPUCN22L201000000     | Hours Worked for Utilities: Utilities (NAICS 22) in the United States                                                              | 1988-01-01          | 2021-01-01        |
 | IPUCN22T010000000     | Output for Utilities: Utilities (NAICS 22) in the United States                                                                    | 1987-01-01          | 2020-01-01        |
 | IPUCN22T011000000     | Output for Utilities: Utilities (NAICS 22) in the United States                                                                    | 1988-01-01          | 2020-01-01        |
 | IPUCN22T050000000     | Implicit Output Deflator for Utilities: Utilities (NAICS 22) in the United States                                                  | 1987-01-01          | 2020-01-01        |
@@ -20,16 +20,16 @@
 | IPUCN22U121000000     | Hourly Compensation for Utilities: Utilities (NAICS 22) in the United States                                                       | 1988-01-01          | 2020-01-01        |
 | IPUCN22W000000000     | Output per Employee for Utilities: Utilities (NAICS 22) in the United States                                                       | 1987-01-01          | 2020-01-01        |
 | IPUCN22W001000000     | Output per Employee for Utilities: Utilities (NAICS 22) in the United States                                                       | 1988-01-01          | 2020-01-01        |
-| IPUCN22W010000000     | Employment for Utilities: Utilities (NAICS 22) in the United States                                                                | 1987-01-01          | 2020-01-01        |
-| IPUCN22W200000000     | Employment for Utilities: Utilities (NAICS 22) in the United States                                                                | 1987-01-01          | 2020-01-01        |
-| IPUCN22W201000000     | Employment for Utilities: Utilities (NAICS 22) in the United States                                                                | 1988-01-01          | 2020-01-01        |
+| IPUCN22W010000000     | Employment for Utilities: Utilities (NAICS 22) in the United States                                                                | 1987-01-01          | 2021-01-01        |
+| IPUCN22W200000000     | Employment for Utilities: Utilities (NAICS 22) in the United States                                                                | 1987-01-01          | 2021-01-01        |
+| IPUCN22W201000000     | Employment for Utilities: Utilities (NAICS 22) in the United States                                                                | 1988-01-01          | 2021-01-01        |
 | IPUCN221L000000000    | Labor Productivity for Utilities: Utilities (NAICS 221) in the United States                                                       | 1987-01-01          | 2020-01-01        |
 | IPUCN221L001000000    | Labor Productivity for Utilities: Utilities (NAICS 221) in the United States                                                       | 1988-01-01          | 2020-01-01        |
-| IPUCN221L010000000    | Hours Worked for Utilities: Utilities (NAICS 221) in the United States                                                             | 1987-01-01          | 2020-01-01        |
+| IPUCN221L010000000    | Hours Worked for Utilities: Utilities (NAICS 221) in the United States                                                             | 1987-01-01          | 2021-01-01        |
 | IPUCN221L020000000    | Labor Compensation for Utilities: Utilities (NAICS 221) in the United States                                                       | 1987-01-01          | 2020-01-01        |
 | IPUCN221L021000000    | Labor Compensation for Utilities: Utilities (NAICS 221) in the United States                                                       | 1988-01-01          | 2020-01-01        |
-| IPUCN221L200000000    | Hours Worked for Utilities: Utilities (NAICS 221) in the United States                                                             | 1987-01-01          | 2020-01-01        |
-| IPUCN221L201000000    | Hours Worked for Utilities: Utilities (NAICS 221) in the United States                                                             | 1988-01-01          | 2020-01-01        |
+| IPUCN221L200000000    | Hours Worked for Utilities: Utilities (NAICS 221) in the United States                                                             | 1987-01-01          | 2021-01-01        |
+| IPUCN221L201000000    | Hours Worked for Utilities: Utilities (NAICS 221) in the United States                                                             | 1988-01-01          | 2021-01-01        |
 | IPUCN221T010000000    | Output for Utilities: Utilities (NAICS 221) in the United States                                                                   | 1987-01-01          | 2020-01-01        |
 | IPUCN221T011000000    | Output for Utilities: Utilities (NAICS 221) in the United States                                                                   | 1988-01-01          | 2020-01-01        |
 | IPUCN221T050000000    | Implicit Output Deflator for Utilities: Utilities (NAICS 221) in the United States                                                 | 1987-01-01          | 2020-01-01        |
@@ -43,16 +43,16 @@
 | IPUCN221U121000000    | Hourly Compensation for Utilities: Utilities (NAICS 221) in the United States                                                      | 1988-01-01          | 2020-01-01        |
 | IPUCN221W000000000    | Output per Employee for Utilities: Utilities (NAICS 221) in the United States                                                      | 1987-01-01          | 2020-01-01        |
 | IPUCN221W001000000    | Output per Employee for Utilities: Utilities (NAICS 221) in the United States                                                      | 1988-01-01          | 2020-01-01        |
-| IPUCN221W010000000    | Employment for Utilities: Utilities (NAICS 221) in the United States                                                               | 1987-01-01          | 2020-01-01        |
-| IPUCN221W200000000    | Employment for Utilities: Utilities (NAICS 221) in the United States                                                               | 1987-01-01          | 2020-01-01        |
-| IPUCN221W201000000    | Employment for Utilities: Utilities (NAICS 221) in the United States                                                               | 1988-01-01          | 2020-01-01        |
+| IPUCN221W010000000    | Employment for Utilities: Utilities (NAICS 221) in the United States                                                               | 1987-01-01          | 2021-01-01        |
+| IPUCN221W200000000    | Employment for Utilities: Utilities (NAICS 221) in the United States                                                               | 1987-01-01          | 2021-01-01        |
+| IPUCN221W201000000    | Employment for Utilities: Utilities (NAICS 221) in the United States                                                               | 1988-01-01          | 2021-01-01        |
 | IPUCN2211L000000000   | Labor Productivity for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States       | 1987-01-01          | 2020-01-01        |
 | IPUCN2211L001000000   | Labor Productivity for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States       | 1988-01-01          | 2020-01-01        |
-| IPUCN2211L010000000   | Hours Worked for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States             | 1987-01-01          | 2020-01-01        |
+| IPUCN2211L010000000   | Hours Worked for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States             | 1987-01-01          | 2021-01-01        |
 | IPUCN2211L020000000   | Labor Compensation for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States       | 1987-01-01          | 2020-01-01        |
 | IPUCN2211L021000000   | Labor Compensation for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States       | 1988-01-01          | 2020-01-01        |
-| IPUCN2211L200000000   | Hours Worked for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States             | 1987-01-01          | 2020-01-01        |
-| IPUCN2211L201000000   | Hours Worked for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States             | 1988-01-01          | 2020-01-01        |
+| IPUCN2211L200000000   | Hours Worked for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States             | 1987-01-01          | 2021-01-01        |
+| IPUCN2211L201000000   | Hours Worked for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States             | 1988-01-01          | 2021-01-01        |
 | IPUCN2211T010000000   | Output for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States                   | 1987-01-01          | 2020-01-01        |
 | IPUCN2211T011000000   | Output for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States                   | 1988-01-01          | 2020-01-01        |
 | IPUCN2211T050000000   | Implicit Output Deflator for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States | 1987-01-01          | 2020-01-01        |
@@ -66,16 +66,16 @@
 | IPUCN2211U121000000   | Hourly Compensation for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States      | 1988-01-01          | 2020-01-01        |
 | IPUCN2211W000000000   | Output per Employee for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States      | 1987-01-01          | 2020-01-01        |
 | IPUCN2211W001000000   | Output per Employee for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States      | 1988-01-01          | 2020-01-01        |
-| IPUCN2211W010000000   | Employment for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States               | 1987-01-01          | 2020-01-01        |
-| IPUCN2211W200000000   | Employment for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States               | 1987-01-01          | 2020-01-01        |
-| IPUCN2211W201000000   | Employment for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States               | 1988-01-01          | 2020-01-01        |
+| IPUCN2211W010000000   | Employment for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States               | 1987-01-01          | 2021-01-01        |
+| IPUCN2211W200000000   | Employment for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States               | 1987-01-01          | 2021-01-01        |
+| IPUCN2211W201000000   | Employment for Utilities: Electric Power Generation, Transmission and Distribution (NAICS 2211) in the United States               | 1988-01-01          | 2021-01-01        |
 | IPUCN2212L000000000   | Labor Productivity for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                       | 1987-01-01          | 2020-01-01        |
 | IPUCN2212L001000000   | Labor Productivity for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                       | 1988-01-01          | 2020-01-01        |
-| IPUCN2212L010000000   | Hours Worked for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                             | 1987-01-01          | 2020-01-01        |
+| IPUCN2212L010000000   | Hours Worked for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                             | 1987-01-01          | 2021-01-01        |
 | IPUCN2212L020000000   | Labor Compensation for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                       | 1987-01-01          | 2020-01-01        |
 | IPUCN2212L021000000   | Labor Compensation for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                       | 1988-01-01          | 2020-01-01        |
-| IPUCN2212L200000000   | Hours Worked for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                             | 1987-01-01          | 2020-01-01        |
-| IPUCN2212L201000000   | Hours Worked for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                             | 1988-01-01          | 2020-01-01        |
+| IPUCN2212L200000000   | Hours Worked for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                             | 1987-01-01          | 2021-01-01        |
+| IPUCN2212L201000000   | Hours Worked for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                             | 1988-01-01          | 2021-01-01        |
 | IPUCN2212T010000000   | Output for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                                   | 1987-01-01          | 2020-01-01        |
 | IPUCN2212T011000000   | Output for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                                   | 1988-01-01          | 2020-01-01        |
 | IPUCN2212T050000000   | Implicit Output Deflator for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                 | 1987-01-01          | 2020-01-01        |
@@ -89,16 +89,16 @@
 | IPUCN2212U121000000   | Hourly Compensation for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                      | 1988-01-01          | 2020-01-01        |
 | IPUCN2212W000000000   | Output per Employee for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                      | 1987-01-01          | 2020-01-01        |
 | IPUCN2212W001000000   | Output per Employee for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                      | 1988-01-01          | 2020-01-01        |
-| IPUCN2212W010000000   | Employment for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                               | 1987-01-01          | 2020-01-01        |
-| IPUCN2212W200000000   | Employment for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                               | 1987-01-01          | 2020-01-01        |
-| IPUCN2212W201000000   | Employment for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                               | 1988-01-01          | 2020-01-01        |
+| IPUCN2212W010000000   | Employment for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                               | 1987-01-01          | 2021-01-01        |
+| IPUCN2212W200000000   | Employment for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                               | 1987-01-01          | 2021-01-01        |
+| IPUCN2212W201000000   | Employment for Utilities: Natural Gas Distribution (NAICS 2212) in the United States                                               | 1988-01-01          | 2021-01-01        |
 | IPUCN2213L000000000   | Labor Productivity for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                | 1987-01-01          | 2020-01-01        |
 | IPUCN2213L001000000   | Labor Productivity for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                | 1988-01-01          | 2020-01-01        |
-| IPUCN2213L010000000   | Hours Worked for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                      | 1987-01-01          | 2020-01-01        |
+| IPUCN2213L010000000   | Hours Worked for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                      | 1987-01-01          | 2021-01-01        |
 | IPUCN2213L020000000   | Labor Compensation for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                | 1987-01-01          | 2020-01-01        |
 | IPUCN2213L021000000   | Labor Compensation for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                | 1988-01-01          | 2020-01-01        |
-| IPUCN2213L200000000   | Hours Worked for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                      | 1987-01-01          | 2020-01-01        |
-| IPUCN2213L201000000   | Hours Worked for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                      | 1988-01-01          | 2020-01-01        |
+| IPUCN2213L200000000   | Hours Worked for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                      | 1987-01-01          | 2021-01-01        |
+| IPUCN2213L201000000   | Hours Worked for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                      | 1988-01-01          | 2021-01-01        |
 | IPUCN2213T010000000   | Output for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                            | 1987-01-01          | 2020-01-01        |
 | IPUCN2213T011000000   | Output for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                            | 1988-01-01          | 2020-01-01        |
 | IPUCN2213T050000000   | Implicit Output Deflator for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                          | 1987-01-01          | 2020-01-01        |
@@ -112,16 +112,16 @@
 | IPUCN2213U121000000   | Hourly Compensation for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                               | 1988-01-01          | 2020-01-01        |
 | IPUCN2213W000000000   | Output per Employee for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                               | 1987-01-01          | 2020-01-01        |
 | IPUCN2213W001000000   | Output per Employee for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                               | 1988-01-01          | 2020-01-01        |
-| IPUCN2213W010000000   | Employment for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                        | 1987-01-01          | 2020-01-01        |
-| IPUCN2213W200000000   | Employment for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                        | 1987-01-01          | 2020-01-01        |
-| IPUCN2213W201000000   | Employment for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                        | 1988-01-01          | 2020-01-01        |
+| IPUCN2213W010000000   | Employment for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                        | 1987-01-01          | 2021-01-01        |
+| IPUCN2213W200000000   | Employment for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                        | 1987-01-01          | 2021-01-01        |
+| IPUCN2213W201000000   | Employment for Utilities: Water, Sewage and Other Systems (NAICS 2213) in the United States                                        | 1988-01-01          | 2021-01-01        |
 | IPUCN22121L000000000  | Labor Productivity for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                      | 1987-01-01          | 2020-01-01        |
 | IPUCN22121L001000000  | Labor Productivity for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                      | 1988-01-01          | 2020-01-01        |
-| IPUCN22121L010000000  | Hours Worked for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                            | 1987-01-01          | 2020-01-01        |
+| IPUCN22121L010000000  | Hours Worked for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                            | 1987-01-01          | 2021-01-01        |
 | IPUCN22121L020000000  | Labor Compensation for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                      | 1987-01-01          | 2020-01-01        |
 | IPUCN22121L021000000  | Labor Compensation for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                      | 1988-01-01          | 2020-01-01        |
-| IPUCN22121L200000000  | Hours Worked for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                            | 1987-01-01          | 2020-01-01        |
-| IPUCN22121L201000000  | Hours Worked for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                            | 1988-01-01          | 2020-01-01        |
+| IPUCN22121L200000000  | Hours Worked for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                            | 1987-01-01          | 2021-01-01        |
+| IPUCN22121L201000000  | Hours Worked for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                            | 1988-01-01          | 2021-01-01        |
 | IPUCN22121T010000000  | Output for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                                  | 1987-01-01          | 2020-01-01        |
 | IPUCN22121T011000000  | Output for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                                  | 1988-01-01          | 2020-01-01        |
 | IPUCN22121T050000000  | Implicit Output Deflator for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                | 1987-01-01          | 2020-01-01        |
@@ -135,16 +135,16 @@
 | IPUCN22121U121000000  | Hourly Compensation for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                     | 1988-01-01          | 2020-01-01        |
 | IPUCN22121W000000000  | Output per Employee for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                     | 1987-01-01          | 2020-01-01        |
 | IPUCN22121W001000000  | Output per Employee for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                     | 1988-01-01          | 2020-01-01        |
-| IPUCN22121W010000000  | Employment for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                              | 1987-01-01          | 2020-01-01        |
-| IPUCN22121W200000000  | Employment for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                              | 1987-01-01          | 2020-01-01        |
-| IPUCN22121W201000000  | Employment for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                              | 1988-01-01          | 2020-01-01        |
+| IPUCN22121W010000000  | Employment for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                              | 1987-01-01          | 2021-01-01        |
+| IPUCN22121W200000000  | Employment for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                              | 1987-01-01          | 2021-01-01        |
+| IPUCN22121W201000000  | Employment for Utilities: Natural Gas Distribution (NAICS 22121) in the United States                                              | 1988-01-01          | 2021-01-01        |
 | IPUCN221210L000000000 | Labor Productivity for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                     | 1987-01-01          | 2020-01-01        |
 | IPUCN221210L001000000 | Labor Productivity for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                     | 1988-01-01          | 2020-01-01        |
-| IPUCN221210L010000000 | Hours Worked for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                           | 1987-01-01          | 2020-01-01        |
+| IPUCN221210L010000000 | Hours Worked for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                           | 1987-01-01          | 2021-01-01        |
 | IPUCN221210L020000000 | Labor Compensation for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                     | 1987-01-01          | 2020-01-01        |
 | IPUCN221210L021000000 | Labor Compensation for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                     | 1988-01-01          | 2020-01-01        |
-| IPUCN221210L200000000 | Hours Worked for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                           | 1987-01-01          | 2020-01-01        |
-| IPUCN221210L201000000 | Hours Worked for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                           | 1988-01-01          | 2020-01-01        |
+| IPUCN221210L200000000 | Hours Worked for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                           | 1987-01-01          | 2021-01-01        |
+| IPUCN221210L201000000 | Hours Worked for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                           | 1988-01-01          | 2021-01-01        |
 | IPUCN221210T010000000 | Output for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                                 | 1987-01-01          | 2020-01-01        |
 | IPUCN221210T011000000 | Output for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                                 | 1988-01-01          | 2020-01-01        |
 | IPUCN221210T050000000 | Implicit Output Deflator for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                               | 1987-01-01          | 2020-01-01        |
@@ -158,6 +158,6 @@
 | IPUCN221210U121000000 | Hourly Compensation for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                    | 1988-01-01          | 2020-01-01        |
 | IPUCN221210W000000000 | Output per Employee for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                    | 1987-01-01          | 2020-01-01        |
 | IPUCN221210W001000000 | Output per Employee for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                    | 1988-01-01          | 2020-01-01        |
-| IPUCN221210W010000000 | Employment for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                             | 1987-01-01          | 2020-01-01        |
-| IPUCN221210W200000000 | Employment for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                             | 1987-01-01          | 2020-01-01        |
-| IPUCN221210W201000000 | Employment for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                             | 1988-01-01          | 2020-01-01        |
+| IPUCN221210W010000000 | Employment for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                             | 1987-01-01          | 2021-01-01        |
+| IPUCN221210W200000000 | Employment for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                             | 1987-01-01          | 2021-01-01        |
+| IPUCN221210W201000000 | Employment for Utilities: Natural Gas Distribution (NAICS 221210) in the United States                                             | 1988-01-01          | 2021-01-01        |

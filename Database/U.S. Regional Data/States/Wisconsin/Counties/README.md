@@ -45,7 +45,7 @@
 | Pierce County, WI                       |                90 |
 | Waupaca County, WI                      |                90 |
 | La Crosse County, WI                    |               147 |
-| Green County, WI                        |                 0 |
+| Green County, WI                        |                90 |
 | Rusk County, WI                         |                90 |
 | Shawano County, WI                      |                90 |
 | Washburn County, WI                     |                89 |

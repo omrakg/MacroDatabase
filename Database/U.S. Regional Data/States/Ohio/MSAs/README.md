@@ -10,7 +10,7 @@
 | Toledo, OH                        |               195 |
 | Mansfield, OH                     |               135 |
 | Lima, OH                          |               131 |
-| Columbus, OH                      |               250 |
+| Columbus, OH                      |                 0 |
 | Sandusky, OH                      |                36 |
 | Dayton-Kettering, OH              |               193 |
 | Canton-Massillon, OH              |               176 |

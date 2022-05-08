@@ -14,7 +14,7 @@
 | Logan County, ND         |                89 |
 | Sargent County, ND       |                89 |
 | Sheridan County, ND      |                86 |
-| Foster County, ND        |                88 |
+| Foster County, ND        |                 0 |
 | Kidder County, ND        |                89 |
 | Nelson County, ND        |                87 |
 | Ramsey County, ND        |                89 |
@@ -28,7 +28,7 @@
 | Bottineau County, ND     |                88 |
 | Divide County, ND        |                88 |
 | Golden Valley County, ND |                88 |
-| Traill County, ND        |                 0 |
+| Traill County, ND        |                89 |
 | Adams County, ND         |                88 |
 | Burke County, ND         |                87 |
 | Bowman County, ND        |                89 |

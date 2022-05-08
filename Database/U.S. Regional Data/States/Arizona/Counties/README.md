@@ -2,7 +2,7 @@
 |-----------------------|-------------------|
 | Navajo County, AZ     |               147 |
 | Maricopa County, AZ   |               147 |
-| Santa Cruz County, AZ |                90 |
+| Santa Cruz County, AZ |                 0 |
 | Greenlee County, AZ   |                89 |
 | Mohave County, AZ     |               147 |
 | Cochise County, AZ    |               147 |
@@ -13,4 +13,4 @@
 | Apache County, AZ     |                91 |
 | Pinal County, AZ      |               147 |
 | Pima County, AZ       |               147 |
-| Graham County, AZ     |                 0 |
+| Graham County, AZ     |                90 |

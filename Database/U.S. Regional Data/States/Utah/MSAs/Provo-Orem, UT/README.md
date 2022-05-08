@@ -24,7 +24,7 @@
 | HORAMSA39340              | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA39340            | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
 | HOSCMSA39340              | Market Hotness: Hotness Score in Provo-Orem, UT (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
-| IHLCHG39340               | Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                  | 2020-02-01          | 2022-04-22        |
+| IHLCHG39340               | Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                  | 2020-02-01          | 2022-04-29        |
 | IRPD39340                 | Implicit Regional Price Deflator for Provo-Orem, UT (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT493934000000003A     | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT493934000000004      | Unemployed Persons in Provo-Orem, UT (MSA)                                                                      | 1990-01-01          | 2022-03-01        |

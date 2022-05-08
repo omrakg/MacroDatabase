@@ -121,7 +121,7 @@
 | LFHU24FEISA647N | Harmonized Unemployment: Aged 15-24: Females for Iceland                     | 2003-01-01          | 2021-01-01        |
 | LFHU24FEISA647S | Harmonized Unemployment: Aged 15-24: Females for Iceland                     | 2003-01-01          | 2021-01-01        |
 | LFHU24FEISM647N | Harmonized Unemployment: Aged 15-24: Females for Iceland                     | 2003-01-01          | 2022-02-01        |
-| LFHU24FEISM647S | Harmonized Unemployment: Aged 15-24: Females for Iceland                     | 2003-01-01          | 2021-11-01        |
+| LFHU24FEISM647S | Harmonized Unemployment: Aged 15-24: Females for Iceland                     | 2003-01-01          | 2022-02-01        |
 | LFHU24FEISQ647N | Harmonized Unemployment: Aged 15-24: Females for Iceland                     | 2003-01-01          | 2021-10-01        |
 | LFHU24FEISQ647S | Harmonized Unemployment: Aged 15-24: Females for Iceland                     | 2003-01-01          | 2021-10-01        |
 | LFHU24FEITA647N | Harmonized Unemployment: Aged 15-24: Females for Italy                       | 2004-01-01          | 2021-01-01        |
@@ -333,7 +333,7 @@
 | LFHU24MAISA647N | Harmonized Unemployment: Aged 15-24: Males for Iceland                       | 2003-01-01          | 2021-01-01        |
 | LFHU24MAISA647S | Harmonized Unemployment: Aged 15-24: Males for Iceland                       | 2003-01-01          | 2021-01-01        |
 | LFHU24MAISM647N | Harmonized Unemployment: Aged 15-24: Males for Iceland                       | 2003-01-01          | 2022-02-01        |
-| LFHU24MAISM647S | Harmonized Unemployment: Aged 15-24: Males for Iceland                       | 2003-01-01          | 2021-10-01        |
+| LFHU24MAISM647S | Harmonized Unemployment: Aged 15-24: Males for Iceland                       | 2003-01-01          | 2022-02-01        |
 | LFHU24MAISQ647N | Harmonized Unemployment: Aged 15-24: Males for Iceland                       | 2003-01-01          | 2021-10-01        |
 | LFHU24MAISQ647S | Harmonized Unemployment: Aged 15-24: Males for Iceland                       | 2003-01-01          | 2021-10-01        |
 | LFHU24MAITA647N | Harmonized Unemployment: Aged 15-24: Males for Italy                         | 2004-01-01          | 2021-01-01        |
@@ -470,12 +470,12 @@
 | LFHU24TTDEM647S | Harmonized Unemployment: Aged 15-24: All Persons for Germany                 | 1991-01-01          | 2022-02-01        |
 | LFHU24TTDEQ647N | Harmonized Unemployment: Aged 15-24: All Persons for Germany                 | 2007-01-01          | 2021-10-01        |
 | LFHU24TTDEQ647S | Harmonized Unemployment: Aged 15-24: All Persons for Germany                 | 1991-01-01          | 2021-10-01        |
-| LFHU24TTDKA647N | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2020-01-01        |
-| LFHU24TTDKA647S | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2020-01-01        |
-| LFHU24TTDKM647N | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2021-11-01        |
-| LFHU24TTDKM647S | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2021-11-01        |
-| LFHU24TTDKQ647N | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2021-07-01        |
-| LFHU24TTDKQ647S | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2021-07-01        |
+| LFHU24TTDKA647N | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2019-01-01        |
+| LFHU24TTDKA647S | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2019-01-01        |
+| LFHU24TTDKM647N | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2019-12-01        |
+| LFHU24TTDKM647S | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2019-12-01        |
+| LFHU24TTDKQ647N | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2019-10-01        |
+| LFHU24TTDKQ647S | Harmonized Unemployment: Aged 15-24: All Persons for Denmark                 | 1983-01-01          | 2019-10-01        |
 | LFHU24TTEEA647N | Harmonized Unemployment: Aged 15-24: All Persons for Estonia                 | 2000-01-01          | 2021-01-01        |
 | LFHU24TTEEA647S | Harmonized Unemployment: Aged 15-24: All Persons for Estonia                 | 2000-01-01          | 2021-01-01        |
 | LFHU24TTEEM647N | Harmonized Unemployment: Aged 15-24: All Persons for Estonia                 | 2000-01-01          | 2022-02-01        |
@@ -757,7 +757,7 @@
 | LFHUADFEISA647N | Harmonized Unemployment: Aged 25 and Over: Females for Iceland               | 2003-01-01          | 2021-01-01        |
 | LFHUADFEISA647S | Harmonized Unemployment: Aged 25 and Over: Females for Iceland               | 2003-01-01          | 2021-01-01        |
 | LFHUADFEISM647N | Harmonized Unemployment: Aged 25 and Over: Females for Iceland               | 2003-01-01          | 2022-02-01        |
-| LFHUADFEISM647S | Harmonized Unemployment: Aged 25 and Over: Females for Iceland               | 2003-01-01          | 2022-01-01        |
+| LFHUADFEISM647S | Harmonized Unemployment: Aged 25 and Over: Females for Iceland               | 2003-01-01          | 2022-02-01        |
 | LFHUADFEISQ647N | Harmonized Unemployment: Aged 25 and Over: Females for Iceland               | 2003-01-01          | 2021-10-01        |
 | LFHUADFEISQ647S | Harmonized Unemployment: Aged 25 and Over: Females for Iceland               | 2003-01-01          | 2021-10-01        |
 | LFHUADFEITA647N | Harmonized Unemployment: Aged 25 and Over: Females for Italy                 | 2004-01-01          | 2021-01-01        |

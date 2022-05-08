@@ -51,7 +51,7 @@
 | Lackawanna County, PA          |               146 |
 | Pike County, PA                |               146 |
 | Tioga County, PA               |                90 |
-| Cambria County, PA             |                 0 |
+| Cambria County, PA             |               146 |
 | Sullivan County, PA            |                88 |
 | Greene County, PA              |                89 |
 | Cumberland County, PA          |               147 |
@@ -64,6 +64,6 @@
 | Washington County, PA          |               145 |
 | Adams County, PA               |               147 |
 | Columbia County, PA            |               146 |
-| Mifflin County, PA             |               143 |
+| Mifflin County, PA             |                 0 |
 | Elk County, PA                 |                90 |
 | Fayette County, PA             |               144 |

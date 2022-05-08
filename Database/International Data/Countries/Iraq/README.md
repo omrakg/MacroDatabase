@@ -51,10 +51,10 @@
 | DEIRQA052SCEN        | Value of Exports to Iraq from Delaware                                                                                                    | 2008-01-01          | 2016-01-01        |
 | DEIRQA475SCEN        | Number of Identified Exporters to Iraq from Delaware                                                                                      | 2004-01-01          | 2017-01-01        |
 | DENTHHA475SCEN       | Number of Identified Exporters to Iraq Saudi Arabia Neutral Zone from Delaware                                                            | 1992-01-01          | 1992-01-01        |
-| EXP5050              | U.S. Exports of Goods by F.A.S. Basis to Iraq                                                                                             | 1992-01-01          | 2022-02-01        |
+| EXP5050              | U.S. Exports of Goods by F.A.S. Basis to Iraq                                                                                             | 1992-01-01          | 2022-03-01        |
 | FLIRQA052SCEN        | Value of Exports to Iraq from Florida                                                                                                     | 2003-01-01          | 2017-01-01        |
 | FLIRQA475SCEN        | Number of Identified Exporters to Iraq from Florida                                                                                       | 1997-01-01          | 2017-01-01        |
-| FPCPITOTLZGIRQ       | Inflation, consumer prices for Iraq                                                                                                       | 1960-01-01          | 2020-01-01        |
+| FPCPITOTLZGIRQ       | Inflation, consumer prices for Iraq                                                                                                       | 1960-01-01          | 2021-01-01        |
 | GAIRQA052SCEN        | Value of Exports to Iraq from Georgia                                                                                                     | 2004-01-01          | 2017-01-01        |
 | GAIRQA475SCEN        | Number of Identified Exporters to Iraq from Georgia                                                                                       | 2003-01-01          | 2017-01-01        |
 | HIIRQA052SCEN        | Value of Exports to Iraq from Hawaii                                                                                                      | 2006-01-01          | 2006-01-01        |
@@ -75,7 +75,7 @@
 | IDSGAMRINIIQ         | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Iraq         | 2006-01-01          | 2017-07-01        |
 | ILIRQA052SCEN        | Value of Exports to Iraq from Illinois                                                                                                    | 2002-01-01          | 2017-01-01        |
 | ILIRQA475SCEN        | Number of Identified Exporters to Iraq from Illinois                                                                                      | 2002-01-01          | 2017-01-01        |
-| IMP5050              | U.S. Imports of Goods by Customs Basis from Iraq                                                                                          | 1992-01-01          | 2022-02-01        |
+| IMP5050              | U.S. Imports of Goods by Customs Basis from Iraq                                                                                          | 1992-01-01          | 2022-03-01        |
 | INIRQA052SCEN        | Value of Exports to Iraq from Indiana                                                                                                     | 2004-01-01          | 2017-01-01        |
 | INIRQA475SCEN        | Number of Identified Exporters to Iraq from Indiana                                                                                       | 2003-01-01          | 2017-01-01        |
 | IRQBCAGDPGDPPT       | Current Account Balance for Iraq                                                                                                          | 2004-01-01          | 2023-01-01        |
@@ -135,7 +135,7 @@
 | IRQPCPIPCHPT         | Consumer Price Inflation for Iraq                                                                                                         | 2005-01-01          | 2023-01-01        |
 | IRQPZPIOILBEBUSD     | Breakeven External Oil Price for Iraq                                                                                                     | 2004-01-01          | 2023-01-01        |
 | IRQPZPIOILBEGUSD     | Breakeven Fiscal Oil Price for Iraq                                                                                                       | 2004-01-01          | 2023-01-01        |
-| ITNETUSERP2IRQ       | Internet users for Iraq                                                                                                                   | 1990-01-01          | 2017-01-01        |
+| ITNETUSERP2IRQ       | Internet users for Iraq                                                                                                                   | 1990-01-01          | 2019-01-01        |
 | KSIRQA052SCEN        | Value of Exports to Iraq from Kansas                                                                                                      | 2004-01-01          | 2017-01-01        |
 | KSIRQA475SCEN        | Number of Identified Exporters to Iraq from Kansas                                                                                        | 1992-01-01          | 2017-01-01        |
 | KYIRQA052SCEN        | Value of Exports to Iraq from Kentucky                                                                                                    | 2003-01-01          | 2017-01-01        |
@@ -198,8 +198,8 @@
 | SEADTLITRZSIRQ       | Literacy Rate, Adult Total for Iraq                                                                                                       | 2000-01-01          | 2017-01-01        |
 | SMPOPNETMIRQ         | Net migration for Iraq                                                                                                                    | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINIRQ       | Infant Mortality Rate for Iraq                                                                                                            | 1960-01-01          | 2020-01-01        |
-| SPDYNLE00INIRQ       | Life Expectancy at Birth, Total for Iraq                                                                                                  | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINIRQ       | Fertility Rate, Total for Iraq                                                                                                            | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INIRQ       | Life Expectancy at Birth, Total for Iraq                                                                                                  | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINIRQ       | Fertility Rate, Total for Iraq                                                                                                            | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSIRQ     | Population ages 65 and above for Iraq                                                                                                     | 1960-01-01          | 2020-01-01        |
 | TNIRQA052SCEN        | Value of Exports to Iraq from Tennessee                                                                                                   | 2003-01-01          | 2017-01-01        |
 | TNIRQA475SCEN        | Number of Identified Exporters to Iraq from Tennessee                                                                                     | 2003-01-01          | 2017-01-01        |

@@ -24,5 +24,5 @@
 | Vallejo, CA                          |               212 |
 | Fresno, CA                           |               246 |
 | Santa Cruz-Watsonville, CA           |               188 |
-| Riverside-San Bernardino-Ontario, CA |                 0 |
+| Riverside-San Bernardino-Ontario, CA |               364 |
 | Yuba City, CA                        |               164 |

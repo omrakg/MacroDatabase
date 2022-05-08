@@ -35,7 +35,7 @@
 | DDSI04STA156NWDB    | Bank Credit to Bank Deposits for Sao Tome and Principe                                                                                  | 1995-01-01          | 2016-01-01        |
 | DDSI06STA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Sao Tome and Principe                                                              | 1996-01-01          | 2016-01-01        |
 | DESTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Delaware                                                                   | 1992-01-01          | 2012-01-01        |
-| EXP7644             | U.S. Exports of Goods by F.A.S. Basis to Sao Tome and Principe                                                                          | 1992-01-01          | 2022-02-01        |
+| EXP7644             | U.S. Exports of Goods by F.A.S. Basis to Sao Tome and Principe                                                                          | 1992-01-01          | 2022-03-01        |
 | FLSTPA052SCEN       | Value of Exports to Sao Tome and Principe from Florida                                                                                  | 2002-01-01          | 2017-01-01        |
 | FLSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Florida                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSTP      | Inflation, consumer prices for Sao Tome and Principe                                                                                    | 1997-01-01          | 2018-01-01        |
@@ -45,9 +45,9 @@
 | IDSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Idaho                                                                      | 2004-01-01          | 2006-01-01        |
 | ILSTPA052SCEN       | Value of Exports to Sao Tome and Principe from Illinois                                                                                 | 2008-01-01          | 2008-01-01        |
 | ILSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Illinois                                                                   | 1992-01-01          | 2016-01-01        |
-| IMP7644             | U.S. Imports of Goods by Customs Basis from Sao Tome and Principe                                                                       | 1992-01-01          | 2022-02-01        |
+| IMP7644             | U.S. Imports of Goods by Customs Basis from Sao Tome and Principe                                                                       | 1992-01-01          | 2022-03-01        |
 | INSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Indiana                                                                    | 2005-01-01          | 2013-01-01        |
-| ITNETUSERP2STP      | Internet users for Sao Tome and Principe                                                                                                | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2STP      | Internet users for Sao Tome and Principe                                                                                                | 1990-01-01          | 2020-01-01        |
 | KSSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Kansas                                                                     | 1992-01-01          | 2015-01-01        |
 | KYSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Kentucky                                                                   | 2002-01-01          | 2016-01-01        |
 | LASTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Louisiana                                                                  | 1997-01-01          | 1997-01-01        |
@@ -87,8 +87,8 @@
 | SEADTLITRZSSTP      | Literacy Rate, Adult Total for Sao Tome and Principe                                                                                    | 1981-01-01          | 2018-01-01        |
 | SMPOPNETMSTP        | Net migration for Sao Tome and Principe                                                                                                 | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINSTP      | Infant Mortality Rate for Sao Tome and Principe                                                                                         | 1965-01-01          | 2020-01-01        |
-| SPDYNLE00INSTP      | Life Expectancy at Birth, Total for Sao Tome and Principe                                                                               | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINSTP      | Fertility Rate, Total for Sao Tome and Principe                                                                                         | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INSTP      | Life Expectancy at Birth, Total for Sao Tome and Principe                                                                               | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINSTP      | Fertility Rate, Total for Sao Tome and Principe                                                                                         | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSSTP    | Population ages 65 and above for Sao Tome and Principe                                                                                  | 1960-01-01          | 2020-01-01        |
 | STPBCABP6GDPPT      | Net Current Account Total for Sao Tome and Principe                                                                                     | 2004-01-01          | 2023-01-01        |
 | STPBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Sao Tome and Principe                     | 2004-01-01          | 2023-01-01        |

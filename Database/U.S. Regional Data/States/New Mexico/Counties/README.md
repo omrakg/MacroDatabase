@@ -21,7 +21,7 @@
 | Sandoval County, NM   |               147 |
 | Roosevelt County, NM  |                89 |
 | Chaves County, NM     |               147 |
-| San Miguel County, NM |                89 |
+| San Miguel County, NM |                 0 |
 | Harding County, NM    |                84 |
 | Union County, NM      |                87 |
 | Lea County, NM        |               147 |

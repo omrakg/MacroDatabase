@@ -8,8 +8,8 @@
 | OECDNMERECDP       | OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2022-01-31        |
 | OECDNMERECM        | OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Trough                                             | 1960-02-01          | 2022-01-01        |
 | OECDNMERECP        | OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2022-01-01        |
-| ONMLOLITOAASTSAM   | Leading Indicators OECD: Leading indicators: CLI: Amplitude adjusted for OECD + Major Six NME                                                  | 1970-01-01          | 2022-02-01        |
-| ONMLOLITONOSTSAM   | Leading Indicators OECD: Leading indicators: CLI: Normalised for OECD + Major Six NME                                                          | 1970-01-01          | 2022-02-01        |
+| ONMLOLITOAASTSAM   | Leading Indicators OECD: Leading indicators: CLI: Amplitude adjusted for OECD + Major Six NME                                                  | 1970-01-01          | 2022-01-01        |
+| ONMLOLITONOSTSAM   | Leading Indicators OECD: Leading indicators: CLI: Normalised for OECD + Major Six NME                                                          | 1970-01-01          | 2022-01-01        |
 | ONMLOLITOTRGYSAM   | Leading Indicators OECD: Leading indicators: CLI: Trend restored for OECD + Major Six NME                                                      | 1971-01-01          | 2021-11-01        |
 | ONMLOLITOTRSTSAM   | Leading Indicators OECD: Leading indicators: CLI: Trend restored for OECD + Major Six NME                                                      | 1970-01-01          | 2021-11-01        |
 | ONMLORSGPNOSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Normalised for OECD + Major Six NME                                   | 1960-02-01          | 2021-11-01        |

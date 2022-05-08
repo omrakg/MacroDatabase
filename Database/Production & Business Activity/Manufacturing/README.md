@@ -4,4 +4,4 @@
 | Unfilled Orders to Shipments |                20 |
 | Inventory to Shipments       |                50 |
 | Unfilled Orders              |               150 |
-| Shipments                    |               254 |
+| Shipments                    |                 0 |

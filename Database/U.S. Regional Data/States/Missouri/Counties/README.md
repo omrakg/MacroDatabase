@@ -7,7 +7,7 @@
 | Dallas County, MO         |                90 |
 | Butler County, MO         |                89 |
 | Phelps County, MO         |                90 |
-| Monroe County, MO         |                90 |
+| Monroe County, MO         |                 0 |
 | Polk County, MO           |                90 |
 | St. Louis City, MO        |               146 |
 | Mercer County, MO         |                87 |
@@ -51,7 +51,7 @@
 | Daviess County, MO        |                89 |
 | Jefferson County, MO      |               147 |
 | Jasper County, MO         |               147 |
-| Howell County, MO         |                 0 |
+| Howell County, MO         |                90 |
 | Lewis County, MO          |                89 |
 | Greene County, MO         |               146 |
 | Pettis County, MO         |                90 |
@@ -67,7 +67,7 @@
 | Henry County, MO          |                89 |
 | Bates County, MO          |                89 |
 | Lincoln County, MO        |               146 |
-| Reynolds County, MO       |                88 |
+| Reynolds County, MO       |                 0 |
 | Shannon County, MO        |                89 |
 | Wayne County, MO          |                88 |
 | Ozark County, MO          |                89 |
@@ -111,7 +111,7 @@
 | Cedar County, MO          |                88 |
 | Adair County, MO          |                89 |
 | Scotland County, MO       |                88 |
-| Morgan County, MO         |                 0 |
+| Morgan County, MO         |                90 |
 | Randolph County, MO       |                90 |
 | Howard County, MO         |                90 |
 | Gentry County, MO         |                88 |

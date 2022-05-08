@@ -55,7 +55,7 @@
 | ERIPCPIEOPPCPPPT    | Consumer Prices at End of Period for Eritrea                                                          | 2004-01-01          | 2023-01-01        |
 | ERIPCPIPCPPPT       | Consumer Prices: All Items for Eritrea                                                                | 2004-01-01          | 2023-01-01        |
 | ERITTTIX            | Terms of Trade for Goods for Eritrea                                                                  | 2004-01-01          | 2023-01-01        |
-| EXP7741             | U.S. Exports of Goods by F.A.S. Basis to Eritrea                                                      | 1993-01-01          | 2022-02-01        |
+| EXP7741             | U.S. Exports of Goods by F.A.S. Basis to Eritrea                                                      | 1993-01-01          | 2022-03-01        |
 | FLERIA052SCEN       | Value of Exports to Eritrea from Florida                                                              | 2002-01-01          | 2017-01-01        |
 | FLERIA475SCEN       | Number of Identified Exporters to Eritrea from Florida                                                | 1997-01-01          | 2017-01-01        |
 | GAERIA052SCEN       | Value of Exports to Eritrea from Georgia                                                              | 2002-01-01          | 2014-01-01        |
@@ -66,7 +66,7 @@
 | IDERIA475SCEN       | Number of Identified Exporters to Eritrea from Idaho                                                  | 2004-01-01          | 2005-01-01        |
 | ILERIA052SCEN       | Value of Exports to Eritrea from Illinois                                                             | 1997-01-01          | 2015-01-01        |
 | ILERIA475SCEN       | Number of Identified Exporters to Eritrea from Illinois                                               | 1997-01-01          | 2016-01-01        |
-| IMP7741             | U.S. Imports of Goods by Customs Basis from Eritrea                                                   | 1993-01-01          | 2022-02-01        |
+| IMP7741             | U.S. Imports of Goods by Customs Basis from Eritrea                                                   | 1993-01-01          | 2022-03-01        |
 | INERIA052SCEN       | Value of Exports to Eritrea from Indiana                                                              | 1997-01-01          | 2010-01-01        |
 | INERIA475SCEN       | Number of Identified Exporters to Eritrea from Indiana                                                | 1997-01-01          | 2016-01-01        |
 | ITNETUSERP2ERI      | Internet users for Eritrea                                                                            | 1990-01-01          | 2017-01-01        |
@@ -118,8 +118,8 @@
 | SEADTLITRZSERI      | Literacy Rate, Adult Total for Eritrea                                                                | 2002-01-01          | 2018-01-01        |
 | SMPOPNETMERI        | Net migration for Eritrea                                                                             | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINERI      | Infant Mortality Rate for Eritrea                                                                     | 1974-01-01          | 2020-01-01        |
-| SPDYNLE00INERI      | Life Expectancy at Birth, Total for Eritrea                                                           | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINERI      | Fertility Rate, Total for Eritrea                                                                     | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INERI      | Life Expectancy at Birth, Total for Eritrea                                                           | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINERI      | Fertility Rate, Total for Eritrea                                                                     | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSERI    | Population ages 65 and above for Eritrea                                                              | 1960-01-01          | 2011-01-01        |
 | TNERIA052SCEN       | Value of Exports to Eritrea from Tennessee                                                            | 2003-01-01          | 2003-01-01        |
 | TNERIA475SCEN       | Number of Identified Exporters to Eritrea from Tennessee                                              | 1997-01-01          | 2016-01-01        |

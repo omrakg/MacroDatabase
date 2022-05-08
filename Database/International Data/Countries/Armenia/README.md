@@ -154,10 +154,10 @@
 | DDSI07AMA156NWDB    | Provisions to Non-Performing Loans for Armenia                                                                              | 2000-01-01          | 2019-01-01        |
 | DEARMA052SCEN       | Value of Exports to Armenia from Delaware                                                                                   | 2006-01-01          | 2008-01-01        |
 | DEARMA475SCEN       | Number of Identified Exporters to Armenia from Delaware                                                                     | 2004-01-01          | 2016-01-01        |
-| EXP4631             | U.S. Exports of Goods by F.A.S. Basis to Armenia                                                                            | 1992-01-01          | 2022-02-01        |
+| EXP4631             | U.S. Exports of Goods by F.A.S. Basis to Armenia                                                                            | 1992-01-01          | 2022-03-01        |
 | FLARMA052SCEN       | Value of Exports to Armenia from Florida                                                                                    | 2002-01-01          | 2017-01-01        |
 | FLARMA475SCEN       | Number of Identified Exporters to Armenia from Florida                                                                      | 1992-01-01          | 2017-01-01        |
-| FPCPITOTLZGARM      | Inflation, consumer prices for Armenia                                                                                      | 1994-01-01          | 2020-01-01        |
+| FPCPITOTLZGARM      | Inflation, consumer prices for Armenia                                                                                      | 1994-01-01          | 2021-01-01        |
 | GAARMA052SCEN       | Value of Exports to Armenia from Georgia                                                                                    | 2002-01-01          | 2017-01-01        |
 | GAARMA475SCEN       | Number of Identified Exporters to Armenia from Georgia                                                                      | 1997-01-01          | 2017-01-01        |
 | HIARMA475SCEN       | Number of Identified Exporters to Armenia from Hawaii                                                                       | 2007-01-01          | 2007-01-01        |
@@ -167,10 +167,10 @@
 | IDARMA475SCEN       | Number of Identified Exporters to Armenia from Idaho                                                                        | 1997-01-01          | 2017-01-01        |
 | ILARMA052SCEN       | Value of Exports to Armenia from Illinois                                                                                   | 2003-01-01          | 2017-01-01        |
 | ILARMA475SCEN       | Number of Identified Exporters to Armenia from Illinois                                                                     | 1997-01-01          | 2017-01-01        |
-| IMP4631             | U.S. Imports of Goods by Customs Basis from Armenia                                                                         | 1992-01-01          | 2022-02-01        |
+| IMP4631             | U.S. Imports of Goods by Customs Basis from Armenia                                                                         | 1992-01-01          | 2022-03-01        |
 | INARMA052SCEN       | Value of Exports to Armenia from Indiana                                                                                    | 2006-01-01          | 2017-01-01        |
 | INARMA475SCEN       | Number of Identified Exporters to Armenia from Indiana                                                                      | 1997-01-01          | 2017-01-01        |
-| ITNETUSERP2ARM      | Internet users for Armenia                                                                                                  | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2ARM      | Internet users for Armenia                                                                                                  | 1990-01-01          | 2020-01-01        |
 | KSARMA052SCEN       | Value of Exports to Armenia from Kansas                                                                                     | 2013-01-01          | 2014-01-01        |
 | KSARMA475SCEN       | Number of Identified Exporters to Armenia from Kansas                                                                       | 1992-01-01          | 2017-01-01        |
 | KYARMA052SCEN       | Value of Exports to Armenia from Kentucky                                                                                   | 2002-01-01          | 2017-01-01        |
@@ -222,8 +222,8 @@
 | SEADTLITRZSARM      | Literacy Rate, Adult Total for Armenia                                                                                      | 1989-01-01          | 2020-01-01        |
 | SMPOPNETMARM        | Net migration for Armenia                                                                                                   | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINARM      | Infant Mortality Rate for Armenia                                                                                           | 1976-01-01          | 2020-01-01        |
-| SPDYNLE00INARM      | Life Expectancy at Birth, Total for Armenia                                                                                 | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINARM      | Fertility Rate, Total for Armenia                                                                                           | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INARM      | Life Expectancy at Birth, Total for Armenia                                                                                 | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINARM      | Fertility Rate, Total for Armenia                                                                                           | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSARM    | Population ages 65 and above for Armenia                                                                                    | 1960-01-01          | 2020-01-01        |
 | TNARMA052SCEN       | Value of Exports to Armenia from Tennessee                                                                                  | 2007-01-01          | 2017-01-01        |
 | TNARMA475SCEN       | Number of Identified Exporters to Armenia from Tennessee                                                                    | 2002-01-01          | 2017-01-01        |

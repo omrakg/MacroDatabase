@@ -13,7 +13,7 @@
 |                                         | Productivity & Costs                                         | 1,949   |
 |                                         | Minimum Wage                                                 | 53      |
 | Prices                                  | Employment Cost Index                                        | 420     |
-|                                         | Producer Price Indexes (PPI)                                 | 7,040   |
+|                                         | Producer Price Indexes (PPI)                                 | 7,258   |
 |                                         | Health Care Indexes                                          | 59      |
 |                                         | Consumer Price Indexes (CPI and PCE)                         | 309     |
 |                                         | House Price Indexes                                          | 729     |
@@ -23,7 +23,7 @@
 | Production & Business Activity          | Health Insurance                                             | 7       |
 |                                         | Business Cycle Expansions & Contractions                     | 297     |
 |                                         | Industrial Production & Capacity Utilization                 | 9       |
-|                                         | Housing                                                      | 198     |
+|                                         | Housing                                                      | 226     |
 |                                         | Expenditures                                                 | 1,002   |
 |                                         | Emissions                                                    | 63      |
 |                                         | Real Estate                                                  | 0       |
@@ -33,7 +33,7 @@
 |                                         | Wholesale Trade                                              | 0       |
 |                                         | Retail Trade                                                 | 0       |
 |                                         | Finance Companies                                            | 219     |
-|                                         | Manufacturing                                                | 477     |
+|                                         | Manufacturing                                                | 220     |
 |                                         | Institute for Supply Management Report on Business           | 0       |
 |                                         | Services                                                     | 0       |
 |                                         | Construction                                                 | 0       |
@@ -41,21 +41,21 @@
 | U.S. Regional Data                      | Census Regions                                               | 430     |
 |                                         | BLS Regions                                                  | 203     |
 |                                         | Federal Reserve Districts                                    | 950     |
-|                                         | States                                                       | 411,659 |
+|                                         | States                                                       | 412,021 |
 |                                         | Freddie Mac Regions                                          | 776     |
 |                                         | BEA Regions                                                  | 2,868   |
 | Money, Banking, & Finance               | Foreign Exchange Intervention                                | 24      |
 |                                         | Interest Rates                                               | 960     |
 |                                         | Business Lending                                             | 970     |
 |                                         | Exchange Rates                                               | 208     |
-|                                         | Banking                                                      | 3,419   |
+|                                         | Banking                                                      | 3,399   |
 |                                         | Monetary Data                                                | 925     |
 |                                         | Financial Indicators                                         | 259     |
 | International Data                      | Institutions                                                 | 4,837   |
-|                                         | Countries                                                    | 75,118  |
+|                                         | Countries                                                    | 74,671  |
 |                                         | Geography                                                    | 218     |
-|                                         | Indicators                                                   | 31,764  |
-| National Accounts                       | National Income & Product Accounts                           | 12,453  |
+|                                         | Indicators                                                   | 31,275  |
+| National Accounts                       | National Income & Product Accounts                           | 12,491  |
 |                                         | Federal Government Debt                                      | 44      |
 |                                         | Flow of Funds                                                | 2,409   |
 |                                         | U.S. Trade & International Transactions                      | 2,391   |
@@ -69,10 +69,10 @@
 |                                         | Historical Federal Reserve Data                              | 127     |
 |                                         | New England Textile Industry, 1815-1860                      | 28      |
 |                                         | Daily Federal Funds Rate, 1928-54                            | 6       |
-|                                         | A Millennium of Macroeconomic Data for the UK                | 121     |
+|                                         | A Millennium of Macroeconomic Data for the UK                | 111     |
 |                                         | Data on the nominal term structure model from Kim and Wright | 42      |
 |                                         | Recession Probabilities                                      | 10      |
-|                                         | NBER Macrohistory Database                                   | 2,389   |
+|                                         | NBER Macrohistory Database                                   | 2,845   |
 |                                         | Weekly U.S. and State Bond Prices, 1855-1865                 | 3       |
 |                                         | Sticky Wages and Comovement                                  | 12      |
 |                                         | Penn World Table 9.0                                         | 4,583   |

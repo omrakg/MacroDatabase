@@ -33,8 +33,8 @@
 | SEADTLITRZSPRK    | Literacy Rate, Adult Total for the Democratic People's Republic of Korea                    | 2008-01-01          | 2008-01-01        |
 | SMPOPNETMPRK      | Net migration for the Democratic People's Republic of Korea                                 | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINPRK    | Infant Mortality Rate for the Democratic People's Republic of Korea                         | 1985-01-01          | 2020-01-01        |
-| SPDYNLE00INPRK    | Life Expectancy at Birth, Total for the Democratic People's Republic of Korea               | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINPRK    | Fertility Rate, Total for the Democratic People's Republic of Korea                         | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INPRK    | Life Expectancy at Birth, Total for the Democratic People's Republic of Korea               | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINPRK    | Fertility Rate, Total for the Democratic People's Republic of Korea                         | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSPRK  | Population ages 65 and above for the Democratic People's Republic of Korea                  | 1960-01-01          | 2020-01-01        |
 | TXPRKA475SCEN     | Number of Identified Exporters to Democratic People's Republic of Korea from Texas          | 2002-01-01          | 2014-01-01        |
 | UTPRKA475SCEN     | Number of Identified Exporters to Democratic People's Republic of Korea from Utah           | 1997-01-01          | 2015-01-01        |

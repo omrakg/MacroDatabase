@@ -52,7 +52,7 @@
 | HORAMSA10420              | Market Hotness: Hotness Rank in Akron, OH (CBSA)                                                                                               | 2017-08-01          | 2022-03-01        |
 | HORAYYMSA10420            | Market Hotness: Hotness Rank in Akron, OH (CBSA)                                                                                               | 2018-08-01          | 2022-03-01        |
 | HOSCMSA10420              | Market Hotness: Hotness Score in Akron, OH (CBSA)                                                                                              | 2017-08-01          | 2022-03-01        |
-| IHLCHG10420               | Job Postings on Indeed in Akron, OH (MSA)                                                                                                      | 2020-02-01          | 2022-04-22        |
+| IHLCHG10420               | Job Postings on Indeed in Akron, OH (MSA)                                                                                                      | 2020-02-01          | 2022-04-29        |
 | IRPD10420                 | Implicit Regional Price Deflator for Akron, OH (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT391042000000003A     | Unemployment Rate in Akron, OH (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT391042000000004      | Unemployed Persons in Akron, OH (MSA)                                                                                                          | 1990-01-01          | 2022-03-01        |

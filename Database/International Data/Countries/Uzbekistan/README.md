@@ -43,7 +43,7 @@
 | DDSI06UZA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Uzbekistan                                                                                   | 1999-01-01          | 2017-01-01        |
 | DDSI07UZA156NWDB  | Provisions to Non-Performing Loans for Uzbekistan                                                                                                 | 2006-01-01          | 2019-01-01        |
 | DEUZBA475SCEN     | Number of Identified Exporters to Uzbekistan from Delaware                                                                                        | 2002-01-01          | 2014-01-01        |
-| EXP4644           | U.S. Exports of Goods by F.A.S. Basis to Uzbekistan                                                                                               | 1992-01-01          | 2022-02-01        |
+| EXP4644           | U.S. Exports of Goods by F.A.S. Basis to Uzbekistan                                                                                               | 1992-01-01          | 2022-03-01        |
 | FLUZBA052SCEN     | Value of Exports to Uzbekistan from Florida                                                                                                       | 1997-01-01          | 2017-01-01        |
 | FLUZBA475SCEN     | Number of Identified Exporters to Uzbekistan from Florida                                                                                         | 1997-01-01          | 2017-01-01        |
 | GAUZBA052SCEN     | Value of Exports to Uzbekistan from Georgia                                                                                                       | 2003-01-01          | 2016-01-01        |
@@ -54,10 +54,10 @@
 | IDUZBA475SCEN     | Number of Identified Exporters to Uzbekistan from Idaho                                                                                           | 1997-01-01          | 2016-01-01        |
 | ILUZBA052SCEN     | Value of Exports to Uzbekistan from Illinois                                                                                                      | 2002-01-01          | 2016-01-01        |
 | ILUZBA475SCEN     | Number of Identified Exporters to Uzbekistan from Illinois                                                                                        | 1997-01-01          | 2017-01-01        |
-| IMP4644           | U.S. Imports of Goods by Customs Basis from Uzbekistan                                                                                            | 1992-01-01          | 2022-02-01        |
+| IMP4644           | U.S. Imports of Goods by Customs Basis from Uzbekistan                                                                                            | 1992-01-01          | 2022-03-01        |
 | INUZBA052SCEN     | Value of Exports to Uzbekistan from Indiana                                                                                                       | 2005-01-01          | 2017-01-01        |
 | INUZBA475SCEN     | Number of Identified Exporters to Uzbekistan from Indiana                                                                                         | 1997-01-01          | 2017-01-01        |
-| ITNETUSERP2UZB    | Internet users for Uzbekistan                                                                                                                     | 1990-01-01          | 2019-01-01        |
+| ITNETUSERP2UZB    | Internet users for Uzbekistan                                                                                                                     | 1990-01-01          | 2020-01-01        |
 | KSUZBA052SCEN     | Value of Exports to Uzbekistan from Kansas                                                                                                        | 2007-01-01          | 2016-01-01        |
 | KSUZBA475SCEN     | Number of Identified Exporters to Uzbekistan from Kansas                                                                                          | 1992-01-01          | 2016-01-01        |
 | KYUZBA052SCEN     | Value of Exports to Uzbekistan from Kentucky                                                                                                      | 2013-01-01          | 2014-01-01        |
@@ -112,8 +112,8 @@
 | SEADTLITRZSUZB    | Literacy Rate, Adult Total for Uzbekistan                                                                                                         | 2000-01-01          | 2019-01-01        |
 | SMPOPNETMUZB      | Net migration for Uzbekistan                                                                                                                      | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINUZB    | Infant Mortality Rate for Uzbekistan                                                                                                              | 1979-01-01          | 2020-01-01        |
-| SPDYNLE00INUZB    | Life Expectancy at Birth, Total for Uzbekistan                                                                                                    | 1960-01-01          | 2019-01-01        |
-| SPDYNTFRTINUZB    | Fertility Rate, Total for Uzbekistan                                                                                                              | 1960-01-01          | 2019-01-01        |
+| SPDYNLE00INUZB    | Life Expectancy at Birth, Total for Uzbekistan                                                                                                    | 1960-01-01          | 2020-01-01        |
+| SPDYNTFRTINUZB    | Fertility Rate, Total for Uzbekistan                                                                                                              | 1960-01-01          | 2020-01-01        |
 | SPPOP65UPTOZSUZB  | Population ages 65 and above for Uzbekistan                                                                                                       | 1960-01-01          | 2020-01-01        |
 | TNUZBA052SCEN     | Value of Exports to Uzbekistan from Tennessee                                                                                                     | 2003-01-01          | 2017-01-01        |
 | TNUZBA475SCEN     | Number of Identified Exporters to Uzbekistan from Tennessee                                                                                       | 1997-01-01          | 2017-01-01        |
