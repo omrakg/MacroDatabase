@@ -1,7 +1,7 @@
 {
   "id": "WPU372101",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Cellular Phone and Other Wireless Telecommunication Services",
   "observation_start": "2009-03-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 08:05:24-05",
   "popularity": 1,
-  "group_popularity": 18
+  "group_popularity": 17
 }

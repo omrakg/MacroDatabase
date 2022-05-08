@@ -1,7 +1,7 @@
 {
   "id": "FDHBATN",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Federal Debt Held by Agencies and Trusts",
   "observation_start": "1981-01-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-02 08:28:07-06",
-  "popularity": 15,
-  "group_popularity": 15
+  "popularity": 13,
+  "group_popularity": 13
 }

@@ -1,18 +1,18 @@
 {
   "id": "DCPN30",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "30-Day AA Nonfinancial Commercial Paper Interest Rate",
   "observation_start": "1997-01-02",
-  "observation_end": "2022-04-28",
+  "observation_end": "2022-05-05",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-29 15:22:11-05",
+  "last_updated": "2022-05-06 15:17:18-05",
   "popularity": 10,
-  "group_popularity": 26,
+  "group_popularity": 27,
   "notes": "Discount Basis"
 }

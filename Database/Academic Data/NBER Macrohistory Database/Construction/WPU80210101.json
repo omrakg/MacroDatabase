@@ -1,7 +1,7 @@
 {
   "id": "WPU80210101",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Construction (Partial): Maintenance and Repair of Nonresidential Buildings (Partial)",
   "observation_start": "2009-04-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 08:03:43-05",
   "popularity": 1,
-  "group_popularity": 11
+  "group_popularity": 10
 }

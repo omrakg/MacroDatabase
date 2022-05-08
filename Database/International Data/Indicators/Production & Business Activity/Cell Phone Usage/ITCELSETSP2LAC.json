@@ -1,7 +1,7 @@
 {
   "id": "ITCELSETSP2LAC",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Mobile Cellular Subscriptions for Developing Countries in Latin America and Caribbean",
   "observation_start": "1960-01-01",
   "observation_end": "2020-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Number per 100 People",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2021-09-22 10:33:16-05",
+  "last_updated": "2022-05-03 14:07:11-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Mobile cellular telephone subscriptions are subscriptions to a public mobile telephone service using cellular technology, which provide access to the public switched telephone network. Post-paid and prepaid subscriptions are included.\n\nNations that are included in this data series are listed at http://data.worldbank.org/about/country-and-lending-groups. A developing nation is defined as one which falls within the lower or middle income bracket.\n\nSource Indicator: IT.CEL.SETS.P2"

@@ -1,7 +1,7 @@
 {
   "id": "WPU081106013",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Lumber and Wood Products: Softwood Dressed 2-Inch Lumber, 2 Inches in Nominal Thickness Only, Not Edge Worked",
   "observation_start": "2012-06-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:52:34-05",
-  "popularity": 11,
-  "group_popularity": 11
+  "popularity": 15,
+  "group_popularity": 15
 }

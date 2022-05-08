@@ -1,7 +1,7 @@
 {
   "id": "W118RL1Q225SBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Real Federal Government Consumption Expenditures: Sales to Other Sectors",
   "observation_start": "1947-04-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:58:47-05",
-  "popularity": 0,
+  "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: W118RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

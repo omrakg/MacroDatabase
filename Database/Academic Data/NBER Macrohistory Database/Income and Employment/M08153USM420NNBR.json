@@ -1,7 +1,7 @@
 {
   "id": "M08153USM420NNBR",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Overtime Man-Hours Paid for All Employees on Hourly Basis, Class I Railroads for United States",
   "observation_start": "1921-07-01",
   "observation_end": "1943-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:24:59-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Include Switching And Terminal Companies Until 1933. Data Include Overtime Paid At Pro-Rata As Well As Punitive Rates. Source: Interstate Commerce Commission, Wage Statistics Of Class I Steam Railroads In The U.S.\n\nThis NBER data series m08153 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08153"
 }

@@ -1,7 +1,7 @@
 {
   "id": "SMU06420603100000001A",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "All Employees: Manufacturing: Durable Goods in Santa Barbara-Santa Maria-Goleta, CA (MSA) (DISCONTINUED)",
   "observation_start": "1990-01-01",
   "observation_end": "2013-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2014-03-24 20:03:24-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1
 }

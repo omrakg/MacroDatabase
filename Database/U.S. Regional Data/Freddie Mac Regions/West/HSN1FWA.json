@@ -1,7 +1,7 @@
 {
   "id": "HSN1FWA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "New One Family Houses Sold in West Census Region",
   "observation_start": "1963-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 09:01:38-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 5
 }

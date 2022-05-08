@@ -1,7 +1,7 @@
 {
   "id": "WPU06790309",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Argon and Hydrogen",
   "observation_start": "2009-06-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:52:37-05",
-  "popularity": 15,
-  "group_popularity": 15
+  "popularity": 20,
+  "group_popularity": 20
 }

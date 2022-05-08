@@ -1,7 +1,7 @@
 {
   "id": "PCU4885104885101",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Industry: Freight Transportation Arrangement: Freight Forwarding",
   "observation_start": "1994-12-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:54:32-05",
-  "popularity": 13,
-  "group_popularity": 13
+  "popularity": 8,
+  "group_popularity": 8
 }

@@ -1,7 +1,7 @@
 {
   "id": "B701RC1Q027SBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Gross value added: GDP: Households",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:54:29-05",
-  "popularity": 8,
-  "group_popularity": 9,
+  "popularity": 4,
+  "group_popularity": 5,
   "notes": "BEA Account Code: B701RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

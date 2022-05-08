@@ -1,7 +1,7 @@
 {
   "id": "SMU40461407072200001",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Tulsa, OK (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-16 03:21:36-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1
 }

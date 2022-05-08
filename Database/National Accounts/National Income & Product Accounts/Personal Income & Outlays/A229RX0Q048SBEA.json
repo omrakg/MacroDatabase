@@ -1,7 +1,7 @@
 {
   "id": "A229RX0Q048SBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Real Disposable Personal Income: Per Capita",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:53:26-05",
-  "popularity": 31,
-  "group_popularity": 68,
+  "popularity": 25,
+  "group_popularity": 67,
   "notes": "BEA Account Code: A229RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

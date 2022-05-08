@@ -1,7 +1,7 @@
 {
   "id": "WPU10210601",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Lead and Zinc Ores",
   "observation_start": "2014-06-01",
   "observation_end": "2015-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-01-15 08:58:47-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 3
 }

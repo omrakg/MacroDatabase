@@ -1,7 +1,7 @@
 {
   "id": "RRVRWEQ156N",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Rental Vacancy Rate in the West Census Region",
   "observation_start": "1956-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-27 09:31:12-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "The rental vacancy rate is the proportion of the rental inventory that is vacant for rent."
 }

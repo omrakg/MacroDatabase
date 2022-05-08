@@ -1,7 +1,7 @@
 {
   "id": "WPU038203",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Textile Products and Apparel: Textile House Furnishings",
   "observation_start": "1983-06-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 08:08:39-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 3
 }

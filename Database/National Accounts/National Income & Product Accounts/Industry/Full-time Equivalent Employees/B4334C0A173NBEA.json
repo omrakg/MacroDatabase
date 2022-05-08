@@ -1,7 +1,7 @@
 {
   "id": "B4334C0A173NBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Full-time equivalent employees: Domestic private industries: Manufacturing: Nondurable goods: Petroleum and coal products",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-03-31 19:55:44-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: B4334C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

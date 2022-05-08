@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SEFP01",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Consumer Price Index for All Urban Consumers: Coffee in U.S. City Average",
   "observation_start": "1967-01-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-12 07:39:17-05",
   "popularity": 16,
-  "group_popularity": 28
+  "group_popularity": 27
 }

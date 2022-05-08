@@ -1,7 +1,7 @@
 {
   "id": "WHLSLRIMNSA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Merchant Wholesalers Inventories",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-14 09:01:39-05",
   "popularity": 3,
-  "group_popularity": 38
+  "group_popularity": 37
 }

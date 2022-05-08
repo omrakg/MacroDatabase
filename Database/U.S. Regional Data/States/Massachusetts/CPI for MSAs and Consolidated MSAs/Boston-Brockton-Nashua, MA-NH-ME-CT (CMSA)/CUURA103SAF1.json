@@ -1,7 +1,7 @@
 {
   "id": "CUURA103SAF1",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Consumer Price Index for All Urban Consumers: Food in Boston-Cambridge-Newton, MA-NH (CBSA)",
   "observation_start": "1914-12-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-12 07:40:56-05",
   "popularity": 4,
-  "group_popularity": 5
+  "group_popularity": 4
 }

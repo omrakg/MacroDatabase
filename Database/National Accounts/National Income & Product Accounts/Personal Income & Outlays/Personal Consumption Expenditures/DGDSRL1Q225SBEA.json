@@ -1,7 +1,7 @@
 {
   "id": "DGDSRL1Q225SBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Real Personal Consumption Expenditures: Goods",
   "observation_start": "1947-04-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:54:43-05",
   "popularity": 3,
-  "group_popularity": 49,
+  "group_popularity": 46,
   "notes": "BEA Account Code: DGDSRL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "A229RX0",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Real Disposable Personal Income: Per Capita",
   "observation_start": "1959-01-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-29 07:43:13-05",
   "popularity": 66,
-  "group_popularity": 68,
+  "group_popularity": 67,
   "notes": "BEA Account Code: A229RX\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

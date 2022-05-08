@@ -1,7 +1,7 @@
 {
   "id": "WPU11710252",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Porcelain, Steatite, and Other Ceramic Electrical Products",
   "observation_start": "2003-12-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:51:52-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 13,
+  "group_popularity": 13
 }

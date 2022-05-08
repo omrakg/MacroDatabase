@@ -1,7 +1,7 @@
 {
   "id": "SMU06447004245210001A",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "All Employees: Retail Trade: Department Stores in Stockton-Lodi, CA (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2016-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-03-13 16:56:38-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1
 }

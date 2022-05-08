@@ -1,7 +1,7 @@
 {
   "id": "DFXARG3Q086SBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Personal consumption expenditures: Nondurable goods: Food and beverages purchased for off-premises consumption (chain-type price index)",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-28 07:54:43-05",
-  "popularity": 3,
+  "popularity": 2,
   "group_popularity": 3,
   "notes": "BEA Account Code: DFXARG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

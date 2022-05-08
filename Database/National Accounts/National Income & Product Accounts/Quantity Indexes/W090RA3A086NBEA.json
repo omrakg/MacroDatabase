@@ -1,7 +1,7 @@
 {
   "id": "W090RA3A086NBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Real national defense consumption expenditures: Gross output of general government: Value added: Compensation of general government employees: Civilian (chain-type quantity index)",
   "observation_start": "1972-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:58:46-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: W090RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

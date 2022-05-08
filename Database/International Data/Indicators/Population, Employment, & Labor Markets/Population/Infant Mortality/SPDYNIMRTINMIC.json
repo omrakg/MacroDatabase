@@ -1,7 +1,7 @@
 {
   "id": "SPDYNIMRTINMIC",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Infant Mortality Rate for Middle Income Countries",
   "observation_start": "1990-01-01",
   "observation_end": "2020-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Number per 1,000 Live Births",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-02-16 16:24:55-06",
+  "last_updated": "2022-05-03 14:05:11-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.\n\nNations that are included in this data series are listed at http://data.worldbank.org/about/country-and-lending-groups\n\nSource Indicator: SP.DYN.IMRT.IN"

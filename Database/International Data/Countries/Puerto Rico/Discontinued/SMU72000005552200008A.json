@@ -1,7 +1,7 @@
 {
   "id": "SMU72000005552200008A",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Average Hourly Earnings of Production Employees: Financial Activities: Credit Intermediation and Related Activities in Puerto Rico (DISCONTINUED)",
   "observation_start": "2001-01-01",
   "observation_end": "2012-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2014-02-02 01:51:59-06",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "OB000331Q",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Real Government Consumption Expenditures and Gross Investment: Federal: National defense",
   "observation_start": "2003-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 07:54:25-05",
   "popularity": 1,
-  "group_popularity": 24,
+  "group_popularity": 17,
   "notes": "BEA Account Code: OB000331"
 }

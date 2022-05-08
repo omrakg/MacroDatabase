@@ -1,7 +1,7 @@
 {
   "id": "B191RO1Q156NBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Gross Domestic Product (chain-type price index)",
   "observation_start": "1948-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-28 07:58:04-05",
-  "popularity": 1,
-  "group_popularity": 15,
+  "popularity": 2,
+  "group_popularity": 16,
   "notes": "BEA Account Code: B191RO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

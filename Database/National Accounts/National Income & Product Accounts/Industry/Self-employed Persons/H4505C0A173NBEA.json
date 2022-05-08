@@ -1,7 +1,7 @@
 {
   "id": "H4505C0A173NBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Self-employed persons: Mining",
   "observation_start": "1929-01-01",
   "observation_end": "1948-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-03-31 19:11:17-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "BEA Account Code: H4505C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

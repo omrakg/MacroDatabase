@@ -1,7 +1,7 @@
 {
   "id": "USPCEFININS",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Personal Consumption Expenditures: Services: Financial Services and Insurance for United States",
   "observation_start": "1997-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-10-08 11:11:04-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "A measure of spending on goods and services purchased by, and on behalf of, households based on households' state of residence in the fifty states and the District of Columbia.\n\nSpending on financial services and insurance. Financial services consist of financial services furnished without payment, and financial service charges, fees, and commissions. Insurance consists of life insurance, net household insurance, net health insurance, net motor vehicle and other transportation insurance.For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
 }

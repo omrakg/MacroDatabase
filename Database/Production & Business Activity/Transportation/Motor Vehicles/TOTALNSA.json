@@ -1,17 +1,17 @@
 {
   "id": "TOTALNSA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Total Vehicle Sales",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-03-01",
+  "observation_end": "2022-04-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-29 07:59:09-05",
+  "last_updated": "2022-05-06 13:18:07-05",
   "popularity": 48,
   "group_popularity": 75
 }

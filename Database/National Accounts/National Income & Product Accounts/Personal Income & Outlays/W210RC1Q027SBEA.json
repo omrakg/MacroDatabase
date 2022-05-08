@@ -1,7 +1,7 @@
 {
   "id": "W210RC1Q027SBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Personal income receipts on assets",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:52:29-05",
-  "popularity": 3,
-  "group_popularity": 7,
+  "popularity": 6,
+  "group_popularity": 9,
   "notes": "BEA Account Code: W210RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

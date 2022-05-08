@@ -1,7 +1,7 @@
 {
   "id": "WPU054",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Electric Power",
   "observation_start": "1958-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:58:27-05",
-  "popularity": 4,
-  "group_popularity": 5
+  "popularity": 5,
+  "group_popularity": 6
 }

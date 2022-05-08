@@ -1,7 +1,7 @@
 {
   "id": "WPU10320105",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Steel Pails (1- to 12-Gallon Capacity) and Fabricated Steel Boxes",
   "observation_start": "2011-12-01",
   "observation_end": "2020-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-09-10 07:57:28-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

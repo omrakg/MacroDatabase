@@ -1,7 +1,7 @@
 {
   "id": "CAPG2122SQ",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Industrial Capacity: Mining, Quarrying, and Oil and Gas Extraction: Metal Ore Mining (NAICS = 2122)",
   "observation_start": "1967-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-15 08:25:24-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "NAICS = 2122\n\nSource Code: CAP.G2122.S"
 }

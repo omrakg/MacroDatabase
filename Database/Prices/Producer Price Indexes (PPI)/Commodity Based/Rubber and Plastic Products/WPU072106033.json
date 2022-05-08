@@ -1,7 +1,7 @@
 {
   "id": "WPU072106033",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Rubber and Plastic Products: Plastics Water Pipe",
   "observation_start": "2011-12-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-13 07:52:06-05",
-  "popularity": 47,
-  "group_popularity": 47
+  "popularity": 49,
+  "group_popularity": 49
 }

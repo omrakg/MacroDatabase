@@ -1,7 +1,7 @@
 {
   "id": "WHLSLRIRSA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Merchant Wholesalers: Inventories to Sales Ratio",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-14 09:01:11-05",
-  "popularity": 38,
-  "group_popularity": 38,
+  "popularity": 36,
+  "group_popularity": 37,
   "notes": "The inventories to sales ratios show the relationship of the end-of-month values of inventory to the monthly sales. These ratios can be looked at as indications of the number of months of inventory that are on hand in relation to the sales for a month. For example, a ratio of 2.5 would indicate that wholesalers have enough merchandise on hand to cover two and a half months of sales."
 }

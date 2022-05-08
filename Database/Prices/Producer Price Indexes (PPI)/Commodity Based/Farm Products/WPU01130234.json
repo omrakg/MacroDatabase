@@ -1,7 +1,7 @@
 {
   "id": "WPU01130234",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Farm Products: Cucumbers",
   "observation_start": "1991-12-01",
   "observation_end": "2021-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-13 07:52:30-06",
-  "popularity": 13,
-  "group_popularity": 13
+  "popularity": 14,
+  "group_popularity": 14
 }

@@ -1,7 +1,7 @@
 {
   "id": "SMU06112447072250001",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "All Employees: Leisure and Hospitality: Restaurants and Other Eating Places in Anaheim-Santa Ana-Irvine, CA (MD)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-16 03:59:48-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1
 }

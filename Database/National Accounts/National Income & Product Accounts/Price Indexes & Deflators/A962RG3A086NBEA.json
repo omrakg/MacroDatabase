@@ -1,7 +1,7 @@
 {
   "id": "A962RG3A086NBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Gross domestic product excluding motor vehicle output (chain-type price index)",
   "observation_start": "1967-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:07:19-05",
   "popularity": 0,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: A962RG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

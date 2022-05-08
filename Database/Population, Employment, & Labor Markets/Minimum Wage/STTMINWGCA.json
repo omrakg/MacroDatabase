@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGCA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "State Minimum Wage Rate for California",
   "observation_start": "1968-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:08-06",
-  "popularity": 40,
-  "group_popularity": 40,
+  "popularity": 38,
+  "group_popularity": 38,
   "notes": "For more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

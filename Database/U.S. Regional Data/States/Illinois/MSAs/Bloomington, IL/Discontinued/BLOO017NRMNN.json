@@ -1,7 +1,7 @@
 {
   "id": "BLOO017NRMNN",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "All Employees: Mining, Logging, and Construction in Bloomington-Normal, IL (MSA) (DISCONTINUED)",
   "observation_start": "1990-01-01",
   "observation_end": "2014-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-01-27 13:29:25-06",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1
 }

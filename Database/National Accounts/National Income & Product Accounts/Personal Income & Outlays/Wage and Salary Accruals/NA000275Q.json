@@ -1,7 +1,7 @@
 {
   "id": "NA000275Q",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Gross domestic income: Compensation of employees, paid: Wages and salaries",
   "observation_start": "2002-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 07:54:18-05",
-  "popularity": 4,
-  "group_popularity": 40,
+  "popularity": 3,
+  "group_popularity": 39,
   "notes": "BEA Account Code: NA000275"
 }

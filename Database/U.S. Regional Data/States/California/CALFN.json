@@ -1,7 +1,7 @@
 {
   "id": "CALFN",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Civilian Labor Force in California",
   "observation_start": "1976-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-18 09:18:14-05",
-  "popularity": 10,
-  "group_popularity": 19
+  "popularity": 7,
+  "group_popularity": 15
 }

@@ -1,7 +1,7 @@
 {
   "id": "CAPHITEK2SQ",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Industrial Capacity: Manufacturing: Durable Goods: Computers, Communications Equipment, and Semiconductors (NAICS = 3341,3342,3344)",
   "observation_start": "1967-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-15 08:25:11-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "NAICS = 3341,3342,3344\n\nSource Code: CAP.HITEK2.S.Q"
 }

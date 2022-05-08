@@ -1,7 +1,7 @@
 {
   "id": "A007RL1Q225SBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Real Gross Private Domestic Investment: Fixed Investment",
   "observation_start": "1947-04-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:54:17-05",
-  "popularity": 12,
-  "group_popularity": 14,
+  "popularity": 8,
+  "group_popularity": 10,
   "notes": "BEA Account Code: A007RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

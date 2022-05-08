@@ -1,7 +1,7 @@
 {
   "id": "WPU139901",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Industrial Sand",
   "observation_start": "1982-06-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:57:26-05",
   "popularity": 5,
-  "group_popularity": 9
+  "group_popularity": 6
 }

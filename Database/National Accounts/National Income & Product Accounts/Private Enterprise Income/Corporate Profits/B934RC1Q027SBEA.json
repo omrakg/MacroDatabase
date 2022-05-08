@@ -1,7 +1,7 @@
 {
   "id": "B934RC1Q027SBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Corporate profits with inventory valuation and capital consumption adjustments: Payments to the rest of the world",
   "observation_start": "1959-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 08:04:22-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B934RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

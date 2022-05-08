@@ -1,7 +1,7 @@
 {
   "id": "IRLTCT01USA156N",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Long-Term Government Bond Yields: Combined Terms for the United States",
   "observation_start": "1960-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-14 14:39:07-05",
-  "popularity": 3,
-  "group_popularity": 18,
+  "popularity": 2,
+  "group_popularity": 20,
   "notes": "OECD descriptor ID: IRLTCT01\nOECD unit ID: ST\nOECD country ID: USA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

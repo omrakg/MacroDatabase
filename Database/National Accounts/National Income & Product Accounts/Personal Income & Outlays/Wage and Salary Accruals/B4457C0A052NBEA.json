@@ -1,7 +1,7 @@
 {
   "id": "B4457C0A052NBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Wage and salary accruals per full-time equivalent employee: Domestic private industries: Insurance agents, brokers, and service",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-08-08 14:12:50-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: B4457C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

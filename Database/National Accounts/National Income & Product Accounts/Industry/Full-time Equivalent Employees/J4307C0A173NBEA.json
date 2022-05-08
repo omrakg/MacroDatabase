@@ -1,7 +1,7 @@
 {
   "id": "J4307C0A173NBEA",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Full-time equivalent employees: Domestic private industries: Mining",
   "observation_start": "1948-01-01",
   "observation_end": "1987-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-08-08 14:14:09-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: J4307C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

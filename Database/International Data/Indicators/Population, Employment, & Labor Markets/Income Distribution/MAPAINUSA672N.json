@@ -1,7 +1,7 @@
 {
   "id": "MAPAINUSA672N",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Real Mean Personal Income in the United States",
   "observation_start": "1974-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-09-14 14:10:07-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 19,
+  "group_popularity": 19,
   "notes": "People 15 years old and over beginning with March 1980, and people 14 years old and over as of March of the following year for previous years."
 }

@@ -1,7 +1,7 @@
 {
   "id": "FCOLKNUAMFRBDAL",
-  "realtime_start": "2022-05-01",
-  "realtime_end": "2022-05-01",
+  "realtime_start": "2022-05-08",
+  "realtime_end": "2022-05-08",
   "title": "Future Company Outlook; Percentage Reporting No Change for Texas",
   "observation_start": "2004-06-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-25 09:32:28-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 1,
   "notes": "Future General Business Conditions, Company Outlook, reports the likely direction of current general business conditions, company outlook, for the manufacturing sector over the six months ahead for the state of Texas. For further information regarding the Texas Manufacturing Outlook Survey release from the Federal Reserve Bank of Dallas visit: https://www.dallasfed.org/research/surveys/tmos.aspx#tab-reports."
 }
