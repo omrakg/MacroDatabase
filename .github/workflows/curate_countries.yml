@@ -1,9 +1,7 @@
 name: Curate Countries
 on:
-  workflow_run:
-    workflows: ["Curate States"]
-    types:
-      - completed
+  schedule:
+  - cron: 00 16 * * 0
 
 jobs:
   Curate-Countries:
