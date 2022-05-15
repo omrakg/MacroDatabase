@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMS72000000500000001",
-      "realtime_start": "2022-04-24",
-      "realtime_end": "2022-04-24",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "All Employees: Total Private in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-03-01",
@@ -14,8 +14,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-04-16 03:20:15-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 2,
+      "group_popularity": 2,
       "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics.",
       "path": "Database/International Data/Countries/Puerto Rico"
     }
@@ -23,8 +23,8 @@
   "3-Month Average Change, Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMS72000000500000026",
-      "realtime_start": "2022-04-24",
-      "realtime_end": "2022-04-24",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "All Employees: Total Private in Puerto Rico",
       "observation_start": "1990-04-01",
       "observation_end": "2022-03-01",
@@ -36,15 +36,15 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-04-16 04:02:37-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Puerto Rico"
     }
   },
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000000500000001",
-      "realtime_start": "2022-04-24",
-      "realtime_end": "2022-04-24",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "All Employees: Total Private in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-03-01",
@@ -56,15 +56,15 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-16 03:06:38-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Puerto Rico"
     }
   },
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000000500000001A",
-      "realtime_start": "2022-04-24",
-      "realtime_end": "2022-04-24",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "All Employees: Total Private in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -76,7 +76,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:10-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Puerto Rico"
     }
   }

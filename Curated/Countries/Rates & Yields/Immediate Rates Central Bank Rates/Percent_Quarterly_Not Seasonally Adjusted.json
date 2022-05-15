@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "IRSTCB01RUQ156N",
-    "realtime_start": "2022-04-24",
-    "realtime_end": "2022-04-24",
+    "realtime_start": "2022-05-15",
+    "realtime_end": "2022-05-15",
     "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for the Russian Federation",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -13,34 +13,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-06-10 12:40:01-05",
-    "popularity": 2,
-    "group_popularity": 8,
+    "popularity": 3,
+    "group_popularity": 9,
     "notes": "OECD descriptor ID: IRSTCB01\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Russian Federation"
   },
-  "Canada": {
-    "id": "IRSTCB01CAQ156N",
-    "realtime_start": "2022-04-24",
-    "realtime_end": "2022-04-24",
-    "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Canada",
-    "observation_start": "1960-01-01",
-    "observation_end": "2021-10-01",
-    "frequency": "Quarterly",
-    "frequency_short": "Q",
-    "units": "Percent",
-    "units_short": "%",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-01-18 11:32:04-06",
-    "popularity": 4,
-    "group_popularity": 34,
-    "notes": "OECD descriptor ID: IRSTCB01\nOECD unit ID: ST\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-    "path": "Database/International Data/Countries/Canada"
-  },
   "Poland": {
     "id": "IRSTCB01PLQ156N",
-    "realtime_start": "2022-04-24",
-    "realtime_end": "2022-04-24",
+    "realtime_start": "2022-05-15",
+    "realtime_end": "2022-05-15",
     "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Poland",
     "observation_start": "1989-10-01",
     "observation_end": "2022-01-01",
@@ -52,7 +33,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-04-14 14:44:39-05",
     "popularity": 1,
-    "group_popularity": 6,
+    "group_popularity": 2,
     "notes": "OECD descriptor ID: IRSTCB01\nOECD unit ID: ST\nOECD country ID: POL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Poland"
   }
