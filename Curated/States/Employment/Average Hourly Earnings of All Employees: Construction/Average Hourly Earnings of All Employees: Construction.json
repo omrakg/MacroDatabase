@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000002000000003",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Average Hourly Earnings of All Employees: Construction in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2022-03-01",
@@ -155,8 +155,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000002000000003A",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Average Hourly Earnings of All Employees: Construction in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

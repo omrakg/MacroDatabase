@@ -2,8 +2,8 @@
   "Millions of Chained 2012 Dollars_Annual_Not Seasonally Adjusted": {
     "Hawaii": {
       "id": "HIWHOLERGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Hawaii",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Alabama": {
       "id": "ALWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Alabama",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -40,8 +40,8 @@
     },
     "Alaska": {
       "id": "AKWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Alaska",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -59,8 +59,8 @@
     },
     "Arizona": {
       "id": "AZWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Arizona",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -78,8 +78,8 @@
     },
     "Delaware": {
       "id": "DEWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Delaware",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -99,8 +99,8 @@
   "Millions of Chained 2012 Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Hawaii": {
       "id": "HIWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Hawaii",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -118,8 +118,8 @@
     },
     "Alabama": {
       "id": "ALWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Alabama",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -137,8 +137,8 @@
     },
     "Alaska": {
       "id": "AKWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Alaska",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -156,8 +156,8 @@
     },
     "Arizona": {
       "id": "AZWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Arizona",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -175,8 +175,8 @@
     },
     "Delaware": {
       "id": "DEWHOLERQGSP",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Delaware",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",

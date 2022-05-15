@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000000800000008",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Average Hourly Earnings of Production Employees: Private Service Providing in West Virginia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-03-01",
@@ -22,8 +22,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000000800000008A",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Average Hourly Earnings of Production Employees: Private Service Providing in West Virginia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",

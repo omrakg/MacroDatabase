@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000003000000006",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -39,8 +39,8 @@
     },
     "Utah": {
       "id": "SMU49000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Utah",
       "observation_start": "2005-01-01",
       "observation_end": "2022-03-01",
@@ -58,8 +58,8 @@
     },
     "Vermont": {
       "id": "SMU50000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -77,8 +77,8 @@
     },
     "Virginia": {
       "id": "SMU51000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -98,8 +98,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000003000000006A",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",
@@ -116,8 +116,8 @@
     },
     "Texas": {
       "id": "SMU48000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -135,8 +135,8 @@
     },
     "Utah": {
       "id": "SMU49000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Utah",
       "observation_start": "2005-01-01",
       "observation_end": "2022-03-01",
@@ -154,8 +154,8 @@
     },
     "Vermont": {
       "id": "SMU50000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -173,8 +173,8 @@
     },
     "Virginia": {
       "id": "SMU51000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -194,8 +194,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -213,8 +213,8 @@
     },
     "Texas": {
       "id": "SMU48000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -232,8 +232,8 @@
     },
     "Utah": {
       "id": "SMU49000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Utah",
       "observation_start": "2005-01-01",
       "observation_end": "2022-03-01",
@@ -251,8 +251,8 @@
     },
     "Vermont": {
       "id": "SMU50000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -270,8 +270,8 @@
     },
     "Virginia": {
       "id": "SMU51000003000000006SA",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Production or Nonsupervisory Employees: Manufacturing in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",

@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004244100030",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Average Weekly Earnings of Production Employees: Retail Trade: Motor Vehicle and Parts Dealers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-03-01",
@@ -22,8 +22,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004244100030A",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Average Weekly Earnings of Production Employees: Retail Trade: Motor Vehicle and Parts Dealers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",

@@ -2,8 +2,8 @@
   "Percent_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "FUFILISAMFRBDAL",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Future Unfilled Orders; Percentage Reporting Increases for Texas",
       "observation_start": "2004-06-01",
       "observation_end": "2022-04-01",
@@ -23,8 +23,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "FUFILIUAMFRBDAL",
-      "realtime_start": "2022-05-08",
-      "realtime_end": "2022-05-08",
+      "realtime_start": "2022-05-15",
+      "realtime_end": "2022-05-15",
       "title": "Future Unfilled Orders; Percentage Reporting Increases for Texas",
       "observation_start": "2004-06-01",
       "observation_end": "2022-04-01",
