@@ -1,12 +1,12 @@
 | id                        | title                                                                                                                 | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU16580            | Housing Inventory: Active Listing Count in Champaign-Urbana, IL (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM16580          | Housing Inventory: Active Listing Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY16580          | Housing Inventory: Active Listing Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU16580            | Housing Inventory: Active Listing Count in Champaign-Urbana, IL (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM16580          | Housing Inventory: Active Listing Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY16580          | Housing Inventory: Active Listing Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS16580Q            | All-Transactions House Price Index for Champaign-Urbana, IL (MSA)                                                     | 1985-07-01          | 2021-10-01        |
-| AVELISPRI16580            | Housing Inventory: Average Listing Price in Champaign-Urbana, IL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM16580          | Housing Inventory: Average Listing Price Month-Over-Month in Champaign-Urbana, IL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY16580          | Housing Inventory: Average Listing Price Year-Over-Year in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| AVELISPRI16580            | Housing Inventory: Average Listing Price in Champaign-Urbana, IL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM16580          | Housing Inventory: Average Listing Price Month-Over-Month in Champaign-Urbana, IL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY16580          | Housing Inventory: Average Listing Price Year-Over-Year in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-04-01        |
 | CHAM517EDUH               | All Employees: Education and Health Services in Champaign-Urbana, IL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | CHAM517EDUHN              | All Employees: Education and Health Services in Champaign-Urbana, IL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | CHAM517FIRE               | All Employees: Financial Activities in Champaign-Urbana, IL (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -35,7 +35,7 @@
 | CHAM517UR                 | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | CHAM517URN                | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | CHMPOP                    | Resident Population in Champaign-Urbana, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| DESCMSA16580              | Market Hotness: Demand Score in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| DESCMSA16580              | Market Hotness: Demand Score in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC165830010             | Total Quarterly Wages in Champaign-Urbana, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC165830010SA           | Total Quarterly Wages in Champaign-Urbana, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC165840010             | Average Weekly Wages for Employees in Total Covered Establishments in Champaign-Urbana, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -44,10 +44,10 @@
 | ENUC165840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Champaign-Urbana, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
 | ENUC165840510             | Average Weekly Wages for Employees in Private Establishments in Champaign-Urbana, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC165840510SA           | Average Weekly Wages for Employees in Private Establishments in Champaign-Urbana, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA16580            | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA16580              | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA16580            | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA16580              | Market Hotness: Hotness Score in Champaign-Urbana, IL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA16580            | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA16580              | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA16580            | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA16580              | Market Hotness: Hotness Score in Champaign-Urbana, IL (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD16580                 | Implicit Regional Price Deflator for Champaign-Urbana, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171658000000003A     | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT171658000000004      | Unemployed Persons in Champaign-Urbana, IL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -55,46 +55,46 @@
 | LAUMT171658000000005      | Employed Persons in Champaign-Urbana, IL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT171658000000005A     | Employed Persons in Champaign-Urbana, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT171658000000006A     | Civilian Labor Force in Champaign-Urbana, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA16580          | Market Hotness: Listing Views per Property in Champaign-Urbana, IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA16580        | Market Hotness: Listing Views per Property Versus the United States in Champaign-Urbana, IL (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA16580          | Market Hotness: Listing Views per Property in Champaign-Urbana, IL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA16580        | Market Hotness: Median Days on Market in Champaign-Urbana, IL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA16580          | Market Hotness: Median Days on Market in Champaign-Urbana, IL (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA16580        | Market Hotness: Median Days on Market in Champaign-Urbana, IL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR16580          | Housing Inventory: Median Days on Market in Champaign-Urbana, IL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM16580        | Housing Inventory: Median Days on Market Month-Over-Month in Champaign-Urbana, IL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY16580        | Housing Inventory: Median Days on Market Year-Over-Year in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI16580            | Housing Inventory: Median Listing Price in Champaign-Urbana, IL (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM16580          | Housing Inventory: Median Listing Price Month-Over-Month in Champaign-Urbana, IL (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE16580   | Housing Inventory: Median Listing Price per Square Feet in Champaign-Urbana, IL (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM16580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Champaign-Urbana, IL (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY16580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Champaign-Urbana, IL (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY16580          | Housing Inventory: Median Listing Price Year-Over-Year in Champaign-Urbana, IL (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA16580          | Market Hotness: Median Days on Market in Champaign-Urbana, IL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA16580          | Market Hotness: Median Days on Market Versus the United States in Champaign-Urbana, IL (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA16580          | Market Hotness: Median Days on Market Day in Champaign-Urbana, IL (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE16580            | Housing Inventory: Median Home Size in Square Feet in Champaign-Urbana, IL (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM16580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Champaign-Urbana, IL (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY16580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Champaign-Urbana, IL (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA16580          | Market Hotness: Median Listing Price in Champaign-Urbana, IL (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA16580            | Market Hotness: Median Listing Price in Champaign-Urbana, IL (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA16580        | Market Hotness: Median Listing Price Versus the United States in Champaign-Urbana, IL (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA16580          | Market Hotness: Median Listing Price in Champaign-Urbana, IL (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU16580            | Housing Inventory: New Listing Count in Champaign-Urbana, IL (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM16580          | Housing Inventory: New Listing Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY16580          | Housing Inventory: New Listing Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA16580          | Market Hotness: Listing Views per Property in Champaign-Urbana, IL (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA16580        | Market Hotness: Listing Views per Property Versus the United States in Champaign-Urbana, IL (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA16580          | Market Hotness: Listing Views per Property in Champaign-Urbana, IL (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA16580        | Market Hotness: Median Days on Market in Champaign-Urbana, IL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA16580          | Market Hotness: Median Days on Market in Champaign-Urbana, IL (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA16580        | Market Hotness: Median Days on Market in Champaign-Urbana, IL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR16580          | Housing Inventory: Median Days on Market in Champaign-Urbana, IL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM16580        | Housing Inventory: Median Days on Market Month-Over-Month in Champaign-Urbana, IL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY16580        | Housing Inventory: Median Days on Market Year-Over-Year in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI16580            | Housing Inventory: Median Listing Price in Champaign-Urbana, IL (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM16580          | Housing Inventory: Median Listing Price Month-Over-Month in Champaign-Urbana, IL (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE16580   | Housing Inventory: Median Listing Price per Square Feet in Champaign-Urbana, IL (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM16580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Champaign-Urbana, IL (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY16580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Champaign-Urbana, IL (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY16580          | Housing Inventory: Median Listing Price Year-Over-Year in Champaign-Urbana, IL (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA16580          | Market Hotness: Median Days on Market in Champaign-Urbana, IL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA16580          | Market Hotness: Median Days on Market Versus the United States in Champaign-Urbana, IL (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA16580          | Market Hotness: Median Days on Market Day in Champaign-Urbana, IL (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE16580            | Housing Inventory: Median Home Size in Square Feet in Champaign-Urbana, IL (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM16580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Champaign-Urbana, IL (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY16580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Champaign-Urbana, IL (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA16580          | Market Hotness: Median Listing Price in Champaign-Urbana, IL (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA16580            | Market Hotness: Median Listing Price in Champaign-Urbana, IL (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA16580        | Market Hotness: Median Listing Price Versus the United States in Champaign-Urbana, IL (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA16580          | Market Hotness: Median Listing Price in Champaign-Urbana, IL (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU16580            | Housing Inventory: New Listing Count in Champaign-Urbana, IL (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM16580          | Housing Inventory: New Listing Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY16580          | Housing Inventory: New Listing Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP16580                 | Total Gross Domestic Product for Champaign-Urbana, IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA16580            | Market Hotness: Nielsen Household Rank in Champaign-Urbana, IL (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA16580            | Market Hotness: Nielsen Household Rank in Champaign-Urbana, IL (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA116580          | U.S. Granted Utility Patents Originating in Champaign-Urbana, IL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU16580            | Housing Inventory: Pending Listing Count in Champaign-Urbana, IL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM16580          | Housing Inventory: Pending Listing Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY16580          | Housing Inventory: Pending Listing Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU16580            | Housing Inventory: Price Increased Count in Champaign-Urbana, IL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
+| PENLISCOU16580            | Housing Inventory: Pending Listing Count in Champaign-Urbana, IL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM16580          | Housing Inventory: Pending Listing Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY16580          | Housing Inventory: Pending Listing Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU16580            | Housing Inventory: Price Increased Count in Champaign-Urbana, IL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
 | PRIINCCOUMM16580          | Housing Inventory: Price Increased Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                              | 2017-07-01          | 2022-02-01        |
 | PRIINCCOUYY16580          | Housing Inventory: Price Increased Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU16580            | Housing Inventory: Price Reduced Count in Champaign-Urbana, IL (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM16580          | Housing Inventory: Price Reduced Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY16580          | Housing Inventory: Price Reduced Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PRIREDCOU16580            | Housing Inventory: Price Reduced Count in Champaign-Urbana, IL (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM16580          | Housing Inventory: Price Reduced Count Month-Over-Month in Champaign-Urbana, IL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY16580          | Housing Inventory: Price Reduced Count Year-Over-Year in Champaign-Urbana, IL (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP16580                 | Total Quantity Indexes for Real GDP for Champaign-Urbana, IL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP16580                 | Total Real Gross Domestic Product for Champaign-Urbana, IL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI16580                  | Real Personal Income for Champaign-Urbana, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -160,4 +160,4 @@
 | SMU17165809093161101      | All Employees: Government: Local Government Educational Services in Champaign-Urbana, IL (MSA)                        | 1990-01-01          | 2022-03-01        |
 | SMU17165809093161101A     | All Employees: Local Government Educational Services in Champaign-Urbana, IL (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU17165809093161101SA    | All Employees: Government: Local Government Educational Services in Champaign-Urbana, IL (MSA)                        | 1990-01-01          | 2022-03-01        |
-| SUSCMSA16580              | Market Hotness: Supply Score in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA16580              | Market Hotness: Supply Score in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

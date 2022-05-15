@@ -1,12 +1,12 @@
 | id                        | title                                                                                                                      | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU17780            | Housing Inventory: Active Listing Count in College Station-Bryan, TX (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM17780          | Housing Inventory: Active Listing Count Month-Over-Month in College Station-Bryan, TX (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY17780          | Housing Inventory: Active Listing Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU17780            | Housing Inventory: Active Listing Count in College Station-Bryan, TX (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM17780          | Housing Inventory: Active Listing Count Month-Over-Month in College Station-Bryan, TX (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY17780          | Housing Inventory: Active Listing Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS17780Q            | All-Transactions House Price Index for College Station-Bryan, TX (MSA)                                                     | 1983-07-01          | 2021-10-01        |
-| AVELISPRI17780            | Housing Inventory: Average Listing Price in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM17780          | Housing Inventory: Average Listing Price Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY17780          | Housing Inventory: Average Listing Price Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| AVELISPRI17780            | Housing Inventory: Average Listing Price in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM17780          | Housing Inventory: Average Listing Price Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY17780          | Housing Inventory: Average Listing Price Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-04-01        |
 | BRNPOP                    | Resident Population in College Station-Bryan, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | BRYSA158MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-02-01          | 2022-03-01        |
 | BRYSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                             | 1990-02-01          | 2022-03-01        |
@@ -39,7 +39,7 @@
 | COLL748TRADN              | All Employees: Trade, Transportation, and Utilities in College Station-Bryan, TX (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | COLL748UR                 | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | COLL748URN                | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
-| DESCMSA17780              | Market Hotness: Demand Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| DESCMSA17780              | Market Hotness: Demand Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC177830010             | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC177830010SA           | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC177840010             | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -52,10 +52,10 @@
 | ENUC177840310SA           | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC177840510             | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC177840510SA           | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA17780            | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA17780              | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA17780            | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA17780              | Market Hotness: Hotness Score in College Station-Bryan, TX (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA17780            | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA17780              | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA17780            | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA17780              | Market Hotness: Hotness Score in College Station-Bryan, TX (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD17780                 | Implicit Regional Price Deflator for College Station-Bryan, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT481778000000003A     | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT481778000000004      | Unemployed Persons in College Station-Bryan, TX (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -63,46 +63,46 @@
 | LAUMT481778000000005      | Employed Persons in College Station-Bryan, TX (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT481778000000005A     | Employed Persons in College Station-Bryan, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT481778000000006A     | Civilian Labor Force in College Station-Bryan, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA17780          | Market Hotness: Listing Views per Property in College Station-Bryan, TX (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA17780        | Market Hotness: Listing Views per Property Versus the United States in College Station-Bryan, TX (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA17780          | Market Hotness: Listing Views per Property in College Station-Bryan, TX (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA17780        | Market Hotness: Median Days on Market in College Station-Bryan, TX (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA17780          | Market Hotness: Median Days on Market in College Station-Bryan, TX (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA17780        | Market Hotness: Median Days on Market in College Station-Bryan, TX (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR17780          | Housing Inventory: Median Days on Market in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM17780        | Housing Inventory: Median Days on Market Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY17780        | Housing Inventory: Median Days on Market Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI17780            | Housing Inventory: Median Listing Price in College Station-Bryan, TX (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM17780          | Housing Inventory: Median Listing Price Month-Over-Month in College Station-Bryan, TX (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE17780   | Housing Inventory: Median Listing Price per Square Feet in College Station-Bryan, TX (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM17780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in College Station-Bryan, TX (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY17780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in College Station-Bryan, TX (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY17780          | Housing Inventory: Median Listing Price Year-Over-Year in College Station-Bryan, TX (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA17780          | Market Hotness: Median Days on Market in College Station-Bryan, TX (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA17780          | Market Hotness: Median Days on Market Versus the United States in College Station-Bryan, TX (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA17780          | Market Hotness: Median Days on Market Day in College Station-Bryan, TX (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE17780            | Housing Inventory: Median Home Size in Square Feet in College Station-Bryan, TX (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM17780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in College Station-Bryan, TX (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY17780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in College Station-Bryan, TX (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA17780          | Market Hotness: Median Listing Price in College Station-Bryan, TX (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA17780            | Market Hotness: Median Listing Price in College Station-Bryan, TX (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA17780        | Market Hotness: Median Listing Price Versus the United States in College Station-Bryan, TX (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA17780          | Market Hotness: Median Listing Price in College Station-Bryan, TX (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU17780            | Housing Inventory: New Listing Count in College Station-Bryan, TX (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM17780          | Housing Inventory: New Listing Count Month-Over-Month in College Station-Bryan, TX (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY17780          | Housing Inventory: New Listing Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA17780          | Market Hotness: Listing Views per Property in College Station-Bryan, TX (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA17780        | Market Hotness: Listing Views per Property Versus the United States in College Station-Bryan, TX (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA17780          | Market Hotness: Listing Views per Property in College Station-Bryan, TX (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA17780        | Market Hotness: Median Days on Market in College Station-Bryan, TX (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA17780          | Market Hotness: Median Days on Market in College Station-Bryan, TX (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA17780        | Market Hotness: Median Days on Market in College Station-Bryan, TX (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR17780          | Housing Inventory: Median Days on Market in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM17780        | Housing Inventory: Median Days on Market Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY17780        | Housing Inventory: Median Days on Market Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI17780            | Housing Inventory: Median Listing Price in College Station-Bryan, TX (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM17780          | Housing Inventory: Median Listing Price Month-Over-Month in College Station-Bryan, TX (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE17780   | Housing Inventory: Median Listing Price per Square Feet in College Station-Bryan, TX (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM17780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in College Station-Bryan, TX (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY17780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in College Station-Bryan, TX (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY17780          | Housing Inventory: Median Listing Price Year-Over-Year in College Station-Bryan, TX (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA17780          | Market Hotness: Median Days on Market in College Station-Bryan, TX (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA17780          | Market Hotness: Median Days on Market Versus the United States in College Station-Bryan, TX (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA17780          | Market Hotness: Median Days on Market Day in College Station-Bryan, TX (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE17780            | Housing Inventory: Median Home Size in Square Feet in College Station-Bryan, TX (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM17780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in College Station-Bryan, TX (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY17780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in College Station-Bryan, TX (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA17780          | Market Hotness: Median Listing Price in College Station-Bryan, TX (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA17780            | Market Hotness: Median Listing Price in College Station-Bryan, TX (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA17780        | Market Hotness: Median Listing Price Versus the United States in College Station-Bryan, TX (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA17780          | Market Hotness: Median Listing Price in College Station-Bryan, TX (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU17780            | Housing Inventory: New Listing Count in College Station-Bryan, TX (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM17780          | Housing Inventory: New Listing Count Month-Over-Month in College Station-Bryan, TX (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY17780          | Housing Inventory: New Listing Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP17780                 | Total Gross Domestic Product for College Station-Bryan, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA17780            | Market Hotness: Nielsen Household Rank in College Station-Bryan, TX (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA17780            | Market Hotness: Nielsen Household Rank in College Station-Bryan, TX (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA117780          | U.S. Granted Utility Patents Originating in College Station-Bryan, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU17780            | Housing Inventory: Pending Listing Count in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM17780          | Housing Inventory: Pending Listing Count Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY17780          | Housing Inventory: Pending Listing Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU17780            | Housing Inventory: Price Increased Count in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM17780          | Housing Inventory: Price Increased Count Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY17780          | Housing Inventory: Price Increased Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU17780            | Housing Inventory: Price Reduced Count in College Station-Bryan, TX (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM17780          | Housing Inventory: Price Reduced Count Month-Over-Month in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY17780          | Housing Inventory: Price Reduced Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU17780            | Housing Inventory: Pending Listing Count in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM17780          | Housing Inventory: Pending Listing Count Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY17780          | Housing Inventory: Pending Listing Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU17780            | Housing Inventory: Price Increased Count in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM17780          | Housing Inventory: Price Increased Count Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY17780          | Housing Inventory: Price Increased Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU17780            | Housing Inventory: Price Reduced Count in College Station-Bryan, TX (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM17780          | Housing Inventory: Price Reduced Count Month-Over-Month in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY17780          | Housing Inventory: Price Reduced Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP17780                 | Total Quantity Indexes for Real GDP for College Station-Bryan, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP17780                 | Total Real Gross Domestic Product for College Station-Bryan, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI17780                  | Real Personal Income for College Station-Bryan, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -159,4 +159,4 @@
 | SMU48177809093000001      | All Employees: Government: Local Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU48177809093000001A     | All Employees: Local Government in College Station-Bryan, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48177809093000001SA    | All Employees: Government: Local Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA17780              | Market Hotness: Supply Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA17780              | Market Hotness: Supply Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU24780            | Housing Inventory: Active Listing Count in Greenville, NC (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM24780          | Housing Inventory: Active Listing Count Month-Over-Month in Greenville, NC (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY24780          | Housing Inventory: Active Listing Count Year-Over-Year in Greenville, NC (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU24780            | Housing Inventory: Active Listing Count in Greenville, NC (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM24780          | Housing Inventory: Active Listing Count Month-Over-Month in Greenville, NC (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY24780          | Housing Inventory: Active Listing Count Year-Over-Year in Greenville, NC (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS24780Q            | All-Transactions House Price Index for Greenville, NC (MSA)                                                     | 1986-01-01          | 2021-10-01        |
-| AVELISPRI24780            | Housing Inventory: Average Listing Price in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM24780          | Housing Inventory: Average Listing Price Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY24780          | Housing Inventory: Average Listing Price Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA24780              | Market Hotness: Demand Score in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI24780            | Housing Inventory: Average Listing Price in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM24780          | Housing Inventory: Average Listing Price Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY24780          | Housing Inventory: Average Listing Price Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA24780              | Market Hotness: Demand Score in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC247830010             | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC247830010SA           | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC247840010             | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -48,10 +48,10 @@
 | GREE737UR                 | Unemployment Rate in Greenville, NC (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | GREE737URN                | Unemployment Rate in Greenville, NC (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | GREPOP                    | Resident Population in Greenville, NC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA24780            | Market Hotness: Hotness Rank in Greenville, NC (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA24780              | Market Hotness: Hotness Rank in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA24780            | Market Hotness: Hotness Rank in Greenville, NC (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA24780              | Market Hotness: Hotness Score in Greenville, NC (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA24780            | Market Hotness: Hotness Rank in Greenville, NC (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA24780              | Market Hotness: Hotness Rank in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA24780            | Market Hotness: Hotness Rank in Greenville, NC (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA24780              | Market Hotness: Hotness Score in Greenville, NC (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD24780                 | Implicit Regional Price Deflator for Greenville, NC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT372478000000003A     | Unemployment Rate in Greenville, NC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT372478000000004      | Unemployed Persons in Greenville, NC (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -59,46 +59,46 @@
 | LAUMT372478000000005      | Employed Persons in Greenville, NC (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT372478000000005A     | Employed Persons in Greenville, NC (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT372478000000006A     | Civilian Labor Force in Greenville, NC (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA24780          | Market Hotness: Listing Views per Property in Greenville, NC (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA24780        | Market Hotness: Listing Views per Property Versus the United States in Greenville, NC (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA24780          | Market Hotness: Listing Views per Property in Greenville, NC (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA24780        | Market Hotness: Median Days on Market in Greenville, NC (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA24780          | Market Hotness: Median Days on Market in Greenville, NC (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA24780        | Market Hotness: Median Days on Market in Greenville, NC (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR24780          | Housing Inventory: Median Days on Market in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM24780        | Housing Inventory: Median Days on Market Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY24780        | Housing Inventory: Median Days on Market Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI24780            | Housing Inventory: Median Listing Price in Greenville, NC (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM24780          | Housing Inventory: Median Listing Price Month-Over-Month in Greenville, NC (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE24780   | Housing Inventory: Median Listing Price per Square Feet in Greenville, NC (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM24780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Greenville, NC (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY24780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Greenville, NC (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY24780          | Housing Inventory: Median Listing Price Year-Over-Year in Greenville, NC (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA24780          | Market Hotness: Median Days on Market in Greenville, NC (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA24780          | Market Hotness: Median Days on Market Versus the United States in Greenville, NC (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA24780          | Market Hotness: Median Days on Market Day in Greenville, NC (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE24780            | Housing Inventory: Median Home Size in Square Feet in Greenville, NC (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM24780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Greenville, NC (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY24780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Greenville, NC (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA24780          | Market Hotness: Median Listing Price in Greenville, NC (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA24780            | Market Hotness: Median Listing Price in Greenville, NC (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA24780        | Market Hotness: Median Listing Price Versus the United States in Greenville, NC (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA24780          | Market Hotness: Median Listing Price in Greenville, NC (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU24780            | Housing Inventory: New Listing Count in Greenville, NC (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM24780          | Housing Inventory: New Listing Count Month-Over-Month in Greenville, NC (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY24780          | Housing Inventory: New Listing Count Year-Over-Year in Greenville, NC (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA24780          | Market Hotness: Listing Views per Property in Greenville, NC (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA24780        | Market Hotness: Listing Views per Property Versus the United States in Greenville, NC (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA24780          | Market Hotness: Listing Views per Property in Greenville, NC (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA24780        | Market Hotness: Median Days on Market in Greenville, NC (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA24780          | Market Hotness: Median Days on Market in Greenville, NC (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA24780        | Market Hotness: Median Days on Market in Greenville, NC (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR24780          | Housing Inventory: Median Days on Market in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM24780        | Housing Inventory: Median Days on Market Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY24780        | Housing Inventory: Median Days on Market Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI24780            | Housing Inventory: Median Listing Price in Greenville, NC (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM24780          | Housing Inventory: Median Listing Price Month-Over-Month in Greenville, NC (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE24780   | Housing Inventory: Median Listing Price per Square Feet in Greenville, NC (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM24780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Greenville, NC (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY24780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Greenville, NC (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY24780          | Housing Inventory: Median Listing Price Year-Over-Year in Greenville, NC (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA24780          | Market Hotness: Median Days on Market in Greenville, NC (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA24780          | Market Hotness: Median Days on Market Versus the United States in Greenville, NC (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA24780          | Market Hotness: Median Days on Market Day in Greenville, NC (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE24780            | Housing Inventory: Median Home Size in Square Feet in Greenville, NC (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM24780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Greenville, NC (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY24780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Greenville, NC (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA24780          | Market Hotness: Median Listing Price in Greenville, NC (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA24780            | Market Hotness: Median Listing Price in Greenville, NC (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA24780        | Market Hotness: Median Listing Price Versus the United States in Greenville, NC (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA24780          | Market Hotness: Median Listing Price in Greenville, NC (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU24780            | Housing Inventory: New Listing Count in Greenville, NC (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM24780          | Housing Inventory: New Listing Count Month-Over-Month in Greenville, NC (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY24780          | Housing Inventory: New Listing Count Year-Over-Year in Greenville, NC (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP24780                 | Total Gross Domestic Product for Greenville, NC (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA24780            | Market Hotness: Nielsen Household Rank in Greenville, NC (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA24780            | Market Hotness: Nielsen Household Rank in Greenville, NC (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA124780          | U.S. Granted Utility Patents Originating in Greenville, NC (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU24780            | Housing Inventory: Pending Listing Count in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM24780          | Housing Inventory: Pending Listing Count Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY24780          | Housing Inventory: Pending Listing Count Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU24780            | Housing Inventory: Price Increased Count in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM24780          | Housing Inventory: Price Increased Count Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY24780          | Housing Inventory: Price Increased Count Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU24780            | Housing Inventory: Price Reduced Count in Greenville, NC (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM24780          | Housing Inventory: Price Reduced Count Month-Over-Month in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY24780          | Housing Inventory: Price Reduced Count Year-Over-Year in Greenville, NC (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU24780            | Housing Inventory: Pending Listing Count in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM24780          | Housing Inventory: Pending Listing Count Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY24780          | Housing Inventory: Pending Listing Count Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU24780            | Housing Inventory: Price Increased Count in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM24780          | Housing Inventory: Price Increased Count Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY24780          | Housing Inventory: Price Increased Count Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU24780            | Housing Inventory: Price Reduced Count in Greenville, NC (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM24780          | Housing Inventory: Price Reduced Count Month-Over-Month in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY24780          | Housing Inventory: Price Reduced Count Year-Over-Year in Greenville, NC (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP24780                 | Total Quantity Indexes for Real GDP for Greenville, NC (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP24780                 | Total Real Gross Domestic Product for Greenville, NC (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI24780                  | Real Personal Income for Greenville, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -156,4 +156,4 @@
 | SMU37247809093000001      | All Employees: Government: Local Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU37247809093000001A     | All Employees: Local Government in Greenville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU37247809093000001SA    | All Employees: Government: Local Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA24780              | Market Hotness: Supply Score in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA24780              | Market Hotness: Supply Score in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

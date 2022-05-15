@@ -1,2 +1,73 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                                        | observation_start   | observation_end   |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CSCICP02ATM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Austria               | 1977-01-01          | 2022-04-01        |
+| CSCICP02AUM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Australia             | 1974-09-01          | 2022-03-01        |
+| CSCICP02BEM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Belgium               | 1973-01-01          | 2022-04-01        |
+| CSCICP02BRM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Brazil                | 1994-06-01          | 2022-04-01        |
+| CSCICP02CHQ460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Switzerland           | 1972-10-01          | 2022-04-01        |
+| CSCICP02CNM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for China                 | 1990-01-01          | 2022-03-01        |
+| CSCICP02CZM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Czech Republic    | 1995-01-01          | 2022-04-01        |
+| CSCICP02DEM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Germany               | 1973-01-01          | 2022-04-01        |
+| CSCICP02DKM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Denmark               | 1974-01-01          | 2022-04-01        |
+| CSCICP02EEM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Estonia               | 1992-10-01          | 2022-04-01        |
+| CSCICP02ESM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Spain                 | 1986-06-01          | 2022-04-01        |
+| CSCICP02EZM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Euro Area         | 1973-01-01          | 2022-04-01        |
+| CSCICP02FIM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Finland               | 1987-11-01          | 2022-04-01        |
+| CSCICP02FRM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for France                | 1973-01-01          | 2022-04-01        |
+| CSCICP02GBM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the United Kingdom    | 1974-01-01          | 2022-04-01        |
+| CSCICP02GRM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Greece                | 1985-01-01          | 2022-04-01        |
+| CSCICP02HUM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Hungary               | 1993-02-01          | 2022-04-01        |
+| CSCICP02IEM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Ireland               | 1974-01-01          | 2022-04-01        |
+| CSCICP02ITM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Italy                 | 1973-01-01          | 2022-04-01        |
+| CSCICP02JPM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Japan                 | 1982-04-01          | 2022-04-01        |
+| CSCICP02JPQ460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Japan                 | 1982-01-01          | 2010-07-01        |
+| CSCICP02KRA066S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Republic of Korea | 1999-01-01          | 2021-01-01        |
+| CSCICP02KRM066S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Republic of Korea | 1998-12-01          | 2022-04-01        |
+| CSCICP02LUM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Luxembourg            | 2002-01-01          | 2022-04-01        |
+| CSCICP02MXM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Mexico                | 2001-04-01          | 2022-03-01        |
+| CSCICP02NLM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Netherlands       | 1973-01-01          | 2022-04-01        |
+| CSCICP02PLM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Poland                | 2001-05-01          | 2022-04-01        |
+| CSCICP02PTM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Portugal              | 1986-06-01          | 2022-04-01        |
+| CSCICP02SEM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Sweden                | 1995-10-01          | 2022-04-01        |
+| CSCICP02SIM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Slovenia              | 1996-03-01          | 2022-04-01        |
+| CSCICP02SKM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Slovak Republic   | 1999-04-01          | 2022-04-01        |
+| CSCICP02TRA460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Turkey                | 2004-01-01          | 2021-01-01        |
+| CSCICP02TRM460S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Turkey                | 2004-01-01          | 2022-04-01        |
+| CSCICP03ATM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Austria                                            | 1977-01-01          | 2022-04-01        |
+| CSCICP03AUM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Australia                                          | 1974-09-01          | 2022-04-01        |
+| CSCICP03BEM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Belgium                                            | 1973-01-01          | 2022-04-01        |
+| CSCICP03BRM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Brazil                                             | 1994-06-01          | 2022-04-01        |
+| CSCICP03CHM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Switzerland                                        | 1972-08-01          | 2022-05-01        |
+| CSCICP03CNM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for China                                              | 1990-01-01          | 2022-03-01        |
+| CSCICP03CZM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Czech Republic                                 | 1995-01-01          | 2022-04-01        |
+| CSCICP03DEM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Germany                                            | 1973-01-01          | 2022-04-01        |
+| CSCICP03DKM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Denmark                                            | 1974-01-01          | 2022-04-01        |
+| CSCICP03EEM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Estonia                                            | 1992-10-01          | 2022-04-01        |
+| CSCICP03ESM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Spain                                              | 1986-06-01          | 2022-04-01        |
+| CSCICP03EZM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Euro Area                                      | 1973-01-01          | 2022-04-01        |
+| CSCICP03FIM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Finland                                            | 1987-11-01          | 2022-04-01        |
+| CSCICP03FRM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for France                                             | 1973-01-01          | 2022-04-01        |
+| CSCICP03GBM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the United Kingdom                                 | 1974-01-01          | 2022-04-01        |
+| CSCICP03GRM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Greece                                             | 1985-01-01          | 2022-04-01        |
+| CSCICP03HUM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Hungary                                            | 1993-02-01          | 2022-04-01        |
+| CSCICP03IDM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Indonesia                                          | 2001-04-01          | 2022-03-01        |
+| CSCICP03IEM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Ireland                                            | 1974-01-01          | 2022-04-01        |
+| CSCICP03ITM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Italy                                              | 1973-01-01          | 2022-04-01        |
+| CSCICP03JPM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Japan                                              | 1982-04-01          | 2022-04-01        |
+| CSCICP03KRM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Republic of Korea                              | 1998-12-01          | 2022-04-01        |
+| CSCICP03LUM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Luxembourg                                         | 2002-01-01          | 2022-04-01        |
+| CSCICP03MXM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Mexico                                             | 2001-04-01          | 2022-03-01        |
+| CSCICP03NLM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Netherlands                                    | 1973-01-01          | 2022-04-01        |
+| CSCICP03NZM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for New Zealand                                        | 1988-06-01          | 2022-03-01        |
+| CSCICP03O9M665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD and Non-member Economies                  | 1980-01-01          | 2022-03-01        |
+| CSCICP03PLM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Poland                                             | 2001-05-01          | 2022-04-01        |
+| CSCICP03PTM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Portugal                                           | 1986-06-01          | 2022-04-01        |
+| CSCICP03SEM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Sweden                                             | 1995-10-01          | 2022-04-01        |
+| CSCICP03SIM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Slovenia                                           | 1996-03-01          | 2022-04-01        |
+| CSCICP03SKM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Slovak Republic                                | 1999-04-01          | 2022-04-01        |
+| CSCICP03TRM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Turkey                                             | 2004-01-01          | 2022-04-01        |
+| CSCICP03USM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the United States                                  | 1960-01-01          | 2022-04-01        |
+| CSCICP03ZAM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for South Africa                                       | 1982-06-01          | 2022-03-01        |
+| CSCICP035AM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Major 5 Asia                                   | 1990-01-01          | 2022-03-01        |
+| LOCOCIORCHQ460S | Leading Indicators OECD: Component Series: Consumer Sentiment: Confidence Indicator: Original Series for Switzerland                         | 1972-10-01          | 2022-04-01        |
+| LOCOCIORNZQ665S | Leading Indicators OECD: Component Series: Consumer Sentiment: Confidence Indicator: Original Series for New Zealand                         | 1988-04-01          | 2022-01-01        |

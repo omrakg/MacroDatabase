@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU33780            | Housing Inventory: Active Listing Count in Monroe, MI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM33780          | Housing Inventory: Active Listing Count Month-Over-Month in Monroe, MI (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY33780          | Housing Inventory: Active Listing Count Year-Over-Year in Monroe, MI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU33780            | Housing Inventory: Active Listing Count in Monroe, MI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM33780          | Housing Inventory: Active Listing Count Month-Over-Month in Monroe, MI (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY33780          | Housing Inventory: Active Listing Count Year-Over-Year in Monroe, MI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS33780Q            | All-Transactions House Price Index for Monroe, MI (MSA)                                                     | 1980-07-01          | 2021-10-01        |
-| AVELISPRI33780            | Housing Inventory: Average Listing Price in Monroe, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM33780          | Housing Inventory: Average Listing Price Month-Over-Month in Monroe, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY33780          | Housing Inventory: Average Listing Price Year-Over-Year in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA33780              | Market Hotness: Demand Score in Monroe, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI33780            | Housing Inventory: Average Listing Price in Monroe, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM33780          | Housing Inventory: Average Listing Price Month-Over-Month in Monroe, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY33780          | Housing Inventory: Average Listing Price Year-Over-Year in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA33780              | Market Hotness: Demand Score in Monroe, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC337830010             | Total Quarterly Wages in Monroe, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC337830010SA           | Total Quarterly Wages in Monroe, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC337840010             | Average Weekly Wages for Employees in Total Covered Establishments in Monroe, MI (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -20,10 +20,10 @@
 | ENUC337840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Monroe, MI (MSA)                   | 2005-01-01          | 2021-07-01        |
 | ENUC337840510             | Average Weekly Wages for Employees in Private Establishments in Monroe, MI (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC337840510SA           | Average Weekly Wages for Employees in Private Establishments in Monroe, MI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA33780            | Market Hotness: Hotness Rank in Monroe, MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA33780              | Market Hotness: Hotness Rank in Monroe, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA33780            | Market Hotness: Hotness Rank in Monroe, MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA33780              | Market Hotness: Hotness Score in Monroe, MI (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA33780            | Market Hotness: Hotness Rank in Monroe, MI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA33780              | Market Hotness: Hotness Rank in Monroe, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA33780            | Market Hotness: Hotness Rank in Monroe, MI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA33780              | Market Hotness: Hotness Score in Monroe, MI (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD33780                 | Implicit Regional Price Deflator for Monroe, MI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT263378000000003A     | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT263378000000004      | Unemployed Persons in Monroe, MI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -31,31 +31,31 @@
 | LAUMT263378000000005      | Employed Persons in Monroe, MI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT263378000000005A     | Employed Persons in Monroe, MI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT263378000000006A     | Civilian Labor Force in Monroe, MI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA33780          | Market Hotness: Listing Views per Property in Monroe, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA33780        | Market Hotness: Listing Views per Property Versus the United States in Monroe, MI (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA33780          | Market Hotness: Listing Views per Property in Monroe, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA33780        | Market Hotness: Median Days on Market in Monroe, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA33780          | Market Hotness: Median Days on Market in Monroe, MI (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA33780        | Market Hotness: Median Days on Market in Monroe, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR33780          | Housing Inventory: Median Days on Market in Monroe, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM33780        | Housing Inventory: Median Days on Market Month-Over-Month in Monroe, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY33780        | Housing Inventory: Median Days on Market Year-Over-Year in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI33780            | Housing Inventory: Median Listing Price in Monroe, MI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM33780          | Housing Inventory: Median Listing Price Month-Over-Month in Monroe, MI (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE33780   | Housing Inventory: Median Listing Price per Square Feet in Monroe, MI (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM33780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Monroe, MI (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY33780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Monroe, MI (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY33780          | Housing Inventory: Median Listing Price Year-Over-Year in Monroe, MI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA33780          | Market Hotness: Median Days on Market in Monroe, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA33780          | Market Hotness: Median Days on Market Versus the United States in Monroe, MI (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA33780          | Market Hotness: Median Days on Market Day in Monroe, MI (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE33780            | Housing Inventory: Median Home Size in Square Feet in Monroe, MI (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM33780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Monroe, MI (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY33780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Monroe, MI (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA33780          | Market Hotness: Median Listing Price in Monroe, MI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA33780            | Market Hotness: Median Listing Price in Monroe, MI (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA33780        | Market Hotness: Median Listing Price Versus the United States in Monroe, MI (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA33780          | Market Hotness: Median Listing Price in Monroe, MI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
+| LDPEPRMMMSA33780          | Market Hotness: Listing Views per Property in Monroe, MI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA33780        | Market Hotness: Listing Views per Property Versus the United States in Monroe, MI (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA33780          | Market Hotness: Listing Views per Property in Monroe, MI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA33780        | Market Hotness: Median Days on Market in Monroe, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA33780          | Market Hotness: Median Days on Market in Monroe, MI (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA33780        | Market Hotness: Median Days on Market in Monroe, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR33780          | Housing Inventory: Median Days on Market in Monroe, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM33780        | Housing Inventory: Median Days on Market Month-Over-Month in Monroe, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY33780        | Housing Inventory: Median Days on Market Year-Over-Year in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI33780            | Housing Inventory: Median Listing Price in Monroe, MI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM33780          | Housing Inventory: Median Listing Price Month-Over-Month in Monroe, MI (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE33780   | Housing Inventory: Median Listing Price per Square Feet in Monroe, MI (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM33780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Monroe, MI (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY33780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Monroe, MI (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY33780          | Housing Inventory: Median Listing Price Year-Over-Year in Monroe, MI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA33780          | Market Hotness: Median Days on Market in Monroe, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA33780          | Market Hotness: Median Days on Market Versus the United States in Monroe, MI (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA33780          | Market Hotness: Median Days on Market Day in Monroe, MI (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE33780            | Housing Inventory: Median Home Size in Square Feet in Monroe, MI (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM33780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Monroe, MI (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY33780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Monroe, MI (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA33780          | Market Hotness: Median Listing Price in Monroe, MI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA33780            | Market Hotness: Median Listing Price in Monroe, MI (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA33780        | Market Hotness: Median Listing Price Versus the United States in Monroe, MI (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA33780          | Market Hotness: Median Listing Price in Monroe, MI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
 | MNMPOP                    | Resident Population in Monroe, MI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | MONR726EDUH               | All Employees: Education and Health Services in Monroe, MI (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | MONR726EDUHN              | All Employees: Education and Health Services in Monroe, MI (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -82,21 +82,21 @@
 | MONR726TRADN              | All Employees: Trade, Transportation, and Utilities in Monroe, MI (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | MONR726UR                 | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MONR726URN                | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
-| NEWLISCOU33780            | Housing Inventory: New Listing Count in Monroe, MI (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM33780          | Housing Inventory: New Listing Count Month-Over-Month in Monroe, MI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY33780          | Housing Inventory: New Listing Count Year-Over-Year in Monroe, MI (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| NEWLISCOU33780            | Housing Inventory: New Listing Count in Monroe, MI (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM33780          | Housing Inventory: New Listing Count Month-Over-Month in Monroe, MI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY33780          | Housing Inventory: New Listing Count Year-Over-Year in Monroe, MI (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP33780                 | Total Gross Domestic Product for Monroe, MI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA33780            | Market Hotness: Nielsen Household Rank in Monroe, MI (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA33780            | Market Hotness: Nielsen Household Rank in Monroe, MI (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA133780          | U.S. Granted Utility Patents Originating in Monroe, MI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU33780            | Housing Inventory: Pending Listing Count in Monroe, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM33780          | Housing Inventory: Pending Listing Count Month-Over-Month in Monroe, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY33780          | Housing Inventory: Pending Listing Count Year-Over-Year in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU33780            | Housing Inventory: Price Increased Count in Monroe, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
+| PENLISCOU33780            | Housing Inventory: Pending Listing Count in Monroe, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM33780          | Housing Inventory: Pending Listing Count Month-Over-Month in Monroe, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY33780          | Housing Inventory: Pending Listing Count Year-Over-Year in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU33780            | Housing Inventory: Price Increased Count in Monroe, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
 | PRIINCCOUMM33780          | Housing Inventory: Price Increased Count Month-Over-Month in Monroe, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY33780          | Housing Inventory: Price Increased Count Year-Over-Year in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU33780            | Housing Inventory: Price Reduced Count in Monroe, MI (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM33780          | Housing Inventory: Price Reduced Count Month-Over-Month in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY33780          | Housing Inventory: Price Reduced Count Year-Over-Year in Monroe, MI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PRIINCCOUYY33780          | Housing Inventory: Price Increased Count Year-Over-Year in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU33780            | Housing Inventory: Price Reduced Count in Monroe, MI (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM33780          | Housing Inventory: Price Reduced Count Month-Over-Month in Monroe, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY33780          | Housing Inventory: Price Reduced Count Year-Over-Year in Monroe, MI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP33780                 | Total Quantity Indexes for Real GDP for Monroe, MI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP33780                 | Total Real Gross Domestic Product for Monroe, MI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI33780                  | Real Personal Income for Monroe, MI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -143,4 +143,4 @@
 | SMU26337807000000001A     | All Employees: Leisure and Hospitality in Monroe, MI (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU26337808000000001A     | All Employees: Other Services in Monroe, MI (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU26337809000000001A     | All Employees: Government in Monroe, MI (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SUSCMSA33780              | Market Hotness: Supply Score in Monroe, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA33780              | Market Hotness: Supply Score in Monroe, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

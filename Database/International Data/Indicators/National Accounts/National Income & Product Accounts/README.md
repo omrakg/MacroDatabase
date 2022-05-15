@@ -1,6 +1,6 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
+| Personal Income & Outlays                |                 1 |
 | Foreign Transactions                     |                 2 |
-| Price Indexes & Deflators                |                 0 |
+| Price Indexes & Deflators                |                 1 |
 | Govt Receipts, Expenditures & Investment |                 5 |
-| Personal Income & Outlays                |                 0 |

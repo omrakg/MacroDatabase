@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU20020            | Housing Inventory: Active Listing Count in Dothan, AL (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM20020          | Housing Inventory: Active Listing Count Month-Over-Month in Dothan, AL (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY20020          | Housing Inventory: Active Listing Count Year-Over-Year in Dothan, AL (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU20020            | Housing Inventory: Active Listing Count in Dothan, AL (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM20020          | Housing Inventory: Active Listing Count Month-Over-Month in Dothan, AL (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY20020          | Housing Inventory: Active Listing Count Year-Over-Year in Dothan, AL (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS20020Q            | All-Transactions House Price Index for Dothan, AL (MSA)                                                     | 1989-07-01          | 2021-10-01        |
-| AVELISPRI20020            | Housing Inventory: Average Listing Price in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM20020          | Housing Inventory: Average Listing Price Month-Over-Month in Dothan, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY20020          | Housing Inventory: Average Listing Price Year-Over-Year in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA20020              | Market Hotness: Demand Score in Dothan, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI20020            | Housing Inventory: Average Listing Price in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM20020          | Housing Inventory: Average Listing Price Month-Over-Month in Dothan, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY20020          | Housing Inventory: Average Listing Price Year-Over-Year in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA20020              | Market Hotness: Demand Score in Dothan, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | DOTH001EDUH               | All Employees: Education and Health Services in Dothan, AL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | DOTH001EDUHN              | All Employees: Education and Health Services in Dothan, AL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | DOTH001FIRE               | All Employees: Financial Activities in Dothan, AL (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -48,10 +48,10 @@
 | ENUC200240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC200240510             | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC200240510SA           | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA20020              | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA20020              | Market Hotness: Hotness Score in Dothan, AL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA20020              | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA20020              | Market Hotness: Hotness Score in Dothan, AL (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD20020                 | Implicit Regional Price Deflator for Dothan, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT012002000000003A     | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT012002000000004      | Unemployed Persons in Dothan, AL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -59,46 +59,46 @@
 | LAUMT012002000000005      | Employed Persons in Dothan, AL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT012002000000005A     | Employed Persons in Dothan, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT012002000000006A     | Civilian Labor Force in Dothan, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA20020          | Market Hotness: Listing Views per Property in Dothan, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA20020        | Market Hotness: Listing Views per Property Versus the United States in Dothan, AL (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA20020          | Market Hotness: Listing Views per Property in Dothan, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA20020        | Market Hotness: Median Days on Market in Dothan, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA20020          | Market Hotness: Median Days on Market in Dothan, AL (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA20020        | Market Hotness: Median Days on Market in Dothan, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR20020          | Housing Inventory: Median Days on Market in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM20020        | Housing Inventory: Median Days on Market Month-Over-Month in Dothan, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY20020        | Housing Inventory: Median Days on Market Year-Over-Year in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI20020            | Housing Inventory: Median Listing Price in Dothan, AL (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM20020          | Housing Inventory: Median Listing Price Month-Over-Month in Dothan, AL (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE20020   | Housing Inventory: Median Listing Price per Square Feet in Dothan, AL (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM20020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Dothan, AL (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY20020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Dothan, AL (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY20020          | Housing Inventory: Median Listing Price Year-Over-Year in Dothan, AL (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA20020          | Market Hotness: Median Days on Market in Dothan, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA20020          | Market Hotness: Median Days on Market Versus the United States in Dothan, AL (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA20020          | Market Hotness: Median Days on Market Day in Dothan, AL (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE20020            | Housing Inventory: Median Home Size in Square Feet in Dothan, AL (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM20020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Dothan, AL (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY20020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Dothan, AL (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA20020          | Market Hotness: Median Listing Price in Dothan, AL (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA20020            | Market Hotness: Median Listing Price in Dothan, AL (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA20020        | Market Hotness: Median Listing Price Versus the United States in Dothan, AL (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA20020          | Market Hotness: Median Listing Price in Dothan, AL (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU20020            | Housing Inventory: New Listing Count in Dothan, AL (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM20020          | Housing Inventory: New Listing Count Month-Over-Month in Dothan, AL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY20020          | Housing Inventory: New Listing Count Year-Over-Year in Dothan, AL (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA20020          | Market Hotness: Listing Views per Property in Dothan, AL (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA20020        | Market Hotness: Listing Views per Property Versus the United States in Dothan, AL (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA20020          | Market Hotness: Listing Views per Property in Dothan, AL (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA20020        | Market Hotness: Median Days on Market in Dothan, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA20020          | Market Hotness: Median Days on Market in Dothan, AL (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA20020        | Market Hotness: Median Days on Market in Dothan, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR20020          | Housing Inventory: Median Days on Market in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM20020        | Housing Inventory: Median Days on Market Month-Over-Month in Dothan, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY20020        | Housing Inventory: Median Days on Market Year-Over-Year in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI20020            | Housing Inventory: Median Listing Price in Dothan, AL (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM20020          | Housing Inventory: Median Listing Price Month-Over-Month in Dothan, AL (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE20020   | Housing Inventory: Median Listing Price per Square Feet in Dothan, AL (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM20020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Dothan, AL (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY20020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Dothan, AL (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY20020          | Housing Inventory: Median Listing Price Year-Over-Year in Dothan, AL (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA20020          | Market Hotness: Median Days on Market in Dothan, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA20020          | Market Hotness: Median Days on Market Versus the United States in Dothan, AL (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA20020          | Market Hotness: Median Days on Market Day in Dothan, AL (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE20020            | Housing Inventory: Median Home Size in Square Feet in Dothan, AL (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM20020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Dothan, AL (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY20020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Dothan, AL (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA20020          | Market Hotness: Median Listing Price in Dothan, AL (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA20020            | Market Hotness: Median Listing Price in Dothan, AL (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA20020        | Market Hotness: Median Listing Price Versus the United States in Dothan, AL (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA20020          | Market Hotness: Median Listing Price in Dothan, AL (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU20020            | Housing Inventory: New Listing Count in Dothan, AL (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM20020          | Housing Inventory: New Listing Count Month-Over-Month in Dothan, AL (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY20020          | Housing Inventory: New Listing Count Year-Over-Year in Dothan, AL (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP20020                 | Total Gross Domestic Product for Dothan, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA20020            | Market Hotness: Nielsen Household Rank in Dothan, AL (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA20020            | Market Hotness: Nielsen Household Rank in Dothan, AL (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA120020          | U.S. Granted Utility Patents Originating in Dothan, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU20020            | Housing Inventory: Pending Listing Count in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM20020          | Housing Inventory: Pending Listing Count Month-Over-Month in Dothan, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY20020          | Housing Inventory: Pending Listing Count Year-Over-Year in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU20020            | Housing Inventory: Price Increased Count in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
+| PENLISCOU20020            | Housing Inventory: Pending Listing Count in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM20020          | Housing Inventory: Pending Listing Count Month-Over-Month in Dothan, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY20020          | Housing Inventory: Pending Listing Count Year-Over-Year in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU20020            | Housing Inventory: Price Increased Count in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
 | PRIINCCOUMM20020          | Housing Inventory: Price Increased Count Month-Over-Month in Dothan, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
 | PRIINCCOUYY20020          | Housing Inventory: Price Increased Count Year-Over-Year in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU20020            | Housing Inventory: Price Reduced Count in Dothan, AL (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM20020          | Housing Inventory: Price Reduced Count Month-Over-Month in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY20020          | Housing Inventory: Price Reduced Count Year-Over-Year in Dothan, AL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PRIREDCOU20020            | Housing Inventory: Price Reduced Count in Dothan, AL (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM20020          | Housing Inventory: Price Reduced Count Month-Over-Month in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY20020          | Housing Inventory: Price Reduced Count Year-Over-Year in Dothan, AL (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP20020                 | Total Quantity Indexes for Real GDP for Dothan, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP20020                 | Total Real Gross Domestic Product for Dothan, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI20020                  | Real Personal Income for Dothan, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -152,4 +152,4 @@
 | SMU01200209094000001      | All Employees: Government: Total State and Local Government in Dothan, AL (MSA)                             | 1990-01-01          | 2022-03-01        |
 | SMU01200209094000001A     | All Employees: Total State and Local Government in Dothan, AL (MSA)                                         | 1990-01-01          | 2021-01-01        |
 | SMU01200209094000001SA    | All Employees: Government: Total State and Local Government in Dothan, AL (MSA)                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA20020              | Market Hotness: Supply Score in Dothan, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA20020              | Market Hotness: Supply Score in Dothan, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

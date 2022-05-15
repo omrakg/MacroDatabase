@@ -1,13 +1,13 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU29540            | Housing Inventory: Active Listing Count in Lancaster, PA (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM29540          | Housing Inventory: Active Listing Count Month-Over-Month in Lancaster, PA (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY29540          | Housing Inventory: Active Listing Count Year-Over-Year in Lancaster, PA (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU29540            | Housing Inventory: Active Listing Count in Lancaster, PA (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM29540          | Housing Inventory: Active Listing Count Month-Over-Month in Lancaster, PA (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY29540          | Housing Inventory: Active Listing Count Year-Over-Year in Lancaster, PA (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS29540Q            | All-Transactions House Price Index for Lancaster, PA (MSA)                                                     | 1979-01-01          | 2021-10-01        |
-| AVELISPRI29540            | Housing Inventory: Average Listing Price in Lancaster, PA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM29540          | Housing Inventory: Average Listing Price Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY29540          | Housing Inventory: Average Listing Price Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA29540              | Market Hotness: Demand Score in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI29540            | Housing Inventory: Average Listing Price in Lancaster, PA (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM29540          | Housing Inventory: Average Listing Price Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY29540          | Housing Inventory: Average Listing Price Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA29540              | Market Hotness: Demand Score in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC295430010             | Total Quarterly Wages in Lancaster, PA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC295430010SA           | Total Quarterly Wages in Lancaster, PA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC295440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lancaster, PA (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -20,10 +20,10 @@
 | ENUC295440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC295440510             | Average Weekly Wages for Employees in Private Establishments in Lancaster, PA (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC295440510SA           | Average Weekly Wages for Employees in Private Establishments in Lancaster, PA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA29540              | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA29540              | Market Hotness: Hotness Score in Lancaster, PA (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA29540              | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA29540              | Market Hotness: Hotness Score in Lancaster, PA (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-04-29        |
 | IRPD29540                 | Implicit Regional Price Deflator for Lancaster, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LACPOP                    | Resident Population in Lancaster, PA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
@@ -60,46 +60,46 @@
 | LAUMT422954000000005      | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT422954000000005A     | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT422954000000006A     | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA29540          | Market Hotness: Listing Views per Property in Lancaster, PA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA29540        | Market Hotness: Listing Views per Property Versus the United States in Lancaster, PA (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA29540          | Market Hotness: Listing Views per Property in Lancaster, PA (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA29540        | Market Hotness: Median Days on Market in Lancaster, PA (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA29540          | Market Hotness: Median Days on Market in Lancaster, PA (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA29540        | Market Hotness: Median Days on Market in Lancaster, PA (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR29540          | Housing Inventory: Median Days on Market in Lancaster, PA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM29540        | Housing Inventory: Median Days on Market Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY29540        | Housing Inventory: Median Days on Market Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI29540            | Housing Inventory: Median Listing Price in Lancaster, PA (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM29540          | Housing Inventory: Median Listing Price Month-Over-Month in Lancaster, PA (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE29540   | Housing Inventory: Median Listing Price per Square Feet in Lancaster, PA (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM29540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lancaster, PA (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY29540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lancaster, PA (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY29540          | Housing Inventory: Median Listing Price Year-Over-Year in Lancaster, PA (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA29540          | Market Hotness: Median Days on Market in Lancaster, PA (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA29540          | Market Hotness: Median Days on Market Versus the United States in Lancaster, PA (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA29540          | Market Hotness: Median Days on Market Day in Lancaster, PA (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE29540            | Housing Inventory: Median Home Size in Square Feet in Lancaster, PA (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM29540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lancaster, PA (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY29540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lancaster, PA (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA29540          | Market Hotness: Median Listing Price in Lancaster, PA (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA29540            | Market Hotness: Median Listing Price in Lancaster, PA (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA29540        | Market Hotness: Median Listing Price Versus the United States in Lancaster, PA (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA29540          | Market Hotness: Median Listing Price in Lancaster, PA (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU29540            | Housing Inventory: New Listing Count in Lancaster, PA (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM29540          | Housing Inventory: New Listing Count Month-Over-Month in Lancaster, PA (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY29540          | Housing Inventory: New Listing Count Year-Over-Year in Lancaster, PA (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA29540          | Market Hotness: Listing Views per Property in Lancaster, PA (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA29540        | Market Hotness: Listing Views per Property Versus the United States in Lancaster, PA (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA29540          | Market Hotness: Listing Views per Property in Lancaster, PA (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA29540        | Market Hotness: Median Days on Market in Lancaster, PA (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA29540          | Market Hotness: Median Days on Market in Lancaster, PA (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA29540        | Market Hotness: Median Days on Market in Lancaster, PA (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR29540          | Housing Inventory: Median Days on Market in Lancaster, PA (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM29540        | Housing Inventory: Median Days on Market Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY29540        | Housing Inventory: Median Days on Market Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI29540            | Housing Inventory: Median Listing Price in Lancaster, PA (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM29540          | Housing Inventory: Median Listing Price Month-Over-Month in Lancaster, PA (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE29540   | Housing Inventory: Median Listing Price per Square Feet in Lancaster, PA (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM29540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lancaster, PA (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY29540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lancaster, PA (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY29540          | Housing Inventory: Median Listing Price Year-Over-Year in Lancaster, PA (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA29540          | Market Hotness: Median Days on Market in Lancaster, PA (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA29540          | Market Hotness: Median Days on Market Versus the United States in Lancaster, PA (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA29540          | Market Hotness: Median Days on Market Day in Lancaster, PA (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE29540            | Housing Inventory: Median Home Size in Square Feet in Lancaster, PA (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM29540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lancaster, PA (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY29540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lancaster, PA (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA29540          | Market Hotness: Median Listing Price in Lancaster, PA (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA29540            | Market Hotness: Median Listing Price in Lancaster, PA (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA29540        | Market Hotness: Median Listing Price Versus the United States in Lancaster, PA (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA29540          | Market Hotness: Median Listing Price in Lancaster, PA (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU29540            | Housing Inventory: New Listing Count in Lancaster, PA (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM29540          | Housing Inventory: New Listing Count Month-Over-Month in Lancaster, PA (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY29540          | Housing Inventory: New Listing Count Year-Over-Year in Lancaster, PA (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP29540                 | Total Gross Domestic Product for Lancaster, PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA29540            | Market Hotness: Nielsen Household Rank in Lancaster, PA (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA29540            | Market Hotness: Nielsen Household Rank in Lancaster, PA (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA129540          | U.S. Granted Utility Patents Originating in Lancaster, PA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU29540            | Housing Inventory: Pending Listing Count in Lancaster, PA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM29540          | Housing Inventory: Pending Listing Count Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY29540          | Housing Inventory: Pending Listing Count Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU29540            | Housing Inventory: Price Increased Count in Lancaster, PA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM29540          | Housing Inventory: Price Increased Count Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY29540          | Housing Inventory: Price Increased Count Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU29540            | Housing Inventory: Price Reduced Count in Lancaster, PA (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM29540          | Housing Inventory: Price Reduced Count Month-Over-Month in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY29540          | Housing Inventory: Price Reduced Count Year-Over-Year in Lancaster, PA (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU29540            | Housing Inventory: Pending Listing Count in Lancaster, PA (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM29540          | Housing Inventory: Pending Listing Count Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY29540          | Housing Inventory: Pending Listing Count Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU29540            | Housing Inventory: Price Increased Count in Lancaster, PA (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM29540          | Housing Inventory: Price Increased Count Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY29540          | Housing Inventory: Price Increased Count Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU29540            | Housing Inventory: Price Reduced Count in Lancaster, PA (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM29540          | Housing Inventory: Price Reduced Count Month-Over-Month in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY29540          | Housing Inventory: Price Reduced Count Year-Over-Year in Lancaster, PA (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP29540                 | Total Quantity Indexes for Real GDP for Lancaster, PA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP29540                 | Total Real Gross Domestic Product for Lancaster, PA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI29540                  | Real Personal Income for Lancaster, PA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -180,4 +180,4 @@
 | SMU42295409093000001      | All Employees: Government: Local Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU42295409093000001A     | All Employees: Local Government in Lancaster, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU42295409093000001SA    | All Employees: Government: Local Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA29540              | Market Hotness: Supply Score in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA29540              | Market Hotness: Supply Score in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

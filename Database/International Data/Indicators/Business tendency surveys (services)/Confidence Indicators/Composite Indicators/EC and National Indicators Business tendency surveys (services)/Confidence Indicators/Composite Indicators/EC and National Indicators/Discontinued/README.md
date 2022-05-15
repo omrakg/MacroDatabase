@@ -1,3 +1,2 @@
-| id              | title                                                                                                                                                                | observation_start   | observation_end   |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BRCICP02ZAQ460N | Business Tendency Surveys for Retail Trade: Confidence Indicators: Composite Indicators: European Commission and National Indicators for South Africa (DISCONTINUED) | 1990-01-01          | 2013-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

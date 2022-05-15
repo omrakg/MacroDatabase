@@ -1,20 +1,20 @@
 | Folder                                             |   Files / Folders |
 |----------------------------------------------------|-------------------|
-| Health Insurance                                   |                 1 |
-| Business Cycle Expansions & Contractions           |               297 |
 | Industrial Production & Capacity Utilization       |                 1 |
-| Housing                                            |                 7 |
-| Expenditures                                       |                 1 |
-| Emissions                                          |                38 |
 | Real Estate                                        |                 0 |
-| Transportation                                     |                 2 |
-| Technology                                         |                 1 |
-| Patents                                            |               997 |
-| Wholesale Trade                                    |                 0 |
-| Retail Trade                                       |                 0 |
 | Finance Companies                                  |               207 |
 | Manufacturing                                      |                 5 |
+| Expenditures                                       |                 1 |
 | Institute for Supply Management Report on Business |                 0 |
-| Services                                           |                 0 |
+| Business Cycle Expansions & Contractions           |               297 |
+| Housing                                            |                 7 |
 | Construction                                       |                 0 |
+| Retail Trade                                       |                 0 |
+| Technology                                         |                 1 |
+| Wholesale Trade                                    |                 0 |
 | Business Surveys                                   |                 6 |
+| Emissions                                          |                38 |
+| Patents                                            |               997 |
+| Services                                           |                 0 |
+| Health Insurance                                   |                 1 |
+| Transportation                                     |                 2 |

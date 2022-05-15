@@ -1,13 +1,13 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU45460            | Housing Inventory: Active Listing Count in Terre Haute, IN (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM45460          | Housing Inventory: Active Listing Count Month-Over-Month in Terre Haute, IN (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY45460          | Housing Inventory: Active Listing Count Year-Over-Year in Terre Haute, IN (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU45460            | Housing Inventory: Active Listing Count in Terre Haute, IN (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM45460          | Housing Inventory: Active Listing Count Month-Over-Month in Terre Haute, IN (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY45460          | Housing Inventory: Active Listing Count Year-Over-Year in Terre Haute, IN (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS45460Q            | All-Transactions House Price Index for Terre Haute, IN (MSA)                                                     | 1992-04-01          | 2021-10-01        |
-| AVELISPRI45460            | Housing Inventory: Average Listing Price in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM45460          | Housing Inventory: Average Listing Price Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY45460          | Housing Inventory: Average Listing Price Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA45460              | Market Hotness: Demand Score in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI45460            | Housing Inventory: Average Listing Price in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM45460          | Housing Inventory: Average Listing Price Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY45460          | Housing Inventory: Average Listing Price Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA45460              | Market Hotness: Demand Score in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC454630010             | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC454630010SA           | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC454640010             | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -20,10 +20,10 @@
 | ENUC454640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC454640510             | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC454640510SA           | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA45460            | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA45460              | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA45460            | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA45460              | Market Hotness: Hotness Score in Terre Haute, IN (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA45460            | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA45460              | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA45460            | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA45460              | Market Hotness: Hotness Score in Terre Haute, IN (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD45460                 | Implicit Regional Price Deflator for Terre Haute, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT184546000000003A     | Unemployment Rate in Terre Haute, IN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT184546000000004      | Unemployed Persons in Terre Haute, IN (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -31,46 +31,46 @@
 | LAUMT184546000000005      | Employed Persons in Terre Haute, IN (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT184546000000005A     | Employed Persons in Terre Haute, IN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT184546000000006A     | Civilian Labor Force in Terre Haute, IN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA45460          | Market Hotness: Listing Views per Property in Terre Haute, IN (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA45460        | Market Hotness: Listing Views per Property Versus the United States in Terre Haute, IN (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA45460          | Market Hotness: Listing Views per Property in Terre Haute, IN (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA45460        | Market Hotness: Median Days on Market in Terre Haute, IN (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA45460          | Market Hotness: Median Days on Market in Terre Haute, IN (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA45460        | Market Hotness: Median Days on Market in Terre Haute, IN (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR45460          | Housing Inventory: Median Days on Market in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM45460        | Housing Inventory: Median Days on Market Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY45460        | Housing Inventory: Median Days on Market Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI45460            | Housing Inventory: Median Listing Price in Terre Haute, IN (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM45460          | Housing Inventory: Median Listing Price Month-Over-Month in Terre Haute, IN (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE45460   | Housing Inventory: Median Listing Price per Square Feet in Terre Haute, IN (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM45460 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Terre Haute, IN (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY45460 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Terre Haute, IN (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY45460          | Housing Inventory: Median Listing Price Year-Over-Year in Terre Haute, IN (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA45460          | Market Hotness: Median Days on Market in Terre Haute, IN (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA45460          | Market Hotness: Median Days on Market Versus the United States in Terre Haute, IN (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA45460          | Market Hotness: Median Days on Market Day in Terre Haute, IN (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE45460            | Housing Inventory: Median Home Size in Square Feet in Terre Haute, IN (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM45460          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Terre Haute, IN (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY45460          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Terre Haute, IN (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA45460          | Market Hotness: Median Listing Price in Terre Haute, IN (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA45460            | Market Hotness: Median Listing Price in Terre Haute, IN (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA45460        | Market Hotness: Median Listing Price Versus the United States in Terre Haute, IN (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA45460          | Market Hotness: Median Listing Price in Terre Haute, IN (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU45460            | Housing Inventory: New Listing Count in Terre Haute, IN (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM45460          | Housing Inventory: New Listing Count Month-Over-Month in Terre Haute, IN (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY45460          | Housing Inventory: New Listing Count Year-Over-Year in Terre Haute, IN (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA45460          | Market Hotness: Listing Views per Property in Terre Haute, IN (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA45460        | Market Hotness: Listing Views per Property Versus the United States in Terre Haute, IN (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA45460          | Market Hotness: Listing Views per Property in Terre Haute, IN (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA45460        | Market Hotness: Median Days on Market in Terre Haute, IN (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA45460          | Market Hotness: Median Days on Market in Terre Haute, IN (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA45460        | Market Hotness: Median Days on Market in Terre Haute, IN (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR45460          | Housing Inventory: Median Days on Market in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM45460        | Housing Inventory: Median Days on Market Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY45460        | Housing Inventory: Median Days on Market Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI45460            | Housing Inventory: Median Listing Price in Terre Haute, IN (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM45460          | Housing Inventory: Median Listing Price Month-Over-Month in Terre Haute, IN (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE45460   | Housing Inventory: Median Listing Price per Square Feet in Terre Haute, IN (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM45460 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Terre Haute, IN (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY45460 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Terre Haute, IN (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY45460          | Housing Inventory: Median Listing Price Year-Over-Year in Terre Haute, IN (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA45460          | Market Hotness: Median Days on Market in Terre Haute, IN (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA45460          | Market Hotness: Median Days on Market Versus the United States in Terre Haute, IN (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA45460          | Market Hotness: Median Days on Market Day in Terre Haute, IN (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE45460            | Housing Inventory: Median Home Size in Square Feet in Terre Haute, IN (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM45460          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Terre Haute, IN (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY45460          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Terre Haute, IN (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA45460          | Market Hotness: Median Listing Price in Terre Haute, IN (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA45460            | Market Hotness: Median Listing Price in Terre Haute, IN (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA45460        | Market Hotness: Median Listing Price Versus the United States in Terre Haute, IN (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA45460          | Market Hotness: Median Listing Price in Terre Haute, IN (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU45460            | Housing Inventory: New Listing Count in Terre Haute, IN (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM45460          | Housing Inventory: New Listing Count Month-Over-Month in Terre Haute, IN (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY45460          | Housing Inventory: New Listing Count Year-Over-Year in Terre Haute, IN (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP45460                 | Total Gross Domestic Product for Terre Haute, IN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA45460            | Market Hotness: Nielsen Household Rank in Terre Haute, IN (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA45460            | Market Hotness: Nielsen Household Rank in Terre Haute, IN (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA145460          | U.S. Granted Utility Patents Originating in Terre Haute, IN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU45460            | Housing Inventory: Pending Listing Count in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM45460          | Housing Inventory: Pending Listing Count Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY45460          | Housing Inventory: Pending Listing Count Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU45460            | Housing Inventory: Price Increased Count in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM45460          | Housing Inventory: Price Increased Count Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-09-01          | 2021-10-01        |
-| PRIINCCOUYY45460          | Housing Inventory: Price Increased Count Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| PRIREDCOU45460            | Housing Inventory: Price Reduced Count in Terre Haute, IN (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM45460          | Housing Inventory: Price Reduced Count Month-Over-Month in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY45460          | Housing Inventory: Price Reduced Count Year-Over-Year in Terre Haute, IN (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU45460            | Housing Inventory: Pending Listing Count in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM45460          | Housing Inventory: Pending Listing Count Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY45460          | Housing Inventory: Pending Listing Count Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU45460            | Housing Inventory: Price Increased Count in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM45460          | Housing Inventory: Price Increased Count Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-09-01          | 2022-04-01        |
+| PRIINCCOUYY45460          | Housing Inventory: Price Increased Count Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU45460            | Housing Inventory: Price Reduced Count in Terre Haute, IN (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM45460          | Housing Inventory: Price Reduced Count Month-Over-Month in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY45460          | Housing Inventory: Price Reduced Count Year-Over-Year in Terre Haute, IN (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP45460                 | Total Quantity Indexes for Real GDP for Terre Haute, IN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP45460                 | Total Real Gross Domestic Product for Terre Haute, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI45460                  | Real Personal Income for Terre Haute, IN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -130,7 +130,7 @@
 | SMU18454609093161101      | All Employees: Government: Local Government Educational Services in Terre Haute, IN (MSA)                        | 1990-01-01          | 2022-03-01        |
 | SMU18454609093161101A     | All Employees: Local Government Educational Services in Terre Haute, IN (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU18454609093161101SA    | All Employees: Government: Local Government Educational Services in Terre Haute, IN (MSA)                        | 1990-01-01          | 2022-03-01        |
-| SUSCMSA45460              | Market Hotness: Supply Score in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA45460              | Market Hotness: Supply Score in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | TERR418EDUH               | All Employees: Education and Health Services in Terre Haute, IN (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | TERR418EDUHN              | All Employees: Education and Health Services in Terre Haute, IN (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | TERR418FIRE               | All Employees: Financial Activities in Terre Haute, IN (MSA)                                                     | 1990-01-01          | 2022-03-01        |

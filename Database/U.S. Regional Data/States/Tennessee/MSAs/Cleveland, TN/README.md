@@ -1,12 +1,12 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU17420            | Housing Inventory: Active Listing Count in Cleveland, TN (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM17420          | Housing Inventory: Active Listing Count Month-Over-Month in Cleveland, TN (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY17420          | Housing Inventory: Active Listing Count Year-Over-Year in Cleveland, TN (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU17420            | Housing Inventory: Active Listing Count in Cleveland, TN (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM17420          | Housing Inventory: Active Listing Count Month-Over-Month in Cleveland, TN (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY17420          | Housing Inventory: Active Listing Count Year-Over-Year in Cleveland, TN (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS17420Q            | All-Transactions House Price Index for Cleveland, TN (MSA)                                                     | 1991-10-01          | 2021-10-01        |
-| AVELISPRI17420            | Housing Inventory: Average Listing Price in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM17420          | Housing Inventory: Average Listing Price Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY17420          | Housing Inventory: Average Listing Price Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| AVELISPRI17420            | Housing Inventory: Average Listing Price in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM17420          | Housing Inventory: Average Listing Price Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY17420          | Housing Inventory: Average Listing Price Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
 | CLEV447EDUH               | All Employees: Education and Health Services in Cleveland, TN (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | CLEV447EDUHN              | All Employees: Education and Health Services in Cleveland, TN (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | CLEV447FIRE               | All Employees: Financial Activities in Cleveland, TN (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -53,32 +53,32 @@
 | LAUMT471742000000005      | Employed Persons in Cleveland, TN (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT471742000000005A     | Employed Persons in Cleveland, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT471742000000006A     | Civilian Labor Force in Cleveland, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR17420          | Housing Inventory: Median Days on Market in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM17420        | Housing Inventory: Median Days on Market Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY17420        | Housing Inventory: Median Days on Market Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI17420            | Housing Inventory: Median Listing Price in Cleveland, TN (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM17420          | Housing Inventory: Median Listing Price Month-Over-Month in Cleveland, TN (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE17420   | Housing Inventory: Median Listing Price per Square Feet in Cleveland, TN (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM17420 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Cleveland, TN (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY17420 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Cleveland, TN (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY17420          | Housing Inventory: Median Listing Price Year-Over-Year in Cleveland, TN (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEE17420            | Housing Inventory: Median Home Size in Square Feet in Cleveland, TN (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM17420          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Cleveland, TN (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY17420          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Cleveland, TN (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| NEWLISCOU17420            | Housing Inventory: New Listing Count in Cleveland, TN (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM17420          | Housing Inventory: New Listing Count Month-Over-Month in Cleveland, TN (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY17420          | Housing Inventory: New Listing Count Year-Over-Year in Cleveland, TN (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| MEDDAYONMAR17420          | Housing Inventory: Median Days on Market in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM17420        | Housing Inventory: Median Days on Market Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY17420        | Housing Inventory: Median Days on Market Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI17420            | Housing Inventory: Median Listing Price in Cleveland, TN (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM17420          | Housing Inventory: Median Listing Price Month-Over-Month in Cleveland, TN (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE17420   | Housing Inventory: Median Listing Price per Square Feet in Cleveland, TN (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM17420 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Cleveland, TN (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY17420 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Cleveland, TN (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY17420          | Housing Inventory: Median Listing Price Year-Over-Year in Cleveland, TN (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEE17420            | Housing Inventory: Median Home Size in Square Feet in Cleveland, TN (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM17420          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Cleveland, TN (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY17420          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Cleveland, TN (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| NEWLISCOU17420            | Housing Inventory: New Listing Count in Cleveland, TN (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM17420          | Housing Inventory: New Listing Count Month-Over-Month in Cleveland, TN (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY17420          | Housing Inventory: New Listing Count Year-Over-Year in Cleveland, TN (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP17420                 | Total Gross Domestic Product for Cleveland, TN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA117420          | U.S. Granted Utility Patents Originating in Cleveland, TN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU17420            | Housing Inventory: Pending Listing Count in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM17420          | Housing Inventory: Pending Listing Count Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY17420          | Housing Inventory: Pending Listing Count Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU17420            | Housing Inventory: Price Increased Count in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM17420          | Housing Inventory: Price Increased Count Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY17420          | Housing Inventory: Price Increased Count Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-02-01        |
-| PRIREDCOU17420            | Housing Inventory: Price Reduced Count in Cleveland, TN (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM17420          | Housing Inventory: Price Reduced Count Month-Over-Month in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY17420          | Housing Inventory: Price Reduced Count Year-Over-Year in Cleveland, TN (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU17420            | Housing Inventory: Pending Listing Count in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM17420          | Housing Inventory: Pending Listing Count Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY17420          | Housing Inventory: Pending Listing Count Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU17420            | Housing Inventory: Price Increased Count in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM17420          | Housing Inventory: Price Increased Count Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY17420          | Housing Inventory: Price Increased Count Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU17420            | Housing Inventory: Price Reduced Count in Cleveland, TN (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM17420          | Housing Inventory: Price Reduced Count Month-Over-Month in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY17420          | Housing Inventory: Price Reduced Count Year-Over-Year in Cleveland, TN (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP17420                 | Total Quantity Indexes for Real GDP for Cleveland, TN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP17420                 | Total Real Gross Domestic Product for Cleveland, TN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI17420                  | Real Personal Income for Cleveland, TN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

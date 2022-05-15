@@ -1,12 +1,12 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU30300            | Housing Inventory: Active Listing Count in Lewiston, ID-WA (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM30300          | Housing Inventory: Active Listing Count Month-Over-Month in Lewiston, ID-WA (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY30300          | Housing Inventory: Active Listing Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU30300            | Housing Inventory: Active Listing Count in Lewiston, ID-WA (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM30300          | Housing Inventory: Active Listing Count Month-Over-Month in Lewiston, ID-WA (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY30300          | Housing Inventory: Active Listing Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS30300Q            | All-Transactions House Price Index for Lewiston, ID-WA (MSA)                                                     | 1991-04-01          | 2021-10-01        |
-| AVELISPRI30300            | Housing Inventory: Average Listing Price in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM30300          | Housing Inventory: Average Listing Price Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY30300          | Housing Inventory: Average Listing Price Year-Over-Year in Lewiston, ID-WA (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| AVELISPRI30300            | Housing Inventory: Average Listing Price in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM30300          | Housing Inventory: Average Listing Price Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY30300          | Housing Inventory: Average Listing Price Year-Over-Year in Lewiston, ID-WA (CBSA)                                | 2017-07-01          | 2022-04-01        |
 | ENUC303030010             | Total Quarterly Wages in Lewiston, ID-WA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC303030010SA           | Total Quarterly Wages in Lewiston, ID-WA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC303040010             | Average Weekly Wages for Employees in Total Covered Establishments in Lewiston, ID-WA (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -52,32 +52,32 @@
 | LEWI316UR                 | Unemployment Rate in Lewiston, ID-WA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | LEWI316URN                | Unemployment Rate in Lewiston, ID-WA (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | LEWPOP                    | Resident Population in Lewiston, ID-WA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| MEDDAYONMAR30300          | Housing Inventory: Median Days on Market in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM30300        | Housing Inventory: Median Days on Market Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY30300        | Housing Inventory: Median Days on Market Year-Over-Year in Lewiston, ID-WA (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI30300            | Housing Inventory: Median Listing Price in Lewiston, ID-WA (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM30300          | Housing Inventory: Median Listing Price Month-Over-Month in Lewiston, ID-WA (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE30300   | Housing Inventory: Median Listing Price per Square Feet in Lewiston, ID-WA (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM30300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lewiston, ID-WA (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY30300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lewiston, ID-WA (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY30300          | Housing Inventory: Median Listing Price Year-Over-Year in Lewiston, ID-WA (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEE30300            | Housing Inventory: Median Home Size in Square Feet in Lewiston, ID-WA (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM30300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lewiston, ID-WA (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY30300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lewiston, ID-WA (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| NEWLISCOU30300            | Housing Inventory: New Listing Count in Lewiston, ID-WA (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM30300          | Housing Inventory: New Listing Count Month-Over-Month in Lewiston, ID-WA (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY30300          | Housing Inventory: New Listing Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| MEDDAYONMAR30300          | Housing Inventory: Median Days on Market in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM30300        | Housing Inventory: Median Days on Market Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY30300        | Housing Inventory: Median Days on Market Year-Over-Year in Lewiston, ID-WA (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI30300            | Housing Inventory: Median Listing Price in Lewiston, ID-WA (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM30300          | Housing Inventory: Median Listing Price Month-Over-Month in Lewiston, ID-WA (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE30300   | Housing Inventory: Median Listing Price per Square Feet in Lewiston, ID-WA (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM30300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lewiston, ID-WA (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY30300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lewiston, ID-WA (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY30300          | Housing Inventory: Median Listing Price Year-Over-Year in Lewiston, ID-WA (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEE30300            | Housing Inventory: Median Home Size in Square Feet in Lewiston, ID-WA (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM30300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lewiston, ID-WA (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY30300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lewiston, ID-WA (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| NEWLISCOU30300            | Housing Inventory: New Listing Count in Lewiston, ID-WA (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM30300          | Housing Inventory: New Listing Count Month-Over-Month in Lewiston, ID-WA (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY30300          | Housing Inventory: New Listing Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP30300                 | Total Gross Domestic Product for Lewiston, ID-WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA130300          | U.S. Granted Utility Patents Originating in Lewiston, ID-WA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU30300            | Housing Inventory: Pending Listing Count in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM30300          | Housing Inventory: Pending Listing Count Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY30300          | Housing Inventory: Pending Listing Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                | 2017-10-01          | 2022-03-01        |
-| PRIINCCOU30300            | Housing Inventory: Price Increased Count in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-03-01        |
+| PENLISCOU30300            | Housing Inventory: Pending Listing Count in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM30300          | Housing Inventory: Pending Listing Count Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY30300          | Housing Inventory: Pending Listing Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                | 2017-10-01          | 2022-04-01        |
+| PRIINCCOU30300            | Housing Inventory: Price Increased Count in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-04-01        |
 | PRIINCCOUMM30300          | Housing Inventory: Price Increased Count Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-10-01          | 2021-11-01        |
 | PRIINCCOUYY30300          | Housing Inventory: Price Increased Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                | 2017-10-01          | 2020-09-01        |
-| PRIREDCOU30300            | Housing Inventory: Price Reduced Count in Lewiston, ID-WA (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM30300          | Housing Inventory: Price Reduced Count Month-Over-Month in Lewiston, ID-WA (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY30300          | Housing Inventory: Price Reduced Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PRIREDCOU30300            | Housing Inventory: Price Reduced Count in Lewiston, ID-WA (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM30300          | Housing Inventory: Price Reduced Count Month-Over-Month in Lewiston, ID-WA (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY30300          | Housing Inventory: Price Reduced Count Year-Over-Year in Lewiston, ID-WA (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP30300                 | Total Quantity Indexes for Real GDP for Lewiston, ID-WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP30300                 | Total Real Gross Domestic Product for Lewiston, ID-WA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI30300                  | Real Personal Income for Lewiston, ID-WA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

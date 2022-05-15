@@ -1,8 +1,8 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU11700            | Housing Inventory: Active Listing Count in Asheville, NC (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM11700          | Housing Inventory: Active Listing Count Month-Over-Month in Asheville, NC (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY11700          | Housing Inventory: Active Listing Count Year-Over-Year in Asheville, NC (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU11700            | Housing Inventory: Active Listing Count in Asheville, NC (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM11700          | Housing Inventory: Active Listing Count Month-Over-Month in Asheville, NC (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY11700          | Housing Inventory: Active Listing Count Year-Over-Year in Asheville, NC (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ASHE737EDUH               | All Employees: Education and Health Services in Asheville, NC (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | ASHE737EDUHN              | All Employees: Education and Health Services in Asheville, NC (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | ASHE737FIRE               | All Employees: Financial Activities in Asheville, NC (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -32,10 +32,10 @@
 | ASHE737URN                | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | ASHPOP                    | Resident Population in Asheville, NC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ATNHPIUS11700Q            | All-Transactions House Price Index for Asheville, NC (MSA)                                                     | 1984-07-01          | 2021-10-01        |
-| AVELISPRI11700            | Housing Inventory: Average Listing Price in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM11700          | Housing Inventory: Average Listing Price Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY11700          | Housing Inventory: Average Listing Price Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA11700              | Market Hotness: Demand Score in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI11700            | Housing Inventory: Average Listing Price in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM11700          | Housing Inventory: Average Listing Price Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY11700          | Housing Inventory: Average Listing Price Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA11700              | Market Hotness: Demand Score in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC117030010             | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC117030010SA           | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC117040010             | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -48,10 +48,10 @@
 | ENUC117040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC117040510             | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC117040510SA           | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA11700            | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA11700              | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA11700            | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA11700              | Market Hotness: Hotness Score in Asheville, NC (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA11700            | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA11700              | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA11700            | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA11700              | Market Hotness: Hotness Score in Asheville, NC (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD11700                 | Implicit Regional Price Deflator for Asheville, NC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT371170000000003A     | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT371170000000004      | Unemployed Persons in Asheville, NC (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -59,46 +59,46 @@
 | LAUMT371170000000005      | Employed Persons in Asheville, NC (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT371170000000005A     | Employed Persons in Asheville, NC (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT371170000000006A     | Civilian Labor Force in Asheville, NC (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA11700          | Market Hotness: Listing Views per Property in Asheville, NC (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA11700        | Market Hotness: Listing Views per Property Versus the United States in Asheville, NC (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA11700          | Market Hotness: Listing Views per Property in Asheville, NC (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA11700        | Market Hotness: Median Days on Market in Asheville, NC (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA11700          | Market Hotness: Median Days on Market in Asheville, NC (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA11700        | Market Hotness: Median Days on Market in Asheville, NC (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR11700          | Housing Inventory: Median Days on Market in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM11700        | Housing Inventory: Median Days on Market Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY11700        | Housing Inventory: Median Days on Market Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI11700            | Housing Inventory: Median Listing Price in Asheville, NC (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM11700          | Housing Inventory: Median Listing Price Month-Over-Month in Asheville, NC (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE11700   | Housing Inventory: Median Listing Price per Square Feet in Asheville, NC (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM11700 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Asheville, NC (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY11700 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Asheville, NC (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY11700          | Housing Inventory: Median Listing Price Year-Over-Year in Asheville, NC (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA11700          | Market Hotness: Median Days on Market in Asheville, NC (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA11700          | Market Hotness: Median Days on Market Versus the United States in Asheville, NC (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA11700          | Market Hotness: Median Days on Market Day in Asheville, NC (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE11700            | Housing Inventory: Median Home Size in Square Feet in Asheville, NC (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM11700          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Asheville, NC (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY11700          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Asheville, NC (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA11700          | Market Hotness: Median Listing Price in Asheville, NC (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA11700            | Market Hotness: Median Listing Price in Asheville, NC (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA11700        | Market Hotness: Median Listing Price Versus the United States in Asheville, NC (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA11700          | Market Hotness: Median Listing Price in Asheville, NC (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU11700            | Housing Inventory: New Listing Count in Asheville, NC (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM11700          | Housing Inventory: New Listing Count Month-Over-Month in Asheville, NC (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY11700          | Housing Inventory: New Listing Count Year-Over-Year in Asheville, NC (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA11700          | Market Hotness: Listing Views per Property in Asheville, NC (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA11700        | Market Hotness: Listing Views per Property Versus the United States in Asheville, NC (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA11700          | Market Hotness: Listing Views per Property in Asheville, NC (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA11700        | Market Hotness: Median Days on Market in Asheville, NC (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA11700          | Market Hotness: Median Days on Market in Asheville, NC (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA11700        | Market Hotness: Median Days on Market in Asheville, NC (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR11700          | Housing Inventory: Median Days on Market in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM11700        | Housing Inventory: Median Days on Market Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY11700        | Housing Inventory: Median Days on Market Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI11700            | Housing Inventory: Median Listing Price in Asheville, NC (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM11700          | Housing Inventory: Median Listing Price Month-Over-Month in Asheville, NC (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE11700   | Housing Inventory: Median Listing Price per Square Feet in Asheville, NC (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM11700 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Asheville, NC (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY11700 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Asheville, NC (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY11700          | Housing Inventory: Median Listing Price Year-Over-Year in Asheville, NC (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA11700          | Market Hotness: Median Days on Market in Asheville, NC (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA11700          | Market Hotness: Median Days on Market Versus the United States in Asheville, NC (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA11700          | Market Hotness: Median Days on Market Day in Asheville, NC (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE11700            | Housing Inventory: Median Home Size in Square Feet in Asheville, NC (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM11700          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Asheville, NC (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY11700          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Asheville, NC (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA11700          | Market Hotness: Median Listing Price in Asheville, NC (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA11700            | Market Hotness: Median Listing Price in Asheville, NC (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA11700        | Market Hotness: Median Listing Price Versus the United States in Asheville, NC (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA11700          | Market Hotness: Median Listing Price in Asheville, NC (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU11700            | Housing Inventory: New Listing Count in Asheville, NC (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM11700          | Housing Inventory: New Listing Count Month-Over-Month in Asheville, NC (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY11700          | Housing Inventory: New Listing Count Year-Over-Year in Asheville, NC (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP11700                 | Total Gross Domestic Product for Asheville, NC (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA11700            | Market Hotness: Nielsen Household Rank in Asheville, NC (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA11700            | Market Hotness: Nielsen Household Rank in Asheville, NC (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA111700          | U.S. Granted Utility Patents Originating in Asheville, NC (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU11700            | Housing Inventory: Pending Listing Count in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM11700          | Housing Inventory: Pending Listing Count Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY11700          | Housing Inventory: Pending Listing Count Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU11700            | Housing Inventory: Price Increased Count in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM11700          | Housing Inventory: Price Increased Count Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY11700          | Housing Inventory: Price Increased Count Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU11700            | Housing Inventory: Price Reduced Count in Asheville, NC (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM11700          | Housing Inventory: Price Reduced Count Month-Over-Month in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY11700          | Housing Inventory: Price Reduced Count Year-Over-Year in Asheville, NC (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU11700            | Housing Inventory: Pending Listing Count in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM11700          | Housing Inventory: Pending Listing Count Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY11700          | Housing Inventory: Pending Listing Count Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU11700            | Housing Inventory: Price Increased Count in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM11700          | Housing Inventory: Price Increased Count Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY11700          | Housing Inventory: Price Increased Count Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU11700            | Housing Inventory: Price Reduced Count in Asheville, NC (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM11700          | Housing Inventory: Price Reduced Count Month-Over-Month in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY11700          | Housing Inventory: Price Reduced Count Year-Over-Year in Asheville, NC (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP11700                 | Total Quantity Indexes for Real GDP for Asheville, NC (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP11700                 | Total Real Gross Domestic Product for Asheville, NC (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI11700                  | Real Personal Income for Asheville, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -154,4 +154,4 @@
 | SMU37117009093000001      | All Employees: Government: Local Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU37117009093000001A     | All Employees: Local Government in Asheville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU37117009093000001SA    | All Employees: Government: Local Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA11700              | Market Hotness: Supply Score in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA11700              | Market Hotness: Supply Score in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

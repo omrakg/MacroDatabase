@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU45820            | Housing Inventory: Active Listing Count in Topeka, KS (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM45820          | Housing Inventory: Active Listing Count Month-Over-Month in Topeka, KS (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY45820          | Housing Inventory: Active Listing Count Year-Over-Year in Topeka, KS (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU45820            | Housing Inventory: Active Listing Count in Topeka, KS (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM45820          | Housing Inventory: Active Listing Count Month-Over-Month in Topeka, KS (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY45820          | Housing Inventory: Active Listing Count Year-Over-Year in Topeka, KS (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS45820Q            | All-Transactions House Price Index for Topeka, KS (MSA)                                                     | 1978-04-01          | 2021-10-01        |
-| AVELISPRI45820            | Housing Inventory: Average Listing Price in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM45820          | Housing Inventory: Average Listing Price Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY45820          | Housing Inventory: Average Listing Price Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA45820              | Market Hotness: Demand Score in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI45820            | Housing Inventory: Average Listing Price in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM45820          | Housing Inventory: Average Listing Price Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY45820          | Housing Inventory: Average Listing Price Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA45820              | Market Hotness: Demand Score in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC458230010             | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC458230010SA           | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC458240010             | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -20,10 +20,10 @@
 | ENUC458240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC458240510             | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC458240510SA           | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA45820              | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA45820              | Market Hotness: Hotness Score in Topeka, KS (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA45820              | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA45820              | Market Hotness: Hotness Score in Topeka, KS (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD45820                 | Implicit Regional Price Deflator for Topeka, KS (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT204582000000003A     | Unemployment Rate in Topeka, KS (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT204582000000004      | Unemployed Persons in Topeka, KS (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -31,46 +31,46 @@
 | LAUMT204582000000005      | Employed Persons in Topeka, KS (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT204582000000005A     | Employed Persons in Topeka, KS (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT204582000000006A     | Civilian Labor Force in Topeka, KS (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA45820          | Market Hotness: Listing Views per Property in Topeka, KS (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA45820        | Market Hotness: Listing Views per Property Versus the United States in Topeka, KS (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA45820          | Market Hotness: Listing Views per Property in Topeka, KS (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA45820        | Market Hotness: Median Days on Market in Topeka, KS (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA45820          | Market Hotness: Median Days on Market in Topeka, KS (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA45820        | Market Hotness: Median Days on Market in Topeka, KS (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR45820          | Housing Inventory: Median Days on Market in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM45820        | Housing Inventory: Median Days on Market Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY45820        | Housing Inventory: Median Days on Market Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI45820            | Housing Inventory: Median Listing Price in Topeka, KS (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM45820          | Housing Inventory: Median Listing Price Month-Over-Month in Topeka, KS (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE45820   | Housing Inventory: Median Listing Price per Square Feet in Topeka, KS (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM45820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Topeka, KS (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY45820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Topeka, KS (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY45820          | Housing Inventory: Median Listing Price Year-Over-Year in Topeka, KS (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA45820          | Market Hotness: Median Days on Market in Topeka, KS (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA45820          | Market Hotness: Median Days on Market Versus the United States in Topeka, KS (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA45820          | Market Hotness: Median Days on Market Day in Topeka, KS (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE45820            | Housing Inventory: Median Home Size in Square Feet in Topeka, KS (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM45820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Topeka, KS (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY45820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Topeka, KS (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA45820          | Market Hotness: Median Listing Price in Topeka, KS (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA45820            | Market Hotness: Median Listing Price in Topeka, KS (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA45820        | Market Hotness: Median Listing Price Versus the United States in Topeka, KS (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA45820          | Market Hotness: Median Listing Price in Topeka, KS (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU45820            | Housing Inventory: New Listing Count in Topeka, KS (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM45820          | Housing Inventory: New Listing Count Month-Over-Month in Topeka, KS (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY45820          | Housing Inventory: New Listing Count Year-Over-Year in Topeka, KS (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA45820          | Market Hotness: Listing Views per Property in Topeka, KS (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA45820        | Market Hotness: Listing Views per Property Versus the United States in Topeka, KS (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA45820          | Market Hotness: Listing Views per Property in Topeka, KS (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA45820        | Market Hotness: Median Days on Market in Topeka, KS (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA45820          | Market Hotness: Median Days on Market in Topeka, KS (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA45820        | Market Hotness: Median Days on Market in Topeka, KS (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR45820          | Housing Inventory: Median Days on Market in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM45820        | Housing Inventory: Median Days on Market Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY45820        | Housing Inventory: Median Days on Market Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI45820            | Housing Inventory: Median Listing Price in Topeka, KS (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM45820          | Housing Inventory: Median Listing Price Month-Over-Month in Topeka, KS (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE45820   | Housing Inventory: Median Listing Price per Square Feet in Topeka, KS (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM45820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Topeka, KS (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY45820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Topeka, KS (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY45820          | Housing Inventory: Median Listing Price Year-Over-Year in Topeka, KS (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA45820          | Market Hotness: Median Days on Market in Topeka, KS (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA45820          | Market Hotness: Median Days on Market Versus the United States in Topeka, KS (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA45820          | Market Hotness: Median Days on Market Day in Topeka, KS (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE45820            | Housing Inventory: Median Home Size in Square Feet in Topeka, KS (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM45820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Topeka, KS (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY45820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Topeka, KS (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA45820          | Market Hotness: Median Listing Price in Topeka, KS (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA45820            | Market Hotness: Median Listing Price in Topeka, KS (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA45820        | Market Hotness: Median Listing Price Versus the United States in Topeka, KS (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA45820          | Market Hotness: Median Listing Price in Topeka, KS (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU45820            | Housing Inventory: New Listing Count in Topeka, KS (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM45820          | Housing Inventory: New Listing Count Month-Over-Month in Topeka, KS (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY45820          | Housing Inventory: New Listing Count Year-Over-Year in Topeka, KS (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP45820                 | Total Gross Domestic Product for Topeka, KS (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA45820            | Market Hotness: Nielsen Household Rank in Topeka, KS (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA45820            | Market Hotness: Nielsen Household Rank in Topeka, KS (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA145820          | U.S. Granted Utility Patents Originating in Topeka, KS (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU45820            | Housing Inventory: Pending Listing Count in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM45820          | Housing Inventory: Pending Listing Count Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY45820          | Housing Inventory: Pending Listing Count Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU45820            | Housing Inventory: Price Increased Count in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM45820          | Housing Inventory: Price Increased Count Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY45820          | Housing Inventory: Price Increased Count Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU45820            | Housing Inventory: Price Reduced Count in Topeka, KS (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM45820          | Housing Inventory: Price Reduced Count Month-Over-Month in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY45820          | Housing Inventory: Price Reduced Count Year-Over-Year in Topeka, KS (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU45820            | Housing Inventory: Pending Listing Count in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM45820          | Housing Inventory: Pending Listing Count Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY45820          | Housing Inventory: Pending Listing Count Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU45820            | Housing Inventory: Price Increased Count in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM45820          | Housing Inventory: Price Increased Count Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY45820          | Housing Inventory: Price Increased Count Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU45820            | Housing Inventory: Price Reduced Count in Topeka, KS (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM45820          | Housing Inventory: Price Reduced Count Month-Over-Month in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY45820          | Housing Inventory: Price Reduced Count Year-Over-Year in Topeka, KS (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP45820                 | Total Quantity Indexes for Real GDP for Topeka, KS (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP45820                 | Total Real Gross Domestic Product for Topeka, KS (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI45820                  | Real Personal Income for Topeka, KS (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -145,7 +145,7 @@
 | SMU20458209093000001      | All Employees: Government: Local Government in Topeka, KS (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU20458209093000001A     | All Employees: Local Government in Topeka, KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU20458209093000001SA    | All Employees: Government: Local Government in Topeka, KS (MSA)                                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA45820              | Market Hotness: Supply Score in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA45820              | Market Hotness: Supply Score in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | TOPE820EDUH               | All Employees: Education and Health Services in Topeka, KS (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | TOPE820EDUHN              | All Employees: Education and Health Services in Topeka, KS (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | TOPE820FIRE               | All Employees: Financial Activities in Topeka, KS (MSA)                                                     | 1990-01-01          | 2022-03-01        |

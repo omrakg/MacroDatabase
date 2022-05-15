@@ -1,3 +1,3 @@
-| id              | title                                                                                                                                                | observation_start   | observation_end   |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BRCICP02CHQ460S | Business Tendency Surveys for Retail Trade: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Switzerland | 1994-04-01          | 2018-10-01        |
+| Folder       |   Files / Folders |
+|--------------|-------------------|
+| Discontinued |                 0 |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU46220            | Housing Inventory: Active Listing Count in Tuscaloosa, AL (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM46220          | Housing Inventory: Active Listing Count Month-Over-Month in Tuscaloosa, AL (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY46220          | Housing Inventory: Active Listing Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU46220            | Housing Inventory: Active Listing Count in Tuscaloosa, AL (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM46220          | Housing Inventory: Active Listing Count Month-Over-Month in Tuscaloosa, AL (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY46220          | Housing Inventory: Active Listing Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS46220Q            | All-Transactions House Price Index for Tuscaloosa, AL (MSA)                                                     | 1990-04-01          | 2021-10-01        |
-| AVELISPRI46220            | Housing Inventory: Average Listing Price in Tuscaloosa, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM46220          | Housing Inventory: Average Listing Price Month-Over-Month in Tuscaloosa, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY46220          | Housing Inventory: Average Listing Price Year-Over-Year in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA46220              | Market Hotness: Demand Score in Tuscaloosa, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI46220            | Housing Inventory: Average Listing Price in Tuscaloosa, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM46220          | Housing Inventory: Average Listing Price Month-Over-Month in Tuscaloosa, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY46220          | Housing Inventory: Average Listing Price Year-Over-Year in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA46220              | Market Hotness: Demand Score in Tuscaloosa, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC462230010             | Total Quarterly Wages in Tuscaloosa, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC462230010SA           | Total Quarterly Wages in Tuscaloosa, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC462240010             | Average Weekly Wages for Employees in Total Covered Establishments in Tuscaloosa, AL (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -20,10 +20,10 @@
 | ENUC462240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tuscaloosa, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC462240510             | Average Weekly Wages for Employees in Private Establishments in Tuscaloosa, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC462240510SA           | Average Weekly Wages for Employees in Private Establishments in Tuscaloosa, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA46220            | Market Hotness: Hotness Rank in Tuscaloosa, AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA46220              | Market Hotness: Hotness Rank in Tuscaloosa, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA46220            | Market Hotness: Hotness Rank in Tuscaloosa, AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA46220              | Market Hotness: Hotness Score in Tuscaloosa, AL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA46220            | Market Hotness: Hotness Rank in Tuscaloosa, AL (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA46220              | Market Hotness: Hotness Rank in Tuscaloosa, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA46220            | Market Hotness: Hotness Rank in Tuscaloosa, AL (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA46220              | Market Hotness: Hotness Score in Tuscaloosa, AL (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD46220                 | Implicit Regional Price Deflator for Tuscaloosa, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT014622000000003A     | Unemployment Rate in Tuscaloosa, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT014622000000004      | Unemployed Persons in Tuscaloosa, AL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -31,46 +31,46 @@
 | LAUMT014622000000005      | Employed Persons in Tuscaloosa, AL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT014622000000005A     | Employed Persons in Tuscaloosa, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT014622000000006A     | Civilian Labor Force in Tuscaloosa, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA46220          | Market Hotness: Listing Views per Property in Tuscaloosa, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA46220        | Market Hotness: Listing Views per Property Versus the United States in Tuscaloosa, AL (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA46220          | Market Hotness: Listing Views per Property in Tuscaloosa, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA46220        | Market Hotness: Median Days on Market in Tuscaloosa, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA46220          | Market Hotness: Median Days on Market in Tuscaloosa, AL (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA46220        | Market Hotness: Median Days on Market in Tuscaloosa, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR46220          | Housing Inventory: Median Days on Market in Tuscaloosa, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM46220        | Housing Inventory: Median Days on Market Month-Over-Month in Tuscaloosa, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY46220        | Housing Inventory: Median Days on Market Year-Over-Year in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI46220            | Housing Inventory: Median Listing Price in Tuscaloosa, AL (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM46220          | Housing Inventory: Median Listing Price Month-Over-Month in Tuscaloosa, AL (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE46220   | Housing Inventory: Median Listing Price per Square Feet in Tuscaloosa, AL (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM46220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Tuscaloosa, AL (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY46220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Tuscaloosa, AL (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY46220          | Housing Inventory: Median Listing Price Year-Over-Year in Tuscaloosa, AL (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA46220          | Market Hotness: Median Days on Market in Tuscaloosa, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA46220          | Market Hotness: Median Days on Market Versus the United States in Tuscaloosa, AL (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA46220          | Market Hotness: Median Days on Market Day in Tuscaloosa, AL (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE46220            | Housing Inventory: Median Home Size in Square Feet in Tuscaloosa, AL (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM46220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Tuscaloosa, AL (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY46220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Tuscaloosa, AL (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA46220          | Market Hotness: Median Listing Price in Tuscaloosa, AL (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA46220            | Market Hotness: Median Listing Price in Tuscaloosa, AL (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA46220        | Market Hotness: Median Listing Price Versus the United States in Tuscaloosa, AL (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA46220          | Market Hotness: Median Listing Price in Tuscaloosa, AL (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU46220            | Housing Inventory: New Listing Count in Tuscaloosa, AL (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM46220          | Housing Inventory: New Listing Count Month-Over-Month in Tuscaloosa, AL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY46220          | Housing Inventory: New Listing Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA46220          | Market Hotness: Listing Views per Property in Tuscaloosa, AL (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA46220        | Market Hotness: Listing Views per Property Versus the United States in Tuscaloosa, AL (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA46220          | Market Hotness: Listing Views per Property in Tuscaloosa, AL (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA46220        | Market Hotness: Median Days on Market in Tuscaloosa, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA46220          | Market Hotness: Median Days on Market in Tuscaloosa, AL (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA46220        | Market Hotness: Median Days on Market in Tuscaloosa, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR46220          | Housing Inventory: Median Days on Market in Tuscaloosa, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM46220        | Housing Inventory: Median Days on Market Month-Over-Month in Tuscaloosa, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY46220        | Housing Inventory: Median Days on Market Year-Over-Year in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI46220            | Housing Inventory: Median Listing Price in Tuscaloosa, AL (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM46220          | Housing Inventory: Median Listing Price Month-Over-Month in Tuscaloosa, AL (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE46220   | Housing Inventory: Median Listing Price per Square Feet in Tuscaloosa, AL (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM46220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Tuscaloosa, AL (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY46220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Tuscaloosa, AL (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY46220          | Housing Inventory: Median Listing Price Year-Over-Year in Tuscaloosa, AL (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA46220          | Market Hotness: Median Days on Market in Tuscaloosa, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA46220          | Market Hotness: Median Days on Market Versus the United States in Tuscaloosa, AL (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA46220          | Market Hotness: Median Days on Market Day in Tuscaloosa, AL (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE46220            | Housing Inventory: Median Home Size in Square Feet in Tuscaloosa, AL (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM46220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Tuscaloosa, AL (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY46220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Tuscaloosa, AL (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA46220          | Market Hotness: Median Listing Price in Tuscaloosa, AL (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA46220            | Market Hotness: Median Listing Price in Tuscaloosa, AL (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA46220        | Market Hotness: Median Listing Price Versus the United States in Tuscaloosa, AL (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA46220          | Market Hotness: Median Listing Price in Tuscaloosa, AL (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU46220            | Housing Inventory: New Listing Count in Tuscaloosa, AL (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM46220          | Housing Inventory: New Listing Count Month-Over-Month in Tuscaloosa, AL (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY46220          | Housing Inventory: New Listing Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP46220                 | Total Gross Domestic Product for Tuscaloosa, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA46220            | Market Hotness: Nielsen Household Rank in Tuscaloosa, AL (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA46220            | Market Hotness: Nielsen Household Rank in Tuscaloosa, AL (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA146220          | U.S. Granted Utility Patents Originating in Tuscaloosa, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU46220            | Housing Inventory: Pending Listing Count in Tuscaloosa, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM46220          | Housing Inventory: Pending Listing Count Month-Over-Month in Tuscaloosa, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY46220          | Housing Inventory: Pending Listing Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU46220            | Housing Inventory: Price Increased Count in Tuscaloosa, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM46220          | Housing Inventory: Price Increased Count Month-Over-Month in Tuscaloosa, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY46220          | Housing Inventory: Price Increased Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU46220            | Housing Inventory: Price Reduced Count in Tuscaloosa, AL (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM46220          | Housing Inventory: Price Reduced Count Month-Over-Month in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY46220          | Housing Inventory: Price Reduced Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU46220            | Housing Inventory: Pending Listing Count in Tuscaloosa, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM46220          | Housing Inventory: Pending Listing Count Month-Over-Month in Tuscaloosa, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY46220          | Housing Inventory: Pending Listing Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU46220            | Housing Inventory: Price Increased Count in Tuscaloosa, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM46220          | Housing Inventory: Price Increased Count Month-Over-Month in Tuscaloosa, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY46220          | Housing Inventory: Price Increased Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU46220            | Housing Inventory: Price Reduced Count in Tuscaloosa, AL (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM46220          | Housing Inventory: Price Reduced Count Month-Over-Month in Tuscaloosa, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY46220          | Housing Inventory: Price Reduced Count Year-Over-Year in Tuscaloosa, AL (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP46220                 | Total Quantity Indexes for Real GDP for Tuscaloosa, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP46220                 | Total Real Gross Domestic Product for Tuscaloosa, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI46220                  | Real Personal Income for Tuscaloosa, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -124,7 +124,7 @@
 | SMU01462209094000001      | All Employees: Government: Total State and Local Government in Tuscaloosa, AL (MSA)                             | 1990-01-01          | 2022-03-01        |
 | SMU01462209094000001A     | All Employees: Total State and Local Government in Tuscaloosa, AL (MSA)                                         | 1990-01-01          | 2021-01-01        |
 | SMU01462209094000001SA    | All Employees: Government: Total State and Local Government in Tuscaloosa, AL (MSA)                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA46220              | Market Hotness: Supply Score in Tuscaloosa, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA46220              | Market Hotness: Supply Score in Tuscaloosa, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | TUSC201EDUH               | All Employees: Education and Health Services in Tuscaloosa, AL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | TUSC201EDUHN              | All Employees: Education and Health Services in Tuscaloosa, AL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | TUSC201FIRE               | All Employees: Financial Activities in Tuscaloosa, AL (MSA)                                                     | 1990-01-01          | 2022-03-01        |

@@ -1,5 +1,5 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| Chicago-Gary-Kenosha, IL-IN-WI (CMSA) |               102 |
 | Milwaukee-Racine, WI (CMSA)           |                 1 |
 | Minneapolis-St. Paul, MN-WI (MSA)     |                55 |
+| Chicago-Gary-Kenosha, IL-IN-WI (CMSA) |               102 |

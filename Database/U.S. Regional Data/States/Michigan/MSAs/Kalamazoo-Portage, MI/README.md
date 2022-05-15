@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                  | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU28020            | Housing Inventory: Active Listing Count in Kalamazoo-Portage, MI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM28020          | Housing Inventory: Active Listing Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY28020          | Housing Inventory: Active Listing Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU28020            | Housing Inventory: Active Listing Count in Kalamazoo-Portage, MI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM28020          | Housing Inventory: Active Listing Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY28020          | Housing Inventory: Active Listing Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS28020Q            | All-Transactions House Price Index for Kalamazoo-Portage, MI (MSA)                                                     | 1978-04-01          | 2021-10-01        |
-| AVELISPRI28020            | Housing Inventory: Average Listing Price in Kalamazoo-Portage, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM28020          | Housing Inventory: Average Listing Price Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY28020          | Housing Inventory: Average Listing Price Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA28020              | Market Hotness: Demand Score in Kalamazoo-Portage, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI28020            | Housing Inventory: Average Listing Price in Kalamazoo-Portage, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM28020          | Housing Inventory: Average Listing Price Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY28020          | Housing Inventory: Average Listing Price Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA28020              | Market Hotness: Demand Score in Kalamazoo-Portage, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC280230010             | Total Quarterly Wages in Kalamazoo-Portage, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC280230010SA           | Total Quarterly Wages in Kalamazoo-Portage, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC280240010             | Average Weekly Wages for Employees in Total Covered Establishments in Kalamazoo-Portage, MI (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -20,10 +20,10 @@
 | ENUC280240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-07-01        |
 | ENUC280240510             | Average Weekly Wages for Employees in Private Establishments in Kalamazoo-Portage, MI (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC280240510SA           | Average Weekly Wages for Employees in Private Establishments in Kalamazoo-Portage, MI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA28020            | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA28020              | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA28020            | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA28020              | Market Hotness: Hotness Score in Kalamazoo-Portage, MI (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA28020            | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA28020              | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA28020            | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA28020              | Market Hotness: Hotness Score in Kalamazoo-Portage, MI (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD28020                 | Implicit Regional Price Deflator for Kalamazoo-Portage, MI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | KALA026EDUH               | All Employees: Education and Health Services in Kalamazoo-Portage, MI (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | KALA026EDUHN              | All Employees: Education and Health Services in Kalamazoo-Portage, MI (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -59,46 +59,46 @@
 | LAUMT262802000000005      | Employed Persons in Kalamazoo-Portage, MI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT262802000000005A     | Employed Persons in Kalamazoo-Portage, MI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT262802000000006A     | Civilian Labor Force in Kalamazoo-Portage, MI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA28020          | Market Hotness: Listing Views per Property in Kalamazoo-Portage, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA28020        | Market Hotness: Listing Views per Property Versus the United States in Kalamazoo-Portage, MI (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA28020          | Market Hotness: Listing Views per Property in Kalamazoo-Portage, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA28020        | Market Hotness: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA28020          | Market Hotness: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA28020        | Market Hotness: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR28020          | Housing Inventory: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM28020        | Housing Inventory: Median Days on Market Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY28020        | Housing Inventory: Median Days on Market Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI28020            | Housing Inventory: Median Listing Price in Kalamazoo-Portage, MI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM28020          | Housing Inventory: Median Listing Price Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE28020   | Housing Inventory: Median Listing Price per Square Feet in Kalamazoo-Portage, MI (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM28020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Kalamazoo-Portage, MI (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY28020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY28020          | Housing Inventory: Median Listing Price Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA28020          | Market Hotness: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA28020          | Market Hotness: Median Days on Market Versus the United States in Kalamazoo-Portage, MI (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA28020          | Market Hotness: Median Days on Market Day in Kalamazoo-Portage, MI (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE28020            | Housing Inventory: Median Home Size in Square Feet in Kalamazoo-Portage, MI (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM28020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY28020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA28020          | Market Hotness: Median Listing Price in Kalamazoo-Portage, MI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA28020            | Market Hotness: Median Listing Price in Kalamazoo-Portage, MI (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA28020        | Market Hotness: Median Listing Price Versus the United States in Kalamazoo-Portage, MI (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA28020          | Market Hotness: Median Listing Price in Kalamazoo-Portage, MI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU28020            | Housing Inventory: New Listing Count in Kalamazoo-Portage, MI (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM28020          | Housing Inventory: New Listing Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY28020          | Housing Inventory: New Listing Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA28020          | Market Hotness: Listing Views per Property in Kalamazoo-Portage, MI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA28020        | Market Hotness: Listing Views per Property Versus the United States in Kalamazoo-Portage, MI (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA28020          | Market Hotness: Listing Views per Property in Kalamazoo-Portage, MI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA28020        | Market Hotness: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA28020          | Market Hotness: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA28020        | Market Hotness: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR28020          | Housing Inventory: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM28020        | Housing Inventory: Median Days on Market Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY28020        | Housing Inventory: Median Days on Market Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI28020            | Housing Inventory: Median Listing Price in Kalamazoo-Portage, MI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM28020          | Housing Inventory: Median Listing Price Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE28020   | Housing Inventory: Median Listing Price per Square Feet in Kalamazoo-Portage, MI (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM28020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Kalamazoo-Portage, MI (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY28020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY28020          | Housing Inventory: Median Listing Price Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA28020          | Market Hotness: Median Days on Market in Kalamazoo-Portage, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA28020          | Market Hotness: Median Days on Market Versus the United States in Kalamazoo-Portage, MI (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA28020          | Market Hotness: Median Days on Market Day in Kalamazoo-Portage, MI (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE28020            | Housing Inventory: Median Home Size in Square Feet in Kalamazoo-Portage, MI (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM28020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY28020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA28020          | Market Hotness: Median Listing Price in Kalamazoo-Portage, MI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA28020            | Market Hotness: Median Listing Price in Kalamazoo-Portage, MI (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA28020        | Market Hotness: Median Listing Price Versus the United States in Kalamazoo-Portage, MI (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA28020          | Market Hotness: Median Listing Price in Kalamazoo-Portage, MI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU28020            | Housing Inventory: New Listing Count in Kalamazoo-Portage, MI (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM28020          | Housing Inventory: New Listing Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY28020          | Housing Inventory: New Listing Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP28020                 | Total Gross Domestic Product for Kalamazoo-Portage, MI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA28020            | Market Hotness: Nielsen Household Rank in Kalamazoo-Portage, MI (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA28020            | Market Hotness: Nielsen Household Rank in Kalamazoo-Portage, MI (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA128020          | U.S. Granted Utility Patents Originating in Kalamazoo-Portage, MI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU28020            | Housing Inventory: Pending Listing Count in Kalamazoo-Portage, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM28020          | Housing Inventory: Pending Listing Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY28020          | Housing Inventory: Pending Listing Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU28020            | Housing Inventory: Price Increased Count in Kalamazoo-Portage, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM28020          | Housing Inventory: Price Increased Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY28020          | Housing Inventory: Price Increased Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU28020            | Housing Inventory: Price Reduced Count in Kalamazoo-Portage, MI (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM28020          | Housing Inventory: Price Reduced Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY28020          | Housing Inventory: Price Reduced Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU28020            | Housing Inventory: Pending Listing Count in Kalamazoo-Portage, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM28020          | Housing Inventory: Pending Listing Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY28020          | Housing Inventory: Pending Listing Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU28020            | Housing Inventory: Price Increased Count in Kalamazoo-Portage, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM28020          | Housing Inventory: Price Increased Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY28020          | Housing Inventory: Price Increased Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU28020            | Housing Inventory: Price Reduced Count in Kalamazoo-Portage, MI (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM28020          | Housing Inventory: Price Reduced Count Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY28020          | Housing Inventory: Price Reduced Count Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP28020                 | Total Quantity Indexes for Real GDP for Kalamazoo-Portage, MI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP28020                 | Total Real Gross Domestic Product for Kalamazoo-Portage, MI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI28020                  | Real Personal Income for Kalamazoo-Portage, MI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -170,4 +170,4 @@
 | SMU26280209093000001      | All Employees: Government: Local Government in Kalamazoo-Portage, MI (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU26280209093000001A     | All Employees: Local Government in Kalamazoo-Portage, MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU26280209093000001SA    | All Employees: Government: Local Government in Kalamazoo-Portage, MI (MSA)                                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA28020              | Market Hotness: Supply Score in Kalamazoo-Portage, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA28020              | Market Hotness: Supply Score in Kalamazoo-Portage, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

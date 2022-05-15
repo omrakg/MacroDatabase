@@ -1,3 +1,2 @@
-| id                | title                                                                                                | observation_start   | observation_end   |
-|-------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCU561612561612SM | Producer Price Index by Industry: Security Guards and Patrol Services: Other Receipts (DISCONTINUED) | 2004-12-01          | 2008-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

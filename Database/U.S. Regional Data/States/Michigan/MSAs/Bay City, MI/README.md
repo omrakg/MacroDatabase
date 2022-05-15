@@ -1,12 +1,12 @@
 | id                        | title                                                                                           | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU13020            | Housing Inventory: Active Listing Count in Bay City, MI (CBSA)                                  | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM13020          | Housing Inventory: Active Listing Count Month-Over-Month in Bay City, MI (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY13020          | Housing Inventory: Active Listing Count Year-Over-Year in Bay City, MI (CBSA)                   | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU13020            | Housing Inventory: Active Listing Count in Bay City, MI (CBSA)                                  | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM13020          | Housing Inventory: Active Listing Count Month-Over-Month in Bay City, MI (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY13020          | Housing Inventory: Active Listing Count Year-Over-Year in Bay City, MI (CBSA)                   | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS13020Q            | All-Transactions House Price Index for Bay City, MI (MSA)                                       | 1986-01-01          | 2021-10-01        |
-| AVELISPRI13020            | Housing Inventory: Average Listing Price in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM13020          | Housing Inventory: Average Listing Price Month-Over-Month in Bay City, MI (CBSA)                | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY13020          | Housing Inventory: Average Listing Price Year-Over-Year in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-03-01        |
+| AVELISPRI13020            | Housing Inventory: Average Listing Price in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM13020          | Housing Inventory: Average Listing Price Month-Over-Month in Bay City, MI (CBSA)                | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY13020          | Housing Inventory: Average Listing Price Year-Over-Year in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-04-01        |
 | BAYC026EDUH               | All Employees: Education and Health Services in Bay City, MI (MSA)                              | 1990-01-01          | 2022-03-01        |
 | BAYC026EDUHN              | All Employees: Education and Health Services in Bay City, MI (MSA)                              | 1990-01-01          | 2022-03-01        |
 | BAYC026FIRE               | All Employees: Financial Activities in Bay City, MI (MSA)                                       | 1990-01-01          | 2022-03-01        |
@@ -54,32 +54,32 @@
 | LAUMT261302000000005      | Employed Persons in Bay City, MI (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | LAUMT261302000000005A     | Employed Persons in Bay City, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT261302000000006A     | Civilian Labor Force in Bay City, MI (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR13020          | Housing Inventory: Median Days on Market in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM13020        | Housing Inventory: Median Days on Market Month-Over-Month in Bay City, MI (CBSA)                | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY13020        | Housing Inventory: Median Days on Market Year-Over-Year in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI13020            | Housing Inventory: Median Listing Price in Bay City, MI (CBSA)                                  | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM13020          | Housing Inventory: Median Listing Price Month-Over-Month in Bay City, MI (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE13020   | Housing Inventory: Median Listing Price per Square Feet in Bay City, MI (CBSA)                  | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM13020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bay City, MI (CBSA) | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY13020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bay City, MI (CBSA)   | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY13020          | Housing Inventory: Median Listing Price Year-Over-Year in Bay City, MI (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEE13020            | Housing Inventory: Median Home Size in Square Feet in Bay City, MI (CBSA)                       | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM13020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bay City, MI (CBSA)      | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY13020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bay City, MI (CBSA)        | 2017-07-01          | 2022-03-01        |
-| NEWLISCOU13020            | Housing Inventory: New Listing Count in Bay City, MI (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM13020          | Housing Inventory: New Listing Count Month-Over-Month in Bay City, MI (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY13020          | Housing Inventory: New Listing Count Year-Over-Year in Bay City, MI (CBSA)                      | 2017-07-01          | 2022-03-01        |
+| MEDDAYONMAR13020          | Housing Inventory: Median Days on Market in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM13020        | Housing Inventory: Median Days on Market Month-Over-Month in Bay City, MI (CBSA)                | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY13020        | Housing Inventory: Median Days on Market Year-Over-Year in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI13020            | Housing Inventory: Median Listing Price in Bay City, MI (CBSA)                                  | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM13020          | Housing Inventory: Median Listing Price Month-Over-Month in Bay City, MI (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE13020   | Housing Inventory: Median Listing Price per Square Feet in Bay City, MI (CBSA)                  | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM13020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bay City, MI (CBSA) | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY13020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bay City, MI (CBSA)   | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY13020          | Housing Inventory: Median Listing Price Year-Over-Year in Bay City, MI (CBSA)                   | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEE13020            | Housing Inventory: Median Home Size in Square Feet in Bay City, MI (CBSA)                       | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM13020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bay City, MI (CBSA)      | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY13020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bay City, MI (CBSA)        | 2017-07-01          | 2022-04-01        |
+| NEWLISCOU13020            | Housing Inventory: New Listing Count in Bay City, MI (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM13020          | Housing Inventory: New Listing Count Month-Over-Month in Bay City, MI (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY13020          | Housing Inventory: New Listing Count Year-Over-Year in Bay City, MI (CBSA)                      | 2017-07-01          | 2022-04-01        |
 | NGMP13020                 | Total Gross Domestic Product for Bay City, MI (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA113020          | U.S. Granted Utility Patents Originating in Bay City, MI (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU13020            | Housing Inventory: Pending Listing Count in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM13020          | Housing Inventory: Pending Listing Count Month-Over-Month in Bay City, MI (CBSA)                | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY13020          | Housing Inventory: Pending Listing Count Year-Over-Year in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU13020            | Housing Inventory: Price Increased Count in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM13020          | Housing Inventory: Price Increased Count Month-Over-Month in Bay City, MI (CBSA)                | 2017-08-01          | 2021-11-01        |
-| PRIINCCOUYY13020          | Housing Inventory: Price Increased Count Year-Over-Year in Bay City, MI (CBSA)                  | 2018-03-01          | 2022-03-01        |
-| PRIREDCOU13020            | Housing Inventory: Price Reduced Count in Bay City, MI (CBSA)                                   | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM13020          | Housing Inventory: Price Reduced Count Month-Over-Month in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY13020          | Housing Inventory: Price Reduced Count Year-Over-Year in Bay City, MI (CBSA)                    | 2017-07-01          | 2022-03-01        |
+| PENLISCOU13020            | Housing Inventory: Pending Listing Count in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM13020          | Housing Inventory: Pending Listing Count Month-Over-Month in Bay City, MI (CBSA)                | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY13020          | Housing Inventory: Pending Listing Count Year-Over-Year in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU13020            | Housing Inventory: Price Increased Count in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM13020          | Housing Inventory: Price Increased Count Month-Over-Month in Bay City, MI (CBSA)                | 2017-08-01          | 2022-04-01        |
+| PRIINCCOUYY13020          | Housing Inventory: Price Increased Count Year-Over-Year in Bay City, MI (CBSA)                  | 2018-03-01          | 2022-04-01        |
+| PRIREDCOU13020            | Housing Inventory: Price Reduced Count in Bay City, MI (CBSA)                                   | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM13020          | Housing Inventory: Price Reduced Count Month-Over-Month in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY13020          | Housing Inventory: Price Reduced Count Year-Over-Year in Bay City, MI (CBSA)                    | 2017-07-01          | 2022-04-01        |
 | QGMP13020                 | Total Quantity Indexes for Real GDP for Bay City, MI (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP13020                 | Total Real Gross Domestic Product for Bay City, MI (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI13020                  | Real Personal Income for Bay City, MI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

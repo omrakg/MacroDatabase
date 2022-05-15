@@ -1,13 +1,13 @@
 | id                        | title                                                                                                   | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU43580            | Housing Inventory: Active Listing Count in Sioux City, IA-NE-SD (CBSA)                                  | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM43580          | Housing Inventory: Active Listing Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY43580          | Housing Inventory: Active Listing Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                   | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU43580            | Housing Inventory: Active Listing Count in Sioux City, IA-NE-SD (CBSA)                                  | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM43580          | Housing Inventory: Active Listing Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY43580          | Housing Inventory: Active Listing Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                   | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS43580Q            | All-Transactions House Price Index for Sioux City, IA-NE-SD (MSA)                                       | 1988-10-01          | 2021-10-01        |
-| AVELISPRI43580            | Housing Inventory: Average Listing Price in Sioux City, IA-NE-SD (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM43580          | Housing Inventory: Average Listing Price Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY43580          | Housing Inventory: Average Listing Price Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| DESCMSA43580              | Market Hotness: Demand Score in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-03-01        |
+| AVELISPRI43580            | Housing Inventory: Average Listing Price in Sioux City, IA-NE-SD (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM43580          | Housing Inventory: Average Listing Price Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY43580          | Housing Inventory: Average Listing Price Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| DESCMSA43580              | Market Hotness: Demand Score in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-04-01        |
 | ENUC435830010             | Total Quarterly Wages in Sioux City, IA-NE-SD (MSA)                                                     | 1990-01-01          | 2021-07-01        |
 | ENUC435830010SA           | Total Quarterly Wages in Sioux City, IA-NE-SD (MSA)                                                     | 1990-01-01          | 2021-07-01        |
 | ENUC435840010             | Average Weekly Wages for Employees in Total Covered Establishments in Sioux City, IA-NE-SD (MSA)        | 1990-01-01          | 2021-07-01        |
@@ -20,10 +20,10 @@
 | ENUC435840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sioux City, IA-NE-SD (MSA)     | 2001-01-01          | 2021-07-01        |
 | ENUC435840510             | Average Weekly Wages for Employees in Private Establishments in Sioux City, IA-NE-SD (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC435840510SA           | Average Weekly Wages for Employees in Private Establishments in Sioux City, IA-NE-SD (MSA)              | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA43580            | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| HORAMSA43580              | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA43580            | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| HOSCMSA43580              | Market Hotness: Hotness Score in Sioux City, IA-NE-SD (CBSA)                                            | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA43580            | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| HORAMSA43580              | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA43580            | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| HOSCMSA43580              | Market Hotness: Hotness Score in Sioux City, IA-NE-SD (CBSA)                                            | 2017-08-01          | 2022-04-01        |
 | IRPD43580                 | Implicit Regional Price Deflator for Sioux City, IA-NE-SD (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT194358000000003A     | Unemployment Rate in Sioux City, IA-NE-SD (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT194358000000004      | Unemployed Persons in Sioux City, IA-NE-SD (MSA)                                                        | 1990-01-01          | 2022-03-01        |
@@ -31,46 +31,46 @@
 | LAUMT194358000000005      | Employed Persons in Sioux City, IA-NE-SD (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | LAUMT194358000000005A     | Employed Persons in Sioux City, IA-NE-SD (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT194358000000006A     | Civilian Labor Force in Sioux City, IA-NE-SD (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA43580          | Market Hotness: Listing Views per Property in Sioux City, IA-NE-SD (CBSA)                               | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA43580        | Market Hotness: Listing Views per Property Versus the United States in Sioux City, IA-NE-SD (CBSA)      | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA43580          | Market Hotness: Listing Views per Property in Sioux City, IA-NE-SD (CBSA)                               | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA43580        | Market Hotness: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA43580          | Market Hotness: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                    | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA43580        | Market Hotness: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR43580          | Housing Inventory: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM43580        | Housing Inventory: Median Days on Market Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY43580        | Housing Inventory: Median Days on Market Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI43580            | Housing Inventory: Median Listing Price in Sioux City, IA-NE-SD (CBSA)                                  | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM43580          | Housing Inventory: Median Listing Price Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE43580   | Housing Inventory: Median Listing Price per Square Feet in Sioux City, IA-NE-SD (CBSA)                  | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM43580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sioux City, IA-NE-SD (CBSA) | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY43580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sioux City, IA-NE-SD (CBSA)   | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY43580          | Housing Inventory: Median Listing Price Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA43580          | Market Hotness: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA43580          | Market Hotness: Median Days on Market Versus the United States in Sioux City, IA-NE-SD (CBSA)           | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA43580          | Market Hotness: Median Days on Market Day in Sioux City, IA-NE-SD (CBSA)                                | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE43580            | Housing Inventory: Median Home Size in Square Feet in Sioux City, IA-NE-SD (CBSA)                       | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM43580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sioux City, IA-NE-SD (CBSA)      | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY43580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sioux City, IA-NE-SD (CBSA)        | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA43580          | Market Hotness: Median Listing Price in Sioux City, IA-NE-SD (CBSA)                                     | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA43580            | Market Hotness: Median Listing Price in Sioux City, IA-NE-SD (CBSA)                                     | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA43580        | Market Hotness: Median Listing Price Versus the United States in Sioux City, IA-NE-SD (CBSA)            | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA43580          | Market Hotness: Median Listing Price in Sioux City, IA-NE-SD (CBSA)                                     | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU43580            | Housing Inventory: New Listing Count in Sioux City, IA-NE-SD (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM43580          | Housing Inventory: New Listing Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY43580          | Housing Inventory: New Listing Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                      | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA43580          | Market Hotness: Listing Views per Property in Sioux City, IA-NE-SD (CBSA)                               | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA43580        | Market Hotness: Listing Views per Property Versus the United States in Sioux City, IA-NE-SD (CBSA)      | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA43580          | Market Hotness: Listing Views per Property in Sioux City, IA-NE-SD (CBSA)                               | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA43580        | Market Hotness: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                    | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA43580          | Market Hotness: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                    | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA43580        | Market Hotness: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                    | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR43580          | Housing Inventory: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM43580        | Housing Inventory: Median Days on Market Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY43580        | Housing Inventory: Median Days on Market Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI43580            | Housing Inventory: Median Listing Price in Sioux City, IA-NE-SD (CBSA)                                  | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM43580          | Housing Inventory: Median Listing Price Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE43580   | Housing Inventory: Median Listing Price per Square Feet in Sioux City, IA-NE-SD (CBSA)                  | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM43580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sioux City, IA-NE-SD (CBSA) | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY43580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sioux City, IA-NE-SD (CBSA)   | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY43580          | Housing Inventory: Median Listing Price Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                   | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA43580          | Market Hotness: Median Days on Market in Sioux City, IA-NE-SD (CBSA)                                    | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA43580          | Market Hotness: Median Days on Market Versus the United States in Sioux City, IA-NE-SD (CBSA)           | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA43580          | Market Hotness: Median Days on Market Day in Sioux City, IA-NE-SD (CBSA)                                | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE43580            | Housing Inventory: Median Home Size in Square Feet in Sioux City, IA-NE-SD (CBSA)                       | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM43580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sioux City, IA-NE-SD (CBSA)      | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY43580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sioux City, IA-NE-SD (CBSA)        | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA43580          | Market Hotness: Median Listing Price in Sioux City, IA-NE-SD (CBSA)                                     | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA43580            | Market Hotness: Median Listing Price in Sioux City, IA-NE-SD (CBSA)                                     | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA43580        | Market Hotness: Median Listing Price Versus the United States in Sioux City, IA-NE-SD (CBSA)            | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA43580          | Market Hotness: Median Listing Price in Sioux City, IA-NE-SD (CBSA)                                     | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU43580            | Housing Inventory: New Listing Count in Sioux City, IA-NE-SD (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM43580          | Housing Inventory: New Listing Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY43580          | Housing Inventory: New Listing Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                      | 2017-07-01          | 2022-04-01        |
 | NGMP43580                 | Total Gross Domestic Product for Sioux City, IA-NE-SD (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA43580            | Market Hotness: Nielsen Household Rank in Sioux City, IA-NE-SD (CBSA)                                   | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA43580            | Market Hotness: Nielsen Household Rank in Sioux City, IA-NE-SD (CBSA)                                   | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA143580          | U.S. Granted Utility Patents Originating in Sioux City, IA-NE-SD (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU43580            | Housing Inventory: Pending Listing Count in Sioux City, IA-NE-SD (CBSA)                                 | 2016-08-01          | 2022-03-01        |
-| PENLISCOUMM43580          | Housing Inventory: Pending Listing Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY43580          | Housing Inventory: Pending Listing Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                  | 2017-08-01          | 2022-03-01        |
-| PRIINCCOU43580            | Housing Inventory: Price Increased Count in Sioux City, IA-NE-SD (CBSA)                                 | 2016-07-01          | 2022-03-01        |
+| PENLISCOU43580            | Housing Inventory: Pending Listing Count in Sioux City, IA-NE-SD (CBSA)                                 | 2016-08-01          | 2022-04-01        |
+| PENLISCOUMM43580          | Housing Inventory: Pending Listing Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY43580          | Housing Inventory: Pending Listing Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                  | 2017-08-01          | 2022-04-01        |
+| PRIINCCOU43580            | Housing Inventory: Price Increased Count in Sioux City, IA-NE-SD (CBSA)                                 | 2016-07-01          | 2022-04-01        |
 | PRIINCCOUMM43580          | Housing Inventory: Price Increased Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                | 2017-07-01          | 2022-03-01        |
 | PRIINCCOUYY43580          | Housing Inventory: Price Increased Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                  | 2017-08-01          | 2021-12-01        |
-| PRIREDCOU43580            | Housing Inventory: Price Reduced Count in Sioux City, IA-NE-SD (CBSA)                                   | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM43580          | Housing Inventory: Price Reduced Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY43580          | Housing Inventory: Price Reduced Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                    | 2017-07-01          | 2022-03-01        |
+| PRIREDCOU43580            | Housing Inventory: Price Reduced Count in Sioux City, IA-NE-SD (CBSA)                                   | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM43580          | Housing Inventory: Price Reduced Count Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY43580          | Housing Inventory: Price Reduced Count Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                    | 2017-07-01          | 2022-04-01        |
 | QGMP43580                 | Total Quantity Indexes for Real GDP for Sioux City, IA-NE-SD (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP43580                 | Total Real Gross Domestic Product for Sioux City, IA-NE-SD (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI43580                  | Real Personal Income for Sioux City, IA-NE-SD (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -138,4 +138,4 @@
 | SMU19435809093000001      | All Employees: Government: Local Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-03-01        |
 | SMU19435809093000001A     | All Employees: Local Government in Sioux City, IA-NE-SD (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU19435809093000001SA    | All Employees: Government: Local Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-03-01        |
-| SUSCMSA43580              | Market Hotness: Supply Score in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-03-01        |
+| SUSCMSA43580              | Market Hotness: Supply Score in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-04-01        |

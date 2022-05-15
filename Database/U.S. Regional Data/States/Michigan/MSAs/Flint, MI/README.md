@@ -1,13 +1,13 @@
 | id                        | title                                                                                                      | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU22420            | Housing Inventory: Active Listing Count in Flint, MI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM22420          | Housing Inventory: Active Listing Count Month-Over-Month in Flint, MI (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY22420          | Housing Inventory: Active Listing Count Year-Over-Year in Flint, MI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU22420            | Housing Inventory: Active Listing Count in Flint, MI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM22420          | Housing Inventory: Active Listing Count Month-Over-Month in Flint, MI (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY22420          | Housing Inventory: Active Listing Count Year-Over-Year in Flint, MI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS22420Q            | All-Transactions House Price Index for Flint, MI (MSA)                                                     | 1977-10-01          | 2021-10-01        |
-| AVELISPRI22420            | Housing Inventory: Average Listing Price in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM22420          | Housing Inventory: Average Listing Price Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY22420          | Housing Inventory: Average Listing Price Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA22420              | Market Hotness: Demand Score in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI22420            | Housing Inventory: Average Listing Price in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM22420          | Housing Inventory: Average Listing Price Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY22420          | Housing Inventory: Average Listing Price Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA22420              | Market Hotness: Demand Score in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC224230010             | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC224230010SA           | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC224240010             | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -48,10 +48,10 @@
 | FLIN426UR                 | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | FLIN426URN                | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | FLTPOP                    | Resident Population in Flint, MI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA22420            | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA22420              | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA22420            | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA22420              | Market Hotness: Hotness Score in Flint, MI (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA22420            | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA22420              | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA22420            | Market Hotness: Hotness Rank in Flint, MI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA22420              | Market Hotness: Hotness Score in Flint, MI (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD22420                 | Implicit Regional Price Deflator for Flint, MI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT262242000000003A     | Unemployment Rate in Flint, MI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT262242000000004      | Unemployed Persons in Flint, MI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -59,46 +59,46 @@
 | LAUMT262242000000005      | Employed Persons in Flint, MI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT262242000000005A     | Employed Persons in Flint, MI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT262242000000006A     | Civilian Labor Force in Flint, MI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA22420          | Market Hotness: Listing Views per Property in Flint, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA22420        | Market Hotness: Listing Views per Property Versus the United States in Flint, MI (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA22420          | Market Hotness: Listing Views per Property in Flint, MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA22420        | Market Hotness: Median Days on Market in Flint, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA22420          | Market Hotness: Median Days on Market in Flint, MI (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA22420        | Market Hotness: Median Days on Market in Flint, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR22420          | Housing Inventory: Median Days on Market in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM22420        | Housing Inventory: Median Days on Market Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY22420        | Housing Inventory: Median Days on Market Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI22420            | Housing Inventory: Median Listing Price in Flint, MI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM22420          | Housing Inventory: Median Listing Price Month-Over-Month in Flint, MI (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE22420   | Housing Inventory: Median Listing Price per Square Feet in Flint, MI (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM22420 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Flint, MI (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY22420 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Flint, MI (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY22420          | Housing Inventory: Median Listing Price Year-Over-Year in Flint, MI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA22420          | Market Hotness: Median Days on Market in Flint, MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA22420          | Market Hotness: Median Days on Market Versus the United States in Flint, MI (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA22420          | Market Hotness: Median Days on Market Day in Flint, MI (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE22420            | Housing Inventory: Median Home Size in Square Feet in Flint, MI (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM22420          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Flint, MI (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY22420          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Flint, MI (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA22420          | Market Hotness: Median Listing Price in Flint, MI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA22420            | Market Hotness: Median Listing Price in Flint, MI (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA22420        | Market Hotness: Median Listing Price Versus the United States in Flint, MI (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA22420          | Market Hotness: Median Listing Price in Flint, MI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU22420            | Housing Inventory: New Listing Count in Flint, MI (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM22420          | Housing Inventory: New Listing Count Month-Over-Month in Flint, MI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY22420          | Housing Inventory: New Listing Count Year-Over-Year in Flint, MI (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA22420          | Market Hotness: Listing Views per Property in Flint, MI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA22420        | Market Hotness: Listing Views per Property Versus the United States in Flint, MI (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA22420          | Market Hotness: Listing Views per Property in Flint, MI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA22420        | Market Hotness: Median Days on Market in Flint, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA22420          | Market Hotness: Median Days on Market in Flint, MI (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA22420        | Market Hotness: Median Days on Market in Flint, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR22420          | Housing Inventory: Median Days on Market in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM22420        | Housing Inventory: Median Days on Market Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY22420        | Housing Inventory: Median Days on Market Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI22420            | Housing Inventory: Median Listing Price in Flint, MI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM22420          | Housing Inventory: Median Listing Price Month-Over-Month in Flint, MI (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE22420   | Housing Inventory: Median Listing Price per Square Feet in Flint, MI (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM22420 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Flint, MI (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY22420 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Flint, MI (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY22420          | Housing Inventory: Median Listing Price Year-Over-Year in Flint, MI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA22420          | Market Hotness: Median Days on Market in Flint, MI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA22420          | Market Hotness: Median Days on Market Versus the United States in Flint, MI (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA22420          | Market Hotness: Median Days on Market Day in Flint, MI (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE22420            | Housing Inventory: Median Home Size in Square Feet in Flint, MI (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM22420          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Flint, MI (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY22420          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Flint, MI (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA22420          | Market Hotness: Median Listing Price in Flint, MI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA22420            | Market Hotness: Median Listing Price in Flint, MI (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA22420        | Market Hotness: Median Listing Price Versus the United States in Flint, MI (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA22420          | Market Hotness: Median Listing Price in Flint, MI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU22420            | Housing Inventory: New Listing Count in Flint, MI (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM22420          | Housing Inventory: New Listing Count Month-Over-Month in Flint, MI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY22420          | Housing Inventory: New Listing Count Year-Over-Year in Flint, MI (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP22420                 | Total Gross Domestic Product for Flint, MI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA22420            | Market Hotness: Nielsen Household Rank in Flint, MI (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA22420            | Market Hotness: Nielsen Household Rank in Flint, MI (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA122420          | U.S. Granted Utility Patents Originating in Flint, MI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU22420            | Housing Inventory: Pending Listing Count in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM22420          | Housing Inventory: Pending Listing Count Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY22420          | Housing Inventory: Pending Listing Count Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU22420            | Housing Inventory: Price Increased Count in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM22420          | Housing Inventory: Price Increased Count Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY22420          | Housing Inventory: Price Increased Count Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU22420            | Housing Inventory: Price Reduced Count in Flint, MI (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM22420          | Housing Inventory: Price Reduced Count Month-Over-Month in Flint, MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY22420          | Housing Inventory: Price Reduced Count Year-Over-Year in Flint, MI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU22420            | Housing Inventory: Pending Listing Count in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM22420          | Housing Inventory: Pending Listing Count Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY22420          | Housing Inventory: Pending Listing Count Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU22420            | Housing Inventory: Price Increased Count in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM22420          | Housing Inventory: Price Increased Count Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY22420          | Housing Inventory: Price Increased Count Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU22420            | Housing Inventory: Price Reduced Count in Flint, MI (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM22420          | Housing Inventory: Price Reduced Count Month-Over-Month in Flint, MI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY22420          | Housing Inventory: Price Reduced Count Year-Over-Year in Flint, MI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP22420                 | Total Quantity Indexes for Real GDP for Flint, MI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP22420                 | Total Real Gross Domestic Product for Flint, MI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI22420                  | Real Personal Income for Flint, MI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -173,4 +173,4 @@
 | SMU26224209093000001      | All Employees: Government: Local Government in Flint, MI (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU26224209093000001A     | All Employees: Local Government in Flint, MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU26224209093000001SA    | All Employees: Government: Local Government in Flint, MI (MSA)                                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA22420              | Market Hotness: Supply Score in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA22420              | Market Hotness: Supply Score in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

@@ -1,12 +1,12 @@
 | id                        | title                                                                                            | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU44940            | Housing Inventory: Active Listing Count in Sumter, SC (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM44940          | Housing Inventory: Active Listing Count Month-Over-Month in Sumter, SC (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY44940          | Housing Inventory: Active Listing Count Year-Over-Year in Sumter, SC (CBSA)                      | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU44940            | Housing Inventory: Active Listing Count in Sumter, SC (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM44940          | Housing Inventory: Active Listing Count Month-Over-Month in Sumter, SC (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY44940          | Housing Inventory: Active Listing Count Year-Over-Year in Sumter, SC (CBSA)                      | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS44940Q            | All-Transactions House Price Index for Sumter, SC (MSA)                                          | 1990-01-01          | 2021-10-01        |
-| AVELISPRI44940            | Housing Inventory: Average Listing Price in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM44940          | Housing Inventory: Average Listing Price Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY44940          | Housing Inventory: Average Listing Price Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-03-01        |
+| AVELISPRI44940            | Housing Inventory: Average Listing Price in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM44940          | Housing Inventory: Average Listing Price Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY44940          | Housing Inventory: Average Listing Price Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-04-01        |
 | ENUC449430010             | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2021-07-01        |
 | ENUC449430010SA           | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2021-07-01        |
 | ENUC449440010             | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2021-07-01        |
@@ -26,32 +26,32 @@
 | LAUMT454494000000005      | Employed Persons in Sumter, SC (MSA)                                                             | 1990-01-01          | 2022-03-01        |
 | LAUMT454494000000005A     | Employed Persons in Sumter, SC (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT454494000000006A     | Civilian Labor Force in Sumter, SC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR44940          | Housing Inventory: Median Days on Market in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM44940        | Housing Inventory: Median Days on Market Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY44940        | Housing Inventory: Median Days on Market Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI44940            | Housing Inventory: Median Listing Price in Sumter, SC (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM44940          | Housing Inventory: Median Listing Price Month-Over-Month in Sumter, SC (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE44940   | Housing Inventory: Median Listing Price per Square Feet in Sumter, SC (CBSA)                     | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM44940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sumter, SC (CBSA)    | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY44940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sumter, SC (CBSA)      | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY44940          | Housing Inventory: Median Listing Price Year-Over-Year in Sumter, SC (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEE44940            | Housing Inventory: Median Home Size in Square Feet in Sumter, SC (CBSA)                          | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM44940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sumter, SC (CBSA)         | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY44940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sumter, SC (CBSA)           | 2017-07-01          | 2022-03-01        |
-| NEWLISCOU44940            | Housing Inventory: New Listing Count in Sumter, SC (CBSA)                                        | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM44940          | Housing Inventory: New Listing Count Month-Over-Month in Sumter, SC (CBSA)                       | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY44940          | Housing Inventory: New Listing Count Year-Over-Year in Sumter, SC (CBSA)                         | 2017-07-01          | 2022-03-01        |
+| MEDDAYONMAR44940          | Housing Inventory: Median Days on Market in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM44940        | Housing Inventory: Median Days on Market Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY44940        | Housing Inventory: Median Days on Market Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI44940            | Housing Inventory: Median Listing Price in Sumter, SC (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM44940          | Housing Inventory: Median Listing Price Month-Over-Month in Sumter, SC (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE44940   | Housing Inventory: Median Listing Price per Square Feet in Sumter, SC (CBSA)                     | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM44940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sumter, SC (CBSA)    | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY44940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sumter, SC (CBSA)      | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY44940          | Housing Inventory: Median Listing Price Year-Over-Year in Sumter, SC (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEE44940            | Housing Inventory: Median Home Size in Square Feet in Sumter, SC (CBSA)                          | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM44940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sumter, SC (CBSA)         | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY44940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sumter, SC (CBSA)           | 2017-07-01          | 2022-04-01        |
+| NEWLISCOU44940            | Housing Inventory: New Listing Count in Sumter, SC (CBSA)                                        | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM44940          | Housing Inventory: New Listing Count Month-Over-Month in Sumter, SC (CBSA)                       | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY44940          | Housing Inventory: New Listing Count Year-Over-Year in Sumter, SC (CBSA)                         | 2017-07-01          | 2022-04-01        |
 | NGMP44940                 | Total Gross Domestic Product for Sumter, SC (MSA)                                                | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA144940          | U.S. Granted Utility Patents Originating in Sumter, SC (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU44940            | Housing Inventory: Pending Listing Count in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM44940          | Housing Inventory: Pending Listing Count Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY44940          | Housing Inventory: Pending Listing Count Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU44940            | Housing Inventory: Price Increased Count in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM44940          | Housing Inventory: Price Increased Count Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY44940          | Housing Inventory: Price Increased Count Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU44940            | Housing Inventory: Price Reduced Count in Sumter, SC (CBSA)                                      | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM44940          | Housing Inventory: Price Reduced Count Month-Over-Month in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY44940          | Housing Inventory: Price Reduced Count Year-Over-Year in Sumter, SC (CBSA)                       | 2017-07-01          | 2022-03-01        |
+| PENLISCOU44940            | Housing Inventory: Pending Listing Count in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM44940          | Housing Inventory: Pending Listing Count Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY44940          | Housing Inventory: Pending Listing Count Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU44940            | Housing Inventory: Price Increased Count in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM44940          | Housing Inventory: Price Increased Count Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY44940          | Housing Inventory: Price Increased Count Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU44940            | Housing Inventory: Price Reduced Count in Sumter, SC (CBSA)                                      | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM44940          | Housing Inventory: Price Reduced Count Month-Over-Month in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY44940          | Housing Inventory: Price Reduced Count Year-Over-Year in Sumter, SC (CBSA)                       | 2017-07-01          | 2022-04-01        |
 | QGMP44940                 | Total Quantity Indexes for Real GDP for Sumter, SC (MSA)                                         | 2001-01-01          | 2020-01-01        |
 | RGMP44940                 | Total Real Gross Domestic Product for Sumter, SC (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | RPI44940                  | Real Personal Income for Sumter, SC (MSA)                                                        | 2008-01-01          | 2020-01-01        |

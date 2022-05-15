@@ -1,12 +1,12 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU34100            | Housing Inventory: Active Listing Count in Morristown, TN (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM34100          | Housing Inventory: Active Listing Count Month-Over-Month in Morristown, TN (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY34100          | Housing Inventory: Active Listing Count Year-Over-Year in Morristown, TN (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU34100            | Housing Inventory: Active Listing Count in Morristown, TN (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM34100          | Housing Inventory: Active Listing Count Month-Over-Month in Morristown, TN (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY34100          | Housing Inventory: Active Listing Count Year-Over-Year in Morristown, TN (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS34100Q            | All-Transactions House Price Index for Morristown, TN (MSA)                                                     | 1993-01-01          | 2021-10-01        |
-| AVELISPRI34100            | Housing Inventory: Average Listing Price in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM34100          | Housing Inventory: Average Listing Price Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY34100          | Housing Inventory: Average Listing Price Year-Over-Year in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| AVELISPRI34100            | Housing Inventory: Average Listing Price in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM34100          | Housing Inventory: Average Listing Price Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY34100          | Housing Inventory: Average Listing Price Year-Over-Year in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
 | ENUC341030010             | Total Quarterly Wages in Morristown, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC341030010SA           | Total Quarterly Wages in Morristown, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC341040010             | Average Weekly Wages for Employees in Total Covered Establishments in Morristown, TN (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -26,18 +26,18 @@
 | LAUMT473410000000005      | Employed Persons in Morristown, TN (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT473410000000005A     | Employed Persons in Morristown, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT473410000000006A     | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR34100          | Housing Inventory: Median Days on Market in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM34100        | Housing Inventory: Median Days on Market Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY34100        | Housing Inventory: Median Days on Market Year-Over-Year in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI34100            | Housing Inventory: Median Listing Price in Morristown, TN (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM34100          | Housing Inventory: Median Listing Price Month-Over-Month in Morristown, TN (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE34100   | Housing Inventory: Median Listing Price per Square Feet in Morristown, TN (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM34100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Morristown, TN (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY34100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Morristown, TN (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY34100          | Housing Inventory: Median Listing Price Year-Over-Year in Morristown, TN (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEE34100            | Housing Inventory: Median Home Size in Square Feet in Morristown, TN (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM34100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Morristown, TN (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY34100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Morristown, TN (CBSA)                      | 2017-07-01          | 2022-03-01        |
+| MEDDAYONMAR34100          | Housing Inventory: Median Days on Market in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM34100        | Housing Inventory: Median Days on Market Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY34100        | Housing Inventory: Median Days on Market Year-Over-Year in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI34100            | Housing Inventory: Median Listing Price in Morristown, TN (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM34100          | Housing Inventory: Median Listing Price Month-Over-Month in Morristown, TN (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE34100   | Housing Inventory: Median Listing Price per Square Feet in Morristown, TN (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM34100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Morristown, TN (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY34100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Morristown, TN (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY34100          | Housing Inventory: Median Listing Price Year-Over-Year in Morristown, TN (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEE34100            | Housing Inventory: Median Home Size in Square Feet in Morristown, TN (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM34100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Morristown, TN (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY34100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Morristown, TN (CBSA)                      | 2017-07-01          | 2022-04-01        |
 | MORR147EDUH               | All Employees: Education and Health Services in Morristown, TN (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | MORR147EDUHN              | All Employees: Education and Health Services in Morristown, TN (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | MORR147FIRE               | All Employees: Financial Activities in Morristown, TN (MSA)                                                     | 1990-01-01          | 2022-03-01        |
@@ -65,20 +65,20 @@
 | MORR147UR                 | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MORR147URN                | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MRTPOP                    | Resident Population in Morristown, TN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| NEWLISCOU34100            | Housing Inventory: New Listing Count in Morristown, TN (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM34100          | Housing Inventory: New Listing Count Month-Over-Month in Morristown, TN (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY34100          | Housing Inventory: New Listing Count Year-Over-Year in Morristown, TN (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| NEWLISCOU34100            | Housing Inventory: New Listing Count in Morristown, TN (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM34100          | Housing Inventory: New Listing Count Month-Over-Month in Morristown, TN (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY34100          | Housing Inventory: New Listing Count Year-Over-Year in Morristown, TN (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP34100                 | Total Gross Domestic Product for Morristown, TN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA134100          | U.S. Granted Utility Patents Originating in Morristown, TN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU34100            | Housing Inventory: Pending Listing Count in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM34100          | Housing Inventory: Pending Listing Count Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY34100          | Housing Inventory: Pending Listing Count Year-Over-Year in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU34100            | Housing Inventory: Price Increased Count in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM34100          | Housing Inventory: Price Increased Count Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-02-01        |
-| PRIINCCOUYY34100          | Housing Inventory: Price Increased Count Year-Over-Year in Morristown, TN (CBSA)                                | 2017-08-01          | 2022-03-01        |
-| PRIREDCOU34100            | Housing Inventory: Price Reduced Count in Morristown, TN (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM34100          | Housing Inventory: Price Reduced Count Month-Over-Month in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY34100          | Housing Inventory: Price Reduced Count Year-Over-Year in Morristown, TN (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU34100            | Housing Inventory: Pending Listing Count in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM34100          | Housing Inventory: Pending Listing Count Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY34100          | Housing Inventory: Pending Listing Count Year-Over-Year in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU34100            | Housing Inventory: Price Increased Count in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM34100          | Housing Inventory: Price Increased Count Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY34100          | Housing Inventory: Price Increased Count Year-Over-Year in Morristown, TN (CBSA)                                | 2017-08-01          | 2022-04-01        |
+| PRIREDCOU34100            | Housing Inventory: Price Reduced Count in Morristown, TN (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM34100          | Housing Inventory: Price Reduced Count Month-Over-Month in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY34100          | Housing Inventory: Price Reduced Count Year-Over-Year in Morristown, TN (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP34100                 | Total Quantity Indexes for Real GDP for Morristown, TN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP34100                 | Total Real Gross Domestic Product for Morristown, TN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI34100                  | Real Personal Income for Morristown, TN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

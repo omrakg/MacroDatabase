@@ -26,12 +26,12 @@
 | HBFIGDQ188S        | Federal Debt Held by Foreign and International Investors as Percent of Gross Domestic Product | 1970-01-01          | 2021-10-01        |
 | HBFRGDQ188S        | Federal Debt Held by Federal Reserve Banks as Percent of Gross Domestic Product               | 1970-01-01          | 2021-10-01        |
 | HBPIGDQ188S        | Federal Debt Held by Private Investors as Percent of Gross Domestic Product                   | 1970-01-01          | 2021-10-01        |
-| MTSDS133FMS        | Federal Surplus or Deficit [-]                                                                | 1980-10-01          | 2022-03-01        |
-| MTSMFBOM133FMS     | Means of Financing: by Other Means                                                            | 2010-01-01          | 2022-03-01        |
-| MTSMFBP133FMS      | Means of Financing: Borrowing from the Public                                                 | 2010-01-01          | 2022-03-01        |
-| MTSMFROC133FMS     | Means of Financing: Reduction of Operating Cash, Increase (-)                                 | 2010-01-01          | 2022-03-01        |
-| MTSO133FMS         | Total Federal Outlays                                                                         | 1980-10-01          | 2022-03-01        |
-| MTSR133FMS         | Total Federal Receipts                                                                        | 1980-10-01          | 2022-03-01        |
-| MVGFD027MNFRBDAL   | Market Value of Gross Federal Debt                                                            | 1942-01-01          | 2022-02-01        |
-| MVMTD027MNFRBDAL   | Market Value of Marketable Treasury Debt                                                      | 1942-01-01          | 2022-02-01        |
-| MVPHGFD027MNFRBDAL | Market Value of Privately Held Gross Federal Debt                                             | 1942-01-01          | 2022-02-01        |
+| MTSDS133FMS        | Federal Surplus or Deficit [-]                                                                | 1980-10-01          | 2022-04-01        |
+| MTSMFBOM133FMS     | Means of Financing: by Other Means                                                            | 2010-01-01          | 2022-04-01        |
+| MTSMFBP133FMS      | Means of Financing: Borrowing from the Public                                                 | 2010-01-01          | 2022-04-01        |
+| MTSMFROC133FMS     | Means of Financing: Reduction of Operating Cash, Increase (-)                                 | 2010-01-01          | 2022-04-01        |
+| MTSO133FMS         | Total Federal Outlays                                                                         | 1980-10-01          | 2022-04-01        |
+| MTSR133FMS         | Total Federal Receipts                                                                        | 1980-10-01          | 2022-04-01        |
+| MVGFD027MNFRBDAL   | Market Value of Gross Federal Debt                                                            | 1942-01-01          | 2022-04-01        |
+| MVMTD027MNFRBDAL   | Market Value of Marketable Treasury Debt                                                      | 1942-01-01          | 2022-04-01        |
+| MVPHGFD027MNFRBDAL | Market Value of Privately Held Gross Federal Debt                                             | 1942-01-01          | 2022-04-01        |

@@ -1,7 +1,12 @@
-| id            | title                                                                                           | observation_start   | observation_end   |
-|---------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CNERHICCOVER  | Health Insurance Coverage: People Covered in the Northeast Census Region (DISCONTINUED)         | 1999-01-01          | 2012-01-01        |
-| CNERHICCOVPCT | Health Insurance Coverage: Coverage Rate in the Northeast Census Region (DISCONTINUED)          | 1999-01-01          | 2012-01-01        |
-| CNERHICNCPCT  | Health Insurance Coverage: Uncovered Rate in the Northeast Census Region (DISCONTINUED)         | 1999-01-01          | 2012-01-01        |
-| CNERHICNOTCOV | Health Insurance Coverage: People Not Covered in the Northeast Census Region (DISCONTINUED)     | 1999-01-01          | 2012-01-01        |
-| CNERHICTOTAL  | Health Insurance Coverage: Total Number of People in the Northeast Census Region (DISCONTINUED) | 1999-01-01          | 2012-01-01        |
+| id           | title                                                                                                                         | observation_start   | observation_end   |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| MORTGAGE1NE  | 1-Year Adjustable Rate Mortgage Average in the Northeast Freddie Mac Region (DISCONTINUED)                                    | 1986-04-04          | 2015-12-31        |
+| MORTGAGE5NE  | 5/1-Year Adjustable Rate Mortgage Average in the Northeast Freddie Mac Region (DISCONTINUED)                                  | 2005-01-06          | 2015-12-31        |
+| MORTGAGE15NE | 15-Year Fixed Rate Mortgage Average in the Northeast Freddie Mac Region (DISCONTINUED)                                        | 1991-08-30          | 2015-12-31        |
+| MORTGAGE30NE | 30-Year Fixed Rate Mortgage Average in the Northeast Freddie Mac Region (DISCONTINUED)                                        | 1976-03-26          | 2015-12-31        |
+| MORTMRGN1NE  | Margin for 1-Year Adjustable Rate Mortgage in the Northeast Freddie Mac Region (DISCONTINUED)                                 | 1988-02-19          | 2015-12-31        |
+| MORTMRGN5NE  | Margin for 5/1-Year Adjustable Rate Mortgage in the Northeast Freddie Mac Region (DISCONTINUED)                               | 2005-01-06          | 2015-12-31        |
+| MORTPTS1NE   | Origination Fees and Discount Points for 1-Year Adjustable Rate Mortgage in the Northeast Freddie Mac Region (DISCONTINUED)   | 1986-04-04          | 2015-12-31        |
+| MORTPTS5NE   | Origination Fees and Discount Points for 5/1-Year Adjustable Rate Mortgage in the Northeast Freddie Mac Region (DISCONTINUED) | 2005-01-06          | 2015-12-31        |
+| MORTPTS15NE  | Origination Fees and Discount Points for 15-Year Fixed Rate Mortgage in the Northeast Freddie Mac Region (DISCONTINUED)       | 1991-08-30          | 2015-12-31        |
+| MORTPTS30NE  | Origination Fees and Discount Points for 30-Year Fixed Rate Mortgage in the Northeast Freddie Mac Region (DISCONTINUED)       | 1976-03-26          | 2015-12-31        |

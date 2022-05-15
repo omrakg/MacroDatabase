@@ -1,16 +1,2 @@
-| id              | title                                                                                                                          | observation_start   | observation_end   |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| A120RC1A027NBEA | Current receipts from the rest of the world (DISCONTINUED)                                                                     | 1929-01-01          | 2014-01-01        |
-| A120RC1Q027SBEA | Current receipts from the rest of the world (DISCONTINUED)                                                                     | 1947-01-01          | 2015-01-01        |
-| A1627C0A144NBEA | Net interest (paid and received): Rest of the world (DISCONTINUED)                                                             | 1929-01-01          | 2016-01-01        |
-| A2030C1A027NBEA | Balance on goods and services and income, International Transactions Accounts (DISCONTINUED)                                   | 1946-01-01          | 1985-01-01        |
-| A2035C1A027NBEA | Balance on current account, International Transactions Accounts (DISCONTINUED)                                                 | 1946-01-01          | 1985-01-01        |
-| A2067C0A144NBEA | Current receipts from the rest of the world: Income receipts on assets: Interest (DISCONTINUED)                                | 1946-01-01          | 2016-01-01        |
-| B1098C1A027NBEA | Unilateral current transfers, net: Statistical differences, International Transactions Accounts vs. NIPAs (DISCONTINUED)       | 1946-01-01          | 1985-01-01        |
-| B1133C1A027NBEA | Monetary interest paid: Rest of the world: to federal government (DISCONTINUED)                                                | 1946-01-01          | 2012-01-01        |
-| B1261C1A027NBEA | Balance on statistical differences, International Transactions Accounts vs. NIPAs (DISCONTINUED)                               | 1986-01-01          | 2013-01-01        |
-| B1262C1A027NBEA | Balance on goods and services and income: Other adjustment items, International Transactions Accounts vs. NIPAs (DISCONTINUED) | 1986-01-01          | 2013-01-01        |
-| B1263C1A027NBEA | Balance on adjustment for U.S. territories and Puerto Rico, International Transactions Accounts vs. NIPAs (DISCONTINUED)       | 1986-01-01          | 2013-01-01        |
-| B1266C1A027NBEA | Balance on current account: Statistical differences, International Transactions Accounts vs. NIPAs (DISCONTINUED)              | 1986-01-01          | 2013-01-01        |
-| B1267C1A027NBEA | Balance on current account: Other adjustment items, International Transactions Accounts vs. NIPAs (DISCONTINUED)               | 1986-01-01          | 2013-01-01        |
-| B1268C1A027NBEA | Balance on current account: Adjustment for U.S. territories and Puerto Rico (DISCONTINUED)                                     | 1986-01-01          | 2013-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

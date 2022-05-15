@@ -1,13 +1,13 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU33860            | Housing Inventory: Active Listing Count in Montgomery, AL (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM33860          | Housing Inventory: Active Listing Count Month-Over-Month in Montgomery, AL (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY33860          | Housing Inventory: Active Listing Count Year-Over-Year in Montgomery, AL (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU33860            | Housing Inventory: Active Listing Count in Montgomery, AL (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM33860          | Housing Inventory: Active Listing Count Month-Over-Month in Montgomery, AL (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY33860          | Housing Inventory: Active Listing Count Year-Over-Year in Montgomery, AL (CBSA)                                 | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS33860Q            | All-Transactions House Price Index for Montgomery, AL (MSA)                                                     | 1986-01-01          | 2021-10-01        |
-| AVELISPRI33860            | Housing Inventory: Average Listing Price in Montgomery, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM33860          | Housing Inventory: Average Listing Price Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY33860          | Housing Inventory: Average Listing Price Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| DESCMSA33860              | Market Hotness: Demand Score in Montgomery, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| AVELISPRI33860            | Housing Inventory: Average Listing Price in Montgomery, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM33860          | Housing Inventory: Average Listing Price Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY33860          | Housing Inventory: Average Listing Price Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| DESCMSA33860              | Market Hotness: Demand Score in Montgomery, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC338630010             | Total Quarterly Wages in Montgomery, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC338630010SA           | Total Quarterly Wages in Montgomery, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC338640010             | Average Weekly Wages for Employees in Total Covered Establishments in Montgomery, AL (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -20,10 +20,10 @@
 | ENUC338640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC338640510             | Average Weekly Wages for Employees in Private Establishments in Montgomery, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC338640510SA           | Average Weekly Wages for Employees in Private Establishments in Montgomery, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA33860            | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA33860              | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA33860            | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA33860              | Market Hotness: Hotness Score in Montgomery, AL (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA33860            | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA33860              | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA33860            | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA33860              | Market Hotness: Hotness Score in Montgomery, AL (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IRPD33860                 | Implicit Regional Price Deflator for Montgomery, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT013386000000003A     | Unemployment Rate in Montgomery, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT013386000000004      | Unemployed Persons in Montgomery, AL (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
@@ -31,31 +31,31 @@
 | LAUMT013386000000005      | Employed Persons in Montgomery, AL (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT013386000000005A     | Employed Persons in Montgomery, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT013386000000006A     | Civilian Labor Force in Montgomery, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA33860          | Market Hotness: Listing Views per Property in Montgomery, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA33860        | Market Hotness: Listing Views per Property Versus the United States in Montgomery, AL (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA33860          | Market Hotness: Listing Views per Property in Montgomery, AL (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA33860        | Market Hotness: Median Days on Market in Montgomery, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA33860          | Market Hotness: Median Days on Market in Montgomery, AL (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA33860        | Market Hotness: Median Days on Market in Montgomery, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR33860          | Housing Inventory: Median Days on Market in Montgomery, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM33860        | Housing Inventory: Median Days on Market Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY33860        | Housing Inventory: Median Days on Market Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI33860            | Housing Inventory: Median Listing Price in Montgomery, AL (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM33860          | Housing Inventory: Median Listing Price Month-Over-Month in Montgomery, AL (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE33860   | Housing Inventory: Median Listing Price per Square Feet in Montgomery, AL (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM33860 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Montgomery, AL (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY33860 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Montgomery, AL (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY33860          | Housing Inventory: Median Listing Price Year-Over-Year in Montgomery, AL (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA33860          | Market Hotness: Median Days on Market in Montgomery, AL (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA33860          | Market Hotness: Median Days on Market Versus the United States in Montgomery, AL (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA33860          | Market Hotness: Median Days on Market Day in Montgomery, AL (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE33860            | Housing Inventory: Median Home Size in Square Feet in Montgomery, AL (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM33860          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Montgomery, AL (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY33860          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Montgomery, AL (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA33860          | Market Hotness: Median Listing Price in Montgomery, AL (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA33860            | Market Hotness: Median Listing Price in Montgomery, AL (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA33860        | Market Hotness: Median Listing Price Versus the United States in Montgomery, AL (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA33860          | Market Hotness: Median Listing Price in Montgomery, AL (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
+| LDPEPRMMMSA33860          | Market Hotness: Listing Views per Property in Montgomery, AL (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA33860        | Market Hotness: Listing Views per Property Versus the United States in Montgomery, AL (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA33860          | Market Hotness: Listing Views per Property in Montgomery, AL (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA33860        | Market Hotness: Median Days on Market in Montgomery, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA33860          | Market Hotness: Median Days on Market in Montgomery, AL (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA33860        | Market Hotness: Median Days on Market in Montgomery, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR33860          | Housing Inventory: Median Days on Market in Montgomery, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM33860        | Housing Inventory: Median Days on Market Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY33860        | Housing Inventory: Median Days on Market Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI33860            | Housing Inventory: Median Listing Price in Montgomery, AL (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM33860          | Housing Inventory: Median Listing Price Month-Over-Month in Montgomery, AL (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE33860   | Housing Inventory: Median Listing Price per Square Feet in Montgomery, AL (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM33860 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Montgomery, AL (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY33860 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Montgomery, AL (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY33860          | Housing Inventory: Median Listing Price Year-Over-Year in Montgomery, AL (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA33860          | Market Hotness: Median Days on Market in Montgomery, AL (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA33860          | Market Hotness: Median Days on Market Versus the United States in Montgomery, AL (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA33860          | Market Hotness: Median Days on Market Day in Montgomery, AL (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE33860            | Housing Inventory: Median Home Size in Square Feet in Montgomery, AL (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM33860          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Montgomery, AL (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY33860          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Montgomery, AL (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA33860          | Market Hotness: Median Listing Price in Montgomery, AL (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA33860            | Market Hotness: Median Listing Price in Montgomery, AL (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA33860        | Market Hotness: Median Listing Price Versus the United States in Montgomery, AL (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA33860          | Market Hotness: Median Listing Price in Montgomery, AL (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
 | MONPOP                    | Resident Population in Montgomery, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | MONT801EDUH               | All Employees: Education and Health Services in Montgomery, AL (MSA)                                            | 1990-01-01          | 2022-03-01        |
 | MONT801EDUHN              | All Employees: Education and Health Services in Montgomery, AL (MSA)                                            | 1990-01-01          | 2022-03-01        |
@@ -84,21 +84,21 @@
 | MONT801TRADN              | All Employees: Trade, Transportation, and Utilities in Montgomery, AL (MSA)                                     | 1990-01-01          | 2022-03-01        |
 | MONT801UR                 | Unemployment Rate in Montgomery, AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | MONT801URN                | Unemployment Rate in Montgomery, AL (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
-| NEWLISCOU33860            | Housing Inventory: New Listing Count in Montgomery, AL (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM33860          | Housing Inventory: New Listing Count Month-Over-Month in Montgomery, AL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY33860          | Housing Inventory: New Listing Count Year-Over-Year in Montgomery, AL (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| NEWLISCOU33860            | Housing Inventory: New Listing Count in Montgomery, AL (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM33860          | Housing Inventory: New Listing Count Month-Over-Month in Montgomery, AL (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY33860          | Housing Inventory: New Listing Count Year-Over-Year in Montgomery, AL (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP33860                 | Total Gross Domestic Product for Montgomery, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA33860            | Market Hotness: Nielsen Household Rank in Montgomery, AL (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA33860            | Market Hotness: Nielsen Household Rank in Montgomery, AL (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA133860          | U.S. Granted Utility Patents Originating in Montgomery, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU33860            | Housing Inventory: Pending Listing Count in Montgomery, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM33860          | Housing Inventory: Pending Listing Count Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY33860          | Housing Inventory: Pending Listing Count Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU33860            | Housing Inventory: Price Increased Count in Montgomery, AL (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM33860          | Housing Inventory: Price Increased Count Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY33860          | Housing Inventory: Price Increased Count Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU33860            | Housing Inventory: Price Reduced Count in Montgomery, AL (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM33860          | Housing Inventory: Price Reduced Count Month-Over-Month in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY33860          | Housing Inventory: Price Reduced Count Year-Over-Year in Montgomery, AL (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU33860            | Housing Inventory: Pending Listing Count in Montgomery, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM33860          | Housing Inventory: Pending Listing Count Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY33860          | Housing Inventory: Pending Listing Count Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU33860            | Housing Inventory: Price Increased Count in Montgomery, AL (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM33860          | Housing Inventory: Price Increased Count Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY33860          | Housing Inventory: Price Increased Count Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU33860            | Housing Inventory: Price Reduced Count in Montgomery, AL (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM33860          | Housing Inventory: Price Reduced Count Month-Over-Month in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY33860          | Housing Inventory: Price Reduced Count Year-Over-Year in Montgomery, AL (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP33860                 | Total Quantity Indexes for Real GDP for Montgomery, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP33860                 | Total Real Gross Domestic Product for Montgomery, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI33860                  | Real Personal Income for Montgomery, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -167,4 +167,4 @@
 | SMU01338609093000001      | All Employees: Government: Local Government in Montgomery, AL (MSA)                                             | 1990-01-01          | 2022-03-01        |
 | SMU01338609093000001A     | All Employees: Local Government in Montgomery, AL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU01338609093000001SA    | All Employees: Government: Local Government in Montgomery, AL (MSA)                                             | 1990-01-01          | 2022-03-01        |
-| SUSCMSA33860              | Market Hotness: Supply Score in Montgomery, AL (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA33860              | Market Hotness: Supply Score in Montgomery, AL (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

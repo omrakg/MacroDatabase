@@ -1,0 +1,6 @@
+| id                     | title                                                                                                                   | observation_start   | observation_end   |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ATNHPIUS35644Q         | All-Transactions House Price Index for New York-White Plains-Wayne, NY-NJ (MSAD) (DISCONTINUED)                         | 1975-10-01          | 2013-01-01        |
+| SMU36356140500000002SA | Average Weekly Hours of All Employees: Total Private in New York-Jersey City-White Plains, NY-NJ (MD) (DISCONTINUED)    | 2011-01-01          | 2022-03-01        |
+| SMU36356140500000003SA | Average Hourly Earnings of All Employees: Total Private in New York-Jersey City-White Plains, NY-NJ (MD) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
+| SMU36356140500000011SA | Average Weekly Earnings of All Employees: Total Private in New York-Jersey City-White Plains, NY-NJ (MD) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |

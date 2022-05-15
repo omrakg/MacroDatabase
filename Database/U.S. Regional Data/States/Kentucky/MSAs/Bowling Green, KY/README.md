@@ -1,12 +1,12 @@
 | id                        | title                                                                                                | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU14540            | Housing Inventory: Active Listing Count in Bowling Green, KY (CBSA)                                  | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM14540          | Housing Inventory: Active Listing Count Month-Over-Month in Bowling Green, KY (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY14540          | Housing Inventory: Active Listing Count Year-Over-Year in Bowling Green, KY (CBSA)                   | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU14540            | Housing Inventory: Active Listing Count in Bowling Green, KY (CBSA)                                  | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM14540          | Housing Inventory: Active Listing Count Month-Over-Month in Bowling Green, KY (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY14540          | Housing Inventory: Active Listing Count Year-Over-Year in Bowling Green, KY (CBSA)                   | 2017-07-01          | 2022-04-01        |
 | ATNHPIUS14540Q            | All-Transactions House Price Index for Bowling Green, KY (MSA)                                       | 1986-10-01          | 2021-10-01        |
-| AVELISPRI14540            | Housing Inventory: Average Listing Price in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM14540          | Housing Inventory: Average Listing Price Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY14540          | Housing Inventory: Average Listing Price Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-03-01        |
+| AVELISPRI14540            | Housing Inventory: Average Listing Price in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM14540          | Housing Inventory: Average Listing Price Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY14540          | Housing Inventory: Average Listing Price Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-04-01        |
 | BOWEDUH                   | All Employees: Education and Health Services in Bowling Green, KY (MSA)                              | 1990-01-01          | 2022-03-01        |
 | BOWEDUHN                  | All Employees: Education and Health Services in Bowling Green, KY (MSA)                              | 1990-01-01          | 2022-03-01        |
 | BOWGOVT                   | All Employees: Government in Bowling Green, KY (MSA)                                                 | 1990-01-01          | 2022-03-01        |
@@ -29,7 +29,7 @@
 | BOWTRADN                  | All Employees: Trade, Transportation, and Utilities in Bowling Green, KY (MSA)                       | 1990-01-01          | 2022-03-01        |
 | BOWUR                     | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-03-01        |
 | BOWURN                    | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-03-01        |
-| DESCMSA14540              | Market Hotness: Demand Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-03-01        |
+| DESCMSA14540              | Market Hotness: Demand Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-04-01        |
 | ENUC145430010             | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2021-07-01        |
 | ENUC145430010SA           | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2021-07-01        |
 | ENUC145440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2021-07-01        |
@@ -42,10 +42,10 @@
 | ENUC145440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2021-07-01        |
 | ENUC145440510             | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC145440510SA           | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA14540            | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| HORAMSA14540              | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA14540            | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| HOSCMSA14540              | Market Hotness: Hotness Score in Bowling Green, KY (CBSA)                                            | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA14540            | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| HORAMSA14540              | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA14540            | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| HOSCMSA14540              | Market Hotness: Hotness Score in Bowling Green, KY (CBSA)                                            | 2017-08-01          | 2022-04-01        |
 | IRPD14540                 | Implicit Regional Price Deflator for Bowling Green, KY (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT211454000000003A     | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT211454000000004      | Unemployed Persons in Bowling Green, KY (MSA)                                                        | 1990-01-01          | 2022-03-01        |
@@ -53,46 +53,46 @@
 | LAUMT211454000000005      | Employed Persons in Bowling Green, KY (MSA)                                                          | 1990-01-01          | 2022-03-01        |
 | LAUMT211454000000005A     | Employed Persons in Bowling Green, KY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT211454000000006A     | Civilian Labor Force in Bowling Green, KY (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA14540          | Market Hotness: Listing Views per Property in Bowling Green, KY (CBSA)                               | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA14540        | Market Hotness: Listing Views per Property Versus the United States in Bowling Green, KY (CBSA)      | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA14540          | Market Hotness: Listing Views per Property in Bowling Green, KY (CBSA)                               | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA14540        | Market Hotness: Median Days on Market in Bowling Green, KY (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA14540          | Market Hotness: Median Days on Market in Bowling Green, KY (CBSA)                                    | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA14540        | Market Hotness: Median Days on Market in Bowling Green, KY (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR14540          | Housing Inventory: Median Days on Market in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM14540        | Housing Inventory: Median Days on Market Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY14540        | Housing Inventory: Median Days on Market Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI14540            | Housing Inventory: Median Listing Price in Bowling Green, KY (CBSA)                                  | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM14540          | Housing Inventory: Median Listing Price Month-Over-Month in Bowling Green, KY (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE14540   | Housing Inventory: Median Listing Price per Square Feet in Bowling Green, KY (CBSA)                  | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM14540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bowling Green, KY (CBSA) | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY14540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bowling Green, KY (CBSA)   | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY14540          | Housing Inventory: Median Listing Price Year-Over-Year in Bowling Green, KY (CBSA)                   | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA14540          | Market Hotness: Median Days on Market in Bowling Green, KY (CBSA)                                    | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA14540          | Market Hotness: Median Days on Market Versus the United States in Bowling Green, KY (CBSA)           | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA14540          | Market Hotness: Median Days on Market Day in Bowling Green, KY (CBSA)                                | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE14540            | Housing Inventory: Median Home Size in Square Feet in Bowling Green, KY (CBSA)                       | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM14540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bowling Green, KY (CBSA)      | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY14540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bowling Green, KY (CBSA)        | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA14540          | Market Hotness: Median Listing Price in Bowling Green, KY (CBSA)                                     | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA14540            | Market Hotness: Median Listing Price in Bowling Green, KY (CBSA)                                     | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA14540        | Market Hotness: Median Listing Price Versus the United States in Bowling Green, KY (CBSA)            | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA14540          | Market Hotness: Median Listing Price in Bowling Green, KY (CBSA)                                     | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU14540            | Housing Inventory: New Listing Count in Bowling Green, KY (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM14540          | Housing Inventory: New Listing Count Month-Over-Month in Bowling Green, KY (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY14540          | Housing Inventory: New Listing Count Year-Over-Year in Bowling Green, KY (CBSA)                      | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA14540          | Market Hotness: Listing Views per Property in Bowling Green, KY (CBSA)                               | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA14540        | Market Hotness: Listing Views per Property Versus the United States in Bowling Green, KY (CBSA)      | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA14540          | Market Hotness: Listing Views per Property in Bowling Green, KY (CBSA)                               | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA14540        | Market Hotness: Median Days on Market in Bowling Green, KY (CBSA)                                    | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA14540          | Market Hotness: Median Days on Market in Bowling Green, KY (CBSA)                                    | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA14540        | Market Hotness: Median Days on Market in Bowling Green, KY (CBSA)                                    | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR14540          | Housing Inventory: Median Days on Market in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM14540        | Housing Inventory: Median Days on Market Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY14540        | Housing Inventory: Median Days on Market Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI14540            | Housing Inventory: Median Listing Price in Bowling Green, KY (CBSA)                                  | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM14540          | Housing Inventory: Median Listing Price Month-Over-Month in Bowling Green, KY (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE14540   | Housing Inventory: Median Listing Price per Square Feet in Bowling Green, KY (CBSA)                  | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM14540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bowling Green, KY (CBSA) | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY14540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bowling Green, KY (CBSA)   | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY14540          | Housing Inventory: Median Listing Price Year-Over-Year in Bowling Green, KY (CBSA)                   | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA14540          | Market Hotness: Median Days on Market in Bowling Green, KY (CBSA)                                    | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA14540          | Market Hotness: Median Days on Market Versus the United States in Bowling Green, KY (CBSA)           | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA14540          | Market Hotness: Median Days on Market Day in Bowling Green, KY (CBSA)                                | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE14540            | Housing Inventory: Median Home Size in Square Feet in Bowling Green, KY (CBSA)                       | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM14540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bowling Green, KY (CBSA)      | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY14540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bowling Green, KY (CBSA)        | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA14540          | Market Hotness: Median Listing Price in Bowling Green, KY (CBSA)                                     | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA14540            | Market Hotness: Median Listing Price in Bowling Green, KY (CBSA)                                     | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA14540        | Market Hotness: Median Listing Price Versus the United States in Bowling Green, KY (CBSA)            | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA14540          | Market Hotness: Median Listing Price in Bowling Green, KY (CBSA)                                     | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU14540            | Housing Inventory: New Listing Count in Bowling Green, KY (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM14540          | Housing Inventory: New Listing Count Month-Over-Month in Bowling Green, KY (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY14540          | Housing Inventory: New Listing Count Year-Over-Year in Bowling Green, KY (CBSA)                      | 2017-07-01          | 2022-04-01        |
 | NGMP14540                 | Total Gross Domestic Product for Bowling Green, KY (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA14540            | Market Hotness: Nielsen Household Rank in Bowling Green, KY (CBSA)                                   | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA14540            | Market Hotness: Nielsen Household Rank in Bowling Green, KY (CBSA)                                   | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA114540          | U.S. Granted Utility Patents Originating in Bowling Green, KY (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU14540            | Housing Inventory: Pending Listing Count in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM14540          | Housing Inventory: Pending Listing Count Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY14540          | Housing Inventory: Pending Listing Count Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU14540            | Housing Inventory: Price Increased Count in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM14540          | Housing Inventory: Price Increased Count Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY14540          | Housing Inventory: Price Increased Count Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-08-01          | 2022-03-01        |
-| PRIREDCOU14540            | Housing Inventory: Price Reduced Count in Bowling Green, KY (CBSA)                                   | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM14540          | Housing Inventory: Price Reduced Count Month-Over-Month in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY14540          | Housing Inventory: Price Reduced Count Year-Over-Year in Bowling Green, KY (CBSA)                    | 2017-07-01          | 2022-03-01        |
+| PENLISCOU14540            | Housing Inventory: Pending Listing Count in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM14540          | Housing Inventory: Pending Listing Count Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY14540          | Housing Inventory: Pending Listing Count Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU14540            | Housing Inventory: Price Increased Count in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM14540          | Housing Inventory: Price Increased Count Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY14540          | Housing Inventory: Price Increased Count Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-08-01          | 2022-04-01        |
+| PRIREDCOU14540            | Housing Inventory: Price Reduced Count in Bowling Green, KY (CBSA)                                   | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM14540          | Housing Inventory: Price Reduced Count Month-Over-Month in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY14540          | Housing Inventory: Price Reduced Count Year-Over-Year in Bowling Green, KY (CBSA)                    | 2017-07-01          | 2022-04-01        |
 | QGMP14540                 | Total Quantity Indexes for Real GDP for Bowling Green, KY (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP14540                 | Total Real Gross Domestic Product for Bowling Green, KY (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI14540                  | Real Personal Income for Bowling Green, KY (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -141,4 +141,4 @@
 | SMU21145409093000001      | All Employees: Government: Local Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-03-01        |
 | SMU21145409093000001A     | All Employees: Local Government in Bowling Green, KY (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU21145409093000001SA    | All Employees: Government: Local Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-03-01        |
-| SUSCMSA14540              | Market Hotness: Supply Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-03-01        |
+| SUSCMSA14540              | Market Hotness: Supply Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-04-01        |

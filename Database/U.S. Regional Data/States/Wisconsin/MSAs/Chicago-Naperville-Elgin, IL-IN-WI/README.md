@@ -1,11 +1,11 @@
 | id                        | title                                                                                                                               | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU16980            | Housing Inventory: Active Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| ACTLISCOUMM16980          | Housing Inventory: Active Listing Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| ACTLISCOUYY16980          | Housing Inventory: Active Listing Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| AVELISPRI16980            | Housing Inventory: Average Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| AVELISPRIMM16980          | Housing Inventory: Average Listing Price Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| AVELISPRIYY16980          | Housing Inventory: Average Listing Price Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| ACTLISCOU16980            | Housing Inventory: Active Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| ACTLISCOUMM16980          | Housing Inventory: Active Listing Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| ACTLISCOUYY16980          | Housing Inventory: Active Listing Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| AVELISPRI16980            | Housing Inventory: Average Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| AVELISPRIMM16980          | Housing Inventory: Average Listing Price Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| AVELISPRIYY16980          | Housing Inventory: Average Listing Price Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
 | CHIC917BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Chicago-Naperville-Elgin, IL-IN-WI (MSA)            | 1988-01-01          | 2022-03-01        |
 | CHIC917BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Chicago-Naperville-Elgin, IL-IN-WI (MSA)            | 1988-01-01          | 2022-03-01        |
 | CHIC917BPPRIV             | New Private Housing Structures Authorized by Building Permits for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                          | 1988-01-01          | 2022-03-01        |
@@ -46,7 +46,7 @@
 | CHXRMTNSA                 | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2022-02-01        |
 | CHXRMTSA                  | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2022-02-01        |
 | CHXRPSNSA                 | Home Price Sales Pair Counts for Chicago, Illinois                                                                                  | 1987-01-01          | 2022-02-01        |
-| DESCMSA16980              | Market Hotness: Demand Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| DESCMSA16980              | Market Hotness: Demand Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
 | ENUC169830010             | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC169830010SA           | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC169840010             | Average Weekly Wages for Employees in Total Covered Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                     | 1990-01-01          | 2021-07-01        |
@@ -59,10 +59,10 @@
 | ENUC169840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2021-07-01        |
 | ENUC169840510             | Average Weekly Wages for Employees in Private Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                           | 1990-01-01          | 2021-07-01        |
 | ENUC169840510SA           | Average Weekly Wages for Employees in Private Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                           | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA16980            | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HORAMSA16980              | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
-| HORAYYMSA16980            | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
-| HOSCMSA16980              | Market Hotness: Hotness Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| HORAMMMSA16980            | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HORAMSA16980              | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| HORAYYMSA16980            | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
+| HOSCMSA16980              | Market Hotness: Hotness Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
 | IHLCHG16980               | Job Postings on Indeed in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                  | 2020-02-01          | 2022-04-29        |
 | IRPD16980                 | Implicit Regional Price Deflator for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171698000000003A     | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
@@ -71,46 +71,46 @@
 | LAUMT171698000000005      | Employed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
 | LAUMT171698000000005A     | Employed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT171698000000006A     | Civilian Labor Force in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA16980          | Market Hotness: Listing Views per Property in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| LDPEPRVSUSMSA16980        | Market Hotness: Listing Views per Property Versus the United States in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                    | 2017-08-01          | 2022-03-01        |
-| LDPEPRYYMSA16980          | Market Hotness: Listing Views per Property in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMMMSA16980        | Market Hotness: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDAONMAMSA16980          | Market Hotness: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
-| MEDAONMAYYMSA16980        | Market Hotness: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDDAYONMAR16980          | Housing Inventory: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| MEDDAYONMARMM16980        | Housing Inventory: Median Days on Market Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| MEDDAYONMARYY16980        | Housing Inventory: Median Days on Market Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| MEDLISPRI16980            | Housing Inventory: Median Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIMM16980          | Housing Inventory: Median Listing Price Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEE16980   | Housing Inventory: Median Listing Price per Square Feet in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2016-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEMM16980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)               | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIPERSQUFEEYY16980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                 | 2017-07-01          | 2022-03-01        |
-| MEDLISPRIYY16980          | Housing Inventory: Median Listing Price Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
-| MEDOMMDAMSA16980          | Market Hotness: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
-| MEDOVSUSMSA16980          | Market Hotness: Median Days on Market Versus the United States in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                         | 2017-08-01          | 2022-03-01        |
-| MEDOYYDAMSA16980          | Market Hotness: Median Days on Market Day in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                              | 2018-08-01          | 2022-03-01        |
-| MEDSQUFEE16980            | Housing Inventory: Median Home Size in Square Feet in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                     | 2016-07-01          | 2022-03-01        |
-| MEDSQUFEEMM16980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                    | 2017-07-01          | 2022-03-01        |
-| MEDSQUFEEYY16980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                      | 2017-07-01          | 2022-03-01        |
-| MELIPRMMMSA16980          | Market Hotness: Median Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| MELIPRMSA16980            | Market Hotness: Median Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
-| MELIPRVSUSMSA16980        | Market Hotness: Median Listing Price Versus the United States in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                          | 2017-08-01          | 2022-03-01        |
-| MELIPRYYMSA16980          | Market Hotness: Median Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
-| NEWLISCOU16980            | Housing Inventory: New Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
-| NEWLISCOUMM16980          | Housing Inventory: New Listing Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
-| NEWLISCOUYY16980          | Housing Inventory: New Listing Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| LDPEPRMMMSA16980          | Market Hotness: Listing Views per Property in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| LDPEPRVSUSMSA16980        | Market Hotness: Listing Views per Property Versus the United States in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                    | 2017-08-01          | 2022-04-01        |
+| LDPEPRYYMSA16980          | Market Hotness: Listing Views per Property in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMMMSA16980        | Market Hotness: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDAONMAMSA16980          | Market Hotness: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
+| MEDAONMAYYMSA16980        | Market Hotness: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDDAYONMAR16980          | Housing Inventory: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| MEDDAYONMARMM16980        | Housing Inventory: Median Days on Market Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| MEDDAYONMARYY16980        | Housing Inventory: Median Days on Market Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| MEDLISPRI16980            | Housing Inventory: Median Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIMM16980          | Housing Inventory: Median Listing Price Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEE16980   | Housing Inventory: Median Listing Price per Square Feet in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2016-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEMM16980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)               | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIPERSQUFEEYY16980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                 | 2017-07-01          | 2022-04-01        |
+| MEDLISPRIYY16980          | Housing Inventory: Median Listing Price Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
+| MEDOMMDAMSA16980          | Market Hotness: Median Days on Market in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
+| MEDOVSUSMSA16980          | Market Hotness: Median Days on Market Versus the United States in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                         | 2017-08-01          | 2022-04-01        |
+| MEDOYYDAMSA16980          | Market Hotness: Median Days on Market Day in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                              | 2018-08-01          | 2022-04-01        |
+| MEDSQUFEE16980            | Housing Inventory: Median Home Size in Square Feet in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                     | 2016-07-01          | 2022-04-01        |
+| MEDSQUFEEMM16980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| MEDSQUFEEYY16980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| MELIPRMMMSA16980          | Market Hotness: Median Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| MELIPRMSA16980            | Market Hotness: Median Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
+| MELIPRVSUSMSA16980        | Market Hotness: Median Listing Price Versus the United States in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                          | 2017-08-01          | 2022-04-01        |
+| MELIPRYYMSA16980          | Market Hotness: Median Listing Price in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
+| NEWLISCOU16980            | Housing Inventory: New Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
+| NEWLISCOUMM16980          | Housing Inventory: New Listing Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| NEWLISCOUYY16980          | Housing Inventory: New Listing Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                    | 2017-07-01          | 2022-04-01        |
 | NGMP16980                 | Total Gross Domestic Product for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA16980            | Market Hotness: Nielsen Household Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| NIHHRAMSA16980            | Market Hotness: Nielsen Household Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
 | PATENTCBSA116980          | U.S. Granted Utility Patents Originating in Chicago-Joliet-Naperville, IL-IN-WI (MSA)                                               | 2000-01-01          | 2015-01-01        |
-| PENLISCOU16980            | Housing Inventory: Pending Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PENLISCOUMM16980          | Housing Inventory: Pending Listing Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PENLISCOUYY16980          | Housing Inventory: Pending Listing Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIINCCOU16980            | Housing Inventory: Price Increased Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
-| PRIINCCOUMM16980          | Housing Inventory: Price Increased Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                              | 2017-07-01          | 2022-03-01        |
-| PRIINCCOUYY16980          | Housing Inventory: Price Increased Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU16980            | Housing Inventory: Price Reduced Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
-| PRIREDCOUMM16980          | Housing Inventory: Price Reduced Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOUYY16980          | Housing Inventory: Price Reduced Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| PENLISCOU16980            | Housing Inventory: Pending Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOUMM16980          | Housing Inventory: Pending Listing Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PENLISCOUYY16980          | Housing Inventory: Pending Listing Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOU16980            | Housing Inventory: Price Increased Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PRIINCCOUMM16980          | Housing Inventory: Price Increased Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY16980          | Housing Inventory: Price Increased Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOU16980            | Housing Inventory: Price Reduced Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
+| PRIREDCOUMM16980          | Housing Inventory: Price Reduced Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
+| PRIREDCOUYY16980          | Housing Inventory: Price Reduced Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
 | QGMP16980                 | Total Quantity Indexes for Real GDP for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP16980                 | Total Real Gross Domestic Product for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI16980                  | Real Personal Income for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -180,4 +180,4 @@
 | SMU17169809093161101      | All Employees: Government: Local Government Educational Services in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                        | 1990-01-01          | 2022-03-01        |
 | SMU17169809093161101A     | All Employees: Local Government Educational Services in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU17169809093161101SA    | All Employees: Government: Local Government Educational Services in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                        | 1990-01-01          | 2022-03-01        |
-| SUSCMSA16980              | Market Hotness: Supply Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| SUSCMSA16980              | Market Hotness: Supply Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |

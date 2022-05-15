@@ -1,8 +1,8 @@
 | Folder                    |   Files / Folders |
 |---------------------------|-------------------|
-| Census Regions            |                 4 |
-| BLS Regions               |                 7 |
-| Federal Reserve Districts |                12 |
 | States                    |                53 |
+| Federal Reserve Districts |                12 |
+| Census Regions            |                 4 |
 | Freddie Mac Regions       |                 5 |
 | BEA Regions               |                 8 |
+| BLS Regions               |                 7 |
