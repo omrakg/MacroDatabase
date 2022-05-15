@@ -1,7 +1,7 @@
 {
   "id": "IZ33324",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Import Price Index (NAICS): Industrial machinery manufacturing",
   "observation_start": "2013-12-01",
   "observation_end": "2020-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-01-14 07:36:21-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

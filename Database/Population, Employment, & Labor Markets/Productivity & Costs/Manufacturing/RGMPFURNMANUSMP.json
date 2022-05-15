@@ -1,0 +1,18 @@
+{
+  "id": "RGMPFURNMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Real Gross Domestic Product: Private Industries: Manufacturing: Durable Goods Manufacturing: Furniture and Related Products Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Furniture and Related Product Manufacturing NAICS subsector make furniture and related articles, such as mattresses, window blinds, cabinets, and fixtures. The processes used in the manufacture of furniture include the cutting, bending, molding, laminating, and assembly of such materials as wood, metal, glass, plastics, and rattan. However, the production process for furniture is not solely bending metal, cutting and shaping wood, or extruding and molding plastics. Design and fashion trends play an important part in the production of furniture. The integrated design of the article for both esthetic and functional qualities is also a major part of the process of manufacturing furniture. Design services may be performed by the furniture establishment's work force or may be purchased from industrial designers.\n\nFurniture may be made of any material, but the most common ones used in North America are metal and wood. Furniture manufacturing establishments may specialize in making articles primarily from one material. Some of the equipment required to make a wooden table, for example, is different from that used to make a metal one. However, furniture is usually made from several materials. A wooden table might have metal brackets, and a wooden chair a fabric or plastics seat. Therefore, in NAICS, furniture initially is classified based on the type of furniture (application for which it is designed) rather than the material used. For example, an upholstered sofa is treated as household furniture, although it may also be used in hotels or offices.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

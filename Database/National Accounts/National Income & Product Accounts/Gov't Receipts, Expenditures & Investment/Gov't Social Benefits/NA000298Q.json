@@ -1,7 +1,7 @@
 {
   "id": "NA000298Q",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Federal government current transfer payments: Government social benefits",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 07:55:53-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 6,
   "notes": "BEA Account Code: NA000298"
 }

@@ -1,18 +1,18 @@
 {
   "id": "EA19PRINTO01GPSAM",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Production: Industry: Total industry: Total industry excluding construction for the Euro Area",
   "observation_start": "1975-08-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Growth rate previous period",
   "units_short": "Growth rate previous period",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-04-14 14:35:20-05",
+  "last_updated": "2022-05-12 09:23:07-05",
   "popularity": 6,
-  "group_popularity": 11,
+  "group_popularity": 13,
   "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: GPSA OECD country ID: EA19 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

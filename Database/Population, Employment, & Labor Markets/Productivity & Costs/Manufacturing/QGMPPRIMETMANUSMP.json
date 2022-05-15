@@ -1,0 +1,18 @@
+{
+  "id": "QGMPPRIMETMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Manufacturing: Durable Goods Manufacturing: Primary Metals Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Primary Metal Manufacturing NAICS subsector smelt and/or refine ferrous and nonferrous metals from ore, pig or scrap, using electrometallurgical and other process metallurgical techniques. Establishments in this subsector also manufacture metal alloys and superalloys by introducing other chemical elements to pure metals. The output of smelting and refining, usually in ingot form, is used in rolling, drawing, and extruding operations to make sheet, strip, bar, rod, or wire, and in molten form to make castings and other basic metal products.\n\nPrimary manufacturing of ferrous and nonferrous metals begins with ore or concentrate as the primary input. Establishments manufacturing primary metals from ore and/or concentrate remain classified in the primary smelting, primary refining, or iron and steel mill, industries regardless of the form of their output. Establishments primarily engaged in secondary smelting and/or secondary refining recover ferrous and nonferrous metals from scrap and/or dross. The output of the secondary smelting and/or secondary refining industries is limited to shapes, such as ingot or billet that will be further processed. Recovery of metals from scrap often occurs in establishments that are primarily engaged in activities, such as rolling, drawing, extruding, or similar processes.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

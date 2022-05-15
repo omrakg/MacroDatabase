@@ -1,0 +1,18 @@
+{
+  "id": "RGMPMISCMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Real Gross Domestic Product: Private Industries: Manufacturing: Durable Goods Manufacturing: Miscellaneous Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Miscellaneous Manufacturing NAICS subsector make a wide range of products that cannot readily be classified in specific NAICS subsectors in manufacturing. Processes used by these establishments vary significantly, both among and within industries. For example, a variety of manufacturing processes are used in manufacturing sporting and athletic goods that include products, such as tennis racquets and golf balls. The processes for these products differ from each other, and the processes differ significantly from the fabrication processes used in making dolls or toys, the melting and shaping of precious metals to make jewelry, and the bending, forming, and assembly used in making medical products.\n\nThe industries in this subsector are defined by what is made rather than how it is made. Although individual establishments might be appropriately classified elsewhere in the NAICS structure, for historical continuity, these product-based industries were maintained. In most cases, no one process or material predominates for an industry.\n\nEstablishments in this subsector manufacture products as diverse as medical equipment and supplies, jewelry, sporting goods, toys, and office supplies.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "NGMPPAPMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Gross Domestic Product: Private Industries: Nondurable Goods Manufacturing: Paper Products Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:32:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Paper Manufacturing NAICS subsector make pulp, paper, or converted paper products. The manufacturing of these products is grouped together because they constitute a series of vertically connected processes. More than one is often carried out in a single establishment. There are essentially three activities. The manufacturing of pulp involves separating the cellulose fibers from other impurities in wood or used paper. The manufacturing of paper involves matting these fibers into a sheet. Converted paper products are made from paper and other materials by various cutting and shaping techniques and includes coating and laminating activities.\n\nThe Paper Manufacturing subsector is subdivided into two industry groups, the first for the manufacturing of pulp and paper and the second for the manufacturing of converted paper products. Paper making is treated as the core activity of the subsector. Therefore, any establishment that makes paper (including paperboard), either alone or in combination with pulp manufacturing or paper converting, is classified as a paper or paperboard mill. Establishments that make pulp without making paper are classified as pulp mills. Pulp mills, paper mills and paperboard mills comprise the first industry group. Establishments that make products from purchased paper and other materials make up the second industry group, Converted Paper Product Manufacturing.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

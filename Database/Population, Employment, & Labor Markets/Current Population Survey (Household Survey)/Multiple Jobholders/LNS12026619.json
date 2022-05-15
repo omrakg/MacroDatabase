@@ -1,7 +1,7 @@
 {
   "id": "LNS12026619",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Multiple Jobholders",
   "observation_start": "1994-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-06 07:44:53-05",
-  "popularity": 9,
-  "group_popularity": 10,
+  "popularity": 7,
+  "group_popularity": 8,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS12026619"
 }

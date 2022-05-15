@@ -1,18 +1,18 @@
 {
   "id": "DTB1YR",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "1-Year Treasury Bill Secondary Market Rate",
   "observation_start": "1959-07-15",
-  "observation_end": "2022-05-05",
+  "observation_end": "2022-05-12",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-06 15:17:11-05",
-  "popularity": 61,
+  "last_updated": "2022-05-13 15:18:17-05",
+  "popularity": 62,
   "group_popularity": 64,
   "notes": "Discount Basis"
 }

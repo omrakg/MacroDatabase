@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGWV",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "State Minimum Wage Rate for West Virginia",
   "observation_start": "1968-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:22-06",
-  "popularity": 31,
-  "group_popularity": 31,
+  "popularity": 26,
+  "group_popularity": 26,
   "notes": "State minimum wage applies only when a certain number of workers are employed.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

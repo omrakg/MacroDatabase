@@ -1,7 +1,7 @@
 {
   "id": "USFININSNGSP",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Gross Domestic Product: Finance and Insurance (NAICS 52) in the United States",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 10:32:20-05",
-  "popularity": 2,
+  "popularity": 1,
   "group_popularity": 2,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
 }

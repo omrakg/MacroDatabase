@@ -1,0 +1,18 @@
+{
+  "id": "QGMPNMMPMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Manufacturing: Durable Goods Manufacturing: Nonmetallic Mineral Products Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Nonmetallic Mineral Product Manufacturing NAICS subsector transforms mined or quarried nonmetallic minerals, such as sand, gravel, stone, clay, and refractory materials, into products for intermediate or final consumption. Processes used include grinding, mixing, cutting, shaping, and honing. Heat often is used in the process and chemicals are frequently mixed to change the composition, purity, and chemical properties for the intended product.\n\nThe Nonmetallic Mineral Product Manufacturing subsector includes establishments that manufacture products, such as bricks, refractories, ceramic products, and glass and glass products, such as plate glass and containers. Also included are cement and concrete products, lime, gypsum and other nonmetallic mineral products including abrasive products, ceramic plumbing fixtures, statuary, cut stone products, and mineral wool.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

@@ -1,7 +1,7 @@
 {
   "id": "A824RL1Q225SBEA",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Real Government Consumption Expenditures and Gross Investment: Federal: National Defense",
   "observation_start": "1947-04-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:53:44-05",
-  "popularity": 8,
-  "group_popularity": 17,
+  "popularity": 7,
+  "group_popularity": 20,
   "notes": "BEA Account Code: A824RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

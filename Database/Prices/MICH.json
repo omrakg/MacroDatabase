@@ -1,0 +1,18 @@
+{
+  "id": "MICH",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "University of Michigan: Inflation Expectation",
+  "observation_start": "1978-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-29 10:01:12-05",
+  "popularity": 74,
+  "group_popularity": 74,
+  "notes": "Median expected price change next 12 months, Surveys of Consumers. The most recent value is not shown due to an agreement with the source.\n\nThis data should be cited as follows: \"Surveys of Consumers, University of Michigan, University of Michigan: Inflation Expectation\u00a9 [MICH], retrieved from FRED, Federal Reserve Bank of St. Louis https://fred.stlouisfed.org/series/MICH/, (Accessed on date)\"\n\nCopyright, 2016, Surveys of Consumers, University of Michigan. Reprinted with permission."
+}

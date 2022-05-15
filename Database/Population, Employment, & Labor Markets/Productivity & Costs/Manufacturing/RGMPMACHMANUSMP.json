@@ -1,0 +1,18 @@
+{
+  "id": "RGMPMACHMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Real Gross Domestic Product: Private Industries: Manufacturing: Durable Goods Manufacturing: Machinery Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Machinery Manufacturing NAICS subsector create end products that apply mechanical force, for example, the application of gears and levers, to perform work. Some important processes for the manufacture of machinery are forging, stamping, bending, forming, and machining that are used to shape individual pieces of metal. Processes, such as welding and assembling are used to join separate parts together. Although these processes are similar to those used in metal fabricating establishments, machinery manufacturing is different because it typically employs multiple metal forming processes in manufacturing the various parts of the machine. Moreover, complex assembly operations are an inherent part of the production process.\n\nIn general, design considerations are very important in machinery production. Establishments specialize in making machinery designed for particular applications. Thus, design is considered to be part of the production process for the purpose of implementing NAICS. The NAICS structure reflects this by defining industries and industry groups that make machinery for different applications. A broad distinction exists between machinery that is generally used in a variety of industrial applications (i.e., general purpose machinery) and machinery that is designed to be used in a particular industry (i.e., special purpose machinery). Three industry groups consist of special purpose machinery--Agricultural, Construction, and Mining Machinery Manufacturing; Industrial Machinery Manufacturing; and Commercial and Service Industry Machinery Manufacturing. The other industry groups make general-purpose machinery: Ventilation, Heating, Air Conditioning, and Commercial Refrigeration Equipment Manufacturing; Metalworking Machinery Manufacturing; Engine, Turbine, and Power Transmission Equipment Manufacturing; and Other General Purpose Machinery Manufacturing.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

@@ -1,7 +1,7 @@
 {
   "id": "IPB52131N",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Industrial Production: Equipment: Industrial Equipment",
   "observation_start": "1967-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-15 08:23:12-05",
-  "popularity": 1,
+  "popularity": 2,
   "group_popularity": 3,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nSource Code: IP.B52131.N"
 }

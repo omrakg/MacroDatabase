@@ -1,0 +1,18 @@
+{
+  "id": "QGMPPETCOALMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Nondurable Goods Manufacturing: Petroleum and Coal Products Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Petroleum and Coal Products Manufacturing NAICS subsector is based on the transformation of crude petroleum and coal into usable products. The dominant process is petroleum refining that involves the separation of crude petroleum into component products through such techniques as cracking and distillation.\n\nIn addition, this subsector includes establishments that primarily further process refined petroleum and coal products and produce products, such as asphalt coatings and petroleum lubricating oils.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

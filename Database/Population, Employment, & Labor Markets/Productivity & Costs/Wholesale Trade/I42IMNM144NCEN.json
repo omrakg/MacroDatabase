@@ -1,0 +1,18 @@
+{
+  "id": "I42IMNM144NCEN",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-09 09:02:35-05",
+  "popularity": 4,
+  "group_popularity": 16,
+  "notes": "Definition of inventories (as provided by the Census Bureau): The value, at cost, of merchandise on hand and available for sale at the end of the reference month. All goods owned by a firm, regardless of location, except goods outside the United States are included. Items not held for resale, such as fixtures, equipment, and supplies are excluded. Also excluded is the value of goods on a firm's premises but not owned by the firm. (http://www.census.gov/wholesale/definitions.html)\nThis series represents monthly statistics of complete coverage. The advance estimate of the current month and revised estimate of the prior month of nearly complete coverage is available on FRED at https://fred.stlouisfed.org/series/AMINVTN"
+}

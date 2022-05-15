@@ -1,7 +1,7 @@
 {
   "id": "HOUSTS",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "New Privately-Owned Housing Units Started: Total Units in the South Census Region",
   "observation_start": "1959-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-19 07:36:22-05",
-  "popularity": 17,
-  "group_popularity": 18
+  "popularity": 20,
+  "group_popularity": 21
 }

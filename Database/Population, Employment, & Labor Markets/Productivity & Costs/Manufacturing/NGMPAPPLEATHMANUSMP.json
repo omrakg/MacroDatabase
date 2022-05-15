@@ -1,0 +1,18 @@
+{
+  "id": "NGMPAPPLEATHMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Gross Domestic Product: Private Industries: Nondurable Goods Manufacturing: Apparel and Leather and Allied Products Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:32:08-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Apparel and Leather and Allied Products Manufacturing NAICS subsectors involve three manufacturing processes: (1) cut and sew (i.e., purchasing fabric and cutting and sewing to make a garment), (2) the manufacture of garments in establishments that first knit fabric and then cut and sew the fabric into a garment, and (3) transform hides into leather by tanning or curing and fabricating the leather into products for final consumption (it also includes the manufacture of similar products from other materials, including products made from \"leather substitutes,\" such as rubber, plastics, or textiles). The Apparel Manufacturing subsector includes a diverse range of establishments manufacturing full lines of ready-to-wear apparel and custom apparel: apparel contractors, performing cutting or sewing operations on materials owned by others; jobbers performing entrepreneurial functions involved in apparel manufacture; and tailors, manufacturing custom garments for individual clients are all included. Knitting, when done alone, is classified in the Textile Mills subsector, but when knitting is combined with the production of complete garments, the activity is classified in Apparel Manufacturing. The Leather and Allied Product Manufacturing subsector includes all leather products and products made from \"leather substitutes\" such as rubber footwear, textile luggage, and plastics purses or wallets. The products made from leather substitutes are included in this subsector because they are made in similar ways leather products are made (e.g., luggage). They are made in the same establishments, so it is not practical to separate them. The inclusion of leather making is partly because leather tanning is a relatively small industry that has few close neighbors as a production process, partly because leather is an input to some of the other products classified in Leather and Allied Products Manufacturing and partly for historical reasons.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

@@ -1,7 +1,7 @@
 {
   "id": "M1602AUSM357SNBR",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Amplitude Adjusted Composite Index of Leading Series, Six Series, Unweighted for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1940-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-20 09:31:04-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted, 1919-1940 (2)--Seasonally Adjusted, 1948-1964. Coverage Includes: The Average Workweek -- Manufacturing; Manufacturers' New Orders -- Durable Goods Industries; Number Of New Private Nonfarm Dwelling Units Started; Commercial And Industrial Construction Contracts; Number Of New Business Incorporations; Index Of Stock Prices -- 500 Common Stocks. Source: J. Shiskin Of NBER, Release Of July 25, 1963\n\nThis NBER data series m16002a appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.\n\nNBER Indicator: m16002a"
 }

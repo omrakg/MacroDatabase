@@ -1,0 +1,18 @@
+{
+  "id": "NGMPMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Gross Domestic Product: Private Industries: Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:49:26-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The term \"Manufacturing\" is used in both the SIC system and in NAICS, but it does not have the same definition in both systems.\n\nSIC definition: The manufacturing SIC division includes establishments engaged in the mechanical or chemical transformation of materials or substances into new products. These establishments are usually described as plants, factories, or mills and characteristically use power driven machines and materials handling equipment. Establishments engaged in assembling component parts of manufactured products are also considered manufacturing if the new product is neither a structure nor other fixed improvement. Also included is the blending of materials, such as lubricating oils, plastics resins, or liquors.\n\nNAICS definition: The Manufacturing NAICS sector comprises establishments engaged in the mechanical, physical, or chemical transformation of materials, substances, or components into new products. The assembling of component parts of manufactured products is considered manufacturing, except in cases where the activity is appropriately classified in Sector 23, Construction.\n\nEstablishments in the Manufacturing sector are often described as plants, factories, or mills and characteristically use power-driven machines and materials-handling equipment. However, establishments that transform materials or substances into new products by hand or in the worker's home and those engaged in selling to the general public products made on the same premises from which they are sold, such as bakeries, candy stores, and custom tailors, may also be included in this sector. Manufacturing establishments may process materials or may contract with other establishments to process their materials for them. Both types of establishments are included in manufacturing.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

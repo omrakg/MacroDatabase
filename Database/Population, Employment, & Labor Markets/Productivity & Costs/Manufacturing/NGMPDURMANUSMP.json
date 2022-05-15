@@ -1,0 +1,18 @@
+{
+  "id": "NGMPDURMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Gross Domestic Product: Private Industries: Manufacturing: Durable Goods Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:49:26-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Consists primarily of tangible products that can be stored or inventoried and that can be used repeatedly or continuously over a prolonged period. This sub-group of manufacturing is not defined within the SIC or NAICS coding structure.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

@@ -1,7 +1,7 @@
 {
   "id": "ANCH202NAN",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "All Employees: Total Nonfarm in Anchorage, AK (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-16 04:02:05-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

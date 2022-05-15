@@ -1,0 +1,18 @@
+{
+  "id": "NGMPFABRMETUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Gross Domestic Product: Private Industries: Manufacturing: Durable Goods Manufacturing: Fabricated Metal Products for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Fabricated Metal Product Manufacturing NAICS subsector transform metal into intermediate or end products, other than machinery, computers and electronics, and metal furniture or treat metals and metal formed products fabricated elsewhere. Important fabricated metal processes are forging, stamping, bending, forming, and machining, used to shape individual pieces of metal; and other processes, such as welding and assembling, used to join separate parts together. Establishments in this subsector may use one of these processes or a combination of these processes.\n\nThe NAICS structure for this subsector distinguishes the forging and stamping processes in a single industry. The remaining industries, in the subsector, group establishments based on similar combinations of processes used to make products.\n\nThe manufacturing performed in the Fabricated Metal Product Manufacturing subsector begins with manufactured metal shapes. The establishments in this sector further fabricate the purchased metal shapes into a product. For instance, the Spring and Wire Product Manufacturing industry starts with wire and fabricates such items.\n\nWithin manufacturing there are other establishments that make the same products made by this subsector; only these establishments begin production further back in the production process. These establishments have a more integrated operation. For instance, one establishment may manufacture steel, draw it into wire, and make wire products in the same establishment. Such operations are classified in the Primary Metal Manufacturing subsector.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

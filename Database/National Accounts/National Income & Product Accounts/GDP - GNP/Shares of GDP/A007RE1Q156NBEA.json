@@ -1,7 +1,7 @@
 {
   "id": "A007RE1Q156NBEA",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Shares of gross domestic product: Gross private domestic investment: Fixed investment",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 07:54:55-05",
-  "popularity": 3,
-  "group_popularity": 4,
+  "popularity": 4,
+  "group_popularity": 6,
   "notes": "BEA Account Code: A007RE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

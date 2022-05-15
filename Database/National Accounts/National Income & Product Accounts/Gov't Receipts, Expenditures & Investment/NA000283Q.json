@@ -1,7 +1,7 @@
 {
   "id": "NA000283Q",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Federal Government: Current Expenditures",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 07:53:50-05",
-  "popularity": 9,
-  "group_popularity": 60,
+  "popularity": 8,
+  "group_popularity": 61,
   "notes": "BEA Account Code: NA000283"
 }

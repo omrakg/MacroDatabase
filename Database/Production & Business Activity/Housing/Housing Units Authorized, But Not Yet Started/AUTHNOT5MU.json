@@ -1,7 +1,7 @@
 {
   "id": "AUTHNOT5MU",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 5 Units or More",
   "observation_start": "1968-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-19 07:36:36-05",
-  "popularity": 1,
-  "group_popularity": 4
+  "popularity": 3,
+  "group_popularity": 6
 }

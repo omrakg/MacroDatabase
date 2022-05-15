@@ -1,0 +1,18 @@
+{
+  "id": "RGMPOTRANEQMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Real Gross Domestic Product: Private Industries: Manufacturing: Durable Goods Manufacturing: Other Transportation Equipment Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2015-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-09-20 15:41:41-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Transportation equipment manufacturing excluding motor vehicles is comprised of four NAICS industry groups: Aerospace Product and Parts Manufacturing; Railroad Rolling Stock Manufacturing; Ship and Boat Building; and Other Transportation Equipment Manufacturing.\n\nAerospace Product and Parts Manufacturing comprises establishments primarily engaged in one or more of the following: (1) manufacturing complete aircraft, missiles, or space vehicles; (2) manufacturing aerospace engines, propulsion units, auxiliary equipment or parts; (3) developing and making prototypes of aerospace products; (4) aircraft conversion (i.e., major modifications to systems); and (5) complete aircraft or propulsion systems overhaul and rebuilding (i.e., periodic restoration of aircraft to original design specifications).\n\nRailroad Rolling Stock Manufacturing comprises establishments primarily engaged in one or more of the following: (1) manufacturing and/or rebuilding locomotives, locomotive frames and parts; (2) manufacturing railroad, street, and rapid transit cars and car equipment for operation on rails for freight and passenger service; and (3) manufacturing rail layers, ballast distributors, rail tamping equipment and other railway track maintenance equipment.\n\nShip and Boat Building comprises establishments primarily engaged in operating shipyards or boat yards (i.e., ship or boat manufacturing facilities). Shipyards are fixed facilities with drydocks and fabrication equipment capable of building a ship, defined as watercraft typically suitable or intended for other than personal or recreational use. Boats are defined as watercraft typically suitable or intended for personal use. Activities of shipyards include the construction of ships, their repair, conversion and alteration, the production of prefabricated ship and barge sections, and specialized services, such as ship scaling.\n\nOther Transportation Equipment Manufacturing group comprises establishments primarily engaged in manufacturing motorcycles, bicycles, metal tricycles, complete military armored vehicles, tanks, self-propelled weapons, vehicles pulled by draft animals, and other transportation equipment (except motor vehicles, boats, ships, railroad rolling stock, and aerospace products), including parts thereof.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

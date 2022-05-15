@@ -1,7 +1,7 @@
 {
   "id": "LNU01027660",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Civilian Labor Force Level - High School Graduates, No College, 25 Yrs. & over",
   "observation_start": "1992-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-06 07:47:08-05",
-  "popularity": 1,
-  "group_popularity": 3,
+  "popularity": 3,
+  "group_popularity": 6,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU01027660"
 }

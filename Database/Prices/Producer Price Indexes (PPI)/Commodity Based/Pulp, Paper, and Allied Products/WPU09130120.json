@@ -1,17 +1,17 @@
 {
   "id": "WPU09130120",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Printing Paper, Coated at Establishments Other Than Where Paper Was Produced",
   "observation_start": "2011-12-01",
-  "observation_end": "2022-03-01",
+  "observation_end": "2022-04-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 2011=100",
   "units_short": "Index Dec 2011=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-13 07:51:39-05",
-  "popularity": 17,
-  "group_popularity": 17
+  "last_updated": "2022-05-12 07:51:33-05",
+  "popularity": 20,
+  "group_popularity": 20
 }

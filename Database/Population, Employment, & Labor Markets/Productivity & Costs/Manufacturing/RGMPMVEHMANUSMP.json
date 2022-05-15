@@ -1,0 +1,18 @@
+{
+  "id": "RGMPMVEHMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Real Gross Domestic Product: Private Industries: Manufacturing: Durable Goods Manufacturing: Motor Vehicles, Bodies and Trailers, and Parts Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Motor vehicles, bodies and trailers, and parts manufacturing, a portion of the transportation equipment manufacturing NAICS subsector, is comprised of three NAICS industry groups: motor vehicle manufacturing; motor vehicle body and trailer manufacturing; and motor vehicle parts manufacturing.\n\nThe motor vehicle manufacturing industry group comprises establishments primarily engaged in (1) manufacturing complete automobile and light duty motor vehicles (i.e., body and chassis or unibody); (2) manufacturing chassis only; (3) manufacturing heavy duty truck chassis and assembling complete heavy duty trucks, buses, heavy duty motor homes, and other special purpose heavy duty motor vehicles for highway use; or (4) manufacturing heavy duty truck chassis only.\n\nThe motor vehicle body and trailer manufacturing group comprises establishments primarily engaged in (1) manufacturing motor vehicle bodies and cabs or (2) manufacturing truck, automobile and utility trailers, truck trailer chassis, detachable trailer bodies, and detachable trailer chassis. The products made may be sold separately or may be assembled on purchased chassis and sold as complete vehicles.\n\nThe motor vehicle parts manufacturing industry group comprises establishments primarily engaged in (1) manufacturing and/or rebuilding motor vehicle gasoline engines, and engine parts, whether or not for vehicular use; (2) manufacturing vehicular lighting; (3) manufacturing and/or rebuilding motor vehicle electrical equipment; (4) manufacturing and/or rebuilding motor vehicle steering mechanisms and suspension components (except springs); (5) manufacturing and/or rebuilding motor vehicle brake systems and related components; (6) manufacturing and/or rebuilding motor vehicle transmission and power train parts; (7) manufacturing motor vehicle seating, seats, seat frames, seat belts, and interior trimmings; (8) manufacturing motor vehicle stampings, such as fenders, tops, body parts, trim, and molding; or (9) manufacturing and/or rebuilding motor vehicle parts and accessories.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

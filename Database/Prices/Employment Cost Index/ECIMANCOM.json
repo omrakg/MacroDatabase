@@ -1,7 +1,7 @@
 {
   "id": "ECIMANCOM",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Employment Cost Index: Compensation: Private Industry Workers: Manufacturing",
   "observation_start": "2001-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-29 07:51:17-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 3,
+  "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "W006RC1Q027SBEA",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Federal government current tax receipts",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:55:04-05",
-  "popularity": 58,
-  "group_popularity": 58,
+  "popularity": 59,
+  "group_popularity": 59,
   "notes": "BEA Account Code: W006RC\n\nVisit the BEA (http://www.bea.gov/national/) for more information about this series."
 }

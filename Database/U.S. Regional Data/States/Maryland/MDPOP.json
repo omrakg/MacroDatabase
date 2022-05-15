@@ -1,7 +1,7 @@
 {
   "id": "MDPOP",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Resident Population in Maryland",
   "observation_start": "1900-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-22 12:09:08-06",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Data for \"Resident Population\" from 1900 to present are estimates as of July 1"
 }

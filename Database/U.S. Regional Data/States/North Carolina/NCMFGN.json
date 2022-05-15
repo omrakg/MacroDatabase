@@ -1,7 +1,7 @@
 {
   "id": "NCMFGN",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "All Employees: Manufacturing in North Carolina",
   "observation_start": "1990-01-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-16 03:10:05-05",
   "popularity": 2,
-  "group_popularity": 5
+  "group_popularity": 4
 }

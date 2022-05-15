@@ -1,7 +1,7 @@
 {
   "id": "LNU01300021",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Labor Force Participation Rate - 16-19 Yrs., Hispanic or Latino",
   "observation_start": "1976-06-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-06 07:46:04-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU01300021"
 }

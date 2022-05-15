@@ -1,0 +1,18 @@
+{
+  "id": "RGMPWPMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Real Gross Domestic Product: Private Industries: Manufacturing: Durable Goods Manufacturing: Wood Products Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:32:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Wood Product Manufacturing NAICS subsector manufacture wood products, such as lumber, plywood, veneers, wood containers, wood flooring, wood trusses, manufactured homes (i.e., mobile home), and prefabricated wood buildings. The production processes of the Wood Product Manufacturing subsector include sawing, planing, shaping, laminating, and assembling of wood products starting from logs that are cut into bolts, or lumber that then may be further cut, or shaped by lathes or other shaping tools. The lumber or other transformed wood shapes may also be subsequently planed or smoothed, and assembled into finished products, such as wood containers. The Wood Product Manufacturing subsector includes establishments that make wood products from logs and bolts that are sawed and shaped, and establishments that purchase sawed lumber and make wood products. With the exception of sawmills and wood preservation establishments, the establishments are grouped into industries mainly based on the specific products manufactured.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

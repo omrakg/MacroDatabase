@@ -1,0 +1,18 @@
+{
+  "id": "QGMPCPUELCPMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Manufacturing: Durable Goods Manufacturing: Computer and Electronic Products Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Computer and Electronic Product Manufacturing NAICS subsector group establishments that manufacture computers, computer peripherals, communications equipment, and similar electronic products, and establishments that manufacture components for such products. The Computer and Electronic Product Manufacturing industries have been combined in the hierarchy of NAICS because of the economic significance they have attained. Their rapid growth suggests that they will become even more important to the economies of all three North American countries in the future, and in addition their manufacturing processes are fundamentally different from the manufacturing processes of other machinery and equipment. The design and use of integrated circuits and the application of highly specialized miniaturization technologies are common elements in the production technologies of the computer and electronic subsector. Convergence of technology motivates this NAICS subsector. Digitalization of sound recording, for example, causes both the medium (the compact disc) and the equipment to resemble the technologies for recording, storing, transmitting, and manipulating data. Communications technology and equipment have been converging with computer technology. When technologically-related components are in the same sector, it makes it easier to adjust the classification for future changes, without needing to redefine its basic structure. The creation of the Computer and Electronic Product Manufacturing subsector assists in delineating new and emerging industries because the activities that will serve as the probable sources of new industries, such as computer manufacturing and communications equipment manufacturing, or computers and audio equipment are brought together. As new activities emerge, they are less likely therefore, to cross the subsector boundaries of the classification.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

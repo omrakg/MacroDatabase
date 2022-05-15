@@ -1,0 +1,18 @@
+{
+  "id": "QGMPPLASRUBMANUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Nondurable Goods Manufacturing: Plastics and Rubber Products Manufacturing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Plastics and Rubber Products Manufacturing NAICS subsector make goods by processing plastics materials and raw rubber. The core technology employed by establishments in this subsector is that of plastics or rubber product production. Plastics and rubber are combined in the same subsector because plastics are increasingly being used as a substitute for rubber; however the subsector is generally restricted to the production of products made of just one material, either solely plastics or rubber.\n\nMany manufacturing activities use plastics or rubber, for example the manufacture of footwear, or furniture. Typically, the production process of these products involves more than one material. In these cases, technologies that allow disparate materials to be formed and combined are of central importance in describing the manufacturing activity. In NAICS, such activities (the footwear and furniture manufacturing) are not classified in the Plastics and Rubber Products Manufacturing subsector because the core technologies for these activities are diverse and involve multiple materials.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

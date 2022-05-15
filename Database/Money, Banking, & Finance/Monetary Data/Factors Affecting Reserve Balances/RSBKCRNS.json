@@ -1,7 +1,7 @@
 {
   "id": "RSBKCRNS",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
   "title": "Reserve Bank Credit",
   "observation_start": "1988-11-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 16:05:04-05",
-  "popularity": 19,
-  "group_popularity": 19,
+  "popularity": 25,
+  "group_popularity": 25,
   "notes": "As of March 1, 2019, this series is calculated as a monthly average of fred.stlouisfed.org/series/WRESCRT."
 }

@@ -1,0 +1,18 @@
+{
+  "id": "QGMPTEXTUSMP",
+  "realtime_start": "2022-05-15",
+  "realtime_end": "2022-05-15",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Nondurable Goods Manufacturing: Textile Mills and Textile Product Mills for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This sector includes textile mills and textile product mills.\n\nIndustries in the Textile Mills NAICS subsector group establishments that transform a basic fiber (natural or synthetic) into a product, such as yarn or fabric, that is further manufactured into usable items, such as apparel, sheets, towels, and textile bags for individual or industrial consumption. The further manufacturing may be performed in the same establishment and classified in this subsector, or it may be performed at a separate establishment and be classified elsewhere in manufacturing.\n\nIndustries in the Textile Product Mills NAICS subsector group establishments that make textile products (except apparel). With a few exceptions, processes used in these industries are generally cut and sew (i.e., purchasing fabric and cutting and sewing to make nonapparel textile products, such as sheets and towels).\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}
