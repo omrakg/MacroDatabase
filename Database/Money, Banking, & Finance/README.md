@@ -1,9 +1,9 @@
 | Folder                        |   Files / Folders |
 |-------------------------------|-------------------|
-| Foreign Exchange Intervention |                20 |
-| Exchange Rates                |                 5 |
-| Interest Rates                |                25 |
-| Banking                       |                10 |
 | Financial Indicators          |                 5 |
-| Monetary Data                 |                13 |
+| Banking                       |                10 |
+| Foreign Exchange Intervention |                20 |
 | Business Lending              |                10 |
+| Monetary Data                 |                13 |
+| Interest Rates                |                25 |
+| Exchange Rates                |                 5 |

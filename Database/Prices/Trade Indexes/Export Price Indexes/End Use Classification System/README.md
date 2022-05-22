@@ -1,17 +1,17 @@
 | id        | title                                                                                                         | observation_start   | observation_end   |
 |-----------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | IQ        | Export Price Index (End Use): All Commodities                                                                 | 1983-09-01          | 2022-04-01        |
-| IQ00      | Export Price Index (End Use): Agricultural Foods, Feeds and Beverages, Excluding Distilled Beverages          | 1983-03-01          | 2022-04-01        |
-| IQ000     | Export Price Index (End Use): Wheat, Rice and Other Food Grains                                               | 1984-12-01          | 2022-04-01        |
-| IQ0       | Export Price Index (End Use): Foods, Feeds, and Beverages                                                     | 1983-09-01          | 2022-04-01        |
 | IQ00000   | Export Price Index (End Use): Wheat                                                                           | 1980-12-01          | 2022-04-01        |
+| IQ00      | Export Price Index (End Use): Agricultural Foods, Feeds and Beverages, Excluding Distilled Beverages          | 1983-03-01          | 2022-04-01        |
+| IQ0       | Export Price Index (End Use): Foods, Feeds, and Beverages                                                     | 1983-09-01          | 2022-04-01        |
+| IQ000     | Export Price Index (End Use): Wheat, Rice and Other Food Grains                                               | 1984-12-01          | 2022-04-01        |
 | IQ1       | Export Price Index (End Use): Industrial Supplies and Materials                                               | 1983-09-01          | 2022-04-01        |
-| IQ01      | Export Price Index (End Use): Nonagricultural Foods (Fish, Distilled Beverages)                               | 1983-09-01          | 2022-04-01        |
 | IQ001     | Export Price Index (End Use): Soybeans and Other Oil Seeds and Food Oils                                      | 1984-12-01          | 2022-04-01        |
+| IQ01      | Export Price Index (End Use): Nonagricultural Foods (Fish, Distilled Beverages)                               | 1983-09-01          | 2022-04-01        |
 | IQ1DUR    | Export Price Index (End Use): Industrial Supplies and Materials, Durable                                      | 1989-06-01          | 2022-04-01        |
 | IQ1NONDUR | Export Price Index (End Use): Industrial Supplies and Materials, Nondurable                                   | 1989-06-01          | 2022-04-01        |
-| IQ2       | Export Price Index (End Use): Capital Goods, Except Automotive                                                | 1978-12-01          | 2022-04-01        |
 | IQ002     | Export Price Index (End Use): Feedstuff                                                                       | 1984-12-01          | 2022-04-01        |
+| IQ2       | Export Price Index (End Use): Capital Goods, Except Automotive                                                | 1978-12-01          | 2022-04-01        |
 | IQ2EXCOM  | Export Price Index (End Use): Capital Goods, Excluding Computers Peripherals and Semiconductors               | 1984-12-01          | 2022-04-01        |
 | IQ3       | Export Price Index (End Use): Automotive Vehicles, Parts and Engines                                          | 1980-03-01          | 2022-04-01        |
 | IQ003     | Export Price Index (End Use): Other Agricultural Foods                                                        | 1984-12-01          | 2022-04-01        |
@@ -26,8 +26,8 @@
 | IQ22      | Export Price Index (End Use): Transportation Equipment and Spacecraft, Excluding Motor Vehicles               | 2001-12-01          | 2022-04-01        |
 | IQ40      | Export Price Index (End Use): Nondurables, Manufactured - Except Rugs                                         | 1983-09-01          | 2022-04-01        |
 | IQ41      | Export Price Index (End Use): Durables, Manufactured - Except Automotive                                      | 1983-09-01          | 2022-04-01        |
-| IQ00100   | Export Price Index (End Use): Soybeans                                                                        | 1980-12-01          | 2022-04-01        |
 | IQ100     | Export Price Index (End Use): Cotton, Including Raw Linters                                                   | 2005-12-01          | 2022-04-01        |
+| IQ00100   | Export Price Index (End Use): Soybeans                                                                        | 1980-12-01          | 2022-04-01        |
 | IQ101     | Export Price Index (End Use): Other Agricultural Materials for Industry and Farming                           | 1983-09-01          | 2022-04-01        |
 | IQ110     | Export Price Index (End Use): Coals and Related Fuels                                                         | 2019-12-01          | 2022-04-01        |
 | IQ111     | Export Price Index (End Use): Petroleum and Products, Excluding Natural Gas                                   | 1984-12-01          | 2022-04-01        |

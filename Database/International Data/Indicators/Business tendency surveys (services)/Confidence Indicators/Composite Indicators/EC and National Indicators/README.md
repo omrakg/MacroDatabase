@@ -1,2 +1,23 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                                                    | observation_start   | observation_end   |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BVCICP02ATM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Austria             | 1996-10-01          | 2022-04-01        |
+| BVCICP02BEM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Belgium             | 1995-01-01          | 2022-04-01        |
+| BVCICP02CZM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Czech Republic  | 2002-05-01          | 2022-04-01        |
+| BVCICP02DEM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Germany             | 1995-04-01          | 2022-04-01        |
+| BVCICP02DKM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Denmark             | 2000-04-01          | 2022-04-01        |
+| BVCICP02EEM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Estonia             | 2002-05-01          | 2022-04-01        |
+| BVCICP02ESM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Spain               | 1996-10-01          | 2022-04-01        |
+| BVCICP02EZM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Euro Area       | 1995-04-01          | 2022-04-01        |
+| BVCICP02FIM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Finland             | 1996-10-01          | 2022-03-01        |
+| BVCICP02FRM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for France              | 1988-01-01          | 2022-03-01        |
+| BVCICP02GBM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the United Kingdom  | 1997-01-01          | 2021-03-01        |
+| BVCICP02GRM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Greece              | 1997-04-01          | 2022-03-01        |
+| BVCICP02HUM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Hungary             | 2002-02-01          | 2022-04-01        |
+| BVCICP02IEM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Ireland             | 1998-01-01          | 2022-04-01        |
+| BVCICP02ITM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Italy               | 1998-01-01          | 2022-04-01        |
+| BVCICP02NLM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Netherlands     | 1996-01-01          | 2022-03-01        |
+| BVCICP02PLM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Poland              | 2003-01-01          | 2022-04-01        |
+| BVCICP02PTM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Portugal            | 1997-06-01          | 2022-04-01        |
+| BVCICP02SEM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Sweden              | 1996-04-01          | 2022-04-01        |
+| BVCICP02SIM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Slovenia            | 2002-05-01          | 2022-04-01        |
+| BVCICP02SKM460S | Business Tendency Surveys for Services: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the Slovak Republic | 2002-01-01          | 2022-04-01        |

@@ -1,4 +1,4 @@
 | Folder                          |   Files / Folders |
 |---------------------------------|-------------------|
-| Northern America                |                 4 |
 | Latin America and the Caribbean |                 4 |
+| Northern America                |                 4 |

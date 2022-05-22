@@ -1,18 +1,18 @@
 | Folder                              |   Files / Folders |
 |-------------------------------------|-------------------|
-| Transportation and Public Utilities |               174 |
-| Interest Rates                      |                 0 |
-| Foreign Trade                       |                79 |
-| Money and Banking                   |               182 |
-| Distribution of Commodities         |               166 |
-| Volume of Transactions              |                61 |
-| Financial Status of Business        |               144 |
+| Construction                        |                 0 |
 | Government and Finance              |                58 |
 | Production of Commodities           |               456 |
-| Stocks of Commodities               |               194 |
+| Income and Employment               |                 0 |
 | Security Markets                    |                33 |
-| Construction                        |                 0 |
 | Prices                              |                 0 |
-| Income and Employment               |               490 |
-| Leading Indicators                  |                64 |
+| Interest Rates                      |                76 |
+| Stocks of Commodities               |               194 |
+| Money and Banking                   |               182 |
 | Savings and Investment              |               167 |
+| Foreign Trade                       |                79 |
+| Financial Status of Business        |               144 |
+| Volume of Transactions              |                61 |
+| Distribution of Commodities         |               166 |
+| Transportation and Public Utilities |               174 |
+| Leading Indicators                  |                64 |

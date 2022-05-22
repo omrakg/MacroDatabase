@@ -1,16 +1,2 @@
-| id       | title                                                                                                                                                | observation_start   | observation_end   |
-|----------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| TNLLRTL  | Loan Loss Reserve to Total Loans for Banks in Tennessee (DISCONTINUED)                                                                               | 1984-01-01          | 2020-07-01        |
-| TNLSTL   | Net Loan Losses to Average Total Loans for Banks in Tennessee (DISCONTINUED)                                                                         | 1984-01-01          | 2020-07-01        |
-| TNNIM    | Net Interest Margin for Banks in Tennessee (DISCONTINUED)                                                                                            | 1984-01-01          | 2020-07-01        |
-| TNNPTL   | Nonperforming Loans (past due 90+ days plus nonaccrual) to Total Loans for Banks in Tennessee (DISCONTINUED)                                         | 1984-01-01          | 2020-07-01        |
-| TNNUM    | Commercial Banks in Tennessee (DISCONTINUED)                                                                                                         | 1984-01-01          | 2020-07-01        |
-| TNPLLRTL | Loan Loss Reserve to Total Loans for Banks Geographically Located in Federal Reserve District 8: St. Louis Portion of Tennessee (DISCONTINUED)       | 1984-01-01          | 2020-07-01        |
-| TNPLSTL  | Net Loan Losses to Average Total Loans for Banks Geographically Located in Federal Reserve District 8: St. Louis Portion of Tennessee (DISCONTINUED) | 1984-01-01          | 2020-07-01        |
-| TNPNIM   | Net Interest Margin for Banks Geographically Located in Federal Reserve District 8: St. Louis Portion of Tennessee (DISCONTINUED)                    | 1984-01-01          | 2020-07-01        |
-| TNPNPTL  | Nonperforming Loans (past due 90+ days plus nonaccrual) to Total Loans for Tennessee Banks (8th District Portion) (DISCONTINUED)                     | 1984-01-01          | 2020-07-01        |
-| TNPNUM   | Commercial Banks Geographically Located in Federal Reserve District 8: St. Louis Portion of Tennessee (DISCONTINUED)                                 | 1984-01-01          | 2020-07-01        |
-| TNPROA   | Return on Average Assets for Banks Geographically Located in Federal Reserve District 8: St. Louis Portion of Tennessee (DISCONTINUED)               | 1984-01-01          | 2020-07-01        |
-| TNPROE   | Return on Average Equity for Banks Geographically Located in Federal Reserve District 8: St. Louis Portion of Tennessee (DISCONTINUED)               | 1984-01-01          | 2020-07-01        |
-| TNROA    | Return on Average Assets for Banks in Tennessee (DISCONTINUED)                                                                                       | 1984-01-01          | 2020-07-01        |
-| TNROE    | Return on Average Equity for Banks in Tennessee (DISCONTINUED)                                                                                       | 1984-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -86,22 +86,22 @@
 | AODGVS             | Manufacturers' Value of Shipments: All Other Durable Goods                                                           | 1992-01-01          | 2022-03-01        |
 | ATCGVS             | Manufacturers' Value of Shipments: Capital Goods                                                                     | 1992-01-01          | 2022-03-01        |
 | ATGPVS             | Manufacturers' Value of Shipments: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-03-01        |
-| DTCDFNA066MNFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-04-01        |
-| DTCDFSA066MSFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-04-01        |
-| DTCDNA156MNFRBPHI  | Current Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-04-01        |
-| DTCDSA156MSFRBPHI  | Current Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-04-01        |
-| DTCINA156MNFRBPHI  | Current Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-04-01        |
-| DTCISA156MSFRBPHI  | Current Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-04-01        |
-| DTCNNA156MNFRBPHI  | Current Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-04-01        |
-| DTCNSA156MSFRBPHI  | Current Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-04-01        |
-| DTFDFNA066MNFRBPHI | Future Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                   | 1968-05-01          | 2022-04-01        |
-| DTFDFSA066MSFRBPHI | Future Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                   | 1968-05-01          | 2022-04-01        |
-| DTFDNA156MNFRBPHI  | Future Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-04-01        |
-| DTFDSA156MSFRBPHI  | Future Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-04-01        |
-| DTFINA156MNFRBPHI  | Future Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-04-01        |
-| DTFISA156MSFRBPHI  | Future Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-04-01        |
-| DTFNNA156MNFRBPHI  | Future Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-04-01        |
-| DTFNSA156MSFRBPHI  | Future Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-04-01        |
+| DTCDFNA066MNFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-05-01        |
+| DTCDFSA066MSFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-05-01        |
+| DTCDNA156MNFRBPHI  | Current Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-05-01        |
+| DTCDSA156MSFRBPHI  | Current Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-05-01        |
+| DTCINA156MNFRBPHI  | Current Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-05-01        |
+| DTCISA156MSFRBPHI  | Current Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-05-01        |
+| DTCNNA156MNFRBPHI  | Current Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-05-01        |
+| DTCNSA156MSFRBPHI  | Current Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-05-01        |
+| DTFDFNA066MNFRBPHI | Future Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                   | 1968-05-01          | 2022-05-01        |
+| DTFDFSA066MSFRBPHI | Future Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                   | 1968-05-01          | 2022-05-01        |
+| DTFDNA156MNFRBPHI  | Future Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-05-01        |
+| DTFDSA156MSFRBPHI  | Future Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-05-01        |
+| DTFINA156MNFRBPHI  | Future Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-05-01        |
+| DTFISA156MSFRBPHI  | Future Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-05-01        |
+| DTFNNA156MNFRBPHI  | Future Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-05-01        |
+| DTFNSA156MSFRBPHI  | Future Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-05-01        |
 | DTMDSAMFRBDAL      | Current Delivery Time; Percentage Reporting Decreases for Texas                                                      | 2004-06-01          | 2022-04-01        |
 | DTMDUAMFRBDAL      | Current Delivery Time; Percentage Reporting Decreases for Texas                                                      | 2004-06-01          | 2022-04-01        |
 | DTMISAMFRBDAL      | Current Delivery Time; Percentage Reporting Increases for Texas                                                      | 2004-06-01          | 2022-04-01        |
@@ -126,38 +126,38 @@
 | FVSHPNUAMFRBDAL    | Future Shipments; Percentage Reporting No Change for Texas                                                           | 2004-06-01          | 2022-04-01        |
 | FVSHPSAMFRBDAL     | Future Shipments; Diffusion Index for Texas                                                                          | 2004-06-01          | 2022-04-01        |
 | FVSHPUAMFRBDAL     | Future Shipments; Diffusion Index for Texas                                                                          | 2004-06-01          | 2022-04-01        |
-| SHCDFNA066MNFRBPHI | Current Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                      | 1968-05-01          | 2022-04-01        |
-| SHCDFSA066MSFRBPHI | Current Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                      | 1968-05-01          | 2022-04-01        |
-| SHCDINA066MNFRBNY  | Current Shipments; Diffusion Index for New York                                                                      | 2001-07-01          | 2022-04-01        |
-| SHCDISA066MSFRBNY  | Current Shipments; Diffusion Index for New York                                                                      | 2001-07-01          | 2022-04-01        |
-| SHCDNA156MNFRBNY   | Current Shipments; Percent Reporting Decreases for New York                                                          | 2001-07-01          | 2022-04-01        |
-| SHCDNA156MNFRBPHI  | Current Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-04-01        |
-| SHCDSA156MSFRBNY   | Current Shipments; Percent Reporting Decreases for New York                                                          | 2001-07-01          | 2022-04-01        |
-| SHCDSA156MSFRBPHI  | Current Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-04-01        |
-| SHCINA156MNFRBNY   | Current Shipments; Percent Reporting Increases for New York                                                          | 2001-07-01          | 2022-04-01        |
-| SHCINA156MNFRBPHI  | Current Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-04-01        |
-| SHCISA156MSFRBNY   | Current Shipments; Percent Reporting Increases for New York                                                          | 2001-07-01          | 2022-04-01        |
-| SHCISA156MSFRBPHI  | Current Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-04-01        |
-| SHCNNA156MNFRBNY   | Current Shipments; Percent Reporting No Change for New York                                                          | 2001-07-01          | 2022-04-01        |
-| SHCNNA156MNFRBPHI  | Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-04-01        |
-| SHCNSA156MSFRBNY   | Current Shipments; Percent Reporting No Change for New York                                                          | 2001-07-01          | 2022-04-01        |
-| SHCNSA156MSFRBPHI  | Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-04-01        |
-| SHFDFNA066MNFRBPHI | Future Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                       | 1968-05-01          | 2022-04-01        |
-| SHFDFSA066MSFRBPHI | Future Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                       | 1968-05-01          | 2022-04-01        |
-| SHFDINA066MNFRBNY  | Future Shipments; Diffusion Index for New York                                                                       | 2001-07-01          | 2022-04-01        |
-| SHFDISA066MSFRBNY  | Future Shipments; Diffusion Index for New York                                                                       | 2001-07-01          | 2022-04-01        |
-| SHFDNA156MNFRBNY   | Future Shipments; Percent Expecting Decreases for New York                                                           | 2001-07-01          | 2022-04-01        |
-| SHFDNA156MNFRBPHI  | Future Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-04-01        |
-| SHFDSA156MSFRBNY   | Future Shipments; Percent Expecting Decreases for New York                                                           | 2001-07-01          | 2022-04-01        |
-| SHFDSA156MSFRBPHI  | Future Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-04-01        |
-| SHFINA156MNFRBNY   | Future Shipments; Percent Expecting Increases for New York                                                           | 2001-07-01          | 2022-04-01        |
-| SHFINA156MNFRBPHI  | Future Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-04-01        |
-| SHFISA156MSFRBNY   | Future Shipments; Percent Expecting Increases for New York                                                           | 2001-07-01          | 2022-04-01        |
-| SHFISA156MSFRBPHI  | Future Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-04-01        |
-| SHFNNA156MNFRBNY   | Future Shipments; Percent Expecting No Change for New York                                                           | 2001-07-01          | 2022-04-01        |
-| SHFNNA156MNFRBPHI  | Future Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-04-01        |
-| SHFNSA156MSFRBNY   | Future Shipments; Percent Expecting No Change for New York                                                           | 2001-07-01          | 2022-04-01        |
-| SHFNSA156MSFRBPHI  | Future Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-04-01        |
+| SHCDFNA066MNFRBPHI | Current Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                      | 1968-05-01          | 2022-05-01        |
+| SHCDFSA066MSFRBPHI | Current Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                      | 1968-05-01          | 2022-05-01        |
+| SHCDINA066MNFRBNY  | Current Shipments; Diffusion Index for New York                                                                      | 2001-07-01          | 2022-05-01        |
+| SHCDISA066MSFRBNY  | Current Shipments; Diffusion Index for New York                                                                      | 2001-07-01          | 2022-05-01        |
+| SHCDNA156MNFRBNY   | Current Shipments; Percent Reporting Decreases for New York                                                          | 2001-07-01          | 2022-05-01        |
+| SHCDNA156MNFRBPHI  | Current Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-05-01        |
+| SHCDSA156MSFRBNY   | Current Shipments; Percent Reporting Decreases for New York                                                          | 2001-07-01          | 2022-05-01        |
+| SHCDSA156MSFRBPHI  | Current Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-05-01        |
+| SHCINA156MNFRBNY   | Current Shipments; Percent Reporting Increases for New York                                                          | 2001-07-01          | 2022-05-01        |
+| SHCINA156MNFRBPHI  | Current Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-05-01        |
+| SHCISA156MSFRBNY   | Current Shipments; Percent Reporting Increases for New York                                                          | 2001-07-01          | 2022-05-01        |
+| SHCISA156MSFRBPHI  | Current Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-05-01        |
+| SHCNNA156MNFRBNY   | Current Shipments; Percent Reporting No Change for New York                                                          | 2001-07-01          | 2022-05-01        |
+| SHCNNA156MNFRBPHI  | Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-05-01        |
+| SHCNSA156MSFRBNY   | Current Shipments; Percent Reporting No Change for New York                                                          | 2001-07-01          | 2022-05-01        |
+| SHCNSA156MSFRBPHI  | Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-05-01        |
+| SHFDFNA066MNFRBPHI | Future Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                       | 1968-05-01          | 2022-05-01        |
+| SHFDFSA066MSFRBPHI | Future Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                       | 1968-05-01          | 2022-05-01        |
+| SHFDINA066MNFRBNY  | Future Shipments; Diffusion Index for New York                                                                       | 2001-07-01          | 2022-05-01        |
+| SHFDISA066MSFRBNY  | Future Shipments; Diffusion Index for New York                                                                       | 2001-07-01          | 2022-05-01        |
+| SHFDNA156MNFRBNY   | Future Shipments; Percent Expecting Decreases for New York                                                           | 2001-07-01          | 2022-05-01        |
+| SHFDNA156MNFRBPHI  | Future Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-05-01        |
+| SHFDSA156MSFRBNY   | Future Shipments; Percent Expecting Decreases for New York                                                           | 2001-07-01          | 2022-05-01        |
+| SHFDSA156MSFRBPHI  | Future Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-05-01        |
+| SHFINA156MNFRBNY   | Future Shipments; Percent Expecting Increases for New York                                                           | 2001-07-01          | 2022-05-01        |
+| SHFINA156MNFRBPHI  | Future Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-05-01        |
+| SHFISA156MSFRBNY   | Future Shipments; Percent Expecting Increases for New York                                                           | 2001-07-01          | 2022-05-01        |
+| SHFISA156MSFRBPHI  | Future Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-05-01        |
+| SHFNNA156MNFRBNY   | Future Shipments; Percent Expecting No Change for New York                                                           | 2001-07-01          | 2022-05-01        |
+| SHFNNA156MNFRBPHI  | Future Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-05-01        |
+| SHFNSA156MSFRBNY   | Future Shipments; Percent Expecting No Change for New York                                                           | 2001-07-01          | 2022-05-01        |
+| SHFNSA156MSFRBPHI  | Future Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-05-01        |
 | U11AVS             | Manufacturers' Value of Shipments: Grain and Oilseed Milling                                                         | 1992-01-01          | 2022-03-01        |
 | U11BVS             | Manufacturers' Value of Shipments: Dairy Product Manufacturing                                                       | 1992-01-01          | 2022-03-01        |
 | U11CVS             | Manufacturers' Value of Shipments: Meat, Poultry, and Seafood Product Processing                                     | 1992-01-01          | 2022-03-01        |

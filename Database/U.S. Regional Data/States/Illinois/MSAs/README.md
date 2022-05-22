@@ -1,15 +1,15 @@
 | Folder                              |   Files / Folders |
 |-------------------------------------|-------------------|
-| Carbondale-Marion, IL               |                55 |
-| Decatur, IL                         |               145 |
-| Rockford, IL                        |               164 |
-| Peoria, IL                          |               165 |
-| Chicago-Naperville-Elgin, IL-IN-WI  |                 0 |
-| Kankakee, IL                        |               140 |
-| St. Louis, MO-IL                    |               235 |
-| Davenport-Moline-Rock Island, IA-IL |                 0 |
-| Champaign-Urbana, IL                |               163 |
-| Cape Girardeau, MO-IL               |                90 |
+| Kankakee, IL                        |                 0 |
 | Bloomington, IL                     |               111 |
+| Champaign-Urbana, IL                |               163 |
+| Decatur, IL                         |               145 |
+| Davenport-Moline-Rock Island, IA-IL |               179 |
 | Danville, IL                        |               136 |
+| Rockford, IL                        |               164 |
+| St. Louis, MO-IL                    |                 0 |
+| Carbondale-Marion, IL               |                55 |
+| Peoria, IL                          |               165 |
 | Springfield, IL                     |               167 |
+| Chicago-Naperville-Elgin, IL-IN-WI  |                 0 |
+| Cape Girardeau, MO-IL               |                 0 |

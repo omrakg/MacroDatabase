@@ -1,5 +1,2 @@
-| id              | title                                                                                                        | observation_start   | observation_end   |
-|-----------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| NAGICE02USA661S | Private Consumption Expenditure Deflator: All Items Non-Food Non-Energy for the United States (DISCONTINUED) | 1960-01-01          | 2014-01-01        |
-| NAGICE02USM661S | Private Consumption Expenditure Deflator: All Items Non-Food Non-Energy for the United States (DISCONTINUED) | 1960-01-01          | 2015-10-01        |
-| NAGICE02USQ661S | Private Consumption Expenditure Deflator: All Items Non-Food Non-Energy for the United States (DISCONTINUED) | 1960-01-01          | 2015-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

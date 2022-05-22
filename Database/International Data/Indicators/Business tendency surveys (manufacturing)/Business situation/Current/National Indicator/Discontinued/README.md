@@ -1,0 +1,3 @@
+| id              | title                                                                                                                                     | observation_start   | observation_end   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BNEMFT01KRQ460S | Business Tendency Surveys for Non-Manufacturing: Employment: Future Tendency: National Indicator for the Republic of Korea (DISCONTINUED) | 1993-01-01          | 2003-01-01        |

@@ -40,6 +40,10 @@
 | NNPFRIM027SBOG | Loans Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions (DISCONTINUED)              | 2015-01-01          | 2017-12-01        |
 | NNPFRIW027NBOG | Loans Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions (DISCONTINUED)              | 2015-01-07          | 2018-01-03        |
 | NNPFRIW027SBOG | Loans Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions (DISCONTINUED)              | 2015-01-07          | 2018-01-03        |
+| NUGFRIM027NBOG | Net Unrealized Gains (Losses) on Available-for-Sale Securities, Foreign-Related Institutions (DISCONTINUED)  | 2009-07-01          | 2022-02-01        |
+| NUGFRIM027SBOG | Net Unrealized Gains (Losses) on Available-for-Sale Securities, Foreign-Related Institutions (DISCONTINUED)  | 2009-07-01          | 2022-02-01        |
+| NUGFRIW027NBOG | Net Unrealized Gains (Losses) on Available-for-Sale Securities, Foreign-Related Institutions (DISCONTINUED)  | 2009-07-01          | 2022-03-30        |
+| NUGFRIW027SBOG | Net Unrealized Gains (Losses) on Available-for-Sale Securities, Foreign-Related Institutions (DISCONTINUED)  | 2009-07-01          | 2022-03-30        |
 | OATFRIM027NBOG | Other Assets, Foreign-Related Institutions (DISCONTINUED)                                                    | 1973-01-01          | 2017-12-01        |
 | OATFRIM027SBOG | Other Assets, Foreign-Related Institutions (DISCONTINUED)                                                    | 1973-01-01          | 2017-12-01        |
 | OATFRIW027NBOG | Other Assets, Foreign-Related Institutions (DISCONTINUED)                                                    | 1973-01-03          | 2018-01-03        |
@@ -80,6 +84,10 @@
 | SREFRIM027SBOG | Securitized Real Estate Loans, Foreign-Related Institutions (DISCONTINUED)                                   | 2009-07-01          | 2014-12-01        |
 | SREFRIW027NBOG | Securitized Real Estate Loans, Foreign-Related Institutions (DISCONTINUED)                                   | 2009-07-01          | 2014-12-31        |
 | SREFRIW027SBOG | Securitized Real Estate Loans, Foreign-Related Institutions (DISCONTINUED)                                   | 2009-07-01          | 2014-12-31        |
+| TAMFRIM027NBOG | U.S. Treasury and Agency Securities, MBS, Foreign-Related Institutions (DISCONTINUED)                        | 2015-01-01          | 2022-02-01        |
+| TAMFRIM027SBOG | U.S. Treasury and Agency Securities, MBS, Foreign-Related Institutions (DISCONTINUED)                        | 2015-01-01          | 2022-02-01        |
+| TAMFRIW027NBOG | U.S. Treasury and Agency Securities, MBS, Foreign-Related Institutions (DISCONTINUED)                        | 2015-01-07          | 2022-03-30        |
+| TAMFRIW027SBOG | U.S. Treasury and Agency Securities, MBS, Foreign-Related Institutions (DISCONTINUED)                        | 2015-01-07          | 2022-03-30        |
 | TDAFRIM027NBOG | Trading Assets, Foreign-Related Institutions (DISCONTINUED)                                                  | 2009-07-01          | 2017-12-01        |
 | TDAFRIM027SBOG | Trading Assets, Foreign-Related Institutions (DISCONTINUED)                                                  | 2009-07-01          | 2017-12-01        |
 | TDAFRIW027NBOG | Trading Assets, Foreign-Related Institutions (DISCONTINUED)                                                  | 2009-07-01          | 2018-01-03        |

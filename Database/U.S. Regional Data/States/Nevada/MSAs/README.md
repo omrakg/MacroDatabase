@@ -1,5 +1,5 @@
 | Folder                           |   Files / Folders |
 |----------------------------------|-------------------|
+| Carson City, NV                  |               121 |
 | Reno, NV                         |               191 |
-| Carson City, NV                  |               146 |
 | Las Vegas-Henderson-Paradise, NV |               316 |

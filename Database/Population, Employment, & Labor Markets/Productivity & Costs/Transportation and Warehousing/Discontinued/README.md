@@ -1,9 +1,2 @@
-| id                 | title                                                                                                                                       | observation_start   | observation_end   |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCU492110492110SM  | Producer Price Index by Industry: Couriers and Express Delivery Services: Other Receipts (DISCONTINUED)                                     | 2003-12-01          | 2011-06-01        |
-| PCU4821114821111   | Producer Price Index by Industry: Line-Haul Railroads: Rail Transportation, Freight (Carload) (DISCONTINUED)                                | 1996-12-01          | 2015-05-01        |
-| PCU4821114821112   | Producer Price Index by Industry: Line-Haul Railroads: Rail Transportation, Freight (Intermodal) (DISCONTINUED)                             | 1996-12-01          | 2015-05-01        |
-| PCU4821114821113   | Producer Price Index by Industry: Line-Haul Railroads: Rail Transportation, Passenger (DISCONTINUED)                                        | 1996-12-01          | 2015-05-01        |
-| PCU4842204842203   | Producer Price Index by Industry: Other Specialized Trucking, Local: Specialized Freight (Except Used Goods) Trucking, Local (DISCONTINUED) | 1993-06-01          | 2015-09-01        |
-| PCU482111482111306 | Producer Price Index by Industry: Line-Haul Railroads: Coach Service Class (DISCONTINUED)                                                   | 2005-06-01          | 2015-05-01        |
-| PCU482111482111307 | Producer Price Index by Industry: Line-Haul Railroads: All Other Service Classes (DISCONTINUED)                                             | 2005-06-01          | 2015-05-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

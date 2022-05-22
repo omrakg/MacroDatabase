@@ -40,6 +40,10 @@
 | NNPLCBM027SBOG | Loans Secured by Nonfarm Nonresidential Properties, Large Domestically Chartered Commercial Banks (DISCONTINUED)              | 2015-01-01          | 2017-12-01        |
 | NNPLCBW027NBOG | Loans Secured by Nonfarm Nonresidential Properties, Large Domestically Chartered Commercial Banks (DISCONTINUED)              | 2015-01-07          | 2018-01-03        |
 | NNPLCBW027SBOG | Loans Secured by Nonfarm Nonresidential Properties, Large Domestically Chartered Commercial Banks (DISCONTINUED)              | 2015-01-07          | 2018-01-03        |
+| NUGLCBM027NBOG | Net Unrealized Gains (Losses) on Available-for-Sale Securities, Large Domestically Chartered Commercial Banks (DISCONTINUED)  | 1996-10-01          | 2022-02-01        |
+| NUGLCBM027SBOG | Net Unrealized Gains (Losses) on Available-for-Sale Securities, Large Domestically Chartered Commercial Banks (DISCONTINUED)  | 1996-10-01          | 2022-02-01        |
+| NUGLCBW027NBOG | Net Unrealized Gains (Losses) on Available-for-Sale Securities, Large Domestically Chartered Commercial Banks (DISCONTINUED)  | 1996-10-02          | 2022-03-30        |
+| NUGLCBW027SBOG | Net Unrealized Gains (Losses) on Available-for-Sale Securities, Large Domestically Chartered Commercial Banks (DISCONTINUED)  | 1996-10-02          | 2022-03-30        |
 | OATLCBM027NBOG | Other Assets, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                                    | 1985-04-01          | 2017-12-01        |
 | OATLCBM027SBOG | Other Assets, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                                    | 1985-04-01          | 2017-12-01        |
 | OATLCBW027NBOG | Other Assets, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                                    | 1985-04-03          | 2018-01-03        |
@@ -80,6 +84,10 @@
 | SRELCBM027SBOG | Securitized Real Estate Loans, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                   | 2007-07-01          | 2014-12-01        |
 | SRELCBW027NBOG | Securitized Real Estate Loans, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                   | 2007-07-04          | 2014-12-31        |
 | SRELCBW027SBOG | Securitized Real Estate Loans, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                   | 2007-07-04          | 2014-12-31        |
+| TAMLCBM027NBOG | U.S. Treasury and Agency Securities, MBS, Large Domestically Chartered Commercial Banks (DISCONTINUED)                        | 2015-01-01          | 2022-02-01        |
+| TAMLCBM027SBOG | U.S. Treasury and Agency Securities, MBS, Large Domestically Chartered Commercial Banks (DISCONTINUED)                        | 2015-01-01          | 2022-02-01        |
+| TAMLCBW027NBOG | U.S. Treasury and Agency Securities, MBS, Large Domestically Chartered Commercial Banks (DISCONTINUED)                        | 2015-01-07          | 2022-03-30        |
+| TAMLCBW027SBOG | U.S. Treasury and Agency Securities, MBS, Large Domestically Chartered Commercial Banks (DISCONTINUED)                        | 2015-01-07          | 2022-03-30        |
 | TDALCBM027NBOG | Trading Assets, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                                  | 2009-07-01          | 2017-12-01        |
 | TDALCBM027SBOG | Trading Assets, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                                  | 2009-07-01          | 2017-12-01        |
 | TDALCBW027NBOG | Trading Assets, Large Domestically Chartered Commercial Banks (DISCONTINUED)                                                  | 2009-07-01          | 2018-01-03        |

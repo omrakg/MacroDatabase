@@ -1,9 +1,9 @@
 | id      | title                                                                   | observation_start   | observation_end   |
 |---------|-------------------------------------------------------------------------|---------------------|-------------------|
-| IUDSOIA | Daily Sterling Overnight Index Average (SONIA) Rate                     | 1997-01-02          | 2022-05-11        |
-| IUDZLS6 | Daily Sterling Overnight Index Average (SONIA) Rate: 10th percentile    | 2018-04-23          | 2022-05-11        |
-| IUDZLS7 | Daily Sterling Overnight Index Average (SONIA) Rate: 25th percentile    | 2018-04-23          | 2022-05-11        |
-| IUDZLS8 | Daily Sterling Overnight Index Average (SONIA) Rate: 75th percentile    | 2018-04-23          | 2022-05-11        |
-| IUDZLS9 | Daily Sterling Overnight Index Average (SONIA) Rate: 90th percentile    | 2018-04-23          | 2022-05-11        |
-| IUDZLT2 | Daily Sterling Overnight Index Average (SONIA) Rate Total Nominal Value | 2018-04-23          | 2022-05-11        |
-| IUDZOS2 | SONIA Compounded Index                                                  | 2018-04-23          | 2022-05-12        |
+| IUDSOIA | Daily Sterling Overnight Index Average (SONIA) Rate                     | 1997-01-02          | 2022-05-18        |
+| IUDZLS6 | Daily Sterling Overnight Index Average (SONIA) Rate: 10th percentile    | 2018-04-23          | 2022-05-18        |
+| IUDZLS7 | Daily Sterling Overnight Index Average (SONIA) Rate: 25th percentile    | 2018-04-23          | 2022-05-18        |
+| IUDZLS8 | Daily Sterling Overnight Index Average (SONIA) Rate: 75th percentile    | 2018-04-23          | 2022-05-18        |
+| IUDZLS9 | Daily Sterling Overnight Index Average (SONIA) Rate: 90th percentile    | 2018-04-23          | 2022-05-18        |
+| IUDZLT2 | Daily Sterling Overnight Index Average (SONIA) Rate Total Nominal Value | 2018-04-23          | 2022-05-18        |
+| IUDZOS2 | SONIA Compounded Index                                                  | 2018-04-23          | 2022-05-19        |

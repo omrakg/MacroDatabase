@@ -1,4 +1,4 @@
 | id         | title                                               | observation_start   | observation_end   |
 |------------|-----------------------------------------------------|---------------------|-------------------|
-| ECBASSETSW | Central Bank Assets for Euro Area (11-19 Countries) | 1999-01-01          | 2022-04-29        |
-| JPNASSETS  | Bank of Japan: Total Assets for Japan               | 1998-04-01          | 2022-03-01        |
+| ECBASSETSW | Central Bank Assets for Euro Area (11-19 Countries) | 1999-01-01          | 2022-05-13        |
+| JPNASSETS  | Bank of Japan: Total Assets for Japan               | 1998-04-01          | 2022-04-01        |
