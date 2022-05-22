@@ -1,0 +1,18 @@
+{
+  "id": "UKASSETS",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Total Central Bank Assets for United Kingdom (DISCONTINUED)",
+  "observation_start": "2006-05-01",
+  "observation_end": "2014-09-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-09-29 08:31:08-05",
+  "popularity": 16,
+  "group_popularity": 16,
+  "notes": "Following changes to legislation in the 2009 Banking Act and the recommendations of the Plenderleith Review the Bank of England replaced the Bank Return (Table B1.1.1) with a new Weekly Report (Table B1.1.2). The main omissions\nare the overall size of the Bank\u2019s balance sheet. More information can be found in 'Changes to the Bank's weekly reporting regime' published in the Bank of England Quarterly Bulletin, available at https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/changes-the-banks-weekly-reporting-regime\n\nThis series was from the Central Bank's Balance Sheet (Bank Return, Table B1.1.1) and was updated using Bank of England's Interactive Database.\nSource Code: RPWB75A\n\nCopyright, 2016, Bank of England."
+}

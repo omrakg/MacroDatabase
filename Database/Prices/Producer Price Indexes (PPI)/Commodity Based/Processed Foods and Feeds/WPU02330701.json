@@ -1,7 +1,7 @@
 {
   "id": "WPU02330701",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Raw Liquid Whey",
   "observation_start": "2004-12-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 07:58:35-05",
-  "popularity": 2,
-  "group_popularity": 3
+  "popularity": 3,
+  "group_popularity": 4
 }

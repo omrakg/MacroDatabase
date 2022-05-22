@@ -1,0 +1,18 @@
+{
+  "id": "MSONOP",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Nonfarm Personal Income in Mississippi (DISCONTINUED)",
+  "observation_start": "1948-01-01",
+  "observation_end": "2003-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2004-05-23 14:27:56-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Please visit http://research.stlouisfed.org/fred2/personalincome for documentation on the derivation of personal income."
+}

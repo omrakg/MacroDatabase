@@ -1,7 +1,7 @@
 {
   "id": "TSIPSNGRC",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Passenger Transportation Services Index",
   "observation_start": "2000-02-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-13 09:02:04-05",
   "popularity": 2,
-  "group_popularity": 12,
+  "group_popularity": 11,
   "notes": "This data is collected by the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS), Transportation Services Index available here (https://data.bts.gov/Research-and-Statistics/Transportation-Services-Index-and-Seasonally-Adjus/bw6n-ddqk)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "U35BUO",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Manufacturers' Unfilled Orders: Household Appliance Manufacturing",
   "observation_start": "1992-01-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-13 09:03:15-05",
   "popularity": 2,
-  "group_popularity": 4
+  "group_popularity": 8
 }

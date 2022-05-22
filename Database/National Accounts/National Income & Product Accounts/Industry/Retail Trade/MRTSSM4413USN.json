@@ -1,0 +1,17 @@
+{
+  "id": "MRTSSM4413USN",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Retail Sales: Automotive Parts, Accessory, and Tire Stores",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-17 09:06:31-05",
+  "popularity": 18,
+  "group_popularity": 32
+}

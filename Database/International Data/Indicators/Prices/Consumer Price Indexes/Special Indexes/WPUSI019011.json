@@ -1,0 +1,17 @@
+{
+  "id": "WPUSI019011",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Producer Price Index by Commodity: Special Indexes: Copper and Copper Products",
+  "observation_start": "1967-01-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-12 07:50:04-05",
+  "popularity": 51,
+  "group_popularity": 51
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MRTSSM441XUSS",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Retail Sales: Auto and Other Motor Vehicle Dealers",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-05-17 09:06:30-05",
+  "popularity": 9,
+  "group_popularity": 9
+}

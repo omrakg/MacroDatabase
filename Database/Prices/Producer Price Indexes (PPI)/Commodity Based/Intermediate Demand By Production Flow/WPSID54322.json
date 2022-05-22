@@ -1,7 +1,7 @@
 {
   "id": "WPSID54322",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Production Flow: Inputs to Stage 4 Construction Producers, Transportation and Warehousing Services",
   "observation_start": "2009-11-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-12 08:05:52-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

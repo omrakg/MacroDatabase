@@ -1,7 +1,7 @@
 {
   "id": "A576RC1",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Compensation of Employees, Received: Wage and Salary Disbursements",
   "observation_start": "1959-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-29 07:44:04-05",
-  "popularity": 50,
-  "group_popularity": 50,
+  "popularity": 47,
+  "group_popularity": 47,
   "notes": "BEA Account Code: A034RC\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

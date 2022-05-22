@@ -1,17 +1,17 @@
 {
   "id": "AUTHNOT1U",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units",
   "observation_start": "1968-01-01",
-  "observation_end": "2022-03-01",
+  "observation_end": "2022-04-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-19 07:36:25-05",
-  "popularity": 15,
-  "group_popularity": 17
+  "last_updated": "2022-05-18 07:31:29-05",
+  "popularity": 13,
+  "group_popularity": 18
 }

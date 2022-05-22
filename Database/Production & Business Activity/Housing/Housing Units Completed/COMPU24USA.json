@@ -1,17 +1,17 @@
 {
   "id": "COMPU24USA",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units",
   "observation_start": "1968-01-01",
-  "observation_end": "2022-03-01",
+  "observation_end": "2022-04-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-04-19 07:36:27-05",
-  "popularity": 5,
-  "group_popularity": 6
+  "last_updated": "2022-05-18 07:31:34-05",
+  "popularity": 9,
+  "group_popularity": 10
 }

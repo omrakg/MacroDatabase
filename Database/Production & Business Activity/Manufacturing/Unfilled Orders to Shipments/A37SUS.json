@@ -1,7 +1,7 @@
 {
   "id": "A37SUS",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Manufacturers' Unfilled Orders to Shipments Ratios: Furniture and Related Products",
   "observation_start": "1992-01-01",
   "observation_end": "2022-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-13 09:07:26-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 2,
+  "group_popularity": 2
 }

@@ -1,0 +1,18 @@
+{
+  "id": "COMPRMS",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Manufacturing Sector: Real Hourly Compensation for All Employed Persons",
+  "observation_start": "1987-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-05-05 07:36:31-05",
+  "popularity": 4,
+  "group_popularity": 5,
+  "notes": "Effective February 5, 2004, Productivity and Cost measures for the manufacturing sector\nare now reported using the 2002 North American Industry Classification System (NAICS).\nBecause of the reclassification, these measures are not directly comparable with\nmanufacturing measures published on or before Dec. 3, 2003.\n\nFor further information, please visit the Bureau Of Labor Statistics web\nsite at https://www.bls.gov/lpc/"
+}

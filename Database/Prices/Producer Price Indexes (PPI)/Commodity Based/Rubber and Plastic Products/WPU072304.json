@@ -1,7 +1,7 @@
 {
   "id": "WPU072304",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Producer Price Index by Commodity: Rubber and Plastic Products: Laminated Plastics Plates, Sheet (Excluding Packaging), and Shapes",
   "observation_start": "1978-06-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 08:04:12-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

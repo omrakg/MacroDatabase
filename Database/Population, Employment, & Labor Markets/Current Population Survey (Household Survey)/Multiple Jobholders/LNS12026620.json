@@ -1,7 +1,7 @@
 {
   "id": "LNS12026620",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Multiple Jobholders as a Percent of Employed",
   "observation_start": "1994-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-06 07:44:30-05",
-  "popularity": 21,
-  "group_popularity": 23,
+  "popularity": 26,
+  "group_popularity": 27,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS12026620"
 }

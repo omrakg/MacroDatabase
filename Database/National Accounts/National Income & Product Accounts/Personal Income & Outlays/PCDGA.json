@@ -1,7 +1,7 @@
 {
   "id": "PCDGA",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Personal Consumption Expenditures: Durable Goods",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:54:10-05",
-  "popularity": 10,
-  "group_popularity": 66,
+  "popularity": 13,
+  "group_popularity": 64,
   "notes": "BEA Account Code: DDURRC\n\n"
 }

@@ -1,7 +1,7 @@
 {
   "id": "A126RC1A027NBEA",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Gross private saving",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:29-05",
-  "popularity": 13,
-  "group_popularity": 50,
+  "popularity": 10,
+  "group_popularity": 47,
   "notes": "BEA Account Code: A126RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

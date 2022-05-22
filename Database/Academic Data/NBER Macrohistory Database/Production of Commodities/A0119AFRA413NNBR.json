@@ -1,7 +1,7 @@
 {
   "id": "A0119AFRA413NNBR",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Rye Crop for France",
   "observation_start": "1815-01-01",
   "observation_end": "1881-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:03:08-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1815-1881 (2)--Original Data, 1882-1919 (3)--Original Data, 1917-1938. Average Weight Per Hectolitre For Rye Is 70 To 73 Kilograms. Source: Annuaire Statistique, 1932, P. 57, 1937; Statistique Agricole Annuele; Bulletin De Statistique Generale.\n\nThis NBER data series a01019a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01019a"
 }

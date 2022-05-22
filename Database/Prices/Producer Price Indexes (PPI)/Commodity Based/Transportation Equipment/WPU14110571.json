@@ -1,7 +1,7 @@
 {
   "id": "WPU14110571",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Producer Price Index by Commodity: Transportation Equipment: Trucks, Truck Tractors, and Bus Chassis 14,000 Pounds or Less, Including Minivans and SUVs",
   "observation_start": "1982-12-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 08:02:10-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 3
 }

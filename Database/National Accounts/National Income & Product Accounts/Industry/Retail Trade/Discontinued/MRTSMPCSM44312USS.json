@@ -1,0 +1,18 @@
+{
+  "id": "MRTSMPCSM44312USS",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Retail Sales: Computer and Software Stores (DISCONTINUED)",
+  "observation_start": "1992-02-01",
+  "observation_end": "2013-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2017-12-06 09:32:17-06",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
+}

@@ -1,7 +1,7 @@
 {
   "id": "DFSARX1A020NBEA",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Real personal consumption expenditures: Services: Food services and accommodations",
   "observation_start": "2002-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:59:21-05",
   "popularity": 1,
-  "group_popularity": 7,
+  "group_popularity": 6,
   "notes": "BEA Account Code: DFSARX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

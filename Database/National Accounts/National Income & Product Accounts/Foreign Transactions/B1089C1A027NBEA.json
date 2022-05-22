@@ -1,7 +1,7 @@
 {
   "id": "B1089C1A027NBEA",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Unilateral current transfers, net, International Transactions Accounts",
   "observation_start": "1986-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:33-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "BEA Account Code: B1089C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

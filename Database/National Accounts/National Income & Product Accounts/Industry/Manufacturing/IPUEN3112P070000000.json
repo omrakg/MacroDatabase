@@ -1,0 +1,18 @@
+{
+  "id": "IPUEN3112P070000000",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Contribution of Intermediate Purchases Intensity for Manufacturing: Grain and Oilseed Milling (NAICS 3112) in the United States",
+  "observation_start": "1987-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-01 10:52:50-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Contribution of Intermediate purchases are the value of produced goods and services which are used as energy, materials, and purchased services in an industry or sector's production process. intensity is the portion of labor productivity change attributed to purchased intermediate inputs. It is the ratio of Intermediate purchases are the value of produced goods and services which are used as energy, materials, and purchased services in an industry or sector's production process. to hours worked in the production process. Intermediate purchases are the value of produced goods and services which are used as energy, materials, and purchased services in an industry or sector's production process."
+}

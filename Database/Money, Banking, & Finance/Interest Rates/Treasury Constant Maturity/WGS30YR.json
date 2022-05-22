@@ -1,18 +1,18 @@
 {
   "id": "WGS30YR",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity",
   "observation_start": "1977-02-18",
-  "observation_end": "2022-05-06",
+  "observation_end": "2022-05-13",
   "frequency": "Weekly, Ending Friday",
   "frequency_short": "W",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-09 15:17:10-05",
-  "popularity": 29,
+  "last_updated": "2022-05-16 15:19:12-05",
+  "popularity": 28,
   "group_popularity": 77,
   "notes": "Yields on actively traded non-inflation-indexed issues adjusted to constant maturities. The 30-year Treasury constant maturity series was discontinued on February 18, 2002, and reintroduced on February 9, 2006.\nFor further information regarding treasury constant maturity data, please refer to http://www.federalreserve.gov/releases/h15/current/h15.pdf and http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx."
 }

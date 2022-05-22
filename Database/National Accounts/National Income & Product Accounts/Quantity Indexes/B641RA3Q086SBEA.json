@@ -1,7 +1,7 @@
 {
   "id": "B641RA3Q086SBEA",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Real exports of goods: Automotive vehicles, engines, and parts (chain-type quantity index)",
   "observation_start": "1967-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-28 07:57:05-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B641RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "B1305C1A027NBEA",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Monetary interest paid: Domestic: Corporate business: Financial: on deposits",
   "observation_start": "1959-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:41:13-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: B1305C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

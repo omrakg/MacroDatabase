@@ -1,7 +1,7 @@
 {
   "id": "PCEC96",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Real Personal Consumption Expenditures",
   "observation_start": "2002-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-29 07:43:12-05",
-  "popularity": 72,
-  "group_popularity": 75,
+  "popularity": 73,
+  "group_popularity": 76,
   "notes": "BEA Account Code: DPCERX\nA Guide to the National Income and Product Accounts of the United States (http://www.bea.gov/national/pdf/nipaguid.pdf) (NIPA)"
 }

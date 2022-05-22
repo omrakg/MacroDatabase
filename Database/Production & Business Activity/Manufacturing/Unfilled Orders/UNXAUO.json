@@ -1,7 +1,7 @@
 {
   "id": "UNXAUO",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Manufacturers' Unfilled Orders: Nondefense Capital Goods Excluding Aircraft",
   "observation_start": "1992-01-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-13 09:02:12-05",
   "popularity": 1,
-  "group_popularity": 12,
+  "group_popularity": 11,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

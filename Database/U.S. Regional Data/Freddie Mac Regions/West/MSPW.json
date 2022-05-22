@@ -1,0 +1,17 @@
+{
+  "id": "MSPW",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Median Sales Price of Houses Sold for the West Census Region",
+  "observation_start": "1963-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-26 09:01:14-05",
+  "popularity": 32,
+  "group_popularity": 32
+}

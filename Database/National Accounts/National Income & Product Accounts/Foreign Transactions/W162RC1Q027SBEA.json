@@ -1,7 +1,7 @@
 {
   "id": "W162RC1Q027SBEA",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Current taxes and transfer payments to the rest of the world: Net lending or net borrowing (-), NIPAs",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:55:41-05",
   "popularity": 3,
-  "group_popularity": 3,
+  "group_popularity": 4,
   "notes": "BEA Account Code: W162RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

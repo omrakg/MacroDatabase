@@ -1,7 +1,7 @@
 {
   "id": "IS231",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Outbound Price Index (International Services): Air Freight",
   "observation_start": "1992-09-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-13 07:36:03-05",
-  "popularity": 23,
-  "group_popularity": 23,
+  "popularity": 21,
+  "group_popularity": 21,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

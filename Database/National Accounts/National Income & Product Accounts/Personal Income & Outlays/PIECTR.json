@@ -1,7 +1,7 @@
 {
   "id": "PIECTR",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Real personal income excluding current transfer receipts",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:52:13-05",
-  "popularity": 10,
-  "group_popularity": 46,
+  "popularity": 11,
+  "group_popularity": 49,
   "notes": "BEA Account Code: W875RX\n\nThe current-dollar measure is deflated by the implicit price deflator for personal consumption expenditures."
 }

@@ -1,7 +1,7 @@
 {
   "id": "NC000346Q",
-  "realtime_start": "2022-05-08",
-  "realtime_end": "2022-05-08",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Personal Consumption Expenditures: Durable Goods",
   "observation_start": "2002-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 07:53:42-05",
   "popularity": 8,
-  "group_popularity": 66,
+  "group_popularity": 64,
   "notes": "BEA Account Code: NC000346"
 }

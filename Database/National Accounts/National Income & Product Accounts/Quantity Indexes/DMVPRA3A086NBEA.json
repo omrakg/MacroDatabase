@@ -1,7 +1,7 @@
 {
   "id": "DMVPRA3A086NBEA",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Real personal consumption expenditures: Durable goods: Motor vehicle parts and accessories (chain-type quantity index)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:59:58-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: DMVPRA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

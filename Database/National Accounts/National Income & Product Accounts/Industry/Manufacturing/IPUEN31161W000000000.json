@@ -1,0 +1,18 @@
+{
+  "id": "IPUEN31161W000000000",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
+  "title": "Output per Employee for Manufacturing: Animal Slaughtering and Processing (NAICS 31161) in the United States",
+  "observation_start": "1987-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-02 12:09:35-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Output is the amount of goods and services produced. per employee"
+}

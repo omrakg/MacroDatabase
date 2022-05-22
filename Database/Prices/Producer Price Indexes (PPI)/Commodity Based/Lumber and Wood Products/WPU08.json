@@ -1,7 +1,7 @@
 {
   "id": "WPU08",
-  "realtime_start": "2022-05-15",
-  "realtime_end": "2022-05-15",
+  "realtime_start": "2022-05-22",
+  "realtime_end": "2022-05-22",
   "title": "Producer Price Index by Commodity: Lumber and Wood Products",
   "observation_start": "1926-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 07:51:15-05",
-  "popularity": 32,
-  "group_popularity": 32
+  "popularity": 34,
+  "group_popularity": 34
 }
