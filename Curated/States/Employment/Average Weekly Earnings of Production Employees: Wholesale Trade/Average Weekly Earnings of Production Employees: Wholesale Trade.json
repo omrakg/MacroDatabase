@@ -2,18 +2,18 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000004100000030",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
       "title": "Average Weekly Earnings of Production Employees: Wholesale Trade in West Virginia",
       "observation_start": "2003-01-01",
-      "observation_end": "2022-03-01",
+      "observation_end": "2022-04-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Dollars per Week",
       "units_short": "$ per Week",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-04-16 03:08:42-05",
+      "last_updated": "2022-05-21 02:13:16-05",
       "popularity": 1,
       "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/West Virginia"
@@ -98,8 +98,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000004100000030A",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
       "title": "Average Weekly Earnings of Production Employees: Wholesale Trade in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",

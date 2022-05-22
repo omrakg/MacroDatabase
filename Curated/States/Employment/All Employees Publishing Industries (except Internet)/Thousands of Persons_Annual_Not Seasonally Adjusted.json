@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000005051100001A",
-    "realtime_start": "2022-05-15",
-    "realtime_end": "2022-05-15",
+    "realtime_start": "2022-05-22",
+    "realtime_end": "2022-05-22",
     "title": "All Employees: Information: Publishing Industries (except Internet) in Washington",
     "observation_start": "2003-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Utah": {
     "id": "SMU49000005051100001A",
-    "realtime_start": "2022-05-15",
-    "realtime_end": "2022-05-15",
+    "realtime_start": "2022-05-22",
+    "realtime_end": "2022-05-22",
     "title": "All Employees: Information: Publishing Industries (except Internet) in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

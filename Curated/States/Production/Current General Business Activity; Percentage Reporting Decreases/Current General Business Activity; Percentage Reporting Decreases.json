@@ -2,8 +2,8 @@
   "Percent_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "BACTDSAMFRBDAL",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
       "title": "Current General Business Activity; Percentage Reporting Decreases for Texas",
       "observation_start": "2004-06-01",
       "observation_end": "2022-04-01",
@@ -23,8 +23,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "BACTDUAMFRBDAL",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
       "title": "Current General Business Activity; Percentage Reporting Decreases for Texas",
       "observation_start": "2004-06-01",
       "observation_end": "2022-04-01",
