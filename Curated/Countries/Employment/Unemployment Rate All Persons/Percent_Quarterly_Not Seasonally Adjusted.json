@@ -1,10 +1,10 @@
 {
   "Russian Federation": {
-    "id": "LRUNTTTTRUQ156N",
-    "realtime_start": "2022-05-15",
-    "realtime_end": "2022-05-15",
-    "title": "Unemployment Rate: Aged 15 and Over: All Persons for the Russian Federation",
-    "observation_start": "2009-10-01",
+    "id": "LRUN74TTRUQ156N",
+    "realtime_start": "2022-05-22",
+    "realtime_end": "2022-05-22",
+    "title": "Unemployment Rate: Aged 15-74: All Persons for the Russian Federation",
+    "observation_start": "1992-10-01",
     "observation_end": "2021-10-01",
     "frequency": "Quarterly",
     "frequency_short": "Q",
@@ -12,10 +12,10 @@
     "units_short": "%",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-05-05 16:38:22-05",
-    "popularity": 2,
-    "group_popularity": 4,
-    "notes": "OECD descriptor ID: LRUNTTTT\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "last_updated": "2022-03-10 10:31:04-06",
+    "popularity": 4,
+    "group_popularity": 18,
+    "notes": "OECD descriptor ID: LRUN74TT\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Russian Federation"
   }
 }

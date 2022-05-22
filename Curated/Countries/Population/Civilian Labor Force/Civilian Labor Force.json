@@ -2,8 +2,8 @@
   "Persons_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "LAUST720000000000006A",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
       "title": "Civilian Labor Force in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "PRLF",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
       "title": "Civilian Labor Force in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2022-03-01",
@@ -43,8 +43,8 @@
   "Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "PRLFN",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
       "title": "Civilian Labor Force in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2022-03-01",

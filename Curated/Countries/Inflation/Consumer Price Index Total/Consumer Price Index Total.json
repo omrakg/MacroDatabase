@@ -1,44 +1,44 @@
 {
-  "Index source base_Monthly_Not Seasonally Adjusted": {
-    "Saudi Arabia": {
-      "id": "SAUCPALTT01IXNBM",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
-      "title": "Consumer Price Index : All items : Total : Total for Saudi Arabia",
-      "observation_start": "1995-01-01",
+  "Index 2015=100_Monthly_Not Seasonally Adjusted": {
+    "United Kingdom": {
+      "id": "GBRCP040200IXOBM",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
+      "title": "Consumer Price Index: Housing, water, electricity, gas and other fuels (COICOP 04): Imputed rentals for housing: Total for the United Kingdom",
+      "observation_start": "1988-01-01",
       "observation_end": "2022-03-01",
       "frequency": "Monthly",
       "frequency_short": "M",
-      "units": "Index source base",
-      "units_short": "Index source base",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-05-12 09:17:15-05",
-      "popularity": 3,
-      "group_popularity": 5,
-      "notes": "OECD descriptor ID: SAU.CPALTT01.IXNB.M OECD unit ID: OECD country ID: CPALTT01 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/Saudi Arabia"
+      "last_updated": "2022-05-12 10:04:18-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: CP040200 OECD unit ID: IXOB OECD country ID: GBR All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/United Kingdom"
     }
   },
-  "Index source base_Quarterly_Not Seasonally Adjusted": {
-    "Saudi Arabia": {
-      "id": "SAUCPALTT01IXNBQ",
-      "realtime_start": "2022-05-15",
-      "realtime_end": "2022-05-15",
-      "title": "Consumer Price Index : All items : Total : Total for Saudi Arabia",
-      "observation_start": "1995-01-01",
+  "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
+    "United Kingdom": {
+      "id": "GBRCP040200IXOBQ",
+      "realtime_start": "2022-05-22",
+      "realtime_end": "2022-05-22",
+      "title": "Consumer Price Index: Housing, water, electricity, gas and other fuels (COICOP 04): Imputed rentals for housing: Total for the United Kingdom",
+      "observation_start": "1988-01-01",
       "observation_end": "2022-01-01",
       "frequency": "Quarterly",
       "frequency_short": "Q",
-      "units": "Index source base",
-      "units_short": "Index source base",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-05-12 09:11:35-05",
-      "popularity": 3,
-      "group_popularity": 5,
-      "notes": "OECD descriptor ID: SAU.CPALTT01.IXNB.Q OECD unit ID: OECD country ID: CPALTT01 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/Saudi Arabia"
+      "last_updated": "2022-05-12 10:44:33-05",
+      "popularity": 0,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: CP040200 OECD unit ID: IXOB OECD country ID: GBR All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/United Kingdom"
     }
   }
 }
