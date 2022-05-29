@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIUTILLICTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Public Utilities Licenses in Hawaii",
     "observation_start": "1955-01-01",
     "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   },
   "Arkansas": {
     "id": "ARUTILLICTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Public Utilities Licenses in Arkansas",
     "observation_start": "1951-01-01",
     "observation_end": "2021-01-01",

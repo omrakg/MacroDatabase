@@ -1,8 +1,8 @@
 {
   "North Dakota": {
     "id": "NDRVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Rental Vacancy Rate for North Dakota",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:36-05",
-    "popularity": 6,
-    "group_popularity": 6,
+    "popularity": 3,
+    "group_popularity": 3,
     "path": "Database/U.S. Regional Data/States/North Dakota"
   },
   "Alabama": {
@@ -73,8 +73,8 @@
   },
   "Arkansas": {
     "id": "ARRVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Rental Vacancy Rate for Arkansas",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -199,8 +199,8 @@
   },
   "Hawaii": {
     "id": "HIRVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Rental Vacancy Rate for Hawaii",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -235,8 +235,8 @@
   },
   "Illinois": {
     "id": "ILRVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Rental Vacancy Rate for Illinois",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -247,14 +247,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:09-05",
-    "popularity": 15,
-    "group_popularity": 15,
+    "popularity": 14,
+    "group_popularity": 14,
     "path": "Database/U.S. Regional Data/States/Illinois"
   },
   "Indiana": {
     "id": "INRVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Rental Vacancy Rate for Indiana",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -265,8 +265,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:24-05",
-    "popularity": 6,
-    "group_popularity": 6,
+    "popularity": 3,
+    "group_popularity": 3,
     "path": "Database/U.S. Regional Data/States/Indiana"
   },
   "Iowa": {
@@ -289,8 +289,8 @@
   },
   "Kansas": {
     "id": "KSRVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Rental Vacancy Rate for Kansas",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -301,14 +301,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:21-05",
-    "popularity": 9,
-    "group_popularity": 9,
+    "popularity": 6,
+    "group_popularity": 6,
     "path": "Database/U.S. Regional Data/States/Kansas"
   },
   "Kentucky": {
     "id": "KYRVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Rental Vacancy Rate for Kentucky",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -319,8 +319,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:39-05",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 2,
+    "group_popularity": 2,
     "path": "Database/U.S. Regional Data/States/Kentucky"
   },
   "Louisiana": {
@@ -343,8 +343,8 @@
   },
   "Maine": {
     "id": "MERVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Rental Vacancy Rate for Maine",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -355,8 +355,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:41-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 6,
+    "group_popularity": 6,
     "path": "Database/U.S. Regional Data/States/Maine"
   },
   "Montana": {

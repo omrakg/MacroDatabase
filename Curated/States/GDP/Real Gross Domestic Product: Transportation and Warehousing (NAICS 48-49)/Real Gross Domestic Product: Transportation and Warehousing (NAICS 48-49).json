@@ -2,8 +2,8 @@
   "Millions of Chained 2012 Dollars_Annual_Not Seasonally Adjusted": {
     "Hawaii": {
       "id": "HITRANSWARERGSP",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Real Gross Domestic Product: Transportation and Warehousing (NAICS 48-49) in Hawaii",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -78,8 +78,8 @@
     },
     "Arkansas": {
       "id": "ARTRANSWARERQGSP",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Real Gross Domestic Product: Transportation and Warehousing (NAICS 48-49) in Arkansas",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -175,8 +175,8 @@
   "Millions of Chained 2012 Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Hawaii": {
       "id": "HITRANSWARERQGSP",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Real Gross Domestic Product: Transportation and Warehousing (NAICS 48-49) in Hawaii",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -251,8 +251,8 @@
     },
     "Arkansas": {
       "id": "ARTRANSWARERQGSP",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Real Gross Domestic Product: Transportation and Warehousing (NAICS 48-49) in Arkansas",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",

@@ -2,8 +2,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003133200001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
     },
     "Texas": {
       "id": "SMU48000003133200001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -131,8 +131,8 @@
     },
     "Texas": {
       "id": "SMU48000003133200001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -167,8 +167,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000003133200001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -224,8 +224,8 @@
     },
     "Texas": {
       "id": "SMU48000003133200001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -260,8 +260,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000003133200001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",

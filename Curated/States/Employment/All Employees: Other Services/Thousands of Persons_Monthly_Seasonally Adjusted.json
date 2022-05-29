@@ -73,8 +73,8 @@
   },
   "Arkansas": {
     "id": "ARSRVON",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Other Services in Arkansas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -164,8 +164,8 @@
   },
   "Hawaii": {
     "id": "HISRVON",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Other Services in Hawaii",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -236,8 +236,8 @@
   },
   "North Dakota": {
     "id": "NDSRVON",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Other Services in North Dakota",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -362,8 +362,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000008000000001A",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Other Services in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

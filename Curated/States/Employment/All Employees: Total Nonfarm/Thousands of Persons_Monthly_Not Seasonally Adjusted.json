@@ -73,8 +73,8 @@
   },
   "Arkansas": {
     "id": "ARNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Arkansas",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -199,8 +199,8 @@
   },
   "Hawaii": {
     "id": "HINAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Hawaii",
     "observation_start": "1958-01-01",
     "observation_end": "2022-04-01",
@@ -211,8 +211,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:02:09-05",
-    "popularity": 3,
-    "group_popularity": 8,
+    "popularity": 2,
+    "group_popularity": 5,
     "path": "Database/U.S. Regional Data/States/Hawaii"
   },
   "Idaho": {
@@ -235,8 +235,8 @@
   },
   "Illinois": {
     "id": "ILNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Illinois",
     "observation_start": "1947-01-01",
     "observation_end": "2022-04-01",
@@ -247,14 +247,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:04:45-05",
-    "popularity": 3,
-    "group_popularity": 16,
+    "popularity": 2,
+    "group_popularity": 14,
     "path": "Database/U.S. Regional Data/States/Illinois"
   },
   "Indiana": {
     "id": "INNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Indiana",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -265,8 +265,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 03:40:15-05",
-    "popularity": 3,
-    "group_popularity": 10,
+    "popularity": 2,
+    "group_popularity": 7,
     "path": "Database/U.S. Regional Data/States/Indiana"
   },
   "Iowa": {
@@ -289,8 +289,8 @@
   },
   "Kansas": {
     "id": "KSNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Kansas",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -301,14 +301,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:04:44-05",
-    "popularity": 3,
+    "popularity": 2,
     "group_popularity": 7,
     "path": "Database/U.S. Regional Data/States/Kansas"
   },
   "Kentucky": {
     "id": "KYNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Kentucky",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -319,8 +319,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:02:53-05",
-    "popularity": 5,
-    "group_popularity": 12,
+    "popularity": 3,
+    "group_popularity": 6,
     "path": "Database/U.S. Regional Data/States/Kentucky"
   },
   "Louisiana": {
@@ -343,8 +343,8 @@
   },
   "Maine": {
     "id": "MENAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Maine",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -356,7 +356,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 03:39:14-05",
     "popularity": 1,
-    "group_popularity": 4,
+    "group_popularity": 5,
     "path": "Database/U.S. Regional Data/States/Maine"
   },
   "Maryland": {
@@ -433,8 +433,8 @@
   },
   "Mississippi": {
     "id": "MSNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Mississippi",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -446,13 +446,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:04:37-05",
     "popularity": 2,
-    "group_popularity": 5,
+    "group_popularity": 7,
     "path": "Database/U.S. Regional Data/States/Mississippi"
   },
   "Missouri": {
     "id": "MONAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Missouri",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -463,8 +463,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 03:36:56-05",
-    "popularity": 2,
-    "group_popularity": 8,
+    "popularity": 1,
+    "group_popularity": 7,
     "path": "Database/U.S. Regional Data/States/Missouri"
   },
   "Montana": {
@@ -505,8 +505,8 @@
   },
   "Nevada": {
     "id": "NVNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Nevada",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -517,8 +517,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:01:45-05",
-    "popularity": 5,
-    "group_popularity": 12,
+    "popularity": 4,
+    "group_popularity": 9,
     "path": "Database/U.S. Regional Data/States/Nevada"
   },
   "New Hampshire": {
@@ -577,8 +577,8 @@
   },
   "New York": {
     "id": "NYNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in New York",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -589,8 +589,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:02:44-05",
-    "popularity": 3,
-    "group_popularity": 18,
+    "popularity": 2,
+    "group_popularity": 15,
     "path": "Database/U.S. Regional Data/States/New York"
   },
   "North Carolina": {
@@ -613,8 +613,8 @@
   },
   "North Dakota": {
     "id": "NDNAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in North Dakota",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -625,8 +625,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:04:36-05",
-    "popularity": 3,
-    "group_popularity": 6,
+    "popularity": 2,
+    "group_popularity": 4,
     "path": "Database/U.S. Regional Data/States/North Dakota"
   },
   "Ohio": {
@@ -685,8 +685,8 @@
   },
   "Pennsylvania": {
     "id": "PANAN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Pennsylvania",
     "observation_start": "1939-01-01",
     "observation_end": "2022-04-01",
@@ -697,8 +697,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-21 02:02:43-05",
-    "popularity": 3,
-    "group_popularity": 12,
+    "popularity": 2,
+    "group_popularity": 10,
     "path": "Database/U.S. Regional Data/States/Pennsylvania"
   },
   "Rhode Island": {
@@ -757,8 +757,8 @@
   },
   "Texas": {
     "id": "SMU48000000000000001A",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Texas",
     "observation_start": "1939-01-01",
     "observation_end": "2021-01-01",
@@ -769,8 +769,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 03:55:06-05",
-    "popularity": 3,
-    "group_popularity": 21,
+    "popularity": 7,
+    "group_popularity": 26,
     "path": "Database/U.S. Regional Data/States/Texas"
   },
   "Utah": {
@@ -865,8 +865,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000000000000001A",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "All Employees: Total Nonfarm in Wisconsin",
     "observation_start": "1939-01-01",
     "observation_end": "2021-01-01",
@@ -877,8 +877,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 05:20:35-05",
-    "popularity": 2,
-    "group_popularity": 8,
+    "popularity": 1,
+    "group_popularity": 7,
     "path": "Database/U.S. Regional Data/States/Wisconsin"
   },
   "Wyoming": {

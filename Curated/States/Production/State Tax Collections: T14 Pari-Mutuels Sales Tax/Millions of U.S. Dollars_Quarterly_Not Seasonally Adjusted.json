@@ -96,8 +96,8 @@
   },
   "Texas": {
     "id": "QTAXT14QTAXCAT3TXNO",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Tax Collections: T14 Pari-Mutuels Sales Tax for Texas",
     "observation_start": "1994-01-01",
     "observation_end": "2021-10-01",
@@ -210,8 +210,8 @@
   },
   "Wisconsin": {
     "id": "QTAXT14QTAXCAT3WINO",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Tax Collections: T14 Pari-Mutuels Sales Tax for Wisconsin",
     "observation_start": "1994-01-01",
     "observation_end": "2021-10-01",

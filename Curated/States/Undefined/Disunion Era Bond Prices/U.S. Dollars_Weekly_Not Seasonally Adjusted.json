@@ -20,8 +20,8 @@
   },
   "Indiana": {
     "id": "HSTBNDINW052N",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Disunion Era Bond Prices for Indiana",
     "observation_start": "1855-01-05",
     "observation_end": "1865-10-24",
@@ -39,8 +39,8 @@
   },
   "Kentucky": {
     "id": "HSTBNDKYW052N",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Disunion Era Bond Prices for Kentucky",
     "observation_start": "1855-01-05",
     "observation_end": "1865-11-25",
@@ -77,8 +77,8 @@
   },
   "Missouri": {
     "id": "HSTBNDMOW052N",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Disunion Era Bond Prices for Missouri",
     "observation_start": "1855-02-21",
     "observation_end": "1865-10-24",
@@ -134,8 +134,8 @@
   },
   "Pennsylvania": {
     "id": "HSTBNDPAW052N",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Disunion Era Bond Prices for Pennsylvania",
     "observation_start": "1855-02-21",
     "observation_end": "1865-10-24",

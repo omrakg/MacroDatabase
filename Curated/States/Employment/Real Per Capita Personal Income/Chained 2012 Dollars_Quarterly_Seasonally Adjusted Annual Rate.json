@@ -1,8 +1,8 @@
 {
   "Missouri": {
     "id": "MOOI96",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income in Missouri",
     "observation_start": "2010-01-01",
     "observation_end": "2021-10-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARRPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for Arkansas",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -210,8 +210,8 @@
   },
   "Hawaii": {
     "id": "HIRPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for Hawaii",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -248,8 +248,8 @@
   },
   "Illinois": {
     "id": "ILRPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for Illinois",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -267,8 +267,8 @@
   },
   "Indiana": {
     "id": "INRPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for Indiana",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -305,8 +305,8 @@
   },
   "Kansas": {
     "id": "KSRPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for Kansas",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -324,8 +324,8 @@
   },
   "Kentucky": {
     "id": "KYRPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for Kentucky",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -362,8 +362,8 @@
   },
   "Maine": {
     "id": "MERPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for Maine",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -381,8 +381,8 @@
   },
   "Mississippi": {
     "id": "MSRPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for Mississippi",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -457,8 +457,8 @@
   },
   "North Dakota": {
     "id": "NDRPIPC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Per Capita Personal Income for North Dakota",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -469,8 +469,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 11:01:34-06",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 2,
+    "group_popularity": 2,
     "notes": "Real per capita personal income is the real personal income divided by midyear population. Real personal income is personal income at RPPs divided by the national PCE price index. It is estimated for states, state metro/nonmetro portions, metropolitan statistical areas, and the combined nonmetropolitan portion of the United States.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/rpp/rpp_newsrelease.htm or http://www.bea.gov/regional/methods.cfm.",
     "path": "Database/U.S. Regional Data/States/North Dakota"
   }

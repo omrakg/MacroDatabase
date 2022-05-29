@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWRET",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Retail Trade Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -58,8 +58,8 @@
   },
   "Arkansas": {
     "id": "ARWRET",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Retail Trade Wages and Salaries in Arkansas",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",

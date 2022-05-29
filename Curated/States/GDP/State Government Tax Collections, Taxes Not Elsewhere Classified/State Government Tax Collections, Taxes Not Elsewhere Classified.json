@@ -39,8 +39,8 @@
   },
   "Arkansas": {
     "id": "ARNOCLSTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Taxes Not Elsewhere Classified in Arkansas",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -172,8 +172,8 @@
   },
   "Missouri": {
     "id": "MONOCLSTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Taxes Not Elsewhere Classified in Missouri",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -267,8 +267,8 @@
   },
   "Pennsylvania": {
     "id": "PANOCLSTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Taxes Not Elsewhere Classified in Pennsylvania",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",

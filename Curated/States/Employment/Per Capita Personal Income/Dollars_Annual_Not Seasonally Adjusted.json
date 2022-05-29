@@ -73,8 +73,8 @@
   },
   "Arkansas": {
     "id": "ARPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Arkansas",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -85,8 +85,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:11-05",
-    "popularity": 8,
-    "group_popularity": 10,
+    "popularity": 6,
+    "group_popularity": 9,
     "path": "Database/U.S. Regional Data/States/Arkansas"
   },
   "California": {
@@ -199,8 +199,8 @@
   },
   "Hawaii": {
     "id": "HIPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Hawaii",
     "observation_start": "1950-01-01",
     "observation_end": "2021-01-01",
@@ -211,8 +211,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:11-05",
-    "popularity": 12,
-    "group_popularity": 12,
+    "popularity": 14,
+    "group_popularity": 14,
     "path": "Database/U.S. Regional Data/States/Hawaii"
   },
   "Idaho": {
@@ -235,8 +235,8 @@
   },
   "Illinois": {
     "id": "ILPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Illinois",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -247,14 +247,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:14-05",
-    "popularity": 6,
-    "group_popularity": 8,
+    "popularity": 8,
+    "group_popularity": 12,
     "path": "Database/U.S. Regional Data/States/Illinois"
   },
   "Indiana": {
     "id": "INPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Indiana",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -265,8 +265,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:20-05",
-    "popularity": 10,
-    "group_popularity": 11,
+    "popularity": 7,
+    "group_popularity": 8,
     "path": "Database/U.S. Regional Data/States/Indiana"
   },
   "Iowa": {
@@ -289,8 +289,8 @@
   },
   "Kansas": {
     "id": "KSPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Kansas",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -301,14 +301,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:22-05",
-    "popularity": 8,
-    "group_popularity": 8,
+    "popularity": 7,
+    "group_popularity": 7,
     "path": "Database/U.S. Regional Data/States/Kansas"
   },
   "Kentucky": {
     "id": "KYPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Kentucky",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -320,7 +320,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:22-05",
     "popularity": 4,
-    "group_popularity": 9,
+    "group_popularity": 8,
     "path": "Database/U.S. Regional Data/States/Kentucky"
   },
   "Louisiana": {
@@ -343,8 +343,8 @@
   },
   "Maine": {
     "id": "MEPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Maine",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -355,8 +355,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:17-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 5,
+    "group_popularity": 5,
     "path": "Database/U.S. Regional Data/States/Maine"
   },
   "Maryland": {
@@ -433,8 +433,8 @@
   },
   "Mississippi": {
     "id": "MSPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Mississippi",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -446,13 +446,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:19-05",
     "popularity": 8,
-    "group_popularity": 16,
+    "group_popularity": 13,
     "path": "Database/U.S. Regional Data/States/Mississippi"
   },
   "Missouri": {
     "id": "MOPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Missouri",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -464,7 +464,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:34-05",
     "popularity": 4,
-    "group_popularity": 9,
+    "group_popularity": 8,
     "path": "Database/U.S. Regional Data/States/Missouri"
   },
   "Montana": {
@@ -505,8 +505,8 @@
   },
   "Nevada": {
     "id": "NVPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Nevada",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -517,8 +517,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:25-05",
-    "popularity": 5,
-    "group_popularity": 5,
+    "popularity": 8,
+    "group_popularity": 8,
     "path": "Database/U.S. Regional Data/States/Nevada"
   },
   "New Hampshire": {
@@ -577,8 +577,8 @@
   },
   "New York": {
     "id": "NYPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in New York",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -589,8 +589,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:05-05",
-    "popularity": 23,
-    "group_popularity": 23,
+    "popularity": 24,
+    "group_popularity": 24,
     "path": "Database/U.S. Regional Data/States/New York"
   },
   "North Carolina": {
@@ -613,8 +613,8 @@
   },
   "North Dakota": {
     "id": "NDPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in North Dakota",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -625,8 +625,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:16-05",
-    "popularity": 5,
-    "group_popularity": 5,
+    "popularity": 16,
+    "group_popularity": 16,
     "path": "Database/U.S. Regional Data/States/North Dakota"
   },
   "Ohio": {
@@ -685,8 +685,8 @@
   },
   "Pennsylvania": {
     "id": "PAPCPI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Per Capita Personal Income in Pennsylvania",
     "observation_start": "1929-01-01",
     "observation_end": "2021-01-01",
@@ -697,8 +697,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-23 13:28:11-05",
-    "popularity": 9,
-    "group_popularity": 9,
+    "popularity": 7,
+    "group_popularity": 7,
     "path": "Database/U.S. Regional Data/States/Pennsylvania"
   },
   "Rhode Island": {

@@ -1,8 +1,8 @@
 {
   "North Dakota": {
     "id": "NDSALESTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, General Sales and Gross Receipts Taxes in North Dakota",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   },
   "Arkansas": {
     "id": "ARSALESTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, General Sales and Gross Receipts Taxes in Arkansas",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -172,8 +172,8 @@
   },
   "Hawaii": {
     "id": "HISALESTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, General Sales and Gross Receipts Taxes in Hawaii",
     "observation_start": "1955-01-01",
     "observation_end": "2021-01-01",
@@ -210,8 +210,8 @@
   },
   "Illinois": {
     "id": "ILSALESTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, General Sales and Gross Receipts Taxes in Illinois",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -229,8 +229,8 @@
   },
   "Indiana": {
     "id": "INSALESTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, General Sales and Gross Receipts Taxes in Indiana",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -267,8 +267,8 @@
   },
   "Kansas": {
     "id": "KSSALESTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, General Sales and Gross Receipts Taxes in Kansas",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -286,8 +286,8 @@
   },
   "Kentucky": {
     "id": "KYSALESTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, General Sales and Gross Receipts Taxes in Kentucky",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -324,8 +324,8 @@
   },
   "Maine": {
     "id": "MESALESTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, General Sales and Gross Receipts Taxes in Maine",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",

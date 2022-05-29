@@ -96,8 +96,8 @@
   },
   "Texas": {
     "id": "QTAXT29QTAXCAT3TXNO",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Tax Collections: T29 Other License Taxes for Texas",
     "observation_start": "1994-01-01",
     "observation_end": "2021-10-01",
@@ -210,8 +210,8 @@
   },
   "Wisconsin": {
     "id": "QTAXT29QTAXCAT3WINO",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Tax Collections: T29 Other License Taxes for Wisconsin",
     "observation_start": "1994-01-01",
     "observation_end": "2021-10-01",

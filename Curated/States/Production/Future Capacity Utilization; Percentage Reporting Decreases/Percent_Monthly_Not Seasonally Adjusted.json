@@ -1,8 +1,8 @@
 {
   "Texas": {
     "id": "FCAPUDUAMFRBDAL",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Future Capacity Utilization; Percentage Reporting Decreases for Texas",
     "observation_start": "2004-06-01",
     "observation_end": "2022-04-01",
@@ -14,7 +14,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-04-25 09:32:24-05",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 1,
     "notes": "Future Capacity Utilization reports the likely direction of capacity utilization for the manufacturing sector over the six months ahead for the state of Texas. For further information regarding the Texas Manufacturing Outlook Survey release from the Federal Reserve Bank of Dallas visit: https://www.dallasfed.org/research/surveys/tmos.aspx#tab-reports.",
     "path": "Database/U.S. Regional Data/States/Texas"
   }

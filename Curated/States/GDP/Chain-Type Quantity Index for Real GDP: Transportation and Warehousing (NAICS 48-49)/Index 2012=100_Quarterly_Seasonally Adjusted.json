@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HITRANSWAREQQGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Hawaii",
     "observation_start": "2005-01-01",
     "observation_end": "2021-10-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARTRANSWAREQQGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Arkansas",
     "observation_start": "2005-01-01",
     "observation_end": "2021-10-01",

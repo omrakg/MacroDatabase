@@ -1,8 +1,8 @@
 {
   "North Dakota": {
     "id": "NDSLIND",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Leading Index for North Dakota",
     "observation_start": "1982-01-01",
     "observation_end": "2020-02-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARSLIND",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Leading Index for Arkansas",
     "observation_start": "1982-01-01",
     "observation_end": "2020-02-01",
@@ -191,8 +191,8 @@
   },
   "Hawaii": {
     "id": "HISLIND",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Leading Index for Hawaii",
     "observation_start": "1982-01-01",
     "observation_end": "2020-02-01",
@@ -229,8 +229,8 @@
   },
   "Indiana": {
     "id": "INSLIND",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Leading Index for Indiana",
     "observation_start": "1982-01-01",
     "observation_end": "2020-02-01",

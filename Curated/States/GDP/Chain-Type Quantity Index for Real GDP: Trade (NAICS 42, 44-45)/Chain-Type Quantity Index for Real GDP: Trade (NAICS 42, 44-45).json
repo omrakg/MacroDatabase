@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARTRADEQGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Chain-Type Quantity Index for Real GDP: Trade (NAICS 42, 44-45) in Arkansas",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -172,8 +172,8 @@
   },
   "Hawaii": {
     "id": "HITRADEQGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Chain-Type Quantity Index for Real GDP: Trade (NAICS 42, 44-45) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",

@@ -74,8 +74,8 @@
     },
     "Arkansas": {
       "id": "ARTRADN",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Arkansas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -165,8 +165,8 @@
     },
     "Hawaii": {
       "id": "HITRADN",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Hawaii",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -201,8 +201,8 @@
     },
     "Texas": {
       "id": "SMU48000004000000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -213,8 +213,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:24:59-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 3,
+      "group_popularity": 3,
       "path": "Database/U.S. Regional Data/States/Texas"
     },
     "Utah": {
@@ -309,8 +309,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004000000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -419,8 +419,8 @@
     },
     "Arkansas": {
       "id": "ARTRADN",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Arkansas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -510,8 +510,8 @@
     },
     "Hawaii": {
       "id": "HITRADN",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Hawaii",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -546,8 +546,8 @@
     },
     "Texas": {
       "id": "SMU48000004000000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -558,8 +558,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:24:59-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 3,
+      "group_popularity": 3,
       "path": "Database/U.S. Regional Data/States/Texas"
     },
     "Utah": {
@@ -654,8 +654,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004000000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -764,8 +764,8 @@
     },
     "Arkansas": {
       "id": "ARTRADN",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Arkansas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -855,8 +855,8 @@
     },
     "Hawaii": {
       "id": "HITRADN",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Hawaii",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -909,8 +909,8 @@
     },
     "Texas": {
       "id": "SMU48000004000000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -921,8 +921,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:24:59-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 3,
+      "group_popularity": 3,
       "path": "Database/U.S. Regional Data/States/Texas"
     },
     "Utah": {
@@ -1017,8 +1017,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004000000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Trade, Transportation, and Utilities in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",

@@ -39,8 +39,8 @@
   },
   "Hawaii": {
     "id": "IPUZNL070150000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Hawaii",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -53,13 +53,13 @@
     "last_updated": "2022-03-01 10:26:23-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Hawaii"
   },
   "Kansas": {
     "id": "IPUZNL070200000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Kansas",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -72,13 +72,13 @@
     "last_updated": "2022-03-01 10:26:56-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Kansas"
   },
   "Kentucky": {
     "id": "IPUZNL070210000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Kentucky",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -91,7 +91,7 @@
     "last_updated": "2022-03-01 10:26:56-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Kentucky"
   },
   "Louisiana": {
@@ -115,8 +115,8 @@
   },
   "Maine": {
     "id": "IPUZNL070230000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Maine",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -129,7 +129,7 @@
     "last_updated": "2022-03-01 10:26:55-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Maine"
   },
   "Maryland": {
@@ -210,8 +210,8 @@
   },
   "Mississippi": {
     "id": "IPUZNL070280000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Mississippi",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -224,13 +224,13 @@
     "last_updated": "2022-03-01 10:26:55-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Mississippi"
   },
   "Missouri": {
     "id": "IPUZNL070290000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Missouri",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -243,7 +243,7 @@
     "last_updated": "2022-03-01 10:26:55-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Missouri"
   },
   "Montana": {
@@ -286,8 +286,8 @@
   },
   "Nevada": {
     "id": "IPUZNL070320000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Nevada",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -300,7 +300,7 @@
     "last_updated": "2022-03-01 10:26:23-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Nevada"
   },
   "New Hampshire": {
@@ -362,8 +362,8 @@
   },
   "New York": {
     "id": "IPUZNL070360000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in New York",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -376,7 +376,7 @@
     "last_updated": "2022-03-01 10:26:23-06",
     "popularity": 0,
     "group_popularity": 1,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/New York"
   },
   "North Carolina": {
@@ -400,8 +400,8 @@
   },
   "North Dakota": {
     "id": "IPUZNL070380000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in North Dakota",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -414,7 +414,7 @@
     "last_updated": "2022-03-01 10:26:22-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/North Dakota"
   },
   "Ohio": {
@@ -476,8 +476,8 @@
   },
   "Pennsylvania": {
     "id": "IPUZNL070420000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Pennsylvania",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -490,7 +490,7 @@
     "last_updated": "2022-03-01 10:26:22-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Pennsylvania"
   },
   "Rhode Island": {
@@ -571,8 +571,8 @@
   },
   "Texas": {
     "id": "IPUZNL070480000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Texas",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -585,7 +585,7 @@
     "last_updated": "2022-03-01 10:26:21-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Texas"
   },
   "Utah": {
@@ -685,8 +685,8 @@
   },
   "Wisconsin": {
     "id": "IPUZNL070550000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Labor Compensation for Private Nonfarm in Wisconsin",
     "observation_start": "2007-01-01",
     "observation_end": "2020-01-01",
@@ -699,7 +699,7 @@
     "last_updated": "2022-03-01 10:26:20-06",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans.",
+    "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation.",
     "path": "Database/U.S. Regional Data/States/Wisconsin"
   }
 }

@@ -1,8 +1,8 @@
 {
   "North Dakota": {
     "id": "NDRPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for North Dakota",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARRPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for Arkansas",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -210,8 +210,8 @@
   },
   "Hawaii": {
     "id": "HIRPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for Hawaii",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -248,8 +248,8 @@
   },
   "Illinois": {
     "id": "ILRPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for Illinois",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -267,8 +267,8 @@
   },
   "Indiana": {
     "id": "INRPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for Indiana",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -305,8 +305,8 @@
   },
   "Kansas": {
     "id": "KSRPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for Kansas",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -324,8 +324,8 @@
   },
   "Kentucky": {
     "id": "KYRPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for Kentucky",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -362,8 +362,8 @@
   },
   "Maine": {
     "id": "MERPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for Maine",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -381,8 +381,8 @@
   },
   "Mississippi": {
     "id": "MSRPPGOOD",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Goods for Mississippi",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",

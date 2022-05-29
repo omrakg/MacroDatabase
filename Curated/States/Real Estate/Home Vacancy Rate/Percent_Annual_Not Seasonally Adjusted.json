@@ -73,8 +73,8 @@
   },
   "Arkansas": {
     "id": "ARHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Arkansas",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -85,8 +85,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:45-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "path": "Database/U.S. Regional Data/States/Arkansas"
   },
   "California": {
@@ -199,8 +199,8 @@
   },
   "Hawaii": {
     "id": "HIHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Hawaii",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -211,8 +211,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:47-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "path": "Database/U.S. Regional Data/States/Hawaii"
   },
   "Idaho": {
@@ -235,8 +235,8 @@
   },
   "Illinois": {
     "id": "ILHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Illinois",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -253,8 +253,8 @@
   },
   "Indiana": {
     "id": "INHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Indiana",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -289,8 +289,8 @@
   },
   "Kansas": {
     "id": "KSHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Kansas",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -307,8 +307,8 @@
   },
   "Kentucky": {
     "id": "KYHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Kentucky",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -343,8 +343,8 @@
   },
   "Maine": {
     "id": "MEHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Maine",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -355,8 +355,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 10:32:50-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "path": "Database/U.S. Regional Data/States/Maine"
   },
   "Maryland": {
@@ -433,8 +433,8 @@
   },
   "Mississippi": {
     "id": "MSHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Mississippi",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -451,8 +451,8 @@
   },
   "Missouri": {
     "id": "MOHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Missouri",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -505,8 +505,8 @@
   },
   "Nevada": {
     "id": "NVHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Nevada",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -577,8 +577,8 @@
   },
   "New York": {
     "id": "NYHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for New York",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -613,8 +613,8 @@
   },
   "North Dakota": {
     "id": "NDHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for North Dakota",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",
@@ -685,8 +685,8 @@
   },
   "Pennsylvania": {
     "id": "PAHVAC",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Home Vacancy Rate for Pennsylvania",
     "observation_start": "1986-01-01",
     "observation_end": "2021-01-01",

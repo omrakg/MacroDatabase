@@ -1,8 +1,8 @@
 {
   "North Dakota": {
     "id": "NDSLGRTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Total Sales and Gross Receipts Taxes in North Dakota",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARSLGRTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Total Sales and Gross Receipts Taxes in Arkansas",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -191,8 +191,8 @@
   },
   "Hawaii": {
     "id": "HISLGRTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Total Sales and Gross Receipts Taxes in Hawaii",
     "observation_start": "1955-01-01",
     "observation_end": "2021-01-01",
@@ -229,8 +229,8 @@
   },
   "Indiana": {
     "id": "INSLGRTAX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "State Government Tax Collections, Total Sales and Gross Receipts Taxes in Indiana",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",

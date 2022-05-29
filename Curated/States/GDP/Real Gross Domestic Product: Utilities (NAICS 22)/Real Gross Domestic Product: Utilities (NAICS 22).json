@@ -2,8 +2,8 @@
   "Millions of Chained 2012 Dollars_Annual_Not Seasonally Adjusted": {
     "Hawaii": {
       "id": "HIUTILRGSP",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Hawaii",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -78,8 +78,8 @@
     },
     "Arkansas": {
       "id": "ARUTILRQGSP",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Arkansas",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -156,8 +156,8 @@
   "Millions of Chained 2012 Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Hawaii": {
       "id": "HIUTILRQGSP",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Hawaii",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -232,8 +232,8 @@
     },
     "Arkansas": {
       "id": "ARUTILRQGSP",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Arkansas",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",

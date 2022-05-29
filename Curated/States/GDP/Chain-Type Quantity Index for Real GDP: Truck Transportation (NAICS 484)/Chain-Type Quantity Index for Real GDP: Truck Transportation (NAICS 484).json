@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HITRUCKTRANQGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Chain-Type Quantity Index for Real GDP: Truck Transportation (NAICS 484) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARTRUCKTRANQGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Chain-Type Quantity Index for Real GDP: Truck Transportation (NAICS 484) in Arkansas",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",

@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000000500000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Total Private in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -52,7 +52,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:25:06-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 6,
       "path": "Database/U.S. Regional Data/States/Texas"
     },
     "Utah": {
@@ -147,8 +147,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000000500000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Total Private in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -160,7 +160,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:35-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     }
   },
@@ -203,8 +203,8 @@
     },
     "Texas": {
       "id": "SMU48000000500000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Total Private in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -216,7 +216,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:25:06-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 6,
       "path": "Database/U.S. Regional Data/States/Texas"
     },
     "Utah": {
@@ -311,8 +311,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000000500000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Total Private in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -324,7 +324,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:35-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     }
   },
@@ -367,8 +367,8 @@
     },
     "Texas": {
       "id": "SMU48000000500000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Total Private in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -380,7 +380,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:25:06-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 6,
       "path": "Database/U.S. Regional Data/States/Texas"
     },
     "Utah": {
@@ -475,8 +475,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000000500000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Total Private in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -488,7 +488,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:35-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     }
   },
@@ -531,8 +531,8 @@
     },
     "Texas": {
       "id": "SMU48000000500000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Total Private in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -544,7 +544,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:25:06-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 6,
       "path": "Database/U.S. Regional Data/States/Texas"
     },
     "Utah": {
@@ -639,8 +639,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000000500000001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "All Employees: Total Private in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -652,7 +652,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:35-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     }
   }

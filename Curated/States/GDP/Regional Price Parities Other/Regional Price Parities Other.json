@@ -1,8 +1,8 @@
 {
   "North Dakota": {
     "id": "NDRPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for North Dakota",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARRPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for Arkansas",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -210,8 +210,8 @@
   },
   "Hawaii": {
     "id": "HIRPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for Hawaii",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -248,8 +248,8 @@
   },
   "Illinois": {
     "id": "ILRPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for Illinois",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -267,8 +267,8 @@
   },
   "Indiana": {
     "id": "INRPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for Indiana",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -305,8 +305,8 @@
   },
   "Kansas": {
     "id": "KSRPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for Kansas",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -324,8 +324,8 @@
   },
   "Kentucky": {
     "id": "KYRPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for Kentucky",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -362,8 +362,8 @@
   },
   "Maine": {
     "id": "MERPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for Maine",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -381,8 +381,8 @@
   },
   "Mississippi": {
     "id": "MSRPPSERVEOTH",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Regional Price Parities: Services: Other for Mississippi",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",

@@ -96,8 +96,8 @@
   },
   "Texas": {
     "id": "PPU18TX48000A156NCEN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Estimated Percent of People Age 0-17 in Poverty for Texas",
     "observation_start": "1989-01-01",
     "observation_end": "2020-01-01",
@@ -210,8 +210,8 @@
   },
   "Wisconsin": {
     "id": "PPU18WI55000A156NCEN",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Estimated Percent of People Age 0-17 in Poverty for Wisconsin",
     "observation_start": "1989-01-01",
     "observation_end": "2020-01-01",

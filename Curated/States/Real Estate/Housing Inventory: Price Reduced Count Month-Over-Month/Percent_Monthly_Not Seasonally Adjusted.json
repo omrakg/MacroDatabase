@@ -96,8 +96,8 @@
   },
   "Texas": {
     "id": "PRIREDCOUMMTX",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Texas",
     "observation_start": "2017-07-01",
     "observation_end": "2022-04-01",
@@ -210,8 +210,8 @@
   },
   "Wisconsin": {
     "id": "PRIREDCOUMMWI",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Housing Inventory: Price Reduced Count Month-Over-Month in Wisconsin",
     "observation_start": "2017-07-01",
     "observation_end": "2022-04-01",

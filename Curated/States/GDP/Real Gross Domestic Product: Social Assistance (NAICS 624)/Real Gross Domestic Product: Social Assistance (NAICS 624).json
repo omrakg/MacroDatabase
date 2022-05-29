@@ -1,8 +1,8 @@
 {
   "North Dakota": {
     "id": "NDSOCASSRGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Gross Domestic Product: Social Assistance (NAICS 624) in North Dakota",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARSOCASSRGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Gross Domestic Product: Social Assistance (NAICS 624) in Arkansas",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -172,8 +172,8 @@
   },
   "Hawaii": {
     "id": "HISOCASSRGSP",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Real Gross Domestic Product: Social Assistance (NAICS 624) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",

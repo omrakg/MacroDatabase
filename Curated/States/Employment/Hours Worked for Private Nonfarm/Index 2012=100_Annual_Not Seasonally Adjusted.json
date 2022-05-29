@@ -39,8 +39,8 @@
   },
   "Hawaii": {
     "id": "IPUZNL201150000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Hawaii",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -53,13 +53,13 @@
     "last_updated": "2021-06-07 21:50:46-05",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Hawaii"
   },
   "Kansas": {
     "id": "IPUZNL201200000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Kansas",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -72,13 +72,13 @@
     "last_updated": "2021-06-07 21:50:42-05",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Kansas"
   },
   "Kentucky": {
     "id": "IPUZNL201210000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Kentucky",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -91,7 +91,7 @@
     "last_updated": "2021-06-07 21:50:42-05",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Kentucky"
   },
   "Louisiana": {
@@ -115,8 +115,8 @@
   },
   "Maine": {
     "id": "IPUZNL201230000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Maine",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -129,7 +129,7 @@
     "last_updated": "2021-06-07 21:50:41-05",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Maine"
   },
   "Maryland": {
@@ -210,8 +210,8 @@
   },
   "Mississippi": {
     "id": "IPUZNL201280000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Mississippi",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -224,13 +224,13 @@
     "last_updated": "2021-06-07 21:50:41-05",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Mississippi"
   },
   "Missouri": {
     "id": "IPUZNL201290000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Missouri",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -243,7 +243,7 @@
     "last_updated": "2021-06-07 21:50:40-05",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Missouri"
   },
   "Montana": {
@@ -286,8 +286,8 @@
   },
   "Nevada": {
     "id": "IPUZNL201320000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Nevada",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -300,7 +300,7 @@
     "last_updated": "2021-06-07 21:50:40-05",
     "popularity": 0,
     "group_popularity": 1,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Nevada"
   },
   "New Hampshire": {
@@ -362,8 +362,8 @@
   },
   "New York": {
     "id": "IPUZNL201360000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in New York",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -376,7 +376,7 @@
     "last_updated": "2021-06-07 21:50:39-05",
     "popularity": 0,
     "group_popularity": 1,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/New York"
   },
   "North Carolina": {
@@ -400,8 +400,8 @@
   },
   "North Dakota": {
     "id": "IPUZNL201380000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in North Dakota",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -414,7 +414,7 @@
     "last_updated": "2021-06-07 21:50:39-05",
     "popularity": 0,
     "group_popularity": 0,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/North Dakota"
   },
   "Ohio": {
@@ -476,8 +476,8 @@
   },
   "Pennsylvania": {
     "id": "IPUZNL201420000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Pennsylvania",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -490,7 +490,7 @@
     "last_updated": "2021-06-07 21:50:38-05",
     "popularity": 0,
     "group_popularity": 1,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Pennsylvania"
   },
   "Rhode Island": {
@@ -571,8 +571,8 @@
   },
   "Texas": {
     "id": "IPUZNL201480000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Texas",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -585,7 +585,7 @@
     "last_updated": "2021-06-07 21:50:37-05",
     "popularity": 0,
     "group_popularity": 1,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Texas"
   },
   "Utah": {
@@ -685,8 +685,8 @@
   },
   "Wisconsin": {
     "id": "IPUZNL201550000",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Hours Worked for Private Nonfarm in Wisconsin",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -699,7 +699,7 @@
     "last_updated": "2021-06-07 21:50:36-05",
     "popularity": 0,
     "group_popularity": 1,
-    "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry.",
+    "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services.",
     "path": "Database/U.S. Regional Data/States/Wisconsin"
   }
 }
