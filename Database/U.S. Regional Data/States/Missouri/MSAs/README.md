@@ -2,9 +2,9 @@
 |-----------------------|-------------------|
 | St. Joseph, MO-KS     |               103 |
 | Kansas City, MO-KS    |               190 |
-| Springfield, MO       |               176 |
-| Columbia, MO          |               132 |
-| St. Louis, MO-IL      |               343 |
-| Joplin, MO            |               146 |
-| Jefferson City, MO    |               126 |
-| Cape Girardeau, MO-IL |                90 |
+| Springfield, MO       |                 0 |
+| Columbia, MO          |                 0 |
+| St. Louis, MO-IL      |                 0 |
+| Joplin, MO            |                 0 |
+| Jefferson City, MO    |                 0 |
+| Cape Girardeau, MO-IL |                 0 |

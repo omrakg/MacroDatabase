@@ -1,3 +1,3 @@
 | Folder                       |   Files / Folders |
 |------------------------------|-------------------|
-| Portland-Salem, OR-WA (CMSA) |                 1 |
+| Portland-Salem, OR-WA (CMSA) |                 0 |

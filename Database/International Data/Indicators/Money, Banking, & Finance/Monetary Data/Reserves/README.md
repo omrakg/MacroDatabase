@@ -14,8 +14,8 @@
 | FRVGCSV   | Book Value of Federal Reserve Bank Held Gold Coins: NY Vault                                                                | 2012-01-01          | 2022-04-01        |
 | MHTGWSALQ | U.S. Mint Held Treasury Gold Working Stock: All Locations: Coins, Blanks, Miscellaneous                                     | 2012-01-01          | 2022-04-01        |
 | MHTGWSALV | Book Value of U.S. Mint Held Treasury Gold Working Stock: All Locations: Coins, Blanks, Miscellaneous                       | 2012-01-01          | 2022-04-01        |
-| NONBORRES | Reserves of Depository Institutions, Nonborrowed                                                                            | 1959-01-01          | 2022-03-01        |
-| TOTRESNS  | Reserves of Depository Institutions: Total                                                                                  | 1959-01-01          | 2022-03-01        |
+| NONBORRES | Reserves of Depository Institutions, Nonborrowed                                                                            | 1959-01-01          | 2022-04-01        |
+| TOTRESNS  | Reserves of Depository Institutions: Total                                                                                  | 1959-01-01          | 2022-04-01        |
 | WPNYGBV   | Book Value of U.S. Mint Held Gold Deep Storage: West Point, NY                                                              | 2012-01-01          | 2022-04-01        |
 | WPNYGTA   | U.S. Mint Held Gold Deep Storage: West Point, NY                                                                            | 2012-01-01          | 2022-04-01        |
-| WRESBAL   | Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average | 1984-01-04          | 2022-05-18        |
+| WRESBAL   | Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average | 1984-01-04          | 2022-05-25        |

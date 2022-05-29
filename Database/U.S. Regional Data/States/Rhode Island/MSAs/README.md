@@ -1,3 +1,3 @@
 | Folder                    |   Files / Folders |
 |---------------------------|-------------------|
-| Providence-Warwick, RI-MA |                78 |
+| Providence-Warwick, RI-MA |                 0 |

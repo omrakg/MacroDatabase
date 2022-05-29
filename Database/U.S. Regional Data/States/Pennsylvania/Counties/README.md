@@ -30,7 +30,7 @@
 | Beaver County, PA              |               145 |
 | Delaware County, PA            |               104 |
 | Elk County, PA                 |                90 |
-| Cambria County, PA             |               146 |
+| Cambria County, PA             |                 0 |
 | Columbia County, PA            |               146 |
 | Mifflin County, PA             |               143 |
 | Allegheny County, PA           |               145 |
@@ -65,5 +65,5 @@
 | Philadelphia County - city, PA |                 0 |
 | Schuylkill County, PA          |               147 |
 | Bradford County, PA            |               144 |
-| Sullivan County, PA            |                 0 |
+| Sullivan County, PA            |                88 |
 | Bedford County, PA             |                90 |

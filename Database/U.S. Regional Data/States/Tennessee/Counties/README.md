@@ -33,7 +33,7 @@
 | Haywood County, TN    |                89 |
 | Cumberland County, TN |               146 |
 | Henry County, TN      |                89 |
-| Trousdale County, TN  |                 0 |
+| Trousdale County, TN  |                90 |
 | Tipton County, TN     |               146 |
 | Gibson County, TN     |                90 |
 | Bledsoe County, TN    |                88 |
@@ -88,10 +88,10 @@
 | Loudon County, TN     |               146 |
 | Hawkins County, TN    |               145 |
 | Williamson County, TN |               147 |
-| Bradley County, TN    |               147 |
+| Bradley County, TN    |                 0 |
 | Hardin County, TN     |                89 |
 | Sumner County, TN     |               147 |
 | Macon County, TN      |                89 |
 | Campbell County, TN   |                90 |
-| McNairy County, TN    |                 0 |
+| McNairy County, TN    |                90 |
 | Decatur County, TN    |                89 |

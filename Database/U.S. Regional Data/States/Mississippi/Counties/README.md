@@ -9,7 +9,7 @@
 | Montgomery County, MS      |                87 |
 | Issaquena County, MS       |                88 |
 | Simpson County, MS         |                90 |
-| Kemper County, MS          |                87 |
+| Kemper County, MS          |                 0 |
 | Bolivar County, MS         |                90 |
 | Rankin County, MS          |               147 |
 | Itawamba County, MS        |                90 |
@@ -44,7 +44,7 @@
 | Prentiss County, MS        |                88 |
 | Leake County, MS           |                89 |
 | Franklin County, MS        |                88 |
-| Pontotoc County, MS        |                 0 |
+| Pontotoc County, MS        |                90 |
 | Smith County, MS           |                88 |
 | Neshoba County, MS         |                89 |
 | Wayne County, MS           |                88 |
@@ -69,7 +69,7 @@
 | Clarke County, MS          |                89 |
 | Pearl River County, MS     |               146 |
 | Clay County, MS            |                89 |
-| Newton County, MS          |                87 |
+| Newton County, MS          |                 0 |
 | Sunflower County, MS       |                89 |
 | Stone County, MS           |                90 |
 | Harrison County, MS        |               147 |

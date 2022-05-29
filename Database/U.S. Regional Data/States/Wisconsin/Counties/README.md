@@ -11,7 +11,7 @@
 | Barron County, WI                       |                90 |
 | Chippewa County, WI                     |               146 |
 | Fond Du Lac County, WI                  |               147 |
-| Waukesha County, WI                     |                 0 |
+| Waukesha County, WI                     |               147 |
 | Adams County, WI                        |                90 |
 | Winnebago County, WI                    |               147 |
 | Douglas County, WI                      |               146 |
@@ -36,7 +36,7 @@
 | Sheboygan County, WI                    |               147 |
 | Shawano County, WI                      |                90 |
 | Price County, WI                        |                89 |
-| Sawyer County, WI                       |                90 |
+| Sawyer County, WI                       |                 0 |
 | Waushara County, WI                     |                90 |
 | Dunn County, WI                         |                90 |
 | Ashland County, WI                      |                90 |

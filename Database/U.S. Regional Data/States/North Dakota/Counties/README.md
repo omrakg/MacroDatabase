@@ -43,12 +43,12 @@
 | Dickey County, ND        |                89 |
 | Bottineau County, ND     |                88 |
 | Dunn County, ND          |                88 |
-| Walsh County, ND         |                89 |
+| Walsh County, ND         |                 0 |
 | Traill County, ND        |                89 |
 | Slope County, ND         |                86 |
 | Foster County, ND        |                88 |
 | Steele County, ND        |                88 |
-| Golden Valley County, ND |                 0 |
+| Golden Valley County, ND |                88 |
 | Burke County, ND         |                87 |
 | McKenzie County, ND      |                89 |
 | Kidder County, ND        |                89 |

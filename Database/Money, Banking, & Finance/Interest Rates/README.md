@@ -11,7 +11,7 @@
 | Euro Short-Term Rate                            |                 9 |
 | Saving Accounts                                 |                55 |
 | Credit Card Loan Rates                          |                 4 |
-| Personal Loan Rates                             |                 3 |
+| Personal Loan Rates                             |                 0 |
 | Corporate Bonds                                 |               356 |
 | Bankers Acceptance Rate                         |                 1 |
 | Eurodollar Deposits                             |                 1 |

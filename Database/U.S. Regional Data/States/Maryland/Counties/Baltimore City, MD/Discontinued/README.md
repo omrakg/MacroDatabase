@@ -1,5 +1,2 @@
-| id                     | title                                                                                        | observation_start   | observation_end   |
-|------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU24925810500000002SA | Average Weekly Hours of All Employees: Total Private in Baltimore City, MD (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
-| SMU24925810500000003SA | Average Hourly Earnings of All Employees: Total Private in Baltimore City, MD (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
-| SMU24925810500000011SA | Average Weekly Earnings of All Employees: Total Private in Baltimore City, MD (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,17 +1,17 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Battle Creek, MI            |               149 |
-| Flint, MI                   |               176 |
+| Battle Creek, MI            |                 0 |
+| Flint, MI                   |                 0 |
 | Jackson, MI                 |                 0 |
-| Grand Rapids-Kentwood, MI   |               230 |
-| Ann Arbor, MI               |               179 |
-| Saginaw, MI                 |               164 |
-| South Bend-Mishawaka, IN-MI |               170 |
-| Lansing-East Lansing, MI    |               183 |
-| Holland-Grand Haven, MI     |                 6 |
-| Midland, MI                 |                59 |
-| Muskegon, MI                |               146 |
-| Bay City, MI                |               123 |
-| Kalamazoo-Portage, MI       |               173 |
-| Monroe, MI                  |               146 |
-| Detroit-Warren-Dearborn, MI |               319 |
+| Grand Rapids-Kentwood, MI   |                 0 |
+| Ann Arbor, MI               |                 0 |
+| Saginaw, MI                 |                 0 |
+| South Bend-Mishawaka, IN-MI |                 0 |
+| Lansing-East Lansing, MI    |                 0 |
+| Holland-Grand Haven, MI     |                 0 |
+| Midland, MI                 |                 0 |
+| Muskegon, MI                |                 0 |
+| Bay City, MI                |                 0 |
+| Kalamazoo-Portage, MI       |                 0 |
+| Monroe, MI                  |                 0 |
+| Detroit-Warren-Dearborn, MI |                 0 |

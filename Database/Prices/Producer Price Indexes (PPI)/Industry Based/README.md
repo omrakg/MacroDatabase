@@ -8,10 +8,10 @@
 | Finance and Insurance                                                    |                 0 |
 | Accommodation and Food Services                                          |                 0 |
 | Other Services (except Public Administration)                            |                 0 |
-| Public Administration                                                    |                13 |
+| Public Administration                                                    |                 0 |
 | Arts, Entertainment, and Recreation                                      |                 0 |
 | Health Care and Social Assistance                                        |                 0 |
-| Mining, Quarrying, and Oil and Gas Extraction                            |               145 |
+| Mining, Quarrying, and Oil and Gas Extraction                            |                 0 |
 | Professional, Scientific, and Technical Services                         |                 0 |
 | Educational Services                                                     |                 0 |
 | Transportation and Warehousing                                           |                 0 |

@@ -12,16 +12,16 @@
 | Sherman-Denison, TX                  |               137 |
 | College Station-Bryan, TX            |               162 |
 | Laredo, TX                           |               218 |
-| Odessa, TX                           |               166 |
-| Austin-Round Rock-Georgetown, TX     |               305 |
-| Abilene, TX                          |               162 |
-| Dallas-Fort Worth-Arlington, TX      |               245 |
-| Amarillo, TX                         |               165 |
-| Houston-The Woodlands-Sugar Land, TX |               463 |
-| Wichita Falls, TX                    |               162 |
-| El Paso, TX                          |               224 |
-| San Angelo, TX                       |               142 |
-| Midland, TX                          |               166 |
-| Lubbock, TX                          |               162 |
-| Beaumont-Port Arthur, TX             |               171 |
-| Longview, TX                         |               172 |
+| Odessa, TX                           |                 0 |
+| Austin-Round Rock-Georgetown, TX     |                 0 |
+| Abilene, TX                          |                 0 |
+| Dallas-Fort Worth-Arlington, TX      |                 0 |
+| Amarillo, TX                         |                 0 |
+| Houston-The Woodlands-Sugar Land, TX |                 0 |
+| Wichita Falls, TX                    |                 0 |
+| El Paso, TX                          |                 0 |
+| San Angelo, TX                       |                 0 |
+| Midland, TX                          |                 0 |
+| Lubbock, TX                          |                 0 |
+| Beaumont-Port Arthur, TX             |                 0 |
+| Longview, TX                         |                 0 |

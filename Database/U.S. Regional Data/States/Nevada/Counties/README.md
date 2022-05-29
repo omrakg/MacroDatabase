@@ -3,7 +3,7 @@
 | Eureka County, NV     |                85 |
 | Washoe County, NV     |               147 |
 | Esmeralda County, NV  |                85 |
-| Humboldt County, NV   |                90 |
+| Humboldt County, NV   |                 0 |
 | White Pine County, NV |                89 |
 | Douglas County, NV    |               146 |
 | Pershing County, NV   |                89 |

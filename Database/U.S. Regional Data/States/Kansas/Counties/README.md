@@ -15,7 +15,7 @@
 | Greeley County, KS      |                87 |
 | Sedgwick County, KS     |               147 |
 | Ellsworth County, KS    |                89 |
-| Brown County, KS        |                 0 |
+| Brown County, KS        |                90 |
 | Rush County, KS         |                88 |
 | Stanton County, KS      |                88 |
 | Crawford County, KS     |                90 |
@@ -41,7 +41,7 @@
 | Franklin County, KS     |                90 |
 | Hamilton County, KS     |                87 |
 | Logan County, KS        |                89 |
-| Cloud County, KS        |                89 |
+| Cloud County, KS        |                 0 |
 | Clark County, KS        |                88 |
 | Doniphan County, KS     |                90 |
 | Finney County, KS       |                90 |
@@ -75,7 +75,7 @@
 | Osage County, KS        |                90 |
 | Kearny County, KS       |                89 |
 | Osborne County, KS      |                88 |
-| Republic County, KS     |                 0 |
+| Republic County, KS     |                89 |
 | Saline County, KS       |               146 |
 | Ottawa County, KS       |                90 |
 | Jackson County, KS      |                90 |
@@ -101,7 +101,7 @@
 | Douglas County, KS      |               147 |
 | Russell County, KS      |                88 |
 | Neosho County, KS       |                90 |
-| Sheridan County, KS     |                86 |
+| Sheridan County, KS     |                 0 |
 | Comanche County, KS     |                87 |
 | Ellis County, KS        |                90 |
 | Woodson County, KS      |                88 |

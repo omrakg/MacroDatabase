@@ -1,6 +1,6 @@
 | Folder                                  |   Files / Folders |
 |-----------------------------------------|-------------------|
-| Green Bay, WI                           |                 0 |
+| Green Bay, WI                           |               167 |
 | Sheboygan, WI                           |               150 |
 | Appleton, WI                            |               170 |
 | Milwaukee-Waukesha, WI                  |               252 |

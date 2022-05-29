@@ -1,3 +1,3 @@
 | Folder        |   Files / Folders |
 |---------------|-------------------|
-| Shares of GDP |                73 |
+| Shares of GDP |                 0 |

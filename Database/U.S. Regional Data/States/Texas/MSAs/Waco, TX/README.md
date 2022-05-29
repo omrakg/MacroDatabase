@@ -156,7 +156,7 @@
 | WACO348UR                 | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | WACO348URN                | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | WACPOP                    | Resident Population in Waco, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| WACSA158MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-02-01          | 2022-03-01        |
-| WACSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Waco, TX (MSA)                                             | 1990-02-01          | 2022-03-01        |
-| WACSA175MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-01-01          | 2022-03-01        |
+| WACSA158MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-02-01          | 2022-04-01        |
+| WACSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Waco, TX (MSA)                                             | 1990-02-01          | 2022-04-01        |
+| WACSA175MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-01-01          | 2022-04-01        |
 | WACSA674AFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |

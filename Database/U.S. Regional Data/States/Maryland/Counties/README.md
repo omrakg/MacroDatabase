@@ -1,26 +1,26 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| Queen Anne's County, MD    |               146 |
-| Baltimore City, MD         |               236 |
-| Talbot County, MD          |                90 |
-| Montgomery County, MD      |               147 |
-| Calvert County, MD         |               147 |
-| Somerset County, MD        |                90 |
-| Kent County, MD            |                90 |
-| Howard County, MD          |               147 |
-| Washington County, MD      |               147 |
-| St. Mary's County, MD      |               147 |
-| Garrett County, MD         |                90 |
-| Cecil County, MD           |               147 |
-| Caroline County, MD        |                90 |
+| Queen Anne's County, MD    |                 0 |
+| Baltimore City, MD         |                 0 |
+| Talbot County, MD          |                 0 |
+| Montgomery County, MD      |                 0 |
+| Calvert County, MD         |                 0 |
+| Somerset County, MD        |                 0 |
+| Kent County, MD            |                 0 |
+| Howard County, MD          |                 0 |
+| Washington County, MD      |                 0 |
+| St. Mary's County, MD      |                 0 |
+| Garrett County, MD         |                 0 |
+| Cecil County, MD           |                 0 |
+| Caroline County, MD        |                 0 |
 | Charles County, MD         |                 0 |
-| Dorchester County, MD      |                90 |
-| Harford County, MD         |               147 |
-| Allegany County, MD        |               147 |
-| Carroll County, MD         |               147 |
-| Anne Arundel County, MD    |               147 |
-| Wicomico County, MD        |               147 |
-| Prince George's County, MD |               147 |
-| Frederick County, MD       |               147 |
-| Baltimore County, MD       |               148 |
-| Worcester County, MD       |               146 |
+| Dorchester County, MD      |                 0 |
+| Harford County, MD         |                 0 |
+| Allegany County, MD        |                 0 |
+| Carroll County, MD         |                 0 |
+| Anne Arundel County, MD    |                 0 |
+| Wicomico County, MD        |                 0 |
+| Prince George's County, MD |                 0 |
+| Frederick County, MD       |                 0 |
+| Baltimore County, MD       |                 0 |
+| Worcester County, MD       |                 0 |

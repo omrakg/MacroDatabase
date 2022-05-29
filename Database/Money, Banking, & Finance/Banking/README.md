@@ -6,7 +6,7 @@
 | 8th District Banking Performance     |                 9 |
 | Delinquencies and Delinquency Rates  |               101 |
 | Condition of Banks                   |                10 |
-| Consumer Credit                      |                91 |
+| Consumer Credit                      |               127 |
 | Failures and Assistance Transactions |                24 |
 | Senior Loan Officer Survey           |                35 |
 | Commercial Banking                   |                 6 |

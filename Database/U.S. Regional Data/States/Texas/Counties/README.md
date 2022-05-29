@@ -42,7 +42,7 @@
 | Colorado County, TX      |                90 |
 | Foard County, TX         |                87 |
 | Kerr County, TX          |               146 |
-| Roberts County, TX       |                88 |
+| Roberts County, TX       |                 0 |
 | Collin County, TX        |               147 |
 | Scurry County, TX        |                89 |
 | Hockley County, TX       |                90 |
@@ -69,7 +69,7 @@
 | Wood County, TX          |                90 |
 | Dickens County, TX       |                86 |
 | Terrell County, TX       |                85 |
-| Smith County, TX         |                 0 |
+| Smith County, TX         |               147 |
 | Lynn County, TX          |                88 |
 | Jim Hogg County, TX      |                87 |
 | Wharton County, TX       |                90 |
@@ -102,7 +102,7 @@
 | Wise County, TX          |               146 |
 | Erath County, TX         |                90 |
 | Fannin County, TX        |                90 |
-| Clay County, TX          |                88 |
+| Clay County, TX          |                 0 |
 | Pecos County, TX         |                89 |
 | Terry County, TX         |                90 |
 | Freestone County, TX     |                90 |
@@ -129,7 +129,7 @@
 | Hutchinson County, TX    |                90 |
 | Falls County, TX         |                89 |
 | Cameron County, TX       |               147 |
-| Harris County, TX        |                 0 |
+| Harris County, TX        |               147 |
 | Menard County, TX        |                87 |
 | Llano County, TX         |                90 |
 | Johnson County, TX       |               147 |
@@ -189,7 +189,7 @@
 | Starr County, TX         |                89 |
 | Hall County, TX          |                88 |
 | Eastland County, TX      |                88 |
-| Cottle County, TX        |                 0 |
+| Cottle County, TX        |                87 |
 | Tom Green County, TX     |               147 |
 | Deaf Smith County, TX    |                89 |
 | Edwards County, TX       |                86 |
@@ -205,7 +205,7 @@
 | Milam County, TX         |                90 |
 | Polk County, TX          |                90 |
 | Mitchell County, TX      |                87 |
-| Newton County, TX        |                87 |
+| Newton County, TX        |                 0 |
 | Cooke County, TX         |                90 |
 | Limestone County, TX     |                88 |
 | Randall County, TX       |               147 |

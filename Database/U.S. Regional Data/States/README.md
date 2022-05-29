@@ -40,7 +40,7 @@
 | Colorado             |                 6 |
 | Alaska               |                 7 |
 | Virginia             |                 8 |
-| Virgin Islands       |               171 |
+| Virgin Islands       |                 0 |
 | Indiana              |                 7 |
 | South Carolina       |                 5 |
 | New Mexico           |                 5 |

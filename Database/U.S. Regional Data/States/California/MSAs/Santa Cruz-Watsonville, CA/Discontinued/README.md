@@ -1,9 +1,2 @@
-| id                     | title                                                                                                      | observation_start   | observation_end   |
-|------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP42100            | Total Per Capita Real Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
-| SMU06421000500000002SA | Average Weekly Hours of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
-| SMU06421000500000003SA | Average Hourly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
-| SMU06421000500000011SA | Average Weekly Earnings of All Employees: Total Private in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
-| SMU06421007072200001   | All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)        | 1990-01-01          | 2013-12-01        |
-| SMU06421007072200001A  | All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)        | 1990-01-01          | 2012-01-01        |
-| SMU06421007072200001SA | All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)        | 1990-01-01          | 2013-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

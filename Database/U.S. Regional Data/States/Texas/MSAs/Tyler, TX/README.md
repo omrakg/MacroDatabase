@@ -155,7 +155,7 @@
 | TYLE348UR                 | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | TYLE348URN                | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
 | TYLPOP                    | Resident Population in Tyler, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| TYLSA158MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-02-01          | 2022-03-01        |
-| TYLSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                             | 1990-02-01          | 2022-03-01        |
-| TYLSA175MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-01-01          | 2022-03-01        |
+| TYLSA158MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-02-01          | 2022-04-01        |
+| TYLSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                             | 1990-02-01          | 2022-04-01        |
+| TYLSA175MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-01-01          | 2022-04-01        |
 | TYLSA674AFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |

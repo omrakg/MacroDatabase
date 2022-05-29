@@ -10,7 +10,7 @@
 | Dover-Durham, NH-ME                     |                79 |
 | Keene, NH                               |                 0 |
 | Rochester-Dover, NH-ME                  |                 4 |
-| Manchester, NH                          |                92 |
+| Manchester, NH                          |                 0 |
 | Claremont, NH                           |                 0 |
 | Lebanon, NH-VT                          |                 0 |
 | Laconia, NH                             |                 0 |

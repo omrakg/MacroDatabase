@@ -1,12 +1,2 @@
-| id                     | title                                                                                                                        | observation_start   | observation_end   |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP39340            | Total Per Capita Real Gross Domestic Product for Provo-Orem, UT (MSA) (DISCONTINUED)                                         | 2001-01-01          | 2017-01-01        |
-| SMU49393400500000002SA | Average Weekly Hours of All Employees: Total Private in Provo-Orem, UT (MSA) (DISCONTINUED)                                  | 2007-01-01          | 2022-03-01        |
-| SMU49393400500000003SA | Average Hourly Earnings of All Employees: Total Private in Provo-Orem, UT (MSA) (DISCONTINUED)                               | 2007-01-01          | 2022-03-01        |
-| SMU49393400500000011SA | Average Weekly Earnings of All Employees: Total Private in Provo-Orem, UT (MSA) (DISCONTINUED)                               | 2007-01-01          | 2022-03-01        |
-| SMU49393404000000007SA | Average Weekly Hours of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA) (DISCONTINUED)    | 2002-01-01          | 2022-03-01        |
-| SMU49393404000000008SA | Average Hourly Earnings of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA) (DISCONTINUED) | 2002-01-01          | 2022-03-01        |
-| SMU49393404000000030SA | Average Weekly Earnings of Production Employees: Trade, Transportation, and Utilities in Provo-Orem, UT (MSA) (DISCONTINUED) | 2002-01-01          | 2022-03-01        |
-| SMU49393404200000007SA | Average Weekly Hours of Production Employees: Retail Trade in Provo-Orem, UT (MSA) (DISCONTINUED)                            | 2002-01-01          | 2022-03-01        |
-| SMU49393404200000008SA | Average Hourly Earnings of Production Employees: Retail Trade in Provo-Orem, UT (MSA) (DISCONTINUED)                         | 2002-01-01          | 2022-03-01        |
-| SMU49393404200000030SA | Average Weekly Earnings of Production Employees: Retail Trade in Provo-Orem, UT (MSA) (DISCONTINUED)                         | 2002-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|
