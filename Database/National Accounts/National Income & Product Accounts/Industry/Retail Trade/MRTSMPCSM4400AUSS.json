@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCSM4400AUSS",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Retail Sales: Retail Trade, Excluding Motor Vehicle and Parts Dealers",
   "observation_start": "1992-02-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-17 09:07:10-05",
   "popularity": 1,
-  "group_popularity": 30,
+  "group_popularity": 26,
   "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
 }

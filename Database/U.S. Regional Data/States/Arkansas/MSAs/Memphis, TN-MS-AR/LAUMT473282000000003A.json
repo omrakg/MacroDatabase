@@ -1,7 +1,7 @@
 {
   "id": "LAUMT473282000000003A",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Unemployment Rate in Memphis, TN-MS-AR (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-27 10:23:42-05",
   "popularity": 1,
-  "group_popularity": 29
+  "group_popularity": 22
 }

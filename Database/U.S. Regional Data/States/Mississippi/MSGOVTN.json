@@ -1,7 +1,7 @@
 {
   "id": "MSGOVTN",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "All Employees: Government in Mississippi",
   "observation_start": "1990-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-21 03:35:39-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 4,
   "notes": "Industry based on 2002 North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2002) for additional information about NAICS."
 }

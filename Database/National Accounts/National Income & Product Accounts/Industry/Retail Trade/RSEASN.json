@@ -1,7 +1,7 @@
 {
   "id": "RSEASN",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Advance Retail Sales: Electronics and Appliance Stores",
   "observation_start": "1992-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-17 07:34:19-05",
-  "popularity": 8,
-  "group_popularity": 37,
+  "popularity": 9,
+  "group_popularity": 36,
   "notes": "The value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance estimate will be superseded in following months by revised estimates derived from the larger Monthly Retail Trade Survey. The associated series from the Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/MRTSSM443USN\n\n Information about the Advance Monthly Retail Sales Survey can be found on the Census website at https://www.census.gov/retail/marts/about_the_surveys.html"
 }

@@ -1,7 +1,7 @@
 {
   "id": "DAUTONSA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Motor Vehicle Retail Sales: Domestic Autos",
   "observation_start": "1967-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-06 13:18:19-05",
-  "popularity": 17,
+  "last_updated": "2022-05-27 08:44:15-05",
+  "popularity": 13,
   "group_popularity": 46,
   "notes": "Autos are all passenger cars, including station wagons. Domestic sales are all United States (U.S.) sales of vehicles assembled in the U.S., Canada, and Mexico."
 }

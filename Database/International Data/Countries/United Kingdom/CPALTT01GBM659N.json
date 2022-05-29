@@ -1,7 +1,7 @@
 {
   "id": "CPALTT01GBM659N",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Consumer Price Index: Total All Items for the United Kingdom",
   "observation_start": "1960-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 09:22:04-05",
-  "popularity": 31,
+  "popularity": 33,
   "group_popularity": 37,
   "notes": "OECD descriptor ID: CPALTT01\nOECD unit ID: GY\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

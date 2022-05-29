@@ -1,8 +1,8 @@
 {
   "id": "IPUZNT301380000",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
-  "title": "Value of Production for Private Nonfarm in North Dakota",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
+  "title": "Value-Added Output for Private Nonfarm in North Dakota",
   "observation_start": "2008-01-01",
   "observation_end": "2020-01-01",
   "frequency": "Annual",
@@ -14,5 +14,5 @@
   "last_updated": "2021-06-07 23:35:24-05",
   "popularity": 0,
   "group_popularity": 0,
-  "notes": "Value of production is the output of an industry or sector at a given level of aggregation that only reflects deliveries outside of that industry or sector. (Also known as sectoral output.)"
+  "notes": "Value-added output is the current dollar value of output that has been adjusted for changes in inventory (gross output) and the removal of intermediate inputs (energy, material, and services)."
 }

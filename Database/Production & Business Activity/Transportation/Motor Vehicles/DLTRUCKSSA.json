@@ -1,7 +1,7 @@
 {
   "id": "DLTRUCKSSA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Motor Vehicle Retail Sales: Domestic Light Weight Trucks",
   "observation_start": "1967-01-01",
   "observation_end": "2022-04-01",
@@ -11,7 +11,7 @@
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-06 13:18:20-05",
+  "last_updated": "2022-05-27 08:44:20-05",
   "popularity": 6,
   "group_popularity": 18,
   "notes": "Light trucks are trucks up to 14,000 pounds gross vehicle weight, including minivans and sport utility vehicles. Prior to the 2003 Benchmark Revision, light trucks were up to 10,000 pounds."

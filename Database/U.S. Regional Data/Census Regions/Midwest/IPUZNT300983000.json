@@ -1,8 +1,8 @@
 {
   "id": "IPUZNT300983000",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
-  "title": "Value of Production for Private Nonfarm in the Midwest Census Region",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
+  "title": "Value-Added Output for Private Nonfarm in the Midwest Census Region",
   "observation_start": "2007-01-01",
   "observation_end": "2020-01-01",
   "frequency": "Annual",
@@ -14,5 +14,5 @@
   "last_updated": "2021-06-07 23:37:09-05",
   "popularity": 1,
   "group_popularity": 1,
-  "notes": "Value of production is the output of an industry or sector at a given level of aggregation that only reflects deliveries outside of that industry or sector. (Also known as sectoral output.)"
+  "notes": "Value-added output is the current dollar value of output that has been adjusted for changes in inventory (gross output) and the removal of intermediate inputs (energy, material, and services)."
 }

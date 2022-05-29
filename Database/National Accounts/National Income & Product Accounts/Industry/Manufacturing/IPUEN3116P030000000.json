@@ -1,8 +1,8 @@
 {
   "id": "IPUEN3116P030000000",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
-  "title": "Intermediate Purchases Cost Share for Manufacturing: Animal Slaughtering and Processing (NAICS 3116) in the United States",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
+  "title": "Intermediate Inputs Share for Manufacturing: Animal Slaughtering and Processing (NAICS 3116) in the United States",
   "observation_start": "1987-01-01",
   "observation_end": "2019-01-01",
   "frequency": "Annual",
@@ -14,5 +14,5 @@
   "last_updated": "2022-03-01 10:50:28-06",
   "popularity": 0,
   "group_popularity": 0,
-  "notes": "Intermediate purchases are the value of produced goods and services which are used as energy, materials, and purchased services in an industry or sector's production process. cost share"
+  "notes": "Intermediate inputs share is the proportion of the total dollar value to produce output of goods and services attributed to use of intermediate inputs (energy, materials, and services)."
 }

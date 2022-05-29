@@ -1,17 +1,17 @@
 {
   "id": "H41RESPPAEF06NWW",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Assets: Other: Other Assets, Reserve Bank Table: Wednesday Level in Federal Reserve District 6: Atlanta",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-05-18",
+  "observation_end": "2022-05-25",
   "frequency": "Weekly",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-19 15:53:23-05",
+  "last_updated": "2022-05-26 15:36:15-05",
   "popularity": 1,
   "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "MRTSIR445USS",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Retail Inventories/Sales Ratio: Food and Beverage Stores",
   "observation_start": "1992-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-17 09:06:26-05",
-  "popularity": 11,
-  "group_popularity": 12,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
 }

@@ -1,8 +1,8 @@
 {
   "id": "IPUEN3117L030000000",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
-  "title": "Labor Cost Share for Manufacturing: Seafood Product Preparation and Packaging (NAICS 3117) in the United States",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
+  "title": "Labor Share for Manufacturing: Seafood Product Preparation and Packaging (NAICS 3117) in the United States",
   "observation_start": "1987-01-01",
   "observation_end": "2019-01-01",
   "frequency": "Annual",
@@ -14,5 +14,5 @@
   "last_updated": "2022-03-01 10:49:58-06",
   "popularity": 0,
   "group_popularity": 1,
-  "notes": "Labor cost share is the portion of the total costs to produce output that can be attributed to the cost of labor."
+  "notes": "Labor share is the proportion of the total dollar cost to produce output of goods and services attributed to use of labor."
 }

@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SEHP04",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Consumer Price Index for All Urban Consumers: Repair of Household Items in U.S. City Average",
   "observation_start": "1997-12-01",
   "observation_end": "2021-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-06-10 07:37:31-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 4,
+  "group_popularity": 4
 }

@@ -1,7 +1,7 @@
 {
   "id": "ATAIEALLGLFROB",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets",
   "observation_start": "1987-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-20 13:18:52-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 2,
   "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
 }

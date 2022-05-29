@@ -1,17 +1,17 @@
 {
   "id": "NHSDPNSS",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "New Houses Sold by Stage of Construction, Not Started",
   "observation_start": "1999-01-01",
-  "observation_end": "2022-03-01",
+  "observation_end": "2022-04-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-04-26 09:01:25-05",
-  "popularity": 11,
-  "group_popularity": 18
+  "last_updated": "2022-05-24 09:01:16-05",
+  "popularity": 17,
+  "group_popularity": 23
 }

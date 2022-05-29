@@ -1,7 +1,7 @@
 {
   "id": "CARTSILPCM",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Chicago Fed Advance Retail Trade Summary Contributions from the U.S. Census Bureau's Monthly Retail Trade Survey (MRTS) and Advance Monthly Retail Trade Survey (MARTS)",
   "observation_start": "2018-01-07",
   "observation_end": "2022-03-28",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-11 09:06:06-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "As described in Introducing CARTS: A New Index Tracking National Retail Spending (https://www.chicagofed.org/publications/blogs/chicago-fed-insights/2021/introducing-carts), The Chicago Fed Advance Retail Trade Summary (CARTS) refers to a weekly index of national retail spending that tracks the U.S. Census Bureau's Monthly Retail Trade Survey (MRTS) using a mixed-frequency dynamic factor model to combine high-frequency time series from five private companies (Consumer Edge, Facteus, Morning Consult, SafeGraph, and Womply), as well as two federal agencies (the U.S. Energy Information Administration and the U.S. Census Bureau).\n\nThe first release of the month covers the entirety of the previous month (final release), and the second release covers the first half of the current month (preliminary release). All weekly data are adjusted such that each month has four weeks, running from the 1st through 7th, 8th through 14th, 15th through 21st, and 22nd through the final day of the month. Additional information is available online (https://www.chicagofed.org/carts).\n\nThe CARTS weekly decomposition component represents contributions to the log percent change from weekly data on credit & debit cards, mobility, and consumer sentiment.\n\nFor technical details, see:\n\nBrave, Scott A., Michael Fogarty, Daniel Aaronson, Ezra Karger, and Spencer Krane, 2021, Tracking U.S. consumers in real time with a new weekly index of retail trade (https://www.chicagofed.org/~/media/publications/working-papers/2021/wp2021-05-pdf.pdf), Working Paper 2021-05, Federal Reserve Bank of Chicago. Crossref, https://doi.org/10.21033/wp-2021-052"
 }

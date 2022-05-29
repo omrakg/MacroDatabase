@@ -1,8 +1,8 @@
 {
   "id": "IPUZNT051983000",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
-  "title": "Implicit Output Deflator for Private Nonfarm in the Midwest Census Region",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
+  "title": "Value-Added Output Price Deflator for Private Nonfarm in the Midwest Census Region",
   "observation_start": "2008-01-01",
   "observation_end": "2020-01-01",
   "frequency": "Annual",
@@ -14,5 +14,5 @@
   "last_updated": "2021-06-07 21:50:12-05",
   "popularity": 0,
   "group_popularity": 0,
-  "notes": "An implicit Output is the amount of goods and services produced. deflator is an index of the change over time in the value of Output is the amount of goods and services produced. relative to a base period."
+  "notes": "An output deflator is an index of the change over time in the price of value-added output relative to a base period."
 }

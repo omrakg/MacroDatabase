@@ -1,7 +1,7 @@
 {
   "id": "FLSLOASA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Student Loans Owned and Securitized, Flow",
   "observation_start": "2006-04-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-06 14:02:37-05",
-  "popularity": 1,
-  "group_popularity": 18,
+  "popularity": 2,
+  "group_popularity": 21,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
 }

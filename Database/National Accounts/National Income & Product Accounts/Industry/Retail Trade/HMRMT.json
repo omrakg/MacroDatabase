@@ -1,7 +1,7 @@
 {
   "id": "HMRMT",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Real Manufacturing and Trade Industries Sales",
   "observation_start": "1967-01-01",
   "observation_end": "1996-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2013-06-14 10:46:08-05",
-  "popularity": 6,
-  "group_popularity": 39,
+  "popularity": 3,
+  "group_popularity": 40,
   "notes": "BEA Account Code: KHPMT\nReal Manufacturing and Trade Industries Sales is the historical series used to calculate CMRMTSPL (https://fred.stlouisfed.org/series/CMRMTSPL). This series is based on the Standard Industrial Classification (SIC) system, which is no longer published with this release. The SIC was replaced by the North American Industry Classification System (NAICS), and the NAICS series is CMRMT (https://fred.stlouisfed.org/series/CMRMT)."
 }

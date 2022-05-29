@@ -1,7 +1,7 @@
 {
   "id": "SMU48000003000000003",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Average Hourly Earnings of All Employees: Manufacturing in Texas",
   "observation_start": "2007-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-21 02:24:12-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

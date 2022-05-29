@@ -1,7 +1,7 @@
 {
   "id": "IPUGN4249L201000000",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Hours Worked for Wholesale Trade: Miscellaneous Nondurable Goods Merchant Wholesalers (NAICS 4249) in the United States",
   "observation_start": "1988-01-01",
   "observation_end": "2021-01-01",
@@ -14,5 +14,5 @@
   "last_updated": "2022-05-02 11:58:24-05",
   "popularity": 0,
   "group_popularity": 0,
-  "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry."
+  "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services."
 }

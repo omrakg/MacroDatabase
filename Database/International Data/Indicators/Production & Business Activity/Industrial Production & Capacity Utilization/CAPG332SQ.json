@@ -1,7 +1,7 @@
 {
   "id": "CAPG332SQ",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Industrial Capacity: Manufacturing: Durable Goods: Fabricated Metal Product (NAICS = 332)",
   "observation_start": "1948-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-15 08:25:18-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "NAICS = 332\n\nSource Code: CAP.G332.S"
 }

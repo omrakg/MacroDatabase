@@ -1,7 +1,7 @@
 {
   "id": "CUUR0400SACL1E",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Consumer Price Index for All Urban Consumers: Commodities Less Food and Energy Commodities in West",
   "observation_start": "1977-12-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-11 07:43:43-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

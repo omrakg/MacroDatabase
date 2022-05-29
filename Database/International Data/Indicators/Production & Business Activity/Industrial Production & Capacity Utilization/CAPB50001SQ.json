@@ -1,7 +1,7 @@
 {
   "id": "CAPB50001SQ",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Industrial Capacity: Total Index",
   "observation_start": "1967-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-15 08:19:46-05",
   "popularity": 3,
-  "group_popularity": 5,
+  "group_popularity": 6,
   "notes": "Source Code: CAP.B50001.S"
 }

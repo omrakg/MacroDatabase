@@ -1,7 +1,7 @@
 {
   "id": "CUURA207SEHF01",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Consumer Price Index for All Urban Consumers: Electricity in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)",
   "observation_start": "1971-05-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-11 07:46:10-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

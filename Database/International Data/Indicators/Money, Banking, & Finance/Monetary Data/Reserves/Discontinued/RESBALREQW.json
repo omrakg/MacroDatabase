@@ -1,7 +1,7 @@
 {
   "id": "RESBALREQW",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Reserve Balances Required; Reserve Balance Requirements (DISCONTINUED)",
   "observation_start": "1984-02-08",
   "observation_end": "2020-09-09",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-09-10 15:46:19-05",
   "popularity": 12,
-  "group_popularity": 27,
+  "group_popularity": 25,
   "notes": "The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.\n\nReserve balance requirements series is the portion of the reserve requirements not satisfied by vault cash. The series is calculated as Required reserves (REQRESNSW) (https://fred.stlouisfed.org/series/REQRESNSW) less Vault cash used to satisfy required reserves (VAULTW) (https://fred.stlouisfed.org/series/VAULTW).\n\nEffective February 2, 1984, reserve computation and maintenance periods have been changed from weekly to bi-weekly. Series with data prior to February 2, 1984 have different values reported from one week to the next. After February 2, 1984, the value repeats for 2 consecutive weeks."
 }

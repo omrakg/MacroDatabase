@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCIM44000USN",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Retail Inventories: Retail Trade",
   "observation_start": "1992-02-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-17 09:07:07-05",
   "popularity": 1,
-  "group_popularity": 8
+  "group_popularity": 9
 }

@@ -1,18 +1,18 @@
 {
   "id": "RIFSPPNAAD90NB",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
   "observation_start": "1997-01-02",
-  "observation_end": "2022-05-09",
+  "observation_end": "2022-05-24",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-11 12:05:04-05",
-  "popularity": 28,
+  "last_updated": "2022-05-26 12:05:05-05",
+  "popularity": 27,
   "group_popularity": 52,
   "notes": "For more information, please see http://www.federalreserve.gov/releases/cp/about.htm."
 }

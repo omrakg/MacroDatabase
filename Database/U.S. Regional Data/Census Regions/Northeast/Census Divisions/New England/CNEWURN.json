@@ -1,17 +1,17 @@
 {
   "id": "CNEWURN",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Unemployment Rate in New England Census Division",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-03-01",
+  "observation_end": "2022-04-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-18 09:17:50-05",
+  "last_updated": "2022-05-23 14:57:18-05",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 6
 }

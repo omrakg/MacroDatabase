@@ -1,7 +1,7 @@
 {
   "id": "MAFAINUSMWA672N",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-05-29",
+  "realtime_end": "2022-05-29",
   "title": "Real Mean Family Income in Midwest Census Region",
   "observation_start": "1967-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-09-14 14:11:11-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Families as of March of the following year."
 }
