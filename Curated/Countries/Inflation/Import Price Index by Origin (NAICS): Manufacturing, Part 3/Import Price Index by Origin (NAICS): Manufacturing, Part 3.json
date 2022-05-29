@@ -1,8 +1,8 @@
 {
   "United Kingdom": {
     "id": "COUKZ33",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for United Kingdom",
     "observation_start": "2012-06-01",
     "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
   },
   "Canada": {
     "id": "COCANZ33",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Canada",
     "observation_start": "2012-06-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "China": {
     "id": "COCHNZ33",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for China",
     "observation_start": "2012-06-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Germany": {
     "id": "COGERZ33",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Germany",
     "observation_start": "2012-06-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Japan": {
     "id": "COJPNZ33",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Japan",
     "observation_start": "2012-06-01",
     "observation_end": "2022-04-01",

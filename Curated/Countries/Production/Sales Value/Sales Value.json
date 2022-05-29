@@ -2,8 +2,8 @@
   "Canadian Dollar_Monthly_Not Seasonally Adjusted": {
     "Canada": {
       "id": "CANSLMNTO02MLM",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Sales: Manufacturing: Total manufacturing: Value for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-02-01",
@@ -23,8 +23,8 @@
   "Canadian Dollar_Monthly_Seasonally Adjusted": {
     "Canada": {
       "id": "CANSLMNTO02MLSAM",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Sales: Manufacturing: Total manufacturing: Value for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-02-01",

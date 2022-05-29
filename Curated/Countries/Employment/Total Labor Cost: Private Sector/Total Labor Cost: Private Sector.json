@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCLCPR01SEA661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Total Labor Cost: Private Sector for Sweden",
       "observation_start": "1994-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCLCPR01SEM661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Total Labor Cost: Private Sector for Sweden",
       "observation_start": "1996-01-01",
       "observation_end": "2022-02-01",
@@ -44,8 +44,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCLCPR01SEQ661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Total Labor Cost: Private Sector for Sweden",
       "observation_start": "1994-01-01",
       "observation_end": "2021-10-01",

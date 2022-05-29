@@ -2,8 +2,8 @@
   "Index 2010=100_Annual_Not Seasonally Adjusted": {
     "Portugal": {
       "id": "CPSELR02PTA661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Services Less Housing National Definition for Portugal",
       "observation_start": "1991-01-01",
       "observation_end": "2017-01-01",
@@ -21,8 +21,8 @@
     },
     "Austria": {
       "id": "CPSELR02ATQ661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Services Less Housing National Definition for Austria",
       "observation_start": "1966-01-01",
       "observation_end": "2018-01-01",
@@ -42,8 +42,8 @@
   "Index 2010=100_Monthly_Not Seasonally Adjusted": {
     "Portugal": {
       "id": "CPSELR02PTM661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Services Less Housing National Definition for Portugal",
       "observation_start": "1991-01-01",
       "observation_end": "2018-05-01",
@@ -61,8 +61,8 @@
     },
     "Austria": {
       "id": "CPSELR02ATQ661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Services Less Housing National Definition for Austria",
       "observation_start": "1966-01-01",
       "observation_end": "2018-01-01",
@@ -82,8 +82,8 @@
   "Index 2010=100_Quarterly_Not Seasonally Adjusted": {
     "Portugal": {
       "id": "CPSELR02PTQ661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Services Less Housing National Definition for Portugal",
       "observation_start": "1991-01-01",
       "observation_end": "2018-01-01",
@@ -101,8 +101,8 @@
     },
     "Austria": {
       "id": "CPSELR02ATQ661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Services Less Housing National Definition for Austria",
       "observation_start": "1966-01-01",
       "observation_end": "2018-01-01",

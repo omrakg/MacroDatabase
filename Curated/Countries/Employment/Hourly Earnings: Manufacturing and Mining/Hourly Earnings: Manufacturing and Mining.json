@@ -2,8 +2,8 @@
   "National Currency_Annual_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAMM01SEA189N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Hourly Earnings: Manufacturing and Mining for Sweden",
       "observation_start": "1968-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAMM01SEA661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Hourly Earnings: Manufacturing and Mining for Sweden",
       "observation_start": "1968-01-01",
       "observation_end": "2021-01-01",
@@ -44,8 +44,8 @@
   "National Currency_Monthly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAMM01SEM189N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Hourly Earnings: Manufacturing and Mining for Sweden",
       "observation_start": "1968-01-01",
       "observation_end": "2022-02-01",
@@ -65,8 +65,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAMM01SEM661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Hourly Earnings: Manufacturing and Mining for Sweden",
       "observation_start": "1968-01-01",
       "observation_end": "2022-02-01",
@@ -86,8 +86,8 @@
   "National Currency_Quarterly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAMM01SEQ189N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Hourly Earnings: Manufacturing and Mining for Sweden",
       "observation_start": "1968-01-01",
       "observation_end": "2021-10-01",
@@ -107,8 +107,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAMM01SEQ661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Hourly Earnings: Manufacturing and Mining for Sweden",
       "observation_start": "1968-01-01",
       "observation_end": "2021-10-01",

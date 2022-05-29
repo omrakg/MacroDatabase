@@ -1,10 +1,10 @@
 {
-  "Great Britain": {
-    "id": "NGDPSAXDCGBQ",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
-    "title": "Nominal Gross Domestic Product for Great Britain",
-    "observation_start": "1955-01-01",
+  "Brazil": {
+    "id": "NGDPSAXDCBRQ",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
+    "title": "Nominal Gross Domestic Product for Brazil",
+    "observation_start": "1996-01-01",
     "observation_end": "2021-10-01",
     "frequency": "Quarterly",
     "frequency_short": "Q",
@@ -12,51 +12,15 @@
     "units_short": "Domestic Currency",
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
-    "last_updated": "2022-04-25 07:09:12-05",
-    "popularity": 5,
-    "group_popularity": 6,
-    "path": "Database/International Data/Countries/Great Britain"
-  },
-  "Argentina": {
-    "id": "NGDPXDCARA",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
-    "title": "Nominal Gross Domestic Product for Argentina",
-    "observation_start": "2004-01-01",
-    "observation_end": "2021-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Domestic Currency",
-    "units_short": "Domestic Currency",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-04-25 07:10:05-05",
-    "popularity": 2,
-    "group_popularity": 14,
-    "path": "Database/International Data/Countries/Argentina"
-  },
-  "Brazil": {
-    "id": "NGDPXDCBRA",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
-    "title": "Nominal Gross Domestic Product for Brazil",
-    "observation_start": "1996-01-01",
-    "observation_end": "2021-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Domestic Currency",
-    "units_short": "Domestic Currency",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-03-28 07:10:14-05",
-    "popularity": 1,
-    "group_popularity": 9,
+    "last_updated": "2022-03-28 07:10:05-05",
+    "popularity": 11,
+    "group_popularity": 13,
     "path": "Database/International Data/Countries/Brazil"
   },
   "China": {
     "id": "NGDPXDCCNA",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
     "title": "Nominal Gross Domestic Product for China",
     "observation_start": "1992-01-01",
     "observation_end": "2021-01-01",
@@ -71,11 +35,11 @@
     "group_popularity": 13,
     "path": "Database/International Data/Countries/China"
   },
-  "Saudi Arabia": {
-    "id": "NGDPXDCSAA",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
-    "title": "Nominal Gross Domestic Product for Saudi Arabia",
+  "India": {
+    "id": "NGDPXDCINA",
+    "realtime_start": "2022-05-29",
+    "realtime_end": "2022-05-29",
+    "title": "Nominal Gross Domestic Product for India",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
     "frequency": "Annual",
@@ -84,9 +48,9 @@
     "units_short": "Domestic Currency",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-04-25 07:10:05-05",
+    "last_updated": "2022-03-21 07:11:09-05",
     "popularity": 1,
-    "group_popularity": 10,
-    "path": "Database/International Data/Countries/Saudi Arabia"
+    "group_popularity": 9,
+    "path": "Database/International Data/Countries/India"
   }
 }

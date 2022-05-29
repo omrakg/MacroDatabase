@@ -2,8 +2,8 @@
   "Index 2010=100_Annual_Not Seasonally Adjusted": {
     "Norway": {
       "id": "CPGDIM01NOA661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Total Imported Goods for Norway",
       "observation_start": "1968-01-01",
       "observation_end": "2017-01-01",
@@ -23,8 +23,8 @@
   "Index 2010=100_Monthly_Not Seasonally Adjusted": {
     "Norway": {
       "id": "CPGDIM01NOM661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Total Imported Goods for Norway",
       "observation_start": "1968-01-01",
       "observation_end": "2018-05-01",
@@ -44,8 +44,8 @@
   "Index 2010=100_Quarterly_Not Seasonally Adjusted": {
     "Norway": {
       "id": "CPGDIM01NOQ661N",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-05-29",
+      "realtime_end": "2022-05-29",
       "title": "Consumer Price Index: Total Imported Goods for Norway",
       "observation_start": "1968-01-01",
       "observation_end": "2018-01-01",
