@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000002023620001",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Construction: Nonresidential Building Construction in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000002023620001A",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Construction: Nonresidential Building Construction in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000002023620001SA",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Construction: Nonresidential Building Construction in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",

@@ -2,8 +2,8 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003000000002",
-      "realtime_start": "2022-05-29",
-      "realtime_end": "2022-05-29",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "Average Weekly Hours of All Employees: Manufacturing in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2022-04-01",
@@ -15,7 +15,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-05-21 02:11:19-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     },
     "Tennessee": {
@@ -155,8 +155,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003000000002A",
-      "realtime_start": "2022-05-29",
-      "realtime_end": "2022-05-29",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "Average Weekly Hours of All Employees: Manufacturing in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -168,7 +168,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:34-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     },
     "Tennessee": {

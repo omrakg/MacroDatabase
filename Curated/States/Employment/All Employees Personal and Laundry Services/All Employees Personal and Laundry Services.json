@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000008081200001",
-      "realtime_start": "2022-05-29",
-      "realtime_end": "2022-05-29",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Other Services: Personal and Laundry Services in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
     },
     "Virginia": {
       "id": "SMU51000008081200001SA",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Other Services: Personal and Laundry Services in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
     },
     "Washington": {
       "id": "SMU53000008081200001SA",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Other Services: Personal and Laundry Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -60,8 +60,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000008081200001SA",
-      "realtime_start": "2022-05-29",
-      "realtime_end": "2022-05-29",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Other Services: Personal and Laundry Services in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -79,8 +79,8 @@
     },
     "Virginia": {
       "id": "SMU51000008081200001SA",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Other Services: Personal and Laundry Services in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -98,8 +98,8 @@
     },
     "Washington": {
       "id": "SMU53000008081200001SA",
-      "realtime_start": "2022-05-22",
-      "realtime_end": "2022-05-22",
+      "realtime_start": "2022-06-05",
+      "realtime_end": "2022-06-05",
       "title": "All Employees: Other Services: Personal and Laundry Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",

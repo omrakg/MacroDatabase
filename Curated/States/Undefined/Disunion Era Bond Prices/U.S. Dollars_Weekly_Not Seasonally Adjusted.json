@@ -1,8 +1,8 @@
 {
   "Virginia": {
     "id": "HSTBNDVAW052N",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-06-05",
+    "realtime_end": "2022-06-05",
     "title": "Disunion Era Bond Prices for Virginia",
     "observation_start": "1855-01-05",
     "observation_end": "1865-11-25",
@@ -58,8 +58,8 @@
   },
   "Louisiana": {
     "id": "HSTBNDLAW052N",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-06-05",
+    "realtime_end": "2022-06-05",
     "title": "Disunion Era Bond Prices for Louisiana",
     "observation_start": "1855-03-23",
     "observation_end": "1865-11-25",
@@ -96,8 +96,8 @@
   },
   "North Carolina": {
     "id": "HSTBNDNCW052N",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-06-05",
+    "realtime_end": "2022-06-05",
     "title": "Disunion Era Bond Prices for North Carolina",
     "observation_start": "1855-02-21",
     "observation_end": "1865-11-25",
@@ -115,8 +115,8 @@
   },
   "Ohio": {
     "id": "HSTBNDOHW052N",
-    "realtime_start": "2022-05-22",
-    "realtime_end": "2022-05-22",
+    "realtime_start": "2022-06-05",
+    "realtime_end": "2022-06-05",
     "title": "Disunion Era Bond Prices for Ohio",
     "observation_start": "1855-01-05",
     "observation_end": "1865-11-25",
@@ -134,8 +134,8 @@
   },
   "Pennsylvania": {
     "id": "HSTBNDPAW052N",
-    "realtime_start": "2022-05-29",
-    "realtime_end": "2022-05-29",
+    "realtime_start": "2022-06-05",
+    "realtime_end": "2022-06-05",
     "title": "Disunion Era Bond Prices for Pennsylvania",
     "observation_start": "1855-02-21",
     "observation_end": "1865-10-24",
