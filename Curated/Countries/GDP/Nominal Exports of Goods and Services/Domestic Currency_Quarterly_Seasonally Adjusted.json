@@ -1,45 +1,45 @@
 {
-  "Brazil": {
-    "id": "NXSAXDCBRQ",
-    "realtime_start": "2022-05-29",
-    "realtime_end": "2022-05-29",
-    "title": "Nominal Exports of Goods and Services for Brazil",
-    "observation_start": "1996-01-01",
-    "observation_end": "2021-10-01",
+  "Great Britain": {
+    "id": "NXSAXDCGBQ",
+    "realtime_start": "2022-06-05",
+    "realtime_end": "2022-06-05",
+    "title": "Nominal Exports of Goods and Services for Great Britain",
+    "observation_start": "1955-01-01",
+    "observation_end": "2022-01-01",
     "frequency": "Quarterly",
     "frequency_short": "Q",
     "units": "Domestic Currency",
     "units_short": "Domestic Currency",
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
-    "last_updated": "2022-04-04 07:10:02-05",
+    "last_updated": "2022-05-30 07:09:16-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/International Data/Countries/Brazil"
+    "path": "Database/International Data/Countries/Great Britain"
   },
-  "China": {
-    "id": "NXXDCCNA",
-    "realtime_start": "2022-05-29",
-    "realtime_end": "2022-05-29",
-    "title": "Nominal Exports of Goods and Services for China",
-    "observation_start": "1968-01-01",
-    "observation_end": "2019-01-01",
+  "Argentina": {
+    "id": "NXXDCARA",
+    "realtime_start": "2022-06-05",
+    "realtime_end": "2022-06-05",
+    "title": "Nominal Exports of Goods and Services for Argentina",
+    "observation_start": "2004-01-01",
+    "observation_end": "2021-01-01",
     "frequency": "Annual",
     "frequency_short": "A",
     "units": "Domestic Currency",
     "units_short": "Domestic Currency",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-02-09 14:22:11-06",
-    "popularity": 1,
+    "last_updated": "2022-04-25 07:10:49-05",
+    "popularity": 0,
     "group_popularity": 1,
-    "path": "Database/International Data/Countries/China"
+    "path": "Database/International Data/Countries/Argentina"
   },
-  "India": {
-    "id": "NXXDCINA",
-    "realtime_start": "2022-05-29",
-    "realtime_end": "2022-05-29",
-    "title": "Nominal Exports of Goods and Services for India",
+  "Saudi Arabia": {
+    "id": "NXXDCSAA",
+    "realtime_start": "2022-06-05",
+    "realtime_end": "2022-06-05",
+    "title": "Nominal Exports of Goods and Services for Saudi Arabia",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
     "frequency": "Annual",
@@ -48,9 +48,9 @@
     "units_short": "Domestic Currency",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-03-21 07:11:29-05",
+    "last_updated": "2022-04-25 07:10:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/International Data/Countries/India"
+    "path": "Database/International Data/Countries/Saudi Arabia"
   }
 }
