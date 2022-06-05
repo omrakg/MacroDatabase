@@ -1,0 +1,18 @@
+{
+  "id": "M0497AUSM336NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Index of Wholesale Prices of Hides and Leather Products for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1) Original Data, 1890-1951 (2)--Original Data, 1947-1956. Index On 1926 Base Discontinued After December, 1951. New Index Begins On 1947-1949 Base. Source: Bls Wholesale Prices 1930, Bulletin No. 543, Pp. 3-11 For 1890-1925, No. 572, Pp. 4-5 For 1926-1931, And Bls Monthly\"Wholesale Prices For 1932-1941, Bulletin Nos. 736, 759, 795, 870, 877, 920, 940, 947, 973, 1007, And 1083 Through 1950, Monthly Labor Review, 1952 Issues For 1951. \"\n\nThis NBER data series m04097a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04097a"
+}

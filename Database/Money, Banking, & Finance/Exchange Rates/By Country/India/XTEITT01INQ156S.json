@@ -1,0 +1,18 @@
+{
+  "id": "XTEITT01INQ156S",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Ratio of Exports to Imports for India",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-05-12 09:10:11-05",
+  "popularity": 3,
+  "group_popularity": 18,
+  "notes": "OECD descriptor ID: XTEITT01\nOECD unit ID: STSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

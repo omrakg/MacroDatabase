@@ -1,0 +1,17 @@
+{
+  "id": "MRTSIM4400AUSS",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Retail Inventories: Retail Trade, Excluding Motor Vehicle and Parts Dealers",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-05-17 09:06:06-05",
+  "popularity": 39,
+  "group_popularity": 40
+}

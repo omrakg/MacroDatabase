@@ -1,17 +1,17 @@
 {
   "id": "LALFN",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Civilian Labor Force in Louisiana",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-03-01",
+  "observation_end": "2022-04-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Persons",
   "units_short": "Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-18 09:18:16-05",
+  "last_updated": "2022-05-23 14:57:26-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 3
 }

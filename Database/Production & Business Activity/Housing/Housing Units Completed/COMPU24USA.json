@@ -1,7 +1,7 @@
 {
   "id": "COMPU24USA",
-  "realtime_start": "2022-05-29",
-  "realtime_end": "2022-05-29",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units",
   "observation_start": "1968-01-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-18 07:31:34-05",
   "popularity": 7,
-  "group_popularity": 12
+  "group_popularity": 10
 }

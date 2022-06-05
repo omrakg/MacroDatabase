@@ -1,7 +1,7 @@
 {
   "id": "UTCGVS",
-  "realtime_start": "2022-05-29",
-  "realtime_end": "2022-05-29",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Manufacturers' Value of Shipments: Capital Goods",
   "observation_start": "1992-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-25 07:31:58-05",
-  "popularity": 2,
-  "group_popularity": 3,
+  "last_updated": "2022-06-02 09:02:37-05",
+  "popularity": 1,
+  "group_popularity": 2,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

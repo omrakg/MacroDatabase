@@ -1,0 +1,18 @@
+{
+  "id": "IPUZNW001280000",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Output per Worker for Private Nonfarm in Mississippi",
+  "observation_start": "2008-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-06-07 21:50:08-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Output per worker is ratio of the amount of goods and services produced relative to the number of workers who produced that output for a given period of time."
+}

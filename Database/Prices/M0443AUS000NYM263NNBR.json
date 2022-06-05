@@ -1,0 +1,18 @@
+{
+  "id": "M0443AUS000NYM263NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Fresh Eggs for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1913-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Dozen",
+  "units_short": "Cents Per Dozen",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:55:16-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1913 (2)--Original Data, 1913-1942. Data Are Average Of Tuesday Prices In New York, Newly Laid Eggs, Fair To Fancy. Source: Bls Bulletins And \"Wholesale Prices.\"\n\nThis NBER data series m04143a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04143a"
+}

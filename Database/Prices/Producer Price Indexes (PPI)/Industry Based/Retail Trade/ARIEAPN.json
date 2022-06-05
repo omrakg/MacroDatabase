@@ -1,0 +1,18 @@
+{
+  "id": "ARIEAPN",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Advance Retail Inventories: Retail Trade, Excluding Auto",
+  "observation_start": "2022-03-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-27 07:31:03-05",
+  "popularity": 4,
+  "group_popularity": 19,
+  "notes": "This series represent the advance estimate of the current month and revised estimate of the prior month of nearly complete coverage. The current month statistics reflecting complete coverage is available on FRED at https://fred.stlouisfed.org/series/MRTSIM4400AUSN \n\nFor more information on data collection and methodology, see https://www.census.gov/econ/indicators/methodology.html"
+}

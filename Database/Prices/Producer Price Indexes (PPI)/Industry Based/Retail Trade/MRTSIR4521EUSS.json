@@ -1,0 +1,17 @@
+{
+  "id": "MRTSIR4521EUSS",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Retail Inventories/Sales Ratio: Department Stores",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Ratio",
+  "units_short": "Ratio",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-05-17 09:06:45-05",
+  "popularity": 13,
+  "group_popularity": 13
+}

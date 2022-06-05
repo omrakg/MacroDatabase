@@ -1,0 +1,18 @@
+{
+  "id": "B149RX1Q020SBEA",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Real sales of imported new autos",
+  "observation_start": "2002-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-05-26 07:58:44-05",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "BEA Account Code: B149RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,7 +1,7 @@
 {
   "id": "DTTHFABAM",
-  "realtime_start": "2022-05-29",
-  "realtime_end": "2022-05-29",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Total Owned and Managed Receivables Outstanding Held by Finance Companies",
   "observation_start": "1970-07-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-20 14:04:16-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/ ."
 }

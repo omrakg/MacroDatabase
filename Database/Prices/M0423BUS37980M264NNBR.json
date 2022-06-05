@@ -1,0 +1,18 @@
+{
+  "id": "M0423BUS37980M264NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Gasoline, Pennsylvania Refinery for Philadelphia, PA",
+  "observation_start": "1918-01-01",
+  "observation_end": "1940-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Gallon",
+  "units_short": "Cents Per Gallon",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:34-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1913-1921 (2)--Original Data, 1918-1940. Source: Bls Bulletins And Letter Directly From Bls\n\nThis NBER data series m04123b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04123b"
+}

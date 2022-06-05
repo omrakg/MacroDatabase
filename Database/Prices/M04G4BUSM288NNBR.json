@@ -1,0 +1,18 @@
+{
+  "id": "M04G4BUSM288NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Prices; Anthracite Coal, Chestnut for United States",
+  "observation_start": "1923-01-01",
+  "observation_end": "1941-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Long Ton",
+  "units_short": "$ Per Long Ton",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:50:24-05",
+  "popularity": 13,
+  "group_popularity": 13,
+  "notes": "Series Is Presented Here As Two Variables --(1)-- Original Data, 1890-1928 (2)--Original Data, 1923-1941\" Spot Price Quoted For 8 Cities For 1923-1928; For 1929, Data Refers To Anthracite Chestnut Composite. Thereafter, Anthracite, Chestnut On Tracks, Destination, Composite Are Quoted. Owing To The Situation Brought About By The Strike No Satisfactory Information Is Available From October-December, 1925. From 1923 On, Monthly Averages For Chestnut Coal As Reported By 15 Firms, F.O.B. City (Survey Of Current, 1932 Annual Supplement) Are Quoted. October-December, 1931 And October, 1932, Original Figures Give Price Per Short Ton; Price Per Long Ton Computed By NBER. Given Short Ton Price Multiplied By 1.12 Equals Long Ton Price. Source: Bls Bulletin No. 390 And Following Wholesale Price Bulletins.\n\nThis NBER data series m04044b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04044b"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "MPCSM722511USN",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Retail Sales: Full Service Restaurants",
+  "observation_start": "1992-02-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-25 15:04:03-05",
+  "popularity": 1,
+  "group_popularity": 25,
+  "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website here (https://www.census.gov/retail/mrts/about_the_surveys.html)."
+}

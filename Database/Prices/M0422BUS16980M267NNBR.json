@@ -1,0 +1,18 @@
+{
+  "id": "M0422BUS16980M267NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Compounds for Chicago, IL",
+  "observation_start": "1920-01-01",
+  "observation_end": "1944-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:54:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are Averages Of Weekly Averages Of Daily Quotations As Reported By The Bureau Of Agricultural Field Men. Quoted As \"Lard Substitutes\", Data Represents Refined Deodorized Cottonseed Oil Combined With Beef Stearines As Follows: 15-20% Oleostearine; 80-85% Refined Cottonseed Oil. Data From 1920-1926 Is Quoted In Tierces; Data From 1927-1936 Is Quoted In Hardwood Tubs. Source: Bureau Of Agricultural Economics, Division Of Livestock, Meats, And Wool, 1920-1938: Mimeo- Graphed Table Sent To NBER; 1939-1941: \"Agricultural Statistics\", 1942; 1942-1944: \"The Fats And Oil Situation\"\n\nThis NBER data series m04122b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04122b"
+}

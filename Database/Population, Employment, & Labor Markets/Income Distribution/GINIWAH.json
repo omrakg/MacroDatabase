@@ -1,0 +1,18 @@
+{
+  "id": "GINIWAH",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Income Gini Ratio for Households by Race of Householder, White Alone",
+  "observation_start": "2002-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Ratio",
+  "units_short": "Ratio",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-09-14 14:10:10-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Beginning with the 2003 Current Population Survey, there are revisions to the available race categories. Respondents are allowed to report more than one race, making selections from a \"flash-card\" listing. These six race categories are: White, Black or African American, American Indian or Alaskan Native, Asian, Native Hawaiian or Other Pacific Islander, and Other race. The last category includes any other race except the five mentioned. Because of these changes, data on race are not directly comparable to previous series. White Alone, Black Alone, and Asian Alone refer to people who reported White, Black, or Asian and did not report any other race category. Hispanic Origin refers to persons answering the question asking if the person is Spanish, Hispanic, or Latino. If their response is \"yes\", a follow-up question determines a specific ethnic origin, asking the person to select from a flash-card listing. These selections are Mexican, Mexican-American, Chicano, Puerto Rican, Cuban, Cuban American, or some other Spanish, Hispanic, or Latino group. Use caution when interpreting changes in the racial composition of the U.S. over time."
+}

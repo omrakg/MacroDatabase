@@ -1,0 +1,18 @@
+{
+  "id": "CIS2010000100000I",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Employment Cost Index: Total compensation for Private industry workers in Management, professional, and related",
+  "observation_start": "2002-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index Dec 2005=100",
+  "units_short": "Index Dec 2005=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-29 07:51:39-05",
+  "popularity": 4,
+  "group_popularity": 9,
+  "notes": "See Footnote T on https://www.bls.gov/ect/cimapnote.htm"
+}

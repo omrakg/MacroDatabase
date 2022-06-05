@@ -1,7 +1,7 @@
 {
   "id": "DISCWORKFL",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Not in Labor Force: Discouraged Workers for Florida",
   "observation_start": "2003-10-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-29 14:07:14-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The BLS defines discouraged workers as persons who are not in the labor force, want and are available for work, and had looked for a job sometime in the prior 12 months. They are not counted as unemployed because they had not searched for work in the prior 4 weeks, for the specific reason that they believed no jobs were available to them."
 }

@@ -1,0 +1,18 @@
+{
+  "id": "EXPTOTMO",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Exports of Goods for Missouri",
+  "observation_start": "1995-08-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-04 09:33:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Exports of manufactured and non-manufactured commodities based on origin of movement.\n\nAll NAICS-Based Product Codes."
+}

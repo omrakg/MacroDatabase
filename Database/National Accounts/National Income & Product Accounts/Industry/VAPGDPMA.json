@@ -1,7 +1,7 @@
 {
   "id": "VAPGDPMA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Value Added by Industry: Manufacturing as a Percentage of GDP",
   "observation_start": "2005-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:31:02-05",
-  "popularity": 41,
-  "group_popularity": 41,
+  "popularity": 42,
+  "group_popularity": 42,
   "notes": "Value added represents the sum of the costs-incurred and the incomes-earned in production, and consists of compensation of employees, taxes on production and imports, less subsidies, and gross operating surplus."
 }

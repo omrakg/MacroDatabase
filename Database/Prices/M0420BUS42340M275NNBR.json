@@ -1,0 +1,18 @@
+{
+  "id": "M0420BUS42340M275NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Gum Rosin, Grade Wg for Savannah, GA",
+  "observation_start": "1948-01-01",
+  "observation_end": "1958-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per 100 Pounds",
+  "units_short": "$ Per 100 Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:57:47-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1901-1951 (2)-- Original Data, 1948-1958. No Price Is Given For February, 1952. A New Price Is Quoted Beginning March, 1952. Its Base-Year Average Appears To Be About 17% Above The Average For 1947-1949 Of The Earlier Segment. A Change In Specifications (Bls Mimeograph Release Ls 54-24.73) Shows That 06-22- 46.01 Is A Quotation F.O.B. Savannah, While 06-22-46.02 Is A Quotation F.O.B. New York, Both Grades Wg. For 1947 Only A Savannah Price Grade H Is Quoted (06-22-46). Source: Bls, \"Prices And Price Relatives For Individual Commodities In The Revised Index: 1947-1950, \" Group 6, Code No. 06-22-46.01 (1948- 1950); Bls Bulletin 1143, \"Wholesale Prices, 1951-1952\" (1951); Prices And Price Relatives For Individual Commodities, Monthly Wholesale Price Release, For 1951 And Following Years.\n\nThis NBER data series m04120b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04120b"
+}

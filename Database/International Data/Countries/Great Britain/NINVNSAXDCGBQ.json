@@ -1,0 +1,17 @@
+{
+  "id": "NINVNSAXDCGBQ",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Nominal Changes in Inventories for Great Britain",
+  "observation_start": "1995-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Domestic Currency",
+  "units_short": "Domestic Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-30 07:09:56-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

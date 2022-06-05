@@ -1,0 +1,17 @@
+{
+  "id": "WPU08610104",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Producer Price Index by Commodity: Lumber and Wood Products: Prefabricated Stationary Wood Buildings, Shipped in Three-Dimensional Assemblies",
+  "observation_start": "1984-12-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1984=100",
+  "units_short": "Index Dec 1984=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-12 08:03:53-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

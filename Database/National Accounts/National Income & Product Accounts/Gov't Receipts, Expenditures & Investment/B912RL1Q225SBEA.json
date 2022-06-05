@@ -1,7 +1,7 @@
 {
   "id": "B912RL1Q225SBEA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Real National Defense Consumption Expenditures: Gross Output of General Government: Intermediate Goods and Services Purchased: Services: Weapons Support",
   "observation_start": "1972-04-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "% Chg. from Preceding Period",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-04-28 07:56:21-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "last_updated": "2022-05-26 07:55:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B912RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

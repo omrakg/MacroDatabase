@@ -1,0 +1,18 @@
+{
+  "id": "MYAGM1INM189N",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "M1 for India",
+  "observation_start": "2006-01-01",
+  "observation_end": "2019-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "National Currency",
+  "units_short": "National Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-11-11 07:02:03-06",
+  "popularity": 14,
+  "group_popularity": 24,
+  "notes": "M1 comprises currency outside the banking system, demand deposits with the banking system, and other deposits with the RBI. Currency outside the banking system comprises currency notes issued by the RBI and coins issued by the Government of India less currency notes and coins holdings of the RBI and the banking system. Demand deposits comprises all liabilities, which are payable on demand and include transferable deposits, transferable liabilities portion of savings deposits, margin held against letter of credit, balances in overdue fixed deposits, cash certificates, cumulative and recurring deposits, outstanding telegraph transfers (TTs), mail transfers (MTs), demand drafts (DDs), unclaimed deposits, credit balances in the cash credit account, and deposits held as security for advances that are payable on demand. Other deposits comprises deposits of quasi government and other financial institutions including primary dealers, foreign central banks and governments, international agencies, Provident Fund, gratuity and guarantee funds of the RBI staff, and profits of the RBI held temporarily under the deposits pending transfer to the central government.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

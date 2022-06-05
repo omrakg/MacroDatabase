@@ -1,0 +1,18 @@
+{
+  "id": "M04074US16980M261NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Oats for Chicago, IL",
+  "observation_start": "1890-01-01",
+  "observation_end": "1952-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Bushel (Of 32 Pounds)",
+  "units_short": "Cents Per Bushel (Of 32 Pounds)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:43-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "From 1890-June, 1902, This Series Was Called \"Oats, No. 2, Cash\" (See Bulletin No. 45, P.250); From July-December, 1902, This Series Was Called \"Oats, Standard, Cash.\" From 1903-1916, This Series Was Called \"Oats, Contract Grades, Cash\" (See Bulletin No. 51, P.273); Beginning In 1917, The Series Was Called \"Oats, Cash\" (Bulletin No. 269, P.30) And Was Still Representing Contract Grades Through 1925. From 1926-1944 Prices For A Different Grade Of Oats, \"Oats, Cash, No. 2, White\" Were Taken From Bulletin No. 473, P.64 (See Table Of Weights, P.239; Also Bulletin No. 453, P.9). Figures For 1945-1948 Prices Of Grade No. 2 Oats Were Computed By NBER. They Were Interpolated By Applying The Ratio 5475.5 Divided By 5391.2 Equals 1.0156 To The Corresponding Monthly Figures For The Series \"Oats No. 3, White, Chicago.\" The Ratio Is The Sum Of The Annual Figures 1943-1944 And 1949-1952 Of The \"Oats, No. 2, White\" (NBER Series 04074) To \"Oats, No. 3, White.\" Source: Bls Bulletin Nos. 39, 45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114, 149, 181, 200, 226, 269, 296, 320, 367, 415, 473, 493, 521, 543, 572, And Monthly Bulletins From 1932 Through 1944; For 1945 And Following Years, U.S. Department Of Agriculture, Bureau Of Agricultural Economics, \"Feed Statistics\" And \"The Feed Situation.\"\n\nThis NBER data series m04074 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04074"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0498AUSM297NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Bricks, Common, Composite Price for United States",
+  "observation_start": "1922-01-01",
+  "observation_end": "1931-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Thousand",
+  "units_short": "$ Per Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:51:25-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1932 (2)--Original Data, 1932-1944. Prices Are For Bricks, F.O.B. Yard, Average Price Per Thousand. Data Are Averages Of 82 Yards. In Bls Bulletin No.473, Where A 1926 Overlap Is Given, The Series Is Called \"Average F.O.B. Plant--Average Composite Price, 82 Yards.\" Beginning In 1929, The Series Is Called Only Common Building, Plant, Composite Price. A Letter From I. Lubin, Dated 2/9/37, Quoted By The NBER, Reads\"The Wholesale Price Data On Common Brick Composite Price Was Furnished By The Common Brick Manufacturers Association Through 1930. The Association Furnished A Transcript Of Actual Schedules Reported By Brick Manufacturers Showing F.O.B. Yard Prices For 82 Plants. When Th Common Brick Manufacturers Association Discontinued Collecting Price Data, The Bureau Selected, In Conjunction With The Association, 50 Manufacturers Of Common Building Brick Scattered Throughout The Country For Reporting Price Data. Since 1930, The Bureau Has Used In Constructing The Index Prices From The 50 Manufacturers Selected.\" From March To October, 1932, There Are No Quotations In Bulletins Through October, 1932. Beginning With The November, 1932 Bulletin, The Price For November, 1931 Was Given As 11.46. Thereafter, The Data Are Given On This Lower Level But There Is No Change In The Title, Nor Is There Any Explanation Given For The Change. Hence, This Series Is Presented As Two Variables. Source: Bls Bulletins, Nos. 335, 367, 415, 440, 473, 493, 521, 543, And 572 And Monthly \"Wholesale Prices.\"\n\nThis NBER data series m04098a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04098a"
+}

@@ -1,7 +1,7 @@
 {
   "id": "B235RC1A027NBEA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Federal government current tax receipts: Taxes on production and imports: Customs duties",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 07:55:20-06",
   "popularity": 1,
-  "group_popularity": 20,
+  "group_popularity": 18,
   "notes": "BEA Account Code: B235RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

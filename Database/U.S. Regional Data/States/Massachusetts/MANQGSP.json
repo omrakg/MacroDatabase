@@ -1,7 +1,7 @@
 {
   "id": "MANQGSP",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Gross Domestic Product: All Industry Total in Massachusetts",
   "observation_start": "2005-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-31 10:33:08-05",
-  "popularity": 9,
-  "group_popularity": 28,
+  "popularity": 10,
+  "group_popularity": 25,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
 }

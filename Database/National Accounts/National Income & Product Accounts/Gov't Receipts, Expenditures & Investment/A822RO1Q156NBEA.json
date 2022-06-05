@@ -1,7 +1,7 @@
 {
   "id": "A822RO1Q156NBEA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Real Government Consumption Expenditures and Gross Investment",
   "observation_start": "1948-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-28 07:53:48-05",
-  "popularity": 6,
-  "group_popularity": 51,
+  "popularity": 7,
+  "group_popularity": 50,
   "notes": "BEA Account Code: A822RO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

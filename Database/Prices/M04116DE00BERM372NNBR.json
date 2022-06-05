@@ -1,0 +1,18 @@
+{
+  "id": "M04116DE00BERM372NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Potatoes, Average Per Month for Berlin, Germany",
+  "observation_start": "1882-01-01",
+  "observation_end": "1934-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Marks per Metric Ton",
+  "units_short": "Marks Per Metric Ton",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:31-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Source Gives Prices For Gute, Gesunde, Sortierte, Fruhote Speise (Good, Healthy, Sorted, Early Red, Eating, Not In Sacks) For 1882-1916. For 1924-1935, Prices Are For Red, Producers' Price, Freight Car Free Brandenburg Station. Prices From 1912-1916 Are Given As Price For 100 Kilograms In Source, And Were Changed By NBER To Price Per Metric Ton. Price In January, 1916, Is Net Cash From Berlin Railway Station (Netto Kasse, Ab Berliner Bahnhofer). Prices For February-July, 1916 Are Price Of City Potatoes To The Retailer; There Is No Longer Freer Trade (Preis Der Stadtischen Kartofteln An Die Kleinhandler, Ein Freier Handel Besteht Nicht Mehr). Price For New Merchandise In June, 1916, Is 201. The Figure Given Here For July, 1916, Is For New Merchandise. The Price From 1924 On Was Originally Given As Price Per 50 Kilograms But Was Changed To Price Per Metric Ton By NBER. Beginning In 1924, Prices Are For Red, Producers Price, Freight Car From Brandenburg Station. Since 1925, Prices Are For Old Crop To June, New Crop From July. Source: 1882-1891, Monatshefte Zur Statistik Des Deutschen Reich; 1892-1934, Vierteljahrshefte Zur Statistik Des Deutschen Reichs.\n\nThis NBER data series m04116 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04116"
+}

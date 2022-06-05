@@ -1,0 +1,18 @@
+{
+  "id": "MRTSSM4400CUSS",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Retail Sales: GAFO (General Merchandise Normally Sold in Department Stores)",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-05-17 09:06:53-05",
+  "popularity": 3,
+  "group_popularity": 11,
+  "notes": "GAFO represents sales at stores that sell merchandise normally sold in department stores. GAFO includes the following kinds of retail businesses: General merchandise stores (NAICS 452); Clothing and clothing accessories stores (NAICS 448); Furniture and home furnishings stores (NAICS 442); Electronics and appliance stores (NAICS 443); Sporting goods, hobby, book, and music stores (NAICS 451); Office supplies, stationery, and gift stores (NAICS 4532). Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
+}

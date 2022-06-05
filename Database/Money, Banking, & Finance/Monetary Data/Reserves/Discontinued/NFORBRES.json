@@ -1,0 +1,18 @@
+{
+  "id": "NFORBRES",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Net Free or Borrowed Reserves of Depository Institutions (DISCONTINUED)",
+  "observation_start": "1959-01-01",
+  "observation_end": "2013-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-07-05 15:51:06-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "The series is calculated by the Federal Reserve Bank of St.Louis.\nPrior to 2003-01-01, the data are calculated as excess reserves minus total borrowings plus extended borrowings. From 2003-01-01 till 2007-11-01, the observations reflect excess reserves minus total borrowings plus secondary borrowings. From 2007-12-01, the definition changes to excess reserves minus discount window borrowings plus secondary borrowings. Please, check the latest definition of the discount window borrowings at https://fred.stlouisfed.org/series/DISCBORR.\n\nThis series has been discontinued with a phase of the simplification of reserves administration (https://federalregister.gov/a/2012-8562)."
+}

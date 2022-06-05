@@ -1,0 +1,17 @@
+{
+  "id": "MARTSMPCSM44Z72USS",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations",
+  "observation_start": "1992-02-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-05-17 07:34:36-05",
+  "popularity": 1,
+  "group_popularity": 8
+}

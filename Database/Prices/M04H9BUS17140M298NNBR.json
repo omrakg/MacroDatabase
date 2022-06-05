@@ -1,0 +1,18 @@
+{
+  "id": "M04H9BUS17140M298NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Oak: White, Plain for Cincinnati, OH",
+  "observation_start": "1920-01-01",
+  "observation_end": "1940-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Thousand Feet",
+  "units_short": "$ Per Thous. Feet",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:46:24-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Series Is Presented Here As Four Variables-- (1)--Original Data, 1890-1923 (2)--Original Data, 1920-1940 (3)-- Original Data, 1940-1944. Data For Oak, White, Plain, No.1 Common, 4/4. Source: Bls Bulletin Nos. 296, 335, 367, 390, 415, 440, 473, 493, 521, 543, 572, And Monthly Wholesale Prices.\n\nThis NBER data series m04089b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04089b"
+}

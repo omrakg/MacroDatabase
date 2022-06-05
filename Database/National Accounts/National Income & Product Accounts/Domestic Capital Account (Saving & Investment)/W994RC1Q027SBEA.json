@@ -1,7 +1,7 @@
 {
   "id": "W994RC1Q027SBEA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Net lending or net borrowing (-), NIPAs: Private",
   "observation_start": "1960-01-01",
   "observation_end": "2021-10-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-03-30 07:55:29-05",
-  "popularity": 11,
-  "group_popularity": 12,
+  "last_updated": "2022-05-26 07:52:18-05",
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "BEA Account Code: W994RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

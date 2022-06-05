@@ -1,0 +1,18 @@
+{
+  "id": "MRTSMPCSM7222USN",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Retail Sales: Limited Service Eating Places",
+  "observation_start": "1992-02-01",
+  "observation_end": "2021-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-05-14 09:08:14-05",
+  "popularity": 4,
+  "group_popularity": 11,
+  "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
+}

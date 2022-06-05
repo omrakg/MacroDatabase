@@ -1,0 +1,18 @@
+{
+  "id": "M04171USM336NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Index of Wholesale Prices of Leather for United States",
+  "observation_start": "1913-01-01",
+  "observation_end": "1940-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:51:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This Index Includes Wholesale Prices Of Calf, Kid, Harness, Sole, Oak, Sole, Union Backs, And Side Leather, Weighted By Quantities In Exchange For Census Years. Source: Bls Bulletin No. 473 (1927) And Following Issues And \"Wholesale Prices.\"\n\nThis NBER data series m04171 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04171"
+}

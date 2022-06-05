@@ -1,7 +1,7 @@
 {
   "id": "HOUST1FNSA",
-  "realtime_start": "2022-05-29",
-  "realtime_end": "2022-05-29",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "New Privately-Owned Housing Units Started: Single-Family Units",
   "observation_start": "1959-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-18 07:31:19-05",
-  "popularity": 27,
-  "group_popularity": 61
+  "popularity": 24,
+  "group_popularity": 60
 }

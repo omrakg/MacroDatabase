@@ -1,0 +1,18 @@
+{
+  "id": "M0485BUS000NYM276NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price, Yellow Pine for New York",
+  "observation_start": "1914-01-01",
+  "observation_end": "1940-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per 1000 Feet",
+  "units_short": "$ Per 1000 Feet",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:56:50-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1916 (2)--Original Data, 1914-1940. Prices For 1914-1940 Are Monthly Averages. Lumber Companies Supply Data To Engineering News Record Once A Month. Quotations Are For Yellow Pine Lumber, Long Leaf, 3 X 12 To 12 X 12, New York. Engineering News Record Title,\"Lumber, New York,\". This Series Is Lumber, Wholesale, Delivered To Dealers' Docks, Long Leaf, Yellow Pine, 3 X 12 To 12 X 12 And 20 Feet And Under In Length. Quotations For 1936-1940 By Telephone From Engineering News Record. Source: Engineering News Record Files.\n\nThis NBER data series m04085b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04085b"
+}

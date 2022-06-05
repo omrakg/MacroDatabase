@@ -1,0 +1,18 @@
+{
+  "id": "M0442BUS37980M290NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Scrap, No. 1, Railroad for Philadelphia, PA",
+  "observation_start": "1890-09-01",
+  "observation_end": "1892-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Net Ton",
+  "units_short": "$ Per Net Ton",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:47:33-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1873-1890 (2)--Original Data, 1890-1892. No.1 Railroad Scrap Is Shown Instead Of No.1 Wrought For Philadelphia Beginning September 18, 1890. Source: Weekly Issues Of Iron Age\n\nThis NBER data series m04142b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04142b"
+}

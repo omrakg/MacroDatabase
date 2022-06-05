@@ -1,0 +1,18 @@
+{
+  "id": "M04F1BUS16980M260NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Wheat, Chicago; Six Markets for Chicago, IL",
+  "observation_start": "1938-01-01",
+  "observation_end": "1952-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Bushel",
+  "units_short": "Cents Per Bushel",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:56:40-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1842-1944 (2)--Original Data, 1938-1952. Data Are For Weighted Average Price Of All Grades (Weighted On Basis Of Number Of Carlots Sold) At Chicago, Minneapolis, Kansas City, St. Louis, Omaha, And Duluth. Source: Agricultural Statistics, 1942, For 1938-1941 Data; Crops And Markets, For The Years 1941-1950; The Wheat Situation, For The Years 1951-1952.\n\nThis NBER data series m04001b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04001b"
+}

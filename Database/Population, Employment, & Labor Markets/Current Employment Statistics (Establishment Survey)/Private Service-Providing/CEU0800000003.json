@@ -1,0 +1,18 @@
+{
+  "id": "CEU0800000003",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Average Hourly Earnings of All Employees, Private Service-Providing",
+  "observation_start": "2006-03-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hour",
+  "units_short": "$ per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-03 07:48:32-05",
+  "popularity": 1,
+  "group_popularity": 12,
+  "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU0800000003"
+}

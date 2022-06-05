@@ -1,0 +1,18 @@
+{
+  "id": "M04155USM267NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Composite Price of Furnished Steel Products for United States",
+  "observation_start": "1902-01-01",
+  "observation_end": "1939-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:54:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are Averages Of Iron Age Quotations On Steel Bars, Shapes, Plates, Plain Wire, Open Hearth Rails (Bessemer Rails For 1902-1913), Black Pipe, And Black Sheets For Period Prior To 1920. Hot Rolled Strip Added For The Subsequent Period. Source: Iron Age, January 6, 1938, P.107 And January 4, 1940, P.171\n\nThis NBER data series m04155 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04155"
+}

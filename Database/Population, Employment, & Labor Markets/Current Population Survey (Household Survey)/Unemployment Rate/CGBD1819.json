@@ -1,0 +1,18 @@
+{
+  "id": "CGBD1819",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Unemployment Rate - College Graduates - Bachelor's Degree, 18 to 19 years",
+  "observation_start": "2002-08-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-04 11:08:19-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The unemployment rate represents the number unemployed as a percent of the labor force.\n\nThe series comes from the 'Current Population Survey (Household Survey)'."
+}

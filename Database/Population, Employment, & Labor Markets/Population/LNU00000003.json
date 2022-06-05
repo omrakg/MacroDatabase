@@ -1,0 +1,18 @@
+{
+  "id": "LNU00000003",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Population Level - White",
+  "observation_start": "1954-01-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-03 07:44:52-05",
+  "popularity": 11,
+  "group_popularity": 11,
+  "notes": "Civilian noninstitutional population is defined as persons 16 years of age and older residing in the 50 states and the District of Columbia, who are not inmates of institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.\n\nThe series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU00000003"
+}

@@ -1,7 +1,7 @@
 {
   "id": "N5017C1Q027SBEA",
-  "realtime_start": "2022-05-22",
-  "realtime_end": "2022-05-22",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "National income without capital consumption adjustment: Domestic private industries: Educational services, health care, and social assistance",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-03-30 08:03:52-05",
+  "last_updated": "2022-05-26 07:58:50-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: N5017C\n\nFor more information about this series, please see http://www.bea.gov/national/."

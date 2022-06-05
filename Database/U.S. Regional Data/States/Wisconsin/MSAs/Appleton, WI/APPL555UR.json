@@ -1,17 +1,17 @@
 {
   "id": "APPL555UR",
-  "realtime_start": "2022-05-29",
-  "realtime_end": "2022-05-29",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
   "title": "Unemployment Rate in Appleton, WI (MSA)",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-03-01",
+  "observation_end": "2022-04-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Smoothed Seasonally Adjusted",
   "seasonal_adjustment_short": "SSA",
-  "last_updated": "2022-04-27 13:33:38-05",
+  "last_updated": "2022-06-01 13:32:51-05",
   "popularity": 1,
   "group_popularity": 3
 }

@@ -1,0 +1,18 @@
+{
+  "id": "LNU04074597",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Unemployment Rate - With a Disability, 16 Years and over",
+  "observation_start": "2008-06-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-03 07:43:24-05",
+  "popularity": 20,
+  "group_popularity": 20,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04074597"
+}

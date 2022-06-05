@@ -1,0 +1,18 @@
+{
+  "id": "Q04069GBQ312NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price Index of Raw Materials for Great Britain",
+  "observation_start": "1884-01-01",
+  "observation_end": "1923-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 1867-1877=100",
+  "units_short": "Index 1867-1877=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:50:07-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Augustus Sauerbeck Calls This Index \"Materials.\" It Contains A Number Of Semi-Finished Commodities. For Coverage See The Journal Of The Royal Statistical Society, 1926. Base For July, 1886-March, 1895 Is 66.79; For April, 1895- September, 1904 It Is 68.08; For October, 1904-September, 1909 It Is 78.27; For October, 1909-September, 1914 It Is 85.67; For October, 1914-April, 1919 It Is 156.23; For May, 1919-June, 1921 It Is 232.26. Source: The Journal Of The Royal Statistical Society, Vol. 56 P.221 And Following Journals For Quarterly Data; The Statist, February, 1913 Through July, 1914, January, 15, 1921, P.89; January 16, 1926, P.87, (And Succeeding Issues For Monthly Data).\n\nThis NBER data series q04069 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: q04069"
+}

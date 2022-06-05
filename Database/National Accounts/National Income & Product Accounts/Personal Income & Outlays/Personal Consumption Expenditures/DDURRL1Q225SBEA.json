@@ -1,0 +1,18 @@
+{
+  "id": "DDURRL1Q225SBEA",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Real Personal Consumption Expenditures: Goods: Durable Goods",
+  "observation_start": "1947-04-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-05-26 07:53:59-05",
+  "popularity": 7,
+  "group_popularity": 9,
+  "notes": "BEA Account Code: DDURRL\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

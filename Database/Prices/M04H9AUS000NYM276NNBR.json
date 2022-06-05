@@ -1,0 +1,18 @@
+{
+  "id": "M04H9AUS000NYM276NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Oak: White, Plain for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1923-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per 1000 Feet",
+  "units_short": "$ Per 1000 Feet",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:51:09-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables-- (1)--Original Data, 1890-1923 (2)--Original Data, 1920-1940 (3)-- Original Data, 1940-1944. Original Data Are As Of First Of Month For 1890-1917 And Are Monthly Averages For 1918 On. From January, 1890 Through December, 1891 The Prices Are For One Inch Cabinet Or Finishing; From 1892 Through April, 1895 For One Inch, Eight Inches And Up Wide, And From May, 1895 Through December, 1901 For Birch, Six Inches And Up Wide. Quotations From Northwestern Lumberman, 1890-1891 And From New York Lumber Trade Journal Thereafter. 1890-1901 Computed From Range. No Quotation For 07/1910, 06/1911, 07/1912, 07/1913, And 07/1915; Interpolated Figure Used. In 1912, Series Called: Oak, White, Plain, Mixed, Rock, Mountain, Or West Virginia Stock, Six Inches And Up Wide. In 1913, The Title Omits \"Six Inches Wide And Up\" But Includes Instead \"(4-4), Firsts And Seconds.\" From 1917 On, Called Only Oak: White, Plain. Source: Bls Bulletin Nos. 45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114, 149, 181, 200, 226, 269, 296, 335, 367, 390, 415, 440, 473, 493, 521, 543, 572, And Monthly Wholesale Prices.\n\nThis NBER data series m04089a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04089a"
+}

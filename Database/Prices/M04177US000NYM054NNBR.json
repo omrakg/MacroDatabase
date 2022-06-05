@@ -1,0 +1,18 @@
+{
+  "id": "M04177US000NYM054NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Ethyl Alcohol, Grain for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1939-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Gallon",
+  "units_short": "$ Per Gallon",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:55:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For 1890-April, 1906, 94% Proof; For May, 1906-1939, 95% Proof. For 1890-1912, Quotations Are From First Of Month. For 1913-1916, First Saturday Of Month. For 1917-1939, Average Of One Day A Week Quotation. No Quotation For May-August, 1920. Revised December, 1934 And Following Issues Of Monthly Bulletins. Source: Bls Bulletins And Wholesale Prices; Oil, Paint, And Drug Reporter\n\nThis NBER data series m04177 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04177"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0439AUS000WAM289NNBR",
+  "realtime_start": "2022-06-05",
+  "realtime_end": "2022-06-05",
+  "title": "Wholesale Price of Douglas Fir Lumber for Washington",
+  "observation_start": "1913-01-01",
+  "observation_end": "1924-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Million Board Feet",
+  "units_short": "$ Per Mil. Board Feet",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:51:50-05",
+  "popularity": 13,
+  "group_popularity": 16,
+  "notes": "Series Is Presented Here As Two Variables-- (1)--Original Data, 1913-1924 (2)--Original Data, 1922-1941. 1913-1923, Prices Of No. 1 Sheathing Common Boards, F.O.B. Mill In Washington, The First Of The Month For 1913-1917; For 1918 On, The Monday Average. Source: For 1913, Direct From Bls Price Study File; For 1914-1923, From Bulletins And \"Wholesale Prices\"; Other Data Direct From Bls.\n\nThis NBER data series m04139a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04139a"
+}
