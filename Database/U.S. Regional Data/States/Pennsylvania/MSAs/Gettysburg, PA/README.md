@@ -1,6 +1,6 @@
 | id                     | title                                                                                           | observation_start   | observation_end   |
 |------------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS23900Q         | All-Transactions House Price Index for Gettysburg, PA (MSA)                                     | 1989-10-01          | 2021-10-01        |
+| ATNHPIUS23900Q         | All-Transactions House Price Index for Gettysburg, PA (MSA)                                     | 1989-10-01          | 2022-01-01        |
 | ENUC239030010          | Total Quarterly Wages in Gettysburg, PA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
 | ENUC239030010SA        | Total Quarterly Wages in Gettysburg, PA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
 | ENUC239040010          | Average Weekly Wages for Employees in Total Covered Establishments in Gettysburg, PA (MSA)      | 2013-01-01          | 2021-07-01        |
@@ -16,13 +16,13 @@
 | GETT942PCPI            | Per Capita Personal Income in Gettysburg, PA (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | GTYPOP                 | Resident Population in Gettysburg, PA (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | IRPD23900              | Implicit Regional Price Deflator for Gettysburg, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT422390000000003   | Unemployment Rate in Gettysburg, PA (MSA)                                                       | 1990-01-01          | 2022-03-01        |
+| LAUMT422390000000003   | Unemployment Rate in Gettysburg, PA (MSA)                                                       | 1990-01-01          | 2022-04-01        |
 | LAUMT422390000000003A  | Unemployment Rate in Gettysburg, PA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT422390000000004   | Unemployed Persons in Gettysburg, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT422390000000004   | Unemployed Persons in Gettysburg, PA (MSA)                                                      | 1990-01-01          | 2022-04-01        |
 | LAUMT422390000000004A  | Unemployed Persons in Gettysburg, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT422390000000005   | Employed Persons in Gettysburg, PA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT422390000000005   | Employed Persons in Gettysburg, PA (MSA)                                                        | 1990-01-01          | 2022-04-01        |
 | LAUMT422390000000005A  | Employed Persons in Gettysburg, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT422390000000006   | Civilian Labor Force in Gettysburg, PA (MSA)                                                    | 1990-01-01          | 2022-03-01        |
+| LAUMT422390000000006   | Civilian Labor Force in Gettysburg, PA (MSA)                                                    | 1990-01-01          | 2022-04-01        |
 | LAUMT422390000000006A  | Civilian Labor Force in Gettysburg, PA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP23900              | Total Gross Domestic Product for Gettysburg, PA (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP23900              | Total Quantity Indexes for Real GDP for Gettysburg, PA (MSA)                                    | 2001-01-01          | 2020-01-01        |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU44300            | Housing Inventory: Active Listing Count in State College, PA (CBSA)                                  | 2016-07-01          | 2022-04-01        |
-| ACTLISCOUMM44300          | Housing Inventory: Active Listing Count Month-Over-Month in State College, PA (CBSA)                 | 2017-07-01          | 2022-04-01        |
-| ACTLISCOUYY44300          | Housing Inventory: Active Listing Count Year-Over-Year in State College, PA (CBSA)                   | 2017-07-01          | 2022-04-01        |
-| ATNHPIUS44300Q            | All-Transactions House Price Index for State College, PA (MSA)                                       | 1989-01-01          | 2021-10-01        |
-| AVELISPRI44300            | Housing Inventory: Average Listing Price in State College, PA (CBSA)                                 | 2016-07-01          | 2022-04-01        |
-| AVELISPRIMM44300          | Housing Inventory: Average Listing Price Month-Over-Month in State College, PA (CBSA)                | 2017-07-01          | 2022-04-01        |
-| AVELISPRIYY44300          | Housing Inventory: Average Listing Price Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-04-01        |
-| DESCMSA44300              | Market Hotness: Demand Score in State College, PA (CBSA)                                             | 2017-08-01          | 2022-04-01        |
+| ACTLISCOU44300            | Housing Inventory: Active Listing Count in State College, PA (CBSA)                                  | 2016-07-01          | 2022-05-01        |
+| ACTLISCOUMM44300          | Housing Inventory: Active Listing Count Month-Over-Month in State College, PA (CBSA)                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOUYY44300          | Housing Inventory: Active Listing Count Year-Over-Year in State College, PA (CBSA)                   | 2017-07-01          | 2022-05-01        |
+| ATNHPIUS44300Q            | All-Transactions House Price Index for State College, PA (MSA)                                       | 1989-01-01          | 2022-01-01        |
+| AVELISPRI44300            | Housing Inventory: Average Listing Price in State College, PA (CBSA)                                 | 2016-07-01          | 2022-05-01        |
+| AVELISPRIMM44300          | Housing Inventory: Average Listing Price Month-Over-Month in State College, PA (CBSA)                | 2017-07-01          | 2022-05-01        |
+| AVELISPRIYY44300          | Housing Inventory: Average Listing Price Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-05-01        |
+| DESCMSA44300              | Market Hotness: Demand Score in State College, PA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | ENUC443030010             | Total Quarterly Wages in State College, PA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
 | ENUC443030010SA           | Total Quarterly Wages in State College, PA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
 | ENUC443040010             | Average Weekly Wages for Employees in Total Covered Establishments in State College, PA (MSA)        | 1990-01-01          | 2021-07-01        |
@@ -20,57 +20,57 @@
 | ENUC443040310SA           | Average Weekly Wages for Employees in Local Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-07-01        |
 | ENUC443040510             | Average Weekly Wages for Employees in Private Establishments in State College, PA (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC443040510SA           | Average Weekly Wages for Employees in Private Establishments in State College, PA (MSA)              | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA44300            | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2018-08-01          | 2022-04-01        |
-| HORAMSA44300              | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2017-08-01          | 2022-04-01        |
-| HORAYYMSA44300            | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2018-08-01          | 2022-04-01        |
-| HOSCMSA44300              | Market Hotness: Hotness Score in State College, PA (CBSA)                                            | 2017-08-01          | 2022-04-01        |
+| HORAMMMSA44300            | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
+| HORAMSA44300              | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
+| HORAYYMSA44300            | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
+| HOSCMSA44300              | Market Hotness: Hotness Score in State College, PA (CBSA)                                            | 2017-08-01          | 2022-05-01        |
 | IRPD44300                 | Implicit Regional Price Deflator for State College, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT424430000000003A     | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT424430000000004      | Unemployed Persons in State College, PA (MSA)                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT424430000000004      | Unemployed Persons in State College, PA (MSA)                                                        | 1990-01-01          | 2022-04-01        |
 | LAUMT424430000000004A     | Unemployed Persons in State College, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT424430000000005      | Employed Persons in State College, PA (MSA)                                                          | 1990-01-01          | 2022-03-01        |
+| LAUMT424430000000005      | Employed Persons in State College, PA (MSA)                                                          | 1990-01-01          | 2022-04-01        |
 | LAUMT424430000000005A     | Employed Persons in State College, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT424430000000006A     | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA44300          | Market Hotness: Listing Views per Property in State College, PA (CBSA)                               | 2018-08-01          | 2022-04-01        |
-| LDPEPRVSUSMSA44300        | Market Hotness: Listing Views per Property Versus the United States in State College, PA (CBSA)      | 2017-08-01          | 2022-04-01        |
-| LDPEPRYYMSA44300          | Market Hotness: Listing Views per Property in State College, PA (CBSA)                               | 2018-08-01          | 2022-04-01        |
-| MEDAONMAMMMSA44300        | Market Hotness: Median Days on Market in State College, PA (CBSA)                                    | 2018-08-01          | 2022-04-01        |
-| MEDAONMAMSA44300          | Market Hotness: Median Days on Market in State College, PA (CBSA)                                    | 2017-08-01          | 2022-04-01        |
-| MEDAONMAYYMSA44300        | Market Hotness: Median Days on Market in State College, PA (CBSA)                                    | 2018-08-01          | 2022-04-01        |
-| MEDDAYONMAR44300          | Housing Inventory: Median Days on Market in State College, PA (CBSA)                                 | 2016-07-01          | 2022-04-01        |
-| MEDDAYONMARMM44300        | Housing Inventory: Median Days on Market Month-Over-Month in State College, PA (CBSA)                | 2017-07-01          | 2022-04-01        |
-| MEDDAYONMARYY44300        | Housing Inventory: Median Days on Market Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-04-01        |
-| MEDLISPRI44300            | Housing Inventory: Median Listing Price in State College, PA (CBSA)                                  | 2016-07-01          | 2022-04-01        |
-| MEDLISPRIMM44300          | Housing Inventory: Median Listing Price Month-Over-Month in State College, PA (CBSA)                 | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEE44300   | Housing Inventory: Median Listing Price per Square Feet in State College, PA (CBSA)                  | 2016-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEEMM44300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in State College, PA (CBSA) | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEEYY44300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in State College, PA (CBSA)   | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIYY44300          | Housing Inventory: Median Listing Price Year-Over-Year in State College, PA (CBSA)                   | 2017-07-01          | 2022-04-01        |
-| MEDOMMDAMSA44300          | Market Hotness: Median Days on Market in State College, PA (CBSA)                                    | 2018-08-01          | 2022-04-01        |
-| MEDOVSUSMSA44300          | Market Hotness: Median Days on Market Versus the United States in State College, PA (CBSA)           | 2017-08-01          | 2022-04-01        |
-| MEDOYYDAMSA44300          | Market Hotness: Median Days on Market Day in State College, PA (CBSA)                                | 2018-08-01          | 2022-04-01        |
-| MEDSQUFEE44300            | Housing Inventory: Median Home Size in Square Feet in State College, PA (CBSA)                       | 2016-07-01          | 2022-04-01        |
-| MEDSQUFEEMM44300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in State College, PA (CBSA)      | 2017-07-01          | 2022-04-01        |
-| MEDSQUFEEYY44300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in State College, PA (CBSA)        | 2017-07-01          | 2022-04-01        |
-| MELIPRMMMSA44300          | Market Hotness: Median Listing Price in State College, PA (CBSA)                                     | 2018-08-01          | 2022-04-01        |
-| MELIPRMSA44300            | Market Hotness: Median Listing Price in State College, PA (CBSA)                                     | 2017-08-01          | 2022-04-01        |
-| MELIPRVSUSMSA44300        | Market Hotness: Median Listing Price Versus the United States in State College, PA (CBSA)            | 2017-08-01          | 2022-04-01        |
-| MELIPRYYMSA44300          | Market Hotness: Median Listing Price in State College, PA (CBSA)                                     | 2018-08-01          | 2022-04-01        |
-| NEWLISCOU44300            | Housing Inventory: New Listing Count in State College, PA (CBSA)                                     | 2016-07-01          | 2022-04-01        |
-| NEWLISCOUMM44300          | Housing Inventory: New Listing Count Month-Over-Month in State College, PA (CBSA)                    | 2017-07-01          | 2022-04-01        |
-| NEWLISCOUYY44300          | Housing Inventory: New Listing Count Year-Over-Year in State College, PA (CBSA)                      | 2017-07-01          | 2022-04-01        |
+| LDPEPRMMMSA44300          | Market Hotness: Listing Views per Property in State College, PA (CBSA)                               | 2018-08-01          | 2022-05-01        |
+| LDPEPRVSUSMSA44300        | Market Hotness: Listing Views per Property Versus the United States in State College, PA (CBSA)      | 2017-08-01          | 2022-05-01        |
+| LDPEPRYYMSA44300          | Market Hotness: Listing Views per Property in State College, PA (CBSA)                               | 2018-08-01          | 2022-05-01        |
+| MEDAONMAMMMSA44300        | Market Hotness: Median Days on Market in State College, PA (CBSA)                                    | 2018-08-01          | 2022-05-01        |
+| MEDAONMAMSA44300          | Market Hotness: Median Days on Market in State College, PA (CBSA)                                    | 2017-08-01          | 2022-05-01        |
+| MEDAONMAYYMSA44300        | Market Hotness: Median Days on Market in State College, PA (CBSA)                                    | 2018-08-01          | 2022-05-01        |
+| MEDDAYONMAR44300          | Housing Inventory: Median Days on Market in State College, PA (CBSA)                                 | 2016-07-01          | 2022-05-01        |
+| MEDDAYONMARMM44300        | Housing Inventory: Median Days on Market Month-Over-Month in State College, PA (CBSA)                | 2017-07-01          | 2022-05-01        |
+| MEDDAYONMARYY44300        | Housing Inventory: Median Days on Market Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-05-01        |
+| MEDLISPRI44300            | Housing Inventory: Median Listing Price in State College, PA (CBSA)                                  | 2016-07-01          | 2022-05-01        |
+| MEDLISPRIMM44300          | Housing Inventory: Median Listing Price Month-Over-Month in State College, PA (CBSA)                 | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEE44300   | Housing Inventory: Median Listing Price per Square Feet in State College, PA (CBSA)                  | 2016-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEEMM44300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in State College, PA (CBSA) | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEEYY44300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in State College, PA (CBSA)   | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIYY44300          | Housing Inventory: Median Listing Price Year-Over-Year in State College, PA (CBSA)                   | 2017-07-01          | 2022-05-01        |
+| MEDOMMDAMSA44300          | Market Hotness: Median Days on Market in State College, PA (CBSA)                                    | 2018-08-01          | 2022-05-01        |
+| MEDOVSUSMSA44300          | Market Hotness: Median Days on Market Versus the United States in State College, PA (CBSA)           | 2017-08-01          | 2022-05-01        |
+| MEDOYYDAMSA44300          | Market Hotness: Median Days on Market Day in State College, PA (CBSA)                                | 2018-08-01          | 2022-05-01        |
+| MEDSQUFEE44300            | Housing Inventory: Median Home Size in Square Feet in State College, PA (CBSA)                       | 2016-07-01          | 2022-05-01        |
+| MEDSQUFEEMM44300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in State College, PA (CBSA)      | 2017-07-01          | 2022-05-01        |
+| MEDSQUFEEYY44300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in State College, PA (CBSA)        | 2017-07-01          | 2022-05-01        |
+| MELIPRMMMSA44300          | Market Hotness: Median Listing Price in State College, PA (CBSA)                                     | 2018-08-01          | 2022-05-01        |
+| MELIPRMSA44300            | Market Hotness: Median Listing Price in State College, PA (CBSA)                                     | 2017-08-01          | 2022-05-01        |
+| MELIPRVSUSMSA44300        | Market Hotness: Median Listing Price Versus the United States in State College, PA (CBSA)            | 2017-08-01          | 2022-05-01        |
+| MELIPRYYMSA44300          | Market Hotness: Median Listing Price in State College, PA (CBSA)                                     | 2018-08-01          | 2022-05-01        |
+| NEWLISCOU44300            | Housing Inventory: New Listing Count in State College, PA (CBSA)                                     | 2016-07-01          | 2022-05-01        |
+| NEWLISCOUMM44300          | Housing Inventory: New Listing Count Month-Over-Month in State College, PA (CBSA)                    | 2017-07-01          | 2022-05-01        |
+| NEWLISCOUYY44300          | Housing Inventory: New Listing Count Year-Over-Year in State College, PA (CBSA)                      | 2017-07-01          | 2022-05-01        |
 | NGMP44300                 | Total Gross Domestic Product for State College, PA (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA44300            | Market Hotness: Nielsen Household Rank in State College, PA (CBSA)                                   | 2017-08-01          | 2022-04-01        |
+| NIHHRAMSA44300            | Market Hotness: Nielsen Household Rank in State College, PA (CBSA)                                   | 2017-08-01          | 2022-05-01        |
 | PATENTCBSA144300          | U.S. Granted Utility Patents Originating in State College, PA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU44300            | Housing Inventory: Pending Listing Count in State College, PA (CBSA)                                 | 2016-07-01          | 2022-04-01        |
-| PENLISCOUMM44300          | Housing Inventory: Pending Listing Count Month-Over-Month in State College, PA (CBSA)                | 2017-07-01          | 2022-04-01        |
-| PENLISCOUYY44300          | Housing Inventory: Pending Listing Count Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-04-01        |
-| PRIINCCOU44300            | Housing Inventory: Price Increased Count in State College, PA (CBSA)                                 | 2016-07-01          | 2022-04-01        |
+| PENLISCOU44300            | Housing Inventory: Pending Listing Count in State College, PA (CBSA)                                 | 2016-07-01          | 2022-05-01        |
+| PENLISCOUMM44300          | Housing Inventory: Pending Listing Count Month-Over-Month in State College, PA (CBSA)                | 2017-07-01          | 2022-05-01        |
+| PENLISCOUYY44300          | Housing Inventory: Pending Listing Count Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-05-01        |
+| PRIINCCOU44300            | Housing Inventory: Price Increased Count in State College, PA (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | PRIINCCOUMM44300          | Housing Inventory: Price Increased Count Month-Over-Month in State College, PA (CBSA)                | 2017-07-01          | 2022-04-01        |
-| PRIINCCOUYY44300          | Housing Inventory: Price Increased Count Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-04-01        |
-| PRIREDCOU44300            | Housing Inventory: Price Reduced Count in State College, PA (CBSA)                                   | 2016-07-01          | 2022-04-01        |
-| PRIREDCOUMM44300          | Housing Inventory: Price Reduced Count Month-Over-Month in State College, PA (CBSA)                  | 2017-07-01          | 2022-04-01        |
-| PRIREDCOUYY44300          | Housing Inventory: Price Reduced Count Year-Over-Year in State College, PA (CBSA)                    | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY44300          | Housing Inventory: Price Increased Count Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-05-01        |
+| PRIREDCOU44300            | Housing Inventory: Price Reduced Count in State College, PA (CBSA)                                   | 2016-07-01          | 2022-05-01        |
+| PRIREDCOUMM44300          | Housing Inventory: Price Reduced Count Month-Over-Month in State College, PA (CBSA)                  | 2017-07-01          | 2022-05-01        |
+| PRIREDCOUYY44300          | Housing Inventory: Price Reduced Count Year-Over-Year in State College, PA (CBSA)                    | 2017-07-01          | 2022-05-01        |
 | QGMP44300                 | Total Quantity Indexes for Real GDP for State College, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP44300                 | Total Real Gross Domestic Product for State College, PA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI44300                  | Real Personal Income for State College, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -124,8 +124,8 @@
 | STAT342GOVTN              | All Employees: Government in State College, PA (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | STAT342LEIH               | All Employees: Leisure and Hospitality in State College, PA (MSA)                                    | 1990-01-01          | 2022-04-01        |
 | STAT342LEIHN              | All Employees: Leisure and Hospitality in State College, PA (MSA)                                    | 1990-01-01          | 2022-04-01        |
-| STAT342LF                 | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
-| STAT342LFN                | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2022-03-01        |
+| STAT342LF                 | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2022-04-01        |
+| STAT342LFN                | Civilian Labor Force in State College, PA (MSA)                                                      | 1990-01-01          | 2022-04-01        |
 | STAT342MFG                | All Employees: Manufacturing in State College, PA (MSA)                                              | 1990-01-01          | 2022-04-01        |
 | STAT342MFGN               | All Employees: Manufacturing in State College, PA (MSA)                                              | 1990-01-01          | 2022-04-01        |
 | STAT342NA                 | All Employees: Total Nonfarm in State College, PA (MSA)                                              | 1990-01-01          | 2022-04-01        |
@@ -135,6 +135,6 @@
 | STAT342PCPI               | Per Capita Personal Income in State College, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | STAT342TRAD               | All Employees: Trade, Transportation, and Utilities in State College, PA (MSA)                       | 1990-01-01          | 2022-04-01        |
 | STAT342TRADN              | All Employees: Trade, Transportation, and Utilities in State College, PA (MSA)                       | 1990-01-01          | 2022-04-01        |
-| STAT342UR                 | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
-| STAT342URN                | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2022-03-01        |
-| SUSCMSA44300              | Market Hotness: Supply Score in State College, PA (CBSA)                                             | 2017-08-01          | 2022-04-01        |
+| STAT342UR                 | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2022-04-01        |
+| STAT342URN                | Unemployment Rate in State College, PA (MSA)                                                         | 1990-01-01          | 2022-04-01        |
+| SUSCMSA44300              | Market Hotness: Supply Score in State College, PA (CBSA)                                             | 2017-08-01          | 2022-05-01        |

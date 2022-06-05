@@ -1,22 +1,22 @@
 | Folder                                      |   Files / Folders |
 |---------------------------------------------|-------------------|
-| New York-Newark-Jersey City, NY-NJ-PA       |                 0 |
+| Bloomsburg-Berwick, PA                      |                80 |
+| Pittsburgh, PA                              |               288 |
+| Reading, PA                                 |               176 |
+| State College, PA                           |               140 |
+| East Stroudsburg, PA                        |                89 |
+| Harrisburg-Carlisle, PA                     |               213 |
+| Scranton--Wilkes-Barre, PA                  |               192 |
+| Lebanon, PA                                 |               134 |
+| Gettysburg, PA                              |                77 |
+| Williamsport, PA                            |               117 |
 | Chambersburg-Waynesboro, PA                 |                94 |
+| Erie, PA                                    |               167 |
 | Altoona, PA                                 |               135 |
 | Youngstown-Warren-Boardman, OH-PA           |                 0 |
-| State College, PA                           |               140 |
-| Allentown-Bethlehem-Easton, PA-NJ           |                 0 |
-| Gettysburg, PA                              |                77 |
-| Lancaster, PA                               |               183 |
-| Pittsburgh, PA                              |               288 |
-| Scranton--Wilkes-Barre, PA                  |               192 |
-| Erie, PA                                    |               167 |
-| York-Hanover, PA                            |               167 |
-| Williamsport, PA                            |               117 |
-| Bloomsburg-Berwick, PA                      |                80 |
-| Harrisburg-Carlisle, PA                     |               213 |
-| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |                 0 |
-| Reading, PA                                 |               176 |
-| East Stroudsburg, PA                        |                89 |
+| New York-Newark-Jersey City, NY-NJ-PA       |               164 |
 | Johnstown, PA                               |               152 |
-| Lebanon, PA                                 |               134 |
+| Allentown-Bethlehem-Easton, PA-NJ           |               220 |
+| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |                 0 |
+| Lancaster, PA                               |               183 |
+| York-Hanover, PA                            |               167 |

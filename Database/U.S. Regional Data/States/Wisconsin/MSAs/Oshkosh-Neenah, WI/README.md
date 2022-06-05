@@ -1,13 +1,13 @@
 | id                        | title                                                                                                               | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU36780            | Housing Inventory: Active Listing Count in Oshkosh-Neenah, WI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
-| ACTLISCOUMM36780          | Housing Inventory: Active Listing Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                               | 2017-07-01          | 2022-04-01        |
-| ACTLISCOUYY36780          | Housing Inventory: Active Listing Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
-| ATNHPIUS36780Q            | All-Transactions House Price Index for Oshkosh-Neenah, WI (MSA)                                                     | 1985-07-01          | 2021-10-01        |
-| AVELISPRI36780            | Housing Inventory: Average Listing Price in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
-| AVELISPRIMM36780          | Housing Inventory: Average Listing Price Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2022-04-01        |
-| AVELISPRIYY36780          | Housing Inventory: Average Listing Price Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| DESCMSA36780              | Market Hotness: Demand Score in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| ACTLISCOU36780            | Housing Inventory: Active Listing Count in Oshkosh-Neenah, WI (CBSA)                                                | 2016-07-01          | 2022-05-01        |
+| ACTLISCOUMM36780          | Housing Inventory: Active Listing Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                               | 2017-07-01          | 2022-05-01        |
+| ACTLISCOUYY36780          | Housing Inventory: Active Listing Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ATNHPIUS36780Q            | All-Transactions House Price Index for Oshkosh-Neenah, WI (MSA)                                                     | 1985-07-01          | 2022-01-01        |
+| AVELISPRI36780            | Housing Inventory: Average Listing Price in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
+| AVELISPRIMM36780          | Housing Inventory: Average Listing Price Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
+| AVELISPRIYY36780          | Housing Inventory: Average Listing Price Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| DESCMSA36780              | Market Hotness: Demand Score in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | ENUC367830010             | Total Quarterly Wages in Oshkosh-Neenah, WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC367830010SA           | Total Quarterly Wages in Oshkosh-Neenah, WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC367840010             | Average Weekly Wages for Employees in Total Covered Establishments in Oshkosh-Neenah, WI (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -20,47 +20,47 @@
 | ENUC367840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC367840510             | Average Weekly Wages for Employees in Private Establishments in Oshkosh-Neenah, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC367840510SA           | Average Weekly Wages for Employees in Private Establishments in Oshkosh-Neenah, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA36780            | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
-| HORAMSA36780              | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
-| HORAYYMSA36780            | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
-| HOSCMSA36780              | Market Hotness: Hotness Score in Oshkosh-Neenah, WI (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
+| HORAMMMSA36780            | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
+| HORAMSA36780              | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| HORAYYMSA36780            | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
+| HOSCMSA36780              | Market Hotness: Hotness Score in Oshkosh-Neenah, WI (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
 | IRPD36780                 | Implicit Regional Price Deflator for Oshkosh-Neenah, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT553678000000003A     | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT553678000000004      | Unemployed Persons in Oshkosh-Neenah, WI (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT553678000000004      | Unemployed Persons in Oshkosh-Neenah, WI (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
 | LAUMT553678000000004A     | Unemployed Persons in Oshkosh-Neenah, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT553678000000005      | Employed Persons in Oshkosh-Neenah, WI (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT553678000000005      | Employed Persons in Oshkosh-Neenah, WI (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
 | LAUMT553678000000005A     | Employed Persons in Oshkosh-Neenah, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT553678000000006A     | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA36780          | Market Hotness: Listing Views per Property in Oshkosh-Neenah, WI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
-| LDPEPRVSUSMSA36780        | Market Hotness: Listing Views per Property Versus the United States in Oshkosh-Neenah, WI (CBSA)                    | 2017-08-01          | 2022-04-01        |
-| LDPEPRYYMSA36780          | Market Hotness: Listing Views per Property in Oshkosh-Neenah, WI (CBSA)                                             | 2018-08-01          | 2022-04-01        |
-| MEDAONMAMMMSA36780        | Market Hotness: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
-| MEDAONMAMSA36780          | Market Hotness: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
-| MEDAONMAYYMSA36780        | Market Hotness: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
-| MEDDAYONMAR36780          | Housing Inventory: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
-| MEDDAYONMARMM36780        | Housing Inventory: Median Days on Market Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2022-04-01        |
-| MEDDAYONMARYY36780        | Housing Inventory: Median Days on Market Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| MEDLISPRI36780            | Housing Inventory: Median Listing Price in Oshkosh-Neenah, WI (CBSA)                                                | 2016-07-01          | 2022-04-01        |
-| MEDLISPRIMM36780          | Housing Inventory: Median Listing Price Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                               | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEE36780   | Housing Inventory: Median Listing Price per Square Feet in Oshkosh-Neenah, WI (CBSA)                                | 2016-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEEMM36780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Oshkosh-Neenah, WI (CBSA)               | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEEYY36780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                 | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIYY36780          | Housing Inventory: Median Listing Price Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                 | 2017-07-01          | 2022-04-01        |
-| MEDOMMDAMSA36780          | Market Hotness: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
-| MEDOVSUSMSA36780          | Market Hotness: Median Days on Market Versus the United States in Oshkosh-Neenah, WI (CBSA)                         | 2017-08-01          | 2022-04-01        |
-| MEDOYYDAMSA36780          | Market Hotness: Median Days on Market Day in Oshkosh-Neenah, WI (CBSA)                                              | 2018-08-01          | 2022-04-01        |
-| MEDSQUFEE36780            | Housing Inventory: Median Home Size in Square Feet in Oshkosh-Neenah, WI (CBSA)                                     | 2016-07-01          | 2022-04-01        |
-| MEDSQUFEEMM36780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                    | 2017-07-01          | 2022-04-01        |
-| MEDSQUFEEYY36780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                      | 2017-07-01          | 2022-04-01        |
-| MELIPRMMMSA36780          | Market Hotness: Median Listing Price in Oshkosh-Neenah, WI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
-| MELIPRMSA36780            | Market Hotness: Median Listing Price in Oshkosh-Neenah, WI (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
-| MELIPRVSUSMSA36780        | Market Hotness: Median Listing Price Versus the United States in Oshkosh-Neenah, WI (CBSA)                          | 2017-08-01          | 2022-04-01        |
-| MELIPRYYMSA36780          | Market Hotness: Median Listing Price in Oshkosh-Neenah, WI (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
-| NEWLISCOU36780            | Housing Inventory: New Listing Count in Oshkosh-Neenah, WI (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
-| NEWLISCOUMM36780          | Housing Inventory: New Listing Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
-| NEWLISCOUYY36780          | Housing Inventory: New Listing Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                    | 2017-07-01          | 2022-04-01        |
+| LDPEPRMMMSA36780          | Market Hotness: Listing Views per Property in Oshkosh-Neenah, WI (CBSA)                                             | 2018-08-01          | 2022-05-01        |
+| LDPEPRVSUSMSA36780        | Market Hotness: Listing Views per Property Versus the United States in Oshkosh-Neenah, WI (CBSA)                    | 2017-08-01          | 2022-05-01        |
+| LDPEPRYYMSA36780          | Market Hotness: Listing Views per Property in Oshkosh-Neenah, WI (CBSA)                                             | 2018-08-01          | 2022-05-01        |
+| MEDAONMAMMMSA36780        | Market Hotness: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
+| MEDAONMAMSA36780          | Market Hotness: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
+| MEDAONMAYYMSA36780        | Market Hotness: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
+| MEDDAYONMAR36780          | Housing Inventory: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
+| MEDDAYONMARMM36780        | Housing Inventory: Median Days on Market Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
+| MEDDAYONMARYY36780        | Housing Inventory: Median Days on Market Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| MEDLISPRI36780            | Housing Inventory: Median Listing Price in Oshkosh-Neenah, WI (CBSA)                                                | 2016-07-01          | 2022-05-01        |
+| MEDLISPRIMM36780          | Housing Inventory: Median Listing Price Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                               | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEE36780   | Housing Inventory: Median Listing Price per Square Feet in Oshkosh-Neenah, WI (CBSA)                                | 2016-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEEMM36780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Oshkosh-Neenah, WI (CBSA)               | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEEYY36780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                 | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIYY36780          | Housing Inventory: Median Listing Price Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| MEDOMMDAMSA36780          | Market Hotness: Median Days on Market in Oshkosh-Neenah, WI (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
+| MEDOVSUSMSA36780          | Market Hotness: Median Days on Market Versus the United States in Oshkosh-Neenah, WI (CBSA)                         | 2017-08-01          | 2022-05-01        |
+| MEDOYYDAMSA36780          | Market Hotness: Median Days on Market Day in Oshkosh-Neenah, WI (CBSA)                                              | 2018-08-01          | 2022-05-01        |
+| MEDSQUFEE36780            | Housing Inventory: Median Home Size in Square Feet in Oshkosh-Neenah, WI (CBSA)                                     | 2016-07-01          | 2022-05-01        |
+| MEDSQUFEEMM36780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                    | 2017-07-01          | 2022-05-01        |
+| MEDSQUFEEYY36780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                      | 2017-07-01          | 2022-05-01        |
+| MELIPRMMMSA36780          | Market Hotness: Median Listing Price in Oshkosh-Neenah, WI (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
+| MELIPRMSA36780            | Market Hotness: Median Listing Price in Oshkosh-Neenah, WI (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
+| MELIPRVSUSMSA36780        | Market Hotness: Median Listing Price Versus the United States in Oshkosh-Neenah, WI (CBSA)                          | 2017-08-01          | 2022-05-01        |
+| MELIPRYYMSA36780          | Market Hotness: Median Listing Price in Oshkosh-Neenah, WI (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
+| NEWLISCOU36780            | Housing Inventory: New Listing Count in Oshkosh-Neenah, WI (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
+| NEWLISCOUMM36780          | Housing Inventory: New Listing Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| NEWLISCOUYY36780          | Housing Inventory: New Listing Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                    | 2017-07-01          | 2022-05-01        |
 | NGMP36780                 | Total Gross Domestic Product for Oshkosh-Neenah, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA36780            | Market Hotness: Nielsen Household Rank in Oshkosh-Neenah, WI (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
+| NIHHRAMSA36780            | Market Hotness: Nielsen Household Rank in Oshkosh-Neenah, WI (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
 | OSHK755EDUH               | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | OSHK755EDUHN              | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | OSHK755FIRE               | All Employees: Financial Activities in Oshkosh-Neenah, WI (MSA)                                                     | 1990-01-01          | 2022-04-01        |
@@ -71,8 +71,8 @@
 | OSHK755INFON              | All Employees: Information in Oshkosh-Neenah, WI (MSA)                                                              | 1990-01-01          | 2022-04-01        |
 | OSHK755LEIH               | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2022-04-01        |
 | OSHK755LEIHN              | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2022-04-01        |
-| OSHK755LF                 | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
-| OSHK755LFN                | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| OSHK755LF                 | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| OSHK755LFN                | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
 | OSHK755MFG                | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2022-04-01        |
 | OSHK755MFGN               | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2022-04-01        |
 | OSHK755NA                 | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-04-01        |
@@ -86,19 +86,19 @@
 | OSHK755SRVON              | All Employees: Other Services in Oshkosh-Neenah, WI (MSA)                                                           | 1990-01-01          | 2022-04-01        |
 | OSHK755TRAD               | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2022-04-01        |
 | OSHK755TRADN              | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2022-04-01        |
-| OSHK755UR                 | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
-| OSHK755URN                | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| OSHK755UR                 | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| OSHK755URN                | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | OSNPOP                    | Resident Population in Oshkosh-Neenah, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136780          | U.S. Granted Utility Patents Originating in Oshkosh-Neenah, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU36780            | Housing Inventory: Pending Listing Count in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
-| PENLISCOUMM36780          | Housing Inventory: Pending Listing Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2022-04-01        |
-| PENLISCOUYY36780          | Housing Inventory: Pending Listing Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| PRIINCCOU36780            | Housing Inventory: Price Increased Count in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-04-01        |
+| PENLISCOU36780            | Housing Inventory: Pending Listing Count in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
+| PENLISCOUMM36780          | Housing Inventory: Pending Listing Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
+| PENLISCOUYY36780          | Housing Inventory: Pending Listing Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| PRIINCCOU36780            | Housing Inventory: Price Increased Count in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | PRIINCCOUMM36780          | Housing Inventory: Price Increased Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2021-11-01        |
-| PRIINCCOUYY36780          | Housing Inventory: Price Increased Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2021-08-01        |
-| PRIREDCOU36780            | Housing Inventory: Price Reduced Count in Oshkosh-Neenah, WI (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
-| PRIREDCOUMM36780          | Housing Inventory: Price Reduced Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| PRIREDCOUYY36780          | Housing Inventory: Price Reduced Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY36780          | Housing Inventory: Price Increased Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| PRIREDCOU36780            | Housing Inventory: Price Reduced Count in Oshkosh-Neenah, WI (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
+| PRIREDCOUMM36780          | Housing Inventory: Price Reduced Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| PRIREDCOUYY36780          | Housing Inventory: Price Reduced Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                  | 2017-07-01          | 2022-05-01        |
 | QGMP36780                 | Total Quantity Indexes for Real GDP for Oshkosh-Neenah, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP36780                 | Total Real Gross Domestic Product for Oshkosh-Neenah, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI36780                  | Real Personal Income for Oshkosh-Neenah, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -164,4 +164,4 @@
 | SMU55367809093000001      | All Employees: Government: Local Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-04-01        |
 | SMU55367809093000001A     | All Employees: Local Government in Oshkosh-Neenah, WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU55367809093000001SA    | All Employees: Government: Local Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-04-01        |
-| SUSCMSA36780              | Market Hotness: Supply Score in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| SUSCMSA36780              | Market Hotness: Supply Score in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |

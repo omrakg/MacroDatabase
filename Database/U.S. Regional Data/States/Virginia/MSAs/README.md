@@ -1,14 +1,14 @@
 | Folder                                       |   Files / Folders |
 |----------------------------------------------|-------------------|
-| Virginia Beach-Norfolk-Newport News, VA-NC   |                 0 |
-| Harrisonburg, VA                             |                 0 |
+| Richmond, VA                                 |               181 |
+| Blacksburg-Christiansburg, VA                |               122 |
+| Danville, VA                                 |                36 |
+| Lynchburg, VA                                |               158 |
+| Washington-Arlington-Alexandria, DC-VA-MD-WV |               194 |
 | Kingsport-Bristol, TN-VA                     |               158 |
-| Richmond, VA                                 |                 0 |
-| Roanoke, VA                                  |                 0 |
-| Danville, VA                                 |                 0 |
-| Blacksburg-Christiansburg, VA                |                 0 |
-| Lynchburg, VA                                |                 0 |
-| Staunton, VA                                 |                 0 |
-| Washington-Arlington-Alexandria, DC-VA-MD-WV |                 0 |
-| Winchester, VA-WV                            |                 0 |
-| Charlottesville, VA                          |                 0 |
+| Roanoke, VA                                  |               158 |
+| Virginia Beach-Norfolk-Newport News, VA-NC   |               208 |
+| Winchester, VA-WV                            |               105 |
+| Harrisonburg, VA                             |               108 |
+| Staunton, VA                                 |                59 |
+| Charlottesville, VA                          |               158 |

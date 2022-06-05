@@ -1,2 +1,6 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                | observation_start   | observation_end   |
+|------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ATNHPIUS43524Q         | All-Transactions House Price Index for Silver Spring-Frederick-Rockville, MD (MSAD) (DISCONTINUED)                   | 1976-04-01          | 2018-07-01        |
+| SMU24435240500000002SA | Average Weekly Hours of All Employees: Total Private in Silver Spring-Frederick-Rockville, MD (MD) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU24435240500000003SA | Average Hourly Earnings of All Employees: Total Private in Silver Spring-Frederick-Rockville, MD (MD) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU24435240500000011SA | Average Weekly Earnings of All Employees: Total Private in Silver Spring-Frederick-Rockville, MD (MD) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

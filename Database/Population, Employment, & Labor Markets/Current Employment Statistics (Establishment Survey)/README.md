@@ -1,24 +1,24 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Construction                         |                 0 |
-| Total Nonfarm                        |                 0 |
-| Information                          |                 0 |
-| Financial Activities                 |                 0 |
-| Service-Providing                    |                 0 |
+| Total Private                        |                29 |
+| Total Nonfarm                        |                 7 |
+| Goods-Producing                      |                29 |
 | Durable Goods                        |                 0 |
-| Manufacturing                        |                 0 |
-| Government                           |                 0 |
-| Mining and Logging                   |                 0 |
-| Total Private                        |                 0 |
-| Education and Health Services        |                 0 |
-| Professional and Business Services   |                 0 |
-| Leisure and Hospitality              |                 0 |
+| Education and Health Services        |                53 |
 | Wholesale Trade                      |                 0 |
-| Goods-Producing                      |                 0 |
-| Private Service-Providing            |                 0 |
-| Nondurable Goods                     |                 0 |
-| Trade, Transportation, and Utilities |                 0 |
-| Transportation and Warehousing       |                 0 |
-| Utilities                            |                 0 |
-| Other Services                       |                 0 |
+| Professional and Business Services   |                57 |
+| Mining and Logging                   |                41 |
+| Manufacturing                        |                 0 |
+| Trade, Transportation, and Utilities |                29 |
+| Private Service-Providing            |                29 |
+| Leisure and Hospitality              |                43 |
 | Retail Trade                         |                 0 |
+| Other Services                       |                35 |
+| Financial Activities                 |                51 |
+| Government                           |                 0 |
+| Service-Providing                    |                 3 |
+| Nondurable Goods                     |                 0 |
+| Information                          |                 0 |
+| Utilities                            |                 0 |
+| Transportation and Warehousing       |                 0 |
+| Construction                         |                 0 |

@@ -1,4 +1,4 @@
 | Folder                           |   Files / Folders |
 |----------------------------------|-------------------|
-| Detroit-Dearborn-Livonia, MI     |                 0 |
-| Warren-Troy-Farmington Hills, MI |                 0 |
+| Detroit-Dearborn-Livonia, MI     |               246 |
+| Warren-Troy-Farmington Hills, MI |               273 |

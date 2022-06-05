@@ -1,7 +1,7 @@
 | Folder                       |   Files / Folders |
 |------------------------------|-------------------|
-| Inventories                  |                 0 |
-| Shipments                    |               254 |
-| Unfilled Orders to Shipments |                20 |
 | Inventory to Shipments       |                50 |
+| Inventories                  |                20 |
+| Shipments                    |               254 |
 | Unfilled Orders              |               150 |
+| Unfilled Orders to Shipments |                20 |

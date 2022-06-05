@@ -1,9 +1,4 @@
-| Folder                        |   Files / Folders |
-|-------------------------------|-------------------|
-| Financial Indicators          |                 5 |
-| Banking                       |                10 |
-| Foreign Exchange Intervention |                20 |
-| Business Lending              |                10 |
-| Monetary Data                 |                13 |
-| Interest Rates                |                25 |
-| Exchange Rates                |                 5 |
+| id         | title                                               | observation_start   | observation_end   |
+|------------|-----------------------------------------------------|---------------------|-------------------|
+| ECBASSETSW | Central Bank Assets for Euro Area (11-19 Countries) | 1999-01-01          | 2022-05-27        |
+| JPNASSETS  | Bank of Japan: Total Assets for Japan               | 1998-04-01          | 2022-05-01        |

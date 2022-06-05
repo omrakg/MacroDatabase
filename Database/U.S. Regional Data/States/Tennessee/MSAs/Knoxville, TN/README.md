@@ -1,13 +1,13 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU28940            | Housing Inventory: Active Listing Count in Knoxville, TN (CBSA)                                                | 2016-07-01          | 2022-04-01        |
-| ACTLISCOUMM28940          | Housing Inventory: Active Listing Count Month-Over-Month in Knoxville, TN (CBSA)                               | 2017-07-01          | 2022-04-01        |
-| ACTLISCOUYY28940          | Housing Inventory: Active Listing Count Year-Over-Year in Knoxville, TN (CBSA)                                 | 2017-07-01          | 2022-04-01        |
-| ATNHPIUS28940Q            | All-Transactions House Price Index for Knoxville, TN (MSA)                                                     | 1983-04-01          | 2021-10-01        |
-| AVELISPRI28940            | Housing Inventory: Average Listing Price in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
-| AVELISPRIMM28940          | Housing Inventory: Average Listing Price Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
-| AVELISPRIYY28940          | Housing Inventory: Average Listing Price Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| DESCMSA28940              | Market Hotness: Demand Score in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| ACTLISCOU28940            | Housing Inventory: Active Listing Count in Knoxville, TN (CBSA)                                                | 2016-07-01          | 2022-05-01        |
+| ACTLISCOUMM28940          | Housing Inventory: Active Listing Count Month-Over-Month in Knoxville, TN (CBSA)                               | 2017-07-01          | 2022-05-01        |
+| ACTLISCOUYY28940          | Housing Inventory: Active Listing Count Year-Over-Year in Knoxville, TN (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ATNHPIUS28940Q            | All-Transactions House Price Index for Knoxville, TN (MSA)                                                     | 1983-04-01          | 2022-01-01        |
+| AVELISPRI28940            | Housing Inventory: Average Listing Price in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-05-01        |
+| AVELISPRIMM28940          | Housing Inventory: Average Listing Price Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-05-01        |
+| AVELISPRIYY28940          | Housing Inventory: Average Listing Price Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| DESCMSA28940              | Market Hotness: Demand Score in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | ENUC289430010             | Total Quarterly Wages in Knoxville, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC289430010SA           | Total Quarterly Wages in Knoxville, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
 | ENUC289440010             | Average Weekly Wages for Employees in Total Covered Establishments in Knoxville, TN (MSA)                      | 1990-01-01          | 2021-07-01        |
@@ -18,11 +18,11 @@
 | ENUC289440310             | Average Weekly Wages for Employees in Local Government Establishments in Knoxville, TN (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC289440510             | Average Weekly Wages for Employees in Private Establishments in Knoxville, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC289440510SA           | Average Weekly Wages for Employees in Private Establishments in Knoxville, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| HORAMMMSA28940            | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
-| HORAMSA28940              | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
-| HORAYYMSA28940            | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2018-08-01          | 2022-04-01        |
-| HOSCMSA28940              | Market Hotness: Hotness Score in Knoxville, TN (CBSA)                                                          | 2017-08-01          | 2022-04-01        |
-| IHLCHG28940               | Job Postings on Indeed in Knoxville, TN (MSA)                                                                  | 2020-02-01          | 2022-05-20        |
+| HORAMMMSA28940            | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
+| HORAMSA28940              | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| HORAYYMSA28940            | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
+| HOSCMSA28940              | Market Hotness: Hotness Score in Knoxville, TN (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| IHLCHG28940               | Job Postings on Indeed in Knoxville, TN (MSA)                                                                  | 2020-02-01          | 2022-05-27        |
 | IRPD28940                 | Implicit Regional Price Deflator for Knoxville, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | KNOX947EDUH               | All Employees: Education and Health Services in Knoxville, TN (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | KNOX947EDUHN              | All Employees: Education and Health Services in Knoxville, TN (MSA)                                            | 1990-01-01          | 2022-04-01        |
@@ -34,8 +34,8 @@
 | KNOX947INFON              | All Employees: Information in Knoxville, TN (MSA)                                                              | 1990-01-01          | 2022-04-01        |
 | KNOX947LEIH               | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2022-04-01        |
 | KNOX947LEIHN              | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2022-04-01        |
-| KNOX947LF                 | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
-| KNOX947LFN                | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-03-01        |
+| KNOX947LF                 | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| KNOX947LFN                | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
 | KNOX947MFG                | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-04-01        |
 | KNOX947MFGN               | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-04-01        |
 | KNOX947NA                 | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-04-01        |
@@ -49,55 +49,55 @@
 | KNOX947SRVON              | All Employees: Other Services in Knoxville, TN (MSA)                                                           | 1990-01-01          | 2022-04-01        |
 | KNOX947TRAD               | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2022-04-01        |
 | KNOX947TRADN              | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2022-04-01        |
-| KNOX947UR                 | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
-| KNOX947URN                | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-03-01        |
+| KNOX947UR                 | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| KNOX947URN                | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | KNXPOP                    | Resident Population in Knoxville, TN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT472894000000003A     | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT472894000000004      | Unemployed Persons in Knoxville, TN (MSA)                                                                      | 1990-01-01          | 2022-03-01        |
+| LAUMT472894000000004      | Unemployed Persons in Knoxville, TN (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
 | LAUMT472894000000004A     | Unemployed Persons in Knoxville, TN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT472894000000005      | Employed Persons in Knoxville, TN (MSA)                                                                        | 1990-01-01          | 2022-03-01        |
+| LAUMT472894000000005      | Employed Persons in Knoxville, TN (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
 | LAUMT472894000000005A     | Employed Persons in Knoxville, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT472894000000006A     | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA28940          | Market Hotness: Listing Views per Property in Knoxville, TN (CBSA)                                             | 2018-08-01          | 2022-04-01        |
-| LDPEPRVSUSMSA28940        | Market Hotness: Listing Views per Property Versus the United States in Knoxville, TN (CBSA)                    | 2017-08-01          | 2022-04-01        |
-| LDPEPRYYMSA28940          | Market Hotness: Listing Views per Property in Knoxville, TN (CBSA)                                             | 2018-08-01          | 2022-04-01        |
-| MEDAONMAMMMSA28940        | Market Hotness: Median Days on Market in Knoxville, TN (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
-| MEDAONMAMSA28940          | Market Hotness: Median Days on Market in Knoxville, TN (CBSA)                                                  | 2017-08-01          | 2022-04-01        |
-| MEDAONMAYYMSA28940        | Market Hotness: Median Days on Market in Knoxville, TN (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
-| MEDDAYONMAR28940          | Housing Inventory: Median Days on Market in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
-| MEDDAYONMARMM28940        | Housing Inventory: Median Days on Market Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
-| MEDDAYONMARYY28940        | Housing Inventory: Median Days on Market Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| MEDLISPRI28940            | Housing Inventory: Median Listing Price in Knoxville, TN (CBSA)                                                | 2016-07-01          | 2022-04-01        |
-| MEDLISPRIMM28940          | Housing Inventory: Median Listing Price Month-Over-Month in Knoxville, TN (CBSA)                               | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEE28940   | Housing Inventory: Median Listing Price per Square Feet in Knoxville, TN (CBSA)                                | 2016-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEEMM28940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Knoxville, TN (CBSA)               | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIPERSQUFEEYY28940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Knoxville, TN (CBSA)                 | 2017-07-01          | 2022-04-01        |
-| MEDLISPRIYY28940          | Housing Inventory: Median Listing Price Year-Over-Year in Knoxville, TN (CBSA)                                 | 2017-07-01          | 2022-04-01        |
-| MEDOMMDAMSA28940          | Market Hotness: Median Days on Market in Knoxville, TN (CBSA)                                                  | 2018-08-01          | 2022-04-01        |
-| MEDOVSUSMSA28940          | Market Hotness: Median Days on Market Versus the United States in Knoxville, TN (CBSA)                         | 2017-08-01          | 2022-04-01        |
-| MEDOYYDAMSA28940          | Market Hotness: Median Days on Market Day in Knoxville, TN (CBSA)                                              | 2018-08-01          | 2022-04-01        |
-| MEDSQUFEE28940            | Housing Inventory: Median Home Size in Square Feet in Knoxville, TN (CBSA)                                     | 2016-07-01          | 2022-04-01        |
-| MEDSQUFEEMM28940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Knoxville, TN (CBSA)                    | 2017-07-01          | 2022-04-01        |
-| MEDSQUFEEYY28940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Knoxville, TN (CBSA)                      | 2017-07-01          | 2022-04-01        |
-| MELIPRMMMSA28940          | Market Hotness: Median Listing Price in Knoxville, TN (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
-| MELIPRMSA28940            | Market Hotness: Median Listing Price in Knoxville, TN (CBSA)                                                   | 2017-08-01          | 2022-04-01        |
-| MELIPRVSUSMSA28940        | Market Hotness: Median Listing Price Versus the United States in Knoxville, TN (CBSA)                          | 2017-08-01          | 2022-04-01        |
-| MELIPRYYMSA28940          | Market Hotness: Median Listing Price in Knoxville, TN (CBSA)                                                   | 2018-08-01          | 2022-04-01        |
-| NEWLISCOU28940            | Housing Inventory: New Listing Count in Knoxville, TN (CBSA)                                                   | 2016-07-01          | 2022-04-01        |
-| NEWLISCOUMM28940          | Housing Inventory: New Listing Count Month-Over-Month in Knoxville, TN (CBSA)                                  | 2017-07-01          | 2022-04-01        |
-| NEWLISCOUYY28940          | Housing Inventory: New Listing Count Year-Over-Year in Knoxville, TN (CBSA)                                    | 2017-07-01          | 2022-04-01        |
+| LDPEPRMMMSA28940          | Market Hotness: Listing Views per Property in Knoxville, TN (CBSA)                                             | 2018-08-01          | 2022-05-01        |
+| LDPEPRVSUSMSA28940        | Market Hotness: Listing Views per Property Versus the United States in Knoxville, TN (CBSA)                    | 2017-08-01          | 2022-05-01        |
+| LDPEPRYYMSA28940          | Market Hotness: Listing Views per Property in Knoxville, TN (CBSA)                                             | 2018-08-01          | 2022-05-01        |
+| MEDAONMAMMMSA28940        | Market Hotness: Median Days on Market in Knoxville, TN (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
+| MEDAONMAMSA28940          | Market Hotness: Median Days on Market in Knoxville, TN (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
+| MEDAONMAYYMSA28940        | Market Hotness: Median Days on Market in Knoxville, TN (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
+| MEDDAYONMAR28940          | Housing Inventory: Median Days on Market in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-05-01        |
+| MEDDAYONMARMM28940        | Housing Inventory: Median Days on Market Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-05-01        |
+| MEDDAYONMARYY28940        | Housing Inventory: Median Days on Market Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| MEDLISPRI28940            | Housing Inventory: Median Listing Price in Knoxville, TN (CBSA)                                                | 2016-07-01          | 2022-05-01        |
+| MEDLISPRIMM28940          | Housing Inventory: Median Listing Price Month-Over-Month in Knoxville, TN (CBSA)                               | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEE28940   | Housing Inventory: Median Listing Price per Square Feet in Knoxville, TN (CBSA)                                | 2016-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEEMM28940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Knoxville, TN (CBSA)               | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIPERSQUFEEYY28940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Knoxville, TN (CBSA)                 | 2017-07-01          | 2022-05-01        |
+| MEDLISPRIYY28940          | Housing Inventory: Median Listing Price Year-Over-Year in Knoxville, TN (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| MEDOMMDAMSA28940          | Market Hotness: Median Days on Market in Knoxville, TN (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
+| MEDOVSUSMSA28940          | Market Hotness: Median Days on Market Versus the United States in Knoxville, TN (CBSA)                         | 2017-08-01          | 2022-05-01        |
+| MEDOYYDAMSA28940          | Market Hotness: Median Days on Market Day in Knoxville, TN (CBSA)                                              | 2018-08-01          | 2022-05-01        |
+| MEDSQUFEE28940            | Housing Inventory: Median Home Size in Square Feet in Knoxville, TN (CBSA)                                     | 2016-07-01          | 2022-05-01        |
+| MEDSQUFEEMM28940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Knoxville, TN (CBSA)                    | 2017-07-01          | 2022-05-01        |
+| MEDSQUFEEYY28940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Knoxville, TN (CBSA)                      | 2017-07-01          | 2022-05-01        |
+| MELIPRMMMSA28940          | Market Hotness: Median Listing Price in Knoxville, TN (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
+| MELIPRMSA28940            | Market Hotness: Median Listing Price in Knoxville, TN (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
+| MELIPRVSUSMSA28940        | Market Hotness: Median Listing Price Versus the United States in Knoxville, TN (CBSA)                          | 2017-08-01          | 2022-05-01        |
+| MELIPRYYMSA28940          | Market Hotness: Median Listing Price in Knoxville, TN (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
+| NEWLISCOU28940            | Housing Inventory: New Listing Count in Knoxville, TN (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
+| NEWLISCOUMM28940          | Housing Inventory: New Listing Count Month-Over-Month in Knoxville, TN (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| NEWLISCOUYY28940          | Housing Inventory: New Listing Count Year-Over-Year in Knoxville, TN (CBSA)                                    | 2017-07-01          | 2022-05-01        |
 | NGMP28940                 | Total Gross Domestic Product for Knoxville, TN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA28940            | Market Hotness: Nielsen Household Rank in Knoxville, TN (CBSA)                                                 | 2017-08-01          | 2022-04-01        |
+| NIHHRAMSA28940            | Market Hotness: Nielsen Household Rank in Knoxville, TN (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
 | PATENTCBSA128940          | U.S. Granted Utility Patents Originating in Knoxville, TN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU28940            | Housing Inventory: Pending Listing Count in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
-| PENLISCOUMM28940          | Housing Inventory: Pending Listing Count Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
-| PENLISCOUYY28940          | Housing Inventory: Pending Listing Count Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| PRIINCCOU28940            | Housing Inventory: Price Increased Count in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-04-01        |
-| PRIINCCOUMM28940          | Housing Inventory: Price Increased Count Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-04-01        |
-| PRIINCCOUYY28940          | Housing Inventory: Price Increased Count Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| PRIREDCOU28940            | Housing Inventory: Price Reduced Count in Knoxville, TN (CBSA)                                                 | 2016-07-01          | 2022-04-01        |
-| PRIREDCOUMM28940          | Housing Inventory: Price Reduced Count Month-Over-Month in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-04-01        |
-| PRIREDCOUYY28940          | Housing Inventory: Price Reduced Count Year-Over-Year in Knoxville, TN (CBSA)                                  | 2017-07-01          | 2022-04-01        |
+| PENLISCOU28940            | Housing Inventory: Pending Listing Count in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-05-01        |
+| PENLISCOUMM28940          | Housing Inventory: Pending Listing Count Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-05-01        |
+| PENLISCOUYY28940          | Housing Inventory: Pending Listing Count Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| PRIINCCOU28940            | Housing Inventory: Price Increased Count in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-05-01        |
+| PRIINCCOUMM28940          | Housing Inventory: Price Increased Count Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-05-01        |
+| PRIINCCOUYY28940          | Housing Inventory: Price Increased Count Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| PRIREDCOU28940            | Housing Inventory: Price Reduced Count in Knoxville, TN (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
+| PRIREDCOUMM28940          | Housing Inventory: Price Reduced Count Month-Over-Month in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| PRIREDCOUYY28940          | Housing Inventory: Price Reduced Count Year-Over-Year in Knoxville, TN (CBSA)                                  | 2017-07-01          | 2022-05-01        |
 | QGMP28940                 | Total Quantity Indexes for Real GDP for Knoxville, TN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP28940                 | Total Real Gross Domestic Product for Knoxville, TN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI28940                  | Real Personal Income for Knoxville, TN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -161,4 +161,4 @@
 | SMU47289409093000001      | All Employees: Government: Local Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-04-01        |
 | SMU47289409093000001A     | All Employees: Local Government in Knoxville, TN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU47289409093000001SA    | All Employees: Government: Local Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-04-01        |
-| SUSCMSA28940              | Market Hotness: Supply Score in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-04-01        |
+| SUSCMSA28940              | Market Hotness: Supply Score in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |

@@ -1,0 +1,3 @@
+| id                   | title                                                                                                                     | observation_start   | observation_end   |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCU52411352411310104 | Producer Price Index by Industry: Direct Life Insurance Carriers: Other Individual Life Insurance Policies (DISCONTINUED) | 1998-12-01          | 2017-12-01        |

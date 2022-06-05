@@ -1,7 +1,7 @@
 | Folder        |   Files / Folders |
 |---------------|-------------------|
-| Southwest     |               393 |
-| North Central |                 0 |
-| Northeast     |                 1 |
-| Southeast     |                 1 |
-| West          |               376 |
+| North Central |                 1 |
+| West          |                 0 |
+| Southeast     |                 0 |
+| Southwest     |                 0 |
+| Northeast     |                 0 |

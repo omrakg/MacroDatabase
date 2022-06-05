@@ -1,6 +1,6 @@
 | id                     | title                                                                                                                             | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS29404Q         | All-Transactions House Price Index for Lake County-Kenosha County, IL-WI (MSAD)                                                   | 1977-10-01          | 2021-10-01        |
+| ATNHPIUS29404Q         | All-Transactions House Price Index for Lake County-Kenosha County, IL-WI (MSAD)                                                   | 1977-10-01          | 2022-01-01        |
 | SMS17294040000000001   | All Employees: Total Nonfarm in Lake County-Kenosha County, IL-WI (MD)                                                            | 1990-01-01          | 2022-04-01        |
 | SMS17294040000000026   | All Employees: Total Nonfarm in Lake County-Kenosha County, IL-WI (MD)                                                            | 1990-04-01          | 2022-04-01        |
 | SMU17294040000000001   | All Employees: Total Nonfarm in Lake County-Kenosha County, IL-WI (MD)                                                            | 1990-01-01          | 2022-04-01        |

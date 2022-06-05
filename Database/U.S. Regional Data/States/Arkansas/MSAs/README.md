@@ -1,9 +1,9 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| Memphis, TN-MS-AR                        |               178 |
+| Jonesboro, AR                            |                93 |
+| Memphis, TN-MS-AR                        |                 0 |
+| Little Rock-North Little Rock-Conway, AR |               159 |
 | Texarkana, TX-AR                         |               165 |
-| Hot Springs, AR                          |                 0 |
-| Little Rock-North Little Rock-Conway, AR |                 0 |
-| Pine Bluff, AR                           |                 0 |
-| Fort Smith, AR-OK                        |                 0 |
-| Jonesboro, AR                            |                 0 |
+| Fort Smith, AR-OK                        |               158 |
+| Hot Springs, AR                          |                97 |
+| Pine Bluff, AR                           |                93 |
