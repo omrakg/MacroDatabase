@@ -1,8 +1,8 @@
 {
   "Turkey": {
     "id": "DBNLTRIAOFCTR",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Amount Outstanding of Domestic Bonds and Notes in Financial Corporations Sector, Long-Term at Original Maturity, Residence of Issuer in Turkey",
     "observation_start": "2004-10-01",
     "observation_end": "2021-07-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "DBNLTRIAOFCCL",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Amount Outstanding of Domestic Bonds and Notes in Financial Corporations Sector, Long-Term at Original Maturity, Residence of Issuer in Chile",
     "observation_start": "2008-01-01",
     "observation_end": "2016-07-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "DBNLTRIAOFCHR",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Amount Outstanding of Domestic Bonds and Notes in Financial Corporations Sector, Long-Term at Original Maturity, Residence of Issuer in Croatia",
     "observation_start": "1995-10-01",
     "observation_end": "2021-07-01",
@@ -58,8 +58,8 @@
   },
   "Hungary": {
     "id": "DBNLTRIAOFCHU",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Amount Outstanding of Domestic Bonds and Notes in Financial Corporations Sector, Long-Term at Original Maturity, Residence of Issuer in Hungary",
     "observation_start": "2010-04-01",
     "observation_end": "2021-07-01",
@@ -77,8 +77,8 @@
   },
   "Peru": {
     "id": "DBNLTRIAOFCPE",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Amount Outstanding of Domestic Bonds and Notes in Financial Corporations Sector, Long-Term at Original Maturity, Residence of Issuer in Peru",
     "observation_start": "2007-10-01",
     "observation_end": "2021-07-01",

@@ -2,8 +2,8 @@
   "US Dollar_Quarterly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZEB6DBTT01CXCUSAQ",
-      "realtime_start": "2022-06-05",
-      "realtime_end": "2022-06-05",
+      "realtime_start": "2022-06-12",
+      "realtime_end": "2022-06-12",
       "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for the Czech Republic",
       "observation_start": "1993-01-01",
       "observation_end": "2021-10-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLB6DBTT01CXCUSAQ",
-      "realtime_start": "2022-06-05",
-      "realtime_end": "2022-06-05",
+      "realtime_start": "2022-06-12",
+      "realtime_end": "2022-06-12",
       "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for Chile",
       "observation_start": "2003-01-01",
       "observation_end": "2021-10-01",
@@ -40,8 +40,8 @@
     },
     "Colombia": {
       "id": "COLB6DBTT01CXCUSAQ",
-      "realtime_start": "2022-06-05",
-      "realtime_end": "2022-06-05",
+      "realtime_start": "2022-06-12",
+      "realtime_end": "2022-06-12",
       "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for Colombia",
       "observation_start": "2000-01-01",
       "observation_end": "2021-10-01",
@@ -61,8 +61,8 @@
   "US Dollars, sum over component sub-periods_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLB6DBTT01CXCUSAQ",
-      "realtime_start": "2022-06-05",
-      "realtime_end": "2022-06-05",
+      "realtime_start": "2022-06-12",
+      "realtime_end": "2022-06-12",
       "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for Colombia",
       "observation_start": "2000-01-01",
       "observation_end": "2021-10-01",
@@ -80,8 +80,8 @@
     },
     "Chile": {
       "id": "CHLB6DBTT01CXCUSAQ",
-      "realtime_start": "2022-06-05",
-      "realtime_end": "2022-06-05",
+      "realtime_start": "2022-06-12",
+      "realtime_end": "2022-06-12",
       "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for Chile",
       "observation_start": "2003-01-01",
       "observation_end": "2021-10-01",
@@ -99,8 +99,8 @@
     },
     "Czech Republic": {
       "id": "CZEB6DBTT01CXCUSAQ",
-      "realtime_start": "2022-06-05",
-      "realtime_end": "2022-06-05",
+      "realtime_start": "2022-06-12",
+      "realtime_end": "2022-06-12",
       "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for the Czech Republic",
       "observation_start": "1993-01-01",
       "observation_end": "2021-10-01",

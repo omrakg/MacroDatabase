@@ -1,8 +1,8 @@
 {
   "Czech Republic": {
     "id": "CZEGFCEQDSMEI",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Government Final Consumption Expenditure in Czech Republic",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLGFCEQDSMEI",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Government Final Consumption Expenditure in Chile",
     "observation_start": "1996-01-01",
     "observation_end": "2021-10-01",
@@ -32,15 +32,15 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-05-12 09:13:29-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Chile"
   },
   "Hungary": {
     "id": "HUNGFCEQDSMEI",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Government Final Consumption Expenditure in Hungary",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -51,15 +51,15 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-04-14 14:52:58-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 2,
+    "group_popularity": 2,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Hungary"
   },
   "Iceland": {
     "id": "ISLGFCEQDSMEI",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Government Final Consumption Expenditure in Iceland",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -77,8 +77,8 @@
   },
   "Israel": {
     "id": "ISRGFCEQDSMEI",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Government Final Consumption Expenditure in Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -89,8 +89,8 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-04-14 14:50:39-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Israel"
   }

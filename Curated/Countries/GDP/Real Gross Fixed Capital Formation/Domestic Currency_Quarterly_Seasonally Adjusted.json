@@ -1,8 +1,8 @@
 {
   "Great Britain": {
     "id": "NFIRSAXDCGBQ",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Real Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2022-01-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-05-30 07:09:29-05",
-    "popularity": 5,
-    "group_popularity": 5,
+    "popularity": 4,
+    "group_popularity": 4,
     "path": "Database/International Data/Countries/Great Britain"
   },
   "Argentina": {
     "id": "NFIRXDCARA",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Real Gross Fixed Capital Formation for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -32,13 +32,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-04-25 07:09:57-05",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 4,
     "path": "Database/International Data/Countries/Argentina"
   },
   "Saudi Arabia": {
     "id": "NFIRXDCSAA",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Real Gross Fixed Capital Formation for Saudi Arabia",
     "observation_start": "2010-01-01",
     "observation_end": "2021-01-01",
