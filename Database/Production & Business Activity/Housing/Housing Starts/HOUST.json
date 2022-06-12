@@ -1,7 +1,7 @@
 {
   "id": "HOUST",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "New Privately-Owned Housing Units Started: Total Units",
   "observation_start": "1959-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-18 07:31:02-05",
-  "popularity": 80,
+  "popularity": 81,
   "group_popularity": 81,
   "notes": "As provided by the Census, start occurs when excavation begins for the footings or foundation of a building. All housing units in a multifamily building are defined as being started when this excavation begins. Beginning with data for September 1992, estimates of housing starts include units in structures being totally rebuilt on an existing foundation."
 }

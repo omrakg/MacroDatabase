@@ -1,7 +1,7 @@
 {
   "id": "A371RD3Q086SBEA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Private inventories (implicit price deflator)",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-26 07:55:18-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: A371RD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

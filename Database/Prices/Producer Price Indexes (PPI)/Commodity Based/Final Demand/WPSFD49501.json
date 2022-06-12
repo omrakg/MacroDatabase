@@ -1,7 +1,7 @@
 {
   "id": "WPSFD49501",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Producer Price Index by Commodity: Final Demand: Personal Consumption",
   "observation_start": "2010-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-12 08:05:28-05",
-  "popularity": 1,
-  "group_popularity": 2
+  "popularity": 4,
+  "group_popularity": 4
 }

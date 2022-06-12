@@ -1,7 +1,7 @@
 {
   "id": "M04022US35620M267NNBR",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Retail Price of Bread for New York, NY",
   "observation_start": "1913-01-01",
   "observation_end": "1943-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:49:56-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Source: Bls Bulletins, Nos. 270, 300, 315, 334, 396, 418, 445, 464, 495, And Monthly Issues Of United States Bureau Of Labor, \"Retail Prices, \" Except December, 1931-December, 1932, Which Are From Special Monthly Mimeographed Reports, Not Previously Published For 1913-1934 Data. 1935-1943 Data Are From Mimeographed Release, \"Retail Food Prices By Cities.\" Between August, 1933, And June, 1936, The Bls Collected Several Prices Per Month. If One Of Them Applied To A Date Between The 12Th And The 18Th, It Was Used As Given. In The Cases Of Other Dates The Given Prices Were Averaged. Quotations Here Are Based On 18 Ounces Of Dough, This Being The Average Scaling Weight Of A Baked Loaf Weighing A Pound. Variations In Loaves Have Been Eliminated And Prior To 1918, A Scaling Weight Of 16 Ounces Has Been Converted To 18 Ounces. Fancy, Special, Graham, Rye, And Restaurant Bread Have Been Excluded.\n\nThis NBER data series m04022 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04022"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU301302",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Producer Price Index by Commodity: Transportation Services: Coastal and Intercoastal Water Transportation of Freight",
   "observation_start": "2008-12-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 08:01:34-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 5
 }

@@ -1,7 +1,7 @@
 {
   "id": "LNU01332183",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Labor Force Participation Rate - Asian",
   "observation_start": "2000-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 07:43:17-05",
-  "popularity": 20,
-  "group_popularity": 20,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU01332183"
 }

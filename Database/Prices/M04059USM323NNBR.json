@@ -1,7 +1,7 @@
 {
   "id": "M04059USM323NNBR",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Index of Farm Prices of Crops for United States",
   "observation_start": "1910-01-01",
   "observation_end": "1966-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:53:59-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Prices Are Those Of The 15Th Of Each Month. Source: Bureau Of Agricultural Economics. Agricultural Prices, May 15, 1955, Supplement No. 1, P.39, For 1910-September, 1952; Agricultural Prices, Annual Summary, 1964 And 1965 Issues, For October, 1952-December, 1962; Supplement No. 1 To May 1966 Agricultural Prices For January, 1963-April, 1966; Agricultural Prices, Monthly Issues Thereafter.\n\nThis NBER data series m04059 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04059"
 }

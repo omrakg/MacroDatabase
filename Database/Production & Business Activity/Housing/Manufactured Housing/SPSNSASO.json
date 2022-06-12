@@ -1,17 +1,17 @@
 {
   "id": "SPSNSASO",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Average Sales Price of New Manufactured Homes: Single Homes in South Census Region",
   "observation_start": "2014-01-01",
-  "observation_end": "2021-12-01",
+  "observation_end": "2022-01-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "U.S. Dollars",
   "units_short": "U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-09 11:03:19-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "last_updated": "2022-06-08 11:03:21-05",
+  "popularity": 4,
+  "group_popularity": 4
 }

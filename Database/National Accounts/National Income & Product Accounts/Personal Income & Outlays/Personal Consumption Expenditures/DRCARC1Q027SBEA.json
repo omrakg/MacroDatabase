@@ -1,7 +1,7 @@
 {
   "id": "DRCARC1Q027SBEA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Personal consumption expenditures: Recreation services",
   "observation_start": "1959-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-26 07:53:40-05",
-  "popularity": 18,
-  "group_popularity": 19,
+  "popularity": 22,
+  "group_popularity": 23,
   "notes": "BEA Account Code: DRCARC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

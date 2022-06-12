@@ -1,7 +1,7 @@
 {
   "id": "M0416341M288NNBR",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Wholesale Price of Iron Ore, Mesabi Non-Bessemer for Lake Superior",
   "observation_start": "1895-04-01",
   "observation_end": "1940-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:27-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Data Refers To Prices On The First Of Each Month, Delivered To Lower Lake Ports. Bases For Price Determination Are As Follows (% Of Natural Iron) -- 1895-1904: 52.8%; 1905-11/1906: 53.0%; 12/1906-1939: 51.5%. Source: Iron Trade Review, April 22, 1915, P. 804; \"Steel\" (Formerly \"Iron Trade Review\"), January 1, 1934, P. 139, And Following January Issues\n\nThis NBER data series m04163 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04163"
 }

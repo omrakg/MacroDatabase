@@ -1,7 +1,7 @@
 {
   "id": "UNRATERM",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Midpoint",
   "observation_start": "2022-01-01",
   "observation_end": "2024-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-16 15:15:25-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Projections for the unemployment rate are for the average civilian unemployment rate in the fourth quarter of each year. Each participant's projections are based on his or her assessment of appropriate monetary policy. The range for each variable in a given year includes all participants' projections, from lowest to highest, for that variable in the given year. This series represents the midpoint of the range forecast's high and low values established by the Federal Open Market Committee.\n\nDigitized originals of this release can be found at https://fraser.stlouisfed.org/publication/?pid=677."
 }

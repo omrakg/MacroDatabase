@@ -1,7 +1,7 @@
 {
   "id": "CUURA212SA0",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Consumer Price Index for All Urban Consumers: All Items in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)",
   "observation_start": "1935-03-01",
   "observation_end": "1986-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-08-08 16:06:15-05",
-  "popularity": 1,
-  "group_popularity": 3
+  "popularity": 3,
+  "group_popularity": 5
 }

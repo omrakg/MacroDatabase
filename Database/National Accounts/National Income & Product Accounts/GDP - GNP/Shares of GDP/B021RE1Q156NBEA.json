@@ -1,7 +1,7 @@
 {
   "id": "B021RE1Q156NBEA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Shares of gross domestic product: Imports of goods and services",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 07:53:34-05",
   "popularity": 16,
-  "group_popularity": 20,
+  "group_popularity": 22,
   "notes": "BEA Account Code: B021RE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

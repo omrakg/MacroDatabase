@@ -1,8 +1,8 @@
 {
   "id": "WCP1M",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
-  "title": "1-Month Commercial Paper Rate (DISCONTINUED)",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
+  "title": "1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
   "observation_start": "1971-04-09",
   "observation_end": "1997-08-29",
   "frequency": "Weekly, Ending Friday",

@@ -1,7 +1,7 @@
 {
   "id": "SPADOTFRTAFG",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Adolescent Fertility Rate for the Islamic Republic of Afghanistan",
   "observation_start": "1960-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-03 14:02:40-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19.\n\nSource Indicator: SP.ADO.TFRT"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WFRBSN09140",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Share of Checkable Deposits and Currency Held by the 90th to 99th Wealth Percentiles",
   "observation_start": "1989-07-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-17 13:48:22-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The DFAs integrate two data products produced by the Federal Reserve Board: the Financial Accounts of the United States, which provide quarterly data on aggregate balance sheets of major sectors of the U.S. economy, and the Survey of Consumer Finances (SCF), which provides comprehensive triennial microdata on the assets and liabilities of a representative sample of U.S. households.\n Information on the data collection process can be found at the Board of Governors (https://www.federalreserve.gov/releases/efa/efa-distributional-financial-accounts.htm)."
 }

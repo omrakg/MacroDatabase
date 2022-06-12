@@ -1,7 +1,7 @@
 {
   "id": "B245RC1Q027SBEA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "State and local government current tax receipts: Personal current taxes: Income taxes",
   "observation_start": "1958-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-26 07:54:34-05",
   "popularity": 4,
-  "group_popularity": 5,
+  "group_popularity": 7,
   "notes": "BEA Account Code: B245RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

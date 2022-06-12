@@ -1,7 +1,7 @@
 {
   "id": "B075RC1Q027SBEA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Federal government current tax receipts: Taxes on corporate income",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-26 07:53:32-05",
   "popularity": 31,
-  "group_popularity": 33,
+  "group_popularity": 32,
   "notes": "BEA Account Code: B075RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

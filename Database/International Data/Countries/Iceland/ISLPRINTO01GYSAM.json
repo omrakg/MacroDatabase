@@ -1,7 +1,7 @@
 {
   "id": "ISLPRINTO01GYSAM",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
   "observation_start": "1999-01-01",
   "observation_end": "2018-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2018-10-19 10:21:50-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: GYSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

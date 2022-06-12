@@ -1,7 +1,7 @@
 {
   "id": "IPUBN21232U120000000",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Hourly Compensation for Mining: Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying (NAICS 21232) in the United States",
   "observation_start": "1987-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-02 12:10:21-05",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Hourly compensation is the sum of wage and salary accruals and supplements to wages and salaries per hour of labor services used to produce output. Wage and salary accruals consist of the monetary remuneration of employees. Supplements to wages and salaries consist of employer contributions for social insurance and employer payments (including payments in kind) to private pension and profit-sharing plans, group health and life insurance plans, privately administered workers' compensation plans."
 }

@@ -1,7 +1,7 @@
 {
   "id": "CEU1021210001",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "All Employees, Coal Mining",
   "observation_start": "1985-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 07:44:40-05",
-  "popularity": 14,
+  "popularity": 18,
   "group_popularity": 41,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU1021210001"
 }

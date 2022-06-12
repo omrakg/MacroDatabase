@@ -1,7 +1,7 @@
 {
   "id": "SMS72419000000000026",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "All Employees: Total Nonfarm in San German, PR (MSA)",
   "observation_start": "1990-04-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-21 03:26:55-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 7
 }

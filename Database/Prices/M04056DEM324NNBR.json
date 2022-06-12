@@ -1,7 +1,7 @@
 {
   "id": "M04056DEM324NNBR",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Index of Sensitive Prices for Germany",
   "observation_start": "1882-01-01",
   "observation_end": "1934-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:52:05-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "This Series Is Called\"Indexziffer Der Reagiblen Warenpreise\" In Source. This Index Is The Geometric Mean Of Relative Figures Of 10 Price Series; Wool, Flax, Hemp, Ox Hides, Calf Skins, Lead, Medium Plates, Scrap Iron, Machine Foundry Scrap, And Brass Plate Chips For 1882-1913. For 1924-1934, The Index Includes Scrapped Machinery, Scrap Iron, Brass Remnants, Lumber, Wool, Hemp, Flax, Lead, Ox Hides, And Calf Skins. Source: Letter From Institut Fur Konjunkturforshung For 1882-1899 Data; Wagemann Economic Rhythms, Pp. 266-268 For 1900-1913 Data; Konjunktur Statistisches Handbuch, 1933, P.116 For 1924-02/1933 Data; Wirtschaft Und Statistik For 02/1933-10/1934 Data.\n\nThis NBER data series m04056 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04056"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU15940811",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Producer Price Index by Commodity: Miscellaneous Products: Jewelers' Findings and Materials, Precious Metal",
   "observation_start": "2008-12-01",
   "observation_end": "2021-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-14 07:59:54-06",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

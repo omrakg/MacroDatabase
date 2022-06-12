@@ -1,7 +1,7 @@
 {
   "id": "IPG31192N",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Industrial Production: Manufacturing: Non-Durable Goods: Coffee and Tea (NAICS = 31192)",
   "observation_start": "1972-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-17 08:20:04-05",
   "popularity": 1,
-  "group_popularity": 8,
+  "group_popularity": 5,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 31192\n\nSource Code: IP.G31192.N"
 }

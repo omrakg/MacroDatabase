@@ -1,7 +1,7 @@
 {
   "id": "DPCXRV1A225NBEA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Market-based PCE Excluding Food and Energy (chain-type price index)",
   "observation_start": "1988-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:55:58-06",
-  "popularity": 4,
-  "group_popularity": 11,
+  "popularity": 1,
+  "group_popularity": 12,
   "notes": "BEA Account Code: DPCXRV\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

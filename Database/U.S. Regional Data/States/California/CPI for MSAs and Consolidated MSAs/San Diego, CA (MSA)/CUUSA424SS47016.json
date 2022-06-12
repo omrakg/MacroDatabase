@@ -1,7 +1,7 @@
 {
   "id": "CUUSA424SS47016",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Consumer Price Index for All Urban Consumers: Gasoline, unleaded premium in San Diego-Carlsbad, CA (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-12 07:41:40-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

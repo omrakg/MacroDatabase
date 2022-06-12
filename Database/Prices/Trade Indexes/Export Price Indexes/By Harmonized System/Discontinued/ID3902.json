@@ -1,7 +1,7 @@
 {
   "id": "ID3902",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Export Price Index (Harmonized System): Polymers of propylene or other olefins, in primary forms (DISCONTINUED)",
   "observation_start": "2009-12-01",
   "observation_end": "2013-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2014-01-14 08:02:25-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

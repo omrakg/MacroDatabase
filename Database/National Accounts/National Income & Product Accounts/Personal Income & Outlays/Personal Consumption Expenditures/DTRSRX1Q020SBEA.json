@@ -1,7 +1,7 @@
 {
   "id": "DTRSRX1Q020SBEA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Real personal consumption expenditures: Transportation services",
   "observation_start": "2002-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-26 07:54:42-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "BEA Account Code: DTRSRX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

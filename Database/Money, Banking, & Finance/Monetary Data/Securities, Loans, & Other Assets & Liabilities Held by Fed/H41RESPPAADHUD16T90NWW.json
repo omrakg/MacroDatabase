@@ -1,17 +1,17 @@
 {
   "id": "H41RESPPAADHUD16T90NWW",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Assets: Liquidity and Credit Facilities: Municipal Notes Held by Municipal Liquidity Facility LLC, Maturing Within 16 Days to 90 Days: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-06-08",
   "frequency": "Weekly",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-02 15:36:12-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "last_updated": "2022-06-09 15:42:02-05",
+  "popularity": 2,
+  "group_popularity": 2
 }

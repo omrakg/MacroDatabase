@@ -1,7 +1,7 @@
 {
   "id": "CAMFG",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "All Employees: Manufacturing in California",
   "observation_start": "1990-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-21 02:00:27-05",
-  "popularity": 11,
-  "group_popularity": 12
+  "popularity": 10,
+  "group_popularity": 10
 }

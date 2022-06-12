@@ -1,7 +1,7 @@
 {
   "id": "U5RATENSA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Total Unemployed, Plus Discouraged Workers, Plus All Other Persons Marginally Attached to the Labor Force, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-5)",
   "observation_start": "1994-01-01",
   "observation_end": "2022-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 07:47:11-05",
   "popularity": 1,
-  "group_popularity": 27,
+  "group_popularity": 31,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU03327708"
 }

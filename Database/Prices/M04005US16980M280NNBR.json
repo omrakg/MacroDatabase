@@ -1,7 +1,7 @@
 {
   "id": "M04005US16980M280NNBR",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Wholesale Price of Corn for Chicago, IL",
   "observation_start": "1860-01-01",
   "observation_end": "1951-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:57:12-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "Figures For 1860-1870 Are For No. 2 Mixed Corn, Weekly And Semi-Monthly Averages; Figures For 1871-1873 Include No. 2 Contract Corn, Average Of Semi-Monthly High And Low Quotations; Figures For 1874-1940 Include No. 2 Contract Corn, Average Of Monthly High And Low Quotations. Figures For September-December, 1943, Are Derived From A Straight Line Interpolation Between August, 1943 And January, 1944. The Figure For June, 1946 Was Derived From A Straight Line Interpolation Between May And July, 1946. Figures For January-April And June-October, 1944, January- February And November, 1945, And January-April, 1946, Were Interpolated By Use Of Ratio To Trend Line Deviations Method. The Interpolating Figures Were Taken From The Series \"Corn No. 2, Yellow, Chicago, Weighted\" Source: H.A. Wallace And E.N. Bressman, Corn And Corn Growing, Pp.341- 343, 3Rd Edition, 1928, For 1860-1870 Data; Chicago Board Of Trade, Annual Report. United States Department Of Agriculture, Bureau Of Agricultural Economics, \"Feed Statistics.\"\n\nThis NBER data series m04005 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04005"
 }

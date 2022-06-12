@@ -1,7 +1,7 @@
 {
   "id": "M0490DUSM349NNBR",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Wholesale Price of Bituminous Coal, Mines for United States",
   "observation_start": "1954-05-01",
   "observation_end": "1956-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:12-05",
-  "popularity": 2,
-  "group_popularity": 12,
+  "popularity": 1,
+  "group_popularity": 13,
   "notes": "Series Is Presented Here As Four Variables--(1)-- Original Data, 1906-1930 (2)--Original Data, 1923-1948 (3)-- Original Data, 1947-1954 (4)--Original Data, 1954-1956. New Series Begins In May, 1954. No Earlier Figure Given, See Preceeding Entry. Source: Bls, Prices And Price Relatives For Individual Commodities In The Revised Index: 1947-50, Group 5 (Feb. 1952); Same For January- November, 1951; Monthly Releases Thereafter.\n\nThis NBER data series m04190d appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04190d"
 }

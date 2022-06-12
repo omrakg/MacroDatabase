@@ -1,7 +1,7 @@
 {
   "id": "NUGDCBM027SBOG",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Net Unrealized Gains (Losses) on Available-for-Sale Securities, Domestically Chartered Commercial Banks (DISCONTINUED)",
   "observation_start": "2009-07-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-08 15:39:47-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "The source has discontinued this series, and as such, will no longer be updated in FRED. For more information, please see the H.8 announcements (https://www.federalreserve.gov/feeds/h8.html).\nFor further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

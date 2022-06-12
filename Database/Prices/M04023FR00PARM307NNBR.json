@@ -1,7 +1,7 @@
 {
   "id": "M04023FR00PARM307NNBR",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Retail Price of Bread for Paris, France",
   "observation_start": "1899-01-01",
   "observation_end": "1935-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:57:05-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 13,
+  "group_popularity": 13,
   "notes": "Quotations Are Averages Of Weekly Prices. Data Were Not Available For January-March, 1903 And 1914 Data For July, 1921-1935 Were Computed By NBER By Converting Published Data In Centimes Per 1 Kilogram To Francs Per 2 Kilograms. Source: La Reforme Economique, January, 1900 And Succeeding Issues For 1899-June, 1920 Data; Bulletin De La Statistique Generale, Vol. 15 And Following Issues For July, 1921-1935 Data.\n\nThis NBER data series m04023 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04023"
 }

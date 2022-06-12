@@ -1,7 +1,7 @@
 {
   "id": "RETAILIMNSA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Retailers Inventories",
   "observation_start": "1992-01-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-17 09:01:17-05",
   "popularity": 10,
-  "group_popularity": 54
+  "group_popularity": 57
 }

@@ -1,8 +1,8 @@
 {
   "id": "WTB1YA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
-  "title": "1-Year Treasury Bill Rate: Auction Average (DISCONTINUED)",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
+  "title": "12-Month Auction High Bill Rate by Issue Date (DISCONTINUED)",
   "observation_start": "1959-04-03",
   "observation_end": "2000-06-02",
   "frequency": "Weekly, Ending Friday",
@@ -11,8 +11,8 @@
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2006-07-27 11:55:24-05",
-  "popularity": 5,
-  "group_popularity": 12,
+  "last_updated": "2022-06-06 14:42:34-05",
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Averages of business days, discount basis."
 }

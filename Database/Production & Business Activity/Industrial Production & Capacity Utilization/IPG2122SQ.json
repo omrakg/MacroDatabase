@@ -1,7 +1,7 @@
 {
   "id": "IPG2122SQ",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Industrial Production: Mining, Quarrying, and Oil and Gas Extraction: Metal Ore Mining (NAICS = 2122)",
   "observation_start": "1972-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-17 08:23:06-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 2122\n\nSource Code: IP.G2122.S"
 }

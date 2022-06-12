@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCIM452USS",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Retail Inventories: General Merchandise Stores",
   "observation_start": "1992-02-01",
   "observation_end": "2022-03-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-17 09:07:09-05",
   "popularity": 1,
-  "group_popularity": 12
+  "group_popularity": 13
 }

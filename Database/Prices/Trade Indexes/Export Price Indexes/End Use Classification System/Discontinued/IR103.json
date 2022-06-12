@@ -1,7 +1,7 @@
 {
   "id": "IR103",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Import Price Index (End Use): Nuclear fuel materials (DISCONTINUED)",
   "observation_start": "2011-12-01",
   "observation_end": "2016-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-01-12 08:21:52-06",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

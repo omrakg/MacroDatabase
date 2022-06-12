@@ -1,7 +1,7 @@
 {
   "id": "WPU12220326",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Nonwood Office Furniture Panel Systems, and Other Nonwood Office Furniture",
   "observation_start": "1995-06-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 08:02:53-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

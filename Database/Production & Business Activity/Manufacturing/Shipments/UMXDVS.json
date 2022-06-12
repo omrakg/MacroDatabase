@@ -1,7 +1,7 @@
 {
   "id": "UMXDVS",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-12",
+  "realtime_end": "2022-06-12",
   "title": "Manufacturers' Value of Shipments: Manufacturing Excluding Defense",
   "observation_start": "1992-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-02 09:06:41-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Estimates of Shipments for the semiconductor industry are no longer shown separately, but are included in Computers and Electronic Products industry and in all other applicable aggregate totals."
 }
