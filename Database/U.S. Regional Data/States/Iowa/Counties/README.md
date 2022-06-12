@@ -18,7 +18,7 @@
 | Henry County, IA         |                89 |
 | Lucas County, IA         |                89 |
 | Cedar County, IA         |                90 |
-| Wapello County, IA       |                 0 |
+| Wapello County, IA       |                90 |
 | Van Buren County, IA     |                89 |
 | Plymouth County, IA      |                90 |
 | Jackson County, IA       |                89 |
@@ -51,7 +51,7 @@
 | Ida County, IA           |                89 |
 | Hardin County, IA        |                90 |
 | Pocahontas County, IA    |                89 |
-| Butler County, IA        |                90 |
+| Butler County, IA        |                 0 |
 | Appanoose County, IA     |                88 |
 | Fayette County, IA       |                90 |
 | Madison County, IA       |                90 |
@@ -78,7 +78,7 @@
 | Story County, IA         |               147 |
 | Kossuth County, IA       |                90 |
 | Lee County, IA           |                90 |
-| Buchanan County, IA      |                 0 |
+| Buchanan County, IA      |                90 |
 | Mahaska County, IA       |                90 |
 | Webster County, IA       |                90 |
 | Iowa County, IA          |                90 |

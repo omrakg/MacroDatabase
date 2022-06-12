@@ -30,18 +30,18 @@
 | BELL353URN                | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | BLLPOP                    | Resident Population in Bellingham, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA13380              | Market Hotness: Demand Score in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC133830010             | Total Quarterly Wages in Bellingham, WA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC133830010SA           | Total Quarterly Wages in Bellingham, WA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC133840010             | Average Weekly Wages for Employees in Total Covered Establishments in Bellingham, WA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC133840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bellingham, WA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC133840110             | Average Weekly Wages for Employees in Federal Government Establishments in Bellingham, WA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC133840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bellingham, WA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC133840210             | Average Weekly Wages for Employees in State Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC133840210SA           | Average Weekly Wages for Employees in State Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC133840310             | Average Weekly Wages for Employees in Local Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC133840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC133840510             | Average Weekly Wages for Employees in Private Establishments in Bellingham, WA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC133840510SA           | Average Weekly Wages for Employees in Private Establishments in Bellingham, WA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC133830010             | Total Quarterly Wages in Bellingham, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC133830010SA           | Total Quarterly Wages in Bellingham, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC133840010             | Average Weekly Wages for Employees in Total Covered Establishments in Bellingham, WA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC133840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bellingham, WA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC133840110             | Average Weekly Wages for Employees in Federal Government Establishments in Bellingham, WA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC133840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bellingham, WA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC133840210             | Average Weekly Wages for Employees in State Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC133840210SA           | Average Weekly Wages for Employees in State Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC133840310             | Average Weekly Wages for Employees in Local Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC133840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC133840510             | Average Weekly Wages for Employees in Private Establishments in Bellingham, WA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC133840510SA           | Average Weekly Wages for Employees in Private Establishments in Bellingham, WA (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA13380            | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA13380              | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA13380            | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2018-08-01          | 2022-05-01        |

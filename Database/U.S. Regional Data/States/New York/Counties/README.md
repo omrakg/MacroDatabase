@@ -35,7 +35,7 @@
 | Otsego County, NY       |               145 |
 | Niagara County, NY      |               147 |
 | Clinton County, NY      |               147 |
-| Richmond County, NY     |               146 |
+| Richmond County, NY     |                 0 |
 | Warren County, NY       |               147 |
 | Queens County, NY       |               142 |
 | Tompkins County, NY     |               146 |

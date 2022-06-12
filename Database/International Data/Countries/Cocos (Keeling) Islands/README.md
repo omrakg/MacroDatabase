@@ -7,12 +7,12 @@
 | COCCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Colorado       | 2002-01-01          | 2010-01-01        |
 | CTCCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Connecticut    | 2002-01-01          | 2013-01-01        |
 | DECCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Delaware       | 2007-01-01          | 2007-01-01        |
-| EXP6023       | U.S. Exports of Goods by F.A.S. Basis to Cocos (Keeling) Islands              | 1992-01-01          | 2022-03-01        |
+| EXP6023       | U.S. Exports of Goods by F.A.S. Basis to Cocos (Keeling) Islands              | 1992-01-01          | 2022-04-01        |
 | FLCCKA052SCEN | Value of Exports to Cocos (Keeling) Islands from Florida                      | 2002-01-01          | 2016-01-01        |
 | FLCCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Florida        | 1997-01-01          | 2016-01-01        |
 | GACCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Georgia        | 1992-01-01          | 2013-01-01        |
 | ILCCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Illinois       | 1997-01-01          | 2016-01-01        |
-| IMP6023       | U.S. Imports of Goods by Customs Basis from Cocos (Keeling) Islands           | 1992-01-01          | 2022-03-01        |
+| IMP6023       | U.S. Imports of Goods by Customs Basis from Cocos (Keeling) Islands           | 1992-01-01          | 2022-04-01        |
 | INCCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Indiana        | 2009-01-01          | 2014-01-01        |
 | KYCCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Kentucky       | 2008-01-01          | 2013-01-01        |
 | LACCKA475SCEN | Number of Identified Exporters to Cocos (Keeling) Islands from Louisiana      | 2002-01-01          | 2014-01-01        |

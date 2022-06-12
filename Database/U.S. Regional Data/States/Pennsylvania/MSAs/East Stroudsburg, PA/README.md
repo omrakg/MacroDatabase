@@ -1,18 +1,18 @@
 | id                     | title                                                                                                 | observation_start   | observation_end   |
 |------------------------|-------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS20700Q         | All-Transactions House Price Index for East Stroudsburg, PA (MSA)                                     | 1992-07-01          | 2022-01-01        |
-| ENUC207030010          | Total Quarterly Wages in East Stroudsburg, PA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC207030010SA        | Total Quarterly Wages in East Stroudsburg, PA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC207040010          | Average Weekly Wages for Employees in Total Covered Establishments in East Stroudsburg, PA (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC207040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in East Stroudsburg, PA (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC207040110          | Average Weekly Wages for Employees in Federal Government Establishments in East Stroudsburg, PA (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC207040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in East Stroudsburg, PA (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC207040210          | Average Weekly Wages for Employees in State Government Establishments in East Stroudsburg, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC207040210SA        | Average Weekly Wages for Employees in State Government Establishments in East Stroudsburg, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC207040310          | Average Weekly Wages for Employees in Local Government Establishments in East Stroudsburg, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC207040310SA        | Average Weekly Wages for Employees in Local Government Establishments in East Stroudsburg, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC207040510          | Average Weekly Wages for Employees in Private Establishments in East Stroudsburg, PA (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC207040510SA        | Average Weekly Wages for Employees in Private Establishments in East Stroudsburg, PA (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC207030010          | Total Quarterly Wages in East Stroudsburg, PA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC207030010SA        | Total Quarterly Wages in East Stroudsburg, PA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC207040010          | Average Weekly Wages for Employees in Total Covered Establishments in East Stroudsburg, PA (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC207040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in East Stroudsburg, PA (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC207040110          | Average Weekly Wages for Employees in Federal Government Establishments in East Stroudsburg, PA (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC207040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in East Stroudsburg, PA (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC207040210          | Average Weekly Wages for Employees in State Government Establishments in East Stroudsburg, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC207040210SA        | Average Weekly Wages for Employees in State Government Establishments in East Stroudsburg, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC207040310          | Average Weekly Wages for Employees in Local Government Establishments in East Stroudsburg, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC207040310SA        | Average Weekly Wages for Employees in Local Government Establishments in East Stroudsburg, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC207040510          | Average Weekly Wages for Employees in Private Establishments in East Stroudsburg, PA (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC207040510SA        | Average Weekly Wages for Employees in Private Establishments in East Stroudsburg, PA (MSA)            | 2013-01-01          | 2021-10-01        |
 | ESTPOP                 | Resident Population in East Stroudsburg, PA (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | ESTR942PCPI            | Per Capita Personal Income in East Stroudsburg, PA (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | IRPD20700              | Implicit Regional Price Deflator for East Stroudsburg, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |

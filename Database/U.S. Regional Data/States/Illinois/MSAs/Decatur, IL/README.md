@@ -35,14 +35,14 @@
 | DECA517UR                 | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DECA517URN                | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DECPOP                    | Resident Population in Decatur, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC195030010             | Total Quarterly Wages in Decatur, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC195030010SA           | Total Quarterly Wages in Decatur, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC195040010             | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC195040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC195040110             | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC195040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC195040510             | Average Weekly Wages for Employees in Private Establishments in Decatur, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC195040510SA           | Average Weekly Wages for Employees in Private Establishments in Decatur, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC195030010             | Total Quarterly Wages in Decatur, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC195030010SA           | Total Quarterly Wages in Decatur, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC195040010             | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC195040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC195040110             | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC195040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC195040510             | Average Weekly Wages for Employees in Private Establishments in Decatur, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC195040510SA           | Average Weekly Wages for Employees in Private Establishments in Decatur, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD19500                 | Implicit Regional Price Deflator for Decatur, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171950000000003A     | Unemployment Rate in Decatur, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT171950000000004      | Unemployed Persons in Decatur, IL (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

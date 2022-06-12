@@ -8,18 +8,18 @@
 | AVELISPRIMM44220          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY44220          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA44220              | Market Hotness: Demand Score in Springfield, OH (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC442230010             | Total Quarterly Wages in Springfield, OH (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC442230010SA           | Total Quarterly Wages in Springfield, OH (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC442240010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, OH (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC442240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, OH (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC442240110             | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, OH (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC442240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, OH (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC442240210             | Average Weekly Wages for Employees in State Government Establishments in Springfield, OH (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC442240210SA           | Average Weekly Wages for Employees in State Government Establishments in Springfield, OH (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC442240310             | Average Weekly Wages for Employees in Local Government Establishments in Springfield, OH (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC442240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, OH (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC442240510             | Average Weekly Wages for Employees in Private Establishments in Springfield, OH (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC442240510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, OH (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC442230010             | Total Quarterly Wages in Springfield, OH (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC442230010SA           | Total Quarterly Wages in Springfield, OH (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC442240010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, OH (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC442240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, OH (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC442240110             | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, OH (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC442240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, OH (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC442240210             | Average Weekly Wages for Employees in State Government Establishments in Springfield, OH (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC442240210SA           | Average Weekly Wages for Employees in State Government Establishments in Springfield, OH (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC442240310             | Average Weekly Wages for Employees in Local Government Establishments in Springfield, OH (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC442240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, OH (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC442240510             | Average Weekly Wages for Employees in Private Establishments in Springfield, OH (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC442240510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, OH (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA44220            | Market Hotness: Hotness Rank in Springfield, OH (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA44220              | Market Hotness: Hotness Rank in Springfield, OH (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA44220            | Market Hotness: Hotness Rank in Springfield, OH (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

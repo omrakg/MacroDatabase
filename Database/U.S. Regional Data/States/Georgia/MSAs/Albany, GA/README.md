@@ -22,18 +22,18 @@
 | AVELISPRIMM10500          | Housing Inventory: Average Listing Price Month-Over-Month in Albany, GA (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY10500          | Housing Inventory: Average Listing Price Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA10500              | Market Hotness: Demand Score in Albany, GA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC105030010             | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC105030010SA           | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC105040010             | Average Weekly Wages for Employees in Total Covered Establishments in Albany, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC105040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Albany, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC105040110             | Average Weekly Wages for Employees in Federal Government Establishments in Albany, GA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC105040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Albany, GA (MSA)   | 1990-01-01          | 2021-07-01        |
+| ENUC105030010             | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC105030010SA           | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC105040010             | Average Weekly Wages for Employees in Total Covered Establishments in Albany, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC105040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Albany, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC105040110             | Average Weekly Wages for Employees in Federal Government Establishments in Albany, GA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC105040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Albany, GA (MSA)   | 1990-01-01          | 2021-10-01        |
 | ENUC105040210             | Average Weekly Wages for Employees in State Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2021-07-01        |
 | ENUC105040210SA           | Average Weekly Wages for Employees in State Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2021-07-01        |
 | ENUC105040310             | Average Weekly Wages for Employees in Local Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2021-07-01        |
 | ENUC105040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC105040510             | Average Weekly Wages for Employees in Private Establishments in Albany, GA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC105040510SA           | Average Weekly Wages for Employees in Private Establishments in Albany, GA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC105040510             | Average Weekly Wages for Employees in Private Establishments in Albany, GA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC105040510SA           | Average Weekly Wages for Employees in Private Establishments in Albany, GA (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA10500            | Market Hotness: Hotness Rank in Albany, GA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA10500              | Market Hotness: Hotness Rank in Albany, GA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA10500            | Market Hotness: Hotness Rank in Albany, GA (CBSA)                                             | 2018-08-01          | 2022-05-01        |

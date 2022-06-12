@@ -1,17 +1,17 @@
 | id                     | title                                                                                        | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ENUC250230010          | Total Quarterly Wages in Guayama, PR (MSA)                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC250230010SA        | Total Quarterly Wages in Guayama, PR (MSA)                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC250240010          | Average Weekly Wages for Employees in Total Covered Establishments in Guayama, PR (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC250240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Guayama, PR (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC250240110          | Average Weekly Wages for Employees in Federal Government Establishments in Guayama, PR (MSA) | 1990-01-01          | 2021-07-01        |
-| ENUC250240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Guayama, PR (MSA) | 1990-01-01          | 2021-07-01        |
-| ENUC250240210          | Average Weekly Wages for Employees in State Government Establishments in Guayama, PR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC250240210SA        | Average Weekly Wages for Employees in State Government Establishments in Guayama, PR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC250240310          | Average Weekly Wages for Employees in Local Government Establishments in Guayama, PR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC250240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Guayama, PR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC250240510          | Average Weekly Wages for Employees in Private Establishments in Guayama, PR (MSA)            | 1990-01-01          | 2021-07-01        |
-| ENUC250240510SA        | Average Weekly Wages for Employees in Private Establishments in Guayama, PR (MSA)            | 1990-01-01          | 2021-07-01        |
+| ENUC250230010          | Total Quarterly Wages in Guayama, PR (MSA)                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC250230010SA        | Total Quarterly Wages in Guayama, PR (MSA)                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC250240010          | Average Weekly Wages for Employees in Total Covered Establishments in Guayama, PR (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC250240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Guayama, PR (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC250240110          | Average Weekly Wages for Employees in Federal Government Establishments in Guayama, PR (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC250240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Guayama, PR (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC250240210          | Average Weekly Wages for Employees in State Government Establishments in Guayama, PR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC250240210SA        | Average Weekly Wages for Employees in State Government Establishments in Guayama, PR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC250240310          | Average Weekly Wages for Employees in Local Government Establishments in Guayama, PR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC250240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Guayama, PR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC250240510          | Average Weekly Wages for Employees in Private Establishments in Guayama, PR (MSA)            | 1990-01-01          | 2021-10-01        |
+| ENUC250240510SA        | Average Weekly Wages for Employees in Private Establishments in Guayama, PR (MSA)            | 1990-01-01          | 2021-10-01        |
 | PATENTCBSA125020       | U.S. Granted Utility Patents Originating in Guayama, PR (MSA)                                | 2000-01-01          | 2015-01-01        |
 | SMS72250200000000001   | All Employees: Total Nonfarm in Guayama, PR (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | SMS72250200000000026   | All Employees: Total Nonfarm in Guayama, PR (MSA)                                            | 1990-04-01          | 2022-04-01        |

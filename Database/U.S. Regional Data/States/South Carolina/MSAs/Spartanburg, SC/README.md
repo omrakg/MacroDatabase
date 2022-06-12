@@ -8,18 +8,18 @@
 | AVELISPRIMM43900          | Housing Inventory: Average Listing Price Month-Over-Month in Spartanburg, SC (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY43900          | Housing Inventory: Average Listing Price Year-Over-Year in Spartanburg, SC (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA43900              | Market Hotness: Demand Score in Spartanburg, SC (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC439030010             | Total Quarterly Wages in Spartanburg, SC (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC439030010SA           | Total Quarterly Wages in Spartanburg, SC (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC439040010             | Average Weekly Wages for Employees in Total Covered Establishments in Spartanburg, SC (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC439040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Spartanburg, SC (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC439040110             | Average Weekly Wages for Employees in Federal Government Establishments in Spartanburg, SC (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC439040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Spartanburg, SC (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC439040210             | Average Weekly Wages for Employees in State Government Establishments in Spartanburg, SC (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC439040210SA           | Average Weekly Wages for Employees in State Government Establishments in Spartanburg, SC (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC439040310             | Average Weekly Wages for Employees in Local Government Establishments in Spartanburg, SC (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC439040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Spartanburg, SC (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC439040510             | Average Weekly Wages for Employees in Private Establishments in Spartanburg, SC (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC439040510SA           | Average Weekly Wages for Employees in Private Establishments in Spartanburg, SC (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC439030010             | Total Quarterly Wages in Spartanburg, SC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC439030010SA           | Total Quarterly Wages in Spartanburg, SC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC439040010             | Average Weekly Wages for Employees in Total Covered Establishments in Spartanburg, SC (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC439040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Spartanburg, SC (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC439040110             | Average Weekly Wages for Employees in Federal Government Establishments in Spartanburg, SC (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC439040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Spartanburg, SC (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC439040210             | Average Weekly Wages for Employees in State Government Establishments in Spartanburg, SC (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC439040210SA           | Average Weekly Wages for Employees in State Government Establishments in Spartanburg, SC (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC439040310             | Average Weekly Wages for Employees in Local Government Establishments in Spartanburg, SC (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC439040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Spartanburg, SC (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC439040510             | Average Weekly Wages for Employees in Private Establishments in Spartanburg, SC (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC439040510SA           | Average Weekly Wages for Employees in Private Establishments in Spartanburg, SC (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA43900            | Market Hotness: Hotness Rank in Spartanburg, SC (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA43900              | Market Hotness: Hotness Rank in Spartanburg, SC (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA43900            | Market Hotness: Hotness Rank in Spartanburg, SC (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

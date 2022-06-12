@@ -36,18 +36,18 @@
 | BISM938URN                | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | BIZPOP                    | Resident Population in Bismarck, ND (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA13900              | Market Hotness: Demand Score in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC139030010             | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC139030010SA           | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC139040010             | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC139040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC139040110             | Average Weekly Wages for Employees in Federal Government Establishments in Bismarck, ND (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC139040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bismarck, ND (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC139030010             | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC139030010SA           | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC139040010             | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC139040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC139040110             | Average Weekly Wages for Employees in Federal Government Establishments in Bismarck, ND (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC139040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bismarck, ND (MSA)                 | 1990-01-01          | 2021-10-01        |
 | ENUC139040210             | Average Weekly Wages for Employees in State Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC139040210SA           | Average Weekly Wages for Employees in State Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC139040310             | Average Weekly Wages for Employees in Local Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC139040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC139040510             | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC139040510SA           | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC139040510             | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC139040510SA           | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA13900            | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA13900              | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA13900            | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

@@ -7,18 +7,18 @@
 | AVELISPRI40660            | Housing Inventory: Average Listing Price in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM40660          | Housing Inventory: Average Listing Price Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY40660          | Housing Inventory: Average Listing Price Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-05-01        |
-| ENUC406630010             | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2021-07-01        |
-| ENUC406630010SA           | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2021-07-01        |
-| ENUC406640010             | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC406640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC406640110             | Average Weekly Wages for Employees in Federal Government Establishments in Rome, GA (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC406640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rome, GA (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC406640210             | Average Weekly Wages for Employees in State Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC406640210SA           | Average Weekly Wages for Employees in State Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC406640310             | Average Weekly Wages for Employees in Local Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC406640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC406640510             | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC406640510SA           | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC406630010             | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2021-10-01        |
+| ENUC406630010SA           | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2021-10-01        |
+| ENUC406640010             | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC406640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC406640110             | Average Weekly Wages for Employees in Federal Government Establishments in Rome, GA (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC406640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rome, GA (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC406640210             | Average Weekly Wages for Employees in State Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC406640210SA           | Average Weekly Wages for Employees in State Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC406640310             | Average Weekly Wages for Employees in Local Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC406640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC406640510             | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC406640510SA           | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2021-10-01        |
 | IRPD40660                 | Implicit Regional Price Deflator for Rome, GA (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT134066000000003A     | Unemployment Rate in Rome, GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT134066000000004      | Unemployed Persons in Rome, GA (MSA)                                                           | 1990-01-01          | 2022-04-01        |

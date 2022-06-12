@@ -2,7 +2,7 @@
 |----------------|-------------------|
 | Plains         |               393 |
 | New England    |                 0 |
-| Great Lakes    |               393 |
+| Great Lakes    |                 0 |
 | Southeast      |               393 |
 | Mideast        |               393 |
 | Rocky Mountain |               393 |

@@ -15,7 +15,7 @@
 | Sibley County, MN            |                90 |
 | Washington County, MN        |               147 |
 | Wright County, MN            |               147 |
-| Chisago County, MN           |                 0 |
+| Chisago County, MN           |               146 |
 | Rock County, MN              |                90 |
 | Isanti County, MN            |                90 |
 | Mower County, MN             |                90 |
@@ -72,7 +72,7 @@
 | Hubbard County, MN           |                90 |
 | Lyon County, MN              |                90 |
 | Anoka County, MN             |               147 |
-| Nobles County, MN            |                89 |
+| Nobles County, MN            |                 0 |
 | Faribault County, MN         |                90 |
 | Grant County, MN             |                89 |
 | Murray County, MN            |                89 |

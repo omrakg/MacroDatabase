@@ -8,18 +8,18 @@
 | AVELISPRIMM27740          | Housing Inventory: Average Listing Price Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY27740          | Housing Inventory: Average Listing Price Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA27740              | Market Hotness: Demand Score in Johnson City, TN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC277430010             | Total Quarterly Wages in Johnson City, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC277430010SA           | Total Quarterly Wages in Johnson City, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC277440010             | Average Weekly Wages for Employees in Total Covered Establishments in Johnson City, TN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC277440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Johnson City, TN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC277440110             | Average Weekly Wages for Employees in Federal Government Establishments in Johnson City, TN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC277440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Johnson City, TN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC277440210             | Average Weekly Wages for Employees in State Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2021-07-01        |
-| ENUC277440210SA           | Average Weekly Wages for Employees in State Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2021-07-01        |
-| ENUC277440310             | Average Weekly Wages for Employees in Local Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2021-07-01        |
-| ENUC277440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2021-07-01        |
-| ENUC277440510             | Average Weekly Wages for Employees in Private Establishments in Johnson City, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC277440510SA           | Average Weekly Wages for Employees in Private Establishments in Johnson City, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC277430010             | Total Quarterly Wages in Johnson City, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC277430010SA           | Total Quarterly Wages in Johnson City, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC277440010             | Average Weekly Wages for Employees in Total Covered Establishments in Johnson City, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC277440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Johnson City, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC277440110             | Average Weekly Wages for Employees in Federal Government Establishments in Johnson City, TN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC277440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Johnson City, TN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC277440210             | Average Weekly Wages for Employees in State Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2021-10-01        |
+| ENUC277440210SA           | Average Weekly Wages for Employees in State Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2021-10-01        |
+| ENUC277440310             | Average Weekly Wages for Employees in Local Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2021-10-01        |
+| ENUC277440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2021-10-01        |
+| ENUC277440510             | Average Weekly Wages for Employees in Private Establishments in Johnson City, TN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC277440510SA           | Average Weekly Wages for Employees in Private Establishments in Johnson City, TN (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA27740            | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA27740              | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA27740            | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

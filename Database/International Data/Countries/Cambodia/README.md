@@ -55,7 +55,7 @@
 | DDSI04KHA156NWDB    | Bank Credit to Bank Deposits for Cambodia                                                                                                       | 1993-01-01          | 2018-01-01        |
 | DDSI06KHA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Cambodia                                                                                   | 2002-01-01          | 2020-01-01        |
 | DEKHMA475SCEN       | Number of Identified Exporters to Cambodia from Delaware                                                                                        | 2009-01-01          | 2014-01-01        |
-| EXP5550             | U.S. Exports of Goods by F.A.S. Basis to Cambodia                                                                                               | 1992-01-01          | 2022-03-01        |
+| EXP5550             | U.S. Exports of Goods by F.A.S. Basis to Cambodia                                                                                               | 1992-01-01          | 2022-04-01        |
 | FLKHMA052SCEN       | Value of Exports to Cambodia from Florida                                                                                                       | 1997-01-01          | 2017-01-01        |
 | FLKHMA475SCEN       | Number of Identified Exporters to Cambodia from Florida                                                                                         | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGKHM      | Inflation, consumer prices for Cambodia                                                                                                         | 1995-01-01          | 2021-01-01        |
@@ -68,7 +68,7 @@
 | IDKHMA475SCEN       | Number of Identified Exporters to Cambodia from Idaho                                                                                           | 1997-01-01          | 2016-01-01        |
 | ILKHMA052SCEN       | Value of Exports to Cambodia from Illinois                                                                                                      | 1997-01-01          | 2017-01-01        |
 | ILKHMA475SCEN       | Number of Identified Exporters to Cambodia from Illinois                                                                                        | 1992-01-01          | 2017-01-01        |
-| IMP5550             | U.S. Imports of Goods by Customs Basis from Cambodia                                                                                            | 1992-01-01          | 2022-03-01        |
+| IMP5550             | U.S. Imports of Goods by Customs Basis from Cambodia                                                                                            | 1992-01-01          | 2022-04-01        |
 | INKHMA052SCEN       | Value of Exports to Cambodia from Indiana                                                                                                       | 2013-01-01          | 2017-01-01        |
 | INKHMA475SCEN       | Number of Identified Exporters to Cambodia from Indiana                                                                                         | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2KHM      | Internet users for Cambodia                                                                                                                     | 1990-01-01          | 2017-01-01        |

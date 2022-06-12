@@ -8,18 +8,18 @@
 | AVELISPRIMM21500          | Housing Inventory: Average Listing Price Month-Over-Month in Erie, PA (CBSA)                                          | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY21500          | Housing Inventory: Average Listing Price Year-Over-Year in Erie, PA (CBSA)                                            | 2017-07-01          | 2022-05-01        |
 | DESCMSA21500              | Market Hotness: Demand Score in Erie, PA (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
-| ENUC215030010             | Total Quarterly Wages in Erie, PA (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC215030010SA           | Total Quarterly Wages in Erie, PA (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC215040010             | Average Weekly Wages for Employees in Total Covered Establishments in Erie, PA (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC215040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Erie, PA (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC215040110             | Average Weekly Wages for Employees in Federal Government Establishments in Erie, PA (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC215040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Erie, PA (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC215040210             | Average Weekly Wages for Employees in State Government Establishments in Erie, PA (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC215040210SA           | Average Weekly Wages for Employees in State Government Establishments in Erie, PA (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC215040310             | Average Weekly Wages for Employees in Local Government Establishments in Erie, PA (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC215040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Erie, PA (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC215040510             | Average Weekly Wages for Employees in Private Establishments in Erie, PA (MSA)                                        | 1990-01-01          | 2021-07-01        |
-| ENUC215040510SA           | Average Weekly Wages for Employees in Private Establishments in Erie, PA (MSA)                                        | 1990-01-01          | 2021-07-01        |
+| ENUC215030010             | Total Quarterly Wages in Erie, PA (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC215030010SA           | Total Quarterly Wages in Erie, PA (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC215040010             | Average Weekly Wages for Employees in Total Covered Establishments in Erie, PA (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC215040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Erie, PA (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC215040110             | Average Weekly Wages for Employees in Federal Government Establishments in Erie, PA (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC215040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Erie, PA (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC215040210             | Average Weekly Wages for Employees in State Government Establishments in Erie, PA (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC215040210SA           | Average Weekly Wages for Employees in State Government Establishments in Erie, PA (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC215040310             | Average Weekly Wages for Employees in Local Government Establishments in Erie, PA (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC215040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Erie, PA (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC215040510             | Average Weekly Wages for Employees in Private Establishments in Erie, PA (MSA)                                        | 1990-01-01          | 2021-10-01        |
+| ENUC215040510SA           | Average Weekly Wages for Employees in Private Establishments in Erie, PA (MSA)                                        | 1990-01-01          | 2021-10-01        |
 | ERIE542EDUH               | All Employees: Education and Health Services in Erie, PA (MSA)                                                        | 1990-01-01          | 2022-04-01        |
 | ERIE542EDUHN              | All Employees: Education and Health Services in Erie, PA (MSA)                                                        | 1990-01-01          | 2022-04-01        |
 | ERIE542FIRE               | All Employees: Financial Activities in Erie, PA (MSA)                                                                 | 1990-01-01          | 2022-04-01        |

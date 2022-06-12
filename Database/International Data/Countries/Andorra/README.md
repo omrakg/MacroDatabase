@@ -12,7 +12,7 @@
 | CTANDA475SCEN    | Number of Identified Exporters to Andorra from Connecticut          | 1992-01-01          | 2016-01-01        |
 | DCANDA475SCEN    | Number of Identified Exporters to Andorra from District of Columbia | 2002-01-01          | 2006-01-01        |
 | DEANDA475SCEN    | Number of Identified Exporters to Andorra from Delaware             | 2002-01-01          | 2012-01-01        |
-| EXP4271          | U.S. Exports of Goods by F.A.S. Basis to Andorra                    | 1992-01-01          | 2022-03-01        |
+| EXP4271          | U.S. Exports of Goods by F.A.S. Basis to Andorra                    | 1992-01-01          | 2022-04-01        |
 | FLANDA052SCEN    | Value of Exports to Andorra from Florida                            | 1992-01-01          | 2017-01-01        |
 | FLANDA475SCEN    | Number of Identified Exporters to Andorra from Florida              | 1992-01-01          | 2017-01-01        |
 | GAANDA052SCEN    | Value of Exports to Andorra from Georgia                            | 2003-01-01          | 2012-01-01        |
@@ -21,7 +21,7 @@
 | IDANDA475SCEN    | Number of Identified Exporters to Andorra from Idaho                | 2005-01-01          | 2016-01-01        |
 | ILANDA052SCEN    | Value of Exports to Andorra from Illinois                           | 1992-01-01          | 2012-01-01        |
 | ILANDA475SCEN    | Number of Identified Exporters to Andorra from Illinois             | 1992-01-01          | 2016-01-01        |
-| IMP4271          | U.S. Imports of Goods by Customs Basis from Andorra                 | 1992-01-01          | 2022-03-01        |
+| IMP4271          | U.S. Imports of Goods by Customs Basis from Andorra                 | 1992-01-01          | 2022-04-01        |
 | INANDA052SCEN    | Value of Exports to Andorra from Indiana                            | 2002-01-01          | 2003-01-01        |
 | INANDA475SCEN    | Number of Identified Exporters to Andorra from Indiana              | 1992-01-01          | 2014-01-01        |
 | ITNETUSERP2AND   | Internet users for Andorra                                          | 1990-01-01          | 2017-01-01        |

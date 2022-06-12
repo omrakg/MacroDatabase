@@ -6,7 +6,7 @@
 | Ethiopia                                             |               216 |
 | Iraq                                                 |               221 |
 | Czech Republic                                       |               797 |
-| Aruba                                                |                 0 |
+| Aruba                                                |               188 |
 | Brazil                                               |                 0 |
 | Cuba                                                 |               102 |
 | Chad                                                 |               218 |
@@ -59,14 +59,14 @@
 | Costa Rica                                           |               578 |
 | Burkina Faso                                         |               207 |
 | Territorial collectivity of Saint Barthelemy         |                 0 |
-| Oman                                                 |               230 |
+| Oman                                                 |                 0 |
 | Tajikistan                                           |               216 |
 | Turkmenistan                                         |               142 |
 | Guyana                                               |               234 |
 | Bangladesh                                           |               360 |
 | Niue                                                 |                39 |
 | Paraguay                                             |               226 |
-| Burundi                                              |                 0 |
+| Burundi                                              |               282 |
 | Côte d’Ivoire                                        |               224 |
 | Lesotho                                              |               197 |
 | Argentina                                            |               557 |
@@ -126,7 +126,7 @@
 | Tonga                                                |               161 |
 | Bouvet Island                                        |                 0 |
 | Iran, Islamic Republic of                            |               208 |
-| Montenegro                                           |                 0 |
+| Montenegro                                           |               181 |
 | Macao                                                |               194 |
 | Philippines                                          |               301 |
 | Jordan                                               |               254 |
@@ -189,7 +189,7 @@
 | Cook Islands                                         |                56 |
 | Cameroon                                             |               283 |
 | Mexico                                               |                 0 |
-| Liechtenstein                                        |               102 |
+| Liechtenstein                                        |                 0 |
 | Singapore                                            |                 0 |
 | Kiribati                                             |               166 |
 | Ecuador                                              |               271 |
@@ -227,7 +227,7 @@
 | Thailand                                             |                 0 |
 | Zimbabwe                                             |               288 |
 | Serbia                                               |               245 |
-| Viet Nam                                             |                 0 |
+| Viet Nam                                             |               227 |
 | Romania                                              |               375 |
 | Pitcairn                                             |                40 |
 | Uzbekistan                                           |               184 |

@@ -8,18 +8,18 @@
 | AVELISPRIMM39460          | Housing Inventory: Average Listing Price Month-Over-Month in Punta Gorda, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY39460          | Housing Inventory: Average Listing Price Year-Over-Year in Punta Gorda, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA39460              | Market Hotness: Demand Score in Punta Gorda, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC394630010             | Total Quarterly Wages in Punta Gorda, FL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC394630010SA           | Total Quarterly Wages in Punta Gorda, FL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC394640010             | Average Weekly Wages for Employees in Total Covered Establishments in Punta Gorda, FL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC394640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Punta Gorda, FL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC394640110             | Average Weekly Wages for Employees in Federal Government Establishments in Punta Gorda, FL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC394640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Punta Gorda, FL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC394640210             | Average Weekly Wages for Employees in State Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC394640210SA           | Average Weekly Wages for Employees in State Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC394640310             | Average Weekly Wages for Employees in Local Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC394640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC394640510             | Average Weekly Wages for Employees in Private Establishments in Punta Gorda, FL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC394640510SA           | Average Weekly Wages for Employees in Private Establishments in Punta Gorda, FL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC394630010             | Total Quarterly Wages in Punta Gorda, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC394630010SA           | Total Quarterly Wages in Punta Gorda, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC394640010             | Average Weekly Wages for Employees in Total Covered Establishments in Punta Gorda, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC394640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Punta Gorda, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC394640110             | Average Weekly Wages for Employees in Federal Government Establishments in Punta Gorda, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC394640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Punta Gorda, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC394640210             | Average Weekly Wages for Employees in State Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC394640210SA           | Average Weekly Wages for Employees in State Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC394640310             | Average Weekly Wages for Employees in Local Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC394640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC394640510             | Average Weekly Wages for Employees in Private Establishments in Punta Gorda, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC394640510SA           | Average Weekly Wages for Employees in Private Establishments in Punta Gorda, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA39460            | Market Hotness: Hotness Rank in Punta Gorda, FL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA39460              | Market Hotness: Hotness Rank in Punta Gorda, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA39460            | Market Hotness: Hotness Rank in Punta Gorda, FL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

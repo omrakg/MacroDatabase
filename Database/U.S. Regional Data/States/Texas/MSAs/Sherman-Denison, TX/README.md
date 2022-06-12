@@ -7,18 +7,18 @@
 | AVELISPRI43300            | Housing Inventory: Average Listing Price in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM43300          | Housing Inventory: Average Listing Price Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY43300          | Housing Inventory: Average Listing Price Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC433030010             | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC433030010SA           | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC433040010             | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC433040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC433040110             | Average Weekly Wages for Employees in Federal Government Establishments in Sherman-Denison, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC433040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sherman-Denison, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC433040210             | Average Weekly Wages for Employees in State Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC433040210SA           | Average Weekly Wages for Employees in State Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC433040310             | Average Weekly Wages for Employees in Local Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC433040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC433040510             | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC433040510SA           | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC433030010             | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC433030010SA           | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC433040010             | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC433040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC433040110             | Average Weekly Wages for Employees in Federal Government Establishments in Sherman-Denison, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC433040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sherman-Denison, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC433040210             | Average Weekly Wages for Employees in State Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC433040210SA           | Average Weekly Wages for Employees in State Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC433040310             | Average Weekly Wages for Employees in Local Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC433040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC433040510             | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC433040510SA           | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD43300                 | Implicit Regional Price Deflator for Sherman-Denison, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484330000000003A     | Unemployment Rate in Sherman-Denison, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT484330000000004      | Unemployed Persons in Sherman-Denison, TX (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

@@ -97,7 +97,7 @@
 | DJINGDPXORPCHPT      | Non-Oil Real GDP Growth in Constant Prices for Djibouti                                                                                                 | 2000-01-01          | 2023-01-01        |
 | DJIPCPICOREPCHPT     | Core Consumer Price Inflation for Djibouti                                                                                                              | 2014-01-01          | 2023-01-01        |
 | DJIPCPIPCHPT         | Consumer Price Inflation for Djibouti                                                                                                                   | 2014-01-01          | 2023-01-01        |
-| EXP7770              | U.S. Exports of Goods by F.A.S. Basis to Djibouti                                                                                                       | 1992-01-01          | 2022-03-01        |
+| EXP7770              | U.S. Exports of Goods by F.A.S. Basis to Djibouti                                                                                                       | 1992-01-01          | 2022-04-01        |
 | FLDJIA052SCEN        | Value of Exports to Djibouti from Florida                                                                                                               | 2002-01-01          | 2017-01-01        |
 | FLDJIA475SCEN        | Number of Identified Exporters to Djibouti from Florida                                                                                                 | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGDJI       | Inflation, consumer prices for Djibouti                                                                                                                 | 1980-01-01          | 2020-01-01        |
@@ -110,7 +110,7 @@
 | IDDJIA475SCEN        | Number of Identified Exporters to Djibouti from Idaho                                                                                                   | 2003-01-01          | 2015-01-01        |
 | ILDJIA052SCEN        | Value of Exports to Djibouti from Illinois                                                                                                              | 2004-01-01          | 2017-01-01        |
 | ILDJIA475SCEN        | Number of Identified Exporters to Djibouti from Illinois                                                                                                | 1997-01-01          | 2017-01-01        |
-| IMP7770              | U.S. Imports of Goods by Customs Basis from Djibouti                                                                                                    | 1992-01-01          | 2022-03-01        |
+| IMP7770              | U.S. Imports of Goods by Customs Basis from Djibouti                                                                                                    | 1992-01-01          | 2022-04-01        |
 | INDJIA052SCEN        | Value of Exports to Djibouti from Indiana                                                                                                               | 2005-01-01          | 2016-01-01        |
 | INDJIA475SCEN        | Number of Identified Exporters to Djibouti from Indiana                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2DJI       | Internet users for Djibouti                                                                                                                             | 1990-01-01          | 2020-01-01        |

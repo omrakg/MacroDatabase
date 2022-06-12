@@ -92,7 +92,7 @@
 | Fluvanna County, VA                                 |                90 |
 | Wythe County, VA                                    |                89 |
 | Prince George County + Hopewell City, VA            |                12 |
-| Accomack County, VA                                 |                 0 |
+| Accomack County, VA                                 |                90 |
 | Cumberland County, VA                               |                90 |
 | Norfolk City, VA                                    |               145 |
 | Suffolk City, VA                                    |               146 |
@@ -129,7 +129,7 @@
 | Prince Edward County, VA                            |                90 |
 | Clifton Forge City, VA                              |                 1 |
 | Portsmouth City, VA                                 |               146 |
-| King William County, VA                             |                89 |
+| King William County, VA                             |                 0 |
 | Mathews County, VA                                  |                92 |
 | Surry County, VA                                    |                90 |
 | Franklin City, VA                                   |                79 |
@@ -152,7 +152,7 @@
 | Warren County, VA                                   |                90 |
 | Greensville County + Emporia City, VA               |                12 |
 | Prince William County, VA                           |               137 |
-| Spotsylvania County, VA                             |                 0 |
+| Spotsylvania County, VA                             |               137 |
 | Harrisonburg City, VA                               |                79 |
 | Culpeper County, VA                                 |                90 |
 | Roanoke City, VA                                    |               146 |

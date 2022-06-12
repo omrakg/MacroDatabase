@@ -7,18 +7,18 @@
 | AVELISPRI22540            | Housing Inventory: Average Listing Price in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM22540          | Housing Inventory: Average Listing Price Month-Over-Month in Fond Du Lac, WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY22540          | Housing Inventory: Average Listing Price Year-Over-Year in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC225430010             | Total Quarterly Wages in Fond du Lac, WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC225430010SA           | Total Quarterly Wages in Fond du Lac, WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC225440010             | Average Weekly Wages for Employees in Total Covered Establishments in Fond du Lac, WI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC225440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fond du Lac, WI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC225440110             | Average Weekly Wages for Employees in Federal Government Establishments in Fond du Lac, WI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC225440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fond du Lac, WI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC225440210             | Average Weekly Wages for Employees in State Government Establishments in Fond du Lac, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC225440210SA           | Average Weekly Wages for Employees in State Government Establishments in Fond du Lac, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC225440310             | Average Weekly Wages for Employees in Local Government Establishments in Fond du Lac, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC225440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fond du Lac, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC225440510             | Average Weekly Wages for Employees in Private Establishments in Fond du Lac, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC225440510SA           | Average Weekly Wages for Employees in Private Establishments in Fond du Lac, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC225430010             | Total Quarterly Wages in Fond du Lac, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC225430010SA           | Total Quarterly Wages in Fond du Lac, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC225440010             | Average Weekly Wages for Employees in Total Covered Establishments in Fond du Lac, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC225440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fond du Lac, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC225440110             | Average Weekly Wages for Employees in Federal Government Establishments in Fond du Lac, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC225440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fond du Lac, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC225440210             | Average Weekly Wages for Employees in State Government Establishments in Fond du Lac, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC225440210SA           | Average Weekly Wages for Employees in State Government Establishments in Fond du Lac, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC225440310             | Average Weekly Wages for Employees in Local Government Establishments in Fond du Lac, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC225440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fond du Lac, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC225440510             | Average Weekly Wages for Employees in Private Establishments in Fond du Lac, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC225440510SA           | Average Weekly Wages for Employees in Private Establishments in Fond du Lac, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
 | FDLPOP                    | Resident Population in Fond du Lac, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | FOND555EDUH               | All Employees: Education and Health Services in Fond du Lac, WI (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | FOND555EDUHN              | All Employees: Education and Health Services in Fond du Lac, WI (MSA)                                            | 1990-01-01          | 2022-04-01        |

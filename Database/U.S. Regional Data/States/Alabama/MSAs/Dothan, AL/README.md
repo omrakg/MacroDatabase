@@ -36,18 +36,18 @@
 | DOTH001UR                 | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DOTH001URN                | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DOTPOP                    | Resident Population in Dothan, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC200230010             | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC200230010SA           | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC200240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dothan, AL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC200240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dothan, AL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC200240110             | Average Weekly Wages for Employees in Federal Government Establishments in Dothan, AL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC200240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dothan, AL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC200240210             | Average Weekly Wages for Employees in State Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC200240210SA           | Average Weekly Wages for Employees in State Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC200240310             | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC200240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC200240510             | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC200240510SA           | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC200230010             | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC200230010SA           | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC200240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dothan, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC200240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dothan, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC200240110             | Average Weekly Wages for Employees in Federal Government Establishments in Dothan, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC200240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dothan, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC200240210             | Average Weekly Wages for Employees in State Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC200240210SA           | Average Weekly Wages for Employees in State Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC200240310             | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC200240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC200240510             | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC200240510SA           | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA20020              | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

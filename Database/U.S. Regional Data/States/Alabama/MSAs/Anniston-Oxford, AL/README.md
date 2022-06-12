@@ -34,18 +34,18 @@
 | AVELISPRI11500            | Housing Inventory: Average Listing Price in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM11500          | Housing Inventory: Average Listing Price Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY11500          | Housing Inventory: Average Listing Price Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC115030010             | Total Quarterly Wages in Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC115030010SA           | Total Quarterly Wages in Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC115040010             | Average Weekly Wages for Employees in Total Covered Establishments in Anniston-Oxford, AL (MSA)                                   | 1990-01-01          | 2021-07-01        |
-| ENUC115040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Anniston-Oxford, AL (MSA)                                   | 1990-01-01          | 2021-07-01        |
-| ENUC115040110             | Average Weekly Wages for Employees in Federal Government Establishments in Anniston-Oxford, AL (MSA)                              | 1990-01-01          | 2021-07-01        |
-| ENUC115040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Anniston-Oxford, AL (MSA)                              | 1990-01-01          | 2021-07-01        |
-| ENUC115040210             | Average Weekly Wages for Employees in State Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2021-07-01        |
-| ENUC115040210SA           | Average Weekly Wages for Employees in State Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2021-07-01        |
-| ENUC115040310             | Average Weekly Wages for Employees in Local Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2021-07-01        |
-| ENUC115040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2021-07-01        |
-| ENUC115040510             | Average Weekly Wages for Employees in Private Establishments in Anniston-Oxford, AL (MSA)                                         | 1990-01-01          | 2021-07-01        |
-| ENUC115040510SA           | Average Weekly Wages for Employees in Private Establishments in Anniston-Oxford, AL (MSA)                                         | 1990-01-01          | 2021-07-01        |
+| ENUC115030010             | Total Quarterly Wages in Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC115030010SA           | Total Quarterly Wages in Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC115040010             | Average Weekly Wages for Employees in Total Covered Establishments in Anniston-Oxford, AL (MSA)                                   | 1990-01-01          | 2021-10-01        |
+| ENUC115040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Anniston-Oxford, AL (MSA)                                   | 1990-01-01          | 2021-10-01        |
+| ENUC115040110             | Average Weekly Wages for Employees in Federal Government Establishments in Anniston-Oxford, AL (MSA)                              | 1990-01-01          | 2021-10-01        |
+| ENUC115040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Anniston-Oxford, AL (MSA)                              | 1990-01-01          | 2021-10-01        |
+| ENUC115040210             | Average Weekly Wages for Employees in State Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2021-10-01        |
+| ENUC115040210SA           | Average Weekly Wages for Employees in State Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2021-10-01        |
+| ENUC115040310             | Average Weekly Wages for Employees in Local Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2021-10-01        |
+| ENUC115040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2021-10-01        |
+| ENUC115040510             | Average Weekly Wages for Employees in Private Establishments in Anniston-Oxford, AL (MSA)                                         | 1990-01-01          | 2021-10-01        |
+| ENUC115040510SA           | Average Weekly Wages for Employees in Private Establishments in Anniston-Oxford, AL (MSA)                                         | 1990-01-01          | 2021-10-01        |
 | IRPD11500                 | Implicit Regional Price Deflator for Anniston-Oxford-Jacksonville, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT011150000000003A     | Unemployment Rate in Anniston-Oxford-Jacksonville, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT011150000000004      | Unemployed Persons in Anniston-Oxford-Jacksonville, AL (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

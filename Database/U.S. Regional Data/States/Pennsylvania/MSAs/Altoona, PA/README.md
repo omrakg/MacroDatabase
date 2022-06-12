@@ -27,18 +27,18 @@
 | AVELISPRI11020            | Housing Inventory: Average Listing Price in Altoona, PA (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM11020          | Housing Inventory: Average Listing Price Month-Over-Month in Altoona, PA (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY11020          | Housing Inventory: Average Listing Price Year-Over-Year in Altoona, PA (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC110230010             | Total Quarterly Wages in Altoona, PA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC110230010SA           | Total Quarterly Wages in Altoona, PA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC110240010             | Average Weekly Wages for Employees in Total Covered Establishments in Altoona, PA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC110240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Altoona, PA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC110240110             | Average Weekly Wages for Employees in Federal Government Establishments in Altoona, PA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC110240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Altoona, PA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC110240210             | Average Weekly Wages for Employees in State Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC110240210SA           | Average Weekly Wages for Employees in State Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC110240310             | Average Weekly Wages for Employees in Local Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC110240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC110240510             | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC110240510SA           | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC110230010             | Total Quarterly Wages in Altoona, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC110230010SA           | Total Quarterly Wages in Altoona, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC110240010             | Average Weekly Wages for Employees in Total Covered Establishments in Altoona, PA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC110240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Altoona, PA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC110240110             | Average Weekly Wages for Employees in Federal Government Establishments in Altoona, PA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC110240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Altoona, PA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC110240210             | Average Weekly Wages for Employees in State Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC110240210SA           | Average Weekly Wages for Employees in State Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC110240310             | Average Weekly Wages for Employees in Local Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC110240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC110240510             | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC110240510SA           | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD11020                 | Implicit Regional Price Deflator for Altoona, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT421102000000003A     | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT421102000000004      | Unemployed Persons in Altoona, PA (MSA)                                                        | 1990-01-01          | 2022-04-01        |

@@ -8,8 +8,8 @@
 | Lafayette County, AR    |                88 |
 | Yell County, AR         |                88 |
 | Monroe County, AR       |                87 |
-| Benton County, AR       |               147 |
-| Pope County, AR         |                 0 |
+| Benton County, AR       |                 0 |
+| Pope County, AR         |               146 |
 | Johnson County, AR      |                89 |
 | Calhoun County, AR      |                89 |
 | Stone County, AR        |                89 |
@@ -68,7 +68,7 @@
 | Independence County, AR |                90 |
 | Boone County, AR        |                90 |
 | Little River County, AR |                88 |
-| Logan County, AR        |                89 |
+| Logan County, AR        |                 0 |
 | Craighead County, AR    |               147 |
 | Clark County, AR        |                90 |
 | Sevier County, AR       |                88 |

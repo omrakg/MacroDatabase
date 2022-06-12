@@ -8,18 +8,18 @@
 | AVELISPRIMM29340          | Housing Inventory: Average Listing Price Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY29340          | Housing Inventory: Average Listing Price Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-05-01        |
 | DESCMSA29340              | Market Hotness: Demand Score in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
-| ENUC293430010             | Total Quarterly Wages in Lake Charles, LA (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC293430010SA           | Total Quarterly Wages in Lake Charles, LA (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC293440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lake Charles, LA (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC293440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lake Charles, LA (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC293440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lake Charles, LA (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC293440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lake Charles, LA (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC293440210             | Average Weekly Wages for Employees in State Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC293440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC293440310             | Average Weekly Wages for Employees in Local Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC293440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC293440510             | Average Weekly Wages for Employees in Private Establishments in Lake Charles, LA (MSA)                                        | 1990-01-01          | 2021-07-01        |
-| ENUC293440510SA           | Average Weekly Wages for Employees in Private Establishments in Lake Charles, LA (MSA)                                        | 1990-01-01          | 2021-07-01        |
+| ENUC293430010             | Total Quarterly Wages in Lake Charles, LA (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC293430010SA           | Total Quarterly Wages in Lake Charles, LA (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC293440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lake Charles, LA (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC293440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lake Charles, LA (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC293440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lake Charles, LA (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC293440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lake Charles, LA (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC293440210             | Average Weekly Wages for Employees in State Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC293440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC293440310             | Average Weekly Wages for Employees in Local Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC293440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC293440510             | Average Weekly Wages for Employees in Private Establishments in Lake Charles, LA (MSA)                                        | 1990-01-01          | 2021-10-01        |
+| ENUC293440510SA           | Average Weekly Wages for Employees in Private Establishments in Lake Charles, LA (MSA)                                        | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA29340            | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
 | HORAMSA29340              | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA29340            | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |

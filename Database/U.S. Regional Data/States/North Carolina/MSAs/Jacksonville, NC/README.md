@@ -8,18 +8,18 @@
 | AVELISPRIMM27340          | Housing Inventory: Average Listing Price Month-Over-Month in Jacksonville, NC (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY27340          | Housing Inventory: Average Listing Price Year-Over-Year in Jacksonville, NC (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA27340              | Market Hotness: Demand Score in Jacksonville, NC (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC273430010             | Total Quarterly Wages in Jacksonville, NC (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC273430010SA           | Total Quarterly Wages in Jacksonville, NC (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC273440010             | Average Weekly Wages for Employees in Total Covered Establishments in Jacksonville, NC (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC273440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jacksonville, NC (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC273440110             | Average Weekly Wages for Employees in Federal Government Establishments in Jacksonville, NC (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC273440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jacksonville, NC (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC273440210             | Average Weekly Wages for Employees in State Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC273440210SA           | Average Weekly Wages for Employees in State Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC273440310             | Average Weekly Wages for Employees in Local Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC273440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC273440510             | Average Weekly Wages for Employees in Private Establishments in Jacksonville, NC (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC273440510SA           | Average Weekly Wages for Employees in Private Establishments in Jacksonville, NC (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC273430010             | Total Quarterly Wages in Jacksonville, NC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC273430010SA           | Total Quarterly Wages in Jacksonville, NC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC273440010             | Average Weekly Wages for Employees in Total Covered Establishments in Jacksonville, NC (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC273440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jacksonville, NC (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC273440110             | Average Weekly Wages for Employees in Federal Government Establishments in Jacksonville, NC (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC273440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jacksonville, NC (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC273440210             | Average Weekly Wages for Employees in State Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC273440210SA           | Average Weekly Wages for Employees in State Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC273440310             | Average Weekly Wages for Employees in Local Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC273440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC273440510             | Average Weekly Wages for Employees in Private Establishments in Jacksonville, NC (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC273440510SA           | Average Weekly Wages for Employees in Private Establishments in Jacksonville, NC (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA27340            | Market Hotness: Hotness Rank in Jacksonville, NC (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA27340              | Market Hotness: Hotness Rank in Jacksonville, NC (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA27340            | Market Hotness: Hotness Rank in Jacksonville, NC (CBSA)                                             | 2018-08-01          | 2022-05-01        |

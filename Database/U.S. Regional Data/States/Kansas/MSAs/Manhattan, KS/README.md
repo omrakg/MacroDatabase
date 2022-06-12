@@ -7,16 +7,16 @@
 | AVELISPRI31740            | Housing Inventory: Average Listing Price in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM31740          | Housing Inventory: Average Listing Price Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY31740          | Housing Inventory: Average Listing Price Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC317430010             | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2021-07-01        |
-| ENUC317430010SA           | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2021-07-01        |
-| ENUC317440010             | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2021-07-01        |
-| ENUC317440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2021-07-01        |
-| ENUC317440110             | Average Weekly Wages for Employees in Federal Government Establishments in Manhattan, KS (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC317440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Manhattan, KS (MSA)   | 2013-01-01          | 2021-07-01        |
+| ENUC317430010             | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2021-10-01        |
+| ENUC317430010SA           | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2021-10-01        |
+| ENUC317440010             | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2021-10-01        |
+| ENUC317440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2021-10-01        |
+| ENUC317440110             | Average Weekly Wages for Employees in Federal Government Establishments in Manhattan, KS (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC317440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Manhattan, KS (MSA)   | 2013-01-01          | 2021-10-01        |
 | ENUC317440210             | Average Weekly Wages for Employees in State Government Establishments in Manhattan, KS (MSA)     | 2013-01-01          | 2013-10-01        |
 | ENUC317440310             | Average Weekly Wages for Employees in Local Government Establishments in Manhattan, KS (MSA)     | 2013-01-01          | 2013-10-01        |
-| ENUC317440510             | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2021-07-01        |
-| ENUC317440510SA           | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2021-07-01        |
+| ENUC317440510             | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2021-10-01        |
+| ENUC317440510SA           | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2021-10-01        |
 | IRPD31740                 | Implicit Regional Price Deflator for Manhattan, KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT203174000000003      | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | LAUMT203174000000003A     | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |

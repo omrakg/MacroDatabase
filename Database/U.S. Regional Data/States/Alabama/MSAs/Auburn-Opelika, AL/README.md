@@ -40,18 +40,18 @@
 | AVELISPRIMM12220          | Housing Inventory: Average Listing Price Month-Over-Month in Auburn-Opelika, AL (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY12220          | Housing Inventory: Average Listing Price Year-Over-Year in Auburn-Opelika, AL (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA12220              | Market Hotness: Demand Score in Auburn-Opelika, AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC122230010             | Total Quarterly Wages in Auburn-Opelika, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC122230010SA           | Total Quarterly Wages in Auburn-Opelika, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC122240010             | Average Weekly Wages for Employees in Total Covered Establishments in Auburn-Opelika, AL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC122240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Auburn-Opelika, AL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC122240110             | Average Weekly Wages for Employees in Federal Government Establishments in Auburn-Opelika, AL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC122240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Auburn-Opelika, AL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC122240210             | Average Weekly Wages for Employees in State Government Establishments in Auburn-Opelika, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC122240210SA           | Average Weekly Wages for Employees in State Government Establishments in Auburn-Opelika, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC122240310             | Average Weekly Wages for Employees in Local Government Establishments in Auburn-Opelika, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC122240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Auburn-Opelika, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC122240510             | Average Weekly Wages for Employees in Private Establishments in Auburn-Opelika, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC122240510SA           | Average Weekly Wages for Employees in Private Establishments in Auburn-Opelika, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC122230010             | Total Quarterly Wages in Auburn-Opelika, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC122230010SA           | Total Quarterly Wages in Auburn-Opelika, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC122240010             | Average Weekly Wages for Employees in Total Covered Establishments in Auburn-Opelika, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC122240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Auburn-Opelika, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC122240110             | Average Weekly Wages for Employees in Federal Government Establishments in Auburn-Opelika, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC122240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Auburn-Opelika, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC122240210             | Average Weekly Wages for Employees in State Government Establishments in Auburn-Opelika, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC122240210SA           | Average Weekly Wages for Employees in State Government Establishments in Auburn-Opelika, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC122240310             | Average Weekly Wages for Employees in Local Government Establishments in Auburn-Opelika, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC122240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Auburn-Opelika, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC122240510             | Average Weekly Wages for Employees in Private Establishments in Auburn-Opelika, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC122240510SA           | Average Weekly Wages for Employees in Private Establishments in Auburn-Opelika, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA12220            | Market Hotness: Hotness Rank in Auburn-Opelika, AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA12220              | Market Hotness: Hotness Rank in Auburn-Opelika, AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA12220            | Market Hotness: Hotness Rank in Auburn-Opelika, AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

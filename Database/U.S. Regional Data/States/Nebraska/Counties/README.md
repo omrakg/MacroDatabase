@@ -43,7 +43,7 @@
 | Hooker County, NE       |                84 |
 | Dixon County, NE        |                87 |
 | Thurston County, NE     |                89 |
-| Sioux County, NE        |                 0 |
+| Sioux County, NE        |                86 |
 | Furnas County, NE       |                88 |
 | Madison County, NE      |                89 |
 | Kimball County, NE      |                89 |

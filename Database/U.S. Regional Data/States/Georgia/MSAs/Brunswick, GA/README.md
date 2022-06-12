@@ -19,18 +19,18 @@
 | BRUN213UR                 | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | BRUN213URN                | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | BRUPOP                    | Resident Population in Brunswick, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| ENUC152630010             | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC152630010SA           | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC152640010             | Average Weekly Wages for Employees in Total Covered Establishments in Brunswick, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC152640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Brunswick, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC152640110             | Average Weekly Wages for Employees in Federal Government Establishments in Brunswick, GA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC152640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Brunswick, GA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC152640210             | Average Weekly Wages for Employees in State Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC152640210SA           | Average Weekly Wages for Employees in State Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC152640310             | Average Weekly Wages for Employees in Local Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC152640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC152640510             | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC152640510SA           | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC152630010             | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC152630010SA           | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC152640010             | Average Weekly Wages for Employees in Total Covered Establishments in Brunswick, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC152640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Brunswick, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC152640110             | Average Weekly Wages for Employees in Federal Government Establishments in Brunswick, GA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC152640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Brunswick, GA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC152640210             | Average Weekly Wages for Employees in State Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC152640210SA           | Average Weekly Wages for Employees in State Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC152640310             | Average Weekly Wages for Employees in Local Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC152640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC152640510             | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC152640510SA           | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD15260                 | Implicit Regional Price Deflator for Brunswick, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT131526000000003A     | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT131526000000004      | Unemployed Persons in Brunswick, GA (MSA)                                                        | 1990-01-01          | 2022-04-01        |

@@ -28,18 +28,18 @@
 | BREM753URN                | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | BRMPOP                    | Resident Population in Bremerton-Silverdale, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA14740              | Market Hotness: Demand Score in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC147430010             | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC147430010SA           | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC147440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC147440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC147440110             | Average Weekly Wages for Employees in Federal Government Establishments in Bremerton-Silverdale, WA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC147440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bremerton-Silverdale, WA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC147440210             | Average Weekly Wages for Employees in State Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC147440210SA           | Average Weekly Wages for Employees in State Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC147440310             | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC147440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC147440510             | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC147440510SA           | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC147430010             | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC147430010SA           | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC147440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC147440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC147440110             | Average Weekly Wages for Employees in Federal Government Establishments in Bremerton-Silverdale, WA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC147440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bremerton-Silverdale, WA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC147440210             | Average Weekly Wages for Employees in State Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC147440210SA           | Average Weekly Wages for Employees in State Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC147440310             | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC147440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC147440510             | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC147440510SA           | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA14740            | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA14740              | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA14740            | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2018-08-01          | 2022-05-01        |

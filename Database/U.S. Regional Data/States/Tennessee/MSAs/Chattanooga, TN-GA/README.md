@@ -36,23 +36,23 @@
 | CHAT847URN                | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | CHTPOP                    | Resident Population in Chattanooga, TN-GA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16860              | Market Hotness: Demand Score in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC168630010             | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC168630010SA           | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC168640010             | Average Weekly Wages for Employees in Total Covered Establishments in Chattanooga, TN-GA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC168640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chattanooga, TN-GA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC168640110             | Average Weekly Wages for Employees in Federal Government Establishments in Chattanooga, TN-GA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC168640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chattanooga, TN-GA (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC168630010             | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC168630010SA           | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC168640010             | Average Weekly Wages for Employees in Total Covered Establishments in Chattanooga, TN-GA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC168640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chattanooga, TN-GA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC168640110             | Average Weekly Wages for Employees in Federal Government Establishments in Chattanooga, TN-GA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC168640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chattanooga, TN-GA (MSA)                 | 1990-01-01          | 2021-10-01        |
 | ENUC168640210             | Average Weekly Wages for Employees in State Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC168640210SA           | Average Weekly Wages for Employees in State Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC168640310             | Average Weekly Wages for Employees in Local Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC168640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC168640510             | Average Weekly Wages for Employees in Private Establishments in Chattanooga, TN-GA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC168640510SA           | Average Weekly Wages for Employees in Private Establishments in Chattanooga, TN-GA (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC168640510             | Average Weekly Wages for Employees in Private Establishments in Chattanooga, TN-GA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC168640510SA           | Average Weekly Wages for Employees in Private Establishments in Chattanooga, TN-GA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA16860            | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA16860              | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA16860            | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HOSCMSA16860              | Market Hotness: Hotness Score in Chattanooga, TN-GA (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
-| IHLCHG16860               | Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                  | 2020-02-01          | 2022-05-27        |
+| IHLCHG16860               | Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                  | 2020-02-01          | 2022-06-03        |
 | IRPD16860                 | Implicit Regional Price Deflator for Chattanooga, TN-GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT471686000000003A     | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT471686000000004      | Unemployed Persons in Chattanooga, TN-GA (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

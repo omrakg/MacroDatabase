@@ -2,7 +2,7 @@
 |-----------------------|-------------------|
 | Litchfield County, CT |               146 |
 | Fairfield County, CT  |               146 |
-| Middlesex County, CT  |               146 |
+| Middlesex County, CT  |                 0 |
 | Tolland County, CT    |               146 |
 | Windham County, CT    |               146 |
 | Hartford County, CT   |               146 |

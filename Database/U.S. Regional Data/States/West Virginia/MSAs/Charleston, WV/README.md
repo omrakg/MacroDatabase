@@ -36,18 +36,18 @@
 | CHAR654URN                | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | CHRPOP                    | Resident Population in Charleston, WV (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16620              | Market Hotness: Demand Score in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC166230010             | Total Quarterly Wages in Charleston, WV (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC166230010SA           | Total Quarterly Wages in Charleston, WV (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC166240010             | Average Weekly Wages for Employees in Total Covered Establishments in Charleston, WV (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC166240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Charleston, WV (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC166240110             | Average Weekly Wages for Employees in Federal Government Establishments in Charleston, WV (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC166240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Charleston, WV (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC166240210             | Average Weekly Wages for Employees in State Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC166240210SA           | Average Weekly Wages for Employees in State Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC166240310             | Average Weekly Wages for Employees in Local Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC166240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC166240510             | Average Weekly Wages for Employees in Private Establishments in Charleston, WV (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC166240510SA           | Average Weekly Wages for Employees in Private Establishments in Charleston, WV (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC166230010             | Total Quarterly Wages in Charleston, WV (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC166230010SA           | Total Quarterly Wages in Charleston, WV (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC166240010             | Average Weekly Wages for Employees in Total Covered Establishments in Charleston, WV (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC166240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Charleston, WV (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC166240110             | Average Weekly Wages for Employees in Federal Government Establishments in Charleston, WV (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC166240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Charleston, WV (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC166240210             | Average Weekly Wages for Employees in State Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC166240210SA           | Average Weekly Wages for Employees in State Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC166240310             | Average Weekly Wages for Employees in Local Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC166240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC166240510             | Average Weekly Wages for Employees in Private Establishments in Charleston, WV (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC166240510SA           | Average Weekly Wages for Employees in Private Establishments in Charleston, WV (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA16620            | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA16620              | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA16620            | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

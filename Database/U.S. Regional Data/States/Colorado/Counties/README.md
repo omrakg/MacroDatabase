@@ -5,7 +5,7 @@
 | Gunnison County, CO          |                90 |
 | Eagle County, CO             |               146 |
 | Archuleta County, CO         |                89 |
-| Las Animas County, CO        |                 0 |
+| Las Animas County, CO        |                89 |
 | Lake County, CO              |                90 |
 | Jackson County, CO           |                86 |
 | Huerfano County, CO          |                90 |
@@ -25,7 +25,7 @@
 | Routt County, CO             |                90 |
 | Washington County, CO        |                88 |
 | Mesa County, CO              |               146 |
-| Hinsdale County, CO          |                85 |
+| Hinsdale County, CO          |                 0 |
 | Kiowa County, CO             |                88 |
 | Rio Grande County, CO        |                89 |
 | Douglas County, CO           |               147 |

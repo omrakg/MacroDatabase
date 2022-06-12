@@ -7,18 +7,18 @@
 | AVELISPRI38220            | Housing Inventory: Average Listing Price in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM38220          | Housing Inventory: Average Listing Price Month-Over-Month in Pine Bluff, AR (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY38220          | Housing Inventory: Average Listing Price Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC382230010             | Total Quarterly Wages in Pine Bluff, AR (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC382230010SA           | Total Quarterly Wages in Pine Bluff, AR (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC382240010             | Average Weekly Wages for Employees in Total Covered Establishments in Pine Bluff, AR (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC382240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pine Bluff, AR (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC382240110             | Average Weekly Wages for Employees in Federal Government Establishments in Pine Bluff, AR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC382240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pine Bluff, AR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC382240210             | Average Weekly Wages for Employees in State Government Establishments in Pine Bluff, AR (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC382240210SA           | Average Weekly Wages for Employees in State Government Establishments in Pine Bluff, AR (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC382240310             | Average Weekly Wages for Employees in Local Government Establishments in Pine Bluff, AR (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC382240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pine Bluff, AR (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC382240510             | Average Weekly Wages for Employees in Private Establishments in Pine Bluff, AR (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC382240510SA           | Average Weekly Wages for Employees in Private Establishments in Pine Bluff, AR (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC382230010             | Total Quarterly Wages in Pine Bluff, AR (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC382230010SA           | Total Quarterly Wages in Pine Bluff, AR (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC382240010             | Average Weekly Wages for Employees in Total Covered Establishments in Pine Bluff, AR (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC382240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pine Bluff, AR (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC382240110             | Average Weekly Wages for Employees in Federal Government Establishments in Pine Bluff, AR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC382240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pine Bluff, AR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC382240210             | Average Weekly Wages for Employees in State Government Establishments in Pine Bluff, AR (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC382240210SA           | Average Weekly Wages for Employees in State Government Establishments in Pine Bluff, AR (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC382240310             | Average Weekly Wages for Employees in Local Government Establishments in Pine Bluff, AR (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC382240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pine Bluff, AR (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC382240510             | Average Weekly Wages for Employees in Private Establishments in Pine Bluff, AR (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC382240510SA           | Average Weekly Wages for Employees in Private Establishments in Pine Bluff, AR (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD38220                 | Implicit Regional Price Deflator for Pine Bluff, AR (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT053822000000003A     | Unemployment Rate in Pine Bluff, AR (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT053822000000004      | Unemployed Persons in Pine Bluff, AR (MSA)                                                        | 1990-01-01          | 2022-04-01        |

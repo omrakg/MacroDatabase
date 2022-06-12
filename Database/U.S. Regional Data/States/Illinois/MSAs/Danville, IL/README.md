@@ -35,14 +35,14 @@
 | DANV117UR                 | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DANV117URN                | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DNEPOP                    | Resident Population in Danville, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC191830010             | Total Quarterly Wages in Danville, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC191830010SA           | Total Quarterly Wages in Danville, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC191840010             | Average Weekly Wages for Employees in Total Covered Establishments in Danville, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC191840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Danville, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC191840110             | Average Weekly Wages for Employees in Federal Government Establishments in Danville, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC191840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Danville, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC191840510             | Average Weekly Wages for Employees in Private Establishments in Danville, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC191840510SA           | Average Weekly Wages for Employees in Private Establishments in Danville, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC191830010             | Total Quarterly Wages in Danville, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC191830010SA           | Total Quarterly Wages in Danville, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC191840010             | Average Weekly Wages for Employees in Total Covered Establishments in Danville, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC191840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Danville, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC191840110             | Average Weekly Wages for Employees in Federal Government Establishments in Danville, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC191840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Danville, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC191840510             | Average Weekly Wages for Employees in Private Establishments in Danville, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC191840510SA           | Average Weekly Wages for Employees in Private Establishments in Danville, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD19180                 | Implicit Regional Price Deflator for Danville, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171918000000003A     | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT171918000000004      | Unemployed Persons in Danville, IL (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

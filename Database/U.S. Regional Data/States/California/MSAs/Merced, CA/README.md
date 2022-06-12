@@ -8,18 +8,18 @@
 | AVELISPRIMM32900          | Housing Inventory: Average Listing Price Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY32900          | Housing Inventory: Average Listing Price Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA32900              | Market Hotness: Demand Score in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC329030010             | Total Quarterly Wages in Merced, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC329030010SA           | Total Quarterly Wages in Merced, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC329040010             | Average Weekly Wages for Employees in Total Covered Establishments in Merced, CA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC329040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Merced, CA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC329040110             | Average Weekly Wages for Employees in Federal Government Establishments in Merced, CA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC329040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Merced, CA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC329040210             | Average Weekly Wages for Employees in State Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC329040210SA           | Average Weekly Wages for Employees in State Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC329040310             | Average Weekly Wages for Employees in Local Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC329040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC329040510             | Average Weekly Wages for Employees in Private Establishments in Merced, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC329040510SA           | Average Weekly Wages for Employees in Private Establishments in Merced, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC329030010             | Total Quarterly Wages in Merced, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC329030010SA           | Total Quarterly Wages in Merced, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC329040010             | Average Weekly Wages for Employees in Total Covered Establishments in Merced, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC329040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Merced, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC329040110             | Average Weekly Wages for Employees in Federal Government Establishments in Merced, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC329040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Merced, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC329040210             | Average Weekly Wages for Employees in State Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC329040210SA           | Average Weekly Wages for Employees in State Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC329040310             | Average Weekly Wages for Employees in Local Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC329040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC329040510             | Average Weekly Wages for Employees in Private Establishments in Merced, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC329040510SA           | Average Weekly Wages for Employees in Private Establishments in Merced, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA32900            | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA32900              | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA32900            | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

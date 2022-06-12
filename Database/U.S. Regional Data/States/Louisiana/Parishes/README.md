@@ -25,7 +25,7 @@
 | Iberia Parish, LA               |               147 |
 | De Soto Parish, LA              |                90 |
 | Webster Parish, LA              |                90 |
-| Madison Parish, LA              |                 0 |
+| Madison Parish, LA              |                88 |
 | Iberville Parish, LA            |                89 |
 | St. Martin Parish, LA           |               146 |
 | Jackson Parish, LA              |                90 |
@@ -47,7 +47,7 @@
 | Jefferson Parish, LA            |               147 |
 | West Baton Rouge Parish, LA     |                89 |
 | Grant Parish, LA                |                90 |
-| West Carroll Parish, LA         |                88 |
+| West Carroll Parish, LA         |                 0 |
 | Richland Parish, LA             |                89 |
 | Natchitoches Parish, LA         |                89 |
 | Sabine Parish, LA               |                90 |

@@ -36,18 +36,18 @@
 | DECA401UR                 | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DECA401URN                | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DESCMSA19460              | Market Hotness: Demand Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC194630010             | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC194630010SA           | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC194640010             | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC194640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC194640110             | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, AL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC194640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, AL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC194640210             | Average Weekly Wages for Employees in State Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC194640210SA           | Average Weekly Wages for Employees in State Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC194640310             | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC194640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC194640510             | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC194640510SA           | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC194630010             | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC194630010SA           | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC194640010             | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC194640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC194640110             | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC194640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC194640210             | Average Weekly Wages for Employees in State Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC194640210SA           | Average Weekly Wages for Employees in State Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC194640310             | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC194640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC194640510             | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC194640510SA           | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA19460            | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA19460              | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA19460            | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

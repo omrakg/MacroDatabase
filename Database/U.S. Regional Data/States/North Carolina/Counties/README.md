@@ -13,7 +13,7 @@
 | Onslow County, NC       |               147 |
 | Swain County, NC        |                88 |
 | Forsyth County, NC      |               147 |
-| Wayne County, NC        |               147 |
+| Wayne County, NC        |                 0 |
 | Cleveland County, NC    |               147 |
 | Alamance County, NC     |               147 |
 | Johnston County, NC     |               147 |
@@ -54,7 +54,7 @@
 | Buncombe County, NC     |               147 |
 | Vance County, NC        |                90 |
 | Cumberland County, NC   |               147 |
-| Orange County, NC       |                 0 |
+| Orange County, NC       |               147 |
 | Edgecombe County, NC    |               146 |
 | Haywood County, NC      |               146 |
 | Anson County, NC        |                88 |

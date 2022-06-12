@@ -3,18 +3,18 @@
 | ATNHPIUS14100Q         | All-Transactions House Price Index for Bloomsburg-Berwick, PA (MSA)                                     | 1993-10-01          | 2022-01-01        |
 | BLBPOP                 | Resident Population in Bloomsburg-Berwick, PA (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | BLOO942PCPI            | Per Capita Personal Income in Bloomsburg-Berwick, PA (MSA)                                              | 1969-01-01          | 2020-01-01        |
-| ENUC141030010          | Total Quarterly Wages in Bloomsburg-Berwick, PA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC141030010SA        | Total Quarterly Wages in Bloomsburg-Berwick, PA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC141040010          | Average Weekly Wages for Employees in Total Covered Establishments in Bloomsburg-Berwick, PA (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC141040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Bloomsburg-Berwick, PA (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC141040110          | Average Weekly Wages for Employees in Federal Government Establishments in Bloomsburg-Berwick, PA (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC141040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Bloomsburg-Berwick, PA (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC141040210          | Average Weekly Wages for Employees in State Government Establishments in Bloomsburg-Berwick, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC141040210SA        | Average Weekly Wages for Employees in State Government Establishments in Bloomsburg-Berwick, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC141040310          | Average Weekly Wages for Employees in Local Government Establishments in Bloomsburg-Berwick, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC141040310SA        | Average Weekly Wages for Employees in Local Government Establishments in Bloomsburg-Berwick, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC141040510          | Average Weekly Wages for Employees in Private Establishments in Bloomsburg-Berwick, PA (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC141040510SA        | Average Weekly Wages for Employees in Private Establishments in Bloomsburg-Berwick, PA (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC141030010          | Total Quarterly Wages in Bloomsburg-Berwick, PA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC141030010SA        | Total Quarterly Wages in Bloomsburg-Berwick, PA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC141040010          | Average Weekly Wages for Employees in Total Covered Establishments in Bloomsburg-Berwick, PA (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC141040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Bloomsburg-Berwick, PA (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC141040110          | Average Weekly Wages for Employees in Federal Government Establishments in Bloomsburg-Berwick, PA (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC141040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Bloomsburg-Berwick, PA (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC141040210          | Average Weekly Wages for Employees in State Government Establishments in Bloomsburg-Berwick, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC141040210SA        | Average Weekly Wages for Employees in State Government Establishments in Bloomsburg-Berwick, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC141040310          | Average Weekly Wages for Employees in Local Government Establishments in Bloomsburg-Berwick, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC141040310SA        | Average Weekly Wages for Employees in Local Government Establishments in Bloomsburg-Berwick, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC141040510          | Average Weekly Wages for Employees in Private Establishments in Bloomsburg-Berwick, PA (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC141040510SA        | Average Weekly Wages for Employees in Private Establishments in Bloomsburg-Berwick, PA (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD14100              | Implicit Regional Price Deflator for Bloomsburg-Berwick, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT421410000000003   | Unemployment Rate in Bloomsburg-Berwick, PA (MSA)                                                       | 1990-01-01          | 2022-04-01        |
 | LAUMT421410000000003A  | Unemployment Rate in Bloomsburg-Berwick, PA (MSA)                                                       | 1990-01-01          | 2021-01-01        |

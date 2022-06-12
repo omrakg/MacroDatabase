@@ -1,18 +1,18 @@
 | id                     | title                                                                                                     | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS43420Q         | All-Transactions House Price Index for Sierra Vista-Douglas, AZ (MSA)                                     | 1992-04-01          | 2022-01-01        |
-| ENUC434230010          | Total Quarterly Wages in Sierra Vista-Douglas, AZ (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC434230010SA        | Total Quarterly Wages in Sierra Vista-Douglas, AZ (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC434240010          | Average Weekly Wages for Employees in Total Covered Establishments in Sierra Vista-Douglas, AZ (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC434240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Sierra Vista-Douglas, AZ (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC434240110          | Average Weekly Wages for Employees in Federal Government Establishments in Sierra Vista-Douglas, AZ (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC434240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Sierra Vista-Douglas, AZ (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC434240210          | Average Weekly Wages for Employees in State Government Establishments in Sierra Vista-Douglas, AZ (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC434240210SA        | Average Weekly Wages for Employees in State Government Establishments in Sierra Vista-Douglas, AZ (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC434240310          | Average Weekly Wages for Employees in Local Government Establishments in Sierra Vista-Douglas, AZ (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC434240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Sierra Vista-Douglas, AZ (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC434240510          | Average Weekly Wages for Employees in Private Establishments in Sierra Vista-Douglas, AZ (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC434240510SA        | Average Weekly Wages for Employees in Private Establishments in Sierra Vista-Douglas, AZ (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC434230010          | Total Quarterly Wages in Sierra Vista-Douglas, AZ (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC434230010SA        | Total Quarterly Wages in Sierra Vista-Douglas, AZ (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC434240010          | Average Weekly Wages for Employees in Total Covered Establishments in Sierra Vista-Douglas, AZ (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC434240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Sierra Vista-Douglas, AZ (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC434240110          | Average Weekly Wages for Employees in Federal Government Establishments in Sierra Vista-Douglas, AZ (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC434240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Sierra Vista-Douglas, AZ (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC434240210          | Average Weekly Wages for Employees in State Government Establishments in Sierra Vista-Douglas, AZ (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC434240210SA        | Average Weekly Wages for Employees in State Government Establishments in Sierra Vista-Douglas, AZ (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC434240310          | Average Weekly Wages for Employees in Local Government Establishments in Sierra Vista-Douglas, AZ (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC434240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Sierra Vista-Douglas, AZ (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC434240510          | Average Weekly Wages for Employees in Private Establishments in Sierra Vista-Douglas, AZ (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC434240510SA        | Average Weekly Wages for Employees in Private Establishments in Sierra Vista-Douglas, AZ (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD43420              | Implicit Regional Price Deflator for Sierra Vista-Douglas, AZ (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT044342000000003   | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2022-04-01        |
 | LAUMT044342000000003A  | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2021-01-01        |

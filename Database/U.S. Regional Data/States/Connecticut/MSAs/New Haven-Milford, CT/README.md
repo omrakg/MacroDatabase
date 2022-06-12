@@ -8,23 +8,23 @@
 | AVELISPRIMM35300          | Housing Inventory: Average Listing Price Month-Over-Month in New Haven-Milford, CT (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY35300          | Housing Inventory: Average Listing Price Year-Over-Year in New Haven-Milford, CT (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA35300              | Market Hotness: Demand Score in New Haven-Milford, CT (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC353030010             | Total Quarterly Wages in New Haven-Milford, CT (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC353030010SA           | Total Quarterly Wages in New Haven-Milford, CT (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC353040010             | Average Weekly Wages for Employees in Total Covered Establishments in New Haven-Milford, CT (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC353040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in New Haven-Milford, CT (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC353040110             | Average Weekly Wages for Employees in Federal Government Establishments in New Haven-Milford, CT (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC353040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in New Haven-Milford, CT (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC353040210             | Average Weekly Wages for Employees in State Government Establishments in New Haven-Milford, CT (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC353040210SA           | Average Weekly Wages for Employees in State Government Establishments in New Haven-Milford, CT (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC353040310             | Average Weekly Wages for Employees in Local Government Establishments in New Haven-Milford, CT (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC353040310SA           | Average Weekly Wages for Employees in Local Government Establishments in New Haven-Milford, CT (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC353040510             | Average Weekly Wages for Employees in Private Establishments in New Haven-Milford, CT (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC353040510SA           | Average Weekly Wages for Employees in Private Establishments in New Haven-Milford, CT (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC353030010             | Total Quarterly Wages in New Haven-Milford, CT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC353030010SA           | Total Quarterly Wages in New Haven-Milford, CT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC353040010             | Average Weekly Wages for Employees in Total Covered Establishments in New Haven-Milford, CT (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC353040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in New Haven-Milford, CT (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC353040110             | Average Weekly Wages for Employees in Federal Government Establishments in New Haven-Milford, CT (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC353040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in New Haven-Milford, CT (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC353040210             | Average Weekly Wages for Employees in State Government Establishments in New Haven-Milford, CT (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC353040210SA           | Average Weekly Wages for Employees in State Government Establishments in New Haven-Milford, CT (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC353040310             | Average Weekly Wages for Employees in Local Government Establishments in New Haven-Milford, CT (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC353040310SA           | Average Weekly Wages for Employees in Local Government Establishments in New Haven-Milford, CT (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC353040510             | Average Weekly Wages for Employees in Private Establishments in New Haven-Milford, CT (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC353040510SA           | Average Weekly Wages for Employees in Private Establishments in New Haven-Milford, CT (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA35300            | Market Hotness: Hotness Rank in New Haven-Milford, CT (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA35300              | Market Hotness: Hotness Rank in New Haven-Milford, CT (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA35300            | Market Hotness: Hotness Rank in New Haven-Milford, CT (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HOSCMSA35300              | Market Hotness: Hotness Score in New Haven-Milford, CT (CBSA)                                            | 2017-08-01          | 2022-05-01        |
-| IHLCHG35300               | Job Postings on Indeed in New Haven-Milford, CT (MSA)                                                    | 2020-02-01          | 2022-05-27        |
+| IHLCHG35300               | Job Postings on Indeed in New Haven-Milford, CT (MSA)                                                    | 2020-02-01          | 2022-06-03        |
 | IRPD35300                 | Implicit Regional Price Deflator for New Haven-Milford, CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA35300          | Market Hotness: Listing Views per Property in New Haven-Milford, CT (CBSA)                               | 2018-08-01          | 2022-05-01        |
 | LDPEPRVSUSMSA35300        | Market Hotness: Listing Views per Property Versus the United States in New Haven-Milford, CT (CBSA)      | 2017-08-01          | 2022-05-01        |

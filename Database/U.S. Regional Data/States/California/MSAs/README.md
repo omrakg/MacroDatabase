@@ -13,7 +13,7 @@
 | Bakersfield, CA                      |               246 |
 | Santa Rosa-Petaluma, CA              |               221 |
 | Merced, CA                           |               173 |
-| Yuba City, CA                        |               164 |
+| Yuba City, CA                        |               163 |
 | Chico, CA                            |               173 |
 | Madera, CA                           |               150 |
 | San Jose-Sunnyvale-Santa Clara, CA   |               331 |
@@ -21,7 +21,7 @@
 | Santa Cruz-Watsonville, CA           |               188 |
 | San Luis Obispo-Paso Robles, CA      |               191 |
 | Oxnard-Thousand Oaks-Ventura, CA     |               239 |
-| Fresno, CA                           |                 0 |
+| Fresno, CA                           |               246 |
 | Salinas, CA                          |               196 |
 | Riverside-San Bernardino-Ontario, CA |               364 |
 | Santa Maria-Santa Barbara, CA        |               175 |

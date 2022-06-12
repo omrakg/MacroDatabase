@@ -10,7 +10,7 @@
 | Lewis and Clark County, MT |               147 |
 | Treasure County, MT        |                85 |
 | Deer Lodge County, MT      |                89 |
-| Wheatland County, MT       |                87 |
+| Wheatland County, MT       |                 0 |
 | Yellowstone County, MT     |               147 |
 | Custer County, MT          |                90 |
 | Phillips County, MT        |                88 |

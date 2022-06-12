@@ -18,7 +18,7 @@
 | Kimble County, TX        |                89 |
 | Childress County, TX     |                87 |
 | Briscoe County, TX       |                86 |
-| Fannin County, TX        |                90 |
+| Fannin County, TX        |                 0 |
 | Hardin County, TX        |               146 |
 | Howard County, TX        |                90 |
 | Hemphill County, TX      |                88 |
@@ -50,7 +50,7 @@
 | Val Verde County, TX     |                89 |
 | Haskell County, TX       |                88 |
 | Frio County, TX          |                88 |
-| King County, TX          |                 0 |
+| King County, TX          |                81 |
 | Randall County, TX       |               147 |
 | Archer County, TX        |                89 |
 | Nueces County, TX        |               147 |
@@ -109,8 +109,8 @@
 | Ector County, TX         |               147 |
 | Dickens County, TX       |                86 |
 | Pecos County, TX         |                89 |
-| Dawson County, TX        |                89 |
-| Erath County, TX         |                 0 |
+| Dawson County, TX        |                 0 |
+| Erath County, TX         |                90 |
 | Gregg County, TX         |               147 |
 | Comal County, TX         |               147 |
 | Comanche County, TX      |                89 |
@@ -169,8 +169,8 @@
 | Hall County, TX          |                88 |
 | Parker County, TX        |               147 |
 | Falls County, TX         |                89 |
-| Throckmorton County, TX  |                86 |
-| Madison County, TX       |                 0 |
+| Throckmorton County, TX  |                 0 |
+| Madison County, TX       |                89 |
 | Ochiltree County, TX     |                90 |
 | Smith County, TX         |               147 |
 | Dallas County, TX        |               147 |
@@ -229,8 +229,8 @@
 | Bee County, TX           |                90 |
 | Lavaca County, TX        |                89 |
 | Henderson County, TX     |               147 |
-| Borden County, TX        |                83 |
-| Presidio County, TX      |                 0 |
+| Borden County, TX        |                 0 |
+| Presidio County, TX      |                88 |
 | Rains County, TX         |                89 |
 | Nacogdoches County, TX   |               146 |
 | Starr County, TX         |                89 |

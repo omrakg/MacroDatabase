@@ -9,7 +9,7 @@
 | Stark County, OH      |               147 |
 | Clermont County, OH   |               147 |
 | Perry County, OH      |                90 |
-| Lucas County, OH      |                 0 |
+| Lucas County, OH      |               147 |
 | Fulton County, OH     |                90 |
 | Medina County, OH     |               147 |
 | Brown County, OH      |                90 |
@@ -62,7 +62,7 @@
 | Fairfield County, OH  |               147 |
 | Holmes County, OH     |                89 |
 | Washington County, OH |               146 |
-| Wayne County, OH      |               147 |
+| Wayne County, OH      |                 0 |
 | Mahoning County, OH   |               147 |
 | Lake County, OH       |               147 |
 | Williams County, OH   |                90 |

@@ -6,4 +6,4 @@
 | California-Lexington Park, MD                |                59 |
 | Cumberland, MD-WV                            |                 0 |
 | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  |               183 |
-| Salisbury, MD-DE                             |                 0 |
+| Salisbury, MD-DE                             |               146 |

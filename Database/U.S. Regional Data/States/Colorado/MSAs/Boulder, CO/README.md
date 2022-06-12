@@ -36,18 +36,18 @@
 | BOUL508UR                 | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-04-01        |
 | BOUL508URN                | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-04-01        |
 | DESCMSA14500              | Market Hotness: Demand Score in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
-| ENUC145030010             | Total Quarterly Wages in Boulder, CO (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC145030010SA           | Total Quarterly Wages in Boulder, CO (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC145040010             | Average Weekly Wages for Employees in Total Covered Establishments in Boulder, CO (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC145040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Boulder, CO (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC145040110             | Average Weekly Wages for Employees in Federal Government Establishments in Boulder, CO (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC145040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Boulder, CO (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC145040210             | Average Weekly Wages for Employees in State Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-07-01        |
-| ENUC145040210SA           | Average Weekly Wages for Employees in State Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-07-01        |
-| ENUC145040310             | Average Weekly Wages for Employees in Local Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-07-01        |
-| ENUC145040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-07-01        |
-| ENUC145040510             | Average Weekly Wages for Employees in Private Establishments in Boulder, CO (MSA)                                        | 1990-01-01          | 2021-07-01        |
-| ENUC145040510SA           | Average Weekly Wages for Employees in Private Establishments in Boulder, CO (MSA)                                        | 1990-01-01          | 2021-07-01        |
+| ENUC145030010             | Total Quarterly Wages in Boulder, CO (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC145030010SA           | Total Quarterly Wages in Boulder, CO (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC145040010             | Average Weekly Wages for Employees in Total Covered Establishments in Boulder, CO (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC145040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Boulder, CO (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC145040110             | Average Weekly Wages for Employees in Federal Government Establishments in Boulder, CO (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC145040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Boulder, CO (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC145040210             | Average Weekly Wages for Employees in State Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-10-01        |
+| ENUC145040210SA           | Average Weekly Wages for Employees in State Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-10-01        |
+| ENUC145040310             | Average Weekly Wages for Employees in Local Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-10-01        |
+| ENUC145040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-10-01        |
+| ENUC145040510             | Average Weekly Wages for Employees in Private Establishments in Boulder, CO (MSA)                                        | 1990-01-01          | 2021-10-01        |
+| ENUC145040510SA           | Average Weekly Wages for Employees in Private Establishments in Boulder, CO (MSA)                                        | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA14500            | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
 | HORAMSA14500              | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA14500            | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |

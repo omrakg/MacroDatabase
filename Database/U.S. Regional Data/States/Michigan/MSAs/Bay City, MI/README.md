@@ -35,18 +35,18 @@
 | BAYC026UR                 | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | BAYC026URN                | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | BCTPOP                    | Resident Population in Bay City, MI (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| ENUC130230010             | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC130230010SA           | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC130240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bay City, MI (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC130240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bay City, MI (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC130240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bay City, MI (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC130240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bay City, MI (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC130240210             | Average Weekly Wages for Employees in State Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC130240210SA           | Average Weekly Wages for Employees in State Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC130240310             | Average Weekly Wages for Employees in Local Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC130240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC130240510             | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC130240510SA           | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC130230010             | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC130230010SA           | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC130240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bay City, MI (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC130240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bay City, MI (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC130240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bay City, MI (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC130240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bay City, MI (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC130240210             | Average Weekly Wages for Employees in State Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC130240210SA           | Average Weekly Wages for Employees in State Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC130240310             | Average Weekly Wages for Employees in Local Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC130240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC130240510             | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC130240510SA           | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD13020                 | Implicit Regional Price Deflator for Bay City, MI (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT261302000000003A     | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT261302000000004      | Unemployed Persons in Bay City, MI (MSA)                                                        | 1990-01-01          | 2022-04-01        |

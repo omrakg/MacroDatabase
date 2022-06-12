@@ -8,16 +8,16 @@
 | AVELISPRIMM40420          | Housing Inventory: Average Listing Price Month-Over-Month in Rockford, IL (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY40420          | Housing Inventory: Average Listing Price Year-Over-Year in Rockford, IL (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA40420              | Market Hotness: Demand Score in Rockford, IL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC404230010             | Total Quarterly Wages in Rockford, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC404230010SA           | Total Quarterly Wages in Rockford, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC404240010             | Average Weekly Wages for Employees in Total Covered Establishments in Rockford, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC404240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rockford, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC404240110             | Average Weekly Wages for Employees in Federal Government Establishments in Rockford, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC404240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rockford, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC404240310             | Average Weekly Wages for Employees in Local Government Establishments in Rockford, IL (MSA)                   | 2019-10-01          | 2021-07-01        |
-| ENUC404240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rockford, IL (MSA)                   | 2019-10-01          | 2021-07-01        |
-| ENUC404240510             | Average Weekly Wages for Employees in Private Establishments in Rockford, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC404240510SA           | Average Weekly Wages for Employees in Private Establishments in Rockford, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC404230010             | Total Quarterly Wages in Rockford, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC404230010SA           | Total Quarterly Wages in Rockford, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC404240010             | Average Weekly Wages for Employees in Total Covered Establishments in Rockford, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC404240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rockford, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC404240110             | Average Weekly Wages for Employees in Federal Government Establishments in Rockford, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC404240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rockford, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC404240310             | Average Weekly Wages for Employees in Local Government Establishments in Rockford, IL (MSA)                   | 2019-10-01          | 2021-10-01        |
+| ENUC404240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rockford, IL (MSA)                   | 2019-10-01          | 2021-10-01        |
+| ENUC404240510             | Average Weekly Wages for Employees in Private Establishments in Rockford, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC404240510SA           | Average Weekly Wages for Employees in Private Establishments in Rockford, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA40420            | Market Hotness: Hotness Rank in Rockford, IL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA40420              | Market Hotness: Hotness Rank in Rockford, IL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA40420            | Market Hotness: Hotness Rank in Rockford, IL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

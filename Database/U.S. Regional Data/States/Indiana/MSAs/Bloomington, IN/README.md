@@ -36,14 +36,14 @@
 | BLOO018UR                 | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | BLOO018URN                | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DESCMSA14020              | Market Hotness: Demand Score in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC140230010             | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC140230010SA           | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC140240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC140240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC140240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC140240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC140240510             | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC140240510SA           | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC140230010             | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC140230010SA           | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC140240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC140240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC140240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC140240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC140240510             | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC140240510SA           | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA14020            | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA14020              | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA14020            | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

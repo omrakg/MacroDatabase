@@ -48,7 +48,7 @@
 | Ionia County, MI          |               146 |
 | Hillsdale County, MI      |                90 |
 | Jackson County, MI        |               146 |
-| Tuscola County, MI        |                 0 |
+| Tuscola County, MI        |                90 |
 | Allegan County, MI        |               147 |
 | Wayne County, MI          |               147 |
 | Baraga County, MI         |                88 |
@@ -59,7 +59,7 @@
 | Calhoun County, MI        |               147 |
 | Huron County, MI          |                90 |
 | Kalamazoo County, MI      |               146 |
-| Bay County, MI            |               147 |
+| Bay County, MI            |                 0 |
 | Midland County, MI        |               147 |
 | Oakland County, MI        |               147 |
 | Benzie County, MI         |                90 |

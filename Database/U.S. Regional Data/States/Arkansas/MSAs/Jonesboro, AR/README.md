@@ -7,18 +7,18 @@
 | AVELISPRI27860            | Housing Inventory: Average Listing Price in Jonesboro, AR (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM27860          | Housing Inventory: Average Listing Price Month-Over-Month in Jonesboro, AR (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY27860          | Housing Inventory: Average Listing Price Year-Over-Year in Jonesboro, AR (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC278630010             | Total Quarterly Wages in Jonesboro, AR (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC278630010SA           | Total Quarterly Wages in Jonesboro, AR (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC278640010             | Average Weekly Wages for Employees in Total Covered Establishments in Jonesboro, AR (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC278640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jonesboro, AR (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC278640110             | Average Weekly Wages for Employees in Federal Government Establishments in Jonesboro, AR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC278640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jonesboro, AR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC278640210             | Average Weekly Wages for Employees in State Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC278640210SA           | Average Weekly Wages for Employees in State Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC278640310             | Average Weekly Wages for Employees in Local Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC278640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC278640510             | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC278640510SA           | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC278630010             | Total Quarterly Wages in Jonesboro, AR (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC278630010SA           | Total Quarterly Wages in Jonesboro, AR (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC278640010             | Average Weekly Wages for Employees in Total Covered Establishments in Jonesboro, AR (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC278640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jonesboro, AR (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC278640110             | Average Weekly Wages for Employees in Federal Government Establishments in Jonesboro, AR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC278640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jonesboro, AR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC278640210             | Average Weekly Wages for Employees in State Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC278640210SA           | Average Weekly Wages for Employees in State Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC278640310             | Average Weekly Wages for Employees in Local Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC278640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC278640510             | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC278640510SA           | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD27860                 | Implicit Regional Price Deflator for Jonesboro, AR (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | JORGOVT                   | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | JORGOVTN                  | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-04-01        |

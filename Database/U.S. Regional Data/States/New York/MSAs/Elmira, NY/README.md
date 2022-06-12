@@ -35,18 +35,18 @@
 | ELMI336UR                 | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | ELMI336URN                | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | ELMPOP                    | Resident Population in Elmira, NY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC213030010             | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC213030010SA           | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC213040010             | Average Weekly Wages for Employees in Total Covered Establishments in Elmira, NY (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC213040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elmira, NY (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC213040110             | Average Weekly Wages for Employees in Federal Government Establishments in Elmira, NY (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC213040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elmira, NY (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC213040210             | Average Weekly Wages for Employees in State Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC213040210SA           | Average Weekly Wages for Employees in State Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC213040310             | Average Weekly Wages for Employees in Local Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC213040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC213040510             | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC213040510SA           | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC213030010             | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC213030010SA           | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC213040010             | Average Weekly Wages for Employees in Total Covered Establishments in Elmira, NY (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC213040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elmira, NY (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC213040110             | Average Weekly Wages for Employees in Federal Government Establishments in Elmira, NY (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC213040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elmira, NY (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC213040210             | Average Weekly Wages for Employees in State Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC213040210SA           | Average Weekly Wages for Employees in State Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC213040310             | Average Weekly Wages for Employees in Local Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC213040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC213040510             | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC213040510SA           | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD21300                 | Implicit Regional Price Deflator for Elmira, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT362130000000003A     | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT362130000000004      | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

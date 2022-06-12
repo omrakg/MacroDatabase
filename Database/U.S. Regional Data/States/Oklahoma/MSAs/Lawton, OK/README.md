@@ -7,18 +7,18 @@
 | AVELISPRI30020            | Housing Inventory: Average Listing Price in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM30020          | Housing Inventory: Average Listing Price Month-Over-Month in Lawton, OK (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY30020          | Housing Inventory: Average Listing Price Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC300230010             | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC300230010SA           | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC300240010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC300240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC300240110             | Average Weekly Wages for Employees in Federal Government Establishments in Lawton, OK (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC300240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lawton, OK (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC300240210             | Average Weekly Wages for Employees in State Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC300240210SA           | Average Weekly Wages for Employees in State Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC300240310             | Average Weekly Wages for Employees in Local Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC300240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC300240510             | Average Weekly Wages for Employees in Private Establishments in Lawton, OK (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC300240510SA           | Average Weekly Wages for Employees in Private Establishments in Lawton, OK (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC300230010             | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC300230010SA           | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC300240010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC300240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC300240110             | Average Weekly Wages for Employees in Federal Government Establishments in Lawton, OK (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC300240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lawton, OK (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC300240210             | Average Weekly Wages for Employees in State Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC300240210SA           | Average Weekly Wages for Employees in State Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC300240310             | Average Weekly Wages for Employees in Local Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC300240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC300240510             | Average Weekly Wages for Employees in Private Establishments in Lawton, OK (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC300240510SA           | Average Weekly Wages for Employees in Private Establishments in Lawton, OK (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD30020                 | Implicit Regional Price Deflator for Lawton, OK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LATPOP                    | Resident Population in Lawton, OK (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT403002000000003A     | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |

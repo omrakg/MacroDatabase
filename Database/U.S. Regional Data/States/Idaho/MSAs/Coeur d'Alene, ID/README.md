@@ -34,18 +34,18 @@
 | COEU616UR                 | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | COEU616URN                | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DESCMSA17660              | Market Hotness: Demand Score in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC176630010             | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC176630010SA           | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC176640010             | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC176640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC176640110             | Average Weekly Wages for Employees in Federal Government Establishments in Coeur d'Alene, ID (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC176640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Coeur d'Alene, ID (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC176640210             | Average Weekly Wages for Employees in State Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC176640210SA           | Average Weekly Wages for Employees in State Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC176640310             | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC176640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC176640510             | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC176640510SA           | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC176630010             | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC176630010SA           | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC176640010             | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC176640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC176640110             | Average Weekly Wages for Employees in Federal Government Establishments in Coeur d'Alene, ID (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC176640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Coeur d'Alene, ID (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC176640210             | Average Weekly Wages for Employees in State Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC176640210SA           | Average Weekly Wages for Employees in State Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC176640310             | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC176640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC176640510             | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC176640510SA           | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA17660              | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

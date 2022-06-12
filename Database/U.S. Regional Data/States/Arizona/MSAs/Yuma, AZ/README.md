@@ -8,18 +8,18 @@
 | AVELISPRIMM49740          | Housing Inventory: Average Listing Price Month-Over-Month in Yuma, AZ (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY49740          | Housing Inventory: Average Listing Price Year-Over-Year in Yuma, AZ (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA49740              | Market Hotness: Demand Score in Yuma, AZ (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC497430010             | Total Quarterly Wages in Yuma, AZ (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC497430010SA           | Total Quarterly Wages in Yuma, AZ (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC497440010             | Average Weekly Wages for Employees in Total Covered Establishments in Yuma, AZ (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC497440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yuma, AZ (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC497440110             | Average Weekly Wages for Employees in Federal Government Establishments in Yuma, AZ (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC497440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yuma, AZ (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC497440210             | Average Weekly Wages for Employees in State Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC497440210SA           | Average Weekly Wages for Employees in State Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC497440310             | Average Weekly Wages for Employees in Local Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC497440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC497440510             | Average Weekly Wages for Employees in Private Establishments in Yuma, AZ (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC497440510SA           | Average Weekly Wages for Employees in Private Establishments in Yuma, AZ (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC497430010             | Total Quarterly Wages in Yuma, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC497430010SA           | Total Quarterly Wages in Yuma, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC497440010             | Average Weekly Wages for Employees in Total Covered Establishments in Yuma, AZ (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC497440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yuma, AZ (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC497440110             | Average Weekly Wages for Employees in Federal Government Establishments in Yuma, AZ (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC497440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yuma, AZ (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC497440210             | Average Weekly Wages for Employees in State Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC497440210SA           | Average Weekly Wages for Employees in State Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC497440310             | Average Weekly Wages for Employees in Local Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC497440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC497440510             | Average Weekly Wages for Employees in Private Establishments in Yuma, AZ (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC497440510SA           | Average Weekly Wages for Employees in Private Establishments in Yuma, AZ (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA49740            | Market Hotness: Hotness Rank in Yuma, AZ (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA49740              | Market Hotness: Hotness Rank in Yuma, AZ (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA49740            | Market Hotness: Hotness Rank in Yuma, AZ (CBSA)                                             | 2018-08-01          | 2022-05-01        |

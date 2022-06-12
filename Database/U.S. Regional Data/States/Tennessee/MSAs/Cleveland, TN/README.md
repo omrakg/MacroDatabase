@@ -34,18 +34,18 @@
 | CLEV447UR                 | Unemployment Rate in Cleveland, TN (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | CLEV447URN                | Unemployment Rate in Cleveland, TN (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | CLVPOP                    | Resident Population in Cleveland, TN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC174230010             | Total Quarterly Wages in Cleveland, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC174230010SA           | Total Quarterly Wages in Cleveland, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC174240010             | Average Weekly Wages for Employees in Total Covered Establishments in Cleveland, TN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC174240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cleveland, TN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC174240110             | Average Weekly Wages for Employees in Federal Government Establishments in Cleveland, TN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC174240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cleveland, TN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC174240210             | Average Weekly Wages for Employees in State Government Establishments in Cleveland, TN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC174240210SA           | Average Weekly Wages for Employees in State Government Establishments in Cleveland, TN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC174240310             | Average Weekly Wages for Employees in Local Government Establishments in Cleveland, TN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC174240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cleveland, TN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC174240510             | Average Weekly Wages for Employees in Private Establishments in Cleveland, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC174240510SA           | Average Weekly Wages for Employees in Private Establishments in Cleveland, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC174230010             | Total Quarterly Wages in Cleveland, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC174230010SA           | Total Quarterly Wages in Cleveland, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC174240010             | Average Weekly Wages for Employees in Total Covered Establishments in Cleveland, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC174240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cleveland, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC174240110             | Average Weekly Wages for Employees in Federal Government Establishments in Cleveland, TN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC174240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cleveland, TN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC174240210             | Average Weekly Wages for Employees in State Government Establishments in Cleveland, TN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC174240210SA           | Average Weekly Wages for Employees in State Government Establishments in Cleveland, TN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC174240310             | Average Weekly Wages for Employees in Local Government Establishments in Cleveland, TN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC174240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cleveland, TN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC174240510             | Average Weekly Wages for Employees in Private Establishments in Cleveland, TN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC174240510SA           | Average Weekly Wages for Employees in Private Establishments in Cleveland, TN (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD17420                 | Implicit Regional Price Deflator for Cleveland, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT471742000000003A     | Unemployment Rate in Cleveland, TN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT471742000000004      | Unemployed Persons in Cleveland, TN (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

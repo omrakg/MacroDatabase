@@ -8,23 +8,23 @@
 | AVELISPRIMM44140          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, MA (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY44140          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, MA (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA44140              | Market Hotness: Demand Score in Springfield, MA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC441430010             | Total Quarterly Wages in Springfield, MA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC441430010SA           | Total Quarterly Wages in Springfield, MA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC441440010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC441440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC441440110             | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC441440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC441440210             | Average Weekly Wages for Employees in State Government Establishments in Springfield, MA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC441440210SA           | Average Weekly Wages for Employees in State Government Establishments in Springfield, MA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC441440310             | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC441440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC441440510             | Average Weekly Wages for Employees in Private Establishments in Springfield, MA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC441440510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, MA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC441430010             | Total Quarterly Wages in Springfield, MA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC441430010SA           | Total Quarterly Wages in Springfield, MA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC441440010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC441440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC441440110             | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC441440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC441440210             | Average Weekly Wages for Employees in State Government Establishments in Springfield, MA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC441440210SA           | Average Weekly Wages for Employees in State Government Establishments in Springfield, MA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC441440310             | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC441440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC441440510             | Average Weekly Wages for Employees in Private Establishments in Springfield, MA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC441440510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, MA (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA44140            | Market Hotness: Hotness Rank in Springfield, MA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA44140              | Market Hotness: Hotness Rank in Springfield, MA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA44140            | Market Hotness: Hotness Rank in Springfield, MA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HOSCMSA44140              | Market Hotness: Hotness Score in Springfield, MA (CBSA)                                            | 2017-08-01          | 2022-05-01        |
-| IHLCHG44140               | Job Postings on Indeed in Springfield, MA (MSA)                                                    | 2020-02-01          | 2022-05-27        |
+| IHLCHG44140               | Job Postings on Indeed in Springfield, MA (MSA)                                                    | 2020-02-01          | 2022-06-03        |
 | IRPD44140                 | Implicit Regional Price Deflator for Springfield, MA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA44140          | Market Hotness: Listing Views per Property in Springfield, MA (CBSA)                               | 2018-08-01          | 2022-05-01        |
 | LDPEPRVSUSMSA44140        | Market Hotness: Listing Views per Property Versus the United States in Springfield, MA (CBSA)      | 2017-08-01          | 2022-05-01        |

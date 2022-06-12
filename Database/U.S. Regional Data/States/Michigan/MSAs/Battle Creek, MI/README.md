@@ -34,18 +34,18 @@
 | BATT926URN                | Unemployment Rate in Battle Creek, MI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
 | BCEPOP                    | Resident Population in Battle Creek, MI (MSA)                                                                 | 2000-01-01          | 2021-01-01        |
 | DESCMSA12980              | Market Hotness: Demand Score in Battle Creek, MI (CBSA)                                                       | 2017-08-01          | 2022-05-01        |
-| ENUC129830010             | Total Quarterly Wages in Battle Creek, MI (MSA)                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC129830010SA           | Total Quarterly Wages in Battle Creek, MI (MSA)                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC129840010             | Average Weekly Wages for Employees in Total Covered Establishments in Battle Creek, MI (MSA)                  | 1990-01-01          | 2021-07-01        |
-| ENUC129840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Battle Creek, MI (MSA)                  | 1990-01-01          | 2021-07-01        |
-| ENUC129840110             | Average Weekly Wages for Employees in Federal Government Establishments in Battle Creek, MI (MSA)             | 1990-01-01          | 2021-07-01        |
-| ENUC129840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Battle Creek, MI (MSA)             | 1990-01-01          | 2021-07-01        |
-| ENUC129840210             | Average Weekly Wages for Employees in State Government Establishments in Battle Creek, MI (MSA)               | 2005-01-01          | 2021-07-01        |
-| ENUC129840210SA           | Average Weekly Wages for Employees in State Government Establishments in Battle Creek, MI (MSA)               | 2005-01-01          | 2021-07-01        |
-| ENUC129840310             | Average Weekly Wages for Employees in Local Government Establishments in Battle Creek, MI (MSA)               | 2005-01-01          | 2021-07-01        |
-| ENUC129840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Battle Creek, MI (MSA)               | 2005-01-01          | 2021-07-01        |
-| ENUC129840510             | Average Weekly Wages for Employees in Private Establishments in Battle Creek, MI (MSA)                        | 1990-01-01          | 2021-07-01        |
-| ENUC129840510SA           | Average Weekly Wages for Employees in Private Establishments in Battle Creek, MI (MSA)                        | 1990-01-01          | 2021-07-01        |
+| ENUC129830010             | Total Quarterly Wages in Battle Creek, MI (MSA)                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC129830010SA           | Total Quarterly Wages in Battle Creek, MI (MSA)                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC129840010             | Average Weekly Wages for Employees in Total Covered Establishments in Battle Creek, MI (MSA)                  | 1990-01-01          | 2021-10-01        |
+| ENUC129840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Battle Creek, MI (MSA)                  | 1990-01-01          | 2021-10-01        |
+| ENUC129840110             | Average Weekly Wages for Employees in Federal Government Establishments in Battle Creek, MI (MSA)             | 1990-01-01          | 2021-10-01        |
+| ENUC129840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Battle Creek, MI (MSA)             | 1990-01-01          | 2021-10-01        |
+| ENUC129840210             | Average Weekly Wages for Employees in State Government Establishments in Battle Creek, MI (MSA)               | 2005-01-01          | 2021-10-01        |
+| ENUC129840210SA           | Average Weekly Wages for Employees in State Government Establishments in Battle Creek, MI (MSA)               | 2005-01-01          | 2021-10-01        |
+| ENUC129840310             | Average Weekly Wages for Employees in Local Government Establishments in Battle Creek, MI (MSA)               | 2005-01-01          | 2021-10-01        |
+| ENUC129840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Battle Creek, MI (MSA)               | 2005-01-01          | 2021-10-01        |
+| ENUC129840510             | Average Weekly Wages for Employees in Private Establishments in Battle Creek, MI (MSA)                        | 1990-01-01          | 2021-10-01        |
+| ENUC129840510SA           | Average Weekly Wages for Employees in Private Establishments in Battle Creek, MI (MSA)                        | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA12980            | Market Hotness: Hotness Rank in Battle Creek, MI (CBSA)                                                       | 2018-08-01          | 2022-05-01        |
 | HORAMSA12980              | Market Hotness: Hotness Rank in Battle Creek, MI (CBSA)                                                       | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA12980            | Market Hotness: Hotness Rank in Battle Creek, MI (CBSA)                                                       | 2018-08-01          | 2022-05-01        |

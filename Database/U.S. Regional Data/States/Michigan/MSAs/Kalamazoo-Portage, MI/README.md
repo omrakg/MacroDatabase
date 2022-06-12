@@ -8,18 +8,18 @@
 | AVELISPRIMM28020          | Housing Inventory: Average Listing Price Month-Over-Month in Kalamazoo-Portage, MI (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY28020          | Housing Inventory: Average Listing Price Year-Over-Year in Kalamazoo-Portage, MI (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA28020              | Market Hotness: Demand Score in Kalamazoo-Portage, MI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC280230010             | Total Quarterly Wages in Kalamazoo-Portage, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC280230010SA           | Total Quarterly Wages in Kalamazoo-Portage, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC280240010             | Average Weekly Wages for Employees in Total Covered Establishments in Kalamazoo-Portage, MI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC280240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kalamazoo-Portage, MI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC280240110             | Average Weekly Wages for Employees in Federal Government Establishments in Kalamazoo-Portage, MI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC280240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kalamazoo-Portage, MI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC280240210             | Average Weekly Wages for Employees in State Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-07-01        |
-| ENUC280240210SA           | Average Weekly Wages for Employees in State Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-07-01        |
-| ENUC280240310             | Average Weekly Wages for Employees in Local Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-07-01        |
-| ENUC280240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-07-01        |
-| ENUC280240510             | Average Weekly Wages for Employees in Private Establishments in Kalamazoo-Portage, MI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC280240510SA           | Average Weekly Wages for Employees in Private Establishments in Kalamazoo-Portage, MI (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC280230010             | Total Quarterly Wages in Kalamazoo-Portage, MI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC280230010SA           | Total Quarterly Wages in Kalamazoo-Portage, MI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC280240010             | Average Weekly Wages for Employees in Total Covered Establishments in Kalamazoo-Portage, MI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC280240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kalamazoo-Portage, MI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC280240110             | Average Weekly Wages for Employees in Federal Government Establishments in Kalamazoo-Portage, MI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC280240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kalamazoo-Portage, MI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC280240210             | Average Weekly Wages for Employees in State Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-10-01        |
+| ENUC280240210SA           | Average Weekly Wages for Employees in State Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-10-01        |
+| ENUC280240310             | Average Weekly Wages for Employees in Local Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-10-01        |
+| ENUC280240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kalamazoo-Portage, MI (MSA)                   | 2005-01-01          | 2021-10-01        |
+| ENUC280240510             | Average Weekly Wages for Employees in Private Establishments in Kalamazoo-Portage, MI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC280240510SA           | Average Weekly Wages for Employees in Private Establishments in Kalamazoo-Portage, MI (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA28020            | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA28020              | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA28020            | Market Hotness: Hotness Rank in Kalamazoo-Portage, MI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

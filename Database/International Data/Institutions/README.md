@@ -7,7 +7,7 @@
 | Euro Area                                                          |               659 |
 | Bureau of Labor Statistics Latin America                           |                17 |
 | Bureau of Labor Statistics Asian Newly Industrialized Countries    |                10 |
-| Advanced Economies                                                 |                 0 |
+| Advanced Economies                                                 |                 6 |
 | Advance Technology Products                                        |                 4 |
 | OECD Non-member Economies                                          |                 0 |
 | International Monetary Fund                                        |                 8 |

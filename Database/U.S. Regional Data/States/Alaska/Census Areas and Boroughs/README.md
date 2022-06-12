@@ -22,7 +22,7 @@
 | Kenai Peninsula Borough, AK                     |                88 |
 | Southeast Fairbanks Census Area, AK             |                86 |
 | Dillingham Census Area, AK                      |                87 |
-| Yakutat City and Borough                        |                 0 |
+| Yakutat City and Borough                        |                82 |
 | Petersburg Census Area, AK                      |                83 |
 | Ketchikan Gateway Borough, AK                   |                88 |
 | Skagway Municipality, AK                        |                83 |

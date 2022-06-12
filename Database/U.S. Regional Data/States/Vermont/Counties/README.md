@@ -4,7 +4,7 @@
 | Washington County, VT |               146 |
 | Essex County, VT      |                89 |
 | Windsor County, VT    |               146 |
-| Lamoille County, VT   |                 0 |
+| Lamoille County, VT   |                90 |
 | Chittenden County, VT |               147 |
 | Franklin County, VT   |               146 |
 | Rutland County, VT    |               146 |

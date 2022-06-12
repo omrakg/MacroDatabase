@@ -8,18 +8,18 @@
 | AVELISPRIMM36220          | Housing Inventory: Average Listing Price Month-Over-Month in Odessa, TX (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY36220          | Housing Inventory: Average Listing Price Year-Over-Year in Odessa, TX (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA36220              | Market Hotness: Demand Score in Odessa, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC362230010             | Total Quarterly Wages in Odessa, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC362230010SA           | Total Quarterly Wages in Odessa, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC362240010             | Average Weekly Wages for Employees in Total Covered Establishments in Odessa, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC362240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Odessa, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC362240110             | Average Weekly Wages for Employees in Federal Government Establishments in Odessa, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC362240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Odessa, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC362240210             | Average Weekly Wages for Employees in State Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC362240210SA           | Average Weekly Wages for Employees in State Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC362240310             | Average Weekly Wages for Employees in Local Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC362240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC362240510             | Average Weekly Wages for Employees in Private Establishments in Odessa, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC362240510SA           | Average Weekly Wages for Employees in Private Establishments in Odessa, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC362230010             | Total Quarterly Wages in Odessa, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC362230010SA           | Total Quarterly Wages in Odessa, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC362240010             | Average Weekly Wages for Employees in Total Covered Establishments in Odessa, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC362240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Odessa, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC362240110             | Average Weekly Wages for Employees in Federal Government Establishments in Odessa, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC362240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Odessa, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC362240210             | Average Weekly Wages for Employees in State Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC362240210SA           | Average Weekly Wages for Employees in State Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC362240310             | Average Weekly Wages for Employees in Local Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC362240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC362240510             | Average Weekly Wages for Employees in Private Establishments in Odessa, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC362240510SA           | Average Weekly Wages for Employees in Private Establishments in Odessa, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA36220            | Market Hotness: Hotness Rank in Odessa, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA36220              | Market Hotness: Hotness Rank in Odessa, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA36220            | Market Hotness: Hotness Rank in Odessa, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM46540          | Housing Inventory: Average Listing Price Month-Over-Month in Utica-Rome, NY (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY46540          | Housing Inventory: Average Listing Price Year-Over-Year in Utica-Rome, NY (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA46540              | Market Hotness: Demand Score in Utica-Rome, NY (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC465430010             | Total Quarterly Wages in Utica-Rome, NY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC465430010SA           | Total Quarterly Wages in Utica-Rome, NY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC465440010             | Average Weekly Wages for Employees in Total Covered Establishments in Utica-Rome, NY (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC465440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Utica-Rome, NY (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC465440110             | Average Weekly Wages for Employees in Federal Government Establishments in Utica-Rome, NY (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC465440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Utica-Rome, NY (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC465440210             | Average Weekly Wages for Employees in State Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC465440210SA           | Average Weekly Wages for Employees in State Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC465440310             | Average Weekly Wages for Employees in Local Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC465440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC465440510             | Average Weekly Wages for Employees in Private Establishments in Utica-Rome, NY (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC465440510SA           | Average Weekly Wages for Employees in Private Establishments in Utica-Rome, NY (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC465430010             | Total Quarterly Wages in Utica-Rome, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC465430010SA           | Total Quarterly Wages in Utica-Rome, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC465440010             | Average Weekly Wages for Employees in Total Covered Establishments in Utica-Rome, NY (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC465440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Utica-Rome, NY (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC465440110             | Average Weekly Wages for Employees in Federal Government Establishments in Utica-Rome, NY (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC465440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Utica-Rome, NY (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC465440210             | Average Weekly Wages for Employees in State Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC465440210SA           | Average Weekly Wages for Employees in State Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC465440310             | Average Weekly Wages for Employees in Local Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC465440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC465440510             | Average Weekly Wages for Employees in Private Establishments in Utica-Rome, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC465440510SA           | Average Weekly Wages for Employees in Private Establishments in Utica-Rome, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA46540            | Market Hotness: Hotness Rank in Utica-Rome, NY (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA46540              | Market Hotness: Hotness Rank in Utica-Rome, NY (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA46540            | Market Hotness: Hotness Rank in Utica-Rome, NY (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

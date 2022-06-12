@@ -24,18 +24,18 @@
 | CHAR851URN                | Unemployment Rate in Charlottesville, VA (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | CHLPOP                    | Resident Population in Charlottesville, VA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16820              | Market Hotness: Demand Score in Charlottesville, VA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC168230010             | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC168230010SA           | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC168240010             | Average Weekly Wages for Employees in Total Covered Establishments in Charlottesville, VA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC168240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Charlottesville, VA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC168240110             | Average Weekly Wages for Employees in Federal Government Establishments in Charlottesville, VA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC168240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Charlottesville, VA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC168240210             | Average Weekly Wages for Employees in State Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC168240210SA           | Average Weekly Wages for Employees in State Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC168240310             | Average Weekly Wages for Employees in Local Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC168240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC168240510             | Average Weekly Wages for Employees in Private Establishments in Charlottesville, VA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC168240510SA           | Average Weekly Wages for Employees in Private Establishments in Charlottesville, VA (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC168230010             | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC168230010SA           | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC168240010             | Average Weekly Wages for Employees in Total Covered Establishments in Charlottesville, VA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC168240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Charlottesville, VA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC168240110             | Average Weekly Wages for Employees in Federal Government Establishments in Charlottesville, VA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC168240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Charlottesville, VA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC168240210             | Average Weekly Wages for Employees in State Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC168240210SA           | Average Weekly Wages for Employees in State Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC168240310             | Average Weekly Wages for Employees in Local Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC168240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC168240510             | Average Weekly Wages for Employees in Private Establishments in Charlottesville, VA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC168240510SA           | Average Weekly Wages for Employees in Private Establishments in Charlottesville, VA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA16820            | Market Hotness: Hotness Rank in Charlottesville, VA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA16820              | Market Hotness: Hotness Rank in Charlottesville, VA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA16820            | Market Hotness: Hotness Rank in Charlottesville, VA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

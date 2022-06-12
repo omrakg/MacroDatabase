@@ -10,7 +10,7 @@
 | COMYTA475SCEN | Number of Identified Exporters to Mayotte from Colorado       | 2010-01-01          | 2016-01-01        |
 | CTMYTA052SCEN | Value of Exports to Mayotte from Connecticut                  | 2010-01-01          | 2010-01-01        |
 | CTMYTA475SCEN | Number of Identified Exporters to Mayotte from Connecticut    | 2009-01-01          | 2014-01-01        |
-| EXP7881       | U.S. Exports of Goods by F.A.S. Basis to Mayotte              | 2001-01-01          | 2022-03-01        |
+| EXP7881       | U.S. Exports of Goods by F.A.S. Basis to Mayotte              | 2001-01-01          | 2022-04-01        |
 | FLMYTA052SCEN | Value of Exports to Mayotte from Florida                      | 2011-01-01          | 2017-01-01        |
 | FLMYTA475SCEN | Number of Identified Exporters to Mayotte from Florida        | 2011-01-01          | 2017-01-01        |
 | GAMYTA052SCEN | Value of Exports to Mayotte from Georgia                      | 2014-01-01          | 2015-01-01        |
@@ -20,7 +20,7 @@
 | IDMYTA475SCEN | Number of Identified Exporters to Mayotte from Idaho          | 2011-01-01          | 2011-01-01        |
 | ILMYTA052SCEN | Value of Exports to Mayotte from Illinois                     | 2010-01-01          | 2015-01-01        |
 | ILMYTA475SCEN | Number of Identified Exporters to Mayotte from Illinois       | 2004-01-01          | 2015-01-01        |
-| IMP7881       | U.S. Imports of Goods by Customs Basis from Mayotte           | 2001-01-01          | 2022-03-01        |
+| IMP7881       | U.S. Imports of Goods by Customs Basis from Mayotte           | 2001-01-01          | 2022-04-01        |
 | INMYTA052SCEN | Value of Exports to Mayotte from Indiana                      | 2013-01-01          | 2013-01-01        |
 | INMYTA475SCEN | Number of Identified Exporters to Mayotte from Indiana        | 2010-01-01          | 2016-01-01        |
 | KSMYTA052SCEN | Value of Exports to Mayotte from Kansas                       | 2013-01-01          | 2013-01-01        |

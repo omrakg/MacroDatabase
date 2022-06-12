@@ -59,7 +59,7 @@
 | Johnson County, KS      |               147 |
 | Riley County, KS        |               147 |
 | Chase County, KS        |                89 |
-| Wichita County, KS      |                 0 |
+| Wichita County, KS      |                88 |
 | Gray County, KS         |                89 |
 | Neosho County, KS       |                90 |
 | Jackson County, KS      |                90 |
@@ -88,7 +88,7 @@
 | Marshall County, KS     |                89 |
 | Finney County, KS       |                90 |
 | Pawnee County, KS       |                89 |
-| Rice County, KS         |                89 |
+| Rice County, KS         |                 0 |
 | Lincoln County, KS      |                88 |
 | Coffey County, KS       |                90 |
 | Shawnee County, KS      |               147 |

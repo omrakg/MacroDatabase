@@ -8,18 +8,18 @@
 | AVELISPRIMM31340          | Housing Inventory: Average Listing Price Month-Over-Month in Lynchburg, VA (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY31340          | Housing Inventory: Average Listing Price Year-Over-Year in Lynchburg, VA (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA31340              | Market Hotness: Demand Score in Lynchburg, VA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC313430010             | Total Quarterly Wages in Lynchburg, VA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC313430010SA           | Total Quarterly Wages in Lynchburg, VA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC313440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lynchburg, VA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC313440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lynchburg, VA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC313440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lynchburg, VA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC313440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lynchburg, VA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC313440210             | Average Weekly Wages for Employees in State Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2021-07-01        |
-| ENUC313440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2021-07-01        |
-| ENUC313440310             | Average Weekly Wages for Employees in Local Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2021-07-01        |
-| ENUC313440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2021-07-01        |
-| ENUC313440510             | Average Weekly Wages for Employees in Private Establishments in Lynchburg, VA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC313440510SA           | Average Weekly Wages for Employees in Private Establishments in Lynchburg, VA (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC313430010             | Total Quarterly Wages in Lynchburg, VA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC313430010SA           | Total Quarterly Wages in Lynchburg, VA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC313440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lynchburg, VA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC313440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lynchburg, VA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC313440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lynchburg, VA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC313440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lynchburg, VA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC313440210             | Average Weekly Wages for Employees in State Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2021-10-01        |
+| ENUC313440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2021-10-01        |
+| ENUC313440310             | Average Weekly Wages for Employees in Local Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2021-10-01        |
+| ENUC313440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2021-10-01        |
+| ENUC313440510             | Average Weekly Wages for Employees in Private Establishments in Lynchburg, VA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC313440510SA           | Average Weekly Wages for Employees in Private Establishments in Lynchburg, VA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA31340            | Market Hotness: Hotness Rank in Lynchburg, VA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA31340              | Market Hotness: Hotness Rank in Lynchburg, VA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA31340            | Market Hotness: Hotness Rank in Lynchburg, VA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

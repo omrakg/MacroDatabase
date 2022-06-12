@@ -3,23 +3,22 @@
 | ACTLISCOU16020            | Housing Inventory: Active Listing Count in Cape Girardeau, MO-IL (CBSA)                                        | 2016-07-01          | 2022-05-01        |
 | ACTLISCOUMM16020          | Housing Inventory: Active Listing Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                       | 2017-07-01          | 2022-05-01        |
 | ACTLISCOUYY16020          | Housing Inventory: Active Listing Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                         | 2017-07-01          | 2022-05-01        |
-| ATNHPIUS16020Q            | All-Transactions House Price Index for Cape Girardeau, MO-IL (MSA)                                             | 1987-04-01          | 2022-01-01        |
 | AVELISPRI16020            | Housing Inventory: Average Listing Price in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM16020          | Housing Inventory: Average Listing Price Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY16020          | Housing Inventory: Average Listing Price Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-05-01        |
 | CGJPOP                    | Resident Population in Cape Girardeau, MO-IL (MSA)                                                             | 2000-01-01          | 2021-01-01        |
-| ENUC160230010             | Total Quarterly Wages in Cape Girardeau, MO-IL (MSA)                                                           | 2013-01-01          | 2021-07-01        |
-| ENUC160230010SA           | Total Quarterly Wages in Cape Girardeau, MO-IL (MSA)                                                           | 2013-01-01          | 2021-07-01        |
-| ENUC160240010             | Average Weekly Wages for Employees in Total Covered Establishments in Cape Girardeau-Jackson, MO-IL (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC160240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cape Girardeau-Jackson, MO-IL (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC160240110             | Average Weekly Wages for Employees in Federal Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC160240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC160240210             | Average Weekly Wages for Employees in State Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC160240210SA           | Average Weekly Wages for Employees in State Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC160240310             | Average Weekly Wages for Employees in Local Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC160240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC160240510             | Average Weekly Wages for Employees in Private Establishments in Cape Girardeau-Jackson, MO-IL (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC160240510SA           | Average Weekly Wages for Employees in Private Establishments in Cape Girardeau-Jackson, MO-IL (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC160230010             | Total Quarterly Wages in Cape Girardeau, MO-IL (MSA)                                                           | 2013-01-01          | 2021-10-01        |
+| ENUC160230010SA           | Total Quarterly Wages in Cape Girardeau, MO-IL (MSA)                                                           | 2013-01-01          | 2021-10-01        |
+| ENUC160240010             | Average Weekly Wages for Employees in Total Covered Establishments in Cape Girardeau-Jackson, MO-IL (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC160240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cape Girardeau-Jackson, MO-IL (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC160240110             | Average Weekly Wages for Employees in Federal Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC160240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC160240210             | Average Weekly Wages for Employees in State Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC160240210SA           | Average Weekly Wages for Employees in State Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC160240310             | Average Weekly Wages for Employees in Local Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC160240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cape Girardeau-Jackson, MO-IL (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC160240510             | Average Weekly Wages for Employees in Private Establishments in Cape Girardeau-Jackson, MO-IL (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC160240510SA           | Average Weekly Wages for Employees in Private Establishments in Cape Girardeau-Jackson, MO-IL (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD16020                 | Implicit Regional Price Deflator for Cape Girardeau, MO-IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | LAUMT291602000000003      | Unemployment Rate in Cape Girardeau, MO-IL (MSA)                                                               | 1990-01-01          | 2022-04-01        |
 | LAUMT291602000000003A     | Unemployment Rate in Cape Girardeau, MO-IL (MSA)                                                               | 1990-01-01          | 2021-01-01        |

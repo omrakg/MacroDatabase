@@ -2,7 +2,7 @@
 |--------------------------------------------------------------------|-------------------|
 | Intermediate Demand By Production Flow                             |               306 |
 | Entertainment Services                                             |                27 |
-| Real Estate Services                                               |                 0 |
+| Real Estate Services                                               |                37 |
 | Industrial Commodities                                             |                 0 |
 | Telecommunication, Cable, and Internet User Services               |                47 |
 | Publishing Sales, Excluding Software                               |                38 |
@@ -36,7 +36,7 @@
 | Farm Products                                                      |               191 |
 | Pulp, Paper, and Allied Products                                   |               176 |
 | Hides, Skins, Leather, and Related Products                        |                45 |
-| Selected Security Services                                         |                 7 |
+| Selected Security Services                                         |                 0 |
 | Travel Arrangement Services                                        |                25 |
 | Furniture and Household Durables                                   |               151 |
 | Metals and Metal Products                                          |               374 |

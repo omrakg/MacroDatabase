@@ -8,18 +8,18 @@
 | AVELISPRIMM22500          | Housing Inventory: Average Listing Price Month-Over-Month in Florence, SC (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY22500          | Housing Inventory: Average Listing Price Year-Over-Year in Florence, SC (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA22500              | Market Hotness: Demand Score in Florence, SC (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC225030010             | Total Quarterly Wages in Florence, SC (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC225030010SA           | Total Quarterly Wages in Florence, SC (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC225040010             | Average Weekly Wages for Employees in Total Covered Establishments in Florence, SC (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC225040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Florence, SC (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC225040110             | Average Weekly Wages for Employees in Federal Government Establishments in Florence, SC (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC225040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Florence, SC (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC225040210             | Average Weekly Wages for Employees in State Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC225040210SA           | Average Weekly Wages for Employees in State Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC225040310             | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC225040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC225040510             | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC225040510SA           | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC225030010             | Total Quarterly Wages in Florence, SC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC225030010SA           | Total Quarterly Wages in Florence, SC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC225040010             | Average Weekly Wages for Employees in Total Covered Establishments in Florence, SC (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC225040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Florence, SC (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC225040110             | Average Weekly Wages for Employees in Federal Government Establishments in Florence, SC (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC225040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Florence, SC (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC225040210             | Average Weekly Wages for Employees in State Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC225040210SA           | Average Weekly Wages for Employees in State Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC225040310             | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC225040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC225040510             | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC225040510SA           | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2021-10-01        |
 | FLOR545GOVT               | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | FLOR545GOVTN              | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | FLOR545LF                 | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2022-04-01        |

@@ -11,7 +11,7 @@
 | Milwaukee-Waukesha, WI                  |               252 |
 | Wausau-Weston, WI                       |               158 |
 | Madison, WI                             |               182 |
-| Janesville-Beloit, WI                   |                 0 |
+| Janesville-Beloit, WI                   |               164 |
 | Sheboygan, WI                           |               150 |
 | Eau Claire, WI                          |               158 |
 | Racine, WI                              |               161 |

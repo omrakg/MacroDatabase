@@ -8,18 +8,18 @@
 | AVELISPRIMM24780          | Housing Inventory: Average Listing Price Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY24780          | Housing Inventory: Average Listing Price Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA24780              | Market Hotness: Demand Score in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC247830010             | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC247830010SA           | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC247840010             | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC247840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC247840110             | Average Weekly Wages for Employees in Federal Government Establishments in Greenville, NC (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC247840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Greenville, NC (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC247840210             | Average Weekly Wages for Employees in State Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC247840210SA           | Average Weekly Wages for Employees in State Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC247840310             | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC247840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC247840510             | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC247840510SA           | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC247830010             | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC247830010SA           | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC247840010             | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC247840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC247840110             | Average Weekly Wages for Employees in Federal Government Establishments in Greenville, NC (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC247840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Greenville, NC (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC247840210             | Average Weekly Wages for Employees in State Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC247840210SA           | Average Weekly Wages for Employees in State Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC247840310             | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC247840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC247840510             | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC247840510SA           | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2021-10-01        |
 | GREE737EDUH               | All Employees: Education and Health Services in Greenville, NC (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | GREE737EDUHN              | All Employees: Education and Health Services in Greenville, NC (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | GREE737FIRE               | All Employees: Financial Activities in Greenville, NC (MSA)                                                     | 1990-01-01          | 2022-04-01        |

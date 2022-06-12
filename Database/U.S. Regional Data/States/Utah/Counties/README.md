@@ -11,7 +11,7 @@
 | Wasatch County, UT    |                90 |
 | Uintah County, UT     |                90 |
 | Box Elder County, UT  |                90 |
-| Sanpete County, UT    |                 0 |
+| Sanpete County, UT    |                89 |
 | Grand County, UT      |                90 |
 | Millard County, UT    |                89 |
 | Daggett County, UT    |                86 |

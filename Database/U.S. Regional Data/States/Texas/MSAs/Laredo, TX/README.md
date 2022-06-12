@@ -8,18 +8,18 @@
 | AVELISPRIMM29700          | Housing Inventory: Average Listing Price Month-Over-Month in Laredo, TX (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY29700          | Housing Inventory: Average Listing Price Year-Over-Year in Laredo, TX (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA29700              | Market Hotness: Demand Score in Laredo, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC297030010             | Total Quarterly Wages in Laredo, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC297030010SA           | Total Quarterly Wages in Laredo, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC297040010             | Average Weekly Wages for Employees in Total Covered Establishments in Laredo, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC297040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Laredo, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC297040110             | Average Weekly Wages for Employees in Federal Government Establishments in Laredo, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC297040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Laredo, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC297040210             | Average Weekly Wages for Employees in State Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC297040210SA           | Average Weekly Wages for Employees in State Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC297040310             | Average Weekly Wages for Employees in Local Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC297040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC297040510             | Average Weekly Wages for Employees in Private Establishments in Laredo, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC297040510SA           | Average Weekly Wages for Employees in Private Establishments in Laredo, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC297030010             | Total Quarterly Wages in Laredo, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC297030010SA           | Total Quarterly Wages in Laredo, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC297040010             | Average Weekly Wages for Employees in Total Covered Establishments in Laredo, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC297040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Laredo, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC297040110             | Average Weekly Wages for Employees in Federal Government Establishments in Laredo, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC297040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Laredo, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC297040210             | Average Weekly Wages for Employees in State Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC297040210SA           | Average Weekly Wages for Employees in State Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC297040310             | Average Weekly Wages for Employees in Local Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC297040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC297040510             | Average Weekly Wages for Employees in Private Establishments in Laredo, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC297040510SA           | Average Weekly Wages for Employees in Private Establishments in Laredo, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA29700            | Market Hotness: Hotness Rank in Laredo, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA29700              | Market Hotness: Hotness Rank in Laredo, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA29700            | Market Hotness: Hotness Rank in Laredo, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

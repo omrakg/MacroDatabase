@@ -11,12 +11,12 @@
 | CTVATA475SCEN | Number of Identified Exporters to Vatican City State from Connecticut          | 2004-01-01          | 2016-01-01        |
 | DCVATA475SCEN | Number of Identified Exporters to Vatican City State from District of Columbia | 2006-01-01          | 2014-01-01        |
 | DEVATA475SCEN | Number of Identified Exporters to Vatican City State from Delaware             | 2005-01-01          | 2013-01-01        |
-| EXP4752       | U.S. Exports of Goods by F.A.S. Basis to Vatican City                          | 1992-01-01          | 2022-03-01        |
+| EXP4752       | U.S. Exports of Goods by F.A.S. Basis to Vatican City                          | 1992-01-01          | 2022-04-01        |
 | FLVATA052SCEN | Value of Exports to Vatican City State from Florida                            | 2002-01-01          | 2016-01-01        |
 | FLVATA475SCEN | Number of Identified Exporters to Vatican City State from Florida              | 1997-01-01          | 2016-01-01        |
 | GAVATA475SCEN | Number of Identified Exporters to Vatican City State from Georgia              | 2002-01-01          | 2011-01-01        |
 | ILVATA475SCEN | Number of Identified Exporters to Vatican City State from Illinois             | 2002-01-01          | 2016-01-01        |
-| IMP4752       | U.S. Imports of Goods by Customs Basis from Vatican City                       | 1992-01-01          | 2022-03-01        |
+| IMP4752       | U.S. Imports of Goods by Customs Basis from Vatican City                       | 1992-01-01          | 2022-04-01        |
 | INVATA052SCEN | Value of Exports to Vatican City State from Indiana                            | 2012-01-01          | 2012-01-01        |
 | INVATA475SCEN | Number of Identified Exporters to Vatican City State from Indiana              | 2002-01-01          | 2012-01-01        |
 | KSVATA475SCEN | Number of Identified Exporters to Vatican City State from Kansas               | 2004-01-01          | 2016-01-01        |

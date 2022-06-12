@@ -9,18 +9,18 @@
 | AVELISPRIYY12620          | Housing Inventory: Average Listing Price Year-Over-Year in Bangor, ME (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | BANPOP                    | Resident Population in Bangor, ME (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA12620              | Market Hotness: Demand Score in Bangor, ME (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC126230010             | Total Quarterly Wages in Bangor, ME (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC126230010SA           | Total Quarterly Wages in Bangor, ME (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC126240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bangor, ME (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC126240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bangor, ME (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC126240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bangor, ME (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC126240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bangor, ME (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC126240210             | Average Weekly Wages for Employees in State Government Establishments in Bangor, ME (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC126240210SA           | Average Weekly Wages for Employees in State Government Establishments in Bangor, ME (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC126240310             | Average Weekly Wages for Employees in Local Government Establishments in Bangor, ME (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC126240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bangor, ME (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC126240510             | Average Weekly Wages for Employees in Private Establishments in Bangor, ME (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC126240510SA           | Average Weekly Wages for Employees in Private Establishments in Bangor, ME (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC126230010             | Total Quarterly Wages in Bangor, ME (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC126230010SA           | Total Quarterly Wages in Bangor, ME (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC126240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bangor, ME (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC126240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bangor, ME (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC126240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bangor, ME (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC126240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bangor, ME (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC126240210             | Average Weekly Wages for Employees in State Government Establishments in Bangor, ME (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC126240210SA           | Average Weekly Wages for Employees in State Government Establishments in Bangor, ME (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC126240310             | Average Weekly Wages for Employees in Local Government Establishments in Bangor, ME (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC126240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bangor, ME (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC126240510             | Average Weekly Wages for Employees in Private Establishments in Bangor, ME (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC126240510SA           | Average Weekly Wages for Employees in Private Establishments in Bangor, ME (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA12620            | Market Hotness: Hotness Rank in Bangor, ME (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA12620              | Market Hotness: Hotness Rank in Bangor, ME (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA12620            | Market Hotness: Hotness Rank in Bangor, ME (CBSA)                                             | 2018-08-01          | 2022-05-01        |

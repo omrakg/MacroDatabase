@@ -8,7 +8,7 @@
 | Clarendon County, SC    |                90 |
 | Bamberg County, SC      |                89 |
 | Dillon County, SC       |                89 |
-| Lee County, SC          |                90 |
+| Lee County, SC          |                 0 |
 | Calhoun County, SC      |                89 |
 | Pickens County, SC      |               142 |
 | Abbeville County, SC    |                90 |

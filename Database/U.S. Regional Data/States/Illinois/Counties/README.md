@@ -45,7 +45,7 @@
 | Clay County, IL        |                88 |
 | Morgan County, IL      |                90 |
 | Edwards County, IL     |                88 |
-| Grundy County, IL      |                 0 |
+| Grundy County, IL      |               146 |
 | Livingston County, IL  |                90 |
 | De Kalb County, IL     |               147 |
 | Pike County, IL        |                89 |
@@ -54,7 +54,7 @@
 | Pope County, IL        |                88 |
 | Bureau County, IL      |                90 |
 | Lawrence County, IL    |                89 |
-| Calhoun County, IL     |                88 |
+| Calhoun County, IL     |                 0 |
 | Richland County, IL    |                89 |
 | Kankakee County, IL    |               147 |
 | Mason County, IL       |                90 |

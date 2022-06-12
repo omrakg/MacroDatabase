@@ -8,18 +8,18 @@
 | AVELISPRIMM39820          | Housing Inventory: Average Listing Price Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY39820          | Housing Inventory: Average Listing Price Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA39820              | Market Hotness: Demand Score in Redding, CA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC398230010             | Total Quarterly Wages in Redding, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC398230010SA           | Total Quarterly Wages in Redding, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC398240010             | Average Weekly Wages for Employees in Total Covered Establishments in Redding, CA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC398240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Redding, CA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC398240110             | Average Weekly Wages for Employees in Federal Government Establishments in Redding, CA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC398240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Redding, CA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC398240210             | Average Weekly Wages for Employees in State Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC398240210SA           | Average Weekly Wages for Employees in State Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC398240310             | Average Weekly Wages for Employees in Local Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC398240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC398240510             | Average Weekly Wages for Employees in Private Establishments in Redding, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC398240510SA           | Average Weekly Wages for Employees in Private Establishments in Redding, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC398230010             | Total Quarterly Wages in Redding, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC398230010SA           | Total Quarterly Wages in Redding, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC398240010             | Average Weekly Wages for Employees in Total Covered Establishments in Redding, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC398240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Redding, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC398240110             | Average Weekly Wages for Employees in Federal Government Establishments in Redding, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC398240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Redding, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC398240210             | Average Weekly Wages for Employees in State Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC398240210SA           | Average Weekly Wages for Employees in State Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC398240310             | Average Weekly Wages for Employees in Local Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC398240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC398240510             | Average Weekly Wages for Employees in Private Establishments in Redding, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC398240510SA           | Average Weekly Wages for Employees in Private Establishments in Redding, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA39820            | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA39820              | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA39820            | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

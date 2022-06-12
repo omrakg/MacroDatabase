@@ -1,17 +1,17 @@
 | id       | title                                      | observation_start   | observation_end   |
 |----------|--------------------------------------------|---------------------|-------------------|
-| EVZCLS   | CBOE EuroCurrency ETF Volatility Index     | 2007-11-01          | 2022-06-02        |
-| GVZCLS   | CBOE Gold ETF Volatility Index             | 2008-06-03          | 2022-06-02        |
-| OVXCLS   | CBOE Crude Oil ETF Volatility Index        | 2007-05-10          | 2022-06-02        |
-| RVXCLS   | CBOE Russell 2000 Volatility Index         | 2004-01-02          | 2022-06-02        |
-| VIXCLS   | CBOE Volatility Index: VIX                 | 1990-01-02          | 2022-06-02        |
-| VXAPLCLS | CBOE Equity VIX on Apple                   | 2010-06-01          | 2022-06-02        |
-| VXAZNCLS | CBOE Equity VIX on Amazon                  | 2010-06-01          | 2022-06-02        |
-| VXDCLS   | CBOE DJIA Volatility Index                 | 1997-10-07          | 2022-06-02        |
-| VXEEMCLS | CBOE Emerging Markets ETF Volatility Index | 2011-03-16          | 2022-06-02        |
-| VXEWZCLS | CBOE Brazil ETF Volatility Index           | 2011-03-16          | 2022-06-02        |
-| VXGOGCLS | CBOE Equity VIX on Google                  | 2010-06-01          | 2022-06-02        |
-| VXGSCLS  | CBOE Equity VIX on Goldman Sachs           | 2010-06-01          | 2022-06-02        |
-| VXIBMCLS | CBOE Equity VIX on IBM                     | 2010-06-01          | 2022-06-02        |
-| VXNCLS   | CBOE NASDAQ 100 Volatility Index           | 2001-02-02          | 2022-06-02        |
-| VXVCLS   | CBOE S&P 500 3-Month Volatility Index      | 2007-12-04          | 2022-06-02        |
+| EVZCLS   | CBOE EuroCurrency ETF Volatility Index     | 2007-11-01          | 2022-06-09        |
+| GVZCLS   | CBOE Gold ETF Volatility Index             | 2008-06-03          | 2022-06-09        |
+| OVXCLS   | CBOE Crude Oil ETF Volatility Index        | 2007-05-10          | 2022-06-09        |
+| RVXCLS   | CBOE Russell 2000 Volatility Index         | 2004-01-02          | 2022-06-09        |
+| VIXCLS   | CBOE Volatility Index: VIX                 | 1990-01-02          | 2022-06-09        |
+| VXAPLCLS | CBOE Equity VIX on Apple                   | 2010-06-01          | 2022-06-09        |
+| VXAZNCLS | CBOE Equity VIX on Amazon                  | 2010-06-01          | 2022-06-09        |
+| VXDCLS   | CBOE DJIA Volatility Index                 | 1997-10-07          | 2022-06-09        |
+| VXEEMCLS | CBOE Emerging Markets ETF Volatility Index | 2011-03-16          | 2022-06-09        |
+| VXEWZCLS | CBOE Brazil ETF Volatility Index           | 2011-03-16          | 2022-06-09        |
+| VXGOGCLS | CBOE Equity VIX on Google                  | 2010-06-01          | 2022-06-09        |
+| VXGSCLS  | CBOE Equity VIX on Goldman Sachs           | 2010-06-01          | 2022-06-09        |
+| VXIBMCLS | CBOE Equity VIX on IBM                     | 2010-06-01          | 2022-06-09        |
+| VXNCLS   | CBOE NASDAQ 100 Volatility Index           | 2001-02-02          | 2022-06-09        |
+| VXVCLS   | CBOE S&P 500 3-Month Volatility Index      | 2007-12-04          | 2022-06-09        |

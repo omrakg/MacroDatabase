@@ -1,6 +1,6 @@
 | Folder                   |   Files / Folders |
 |--------------------------|-------------------|
-| Tift County, GA          |                 0 |
+| Tift County, GA          |                90 |
 | Cobb County, GA          |               147 |
 | Montgomery County, GA    |                87 |
 | Calhoun County, GA       |                88 |
@@ -10,7 +10,7 @@
 | Worth County, GA         |                90 |
 | Terrell County, GA       |                88 |
 | Haralson County, GA      |                90 |
-| Webster County, GA       |                88 |
+| Webster County, GA       |                 0 |
 | Charlton County, GA      |                87 |
 | Lumpkin County, GA       |                90 |
 | Putnam County, GA        |                90 |
@@ -60,7 +60,7 @@
 | Elbert County, GA        |                89 |
 | Screven County, GA       |                89 |
 | De Kalb County, GA       |               147 |
-| Liberty County, GA       |                 0 |
+| Liberty County, GA       |               146 |
 | Wilkes County, GA        |                89 |
 | Jeff Davis County, GA    |                90 |
 | Washington County, GA    |                89 |
@@ -70,7 +70,7 @@
 | Henry County, GA         |               147 |
 | Hall County, GA          |               147 |
 | Pierce County, GA        |                89 |
-| Berrien County, GA       |                89 |
+| Berrien County, GA       |                 0 |
 | Jones County, GA         |                90 |
 | Columbia County, GA      |               146 |
 | Catoosa County, GA       |               146 |
@@ -120,7 +120,7 @@
 | Wilkinson County, GA     |                89 |
 | Dodge County, GA         |                90 |
 | Rabun County, GA         |                90 |
-| Peach County, GA         |                 0 |
+| Peach County, GA         |                90 |
 | Muscogee County, GA      |               147 |
 | Chattahoochee County, GA |                88 |
 | Walton County, GA        |               147 |

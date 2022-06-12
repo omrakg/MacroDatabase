@@ -13,7 +13,7 @@
 | Wilmington, NC                                |               169 |
 | Virginia Beach-Norfolk-Newport News, VA-NC    |                 0 |
 | Greensboro-High Point, NC                     |               210 |
-| Asheville, NC                                 |               157 |
+| Asheville, NC                                 |                 0 |
 | Jacksonville, NC                              |               122 |
 | Goldsboro, NC                                 |               102 |
 | Hickory-Lenoir-Morganton, NC                  |               176 |

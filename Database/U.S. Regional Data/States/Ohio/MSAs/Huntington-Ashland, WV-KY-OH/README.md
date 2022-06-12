@@ -8,18 +8,18 @@
 | AVELISPRIMM26580          | Housing Inventory: Average Listing Price Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY26580          | Housing Inventory: Average Listing Price Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA26580              | Market Hotness: Demand Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC265830010             | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC265830010SA           | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC265840010             | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC265840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC265840110             | Average Weekly Wages for Employees in Federal Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC265840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC265840210             | Average Weekly Wages for Employees in State Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC265840210SA           | Average Weekly Wages for Employees in State Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC265840310             | Average Weekly Wages for Employees in Local Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC265840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC265840510             | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC265840510SA           | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC265830010             | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC265830010SA           | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC265840010             | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC265840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC265840110             | Average Weekly Wages for Employees in Federal Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC265840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC265840210             | Average Weekly Wages for Employees in State Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC265840210SA           | Average Weekly Wages for Employees in State Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC265840310             | Average Weekly Wages for Employees in Local Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC265840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC265840510             | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC265840510SA           | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HNAPOP                    | Resident Population in Huntington-Ashland, WV-KY-OH (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA26580            | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA26580              | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-05-01        |

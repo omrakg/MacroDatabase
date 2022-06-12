@@ -97,7 +97,7 @@
 | DEBTTLCDA188A       | Central government debt, total (% of GDP) for the Democratic Republic of the Congo                                                                       | 1990-01-01          | 1997-01-01        |
 | DECODA052SCEN       | Value of Exports to the Democratic Republic of the Congo from Delaware                                                                                   | 2012-01-01          | 2012-01-01        |
 | DECODA475SCEN       | Number of Identified Exporters to the Democratic Republic of the Congo from Delaware                                                                     | 2006-01-01          | 2015-01-01        |
-| EXP7660             | U.S. Exports of Goods by F.A.S. Basis to Democratic Republic of the Congo                                                                                | 1985-01-01          | 2022-03-01        |
+| EXP7660             | U.S. Exports of Goods by F.A.S. Basis to Democratic Republic of the Congo                                                                                | 1985-01-01          | 2022-04-01        |
 | FLCODA052SCEN       | Value of Exports to the Democratic Republic of the Congo from Florida                                                                                    | 1997-01-01          | 2016-01-01        |
 | FLCODA475SCEN       | Number of Identified Exporters to the Democratic Republic of the Congo from Florida                                                                      | 1992-01-01          | 2016-01-01        |
 | FPCPITOTLZGCOD      | Inflation, consumer prices for the Democratic Republic of the Congo                                                                                      | 1964-01-01          | 2016-01-01        |
@@ -111,7 +111,7 @@
 | IDCODA475SCEN       | Number of Identified Exporters to the Democratic Republic of the Congo from Idaho                                                                        | 2004-01-01          | 2016-01-01        |
 | ILCODA052SCEN       | Value of Exports to the Democratic Republic of the Congo from Illinois                                                                                   | 2003-01-01          | 2016-01-01        |
 | ILCODA475SCEN       | Number of Identified Exporters to the Democratic Republic of the Congo from Illinois                                                                     | 1992-01-01          | 2016-01-01        |
-| IMP7660             | U.S. Imports of Goods by Customs Basis from Democratic Republic of the Congo                                                                             | 1985-01-01          | 2022-03-01        |
+| IMP7660             | U.S. Imports of Goods by Customs Basis from Democratic Republic of the Congo                                                                             | 1985-01-01          | 2022-04-01        |
 | INCODA052SCEN       | Value of Exports to the Democratic Republic of the Congo from Indiana                                                                                    | 2005-01-01          | 2016-01-01        |
 | INCODA475SCEN       | Number of Identified Exporters to the Democratic Republic of the Congo from Indiana                                                                      | 1992-01-01          | 2016-01-01        |
 | ITNETUSERP2COD      | Internet users for the Democratic Republic of the Congo                                                                                                  | 1990-01-01          | 2020-01-01        |

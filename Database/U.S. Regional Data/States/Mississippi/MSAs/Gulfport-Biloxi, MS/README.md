@@ -9,18 +9,18 @@
 | AVELISPRIYY25060          | Housing Inventory: Average Listing Price Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | BLXPOP                    | Resident Population in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA25060              | Market Hotness: Demand Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC250630010             | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC250630010SA           | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC250640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2021-07-01        |
-| ENUC250640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2021-07-01        |
-| ENUC250640110             | Average Weekly Wages for Employees in Federal Government Establishments in Gulfport-Biloxi, MS (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC250640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gulfport-Biloxi, MS (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC250640210             | Average Weekly Wages for Employees in State Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2021-07-01        |
-| ENUC250640210SA           | Average Weekly Wages for Employees in State Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2021-07-01        |
-| ENUC250640310             | Average Weekly Wages for Employees in Local Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2021-07-01        |
-| ENUC250640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2021-07-01        |
-| ENUC250640510             | Average Weekly Wages for Employees in Private Establishments in Gulfport-Biloxi, MS (MSA)                                       | 1990-01-01          | 2021-07-01        |
-| ENUC250640510SA           | Average Weekly Wages for Employees in Private Establishments in Gulfport-Biloxi, MS (MSA)                                       | 1990-01-01          | 2021-07-01        |
+| ENUC250630010             | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC250630010SA           | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC250640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2021-10-01        |
+| ENUC250640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2021-10-01        |
+| ENUC250640110             | Average Weekly Wages for Employees in Federal Government Establishments in Gulfport-Biloxi, MS (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC250640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gulfport-Biloxi, MS (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC250640210             | Average Weekly Wages for Employees in State Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2021-10-01        |
+| ENUC250640210SA           | Average Weekly Wages for Employees in State Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2021-10-01        |
+| ENUC250640310             | Average Weekly Wages for Employees in Local Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2021-10-01        |
+| ENUC250640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2021-10-01        |
+| ENUC250640510             | Average Weekly Wages for Employees in Private Establishments in Gulfport-Biloxi, MS (MSA)                                       | 1990-01-01          | 2021-10-01        |
+| ENUC250640510SA           | Average Weekly Wages for Employees in Private Establishments in Gulfport-Biloxi, MS (MSA)                                       | 1990-01-01          | 2021-10-01        |
 | GULF028GOVT               | All Employees: Government in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                               | 1990-01-01          | 2022-04-01        |
 | GULF028GOVTN              | All Employees: Government in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                               | 1990-01-01          | 2022-04-01        |
 | GULF028LEIH               | All Employees: Leisure and Hospitality in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                  | 1990-01-01          | 2022-04-01        |

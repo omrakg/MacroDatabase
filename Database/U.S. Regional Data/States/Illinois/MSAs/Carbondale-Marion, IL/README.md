@@ -3,14 +3,14 @@
 | ATNHPIUS16060Q         | All-Transactions House Price Index for Carbondale-Marion, IL (MSA)                                     | 1993-04-01          | 2022-01-01        |
 | CDMR917PCPI            | Per Capita Personal Income in Carbondale-Marion, IL (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | CRBPOP                 | Resident Population in Carbondale-Marion, IL (MSA)                                                     | 2010-01-01          | 2021-01-01        |
-| ENUC160630010          | Total Quarterly Wages in Carbondale-Marion, IL (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC160630010SA        | Total Quarterly Wages in Carbondale-Marion, IL (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC160640010          | Average Weekly Wages for Employees in Total Covered Establishments in Carbondale-Marion, IL (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC160640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Carbondale-Marion, IL (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC160640110          | Average Weekly Wages for Employees in Federal Government Establishments in Carbondale-Marion, IL (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC160640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Carbondale-Marion, IL (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC160640510          | Average Weekly Wages for Employees in Private Establishments in Carbondale-Marion, IL (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC160640510SA        | Average Weekly Wages for Employees in Private Establishments in Carbondale-Marion, IL (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC160630010          | Total Quarterly Wages in Carbondale-Marion, IL (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC160630010SA        | Total Quarterly Wages in Carbondale-Marion, IL (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC160640010          | Average Weekly Wages for Employees in Total Covered Establishments in Carbondale-Marion, IL (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC160640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Carbondale-Marion, IL (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC160640110          | Average Weekly Wages for Employees in Federal Government Establishments in Carbondale-Marion, IL (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC160640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Carbondale-Marion, IL (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC160640510          | Average Weekly Wages for Employees in Private Establishments in Carbondale-Marion, IL (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC160640510SA        | Average Weekly Wages for Employees in Private Establishments in Carbondale-Marion, IL (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD16060              | Implicit Regional Price Deflator for Carbondale-Marion, IL (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171606000000003   | Unemployment Rate in Carbondale-Marion, IL (MSA)                                                       | 1990-01-01          | 2022-04-01        |
 | LAUMT171606000000003A  | Unemployment Rate in Carbondale-Marion, IL (MSA)                                                       | 1990-01-01          | 2021-01-01        |

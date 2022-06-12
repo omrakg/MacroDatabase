@@ -8,18 +8,18 @@
 | AVELISPRIMM22420          | Housing Inventory: Average Listing Price Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY22420          | Housing Inventory: Average Listing Price Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA22420              | Market Hotness: Demand Score in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC224230010             | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC224230010SA           | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC224240010             | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC224240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC224240110             | Average Weekly Wages for Employees in Federal Government Establishments in Flint, MI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC224240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Flint, MI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC224240210             | Average Weekly Wages for Employees in State Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2021-07-01        |
-| ENUC224240210SA           | Average Weekly Wages for Employees in State Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2021-07-01        |
-| ENUC224240310             | Average Weekly Wages for Employees in Local Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2021-07-01        |
-| ENUC224240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2021-07-01        |
-| ENUC224240510             | Average Weekly Wages for Employees in Private Establishments in Flint, MI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC224240510SA           | Average Weekly Wages for Employees in Private Establishments in Flint, MI (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC224230010             | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC224230010SA           | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC224240010             | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC224240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC224240110             | Average Weekly Wages for Employees in Federal Government Establishments in Flint, MI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC224240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Flint, MI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC224240210             | Average Weekly Wages for Employees in State Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2021-10-01        |
+| ENUC224240210SA           | Average Weekly Wages for Employees in State Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2021-10-01        |
+| ENUC224240310             | Average Weekly Wages for Employees in Local Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2021-10-01        |
+| ENUC224240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2021-10-01        |
+| ENUC224240510             | Average Weekly Wages for Employees in Private Establishments in Flint, MI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC224240510SA           | Average Weekly Wages for Employees in Private Establishments in Flint, MI (MSA)                            | 1990-01-01          | 2021-10-01        |
 | FLIN426EDUH               | All Employees: Education and Health Services in Flint, MI (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | FLIN426EDUHN              | All Employees: Education and Health Services in Flint, MI (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | FLIN426FIRE               | All Employees: Financial Activities in Flint, MI (MSA)                                                     | 1990-01-01          | 2022-04-01        |

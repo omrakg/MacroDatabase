@@ -16,7 +16,7 @@
 | Shannon County, SD       |                22 |
 | Grant County, SD         |                88 |
 | Faulk County, SD         |                88 |
-| Pennington County, SD    |                 0 |
+| Pennington County, SD    |               147 |
 | Corson County, SD        |                87 |
 | Jones County, SD         |                83 |
 | Jackson County, SD       |                86 |
@@ -42,7 +42,7 @@
 | Codington County, SD     |                90 |
 | Kingsbury County, SD     |                88 |
 | Bon Homme County, SD     |                89 |
-| Aurora County, SD        |                88 |
+| Aurora County, SD        |                 0 |
 | Stanley County, SD       |                89 |
 | Butte County, SD         |                90 |
 | Bennett County, SD       |                87 |

@@ -7,18 +7,18 @@
 | AVELISPRI24140            | Housing Inventory: Average Listing Price in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM24140          | Housing Inventory: Average Listing Price Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY24140          | Housing Inventory: Average Listing Price Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC241430010             | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC241430010SA           | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC241440010             | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC241440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC241440110             | Average Weekly Wages for Employees in Federal Government Establishments in Goldsboro, NC (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC241440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Goldsboro, NC (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC241440210             | Average Weekly Wages for Employees in State Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC241440210SA           | Average Weekly Wages for Employees in State Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC241440310             | Average Weekly Wages for Employees in Local Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC241440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC241440510             | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC241440510SA           | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC241430010             | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC241430010SA           | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC241440010             | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC241440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC241440110             | Average Weekly Wages for Employees in Federal Government Establishments in Goldsboro, NC (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC241440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Goldsboro, NC (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC241440210             | Average Weekly Wages for Employees in State Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC241440210SA           | Average Weekly Wages for Employees in State Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC241440310             | Average Weekly Wages for Employees in Local Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC241440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC241440510             | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC241440510SA           | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2021-10-01        |
 | GOLD137GOVT               | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | GOLD137GOVTN              | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | GOLD137LF                 | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-04-01        |

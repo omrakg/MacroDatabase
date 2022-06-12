@@ -23,4 +23,4 @@
 | Washington County, MD      |               147 |
 | St. Mary's County, MD      |               147 |
 | Howard County, MD          |               147 |
-| Somerset County, MD        |                 0 |
+| Somerset County, MD        |                90 |

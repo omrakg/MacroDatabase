@@ -115,7 +115,7 @@
 | ETHPCPIPCPPPT       | Consumer Prices: All Items for Ethiopia                                                                                               | 2004-01-01          | 2023-01-01        |
 | ETHTTTIX            | Terms of Trade for Goods for Ethiopia                                                                                                 | 2004-01-01          | 2023-01-01        |
 | EXP7740             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1992-01-01          | 2003-12-01        |
-| EXP7749             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1993-01-01          | 2022-03-01        |
+| EXP7749             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1993-01-01          | 2022-04-01        |
 | FLETHA052SCEN       | Value of Exports to Ethiopia from Florida                                                                                             | 1992-01-01          | 2017-01-01        |
 | FLETHA475SCEN       | Number of Identified Exporters to Ethiopia from Florida                                                                               | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGETH      | Inflation, consumer prices for Ethiopia                                                                                               | 1966-01-01          | 2019-01-01        |
@@ -130,7 +130,7 @@
 | ILETHA052SCEN       | Value of Exports to Ethiopia from Illinois                                                                                            | 1992-01-01          | 2017-01-01        |
 | ILETHA475SCEN       | Number of Identified Exporters to Ethiopia from Illinois                                                                              | 1992-01-01          | 2017-01-01        |
 | IMP7740             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1992-01-01          | 2003-12-01        |
-| IMP7749             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1993-01-01          | 2022-03-01        |
+| IMP7749             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1993-01-01          | 2022-04-01        |
 | INETHA052SCEN       | Value of Exports to Ethiopia from Indiana                                                                                             | 1997-01-01          | 2017-01-01        |
 | INETHA475SCEN       | Number of Identified Exporters to Ethiopia from Indiana                                                                               | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2ETH      | Internet users for Ethiopia                                                                                                           | 1990-01-01          | 2020-01-01        |

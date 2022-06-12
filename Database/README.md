@@ -1,6 +1,6 @@
 | Category                                | Sub-Category                                                    | Files   |
 |-----------------------------------------|-----------------------------------------------------------------|---------|
-| National Accounts                       | National Income & Product Accounts                              | 9,119   |
+| National Accounts                       | National Income & Product Accounts                              | 9,129   |
 |                                         | Flow of Funds                                                   | 2,409   |
 |                                         | _National Accounts.json                                         | 0       |
 |                                         | TUVGGXWDGG01GDPPT.json                                          | 0       |
@@ -20,7 +20,7 @@
 |                                         | Recession Probabilities                                         | 10      |
 |                                         | Daily Federal Funds Rate, 1928-54                               | 6       |
 |                                         | Penn World Table 7.1                                            | 5,542   |
-|                                         | A Millennium of Macroeconomic Data for the UK                   | 114     |
+|                                         | A Millennium of Macroeconomic Data for the UK                   | 74      |
 |                                         | Historical Federal Reserve Data                                 | 127     |
 |                                         | Discontinued                                                    | 0       |
 |                                         | Data on the nominal term structure model from Kim and Wright    | 42      |
@@ -30,14 +30,14 @@
 |                                         | Penn World Table 9.0                                            | 4,583   |
 |                                         | The Effects of the 1930s HOLC "Redlining" Maps                  | 22      |
 | International Data                      | Indicators                                                      | 23,891  |
-|                                         | Countries                                                       | 54,506  |
+|                                         | Countries                                                       | 55,217  |
 |                                         | Geography                                                       | 218     |
-|                                         | Institutions                                                    | 4,831   |
-| U.S. Regional Data                      | Freddie Mac Regions                                             | 12      |
+|                                         | Institutions                                                    | 4,837   |
+| U.S. Regional Data                      | Freddie Mac Regions                                             | 0       |
 |                                         | BLS Regions                                                     | 204     |
-|                                         | Federal Reserve Districts                                       | 950     |
-|                                         | States                                                          | 412,053 |
-|                                         | BEA Regions                                                     | 2,856   |
+|                                         | Federal Reserve Districts                                       | 949     |
+|                                         | States                                                          | 411,969 |
+|                                         | BEA Regions                                                     | 2,448   |
 |                                         | Census Regions                                                  | 495     |
 | Production & Business Activity          | AUTPROINDAISMEI.json                                            | 0       |
 |                                         | DNKSACRMISMEI.json                                              | 0       |
@@ -614,7 +614,7 @@
 |                                         | CANSACRMISMEI.json                                              | 0       |
 |                                         | GRCPROMANQISMEI.json                                            | 0       |
 | Money, Banking, & Finance               | Exchange Rates                                                  | 13,384  |
-|                                         | Interest Rates                                                  | 963     |
+|                                         | Interest Rates                                                  | 1,037   |
 |                                         | _Money, Banking, & Finance_Incl_Discontinued.json               | 0       |
 |                                         | ECBASSETSW.json                                                 | 0       |
 |                                         | Foreign Exchange Intervention                                   | 24      |
@@ -623,7 +623,7 @@
 |                                         | JPNASSETS.json                                                  | 0       |
 |                                         | Financial Indicators                                            | 345     |
 |                                         | Discontinued                                                    | 3       |
-|                                         | Business Lending                                                | 977     |
+|                                         | Business Lending                                                | 1,070   |
 |                                         | Monetary Data                                                   | 1,420   |
 | Population, Employment, & Labor Markets | Tax Data                                                        | 1,002   |
 |                                         | Minimum Wage                                                    | 53      |
@@ -637,7 +637,7 @@
 |                                         | Current Employment Statistics (Establishment Survey)            | 409     |
 |                                         | Discontinued                                                    | 2       |
 |                                         | Productivity & Costs                                            | 3,145   |
-|                                         | Job Openings and Labor Turnover (JOLTS)                         | 467     |
+|                                         | Job Openings and Labor Turnover (JOLTS)                         | 399     |
 |                                         | ADP Employment                                                  | 31      |
 |                                         | Education                                                       | 45      |
 |                                         | Weekly Initial Claims                                           | 25      |
@@ -873,7 +873,7 @@
 |                                         | TENEXPCHAREARISPRE.json                                         | 0       |
 |                                         | M04107GBM318NNBR.json                                           | 0       |
 |                                         | M04F2CUS35620M283NNBR.json                                      | 0       |
-|                                         | Producer Price Indexes (PPI)                                    | 8,696   |
+|                                         | Producer Price Indexes (PPI)                                    | 8,726   |
 |                                         | M0433AUSM291NNBR.json                                           | 0       |
 |                                         | M0496BUSM349NNBR.json                                           | 0       |
 |                                         | M0421BUS42340M264NNBR.json                                      | 0       |

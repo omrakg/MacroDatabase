@@ -1,18 +1,18 @@
 | id                     | title                                                                                           | observation_start   | observation_end   |
 |------------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS23900Q         | All-Transactions House Price Index for Gettysburg, PA (MSA)                                     | 1989-10-01          | 2022-01-01        |
-| ENUC239030010          | Total Quarterly Wages in Gettysburg, PA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC239030010SA        | Total Quarterly Wages in Gettysburg, PA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC239040010          | Average Weekly Wages for Employees in Total Covered Establishments in Gettysburg, PA (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC239040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Gettysburg, PA (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC239040110          | Average Weekly Wages for Employees in Federal Government Establishments in Gettysburg, PA (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC239040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Gettysburg, PA (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC239040210          | Average Weekly Wages for Employees in State Government Establishments in Gettysburg, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC239040210SA        | Average Weekly Wages for Employees in State Government Establishments in Gettysburg, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC239040310          | Average Weekly Wages for Employees in Local Government Establishments in Gettysburg, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC239040310SA        | Average Weekly Wages for Employees in Local Government Establishments in Gettysburg, PA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC239040510          | Average Weekly Wages for Employees in Private Establishments in Gettysburg, PA (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC239040510SA        | Average Weekly Wages for Employees in Private Establishments in Gettysburg, PA (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC239030010          | Total Quarterly Wages in Gettysburg, PA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC239030010SA        | Total Quarterly Wages in Gettysburg, PA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC239040010          | Average Weekly Wages for Employees in Total Covered Establishments in Gettysburg, PA (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC239040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Gettysburg, PA (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC239040110          | Average Weekly Wages for Employees in Federal Government Establishments in Gettysburg, PA (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC239040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Gettysburg, PA (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC239040210          | Average Weekly Wages for Employees in State Government Establishments in Gettysburg, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC239040210SA        | Average Weekly Wages for Employees in State Government Establishments in Gettysburg, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC239040310          | Average Weekly Wages for Employees in Local Government Establishments in Gettysburg, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC239040310SA        | Average Weekly Wages for Employees in Local Government Establishments in Gettysburg, PA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC239040510          | Average Weekly Wages for Employees in Private Establishments in Gettysburg, PA (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC239040510SA        | Average Weekly Wages for Employees in Private Establishments in Gettysburg, PA (MSA)            | 2013-01-01          | 2021-10-01        |
 | GETT942PCPI            | Per Capita Personal Income in Gettysburg, PA (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | GTYPOP                 | Resident Population in Gettysburg, PA (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | IRPD23900              | Implicit Regional Price Deflator for Gettysburg, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM44300          | Housing Inventory: Average Listing Price Month-Over-Month in State College, PA (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY44300          | Housing Inventory: Average Listing Price Year-Over-Year in State College, PA (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA44300              | Market Hotness: Demand Score in State College, PA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC443030010             | Total Quarterly Wages in State College, PA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC443030010SA           | Total Quarterly Wages in State College, PA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC443040010             | Average Weekly Wages for Employees in Total Covered Establishments in State College, PA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC443040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in State College, PA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC443040110             | Average Weekly Wages for Employees in Federal Government Establishments in State College, PA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC443040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in State College, PA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC443040210             | Average Weekly Wages for Employees in State Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-07-01        |
-| ENUC443040210SA           | Average Weekly Wages for Employees in State Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-07-01        |
-| ENUC443040310             | Average Weekly Wages for Employees in Local Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-07-01        |
-| ENUC443040310SA           | Average Weekly Wages for Employees in Local Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-07-01        |
-| ENUC443040510             | Average Weekly Wages for Employees in Private Establishments in State College, PA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC443040510SA           | Average Weekly Wages for Employees in Private Establishments in State College, PA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC443030010             | Total Quarterly Wages in State College, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC443030010SA           | Total Quarterly Wages in State College, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC443040010             | Average Weekly Wages for Employees in Total Covered Establishments in State College, PA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC443040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in State College, PA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC443040110             | Average Weekly Wages for Employees in Federal Government Establishments in State College, PA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC443040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in State College, PA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC443040210             | Average Weekly Wages for Employees in State Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-10-01        |
+| ENUC443040210SA           | Average Weekly Wages for Employees in State Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-10-01        |
+| ENUC443040310             | Average Weekly Wages for Employees in Local Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-10-01        |
+| ENUC443040310SA           | Average Weekly Wages for Employees in Local Government Establishments in State College, PA (MSA)     | 2013-07-01          | 2021-10-01        |
+| ENUC443040510             | Average Weekly Wages for Employees in Private Establishments in State College, PA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC443040510SA           | Average Weekly Wages for Employees in Private Establishments in State College, PA (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA44300            | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA44300              | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA44300            | Market Hotness: Hotness Rank in State College, PA (CBSA)                                             | 2018-08-01          | 2022-05-01        |

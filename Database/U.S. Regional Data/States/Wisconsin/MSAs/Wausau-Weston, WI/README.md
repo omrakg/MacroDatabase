@@ -8,18 +8,18 @@
 | AVELISPRIMM48140          | Housing Inventory: Average Listing Price Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY48140          | Housing Inventory: Average Listing Price Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA48140              | Market Hotness: Demand Score in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC481430010             | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC481430010SA           | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC481440010             | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC481440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC481440110             | Average Weekly Wages for Employees in Federal Government Establishments in Wausau, WI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC481440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wausau, WI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC481440210             | Average Weekly Wages for Employees in State Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC481440210SA           | Average Weekly Wages for Employees in State Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC481440310             | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC481440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC481440510             | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC481440510SA           | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC481430010             | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC481430010SA           | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC481440010             | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC481440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC481440110             | Average Weekly Wages for Employees in Federal Government Establishments in Wausau, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC481440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wausau, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC481440210             | Average Weekly Wages for Employees in State Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC481440210SA           | Average Weekly Wages for Employees in State Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC481440310             | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC481440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC481440510             | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC481440510SA           | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA48140            | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA48140              | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA48140            | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

@@ -36,18 +36,18 @@
 | ELKH118UR                 | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-04-01        |
 | ELKH118URN                | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-04-01        |
 | ELKPOP                    | Resident Population in Elkhart-Goshen, IN (MSA)                                                                       | 2000-01-01          | 2021-01-01        |
-| ENUC211430010             | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC211430010SA           | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC211440010             | Average Weekly Wages for Employees in Total Covered Establishments in Elkhart-Goshen, IN (MSA)                        | 1990-01-01          | 2021-07-01        |
-| ENUC211440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elkhart-Goshen, IN (MSA)                        | 1990-01-01          | 2021-07-01        |
-| ENUC211440110             | Average Weekly Wages for Employees in Federal Government Establishments in Elkhart-Goshen, IN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC211440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elkhart-Goshen, IN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC211440210             | Average Weekly Wages for Employees in State Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2021-07-01        |
-| ENUC211440210SA           | Average Weekly Wages for Employees in State Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2021-07-01        |
-| ENUC211440310             | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2021-07-01        |
-| ENUC211440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2021-07-01        |
-| ENUC211440510             | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2021-07-01        |
-| ENUC211440510SA           | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2021-07-01        |
+| ENUC211430010             | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC211430010SA           | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC211440010             | Average Weekly Wages for Employees in Total Covered Establishments in Elkhart-Goshen, IN (MSA)                        | 1990-01-01          | 2021-10-01        |
+| ENUC211440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elkhart-Goshen, IN (MSA)                        | 1990-01-01          | 2021-10-01        |
+| ENUC211440110             | Average Weekly Wages for Employees in Federal Government Establishments in Elkhart-Goshen, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC211440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elkhart-Goshen, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC211440210             | Average Weekly Wages for Employees in State Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2021-10-01        |
+| ENUC211440210SA           | Average Weekly Wages for Employees in State Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2021-10-01        |
+| ENUC211440310             | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2021-10-01        |
+| ENUC211440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2021-10-01        |
+| ENUC211440510             | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2021-10-01        |
+| ENUC211440510SA           | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA21140            | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA21140              | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA21140            | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2018-08-01          | 2022-05-01        |

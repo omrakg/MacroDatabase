@@ -40,18 +40,18 @@
 | COLL748UR                 | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | COLL748URN                | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DESCMSA17780              | Market Hotness: Demand Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC177830010             | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC177830010SA           | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC177840010             | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC177840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC177840110             | Average Weekly Wages for Employees in Federal Government Establishments in College Station-Bryan, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC177840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in College Station-Bryan, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC177840210             | Average Weekly Wages for Employees in State Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC177840210SA           | Average Weekly Wages for Employees in State Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC177840310             | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC177840310SA           | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC177840510             | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC177840510SA           | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC177830010             | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC177830010SA           | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC177840010             | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC177840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC177840110             | Average Weekly Wages for Employees in Federal Government Establishments in College Station-Bryan, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC177840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in College Station-Bryan, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC177840210             | Average Weekly Wages for Employees in State Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC177840210SA           | Average Weekly Wages for Employees in State Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC177840310             | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC177840310SA           | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC177840510             | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC177840510SA           | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA17780            | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA17780              | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA17780            | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

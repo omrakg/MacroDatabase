@@ -5,9 +5,9 @@
 | Hidalgo County, NM    |                87 |
 | McKinley County, NM   |               145 |
 | Guadalupe County, NM  |                87 |
-| Curry County, NM      |               146 |
+| Curry County, NM      |                 0 |
 | Torrance County, NM   |                89 |
-| Dona Ana County, NM   |               146 |
+| Dona Ana County, NM   |               142 |
 | Cibola County, NM     |                89 |
 | De Baca County, NM    |                88 |
 | Eddy County, NM       |               146 |
@@ -32,4 +32,4 @@
 | Mora County, NM       |                87 |
 | San Juan County, NM   |               147 |
 | Otero County, NM      |               147 |
-| Lea County, NM        |                 0 |
+| Lea County, NM        |               147 |

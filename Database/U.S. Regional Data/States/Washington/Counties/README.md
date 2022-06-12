@@ -13,7 +13,7 @@
 | Okanogan County, WA     |                90 |
 | Walla Walla County, WA  |               145 |
 | Mason County, WA        |               146 |
-| San Juan County, WA     |                90 |
+| San Juan County, WA     |                 0 |
 | Columbia County, WA     |                89 |
 | Pend Oreille County, WA |                90 |
 | Grant County, WA        |               147 |

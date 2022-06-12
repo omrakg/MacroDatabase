@@ -8,18 +8,18 @@
 | AVELISPRIMM25620          | Housing Inventory: Average Listing Price Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY25620          | Housing Inventory: Average Listing Price Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA25620              | Market Hotness: Demand Score in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC256230010             | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC256230010SA           | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC256240010             | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC256240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC256240110             | Average Weekly Wages for Employees in Federal Government Establishments in Hattiesburg, MS (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC256240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hattiesburg, MS (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC256240210             | Average Weekly Wages for Employees in State Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC256240210SA           | Average Weekly Wages for Employees in State Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC256240310             | Average Weekly Wages for Employees in Local Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC256240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC256240510             | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC256240510SA           | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC256230010             | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC256230010SA           | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC256240010             | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC256240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC256240110             | Average Weekly Wages for Employees in Federal Government Establishments in Hattiesburg, MS (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC256240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hattiesburg, MS (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC256240210             | Average Weekly Wages for Employees in State Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC256240210SA           | Average Weekly Wages for Employees in State Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC256240310             | Average Weekly Wages for Employees in Local Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC256240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC256240510             | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC256240510SA           | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2021-10-01        |
 | HATPOP                    | Resident Population in Hattiesburg, MS (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | HATT628GOVT               | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | HATT628GOVTN              | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-04-01        |

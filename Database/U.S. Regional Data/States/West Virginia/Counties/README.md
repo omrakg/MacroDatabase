@@ -32,7 +32,7 @@
 | Lewis County, WV      |                89 |
 | Hampshire County, WV  |                90 |
 | Gilmer County, WV     |                88 |
-| Brooke County, WV     |                 0 |
+| Brooke County, WV     |                90 |
 | Harrison County, WV   |               147 |
 | Mercer County, WV     |               146 |
 | Kanawha County, WV    |               147 |
@@ -53,4 +53,4 @@
 | Preston County, WV    |                88 |
 | Summers County, WV    |                88 |
 | Wirt County, WV       |                88 |
-| Marshall County, WV   |                90 |
+| Marshall County, WV   |                 0 |

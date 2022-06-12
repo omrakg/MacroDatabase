@@ -20,18 +20,18 @@
 | AVELISPRIMM10780          | Housing Inventory: Average Listing Price Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY10780          | Housing Inventory: Average Listing Price Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA10780              | Market Hotness: Demand Score in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC107830010             | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC107830010SA           | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC107840010             | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC107840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC107840110             | Average Weekly Wages for Employees in Federal Government Establishments in Alexandria, LA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC107840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Alexandria, LA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC107840210             | Average Weekly Wages for Employees in State Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC107840210SA           | Average Weekly Wages for Employees in State Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC107840310             | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC107840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC107840510             | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC107840510SA           | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC107830010             | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC107830010SA           | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC107840010             | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC107840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC107840110             | Average Weekly Wages for Employees in Federal Government Establishments in Alexandria, LA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC107840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Alexandria, LA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC107840210             | Average Weekly Wages for Employees in State Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC107840210SA           | Average Weekly Wages for Employees in State Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC107840310             | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC107840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC107840510             | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC107840510SA           | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA10780            | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA10780              | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA10780            | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2018-08-01          | 2022-05-01        |

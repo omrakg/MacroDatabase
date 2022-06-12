@@ -8,18 +8,18 @@
 | AVELISPRIMM29100          | Housing Inventory: Average Listing Price Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY29100          | Housing Inventory: Average Listing Price Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA29100              | Market Hotness: Demand Score in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC291030010             | Total Quarterly Wages in La Crosse-Onalaska, WI-MN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC291030010SA           | Total Quarterly Wages in La Crosse-Onalaska, WI-MN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC291040010             | Average Weekly Wages for Employees in Total Covered Establishments in La Crosse, WI-MN (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC291040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in La Crosse, WI-MN (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC291040110             | Average Weekly Wages for Employees in Federal Government Establishments in La Crosse, WI-MN (MSA)                          | 1990-01-01          | 2021-07-01        |
-| ENUC291040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in La Crosse, WI-MN (MSA)                          | 1990-01-01          | 2021-07-01        |
-| ENUC291040210             | Average Weekly Wages for Employees in State Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-07-01        |
-| ENUC291040210SA           | Average Weekly Wages for Employees in State Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-07-01        |
-| ENUC291040310             | Average Weekly Wages for Employees in Local Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-07-01        |
-| ENUC291040310SA           | Average Weekly Wages for Employees in Local Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-07-01        |
-| ENUC291040510             | Average Weekly Wages for Employees in Private Establishments in La Crosse, WI-MN (MSA)                                     | 1990-01-01          | 2021-07-01        |
-| ENUC291040510SA           | Average Weekly Wages for Employees in Private Establishments in La Crosse, WI-MN (MSA)                                     | 1990-01-01          | 2021-07-01        |
+| ENUC291030010             | Total Quarterly Wages in La Crosse-Onalaska, WI-MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC291030010SA           | Total Quarterly Wages in La Crosse-Onalaska, WI-MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC291040010             | Average Weekly Wages for Employees in Total Covered Establishments in La Crosse, WI-MN (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC291040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in La Crosse, WI-MN (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC291040110             | Average Weekly Wages for Employees in Federal Government Establishments in La Crosse, WI-MN (MSA)                          | 1990-01-01          | 2021-10-01        |
+| ENUC291040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in La Crosse, WI-MN (MSA)                          | 1990-01-01          | 2021-10-01        |
+| ENUC291040210             | Average Weekly Wages for Employees in State Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-10-01        |
+| ENUC291040210SA           | Average Weekly Wages for Employees in State Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-10-01        |
+| ENUC291040310             | Average Weekly Wages for Employees in Local Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-10-01        |
+| ENUC291040310SA           | Average Weekly Wages for Employees in Local Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-10-01        |
+| ENUC291040510             | Average Weekly Wages for Employees in Private Establishments in La Crosse, WI-MN (MSA)                                     | 1990-01-01          | 2021-10-01        |
+| ENUC291040510SA           | Average Weekly Wages for Employees in Private Establishments in La Crosse, WI-MN (MSA)                                     | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA29100            | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA29100              | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA29100            | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

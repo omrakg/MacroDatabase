@@ -11,7 +11,7 @@
 | Greenfield, MA                          |                 0 |
 | Lowell-Billerica-Chelmsford, MA-NH      |                 0 |
 | Peabody, MA                             |                63 |
-| Providence-Fall River-Warwick, RI-MA    |               188 |
+| Providence-Fall River-Warwick, RI-MA    |               176 |
 | Nashua, NH-MA                           |                 0 |
 | Brockton-Bridgewater-Easton, MA         |                 0 |
 | New Bedford, MA                         |                83 |

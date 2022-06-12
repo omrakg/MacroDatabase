@@ -1,17 +1,17 @@
 | id                     | title                                                                                                                | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ENUC103830010          | Total Quarterly Wages in Aguadilla-Isabela, PR (MSA)                                                                 | 1990-01-01          | 2021-07-01        |
-| ENUC103830010SA        | Total Quarterly Wages in Aguadilla-Isabela, PR (MSA)                                                                 | 1990-01-01          | 2021-07-01        |
-| ENUC103840010          | Average Weekly Wages for Employees in Total Covered Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC103840010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC103840110          | Average Weekly Wages for Employees in Federal Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA) | 1990-01-01          | 2021-07-01        |
-| ENUC103840110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA) | 1990-01-01          | 2021-07-01        |
-| ENUC103840210          | Average Weekly Wages for Employees in State Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC103840210SA        | Average Weekly Wages for Employees in State Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC103840310          | Average Weekly Wages for Employees in Local Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC103840310SA        | Average Weekly Wages for Employees in Local Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC103840510          | Average Weekly Wages for Employees in Private Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)            | 1990-01-01          | 2021-07-01        |
-| ENUC103840510SA        | Average Weekly Wages for Employees in Private Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)            | 1990-01-01          | 2021-07-01        |
+| ENUC103830010          | Total Quarterly Wages in Aguadilla-Isabela, PR (MSA)                                                                 | 1990-01-01          | 2021-10-01        |
+| ENUC103830010SA        | Total Quarterly Wages in Aguadilla-Isabela, PR (MSA)                                                                 | 1990-01-01          | 2021-10-01        |
+| ENUC103840010          | Average Weekly Wages for Employees in Total Covered Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC103840010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC103840110          | Average Weekly Wages for Employees in Federal Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC103840110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC103840210          | Average Weekly Wages for Employees in State Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC103840210SA        | Average Weekly Wages for Employees in State Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC103840310          | Average Weekly Wages for Employees in Local Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC103840310SA        | Average Weekly Wages for Employees in Local Government Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC103840510          | Average Weekly Wages for Employees in Private Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)            | 1990-01-01          | 2021-10-01        |
+| ENUC103840510SA        | Average Weekly Wages for Employees in Private Establishments in Aguadilla-Isabela-San Sebastián, PR (MSA)            | 1990-01-01          | 2021-10-01        |
 | PATENTCBSA110380       | U.S. Granted Utility Patents Originating in Aguadilla-Isabela-San Sebastian, PR (MSA)                                | 2000-01-01          | 2015-01-01        |
 | SMS72103800000000001   | All Employees: Total Nonfarm in Aguadilla-Isabela, PR (MSA)                                                          | 1990-01-01          | 2022-04-01        |
 | SMS72103800000000026   | All Employees: Total Nonfarm in Aguadilla-Isabela, PR (MSA)                                                          | 1990-04-01          | 2022-04-01        |

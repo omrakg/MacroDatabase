@@ -6,10 +6,10 @@
 | Kankakee, IL                        |               140 |
 | St. Louis, MO-IL                    |               235 |
 | Danville, IL                        |               136 |
-| Springfield, IL                     |                 0 |
+| Springfield, IL                     |               167 |
 | Bloomington, IL                     |               111 |
 | Decatur, IL                         |               145 |
 | Champaign-Urbana, IL                |               163 |
 | Carbondale-Marion, IL               |                55 |
-| Cape Girardeau, MO-IL               |                90 |
+| Cape Girardeau, MO-IL               |                89 |
 | Rockford, IL                        |               164 |

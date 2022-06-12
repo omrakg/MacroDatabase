@@ -31,7 +31,7 @@
 | Polk County, WI                         |                90 |
 | Milwaukee County, WI                    |               146 |
 | Richland County, WI                     |                89 |
-| Jackson County, WI                      |                89 |
+| Jackson County, WI                      |                 0 |
 | Trempealeau County, WI                  |                89 |
 | Lincoln County, WI                      |                90 |
 | Waushara County, WI                     |                90 |

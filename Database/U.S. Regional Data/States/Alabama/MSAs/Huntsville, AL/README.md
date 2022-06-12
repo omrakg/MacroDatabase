@@ -8,18 +8,18 @@
 | AVELISPRIMM26620          | Housing Inventory: Average Listing Price Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY26620          | Housing Inventory: Average Listing Price Year-Over-Year in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-05-01        |
 | DESCMSA26620              | Market Hotness: Demand Score in Huntsville, AL (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
-| ENUC266230010             | Total Quarterly Wages in Huntsville, AL (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC266230010SA           | Total Quarterly Wages in Huntsville, AL (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC266240010             | Average Weekly Wages for Employees in Total Covered Establishments in Huntsville, AL (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC266240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Huntsville, AL (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC266240110             | Average Weekly Wages for Employees in Federal Government Establishments in Huntsville, AL (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC266240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Huntsville, AL (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC266240210             | Average Weekly Wages for Employees in State Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC266240210SA           | Average Weekly Wages for Employees in State Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC266240310             | Average Weekly Wages for Employees in Local Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC266240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC266240510             | Average Weekly Wages for Employees in Private Establishments in Huntsville, AL (MSA)                                        | 1990-01-01          | 2021-07-01        |
-| ENUC266240510SA           | Average Weekly Wages for Employees in Private Establishments in Huntsville, AL (MSA)                                        | 1990-01-01          | 2021-07-01        |
+| ENUC266230010             | Total Quarterly Wages in Huntsville, AL (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC266230010SA           | Total Quarterly Wages in Huntsville, AL (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC266240010             | Average Weekly Wages for Employees in Total Covered Establishments in Huntsville, AL (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC266240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Huntsville, AL (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC266240110             | Average Weekly Wages for Employees in Federal Government Establishments in Huntsville, AL (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC266240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Huntsville, AL (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC266240210             | Average Weekly Wages for Employees in State Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC266240210SA           | Average Weekly Wages for Employees in State Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC266240310             | Average Weekly Wages for Employees in Local Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC266240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC266240510             | Average Weekly Wages for Employees in Private Establishments in Huntsville, AL (MSA)                                        | 1990-01-01          | 2021-10-01        |
+| ENUC266240510SA           | Average Weekly Wages for Employees in Private Establishments in Huntsville, AL (MSA)                                        | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA26620            | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
 | HORAMSA26620              | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA26620            | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |

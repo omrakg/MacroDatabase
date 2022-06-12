@@ -1,17 +1,17 @@
 | id                     | title                                                                                                                        | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ENUC482630010          | Total Quarterly Wages in Weirton-Steubenville, WV-OH (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC482630010SA        | Total Quarterly Wages in Weirton-Steubenville, WV-OH (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC482640010          | Average Weekly Wages for Employees in Total Covered Establishments in Steubenville-Weirton, OH-WV (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC482640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Steubenville-Weirton, OH-WV (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC482640110          | Average Weekly Wages for Employees in Federal Government Establishments in Steubenville-Weirton, OH-WV (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC482640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Steubenville-Weirton, OH-WV (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC482640210          | Average Weekly Wages for Employees in State Government Establishments in Steubenville-Weirton, OH-WV (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC482640210SA        | Average Weekly Wages for Employees in State Government Establishments in Steubenville-Weirton, OH-WV (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC482640310          | Average Weekly Wages for Employees in Local Government Establishments in Steubenville-Weirton, OH-WV (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC482640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Steubenville-Weirton, OH-WV (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC482640510          | Average Weekly Wages for Employees in Private Establishments in Steubenville-Weirton, OH-WV (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC482640510SA        | Average Weekly Wages for Employees in Private Establishments in Steubenville-Weirton, OH-WV (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC482630010          | Total Quarterly Wages in Weirton-Steubenville, WV-OH (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC482630010SA        | Total Quarterly Wages in Weirton-Steubenville, WV-OH (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC482640010          | Average Weekly Wages for Employees in Total Covered Establishments in Steubenville-Weirton, OH-WV (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC482640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Steubenville-Weirton, OH-WV (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC482640110          | Average Weekly Wages for Employees in Federal Government Establishments in Steubenville-Weirton, OH-WV (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC482640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Steubenville-Weirton, OH-WV (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC482640210          | Average Weekly Wages for Employees in State Government Establishments in Steubenville-Weirton, OH-WV (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC482640210SA        | Average Weekly Wages for Employees in State Government Establishments in Steubenville-Weirton, OH-WV (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC482640310          | Average Weekly Wages for Employees in Local Government Establishments in Steubenville-Weirton, OH-WV (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC482640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Steubenville-Weirton, OH-WV (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC482640510          | Average Weekly Wages for Employees in Private Establishments in Steubenville-Weirton, OH-WV (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC482640510SA        | Average Weekly Wages for Employees in Private Establishments in Steubenville-Weirton, OH-WV (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD48260              | Implicit Regional Price Deflator for Weirton-Steubenville, WV-OH (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | NGMP48260              | Total Gross Domestic Product for Weirton-Steubenville, WV-OH (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA144600       | U.S. Granted Utility Patents Originating in Steubenville-Weirton, OH-WV (MSA)                                                | 2000-01-01          | 2015-01-01        |

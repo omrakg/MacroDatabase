@@ -34,8 +34,8 @@
 | TRESEGITM194N | Total Reserves excluding Gold for Italy                    | 1950-12-01          | 2022-04-01        |
 | TRESEGJPM052N | Total Reserves excluding Gold for Japan                    | 1950-12-01          | 2022-04-01        |
 | TRESEGJPM194N | Total Reserves excluding Gold for Japan                    | 1950-12-01          | 2022-04-01        |
-| TRESEGKRM052N | Total Reserves excluding Gold for Republic of Korea        | 1950-12-01          | 2022-03-01        |
-| TRESEGKRM194N | Total Reserves excluding Gold for Republic of Korea        | 1950-12-01          | 2022-03-01        |
+| TRESEGKRM052N | Total Reserves excluding Gold for Republic of Korea        | 1950-12-01          | 2022-04-01        |
+| TRESEGKRM194N | Total Reserves excluding Gold for Republic of Korea        | 1950-12-01          | 2022-04-01        |
 | TRESEGMXM052N | Total Reserves excluding Gold for Mexico                   | 1950-12-01          | 2022-04-01        |
 | TRESEGMXM194N | Total Reserves excluding Gold for Mexico                   | 1950-12-01          | 2022-04-01        |
 | TRESEGPLM052N | Total Reserves excluding Gold for Poland                   | 1979-12-01          | 2022-04-01        |

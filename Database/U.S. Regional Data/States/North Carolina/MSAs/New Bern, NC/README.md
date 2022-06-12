@@ -1,18 +1,18 @@
 | id                     | title                                                                                         | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS35100Q         | All-Transactions House Price Index for New Bern, NC (MSA)                                     | 1987-10-01          | 2022-01-01        |
-| ENUC351030010          | Total Quarterly Wages in New Bern, NC (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC351030010SA        | Total Quarterly Wages in New Bern, NC (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC351040010          | Average Weekly Wages for Employees in Total Covered Establishments in New Bern, NC (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC351040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in New Bern, NC (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC351040110          | Average Weekly Wages for Employees in Federal Government Establishments in New Bern, NC (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC351040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in New Bern, NC (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC351040210          | Average Weekly Wages for Employees in State Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC351040210SA        | Average Weekly Wages for Employees in State Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC351040310          | Average Weekly Wages for Employees in Local Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC351040310SA        | Average Weekly Wages for Employees in Local Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC351040510          | Average Weekly Wages for Employees in Private Establishments in New Bern, NC (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC351040510SA        | Average Weekly Wages for Employees in Private Establishments in New Bern, NC (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC351030010          | Total Quarterly Wages in New Bern, NC (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC351030010SA        | Total Quarterly Wages in New Bern, NC (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC351040010          | Average Weekly Wages for Employees in Total Covered Establishments in New Bern, NC (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC351040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in New Bern, NC (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC351040110          | Average Weekly Wages for Employees in Federal Government Establishments in New Bern, NC (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC351040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in New Bern, NC (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC351040210          | Average Weekly Wages for Employees in State Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC351040210SA        | Average Weekly Wages for Employees in State Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC351040310          | Average Weekly Wages for Employees in Local Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC351040310SA        | Average Weekly Wages for Employees in Local Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC351040510          | Average Weekly Wages for Employees in Private Establishments in New Bern, NC (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC351040510SA        | Average Weekly Wages for Employees in Private Establishments in New Bern, NC (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD35100              | Implicit Regional Price Deflator for New Bern, NC (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT373510000000003   | Unemployment Rate in New Bern, NC (MSA)                                                       | 1990-01-01          | 2022-04-01        |
 | LAUMT373510000000003A  | Unemployment Rate in New Bern, NC (MSA)                                                       | 1990-01-01          | 2021-01-01        |

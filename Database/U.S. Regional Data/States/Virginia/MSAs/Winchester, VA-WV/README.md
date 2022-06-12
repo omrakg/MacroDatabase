@@ -7,18 +7,18 @@
 | AVELISPRI49020            | Housing Inventory: Average Listing Price in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM49020          | Housing Inventory: Average Listing Price Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY49020          | Housing Inventory: Average Listing Price Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC490230010             | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC490230010SA           | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC490240010             | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC490240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC490240110             | Average Weekly Wages for Employees in Federal Government Establishments in Winchester, VA-WV (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC490240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Winchester, VA-WV (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC490240210             | Average Weekly Wages for Employees in State Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC490240210SA           | Average Weekly Wages for Employees in State Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC490240310             | Average Weekly Wages for Employees in Local Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC490240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC490240510             | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC490240510SA           | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC490230010             | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC490230010SA           | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC490240010             | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC490240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC490240110             | Average Weekly Wages for Employees in Federal Government Establishments in Winchester, VA-WV (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC490240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Winchester, VA-WV (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC490240210             | Average Weekly Wages for Employees in State Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC490240210SA           | Average Weekly Wages for Employees in State Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC490240310             | Average Weekly Wages for Employees in Local Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC490240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC490240510             | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC490240510SA           | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD49020                 | Implicit Regional Price Deflator for Winchester, VA-WV (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT514902000000003A     | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT514902000000004      | Unemployed Persons in Winchester, VA-WV (MSA)                                                        | 1990-01-01          | 2022-04-01        |

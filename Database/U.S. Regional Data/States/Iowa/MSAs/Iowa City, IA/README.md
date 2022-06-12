@@ -8,16 +8,16 @@
 | AVELISPRIMM26980          | Housing Inventory: Average Listing Price Month-Over-Month in Iowa City, IA (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY26980          | Housing Inventory: Average Listing Price Year-Over-Year in Iowa City, IA (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA26980              | Market Hotness: Demand Score in Iowa City, IA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC269830010             | Total Quarterly Wages in Iowa City, IA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC269830010SA           | Total Quarterly Wages in Iowa City, IA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC269840010             | Average Weekly Wages for Employees in Total Covered Establishments in Iowa City, IA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC269840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Iowa City, IA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC269840110             | Average Weekly Wages for Employees in Federal Government Establishments in Iowa City, IA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC269840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Iowa City, IA (MSA)   | 1990-01-01          | 2021-07-01        |
+| ENUC269830010             | Total Quarterly Wages in Iowa City, IA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC269830010SA           | Total Quarterly Wages in Iowa City, IA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC269840010             | Average Weekly Wages for Employees in Total Covered Establishments in Iowa City, IA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC269840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Iowa City, IA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC269840110             | Average Weekly Wages for Employees in Federal Government Establishments in Iowa City, IA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC269840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Iowa City, IA (MSA)   | 1990-01-01          | 2021-10-01        |
 | ENUC269840210             | Average Weekly Wages for Employees in State Government Establishments in Iowa City, IA (MSA)     | 2007-04-01          | 2011-07-01        |
 | ENUC269840310             | Average Weekly Wages for Employees in Local Government Establishments in Iowa City, IA (MSA)     | 2007-04-01          | 2011-07-01        |
-| ENUC269840510             | Average Weekly Wages for Employees in Private Establishments in Iowa City, IA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC269840510SA           | Average Weekly Wages for Employees in Private Establishments in Iowa City, IA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC269840510             | Average Weekly Wages for Employees in Private Establishments in Iowa City, IA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC269840510SA           | Average Weekly Wages for Employees in Private Establishments in Iowa City, IA (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA26980            | Market Hotness: Hotness Rank in Iowa City, IA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA26980              | Market Hotness: Hotness Rank in Iowa City, IA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA26980            | Market Hotness: Hotness Rank in Iowa City, IA (CBSA)                                             | 2018-08-01          | 2022-05-01        |

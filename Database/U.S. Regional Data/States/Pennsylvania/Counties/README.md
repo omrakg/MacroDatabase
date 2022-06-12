@@ -21,7 +21,7 @@
 | Lehigh County, PA              |               145 |
 | Washington County, PA          |               145 |
 | Allegheny County, PA           |               145 |
-| Cambria County, PA             |               146 |
+| Cambria County, PA             |                 0 |
 | Lebanon County, PA             |               145 |
 | Fayette County, PA             |               144 |
 | Susquehanna County, PA         |                89 |
@@ -29,7 +29,7 @@
 | Lycoming County, PA            |               147 |
 | Snyder County, PA              |                90 |
 | Forest County, PA              |                88 |
-| Berks County, PA               |                 0 |
+| Berks County, PA               |               147 |
 | Philadelphia County - city, PA |                 0 |
 | Monroe County, PA              |               147 |
 | Sullivan County, PA            |                88 |

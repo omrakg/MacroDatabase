@@ -7,18 +7,18 @@
 | AVELISPRI27180            | Housing Inventory: Average Listing Price in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM27180          | Housing Inventory: Average Listing Price Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY27180          | Housing Inventory: Average Listing Price Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC271830010             | Total Quarterly Wages in Jackson, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC271830010SA           | Total Quarterly Wages in Jackson, TN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC271840010             | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, TN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC271840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, TN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC271840110             | Average Weekly Wages for Employees in Federal Government Establishments in Jackson, TN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC271840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jackson, TN (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC271830010             | Total Quarterly Wages in Jackson, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC271830010SA           | Total Quarterly Wages in Jackson, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC271840010             | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC271840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC271840110             | Average Weekly Wages for Employees in Federal Government Establishments in Jackson, TN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC271840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jackson, TN (MSA)                 | 1990-01-01          | 2021-10-01        |
 | ENUC271840210             | Average Weekly Wages for Employees in State Government Establishments in Jackson, TN (MSA)                   | 2004-07-01          | 2021-07-01        |
 | ENUC271840210SA           | Average Weekly Wages for Employees in State Government Establishments in Jackson, TN (MSA)                   | 2004-07-01          | 2021-07-01        |
 | ENUC271840310             | Average Weekly Wages for Employees in Local Government Establishments in Jackson, TN (MSA)                   | 2004-07-01          | 2021-07-01        |
 | ENUC271840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jackson, TN (MSA)                   | 2004-07-01          | 2021-07-01        |
-| ENUC271840510             | Average Weekly Wages for Employees in Private Establishments in Jackson, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC271840510SA           | Average Weekly Wages for Employees in Private Establishments in Jackson, TN (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC271840510             | Average Weekly Wages for Employees in Private Establishments in Jackson, TN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC271840510SA           | Average Weekly Wages for Employees in Private Establishments in Jackson, TN (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD27180                 | Implicit Regional Price Deflator for Jackson, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | JACEDUH                   | All Employees: Education and Health Services in Jackson, TN (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | JACEDUHN                  | All Employees: Education and Health Services in Jackson, TN (MSA)                                            | 1990-01-01          | 2022-04-01        |

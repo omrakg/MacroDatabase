@@ -40,18 +40,18 @@
 | AVELISPRIMM12100          | Housing Inventory: Average Listing Price Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY12100          | Housing Inventory: Average Listing Price Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA12100              | Market Hotness: Demand Score in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC121030010             | Total Quarterly Wages in Atlantic City-Hammonton, NJ (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC121030010SA           | Total Quarterly Wages in Atlantic City-Hammonton, NJ (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC121040010             | Average Weekly Wages for Employees in Total Covered Establishments in Atlantic City-Hammonton, NJ (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC121040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Atlantic City-Hammonton, NJ (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC121040110             | Average Weekly Wages for Employees in Federal Government Establishments in Atlantic City-Hammonton, NJ (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC121040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Atlantic City-Hammonton, NJ (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC121040210             | Average Weekly Wages for Employees in State Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC121040210SA           | Average Weekly Wages for Employees in State Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC121040310             | Average Weekly Wages for Employees in Local Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC121040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC121040510             | Average Weekly Wages for Employees in Private Establishments in Atlantic City-Hammonton, NJ (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC121040510SA           | Average Weekly Wages for Employees in Private Establishments in Atlantic City-Hammonton, NJ (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC121030010             | Total Quarterly Wages in Atlantic City-Hammonton, NJ (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC121030010SA           | Total Quarterly Wages in Atlantic City-Hammonton, NJ (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC121040010             | Average Weekly Wages for Employees in Total Covered Establishments in Atlantic City-Hammonton, NJ (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC121040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Atlantic City-Hammonton, NJ (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC121040110             | Average Weekly Wages for Employees in Federal Government Establishments in Atlantic City-Hammonton, NJ (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC121040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Atlantic City-Hammonton, NJ (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC121040210             | Average Weekly Wages for Employees in State Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC121040210SA           | Average Weekly Wages for Employees in State Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC121040310             | Average Weekly Wages for Employees in Local Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC121040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC121040510             | Average Weekly Wages for Employees in Private Establishments in Atlantic City-Hammonton, NJ (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC121040510SA           | Average Weekly Wages for Employees in Private Establishments in Atlantic City-Hammonton, NJ (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA12100            | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA12100              | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA12100            | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

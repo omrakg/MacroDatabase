@@ -7,18 +7,18 @@
 | AVELISPRI30860            | Housing Inventory: Average Listing Price in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM30860          | Housing Inventory: Average Listing Price Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY30860          | Housing Inventory: Average Listing Price Year-Over-Year in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC308630010             | Total Quarterly Wages in Logan, UT-ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC308630010SA           | Total Quarterly Wages in Logan, UT-ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC308640010             | Average Weekly Wages for Employees in Total Covered Establishments in Logan, UT-ID (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC308640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Logan, UT-ID (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC308640110             | Average Weekly Wages for Employees in Federal Government Establishments in Logan, UT-ID (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC308640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Logan, UT-ID (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC308640210             | Average Weekly Wages for Employees in State Government Establishments in Logan, UT-ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC308640210SA           | Average Weekly Wages for Employees in State Government Establishments in Logan, UT-ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC308640310             | Average Weekly Wages for Employees in Local Government Establishments in Logan, UT-ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC308640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Logan, UT-ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC308640510             | Average Weekly Wages for Employees in Private Establishments in Logan, UT-ID (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC308640510SA           | Average Weekly Wages for Employees in Private Establishments in Logan, UT-ID (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC308630010             | Total Quarterly Wages in Logan, UT-ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC308630010SA           | Total Quarterly Wages in Logan, UT-ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC308640010             | Average Weekly Wages for Employees in Total Covered Establishments in Logan, UT-ID (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC308640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Logan, UT-ID (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC308640110             | Average Weekly Wages for Employees in Federal Government Establishments in Logan, UT-ID (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC308640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Logan, UT-ID (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC308640210             | Average Weekly Wages for Employees in State Government Establishments in Logan, UT-ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC308640210SA           | Average Weekly Wages for Employees in State Government Establishments in Logan, UT-ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC308640310             | Average Weekly Wages for Employees in Local Government Establishments in Logan, UT-ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC308640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Logan, UT-ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC308640510             | Average Weekly Wages for Employees in Private Establishments in Logan, UT-ID (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC308640510SA           | Average Weekly Wages for Employees in Private Establishments in Logan, UT-ID (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD30860                 | Implicit Regional Price Deflator for Logan, UT-ID (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT493086000000003A     | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT493086000000004      | Unemployed Persons in Logan, UT-ID (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM43620          | Housing Inventory: Average Listing Price Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY43620          | Housing Inventory: Average Listing Price Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA43620              | Market Hotness: Demand Score in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC436230010             | Total Quarterly Wages in Sioux Falls, SD (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC436230010SA           | Total Quarterly Wages in Sioux Falls, SD (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC436240010             | Average Weekly Wages for Employees in Total Covered Establishments in Sioux Falls, SD (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC436240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sioux Falls, SD (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC436240110             | Average Weekly Wages for Employees in Federal Government Establishments in Sioux Falls, SD (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC436240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sioux Falls, SD (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC436240210             | Average Weekly Wages for Employees in State Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC436240210SA           | Average Weekly Wages for Employees in State Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC436240310             | Average Weekly Wages for Employees in Local Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC436240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC436240510             | Average Weekly Wages for Employees in Private Establishments in Sioux Falls, SD (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC436240510SA           | Average Weekly Wages for Employees in Private Establishments in Sioux Falls, SD (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC436230010             | Total Quarterly Wages in Sioux Falls, SD (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC436230010SA           | Total Quarterly Wages in Sioux Falls, SD (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC436240010             | Average Weekly Wages for Employees in Total Covered Establishments in Sioux Falls, SD (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC436240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sioux Falls, SD (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC436240110             | Average Weekly Wages for Employees in Federal Government Establishments in Sioux Falls, SD (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC436240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sioux Falls, SD (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC436240210             | Average Weekly Wages for Employees in State Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC436240210SA           | Average Weekly Wages for Employees in State Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC436240310             | Average Weekly Wages for Employees in Local Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC436240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC436240510             | Average Weekly Wages for Employees in Private Establishments in Sioux Falls, SD (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC436240510SA           | Average Weekly Wages for Employees in Private Establishments in Sioux Falls, SD (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA43620            | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA43620              | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA43620            | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

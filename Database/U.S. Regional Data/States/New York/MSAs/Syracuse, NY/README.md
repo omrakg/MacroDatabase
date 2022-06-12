@@ -8,23 +8,23 @@
 | AVELISPRIMM45060          | Housing Inventory: Average Listing Price Month-Over-Month in Syracuse, NY (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY45060          | Housing Inventory: Average Listing Price Year-Over-Year in Syracuse, NY (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA45060              | Market Hotness: Demand Score in Syracuse, NY (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC450630010             | Total Quarterly Wages in Syracuse, NY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC450630010SA           | Total Quarterly Wages in Syracuse, NY (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC450640010             | Average Weekly Wages for Employees in Total Covered Establishments in Syracuse, NY (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC450640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Syracuse, NY (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC450640110             | Average Weekly Wages for Employees in Federal Government Establishments in Syracuse, NY (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC450640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Syracuse, NY (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC450640210             | Average Weekly Wages for Employees in State Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC450640210SA           | Average Weekly Wages for Employees in State Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC450640310             | Average Weekly Wages for Employees in Local Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC450640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC450640510             | Average Weekly Wages for Employees in Private Establishments in Syracuse, NY (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC450640510SA           | Average Weekly Wages for Employees in Private Establishments in Syracuse, NY (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC450630010             | Total Quarterly Wages in Syracuse, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC450630010SA           | Total Quarterly Wages in Syracuse, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC450640010             | Average Weekly Wages for Employees in Total Covered Establishments in Syracuse, NY (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC450640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Syracuse, NY (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC450640110             | Average Weekly Wages for Employees in Federal Government Establishments in Syracuse, NY (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC450640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Syracuse, NY (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC450640210             | Average Weekly Wages for Employees in State Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC450640210SA           | Average Weekly Wages for Employees in State Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC450640310             | Average Weekly Wages for Employees in Local Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC450640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC450640510             | Average Weekly Wages for Employees in Private Establishments in Syracuse, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC450640510SA           | Average Weekly Wages for Employees in Private Establishments in Syracuse, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA45060            | Market Hotness: Hotness Rank in Syracuse, NY (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA45060              | Market Hotness: Hotness Rank in Syracuse, NY (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA45060            | Market Hotness: Hotness Rank in Syracuse, NY (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HOSCMSA45060              | Market Hotness: Hotness Score in Syracuse, NY (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
-| IHLCHG45060               | Job Postings on Indeed in Syracuse, NY (MSA)                                                                  | 2020-02-01          | 2022-05-27        |
+| IHLCHG45060               | Job Postings on Indeed in Syracuse, NY (MSA)                                                                  | 2020-02-01          | 2022-06-03        |
 | IRPD45060                 | Implicit Regional Price Deflator for Syracuse, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT364506000000003A     | Unemployment Rate in Syracuse, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT364506000000004      | Unemployed Persons in Syracuse, NY (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM43580          | Housing Inventory: Average Listing Price Month-Over-Month in Sioux City, IA-NE-SD (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY43580          | Housing Inventory: Average Listing Price Year-Over-Year in Sioux City, IA-NE-SD (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA43580              | Market Hotness: Demand Score in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC435830010             | Total Quarterly Wages in Sioux City, IA-NE-SD (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC435830010SA           | Total Quarterly Wages in Sioux City, IA-NE-SD (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC435840010             | Average Weekly Wages for Employees in Total Covered Establishments in Sioux City, IA-NE-SD (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC435840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sioux City, IA-NE-SD (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC435840110             | Average Weekly Wages for Employees in Federal Government Establishments in Sioux City, IA-NE-SD (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC435840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sioux City, IA-NE-SD (MSA)   | 1990-01-01          | 2021-07-01        |
+| ENUC435830010             | Total Quarterly Wages in Sioux City, IA-NE-SD (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC435830010SA           | Total Quarterly Wages in Sioux City, IA-NE-SD (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC435840010             | Average Weekly Wages for Employees in Total Covered Establishments in Sioux City, IA-NE-SD (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC435840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sioux City, IA-NE-SD (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC435840110             | Average Weekly Wages for Employees in Federal Government Establishments in Sioux City, IA-NE-SD (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC435840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sioux City, IA-NE-SD (MSA)   | 1990-01-01          | 2021-10-01        |
 | ENUC435840210             | Average Weekly Wages for Employees in State Government Establishments in Sioux City, IA-NE-SD (MSA)     | 2001-01-01          | 2021-07-01        |
 | ENUC435840210SA           | Average Weekly Wages for Employees in State Government Establishments in Sioux City, IA-NE-SD (MSA)     | 2001-01-01          | 2021-07-01        |
 | ENUC435840310             | Average Weekly Wages for Employees in Local Government Establishments in Sioux City, IA-NE-SD (MSA)     | 2001-01-01          | 2021-07-01        |
 | ENUC435840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sioux City, IA-NE-SD (MSA)     | 2001-01-01          | 2021-07-01        |
-| ENUC435840510             | Average Weekly Wages for Employees in Private Establishments in Sioux City, IA-NE-SD (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC435840510SA           | Average Weekly Wages for Employees in Private Establishments in Sioux City, IA-NE-SD (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC435840510             | Average Weekly Wages for Employees in Private Establishments in Sioux City, IA-NE-SD (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC435840510SA           | Average Weekly Wages for Employees in Private Establishments in Sioux City, IA-NE-SD (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA43580            | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA43580              | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA43580            | Market Hotness: Hotness Rank in Sioux City, IA-NE-SD (CBSA)                                             | 2018-08-01          | 2022-05-01        |

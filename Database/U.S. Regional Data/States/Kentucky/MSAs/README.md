@@ -3,7 +3,7 @@
 | Clarksville, TN-KY                 |               155 |
 | Huntington-Ashland, WV-KY-OH       |                 0 |
 | Lexington-Fayette, KY              |               171 |
-| Bowling Green, KY                  |               144 |
+| Bowling Green, KY                  |                 0 |
 | Elizabethtown-Fort Knox, KY        |               144 |
 | Cincinnati, OH-KY-IN               |                 0 |
 | Owensboro, KY                      |               138 |

@@ -8,18 +8,18 @@
 | AVELISPRIMM41420          | Housing Inventory: Average Listing Price Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY41420          | Housing Inventory: Average Listing Price Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA41420              | Market Hotness: Demand Score in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC414230010             | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC414230010SA           | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC414240010             | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC414240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC414240110             | Average Weekly Wages for Employees in Federal Government Establishments in Salem, OR (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC414240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salem, OR (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC414240210             | Average Weekly Wages for Employees in State Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC414240210SA           | Average Weekly Wages for Employees in State Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC414240310             | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC414240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC414240510             | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC414240510SA           | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC414230010             | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC414230010SA           | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC414240010             | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC414240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC414240110             | Average Weekly Wages for Employees in Federal Government Establishments in Salem, OR (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC414240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salem, OR (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC414240210             | Average Weekly Wages for Employees in State Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC414240210SA           | Average Weekly Wages for Employees in State Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC414240310             | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC414240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC414240510             | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC414240510SA           | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA41420              | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

@@ -1,18 +1,18 @@
 | id                     | title                                                                                                    | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS48060Q         | All-Transactions House Price Index for Watertown-Fort Drum, NY (MSA)                                     | 1993-10-01          | 2022-01-01        |
-| ENUC480630010          | Total Quarterly Wages in Watertown-Fort Drum, NY (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC480630010SA        | Total Quarterly Wages in Watertown-Fort Drum, NY (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC480640010          | Average Weekly Wages for Employees in Total Covered Establishments in Watertown-Fort Drum, NY (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC480640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Watertown-Fort Drum, NY (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC480640110          | Average Weekly Wages for Employees in Federal Government Establishments in Watertown-Fort Drum, NY (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC480640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Watertown-Fort Drum, NY (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC480640210          | Average Weekly Wages for Employees in State Government Establishments in Watertown-Fort Drum, NY (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC480640210SA        | Average Weekly Wages for Employees in State Government Establishments in Watertown-Fort Drum, NY (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC480640310          | Average Weekly Wages for Employees in Local Government Establishments in Watertown-Fort Drum, NY (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC480640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Watertown-Fort Drum, NY (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC480640510          | Average Weekly Wages for Employees in Private Establishments in Watertown-Fort Drum, NY (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC480640510SA        | Average Weekly Wages for Employees in Private Establishments in Watertown-Fort Drum, NY (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC480630010          | Total Quarterly Wages in Watertown-Fort Drum, NY (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC480630010SA        | Total Quarterly Wages in Watertown-Fort Drum, NY (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC480640010          | Average Weekly Wages for Employees in Total Covered Establishments in Watertown-Fort Drum, NY (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC480640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Watertown-Fort Drum, NY (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC480640110          | Average Weekly Wages for Employees in Federal Government Establishments in Watertown-Fort Drum, NY (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC480640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Watertown-Fort Drum, NY (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC480640210          | Average Weekly Wages for Employees in State Government Establishments in Watertown-Fort Drum, NY (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC480640210SA        | Average Weekly Wages for Employees in State Government Establishments in Watertown-Fort Drum, NY (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC480640310          | Average Weekly Wages for Employees in Local Government Establishments in Watertown-Fort Drum, NY (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC480640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Watertown-Fort Drum, NY (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC480640510          | Average Weekly Wages for Employees in Private Establishments in Watertown-Fort Drum, NY (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC480640510SA        | Average Weekly Wages for Employees in Private Establishments in Watertown-Fort Drum, NY (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD48060              | Implicit Regional Price Deflator for Watertown-Fort Drum, NY (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT364806000000003   | Unemployment Rate in Watertown-Fort Drum, NY (MSA)                                                       | 1990-01-01          | 2022-04-01        |
 | LAUMT364806000000003A  | Unemployment Rate in Watertown-Fort Drum, NY (MSA)                                                       | 1990-01-01          | 2021-01-01        |

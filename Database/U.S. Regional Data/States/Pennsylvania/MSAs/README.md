@@ -15,7 +15,7 @@
 | Altoona, PA                                 |               135 |
 | Youngstown-Warren-Boardman, OH-PA           |                 0 |
 | New York-Newark-Jersey City, NY-NJ-PA       |               164 |
-| Johnstown, PA                               |               152 |
+| Johnstown, PA                               |                 0 |
 | Allentown-Bethlehem-Easton, PA-NJ           |               220 |
 | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |                 0 |
 | Lancaster, PA                               |               183 |

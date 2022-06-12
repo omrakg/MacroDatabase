@@ -7,18 +7,18 @@
 | AVELISPRI26300            | Housing Inventory: Average Listing Price in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM26300          | Housing Inventory: Average Listing Price Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY26300          | Housing Inventory: Average Listing Price Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-05-01        |
-| ENUC263030010             | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2021-07-01        |
-| ENUC263030010SA           | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2021-07-01        |
-| ENUC263040010             | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC263040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC263040110             | Average Weekly Wages for Employees in Federal Government Establishments in Hot Springs, AR (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC263040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hot Springs, AR (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC263040210             | Average Weekly Wages for Employees in State Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC263040210SA           | Average Weekly Wages for Employees in State Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC263040310             | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC263040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC263040510             | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC263040510SA           | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC263030010             | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2021-10-01        |
+| ENUC263030010SA           | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2021-10-01        |
+| ENUC263040010             | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC263040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC263040110             | Average Weekly Wages for Employees in Federal Government Establishments in Hot Springs, AR (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC263040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hot Springs, AR (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC263040210             | Average Weekly Wages for Employees in State Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC263040210SA           | Average Weekly Wages for Employees in State Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC263040310             | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC263040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC263040510             | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC263040510SA           | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2021-10-01        |
 | HSPBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 2004-01-01          | 2022-04-01        |
 | HSPBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 1988-01-01          | 2022-04-01        |
 | HSPBPPRIV                 | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 2004-01-01          | 2022-04-01        |

@@ -1,7 +1,7 @@
 | Folder                    |   Files / Folders |
 |---------------------------|-------------------|
 | St. Clair County, MO      |                89 |
-| Sullivan County, MO       |                 0 |
+| Sullivan County, MO       |                89 |
 | Harrison County, MO       |                88 |
 | Barry County, MO          |                90 |
 | Randolph County, MO       |                90 |
@@ -43,7 +43,7 @@
 | Linn County, MO           |                90 |
 | Marion County, MO         |                89 |
 | Franklin County, MO       |               146 |
-| Cedar County, MO          |                88 |
+| Cedar County, MO          |                 0 |
 | Polk County, MO           |                90 |
 | Stoddard County, MO       |                90 |
 | Chariton County, MO       |                88 |
@@ -92,7 +92,7 @@
 | Perry County, MO          |                90 |
 | Putnam County, MO         |                88 |
 | Miller County, MO         |                90 |
-| Clay County, MO           |                 0 |
+| Clay County, MO           |               147 |
 | Carter County, MO         |                88 |
 | Howell County, MO         |                90 |
 | Worth County, MO          |                89 |
@@ -103,7 +103,7 @@
 | Ripley County, MO         |                90 |
 | St. Louis County, MO      |               147 |
 | Platte County, MO         |               147 |
-| Andrew County, MO         |                90 |
+| Andrew County, MO         |                 0 |
 | Clark County, MO          |                89 |
 | Barton County, MO         |                90 |
 | Morgan County, MO         |                90 |

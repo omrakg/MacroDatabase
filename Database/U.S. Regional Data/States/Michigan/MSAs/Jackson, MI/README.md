@@ -8,18 +8,18 @@
 | AVELISPRIMM27100          | Housing Inventory: Average Listing Price Month-Over-Month in Jackson, MI (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY27100          | Housing Inventory: Average Listing Price Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA27100              | Market Hotness: Demand Score in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC271030010             | Total Quarterly Wages in Jackson, MI (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC271030010SA           | Total Quarterly Wages in Jackson, MI (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC271040010             | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, MI (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC271040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, MI (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC271040110             | Average Weekly Wages for Employees in Federal Government Establishments in Jackson, MI (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC271040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jackson, MI (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC271040210             | Average Weekly Wages for Employees in State Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC271040210SA           | Average Weekly Wages for Employees in State Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC271040310             | Average Weekly Wages for Employees in Local Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC271040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC271040510             | Average Weekly Wages for Employees in Private Establishments in Jackson, MI (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC271040510SA           | Average Weekly Wages for Employees in Private Establishments in Jackson, MI (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC271030010             | Total Quarterly Wages in Jackson, MI (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC271030010SA           | Total Quarterly Wages in Jackson, MI (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC271040010             | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, MI (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC271040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, MI (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC271040110             | Average Weekly Wages for Employees in Federal Government Establishments in Jackson, MI (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC271040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jackson, MI (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC271040210             | Average Weekly Wages for Employees in State Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC271040210SA           | Average Weekly Wages for Employees in State Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC271040310             | Average Weekly Wages for Employees in Local Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC271040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC271040510             | Average Weekly Wages for Employees in Private Establishments in Jackson, MI (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC271040510SA           | Average Weekly Wages for Employees in Private Establishments in Jackson, MI (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA27100            | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA27100              | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA27100            | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2018-08-01          | 2022-05-01        |

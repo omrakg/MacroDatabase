@@ -1,18 +1,18 @@
 | id                     | title                                                                                        | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS25220Q         | All-Transactions House Price Index for Hammond, LA (MSA)                                     | 1994-01-01          | 2022-01-01        |
-| ENUC252230010          | Total Quarterly Wages in Hammond, LA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC252230010SA        | Total Quarterly Wages in Hammond, LA (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC252240010          | Average Weekly Wages for Employees in Total Covered Establishments in Hammond, LA (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC252240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Hammond, LA (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC252240110          | Average Weekly Wages for Employees in Federal Government Establishments in Hammond, LA (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC252240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Hammond, LA (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC252240210          | Average Weekly Wages for Employees in State Government Establishments in Hammond, LA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC252240210SA        | Average Weekly Wages for Employees in State Government Establishments in Hammond, LA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC252240310          | Average Weekly Wages for Employees in Local Government Establishments in Hammond, LA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC252240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Hammond, LA (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC252240510          | Average Weekly Wages for Employees in Private Establishments in Hammond, LA (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC252240510SA        | Average Weekly Wages for Employees in Private Establishments in Hammond, LA (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC252230010          | Total Quarterly Wages in Hammond, LA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC252230010SA        | Total Quarterly Wages in Hammond, LA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC252240010          | Average Weekly Wages for Employees in Total Covered Establishments in Hammond, LA (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC252240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Hammond, LA (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC252240110          | Average Weekly Wages for Employees in Federal Government Establishments in Hammond, LA (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC252240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Hammond, LA (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC252240210          | Average Weekly Wages for Employees in State Government Establishments in Hammond, LA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC252240210SA        | Average Weekly Wages for Employees in State Government Establishments in Hammond, LA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC252240310          | Average Weekly Wages for Employees in Local Government Establishments in Hammond, LA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC252240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Hammond, LA (MSA)   | 2013-01-01          | 2021-10-01        |
+| ENUC252240510          | Average Weekly Wages for Employees in Private Establishments in Hammond, LA (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC252240510SA        | Average Weekly Wages for Employees in Private Establishments in Hammond, LA (MSA)            | 2013-01-01          | 2021-10-01        |
 | HAMM922PCPI            | Per Capita Personal Income in Hammond, LA (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | HAMPOP                 | Resident Population in Hammond, LA (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | IRPD25220              | Implicit Regional Price Deflator for Hammond, LA (MSA)                                       | 2008-01-01          | 2020-01-01        |

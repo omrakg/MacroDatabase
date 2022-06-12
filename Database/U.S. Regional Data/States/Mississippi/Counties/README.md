@@ -20,7 +20,7 @@
 | Sunflower County, MS       |                89 |
 | Rankin County, MS          |               147 |
 | Hinds County, MS           |               147 |
-| Attala County, MS          |                88 |
+| Attala County, MS          |                 0 |
 | Noxubee County, MS         |                87 |
 | Union County, MS           |                89 |
 | Greene County, MS          |                88 |
@@ -59,7 +59,7 @@
 | Tishomingo County, MS      |                90 |
 | Forrest County, MS         |               147 |
 | Benton County, MS          |                88 |
-| Holmes County, MS          |                 0 |
+| Holmes County, MS          |                87 |
 | Jasper County, MS          |                87 |
 | Lowndes County, MS         |               146 |
 | Sharkey County, MS         |                88 |
@@ -80,5 +80,5 @@
 | Jones County, MS           |               146 |
 | Lincoln County, MS         |                90 |
 | Covington County, MS       |                89 |
-| Webster County, MS         |                87 |
+| Webster County, MS         |                 0 |
 | Winston County, MS         |                90 |

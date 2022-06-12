@@ -10,7 +10,7 @@
 | Harlan County, KY       |                89 |
 | Washington County, KY   |                90 |
 | Trimble County, KY      |                88 |
-| Floyd County, KY        |                 0 |
+| Floyd County, KY        |                89 |
 | Carter County, KY       |                90 |
 | Fulton County, KY       |                88 |
 | Ballard County, KY      |                88 |
@@ -32,7 +32,7 @@
 | Caldwell County, KY     |                90 |
 | Nicholas County, KY     |                89 |
 | Powell County, KY       |                90 |
-| Campbell County, KY     |               145 |
+| Campbell County, KY     |                 0 |
 | Boone County, KY        |               145 |
 | Graves County, KY       |                90 |
 | Lyon County, KY         |                90 |
@@ -70,7 +70,7 @@
 | Johnson County, KY      |                89 |
 | Clinton County, KY      |                88 |
 | Bourbon County, KY      |                90 |
-| Menifee County, KY      |                 0 |
+| Menifee County, KY      |                86 |
 | Pike County, KY         |                91 |
 | Franklin County, KY     |               145 |
 | Grayson County, KY      |                89 |

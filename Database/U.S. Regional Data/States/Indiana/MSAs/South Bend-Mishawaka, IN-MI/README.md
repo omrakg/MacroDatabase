@@ -8,18 +8,18 @@
 | AVELISPRIMM43780          | Housing Inventory: Average Listing Price Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY43780          | Housing Inventory: Average Listing Price Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA43780              | Market Hotness: Demand Score in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC437830010             | Total Quarterly Wages in South Bend-Mishawaka, IN-MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC437830010SA           | Total Quarterly Wages in South Bend-Mishawaka, IN-MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC437840010             | Average Weekly Wages for Employees in Total Covered Establishments in South Bend-Mishawaka, IN-MI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC437840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in South Bend-Mishawaka, IN-MI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC437840110             | Average Weekly Wages for Employees in Federal Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC437840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC437840210             | Average Weekly Wages for Employees in State Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-07-01        |
-| ENUC437840210SA           | Average Weekly Wages for Employees in State Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-07-01        |
-| ENUC437840310             | Average Weekly Wages for Employees in Local Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-07-01        |
-| ENUC437840310SA           | Average Weekly Wages for Employees in Local Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-07-01        |
-| ENUC437840510             | Average Weekly Wages for Employees in Private Establishments in South Bend-Mishawaka, IN-MI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC437840510SA           | Average Weekly Wages for Employees in Private Establishments in South Bend-Mishawaka, IN-MI (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC437830010             | Total Quarterly Wages in South Bend-Mishawaka, IN-MI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC437830010SA           | Total Quarterly Wages in South Bend-Mishawaka, IN-MI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC437840010             | Average Weekly Wages for Employees in Total Covered Establishments in South Bend-Mishawaka, IN-MI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC437840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in South Bend-Mishawaka, IN-MI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC437840110             | Average Weekly Wages for Employees in Federal Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC437840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC437840210             | Average Weekly Wages for Employees in State Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-10-01        |
+| ENUC437840210SA           | Average Weekly Wages for Employees in State Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-10-01        |
+| ENUC437840310             | Average Weekly Wages for Employees in Local Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-10-01        |
+| ENUC437840310SA           | Average Weekly Wages for Employees in Local Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-10-01        |
+| ENUC437840510             | Average Weekly Wages for Employees in Private Establishments in South Bend-Mishawaka, IN-MI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC437840510SA           | Average Weekly Wages for Employees in Private Establishments in South Bend-Mishawaka, IN-MI (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA43780            | Market Hotness: Hotness Rank in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA43780              | Market Hotness: Hotness Rank in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA43780            | Market Hotness: Hotness Rank in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

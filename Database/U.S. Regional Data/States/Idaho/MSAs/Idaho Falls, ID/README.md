@@ -7,16 +7,16 @@
 | AVELISPRI26820            | Housing Inventory: Average Listing Price in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM26820          | Housing Inventory: Average Listing Price Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY26820          | Housing Inventory: Average Listing Price Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC268230010             | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC268230010SA           | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC268240010             | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC268240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC268240110             | Average Weekly Wages for Employees in Federal Government Establishments in Idaho Falls, ID (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC268240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Idaho Falls, ID (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC268240210             | Average Weekly Wages for Employees in State Government Establishments in Idaho Falls, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC268240310             | Average Weekly Wages for Employees in Local Government Establishments in Idaho Falls, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC268240510             | Average Weekly Wages for Employees in Private Establishments in Idaho Falls, ID (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC268240510SA           | Average Weekly Wages for Employees in Private Establishments in Idaho Falls, ID (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC268230010             | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC268230010SA           | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC268240010             | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC268240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC268240110             | Average Weekly Wages for Employees in Federal Government Establishments in Idaho Falls, ID (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC268240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Idaho Falls, ID (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC268240210             | Average Weekly Wages for Employees in State Government Establishments in Idaho Falls, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC268240310             | Average Weekly Wages for Employees in Local Government Establishments in Idaho Falls, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC268240510             | Average Weekly Wages for Employees in Private Establishments in Idaho Falls, ID (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC268240510SA           | Average Weekly Wages for Employees in Private Establishments in Idaho Falls, ID (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IDAH816EDUH               | All Employees: Education and Health Services in Idaho Falls, ID (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | IDAH816EDUHN              | All Employees: Education and Health Services in Idaho Falls, ID (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | IDAH816FIRE               | All Employees: Financial Activities in Idaho Falls, ID (MSA)                                                     | 1990-01-01          | 2022-04-01        |

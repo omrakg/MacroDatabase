@@ -7,18 +7,18 @@
 | AVELISPRI33540            | Housing Inventory: Average Listing Price in Missoula, MT (CBSA)                                       | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM33540          | Housing Inventory: Average Listing Price Month-Over-Month in Missoula, MT (CBSA)                      | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY33540          | Housing Inventory: Average Listing Price Year-Over-Year in Missoula, MT (CBSA)                        | 2017-07-01          | 2022-05-01        |
-| ENUC335430010             | Total Quarterly Wages in Missoula, MT (MSA)                                                           | 1990-01-01          | 2021-07-01        |
-| ENUC335430010SA           | Total Quarterly Wages in Missoula, MT (MSA)                                                           | 1990-01-01          | 2021-07-01        |
-| ENUC335440010             | Average Weekly Wages for Employees in Total Covered Establishments in Missoula, MT (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC335440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Missoula, MT (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC335440110             | Average Weekly Wages for Employees in Federal Government Establishments in Missoula, MT (MSA)         | 1990-01-01          | 2021-07-01        |
-| ENUC335440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Missoula, MT (MSA)         | 1990-01-01          | 2021-07-01        |
-| ENUC335440210             | Average Weekly Wages for Employees in State Government Establishments in Missoula, MT (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC335440210SA           | Average Weekly Wages for Employees in State Government Establishments in Missoula, MT (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC335440310             | Average Weekly Wages for Employees in Local Government Establishments in Missoula, MT (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC335440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Missoula, MT (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC335440510             | Average Weekly Wages for Employees in Private Establishments in Missoula, MT (MSA)                    | 1990-01-01          | 2021-07-01        |
-| ENUC335440510SA           | Average Weekly Wages for Employees in Private Establishments in Missoula, MT (MSA)                    | 1990-01-01          | 2021-07-01        |
+| ENUC335430010             | Total Quarterly Wages in Missoula, MT (MSA)                                                           | 1990-01-01          | 2021-10-01        |
+| ENUC335430010SA           | Total Quarterly Wages in Missoula, MT (MSA)                                                           | 1990-01-01          | 2021-10-01        |
+| ENUC335440010             | Average Weekly Wages for Employees in Total Covered Establishments in Missoula, MT (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC335440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Missoula, MT (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC335440110             | Average Weekly Wages for Employees in Federal Government Establishments in Missoula, MT (MSA)         | 1990-01-01          | 2021-10-01        |
+| ENUC335440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Missoula, MT (MSA)         | 1990-01-01          | 2021-10-01        |
+| ENUC335440210             | Average Weekly Wages for Employees in State Government Establishments in Missoula, MT (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC335440210SA           | Average Weekly Wages for Employees in State Government Establishments in Missoula, MT (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC335440310             | Average Weekly Wages for Employees in Local Government Establishments in Missoula, MT (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC335440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Missoula, MT (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC335440510             | Average Weekly Wages for Employees in Private Establishments in Missoula, MT (MSA)                    | 1990-01-01          | 2021-10-01        |
+| ENUC335440510SA           | Average Weekly Wages for Employees in Private Establishments in Missoula, MT (MSA)                    | 1990-01-01          | 2021-10-01        |
 | IRPD33540                 | Implicit Regional Price Deflator for Missoula, MT (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | LAUMT303354000000003A     | Unemployment Rate in Missoula, MT (MSA)                                                               | 1990-01-01          | 2021-01-01        |
 | LAUMT303354000000004      | Unemployed Persons in Missoula, MT (MSA)                                                              | 1990-01-01          | 2022-04-01        |

@@ -17,14 +17,14 @@
 | AVELISPRI11180            | Housing Inventory: Average Listing Price in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM11180          | Housing Inventory: Average Listing Price Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY11180          | Housing Inventory: Average Listing Price Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC111830010             | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC111830010SA           | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC111840010             | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC111840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC111840110             | Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC111840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC111840510             | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC111840510SA           | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC111830010             | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC111830010SA           | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC111840010             | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC111840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC111840110             | Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC111840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC111840510             | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC111840510SA           | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD11180                 | Implicit Regional Price Deflator for Ames, IA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT191118000000003A     | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT191118000000004      | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2022-04-01        |

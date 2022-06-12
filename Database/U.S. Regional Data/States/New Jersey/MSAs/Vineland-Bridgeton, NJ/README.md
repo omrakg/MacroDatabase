@@ -7,18 +7,18 @@
 | AVELISPRI47220            | Housing Inventory: Average Listing Price in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM47220          | Housing Inventory: Average Listing Price Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY47220          | Housing Inventory: Average Listing Price Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ENUC472230010             | Total Quarterly Wages in Vineland-Bridgeton, NJ (MSA)                                                                  | 1990-01-01          | 2021-07-01        |
-| ENUC472230010SA           | Total Quarterly Wages in Vineland-Bridgeton, NJ (MSA)                                                                  | 1990-01-01          | 2021-07-01        |
-| ENUC472240010             | Average Weekly Wages for Employees in Total Covered Establishments in Vineland-Millville-Bridgeton, NJ (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC472240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Vineland-Millville-Bridgeton, NJ (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC472240110             | Average Weekly Wages for Employees in Federal Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC472240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC472240210             | Average Weekly Wages for Employees in State Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)        | 1995-01-01          | 2021-07-01        |
-| ENUC472240210SA           | Average Weekly Wages for Employees in State Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)        | 1995-01-01          | 2021-07-01        |
-| ENUC472240310             | Average Weekly Wages for Employees in Local Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC472240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC472240510             | Average Weekly Wages for Employees in Private Establishments in Vineland-Millville-Bridgeton, NJ (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC472240510SA           | Average Weekly Wages for Employees in Private Establishments in Vineland-Millville-Bridgeton, NJ (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC472230010             | Total Quarterly Wages in Vineland-Bridgeton, NJ (MSA)                                                                  | 1990-01-01          | 2021-10-01        |
+| ENUC472230010SA           | Total Quarterly Wages in Vineland-Bridgeton, NJ (MSA)                                                                  | 1990-01-01          | 2021-10-01        |
+| ENUC472240010             | Average Weekly Wages for Employees in Total Covered Establishments in Vineland-Millville-Bridgeton, NJ (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC472240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Vineland-Millville-Bridgeton, NJ (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC472240110             | Average Weekly Wages for Employees in Federal Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC472240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC472240210             | Average Weekly Wages for Employees in State Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)        | 1995-01-01          | 2021-10-01        |
+| ENUC472240210SA           | Average Weekly Wages for Employees in State Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)        | 1995-01-01          | 2021-10-01        |
+| ENUC472240310             | Average Weekly Wages for Employees in Local Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC472240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Vineland-Millville-Bridgeton, NJ (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC472240510             | Average Weekly Wages for Employees in Private Establishments in Vineland-Millville-Bridgeton, NJ (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC472240510SA           | Average Weekly Wages for Employees in Private Establishments in Vineland-Millville-Bridgeton, NJ (MSA)                 | 1990-01-01          | 2021-10-01        |
 | IRPD47220                 | Implicit Regional Price Deflator for Vineland-Bridgeton, NJ (MSA)                                                      | 2008-01-01          | 2020-01-01        |
 | LAUMT344722000000003A     | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | LAUMT344722000000004      | Unemployed Persons in Vineland-Bridgeton, NJ (MSA)                                                                     | 1990-01-01          | 2022-04-01        |

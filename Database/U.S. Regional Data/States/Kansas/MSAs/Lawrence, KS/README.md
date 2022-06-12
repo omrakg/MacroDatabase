@@ -7,14 +7,14 @@
 | AVELISPRI29940            | Housing Inventory: Average Listing Price in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM29940          | Housing Inventory: Average Listing Price Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY29940          | Housing Inventory: Average Listing Price Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC299430010             | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC299430010SA           | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC299440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC299440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC299440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lawrence, KS (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC299440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lawrence, KS (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC299440510             | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC299440510SA           | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC299430010             | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC299430010SA           | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC299440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC299440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC299440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lawrence, KS (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC299440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lawrence, KS (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC299440510             | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC299440510SA           | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD29940                 | Implicit Regional Price Deflator for Lawrence, KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT202994000000003A     | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT202994000000004      | Unemployed Persons in Lawrence, KS (MSA)                                                        | 1990-01-01          | 2022-04-01        |

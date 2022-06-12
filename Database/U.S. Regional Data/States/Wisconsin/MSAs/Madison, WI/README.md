@@ -8,23 +8,23 @@
 | AVELISPRIMM31540          | Housing Inventory: Average Listing Price Month-Over-Month in Madison, WI (CBSA)                                          | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY31540          | Housing Inventory: Average Listing Price Year-Over-Year in Madison, WI (CBSA)                                            | 2017-07-01          | 2022-05-01        |
 | DESCMSA31540              | Market Hotness: Demand Score in Madison, WI (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
-| ENUC315430010             | Total Quarterly Wages in Madison, WI (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC315430010SA           | Total Quarterly Wages in Madison, WI (MSA)                                                                               | 1990-01-01          | 2021-07-01        |
-| ENUC315440010             | Average Weekly Wages for Employees in Total Covered Establishments in Madison, WI (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC315440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Madison, WI (MSA)                                  | 1990-01-01          | 2021-07-01        |
-| ENUC315440110             | Average Weekly Wages for Employees in Federal Government Establishments in Madison, WI (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC315440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Madison, WI (MSA)                             | 1990-01-01          | 2021-07-01        |
-| ENUC315440210             | Average Weekly Wages for Employees in State Government Establishments in Madison, WI (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC315440210SA           | Average Weekly Wages for Employees in State Government Establishments in Madison, WI (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC315440310             | Average Weekly Wages for Employees in Local Government Establishments in Madison, WI (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC315440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Madison, WI (MSA)                               | 1990-01-01          | 2021-07-01        |
-| ENUC315440510             | Average Weekly Wages for Employees in Private Establishments in Madison, WI (MSA)                                        | 1990-01-01          | 2021-07-01        |
-| ENUC315440510SA           | Average Weekly Wages for Employees in Private Establishments in Madison, WI (MSA)                                        | 1990-01-01          | 2021-07-01        |
+| ENUC315430010             | Total Quarterly Wages in Madison, WI (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC315430010SA           | Total Quarterly Wages in Madison, WI (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
+| ENUC315440010             | Average Weekly Wages for Employees in Total Covered Establishments in Madison, WI (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC315440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Madison, WI (MSA)                                  | 1990-01-01          | 2021-10-01        |
+| ENUC315440110             | Average Weekly Wages for Employees in Federal Government Establishments in Madison, WI (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC315440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Madison, WI (MSA)                             | 1990-01-01          | 2021-10-01        |
+| ENUC315440210             | Average Weekly Wages for Employees in State Government Establishments in Madison, WI (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC315440210SA           | Average Weekly Wages for Employees in State Government Establishments in Madison, WI (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC315440310             | Average Weekly Wages for Employees in Local Government Establishments in Madison, WI (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC315440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Madison, WI (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC315440510             | Average Weekly Wages for Employees in Private Establishments in Madison, WI (MSA)                                        | 1990-01-01          | 2021-10-01        |
+| ENUC315440510SA           | Average Weekly Wages for Employees in Private Establishments in Madison, WI (MSA)                                        | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA31540            | Market Hotness: Hotness Rank in Madison, WI (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
 | HORAMSA31540              | Market Hotness: Hotness Rank in Madison, WI (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA31540            | Market Hotness: Hotness Rank in Madison, WI (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
 | HOSCMSA31540              | Market Hotness: Hotness Score in Madison, WI (CBSA)                                                                      | 2017-08-01          | 2022-05-01        |
-| IHLCHG31540               | Job Postings on Indeed in Madison, WI (MSA)                                                                              | 2020-02-01          | 2022-05-27        |
+| IHLCHG31540               | Job Postings on Indeed in Madison, WI (MSA)                                                                              | 2020-02-01          | 2022-06-03        |
 | IRPD31540                 | Implicit Regional Price Deflator for Madison, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT553154000000003A     | Unemployment Rate in Madison, WI (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
 | LAUMT553154000000004      | Unemployed Persons in Madison, WI (MSA)                                                                                  | 1990-01-01          | 2022-04-01        |

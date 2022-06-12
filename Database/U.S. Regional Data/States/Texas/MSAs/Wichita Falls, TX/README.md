@@ -8,18 +8,18 @@
 | AVELISPRIMM48660          | Housing Inventory: Average Listing Price Month-Over-Month in Wichita Falls, TX (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY48660          | Housing Inventory: Average Listing Price Year-Over-Year in Wichita Falls, TX (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA48660              | Market Hotness: Demand Score in Wichita Falls, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC486630010             | Total Quarterly Wages in Wichita Falls, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC486630010SA           | Total Quarterly Wages in Wichita Falls, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC486640010             | Average Weekly Wages for Employees in Total Covered Establishments in Wichita Falls, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC486640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wichita Falls, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC486640110             | Average Weekly Wages for Employees in Federal Government Establishments in Wichita Falls, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC486640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wichita Falls, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC486640210             | Average Weekly Wages for Employees in State Government Establishments in Wichita Falls, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC486640210SA           | Average Weekly Wages for Employees in State Government Establishments in Wichita Falls, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC486640310             | Average Weekly Wages for Employees in Local Government Establishments in Wichita Falls, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC486640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wichita Falls, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC486640510             | Average Weekly Wages for Employees in Private Establishments in Wichita Falls, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC486640510SA           | Average Weekly Wages for Employees in Private Establishments in Wichita Falls, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC486630010             | Total Quarterly Wages in Wichita Falls, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC486630010SA           | Total Quarterly Wages in Wichita Falls, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC486640010             | Average Weekly Wages for Employees in Total Covered Establishments in Wichita Falls, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC486640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wichita Falls, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC486640110             | Average Weekly Wages for Employees in Federal Government Establishments in Wichita Falls, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC486640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wichita Falls, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC486640210             | Average Weekly Wages for Employees in State Government Establishments in Wichita Falls, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC486640210SA           | Average Weekly Wages for Employees in State Government Establishments in Wichita Falls, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC486640310             | Average Weekly Wages for Employees in Local Government Establishments in Wichita Falls, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC486640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wichita Falls, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC486640510             | Average Weekly Wages for Employees in Private Establishments in Wichita Falls, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC486640510SA           | Average Weekly Wages for Employees in Private Establishments in Wichita Falls, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA48660            | Market Hotness: Hotness Rank in Wichita Falls, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA48660              | Market Hotness: Hotness Rank in Wichita Falls, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA48660            | Market Hotness: Hotness Rank in Wichita Falls, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

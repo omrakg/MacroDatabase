@@ -8,14 +8,14 @@
 | AVELISPRIMM39300          | Housing Inventory: Average Listing Price Month-Over-Month in Providence-Warwick, RI-MA (CBSA)                             | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY39300          | Housing Inventory: Average Listing Price Year-Over-Year in Providence-Warwick, RI-MA (CBSA)                               | 2017-07-01          | 2022-05-01        |
 | DESCMSA39300              | Market Hotness: Demand Score in Providence-Warwick, RI-MA (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
-| ENUC393030010             | Total Quarterly Wages in Providence-Warwick, RI-MA (MSA)                                                                  | 1990-01-01          | 2021-07-01        |
-| ENUC393030010SA           | Total Quarterly Wages in Providence-Warwick, RI-MA (MSA)                                                                  | 1990-01-01          | 2021-07-01        |
-| ENUC393040010             | Average Weekly Wages for Employees in Total Covered Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC393040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC393040110             | Average Weekly Wages for Employees in Federal Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA) | 1990-01-01          | 2021-07-01        |
-| ENUC393040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA) | 1990-01-01          | 2021-07-01        |
-| ENUC393040210             | Average Weekly Wages for Employees in State Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC393040210SA           | Average Weekly Wages for Employees in State Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)   | 1990-01-01          | 2021-07-01        |
+| ENUC393030010             | Total Quarterly Wages in Providence-Warwick, RI-MA (MSA)                                                                  | 1990-01-01          | 2021-10-01        |
+| ENUC393030010SA           | Total Quarterly Wages in Providence-Warwick, RI-MA (MSA)                                                                  | 1990-01-01          | 2021-10-01        |
+| ENUC393040010             | Average Weekly Wages for Employees in Total Covered Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC393040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC393040110             | Average Weekly Wages for Employees in Federal Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC393040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC393040210             | Average Weekly Wages for Employees in State Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC393040210SA           | Average Weekly Wages for Employees in State Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)   | 1990-01-01          | 2021-10-01        |
 | ENUC393040310             | Average Weekly Wages for Employees in Local Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)   | 1990-01-01          | 2021-07-01        |
 | ENUC393040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)   | 1990-01-01          | 2021-07-01        |
 | ENUC393040510             | Average Weekly Wages for Employees in Private Establishments in Providence-New Bedford-Fall River, RI-MA (MSA)            | 1990-01-01          | 2021-07-01        |
@@ -24,7 +24,7 @@
 | HORAMSA39300              | Market Hotness: Hotness Rank in Providence-Warwick, RI-MA (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA39300            | Market Hotness: Hotness Rank in Providence-Warwick, RI-MA (CBSA)                                                          | 2018-08-01          | 2022-05-01        |
 | HOSCMSA39300              | Market Hotness: Hotness Score in Providence-Warwick, RI-MA (CBSA)                                                         | 2017-08-01          | 2022-05-01        |
-| IHLCHG39300               | Job Postings on Indeed in Providence-Warwick, RI-MA (MSA)                                                                 | 2020-02-01          | 2022-05-27        |
+| IHLCHG39300               | Job Postings on Indeed in Providence-Warwick, RI-MA (MSA)                                                                 | 2020-02-01          | 2022-06-03        |
 | IRPD39300                 | Implicit Regional Price Deflator for Providence-Warwick, RI-MA (MSA)                                                      | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA39300          | Market Hotness: Listing Views per Property in Providence-Warwick, RI-MA (CBSA)                                            | 2018-08-01          | 2022-05-01        |
 | LDPEPRVSUSMSA39300        | Market Hotness: Listing Views per Property Versus the United States in Providence-Warwick, RI-MA (CBSA)                   | 2017-08-01          | 2022-05-01        |

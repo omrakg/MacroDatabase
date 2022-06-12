@@ -8,18 +8,18 @@
 | AVELISPRIMM23540          | Housing Inventory: Average Listing Price Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY23540          | Housing Inventory: Average Listing Price Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA23540              | Market Hotness: Demand Score in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC235430010             | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC235430010SA           | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC235440010             | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC235440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC235440110             | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, FL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC235440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, FL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC235440210             | Average Weekly Wages for Employees in State Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC235440210SA           | Average Weekly Wages for Employees in State Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC235440310             | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC235440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC235440510             | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC235440510SA           | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC235430010             | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC235430010SA           | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC235440010             | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC235440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC235440110             | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC235440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC235440210             | Average Weekly Wages for Employees in State Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC235440210SA           | Average Weekly Wages for Employees in State Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC235440310             | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC235440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC235440510             | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC235440510SA           | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | GAIN512EDUH               | All Employees: Education and Health Services in Gainesville, FL (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | GAIN512EDUHN              | All Employees: Education and Health Services in Gainesville, FL (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | GAIN512FIRE               | All Employees: Financial Activities in Gainesville, FL (MSA)                                                     | 1990-01-01          | 2022-04-01        |

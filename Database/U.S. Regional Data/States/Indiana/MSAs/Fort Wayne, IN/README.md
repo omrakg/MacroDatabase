@@ -8,18 +8,18 @@
 | AVELISPRIMM23060          | Housing Inventory: Average Listing Price Month-Over-Month in Fort Wayne, IN (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY23060          | Housing Inventory: Average Listing Price Year-Over-Year in Fort Wayne, IN (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA23060              | Market Hotness: Demand Score in Fort Wayne, IN (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC230630010             | Total Quarterly Wages in Fort Wayne, IN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC230630010SA           | Total Quarterly Wages in Fort Wayne, IN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC230640010             | Average Weekly Wages for Employees in Total Covered Establishments in Fort Wayne, IN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC230640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fort Wayne, IN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC230640110             | Average Weekly Wages for Employees in Federal Government Establishments in Fort Wayne, IN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC230640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fort Wayne, IN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC230640210             | Average Weekly Wages for Employees in State Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC230640210SA           | Average Weekly Wages for Employees in State Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC230640310             | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC230640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC230640510             | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC230640510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC230630010             | Total Quarterly Wages in Fort Wayne, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC230630010SA           | Total Quarterly Wages in Fort Wayne, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC230640010             | Average Weekly Wages for Employees in Total Covered Establishments in Fort Wayne, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC230640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fort Wayne, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC230640110             | Average Weekly Wages for Employees in Federal Government Establishments in Fort Wayne, IN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC230640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fort Wayne, IN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC230640210             | Average Weekly Wages for Employees in State Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC230640210SA           | Average Weekly Wages for Employees in State Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC230640310             | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC230640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC230640510             | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC230640510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2021-10-01        |
 | FORT018BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-04-01        |
 | FORT018BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-04-01        |
 | FORT018BPPRIV             | New Private Housing Units Authorized by Building Permits for Fort Wayne, in (MSA)                               | 1988-01-01          | 2022-04-01        |

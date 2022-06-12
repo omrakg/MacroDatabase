@@ -28,16 +28,16 @@
 | COLU913UR                 | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | COLU913URN                | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | DESCMSA17980              | Market Hotness: Demand Score in Columbus, GA-AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC179830010             | Total Quarterly Wages in Columbus, GA-AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC179830010SA           | Total Quarterly Wages in Columbus, GA-AL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC179840010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, GA-AL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC179840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, GA-AL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC179840110             | Average Weekly Wages for Employees in Federal Government Establishments in Columbus, GA-AL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC179840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Columbus, GA-AL (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC179830010             | Total Quarterly Wages in Columbus, GA-AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC179830010SA           | Total Quarterly Wages in Columbus, GA-AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC179840010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, GA-AL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC179840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, GA-AL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC179840110             | Average Weekly Wages for Employees in Federal Government Establishments in Columbus, GA-AL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC179840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Columbus, GA-AL (MSA)                 | 1990-01-01          | 2021-10-01        |
 | ENUC179840210             | Average Weekly Wages for Employees in State Government Establishments in Columbus, GA-AL (MSA)                   | 2001-01-01          | 2003-07-01        |
 | ENUC179840310             | Average Weekly Wages for Employees in Local Government Establishments in Columbus, GA-AL (MSA)                   | 2001-01-01          | 2003-07-01        |
-| ENUC179840510             | Average Weekly Wages for Employees in Private Establishments in Columbus, GA-AL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC179840510SA           | Average Weekly Wages for Employees in Private Establishments in Columbus, GA-AL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC179840510             | Average Weekly Wages for Employees in Private Establishments in Columbus, GA-AL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC179840510SA           | Average Weekly Wages for Employees in Private Establishments in Columbus, GA-AL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA17980            | Market Hotness: Hotness Rank in Columbus, GA-AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA17980              | Market Hotness: Hotness Rank in Columbus, GA-AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA17980            | Market Hotness: Hotness Rank in Columbus, GA-AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

@@ -3,4 +3,4 @@
 | Hartford-East Hartford-Middletown, CT |                78 |
 | New Haven-Milford, CT                 |                78 |
 | Norwich-New London, CT                |                77 |
-| Bridgeport-Stamford-Norwalk, CT       |               113 |
+| Bridgeport-Stamford-Norwalk, CT       |               110 |

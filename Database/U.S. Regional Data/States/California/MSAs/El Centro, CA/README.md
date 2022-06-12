@@ -35,18 +35,18 @@
 | ELCE906UR                 | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | ELCE906URN                | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | ELCPOP                    | Resident Population in El Centro, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC209430010             | Total Quarterly Wages in El Centro, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC209430010SA           | Total Quarterly Wages in El Centro, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC209440010             | Average Weekly Wages for Employees in Total Covered Establishments in El Centro, CA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC209440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in El Centro, CA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC209440110             | Average Weekly Wages for Employees in Federal Government Establishments in El Centro, CA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC209440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in El Centro, CA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC209440210             | Average Weekly Wages for Employees in State Government Establishments in El Centro, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC209440210SA           | Average Weekly Wages for Employees in State Government Establishments in El Centro, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC209440310             | Average Weekly Wages for Employees in Local Government Establishments in El Centro, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC209440310SA           | Average Weekly Wages for Employees in Local Government Establishments in El Centro, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC209440510             | Average Weekly Wages for Employees in Private Establishments in El Centro, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC209440510SA           | Average Weekly Wages for Employees in Private Establishments in El Centro, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC209430010             | Total Quarterly Wages in El Centro, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC209430010SA           | Total Quarterly Wages in El Centro, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC209440010             | Average Weekly Wages for Employees in Total Covered Establishments in El Centro, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC209440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in El Centro, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC209440110             | Average Weekly Wages for Employees in Federal Government Establishments in El Centro, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC209440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in El Centro, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC209440210             | Average Weekly Wages for Employees in State Government Establishments in El Centro, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC209440210SA           | Average Weekly Wages for Employees in State Government Establishments in El Centro, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC209440310             | Average Weekly Wages for Employees in Local Government Establishments in El Centro, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC209440310SA           | Average Weekly Wages for Employees in Local Government Establishments in El Centro, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC209440510             | Average Weekly Wages for Employees in Private Establishments in El Centro, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC209440510SA           | Average Weekly Wages for Employees in Private Establishments in El Centro, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD20940                 | Implicit Regional Price Deflator for El Centro, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT062094000000003A     | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT062094000000004      | Unemployed Persons in El Centro, CA (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

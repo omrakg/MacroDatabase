@@ -3,7 +3,7 @@
 | Flagler County, FL      |               147 |
 | Holmes County, FL       |                88 |
 | Pasco County, FL        |               147 |
-| Jefferson County, FL    |                 0 |
+| Jefferson County, FL    |                89 |
 | Palm Beach County, FL   |               147 |
 | Okaloosa County, FL     |               147 |
 | Taylor County, FL       |                89 |
@@ -13,7 +13,7 @@
 | Baker County, FL        |                90 |
 | Indian River County, FL |               147 |
 | Gadsden County, FL      |                90 |
-| Levy County, FL         |                89 |
+| Levy County, FL         |                 0 |
 | Highlands County, FL    |               147 |
 | Escambia County, FL     |               147 |
 | Hillsborough County, FL |               147 |
@@ -63,7 +63,7 @@
 | Columbia County, FL     |               146 |
 | Hamilton County, FL     |                89 |
 | Franklin County, FL     |                90 |
-| Putnam County, FL       |                 0 |
+| Putnam County, FL       |               147 |
 | Sarasota County, FL     |               147 |
 | Osceola County, FL      |               147 |
 | Suwannee County, FL     |                90 |

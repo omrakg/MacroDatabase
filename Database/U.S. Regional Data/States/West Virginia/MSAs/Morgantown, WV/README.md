@@ -8,18 +8,18 @@
 | AVELISPRIMM34060          | Housing Inventory: Average Listing Price Month-Over-Month in Morgantown, WV (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY34060          | Housing Inventory: Average Listing Price Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA34060              | Market Hotness: Demand Score in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC340630010             | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC340630010SA           | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC340640010             | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC340640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC340640110             | Average Weekly Wages for Employees in Federal Government Establishments in Morgantown, WV (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC340640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Morgantown, WV (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC340640210             | Average Weekly Wages for Employees in State Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-07-01        |
-| ENUC340640210SA           | Average Weekly Wages for Employees in State Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-07-01        |
-| ENUC340640310             | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-07-01        |
-| ENUC340640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-07-01        |
-| ENUC340640510             | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC340640510SA           | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC340630010             | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC340630010SA           | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC340640010             | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC340640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC340640110             | Average Weekly Wages for Employees in Federal Government Establishments in Morgantown, WV (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC340640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Morgantown, WV (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC340640210             | Average Weekly Wages for Employees in State Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-10-01        |
+| ENUC340640210SA           | Average Weekly Wages for Employees in State Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-10-01        |
+| ENUC340640310             | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-10-01        |
+| ENUC340640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-10-01        |
+| ENUC340640510             | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC340640510SA           | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA34060            | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA34060              | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA34060            | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2018-08-01          | 2022-05-01        |

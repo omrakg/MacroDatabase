@@ -8,18 +8,18 @@
 | AVELISPRIMM44180          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY44180          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA44180              | Market Hotness: Demand Score in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC441830010             | Total Quarterly Wages in Springfield, MO (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC441830010SA           | Total Quarterly Wages in Springfield, MO (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC441840010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MO (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC441840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MO (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC441840110             | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MO (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC441840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MO (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC441840210             | Average Weekly Wages for Employees in State Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC441840210SA           | Average Weekly Wages for Employees in State Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC441840310             | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC441840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC441840510             | Average Weekly Wages for Employees in Private Establishments in Springfield, MO (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC441840510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, MO (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC441830010             | Total Quarterly Wages in Springfield, MO (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC441830010SA           | Total Quarterly Wages in Springfield, MO (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC441840010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MO (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC441840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MO (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC441840110             | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MO (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC441840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, MO (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC441840210             | Average Weekly Wages for Employees in State Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC441840210SA           | Average Weekly Wages for Employees in State Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC441840310             | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC441840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC441840510             | Average Weekly Wages for Employees in Private Establishments in Springfield, MO (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC441840510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, MO (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA44180            | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA44180              | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA44180            | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

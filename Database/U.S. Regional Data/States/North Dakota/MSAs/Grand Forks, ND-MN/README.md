@@ -7,18 +7,18 @@
 | AVELISPRI24220            | Housing Inventory: Average Listing Price in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM24220          | Housing Inventory: Average Listing Price Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY24220          | Housing Inventory: Average Listing Price Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC242230010             | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC242230010SA           | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC242240010             | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC242240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC242240110             | Average Weekly Wages for Employees in Federal Government Establishments in Grand Forks, ND-MN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC242240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Grand Forks, ND-MN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC242240210             | Average Weekly Wages for Employees in State Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC242240210SA           | Average Weekly Wages for Employees in State Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC242240310             | Average Weekly Wages for Employees in Local Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC242240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC242240510             | Average Weekly Wages for Employees in Private Establishments in Grand Forks, ND-MN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC242240510SA           | Average Weekly Wages for Employees in Private Establishments in Grand Forks, ND-MN (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC242230010             | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC242230010SA           | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC242240010             | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC242240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC242240110             | Average Weekly Wages for Employees in Federal Government Establishments in Grand Forks, ND-MN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC242240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Grand Forks, ND-MN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC242240210             | Average Weekly Wages for Employees in State Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC242240210SA           | Average Weekly Wages for Employees in State Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC242240310             | Average Weekly Wages for Employees in Local Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC242240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC242240510             | Average Weekly Wages for Employees in Private Establishments in Grand Forks, ND-MN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC242240510SA           | Average Weekly Wages for Employees in Private Establishments in Grand Forks, ND-MN (MSA)                            | 1990-01-01          | 2021-10-01        |
 | GRAN238EDUH               | All Employees: Education and Health Services in Grand Forks, ND-MN (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | GRAN238EDUHN              | All Employees: Education and Health Services in Grand Forks, ND-MN (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | GRAN238FIRE               | All Employees: Financial Activities in Grand Forks, ND-MN (MSA)                                                     | 1990-01-01          | 2022-04-01        |

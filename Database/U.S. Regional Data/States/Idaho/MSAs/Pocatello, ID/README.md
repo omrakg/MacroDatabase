@@ -7,18 +7,18 @@
 | AVELISPRI38540            | Housing Inventory: Average Listing Price in Pocatello, ID (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM38540          | Housing Inventory: Average Listing Price Month-Over-Month in Pocatello, ID (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY38540          | Housing Inventory: Average Listing Price Year-Over-Year in Pocatello, ID (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC385430010             | Total Quarterly Wages in Pocatello, ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC385430010SA           | Total Quarterly Wages in Pocatello, ID (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC385440010             | Average Weekly Wages for Employees in Total Covered Establishments in Pocatello, ID (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC385440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pocatello, ID (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC385440110             | Average Weekly Wages for Employees in Federal Government Establishments in Pocatello, ID (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC385440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pocatello, ID (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC385440210             | Average Weekly Wages for Employees in State Government Establishments in Pocatello, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC385440210SA           | Average Weekly Wages for Employees in State Government Establishments in Pocatello, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC385440310             | Average Weekly Wages for Employees in Local Government Establishments in Pocatello, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC385440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pocatello, ID (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC385440510             | Average Weekly Wages for Employees in Private Establishments in Pocatello, ID (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC385440510SA           | Average Weekly Wages for Employees in Private Establishments in Pocatello, ID (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC385430010             | Total Quarterly Wages in Pocatello, ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC385430010SA           | Total Quarterly Wages in Pocatello, ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC385440010             | Average Weekly Wages for Employees in Total Covered Establishments in Pocatello, ID (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC385440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pocatello, ID (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC385440110             | Average Weekly Wages for Employees in Federal Government Establishments in Pocatello, ID (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC385440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pocatello, ID (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC385440210             | Average Weekly Wages for Employees in State Government Establishments in Pocatello, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC385440210SA           | Average Weekly Wages for Employees in State Government Establishments in Pocatello, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC385440310             | Average Weekly Wages for Employees in Local Government Establishments in Pocatello, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC385440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pocatello, ID (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC385440510             | Average Weekly Wages for Employees in Private Establishments in Pocatello, ID (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC385440510SA           | Average Weekly Wages for Employees in Private Establishments in Pocatello, ID (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD38540                 | Implicit Regional Price Deflator for Pocatello, ID (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT163854000000003A     | Unemployment Rate in Pocatello, ID (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT163854000000004      | Unemployed Persons in Pocatello, ID (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

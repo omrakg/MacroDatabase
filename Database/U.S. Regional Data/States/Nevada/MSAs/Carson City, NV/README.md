@@ -29,18 +29,18 @@
 | CARS132TRADN              | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-04-01        |
 | CARS132UR                 | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-04-01        |
 | CARS132URN                | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-04-01        |
-| ENUC161830010             | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2021-07-01        |
-| ENUC161830010SA           | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2021-07-01        |
-| ENUC161840010             | Average Weekly Wages for Employees in Total Covered Establishments in Carson City, NV (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC161840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Carson City, NV (MSA)           | 1990-01-01          | 2021-07-01        |
-| ENUC161840110             | Average Weekly Wages for Employees in Federal Government Establishments in Carson City, NV (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC161840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Carson City, NV (MSA)      | 1990-01-01          | 2021-07-01        |
+| ENUC161830010             | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2021-10-01        |
+| ENUC161830010SA           | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2021-10-01        |
+| ENUC161840010             | Average Weekly Wages for Employees in Total Covered Establishments in Carson City, NV (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC161840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Carson City, NV (MSA)           | 1990-01-01          | 2021-10-01        |
+| ENUC161840110             | Average Weekly Wages for Employees in Federal Government Establishments in Carson City, NV (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC161840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Carson City, NV (MSA)      | 1990-01-01          | 2021-10-01        |
 | ENUC161840210             | Average Weekly Wages for Employees in State Government Establishments in Carson City, NV (MSA)        | 1990-01-01          | 2010-10-01        |
 | ENUC161840210SA           | Average Weekly Wages for Employees in State Government Establishments in Carson City, NV (MSA)        | 1990-01-01          | 2010-10-01        |
 | ENUC161840310             | Average Weekly Wages for Employees in Local Government Establishments in Carson City, NV (MSA)        | 1990-01-01          | 2010-10-01        |
 | ENUC161840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Carson City, NV (MSA)        | 1990-01-01          | 2010-10-01        |
-| ENUC161840510             | Average Weekly Wages for Employees in Private Establishments in Carson City, NV (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC161840510SA           | Average Weekly Wages for Employees in Private Establishments in Carson City, NV (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC161840510             | Average Weekly Wages for Employees in Private Establishments in Carson City, NV (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC161840510SA           | Average Weekly Wages for Employees in Private Establishments in Carson City, NV (MSA)                 | 1990-01-01          | 2021-10-01        |
 | IRPD16180                 | Implicit Regional Price Deflator for Carson City, NV (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT321618000000003A     | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT321618000000004      | Unemployed Persons in Carson City, NV (MSA)                                                           | 1990-01-01          | 2022-04-01        |

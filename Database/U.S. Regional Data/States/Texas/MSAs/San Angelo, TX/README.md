@@ -7,18 +7,18 @@
 | AVELISPRI41660            | Housing Inventory: Average Listing Price in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM41660          | Housing Inventory: Average Listing Price Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY41660          | Housing Inventory: Average Listing Price Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC416630010             | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC416630010SA           | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC416640010             | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC416640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC416640110             | Average Weekly Wages for Employees in Federal Government Establishments in San Angelo, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC416640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in San Angelo, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC416640210             | Average Weekly Wages for Employees in State Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-07-01        |
-| ENUC416640210SA           | Average Weekly Wages for Employees in State Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-07-01        |
-| ENUC416640310             | Average Weekly Wages for Employees in Local Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-07-01        |
-| ENUC416640310SA           | Average Weekly Wages for Employees in Local Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-07-01        |
-| ENUC416640510             | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC416640510SA           | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC416630010             | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC416630010SA           | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC416640010             | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC416640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC416640110             | Average Weekly Wages for Employees in Federal Government Establishments in San Angelo, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC416640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in San Angelo, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC416640210             | Average Weekly Wages for Employees in State Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
+| ENUC416640210SA           | Average Weekly Wages for Employees in State Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
+| ENUC416640310             | Average Weekly Wages for Employees in Local Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
+| ENUC416640310SA           | Average Weekly Wages for Employees in Local Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
+| ENUC416640510             | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC416640510SA           | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD41660                 | Implicit Regional Price Deflator for San Angelo, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484166000000003A     | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT484166000000004      | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

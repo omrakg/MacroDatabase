@@ -14,4 +14,4 @@
 | Claremont, NH                           |                 0 |
 | Concord, NH                             |                 0 |
 | Boston-Cambridge-Quincy, MA-NH          |                 2 |
-| Manchester, NH                          |                92 |
+| Manchester, NH                          |                89 |

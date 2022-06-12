@@ -8,18 +8,18 @@
 | AVELISPRIMM49620          | Housing Inventory: Average Listing Price Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY49620          | Housing Inventory: Average Listing Price Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA49620              | Market Hotness: Demand Score in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC496230010             | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC496230010SA           | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC496240010             | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC496240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC496240110             | Average Weekly Wages for Employees in Federal Government Establishments in York-Hanover, PA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC496240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in York-Hanover, PA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC496240210             | Average Weekly Wages for Employees in State Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC496240210SA           | Average Weekly Wages for Employees in State Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC496240310             | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC496240310SA           | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC496240510             | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC496240510SA           | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC496230010             | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC496230010SA           | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC496240010             | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC496240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC496240110             | Average Weekly Wages for Employees in Federal Government Establishments in York-Hanover, PA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC496240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in York-Hanover, PA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC496240210             | Average Weekly Wages for Employees in State Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC496240210SA           | Average Weekly Wages for Employees in State Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC496240310             | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC496240310SA           | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC496240510             | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC496240510SA           | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA49620            | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA49620              | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA49620            | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

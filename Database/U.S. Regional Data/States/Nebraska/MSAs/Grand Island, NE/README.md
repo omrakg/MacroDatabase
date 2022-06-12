@@ -1,18 +1,18 @@
 | id                     | title                                                                                             | observation_start   | observation_end   |
 |------------------------|---------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS24260Q         | All-Transactions House Price Index for Grand Island, NE (MSA)                                     | 1991-10-01          | 2022-01-01        |
-| ENUC242630010          | Total Quarterly Wages in Grand Island, NE (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC242630010SA        | Total Quarterly Wages in Grand Island, NE (MSA)                                                   | 2013-01-01          | 2021-07-01        |
-| ENUC242640010          | Average Weekly Wages for Employees in Total Covered Establishments in Grand Island, NE (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC242640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Grand Island, NE (MSA)      | 2013-01-01          | 2021-07-01        |
-| ENUC242640110          | Average Weekly Wages for Employees in Federal Government Establishments in Grand Island, NE (MSA) | 2013-01-01          | 2021-07-01        |
-| ENUC242640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Grand Island, NE (MSA) | 2013-01-01          | 2021-07-01        |
+| ENUC242630010          | Total Quarterly Wages in Grand Island, NE (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC242630010SA        | Total Quarterly Wages in Grand Island, NE (MSA)                                                   | 2013-01-01          | 2021-10-01        |
+| ENUC242640010          | Average Weekly Wages for Employees in Total Covered Establishments in Grand Island, NE (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC242640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Grand Island, NE (MSA)      | 2013-01-01          | 2021-10-01        |
+| ENUC242640110          | Average Weekly Wages for Employees in Federal Government Establishments in Grand Island, NE (MSA) | 2013-01-01          | 2021-10-01        |
+| ENUC242640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Grand Island, NE (MSA) | 2013-01-01          | 2021-10-01        |
 | ENUC242640210          | Average Weekly Wages for Employees in State Government Establishments in Grand Island, NE (MSA)   | 2013-01-01          | 2021-07-01        |
 | ENUC242640210SA        | Average Weekly Wages for Employees in State Government Establishments in Grand Island, NE (MSA)   | 2013-01-01          | 2021-07-01        |
 | ENUC242640310          | Average Weekly Wages for Employees in Local Government Establishments in Grand Island, NE (MSA)   | 2013-01-01          | 2021-07-01        |
 | ENUC242640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Grand Island, NE (MSA)   | 2013-01-01          | 2021-07-01        |
-| ENUC242640510          | Average Weekly Wages for Employees in Private Establishments in Grand Island, NE (MSA)            | 2013-01-01          | 2021-07-01        |
-| ENUC242640510SA        | Average Weekly Wages for Employees in Private Establishments in Grand Island, NE (MSA)            | 2013-01-01          | 2021-07-01        |
+| ENUC242640510          | Average Weekly Wages for Employees in Private Establishments in Grand Island, NE (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC242640510SA        | Average Weekly Wages for Employees in Private Establishments in Grand Island, NE (MSA)            | 2013-01-01          | 2021-10-01        |
 | GISL931PCPI            | Per Capita Personal Income in Grand Island, NE (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | GRIPOP                 | Resident Population in Grand Island, NE (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | IRPD24260              | Implicit Regional Price Deflator for Grand Island, NE (MSA)                                       | 2008-01-01          | 2020-01-01        |

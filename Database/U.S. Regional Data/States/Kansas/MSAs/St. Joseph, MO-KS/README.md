@@ -7,16 +7,16 @@
 | AVELISPRI41140            | Housing Inventory: Average Listing Price in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM41140          | Housing Inventory: Average Listing Price Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY41140          | Housing Inventory: Average Listing Price Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC411430010             | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC411430010SA           | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC411440010             | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC411440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC411440110             | Average Weekly Wages for Employees in Federal Government Establishments in St. Joseph, MO-KS (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC411440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in St. Joseph, MO-KS (MSA)   | 1990-01-01          | 2021-07-01        |
+| ENUC411430010             | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC411430010SA           | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC411440010             | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC411440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC411440110             | Average Weekly Wages for Employees in Federal Government Establishments in St. Joseph, MO-KS (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC411440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in St. Joseph, MO-KS (MSA)   | 1990-01-01          | 2021-10-01        |
 | ENUC411440210             | Average Weekly Wages for Employees in State Government Establishments in St. Joseph, MO-KS (MSA)     | 2001-01-01          | 2021-07-01        |
 | ENUC411440310             | Average Weekly Wages for Employees in Local Government Establishments in St. Joseph, MO-KS (MSA)     | 2001-01-01          | 2021-07-01        |
-| ENUC411440510             | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC411440510SA           | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC411440510             | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC411440510SA           | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD41140                 | Implicit Regional Price Deflator for St. Joseph, MO-KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT294114000000003A     | Unemployment Rate in St. Joseph, MO-KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT294114000000004      | Unemployed Persons in St. Joseph, MO-KS (MSA)                                                        | 1990-01-01          | 2022-04-01        |

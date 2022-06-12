@@ -8,7 +8,7 @@
 | Hardeman County, TN   |                89 |
 | Decatur County, TN    |                89 |
 | Hickman County, TN    |                90 |
-| Fentress County, TN   |                 0 |
+| Fentress County, TN   |                89 |
 | Blount County, TN     |               147 |
 | Henderson County, TN  |                89 |
 | Stewart County, TN    |                90 |
@@ -18,7 +18,7 @@
 | Shelby County, TN     |               147 |
 | Bedford County, TN    |                90 |
 | Cannon County, TN     |                90 |
-| Jefferson County, TN  |               146 |
+| Jefferson County, TN  |                 0 |
 | Giles County, TN      |                90 |
 | Clay County, TN       |                87 |
 | Pickett County, TN    |                88 |
@@ -68,7 +68,7 @@
 | Carter County, TN     |               146 |
 | Lewis County, TN      |                89 |
 | Polk County, TN       |                89 |
-| Hardin County, TN     |                 0 |
+| Hardin County, TN     |                89 |
 | Warren County, TN     |                90 |
 | Rhea County, TN       |                90 |
 | Perry County, TN      |                88 |
@@ -78,7 +78,7 @@
 | Hancock County, TN    |                87 |
 | Union County, TN      |                90 |
 | Cumberland County, TN |               146 |
-| De Kalb County, TN    |                90 |
+| De Kalb County, TN    |                 0 |
 | Benton County, TN     |                90 |
 | Madison County, TN    |               147 |
 | Chester County, TN    |                90 |

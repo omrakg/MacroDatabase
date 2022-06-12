@@ -19,18 +19,18 @@
 | DUBU219TRADN              | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2022-04-01        |
 | DUBU219UR                 | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | DUBU219URN                | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-04-01        |
-| ENUC202230010             | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC202230010SA           | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC202240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC202240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC202240110             | Average Weekly Wages for Employees in Federal Government Establishments in Dubuque, IA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC202240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dubuque, IA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC202240210             | Average Weekly Wages for Employees in State Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC202240210SA           | Average Weekly Wages for Employees in State Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC202240310             | Average Weekly Wages for Employees in Local Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC202240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC202240510             | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC202240510SA           | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC202230010             | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC202230010SA           | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC202240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC202240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC202240110             | Average Weekly Wages for Employees in Federal Government Establishments in Dubuque, IA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC202240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dubuque, IA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC202240210             | Average Weekly Wages for Employees in State Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC202240210SA           | Average Weekly Wages for Employees in State Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC202240310             | Average Weekly Wages for Employees in Local Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC202240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC202240510             | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC202240510SA           | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD20220                 | Implicit Regional Price Deflator for Dubuque, IA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT192022000000003A     | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT192022000000004      | Unemployed Persons in Dubuque, IA (MSA)                                                        | 1990-01-01          | 2022-04-01        |

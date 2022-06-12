@@ -1,7 +1,7 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
 | Hancock County, ME      |                90 |
-| Knox County, ME         |                 0 |
+| Knox County, ME         |                90 |
 | Waldo County, ME        |                90 |
 | Washington County, ME   |                90 |
 | Aroostook County, ME    |                91 |

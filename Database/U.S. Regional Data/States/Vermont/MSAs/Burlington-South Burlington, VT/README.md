@@ -99,9 +99,6 @@
 | SMU50724009092161101   | All Employees: Government: State Government Educational Services in Burlington-South Burlington, VT (NECTA)                                    | 1990-01-01          | 2022-04-01        |
 | SMU50724009092161101A  | All Employees: State Government Educational Services in Burlington-South Burlington, VT (NECTA)                                                | 1990-01-01          | 2021-01-01        |
 | SMU50724009092161101SA | All Employees: Government: State Government Educational Services in Burlington-South Burlington, VT (NECTA)                                    | 1990-01-01          | 2022-04-01        |
-| SMU50724009092200001   | All Employees: Government: State Government Excluding Education in Burlington-South Burlington, VT (NECTA)                                     | 1990-01-01          | 2022-04-01        |
-| SMU50724009092200001A  | All Employees: State Government Excluding Educational Services in Burlington-South Burlington, VT (NECTA)                                      | 1990-01-01          | 2021-01-01        |
-| SMU50724009092200001SA | All Employees: Government: State Government Excluding Education in Burlington-South Burlington, VT (NECTA)                                     | 1990-01-01          | 2022-04-01        |
 | SMU50724009093000001   | All Employees: Government: Local Government in Burlington-South Burlington, VT (NECTA)                                                         | 1990-01-01          | 2022-04-01        |
 | SMU50724009093000001A  | All Employees: Local Government in Burlington-South Burlington, VT (NECTA)                                                                     | 1990-01-01          | 2021-01-01        |
 | SMU50724009093000001SA | All Employees: Government: Local Government in Burlington-South Burlington, VT (NECTA)                                                         | 1990-01-01          | 2022-04-01        |

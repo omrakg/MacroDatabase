@@ -29,18 +29,18 @@
 | ELZTRADN                  | All Employees: Trade, Transportation, and Utilities in Elizabethtown-Fort Knox, KY (MSA)                       | 1990-01-01          | 2022-04-01        |
 | ELZUR                     | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | ELZURN                    | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2022-04-01        |
-| ENUC210630010             | Total Quarterly Wages in Elizabethtown-Fort Knox, KY (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC210630010SA           | Total Quarterly Wages in Elizabethtown-Fort Knox, KY (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC210640010             | Average Weekly Wages for Employees in Total Covered Establishments in Elizabethtown, KY (MSA)                  | 1990-01-01          | 2021-07-01        |
-| ENUC210640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elizabethtown, KY (MSA)                  | 1990-01-01          | 2021-07-01        |
-| ENUC210640110             | Average Weekly Wages for Employees in Federal Government Establishments in Elizabethtown, KY (MSA)             | 1990-01-01          | 2021-07-01        |
-| ENUC210640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elizabethtown, KY (MSA)             | 1990-01-01          | 2021-07-01        |
-| ENUC210640210             | Average Weekly Wages for Employees in State Government Establishments in Elizabethtown, KY (MSA)               | 1990-01-01          | 2021-07-01        |
-| ENUC210640210SA           | Average Weekly Wages for Employees in State Government Establishments in Elizabethtown, KY (MSA)               | 1990-01-01          | 2021-07-01        |
-| ENUC210640310             | Average Weekly Wages for Employees in Local Government Establishments in Elizabethtown, KY (MSA)               | 1990-01-01          | 2021-07-01        |
-| ENUC210640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elizabethtown, KY (MSA)               | 1990-01-01          | 2021-07-01        |
-| ENUC210640510             | Average Weekly Wages for Employees in Private Establishments in Elizabethtown, KY (MSA)                        | 1990-01-01          | 2021-07-01        |
-| ENUC210640510SA           | Average Weekly Wages for Employees in Private Establishments in Elizabethtown, KY (MSA)                        | 1990-01-01          | 2021-07-01        |
+| ENUC210630010             | Total Quarterly Wages in Elizabethtown-Fort Knox, KY (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC210630010SA           | Total Quarterly Wages in Elizabethtown-Fort Knox, KY (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC210640010             | Average Weekly Wages for Employees in Total Covered Establishments in Elizabethtown, KY (MSA)                  | 1990-01-01          | 2021-10-01        |
+| ENUC210640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elizabethtown, KY (MSA)                  | 1990-01-01          | 2021-10-01        |
+| ENUC210640110             | Average Weekly Wages for Employees in Federal Government Establishments in Elizabethtown, KY (MSA)             | 1990-01-01          | 2021-10-01        |
+| ENUC210640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elizabethtown, KY (MSA)             | 1990-01-01          | 2021-10-01        |
+| ENUC210640210             | Average Weekly Wages for Employees in State Government Establishments in Elizabethtown, KY (MSA)               | 1990-01-01          | 2021-10-01        |
+| ENUC210640210SA           | Average Weekly Wages for Employees in State Government Establishments in Elizabethtown, KY (MSA)               | 1990-01-01          | 2021-10-01        |
+| ENUC210640310             | Average Weekly Wages for Employees in Local Government Establishments in Elizabethtown, KY (MSA)               | 1990-01-01          | 2021-10-01        |
+| ENUC210640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elizabethtown, KY (MSA)               | 1990-01-01          | 2021-10-01        |
+| ENUC210640510             | Average Weekly Wages for Employees in Private Establishments in Elizabethtown, KY (MSA)                        | 1990-01-01          | 2021-10-01        |
+| ENUC210640510SA           | Average Weekly Wages for Employees in Private Establishments in Elizabethtown, KY (MSA)                        | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA21060            | Market Hotness: Hotness Rank in Elizabethtown-Fort Knox, KY (CBSA)                                             | 2018-08-01          | 2022-05-01        |
 | HORAMSA21060              | Market Hotness: Hotness Rank in Elizabethtown-Fort Knox, KY (CBSA)                                             | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA21060            | Market Hotness: Hotness Rank in Elizabethtown-Fort Knox, KY (CBSA)                                             | 2018-08-01          | 2022-05-01        |

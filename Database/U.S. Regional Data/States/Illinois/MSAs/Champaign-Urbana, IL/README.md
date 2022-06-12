@@ -36,14 +36,14 @@
 | CHAM517URN                | Unemployment Rate in Champaign-Urbana, IL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
 | CHMPOP                    | Resident Population in Champaign-Urbana, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16580              | Market Hotness: Demand Score in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC165830010             | Total Quarterly Wages in Champaign-Urbana, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC165830010SA           | Total Quarterly Wages in Champaign-Urbana, IL (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC165840010             | Average Weekly Wages for Employees in Total Covered Establishments in Champaign-Urbana, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC165840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Champaign-Urbana, IL (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC165840110             | Average Weekly Wages for Employees in Federal Government Establishments in Champaign-Urbana, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC165840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Champaign-Urbana, IL (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC165840510             | Average Weekly Wages for Employees in Private Establishments in Champaign-Urbana, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC165840510SA           | Average Weekly Wages for Employees in Private Establishments in Champaign-Urbana, IL (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC165830010             | Total Quarterly Wages in Champaign-Urbana, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC165830010SA           | Total Quarterly Wages in Champaign-Urbana, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC165840010             | Average Weekly Wages for Employees in Total Covered Establishments in Champaign-Urbana, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC165840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Champaign-Urbana, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC165840110             | Average Weekly Wages for Employees in Federal Government Establishments in Champaign-Urbana, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC165840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Champaign-Urbana, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC165840510             | Average Weekly Wages for Employees in Private Establishments in Champaign-Urbana, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC165840510SA           | Average Weekly Wages for Employees in Private Establishments in Champaign-Urbana, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA16580            | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA16580              | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA16580            | Market Hotness: Hotness Rank in Champaign-Urbana, IL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

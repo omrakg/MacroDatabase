@@ -8,18 +8,18 @@
 | AVELISPRIMM24580          | Housing Inventory: Average Listing Price Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY24580          | Housing Inventory: Average Listing Price Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA24580              | Market Hotness: Demand Score in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC245830010             | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC245830010SA           | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC245840010             | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC245840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC245840110             | Average Weekly Wages for Employees in Federal Government Establishments in Green Bay, WI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC245840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Green Bay, WI (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC245840210             | Average Weekly Wages for Employees in State Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC245840210SA           | Average Weekly Wages for Employees in State Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC245840310             | Average Weekly Wages for Employees in Local Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC245840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC245840510             | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC245840510SA           | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC245830010             | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC245830010SA           | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC245840010             | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC245840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC245840110             | Average Weekly Wages for Employees in Federal Government Establishments in Green Bay, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC245840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Green Bay, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC245840210             | Average Weekly Wages for Employees in State Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC245840210SA           | Average Weekly Wages for Employees in State Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC245840310             | Average Weekly Wages for Employees in Local Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC245840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC245840510             | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC245840510SA           | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
 | GNBPOP                    | Resident Population in Green Bay, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | GREE555EDUH               | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2022-04-01        |
 | GREE555EDUHN              | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2022-04-01        |

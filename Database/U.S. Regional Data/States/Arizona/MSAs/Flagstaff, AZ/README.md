@@ -7,18 +7,18 @@
 | AVELISPRI22380            | Housing Inventory: Average Listing Price in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM22380          | Housing Inventory: Average Listing Price Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY22380          | Housing Inventory: Average Listing Price Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| ENUC223830010             | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC223830010SA           | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC223840010             | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC223840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC223840110             | Average Weekly Wages for Employees in Federal Government Establishments in Flagstaff, AZ (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC223840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Flagstaff, AZ (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC223840210             | Average Weekly Wages for Employees in State Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC223840210SA           | Average Weekly Wages for Employees in State Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC223840310             | Average Weekly Wages for Employees in Local Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC223840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2021-07-01        |
-| ENUC223840510             | Average Weekly Wages for Employees in Private Establishments in Flagstaff, AZ (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC223840510SA           | Average Weekly Wages for Employees in Private Establishments in Flagstaff, AZ (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC223830010             | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC223830010SA           | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC223840010             | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC223840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC223840110             | Average Weekly Wages for Employees in Federal Government Establishments in Flagstaff, AZ (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC223840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Flagstaff, AZ (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC223840210             | Average Weekly Wages for Employees in State Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC223840210SA           | Average Weekly Wages for Employees in State Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC223840310             | Average Weekly Wages for Employees in Local Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC223840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
+| ENUC223840510             | Average Weekly Wages for Employees in Private Establishments in Flagstaff, AZ (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC223840510SA           | Average Weekly Wages for Employees in Private Establishments in Flagstaff, AZ (MSA)              | 1990-01-01          | 2021-10-01        |
 | FLAG304EDUH               | All Employees: Education and Health Services in Flagstaff, AZ (MSA)                              | 1990-01-01          | 2022-04-01        |
 | FLAG304EDUHN              | All Employees: Education and Health Services in Flagstaff, AZ (MSA)                              | 1990-01-01          | 2022-04-01        |
 | FLAG304FIRE               | All Employees: Financial Activities in Flagstaff, AZ (MSA)                                       | 1990-01-01          | 2022-04-01        |

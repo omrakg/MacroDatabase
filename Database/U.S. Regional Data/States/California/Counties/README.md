@@ -18,7 +18,7 @@
 | Ventura County, CA              |               147 |
 | Sonoma County, CA               |               147 |
 | Alameda County, CA              |               147 |
-| Kings County, CA                |                 0 |
+| Kings County, CA                |               147 |
 | Calaveras County, CA            |                90 |
 | Santa Barbara County, CA        |               147 |
 | Humboldt County, CA             |               147 |
@@ -46,7 +46,7 @@
 | Placer County, CA               |               147 |
 | Lake County, CA                 |               147 |
 | Nevada County, CA               |               147 |
-| Butte County, CA                |               147 |
+| Butte County, CA                |                 0 |
 | Yolo County, CA                 |               146 |
 | Trinity County, CA              |                89 |
 | El Dorado County, CA            |               147 |

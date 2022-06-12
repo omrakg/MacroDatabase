@@ -8,18 +8,18 @@
 | AVELISPRIMM24300          | Housing Inventory: Average Listing Price Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY24300          | Housing Inventory: Average Listing Price Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA24300              | Market Hotness: Demand Score in Grand Junction, CO (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC243030010             | Total Quarterly Wages in Grand Junction, CO (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC243030010SA           | Total Quarterly Wages in Grand Junction, CO (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC243040010             | Average Weekly Wages for Employees in Total Covered Establishments in Grand Junction, CO (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC243040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Grand Junction, CO (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC243040110             | Average Weekly Wages for Employees in Federal Government Establishments in Grand Junction, CO (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC243040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Grand Junction, CO (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC243040210             | Average Weekly Wages for Employees in State Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC243040210SA           | Average Weekly Wages for Employees in State Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC243040310             | Average Weekly Wages for Employees in Local Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC243040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC243040510             | Average Weekly Wages for Employees in Private Establishments in Grand Junction, CO (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC243040510SA           | Average Weekly Wages for Employees in Private Establishments in Grand Junction, CO (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC243030010             | Total Quarterly Wages in Grand Junction, CO (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC243030010SA           | Total Quarterly Wages in Grand Junction, CO (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC243040010             | Average Weekly Wages for Employees in Total Covered Establishments in Grand Junction, CO (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC243040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Grand Junction, CO (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC243040110             | Average Weekly Wages for Employees in Federal Government Establishments in Grand Junction, CO (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC243040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Grand Junction, CO (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC243040210             | Average Weekly Wages for Employees in State Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC243040210SA           | Average Weekly Wages for Employees in State Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC243040310             | Average Weekly Wages for Employees in Local Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC243040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC243040510             | Average Weekly Wages for Employees in Private Establishments in Grand Junction, CO (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC243040510SA           | Average Weekly Wages for Employees in Private Establishments in Grand Junction, CO (MSA)                            | 1990-01-01          | 2021-10-01        |
 | GRAN308BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-04-01        |
 | GRAN308BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-04-01        |
 | GRAN308BPPRIV             | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-04-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM34740          | Housing Inventory: Average Listing Price Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY34740          | Housing Inventory: Average Listing Price Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | DESCMSA34740              | Market Hotness: Demand Score in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-05-01        |
-| ENUC347430010             | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2021-07-01        |
-| ENUC347430010SA           | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2021-07-01        |
-| ENUC347440010             | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC347440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2021-07-01        |
-| ENUC347440110             | Average Weekly Wages for Employees in Federal Government Establishments in Muskegon-Norton Shores, MI (MSA) | 1990-01-01          | 2021-07-01        |
-| ENUC347440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Muskegon-Norton Shores, MI (MSA) | 1990-01-01          | 2021-07-01        |
-| ENUC347440210             | Average Weekly Wages for Employees in State Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-07-01        |
-| ENUC347440210SA           | Average Weekly Wages for Employees in State Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-07-01        |
-| ENUC347440310             | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-07-01        |
-| ENUC347440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-07-01        |
-| ENUC347440510             | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2021-07-01        |
-| ENUC347440510SA           | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2021-07-01        |
+| ENUC347430010             | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2021-10-01        |
+| ENUC347430010SA           | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2021-10-01        |
+| ENUC347440010             | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC347440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2021-10-01        |
+| ENUC347440110             | Average Weekly Wages for Employees in Federal Government Establishments in Muskegon-Norton Shores, MI (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC347440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Muskegon-Norton Shores, MI (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC347440210             | Average Weekly Wages for Employees in State Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-10-01        |
+| ENUC347440210SA           | Average Weekly Wages for Employees in State Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-10-01        |
+| ENUC347440310             | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-10-01        |
+| ENUC347440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-10-01        |
+| ENUC347440510             | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2021-10-01        |
+| ENUC347440510SA           | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA34740            | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2018-08-01          | 2022-05-01        |
 | HORAMSA34740              | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA34740            | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2018-08-01          | 2022-05-01        |

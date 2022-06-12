@@ -7,18 +7,18 @@
 | AVELISPRI34620            | Housing Inventory: Average Listing Price in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM34620          | Housing Inventory: Average Listing Price Month-Over-Month in Muncie, IN (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY34620          | Housing Inventory: Average Listing Price Year-Over-Year in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC346230010             | Total Quarterly Wages in Muncie, IN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC346230010SA           | Total Quarterly Wages in Muncie, IN (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC346240010             | Average Weekly Wages for Employees in Total Covered Establishments in Muncie, IN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC346240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Muncie, IN (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC346240110             | Average Weekly Wages for Employees in Federal Government Establishments in Muncie, IN (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC346240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Muncie, IN (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC346230010             | Total Quarterly Wages in Muncie, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC346230010SA           | Total Quarterly Wages in Muncie, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC346240010             | Average Weekly Wages for Employees in Total Covered Establishments in Muncie, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC346240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Muncie, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC346240110             | Average Weekly Wages for Employees in Federal Government Establishments in Muncie, IN (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC346240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Muncie, IN (MSA)                 | 1990-01-01          | 2021-10-01        |
 | ENUC346240210             | Average Weekly Wages for Employees in State Government Establishments in Muncie, IN (MSA)                   | 1990-01-01          | 2021-04-01        |
 | ENUC346240210SA           | Average Weekly Wages for Employees in State Government Establishments in Muncie, IN (MSA)                   | 1990-01-01          | 2021-04-01        |
 | ENUC346240310             | Average Weekly Wages for Employees in Local Government Establishments in Muncie, IN (MSA)                   | 1990-01-01          | 2021-04-01        |
 | ENUC346240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Muncie, IN (MSA)                   | 1990-01-01          | 2021-04-01        |
-| ENUC346240510             | Average Weekly Wages for Employees in Private Establishments in Muncie, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC346240510SA           | Average Weekly Wages for Employees in Private Establishments in Muncie, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC346240510             | Average Weekly Wages for Employees in Private Establishments in Muncie, IN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC346240510SA           | Average Weekly Wages for Employees in Private Establishments in Muncie, IN (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD34620                 | Implicit Regional Price Deflator for Muncie, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT183462000000003A     | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT183462000000004      | Unemployed Persons in Muncie, IN (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

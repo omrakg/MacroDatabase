@@ -27,7 +27,7 @@
 | Walker County, AL     |               146 |
 | Chilton County, AL    |                90 |
 | Madison County, AL    |               147 |
-| Cleburne County, AL   |                 0 |
+| Cleburne County, AL   |                89 |
 | Houston County, AL    |               147 |
 | Talladega County, AL  |               146 |
 | Bibb County, AL       |                90 |
@@ -37,7 +37,7 @@
 | Marengo County, AL    |                90 |
 | Calhoun County, AL    |               147 |
 | Jackson County, AL    |               143 |
-| Colbert County, AL    |               146 |
+| Colbert County, AL    |                 0 |
 | Lauderdale County, AL |               146 |
 | Blount County, AL     |               146 |
 | Escambia County, AL   |                89 |

@@ -8,18 +8,18 @@
 | AVELISPRIMM31180          | Housing Inventory: Average Listing Price Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY31180          | Housing Inventory: Average Listing Price Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA31180              | Market Hotness: Demand Score in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC311830010             | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC311830010SA           | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC311840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC311840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC311840110             | Average Weekly Wages for Employees in Federal Government Establishments in Lubbock, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC311840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lubbock, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC311840210             | Average Weekly Wages for Employees in State Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC311840210SA           | Average Weekly Wages for Employees in State Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC311840310             | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC311840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC311840510             | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC311840510SA           | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC311830010             | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC311830010SA           | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC311840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC311840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC311840110             | Average Weekly Wages for Employees in Federal Government Establishments in Lubbock, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC311840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lubbock, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC311840210             | Average Weekly Wages for Employees in State Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC311840210SA           | Average Weekly Wages for Employees in State Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC311840310             | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC311840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC311840510             | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC311840510SA           | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA31180              | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

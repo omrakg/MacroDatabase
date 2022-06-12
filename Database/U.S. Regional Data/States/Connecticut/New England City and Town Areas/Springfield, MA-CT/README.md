@@ -28,9 +28,6 @@
 | SMU25781000800000001A  | All Employees: Private Service Providing in Springfield, MA-CT (NECTA)                                                | 1990-01-01          | 2021-01-01        |
 | SMU25781000800000001SA | All Employees: Private Service Providing in Springfield, MA-CT (NECTA)                                                | 1990-01-01          | 2022-04-01        |
 | SMU25781001500000001A  | All Employees: Mining, Logging, and Construction in Springfield, MA-CT (NECTA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU25781001523800001   | All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in Springfield, MA-CT (NECTA)           | 1990-01-01          | 2015-12-01        |
-| SMU25781001523800001A  | All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in Springfield, MA-CT (NECTA)           | 1990-01-01          | 2014-01-01        |
-| SMU25781001523800001SA | All Employees: Mining, Logging, and Construction: Specialty Trade Contractors in Springfield, MA-CT (NECTA)           | 1990-01-01          | 2015-12-01        |
 | SMU25781002023800001   | All Employees: Construction: Specialty Trade Contractors in Springfield, MA-CT (NECTA)                                | 1990-01-01          | 2022-04-01        |
 | SMU25781002023800001A  | All Employees: Construction: Specialty Trade Contractors in Springfield, MA-CT (NECTA)                                | 1990-01-01          | 2021-01-01        |
 | SMU25781002023800001SA | All Employees: Construction: Specialty Trade Contractors in Springfield, MA-CT (NECTA)                                | 1990-01-01          | 2022-04-01        |

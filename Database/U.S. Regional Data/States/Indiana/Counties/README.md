@@ -19,7 +19,7 @@
 | White County, IN       |                90 |
 | Knox County, IN        |                90 |
 | Greene County, IN      |                89 |
-| Whitley County, IN     |                90 |
+| Whitley County, IN     |                 0 |
 | Warrick County, IN     |               146 |
 | Martin County, IN      |                90 |
 | Boone County, IN       |               146 |
@@ -42,7 +42,7 @@
 | Starke County, IN      |                89 |
 | Decatur County, IN     |                89 |
 | Daviess County, IN     |                90 |
-| Pike County, IN        |                 0 |
+| Pike County, IN        |                89 |
 | Lagrange County, IN    |                90 |
 | Orange County, IN      |                89 |
 | Lake County, IN        |               147 |
@@ -79,7 +79,7 @@
 | Cass County, IN        |                90 |
 | Putnam County, IN      |                90 |
 | Dearborn County, IN    |               144 |
-| Fayette County, IN     |                90 |
+| Fayette County, IN     |                 0 |
 | Washington County, IN  |                89 |
 | Jay County, IN         |                89 |
 | Wabash County, IN      |                90 |

@@ -8,18 +8,18 @@
 | AVELISPRIMM23580          | Housing Inventory: Average Listing Price Month-Over-Month in Gainesville, GA (CBSA)                | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY23580          | Housing Inventory: Average Listing Price Year-Over-Year in Gainesville, GA (CBSA)                  | 2017-07-01          | 2022-05-01        |
 | DESCMSA23580              | Market Hotness: Demand Score in Gainesville, GA (CBSA)                                             | 2017-08-01          | 2022-05-01        |
-| ENUC235830010             | Total Quarterly Wages in Gainesville, GA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC235830010SA           | Total Quarterly Wages in Gainesville, GA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
-| ENUC235840010             | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC235840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, GA (MSA)        | 1990-01-01          | 2021-07-01        |
-| ENUC235840110             | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, GA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC235840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, GA (MSA)   | 1990-01-01          | 2021-07-01        |
-| ENUC235840210             | Average Weekly Wages for Employees in State Government Establishments in Gainesville, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC235840210SA           | Average Weekly Wages for Employees in State Government Establishments in Gainesville, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC235840310             | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC235840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC235840510             | Average Weekly Wages for Employees in Private Establishments in Gainesville, GA (MSA)              | 1990-01-01          | 2021-07-01        |
-| ENUC235840510SA           | Average Weekly Wages for Employees in Private Establishments in Gainesville, GA (MSA)              | 1990-01-01          | 2021-07-01        |
+| ENUC235830010             | Total Quarterly Wages in Gainesville, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC235830010SA           | Total Quarterly Wages in Gainesville, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
+| ENUC235840010             | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC235840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, GA (MSA)        | 1990-01-01          | 2021-10-01        |
+| ENUC235840110             | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, GA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC235840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, GA (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC235840210             | Average Weekly Wages for Employees in State Government Establishments in Gainesville, GA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC235840210SA           | Average Weekly Wages for Employees in State Government Establishments in Gainesville, GA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC235840310             | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, GA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC235840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, GA (MSA)     | 1990-01-01          | 2021-10-01        |
+| ENUC235840510             | Average Weekly Wages for Employees in Private Establishments in Gainesville, GA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC235840510SA           | Average Weekly Wages for Employees in Private Establishments in Gainesville, GA (MSA)              | 1990-01-01          | 2021-10-01        |
 | GAIN513GOVT               | All Employees: Government in Gainesville, GA (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | GAIN513GOVTN              | All Employees: Government in Gainesville, GA (MSA)                                                 | 1990-01-01          | 2022-04-01        |
 | GAIN513LF                 | Civilian Labor Force in Gainesville, GA (MSA)                                                      | 1990-01-01          | 2022-04-01        |

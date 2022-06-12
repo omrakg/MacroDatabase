@@ -7,18 +7,18 @@
 | AVELISPRI31460            | Housing Inventory: Average Listing Price in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
 | AVELISPRIMM31460          | Housing Inventory: Average Listing Price Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY31460          | Housing Inventory: Average Listing Price Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| ENUC314630010             | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC314630010SA           | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC314640010             | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC314640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC314640110             | Average Weekly Wages for Employees in Federal Government Establishments in Madera, CA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC314640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Madera, CA (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC314640210             | Average Weekly Wages for Employees in State Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC314640210SA           | Average Weekly Wages for Employees in State Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC314640310             | Average Weekly Wages for Employees in Local Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC314640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC314640510             | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC314640510SA           | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC314630010             | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC314630010SA           | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC314640010             | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC314640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC314640110             | Average Weekly Wages for Employees in Federal Government Establishments in Madera, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC314640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Madera, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC314640210             | Average Weekly Wages for Employees in State Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC314640210SA           | Average Weekly Wages for Employees in State Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC314640310             | Average Weekly Wages for Employees in Local Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC314640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC314640510             | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC314640510SA           | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD31460                 | Implicit Regional Price Deflator for Madera, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT063146000000003A     | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT063146000000004      | Unemployed Persons in Madera, CA (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

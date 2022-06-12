@@ -8,18 +8,18 @@
 | AVELISPRIMM47380          | Housing Inventory: Average Listing Price Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY47380          | Housing Inventory: Average Listing Price Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-05-01        |
 | DESCMSA47380              | Market Hotness: Demand Score in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| ENUC473830010             | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC473830010SA           | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
-| ENUC473840010             | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC473840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC473840110             | Average Weekly Wages for Employees in Federal Government Establishments in Waco, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC473840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Waco, TX (MSA)                 | 1990-01-01          | 2021-07-01        |
-| ENUC473840210             | Average Weekly Wages for Employees in State Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC473840210SA           | Average Weekly Wages for Employees in State Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC473840310             | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC473840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC473840510             | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
-| ENUC473840510SA           | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC473830010             | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC473830010SA           | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
+| ENUC473840010             | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC473840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
+| ENUC473840110             | Average Weekly Wages for Employees in Federal Government Establishments in Waco, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC473840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Waco, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC473840210             | Average Weekly Wages for Employees in State Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC473840210SA           | Average Weekly Wages for Employees in State Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC473840310             | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC473840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
+| ENUC473840510             | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC473840510SA           | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | HORAMMMSA47380            | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HORAMSA47380              | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA47380            | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2018-08-01          | 2022-05-01        |

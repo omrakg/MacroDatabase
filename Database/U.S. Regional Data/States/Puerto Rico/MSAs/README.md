@@ -7,5 +7,5 @@
 | Yauco, PR                   |                 3 |
 | Ponce, PR                   |                85 |
 | Guayama, PR                 |                49 |
-| Arecibo, PR                 |                 0 |
+| Arecibo, PR                 |                38 |
 | Mayaguez, PR                |                82 |
