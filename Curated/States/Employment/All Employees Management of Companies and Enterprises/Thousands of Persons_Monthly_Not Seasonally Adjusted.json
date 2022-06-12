@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000006055000001",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -37,9 +37,9 @@
     "path": "Database/U.S. Regional Data/States/Tennessee"
   },
   "Texas": {
-    "id": "SMS48000006055000001",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "id": "SMU48000006055000001SA",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -49,15 +49,16 @@
     "units_short": "Thous. of Persons",
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
-    "last_updated": "2022-05-21 03:28:49-05",
+    "last_updated": "2022-05-21 02:21:29-05",
     "popularity": 1,
     "group_popularity": 1,
+    "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodels' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodels' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/data/software/x13as.html).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU48000006055000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
     "path": "Database/U.S. Regional Data/States/Texas"
   },
   "Utah": {
     "id": "SMU49000006055000001SA",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -75,8 +76,8 @@
   },
   "Virginia": {
     "id": "SMU51000006055000001",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -93,8 +94,8 @@
   },
   "Washington": {
     "id": "SMU53000006055000001",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -111,8 +112,8 @@
   },
   "West Virginia": {
     "id": "SMU54000006055000001SA",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in West Virginia",
     "observation_start": "2003-01-01",
     "observation_end": "2022-04-01",
@@ -130,8 +131,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000006055000001SA",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Wisconsin",
     "observation_start": "2003-01-01",
     "observation_end": "2022-04-01",

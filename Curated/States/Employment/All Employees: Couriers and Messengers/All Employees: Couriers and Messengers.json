@@ -1,8 +1,8 @@
 {
   "Utah": {
     "id": "SMU49000004349200001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Couriers and Messengers in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -16,5 +16,23 @@
     "popularity": 0,
     "group_popularity": 0,
     "path": "Database/U.S. Regional Data/States/Utah"
+  },
+  "Texas": {
+    "id": "SMU48000004349200001A",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
+    "title": "All Employees: Couriers and Messengers in Texas",
+    "observation_start": "1990-01-01",
+    "observation_end": "2021-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Thousands of Persons",
+    "units_short": "Thous. of Persons",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-15 05:24:54-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "Database/U.S. Regional Data/States/Texas"
   }
 }

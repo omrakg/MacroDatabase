@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWEDU",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Educational Services Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWEDU",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Educational Services Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWEDU",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Educational Services Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWEDU",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Educational Services Wages and Salaries in Arizona",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEWEDU",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Educational Services Wages and Salaries in Delaware",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -108,8 +108,8 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-03-23 13:35:35-05",
-    "popularity": 0,
-    "group_popularity": 0,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS.",
     "path": "Database/U.S. Regional Data/States/Delaware"
   }

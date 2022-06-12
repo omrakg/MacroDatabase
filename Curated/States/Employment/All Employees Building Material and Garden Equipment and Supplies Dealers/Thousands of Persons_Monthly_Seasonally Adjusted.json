@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000004244400001SA",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Texas": {
     "id": "SMU48000004244400001SA",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Washington": {
     "id": "SMU53000004244400001SA",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",

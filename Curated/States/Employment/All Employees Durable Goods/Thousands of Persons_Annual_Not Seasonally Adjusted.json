@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000003100000001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMS72000003100000001",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -55,8 +55,8 @@
   },
   "Texas": {
     "id": "SMU48000003100000001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Utah": {
     "id": "SMU49000003100000001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Vermont": {
     "id": "SMU50000003100000001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -109,8 +109,8 @@
   },
   "Virginia": {
     "id": "SMU51000003100000001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -127,8 +127,8 @@
   },
   "Washington": {
     "id": "SMU53000003100000001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -145,8 +145,8 @@
   },
   "West Virginia": {
     "id": "SMU54000003100000001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -163,8 +163,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000003100000001A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "All Employees: Manufacturing: Durable Goods in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

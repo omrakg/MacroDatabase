@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWMAN",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Management of Companies and Enterprises Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWMAN",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Management of Companies and Enterprises Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWMAN",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Management of Companies and Enterprises Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWMAN",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Management of Companies and Enterprises Wages and Salaries in Arizona",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEWMAN",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-06-12",
+    "realtime_end": "2022-06-12",
     "title": "Management of Companies and Enterprises Wages and Salaries in Delaware",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
