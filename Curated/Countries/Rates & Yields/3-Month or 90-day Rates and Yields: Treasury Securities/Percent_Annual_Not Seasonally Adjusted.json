@@ -1,8 +1,8 @@
 {
   "Turkey": {
     "id": "IR3TTS01TRA156N",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Turkey",
     "observation_start": "1992-01-01",
     "observation_end": "2004-01-01",
@@ -17,5 +17,43 @@
     "group_popularity": 5,
     "notes": "OECD descriptor ID: IR3TTS01\nOECD unit ID: ST\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Turkey"
+  },
+  "Mexico": {
+    "id": "IR3TTS01MXQ156N",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
+    "title": "3-Month or 90-day Rates and Yields: Treasury Securities for Mexico",
+    "observation_start": "1978-01-01",
+    "observation_end": "2022-01-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-04-14 14:20:07-05",
+    "popularity": 1,
+    "group_popularity": 8,
+    "notes": "OECD descriptor ID: IR3TTS01\nOECD unit ID: ST\nOECD country ID: MEX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Mexico"
+  },
+  "South Africa": {
+    "id": "IR3TTS01ZAQ156N",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
+    "title": "3-Month or 90-day Rates and Yields: Treasury Securities for South Africa",
+    "observation_start": "1981-01-01",
+    "observation_end": "2022-01-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-04-14 14:17:17-05",
+    "popularity": 15,
+    "group_popularity": 20,
+    "notes": "OECD descriptor ID: IR3TTS01\nOECD unit ID: ST\nOECD country ID: ZAF\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/South Africa"
   }
 }

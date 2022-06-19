@@ -1,0 +1,43 @@
+{
+  "Thousands of Persons_Monthly_Seasonally Adjusted": {
+    "Puerto Rico": {
+      "id": "SMS72000009091000001",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
+      "title": "All Employees: Government: Federal Government in Puerto Rico",
+      "observation_start": "1990-01-01",
+      "observation_end": "2022-05-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Thousands of Persons",
+      "units_short": "Thous. of Persons",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-18 03:04:22-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics.",
+      "path": "Database/International Data/Countries/Puerto Rico"
+    }
+  },
+  "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
+    "Puerto Rico": {
+      "id": "SMU72000009091000001",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
+      "title": "All Employees: Government: Federal Government in Puerto Rico",
+      "observation_start": "1990-01-01",
+      "observation_end": "2022-05-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Thousands of Persons",
+      "units_short": "Thous. of Persons",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-06-18 02:04:46-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "path": "Database/International Data/Countries/Puerto Rico"
+    }
+  }
+}

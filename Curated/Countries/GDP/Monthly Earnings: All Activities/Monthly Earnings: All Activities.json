@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEATT03SKA661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -15,14 +15,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:37:36-05",
       "popularity": 0,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -40,8 +40,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -61,18 +61,18 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "LCEATT03ISM661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1988-12-01",
-      "observation_end": "2022-03-01",
+      "observation_end": "2022-04-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Index 2015=100",
       "units_short": "Index 2015=100",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-05-12 09:59:21-05",
+      "last_updated": "2022-06-14 11:26:04-05",
       "popularity": 1,
       "group_popularity": 1,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: ISL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
@@ -80,8 +80,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -99,8 +99,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -112,7 +112,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:15:20-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     }
@@ -120,8 +120,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -133,14 +133,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:15:20-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -158,8 +158,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -179,8 +179,8 @@
   "National currency, Monthly Level_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUA664S",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2020-01-01",
@@ -198,8 +198,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -217,8 +217,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -230,7 +230,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:15:20-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     }
@@ -238,8 +238,8 @@
   "National currency, Monthly Level_Monthly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUM664N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-11-01",
@@ -250,15 +250,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-10 10:41:30-06",
-      "popularity": 2,
+      "popularity": 1,
       "group_popularity": 8,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: NCML\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -276,8 +276,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -289,7 +289,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:15:20-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     }
@@ -297,8 +297,8 @@
   "National currency, Monthly Level_Monthly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUM664S",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-11-01",
@@ -316,8 +316,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -335,8 +335,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -348,7 +348,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:15:20-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     }
@@ -356,8 +356,8 @@
   "National currency, Monthly Level_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUQ664N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2021-04-01",
@@ -375,8 +375,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -394,8 +394,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -407,7 +407,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:15:20-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     }
@@ -415,8 +415,8 @@
   "National currency, Monthly Level_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -434,8 +434,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -453,8 +453,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -466,7 +466,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:15:20-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: IXOB\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     }
@@ -474,8 +474,8 @@
   "National Currency_Annual_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEATT03SKA189N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -487,14 +487,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 16:37:36-05",
       "popularity": 0,
-      "group_popularity": 1,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: ST\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -512,8 +512,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -533,8 +533,8 @@
   "National Currency_Quarterly_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEATT03SKQ189N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -545,15 +545,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-04-14 14:38:56-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 4,
+      "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: ST\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Slovak Republic"
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-01-01",
@@ -571,8 +571,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",

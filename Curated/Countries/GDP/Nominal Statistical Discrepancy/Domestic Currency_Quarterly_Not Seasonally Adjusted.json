@@ -1,26 +1,26 @@
 {
-  "Great Britain": {
-    "id": "NSDGDPNSAXDCGBQ",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
-    "title": "Nominal Statistical Discrepancy for Great Britain",
-    "observation_start": "1995-01-01",
-    "observation_end": "1995-10-01",
+  "South Africa": {
+    "id": "NSDGDPNSAXDCZAQ",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
+    "title": "Nominal Statistical Discrepancy for South Africa",
+    "observation_start": "1993-01-01",
+    "observation_end": "2021-10-01",
     "frequency": "Quarterly",
     "frequency_short": "Q",
     "units": "Domestic Currency",
     "units_short": "Domestic Currency",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2021-06-22 10:05:42-05",
-    "popularity": 1,
+    "last_updated": "2022-04-25 09:44:06-05",
+    "popularity": 0,
     "group_popularity": 1,
-    "path": "Database/International Data/Countries/Great Britain"
+    "path": "Database/International Data/Countries/South Africa"
   },
   "Argentina": {
     "id": "NSDGDPXDCARA",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Nominal Statistical Discrepancy for Argentina",
     "observation_start": "2016-01-01",
     "observation_end": "2021-01-01",
@@ -34,5 +34,23 @@
     "popularity": 1,
     "group_popularity": 1,
     "path": "Database/International Data/Countries/Argentina"
+  },
+  "Great Britain": {
+    "id": "NSDGDPSAXDCGBQ",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
+    "title": "Nominal Statistical Discrepancy for Great Britain",
+    "observation_start": "1955-01-01",
+    "observation_end": "2022-01-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Domestic Currency",
+    "units_short": "Domestic Currency",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-05-30 07:10:04-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "Database/International Data/Countries/Great Britain"
   }
 }

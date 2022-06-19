@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "VALIMPSAM052N",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Goods, Value of Imports for Saudi Arabia",
     "observation_start": "2015-01-01",
     "observation_end": "2022-02-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "VALIMPARM052N",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Goods, Value of Imports for Argentina",
     "observation_start": "2006-01-01",
     "observation_end": "2021-10-01",

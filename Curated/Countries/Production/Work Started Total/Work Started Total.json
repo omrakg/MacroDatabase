@@ -2,8 +2,8 @@
   "Growth rate previous period_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01GPSAM",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1995-02-01",
       "observation_end": "2021-12-01",
@@ -23,8 +23,8 @@
   "Growth rate same period previous year_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01GYSAM",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1996-01-01",
       "observation_end": "2021-12-01",
@@ -44,8 +44,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01IXOBSAM",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2021-12-01",

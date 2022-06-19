@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "POPTTLUAA148NRUG",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Population for Ukraine",
     "observation_start": "1990-01-01",
     "observation_end": "2019-01-01",
@@ -20,8 +20,8 @@
   },
   "Suriname": {
     "id": "POPTTLSRA173NUPN",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Population for Suriname",
     "observation_start": "1950-01-01",
     "observation_end": "2010-01-01",

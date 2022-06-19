@@ -1,0 +1,44 @@
+{
+  "Millions of Chained 2012 Dollars_Annual_Not Seasonally Adjusted": {
+    "Georgia": {
+      "id": "GAMNGCOENTPRRGSP",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
+      "title": "Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in Georgia",
+      "observation_start": "1997-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Millions of Chained 2012 Dollars",
+      "units_short": "Mil. of Chn. 2012 $",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-31 10:52:13-05",
+      "popularity": 0,
+      "group_popularity": 0,
+      "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm.",
+      "path": "Database/International Data/Countries/Georgia"
+    }
+  },
+  "Millions of Chained 2012 Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
+    "Georgia": {
+      "id": "GAMNGCOENTPRRQGSP",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
+      "title": "Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in Georgia",
+      "observation_start": "2005-01-01",
+      "observation_end": "2021-10-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Millions of Chained 2012 Dollars",
+      "units_short": "Mil. of Chn. 2012 $",
+      "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+      "seasonal_adjustment_short": "SAAR",
+      "last_updated": "2022-03-31 10:56:26-05",
+      "popularity": 0,
+      "group_popularity": 0,
+      "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm.",
+      "path": "Database/International Data/Countries/Georgia"
+    }
+  }
+}

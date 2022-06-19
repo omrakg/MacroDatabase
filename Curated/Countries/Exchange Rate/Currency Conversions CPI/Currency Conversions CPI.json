@@ -2,18 +2,18 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Latvia": {
       "id": "LVACCRETT01IXOBM",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Currency Conversions: Real effective exchange rates: Overall Economy: CPI for Latvia",
       "observation_start": "1997-01-01",
-      "observation_end": "2022-04-01",
+      "observation_end": "2022-05-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Index 2015=100",
       "units_short": "Index 2015=100",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-05-12 09:52:59-05",
+      "last_updated": "2022-06-14 11:19:10-05",
       "popularity": 1,
       "group_popularity": 1,
       "notes": "OECD descriptor ID: CCRETT01 OECD unit ID: IXOB OECD country ID: LVA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
@@ -21,8 +21,8 @@
     },
     "Colombia": {
       "id": "COLCCRETT01IXOBQ",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Currency Conversions: Real effective exchange rates: Overall Economy: CPI for Colombia",
       "observation_start": "1997-01-01",
       "observation_end": "2022-01-01",
@@ -32,9 +32,9 @@
       "units_short": "Index 2015=100",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-05-12 09:36:59-05",
+      "last_updated": "2022-06-14 11:04:14-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: CCRETT01 OECD unit ID: IXOB OECD country ID: COL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Colombia"
     }
@@ -42,8 +42,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Latvia": {
       "id": "LVACCRETT01IXOBQ",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Currency Conversions: Real effective exchange rates: Overall Economy: CPI for Latvia",
       "observation_start": "1997-01-01",
       "observation_end": "2022-01-01",
@@ -53,7 +53,7 @@
       "units_short": "Index 2015=100",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-05-12 09:20:57-05",
+      "last_updated": "2022-06-14 10:52:47-05",
       "popularity": 1,
       "group_popularity": 1,
       "notes": "OECD descriptor ID: CCRETT01 OECD unit ID: IXOB OECD country ID: LVA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
@@ -61,8 +61,8 @@
     },
     "Colombia": {
       "id": "COLCCRETT01IXOBQ",
-      "realtime_start": "2022-06-12",
-      "realtime_end": "2022-06-12",
+      "realtime_start": "2022-06-19",
+      "realtime_end": "2022-06-19",
       "title": "Currency Conversions: Real effective exchange rates: Overall Economy: CPI for Colombia",
       "observation_start": "1997-01-01",
       "observation_end": "2022-01-01",
@@ -72,9 +72,9 @@
       "units_short": "Index 2015=100",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-05-12 09:36:59-05",
+      "last_updated": "2022-06-14 11:04:14-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: CCRETT01 OECD unit ID: IXOB OECD country ID: COL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Colombia"
     }

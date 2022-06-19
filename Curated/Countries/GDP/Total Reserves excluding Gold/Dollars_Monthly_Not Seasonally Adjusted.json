@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "TRESEGSAM052N",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Reserves excluding Gold for Saudi Arabia",
     "observation_start": "1957-12-01",
     "observation_end": "2022-03-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "TRESEGARM194N",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Reserves excluding Gold for Argentina",
     "observation_start": "1950-12-01",
     "observation_end": "2022-04-01",
