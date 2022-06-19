@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWASTENGSP",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Gross Domestic Product: Waste Management and Remediation Services (NAICS 562) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWASTENGSP",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Gross Domestic Product: Waste Management and Remediation Services (NAICS 562) in Alabama",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWASTENGSP",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Gross Domestic Product: Waste Management and Remediation Services (NAICS 562) in Alaska",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWASTENGSP",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Gross Domestic Product: Waste Management and Remediation Services (NAICS 562) in Arizona",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEWASTENGSP",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Gross Domestic Product: Waste Management and Remediation Services (NAICS 562) in Delaware",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",

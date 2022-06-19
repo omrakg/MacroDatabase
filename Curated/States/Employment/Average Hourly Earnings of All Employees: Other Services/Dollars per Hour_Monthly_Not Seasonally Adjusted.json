@@ -1,18 +1,18 @@
 {
   "Wyoming": {
     "id": "SMU56000008000000003",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Average Hourly Earnings of All Employees: Other Services in Wyoming",
     "observation_start": "2007-01-01",
-    "observation_end": "2022-04-01",
+    "observation_end": "2022-05-01",
     "frequency": "Monthly",
     "frequency_short": "M",
     "units": "Dollars per Hour",
     "units_short": "$ per Hour",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-05-21 02:09:41-05",
+    "last_updated": "2022-06-18 02:11:57-05",
     "popularity": 1,
     "group_popularity": 1,
     "path": "Database/U.S. Regional Data/States/Wyoming"
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000008000000003A",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Average Hourly Earnings of All Employees: Other Services in Texas",
     "observation_start": "2007-01-01",
     "observation_end": "2021-01-01",

@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "U6UNEM6WY",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Unemployed, Plus All Marginally Attached Workers, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Marginally Attached Workers for Wyoming",
     "observation_start": "2003-10-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Utah": {
     "id": "U6UNEM6UT",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Unemployed, Plus All Marginally Attached Workers, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Marginally Attached Workers for Utah",
     "observation_start": "2003-10-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Vermont": {
     "id": "U6UNEM6VT",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Unemployed, Plus All Marginally Attached Workers, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Marginally Attached Workers for Vermont",
     "observation_start": "2003-10-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Virginia": {
     "id": "U6UNEM6VA",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Unemployed, Plus All Marginally Attached Workers, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Marginally Attached Workers for Virginia",
     "observation_start": "2003-10-01",
     "observation_end": "2022-01-01",
@@ -77,8 +77,8 @@
   },
   "Washington": {
     "id": "U6UNEM6WA",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Unemployed, Plus All Marginally Attached Workers, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Marginally Attached Workers for Washington",
     "observation_start": "2003-10-01",
     "observation_end": "2022-01-01",
@@ -96,8 +96,8 @@
   },
   "West Virginia": {
     "id": "U6UNEM6WV",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Unemployed, Plus All Marginally Attached Workers, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Marginally Attached Workers for West Virginia",
     "observation_start": "2003-10-01",
     "observation_end": "2022-01-01",
@@ -115,8 +115,8 @@
   },
   "Wisconsin": {
     "id": "U6UNEM6WI",
-    "realtime_start": "2022-06-12",
-    "realtime_end": "2022-06-12",
+    "realtime_start": "2022-06-19",
+    "realtime_end": "2022-06-19",
     "title": "Total Unemployed, Plus All Marginally Attached Workers, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Marginally Attached Workers for Wisconsin",
     "observation_start": "2003-10-01",
     "observation_end": "2022-01-01",
@@ -127,8 +127,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-04-29 14:05:11-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "U-6 unemployment rate, as defined by the Bureau of Labor Statistics(BLS).\n\nThe BLS defines marginally attached workers as persons who are not in the labor force, want and are available for work, and had looked for a job sometime in the prior 12 months. They are not counted as unemployed because they had not searched for work in the prior 4 weeks, for any reason whatsoever. The marginally attached are a group that includes discouraged workers.\n\nPersons employed part time for economic reasons are those working less than 35 hours per week who want to work full time, are available to do so, and gave an economic reason (their hours had been cut back or they were unable to find a full time job) for working part time. These individuals are sometimes referred to as involuntary part-time workers.",
     "path": "Database/U.S. Regional Data/States/Wisconsin"
   }
