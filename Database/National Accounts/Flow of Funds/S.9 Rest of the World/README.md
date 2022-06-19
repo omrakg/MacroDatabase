@@ -8,7 +8,7 @@
 | FGSDRHA027N | Federal Government; Special Drawing Rights (SDRs) Holdings; Asset, Transactions                                                                  | 1946-01-01          | 2021-01-01        |
 | FGSDRIA027N | Federal Government; Special Drawing Rights (SDRs) Allocations; Liability, Level                                                                  | 1945-01-01          | 2021-01-01        |
 | FGSDRSQ027S | Federal Government; Special Drawing Rights (SDRs) Holdings; Asset, Level                                                                         | 1945-10-01          | 2022-01-01        |
-| FGSDRTQ027S | Federal Government; Special Drawing Rights (SDRs) Holdings; Asset, Transactions                                                                  | 1946-10-01          | 2021-10-01        |
+| FGSDRTQ027S | Federal Government; Special Drawing Rights (SDRs) Holdings; Asset, Transactions                                                                  | 1946-10-01          | 2022-01-01        |
 | ROWBCAA027N | Rest of the World; Balance on Current Account (NIPA with Reversed Sign); Net Saving, Transactions                                                | 1946-01-01          | 2021-01-01        |
 | ROWBCAQ027S | Rest of the World; Balance on Current Account (NIPA with Reversed Sign); Net Saving, Transactions                                                | 1946-10-01          | 2022-01-01        |
 | ROWCBAA027N | Rest of the World; Corporate Bonds; Asset, Transactions                                                                                          | 1946-01-01          | 2021-01-01        |
@@ -47,7 +47,7 @@
 | ROWDESA027N | Rest of the World; Debt Securities, Excluding Negotiable Certificates of Deposit; Liability, Level                                               | 1945-01-01          | 2021-01-01        |
 | ROWDESQ027S | Rest of the World; Debt Securities, Excluding Negotiable Certificates of Deposit; Liability, Level                                               | 1945-10-01          | 2022-01-01        |
 | ROWDIAA027N | Rest of the World; U.S. Direct Investment Abroad, Including Netherlands Antillean Financial Subsidiaries; Liability (Current Cost), Level        | 1945-01-01          | 2021-01-01        |
-| ROWDIAQ027S | Rest of the World; U.S. Direct Investment Abroad, Including Netherlands Antillean Financial Subsidiaries; Liability (Current Cost), Level        | 1945-10-01          | 2021-10-01        |
+| ROWDIAQ027S | Rest of the World; U.S. Direct Investment Abroad, Including Netherlands Antillean Financial Subsidiaries; Liability (Current Cost), Level        | 1945-10-01          | 2022-01-01        |
 | ROWDILA027N | Rest of the World; Depository Institution Loans N.E.C.; Liability, Transactions                                                                  | 1946-01-01          | 2021-01-01        |
 | ROWDILQ027S | Rest of the World; Depository Institution Loans N.E.C.; Liability, Transactions                                                                  | 1946-10-01          | 2022-01-01        |
 | ROWDIPA027N | Rest of the World; Depository Institution Loans N.E.C.; Liability, Level                                                                         | 1945-01-01          | 2021-01-01        |
@@ -67,9 +67,9 @@
 | ROWFCEA027N | Rest of the world; foreign corporate equities; liability, Flow                                                                                   | 1946-01-01          | 2017-01-01        |
 | ROWFCEQ027S | Rest of the world; foreign corporate equities; liability, Flow                                                                                   | 1946-10-01          | 2018-01-01        |
 | ROWFDIA027N | Rest of the World; Foreign Direct Investment in U.S.; Asset (Current Cost), Transactions                                                         | 1946-01-01          | 2021-01-01        |
-| ROWFDIQ027S | Rest of the World; Foreign Direct Investment in U.S.; Asset (Current Cost), Transactions                                                         | 1946-10-01          | 2021-10-01        |
+| ROWFDIQ027S | Rest of the World; Foreign Direct Investment in U.S.; Asset (Current Cost), Transactions                                                         | 1946-10-01          | 2022-01-01        |
 | ROWFDNA027N | Rest of the World; Foreign Direct Investment in U.S.; Asset (Current Cost), Level                                                                | 1945-01-01          | 2021-01-01        |
-| ROWFDNQ027S | Rest of the World; Foreign Direct Investment in U.S.; Asset (Current Cost), Level                                                                | 1945-10-01          | 2021-10-01        |
+| ROWFDNQ027S | Rest of the World; Foreign Direct Investment in U.S.; Asset (Current Cost), Level                                                                | 1945-10-01          | 2022-01-01        |
 | ROWFOFA027N | Rest of the World; Sector Discrepancy (FOF Basis), Transactions                                                                                  | 1946-01-01          | 2021-01-01        |
 | ROWFOFQ027S | Rest of the World; Sector Discrepancy (FOF Basis), Transactions                                                                                  | 1946-10-01          | 2022-01-01        |
 | ROWGBSA027N | Rest of the World; Agency- and GSE-Backed Securities; Asset, Level                                                                               | 1945-01-01          | 2021-01-01        |
@@ -99,7 +99,7 @@
 | ROWMUFA027N | Rest of the World; U.S. Mutual Fund Shares; Asset, Level                                                                                         | 1945-01-01          | 2021-01-01        |
 | ROWMUFQ027S | Rest of the World; U.S. Mutual Fund Shares; Asset, Level                                                                                         | 1945-10-01          | 2022-01-01        |
 | ROWNAFA027N | Rest of the World; U.S. Direct Investment Abroad, Including Netherlands Antillean Financial Subsidiaries; Liability (Current Cost), Transactions | 1946-01-01          | 2021-01-01        |
-| ROWNAFQ027S | Rest of the World; U.S. Direct Investment Abroad, Including Netherlands Antillean Financial Subsidiaries; Liability (Current Cost), Transactions | 1946-10-01          | 2021-10-01        |
+| ROWNAFQ027S | Rest of the World; U.S. Direct Investment Abroad, Including Netherlands Antillean Financial Subsidiaries; Liability (Current Cost), Transactions | 1946-10-01          | 2022-01-01        |
 | ROWNBLA027N | Rest of the World; U.S. Nonfinancial Business Loans; Asset, Transactions                                                                         | 1946-01-01          | 2021-01-01        |
 | ROWNBLQ027S | Rest of the World; U.S. Nonfinancial Business Loans; Asset, Transactions                                                                         | 1946-10-01          | 2022-01-01        |
 | ROWNEAA027N | Rest of the World; U.S. Nonfinancial Business Loans; Asset, Level                                                                                | 1945-01-01          | 2021-01-01        |
@@ -114,10 +114,18 @@
 | ROWNITQ027S | Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset, Transactions                                               | 1946-10-01          | 2022-01-01        |
 | ROWNNAA027N | Rest of the World; Acquisition of Nonproduced Nonfinancial Assets (Net) (IMA), Transactions                                                      | 1946-01-01          | 2021-01-01        |
 | ROWNNAQ027S | Rest of the World; Acquisition of Nonproduced Nonfinancial Assets (Net) (IMA), Transactions                                                      | 1946-10-01          | 2022-01-01        |
-| ROWNTHA027N | Rest of the World; Net Transactions Due to Holding Companies; Liability, Transactions                                                            | 1946-01-01          | 2021-01-01        |
-| ROWNTHQ027S | Rest of the World; Net Transactions Due to Holding Companies; Liability, Transactions                                                            | 1946-10-01          | 2021-10-01        |
-| ROWNTLA027N | Rest of the World; Net Transactions Due to Holding Companies; Liability, Level                                                                   | 1945-01-01          | 2021-01-01        |
-| ROWNTLQ027S | Rest of the World; Net Transactions Due to Holding Companies; Liability, Level                                                                   | 1945-10-01          | 2021-10-01        |
+| ROWNTHA027N | Rest of the World; Other Investments by Holding Companies, Excluding Foreign Deposits; Liability, Transactions                                   | 1946-01-01          | 2021-01-01        |
+| ROWNTHQ027S | Rest of the World; Other Investments by Holding Companies, Excluding Foreign Deposits; Liability, Transactions                                   | 1946-10-01          | 2022-01-01        |
+| ROWNTLA027N | Rest of the World; Other Investments by Holding Companies, Excluding Foreign Deposits; Liability, Level                                          | 1945-01-01          | 2021-01-01        |
+| ROWNTLQ027S | Rest of the World; Other Investments by Holding Companies, Excluding Foreign Deposits; Liability, Level                                          | 1945-10-01          | 2022-01-01        |
+| ROWOAAA027N | Rest of the World; Other Accounts Receivable; Asset (IMA), Level                                                                                 | 1945-01-01          | 2021-01-01        |
+| ROWOAAQ027S | Rest of the World; Other Accounts Receivable; Asset (IMA), Level                                                                                 | 1945-10-01          | 2022-01-01        |
+| ROWOALA027N | Rest of the World; Other Accounts Payable; Liability (IMA), Level                                                                                | 1945-01-01          | 2021-01-01        |
+| ROWOALQ027S | Rest of the World; Other Accounts Payable; Liability (IMA), Level                                                                                | 1945-10-01          | 2022-01-01        |
+| ROWOAPA027N | Rest of the World; Other Accounts Payable; Liability (IMA), Transactions                                                                         | 1946-01-01          | 2021-01-01        |
+| ROWOAPQ027S | Rest of the World; Other Accounts Payable; Liability (IMA), Transactions                                                                         | 1946-10-01          | 2022-01-01        |
+| ROWOARA027N | Rest of the World; Other Accounts Receivable; Asset (IMA), Transactions                                                                          | 1946-01-01          | 2021-01-01        |
+| ROWOARQ027S | Rest of the World; Other Accounts Receivable; Asset (IMA), Transactions                                                                          | 1946-10-01          | 2022-01-01        |
 | ROWOFCA027N | Rest of the World; Other U.S. Reserve Assets (Total); Liability, Transactions                                                                    | 1946-01-01          | 2021-01-01        |
 | ROWOFCQ027S | Rest of the World; Other U.S. Reserve Assets (Total); Liability, Transactions                                                                    | 1946-10-01          | 2022-01-01        |
 | ROWOFLA027N | Rest of the World; Other U.S. Reserve Assets (Total); Liability, Level                                                                           | 1945-01-01          | 2021-01-01        |
@@ -128,9 +136,9 @@
 | ROWORAQ027S | Rest of the World; U.S. Official Reserve Assets, Transactions                                                                                    | 1946-10-01          | 2022-01-01        |
 | ROWOVHA027N | Rest of the World; Total Other Volume Changes (IMA), Transactions                                                                                | 1946-01-01          | 2021-01-01        |
 | ROWPDHA027N | Rest of the World; U.S. Private Deposits; Liability, Transactions                                                                                | 1946-01-01          | 2021-01-01        |
-| ROWPDHQ027S | Rest of the World; U.S. Private Deposits; Liability, Transactions                                                                                | 1946-10-01          | 2021-10-01        |
+| ROWPDHQ027S | Rest of the World; U.S. Private Deposits; Liability, Transactions                                                                                | 1946-10-01          | 2022-01-01        |
 | ROWPDLA027N | Rest of the World; U.S. Private Deposits; Liability, Level                                                                                       | 1945-01-01          | 2021-01-01        |
-| ROWPDLQ027S | Rest of the World; U.S. Private Deposits; Liability, Level                                                                                       | 1945-10-01          | 2021-10-01        |
+| ROWPDLQ027S | Rest of the World; U.S. Private Deposits; Liability, Level                                                                                       | 1945-10-01          | 2022-01-01        |
 | ROWRAAA027N | Rest of the World; Short-Term Loans Including Security Repurchase Agreements; Asset, Transactions                                                | 1946-01-01          | 2021-01-01        |
 | ROWRAAQ027S | Rest of the World; Short-Term Loans Including Security Repurchase Agreements; Asset, Transactions                                                | 1946-10-01          | 2022-01-01        |
 | ROWRESA027N | Rest of the World; Reserve Position in IMF (Net); Liability, Level                                                                               | 1945-01-01          | 2021-01-01        |
@@ -156,13 +164,13 @@
 | ROWTLEA027N | Rest of the World; Total Liabilities and Equity, Level                                                                                           | 1945-01-01          | 2021-01-01        |
 | ROWTLEQ027S | Rest of the World; Total Liabilities and Equity, Level                                                                                           | 1945-10-01          | 2022-01-01        |
 | ROWTLIA027N | Rest of the World; Total Liabilities, Transactions                                                                                               | 1946-01-01          | 2021-01-01        |
-| ROWTLIQ027S | Rest of the World; Total Liabilities, Transactions                                                                                               | 1946-10-01          | 2021-10-01        |
+| ROWTLIQ027S | Rest of the World; Total Liabilities, Transactions                                                                                               | 1946-10-01          | 2022-01-01        |
 | ROWTNWA027N | Rest of the World; Total Liabilities and Net Worth (IMA), Level                                                                                  | 1945-01-01          | 2021-01-01        |
 | ROWTNWQ027S | Rest of the World; Total Liabilities and Net Worth (IMA), Level                                                                                  | 1945-10-01          | 2022-01-01        |
 | ROWTPAA027N | Rest of the World; Trade Credit and Advances, Excluding Trade Credit from Non-U.S. Reinsurers; Liability, Level                                  | 1945-01-01          | 2021-01-01        |
-| ROWTPAQ027S | Rest of the World; Trade Credit and Advances, Excluding Trade Credit from Non-U.S. Reinsurers; Liability, Level                                  | 1945-10-01          | 2021-10-01        |
+| ROWTPAQ027S | Rest of the World; Trade Credit and Advances, Excluding Trade Credit from Non-U.S. Reinsurers; Liability, Level                                  | 1945-10-01          | 2022-01-01        |
 | ROWTPLA027N | Rest of the World; Trade Credit and Advances, Excluding Trade Credit from Non-U.S. Reinsurers; Liability, Transactions                           | 1946-01-01          | 2021-01-01        |
-| ROWTPLQ027S | Rest of the World; Trade Credit and Advances, Excluding Trade Credit from Non-U.S. Reinsurers; Liability, Transactions                           | 1946-10-01          | 2021-10-01        |
+| ROWTPLQ027S | Rest of the World; Trade Credit and Advances, Excluding Trade Credit from Non-U.S. Reinsurers; Liability, Transactions                           | 1946-10-01          | 2022-01-01        |
 | ROWTRAA027N | Rest of the World; Trade Receivables; Asset, Transactions                                                                                        | 1946-01-01          | 2021-01-01        |
 | ROWTRAQ027S | Rest of the World; Trade Receivables; Asset, Transactions                                                                                        | 1946-10-01          | 2022-01-01        |
 | ROWTRSA027N | Rest of the World; Trade Receivables; Asset, Level                                                                                               | 1945-01-01          | 2021-01-01        |

@@ -26,11 +26,11 @@
 | SCGDPUKA          | Stockbuilding Contribution to Gross Domestic Product in the United Kingdom                             | 1830-01-01          | 2016-01-01        |
 | SCGDPUKQ          | Stockbuilding Contribution to Gross Domestic Product in the United Kingdom                             | 1955-01-01          | 2016-10-01        |
 | TUVBCABP6USD      | Balance of Payments: Total Net Current Account for Tuvalu                                              | 2016-01-01          | 2024-01-01        |
-| TUVBCAGDPBP6PT    | Balance of Payments: Total Net Current Account for Tuvalu                                              | 2001-01-01          | 2026-01-01        |
-| TUVGGXCNLG01GDPPT | Fiscal Situation of General Government: Net Lending/borrowing for Tuvalu                               | 2004-01-01          | 2026-01-01        |
+| TUVBCAGDPBP6PT    | Balance of Payments: Total Net Current Account for Tuvalu                                              | 2001-01-01          | 2027-01-01        |
+| TUVGGXCNLG01GDPPT | Fiscal Situation of General Government: Net Lending/borrowing for Tuvalu                               | 2004-01-01          | 2027-01-01        |
 | TUVGGXWDGG01GDPPT | Fiscal Situation of General Government: Gross Debt Position for Tuvalu                                 | 2016-01-01          | 2024-01-01        |
 | TUVNGDPDUSD       | National Accounts: Gross Domestic Product for Tuvalu                                                   | 2016-01-01          | 2024-01-01        |
-| TUVNGDPRPCPPPT    | National Accounts: Real Gross Domestic Product for Tuvalu                                              | 2001-01-01          | 2026-01-01        |
+| TUVNGDPRPCPPPT    | National Accounts: Real Gross Domestic Product for Tuvalu                                              | 2001-01-01          | 2027-01-01        |
 | TVEXPUKA          | Trade Volumes: Export Volumes in the United Kingdom                                                    | 1280-01-01          | 2016-01-01        |
 | TVEXPUKQ          | Trade Volumes: Export Volumes in the United Kingdom                                                    | 1955-01-01          | 2016-10-01        |
 | TVIMPUKA          | Trade Volumes: Import Volumes in the United Kingdom                                                    | 1560-01-01          | 2016-01-01        |

@@ -1,0 +1,5 @@
+| id                     | title                                                                                                     | observation_start   | observation_end   |
+|------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU25731040500000002SA | Average Weekly Hours of All Employees: Total Private in Framingham, MA (NECTA Division) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU25731040500000003SA | Average Hourly Earnings of All Employees: Total Private in Framingham, MA (NECTA Division) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU25731040500000011SA | Average Weekly Earnings of All Employees: Total Private in Framingham, MA (NECTA Division) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

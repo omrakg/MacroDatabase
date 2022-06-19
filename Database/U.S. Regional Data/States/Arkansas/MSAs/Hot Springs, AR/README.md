@@ -23,12 +23,12 @@
 | HSPBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 1988-01-01          | 2022-04-01        |
 | HSPBPPRIV                 | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 2004-01-01          | 2022-04-01        |
 | HSPBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 1988-01-01          | 2022-04-01        |
-| HSPGOVT                   | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-04-01        |
-| HSPGOVTN                  | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-04-01        |
+| HSPGOVT                   | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-05-01        |
+| HSPGOVTN                  | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-05-01        |
 | HSPLF                     | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-04-01        |
 | HSPLFN                    | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-04-01        |
-| HSPNA                     | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-04-01        |
-| HSPNAN                    | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-04-01        |
+| HSPNA                     | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-05-01        |
+| HSPNAN                    | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-05-01        |
 | HSPPCPI                   | Per Capita Personal Income in Hot Springs, AR (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | HSPPOP                    | Resident Population in Hot Springs, AR (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | HSPUR                     | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-04-01        |
@@ -74,24 +74,24 @@
 | RPPGOOD26300              | Regional Price Parities: Goods for Hot Springs, AR (MSA)                                              | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH26300          | Regional Price Parities: Services: Other for Hot Springs, AR (MSA)                                    | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT26300         | Regional Price Parities: Services: Rents for Hot Springs, AR (MSA)                                    | 2008-01-01          | 2020-01-01        |
-| SMS05263000000000026      | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-04-01          | 2022-04-01        |
+| SMS05263000000000026      | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-04-01          | 2022-05-01        |
 | SMU05263000000000001A     | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU05263000500000001      | All Employees: Total Private in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-04-01        |
+| SMU05263000500000001      | All Employees: Total Private in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-05-01        |
 | SMU05263000500000001A     | All Employees: Total Private in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU05263000500000001SA    | All Employees: Total Private in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-04-01        |
-| SMU05263000500000002      | Average Weekly Hours of All Employees: Total Private in Hot Springs, AR (MSA)                         | 2007-01-01          | 2022-04-01        |
+| SMU05263000500000001SA    | All Employees: Total Private in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-05-01        |
+| SMU05263000500000002      | Average Weekly Hours of All Employees: Total Private in Hot Springs, AR (MSA)                         | 2007-01-01          | 2022-05-01        |
 | SMU05263000500000002A     | Average Weekly Hours of All Employees: Total Private in Hot Springs, AR (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU05263000500000003      | Average Hourly Earnings of All Employees: Total Private in Hot Springs, AR (MSA)                      | 2007-01-01          | 2022-04-01        |
+| SMU05263000500000003      | Average Hourly Earnings of All Employees: Total Private in Hot Springs, AR (MSA)                      | 2007-01-01          | 2022-05-01        |
 | SMU05263000500000003A     | Average Hourly Earnings of All Employees: Total Private in Hot Springs, AR (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU05263000500000011      | Average Weekly Earnings of All Employees: Total Private in Hot Springs, AR (MSA)                      | 2007-01-01          | 2022-04-01        |
+| SMU05263000500000011      | Average Weekly Earnings of All Employees: Total Private in Hot Springs, AR (MSA)                      | 2007-01-01          | 2022-05-01        |
 | SMU05263000500000011A     | Average Weekly Earnings of All Employees: Total Private in Hot Springs, AR (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU05263000600000001      | All Employees: Goods Producing in Hot Springs, AR (MSA)                                               | 1990-01-01          | 2022-04-01        |
+| SMU05263000600000001      | All Employees: Goods Producing in Hot Springs, AR (MSA)                                               | 1990-01-01          | 2022-05-01        |
 | SMU05263000600000001A     | All Employees: Goods Producing in Hot Springs, AR (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU05263000600000001SA    | All Employees: Goods Producing in Hot Springs, AR (MSA)                                               | 1990-01-01          | 2022-04-01        |
-| SMU05263000700000001      | All Employees: Service-Providing in Hot Springs, AR (MSA)                                             | 1990-01-01          | 2022-04-01        |
+| SMU05263000600000001SA    | All Employees: Goods Producing in Hot Springs, AR (MSA)                                               | 1990-01-01          | 2022-05-01        |
+| SMU05263000700000001      | All Employees: Service-Providing in Hot Springs, AR (MSA)                                             | 1990-01-01          | 2022-05-01        |
 | SMU05263000700000001A     | All Employees: Service-Providing in Hot Springs, AR (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU05263000700000001SA    | All Employees: Service-Providing in Hot Springs, AR (MSA)                                             | 1990-01-01          | 2022-04-01        |
-| SMU05263000800000001      | All Employees: Private Service Providing in Hot Springs, AR (MSA)                                     | 1990-01-01          | 2022-04-01        |
+| SMU05263000700000001SA    | All Employees: Service-Providing in Hot Springs, AR (MSA)                                             | 1990-01-01          | 2022-05-01        |
+| SMU05263000800000001      | All Employees: Private Service Providing in Hot Springs, AR (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | SMU05263000800000001A     | All Employees: Private Service Providing in Hot Springs, AR (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU05263000800000001SA    | All Employees: Private Service Providing in Hot Springs, AR (MSA)                                     | 1990-01-01          | 2022-04-01        |
+| SMU05263000800000001SA    | All Employees: Private Service Providing in Hot Springs, AR (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | SMU05263009000000001A     | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2021-01-01        |

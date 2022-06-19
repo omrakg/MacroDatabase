@@ -1,2 +1,9 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                      | observation_start   | observation_end   |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP19340            | Total Per Capita Real Gross Domestic Product for Davenport-Moline-Rock Island, IA-IL (MSA) (DISCONTINUED)                  | 2001-01-01          | 2017-01-01        |
+| SMU17193400500000002SA | Average Weekly Hours of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA) (DISCONTINUED)           | 2007-01-01          | 2022-03-01        |
+| SMU17193400500000003SA | Average Hourly Earnings of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA) (DISCONTINUED)        | 2007-01-01          | 2022-03-01        |
+| SMU17193400500000011SA | Average Weekly Earnings of All Employees: Total Private in Davenport-Moline-Rock Island, IA-IL (MSA) (DISCONTINUED)        | 2007-01-01          | 2022-03-01        |
+| SMU17193403000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA) (DISCONTINUED)    | 2007-01-01          | 2018-12-01        |
+| SMU17193403000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA) (DISCONTINUED) | 2007-01-01          | 2018-12-01        |
+| SMU17193403000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA) (DISCONTINUED) | 2007-01-01          | 2018-12-01        |

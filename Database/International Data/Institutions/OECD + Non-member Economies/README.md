@@ -1,6 +1,6 @@
 | id                 | title                                                                                                                                          | observation_start   | observation_end   |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BSCICP03O9M665S    | Business Tendency Surveys for Manufacturing: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD and Non-member Economies | 1984-01-01          | 2022-03-01        |
+| BSCICP03O9M665S    | Business Tendency Surveys for Manufacturing: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD and Non-member Economies | 1984-01-01          | 2022-04-01        |
 | CSCICP03O9M665S    | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD and Non-member Economies                    | 1980-01-01          | 2022-03-01        |
 | OECDNMEREC         | OECD based Recession Indicators for OECD and Non-member Economies from the Period following the Peak through the Trough                        | 1960-02-01          | 2022-01-01        |
 | OECDNMERECD        | OECD based Recession Indicators for OECD and Non-member Economies from the Period following the Peak through the Trough                        | 1960-02-01          | 2022-01-31        |

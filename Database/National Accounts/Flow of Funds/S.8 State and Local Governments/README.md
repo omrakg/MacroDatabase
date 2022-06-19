@@ -69,7 +69,7 @@
 | SLGMMFA027N | State and Local Governments; Money Market Fund Shares; Asset, Level                                             | 1945-01-01          | 2021-01-01        |
 | SLGMMFQ027S | State and Local Governments; Money Market Fund Shares; Asset, Level                                             | 1945-10-01          | 2022-01-01        |
 | SLGMMMA027N | State and Local Governments; Money Market Fund Shares; Asset, Transactions                                      | 1946-01-01          | 2021-01-01        |
-| SLGMMMQ027S | State and Local Governments; Money Market Fund Shares; Asset, Transactions                                      | 1946-10-01          | 2021-10-01        |
+| SLGMMMQ027S | State and Local Governments; Money Market Fund Shares; Asset, Transactions                                      | 1946-10-01          | 2022-01-01        |
 | SLGMSEA027N | State and Local Governments; Short-Term Municipal Securities; Liability, Level                                  | 1945-01-01          | 2021-01-01        |
 | SLGMSEQ027S | State and Local Governments; Short-Term Municipal Securities; Liability, Level                                  | 1945-10-01          | 2022-01-01        |
 | SLGMSLA027N | State and Local Governments; Municipal Securities; Asset, Transactions                                          | 1946-01-01          | 2021-01-01        |
