@@ -1,18 +1,18 @@
 {
   "id": "DTB6",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "6-Month Treasury Bill Secondary Market Rate, Discount Basis",
   "observation_start": "1958-12-09",
-  "observation_end": "2022-06-09",
+  "observation_end": "2022-06-16",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-10 15:20:11-05",
+  "last_updated": "2022-06-17 15:30:16-05",
   "popularity": 54,
-  "group_popularity": 57,
+  "group_popularity": 56,
   "notes": "Discount Basis"
 }

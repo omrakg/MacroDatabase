@@ -1,7 +1,7 @@
 {
   "id": "CIU202S000000000I",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Service-providing industries",
   "observation_start": "2001-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-29 07:51:59-05",
   "popularity": 2,
-  "group_popularity": 7,
+  "group_popularity": 6,
   "notes": "See Footnote H on https://www.bls.gov/ect/cimapnote.htm"
 }

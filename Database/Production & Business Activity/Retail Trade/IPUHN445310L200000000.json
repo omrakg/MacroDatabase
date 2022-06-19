@@ -1,0 +1,18 @@
+{
+  "id": "IPUHN445310L200000000",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
+  "title": "Hours Worked for Retail Trade: Beer, Wine, and Liquor Stores (NAICS 445310) in the United States",
+  "observation_start": "1987-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Hours",
+  "units_short": "Mil. of Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-02 11:34:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services."
+}

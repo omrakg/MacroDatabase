@@ -1,7 +1,7 @@
 {
   "id": "JTUTSL",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Total Separations: Total Nonfarm",
   "observation_start": "2000-12-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-01 09:11:24-05",
-  "popularity": 4,
-  "group_popularity": 36
+  "popularity": 5,
+  "group_popularity": 37
 }

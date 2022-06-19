@@ -1,7 +1,7 @@
 {
   "id": "CWSR0000SAS2RS",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Rent of Shelter in U.S. City Average",
   "observation_start": "1990-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-10 07:41:08-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 4
 }

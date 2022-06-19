@@ -1,7 +1,7 @@
 {
   "id": "A471RD3Q052SBEA",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Costs per unit of real gross value added of nonfinancial corporate business: Unit nonlabor cost: Net interest and miscellaneous payments",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-26 07:54:36-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 3,
   "notes": "BEA Account Code: A471RD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

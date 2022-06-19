@@ -1,0 +1,18 @@
+{
+  "id": "IPUIN482111L031000000",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
+  "title": "Labor Share for Transportation and Warehousing: Line-Haul Railroads (NAICS 482111) in the United States",
+  "observation_start": "1988-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-26 09:10:23-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Labor share is the proportion of the total dollar cost to produce output of goods and services attributed to use of labor."
+}

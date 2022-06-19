@@ -1,0 +1,18 @@
+{
+  "id": "AMBOR30T",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
+  "title": "AMERIBOR Term-30 Derived Interest Rate Index",
+  "observation_start": "2021-03-15",
+  "observation_end": "2022-06-16",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-17 07:03:09-05",
+  "popularity": 24,
+  "group_popularity": 24,
+  "notes": "AMERIBOR\u00ae (American Interbank Offered Rate) is a benchmark interest rate based on overnight unsecured loans transacted on the American Financial Exchange (AFX). AMERIBOR\u00ae is calculated as the transaction volume weighted average interest rate of the daily transactions in the AMERIBOR\u00ae overnight unsecured loan market on the AFX.\n\nAMERIBOR\u00ae Term-30 Index is a forward-looking interest rate designed to capture wholesale funding costs for American financial institutions over a thirty-day period at a specific moment in time. This index is calculated using AMERIBOR (https://fred.stlouisfed.org/series/AMERIBOR) as well as a broad dataset of real-world primary issuances of wholesale commercial deposits and commercial paper of U.S.-domiciled financial institutions of every size. More details about AMERIBOR\u00ae methodology can be found on the source's website (https://ameribor.net/), under the Resources section.\n\nAMERIBOR\u00ae is a registered trademark of the American Financial Exchange (AFX). \u00a9 Copyright, American Financial Exchange (AFX). All Rights Reserved."
+}

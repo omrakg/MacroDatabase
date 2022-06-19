@@ -1,7 +1,7 @@
 {
   "id": "LNS15000000",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Not in Labor Force",
   "observation_start": "1975-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-03 07:44:22-05",
-  "popularity": 47,
+  "popularity": 46,
   "group_popularity": 50,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS15000000"
 }

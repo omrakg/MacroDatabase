@@ -1,7 +1,7 @@
 {
   "id": "JTS4400QUL",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Quits: Retail Trade",
   "observation_start": "2000-12-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-01 09:11:12-05",
-  "popularity": 9,
-  "group_popularity": 21
+  "popularity": 15,
+  "group_popularity": 24
 }

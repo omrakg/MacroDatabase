@@ -1,7 +1,7 @@
 {
   "id": "ASLEXPND",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "State and Local Government Current Expenditures",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:53:21-05",
-  "popularity": 3,
-  "group_popularity": 31,
+  "popularity": 4,
+  "group_popularity": 29,
   "notes": "BEA Account Code: W024RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

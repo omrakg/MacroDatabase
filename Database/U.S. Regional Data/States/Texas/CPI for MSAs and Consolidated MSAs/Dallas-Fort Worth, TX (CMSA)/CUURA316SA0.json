@@ -1,7 +1,7 @@
 {
   "id": "CUURA316SA0",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Consumer Price Index for All Urban Consumers: All Items in Dallas-Fort Worth-Arlington, TX (CBSA)",
   "observation_start": "1963-11-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-10 07:40:12-05",
-  "popularity": 15,
-  "group_popularity": 16
+  "popularity": 20,
+  "group_popularity": 21
 }

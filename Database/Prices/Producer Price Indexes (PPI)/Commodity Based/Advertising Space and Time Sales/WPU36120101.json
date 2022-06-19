@@ -1,17 +1,17 @@
 {
   "id": "WPU36120101",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Producer Price Index by Commodity: Advertising Space and Time Sales: Advertising Space Sales in Directories and Mailing Lists",
   "observation_start": "2008-12-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 2008=100",
   "units_short": "Index Dec 2008=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-12 08:01:20-05",
+  "last_updated": "2022-06-14 08:02:23-05",
   "popularity": 1,
   "group_popularity": 1
 }

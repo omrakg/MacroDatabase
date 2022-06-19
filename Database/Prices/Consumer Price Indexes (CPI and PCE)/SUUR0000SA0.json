@@ -1,7 +1,7 @@
 {
   "id": "SUUR0000SA0",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Chained Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
   "observation_start": "1999-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-10 07:38:13-05",
-  "popularity": 39,
-  "group_popularity": 39
+  "popularity": 37,
+  "group_popularity": 37
 }

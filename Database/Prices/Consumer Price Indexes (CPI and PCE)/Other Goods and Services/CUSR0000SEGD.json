@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SEGD",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Consumer Price Index for All Urban Consumers: Miscellaneous Personal Services in U.S. City Average",
   "observation_start": "1990-01-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-10 07:40:18-05",
   "popularity": 6,
-  "group_popularity": 6
+  "group_popularity": 7
 }

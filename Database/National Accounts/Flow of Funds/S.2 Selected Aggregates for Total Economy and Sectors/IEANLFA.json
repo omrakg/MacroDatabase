@@ -1,7 +1,7 @@
 {
   "id": "IEANLFA",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Net lending (+) or net borrowing (-) from financial-account transactions",
   "observation_start": "1999-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-24 10:00:42-05",
-  "popularity": 1,
-  "group_popularity": 2
+  "popularity": 6,
+  "group_popularity": 7
 }

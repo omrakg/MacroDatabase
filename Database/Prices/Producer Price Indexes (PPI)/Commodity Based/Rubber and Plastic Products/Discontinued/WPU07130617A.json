@@ -1,7 +1,7 @@
 {
   "id": "WPU07130617A",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Producer Price Index by Commodity for Rubber and Plastic Products: Extruded Rubber Mechanical Goods, Excluding Tubing (DISCONTINUED)",
   "observation_start": "2011-12-01",
   "observation_end": "2017-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-02-14 08:29:36-06",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

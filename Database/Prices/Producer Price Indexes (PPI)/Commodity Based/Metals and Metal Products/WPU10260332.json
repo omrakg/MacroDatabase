@@ -1,17 +1,17 @@
 {
   "id": "WPU10260332",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Power Wire and Cable",
   "observation_start": "2004-06-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Jun 2004=100",
   "units_short": "Index Jun 2004=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-12 07:52:48-05",
-  "popularity": 11,
-  "group_popularity": 11
+  "last_updated": "2022-06-14 07:52:42-05",
+  "popularity": 10,
+  "group_popularity": 10
 }

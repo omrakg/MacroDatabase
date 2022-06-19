@@ -1,7 +1,7 @@
 {
   "id": "ITAGDPRQPSMEI",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Constant Price Gross Domestic Product in Italy",
   "observation_start": "1982-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "% Chg. from Yr. Ago",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-12 09:10:08-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "last_updated": "2022-06-14 10:35:15-05",
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

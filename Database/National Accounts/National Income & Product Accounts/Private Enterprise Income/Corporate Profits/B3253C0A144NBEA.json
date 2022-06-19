@@ -1,7 +1,7 @@
 {
   "id": "B3253C0A144NBEA",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Corporate profits after tax: Domestic industries: Banking: Federal Reserve banks",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-08-08 14:12:54-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: B3253C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

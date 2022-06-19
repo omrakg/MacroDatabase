@@ -1,7 +1,7 @@
 {
   "id": "CPATAX",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Corporate Profits After Tax with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj)",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-26 07:53:20-05",
-  "popularity": 50,
-  "group_popularity": 50,
+  "popularity": 48,
+  "group_popularity": 48,
   "notes": "BEA Account Code: A551RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

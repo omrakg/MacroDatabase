@@ -1,7 +1,7 @@
 {
   "id": "CUURA422SAF",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Consumer Price Index for All Urban Consumers: Food and Beverages in San Francisco-Oakland-Hayward, CA (CBSA)",
   "observation_start": "1975-12-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-11 07:40:53-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

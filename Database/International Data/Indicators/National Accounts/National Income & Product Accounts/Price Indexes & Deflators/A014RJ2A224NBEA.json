@@ -1,7 +1,7 @@
 {
   "id": "A014RJ2A224NBEA",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Contributions to percent change in gross domestic product price index: Gross private domestic investment: Change in private inventories",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 08:01:07-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: A014RJ\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

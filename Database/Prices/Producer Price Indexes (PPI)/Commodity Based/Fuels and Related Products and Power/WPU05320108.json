@@ -1,17 +1,17 @@
 {
   "id": "WPU05320108",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Plant Condensate, Ethane, Gas Mixtures, and Other Natural Gas Liquids",
   "observation_start": "2009-06-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Jun 2009=100",
   "units_short": "Index Jun 2009=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-12 07:52:51-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "last_updated": "2022-06-14 07:53:59-05",
+  "popularity": 3,
+  "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "LNS17200000",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Labor Force Flows Not in Labor Force to Employed",
   "observation_start": "1990-02-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-03 07:44:42-05",
-  "popularity": 12,
-  "group_popularity": 15,
+  "popularity": 11,
+  "group_popularity": 13,
   "notes": "This series is from the Current Population Survey (Household Survey) conducted by the Bureau of Labor Statistics. Labor force flows show the movements that underlie the net over-the-month changes in employment, unemployment, or not in the labor force."
 }

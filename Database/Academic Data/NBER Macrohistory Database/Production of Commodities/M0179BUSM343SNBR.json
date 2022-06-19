@@ -1,7 +1,7 @@
 {
   "id": "M0179BUSM343SNBR",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Index of Production of Chemical Products for United States",
   "observation_start": "1939-01-01",
   "observation_end": "1953-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-16 11:02:41-05",
-  "popularity": 4,
-  "group_popularity": 6,
+  "popularity": 1,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted, 1923-1939 (2)--Seasonally Adjusted, 1939-1953 (3)--Original Data, 1947-1957. Data Was Adjusted Upwards On The Basis Of New Census Data. Source: Federal Reserve Index Of Industrial Production, October 1943; Federal Reserve Bulletin, Monthly Issues From January 1944 On.\n\nThis NBER data series m01279b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01279b"
 }

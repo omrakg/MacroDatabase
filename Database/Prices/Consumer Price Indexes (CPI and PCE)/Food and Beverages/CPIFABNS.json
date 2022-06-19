@@ -1,7 +1,7 @@
 {
   "id": "CPIFABNS",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average",
   "observation_start": "1967-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-10 07:38:23-05",
-  "popularity": 23,
-  "group_popularity": 63
+  "popularity": 19,
+  "group_popularity": 61
 }

@@ -1,7 +1,7 @@
 {
   "id": "OECDB6CRTT01CXCUQ",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Balance of payments BPM6: Current account Credits: Total: Total Credits for OECD - Total",
   "observation_start": "2005-01-01",
   "observation_end": "2021-10-01",
@@ -11,7 +11,7 @@
   "units_short": "US $, sum over component sub-periods",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-12 09:13:33-05",
+  "last_updated": "2022-06-14 10:45:56-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "OECD descriptor ID: B6CRTT01 OECD unit ID: CXCU OECD country ID: OECD All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."

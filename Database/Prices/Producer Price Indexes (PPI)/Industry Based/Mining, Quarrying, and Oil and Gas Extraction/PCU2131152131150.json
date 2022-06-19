@@ -1,17 +1,17 @@
 {
   "id": "PCU2131152131150",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Producer Price Index by Industry: Support Activities for Nonmetallic Minerals (Except Fuels) Mining: Nonmetallic Minerals (Except Fuels) Mining Support Activity",
   "observation_start": "1985-06-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Jun 1985=100",
   "units_short": "Index Jun 1985=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-12 08:10:30-05",
+  "last_updated": "2022-06-14 08:17:56-05",
   "popularity": 1,
   "group_popularity": 1
 }

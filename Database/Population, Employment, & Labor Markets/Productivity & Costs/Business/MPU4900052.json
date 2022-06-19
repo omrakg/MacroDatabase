@@ -1,7 +1,7 @@
 {
   "id": "MPU4900052",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Private Business Sector: Labor Input",
   "observation_start": "1987-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-25 12:25:16-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Labor input in private business and private nonfarm business is obtained by chained superlative Tornqvist aggregation of the hours at work by all persons, classified by age, education, and gender with weights determined by each group's share of the total wage. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU4900052"
 }

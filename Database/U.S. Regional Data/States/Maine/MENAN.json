@@ -1,17 +1,17 @@
 {
   "id": "MENAN",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "All Employees: Total Nonfarm in Maine",
   "observation_start": "1939-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-21 03:39:14-05",
+  "last_updated": "2022-06-18 03:11:39-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

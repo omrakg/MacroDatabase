@@ -1,7 +1,7 @@
 {
   "id": "UMVPUO",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Manufacturers' Unfilled Orders: Motor Vehicles and Parts",
   "observation_start": "1992-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-02 09:06:44-05",
-  "popularity": 5,
-  "group_popularity": 10,
+  "popularity": 3,
+  "group_popularity": 8,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

@@ -1,7 +1,7 @@
 {
   "id": "JTS3000TSL",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-19",
+  "realtime_end": "2022-06-19",
   "title": "Total Separations: Manufacturing",
   "observation_start": "2000-12-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-01 09:11:27-05",
-  "popularity": 3,
-  "group_popularity": 7
+  "popularity": 5,
+  "group_popularity": 12
 }
