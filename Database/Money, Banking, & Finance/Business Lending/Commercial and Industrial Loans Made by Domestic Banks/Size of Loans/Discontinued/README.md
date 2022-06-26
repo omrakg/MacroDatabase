@@ -1,10 +1,2 @@
-| id               | title                                                                                                                                                  | observation_start   | observation_end   |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| EQ1T99XDBNQ      | Percent of Value of Loans Prime Based by Size of Loan: ($ thousands) $10 to $99, Domestic Banks (DISCONTINUED)                                         | 2003-04-01          | 2017-04-01        |
-| EQ100T999XDBNQ   | Percent of Value of Loans Prime Based by Size of Loan: ($ thousands) $100 to $999, Domestic Banks (DISCONTINUED)                                       | 2003-04-01          | 2017-04-01        |
-| EQ1000T9999XDBNQ | Percent of Value of Loans Prime Based by Size of Loan: ($ thousands) $1,000 to $9999, Domestic Banks (DISCONTINUED)                                    | 2003-04-01          | 2017-04-01        |
-| EQ10000PXDBNQ    | Percent of Value of Loans Prime Based by Size of Loan: ($ thousands) $10,000+, Domestic Banks (DISCONTINUED)                                           | 2003-04-01          | 2017-04-01        |
-| ET1T99XDBNQ      | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set by Size of Loan: ($ thousands) $10 to $99, Domestic Banks (DISCONTINUED)      | 2003-04-01          | 2017-04-01        |
-| ET100T999XDBNQ   | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set by Size of Loan: ($ thousands) $100 to $999, Domestic Banks (DISCONTINUED)    | 2003-04-01          | 2017-04-01        |
-| ET1000T9999XDBNQ | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set by Size of Loan: ($ thousands) $1,000 to $9999, Domestic Banks (DISCONTINUED) | 2003-04-01          | 2017-04-01        |
-| ET10000PXDBNQ    | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set by Size of Loan: ($ thousands) $10,000+, Domestic Banks (DISCONTINUED)        | 2003-04-01          | 2017-04-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

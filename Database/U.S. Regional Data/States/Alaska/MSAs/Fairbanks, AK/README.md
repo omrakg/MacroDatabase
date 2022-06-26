@@ -19,10 +19,10 @@
 | ENUC218240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC218240510             | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC218240510SA           | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2021-10-01        |
-| FAIR802BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fairbanks, AK (MSA)            | 2004-01-01          | 2022-04-01        |
-| FAIR802BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fairbanks, AK (MSA)            | 2004-01-01          | 2022-04-01        |
-| FAIR802BPPRIV             | New Private Housing Units Authorized by Building Permits for Fairbanks, AK (MSA)                               | 2004-01-01          | 2022-04-01        |
-| FAIR802BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Fairbanks, AK (MSA)                               | 2004-01-01          | 2022-04-01        |
+| FAIR802BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fairbanks, AK (MSA)            | 2004-01-01          | 2022-05-01        |
+| FAIR802BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fairbanks, AK (MSA)            | 2004-01-01          | 2022-05-01        |
+| FAIR802BPPRIV             | New Private Housing Units Authorized by Building Permits for Fairbanks, AK (MSA)                               | 2004-01-01          | 2022-05-01        |
+| FAIR802BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Fairbanks, AK (MSA)                               | 2004-01-01          | 2022-05-01        |
 | FAIR802EDUH               | All Employees: Education and Health Services in Fairbanks, AK (MSA)                                            | 2001-01-01          | 2022-05-01        |
 | FAIR802EDUHN              | All Employees: Education and Health Services in Fairbanks, AK (MSA)                                            | 2001-01-01          | 2022-05-01        |
 | FAIR802FIRE               | All Employees: Financial Activities in Fairbanks, AK (MSA)                                                     | 1990-01-01          | 2022-05-01        |

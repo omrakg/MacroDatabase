@@ -23,7 +23,7 @@
 | HORAMSA41860              | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA41860            | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HOSCMSA41860              | Market Hotness: Hotness Score in San Francisco-Oakland-Hayward, CA (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
-| IHLCHG41860               | Job Postings on Indeed in San Francisco-Oakland-Berkeley, CA (MSA)                                                                 | 2020-02-01          | 2022-06-10        |
+| IHLCHG41860               | Job Postings on Indeed in San Francisco-Oakland-Berkeley, CA (MSA)                                                                 | 2020-02-01          | 2022-06-17        |
 | IRPD41860                 | Implicit Regional Price Deflator for San Francisco-Oakland-Hayward, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT064186000000003A     | Unemployment Rate in San Francisco-Oakland-Hayward, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT064186000000004      | Unemployed Persons in San Francisco-Oakland-Hayward, CA (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
@@ -79,10 +79,10 @@
 | RPPGOOD41860              | Regional Price Parities: Goods for San Francisco-Oakland-Hayward, CA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH41860          | Regional Price Parities: Services: Other for San Francisco-Oakland-Hayward, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT41860         | Regional Price Parities: Services: Rents for San Francisco-Oakland-Hayward, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SANF806BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-04-01        |
-| SANF806BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-04-01        |
-| SANF806BPPRIV             | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-04-01        |
-| SANF806BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-04-01        |
+| SANF806BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-05-01        |
+| SANF806BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-05-01        |
+| SANF806BPPRIV             | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-05-01        |
+| SANF806BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-05-01        |
 | SANF806EDUH               | All Employees: Education and Health Services in San Francisco-Oakland-Hayward, CA (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | SANF806EDUHN              | All Employees: Education and Health Services in San Francisco-Oakland-Hayward, CA (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | SANF806FIRE               | All Employees: Financial Activities in San Francisco-Oakland-Hayward, CA (MSA)                                                     | 1990-01-01          | 2022-05-01        |

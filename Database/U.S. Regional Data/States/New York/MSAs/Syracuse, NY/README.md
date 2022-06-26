@@ -24,7 +24,7 @@
 | HORAMSA45060              | Market Hotness: Hotness Rank in Syracuse, NY (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA45060            | Market Hotness: Hotness Rank in Syracuse, NY (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HOSCMSA45060              | Market Hotness: Hotness Score in Syracuse, NY (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
-| IHLCHG45060               | Job Postings on Indeed in Syracuse, NY (MSA)                                                                  | 2020-02-01          | 2022-06-10        |
+| IHLCHG45060               | Job Postings on Indeed in Syracuse, NY (MSA)                                                                  | 2020-02-01          | 2022-06-17        |
 | IRPD45060                 | Implicit Regional Price Deflator for Syracuse, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT364506000000003A     | Unemployment Rate in Syracuse, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT364506000000004      | Unemployed Persons in Syracuse, NY (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

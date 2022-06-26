@@ -1,6 +1,6 @@
 | Folder                                      |   Files / Folders |
 |---------------------------------------------|-------------------|
-| By NAICS                                    |               144 |
-| End Use Classification System               |               123 |
+| By Harmonized System                        |               152 |
 | Standard International Trade Classification |                 1 |
-| By Harmonized System                        |               100 |
+| End Use Classification System               |               147 |
+| By NAICS                                    |               144 |

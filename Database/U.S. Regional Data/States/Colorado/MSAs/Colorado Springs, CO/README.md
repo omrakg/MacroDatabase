@@ -8,10 +8,10 @@
 | AVELISPRIMM17820          | Housing Inventory: Average Listing Price Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-05-01        |
 | AVELISPRIYY17820          | Housing Inventory: Average Listing Price Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-05-01        |
 | CLRPOP                    | Resident Population in Colorado Springs, CO (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
-| COLO808BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-04-01        |
-| COLO808BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-04-01        |
-| COLO808BPPRIV             | New Private Housing Units Authorized by Building Permits for Colorado Springs, CO (MSA)                                           | 1988-01-01          | 2022-04-01        |
-| COLO808BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Colorado Springs, CO (MSA)                                           | 1988-01-01          | 2022-04-01        |
+| COLO808BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-05-01        |
+| COLO808BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-05-01        |
+| COLO808BPPRIV             | New Private Housing Units Authorized by Building Permits for Colorado Springs, CO (MSA)                                           | 1988-01-01          | 2022-05-01        |
+| COLO808BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Colorado Springs, CO (MSA)                                           | 1988-01-01          | 2022-05-01        |
 | COLO808EDUH               | All Employees: Education and Health Services in Colorado Springs, CO (MSA)                                                        | 1990-01-01          | 2022-05-01        |
 | COLO808EDUHN              | All Employees: Education and Health Services in Colorado Springs, CO (MSA)                                                        | 1990-01-01          | 2022-05-01        |
 | COLO808FIRE               | All Employees: Financial Activities in Colorado Springs, CO (MSA)                                                                 | 1990-01-01          | 2022-05-01        |
@@ -56,7 +56,7 @@
 | HORAMSA17820              | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA17820            | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
 | HOSCMSA17820              | Market Hotness: Hotness Score in Colorado Springs, CO (CBSA)                                                                      | 2017-08-01          | 2022-05-01        |
-| IHLCHG17820               | Job Postings on Indeed in Colorado Springs, CO (MSA)                                                                              | 2020-02-01          | 2022-06-10        |
+| IHLCHG17820               | Job Postings on Indeed in Colorado Springs, CO (MSA)                                                                              | 2020-02-01          | 2022-06-17        |
 | IRPD17820                 | Implicit Regional Price Deflator for Colorado Springs, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT081782000000003A     | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
 | LAUMT081782000000004      | Unemployed Persons in Colorado Springs, CO (MSA)                                                                                  | 1990-01-01          | 2022-04-01        |

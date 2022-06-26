@@ -62,10 +62,10 @@
 | NGMP36220                 | Total Gross Domestic Product for Odessa, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA36220            | Market Hotness: Nielsen Household Rank in Odessa, TX (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
 | ODEPOP                    | Resident Population in Odessa, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ODES248BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Odessa, TX (MSA)            | 1988-01-01          | 2022-04-01        |
-| ODES248BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Odessa, TX (MSA)            | 1988-01-01          | 2022-04-01        |
-| ODES248BPPRIV             | New Private Housing Units Authorized by Building Permits for Odessa, TX (MSA)                               | 1988-01-01          | 2022-04-01        |
-| ODES248BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Odessa, TX (MSA)                               | 1988-01-01          | 2022-04-01        |
+| ODES248BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Odessa, TX (MSA)            | 1988-01-01          | 2022-05-01        |
+| ODES248BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Odessa, TX (MSA)            | 1988-01-01          | 2022-05-01        |
+| ODES248BPPRIV             | New Private Housing Units Authorized by Building Permits for Odessa, TX (MSA)                               | 1988-01-01          | 2022-05-01        |
+| ODES248BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Odessa, TX (MSA)                               | 1988-01-01          | 2022-05-01        |
 | ODES248EDUH               | All Employees: Education and Health Services in Odessa, TX (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | ODES248EDUHN              | All Employees: Education and Health Services in Odessa, TX (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | ODES248FIRE               | All Employees: Financial Activities in Odessa, TX (MSA)                                                     | 1990-01-01          | 2022-05-01        |

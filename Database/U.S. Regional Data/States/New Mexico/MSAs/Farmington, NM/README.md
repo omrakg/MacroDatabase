@@ -19,10 +19,10 @@
 | ENUC221440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2021-10-01        |
 | ENUC221440510             | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2021-10-01        |
 | ENUC221440510SA           | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2021-10-01        |
-| FARM135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-04-01        |
-| FARM135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-04-01        |
-| FARM135BPPRIV             | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-04-01        |
-| FARM135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-04-01        |
+| FARM135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-05-01        |
+| FARM135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-05-01        |
+| FARM135BPPRIV             | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-05-01        |
+| FARM135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-05-01        |
 | FARM135GOVT               | All Employees: Government in Farmington, NM (MSA)                                                    | 1990-01-01          | 2022-05-01        |
 | FARM135GOVTN              | All Employees: Government in Farmington, NM (MSA)                                                    | 1990-01-01          | 2022-05-01        |
 | FARM135LF                 | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-04-01        |

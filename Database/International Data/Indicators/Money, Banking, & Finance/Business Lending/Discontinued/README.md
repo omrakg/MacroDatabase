@@ -1,8 +1,2 @@
-| id               | title                                                                                                                                 | observation_start   | observation_end   |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DDDI12CDA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for the Democratic Republic of the Congo (DISCONTINUED) | 1963-01-01          | 2014-01-01        |
-| DDDI12EZA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Euro Area (DISCONTINUED)                            | 1960-01-01          | 2015-01-01        |
-| DDDI12KVA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Kosovo (DISCONTINUED)                               | 2003-01-01          | 2011-01-01        |
-| DDDI12ROA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Romania (DISCONTINUED)                              | 1980-01-01          | 2014-01-01        |
-| DDDI12TLA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)   | 2003-01-01          | 2012-01-01        |
-| DDDI121WA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for World (DISCONTINUED)                                | 1960-01-01          | 2015-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

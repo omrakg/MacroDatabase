@@ -1,15 +1,15 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| Bremerton-Silverdale-Port Orchard, WA |               140 |
-| Portland-Vancouver-Beaverton, OR-WA   |               279 |
-| Longview, WA                          |               123 |
-| Bellingham, WA                        |               143 |
-| Spokane-Spokane Valley, WA            |               186 |
-| Yakima, WA                            |               158 |
-| Lewiston, ID-WA                       |                 0 |
-| Mount Vernon-Anacortes, WA            |               117 |
-| Kennewick-Richland, WA                |               164 |
-| Seattle-Tacoma-Bellevue, WA           |               204 |
 | Olympia-Lacey-Tumwater, WA            |               164 |
-| Wenatchee, WA                         |               120 |
+| Bellingham, WA                        |               143 |
 | Walla Walla, WA                       |               118 |
+| Spokane-Spokane Valley, WA            |               186 |
+| Portland-Vancouver-Beaverton, OR-WA   |               279 |
+| Mount Vernon-Anacortes, WA            |               117 |
+| Bremerton-Silverdale-Port Orchard, WA |               140 |
+| Yakima, WA                            |               158 |
+| Seattle-Tacoma-Bellevue, WA           |               204 |
+| Kennewick-Richland, WA                |               164 |
+| Lewiston, ID-WA                       |                 0 |
+| Longview, WA                          |               123 |
+| Wenatchee, WA                         |               120 |

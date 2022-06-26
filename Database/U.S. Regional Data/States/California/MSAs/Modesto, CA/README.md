@@ -24,7 +24,7 @@
 | HORAMSA33700              | Market Hotness: Hotness Rank in Modesto, CA (CBSA)                                                                                               | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA33700            | Market Hotness: Hotness Rank in Modesto, CA (CBSA)                                                                                               | 2018-08-01          | 2022-05-01        |
 | HOSCMSA33700              | Market Hotness: Hotness Score in Modesto, CA (CBSA)                                                                                              | 2017-08-01          | 2022-05-01        |
-| IHLCHG33700               | Job Postings on Indeed in Modesto, CA (MSA)                                                                                                      | 2020-02-01          | 2022-06-10        |
+| IHLCHG33700               | Job Postings on Indeed in Modesto, CA (MSA)                                                                                                      | 2020-02-01          | 2022-06-17        |
 | IRPD33700                 | Implicit Regional Price Deflator for Modesto, CA (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT063370000000003A     | Unemployment Rate in Modesto, CA (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT063370000000004      | Unemployed Persons in Modesto, CA (MSA)                                                                                                          | 1990-01-01          | 2022-04-01        |

@@ -1,0 +1,5 @@
+| id          | title                                                                                                                               | observation_start   | observation_end   |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPSSISTEEL1 | Producer Price Index by Commodity: Special Indexes: Steel Mill Products, Including Fabricated Wire Products (DISCONTINUED)          | 1975-01-01          | 1982-06-01        |
+| WPSSISTEEL2 | Producer Price Index by Commodity: Special Indexes: Finished Steel Mill Products, Excluding Fabricated Wire Products (DISCONTINUED) | 1973-01-01          | 1982-06-01        |
+| WPSSISTEEL3 | Producer Price Index by Commodity: Special Indexes: Finished Steel Mill Products, Including Fabricated Wire Products (DISCONTINUED) | 1973-01-01          | 1982-06-01        |

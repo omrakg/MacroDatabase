@@ -24,7 +24,7 @@
 | HORAMSA42540              | Market Hotness: Hotness Rank in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
 | HORAYYMSA42540            | Market Hotness: Hotness Rank in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
 | HOSCMSA42540              | Market Hotness: Hotness Score in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
-| IHLCHG42540               | Job Postings on Indeed in Scranton--Wilkes-Barre, PA (MSA)                                                                            | 2020-02-01          | 2022-06-10        |
+| IHLCHG42540               | Job Postings on Indeed in Scranton--Wilkes-Barre, PA (MSA)                                                                            | 2020-02-01          | 2022-06-17        |
 | IRPD42540                 | Implicit Regional Price Deflator for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT424254000000003A     | Unemployment Rate in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT424254000000004      | Unemployed Persons in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                      | 1990-01-01          | 2022-04-01        |

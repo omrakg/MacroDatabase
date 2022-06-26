@@ -1,4 +1,4 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Providence-Fall River-Warwick, RI-MA |               176 |
-| Norwich-New London, CT-RI            |                92 |
+| Providence-Fall River-Warwick, RI-MA |               184 |
+| Norwich-New London, CT-RI            |                 0 |

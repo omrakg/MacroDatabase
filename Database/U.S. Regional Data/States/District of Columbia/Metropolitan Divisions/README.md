@@ -1,3 +1,3 @@
 | Folder                                       |   Files / Folders |
 |----------------------------------------------|-------------------|
-| Washington-Arlington-Alexandria, DC-VA-MD-WV |                 0 |
+| Washington-Arlington-Alexandria, DC-VA-MD-WV |               169 |

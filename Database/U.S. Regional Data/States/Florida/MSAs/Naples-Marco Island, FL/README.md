@@ -56,10 +56,10 @@
 | MELIPRMSA34940            | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
 | MELIPRVSUSMSA34940        | Market Hotness: Median Listing Price Versus the United States in Naples-Immokalee-Marco Island, FL (CBSA)                          | 2017-08-01          | 2022-05-01        |
 | MELIPRYYMSA34940          | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NAPL912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-04-01        |
-| NAPL912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-04-01        |
-| NAPL912BPPRIV             | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-04-01        |
-| NAPL912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-04-01        |
+| NAPL912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-05-01        |
+| NAPL912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-05-01        |
+| NAPL912BPPRIV             | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-05-01        |
+| NAPL912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-05-01        |
 | NAPL912EDUH               | All Employees: Education and Health Services in Naples-Immokalee-Marco Island, FL (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | NAPL912EDUHN              | All Employees: Education and Health Services in Naples-Immokalee-Marco Island, FL (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | NAPL912FIRE               | All Employees: Financial Activities in Naples-Immokalee-Marco Island, FL (MSA)                                                     | 1990-01-01          | 2022-05-01        |

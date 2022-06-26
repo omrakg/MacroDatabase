@@ -1,7 +1,5 @@
 | id                     | title                                                                                                                  | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMS33730500000000001   | All Employees: Total Nonfarm in Dover-Durham, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-05-01        |
-| SMS33730500000000026   | All Employees: Total Nonfarm in Dover-Durham, NH-ME (NECTA)                                                            | 1990-04-01          | 2022-05-01        |
 | SMU33730500000000001   | All Employees: Total Nonfarm in Dover-Durham, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-05-01        |
 | SMU33730500000000001A  | All Employees: Total Nonfarm in Dover-Durham, NH-ME (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU33730500000000001SA | All Employees: Total Nonfarm in Dover-Durham, NH-ME (NECTA)                                                            | 1990-01-01          | 2017-01-01        |

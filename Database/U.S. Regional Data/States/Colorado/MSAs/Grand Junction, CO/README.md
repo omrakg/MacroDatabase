@@ -20,10 +20,10 @@
 | ENUC243040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Grand Junction, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC243040510             | Average Weekly Wages for Employees in Private Establishments in Grand Junction, CO (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC243040510SA           | Average Weekly Wages for Employees in Private Establishments in Grand Junction, CO (MSA)                            | 1990-01-01          | 2021-10-01        |
-| GRAN308BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-04-01        |
-| GRAN308BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-04-01        |
-| GRAN308BPPRIV             | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-04-01        |
-| GRAN308BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-04-01        |
+| GRAN308BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-05-01        |
+| GRAN308BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Grand Junction, CO (MSA)            | 1996-01-01          | 2022-05-01        |
+| GRAN308BPPRIV             | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-05-01        |
+| GRAN308BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Grand Junction, CO (MSA)                               | 1996-01-01          | 2022-05-01        |
 | GRAN308EDUH               | All Employees: Education and Health Services in Grand Junction, CO (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | GRAN308EDUHN              | All Employees: Education and Health Services in Grand Junction, CO (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | GRAN308FIRE               | All Employees: Financial Activities in Grand Junction, CO (MSA)                                                     | 1990-01-01          | 2022-05-01        |

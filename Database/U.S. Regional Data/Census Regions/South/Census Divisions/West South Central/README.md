@@ -2,16 +2,16 @@
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | CIU2010000000227I     | Employment Cost Index: Total compensation for Private industry workers in the West South Central Census Division                 | 2006-01-01          | 2022-01-01        |
 | CIU2020000000227I     | Employment Cost Index: Wages and salaries for Private industry workers in the West South Central Census Division                 | 2006-01-01          | 2022-01-01        |
-| CWSCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-04-01        |
-| CWSCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-04-01        |
-| CWSCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-04-01        |
-| CWSCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-04-01        |
-| CWSCLF                | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2022-04-01        |
-| CWSCLFN               | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2022-04-01        |
+| CWSCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-05-01        |
+| CWSCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-05-01        |
+| CWSCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-05-01        |
+| CWSCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-05-01        |
+| CWSCLF                | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2022-05-01        |
+| CWSCLFN               | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2022-05-01        |
 | CWSCPOP               | Resident Population in the West South Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |
 | CWSCSTHPI             | All-Transactions House Price Index for the West South Central Census Division                                                    | 1975-01-01          | 2022-01-01        |
-| CWSCUR                | Unemployment Rate in West South Central Census Division                                                                          | 1976-01-01          | 2022-04-01        |
-| CWSCURN               | Unemployment Rate in West South Central Census Division                                                                          | 1976-01-01          | 2022-04-01        |
+| CWSCUR                | Unemployment Rate in West South Central Census Division                                                                          | 1976-01-01          | 2022-05-01        |
+| CWSCURN               | Unemployment Rate in West South Central Census Division                                                                          | 1976-01-01          | 2022-05-01        |
 | LASRD870000000000004  | Unemployed Persons in West South Central Census Division                                                                         | 1976-01-01          | 2022-04-01        |
 | LASRD870000000000005  | Employed Persons in West South Central Census Division                                                                           | 1976-01-01          | 2022-04-01        |
 | LAURD870000000000003A | Unemployment Rate in West South Central Census Division                                                                          | 1976-01-01          | 2021-01-01        |

@@ -1,9 +1,9 @@
 | Folder            |   Files / Folders |
 |-------------------|-------------------|
-| Pocatello, ID     |               139 |
-| Logan, UT-ID      |                 0 |
-| Boise City, ID    |               271 |
-| Lewiston, ID-WA   |               144 |
-| Twin Falls, ID    |                11 |
 | Idaho Falls, ID   |               137 |
 | Coeur d'Alene, ID |               164 |
+| Boise City, ID    |               271 |
+| Logan, UT-ID      |                 0 |
+| Twin Falls, ID    |                11 |
+| Pocatello, ID     |               139 |
+| Lewiston, ID-WA   |               144 |
