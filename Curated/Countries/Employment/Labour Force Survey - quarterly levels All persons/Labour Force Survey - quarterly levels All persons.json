@@ -2,8 +2,8 @@
   "Persons_Quarterly_Not Seasonally Adjusted": {
     "Latvia": {
       "id": "LVALFWATTTTSTQ",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Labour Force Survey - quarterly levels: Working age population: Aged 15 and over: All persons for Latvia",
       "observation_start": "1998-04-01",
       "observation_end": "2022-01-01",
@@ -23,8 +23,8 @@
   "Persons_Quarterly_Seasonally Adjusted": {
     "Latvia": {
       "id": "LVALFWATTTTSTSAQ",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Labour Force Survey - quarterly levels: Working age population: Aged 15 and over: All persons for Latvia",
       "observation_start": "2002-01-01",
       "observation_end": "2022-01-01",

@@ -2,8 +2,8 @@
   "Millions of Dollars_Annual_Not Seasonally Adjusted": {
     "Georgia": {
       "id": "GAACCFDNGSP",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Gross Domestic Product: Accommodation and Food Services (NAICS 72) in Georgia",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Millions of Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Georgia": {
       "id": "GAACCOMDNQGSP",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Gross Domestic Product: Accommodation and Food Services (NAICS 72) in Georgia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",

@@ -2,8 +2,8 @@
   "Millions of Dollars_Annual_Not Seasonally Adjusted": {
     "Georgia": {
       "id": "GAADMINWASTNGSP",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Gross Domestic Product: Administrative and Support and Waste Management and Remediation Services (NAICS 56) in Georgia",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Millions of Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Georgia": {
       "id": "GAADMINWASTNQGSP",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Gross Domestic Product: Administrative and Support and Waste Management and Remediation Services (NAICS 56) in Georgia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",

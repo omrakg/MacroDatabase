@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000004245200001",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "All Employees: Retail Trade: General Merchandise Stores in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000004245200001A",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "All Employees: Retail Trade: General Merchandise Stores in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000004245200001SA",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "All Employees: Retail Trade: General Merchandise Stores in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

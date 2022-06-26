@@ -2,8 +2,8 @@
   "Percent_Monthly_Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTUCSINFT02STSAM",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Consumer opinion surveys: Consumer prices (inflation): Future tendency: National indicator for Lithuania",
       "observation_start": "2001-05-01",
       "observation_end": "2022-05-01",
@@ -21,8 +21,8 @@
     },
     "Colombia": {
       "id": "COLCSINFT02STSAM",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Consumer opinion surveys: Consumer prices (inflation): Future tendency: National indicator for Colombia",
       "observation_start": "2001-11-01",
       "observation_end": "2021-10-01",
@@ -40,8 +40,8 @@
     },
     "Costa Rica": {
       "id": "CRICSINFT02STSAQ",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Consumer opinion surveys: Consumer prices (inflation): Future tendency: National indicator for Costa Rica",
       "observation_start": "2002-07-01",
       "observation_end": "2022-01-01",
@@ -59,8 +59,8 @@
     },
     "Latvia": {
       "id": "LVACSINFT02STSAM",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Consumer opinion surveys: Consumer prices (inflation): Future tendency: National indicator for Latvia",
       "observation_start": "2001-05-01",
       "observation_end": "2022-05-01",
@@ -80,8 +80,8 @@
   "Index 2010=100_Quarterly_Not Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRICSINFT02STSAQ",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Consumer opinion surveys: Consumer prices (inflation): Future tendency: National indicator for Costa Rica",
       "observation_start": "2002-07-01",
       "observation_end": "2022-01-01",
@@ -99,8 +99,8 @@
     },
     "Colombia": {
       "id": "COLCSINFT02STSAM",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Consumer opinion surveys: Consumer prices (inflation): Future tendency: National indicator for Colombia",
       "observation_start": "2001-11-01",
       "observation_end": "2021-10-01",
@@ -118,8 +118,8 @@
     },
     "Latvia": {
       "id": "LVACSINFT02STSAM",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Consumer opinion surveys: Consumer prices (inflation): Future tendency: National indicator for Latvia",
       "observation_start": "2001-05-01",
       "observation_end": "2022-05-01",
@@ -137,8 +137,8 @@
     },
     "Lithuania": {
       "id": "LTUCSINFT02STSAM",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Consumer opinion surveys: Consumer prices (inflation): Future tendency: National indicator for Lithuania",
       "observation_start": "2001-05-01",
       "observation_end": "2022-05-01",

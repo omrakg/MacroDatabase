@@ -1,10 +1,10 @@
 {
-  "South Africa": {
-    "id": "NXXDCZAA",
-    "realtime_start": "2022-06-19",
-    "realtime_end": "2022-06-19",
-    "title": "Nominal Exports of Goods and Services for South Africa",
-    "observation_start": "1993-01-01",
+  "Saudi Arabia": {
+    "id": "NXXDCSAA",
+    "realtime_start": "2022-06-26",
+    "realtime_end": "2022-06-26",
+    "title": "Nominal Exports of Goods and Services for Saudi Arabia",
+    "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
     "frequency": "Annual",
     "frequency_short": "A",
@@ -12,15 +12,15 @@
     "units_short": "Domestic Currency",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-03-28 07:10:34-05",
-    "popularity": 0,
-    "group_popularity": 0,
-    "path": "Database/International Data/Countries/South Africa"
+    "last_updated": "2022-04-25 07:10:25-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "Database/International Data/Countries/Saudi Arabia"
   },
   "Argentina": {
     "id": "NXXDCARA",
-    "realtime_start": "2022-06-19",
-    "realtime_end": "2022-06-19",
+    "realtime_start": "2022-06-26",
+    "realtime_end": "2022-06-26",
     "title": "Nominal Exports of Goods and Services for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Great Britain": {
     "id": "NXXDCGBA",
-    "realtime_start": "2022-06-19",
-    "realtime_end": "2022-06-19",
+    "realtime_start": "2022-06-26",
+    "realtime_end": "2022-06-26",
     "title": "Nominal Exports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -52,23 +52,5 @@
     "popularity": 0,
     "group_popularity": 1,
     "path": "Database/International Data/Countries/Great Britain"
-  },
-  "Saudi Arabia": {
-    "id": "NXXDCSAA",
-    "realtime_start": "2022-06-19",
-    "realtime_end": "2022-06-19",
-    "title": "Nominal Exports of Goods and Services for Saudi Arabia",
-    "observation_start": "2005-01-01",
-    "observation_end": "2021-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Domestic Currency",
-    "units_short": "Domestic Currency",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-04-25 07:10:25-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/International Data/Countries/Saudi Arabia"
   }
 }

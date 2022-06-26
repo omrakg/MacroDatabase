@@ -2,8 +2,8 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000000500000002",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Average Weekly Hours of All Employees: Total Private in Puerto Rico",
       "observation_start": "2013-04-01",
       "observation_end": "2022-05-01",
@@ -22,8 +22,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000000500000002A",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Average Weekly Hours of All Employees: Total Private in Puerto Rico",
       "observation_start": "2013-01-01",
       "observation_end": "2021-01-01",

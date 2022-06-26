@@ -2,8 +2,8 @@
   "Number_Monthly_Not Seasonally Adjusted": {
     "Georgia": {
       "id": "BFPBF8QTOTALNSAGA",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Projected Business Formations Within Eight Quarters: Total for All NAICS in Georgia",
       "observation_start": "2004-07-01",
       "observation_end": "2022-05-01",
@@ -23,8 +23,8 @@
   "Number_Monthly_Seasonally Adjusted": {
     "Georgia": {
       "id": "BFPBF8QTOTALSAGA",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Projected Business Formations Within Eight Quarters: Total for All NAICS in Georgia",
       "observation_start": "2004-07-01",
       "observation_end": "2022-05-01",

@@ -2,8 +2,8 @@
   "Millions of Chained 2012 Dollars_Annual_Not Seasonally Adjusted": {
     "Georgia": {
       "id": "GAMNGCOENTPRRGSP",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in Georgia",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Millions of Chained 2012 Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Georgia": {
       "id": "GAMNGCOENTPRRQGSP",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in Georgia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",

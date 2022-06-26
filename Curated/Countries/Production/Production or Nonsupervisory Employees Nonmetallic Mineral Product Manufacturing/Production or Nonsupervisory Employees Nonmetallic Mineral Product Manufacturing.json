@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000003132700006",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Production or Nonsupervisory Employees: Durable Goods: Nonmetallic Mineral Product Manufacturing in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000003132700006A",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Production or Nonsupervisory Employees: Durable Goods: Nonmetallic Mineral Product Manufacturing in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2016-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000003132700006SA",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Production or Nonsupervisory Employees: Durable Goods: Nonmetallic Mineral Product Manufacturing in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",
