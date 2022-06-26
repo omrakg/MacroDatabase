@@ -1,7 +1,7 @@
 {
   "id": "WPU113A0101",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Metalworking Assembly Machines",
   "observation_start": "1984-04-01",
   "observation_end": "2021-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-09 10:20:09-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

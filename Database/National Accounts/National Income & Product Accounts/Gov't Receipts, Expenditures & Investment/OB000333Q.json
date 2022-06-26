@@ -1,7 +1,7 @@
 {
   "id": "OB000333Q",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Real Government Consumption Expenditures and Gross Investment",
   "observation_start": "2003-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-28 07:55:45-05",
   "popularity": 1,
-  "group_popularity": 52,
+  "group_popularity": 47,
   "notes": "BEA Account Code: OB000333"
 }

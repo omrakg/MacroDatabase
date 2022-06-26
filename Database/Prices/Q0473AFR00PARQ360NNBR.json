@@ -1,7 +1,7 @@
 {
   "id": "Q0473AFR00PARQ360NNBR",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Retail Price Index, Paris (13 Articles) for Paris, France",
   "observation_start": "1914-07-01",
   "observation_end": "1933-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:57:55-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1914-1939 (2)--Original Data, 1929-1939. Data Were Also Checked Through 1931 From France, Statistique General, L'Indice Du Mouvement Economique En France, 1901 A 1931, Pp. 121-123. L And C, Ec. Ser. Bull. February 7, 1938, 9.42: \"Index For Paris Calculated For 13 Commodities By The Statistique General During The Month, Giving Each Commodity A Weight Cooresponding To The Consumption Of A Family Of Four Persons.\" (The Commodities Consist Of 11 Foods, Kerosene, And Alcohol.) Source: Bulletin De Statistique De La France, April, 1918, P.261 And Following. The July-September 1931 Issue, P.576, Gives The Data For 1920-1931. See Also P.548 Of 1931/32 Issue.\n\nThis NBER data series q04073a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: q04073a"
 }

@@ -1,0 +1,17 @@
+{
+  "id": "PCU486110486110",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Producer Price Index by Industry: Pipeline Transportation of Crude Oil",
+  "observation_start": "1986-06-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1986=100",
+  "units_short": "Index Jun 1986=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-14 07:53:24-05",
+  "popularity": 11,
+  "group_popularity": 11
+}

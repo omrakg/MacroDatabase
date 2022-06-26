@@ -1,7 +1,7 @@
 {
   "id": "JPINTDUSDJPY",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Japan Intervention: Japanese Bank purchases of USD against JPY",
   "observation_start": "1991-04-01",
   "observation_end": "2022-03-31",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-13 15:53:01-05",
-  "popularity": 36,
-  "group_popularity": 36,
+  "popularity": 35,
+  "group_popularity": 35,
   "notes": "(+) numbers mean purchases of the USD (sell Yen), (-) numbers mean sales of USD (buy Yen). Unpublished data.\n\nCopyright, 2016, Bank of Japan."
 }

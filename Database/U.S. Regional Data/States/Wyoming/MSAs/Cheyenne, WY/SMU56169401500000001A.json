@@ -1,7 +1,7 @@
 {
   "id": "SMU56169401500000001A",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "All Employees: Mining, Logging, and Construction in Cheyenne, WY (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 05:51:16-05",
-  "popularity": 0,
+  "popularity": 1,
   "group_popularity": 1
 }

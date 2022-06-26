@@ -1,7 +1,7 @@
 {
   "id": "VAQISL",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Value Added by Industry: Government: State and Local (Chain-Type Quantity Index)",
   "observation_start": "2005-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:31:48-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "Value added represents the sum of the costs-incurred and the incomes-earned in production, and consists of compensation of employees, taxes on production and imports, less subsidies, and gross operating surplus."
 }

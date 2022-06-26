@@ -1,7 +1,7 @@
 {
   "id": "PITT342UR",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Unemployment Rate in Pittsburgh, PA (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Smoothed Seasonally Adjusted",
   "seasonal_adjustment_short": "SSA",
   "last_updated": "2022-06-01 13:31:04-05",
-  "popularity": 21,
-  "group_popularity": 26
+  "popularity": 15,
+  "group_popularity": 19
 }

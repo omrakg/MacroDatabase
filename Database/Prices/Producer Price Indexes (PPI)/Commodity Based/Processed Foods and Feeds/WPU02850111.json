@@ -1,7 +1,7 @@
 {
   "id": "WPU02850111",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Frozen Dinners (Beef, Pork, and Poultry Pies) and Nationality Foods, Including Frozen Pizza",
   "observation_start": "1982-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 07:55:53-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 3,
+  "group_popularity": 3
 }

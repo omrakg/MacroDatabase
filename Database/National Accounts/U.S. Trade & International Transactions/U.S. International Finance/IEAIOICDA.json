@@ -1,7 +1,7 @@
 {
   "id": "IEAIOICDA",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "US Incurrence of Other Investment Liabilities: Currency and deposits",
   "observation_start": "2003-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-24 10:00:40-05",
+  "last_updated": "2022-06-23 09:29:57-05",
   "popularity": 0,
   "group_popularity": 1
 }

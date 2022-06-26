@@ -1,7 +1,7 @@
 {
   "id": "M0451BUSM292NNBR",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Wholesale Price of Spun Silk Yarn, Domestic Gray for United States",
   "observation_start": "1932-01-01",
   "observation_end": "1937-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:52:06-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Series Has Been Subdivided Into Three Variables: (1)-- Original Data, 1913-1932; (2)-- Original Data, 1932-1937; (3)-- Original Data, 1937-1939. Data Refers To Daily Averages Of Quotations, Mill To Connecter As Quoted From The Trade Association. Source: Bls Files, Bulletins, And \"Wholesale Prices\"\n\nThis NBER data series m04151b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04151b"
 }

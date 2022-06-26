@@ -1,7 +1,7 @@
 {
   "id": "LNS14000012",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Unemployment Rate - 16-19 Yrs.",
   "observation_start": "1948-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-03 07:44:26-05",
-  "popularity": 35,
-  "group_popularity": 36,
+  "popularity": 33,
+  "group_popularity": 35,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS14000012"
 }

@@ -1,7 +1,7 @@
 {
   "id": "CWUR0000SAD",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Durables in U.S. City Average",
   "observation_start": "1935-03-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-10 07:40:58-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

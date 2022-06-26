@@ -1,17 +1,17 @@
 {
   "id": "DEUR",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Unemployment Rate in Delaware",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-23 14:56:24-05",
-  "popularity": 12,
-  "group_popularity": 15
+  "last_updated": "2022-06-22 11:12:47-05",
+  "popularity": 13,
+  "group_popularity": 16
 }

@@ -1,7 +1,7 @@
 {
   "id": "CFSBCACTIVITYNMFG",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Chicago Fed Survey of Business Conditions: Nonmanufacturing Activity Index in Federal Reserve District 7: Chicago",
   "observation_start": "2013-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-10 09:04:09-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "What is the Survey of Economic Conditions?\nContacts located in the Seventh Federal Reserve District are asked to rate various aspects of economic conditions along a seven-point scale ranging from \"large increase\" to \"large decrease.\" A series of diffusion indexes summarizing the distribution of responses is then calculated.\n\nHow are the indexes constructed?\nRespondents' answers on the seven-point scale are assigned a numeric value ranging from +3 to \u20133. Each diffusion index is calculated as the difference between the number of respondents with answers above their respective average responses and the number of respondents with answers below their respective average responses, divided by the total number of respondents. The index is then multiplied by 100 so that it ranges from +100 to \u2212100 and will be +100 if every respondent provides an above-average answer and \u2013100 if every respondent provides a below-average answer. Respondents with no prior history of responses are excluded from the calculation.\n\nWhat do the numbers mean?\nRespondents' respective average answers to a question can be interpreted as representing their historical trends, or long-run averages. Thus, zero index values indicate, on balance, average growth (or a neutral outlook) for activity, hiring, capital spending, and cost pressures. Positive index values indicate above-average growth (or an optimistic outlook) on balance, and negative values indicate below-average growth (or a pessimistic outlook) on balance.\n\nBeginning with the May 12, 2020 release, the CFSEC moved to a monthly release schedule. This release, with data for April 2020, now contains estimated monthly historical values for the CFSEC indexes, as will all future releases. For additional information on how the survey and indexes changed, see the CFSEC FAQs available here (https://www.chicagofed.org/research/data/cfsec/current-data).\n\nPrior to April 2022, the Chicago Fed Survey of Economic Conditions was named the Chicago Fed Survey of Business Conditions (CFSBC). The name change was made to better represent the survey\u2019s aim and base of respondents. The goal of the survey is to assess the state of the economy in the Seventh Federal Reserve District. Moreover, since the beginning of the survey, it was been filled out by both business and nonbusiness contacts."
 }

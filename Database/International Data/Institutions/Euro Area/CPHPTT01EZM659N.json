@@ -1,7 +1,7 @@
 {
   "id": "CPHPTT01EZM659N",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Consumer Price Index: Harmonized Prices: Total All Items for the Euro Area",
   "observation_start": "1997-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 10:50:04-05",
-  "popularity": 45,
-  "group_popularity": 48,
+  "popularity": 42,
+  "group_popularity": 45,
   "notes": "OECD descriptor ID: CPHPTT01\nOECD unit ID: GY\nOECD country ID: EA17\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

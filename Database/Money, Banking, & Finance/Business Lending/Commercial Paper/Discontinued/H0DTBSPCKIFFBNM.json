@@ -1,0 +1,18 @@
+{
+  "id": "H0DTBSPCKIFFBNM",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Foreign Financial Commercial Paper Outstanding, Bank or Bank Holding Company (DISCONTINUED)",
+  "observation_start": "1991-01-01",
+  "observation_end": "2006-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-04 12:18:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "On April 10, 2006, the Federal Reserve Board made major changes to its commercial paper outstanding calculations. New outstanding categories were added, some existing category definitions were modified, and current and historical commercial paper issuer information was updated. For more information, please refer to https://www.federalreserve.gov/releases/cp/about.htm."
+}

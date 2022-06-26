@@ -1,7 +1,7 @@
 {
   "id": "A084RC1Q027SBEA",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Government current transfer payments",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-26 07:53:34-05",
-  "popularity": 29,
-  "group_popularity": 29,
+  "popularity": 28,
+  "group_popularity": 28,
   "notes": "BEA Account Code: A084RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

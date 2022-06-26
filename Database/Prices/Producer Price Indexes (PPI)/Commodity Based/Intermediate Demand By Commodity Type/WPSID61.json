@@ -1,7 +1,7 @@
 {
   "id": "WPSID61",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Goods for Intermediate Demand",
   "observation_start": "1947-04-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-14 07:52:11-05",
-  "popularity": 32,
-  "group_popularity": 36
+  "popularity": 24,
+  "group_popularity": 28
 }

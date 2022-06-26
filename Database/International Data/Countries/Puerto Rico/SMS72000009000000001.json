@@ -1,7 +1,7 @@
 {
   "id": "SMS72000009000000001",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "All Employees: Government in Puerto Rico",
   "observation_start": "1990-01-01",
   "observation_end": "2022-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-18 03:04:22-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics."
 }

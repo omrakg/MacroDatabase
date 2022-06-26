@@ -1,7 +1,7 @@
 {
   "id": "GFDEBTN",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Federal Debt: Total Public Debt",
   "observation_start": "1966-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-27 10:00:02-05",
-  "popularity": 78,
-  "group_popularity": 78
+  "popularity": 77,
+  "group_popularity": 77
 }

@@ -1,7 +1,7 @@
 {
   "id": "CIU2010000520000I",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Employment Cost Index: Total compensation for Private industry workers in Transportation and material moving",
   "observation_start": "2001-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-29 07:51:13-05",
-  "popularity": 11,
+  "popularity": 12,
   "group_popularity": 17,
   "notes": "Includes wages, salaries, and employer costs for employee benefits. New series. Historical data are available beginning with March 2001."
 }

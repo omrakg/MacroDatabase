@@ -1,7 +1,7 @@
 {
   "id": "TOTALNSA",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Total Vehicle Sales",
   "observation_start": "1976-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 13:18:07-05",
-  "popularity": 47,
-  "group_popularity": 76
+  "popularity": 45,
+  "group_popularity": 77
 }

@@ -1,7 +1,7 @@
 {
   "id": "A825RO1Q156NBEA",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Real Government Consumption Expenditures and Gross Investment: Federal: Nondefense",
   "observation_start": "1948-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-26 07:59:43-05",
   "popularity": 1,
-  "group_popularity": 5,
+  "group_popularity": 6,
   "notes": "BEA Account Code: A825RO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

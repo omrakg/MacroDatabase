@@ -1,17 +1,17 @@
 {
   "id": "HOUSTW1F",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "New Privately-Owned Housing Units Started: Single-Family Units in the West Census Region",
   "observation_start": "1984-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-18 07:31:43-05",
-  "popularity": 4,
+  "last_updated": "2022-06-16 07:31:41-05",
+  "popularity": 3,
   "group_popularity": 5
 }

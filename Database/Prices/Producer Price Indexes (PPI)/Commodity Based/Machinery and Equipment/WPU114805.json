@@ -1,7 +1,7 @@
 {
   "id": "WPU114805",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Producer Price Index by Commodity for Machinery and Equipment: Refrigeration Condensing Units",
   "observation_start": "1977-12-01",
   "observation_end": "2018-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-10-10 14:01:04-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "M0489AUSM321NNBR",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Index of Wholesale Prices of Industrial Commodities for United States",
   "observation_start": "1904-01-01",
   "observation_end": "1949-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:52:27-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1904-1949 (2)--Original Data, 1938-1959. Source: Furnished Direct By Business Statistics Organization, Inc. (Formerly Babson Statistical Organization)\n\nThis NBER data series m04189a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04189a"
 }

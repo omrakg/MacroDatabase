@@ -1,18 +1,18 @@
 {
   "id": "MSACSR",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Monthly Supply of New Houses in the United States",
   "observation_start": "1963-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Months' Supply",
   "units_short": "Months' Supply",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-24 09:01:01-05",
+  "last_updated": "2022-06-24 09:01:02-05",
   "popularity": 85,
-  "group_popularity": 85,
+  "group_popularity": 86,
   "notes": "The months' supply is the ratio of new houses for sale to new houses sold. This statistic provides an indication of the size of the new for-sale inventory in relation to the number of new houses currently being sold. The months' supply indicates how long the current new for-sale inventory would last given the current sales rate if no additional new houses were built."
 }

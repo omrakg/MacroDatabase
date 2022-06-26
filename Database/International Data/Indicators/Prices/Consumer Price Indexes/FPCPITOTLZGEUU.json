@@ -1,7 +1,7 @@
 {
   "id": "FPCPITOTLZGEUU",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Inflation, consumer prices for the European Union",
   "observation_start": "1960-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-03 14:01:10-05",
-  "popularity": 26,
-  "group_popularity": 26,
+  "popularity": 27,
+  "group_popularity": 27,
   "notes": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.\n\nNations that are included in this data series are listed at https://datahelpdesk.worldbank.org/knowledgebase/articles/906519\n\nSource Indicator: FP.CPI.TOTL.ZG"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPS0637",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Biological Products, Including Diagnostics",
   "observation_start": "2005-01-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-14 08:10:12-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

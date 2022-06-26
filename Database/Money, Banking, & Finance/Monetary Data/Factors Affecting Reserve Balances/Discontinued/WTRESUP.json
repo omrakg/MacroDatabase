@@ -1,7 +1,7 @@
 {
   "id": "WTRESUP",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Deposits with Federal Reserve Banks, other than Reserve Balances: U.S. Treasury, Supplementary Financing Account (DISCONTINUED)",
   "observation_start": "2008-09-24",
   "observation_end": "2015-02-11",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-02-13 08:31:08-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "On September 17, 2008, the Treasury Department announced the Supplementary Financing Program. Under this program, the Treasury issues marketable debt and deposits the proceeds in an account at the Federal Reserve that is segregated from the Treasury General Account. The effect of the account is to drain balances from the deposits of depository institutions, helping to offset, somewhat, the rapid rise in balances that resulted from the various Federal Reserve liquidity facilities."
 }

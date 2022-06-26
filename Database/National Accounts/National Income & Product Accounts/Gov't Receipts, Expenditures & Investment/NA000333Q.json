@@ -1,7 +1,7 @@
 {
   "id": "NA000333Q",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Government Consumption Expenditures and Gross Investment",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-26 07:54:24-05",
-  "popularity": 4,
+  "popularity": 3,
   "group_popularity": 41,
   "notes": "BEA Account Code: NA000333"
 }

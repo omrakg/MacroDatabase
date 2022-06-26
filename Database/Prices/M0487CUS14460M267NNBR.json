@@ -1,7 +1,7 @@
 {
   "id": "M0487CUS14460M267NNBR",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Wholesale Price of Wool, Eastern Markets for Boston, MA",
   "observation_start": "1938-01-01",
   "observation_end": "1951-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:57:09-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Four Variables--(1)-- Original Data, 1890-1917 (2)--Original Data, 1917-1942 (3)--Original Data, 1938-1951 (4)--Original Data, 1947-1957 This Segment Represents The Specification Domestic, Bright Fleece, 1/4-3/8 Blood, Combing, 48S, 50S, 56S, Grease Basis, Boston. Bls Bulletin No. 973, Wholesale Prices: 1948, Shows 55.5 From September-December, 1948. It Has Here Been Decided To Use 54.5 For September-December, 1948, Following The August, 1949, Mimeographed Release Ls 50-1188 On Wholesale Prices. On Page 19, It Gives A Footnote With Corrected Figures For The Period September, 1948-July, 1949. While The 1949 Corrections Have Been Reprinted In The Bls Bulletin No. 1007, \"Wholesale Prices: 1949\" The 1948 Corrections Have Not Been Shown In The Printed Bulletin For That Year. It Is Assumed That This Is An Oversight And That 54.5 Is The Price That Prevailed From September-December, 1948. The Data End In December, 1951 In Correspondence With The Termination Of The 1926-Based Wholesale Price Index. Source: Bls, \"Average Wholesale Price And Index Numbers Of Individual Commodities, \" July, 1942 (Mimeographed Release Ls 42-2290) For 1938-June, 1942; Subsequent Releases And Bls Bulletin Nos. 736, 759, 785, 870, 877, 920, 947, 973, 1007, 1083, And 1143.\n\nThis NBER data series m04087c appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04087c"
 }

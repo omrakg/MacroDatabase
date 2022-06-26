@@ -1,7 +1,7 @@
 {
   "id": "UNDCONTNSA",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "New Privately-Owned Housing Units Under Construction: Total Units",
   "observation_start": "1969-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-16 07:31:22-05",
-  "popularity": 32,
-  "group_popularity": 60
+  "popularity": 28,
+  "group_popularity": 58
 }

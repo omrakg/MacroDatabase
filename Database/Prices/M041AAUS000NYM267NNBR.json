@@ -1,7 +1,7 @@
 {
   "id": "M041AAUS000NYM267NNBR",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Wholesale Price of Refined Cottonseed Oil, Prime Summer Yellow for New York",
   "observation_start": "1891-01-01",
   "observation_end": "1941-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:54:01-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Refers To Cents Per Pound In Car Lots Through 07/1930 And In Tank Cars Thereafter. Data Is The Average Spot Price. 1891-1908: Data Was Compiled From \"Oil, Paint, And Drug Reporter\", 11/7/1910, P. 40. The Average Price Per Gal- Lon Was Divided By 7.5 To Convert To Pounds. 1909-1921: Data Is From Annual Reports Of The New York Produce Exchange. 1922-1941: Data Is From \"Oil, Paint, And Drug Reporter\" And Is The Average Of Daily Ranges. Source: Usda, \"Agriculture Yearbook\", 1924, P. 766 And Later Yearbooks; Also Editions Of \"Agricultural Statistics\" (Usda) And \"Wholesale Prices\" (Bureau Of Labor Statistics)\n\nThis NBER data series m04081aa appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04081aa"
 }

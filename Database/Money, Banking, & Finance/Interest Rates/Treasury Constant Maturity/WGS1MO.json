@@ -1,18 +1,18 @@
 {
   "id": "WGS1MO",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis",
   "observation_start": "2001-08-03",
-  "observation_end": "2022-06-10",
+  "observation_end": "2022-06-17",
   "frequency": "Weekly, Ending Friday",
   "frequency_short": "W",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-13 15:26:04-05",
-  "popularity": 17,
+  "last_updated": "2022-06-21 15:22:25-05",
+  "popularity": 22,
   "group_popularity": 70,
   "notes": "Averages of business days. For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology)."
 }

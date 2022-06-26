@@ -1,7 +1,7 @@
 {
   "id": "CIS1013000000000I",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Employment Cost Index: Total compensation for All Civilian workers in Manufacturing",
   "observation_start": "2003-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-29 07:52:01-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "See Footnote V on https://www.bls.gov/ect/cimapnote.htm"
 }

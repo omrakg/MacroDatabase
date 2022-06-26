@@ -1,0 +1,18 @@
+{
+  "id": "FRVGCSV",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Book Value of Federal Reserve Bank Held Gold Coins: NY Vault",
+  "observation_start": "2012-01-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-01 14:18:06-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "The Status Report of U.S. Government Gold Reserve (https://fiscaldata.treasury.gov/datasets/status-report-government-gold-reserve/u-s-treasury-owned-gold) can be found on FiscalData and is available for download in multiple machine-readable formats with complete metadata.\n\nBook value is determined such that the Department of the Treasury records U.S. Government owned gold reserve at the values stated in 31 USC \u00a7 5116-5117 (statutory rate)."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "NONBORRESW",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Reserves of Depository Institutions, Nonborrowed (DISCONTINUED)",
+  "observation_start": "1975-01-08",
+  "observation_end": "2020-09-09",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-09-10 15:46:17-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.\n\nEquals total reserves (TOTRESNSW) (https://fred.stlouisfed.org/series/TOTRESNSW) less total borrowings from the Federal Reserve (BORROWW) (https://fred.stlouisfed.org/series/BORROWW).\n\nEffective February 2, 1984, reserve computation and maintenance periods have been changed from weekly to bi-weekly. Series with data prior to February 2, 1984 have different values reported from one week to the next. After February 2, 1984, the value repeats for 2 consecutive weeks."
+}

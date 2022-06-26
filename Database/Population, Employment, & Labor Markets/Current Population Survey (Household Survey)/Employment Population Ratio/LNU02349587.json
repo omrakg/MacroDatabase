@@ -1,0 +1,18 @@
+{
+  "id": "LNU02349587",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Employment-Population Ratio - Men, Veterans, Other Service Periods, 18 Years and over",
+  "observation_start": "2006-05-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-03 07:47:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU02349587"
+}

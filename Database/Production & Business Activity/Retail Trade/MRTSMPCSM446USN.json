@@ -1,0 +1,18 @@
+{
+  "id": "MRTSMPCSM446USN",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Retail Sales: Health and Personal Care Stores",
+  "observation_start": "1992-02-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-15 09:09:15-05",
+  "popularity": 1,
+  "group_popularity": 6,
+  "notes": "The most recent month's value of the advance estimate based on data from a subsample of firms from the larger Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/MARTSMPCSM446USN\n\n Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "NONBORTAF",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Non-Borrowed Reserves of Depository Institutions Plus Term Auction Credit (DISCONTINUED)",
+  "observation_start": "1959-01-01",
+  "observation_end": "2013-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2013-06-27 16:01:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The series is calculated by the Federal Reserve Bank of St. Louis.\n\nThis series has been discontinued because Non-borrowed reserves are no longer reported as seasonally adjusted on the H.3 release. On December 12, 2007, the Federal Reserve created the Term Auction Facility (TAF) to improve depository institutions' access to term funding. The TAF provided credit through an auction mechanism to depository institutions in generally sound financial condition. The TAF offered 28-day and, beginning in August 2008, 84-day loans.\n\nOn September 24, 2009, the Federal Reserve announced that the TAF would be scaled back in response to continued improvements in financial market conditions. The auction amount for the 84-day auctions was reduced in late 2009 and the maturity dates of the 84-day auctions were adjusted over time to align with the maturity dates of the 28-day auctions. Subsequently, the auction amount for the remaining 28-day auctions was tapered, and the final TAF auction was held on March 8, 2010. Credit extended under the March 2010 auction matured on April 8, 2010. All TAF loans were fully collateralized to the satisfaction of the lending Reserve Bank, with an appropriate \"haircut\" applied to the value of the collateral and were repaid in full, with interest, in accordance with the terms of the facility."
+}

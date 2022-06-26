@@ -1,0 +1,17 @@
+{
+  "id": "BRID909UR",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Unemployment Rate in Bridgeport-Stamford-Norwalk, CT (NECTA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Smoothed Seasonally Adjusted",
+  "seasonal_adjustment_short": "SSA",
+  "last_updated": "2022-06-01 13:33:27-05",
+  "popularity": 2,
+  "group_popularity": 4
+}

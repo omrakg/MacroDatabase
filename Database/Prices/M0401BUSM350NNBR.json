@@ -1,7 +1,7 @@
 {
   "id": "M0401BUSM350NNBR",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Index of Spot Market Prices of 13 Raw Industrial Commodities for United States",
   "observation_start": "1946-07-01",
   "observation_end": "1968-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:56-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1935-1949 (2)--Original Data, 1946-1968. Through 1949 The Data Repesent Averages Of 4 Or 5 Quotations A Month; Thereafter, They Are Daily Quotations. For 1946-1947 The Averages Have Been Derived From The Source (See Above) With Indexes Having Only 1 Decimal; All Published Averages, However, Are Based On Indexes Carried To Two Decimal Places. Source: Bls Table (Unpublished): Daily Spot Market Price Index, Raw Industrials: 1956 And Earlier, \" (December, 1962), And Similar Table Dated October, 1962 For 1957-September, 1962. Thereafter: \"Daily Spot Market Price Indexes And Prices, \" Weekly Bls Release. Averages Also In Survey Of Current Business.\n\nThis NBER data series m04201b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04201b"
 }

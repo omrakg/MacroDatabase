@@ -1,0 +1,17 @@
+{
+  "id": "MRTSMPCSM722USN",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Retail Sales: Food Services and Drinking Places",
+  "observation_start": "1992-02-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-15 09:08:19-05",
+  "popularity": 2,
+  "group_popularity": 25
+}

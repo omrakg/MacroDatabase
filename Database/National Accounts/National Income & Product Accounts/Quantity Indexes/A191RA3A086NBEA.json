@@ -1,7 +1,7 @@
 {
   "id": "A191RA3A086NBEA",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Real gross domestic product (chain-type quantity index)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:39-05",
-  "popularity": 4,
-  "group_popularity": 10,
+  "popularity": 2,
+  "group_popularity": 12,
   "notes": "BEA Account Code: A191RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "A801RL1Q225SBEA",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Real Government Gross Investment: Federal: Gross Investment: Structures",
   "observation_start": "1947-04-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-26 07:59:47-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: A801RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

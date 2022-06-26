@@ -1,7 +1,7 @@
 {
   "id": "NA000309Q",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Federal government current expenditures: Interest payments: to persons and business",
   "observation_start": "1960-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-26 07:57:03-05",
   "popularity": 1,
-  "group_popularity": 6,
+  "group_popularity": 7,
   "notes": "BEA Account Code: NA000309"
 }

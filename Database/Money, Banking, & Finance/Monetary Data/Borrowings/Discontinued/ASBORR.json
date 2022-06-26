@@ -1,7 +1,7 @@
 {
   "id": "ASBORR",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Adjustment Plus Seasonal Borrowings of Depository Institutions from the Federal Reserve (DISCONTINUED)",
   "observation_start": "1986-01-08",
   "observation_end": "2003-01-08",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2006-04-24 16:24:30-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Averages of Daily Figures Please refer to http://www.frbdiscountwindow.org for further information."
 }

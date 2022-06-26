@@ -1,7 +1,7 @@
 {
   "id": "M0466AUSM336NNBR",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Wholesale Prices of Metal and Metal Products for United States",
   "observation_start": "1890-01-01",
   "observation_end": "1951-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:33-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1890-1951 (2)--Original Data, 1947-1956. 73 Items Are Included In The Index For 1890-1925 And 129 Items For 1926-1951. Source: Bls Bulletins And \"Wholesale Prices\" Through 1941; Thereafter Bulletin Nos. 736, 759, 785, 870, 877, 920, 947, 973, 1007, And 1083 Through 1950; Monthly Labor Review, 1952 Issues, For 1951.\n\nThis NBER data series m04066a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04066a"
 }

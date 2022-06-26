@@ -1,7 +1,7 @@
 {
   "id": "SMU22433407071320001A",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "All Employees: Leisure and Hospitality: Gambling Industries in Shreveport-Bossier City, LA (MSA)",
   "observation_start": "1994-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 05:37:38-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

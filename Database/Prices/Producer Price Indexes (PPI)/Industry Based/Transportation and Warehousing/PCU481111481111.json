@@ -1,0 +1,17 @@
+{
+  "id": "PCU481111481111",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Producer Price Index by Industry: Scheduled Passenger Air Transportation",
+  "observation_start": "1989-12-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1989=100",
+  "units_short": "Index Dec 1989=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-14 07:53:24-05",
+  "popularity": 7,
+  "group_popularity": 7
+}

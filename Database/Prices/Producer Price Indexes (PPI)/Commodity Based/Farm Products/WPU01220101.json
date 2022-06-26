@@ -1,7 +1,7 @@
 {
   "id": "WPU01220101",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Producer Price Index by Commodity: Farm Products: Barley",
   "observation_start": "1947-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 07:52:22-05",
-  "popularity": 23,
-  "group_popularity": 25
+  "popularity": 19,
+  "group_popularity": 22
 }

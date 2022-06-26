@@ -1,7 +1,7 @@
 {
   "id": "VXTYN",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "CBOE 10-Year Treasury Note Volatility Futures (DISCONTINUED)",
   "observation_start": "2003-01-02",
   "observation_end": "2020-05-15",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-06-17 09:20:48-05",
-  "popularity": 37,
-  "group_popularity": 37,
+  "popularity": 38,
+  "group_popularity": 38,
   "notes": "Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission."
 }

@@ -1,7 +1,7 @@
 {
   "id": "DREQRC1Q027SBEA",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Personal consumption expenditures: Durable goods: Recreational goods and vehicles",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-05-26 07:53:48-05",
-  "popularity": 14,
+  "popularity": 15,
   "group_popularity": 16,
   "notes": "BEA Account Code: DREQRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

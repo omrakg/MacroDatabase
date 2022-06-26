@@ -1,0 +1,18 @@
+{
+  "id": "MKT4180MKTAMT",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
+  "title": "Total Value of Issuers of Commercial Paper with a Maturity Between 41 and 80 Days",
+  "observation_start": "2001-01-02",
+  "observation_end": "2022-06-22",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-24 12:02:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information, please see http://www.federalreserve.gov/releases/cp/about.htm."
+}

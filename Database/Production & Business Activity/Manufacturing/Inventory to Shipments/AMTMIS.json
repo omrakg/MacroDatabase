@@ -1,7 +1,7 @@
 {
   "id": "AMTMIS",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Manufacturers' Inventories to Shipments Ratios: Total Manufacturing",
   "observation_start": "1992-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-02 09:04:27-05",
-  "popularity": 14,
-  "group_popularity": 14
+  "popularity": 11,
+  "group_popularity": 12
 }

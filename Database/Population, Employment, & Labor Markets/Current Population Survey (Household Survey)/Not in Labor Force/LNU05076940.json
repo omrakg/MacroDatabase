@@ -1,7 +1,7 @@
 {
   "id": "LNU05076940",
-  "realtime_start": "2022-06-19",
-  "realtime_end": "2022-06-19",
+  "realtime_start": "2022-06-26",
+  "realtime_end": "2022-06-26",
   "title": "Not in Labor Force - With No Disability, 16 to 64 Years, Men",
   "observation_start": "2008-06-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 07:43:47-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU05076940"
 }
