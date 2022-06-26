@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000000500000011",
-    "realtime_start": "2022-06-19",
-    "realtime_end": "2022-06-19",
+    "realtime_start": "2022-06-26",
+    "realtime_end": "2022-06-26",
     "title": "Average Weekly Earnings of All Employees: Total Private in Wyoming",
     "observation_start": "2007-01-01",
     "observation_end": "2022-05-01",
@@ -14,7 +14,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-06-18 02:10:30-05",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 1,
     "path": "Database/U.S. Regional Data/States/Wyoming"
   },
   "Tennessee": {

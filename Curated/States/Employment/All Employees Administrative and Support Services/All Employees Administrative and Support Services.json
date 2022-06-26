@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000006056100001",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "All Employees: Professional and Business Services: Administrative and Support Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000006056100001SA",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "All Employees: Professional and Business Services: Administrative and Support Services in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -41,8 +41,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000006056100001SA",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "All Employees: Professional and Business Services: Administrative and Support Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -60,8 +60,8 @@
     },
     "Texas": {
       "id": "SMU48000006056100001SA",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "All Employees: Professional and Business Services: Administrative and Support Services in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

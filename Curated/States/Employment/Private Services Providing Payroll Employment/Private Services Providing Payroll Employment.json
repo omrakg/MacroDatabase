@@ -2,8 +2,8 @@
   "December to December Percent Change_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "TX080000A674FRBDAL",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Private Services Providing Payroll Employment in Texas",
       "observation_start": "1991-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Percent Change at Annual Rate_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "TX080000M158FRBDAL",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Private Services Providing Payroll Employment in Texas",
       "observation_start": "1990-02-01",
       "observation_end": "2022-05-01",
@@ -44,8 +44,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "TX080000M175FRBDAL",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Private Services Providing Payroll Employment in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

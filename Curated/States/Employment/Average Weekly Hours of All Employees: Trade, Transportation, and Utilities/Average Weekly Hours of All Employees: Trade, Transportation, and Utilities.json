@@ -2,8 +2,8 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004000000002",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Average Weekly Hours of All Employees: Trade, Transportation, and Utilities in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2022-05-01",
@@ -174,8 +174,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004000000002A",
-      "realtime_start": "2022-06-19",
-      "realtime_end": "2022-06-19",
+      "realtime_start": "2022-06-26",
+      "realtime_end": "2022-06-26",
       "title": "Average Weekly Hours of All Employees: Trade, Transportation, and Utilities in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
