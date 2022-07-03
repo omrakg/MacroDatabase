@@ -1,7 +1,7 @@
 {
   "id": "WPU071304116",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Commodity: Rubber and Plastic Products: Industrial Rubber and Plastics Hose without Fittings",
   "observation_start": "2011-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 08:04:47-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "M0409AUS16980M287NNBR",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Sheep Prices for Chicago, IL",
   "observation_start": "1874-01-01",
   "observation_end": "1904-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:48:55-05",
-  "popularity": 2,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 7,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1874-1904 (2)--Original Data, 1901-1941. Data Were Computed By NBER By Averaging All The Weekly Highs And Lows Falling Within A Month (And Not Including First Three Days Of The Succeeding Month, Which Is The Ordinary NBER Method). The Grades Of Sheep For Which Prices Were Quoted Are: Common To Choice, 1874-1875; Good To Choice, 1876-1884; Common To Choice, 1885; Inferior To Choice, 1886-1901; Good To Choice, 1902 And 1904; Inferior To Choice, 1903. Source: Annual Reports Of The Chicago Board Of Trade\n\nThis NBER data series m04009a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04009a"
 }

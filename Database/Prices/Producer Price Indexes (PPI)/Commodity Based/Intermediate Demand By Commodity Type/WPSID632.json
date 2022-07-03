@@ -1,7 +1,7 @@
 {
   "id": "WPSID632",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation and Warehousing Services for Intermediate Demand",
   "observation_start": "2009-11-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-14 08:09:06-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

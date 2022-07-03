@@ -1,7 +1,7 @@
 {
   "id": "W826RC1Q027SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Personal current transfer receipts: Government social benefits to persons: Veterans' benefits",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:55:58-05",
-  "popularity": 1,
-  "group_popularity": 3,
+  "last_updated": "2022-06-29 07:55:50-05",
+  "popularity": 2,
+  "group_popularity": 5,
   "notes": "BEA Account Code: W826RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,18 +1,18 @@
 {
   "id": "UDXDVS",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Manufacturers' Value of Shipments: Durable Goods Excluding Defense",
   "observation_start": "1992-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-02 09:06:58-05",
+  "last_updated": "2022-06-27 07:31:44-05",
   "popularity": 1,
-  "group_popularity": 6,
+  "group_popularity": 9,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

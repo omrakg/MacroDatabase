@@ -1,7 +1,7 @@
 {
   "id": "HOUST2FNSA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units",
   "observation_start": "1963-08-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-16 07:31:37-05",
   "popularity": 3,
-  "group_popularity": 21
+  "group_popularity": 17
 }

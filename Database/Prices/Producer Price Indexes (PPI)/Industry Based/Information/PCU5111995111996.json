@@ -1,7 +1,7 @@
 {
   "id": "PCU5111995111996",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Industry: All Other Publishers: All Other Publishing Including Yearbooks, Art Prints, Patterns, and Trading Cards",
   "observation_start": "2003-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 08:10:39-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "HOUSTNE1F",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "New Privately-Owned Housing Units Started: Single-Family Units in the Northeast Census Region",
   "observation_start": "1984-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-16 07:31:48-05",
-  "popularity": 3,
-  "group_popularity": 5
+  "popularity": 5,
+  "group_popularity": 6
 }

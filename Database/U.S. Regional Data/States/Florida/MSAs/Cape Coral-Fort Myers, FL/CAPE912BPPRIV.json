@@ -1,7 +1,7 @@
 {
   "id": "CAPE912BPPRIV",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)",
   "observation_start": "1988-01-01",
   "observation_end": "2022-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-24 08:43:26-05",
   "popularity": 5,
-  "group_popularity": 12,
+  "group_popularity": 9,
   "notes": "This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more.\n\nThe Saint Louis Federal Reserve Bank uses the most recent Metropolitan Statistical Area definitions released by the Office of Management and Budget. For more information on specific definitions visit here (https://census.gov/programs-surveys/metro-micro.html)."
 }

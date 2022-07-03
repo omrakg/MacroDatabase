@@ -1,7 +1,7 @@
 {
   "id": "A265RC1Q027SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Consumption of fixed capital: General government",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:55:20-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "last_updated": "2022-06-29 07:59:24-05",
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: A265RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

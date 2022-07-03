@@ -1,7 +1,7 @@
 {
   "id": "PRFI",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Private Residential Fixed Investment",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:54:03-05",
-  "popularity": 48,
-  "group_popularity": 48,
+  "last_updated": "2022-06-29 07:54:06-05",
+  "popularity": 51,
+  "group_popularity": 52,
   "notes": "BEA Account Code: A011RC\n\n"
 }

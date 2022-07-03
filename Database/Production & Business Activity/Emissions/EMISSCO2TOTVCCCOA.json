@@ -1,7 +1,7 @@
 {
   "id": "EMISSCO2TOTVCCCOA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Coal Commercial Sector Carbon Dioxide Emissions",
   "observation_start": "1973-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-27 10:21:18-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "See the EIA's Monthly Energy Review (https://www.eia.gov/totalenergy/data/monthly/) for technical notes and documentation."
 }

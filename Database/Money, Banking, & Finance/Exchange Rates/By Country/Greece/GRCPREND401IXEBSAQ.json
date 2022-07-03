@@ -1,7 +1,7 @@
 {
   "id": "GRCPREND401IXEBSAQ",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Greece",
   "observation_start": "2000-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 12:13:15-05",
   "popularity": 0,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "OECD descriptor ID: PREND401 OECD unit ID: IXEBSA OECD country ID: GRCAll OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

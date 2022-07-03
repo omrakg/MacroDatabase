@@ -1,7 +1,7 @@
 {
   "id": "N234RC1Q027SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Wages and salaries: Private industries: Services-producing industries: Trade, transportation, and utilities",
   "observation_start": "2001-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:58:58-05",
+  "last_updated": "2022-06-29 07:57:18-05",
   "popularity": 1,
   "group_popularity": 2,
   "notes": "BEA Account Code: N234RC\n\nFor more information about this series, please see http://www.bea.gov/national/."

@@ -1,7 +1,7 @@
 {
   "id": "RRSFS",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Advance Real Retail and Food Services Sales",
   "observation_start": "1992-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-15 07:39:03-05",
-  "popularity": 59,
-  "group_popularity": 59,
+  "popularity": 60,
+  "group_popularity": 60,
   "notes": "The data in this series are calculated using two series, and as such only update when those series update. This series is constructed from Advance Retail and Food Services Sales (RSAFS (https://fred.stlouisfed.org/series/RSAFS)) deflated using the Consumer Price Index for All Urban Consumers (1982-84=100) (CPIAUCSL (https://fred.stlouisfed.org/series/CPIAUCSL))."
 }

@@ -1,7 +1,7 @@
 {
   "id": "GDITAXES",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Gross Domestic Income: Taxes on Production and Imports",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:54:12-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "last_updated": "2022-06-29 07:54:22-05",
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "BEA Account Code: W056RC\n\n"
 }

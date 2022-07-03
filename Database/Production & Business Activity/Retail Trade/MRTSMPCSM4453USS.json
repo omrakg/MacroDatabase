@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCSM4453USS",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Retail Sales: Beer, Wine, and Liquor Stores",
   "observation_start": "1992-02-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-15 09:08:17-05",
   "popularity": 3,
-  "group_popularity": 48
+  "group_popularity": 49
 }

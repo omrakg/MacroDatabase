@@ -1,7 +1,7 @@
 {
   "id": "DRBLACBS",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Delinquency Rate on Business Loans, All Commercial Banks",
   "observation_start": "1987-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-20 13:19:04-05",
-  "popularity": 56,
+  "popularity": 55,
   "group_popularity": 56
 }

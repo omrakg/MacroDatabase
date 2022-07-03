@@ -1,7 +1,7 @@
 {
   "id": "SLINV",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "State and Local Government Gross Investment",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:54:12-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "last_updated": "2022-06-29 07:53:57-05",
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "BEA Account Code: A799RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

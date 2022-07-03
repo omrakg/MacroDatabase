@@ -1,7 +1,7 @@
 {
   "id": "WPU1169",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Commercial Laundry and Drycleaning Machinery Products",
   "observation_start": "1982-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 07:55:47-05",
-  "popularity": 10,
-  "group_popularity": 12
+  "popularity": 4,
+  "group_popularity": 5
 }

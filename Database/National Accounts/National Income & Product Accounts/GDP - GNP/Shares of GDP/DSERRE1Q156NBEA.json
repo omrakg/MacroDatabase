@@ -1,7 +1,7 @@
 {
   "id": "DSERRE1Q156NBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Shares of gross domestic product: Personal consumption expenditures: Services",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-28 07:54:18-05",
+  "last_updated": "2022-06-29 07:54:28-05",
   "popularity": 4,
   "group_popularity": 5,
   "notes": "BEA Account Code: DSERRE\n\nFor more information about this series, please see http://www.bea.gov/national/."

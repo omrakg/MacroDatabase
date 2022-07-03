@@ -1,7 +1,7 @@
 {
   "id": "W328RC1Q027SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Net value added of nonfinancial corporate business: Corporate profits with IVA and CCAdj: Profits after tax with IVA and CCAdj",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:52:27-05",
-  "popularity": 5,
-  "group_popularity": 6,
+  "last_updated": "2022-06-29 07:52:54-05",
+  "popularity": 7,
+  "group_popularity": 8,
   "notes": "BEA Account Code: W328RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "A180RC1Q027SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Government current expenditures: Interest payments",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-04-28 07:54:09-05",
-  "popularity": 14,
-  "group_popularity": 15,
+  "last_updated": "2022-06-29 07:54:15-05",
+  "popularity": 10,
+  "group_popularity": 11,
   "notes": "BEA Account Code: A180RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

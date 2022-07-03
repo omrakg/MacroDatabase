@@ -1,7 +1,7 @@
 {
   "id": "A4413C0A052NBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Wage and salary accruals per full-time equivalent employee: Domestic private industries: Manufacturing",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-08-08 14:14:24-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: A4413C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

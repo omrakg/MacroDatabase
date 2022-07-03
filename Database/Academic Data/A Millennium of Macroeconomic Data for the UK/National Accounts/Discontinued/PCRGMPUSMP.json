@@ -1,7 +1,7 @@
 {
   "id": "PCRGMPUSMP",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Total Per Capita Real GDP United States Metropolitan Portion (DISCONTINUED)",
   "observation_start": "2001-01-01",
   "observation_end": "2017-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-09-18 08:31:02-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "The All industry total includes all Private industries and Government.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nGross Domestic Product of a given area divided by the resident population of the area.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
 }

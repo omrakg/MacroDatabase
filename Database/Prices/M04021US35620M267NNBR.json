@@ -1,7 +1,7 @@
 {
   "id": "M04021US35620M267NNBR",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Wholesale Price of Bread for New York, NY",
   "observation_start": "1913-01-01",
   "observation_end": "1942-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:08-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Prices Are Based On A Pound Of Dough Before Baking. 1913-15 Data Are First Of Month Prices; 1916-42 Data Are From The 15Th Of Each Month Or The Tuesday Nearest The 15Th. Source: Bls Bulletins And Monthly Issues Of \"Wholesale Prices\"\n\nThis NBER data series m04021 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04021"
 }

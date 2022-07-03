@@ -1,7 +1,7 @@
 {
   "id": "DSERRO1Q156NBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Real Personal Consumption Expenditures: Services",
   "observation_start": "1948-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "% Chg. from Qtr.  1 Yr. Ago",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-26 07:54:18-05",
-  "popularity": 5,
-  "group_popularity": 53,
+  "last_updated": "2022-06-29 07:54:27-05",
+  "popularity": 8,
+  "group_popularity": 56,
   "notes": "BEA Account Code: DSERRO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

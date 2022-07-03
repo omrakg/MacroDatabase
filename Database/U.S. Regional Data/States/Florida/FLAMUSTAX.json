@@ -1,7 +1,7 @@
 {
   "id": "FLAMUSTAX",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "State Government Tax Collections, Amusements - Selective Sales Taxes in Florida",
   "observation_start": "1951-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-19 13:41:04-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information, see https://www.census.gov/programs-surveys/qtax.html."
 }

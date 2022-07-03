@@ -1,7 +1,7 @@
 {
   "id": "Y001RZ2Q224SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Contributions to Percent Change in Real Private Fixed Investment: Nonresidential: Intellectual Property Products",
   "observation_start": "1947-04-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Percentage Points at Annual Rate",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:55:56-05",
+  "last_updated": "2022-06-29 07:55:48-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: Y001RZ\n\nFor more information about this series, please see http://www.bea.gov/national/."

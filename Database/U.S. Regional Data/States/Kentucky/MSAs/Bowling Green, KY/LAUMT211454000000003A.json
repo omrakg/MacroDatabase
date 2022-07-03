@@ -1,7 +1,7 @@
 {
   "id": "LAUMT211454000000003A",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Unemployment Rate in Bowling Green, KY (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-27 10:58:41-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 4
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU123",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Floor Coverings",
   "observation_start": "1926-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 07:51:51-05",
-  "popularity": 7,
-  "group_popularity": 7
+  "popularity": 8,
+  "group_popularity": 8
 }

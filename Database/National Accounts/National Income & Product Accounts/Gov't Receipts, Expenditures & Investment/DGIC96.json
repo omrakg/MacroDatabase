@@ -1,7 +1,7 @@
 {
   "id": "DGIC96",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Federal Government: Real National Defense Gross Investment",
   "observation_start": "2002-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of Chn. 2012 $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:58:22-05",
+  "last_updated": "2022-06-29 07:55:09-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: A788RX\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"

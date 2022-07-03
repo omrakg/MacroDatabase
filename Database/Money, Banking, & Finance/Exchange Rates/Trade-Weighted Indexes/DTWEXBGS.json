@@ -1,17 +1,17 @@
 {
   "id": "DTWEXBGS",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Nominal Broad U.S. Dollar Index",
   "observation_start": "2006-01-02",
-  "observation_end": "2022-06-17",
+  "observation_end": "2022-06-24",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Index Jan 2006=100",
   "units_short": "Index Jan 2006=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-21 15:20:02-05",
+  "last_updated": "2022-06-27 15:20:02-05",
   "popularity": 76,
-  "group_popularity": 77
+  "group_popularity": 76
 }

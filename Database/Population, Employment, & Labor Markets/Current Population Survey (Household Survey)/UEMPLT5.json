@@ -1,7 +1,7 @@
 {
   "id": "UEMPLT5",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Number Unemployed for Less Than 5 Weeks",
   "observation_start": "1948-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-03 07:44:36-05",
-  "popularity": 21,
-  "group_popularity": 23,
+  "popularity": 22,
+  "group_popularity": 24,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13008396"
 }

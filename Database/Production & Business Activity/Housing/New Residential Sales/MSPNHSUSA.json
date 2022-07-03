@@ -1,7 +1,7 @@
 {
   "id": "MSPNHSUSA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Median Sales Price for New Houses Sold in the United States",
   "observation_start": "1963-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-26 09:01:19-05",
-  "popularity": 18,
-  "group_popularity": 65
+  "popularity": 13,
+  "group_popularity": 63
 }

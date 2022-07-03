@@ -1,7 +1,7 @@
 {
   "id": "IEABCPI",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Balance on primary income",
   "observation_start": "1999-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-23 09:27:21-05",
-  "popularity": 11,
-  "group_popularity": 11,
+  "popularity": 7,
+  "group_popularity": 8,
   "notes": "Calculated by subtracting the primary income payments from the primary income receipts"
 }

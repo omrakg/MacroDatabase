@@ -1,7 +1,7 @@
 {
   "id": "CP",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Corporate Profits After Tax (without IVA and CCAdj)",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:53:14-05",
+  "last_updated": "2022-06-29 07:54:02-05",
   "popularity": 71,
   "group_popularity": 71,
   "notes": "BEA Account Code: A055RC\n\n"

@@ -1,7 +1,7 @@
 {
   "id": "WPU12150112",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Metal Porch, Lawn, Outdoor and Casual Furniture",
   "observation_start": "1984-06-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 08:03:19-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

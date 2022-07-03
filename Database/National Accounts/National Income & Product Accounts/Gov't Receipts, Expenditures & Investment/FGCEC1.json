@@ -1,7 +1,7 @@
 {
   "id": "FGCEC1",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Real Federal Consumption Expenditures and Gross Investment",
   "observation_start": "2002-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of Chn. 2012 $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:54:41-05",
-  "popularity": 3,
+  "last_updated": "2022-06-29 07:55:07-05",
+  "popularity": 4,
   "group_popularity": 4,
   "notes": "BEA Account Code: A823RX\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

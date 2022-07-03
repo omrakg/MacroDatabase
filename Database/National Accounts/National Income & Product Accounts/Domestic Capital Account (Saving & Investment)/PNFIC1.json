@@ -1,7 +1,7 @@
 {
   "id": "PNFIC1",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Real Private Nonresidential Fixed Investment",
   "observation_start": "2002-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of Chn. 2012 $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:54:04-05",
-  "popularity": 42,
-  "group_popularity": 43,
+  "last_updated": "2022-06-29 07:54:08-05",
+  "popularity": 41,
+  "group_popularity": 42,
   "notes": "BEA Account Code: A008RX\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

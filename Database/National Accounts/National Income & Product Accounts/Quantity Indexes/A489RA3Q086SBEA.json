@@ -1,7 +1,7 @@
 {
   "id": "A489RA3Q086SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Real federal government consumption expenditures: Defense consumption expenditures: Gross output of general government: Intermediate goods and services purchased: Services (chain-type quantity index)",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Index 2012=100",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-26 07:53:57-05",
-  "popularity": 8,
-  "group_popularity": 9,
+  "last_updated": "2022-06-29 07:53:55-05",
+  "popularity": 10,
+  "group_popularity": 11,
   "notes": "BEA Account Code: A489RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

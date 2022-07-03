@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCSM4521EUSS",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Retail Sales: Department Stores",
   "observation_start": "1992-02-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-15 09:09:31-05",
   "popularity": 1,
-  "group_popularity": 12,
+  "group_popularity": 13,
   "notes": "The most recent month's value of the advance estimate based on data from a subsample of firms from the larger Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/MARTSMPCSM4521EUSS\n\n Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
 }

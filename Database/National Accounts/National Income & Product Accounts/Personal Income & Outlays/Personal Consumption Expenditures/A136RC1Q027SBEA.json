@@ -1,7 +1,7 @@
 {
   "id": "A136RC1Q027SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Personal consumption expenditures: New autos",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 07:54:22-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "last_updated": "2022-06-29 07:54:17-05",
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "BEA Account Code: A136RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

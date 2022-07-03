@@ -1,7 +1,7 @@
 {
   "id": "OB000354Q",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Real Exports of Services",
   "observation_start": "2003-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "% Chg. from Qtr.  1 Yr. Ago",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-28 07:55:44-05",
+  "last_updated": "2022-06-29 07:57:47-05",
   "popularity": 1,
   "group_popularity": 2,
   "notes": "BEA Account Code: OB000354"

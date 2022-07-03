@@ -1,7 +1,7 @@
 {
   "id": "LOIMFGN",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "All Employees: Manufacturing in Louisville/Jefferson County, KY-IN (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-18 02:03:26-05",
-  "popularity": 3,
+  "popularity": 2,
   "group_popularity": 3,
   "notes": "Industry based on 2002 North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2002) for additional information about NAICS."
 }

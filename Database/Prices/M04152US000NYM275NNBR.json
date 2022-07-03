@@ -1,7 +1,7 @@
 {
   "id": "M04152US000NYM275NNBR",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Wholesale Price of Soda, Nitrate for New York",
   "observation_start": "1913-01-01",
   "observation_end": "1939-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:54:08-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Called By Bls, \"Soda, Nitrate (Chile Saltpeter), 95 Per Cent, New York\" Under \"Fertilizer Materials\". Average Of Weekly Quotations Of Leading Manufacturers. Figure For February, 1922 Was Originally Published As 3.41, But Is Obviously A Misprint. The Figure 2.41 Fits With Given Annual Average. Source: Bls Bulletins And \"Wholesale Prices\" Manufacturers\n\nThis NBER data series m04152 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04152"
 }

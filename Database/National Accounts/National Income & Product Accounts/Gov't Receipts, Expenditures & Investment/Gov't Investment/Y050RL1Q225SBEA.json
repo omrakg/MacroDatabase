@@ -1,7 +1,7 @@
 {
   "id": "Y050RL1Q225SBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Real Government Gross Investment: Federal: National Defense: Gross Investment: Equipment",
   "observation_start": "1947-04-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "% Chg. from Preceding Period",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-26 08:00:46-05",
+  "last_updated": "2022-06-29 07:59:40-05",
   "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: Y050RL\n\nFor more information about this series, please see http://www.bea.gov/national/."

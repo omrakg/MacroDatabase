@@ -1,7 +1,7 @@
 {
   "id": "PCU5182105182105",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Industry: Data Processing, Hosting and Related Services: Hosting, Active Server Pages (ASP), and Other Information Technology (IT) Infrastructure Provisioning Services",
   "observation_start": "2006-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 07:53:13-05",
-  "popularity": 13,
-  "group_popularity": 13
+  "popularity": 17,
+  "group_popularity": 17
 }

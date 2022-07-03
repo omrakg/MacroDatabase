@@ -1,7 +1,7 @@
 {
   "id": "AD02RC1A027NBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Net lending or net borrowing (-), NIPAs: Government: Federal",
   "observation_start": "1960-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-26 07:56:36-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 5,
   "notes": "BEA Account Code: AD02RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

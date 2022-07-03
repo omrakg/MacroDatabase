@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCSM443111USN",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Retail Sales: Household Appliance Stores",
   "observation_start": "1992-02-01",
   "observation_end": "2021-03-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-05-14 09:08:23-05",
-  "popularity": 8,
-  "group_popularity": 17
+  "popularity": 6,
+  "group_popularity": 12
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU023505",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Ice Cream Mixes and Related Products",
   "observation_start": "2002-06-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 07:58:28-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

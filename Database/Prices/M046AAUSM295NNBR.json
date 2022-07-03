@@ -1,7 +1,7 @@
 {
   "id": "M046AAUSM295NNBR",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Farm Prices of Cottonseed for United States",
   "observation_start": "1910-09-01",
   "observation_end": "1938-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:37-05",
   "popularity": 3,
-  "group_popularity": 3,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1910-1938 (2)--Original Data, 1927-1956. Data Are Based On Returns From Special Price Reporters. Monthly Prices By States Are Weighted By Production To Obtain Total U.S. Price. 1910-1935 Source Data Have Been Checked With Crops And Markets, December, 1935, P.534. See Also, Bureau Of Agricultural Economics, \"The Fats And Oils Situation,\" December 14, 1937. From 1937 On, (See 1938 Agricultural Statistics) Data Are Weighted By States, But By \"Sales\" Instead Of \"Production.\" Figures Vary Only Slightly. Source: United States Department Of Agriculture, Yearbook Of Agriculture, 1931, P.686; Agricultural Statistics, 1937, P.104. Crops And Markets, Monthly Issues, 1937-1938.\n\nThis NBER data series m04006aa appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04006aa"
 }

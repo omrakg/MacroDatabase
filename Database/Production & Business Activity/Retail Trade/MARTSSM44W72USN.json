@@ -1,7 +1,7 @@
 {
   "id": "MARTSSM44W72USN",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations",
   "observation_start": "1992-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-15 07:35:09-05",
-  "popularity": 3,
-  "group_popularity": 17
+  "popularity": 2,
+  "group_popularity": 14
 }

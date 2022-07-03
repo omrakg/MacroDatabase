@@ -1,17 +1,17 @@
 {
   "id": "PROV244URN",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Unemployment Rate in Providence-Warwick, RI-MA (NECTA)",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-01 10:07:40-05",
+  "last_updated": "2022-06-29 10:12:06-05",
   "popularity": 4,
-  "group_popularity": 6
+  "group_popularity": 5
 }

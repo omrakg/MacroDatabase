@@ -1,7 +1,7 @@
 {
   "id": "M04119US16980M267NNBR",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Wholesale Price of Inedible Tallow, Packers' Prime for Chicago, IL",
   "observation_start": "1918-01-01",
   "observation_end": "1957-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:36-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Sample Checks Were Made With The National Provisioner And The Daily Trade Bulletin. Figures For 1918-October, 1923 Are The Average Range Of Prices On Each Friday Of Month--Quotations From The National Provisioner. Thereafter, Average Of Range Of Prices On Each Tuesday Of Month--Quotations From The Daily Trade Bulletin Are Used. Datum For February, 1924 Is Average Of Range On Fridays. The Average For Tuesdays Is 8.04. Bls Code 06-40-51 Bls \"Revised Index, 1947-50\" (See \"Source\" Above) Has Been Checked For Revisions. Source: Bls Buletin Nos. 269, 296, 335, 367, 415, 440, 473, 493, 521, 543, And 572 For Data Through 1931; Wholesale Prices (Monthly) Thereafter Through 1941; For 1942 And Following Years, Bls\"Wholesale Prices, \" Bulletin Nos. 718, 736, 759, 785, 870, 877, 920, 947, 973, 1007, 1083, 1143; Bls, \"Prices And Price Relatives In The Revised Index: 1947-50\" (February, 1952) And Monthly Issues Of\"Wholesale Price Index.\"\n\nThis NBER data series m04119 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04119"
 }

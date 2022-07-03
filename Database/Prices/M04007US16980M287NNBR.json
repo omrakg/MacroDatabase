@@ -1,7 +1,7 @@
 {
   "id": "M04007US16980M287NNBR",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Wholesale Price of Cattle for Chicago, IL",
   "observation_start": "1858-01-01",
   "observation_end": "1940-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:57:16-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Data For 1858-1904, From Annual Reports Of Chicago Board Of Trade Are Given In Source By Weeks, That Is The Low And High For Each Week Ending Saturday Is Given. Monthly Averages Have Been Computed By NBER By Averaging All The Weekly Highs And Lows Falling Within Any One Month. The Usual Bureau 3-4 Method (Including A Week Ending On The 3Rd As Falling Within The Past Month) Has Not Been Followed In This Series. This New Precedent Is Taken From H.A. Wallace, \"Agricultural Prices,\" Where This Method Is Used. Where Figures Are Omitted In The Source, Whether Highs Or Lows, The Missing Figures Have Been Filled By The Average Of The Remaining Highs Or Lows, Respectively, Thus Giving Always Equal Weights To The Number Of High And Low Quotations. The Grades Quoted Change From Time To Time, But Except In 1900, They Appear To Be Comparable, This Sometimes Shown By Overlaps. The Change From 1899 To 1900 Was A Jump Of Several Grades, That Is, From 5-A To 2-A, Thus Making The 1900 Data On Too High A Level To Be Comparable With Previous Data. Therefore, From 1900 On, The United States Department Of Agriculture Figures Should Be Used. These Data Refer To Monthly Average Prices For Native Beef Steers, All Weights, 750-1800 Pounds, Compiled By The Chicago Daily Drovers Journal. Beginning With January, 1922, They Are Average Prices Of All Grades Compiled By United States Department Of Agriculture -- Native, Excluding Western. The Grades And Periods For The Chicago Board Of Trade Figures Are As Follows: 1858, No Description, Probably Fair To Choice; 1859-1873, Fair To Choice, 3-1; 1874-1875, Common To Choice, 4-1; 1876-1878, Good To Choice, 2-1; 1879-1884, Fair To Choice, 3-1; 1885, Common To Choice, 4-1; 1886-1899, Inferior To Prime, 5-A1; 1900-1904, Good To Extra, 2-A1. The Classifications Used Are: Prime Or Extra, A1; Choice, 1; Good, 2; Medium Or Fair, 3; Common, 4; Inferior, 5. Source: For 1858-1904, Annual Reports Of Chicago Board Of Trade, For 1900-1940, United States Department Of Agriculture, Agricultural Statistics And Yearbook Of Agriculture.\n\nThis NBER data series m04007 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04007"
 }

@@ -1,7 +1,7 @@
 {
   "id": "LNS12300060",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Employment-Population Ratio - 25-54 Yrs.",
   "observation_start": "1948-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-03 07:44:15-05",
-  "popularity": 57,
-  "group_popularity": 57
+  "popularity": 58,
+  "group_popularity": 58
 }

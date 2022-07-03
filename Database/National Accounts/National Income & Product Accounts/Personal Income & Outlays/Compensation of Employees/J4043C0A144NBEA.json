@@ -1,7 +1,7 @@
 {
   "id": "J4043C0A144NBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Compensation of employees: Domestic private industries: Transportation by air",
   "observation_start": "1948-01-01",
   "observation_end": "1987-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-08-10 12:14:27-05",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: J4043C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

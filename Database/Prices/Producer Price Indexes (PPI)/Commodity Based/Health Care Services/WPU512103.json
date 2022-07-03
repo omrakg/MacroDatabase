@@ -1,7 +1,7 @@
 {
   "id": "WPU512103",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Producer Price Index by Commodity: Health Care Services: Intellectual and Developmental Disability Center Care",
   "observation_start": "2008-12-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 08:01:28-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

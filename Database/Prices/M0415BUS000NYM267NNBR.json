@@ -1,7 +1,7 @@
 {
   "id": "M0415BUS000NYM267NNBR",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Wholesale Price of Copper, Electrolyte for New York",
   "observation_start": "1911-01-01",
   "observation_end": "1955-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 15:16:06-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, Lake Copper, 1860-1912; (2)-- Original Data, Electrolyte Copper, 1911-1955. Lake Copper Is From Native Copper Mines Of The Lake Superior District. The Standard Range Of Conductivity Is 99.5%. Electrolyte Copper Is Refined By The Electrolytic Process And Runs From 99.93% And Upwards For Cathodes. From 1932 On Copper Is Referred To As \"Domestic\" Rather Than New York. This Refers To Net Price At Refineries On The Atlantic Seaboard, Most Of Which Are Located In The New York Tidewater Area. For All Practical Purposes \"New York\" And \"Atlantic Seaboard\" Refineries Are Identical. Source: 1860-1893:\"Mineral Industry\", 1893, P.253, And Following Issues; 1894-1955:\"Engineering And Mining Journal\", January 4, 1896, P. 5, And Following Issues (Also Available In \"Mineral Industry\" A Supplementary Publication Of \"E & M Journal\")\n\nThis NBER data series m04015b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04015b"
 }

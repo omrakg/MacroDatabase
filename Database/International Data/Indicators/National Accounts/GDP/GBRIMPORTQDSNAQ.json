@@ -1,7 +1,7 @@
 {
   "id": "GBRIMPORTQDSNAQ",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Imports of Goods and Services in the United Kingdom",
   "observation_start": "1955-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Chn. 2015 British Pounds",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-06-01 07:02:45-05",
+  "last_updated": "2022-07-01 07:02:28-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), OECD National Accounts Statistics, http://dx.doi.org/10.1787/na-data-en, (accessed on date)"

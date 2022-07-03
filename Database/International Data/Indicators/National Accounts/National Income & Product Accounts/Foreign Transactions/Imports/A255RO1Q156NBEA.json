@@ -1,7 +1,7 @@
 {
   "id": "A255RO1Q156NBEA",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Real Imports of Goods",
   "observation_start": "1948-01-01",
   "observation_end": "2022-01-01",
@@ -11,8 +11,8 @@
   "units_short": "% Chg. from Qtr.  1 Yr. Ago",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-26 07:55:20-05",
+  "last_updated": "2022-06-29 07:59:25-05",
   "popularity": 1,
-  "group_popularity": 23,
+  "group_popularity": 21,
   "notes": "BEA Account Code: A255RO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

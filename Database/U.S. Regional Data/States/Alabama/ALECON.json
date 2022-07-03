@@ -1,7 +1,7 @@
 {
   "id": "ALECON",
-  "realtime_start": "2022-06-26",
-  "realtime_end": "2022-06-26",
+  "realtime_start": "2022-07-03",
+  "realtime_end": "2022-07-03",
   "title": "Construction Earnings in Alabama",
   "observation_start": "1998-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-22 12:50:25-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS."
 }
