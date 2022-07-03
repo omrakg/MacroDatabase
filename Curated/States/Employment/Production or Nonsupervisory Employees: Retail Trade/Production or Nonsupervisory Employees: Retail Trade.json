@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004200000006",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
     },
     "Utah": {
       "id": "SMU49000004200000006SA",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-05-01",
@@ -39,8 +39,8 @@
     },
     "Vermont": {
       "id": "SMU50000004200000006SA",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-05-01",
@@ -60,8 +60,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004200000006A",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",
@@ -78,8 +78,8 @@
     },
     "Utah": {
       "id": "SMU49000004200000006SA",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-05-01",
@@ -97,8 +97,8 @@
     },
     "Vermont": {
       "id": "SMU50000004200000006SA",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-05-01",
@@ -118,8 +118,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004200000006SA",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2022-05-01",
@@ -137,8 +137,8 @@
     },
     "Utah": {
       "id": "SMU49000004200000006SA",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-05-01",
@@ -156,8 +156,8 @@
     },
     "Vermont": {
       "id": "SMU50000004200000006SA",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Production or Nonsupervisory Employees: Retail Trade in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-05-01",

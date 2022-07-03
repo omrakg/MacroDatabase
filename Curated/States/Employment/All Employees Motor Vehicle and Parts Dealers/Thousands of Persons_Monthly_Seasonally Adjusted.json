@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000004244100001SA",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
@@ -39,8 +39,8 @@
   },
   "Texas": {
     "id": "SMU48000004244100001SA",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
@@ -58,8 +58,8 @@
   },
   "Utah": {
     "id": "SMU49000004244100001SA",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
@@ -77,8 +77,8 @@
   },
   "Washington": {
     "id": "SMU53000004244100001SA",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
@@ -96,8 +96,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000004244100001SA",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
