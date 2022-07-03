@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000001000000001",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "All Employees: Mining and Logging in Puerto Rico",
       "observation_start": "2003-01-01",
       "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
     },
     "Georgia": {
       "id": "GANRMNN",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "All Employees: Mining and Logging in Georgia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -40,8 +40,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000001000000001A",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "All Employees: Mining and Logging in Puerto Rico",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
     },
     "Georgia": {
       "id": "GANRMNN",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "All Employees: Mining and Logging in Georgia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -78,8 +78,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000001000000001SA",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "All Employees: Mining and Logging in Puerto Rico",
       "observation_start": "2003-01-01",
       "observation_end": "2022-05-01",
@@ -97,8 +97,8 @@
     },
     "Georgia": {
       "id": "GANRMNN",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "All Employees: Mining and Logging in Georgia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

@@ -2,8 +2,8 @@
   "Colombian Peso_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLNAEXCP07STSAQ",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "National Accounts: GDP by Expenditure: Current Prices: less Imports of Goods and Services for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -21,8 +21,8 @@
     },
     "Costa Rica": {
       "id": "CRINAEXCP07STSAQ",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "National Accounts: GDP by Expenditure: Current Prices: less Imports of Goods and Services for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -42,8 +42,8 @@
   "Costa Rican Colon_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXCP07STSAQ",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "National Accounts: GDP by Expenditure: Current Prices: less Imports of Goods and Services for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -61,8 +61,8 @@
     },
     "Colombia": {
       "id": "COLNAEXCP07STSAQ",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "National Accounts: GDP by Expenditure: Current Prices: less Imports of Goods and Services for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",

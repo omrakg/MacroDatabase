@@ -1,10 +1,10 @@
 {
-  "Turkey": {
-    "id": "LFHUADTTTRM647N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
-    "title": "Harmonized Unemployment: Aged 25 and Over: All Persons for Turkey",
-    "observation_start": "2005-01-01",
+  "Slovenia": {
+    "id": "LFHUADTTSIM647N",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
+    "title": "Harmonized Unemployment: Aged 25 and Over: All Persons for Slovenia",
+    "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
     "frequency": "Monthly",
     "frequency_short": "M",
@@ -15,13 +15,32 @@
     "last_updated": "2022-06-14 11:11:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "notes": "OECD descriptor ID: LFHUADTT\nOECD unit ID: ST\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-    "path": "Database/International Data/Countries/Turkey"
+    "notes": "OECD descriptor ID: LFHUADTT\nOECD unit ID: ST\nOECD country ID: SVN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Slovenia"
+  },
+  "Luxembourg": {
+    "id": "LFHUADTTLUQ647S",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
+    "title": "Harmonized Unemployment: Aged 25 and Over: All Persons for Luxembourg",
+    "observation_start": "1983-01-01",
+    "observation_end": "2022-01-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Persons",
+    "units_short": "Persons",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-06-14 12:10:35-05",
+    "popularity": 0,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: LFHUADTT\nOECD unit ID: STSA\nOECD country ID: LUX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Luxembourg"
   },
   "Poland": {
     "id": "LFHUADTTPLQ647S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Harmonized Unemployment: Aged 25 and Over: All Persons for Poland",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +58,8 @@
   },
   "Slovak Republic": {
     "id": "LFHUADTTSKQ647S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Harmonized Unemployment: Aged 25 and Over: All Persons for the Slovak Republic",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -55,24 +74,5 @@
     "group_popularity": 1,
     "notes": "OECD descriptor ID: LFHUADTT\nOECD unit ID: STSA\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Slovak Republic"
-  },
-  "Slovenia": {
-    "id": "LFHUADTTSIQ647S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
-    "title": "Harmonized Unemployment: Aged 25 and Over: All Persons for Slovenia",
-    "observation_start": "1995-01-01",
-    "observation_end": "2022-01-01",
-    "frequency": "Quarterly",
-    "frequency_short": "Q",
-    "units": "Persons",
-    "units_short": "Persons",
-    "seasonal_adjustment": "Seasonally Adjusted",
-    "seasonal_adjustment_short": "SA",
-    "last_updated": "2022-06-14 12:06:10-05",
-    "popularity": 0,
-    "group_popularity": 1,
-    "notes": "OECD descriptor ID: LFHUADTT\nOECD unit ID: STSA\nOECD country ID: SVN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-    "path": "Database/International Data/Countries/Slovenia"
   }
 }

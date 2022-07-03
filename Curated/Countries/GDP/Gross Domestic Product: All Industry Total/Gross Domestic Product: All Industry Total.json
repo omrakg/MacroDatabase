@@ -2,8 +2,8 @@
   "Millions of Dollars_Annual_Not Seasonally Adjusted": {
     "Georgia": {
       "id": "GANGSP",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Gross Domestic Product: All Industry Total in Georgia",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -15,27 +15,27 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-31 10:32:06-05",
       "popularity": 29,
-      "group_popularity": 31,
+      "group_popularity": 32,
       "path": "Database/International Data/Countries/Georgia"
     }
   },
   "Millions of Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Georgia": {
       "id": "GANQGSP",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Gross Domestic Product: All Industry Total in Georgia",
       "observation_start": "2005-01-01",
-      "observation_end": "2021-10-01",
+      "observation_end": "2022-01-01",
       "frequency": "Quarterly",
       "frequency_short": "Q",
       "units": "Millions of Dollars",
       "units_short": "Mil. of $",
       "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
       "seasonal_adjustment_short": "SAAR",
-      "last_updated": "2022-03-31 10:33:11-05",
-      "popularity": 9,
-      "group_popularity": 31,
+      "last_updated": "2022-06-30 09:06:11-05",
+      "popularity": 13,
+      "group_popularity": 32,
       "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm.",
       "path": "Database/International Data/Countries/Georgia"
     }

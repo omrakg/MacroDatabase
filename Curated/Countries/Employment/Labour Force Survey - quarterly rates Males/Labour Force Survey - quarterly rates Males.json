@@ -2,8 +2,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Latvia": {
       "id": "LVALRAC55MASTQ",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Labour Force Survey - quarterly rates: Activity rate: Aged 55-64: Males for Latvia",
       "observation_start": "1998-04-01",
       "observation_end": "2022-01-01",
@@ -23,8 +23,8 @@
   "Percent_Quarterly_Seasonally Adjusted": {
     "Latvia": {
       "id": "LVALRAC55MASTSAQ",
-      "realtime_start": "2022-06-26",
-      "realtime_end": "2022-06-26",
+      "realtime_start": "2022-07-03",
+      "realtime_end": "2022-07-03",
       "title": "Labour Force Survey - quarterly rates: Activity rate: Aged 55-64: Males for Latvia",
       "observation_start": "2002-01-01",
       "observation_end": "2022-01-01",

@@ -1,8 +1,8 @@
 {
   "Uganda": {
     "id": "UGAFCAODMFSNUM",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Use of Financial Services Deposit Accounts: Small and Medium Enterprise Accounts at Deposit Taking Microfinance Institutions (MFIs) for Uganda",
     "observation_start": "2014-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "Angola": {
     "id": "AGOFCAODMFSNUM",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Use of Financial Services Deposit Accounts: Small and Medium Enterprise Accounts at Deposit Taking Microfinance Institutions (MFIs) for Angola",
     "observation_start": "2013-01-01",
     "observation_end": "2015-01-01",
@@ -39,8 +39,8 @@
   },
   "Guinea": {
     "id": "GINFCAODMFSNUM",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Use of Financial Services Deposit Accounts: Small and Medium Enterprise Accounts at Deposit Taking Microfinance Institutions (MFIs) for Guinea",
     "observation_start": "2008-01-01",
     "observation_end": "2017-01-01",
@@ -58,8 +58,8 @@
   },
   "Madagascar": {
     "id": "MDGFCAODMFSNUM",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Use of Financial Services Deposit Accounts: Small and Medium Enterprise Accounts at Deposit Taking Microfinance Institutions (MFIs) for Madagascar",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -77,8 +77,8 @@
   },
   "Pakistan": {
     "id": "PAKFCAODMFSNUM",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Use of Financial Services Deposit Accounts: Small and Medium Enterprise Accounts at Deposit Taking Microfinance Institutions (MFIs) for Pakistan",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -93,24 +93,5 @@
     "group_popularity": 1,
     "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
     "path": "Database/International Data/Countries/Pakistan"
-  },
-  "Samoa": {
-    "id": "WSMFCAODMFSNUM",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
-    "title": "Use of Financial Services Deposit Accounts: Small and Medium Enterprise Accounts at Deposit Taking Microfinance Institutions (MFIs) for Samoa",
-    "observation_start": "2014-01-01",
-    "observation_end": "2017-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Number",
-    "units_short": "Number",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2018-12-26 13:03:05-06",
-    "popularity": 0,
-    "group_popularity": 0,
-    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
-    "path": "Database/International Data/Countries/Samoa"
   }
 }

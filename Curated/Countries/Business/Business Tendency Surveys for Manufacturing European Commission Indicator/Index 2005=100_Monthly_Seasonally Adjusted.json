@@ -1,10 +1,10 @@
 {
-  "Turkey": {
-    "id": "BSXRLV02TRM086S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
-    "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Turkey",
-    "observation_start": "2007-01-01",
+  "Slovenia": {
+    "id": "BSXRLV02SIM086S",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
+    "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Slovenia",
+    "observation_start": "1995-04-01",
     "observation_end": "2022-05-01",
     "frequency": "Monthly",
     "frequency_short": "M",
@@ -15,13 +15,13 @@
     "last_updated": "2022-06-14 11:11:32-05",
     "popularity": 1,
     "group_popularity": 1,
-    "notes": "OECD descriptor ID: BSXRLV02\nOECD unit ID: STSA\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-    "path": "Database/International Data/Countries/Turkey"
+    "notes": "OECD descriptor ID: BSXRLV02\nOECD unit ID: STSA\nOECD country ID: SVN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Slovenia"
   },
   "Czech Republic": {
     "id": "BSXRLV02CZM086S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for the Czech Republic",
     "observation_start": "1993-02-01",
     "observation_end": "2022-05-01",
@@ -39,8 +39,8 @@
   },
   "Estonia": {
     "id": "BSXRLV02EEM086S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Estonia",
     "observation_start": "1993-04-01",
     "observation_end": "2022-05-01",
@@ -58,8 +58,8 @@
   },
   "Hungary": {
     "id": "BSXRLV02HUM086S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Hungary",
     "observation_start": "1996-01-01",
     "observation_end": "2022-03-01",
@@ -75,10 +75,29 @@
     "notes": "OECD descriptor ID: BSXRLV02\nOECD unit ID: STSA\nOECD country ID: HUN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Hungary"
   },
+  "Luxembourg": {
+    "id": "BSXRLV02LUM086S",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
+    "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Luxembourg",
+    "observation_start": "1983-01-01",
+    "observation_end": "2022-05-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index 2005=100",
+    "units_short": "Index 2005",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-06-14 11:21:27-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: BSXRLV02\nOECD unit ID: STSA\nOECD country ID: LUX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Luxembourg"
+  },
   "Poland": {
     "id": "BSXRLV02PLM086S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Poland",
     "observation_start": "1997-07-01",
     "observation_end": "2022-05-01",
@@ -96,8 +115,8 @@
   },
   "Russian Federation": {
     "id": "BSXRLV02RUQ086S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for the Russian Federation",
     "observation_start": "1992-10-01",
     "observation_end": "2021-10-01",
@@ -115,8 +134,8 @@
   },
   "Slovak Republic": {
     "id": "BSXRLV02SKM086S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for the Slovak Republic",
     "observation_start": "1993-08-01",
     "observation_end": "2022-05-01",
@@ -131,24 +150,5 @@
     "group_popularity": 1,
     "notes": "OECD descriptor ID: BSXRLV02\nOECD unit ID: STSA\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Slovak Republic"
-  },
-  "Slovenia": {
-    "id": "BSXRLV02SIM086S",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
-    "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Slovenia",
-    "observation_start": "1995-04-01",
-    "observation_end": "2022-05-01",
-    "frequency": "Monthly",
-    "frequency_short": "M",
-    "units": "Index 2005=100",
-    "units_short": "Index 2005",
-    "seasonal_adjustment": "Seasonally Adjusted",
-    "seasonal_adjustment_short": "SA",
-    "last_updated": "2022-06-14 11:11:32-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "notes": "OECD descriptor ID: BSXRLV02\nOECD unit ID: STSA\nOECD country ID: SVN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-    "path": "Database/International Data/Countries/Slovenia"
   }
 }

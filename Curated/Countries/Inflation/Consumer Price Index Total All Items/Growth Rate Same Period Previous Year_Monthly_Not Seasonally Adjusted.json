@@ -1,9 +1,9 @@
 {
-  "Turkey": {
-    "id": "CPHPTT01TRM659N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
-    "title": "Consumer Price Index: Harmonized Prices: Total All Items for Turkey",
+  "Slovenia": {
+    "id": "CPHPTT01SIM659N",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
+    "title": "Consumer Price Index: Harmonized Prices: Total All Items for Slovenia",
     "observation_start": "1997-01-01",
     "observation_end": "2022-04-01",
     "frequency": "Monthly",
@@ -12,16 +12,16 @@
     "units_short": "Growth Rate Same Period Previous Yr.",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-06-14 11:11:25-05",
+    "last_updated": "2022-05-12 09:44:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "notes": "OECD descriptor ID: CPHPTT01\nOECD unit ID: GY\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-    "path": "Database/International Data/Countries/Turkey"
+    "notes": "OECD descriptor ID: CPHPTT01\nOECD unit ID: GY\nOECD country ID: SVN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Slovenia"
   },
   "Czech Republic": {
     "id": "CPHPTT01CZM659N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for the Czech Republic",
     "observation_start": "1997-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Estonia": {
     "id": "CPHPTT01EEM661N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Estonia",
     "observation_start": "1996-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Hungary": {
     "id": "CPHPTT01HUM659N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Hungary",
     "observation_start": "1997-01-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Iceland": {
     "id": "CPHPTT01ISM659N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Iceland",
     "observation_start": "1997-01-01",
     "observation_end": "2022-04-01",
@@ -94,10 +94,29 @@
     "notes": "OECD descriptor ID: CPHPTT01\nOECD unit ID: GY\nOECD country ID: ISL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Iceland"
   },
+  "Luxembourg": {
+    "id": "CPHPTT01LUM659N",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
+    "title": "Consumer Price Index: Harmonized Prices: Total All Items for Luxembourg",
+    "observation_start": "1997-01-01",
+    "observation_end": "2022-04-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Growth Rate Same Period Previous Year",
+    "units_short": "Growth Rate Same Period Previous Yr.",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-05-12 09:55:38-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: CPHPTT01\nOECD unit ID: GY\nOECD country ID: LUX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Luxembourg"
+  },
   "Poland": {
     "id": "CPHPTT01PLM659N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Poland",
     "observation_start": "1997-01-01",
     "observation_end": "2022-04-01",
@@ -115,8 +134,8 @@
   },
   "Slovak Republic": {
     "id": "CPHPTT01SKM659N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for the Slovak Republic",
     "observation_start": "1997-01-01",
     "observation_end": "2022-04-01",
@@ -131,24 +150,5 @@
     "group_popularity": 1,
     "notes": "OECD descriptor ID: CPHPTT01\nOECD unit ID: GY\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Slovak Republic"
-  },
-  "Slovenia": {
-    "id": "CPHPTT01SIM659N",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
-    "title": "Consumer Price Index: Harmonized Prices: Total All Items for Slovenia",
-    "observation_start": "1997-01-01",
-    "observation_end": "2022-04-01",
-    "frequency": "Monthly",
-    "frequency_short": "M",
-    "units": "Growth Rate Same Period Previous Year",
-    "units_short": "Growth Rate Same Period Previous Yr.",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-05-12 09:44:43-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "notes": "OECD descriptor ID: CPHPTT01\nOECD unit ID: GY\nOECD country ID: SVN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-    "path": "Database/International Data/Countries/Slovenia"
   }
 }

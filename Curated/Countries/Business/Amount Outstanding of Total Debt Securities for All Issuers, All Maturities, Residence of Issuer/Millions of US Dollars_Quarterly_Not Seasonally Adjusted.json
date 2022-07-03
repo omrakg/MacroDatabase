@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "TDSAMRIAOAISA",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Saudi Arabia",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "TDSAMRIAOAIAR",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Argentina",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "TDSAMRIAOAIHR",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Croatia",
     "observation_start": "1995-10-01",
     "observation_end": "2021-10-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "TDSAMRIAOAICY",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Cyprus",
     "observation_start": "2004-01-01",
     "observation_end": "2021-10-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "TDSAMRIAOAIMT",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Malta",
     "observation_start": "2004-01-01",
     "observation_end": "2021-10-01",

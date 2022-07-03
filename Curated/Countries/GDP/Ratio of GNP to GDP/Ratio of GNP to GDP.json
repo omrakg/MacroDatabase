@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "GNPGDPUAA156NUPN",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Ratio of GNP to GDP for Ukraine",
     "observation_start": "1960-01-01",
     "observation_end": "2010-01-01",
@@ -20,8 +20,8 @@
   },
   "Suriname": {
     "id": "GNPGDPSRA156NUPN",
-    "realtime_start": "2022-06-26",
-    "realtime_end": "2022-06-26",
+    "realtime_start": "2022-07-03",
+    "realtime_end": "2022-07-03",
     "title": "Ratio of GNP to GDP for Suriname",
     "observation_start": "1960-01-01",
     "observation_end": "2010-01-01",
