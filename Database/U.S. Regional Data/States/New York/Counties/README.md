@@ -22,7 +22,7 @@
 | Franklin County, NY     |               146 |
 | Broome County, NY       |               147 |
 | Delaware County, NY     |                90 |
-| Cortland County, NY     |               146 |
+| Cortland County, NY     |                 0 |
 | Essex County, NY        |                90 |
 | Monroe County, NY       |               147 |
 | Chenango County, NY     |                90 |

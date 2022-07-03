@@ -1,12 +1,12 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU13900            | Housing Inventory: Active Listing Count in Bismarck, ND (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM13900          | Housing Inventory: Active Listing Count Month-Over-Month in Bismarck, ND (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY13900          | Housing Inventory: Active Listing Count Year-Over-Year in Bismarck, ND (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU13900            | Housing Inventory: Active Listing Count in Bismarck, ND (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM13900          | Housing Inventory: Active Listing Count Month-Over-Month in Bismarck, ND (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY13900          | Housing Inventory: Active Listing Count Year-Over-Year in Bismarck, ND (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS13900Q            | All-Transactions House Price Index for Bismarck, ND (MSA)                                                     | 1986-07-01          | 2022-01-01        |
-| AVELISPRI13900            | Housing Inventory: Average Listing Price in Bismarck, ND (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM13900          | Housing Inventory: Average Listing Price Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY13900          | Housing Inventory: Average Listing Price Year-Over-Year in Bismarck, ND (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| AVELISPRI13900            | Housing Inventory: Average Listing Price in Bismarck, ND (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM13900          | Housing Inventory: Average Listing Price Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY13900          | Housing Inventory: Average Listing Price Year-Over-Year in Bismarck, ND (CBSA)                                | 2017-07-01          | 2022-06-01        |
 | BISM938EDUH               | All Employees: Education and Health Services in Bismarck, ND (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | BISM938EDUHN              | All Employees: Education and Health Services in Bismarck, ND (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | BISM938FIRE               | All Employees: Financial Activities in Bismarck, ND (MSA)                                                     | 1990-01-01          | 2022-05-01        |
@@ -17,8 +17,8 @@
 | BISM938INFON              | All Employees: Information in Bismarck, ND (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | BISM938LEIH               | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | BISM938LEIHN              | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| BISM938LF                 | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| BISM938LFN                | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| BISM938LF                 | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| BISM938LFN                | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | BISM938MFG                | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | BISM938MFGN               | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | BISM938NA                 | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -32,10 +32,10 @@
 | BISM938SRVON              | All Employees: Other Services in Bismarck, ND (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | BISM938TRAD               | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | BISM938TRADN              | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| BISM938UR                 | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| BISM938URN                | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| BISM938UR                 | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| BISM938URN                | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | BIZPOP                    | Resident Population in Bismarck, ND (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| DESCMSA13900              | Market Hotness: Demand Score in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| DESCMSA13900              | Market Hotness: Demand Score in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC139030010             | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC139030010SA           | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC139040010             | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -48,57 +48,57 @@
 | ENUC139040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC139040510             | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC139040510SA           | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA13900            | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA13900              | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA13900            | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA13900              | Market Hotness: Hotness Score in Bismarck, ND (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA13900            | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA13900              | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA13900            | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA13900              | Market Hotness: Hotness Score in Bismarck, ND (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD13900                 | Implicit Regional Price Deflator for Bismarck, ND (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT381390000000003A     | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT381390000000004      | Unemployed Persons in Bismarck, ND (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT381390000000004      | Unemployed Persons in Bismarck, ND (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT381390000000004A     | Unemployed Persons in Bismarck, ND (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT381390000000005      | Employed Persons in Bismarck, ND (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT381390000000005      | Employed Persons in Bismarck, ND (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT381390000000005A     | Employed Persons in Bismarck, ND (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT381390000000006A     | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA13900          | Market Hotness: Listing Views per Property in Bismarck, ND (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA13900        | Market Hotness: Listing Views per Property Versus the United States in Bismarck, ND (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA13900          | Market Hotness: Listing Views per Property in Bismarck, ND (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA13900        | Market Hotness: Median Days on Market in Bismarck, ND (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA13900          | Market Hotness: Median Days on Market in Bismarck, ND (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA13900        | Market Hotness: Median Days on Market in Bismarck, ND (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR13900          | Housing Inventory: Median Days on Market in Bismarck, ND (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM13900        | Housing Inventory: Median Days on Market Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY13900        | Housing Inventory: Median Days on Market Year-Over-Year in Bismarck, ND (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI13900            | Housing Inventory: Median Listing Price in Bismarck, ND (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM13900          | Housing Inventory: Median Listing Price Month-Over-Month in Bismarck, ND (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE13900   | Housing Inventory: Median Listing Price per Square Feet in Bismarck, ND (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM13900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bismarck, ND (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY13900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bismarck, ND (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY13900          | Housing Inventory: Median Listing Price Year-Over-Year in Bismarck, ND (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA13900          | Market Hotness: Median Days on Market in Bismarck, ND (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA13900          | Market Hotness: Median Days on Market Versus the United States in Bismarck, ND (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA13900          | Market Hotness: Median Days on Market Day in Bismarck, ND (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE13900            | Housing Inventory: Median Home Size in Square Feet in Bismarck, ND (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM13900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bismarck, ND (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY13900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bismarck, ND (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA13900          | Market Hotness: Median Listing Price in Bismarck, ND (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA13900            | Market Hotness: Median Listing Price in Bismarck, ND (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA13900        | Market Hotness: Median Listing Price Versus the United States in Bismarck, ND (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA13900          | Market Hotness: Median Listing Price in Bismarck, ND (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU13900            | Housing Inventory: New Listing Count in Bismarck, ND (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM13900          | Housing Inventory: New Listing Count Month-Over-Month in Bismarck, ND (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY13900          | Housing Inventory: New Listing Count Year-Over-Year in Bismarck, ND (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA13900          | Market Hotness: Listing Views per Property in Bismarck, ND (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA13900        | Market Hotness: Listing Views per Property Versus the United States in Bismarck, ND (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA13900          | Market Hotness: Listing Views per Property in Bismarck, ND (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA13900        | Market Hotness: Median Days on Market in Bismarck, ND (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA13900          | Market Hotness: Median Days on Market in Bismarck, ND (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA13900        | Market Hotness: Median Days on Market in Bismarck, ND (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR13900          | Housing Inventory: Median Days on Market in Bismarck, ND (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM13900        | Housing Inventory: Median Days on Market Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY13900        | Housing Inventory: Median Days on Market Year-Over-Year in Bismarck, ND (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI13900            | Housing Inventory: Median Listing Price in Bismarck, ND (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM13900          | Housing Inventory: Median Listing Price Month-Over-Month in Bismarck, ND (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE13900   | Housing Inventory: Median Listing Price per Square Feet in Bismarck, ND (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM13900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bismarck, ND (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY13900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bismarck, ND (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY13900          | Housing Inventory: Median Listing Price Year-Over-Year in Bismarck, ND (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA13900          | Market Hotness: Median Days on Market in Bismarck, ND (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA13900          | Market Hotness: Median Days on Market Versus the United States in Bismarck, ND (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA13900          | Market Hotness: Median Days on Market Day in Bismarck, ND (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE13900            | Housing Inventory: Median Home Size in Square Feet in Bismarck, ND (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM13900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bismarck, ND (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY13900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bismarck, ND (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA13900          | Market Hotness: Median Listing Price in Bismarck, ND (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA13900            | Market Hotness: Median Listing Price in Bismarck, ND (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA13900        | Market Hotness: Median Listing Price Versus the United States in Bismarck, ND (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA13900          | Market Hotness: Median Listing Price in Bismarck, ND (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU13900            | Housing Inventory: New Listing Count in Bismarck, ND (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM13900          | Housing Inventory: New Listing Count Month-Over-Month in Bismarck, ND (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY13900          | Housing Inventory: New Listing Count Year-Over-Year in Bismarck, ND (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP13900                 | Total Gross Domestic Product for Bismarck, ND (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA13900            | Market Hotness: Nielsen Household Rank in Bismarck, ND (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA13900            | Market Hotness: Nielsen Household Rank in Bismarck, ND (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA113900          | U.S. Granted Utility Patents Originating in Bismarck, ND (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU13900            | Housing Inventory: Pending Listing Count in Bismarck, ND (CBSA)                                               | 2016-08-01          | 2022-05-01        |
-| PENLISCOUMM13900          | Housing Inventory: Pending Listing Count Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY13900          | Housing Inventory: Pending Listing Count Year-Over-Year in Bismarck, ND (CBSA)                                | 2018-05-01          | 2022-05-01        |
-| PRIINCCOU13900            | Housing Inventory: Price Increased Count in Bismarck, ND (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM13900          | Housing Inventory: Price Increased Count Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-08-01          | 2022-05-01        |
+| PENLISCOU13900            | Housing Inventory: Pending Listing Count in Bismarck, ND (CBSA)                                               | 2016-08-01          | 2022-06-01        |
+| PENLISCOUMM13900          | Housing Inventory: Pending Listing Count Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY13900          | Housing Inventory: Pending Listing Count Year-Over-Year in Bismarck, ND (CBSA)                                | 2018-05-01          | 2022-06-01        |
+| PRIINCCOU13900            | Housing Inventory: Price Increased Count in Bismarck, ND (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM13900          | Housing Inventory: Price Increased Count Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-08-01          | 2022-06-01        |
 | PRIINCCOUYY13900          | Housing Inventory: Price Increased Count Year-Over-Year in Bismarck, ND (CBSA)                                | 2017-09-01          | 2022-05-01        |
-| PRIREDCOU13900            | Housing Inventory: Price Reduced Count in Bismarck, ND (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM13900          | Housing Inventory: Price Reduced Count Month-Over-Month in Bismarck, ND (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY13900          | Housing Inventory: Price Reduced Count Year-Over-Year in Bismarck, ND (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PRIREDCOU13900            | Housing Inventory: Price Reduced Count in Bismarck, ND (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM13900          | Housing Inventory: Price Reduced Count Month-Over-Month in Bismarck, ND (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY13900          | Housing Inventory: Price Reduced Count Year-Over-Year in Bismarck, ND (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP13900                 | Total Quantity Indexes for Real GDP for Bismarck, ND (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP13900                 | Total Real Gross Domestic Product for Bismarck, ND (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI13900                  | Real Personal Income for Bismarck, ND (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -164,4 +164,4 @@
 | SMU38139009093000001      | All Employees: Government: Local Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-05-01        |
 | SMU38139009093000001A     | All Employees: Local Government in Bismarck, ND (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU38139009093000001SA    | All Employees: Government: Local Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-05-01        |
-| SUSCMSA13900              | Market Hotness: Supply Score in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA13900              | Market Hotness: Supply Score in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-06-01        |

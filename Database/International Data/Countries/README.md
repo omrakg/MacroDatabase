@@ -31,7 +31,7 @@
 | Congo, Republic of the                               |               233 |
 | Zimbabwe                                             |               288 |
 | Estonia                                              |               849 |
-| Turkey                                               |               887 |
+| Turkey                                               |                 0 |
 | Greenland                                            |                82 |
 | Eritrea                                              |               134 |
 | Uganda                                               |               284 |
@@ -94,7 +94,7 @@
 | Croatia                                              |               425 |
 | Aland Islands                                        |                 0 |
 | Pakistan                                             |               309 |
-| Seychelles                                           |               230 |
+| Seychelles                                           |                 0 |
 | Ecuador                                              |               271 |
 | Belgium                                              |                 0 |
 | Panama                                               |               225 |
@@ -123,7 +123,7 @@
 | Kyrgyz Republic                                      |               210 |
 | Yemen, Republic of                                   |               201 |
 | Dominica                                             |               173 |
-| Luxembourg                                           |                 0 |
+| Luxembourg                                           |               832 |
 | Rwanda                                               |               300 |
 | Syrian Arab Republic                                 |               205 |
 | Great Britain                                        |                61 |
@@ -214,7 +214,7 @@
 | Venezuela, Bolivarian Republic of                    |               257 |
 | Solomon Islands                                      |               167 |
 | Bulgaria                                             |               420 |
-| Samoa                                                |               279 |
+| Samoa                                                |                 0 |
 | Slovak Republic                                      |               761 |
 | Northern Mariana Islands                             |                 6 |
 | Israel                                               |               862 |
@@ -224,7 +224,7 @@
 | Costa Rica                                           |               578 |
 | Nepal                                                |               223 |
 | Ukraine                                              |               357 |
-| Kenya                                                |                 0 |
+| Kenya                                                |               268 |
 | Singapore                                            |                 0 |
 | Macedonia, Former Yugoslav Republic of               |               240 |
 | Azerbaijan                                           |               230 |

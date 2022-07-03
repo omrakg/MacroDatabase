@@ -8,14 +8,14 @@
 | Colusa County, CA               |                90 |
 | Plumas County, CA               |                89 |
 | Lake County, CA                 |               147 |
-| Fresno County, CA               |                 0 |
+| Fresno County, CA               |               147 |
 | San Joaquin County, CA          |               146 |
 | Modoc County, CA                |                90 |
 | Tulare County, CA               |               147 |
 | Ventura County, CA              |               147 |
 | San Diego County, CA            |               146 |
 | Lassen County, CA               |                90 |
-| Marin County, CA                |               147 |
+| Marin County, CA                |                 0 |
 | Santa Clara County, CA          |               147 |
 | San Mateo County, CA            |               147 |
 | Sacramento County, CA           |               147 |

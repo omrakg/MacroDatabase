@@ -4,7 +4,7 @@
 | Santa Fe County, NM   |               147 |
 | Cibola County, NM     |                89 |
 | Torrance County, NM   |                89 |
-| Eddy County, NM       |                 0 |
+| Eddy County, NM       |               146 |
 | Roosevelt County, NM  |                89 |
 | Sierra County, NM     |                90 |
 | Valencia County, NM   |               147 |

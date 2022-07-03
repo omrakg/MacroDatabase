@@ -32,14 +32,14 @@
 | Jefferson Davis Parish, LA      |                90 |
 | Lafayette Parish, LA            |               147 |
 | Claiborne Parish, LA            |                90 |
-| Plaquemines Parish, LA          |                89 |
+| Plaquemines Parish, LA          |                 0 |
 | Webster Parish, LA              |                90 |
 | St. Charles Parish, LA          |               145 |
 | East Baton Rouge Parish, LA     |               148 |
 | St. Bernard Parish, LA          |                90 |
 | Allen Parish, LA                |                90 |
 | Concordia Parish, LA            |                90 |
-| Union Parish, LA                |                 0 |
+| Union Parish, LA                |                90 |
 | Beauregard Parish, LA           |                89 |
 | Franklin Parish, LA             |                89 |
 | LaFourche Parish, LA            |               147 |

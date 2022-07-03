@@ -13,7 +13,7 @@
 | Stoddard County, MO       |                90 |
 | Grundy County, MO         |                89 |
 | Hickory County, MO        |                88 |
-| Pike County, MO           |                 0 |
+| Pike County, MO           |                90 |
 | Harrison County, MO       |                88 |
 | Greene County, MO         |               146 |
 | Shannon County, MO        |                89 |
@@ -46,7 +46,7 @@
 | Mississippi County, MO    |                90 |
 | Clark County, MO          |                89 |
 | Gasconade County, MO      |                89 |
-| Pemiscot County, MO       |                89 |
+| Pemiscot County, MO       |                 0 |
 | Ripley County, MO         |                90 |
 | Boone County, MO          |               147 |
 | Shelby County, MO         |                89 |
@@ -73,7 +73,7 @@
 | McDonald County, MO       |                89 |
 | Monroe County, MO         |                90 |
 | St. Francois County, MO   |               146 |
-| Warren County, MO         |                 0 |
+| Warren County, MO         |                90 |
 | Johnson County, MO        |               145 |
 | Andrew County, MO         |                90 |
 | Holt County, MO           |                88 |
@@ -106,7 +106,7 @@
 | Barton County, MO         |                90 |
 | Lewis County, MO          |                89 |
 | Cedar County, MO          |                88 |
-| Adair County, MO          |                89 |
+| Adair County, MO          |                 0 |
 | Carroll County, MO        |                88 |
 | Laclede County, MO        |                90 |
 | Webster County, MO        |                90 |

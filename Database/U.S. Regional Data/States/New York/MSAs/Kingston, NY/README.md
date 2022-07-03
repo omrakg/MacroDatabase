@@ -1,13 +1,13 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU28740            | Housing Inventory: Active Listing Count in Kingston, NY (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM28740          | Housing Inventory: Active Listing Count Month-Over-Month in Kingston, NY (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY28740          | Housing Inventory: Active Listing Count Year-Over-Year in Kingston, NY (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU28740            | Housing Inventory: Active Listing Count in Kingston, NY (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM28740          | Housing Inventory: Active Listing Count Month-Over-Month in Kingston, NY (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY28740          | Housing Inventory: Active Listing Count Year-Over-Year in Kingston, NY (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS28740Q            | All-Transactions House Price Index for Kingston, NY (MSA)                                                     | 1986-04-01          | 2022-01-01        |
-| AVELISPRI28740            | Housing Inventory: Average Listing Price in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM28740          | Housing Inventory: Average Listing Price Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY28740          | Housing Inventory: Average Listing Price Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| DESCMSA28740              | Market Hotness: Demand Score in Kingston, NY (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| AVELISPRI28740            | Housing Inventory: Average Listing Price in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM28740          | Housing Inventory: Average Listing Price Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY28740          | Housing Inventory: Average Listing Price Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| DESCMSA28740              | Market Hotness: Demand Score in Kingston, NY (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC287430010             | Total Quarterly Wages in Kingston, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC287430010SA           | Total Quarterly Wages in Kingston, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC287440010             | Average Weekly Wages for Employees in Total Covered Establishments in Kingston, NY (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC287440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC287440510             | Average Weekly Wages for Employees in Private Establishments in Kingston, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC287440510SA           | Average Weekly Wages for Employees in Private Establishments in Kingston, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA28740            | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA28740              | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA28740            | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA28740              | Market Hotness: Hotness Score in Kingston, NY (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA28740            | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA28740              | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA28740            | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA28740              | Market Hotness: Hotness Score in Kingston, NY (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD28740                 | Implicit Regional Price Deflator for Kingston, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | KGNPOP                    | Resident Population in Kingston, NY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | KING736EDUH               | All Employees: Education and Health Services in Kingston, NY (MSA)                                            | 1990-01-01          | 2022-05-01        |
@@ -36,8 +36,8 @@
 | KING736INFON              | All Employees: Information in Kingston, NY (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | KING736LEIH               | All Employees: Leisure and Hospitality in Kingston, NY (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | KING736LEIHN              | All Employees: Leisure and Hospitality in Kingston, NY (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| KING736LF                 | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| KING736LFN                | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| KING736LF                 | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| KING736LFN                | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | KING736MFG                | All Employees: Manufacturing in Kingston, NY (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | KING736MFGN               | All Employees: Manufacturing in Kingston, NY (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | KING736NA                 | All Employees: Total Nonfarm in Kingston, NY (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -51,54 +51,54 @@
 | KING736SRVON              | All Employees: Other Services in Kingston, NY (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | KING736TRAD               | All Employees: Trade, Transportation, and Utilities in Kingston, NY (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | KING736TRADN              | All Employees: Trade, Transportation, and Utilities in Kingston, NY (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| KING736UR                 | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| KING736URN                | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| KING736UR                 | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| KING736URN                | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | LAUMT362874000000003A     | Unemployment Rate in Kingston, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT362874000000004      | Unemployed Persons in Kingston, NY (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT362874000000004      | Unemployed Persons in Kingston, NY (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT362874000000004A     | Unemployed Persons in Kingston, NY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT362874000000005      | Employed Persons in Kingston, NY (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT362874000000005      | Employed Persons in Kingston, NY (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT362874000000005A     | Employed Persons in Kingston, NY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT362874000000006A     | Civilian Labor Force in Kingston, NY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA28740          | Market Hotness: Listing Views per Property in Kingston, NY (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA28740        | Market Hotness: Listing Views per Property Versus the United States in Kingston, NY (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA28740          | Market Hotness: Listing Views per Property in Kingston, NY (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA28740        | Market Hotness: Median Days on Market in Kingston, NY (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA28740          | Market Hotness: Median Days on Market in Kingston, NY (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA28740        | Market Hotness: Median Days on Market in Kingston, NY (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR28740          | Housing Inventory: Median Days on Market in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM28740        | Housing Inventory: Median Days on Market Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY28740        | Housing Inventory: Median Days on Market Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI28740            | Housing Inventory: Median Listing Price in Kingston, NY (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM28740          | Housing Inventory: Median Listing Price Month-Over-Month in Kingston, NY (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE28740   | Housing Inventory: Median Listing Price per Square Feet in Kingston, NY (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM28740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Kingston, NY (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY28740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Kingston, NY (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY28740          | Housing Inventory: Median Listing Price Year-Over-Year in Kingston, NY (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA28740          | Market Hotness: Median Days on Market in Kingston, NY (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA28740          | Market Hotness: Median Days on Market Versus the United States in Kingston, NY (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA28740          | Market Hotness: Median Days on Market Day in Kingston, NY (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE28740            | Housing Inventory: Median Home Size in Square Feet in Kingston, NY (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM28740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Kingston, NY (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY28740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Kingston, NY (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA28740          | Market Hotness: Median Listing Price in Kingston, NY (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA28740            | Market Hotness: Median Listing Price in Kingston, NY (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA28740        | Market Hotness: Median Listing Price Versus the United States in Kingston, NY (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA28740          | Market Hotness: Median Listing Price in Kingston, NY (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU28740            | Housing Inventory: New Listing Count in Kingston, NY (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM28740          | Housing Inventory: New Listing Count Month-Over-Month in Kingston, NY (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY28740          | Housing Inventory: New Listing Count Year-Over-Year in Kingston, NY (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA28740          | Market Hotness: Listing Views per Property in Kingston, NY (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA28740        | Market Hotness: Listing Views per Property Versus the United States in Kingston, NY (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA28740          | Market Hotness: Listing Views per Property in Kingston, NY (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA28740        | Market Hotness: Median Days on Market in Kingston, NY (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA28740          | Market Hotness: Median Days on Market in Kingston, NY (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA28740        | Market Hotness: Median Days on Market in Kingston, NY (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR28740          | Housing Inventory: Median Days on Market in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM28740        | Housing Inventory: Median Days on Market Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY28740        | Housing Inventory: Median Days on Market Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI28740            | Housing Inventory: Median Listing Price in Kingston, NY (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM28740          | Housing Inventory: Median Listing Price Month-Over-Month in Kingston, NY (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE28740   | Housing Inventory: Median Listing Price per Square Feet in Kingston, NY (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM28740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Kingston, NY (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY28740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Kingston, NY (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY28740          | Housing Inventory: Median Listing Price Year-Over-Year in Kingston, NY (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA28740          | Market Hotness: Median Days on Market in Kingston, NY (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA28740          | Market Hotness: Median Days on Market Versus the United States in Kingston, NY (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA28740          | Market Hotness: Median Days on Market Day in Kingston, NY (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE28740            | Housing Inventory: Median Home Size in Square Feet in Kingston, NY (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM28740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Kingston, NY (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY28740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Kingston, NY (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA28740          | Market Hotness: Median Listing Price in Kingston, NY (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA28740            | Market Hotness: Median Listing Price in Kingston, NY (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA28740        | Market Hotness: Median Listing Price Versus the United States in Kingston, NY (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA28740          | Market Hotness: Median Listing Price in Kingston, NY (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU28740            | Housing Inventory: New Listing Count in Kingston, NY (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM28740          | Housing Inventory: New Listing Count Month-Over-Month in Kingston, NY (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY28740          | Housing Inventory: New Listing Count Year-Over-Year in Kingston, NY (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP28740                 | Total Gross Domestic Product for Kingston, NY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA28740            | Market Hotness: Nielsen Household Rank in Kingston, NY (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA28740            | Market Hotness: Nielsen Household Rank in Kingston, NY (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA128740          | U.S. Granted Utility Patents Originating in Kingston, NY (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU28740            | Housing Inventory: Pending Listing Count in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM28740          | Housing Inventory: Pending Listing Count Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY28740          | Housing Inventory: Pending Listing Count Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU28740            | Housing Inventory: Price Increased Count in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM28740          | Housing Inventory: Price Increased Count Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY28740          | Housing Inventory: Price Increased Count Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU28740            | Housing Inventory: Price Reduced Count in Kingston, NY (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM28740          | Housing Inventory: Price Reduced Count Month-Over-Month in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY28740          | Housing Inventory: Price Reduced Count Year-Over-Year in Kingston, NY (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PENLISCOU28740            | Housing Inventory: Pending Listing Count in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM28740          | Housing Inventory: Pending Listing Count Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY28740          | Housing Inventory: Pending Listing Count Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU28740            | Housing Inventory: Price Increased Count in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM28740          | Housing Inventory: Price Increased Count Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY28740          | Housing Inventory: Price Increased Count Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU28740            | Housing Inventory: Price Reduced Count in Kingston, NY (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM28740          | Housing Inventory: Price Reduced Count Month-Over-Month in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY28740          | Housing Inventory: Price Reduced Count Year-Over-Year in Kingston, NY (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP28740                 | Total Quantity Indexes for Real GDP for Kingston, NY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP28740                 | Total Real Gross Domestic Product for Kingston, NY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI28740                  | Real Personal Income for Kingston, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -158,4 +158,4 @@
 | SMU36287409093161101      | All Employees: Government: Local Government Educational Services in Kingston, NY (MSA)                        | 1990-01-01          | 2022-05-01        |
 | SMU36287409093161101A     | All Employees: Local Government Educational Services in Kingston, NY (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU36287409093161101SA    | All Employees: Government: Local Government Educational Services in Kingston, NY (MSA)                        | 1990-01-01          | 2022-05-01        |
-| SUSCMSA28740              | Market Hotness: Supply Score in Kingston, NY (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA28740              | Market Hotness: Supply Score in Kingston, NY (CBSA)                                                           | 2017-08-01          | 2022-06-01        |

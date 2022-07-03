@@ -1,12 +1,12 @@
 | id                        | title                                                                                            | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU24140            | Housing Inventory: Active Listing Count in Goldsboro, NC (CBSA)                                  | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM24140          | Housing Inventory: Active Listing Count Month-Over-Month in Goldsboro, NC (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY24140          | Housing Inventory: Active Listing Count Year-Over-Year in Goldsboro, NC (CBSA)                   | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU24140            | Housing Inventory: Active Listing Count in Goldsboro, NC (CBSA)                                  | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM24140          | Housing Inventory: Active Listing Count Month-Over-Month in Goldsboro, NC (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY24140          | Housing Inventory: Active Listing Count Year-Over-Year in Goldsboro, NC (CBSA)                   | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS24140Q            | All-Transactions House Price Index for Goldsboro, NC (MSA)                                       | 1990-04-01          | 2022-01-01        |
-| AVELISPRI24140            | Housing Inventory: Average Listing Price in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM24140          | Housing Inventory: Average Listing Price Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY24140          | Housing Inventory: Average Listing Price Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-05-01        |
+| AVELISPRI24140            | Housing Inventory: Average Listing Price in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM24140          | Housing Inventory: Average Listing Price Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY24140          | Housing Inventory: Average Listing Price Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-06-01        |
 | ENUC241430010             | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC241430010SA           | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC241440010             | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -21,47 +21,47 @@
 | ENUC241440510SA           | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2021-10-01        |
 | GOLD137GOVT               | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-05-01        |
 | GOLD137GOVTN              | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-05-01        |
-| GOLD137LF                 | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-04-01        |
-| GOLD137LFN                | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-04-01        |
+| GOLD137LF                 | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| GOLD137LFN                | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-05-01        |
 | GOLD137NA                 | All Employees: Total Nonfarm in Goldsboro, NC (MSA)                                              | 1990-01-01          | 2022-05-01        |
 | GOLD137NAN                | All Employees: Total Nonfarm in Goldsboro, NC (MSA)                                              | 1990-01-01          | 2022-05-01        |
 | GOLD137PCPI               | Per Capita Personal Income in Goldsboro, NC (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| GOLD137UR                 | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-04-01        |
-| GOLD137URN                | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-04-01        |
+| GOLD137UR                 | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| GOLD137URN                | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-05-01        |
 | GROPOP                    | Resident Population in Goldsboro, NC (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | IRPD24140                 | Implicit Regional Price Deflator for Goldsboro, NC (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT372414000000003A     | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT372414000000004      | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT372414000000004      | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT372414000000004A     | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT372414000000005      | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2022-04-01        |
+| LAUMT372414000000005      | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2022-05-01        |
 | LAUMT372414000000005A     | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT372414000000006A     | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR24140          | Housing Inventory: Median Days on Market in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM24140        | Housing Inventory: Median Days on Market Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY24140        | Housing Inventory: Median Days on Market Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI24140            | Housing Inventory: Median Listing Price in Goldsboro, NC (CBSA)                                  | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM24140          | Housing Inventory: Median Listing Price Month-Over-Month in Goldsboro, NC (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE24140   | Housing Inventory: Median Listing Price per Square Feet in Goldsboro, NC (CBSA)                  | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM24140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Goldsboro, NC (CBSA) | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY24140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Goldsboro, NC (CBSA)   | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY24140          | Housing Inventory: Median Listing Price Year-Over-Year in Goldsboro, NC (CBSA)                   | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEE24140            | Housing Inventory: Median Home Size in Square Feet in Goldsboro, NC (CBSA)                       | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM24140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Goldsboro, NC (CBSA)      | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY24140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Goldsboro, NC (CBSA)        | 2017-07-01          | 2022-05-01        |
-| NEWLISCOU24140            | Housing Inventory: New Listing Count in Goldsboro, NC (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM24140          | Housing Inventory: New Listing Count Month-Over-Month in Goldsboro, NC (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY24140          | Housing Inventory: New Listing Count Year-Over-Year in Goldsboro, NC (CBSA)                      | 2017-07-01          | 2022-05-01        |
+| MEDDAYONMAR24140          | Housing Inventory: Median Days on Market in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM24140        | Housing Inventory: Median Days on Market Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY24140        | Housing Inventory: Median Days on Market Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI24140            | Housing Inventory: Median Listing Price in Goldsboro, NC (CBSA)                                  | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM24140          | Housing Inventory: Median Listing Price Month-Over-Month in Goldsboro, NC (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE24140   | Housing Inventory: Median Listing Price per Square Feet in Goldsboro, NC (CBSA)                  | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM24140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Goldsboro, NC (CBSA) | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY24140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Goldsboro, NC (CBSA)   | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY24140          | Housing Inventory: Median Listing Price Year-Over-Year in Goldsboro, NC (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEE24140            | Housing Inventory: Median Home Size in Square Feet in Goldsboro, NC (CBSA)                       | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM24140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Goldsboro, NC (CBSA)      | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY24140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Goldsboro, NC (CBSA)        | 2017-07-01          | 2022-06-01        |
+| NEWLISCOU24140            | Housing Inventory: New Listing Count in Goldsboro, NC (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM24140          | Housing Inventory: New Listing Count Month-Over-Month in Goldsboro, NC (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY24140          | Housing Inventory: New Listing Count Year-Over-Year in Goldsboro, NC (CBSA)                      | 2017-07-01          | 2022-06-01        |
 | NGMP24140                 | Total Gross Domestic Product for Goldsboro, NC (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA124140          | U.S. Granted Utility Patents Originating in Goldsboro, NC (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU24140            | Housing Inventory: Pending Listing Count in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM24140          | Housing Inventory: Pending Listing Count Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY24140          | Housing Inventory: Pending Listing Count Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU24140            | Housing Inventory: Price Increased Count in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM24140          | Housing Inventory: Price Increased Count Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY24140          | Housing Inventory: Price Increased Count Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-04-01        |
-| PRIREDCOU24140            | Housing Inventory: Price Reduced Count in Goldsboro, NC (CBSA)                                   | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM24140          | Housing Inventory: Price Reduced Count Month-Over-Month in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY24140          | Housing Inventory: Price Reduced Count Year-Over-Year in Goldsboro, NC (CBSA)                    | 2017-07-01          | 2022-05-01        |
+| PENLISCOU24140            | Housing Inventory: Pending Listing Count in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM24140          | Housing Inventory: Pending Listing Count Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY24140          | Housing Inventory: Pending Listing Count Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU24140            | Housing Inventory: Price Increased Count in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM24140          | Housing Inventory: Price Increased Count Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY24140          | Housing Inventory: Price Increased Count Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU24140            | Housing Inventory: Price Reduced Count in Goldsboro, NC (CBSA)                                   | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM24140          | Housing Inventory: Price Reduced Count Month-Over-Month in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY24140          | Housing Inventory: Price Reduced Count Year-Over-Year in Goldsboro, NC (CBSA)                    | 2017-07-01          | 2022-06-01        |
 | QGMP24140                 | Total Quantity Indexes for Real GDP for Goldsboro, NC (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP24140                 | Total Real Gross Domestic Product for Goldsboro, NC (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI24140                  | Real Personal Income for Goldsboro, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |

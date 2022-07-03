@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                     | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU42680            | Housing Inventory: Active Listing Count in Sebastian-Vero Beach, FL (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM42680          | Housing Inventory: Active Listing Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY42680          | Housing Inventory: Active Listing Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU42680            | Housing Inventory: Active Listing Count in Sebastian-Vero Beach, FL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM42680          | Housing Inventory: Active Listing Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY42680          | Housing Inventory: Active Listing Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS42680Q            | All-Transactions House Price Index for Sebastian-Vero Beach, FL (MSA)                                                     | 1983-04-01          | 2022-01-01        |
-| AVELISPRI42680            | Housing Inventory: Average Listing Price in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM42680          | Housing Inventory: Average Listing Price Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY42680          | Housing Inventory: Average Listing Price Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| DESCMSA42680              | Market Hotness: Demand Score in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| AVELISPRI42680            | Housing Inventory: Average Listing Price in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM42680          | Housing Inventory: Average Listing Price Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY42680          | Housing Inventory: Average Listing Price Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| DESCMSA42680              | Market Hotness: Demand Score in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC426830010             | Total Quarterly Wages in Sebastian-Vero Beach, FL (MSA)                                                                   | 2013-01-01          | 2021-10-01        |
 | ENUC426830010SA           | Total Quarterly Wages in Sebastian-Vero Beach, FL (MSA)                                                                   | 2013-01-01          | 2021-10-01        |
 | ENUC426840010             | Average Weekly Wages for Employees in Total Covered Establishments in Sebastian-Vero Beach, FL (MSA)                      | 2013-01-01          | 2021-10-01        |
@@ -20,57 +20,57 @@
 | ENUC426840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2021-10-01        |
 | ENUC426840510             | Average Weekly Wages for Employees in Private Establishments in Sebastian-Vero Beach, FL (MSA)                            | 2013-01-01          | 2021-10-01        |
 | ENUC426840510SA           | Average Weekly Wages for Employees in Private Establishments in Sebastian-Vero Beach, FL (MSA)                            | 2013-01-01          | 2021-10-01        |
-| HORAMMMSA42680            | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA42680              | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA42680            | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA42680              | Market Hotness: Hotness Score in Sebastian-Vero Beach, FL (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA42680            | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA42680              | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA42680            | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA42680              | Market Hotness: Hotness Score in Sebastian-Vero Beach, FL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD42680                 | Implicit Regional Price Deflator for Sebastian-Vero Beach, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT124268000000003A     | Unemployment Rate in Sebastian-Vero Beach, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT124268000000004      | Unemployed Persons in Sebastian-Vero Beach, FL (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT124268000000004      | Unemployed Persons in Sebastian-Vero Beach, FL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT124268000000004A     | Unemployed Persons in Sebastian-Vero Beach, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT124268000000005      | Employed Persons in Sebastian-Vero Beach, FL (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT124268000000005      | Employed Persons in Sebastian-Vero Beach, FL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT124268000000005A     | Employed Persons in Sebastian-Vero Beach, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT124268000000006A     | Civilian Labor Force in Sebastian-Vero Beach, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA42680          | Market Hotness: Listing Views per Property in Sebastian-Vero Beach, FL (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA42680        | Market Hotness: Listing Views per Property Versus the United States in Sebastian-Vero Beach, FL (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA42680          | Market Hotness: Listing Views per Property in Sebastian-Vero Beach, FL (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA42680        | Market Hotness: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA42680          | Market Hotness: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA42680        | Market Hotness: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR42680          | Housing Inventory: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM42680        | Housing Inventory: Median Days on Market Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY42680        | Housing Inventory: Median Days on Market Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI42680            | Housing Inventory: Median Listing Price in Sebastian-Vero Beach, FL (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM42680          | Housing Inventory: Median Listing Price Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE42680   | Housing Inventory: Median Listing Price per Square Feet in Sebastian-Vero Beach, FL (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM42680 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY42680 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY42680          | Housing Inventory: Median Listing Price Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA42680          | Market Hotness: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA42680          | Market Hotness: Median Days on Market Versus the United States in Sebastian-Vero Beach, FL (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA42680          | Market Hotness: Median Days on Market Day in Sebastian-Vero Beach, FL (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE42680            | Housing Inventory: Median Home Size in Square Feet in Sebastian-Vero Beach, FL (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM42680          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY42680          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA42680          | Market Hotness: Median Listing Price in Sebastian-Vero Beach, FL (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA42680            | Market Hotness: Median Listing Price in Sebastian-Vero Beach, FL (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA42680        | Market Hotness: Median Listing Price Versus the United States in Sebastian-Vero Beach, FL (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA42680          | Market Hotness: Median Listing Price in Sebastian-Vero Beach, FL (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU42680            | Housing Inventory: New Listing Count in Sebastian-Vero Beach, FL (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM42680          | Housing Inventory: New Listing Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY42680          | Housing Inventory: New Listing Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA42680          | Market Hotness: Listing Views per Property in Sebastian-Vero Beach, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA42680        | Market Hotness: Listing Views per Property Versus the United States in Sebastian-Vero Beach, FL (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA42680          | Market Hotness: Listing Views per Property in Sebastian-Vero Beach, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA42680        | Market Hotness: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA42680          | Market Hotness: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA42680        | Market Hotness: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR42680          | Housing Inventory: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM42680        | Housing Inventory: Median Days on Market Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY42680        | Housing Inventory: Median Days on Market Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI42680            | Housing Inventory: Median Listing Price in Sebastian-Vero Beach, FL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM42680          | Housing Inventory: Median Listing Price Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE42680   | Housing Inventory: Median Listing Price per Square Feet in Sebastian-Vero Beach, FL (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM42680 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY42680 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY42680          | Housing Inventory: Median Listing Price Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA42680          | Market Hotness: Median Days on Market in Sebastian-Vero Beach, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA42680          | Market Hotness: Median Days on Market Versus the United States in Sebastian-Vero Beach, FL (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA42680          | Market Hotness: Median Days on Market Day in Sebastian-Vero Beach, FL (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE42680            | Housing Inventory: Median Home Size in Square Feet in Sebastian-Vero Beach, FL (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM42680          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY42680          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA42680          | Market Hotness: Median Listing Price in Sebastian-Vero Beach, FL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA42680            | Market Hotness: Median Listing Price in Sebastian-Vero Beach, FL (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA42680        | Market Hotness: Median Listing Price Versus the United States in Sebastian-Vero Beach, FL (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA42680          | Market Hotness: Median Listing Price in Sebastian-Vero Beach, FL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU42680            | Housing Inventory: New Listing Count in Sebastian-Vero Beach, FL (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM42680          | Housing Inventory: New Listing Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY42680          | Housing Inventory: New Listing Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP42680                 | Total Gross Domestic Product for Sebastian-Vero Beach, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA42680            | Market Hotness: Nielsen Household Rank in Sebastian-Vero Beach, FL (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA42680            | Market Hotness: Nielsen Household Rank in Sebastian-Vero Beach, FL (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA142680          | U.S. Granted Utility Patents Originating in Sebastian-Vero Beach, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU42680            | Housing Inventory: Pending Listing Count in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM42680          | Housing Inventory: Pending Listing Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY42680          | Housing Inventory: Pending Listing Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU42680            | Housing Inventory: Price Increased Count in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM42680          | Housing Inventory: Price Increased Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY42680          | Housing Inventory: Price Increased Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU42680            | Housing Inventory: Price Reduced Count in Sebastian-Vero Beach, FL (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM42680          | Housing Inventory: Price Reduced Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY42680          | Housing Inventory: Price Reduced Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PENLISCOU42680            | Housing Inventory: Pending Listing Count in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM42680          | Housing Inventory: Pending Listing Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY42680          | Housing Inventory: Pending Listing Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU42680            | Housing Inventory: Price Increased Count in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM42680          | Housing Inventory: Price Increased Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY42680          | Housing Inventory: Price Increased Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU42680            | Housing Inventory: Price Reduced Count in Sebastian-Vero Beach, FL (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM42680          | Housing Inventory: Price Reduced Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY42680          | Housing Inventory: Price Reduced Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP42680                 | Total Quantity Indexes for Real GDP for Sebastian-Vero Beach, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP42680                 | Total Real Gross Domestic Product for Sebastian-Vero Beach, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI42680                  | Real Personal Income for Sebastian-Vero Beach, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -93,8 +93,8 @@
 | SEBA612INFON              | All Employees: Information in Sebastian-Vero Beach, FL (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | SEBA612LEIH               | All Employees: Leisure and Hospitality in Sebastian-Vero Beach, FL (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | SEBA612LEIHN              | All Employees: Leisure and Hospitality in Sebastian-Vero Beach, FL (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| SEBA612LF                 | Civilian Labor Force in Sebastian-Vero Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| SEBA612LFN                | Civilian Labor Force in Sebastian-Vero Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| SEBA612LF                 | Civilian Labor Force in Sebastian-Vero Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| SEBA612LFN                | Civilian Labor Force in Sebastian-Vero Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | SEBA612MFG                | All Employees: Manufacturing in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | SEBA612MFGN               | All Employees: Manufacturing in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | SEBA612NA                 | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -108,8 +108,8 @@
 | SEBA612SRVON              | All Employees: Other Services in Sebastian-Vero Beach, FL (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | SEBA612TRAD               | All Employees: Trade, Transportation, and Utilities in Sebastian-Vero Beach, FL (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | SEBA612TRADN              | All Employees: Trade, Transportation, and Utilities in Sebastian-Vero Beach, FL (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| SEBA612UR                 | Unemployment Rate in Sebastian-Vero Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| SEBA612URN                | Unemployment Rate in Sebastian-Vero Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| SEBA612UR                 | Unemployment Rate in Sebastian-Vero Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| SEBA612URN                | Unemployment Rate in Sebastian-Vero Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | SMS12426800000000026      | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-04-01          | 2022-05-01        |
 | SMU12426800000000001A     | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU12426800500000001      | All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -157,5 +157,5 @@
 | SMU12426809093000001      | All Employees: Government: Local Government in Sebastian-Vero Beach, FL (MSA)                                             | 1990-01-01          | 2022-05-01        |
 | SMU12426809093000001A     | All Employees: Local Government in Sebastian-Vero Beach, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU12426809093000001SA    | All Employees: Government: Local Government in Sebastian-Vero Beach, FL (MSA)                                             | 1990-01-01          | 2022-05-01        |
-| SUSCMSA42680              | Market Hotness: Supply Score in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA42680              | Market Hotness: Supply Score in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | SVBPOP                    | Resident Population in Sebastian-Vero Beach, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

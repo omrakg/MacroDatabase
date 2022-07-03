@@ -1,12 +1,12 @@
 | id                        | title                                                                                                 | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU16180            | Housing Inventory: Active Listing Count in Carson City, NV (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM16180          | Housing Inventory: Active Listing Count Month-Over-Month in Carson City, NV (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY16180          | Housing Inventory: Active Listing Count Year-Over-Year in Carson City, NV (CBSA)                      | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU16180            | Housing Inventory: Active Listing Count in Carson City, NV (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM16180          | Housing Inventory: Active Listing Count Month-Over-Month in Carson City, NV (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY16180          | Housing Inventory: Active Listing Count Year-Over-Year in Carson City, NV (CBSA)                      | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS16180Q            | All-Transactions House Price Index for Carson City, NV (MSA)                                          | 1987-07-01          | 2022-01-01        |
-| AVELISPRI16180            | Housing Inventory: Average Listing Price in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM16180          | Housing Inventory: Average Listing Price Month-Over-Month in Carson City, NV (CBSA)                   | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY16180          | Housing Inventory: Average Listing Price Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-05-01        |
+| AVELISPRI16180            | Housing Inventory: Average Listing Price in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM16180          | Housing Inventory: Average Listing Price Month-Over-Month in Carson City, NV (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY16180          | Housing Inventory: Average Listing Price Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-06-01        |
 | CARPOP                    | Resident Population in Carson City, NV (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | CARS132BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Carson City, NV (MSA) | 2004-01-01          | 2022-05-01        |
 | CARS132BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Carson City, NV (MSA) | 2004-01-01          | 2022-05-01        |
@@ -16,8 +16,8 @@
 | CARS132GOVTN              | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2022-05-01        |
 | CARS132LEIH               | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-05-01        |
 | CARS132LEIHN              | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-05-01        |
-| CARS132LF                 | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-04-01        |
-| CARS132LFN                | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-04-01        |
+| CARS132LF                 | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| CARS132LFN                | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-05-01        |
 | CARS132MFG                | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-05-01        |
 | CARS132MFGN               | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-05-01        |
 | CARS132NA                 | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-05-01        |
@@ -27,8 +27,8 @@
 | CARS132PCPI               | Per Capita Personal Income in Carson City, NV (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | CARS132TRAD               | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-05-01        |
 | CARS132TRADN              | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-05-01        |
-| CARS132UR                 | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-04-01        |
-| CARS132URN                | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-04-01        |
+| CARS132UR                 | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-05-01        |
+| CARS132URN                | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | ENUC161830010             | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC161830010SA           | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC161840010             | Average Weekly Wages for Employees in Total Covered Establishments in Carson City, NV (MSA)           | 1990-01-01          | 2021-10-01        |
@@ -43,37 +43,37 @@
 | ENUC161840510SA           | Average Weekly Wages for Employees in Private Establishments in Carson City, NV (MSA)                 | 1990-01-01          | 2021-10-01        |
 | IRPD16180                 | Implicit Regional Price Deflator for Carson City, NV (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT321618000000003A     | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LAUMT321618000000004      | Unemployed Persons in Carson City, NV (MSA)                                                           | 1990-01-01          | 2022-04-01        |
+| LAUMT321618000000004      | Unemployed Persons in Carson City, NV (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | LAUMT321618000000004A     | Unemployed Persons in Carson City, NV (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT321618000000005      | Employed Persons in Carson City, NV (MSA)                                                             | 1990-01-01          | 2022-04-01        |
+| LAUMT321618000000005      | Employed Persons in Carson City, NV (MSA)                                                             | 1990-01-01          | 2022-05-01        |
 | LAUMT321618000000005A     | Employed Persons in Carson City, NV (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT321618000000006A     | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR16180          | Housing Inventory: Median Days on Market in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM16180        | Housing Inventory: Median Days on Market Month-Over-Month in Carson City, NV (CBSA)                   | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY16180        | Housing Inventory: Median Days on Market Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI16180            | Housing Inventory: Median Listing Price in Carson City, NV (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM16180          | Housing Inventory: Median Listing Price Month-Over-Month in Carson City, NV (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE16180   | Housing Inventory: Median Listing Price per Square Feet in Carson City, NV (CBSA)                     | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM16180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Carson City, NV (CBSA)    | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY16180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Carson City, NV (CBSA)      | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY16180          | Housing Inventory: Median Listing Price Year-Over-Year in Carson City, NV (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEE16180            | Housing Inventory: Median Home Size in Square Feet in Carson City, NV (CBSA)                          | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM16180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Carson City, NV (CBSA)         | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY16180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Carson City, NV (CBSA)           | 2017-07-01          | 2022-05-01        |
-| NEWLISCOU16180            | Housing Inventory: New Listing Count in Carson City, NV (CBSA)                                        | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM16180          | Housing Inventory: New Listing Count Month-Over-Month in Carson City, NV (CBSA)                       | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY16180          | Housing Inventory: New Listing Count Year-Over-Year in Carson City, NV (CBSA)                         | 2017-07-01          | 2022-05-01        |
+| MEDDAYONMAR16180          | Housing Inventory: Median Days on Market in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM16180        | Housing Inventory: Median Days on Market Month-Over-Month in Carson City, NV (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY16180        | Housing Inventory: Median Days on Market Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI16180            | Housing Inventory: Median Listing Price in Carson City, NV (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM16180          | Housing Inventory: Median Listing Price Month-Over-Month in Carson City, NV (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE16180   | Housing Inventory: Median Listing Price per Square Feet in Carson City, NV (CBSA)                     | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM16180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Carson City, NV (CBSA)    | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY16180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Carson City, NV (CBSA)      | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY16180          | Housing Inventory: Median Listing Price Year-Over-Year in Carson City, NV (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEE16180            | Housing Inventory: Median Home Size in Square Feet in Carson City, NV (CBSA)                          | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM16180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Carson City, NV (CBSA)         | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY16180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Carson City, NV (CBSA)           | 2017-07-01          | 2022-06-01        |
+| NEWLISCOU16180            | Housing Inventory: New Listing Count in Carson City, NV (CBSA)                                        | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM16180          | Housing Inventory: New Listing Count Month-Over-Month in Carson City, NV (CBSA)                       | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY16180          | Housing Inventory: New Listing Count Year-Over-Year in Carson City, NV (CBSA)                         | 2017-07-01          | 2022-06-01        |
 | NGMP16180                 | Total Gross Domestic Product for Carson City, NV (MSA)                                                | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA116180          | U.S. Granted Utility Patents Originating in Carson City, NV (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU16180            | Housing Inventory: Pending Listing Count in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM16180          | Housing Inventory: Pending Listing Count Month-Over-Month in Carson City, NV (CBSA)                   | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY16180          | Housing Inventory: Pending Listing Count Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU16180            | Housing Inventory: Price Increased Count in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-05-01        |
+| PENLISCOU16180            | Housing Inventory: Pending Listing Count in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM16180          | Housing Inventory: Pending Listing Count Month-Over-Month in Carson City, NV (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY16180          | Housing Inventory: Pending Listing Count Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU16180            | Housing Inventory: Price Increased Count in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-06-01        |
 | PRIINCCOUMM16180          | Housing Inventory: Price Increased Count Month-Over-Month in Carson City, NV (CBSA)                   | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY16180          | Housing Inventory: Price Increased Count Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU16180            | Housing Inventory: Price Reduced Count in Carson City, NV (CBSA)                                      | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM16180          | Housing Inventory: Price Reduced Count Month-Over-Month in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY16180          | Housing Inventory: Price Reduced Count Year-Over-Year in Carson City, NV (CBSA)                       | 2017-07-01          | 2022-05-01        |
+| PRIINCCOUYY16180          | Housing Inventory: Price Increased Count Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU16180            | Housing Inventory: Price Reduced Count in Carson City, NV (CBSA)                                      | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM16180          | Housing Inventory: Price Reduced Count Month-Over-Month in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY16180          | Housing Inventory: Price Reduced Count Year-Over-Year in Carson City, NV (CBSA)                       | 2017-07-01          | 2022-06-01        |
 | QGMP16180                 | Total Quantity Indexes for Real GDP for Carson City, NV (MSA)                                         | 2001-01-01          | 2020-01-01        |
 | RGMP16180                 | Total Real Gross Domestic Product for Carson City, NV (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | RPI16180                  | Real Personal Income for Carson City, NV (MSA)                                                        | 2008-01-01          | 2020-01-01        |

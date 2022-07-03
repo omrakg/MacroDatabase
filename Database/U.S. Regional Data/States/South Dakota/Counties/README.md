@@ -49,7 +49,7 @@
 | Kingsbury County, SD     |                88 |
 | Bennett County, SD       |                87 |
 | McPherson County, SD     |                88 |
-| Stanley County, SD       |                 0 |
+| Stanley County, SD       |                89 |
 | Deuel County, SD         |                88 |
 | Spink County, SD         |                89 |
 | Codington County, SD     |                90 |
@@ -59,7 +59,7 @@
 | Dewey County, SD         |                89 |
 | Moody County, SD         |                89 |
 | Faulk County, SD         |                88 |
-| Harding County, SD       |                87 |
+| Harding County, SD       |                 0 |
 | Turner County, SD        |                89 |
 | Todd County, SD          |                88 |
 | Perkins County, SD       |                89 |

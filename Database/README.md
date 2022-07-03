@@ -2,13 +2,13 @@
 |-----------------------------------------|-----------------------------------------------------------------|---------|
 | U.S. Regional Data                      | Freddie Mac Regions                                             | 12      |
 |                                         | BEA Regions                                                     | 2,460   |
-|                                         | States                                                          | 412,218 |
+|                                         | States                                                          | 410,899 |
 |                                         | BLS Regions                                                     | 241     |
-|                                         | Census Regions                                                  | 850     |
+|                                         | Census Regions                                                  | 797     |
 |                                         | Federal Reserve Districts                                       | 993     |
 | National Accounts                       | _National Accounts.json                                         | 0       |
 |                                         | Flow of Funds                                                   | 2,409   |
-|                                         | National Income & Product Accounts                              | 8,411   |
+|                                         | National Income & Product Accounts                              | 9,142   |
 |                                         | TUVGGXWDGG01GDPPT.json                                          | 0       |
 |                                         | U.S. Trade & International Transactions                         | 323     |
 |                                         | TUVNGDPRPCPPPT.json                                             | 0       |
@@ -19,9 +19,9 @@
 |                                         | Federal Government Debt                                         | 44      |
 | International Data                      | Geography                                                       | 218     |
 |                                         | Indicators                                                      | 22,193  |
-|                                         | Countries                                                       | 55,754  |
-|                                         | Institutions                                                    | 4,837   |
-| Academic Data                           | A Millennium of Macroeconomic Data for the UK                   | 81      |
+|                                         | Countries                                                       | 55,515  |
+|                                         | Institutions                                                    | 3,834   |
+| Academic Data                           | A Millennium of Macroeconomic Data for the UK                   | 121     |
 |                                         | Banking and Monetary Statistics, 1914-1941                      | 1,499   |
 |                                         | _Academic Data.json                                             | 0       |
 |                                         | Penn World Table 7.1                                            | 5,542   |
@@ -36,17 +36,17 @@
 |                                         | NBER Macrohistory Database                                      | 2,268   |
 |                                         | _Academic Data_Incl_Discontinued.json                           | 0       |
 |                                         | Economic Policy Uncertainty                                     | 671     |
-|                                         | Penn World Table 9.0                                            | 4,583   |
+|                                         | Penn World Table 9.0                                            | 3,581   |
 |                                         | LODINIM066N.json                                                | 0       |
 |                                         | New England Textile Industry, 1815-1860                         | 28      |
 | Population, Employment, & Labor Markets | Job Openings and Labor Turnover (JOLTS)                         | 467     |
 |                                         | Minimum Wage                                                    | 53      |
-|                                         | Weekly Initial Claims                                           | 0       |
+|                                         | Weekly Initial Claims                                           | 25      |
 |                                         | Population                                                      | 2,006   |
-|                                         | Current Population Survey (Household Survey)                    | 4,867   |
+|                                         | Current Population Survey (Household Survey)                    | 4,045   |
 |                                         | NROU.json                                                       | 0       |
 |                                         | _Population, Employment, & Labor Markets.json                   | 0       |
-|                                         | Labor Market Conditions                                         | 191     |
+|                                         | Labor Market Conditions                                         | 454     |
 |                                         | Productivity & Costs                                            | 1,267   |
 |                                         | Income Distribution                                             | 160     |
 |                                         | ADP Employment                                                  | 31      |
@@ -350,7 +350,7 @@
 |                                         | M0422AUS000NYM267NNBR.json                                      | 0       |
 |                                         | M0420BUS42340M275NNBR.json                                      | 0       |
 |                                         | M04132USM299NNBR.json                                           | 0       |
-|                                         | Consumer Price Indexes (CPI and PCE)                            | 309     |
+|                                         | Consumer Price Indexes (CPI and PCE)                            | 262     |
 |                                         | M04055USM350NNBR.json                                           | 0       |
 |                                         | M0425AUS000NYM281NNBR.json                                      | 0       |
 |                                         | EXPINF5YR.json                                                  | 0       |
@@ -374,7 +374,7 @@
 |                                         | M04116DE00BERM372NNBR.json                                      | 0       |
 |                                         | A04183USA336NNBR.json                                           | 0       |
 |                                         | Q04197USQ345NNBR.json                                           | 0       |
-|                                         | Producer Price Indexes (PPI)                                    | 7,915   |
+|                                         | Producer Price Indexes (PPI)                                    | 7,943   |
 |                                         | M0419AUS000NYM053NNBR.json                                      | 0       |
 |                                         | Trade Indexes                                                   | 693     |
 |                                         | A04018GB00LONA286NNBR.json                                      | 0       |
@@ -446,15 +446,15 @@
 | Money, Banking, & Finance               | ECBASSETSW.json                                                 | 0       |
 |                                         | _Money, Banking, & Finance_Incl_Discontinued.json               | 0       |
 |                                         | Interest Rates                                                  | 1,050   |
-|                                         | Monetary Data                                                   | 1,597   |
+|                                         | Monetary Data                                                   | 1,610   |
 |                                         | Foreign Exchange Intervention                                   | 24      |
 |                                         | _Money, Banking, & Finance.json                                 | 0       |
-|                                         | Exchange Rates                                                  | 14,381  |
+|                                         | Exchange Rates                                                  | 14,625  |
 |                                         | Discontinued                                                    | 3       |
-|                                         | Business Lending                                                | 1,078   |
+|                                         | Business Lending                                                | 1,020   |
 |                                         | Banking                                                         | 6,727   |
 |                                         | JPNASSETS.json                                                  | 0       |
-|                                         | Financial Indicators                                            | 1,126   |
+|                                         | Financial Indicators                                            | 1,262   |
 | Production & Business Activity          | BABATOTALSAOH.json                                              | 0       |
 |                                         | BABATOTALSAIN.json                                              | 0       |
 |                                         | CHLPROCONMISMEI.json                                            | 0       |
@@ -1525,7 +1525,7 @@
 |                                         | BAHBATOTALNSAGA.json                                            | 0       |
 |                                         | BFBF4QTOTALSADE.json                                            | 0       |
 |                                         | BABANAICSRETSAUS.json                                           | 0       |
-|                                         | Business Cycle Expansions & Contractions                        | 297     |
+|                                         | Business Cycle Expansions & Contractions                        | 0       |
 |                                         | BABATOTALSATN.json                                              | 0       |
 |                                         | OPCNRE01FRA661N.json                                            | 0       |
 |                                         | IDNPROMANMISMEI.json                                            | 0       |

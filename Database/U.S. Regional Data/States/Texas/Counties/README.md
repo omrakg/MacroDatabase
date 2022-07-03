@@ -36,7 +36,7 @@
 | Oldham County, TX        |                87 |
 | Wilson County, TX        |                90 |
 | Presidio County, TX      |                88 |
-| Morris County, TX        |                88 |
+| Morris County, TX        |                 0 |
 | Terry County, TX         |                90 |
 | Tom Green County, TX     |               147 |
 | Comanche County, TX      |                89 |
@@ -96,11 +96,11 @@
 | Garza County, TX         |                87 |
 | Matagorda County, TX     |                90 |
 | Guadalupe County, TX     |               147 |
-| Dickens County, TX       |                86 |
+| Dickens County, TX       |                 0 |
 | Moore County, TX         |                90 |
 | Brown County, TX         |                90 |
 | Baylor County, TX        |                87 |
-| Gaines County, TX        |                 0 |
+| Gaines County, TX        |                88 |
 | Lavaca County, TX        |                89 |
 | Hopkins County, TX       |                90 |
 | Erath County, TX         |                90 |
@@ -156,11 +156,11 @@
 | Bee County, TX           |                90 |
 | Burleson County, TX      |                89 |
 | Castro County, TX        |                89 |
-| Walker County, TX        |               147 |
+| Walker County, TX        |                 0 |
 | Throckmorton County, TX  |                86 |
 | Taylor County, TX        |               147 |
 | Colorado County, TX      |                90 |
-| Refugio County, TX       |                 0 |
+| Refugio County, TX       |                89 |
 | Midland County, TX       |               147 |
 | Anderson County, TX      |                90 |
 | Starr County, TX         |                89 |
@@ -216,11 +216,11 @@
 | Camp County, TX          |                88 |
 | Aransas County, TX       |                90 |
 | Panola County, TX        |                90 |
-| Collin County, TX        |               147 |
+| Collin County, TX        |                 0 |
 | Val Verde County, TX     |                89 |
 | Hood County, TX          |               146 |
 | Newton County, TX        |                87 |
-| Clay County, TX          |                 0 |
+| Clay County, TX          |                88 |
 | Floyd County, TX         |                89 |
 | Real County, TX          |                88 |
 | De Witt County, TX       |                89 |

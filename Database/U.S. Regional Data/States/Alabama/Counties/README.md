@@ -39,14 +39,14 @@
 | Limestone County, AL  |               147 |
 | Dallas County, AL     |                89 |
 | Sumter County, AL     |                88 |
-| Jackson County, AL    |                 0 |
+| Jackson County, AL    |               143 |
 | Etowah County, AL     |               147 |
 | Escambia County, AL   |                89 |
 | Coosa County, AL      |                89 |
 | Bullock County, AL    |                89 |
 | Covington County, AL  |                89 |
 | Talladega County, AL  |               146 |
-| Jefferson County, AL  |               146 |
+| Jefferson County, AL  |                 0 |
 | Bibb County, AL       |                90 |
 | St. Clair County, AL  |               147 |
 | Dale County, AL       |               146 |

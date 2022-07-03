@@ -24,6 +24,6 @@
 | Advance Technology Products                                        |                 4 |
 | Euro Area                                                          |               659 |
 | OECD Non-member Economies                                          |                 0 |
-| Group of Seven (G7)                                                |               465 |
+| Group of Seven (G7)                                                |                 0 |
 | Bureau of Labor Statistics Pacific Rim                             |                42 |
 | Non-OECD                                                           |                 8 |

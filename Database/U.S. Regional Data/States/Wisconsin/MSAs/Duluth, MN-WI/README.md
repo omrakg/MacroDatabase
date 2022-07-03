@@ -1,13 +1,13 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU20260            | Housing Inventory: Active Listing Count in Duluth, MN-WI (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM20260          | Housing Inventory: Active Listing Count Month-Over-Month in Duluth, MN-WI (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY20260          | Housing Inventory: Active Listing Count Year-Over-Year in Duluth, MN-WI (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU20260            | Housing Inventory: Active Listing Count in Duluth, MN-WI (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM20260          | Housing Inventory: Active Listing Count Month-Over-Month in Duluth, MN-WI (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY20260          | Housing Inventory: Active Listing Count Year-Over-Year in Duluth, MN-WI (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS20260Q            | All-Transactions House Price Index for Duluth, MN-WI (MSA)                                                     | 1986-04-01          | 2022-01-01        |
-| AVELISPRI20260            | Housing Inventory: Average Listing Price in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM20260          | Housing Inventory: Average Listing Price Month-Over-Month in Duluth, MN-WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY20260          | Housing Inventory: Average Listing Price Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| DESCMSA20260              | Market Hotness: Demand Score in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| AVELISPRI20260            | Housing Inventory: Average Listing Price in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM20260          | Housing Inventory: Average Listing Price Month-Over-Month in Duluth, MN-WI (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY20260          | Housing Inventory: Average Listing Price Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| DESCMSA20260              | Market Hotness: Demand Score in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | DULPOP                    | Resident Population in Duluth, MN-WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DULU227EDUH               | All Employees: Education and Health Services in Duluth, MN-WI (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | DULU227EDUHN              | All Employees: Education and Health Services in Duluth, MN-WI (MSA)                                            | 1990-01-01          | 2022-05-01        |
@@ -19,8 +19,8 @@
 | DULU227INFON              | All Employees: Information in Duluth, MN-WI (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | DULU227LEIH               | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | DULU227LEIHN              | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| DULU227LF                 | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| DULU227LFN                | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| DULU227LF                 | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| DULU227LFN                | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | DULU227MFG                | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | DULU227MFGN               | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | DULU227NA                 | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -34,8 +34,8 @@
 | DULU227SRVON              | All Employees: Other Services in Duluth, MN-WI (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | DULU227TRAD               | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | DULU227TRADN              | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| DULU227UR                 | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| DULU227URN                | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| DULU227UR                 | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| DULU227URN                | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | ENUC202630010             | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC202630010SA           | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC202640010             | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -48,57 +48,57 @@
 | ENUC202640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC202640510             | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC202640510SA           | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA20260            | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA20260              | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA20260            | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA20260              | Market Hotness: Hotness Score in Duluth, MN-WI (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA20260            | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA20260              | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA20260            | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA20260              | Market Hotness: Hotness Score in Duluth, MN-WI (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD20260                 | Implicit Regional Price Deflator for Duluth, MN-WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT272026000000003A     | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT272026000000004      | Unemployed Persons in Duluth, MN-WI (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT272026000000004      | Unemployed Persons in Duluth, MN-WI (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT272026000000004A     | Unemployed Persons in Duluth, MN-WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT272026000000005      | Employed Persons in Duluth, MN-WI (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT272026000000005      | Employed Persons in Duluth, MN-WI (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT272026000000005A     | Employed Persons in Duluth, MN-WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT272026000000006A     | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA20260          | Market Hotness: Listing Views per Property in Duluth, MN-WI (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA20260        | Market Hotness: Listing Views per Property Versus the United States in Duluth, MN-WI (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA20260          | Market Hotness: Listing Views per Property in Duluth, MN-WI (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA20260        | Market Hotness: Median Days on Market in Duluth, MN-WI (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA20260          | Market Hotness: Median Days on Market in Duluth, MN-WI (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA20260        | Market Hotness: Median Days on Market in Duluth, MN-WI (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR20260          | Housing Inventory: Median Days on Market in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM20260        | Housing Inventory: Median Days on Market Month-Over-Month in Duluth, MN-WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY20260        | Housing Inventory: Median Days on Market Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI20260            | Housing Inventory: Median Listing Price in Duluth, MN-WI (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM20260          | Housing Inventory: Median Listing Price Month-Over-Month in Duluth, MN-WI (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE20260   | Housing Inventory: Median Listing Price per Square Feet in Duluth, MN-WI (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM20260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Duluth, MN-WI (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY20260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Duluth, MN-WI (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY20260          | Housing Inventory: Median Listing Price Year-Over-Year in Duluth, MN-WI (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA20260          | Market Hotness: Median Days on Market in Duluth, MN-WI (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA20260          | Market Hotness: Median Days on Market Versus the United States in Duluth, MN-WI (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA20260          | Market Hotness: Median Days on Market Day in Duluth, MN-WI (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE20260            | Housing Inventory: Median Home Size in Square Feet in Duluth, MN-WI (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM20260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Duluth, MN-WI (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY20260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Duluth, MN-WI (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA20260          | Market Hotness: Median Listing Price in Duluth, MN-WI (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA20260            | Market Hotness: Median Listing Price in Duluth, MN-WI (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA20260        | Market Hotness: Median Listing Price Versus the United States in Duluth, MN-WI (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA20260          | Market Hotness: Median Listing Price in Duluth, MN-WI (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU20260            | Housing Inventory: New Listing Count in Duluth, MN-WI (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM20260          | Housing Inventory: New Listing Count Month-Over-Month in Duluth, MN-WI (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY20260          | Housing Inventory: New Listing Count Year-Over-Year in Duluth, MN-WI (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA20260          | Market Hotness: Listing Views per Property in Duluth, MN-WI (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA20260        | Market Hotness: Listing Views per Property Versus the United States in Duluth, MN-WI (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA20260          | Market Hotness: Listing Views per Property in Duluth, MN-WI (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA20260        | Market Hotness: Median Days on Market in Duluth, MN-WI (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA20260          | Market Hotness: Median Days on Market in Duluth, MN-WI (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA20260        | Market Hotness: Median Days on Market in Duluth, MN-WI (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR20260          | Housing Inventory: Median Days on Market in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM20260        | Housing Inventory: Median Days on Market Month-Over-Month in Duluth, MN-WI (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY20260        | Housing Inventory: Median Days on Market Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI20260            | Housing Inventory: Median Listing Price in Duluth, MN-WI (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM20260          | Housing Inventory: Median Listing Price Month-Over-Month in Duluth, MN-WI (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE20260   | Housing Inventory: Median Listing Price per Square Feet in Duluth, MN-WI (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM20260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Duluth, MN-WI (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY20260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Duluth, MN-WI (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY20260          | Housing Inventory: Median Listing Price Year-Over-Year in Duluth, MN-WI (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA20260          | Market Hotness: Median Days on Market in Duluth, MN-WI (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA20260          | Market Hotness: Median Days on Market Versus the United States in Duluth, MN-WI (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA20260          | Market Hotness: Median Days on Market Day in Duluth, MN-WI (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE20260            | Housing Inventory: Median Home Size in Square Feet in Duluth, MN-WI (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM20260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Duluth, MN-WI (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY20260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Duluth, MN-WI (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA20260          | Market Hotness: Median Listing Price in Duluth, MN-WI (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA20260            | Market Hotness: Median Listing Price in Duluth, MN-WI (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA20260        | Market Hotness: Median Listing Price Versus the United States in Duluth, MN-WI (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA20260          | Market Hotness: Median Listing Price in Duluth, MN-WI (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU20260            | Housing Inventory: New Listing Count in Duluth, MN-WI (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM20260          | Housing Inventory: New Listing Count Month-Over-Month in Duluth, MN-WI (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY20260          | Housing Inventory: New Listing Count Year-Over-Year in Duluth, MN-WI (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP20260                 | Total Gross Domestic Product for Duluth, MN-WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA20260            | Market Hotness: Nielsen Household Rank in Duluth, MN-WI (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA20260            | Market Hotness: Nielsen Household Rank in Duluth, MN-WI (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA120260          | U.S. Granted Utility Patents Originating in Duluth, MN-WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU20260            | Housing Inventory: Pending Listing Count in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM20260          | Housing Inventory: Pending Listing Count Month-Over-Month in Duluth, MN-WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY20260          | Housing Inventory: Pending Listing Count Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU20260            | Housing Inventory: Price Increased Count in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM20260          | Housing Inventory: Price Increased Count Month-Over-Month in Duluth, MN-WI (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY20260          | Housing Inventory: Price Increased Count Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU20260            | Housing Inventory: Price Reduced Count in Duluth, MN-WI (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM20260          | Housing Inventory: Price Reduced Count Month-Over-Month in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY20260          | Housing Inventory: Price Reduced Count Year-Over-Year in Duluth, MN-WI (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PENLISCOU20260            | Housing Inventory: Pending Listing Count in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM20260          | Housing Inventory: Pending Listing Count Month-Over-Month in Duluth, MN-WI (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY20260          | Housing Inventory: Pending Listing Count Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU20260            | Housing Inventory: Price Increased Count in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM20260          | Housing Inventory: Price Increased Count Month-Over-Month in Duluth, MN-WI (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY20260          | Housing Inventory: Price Increased Count Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU20260            | Housing Inventory: Price Reduced Count in Duluth, MN-WI (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM20260          | Housing Inventory: Price Reduced Count Month-Over-Month in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY20260          | Housing Inventory: Price Reduced Count Year-Over-Year in Duluth, MN-WI (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP20260                 | Total Quantity Indexes for Real GDP for Duluth, MN-WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP20260                 | Total Real Gross Domestic Product for Duluth, MN-WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI20260                  | Real Personal Income for Duluth, MN-WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -158,4 +158,4 @@
 | SMU27202609093000001      | All Employees: Government: Local Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-05-01        |
 | SMU27202609093000001A     | All Employees: Local Government in Duluth, MN-WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU27202609093000001SA    | All Employees: Government: Local Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-05-01        |
-| SUSCMSA20260              | Market Hotness: Supply Score in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA20260              | Market Hotness: Supply Score in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-06-01        |

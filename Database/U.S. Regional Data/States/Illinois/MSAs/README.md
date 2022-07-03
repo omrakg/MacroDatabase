@@ -6,7 +6,7 @@
 | Kankakee, IL                        |               140 |
 | Davenport-Moline-Rock Island, IA-IL |                 0 |
 | Danville, IL                        |               136 |
-| Rockford, IL                        |               164 |
+| Rockford, IL                        |                 0 |
 | Chicago-Naperville-Elgin, IL-IN-WI  |                 0 |
 | Decatur, IL                         |               145 |
 | Springfield, IL                     |               167 |

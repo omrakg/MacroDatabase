@@ -25,9 +25,9 @@
 | Cheyenne County, NE     |                89 |
 | Holt County, NE         |                90 |
 | Arthur County, NE       |                82 |
-| Frontier County, NE     |                 0 |
+| Frontier County, NE     |                89 |
 | Valley County, NE       |                88 |
-| Dakota County, NE       |                90 |
+| Dakota County, NE       |                 0 |
 | Dundy County, NE        |                89 |
 | Douglas County, NE      |               147 |
 | Buffalo County, NE      |               146 |
@@ -85,9 +85,9 @@
 | Johnson County, NE      |                88 |
 | Blaine County, NE       |                82 |
 | Perkins County, NE      |                88 |
-| Boyd County, NE         |                 0 |
+| Boyd County, NE         |                89 |
 | Brown County, NE        |                88 |
-| Custer County, NE       |                90 |
+| Custer County, NE       |                 0 |
 | Garden County, NE       |                88 |
 | Sherman County, NE      |                88 |
 | Rock County, NE         |                87 |

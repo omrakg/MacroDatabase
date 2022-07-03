@@ -30,7 +30,7 @@
 | Doddridge County, WV  |                87 |
 | Monroe County, WV     |                89 |
 | McDowell County, WV   |                89 |
-| Mingo County, WV      |                 0 |
+| Mingo County, WV      |                89 |
 | Fayette County, WV    |                90 |
 | Jefferson County, WV  |               146 |
 | Taylor County, WV     |                89 |

@@ -1,12 +1,12 @@
 | id                        | title                                                                                                                  | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU47220            | Housing Inventory: Active Listing Count in Vineland-Bridgeton, NJ (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM47220          | Housing Inventory: Active Listing Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY47220          | Housing Inventory: Active Listing Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU47220            | Housing Inventory: Active Listing Count in Vineland-Bridgeton, NJ (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM47220          | Housing Inventory: Active Listing Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY47220          | Housing Inventory: Active Listing Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                                | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS47220Q            | All-Transactions House Price Index for Vineland-Bridgeton, NJ (MSA)                                                    | 1986-07-01          | 2022-01-01        |
-| AVELISPRI47220            | Housing Inventory: Average Listing Price in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM47220          | Housing Inventory: Average Listing Price Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY47220          | Housing Inventory: Average Listing Price Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-05-01        |
+| AVELISPRI47220            | Housing Inventory: Average Listing Price in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM47220          | Housing Inventory: Average Listing Price Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY47220          | Housing Inventory: Average Listing Price Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-06-01        |
 | ENUC472230010             | Total Quarterly Wages in Vineland-Bridgeton, NJ (MSA)                                                                  | 1990-01-01          | 2021-10-01        |
 | ENUC472230010SA           | Total Quarterly Wages in Vineland-Bridgeton, NJ (MSA)                                                                  | 1990-01-01          | 2021-10-01        |
 | ENUC472240010             | Average Weekly Wages for Employees in Total Covered Establishments in Vineland-Millville-Bridgeton, NJ (MSA)           | 1990-01-01          | 2021-10-01        |
@@ -21,37 +21,37 @@
 | ENUC472240510SA           | Average Weekly Wages for Employees in Private Establishments in Vineland-Millville-Bridgeton, NJ (MSA)                 | 1990-01-01          | 2021-10-01        |
 | IRPD47220                 | Implicit Regional Price Deflator for Vineland-Bridgeton, NJ (MSA)                                                      | 2008-01-01          | 2020-01-01        |
 | LAUMT344722000000003A     | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT344722000000004      | Unemployed Persons in Vineland-Bridgeton, NJ (MSA)                                                                     | 1990-01-01          | 2022-04-01        |
+| LAUMT344722000000004      | Unemployed Persons in Vineland-Bridgeton, NJ (MSA)                                                                     | 1990-01-01          | 2022-05-01        |
 | LAUMT344722000000004A     | Unemployed Persons in Vineland-Bridgeton, NJ (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| LAUMT344722000000005      | Employed Persons in Vineland-Bridgeton, NJ (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| LAUMT344722000000005      | Employed Persons in Vineland-Bridgeton, NJ (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | LAUMT344722000000005A     | Employed Persons in Vineland-Bridgeton, NJ (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT344722000000006A     | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR47220          | Housing Inventory: Median Days on Market in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM47220        | Housing Inventory: Median Days on Market Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY47220        | Housing Inventory: Median Days on Market Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI47220            | Housing Inventory: Median Listing Price in Vineland-Bridgeton, NJ (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM47220          | Housing Inventory: Median Listing Price Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE47220   | Housing Inventory: Median Listing Price per Square Feet in Vineland-Bridgeton, NJ (CBSA)                               | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM47220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)              | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY47220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY47220          | Housing Inventory: Median Listing Price Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEE47220            | Housing Inventory: Median Home Size in Square Feet in Vineland-Bridgeton, NJ (CBSA)                                    | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM47220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                   | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY47220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                     | 2017-07-01          | 2022-05-01        |
-| NEWLISCOU47220            | Housing Inventory: New Listing Count in Vineland-Bridgeton, NJ (CBSA)                                                  | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM47220          | Housing Inventory: New Listing Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY47220          | Housing Inventory: New Listing Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                                   | 2017-07-01          | 2022-05-01        |
+| MEDDAYONMAR47220          | Housing Inventory: Median Days on Market in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM47220        | Housing Inventory: Median Days on Market Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY47220        | Housing Inventory: Median Days on Market Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI47220            | Housing Inventory: Median Listing Price in Vineland-Bridgeton, NJ (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM47220          | Housing Inventory: Median Listing Price Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE47220   | Housing Inventory: Median Listing Price per Square Feet in Vineland-Bridgeton, NJ (CBSA)                               | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM47220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)              | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY47220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY47220          | Housing Inventory: Median Listing Price Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEE47220            | Housing Inventory: Median Home Size in Square Feet in Vineland-Bridgeton, NJ (CBSA)                                    | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM47220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY47220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                     | 2017-07-01          | 2022-06-01        |
+| NEWLISCOU47220            | Housing Inventory: New Listing Count in Vineland-Bridgeton, NJ (CBSA)                                                  | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM47220          | Housing Inventory: New Listing Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY47220          | Housing Inventory: New Listing Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                                   | 2017-07-01          | 2022-06-01        |
 | NGMP47220                 | Total Gross Domestic Product for Vineland-Bridgeton, NJ (MSA)                                                          | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA147220          | U.S. Granted Utility Patents Originating in Vineland-Millville-Bridgeton, NJ (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU47220            | Housing Inventory: Pending Listing Count in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM47220          | Housing Inventory: Pending Listing Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY47220          | Housing Inventory: Pending Listing Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU47220            | Housing Inventory: Price Increased Count in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM47220          | Housing Inventory: Price Increased Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY47220          | Housing Inventory: Price Increased Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU47220            | Housing Inventory: Price Reduced Count in Vineland-Bridgeton, NJ (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM47220          | Housing Inventory: Price Reduced Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY47220          | Housing Inventory: Price Reduced Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| PENLISCOU47220            | Housing Inventory: Pending Listing Count in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM47220          | Housing Inventory: Pending Listing Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY47220          | Housing Inventory: Pending Listing Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU47220            | Housing Inventory: Price Increased Count in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM47220          | Housing Inventory: Price Increased Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                             | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY47220          | Housing Inventory: Price Increased Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU47220            | Housing Inventory: Price Reduced Count in Vineland-Bridgeton, NJ (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM47220          | Housing Inventory: Price Reduced Count Month-Over-Month in Vineland-Bridgeton, NJ (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY47220          | Housing Inventory: Price Reduced Count Year-Over-Year in Vineland-Bridgeton, NJ (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | QGMP47220                 | Total Quantity Indexes for Real GDP for Vineland-Bridgeton, NJ (MSA)                                                   | 2001-01-01          | 2020-01-01        |
 | RGMP47220                 | Total Real Gross Domestic Product for Vineland-Bridgeton, NJ (MSA)                                                     | 2001-01-01          | 2020-01-01        |
 | RPI47220                  | Real Personal Income for Vineland-Bridgeton, NJ (MSA)                                                                  | 2008-01-01          | 2020-01-01        |
@@ -122,8 +122,8 @@
 | VINE234INFON              | All Employees: Information in Vineland-Bridgeton, NJ (MSA)                                                             | 1990-01-01          | 2022-05-01        |
 | VINE234LEIH               | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2022-05-01        |
 | VINE234LEIHN              | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2022-05-01        |
-| VINE234LF                 | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
-| VINE234LFN                | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| VINE234LF                 | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-05-01        |
+| VINE234LFN                | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-05-01        |
 | VINE234MFG                | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | VINE234MFGN               | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | VINE234NA                 | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-05-01        |
@@ -137,6 +137,6 @@
 | VINE234SRVON              | All Employees: Other Services in Vineland-Bridgeton, NJ (MSA)                                                          | 1990-01-01          | 2022-05-01        |
 | VINE234TRAD               | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2022-05-01        |
 | VINE234TRADN              | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2022-05-01        |
-| VINE234UR                 | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
-| VINE234URN                | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| VINE234UR                 | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| VINE234URN                | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | VINPOP                    | Resident Population in Vineland-Bridgeton, NJ (MSA)                                                                    | 2000-01-01          | 2021-01-01        |

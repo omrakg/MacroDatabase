@@ -1,7 +1,7 @@
 | id            | title                                                      | observation_start   | observation_end   |
 |---------------|------------------------------------------------------------|---------------------|-------------------|
-| TRESEGARM052N | Total Reserves excluding Gold for Argentina                | 1950-12-01          | 2022-04-01        |
-| TRESEGARM194N | Total Reserves excluding Gold for Argentina                | 1950-12-01          | 2022-04-01        |
+| TRESEGARM052N | Total Reserves excluding Gold for Argentina                | 1950-12-01          | 2022-05-01        |
+| TRESEGARM194N | Total Reserves excluding Gold for Argentina                | 1950-12-01          | 2022-05-01        |
 | TRESEGAUM052N | Total Reserves excluding Gold for Australia                | 1950-12-01          | 2022-05-01        |
 | TRESEGAUM194N | Total Reserves excluding Gold for Australia                | 1950-12-01          | 2022-05-01        |
 | TRESEGBRM052N | Total Reserves excluding Gold for Brazil                   | 1950-12-01          | 2022-02-01        |
@@ -49,5 +49,5 @@
 | TRESEGTWM194N | Total Reserves excluding Gold for Taiwan Province of China | 1950-12-01          | 2022-04-01        |
 | TRESEGUSM052N | Total Reserves excluding Gold for United States            | 1950-12-01          | 2022-05-01        |
 | TRESEGUSM194N | Total Reserves excluding Gold for United States            | 1950-12-01          | 2022-05-01        |
-| TRESEGZAM052N | Total Reserves excluding Gold for South Africa             | 1950-12-01          | 2022-03-01        |
-| TRESEGZAM194N | Total Reserves excluding Gold for South Africa             | 1950-12-01          | 2022-03-01        |
+| TRESEGZAM052N | Total Reserves excluding Gold for South Africa             | 1950-12-01          | 2022-05-01        |
+| TRESEGZAM194N | Total Reserves excluding Gold for South Africa             | 1950-12-01          | 2022-05-01        |

@@ -6,9 +6,9 @@
 | Washington County, OR |               147 |
 | Deschutes County, OR  |               147 |
 | Wallowa County, OR    |                90 |
-| Linn County, OR       |                 0 |
+| Linn County, OR       |               147 |
 | Benton County, OR     |               147 |
-| Yamhill County, OR    |               146 |
+| Yamhill County, OR    |                 0 |
 | Baker County, OR      |                90 |
 | Clatsop County, OR    |                90 |
 | Multnomah County, OR  |               147 |

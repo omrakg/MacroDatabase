@@ -41,6 +41,6 @@
 | Franklin County, ID   |                90 |
 | Benewah County, ID    |                90 |
 | Owyhee County, ID     |                88 |
-| Adams County, ID      |                90 |
+| Adams County, ID      |                 0 |
 | Caribou County, ID    |                89 |
 | Lewis County, ID      |                89 |

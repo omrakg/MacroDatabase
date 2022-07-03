@@ -51,7 +51,7 @@
 | Otter Tail County, MN        |               146 |
 | Dodge County, MN             |                90 |
 | Swift County, MN             |                90 |
-| Kandiyohi County, MN         |                90 |
+| Kandiyohi County, MN         |                 0 |
 | Martin County, MN            |                90 |
 | Sibley County, MN            |                90 |
 | Todd County, MN              |                89 |
@@ -77,7 +77,7 @@
 | Washington County, MN        |               147 |
 | Pine County, MN              |                90 |
 | Lake of the Woods County, MN |                88 |
-| Nicollet County, MN          |                 0 |
+| Nicollet County, MN          |                90 |
 | St. Louis County, MN         |               147 |
 | Carver County, MN            |               147 |
 | Itasca County, MN            |                90 |

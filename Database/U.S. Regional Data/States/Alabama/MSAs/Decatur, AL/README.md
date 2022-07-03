@@ -1,12 +1,12 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU19460            | Housing Inventory: Active Listing Count in Decatur, AL (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM19460          | Housing Inventory: Active Listing Count Month-Over-Month in Decatur, AL (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY19460          | Housing Inventory: Active Listing Count Year-Over-Year in Decatur, AL (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU19460            | Housing Inventory: Active Listing Count in Decatur, AL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM19460          | Housing Inventory: Active Listing Count Month-Over-Month in Decatur, AL (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY19460          | Housing Inventory: Active Listing Count Year-Over-Year in Decatur, AL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS19460Q            | All-Transactions House Price Index for Decatur, AL (MSA)                                                     | 1987-01-01          | 2022-01-01        |
-| AVELISPRI19460            | Housing Inventory: Average Listing Price in Decatur, AL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM19460          | Housing Inventory: Average Listing Price Month-Over-Month in Decatur, AL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY19460          | Housing Inventory: Average Listing Price Year-Over-Year in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| AVELISPRI19460            | Housing Inventory: Average Listing Price in Decatur, AL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM19460          | Housing Inventory: Average Listing Price Month-Over-Month in Decatur, AL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY19460          | Housing Inventory: Average Listing Price Year-Over-Year in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-06-01        |
 | DCTPOP                    | Resident Population in Decatur, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DECA401EDUH               | All Employees: Education and Health Services in Decatur, AL (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | DECA401EDUHN              | All Employees: Education and Health Services in Decatur, AL (MSA)                                            | 1990-01-01          | 2022-05-01        |
@@ -18,8 +18,8 @@
 | DECA401INFON              | All Employees: Information in Decatur, AL (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | DECA401LEIH               | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | DECA401LEIHN              | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| DECA401LF                 | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| DECA401LFN                | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| DECA401LF                 | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| DECA401LFN                | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | DECA401MFG                | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | DECA401MFGN               | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | DECA401NA                 | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -33,9 +33,9 @@
 | DECA401SRVON              | All Employees: Other Services in Decatur, AL (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | DECA401TRAD               | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | DECA401TRADN              | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| DECA401UR                 | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| DECA401URN                | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| DESCMSA19460              | Market Hotness: Demand Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| DECA401UR                 | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| DECA401URN                | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| DESCMSA19460              | Market Hotness: Demand Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC194630010             | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC194630010SA           | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC194640010             | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -48,58 +48,58 @@
 | ENUC194640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC194640510             | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC194640510SA           | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA19460            | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA19460              | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA19460            | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA19460              | Market Hotness: Hotness Score in Decatur, AL (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA19460            | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA19460              | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA19460            | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA19460              | Market Hotness: Hotness Score in Decatur, AL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD19460                 | Implicit Regional Price Deflator for Decatur, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD19500                 | Implicit Regional Price Deflator for Decatur, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT011946000000003A     | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT011946000000004      | Unemployed Persons in Decatur, AL (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT011946000000004      | Unemployed Persons in Decatur, AL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT011946000000004A     | Unemployed Persons in Decatur, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT011946000000005      | Employed Persons in Decatur, AL (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT011946000000005      | Employed Persons in Decatur, AL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT011946000000005A     | Employed Persons in Decatur, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT011946000000006A     | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA19460          | Market Hotness: Listing Views per Property in Decatur, AL (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA19460        | Market Hotness: Listing Views per Property Versus the United States in Decatur, AL (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA19460          | Market Hotness: Listing Views per Property in Decatur, AL (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA19460        | Market Hotness: Median Days on Market in Decatur, AL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA19460          | Market Hotness: Median Days on Market in Decatur, AL (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA19460        | Market Hotness: Median Days on Market in Decatur, AL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR19460          | Housing Inventory: Median Days on Market in Decatur, AL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM19460        | Housing Inventory: Median Days on Market Month-Over-Month in Decatur, AL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY19460        | Housing Inventory: Median Days on Market Year-Over-Year in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI19460            | Housing Inventory: Median Listing Price in Decatur, AL (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM19460          | Housing Inventory: Median Listing Price Month-Over-Month in Decatur, AL (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE19460   | Housing Inventory: Median Listing Price per Square Feet in Decatur, AL (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM19460 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Decatur, AL (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY19460 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Decatur, AL (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY19460          | Housing Inventory: Median Listing Price Year-Over-Year in Decatur, AL (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA19460          | Market Hotness: Median Days on Market in Decatur, AL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA19460          | Market Hotness: Median Days on Market Versus the United States in Decatur, AL (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA19460          | Market Hotness: Median Days on Market Day in Decatur, AL (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE19460            | Housing Inventory: Median Home Size in Square Feet in Decatur, AL (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM19460          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Decatur, AL (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY19460          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Decatur, AL (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA19460          | Market Hotness: Median Listing Price in Decatur, AL (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA19460            | Market Hotness: Median Listing Price in Decatur, AL (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA19460        | Market Hotness: Median Listing Price Versus the United States in Decatur, AL (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA19460          | Market Hotness: Median Listing Price in Decatur, AL (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU19460            | Housing Inventory: New Listing Count in Decatur, AL (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM19460          | Housing Inventory: New Listing Count Month-Over-Month in Decatur, AL (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY19460          | Housing Inventory: New Listing Count Year-Over-Year in Decatur, AL (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA19460          | Market Hotness: Listing Views per Property in Decatur, AL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA19460        | Market Hotness: Listing Views per Property Versus the United States in Decatur, AL (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA19460          | Market Hotness: Listing Views per Property in Decatur, AL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA19460        | Market Hotness: Median Days on Market in Decatur, AL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA19460          | Market Hotness: Median Days on Market in Decatur, AL (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA19460        | Market Hotness: Median Days on Market in Decatur, AL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR19460          | Housing Inventory: Median Days on Market in Decatur, AL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM19460        | Housing Inventory: Median Days on Market Month-Over-Month in Decatur, AL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY19460        | Housing Inventory: Median Days on Market Year-Over-Year in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI19460            | Housing Inventory: Median Listing Price in Decatur, AL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM19460          | Housing Inventory: Median Listing Price Month-Over-Month in Decatur, AL (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE19460   | Housing Inventory: Median Listing Price per Square Feet in Decatur, AL (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM19460 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Decatur, AL (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY19460 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Decatur, AL (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY19460          | Housing Inventory: Median Listing Price Year-Over-Year in Decatur, AL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA19460          | Market Hotness: Median Days on Market in Decatur, AL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA19460          | Market Hotness: Median Days on Market Versus the United States in Decatur, AL (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA19460          | Market Hotness: Median Days on Market Day in Decatur, AL (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE19460            | Housing Inventory: Median Home Size in Square Feet in Decatur, AL (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM19460          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Decatur, AL (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY19460          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Decatur, AL (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA19460          | Market Hotness: Median Listing Price in Decatur, AL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA19460            | Market Hotness: Median Listing Price in Decatur, AL (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA19460        | Market Hotness: Median Listing Price Versus the United States in Decatur, AL (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA19460          | Market Hotness: Median Listing Price in Decatur, AL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU19460            | Housing Inventory: New Listing Count in Decatur, AL (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM19460          | Housing Inventory: New Listing Count Month-Over-Month in Decatur, AL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY19460          | Housing Inventory: New Listing Count Year-Over-Year in Decatur, AL (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP19460                 | Total Gross Domestic Product for Decatur, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA19460            | Market Hotness: Nielsen Household Rank in Decatur, AL (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA19460            | Market Hotness: Nielsen Household Rank in Decatur, AL (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA119460          | U.S. Granted Utility Patents Originating in Decatur, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU19460            | Housing Inventory: Pending Listing Count in Decatur, AL (CBSA)                                               | 2016-12-01          | 2022-05-01        |
-| PENLISCOUMM19460          | Housing Inventory: Pending Listing Count Month-Over-Month in Decatur, AL (CBSA)                              | 2018-05-01          | 2022-05-01        |
-| PENLISCOUYY19460          | Housing Inventory: Pending Listing Count Year-Over-Year in Decatur, AL (CBSA)                                | 2019-04-01          | 2022-05-01        |
-| PRIINCCOU19460            | Housing Inventory: Price Increased Count in Decatur, AL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
+| PENLISCOU19460            | Housing Inventory: Pending Listing Count in Decatur, AL (CBSA)                                               | 2016-12-01          | 2022-06-01        |
+| PENLISCOUMM19460          | Housing Inventory: Pending Listing Count Month-Over-Month in Decatur, AL (CBSA)                              | 2018-05-01          | 2022-06-01        |
+| PENLISCOUYY19460          | Housing Inventory: Pending Listing Count Year-Over-Year in Decatur, AL (CBSA)                                | 2019-04-01          | 2022-06-01        |
+| PRIINCCOU19460            | Housing Inventory: Price Increased Count in Decatur, AL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
 | PRIINCCOUMM19460          | Housing Inventory: Price Increased Count Month-Over-Month in Decatur, AL (CBSA)                              | 2017-07-01          | 2022-05-01        |
 | PRIINCCOUYY19460          | Housing Inventory: Price Increased Count Year-Over-Year in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU19460            | Housing Inventory: Price Reduced Count in Decatur, AL (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM19460          | Housing Inventory: Price Reduced Count Month-Over-Month in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY19460          | Housing Inventory: Price Reduced Count Year-Over-Year in Decatur, AL (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PRIREDCOU19460            | Housing Inventory: Price Reduced Count in Decatur, AL (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM19460          | Housing Inventory: Price Reduced Count Month-Over-Month in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY19460          | Housing Inventory: Price Reduced Count Year-Over-Year in Decatur, AL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP19460                 | Total Quantity Indexes for Real GDP for Decatur, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP19460                 | Total Real Gross Domestic Product for Decatur, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI19460                  | Real Personal Income for Decatur, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -165,4 +165,4 @@
 | SMU01194609094000001      | All Employees: Government: Total State and Local Government in Decatur, AL (MSA)                             | 1990-01-01          | 2022-05-01        |
 | SMU01194609094000001A     | All Employees: Total State and Local Government in Decatur, AL (MSA)                                         | 1990-01-01          | 2021-01-01        |
 | SMU01194609094000001SA    | All Employees: Government: Total State and Local Government in Decatur, AL (MSA)                             | 1990-01-01          | 2022-05-01        |
-| SUSCMSA19460              | Market Hotness: Supply Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA19460              | Market Hotness: Supply Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |

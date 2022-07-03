@@ -1,13 +1,13 @@
 | id                        | title                                                                                                             | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU49620            | Housing Inventory: Active Listing Count in York-Hanover, PA (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM49620          | Housing Inventory: Active Listing Count Month-Over-Month in York-Hanover, PA (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY49620          | Housing Inventory: Active Listing Count Year-Over-Year in York-Hanover, PA (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU49620            | Housing Inventory: Active Listing Count in York-Hanover, PA (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM49620          | Housing Inventory: Active Listing Count Month-Over-Month in York-Hanover, PA (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY49620          | Housing Inventory: Active Listing Count Year-Over-Year in York-Hanover, PA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS49620Q            | All-Transactions House Price Index for York-Hanover, PA (MSA)                                                     | 1983-07-01          | 2022-01-01        |
-| AVELISPRI49620            | Housing Inventory: Average Listing Price in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM49620          | Housing Inventory: Average Listing Price Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY49620          | Housing Inventory: Average Listing Price Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| DESCMSA49620              | Market Hotness: Demand Score in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| AVELISPRI49620            | Housing Inventory: Average Listing Price in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM49620          | Housing Inventory: Average Listing Price Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY49620          | Housing Inventory: Average Listing Price Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| DESCMSA49620              | Market Hotness: Demand Score in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC496230010             | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC496230010SA           | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC496240010             | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,57 +20,57 @@
 | ENUC496240310SA           | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC496240510             | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC496240510SA           | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA49620            | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA49620              | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA49620            | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA49620              | Market Hotness: Hotness Score in York-Hanover, PA (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA49620            | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA49620              | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA49620            | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA49620              | Market Hotness: Hotness Score in York-Hanover, PA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD49620                 | Implicit Regional Price Deflator for York-Hanover, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT424962000000003A     | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT424962000000004      | Unemployed Persons in York-Hanover, PA (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT424962000000004      | Unemployed Persons in York-Hanover, PA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT424962000000004A     | Unemployed Persons in York-Hanover, PA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT424962000000005      | Employed Persons in York-Hanover, PA (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT424962000000005      | Employed Persons in York-Hanover, PA (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT424962000000005A     | Employed Persons in York-Hanover, PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT424962000000006A     | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA49620          | Market Hotness: Listing Views per Property in York-Hanover, PA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA49620        | Market Hotness: Listing Views per Property Versus the United States in York-Hanover, PA (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA49620          | Market Hotness: Listing Views per Property in York-Hanover, PA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA49620        | Market Hotness: Median Days on Market in York-Hanover, PA (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA49620          | Market Hotness: Median Days on Market in York-Hanover, PA (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA49620        | Market Hotness: Median Days on Market in York-Hanover, PA (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR49620          | Housing Inventory: Median Days on Market in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM49620        | Housing Inventory: Median Days on Market Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY49620        | Housing Inventory: Median Days on Market Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI49620            | Housing Inventory: Median Listing Price in York-Hanover, PA (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM49620          | Housing Inventory: Median Listing Price Month-Over-Month in York-Hanover, PA (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE49620   | Housing Inventory: Median Listing Price per Square Feet in York-Hanover, PA (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM49620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in York-Hanover, PA (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY49620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in York-Hanover, PA (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY49620          | Housing Inventory: Median Listing Price Year-Over-Year in York-Hanover, PA (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA49620          | Market Hotness: Median Days on Market in York-Hanover, PA (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA49620          | Market Hotness: Median Days on Market Versus the United States in York-Hanover, PA (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA49620          | Market Hotness: Median Days on Market Day in York-Hanover, PA (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE49620            | Housing Inventory: Median Home Size in Square Feet in York-Hanover, PA (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM49620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in York-Hanover, PA (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY49620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in York-Hanover, PA (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA49620          | Market Hotness: Median Listing Price in York-Hanover, PA (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA49620            | Market Hotness: Median Listing Price in York-Hanover, PA (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA49620        | Market Hotness: Median Listing Price Versus the United States in York-Hanover, PA (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA49620          | Market Hotness: Median Listing Price in York-Hanover, PA (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU49620            | Housing Inventory: New Listing Count in York-Hanover, PA (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM49620          | Housing Inventory: New Listing Count Month-Over-Month in York-Hanover, PA (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY49620          | Housing Inventory: New Listing Count Year-Over-Year in York-Hanover, PA (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA49620          | Market Hotness: Listing Views per Property in York-Hanover, PA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA49620        | Market Hotness: Listing Views per Property Versus the United States in York-Hanover, PA (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA49620          | Market Hotness: Listing Views per Property in York-Hanover, PA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA49620        | Market Hotness: Median Days on Market in York-Hanover, PA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA49620          | Market Hotness: Median Days on Market in York-Hanover, PA (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA49620        | Market Hotness: Median Days on Market in York-Hanover, PA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR49620          | Housing Inventory: Median Days on Market in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM49620        | Housing Inventory: Median Days on Market Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY49620        | Housing Inventory: Median Days on Market Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI49620            | Housing Inventory: Median Listing Price in York-Hanover, PA (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM49620          | Housing Inventory: Median Listing Price Month-Over-Month in York-Hanover, PA (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE49620   | Housing Inventory: Median Listing Price per Square Feet in York-Hanover, PA (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM49620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in York-Hanover, PA (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY49620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in York-Hanover, PA (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY49620          | Housing Inventory: Median Listing Price Year-Over-Year in York-Hanover, PA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA49620          | Market Hotness: Median Days on Market in York-Hanover, PA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA49620          | Market Hotness: Median Days on Market Versus the United States in York-Hanover, PA (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA49620          | Market Hotness: Median Days on Market Day in York-Hanover, PA (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE49620            | Housing Inventory: Median Home Size in Square Feet in York-Hanover, PA (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM49620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in York-Hanover, PA (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY49620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in York-Hanover, PA (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA49620          | Market Hotness: Median Listing Price in York-Hanover, PA (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA49620            | Market Hotness: Median Listing Price in York-Hanover, PA (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA49620        | Market Hotness: Median Listing Price Versus the United States in York-Hanover, PA (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA49620          | Market Hotness: Median Listing Price in York-Hanover, PA (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU49620            | Housing Inventory: New Listing Count in York-Hanover, PA (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM49620          | Housing Inventory: New Listing Count Month-Over-Month in York-Hanover, PA (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY49620          | Housing Inventory: New Listing Count Year-Over-Year in York-Hanover, PA (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP49620                 | Total Gross Domestic Product for York-Hanover, PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA49620            | Market Hotness: Nielsen Household Rank in York-Hanover, PA (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA49620            | Market Hotness: Nielsen Household Rank in York-Hanover, PA (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA149620          | U.S. Granted Utility Patents Originating in York-Hanover, PA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU49620            | Housing Inventory: Pending Listing Count in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM49620          | Housing Inventory: Pending Listing Count Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY49620          | Housing Inventory: Pending Listing Count Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU49620            | Housing Inventory: Price Increased Count in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM49620          | Housing Inventory: Price Increased Count Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY49620          | Housing Inventory: Price Increased Count Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU49620            | Housing Inventory: Price Reduced Count in York-Hanover, PA (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM49620          | Housing Inventory: Price Reduced Count Month-Over-Month in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY49620          | Housing Inventory: Price Reduced Count Year-Over-Year in York-Hanover, PA (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PENLISCOU49620            | Housing Inventory: Pending Listing Count in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM49620          | Housing Inventory: Pending Listing Count Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY49620          | Housing Inventory: Pending Listing Count Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU49620            | Housing Inventory: Price Increased Count in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM49620          | Housing Inventory: Price Increased Count Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY49620          | Housing Inventory: Price Increased Count Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU49620            | Housing Inventory: Price Reduced Count in York-Hanover, PA (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM49620          | Housing Inventory: Price Reduced Count Month-Over-Month in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY49620          | Housing Inventory: Price Reduced Count Year-Over-Year in York-Hanover, PA (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP49620                 | Total Quantity Indexes for Real GDP for York-Hanover, PA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP49620                 | Total Real Gross Domestic Product for York-Hanover, PA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI49620                  | Real Personal Income for York-Hanover, PA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -136,7 +136,7 @@
 | SMU42496209093000001      | All Employees: Government: Local Government in York-Hanover, PA (MSA)                                             | 1990-01-01          | 2022-05-01        |
 | SMU42496209093000001A     | All Employees: Local Government in York-Hanover, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU42496209093000001SA    | All Employees: Government: Local Government in York-Hanover, PA (MSA)                                             | 1990-01-01          | 2022-05-01        |
-| SUSCMSA49620              | Market Hotness: Supply Score in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA49620              | Market Hotness: Supply Score in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | YORK642EDUH               | All Employees: Education and Health Services in York-Hanover, PA (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | YORK642EDUHN              | All Employees: Education and Health Services in York-Hanover, PA (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | YORK642FIRE               | All Employees: Financial Activities in York-Hanover, PA (MSA)                                                     | 1990-01-01          | 2022-05-01        |
@@ -147,8 +147,8 @@
 | YORK642INFON              | All Employees: Information in York-Hanover, PA (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | YORK642LEIH               | All Employees: Leisure and Hospitality in York-Hanover, PA (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | YORK642LEIHN              | All Employees: Leisure and Hospitality in York-Hanover, PA (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| YORK642LF                 | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| YORK642LFN                | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| YORK642LF                 | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| YORK642LFN                | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | YORK642MFG                | All Employees: Manufacturing in York-Hanover, PA (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | YORK642MFGN               | All Employees: Manufacturing in York-Hanover, PA (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | YORK642NA                 | All Employees: Total Nonfarm in York-Hanover, PA (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -162,6 +162,6 @@
 | YORK642SRVON              | All Employees: Other Services in York-Hanover, PA (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | YORK642TRAD               | All Employees: Trade, Transportation, and Utilities in York-Hanover, PA (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | YORK642TRADN              | All Employees: Trade, Transportation, and Utilities in York-Hanover, PA (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| YORK642UR                 | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| YORK642URN                | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| YORK642UR                 | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| YORK642URN                | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | YRKPOP                    | Resident Population in York-Hanover, PA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

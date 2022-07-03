@@ -14,13 +14,13 @@
 | ENUC427040510          | Average Weekly Wages for Employees in Private Establishments in Sebring, FL (MSA)            | 2013-01-01          | 2021-10-01        |
 | ENUC427040510SA        | Average Weekly Wages for Employees in Private Establishments in Sebring, FL (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD42700              | Implicit Regional Price Deflator for Sebring, FL (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT124270000000003   | Unemployment Rate in Sebring, FL (MSA)                                                       | 1990-01-01          | 2022-04-01        |
+| LAUMT124270000000003   | Unemployment Rate in Sebring, FL (MSA)                                                       | 1990-01-01          | 2022-05-01        |
 | LAUMT124270000000003A  | Unemployment Rate in Sebring, FL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT124270000000004   | Unemployed Persons in Sebring, FL (MSA)                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT124270000000004   | Unemployed Persons in Sebring, FL (MSA)                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT124270000000004A  | Unemployed Persons in Sebring, FL (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT124270000000005   | Employed Persons in Sebring, FL (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT124270000000005   | Employed Persons in Sebring, FL (MSA)                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT124270000000005A  | Employed Persons in Sebring, FL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT124270000000006   | Civilian Labor Force in Sebring, FL (MSA)                                                    | 1990-01-01          | 2022-04-01        |
+| LAUMT124270000000006   | Civilian Labor Force in Sebring, FL (MSA)                                                    | 1990-01-01          | 2022-05-01        |
 | LAUMT124270000000006A  | Civilian Labor Force in Sebring, FL (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP42700              | Total Gross Domestic Product for Sebring, FL (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP42700              | Total Quantity Indexes for Real GDP for Sebring, FL (MSA)                                    | 2001-01-01          | 2020-01-01        |

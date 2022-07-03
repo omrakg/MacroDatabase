@@ -6,14 +6,14 @@
 | Allen County, OH      |               147 |
 | Lucas County, OH      |               147 |
 | Vinton County, OH     |                90 |
-| Lake County, OH       |               147 |
+| Lake County, OH       |                 0 |
 | Wood County, OH       |               147 |
 | Clermont County, OH   |               147 |
 | Hocking County, OH    |                89 |
 | Pike County, OH       |                90 |
 | Mahoning County, OH   |               147 |
 | Medina County, OH     |               147 |
-| Guernsey County, OH   |                 0 |
+| Guernsey County, OH   |                89 |
 | Ross County, OH       |               147 |
 | Coshocton County, OH  |                90 |
 | Belmont County, OH    |               145 |
@@ -66,7 +66,7 @@
 | Lawrence County, OH   |               146 |
 | Meigs County, OH      |                90 |
 | Williams County, OH   |                90 |
-| Champaign County, OH  |                90 |
+| Champaign County, OH  |                 0 |
 | Clinton County, OH    |                90 |
 | Cuyahoga County, OH   |               146 |
 | Pickaway County, OH   |               145 |

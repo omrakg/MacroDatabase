@@ -5,4 +5,4 @@
 | All Commercial Banks |                 0 |
 | Domestic Banks       |                 1 |
 | Summary Statistics   |                 1 |
-| Small Domestic Banks |                 1 |
+| Small Domestic Banks |                 0 |

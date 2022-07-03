@@ -36,6 +36,6 @@
 | Garfield County, WA     |                87 |
 | Pacific County, WA      |                89 |
 | Thurston County, WA     |               147 |
-| Franklin County, WA     |               147 |
+| Franklin County, WA     |                 0 |
 | Pierce County, WA       |               147 |
 | Island County, WA       |               147 |

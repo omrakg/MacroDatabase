@@ -92,7 +92,7 @@
 | Northampton County, NC  |                90 |
 | Stanly County, NC       |               146 |
 | Cumberland County, NC   |               147 |
-| Richmond County, NC     |                 0 |
+| Richmond County, NC     |                90 |
 | Rockingham County, NC   |               147 |
 | Beaufort County, NC     |               146 |
 | Anson County, NC        |                88 |

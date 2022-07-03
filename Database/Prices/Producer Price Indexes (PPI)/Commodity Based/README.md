@@ -32,7 +32,7 @@
 | Credit Intermediation Services                                     |                26 |
 | Rubber and Plastic Products                                        |                94 |
 | Hides, Skins, Leather, and Related Products                        |                45 |
-| Contract Work on Textile Products, Apparel, and Leather            |                 0 |
+| Contract Work on Textile Products, Apparel, and Leather            |                26 |
 | Inputs to Industries                                               |               227 |
 | Industrial Commodities Less Fuels                                  |                 0 |
 | Waste Collection and Remediation Services                          |                10 |

@@ -67,11 +67,11 @@
 | A31CTI             | Manufacturers' Total Inventories: Ferrous Metal Foundries                                                           | 1992-01-01          | 2022-04-01        |
 | A31SFI             | Manufacturers' Finished Goods Inventories: Primary Metals                                                           | 1992-01-01          | 2022-04-01        |
 | A31SMI             | Manufacturers' Materials and Supplies Inventories: Primary Metals                                                   | 1992-01-01          | 2022-04-01        |
-| A31STI             | Manufacturers' Total Inventories: Primary Metals                                                                    | 1992-01-01          | 2022-04-01        |
+| A31STI             | Manufacturers' Total Inventories: Primary Metals                                                                    | 1992-01-01          | 2022-05-01        |
 | A31SWI             | Manufacturers' Work in Process Inventories: Primary Metals                                                          | 1992-01-01          | 2022-04-01        |
 | A32SFI             | Manufacturers' Finished Goods Inventories: Fabricated Metal Products                                                | 1992-01-01          | 2022-04-01        |
 | A32SMI             | Manufacturers' Materials and Supplies Inventories: Fabricated Metal Products                                        | 1992-01-01          | 2022-04-01        |
-| A32STI             | Manufacturers' Total Inventories: Fabricated Metal Products                                                         | 1992-01-01          | 2022-04-01        |
+| A32STI             | Manufacturers' Total Inventories: Fabricated Metal Products                                                         | 1992-01-01          | 2022-05-01        |
 | A32SWI             | Manufacturers' Work in Process Inventories: Fabricated Metal Products                                               | 1992-01-01          | 2022-04-01        |
 | A33ATI             | Manufacturers' Total Inventories: Farm Machinery and Equipment Manufacturing                                        | 1992-01-01          | 2022-04-01        |
 | A33CTI             | Manufacturers' Total Inventories: Construction Machinery Manufacturing                                              | 1992-01-01          | 2022-04-01        |
@@ -83,7 +83,7 @@
 | A33MTI             | Manufacturers' Total Inventories: Material Handling Equipment Manufacturing                                         | 1992-01-01          | 2022-04-01        |
 | A33SFI             | Manufacturers' Finished Goods Inventories: Machinery                                                                | 1992-01-01          | 2022-04-01        |
 | A33SMI             | Manufacturers' Materials and Supplies Inventories: Machinery                                                        | 1992-01-01          | 2022-04-01        |
-| A33STI             | Manufacturers' Total Inventories: Machinery                                                                         | 1992-01-01          | 2022-04-01        |
+| A33STI             | Manufacturers' Total Inventories: Machinery                                                                         | 1992-01-01          | 2022-05-01        |
 | A33SWI             | Manufacturers' Work in Process Inventories: Machinery                                                               | 1992-01-01          | 2022-04-01        |
 | A34ATI             | Manufacturers' Total Inventories: Electronic Computer Manufacturing                                                 | 1992-01-01          | 2022-04-01        |
 | A34BTI             | Manufacturers' Total Inventories: Computer Storage Device Manufacturing                                             | 1992-01-01          | 2022-04-01        |
@@ -97,23 +97,23 @@
 | A34KTI             | Manufacturers' Total Inventories: Electromedical, Measuring, and Control Instrument Manufacturing                   | 1992-01-01          | 2022-04-01        |
 | A34SFI             | Manufacturers' Finished Goods Inventories: Computers and Electronic Products                                        | 1992-01-01          | 2022-04-01        |
 | A34SMI             | Manufacturers' Materials and Supplies Inventories: Computers and Electronic Products                                | 1992-01-01          | 2022-04-01        |
-| A34STI             | Manufacturers' Total Inventories: Computers and Electronic Products                                                 | 1992-01-01          | 2022-04-01        |
+| A34STI             | Manufacturers' Total Inventories: Computers and Electronic Products                                                 | 1992-01-01          | 2022-05-01        |
 | A34SWI             | Manufacturers' Work in Process Inventories: Computers and Electronic Products                                       | 1992-01-01          | 2022-04-01        |
-| A34XTI             | Manufacturers' Total Inventories: Communications Equipment                                                          | 1992-01-01          | 2022-04-01        |
+| A34XTI             | Manufacturers' Total Inventories: Communications Equipment                                                          | 1992-01-01          | 2022-05-01        |
 | A35ATI             | Manufacturers' Total Inventories: Electric Lighting Equipment Manufacturing                                         | 1992-01-01          | 2022-04-01        |
 | A35BTI             | Manufacturers' Total Inventories: Household Appliance Manufacturing                                                 | 1992-01-01          | 2022-04-01        |
 | A35CTI             | Manufacturers' Total Inventories: Electrical Equipment Manufacturing                                                | 1992-01-01          | 2022-04-01        |
 | A35DTI             | Manufacturers' Total Inventories: Battery Manufacturing                                                             | 1992-01-01          | 2022-04-01        |
 | A35SFI             | Manufacturers' Finished Goods Inventories: Electrical Equipment, Appliances and Components                          | 1992-01-01          | 2022-04-01        |
 | A35SMI             | Manufacturers' Materials and Supplies Inventories: Electrical Equipment, Appliances and Components                  | 1992-01-01          | 2022-04-01        |
-| A35STI             | Manufacturers' Total Inventories: Electrical Equipment, Appliances and Components                                   | 1992-01-01          | 2022-04-01        |
+| A35STI             | Manufacturers' Total Inventories: Electrical Equipment, Appliances and Components                                   | 1992-01-01          | 2022-05-01        |
 | A35SWI             | Manufacturers' Work in Process Inventories: Electrical Equipment, Appliances and Components                         | 1992-01-01          | 2022-04-01        |
 | A36ATI             | Manufacturers' Total Inventories: Automobile Manufacturing                                                          | 1992-01-01          | 2022-04-01        |
 | A36BTI             | Manufacturers' Total Inventories: Light Truck and Utility Vehicle Manufacturing                                     | 1992-01-01          | 2022-04-01        |
 | A36CTI             | Manufacturers' Total Inventories: Heavy Duty Truck Manufacturing                                                    | 1992-01-01          | 2022-04-01        |
 | A36SFI             | Manufacturers' Finished Goods Inventories: Transportation Equipment                                                 | 1992-01-01          | 2022-04-01        |
 | A36SMI             | Manufacturers' Materials and Supplies Inventories: Transportation Equipment                                         | 1992-01-01          | 2022-04-01        |
-| A36STI             | Manufacturers' Total Inventories: Transportation Equipment                                                          | 1992-01-01          | 2022-04-01        |
+| A36STI             | Manufacturers' Total Inventories: Transportation Equipment                                                          | 1992-01-01          | 2022-05-01        |
 | A36SWI             | Manufacturers' Work in Process Inventories: Transportation Equipment                                                | 1992-01-01          | 2022-04-01        |
 | A36ZTI             | Manufacturers' Total Inventories: Ships and Boats                                                                   | 1992-01-01          | 2022-04-01        |
 | A37SFI             | Manufacturers' Finished Goods Inventories: Furniture and Related Products                                           | 1992-01-01          | 2022-04-01        |
@@ -130,15 +130,15 @@
 | ACMSTI             | Manufacturers' Total Inventories: Construction Materials and Supplies                                               | 1992-01-01          | 2022-04-01        |
 | ACNGTI             | Manufacturers' Total Inventories: Consumer Nondurable Goods                                                         | 1992-01-01          | 2022-04-01        |
 | ACOGTI             | Manufacturers' Total Inventories: Consumer Goods                                                                    | 1992-01-01          | 2022-04-01        |
-| ACRPTI             | Manufacturers' Total Inventories: Computers and Related Products                                                    | 1992-01-01          | 2022-04-01        |
-| ADAPTI             | Manufacturers' Total Inventories: Defense Aircraft and Parts                                                        | 1992-01-01          | 2022-04-01        |
-| ADEFTI             | Manufacturers' Total Inventories: Defense Capital Goods                                                             | 1992-01-01          | 2022-04-01        |
-| ADXDTI             | Manufacturers' Total Inventories: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-04-01        |
-| ADXTTI             | Manufacturers' Total Inventories: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-04-01        |
+| ACRPTI             | Manufacturers' Total Inventories: Computers and Related Products                                                    | 1992-01-01          | 2022-05-01        |
+| ADAPTI             | Manufacturers' Total Inventories: Defense Aircraft and Parts                                                        | 1992-01-01          | 2022-05-01        |
+| ADEFTI             | Manufacturers' Total Inventories: Defense Capital Goods                                                             | 1992-01-01          | 2022-05-01        |
+| ADXDTI             | Manufacturers' Total Inventories: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-05-01        |
+| ADXTTI             | Manufacturers' Total Inventories: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-05-01        |
 | AITITI             | Manufacturers' Total Inventories: Information Technology Industries                                                 | 1992-01-01          | 2022-04-01        |
 | AMDMFI             | Manufacturers' Finished Goods Inventories: Durable Goods                                                            | 1992-01-01          | 2022-04-01        |
 | AMDMMI             | Manufacturers' Materials and Supplies Inventories: Durable Goods                                                    | 1992-01-01          | 2022-04-01        |
-| AMDMTI             | Manufacturers' Total Inventories: Durable Goods                                                                     | 1992-01-01          | 2022-04-01        |
+| AMDMTI             | Manufacturers' Total Inventories: Durable Goods                                                                     | 1992-01-01          | 2022-05-01        |
 | AMDMWI             | Manufacturers' Work in Process Inventories: Durable Goods                                                           | 1992-01-01          | 2022-04-01        |
 | AMNMFI             | Manufacturers' Finished Goods Inventories: Nondurable Goods                                                         | 1992-01-01          | 2022-04-01        |
 | AMNMMI             | Manufacturers' Materials and Supplies Inventories: Nondurable Goods                                                 | 1992-01-01          | 2022-04-01        |
@@ -148,34 +148,34 @@
 | AMTMMI             | Manufacturers' Materials and Supplies Inventories: Total Manufacturing                                              | 1992-01-01          | 2022-04-01        |
 | AMTMTI             | Manufacturers' Total Inventories: Total Manufacturing                                                               | 1992-01-01          | 2022-04-01        |
 | AMTMWI             | Manufacturers' Work in Process Inventories: Total Manufacturing                                                     | 1992-01-01          | 2022-04-01        |
-| AMTUTI             | Manufacturers' Total Inventories: Manufacturing with Unfilled Orders                                                | 1992-01-01          | 2022-04-01        |
-| AMVPTI             | Manufacturers' Total Inventories: Motor Vehicles and Parts                                                          | 1992-01-01          | 2022-04-01        |
+| AMTUTI             | Manufacturers' Total Inventories: Manufacturing with Unfilled Orders                                                | 1992-01-01          | 2022-05-01        |
+| AMVPTI             | Manufacturers' Total Inventories: Motor Vehicles and Parts                                                          | 1992-01-01          | 2022-05-01        |
 | AMXDTI             | Manufacturers' Total Inventories: Manufacturing Excluding Defense                                                   | 1992-01-01          | 2022-04-01        |
 | AMXTTI             | Manufacturers' Total Inventories: Manufacturing Excluding Transportation                                            | 1992-01-01          | 2022-04-01        |
-| ANAPTI             | Manufacturers' Total Inventories: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-04-01        |
-| ANDETI             | Manufacturers' Total Inventories: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-04-01        |
-| ANXATI             | Manufacturers' Total Inventories: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-04-01        |
-| AODGTI             | Manufacturers' Total Inventories: All Other Durable Goods                                                           | 1992-01-01          | 2022-04-01        |
-| ATCGTI             | Manufacturers' Total Inventories: Capital Goods                                                                     | 1992-01-01          | 2022-04-01        |
+| ANAPTI             | Manufacturers' Total Inventories: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-05-01        |
+| ANDETI             | Manufacturers' Total Inventories: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-05-01        |
+| ANXATI             | Manufacturers' Total Inventories: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-05-01        |
+| AODGTI             | Manufacturers' Total Inventories: All Other Durable Goods                                                           | 1992-01-01          | 2022-05-01        |
+| ATCGTI             | Manufacturers' Total Inventories: Capital Goods                                                                     | 1992-01-01          | 2022-05-01        |
 | ATGPTI             | Manufacturers' Total Inventories: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-04-01        |
-| FFGIDSAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting Decreases for Texas                                         | 2004-06-01          | 2022-05-01        |
-| FFGIDUAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting Decreases for Texas                                         | 2004-06-01          | 2022-05-01        |
-| FFGIISAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting Increases for Texas                                         | 2004-06-01          | 2022-05-01        |
-| FFGIIUAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting Increases for Texas                                         | 2004-06-01          | 2022-05-01        |
-| FFGINSAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting No Change for Texas                                         | 2004-06-01          | 2022-05-01        |
-| FFGINUAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting No Change for Texas                                         | 2004-06-01          | 2022-05-01        |
-| FFGISAMFRBDAL      | Future Finished Goods Inventories; Diffusion Index for Texas                                                        | 2004-06-01          | 2022-05-01        |
-| FFGIUAMFRBDAL      | Future Finished Goods Inventories; Diffusion Index for Texas                                                        | 2004-06-01          | 2022-05-01        |
-| FGIDSAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting Decreases for Texas                                        | 2004-06-01          | 2022-05-01        |
-| FGIDUAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting Decreases for Texas                                        | 2004-06-01          | 2022-05-01        |
-| FGIISAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting Increases for Texas                                        | 2004-06-01          | 2022-05-01        |
-| FGIIUAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting Increases for Texas                                        | 2004-06-01          | 2022-05-01        |
-| FGINSAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting No Change for Texas                                        | 2004-06-01          | 2022-05-01        |
-| FGINUAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting No Change for Texas                                        | 2004-06-01          | 2022-05-01        |
-| FGISAMFRBDAL       | Current Finished Goods Inventories; Diffusion Index for Texas                                                       | 2004-06-01          | 2022-05-01        |
-| FGIUAMFRBDAL       | Current Finished Goods Inventories; Diffusion Index for Texas                                                       | 2004-06-01          | 2022-05-01        |
-| INVCMRMT           | Real Manufacturing and Trade Inventories                                                                            | 1997-01-01          | 2022-03-01        |
-| INVCMRMTSPL        | Real Manufacturing and Trade Inventories                                                                            | 1967-01-01          | 2022-03-01        |
+| FFGIDSAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting Decreases for Texas                                         | 2004-06-01          | 2022-06-01        |
+| FFGIDUAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting Decreases for Texas                                         | 2004-06-01          | 2022-06-01        |
+| FFGIISAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting Increases for Texas                                         | 2004-06-01          | 2022-06-01        |
+| FFGIIUAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting Increases for Texas                                         | 2004-06-01          | 2022-06-01        |
+| FFGINSAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting No Change for Texas                                         | 2004-06-01          | 2022-06-01        |
+| FFGINUAMFRBDAL     | Future Finished Goods Inventories; Percentage Reporting No Change for Texas                                         | 2004-06-01          | 2022-06-01        |
+| FFGISAMFRBDAL      | Future Finished Goods Inventories; Diffusion Index for Texas                                                        | 2004-06-01          | 2022-06-01        |
+| FFGIUAMFRBDAL      | Future Finished Goods Inventories; Diffusion Index for Texas                                                        | 2004-06-01          | 2022-06-01        |
+| FGIDSAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting Decreases for Texas                                        | 2004-06-01          | 2022-06-01        |
+| FGIDUAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting Decreases for Texas                                        | 2004-06-01          | 2022-06-01        |
+| FGIISAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting Increases for Texas                                        | 2004-06-01          | 2022-06-01        |
+| FGIIUAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting Increases for Texas                                        | 2004-06-01          | 2022-06-01        |
+| FGINSAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting No Change for Texas                                        | 2004-06-01          | 2022-06-01        |
+| FGINUAMFRBDAL      | Current Finished Goods Inventories; Percentage Reporting No Change for Texas                                        | 2004-06-01          | 2022-06-01        |
+| FGISAMFRBDAL       | Current Finished Goods Inventories; Diffusion Index for Texas                                                       | 2004-06-01          | 2022-06-01        |
+| FGIUAMFRBDAL       | Current Finished Goods Inventories; Diffusion Index for Texas                                                       | 2004-06-01          | 2022-06-01        |
+| INVCMRMT           | Real Manufacturing and Trade Inventories                                                                            | 1997-01-01          | 2022-04-01        |
+| INVCMRMTSPL        | Real Manufacturing and Trade Inventories                                                                            | 1967-01-01          | 2022-04-01        |
 | INVCQRMT           | Real Manufacturing and Trade Inventories                                                                            | 1997-01-01          | 2022-01-01        |
 | INVCQRMTSPL        | Real Manufacturing and Trade Inventories                                                                            | 1967-01-01          | 2022-01-01        |
 | INVHMRMT           | Real Manufacturing and Trade Inventories                                                                            | 1967-01-01          | 1997-12-01        |
@@ -279,11 +279,11 @@
 | U31CTI             | Manufacturers' Total Inventories: Ferrous Metal Foundries                                                           | 1992-01-01          | 2022-04-01        |
 | U31SFI             | Manufacturers' Finished Goods Inventories: Primary Metals                                                           | 1992-01-01          | 2022-04-01        |
 | U31SMI             | Manufacturers' Materials and Supplies Inventories: Primary Metals                                                   | 1992-01-01          | 2022-04-01        |
-| U31STI             | Manufacturers' Total Inventories: Primary Metals                                                                    | 1992-01-01          | 2022-04-01        |
+| U31STI             | Manufacturers' Total Inventories: Primary Metals                                                                    | 1992-01-01          | 2022-05-01        |
 | U31SWI             | Manufacturers' Work in Process Inventories: Primary Metals                                                          | 1992-01-01          | 2022-04-01        |
 | U32SFI             | Manufacturers' Finished Goods Inventories: Fabricated Metal Products                                                | 1992-01-01          | 2022-04-01        |
 | U32SMI             | Manufacturers' Materials and Supplies Inventories: Fabricated Metal Products                                        | 1992-01-01          | 2022-04-01        |
-| U32STI             | Manufacturers' Total Inventories: Fabricated Metal Products                                                         | 1992-01-01          | 2022-04-01        |
+| U32STI             | Manufacturers' Total Inventories: Fabricated Metal Products                                                         | 1992-01-01          | 2022-05-01        |
 | U32SWI             | Manufacturers' Work in Process Inventories: Fabricated Metal Products                                               | 1992-01-01          | 2022-04-01        |
 | U33ATI             | Manufacturers' Total Inventories: Farm Machinery and Equipment Manufacturing                                        | 1992-01-01          | 2022-04-01        |
 | U33CTI             | Manufacturers' Total Inventories: Construction Machinery Manufacturing                                              | 1992-01-01          | 2022-04-01        |
@@ -295,7 +295,7 @@
 | U33MTI             | Manufacturers' Total Inventories: Material Handling Equipment Manufacturing                                         | 1992-01-01          | 2022-04-01        |
 | U33SFI             | Manufacturers' Finished Goods Inventories: Machinery                                                                | 1992-01-01          | 2022-04-01        |
 | U33SMI             | Manufacturers' Materials and Supplies Inventories: Machinery                                                        | 1992-01-01          | 2022-04-01        |
-| U33STI             | Manufacturers' Total Inventories: Machinery                                                                         | 1992-01-01          | 2022-04-01        |
+| U33STI             | Manufacturers' Total Inventories: Machinery                                                                         | 1992-01-01          | 2022-05-01        |
 | U33SWI             | Manufacturers' Work in Process Inventories: Machinery                                                               | 1992-01-01          | 2022-04-01        |
 | U34ATI             | Manufacturers' Total Inventories: Electronic Computer Manufacturing                                                 | 1992-01-01          | 2022-04-01        |
 | U34BTI             | Manufacturers' Total Inventories: Computer Storage Device Manufacturing                                             | 1992-01-01          | 2022-04-01        |
@@ -309,23 +309,23 @@
 | U34KTI             | Manufacturers' Total Inventories: Electromedical, Measuring, and Control Instrument Manufacturing                   | 1992-01-01          | 2022-04-01        |
 | U34SFI             | Manufacturers' Finished Goods Inventories: Computers and Electronic Products                                        | 1992-01-01          | 2022-04-01        |
 | U34SMI             | Manufacturers' Materials and Supplies Inventories: Computers and Electronic Products                                | 1992-01-01          | 2022-04-01        |
-| U34STI             | Manufacturers' Total Inventories: Computers and Electronic Products                                                 | 1992-01-01          | 2022-04-01        |
+| U34STI             | Manufacturers' Total Inventories: Computers and Electronic Products                                                 | 1992-01-01          | 2022-05-01        |
 | U34SWI             | Manufacturers' Work in Process Inventories: Computers and Electronic Products                                       | 1992-01-01          | 2022-04-01        |
-| U34XTI             | Manufacturers' Total Inventories: Communications Equipment                                                          | 1992-01-01          | 2022-04-01        |
+| U34XTI             | Manufacturers' Total Inventories: Communications Equipment                                                          | 1992-01-01          | 2022-05-01        |
 | U35ATI             | Manufacturers' Total Inventories: Electric Lighting Equipment Manufacturing                                         | 1992-01-01          | 2022-04-01        |
 | U35BTI             | Manufacturers' Total Inventories: Household Appliance Manufacturing                                                 | 1992-01-01          | 2022-04-01        |
 | U35CTI             | Manufacturers' Total Inventories: Electrical Equipment Manufacturing                                                | 1992-01-01          | 2022-04-01        |
 | U35DTI             | Manufacturers' Total Inventories: Battery Manufacturing                                                             | 1992-01-01          | 2022-04-01        |
 | U35SFI             | Manufacturers' Finished Goods Inventories: Electrical Equipment, Appliances and Components                          | 1992-01-01          | 2022-04-01        |
 | U35SMI             | Manufacturers' Materials and Supplies Inventories: Electrical Equipment, Appliances and Components                  | 1992-01-01          | 2022-04-01        |
-| U35STI             | Manufacturers' Total Inventories: Electrical Equipment, Appliances and Components                                   | 1992-01-01          | 2022-04-01        |
+| U35STI             | Manufacturers' Total Inventories: Electrical Equipment, Appliances and Components                                   | 1992-01-01          | 2022-05-01        |
 | U35SWI             | Manufacturers' Work in Process Inventories: Electrical Equipment, Appliances and Components                         | 1992-01-01          | 2022-04-01        |
 | U36ATI             | Manufacturers' Total Inventories: Automobile Manufacturing                                                          | 1992-01-01          | 2022-04-01        |
 | U36BTI             | Manufacturers' Total Inventories: Light Truck and Utility Vehicle Manufacturing                                     | 1992-01-01          | 2022-04-01        |
 | U36CTI             | Manufacturers' Total Inventories: Heavy Duty Truck Manufacturing                                                    | 1992-01-01          | 2022-04-01        |
 | U36SFI             | Manufacturers' Finished Goods Inventories: Transportation Equipment                                                 | 1992-01-01          | 2022-04-01        |
 | U36SMI             | Manufacturers' Materials and Supplies Inventories: Transportation Equipment                                         | 1992-01-01          | 2022-04-01        |
-| U36STI             | Manufacturers' Total Inventories: Transportation Equipment                                                          | 1992-01-01          | 2022-04-01        |
+| U36STI             | Manufacturers' Total Inventories: Transportation Equipment                                                          | 1992-01-01          | 2022-05-01        |
 | U36SWI             | Manufacturers' Work in Process Inventories: Transportation Equipment                                                | 1992-01-01          | 2022-04-01        |
 | U36ZTI             | Manufacturers' Total Inventories: Ships and Boats                                                                   | 1992-01-01          | 2022-04-01        |
 | U37SFI             | Manufacturers' Finished Goods Inventories: Furniture and Related Products                                           | 1992-01-01          | 2022-04-01        |
@@ -342,15 +342,15 @@
 | UCMSTI             | Manufacturers' Total Inventories: Construction Materials and Supplies                                               | 1992-01-01          | 2022-04-01        |
 | UCNGTI             | Manufacturers' Total Inventories: Consumer Nondurable Goods                                                         | 1992-01-01          | 2022-04-01        |
 | UCOGTI             | Manufacturers' Total Inventories: Consumer Goods                                                                    | 1992-01-01          | 2022-04-01        |
-| UCRPTI             | Manufacturers' Total Inventories: Computers and Related Products                                                    | 1992-01-01          | 2022-04-01        |
-| UDAPTI             | Manufacturers' Total Inventories: Defense Aircraft and Parts                                                        | 1992-01-01          | 2022-04-01        |
-| UDEFTI             | Manufacturers' Total Inventories: Defense Capital Goods                                                             | 1992-01-01          | 2022-04-01        |
-| UDXDTI             | Manufacturers' Total Inventories: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-04-01        |
-| UDXTTI             | Manufacturers' Total Inventories: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-04-01        |
+| UCRPTI             | Manufacturers' Total Inventories: Computers and Related Products                                                    | 1992-01-01          | 2022-05-01        |
+| UDAPTI             | Manufacturers' Total Inventories: Defense Aircraft and Parts                                                        | 1992-01-01          | 2022-05-01        |
+| UDEFTI             | Manufacturers' Total Inventories: Defense Capital Goods                                                             | 1992-01-01          | 2022-05-01        |
+| UDXDTI             | Manufacturers' Total Inventories: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-05-01        |
+| UDXTTI             | Manufacturers' Total Inventories: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-05-01        |
 | UITITI             | Manufacturers' Total Inventories: Information Technology Industries                                                 | 1992-01-01          | 2022-04-01        |
 | UMDMFI             | Manufacturers' Finished Goods Inventories: Durable Goods                                                            | 1992-01-01          | 2022-04-01        |
 | UMDMMI             | Manufacturers' Materials and Supplies Inventories: Durable Goods                                                    | 1992-01-01          | 2022-04-01        |
-| UMDMTI             | Manufacturers' Total Inventories: Durable Goods                                                                     | 1992-01-01          | 2022-04-01        |
+| UMDMTI             | Manufacturers' Total Inventories: Durable Goods                                                                     | 1992-01-01          | 2022-05-01        |
 | UMDMWI             | Manufacturers' Work in Process Inventories: Durable Goods                                                           | 1992-01-01          | 2022-04-01        |
 | UMNMFI             | Manufacturers' Finished Goods Inventories: Nondurable Goods                                                         | 1992-01-01          | 2022-04-01        |
 | UMNMMI             | Manufacturers' Materials and Supplies Inventories: Nondurable Goods                                                 | 1992-01-01          | 2022-04-01        |
@@ -360,13 +360,13 @@
 | UMTMMI             | Manufacturers' Materials and Supplies Inventories: Total Manufacturing                                              | 1992-01-01          | 2022-04-01        |
 | UMTMTI             | Manufacturers' Total Inventories: Total Manufacturing                                                               | 1992-01-01          | 2022-04-01        |
 | UMTMWI             | Manufacturers' Work in Process Inventories: Total Manufacturing                                                     | 1992-01-01          | 2022-04-01        |
-| UMTUTI             | Manufacturers' Total Inventories: Manufacturing with Unfilled Orders                                                | 1992-01-01          | 2022-04-01        |
-| UMVPTI             | Manufacturers' Total Inventories: Motor Vehicles and Parts                                                          | 1992-01-01          | 2022-04-01        |
+| UMTUTI             | Manufacturers' Total Inventories: Manufacturing with Unfilled Orders                                                | 1992-01-01          | 2022-05-01        |
+| UMVPTI             | Manufacturers' Total Inventories: Motor Vehicles and Parts                                                          | 1992-01-01          | 2022-05-01        |
 | UMXDTI             | Manufacturers' Total Inventories: Manufacturing Excluding Defense                                                   | 1992-01-01          | 2022-04-01        |
 | UMXTTI             | Manufacturers' Total Inventories: Manufacturing Excluding Transportation                                            | 1992-01-01          | 2022-04-01        |
-| UNAPTI             | Manufacturers' Total Inventories: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-04-01        |
-| UNDETI             | Manufacturers' Total Inventories: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-04-01        |
-| UNXATI             | Manufacturers' Total Inventories: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-04-01        |
-| UODGTI             | Manufacturers' Total Inventories: All Other Durable Goods                                                           | 1992-01-01          | 2022-04-01        |
-| UTCGTI             | Manufacturers' Total Inventories: Capital Goods                                                                     | 1992-01-01          | 2022-04-01        |
+| UNAPTI             | Manufacturers' Total Inventories: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-05-01        |
+| UNDETI             | Manufacturers' Total Inventories: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-05-01        |
+| UNXATI             | Manufacturers' Total Inventories: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-05-01        |
+| UODGTI             | Manufacturers' Total Inventories: All Other Durable Goods                                                           | 1992-01-01          | 2022-05-01        |
+| UTCGTI             | Manufacturers' Total Inventories: Capital Goods                                                                     | 1992-01-01          | 2022-05-01        |
 | UTGPTI             | Manufacturers' Total Inventories: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-04-01        |

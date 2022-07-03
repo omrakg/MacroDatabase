@@ -1,13 +1,13 @@
 | id                        | title                                                                                                               | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU38940            | Housing Inventory: Active Listing Count in Port St. Lucie, FL (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM38940          | Housing Inventory: Active Listing Count Month-Over-Month in Port St. Lucie, FL (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY38940          | Housing Inventory: Active Listing Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU38940            | Housing Inventory: Active Listing Count in Port St. Lucie, FL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM38940          | Housing Inventory: Active Listing Count Month-Over-Month in Port St. Lucie, FL (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY38940          | Housing Inventory: Active Listing Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS38940Q            | All-Transactions House Price Index for Port St. Lucie, FL (MSA)                                                     | 1979-01-01          | 2022-01-01        |
-| AVELISPRI38940            | Housing Inventory: Average Listing Price in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM38940          | Housing Inventory: Average Listing Price Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY38940          | Housing Inventory: Average Listing Price Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| DESCMSA38940              | Market Hotness: Demand Score in Port St. Lucie, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| AVELISPRI38940            | Housing Inventory: Average Listing Price in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM38940          | Housing Inventory: Average Listing Price Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY38940          | Housing Inventory: Average Listing Price Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| DESCMSA38940              | Market Hotness: Demand Score in Port St. Lucie, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC389430010             | Total Quarterly Wages in Port St. Lucie, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC389430010SA           | Total Quarterly Wages in Port St. Lucie, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC389440010             | Average Weekly Wages for Employees in Total Covered Establishments in Port St. Lucie, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -21,51 +21,51 @@
 | ENUC389440510             | Average Weekly Wages for Employees in Private Establishments in Port St. Lucie, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC389440510SA           | Average Weekly Wages for Employees in Private Establishments in Port St. Lucie, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | FPRPOP                    | Resident Population in Port St. Lucie, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA38940            | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA38940              | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA38940            | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA38940              | Market Hotness: Hotness Score in Port St. Lucie, FL (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA38940            | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA38940              | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA38940            | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA38940              | Market Hotness: Hotness Score in Port St. Lucie, FL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD38940                 | Implicit Regional Price Deflator for Port St. Lucie, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT123894000000003A     | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT123894000000004      | Unemployed Persons in Port St. Lucie, FL (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT123894000000004      | Unemployed Persons in Port St. Lucie, FL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT123894000000004A     | Unemployed Persons in Port St. Lucie, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT123894000000005      | Employed Persons in Port St. Lucie, FL (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT123894000000005      | Employed Persons in Port St. Lucie, FL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT123894000000005A     | Employed Persons in Port St. Lucie, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT123894000000006A     | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA38940          | Market Hotness: Listing Views per Property in Port St. Lucie, FL (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA38940        | Market Hotness: Listing Views per Property Versus the United States in Port St. Lucie, FL (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA38940          | Market Hotness: Listing Views per Property in Port St. Lucie, FL (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA38940        | Market Hotness: Median Days on Market in Port St. Lucie, FL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA38940          | Market Hotness: Median Days on Market in Port St. Lucie, FL (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA38940        | Market Hotness: Median Days on Market in Port St. Lucie, FL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR38940          | Housing Inventory: Median Days on Market in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM38940        | Housing Inventory: Median Days on Market Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY38940        | Housing Inventory: Median Days on Market Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI38940            | Housing Inventory: Median Listing Price in Port St. Lucie, FL (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM38940          | Housing Inventory: Median Listing Price Month-Over-Month in Port St. Lucie, FL (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE38940   | Housing Inventory: Median Listing Price per Square Feet in Port St. Lucie, FL (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM38940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Port St. Lucie, FL (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY38940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Port St. Lucie, FL (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY38940          | Housing Inventory: Median Listing Price Year-Over-Year in Port St. Lucie, FL (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA38940          | Market Hotness: Median Days on Market in Port St. Lucie, FL (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA38940          | Market Hotness: Median Days on Market Versus the United States in Port St. Lucie, FL (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA38940          | Market Hotness: Median Days on Market Day in Port St. Lucie, FL (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE38940            | Housing Inventory: Median Home Size in Square Feet in Port St. Lucie, FL (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM38940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Port St. Lucie, FL (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY38940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Port St. Lucie, FL (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA38940          | Market Hotness: Median Listing Price in Port St. Lucie, FL (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA38940            | Market Hotness: Median Listing Price in Port St. Lucie, FL (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA38940        | Market Hotness: Median Listing Price Versus the United States in Port St. Lucie, FL (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA38940          | Market Hotness: Median Listing Price in Port St. Lucie, FL (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU38940            | Housing Inventory: New Listing Count in Port St. Lucie, FL (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM38940          | Housing Inventory: New Listing Count Month-Over-Month in Port St. Lucie, FL (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY38940          | Housing Inventory: New Listing Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA38940          | Market Hotness: Listing Views per Property in Port St. Lucie, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA38940        | Market Hotness: Listing Views per Property Versus the United States in Port St. Lucie, FL (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA38940          | Market Hotness: Listing Views per Property in Port St. Lucie, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA38940        | Market Hotness: Median Days on Market in Port St. Lucie, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA38940          | Market Hotness: Median Days on Market in Port St. Lucie, FL (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA38940        | Market Hotness: Median Days on Market in Port St. Lucie, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR38940          | Housing Inventory: Median Days on Market in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM38940        | Housing Inventory: Median Days on Market Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY38940        | Housing Inventory: Median Days on Market Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI38940            | Housing Inventory: Median Listing Price in Port St. Lucie, FL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM38940          | Housing Inventory: Median Listing Price Month-Over-Month in Port St. Lucie, FL (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE38940   | Housing Inventory: Median Listing Price per Square Feet in Port St. Lucie, FL (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM38940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Port St. Lucie, FL (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY38940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Port St. Lucie, FL (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY38940          | Housing Inventory: Median Listing Price Year-Over-Year in Port St. Lucie, FL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA38940          | Market Hotness: Median Days on Market in Port St. Lucie, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA38940          | Market Hotness: Median Days on Market Versus the United States in Port St. Lucie, FL (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA38940          | Market Hotness: Median Days on Market Day in Port St. Lucie, FL (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE38940            | Housing Inventory: Median Home Size in Square Feet in Port St. Lucie, FL (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM38940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Port St. Lucie, FL (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY38940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Port St. Lucie, FL (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA38940          | Market Hotness: Median Listing Price in Port St. Lucie, FL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA38940            | Market Hotness: Median Listing Price in Port St. Lucie, FL (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA38940        | Market Hotness: Median Listing Price Versus the United States in Port St. Lucie, FL (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA38940          | Market Hotness: Median Listing Price in Port St. Lucie, FL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU38940            | Housing Inventory: New Listing Count in Port St. Lucie, FL (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM38940          | Housing Inventory: New Listing Count Month-Over-Month in Port St. Lucie, FL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY38940          | Housing Inventory: New Listing Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP38940                 | Total Gross Domestic Product for Port St. Lucie, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA38940            | Market Hotness: Nielsen Household Rank in Port St. Lucie, FL (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA38940            | Market Hotness: Nielsen Household Rank in Port St. Lucie, FL (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA138940          | U.S. Granted Utility Patents Originating in Port St. Lucie, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU38940            | Housing Inventory: Pending Listing Count in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM38940          | Housing Inventory: Pending Listing Count Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY38940          | Housing Inventory: Pending Listing Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| PENLISCOU38940            | Housing Inventory: Pending Listing Count in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM38940          | Housing Inventory: Pending Listing Count Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY38940          | Housing Inventory: Pending Listing Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
 | PORT912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-05-01        |
 | PORT912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-05-01        |
 | PORT912BPPRIV             | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-05-01        |
@@ -80,8 +80,8 @@
 | PORT912INFON              | All Employees: Information in Port St. Lucie, FL (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | PORT912LEIH               | All Employees: Leisure and Hospitality in Port St. Lucie, FL (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | PORT912LEIHN              | All Employees: Leisure and Hospitality in Port St. Lucie, FL (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| PORT912LF                 | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| PORT912LFN                | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| PORT912LF                 | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| PORT912LFN                | Civilian Labor Force in Port St. Lucie, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | PORT912MFG                | All Employees: Manufacturing in Port St. Lucie, FL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | PORT912MFGN               | All Employees: Manufacturing in Port St. Lucie, FL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | PORT912NA                 | All Employees: Total Nonfarm in Port St. Lucie, FL (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -95,14 +95,14 @@
 | PORT912SRVON              | All Employees: Other Services in Port St. Lucie, FL (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | PORT912TRAD               | All Employees: Trade, Transportation, and Utilities in Port St. Lucie, FL (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | PORT912TRADN              | All Employees: Trade, Transportation, and Utilities in Port St. Lucie, FL (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| PORT912UR                 | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| PORT912URN                | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| PRIINCCOU38940            | Housing Inventory: Price Increased Count in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM38940          | Housing Inventory: Price Increased Count Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY38940          | Housing Inventory: Price Increased Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU38940            | Housing Inventory: Price Reduced Count in Port St. Lucie, FL (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM38940          | Housing Inventory: Price Reduced Count Month-Over-Month in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY38940          | Housing Inventory: Price Reduced Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PORT912UR                 | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| PORT912URN                | Unemployment Rate in Port St. Lucie, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| PRIINCCOU38940            | Housing Inventory: Price Increased Count in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM38940          | Housing Inventory: Price Increased Count Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY38940          | Housing Inventory: Price Increased Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU38940            | Housing Inventory: Price Reduced Count in Port St. Lucie, FL (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM38940          | Housing Inventory: Price Reduced Count Month-Over-Month in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY38940          | Housing Inventory: Price Reduced Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP38940                 | Total Quantity Indexes for Real GDP for Port St. Lucie, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP38940                 | Total Real Gross Domestic Product for Port St. Lucie, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI38940                  | Real Personal Income for Port St. Lucie, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -159,4 +159,4 @@
 | SMU12389409093000001      | All Employees: Government: Local Government in Port St. Lucie, FL (MSA)                                             | 1990-01-01          | 2022-05-01        |
 | SMU12389409093000001A     | All Employees: Local Government in Port St. Lucie, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU12389409093000001SA    | All Employees: Government: Local Government in Port St. Lucie, FL (MSA)                                             | 1990-01-01          | 2022-05-01        |
-| SUSCMSA38940              | Market Hotness: Supply Score in Port St. Lucie, FL (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA38940              | Market Hotness: Supply Score in Port St. Lucie, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |

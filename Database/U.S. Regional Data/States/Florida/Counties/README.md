@@ -3,7 +3,7 @@
 | Jackson County, FL      |                90 |
 | Gulf County, FL         |                90 |
 | Indian River County, FL |               147 |
-| Lafayette County, FL    |                 0 |
+| Lafayette County, FL    |                88 |
 | Liberty County, FL      |                88 |
 | Walton County, FL       |               147 |
 | Calhoun County, FL      |                89 |
@@ -58,12 +58,12 @@
 | Lake County, FL         |               147 |
 | Bradford County, FL     |                90 |
 | Pasco County, FL        |               147 |
-| Taylor County, FL       |                89 |
+| Taylor County, FL       |                 0 |
 | Jefferson County, FL    |                89 |
 | Duval County, FL        |               146 |
 | Madison County, FL      |                88 |
 | Pinellas County, FL     |               147 |
-| De Soto County, FL      |                 0 |
+| De Soto County, FL      |                90 |
 | Seminole County, FL     |               147 |
 | Dixie County, FL        |                89 |
 | Baker County, FL        |                90 |

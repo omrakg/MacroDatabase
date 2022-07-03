@@ -1,6 +1,6 @@
 | Folder                             |   Files / Folders |
 |------------------------------------|-------------------|
-| Huntington-Ashland, WV-KY-OH       |               159 |
+| Huntington-Ashland, WV-KY-OH       |                 0 |
 | Clarksville, TN-KY                 |                 0 |
 | Owensboro, KY                      |               138 |
 | Lexington-Fayette, KY              |               171 |

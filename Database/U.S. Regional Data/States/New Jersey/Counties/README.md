@@ -17,7 +17,7 @@
 | Bergen County, NJ     |               143 |
 | Warren County, NJ     |               143 |
 | Somerset County, NJ   |               143 |
-| Union County, NJ      |                 0 |
+| Union County, NJ      |               143 |
 | Middlesex County, NJ  |               143 |
 | Camden County, NJ     |               147 |
 | Burlington County, NJ |               147 |

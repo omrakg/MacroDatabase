@@ -10,7 +10,7 @@
 | Shelby County, IN      |                90 |
 | Blackford County, IN   |                89 |
 | Gibson County, IN      |                90 |
-| Newton County, IN      |                 0 |
+| Newton County, IN      |                90 |
 | Tipton County, IN      |                90 |
 | Grant County, IN       |               144 |
 | White County, IN       |                90 |
@@ -23,7 +23,7 @@
 | Wayne County, IN       |               147 |
 | Bartholomew County, IN |               147 |
 | Madison County, IN     |               147 |
-| Owen County, IN        |                90 |
+| Owen County, IN        |                 0 |
 | Fayette County, IN     |                90 |
 | Parke County, IN       |                89 |
 | Jefferson County, IN   |                88 |
@@ -70,7 +70,7 @@
 | Tippecanoe County, IN  |               147 |
 | Dearborn County, IN    |               144 |
 | Delaware County, IN    |               147 |
-| Jasper County, IN      |                 0 |
+| Jasper County, IN      |                88 |
 | Floyd County, IN       |               147 |
 | Benton County, IN      |                89 |
 | Steuben County, IN     |                89 |
@@ -83,7 +83,7 @@
 | Lagrange County, IN    |                90 |
 | Warrick County, IN     |               146 |
 | Noble County, IN       |                90 |
-| Vigo County, IN        |               147 |
+| Vigo County, IN        |                 0 |
 | Union County, IN       |                89 |
 | Switzerland County, IN |                89 |
 | Jackson County, IN     |                89 |

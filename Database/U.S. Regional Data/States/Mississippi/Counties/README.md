@@ -2,7 +2,7 @@
 |----------------------------|-------------------|
 | Humphreys County, MS       |                86 |
 | Greene County, MS          |                88 |
-| Simpson County, MS         |                 0 |
+| Simpson County, MS         |                90 |
 | Claiborne County, MS       |                87 |
 | Choctaw County, MS         |                88 |
 | Yalobusha County, MS       |                87 |
@@ -26,7 +26,7 @@
 | Leflore County, MS         |                90 |
 | Marion County, MS          |                89 |
 | Lee County, MS             |               147 |
-| Quitman County, MS         |                87 |
+| Quitman County, MS         |                 0 |
 | Pike County, MS            |                89 |
 | Issaquena County, MS       |                88 |
 | Prentiss County, MS        |                88 |
@@ -62,7 +62,7 @@
 | Walthall County, MS        |                89 |
 | Attala County, MS          |                88 |
 | Adams County, MS           |                89 |
-| Madison County, MS         |                 0 |
+| Madison County, MS         |               147 |
 | Union County, MS           |                89 |
 | Yazoo County, MS           |                88 |
 | George County, MS          |                89 |

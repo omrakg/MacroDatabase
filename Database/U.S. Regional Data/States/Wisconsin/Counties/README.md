@@ -41,7 +41,7 @@
 | Iron County, WI                         |                88 |
 | Adams County, WI                        |                90 |
 | Monroe County, WI                       |                90 |
-| Walworth County, WI                     |                 0 |
+| Walworth County, WI                     |               147 |
 | Waukesha County, WI                     |               147 |
 | Price County, WI                        |                89 |
 | Milwaukee County, WI                    |               146 |

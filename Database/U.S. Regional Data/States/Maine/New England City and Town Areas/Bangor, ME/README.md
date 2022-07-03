@@ -10,8 +10,8 @@
 | BANG723INFON           | All Employees: Information in Bangor, ME (NECTA)                                                              | 1990-01-01          | 2022-05-01        |
 | BANG723LEIH            | All Employees: Leisure and Hospitality in Bangor, ME (NECTA)                                                  | 1990-01-01          | 2022-05-01        |
 | BANG723LEIHN           | All Employees: Leisure and Hospitality in Bangor, ME (NECTA)                                                  | 1990-01-01          | 2022-05-01        |
-| BANG723LF              | Civilian Labor Force in Bangor, ME (NECTA)                                                                    | 1990-01-01          | 2022-04-01        |
-| BANG723LFN             | Civilian Labor Force in Bangor, ME (NECTA)                                                                    | 1990-01-01          | 2022-04-01        |
+| BANG723LF              | Civilian Labor Force in Bangor, ME (NECTA)                                                                    | 1990-01-01          | 2022-05-01        |
+| BANG723LFN             | Civilian Labor Force in Bangor, ME (NECTA)                                                                    | 1990-01-01          | 2022-05-01        |
 | BANG723MFG             | All Employees: Manufacturing in Bangor, ME (NECTA)                                                            | 1990-01-01          | 2022-05-01        |
 | BANG723MFGN            | All Employees: Manufacturing in Bangor, ME (NECTA)                                                            | 1990-01-01          | 2022-05-01        |
 | BANG723NA              | All Employees: Total Nonfarm in Bangor, ME (NECTA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -23,12 +23,12 @@
 | BANG723SRVON           | All Employees: Other Services in Bangor, ME (NECTA)                                                           | 1990-01-01          | 2022-05-01        |
 | BANG723TRAD            | All Employees: Trade, Transportation, and Utilities in Bangor, ME (NECTA)                                     | 1990-01-01          | 2022-05-01        |
 | BANG723TRADN           | All Employees: Trade, Transportation, and Utilities in Bangor, ME (NECTA)                                     | 1990-01-01          | 2022-05-01        |
-| BANG723UR              | Unemployment Rate in Bangor, ME (NECTA)                                                                       | 1990-01-01          | 2022-04-01        |
-| BANG723URN             | Unemployment Rate in Bangor, ME (NECTA)                                                                       | 1990-01-01          | 2022-04-01        |
+| BANG723UR              | Unemployment Rate in Bangor, ME (NECTA)                                                                       | 1990-01-01          | 2022-05-01        |
+| BANG723URN             | Unemployment Rate in Bangor, ME (NECTA)                                                                       | 1990-01-01          | 2022-05-01        |
 | LAUMT237075000000003A  | Unemployment Rate in Bangor, ME (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT237075000000004   | Unemployed Persons in Bangor, ME (NECTA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT237075000000004   | Unemployed Persons in Bangor, ME (NECTA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT237075000000004A  | Unemployed Persons in Bangor, ME (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT237075000000005   | Employed Persons in Bangor, ME (NECTA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT237075000000005   | Employed Persons in Bangor, ME (NECTA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT237075000000005A  | Employed Persons in Bangor, ME (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT237075000000006A  | Civilian Labor Force in Bangor, ME (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
 | SMS23707500000000026   | All Employees: Total Nonfarm in Bangor, ME (NECTA)                                                            | 1990-04-01          | 2022-05-01        |

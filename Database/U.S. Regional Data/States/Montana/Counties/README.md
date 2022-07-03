@@ -25,7 +25,7 @@
 | Richland County, MT        |                89 |
 | Park County, MT            |                90 |
 | Phillips County, MT        |                88 |
-| Deer Lodge County, MT      |                 0 |
+| Deer Lodge County, MT      |                89 |
 | Golden Valley County, MT   |                87 |
 | Granite County, MT         |                88 |
 | Toole County, MT           |                90 |

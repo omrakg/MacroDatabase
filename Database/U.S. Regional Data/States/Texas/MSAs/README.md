@@ -7,7 +7,7 @@
 | Sherman-Denison, TX                  |               137 |
 | Tyler, TX                            |               161 |
 | Odessa, TX                           |               166 |
-| Waco, TX                             |               162 |
+| Waco, TX                             |                 0 |
 | Abilene, TX                          |               162 |
 | San Antonio, TX                      |               312 |
 | Corpus Christi, TX                   |               180 |

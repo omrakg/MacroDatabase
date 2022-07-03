@@ -13,5 +13,5 @@
 | Rome, GA                             |               118 |
 | Athens-Clarke County, GA             |               134 |
 | Albany, GA                           |               131 |
-| Atlanta-Sandy Springs-Alpharetta, GA |                 0 |
+| Atlanta-Sandy Springs-Alpharetta, GA |               305 |
 | Savannah, GA                         |               158 |

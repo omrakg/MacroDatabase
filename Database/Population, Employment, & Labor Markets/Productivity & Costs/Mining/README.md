@@ -16,11 +16,11 @@
 | USMINEXOILGASQGSP   | Chain-Type Quantity Index for Real GDP: Mining (Except Oil and Gas) (NAICS 212) in the United States                            | 1997-01-01          | 2020-01-01        |
 | USMINEXOILGASRGSP   | Real Gross Domestic Product: Mining (Except Oil and Gas) (NAICS 212) in the United States                                       | 1997-01-01          | 2020-01-01        |
 | USMINNGSP           | Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                           | 1997-01-01          | 2021-01-01        |
-| USMINNQGSP          | Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                           | 2005-01-01          | 2021-10-01        |
+| USMINNQGSP          | Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                           | 2005-01-01          | 2022-01-01        |
 | USMINQGSP           | Chain-Type Quantity Index for Real GDP: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States           | 1997-01-01          | 2021-01-01        |
-| USMINQQGSP          | Chain-Type Quantity Index for Real GDP: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States           | 2005-01-01          | 2021-10-01        |
+| USMINQQGSP          | Chain-Type Quantity Index for Real GDP: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States           | 2005-01-01          | 2022-01-01        |
 | USMINRGSP           | Real Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                      | 1997-01-01          | 2021-01-01        |
-| USMINRQGSP          | Real Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                      | 2005-01-01          | 2021-10-01        |
+| USMINRQGSP          | Real Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                      | 2005-01-01          | 2022-01-01        |
 | USOILGASNGSP        | Gross Domestic Product: Oil and Gas Extraction (NAICS 211) in the United States                                                 | 1997-01-01          | 2020-01-01        |
 | USOILGASQGSP        | Chain-Type Quantity Index for Real GDP: Oil and Gas Extraction (NAICS 211) in the United States                                 | 1997-01-01          | 2020-01-01        |
 | USOILGASRGSP        | Real Gross Domestic Product: Oil and Gas Extraction (NAICS 211) in the United States                                            | 1997-01-01          | 2020-01-01        |

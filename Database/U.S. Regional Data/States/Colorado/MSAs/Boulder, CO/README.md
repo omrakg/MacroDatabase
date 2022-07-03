@@ -1,12 +1,12 @@
 | id                        | title                                                                                                                    | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU14500            | Housing Inventory: Active Listing Count in Boulder, CO (CBSA)                                                            | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM14500          | Housing Inventory: Active Listing Count Month-Over-Month in Boulder, CO (CBSA)                                           | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY14500          | Housing Inventory: Active Listing Count Year-Over-Year in Boulder, CO (CBSA)                                             | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU14500            | Housing Inventory: Active Listing Count in Boulder, CO (CBSA)                                                            | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM14500          | Housing Inventory: Active Listing Count Month-Over-Month in Boulder, CO (CBSA)                                           | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY14500          | Housing Inventory: Active Listing Count Year-Over-Year in Boulder, CO (CBSA)                                             | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS14500Q            | All-Transactions House Price Index for Boulder, CO (MSA)                                                                 | 1978-01-01          | 2022-01-01        |
-| AVELISPRI14500            | Housing Inventory: Average Listing Price in Boulder, CO (CBSA)                                                           | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM14500          | Housing Inventory: Average Listing Price Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY14500          | Housing Inventory: Average Listing Price Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-05-01        |
+| AVELISPRI14500            | Housing Inventory: Average Listing Price in Boulder, CO (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM14500          | Housing Inventory: Average Listing Price Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY14500          | Housing Inventory: Average Listing Price Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
 | BOLPOP                    | Resident Population in Boulder, CO (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
 | BOUL508EDUH               | All Employees: Education and Health Services in Boulder, CO (MSA)                                                        | 1990-01-01          | 2022-05-01        |
 | BOUL508EDUHN              | All Employees: Education and Health Services in Boulder, CO (MSA)                                                        | 1990-01-01          | 2022-05-01        |
@@ -18,8 +18,8 @@
 | BOUL508INFON              | All Employees: Information in Boulder, CO (MSA)                                                                          | 1990-01-01          | 2022-05-01        |
 | BOUL508LEIH               | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | BOUL508LEIHN              | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2022-05-01        |
-| BOUL508LF                 | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-04-01        |
-| BOUL508LFN                | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-04-01        |
+| BOUL508LF                 | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-05-01        |
+| BOUL508LFN                | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-05-01        |
 | BOUL508MFG                | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | BOUL508MFGN               | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | BOUL508NA                 | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
@@ -33,9 +33,9 @@
 | BOUL508SRVON              | All Employees: Other Services in Boulder, CO (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | BOUL508TRAD               | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2022-05-01        |
 | BOUL508TRADN              | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2022-05-01        |
-| BOUL508UR                 | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-04-01        |
-| BOUL508URN                | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-04-01        |
-| DESCMSA14500              | Market Hotness: Demand Score in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
+| BOUL508UR                 | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-05-01        |
+| BOUL508URN                | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-05-01        |
+| DESCMSA14500              | Market Hotness: Demand Score in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
 | ENUC145030010             | Total Quarterly Wages in Boulder, CO (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
 | ENUC145030010SA           | Total Quarterly Wages in Boulder, CO (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
 | ENUC145040010             | Average Weekly Wages for Employees in Total Covered Establishments in Boulder, CO (MSA)                                  | 1990-01-01          | 2021-10-01        |
@@ -48,57 +48,57 @@
 | ENUC145040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Boulder, CO (MSA)                               | 2016-01-01          | 2021-10-01        |
 | ENUC145040510             | Average Weekly Wages for Employees in Private Establishments in Boulder, CO (MSA)                                        | 1990-01-01          | 2021-10-01        |
 | ENUC145040510SA           | Average Weekly Wages for Employees in Private Establishments in Boulder, CO (MSA)                                        | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA14500            | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
-| HORAMSA14500              | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA14500            | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
-| HOSCMSA14500              | Market Hotness: Hotness Score in Boulder, CO (CBSA)                                                                      | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA14500            | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2018-08-01          | 2022-06-01        |
+| HORAMSA14500              | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA14500            | Market Hotness: Hotness Rank in Boulder, CO (CBSA)                                                                       | 2018-08-01          | 2022-06-01        |
+| HOSCMSA14500              | Market Hotness: Hotness Score in Boulder, CO (CBSA)                                                                      | 2017-08-01          | 2022-06-01        |
 | IRPD14500                 | Implicit Regional Price Deflator for Boulder, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT081450000000003A     | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT081450000000004      | Unemployed Persons in Boulder, CO (MSA)                                                                                  | 1990-01-01          | 2022-04-01        |
+| LAUMT081450000000004      | Unemployed Persons in Boulder, CO (MSA)                                                                                  | 1990-01-01          | 2022-05-01        |
 | LAUMT081450000000004A     | Unemployed Persons in Boulder, CO (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT081450000000005      | Employed Persons in Boulder, CO (MSA)                                                                                    | 1990-01-01          | 2022-04-01        |
+| LAUMT081450000000005      | Employed Persons in Boulder, CO (MSA)                                                                                    | 1990-01-01          | 2022-05-01        |
 | LAUMT081450000000005A     | Employed Persons in Boulder, CO (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT081450000000006A     | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA14500          | Market Hotness: Listing Views per Property in Boulder, CO (CBSA)                                                         | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA14500        | Market Hotness: Listing Views per Property Versus the United States in Boulder, CO (CBSA)                                | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA14500          | Market Hotness: Listing Views per Property in Boulder, CO (CBSA)                                                         | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA14500        | Market Hotness: Median Days on Market in Boulder, CO (CBSA)                                                              | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA14500          | Market Hotness: Median Days on Market in Boulder, CO (CBSA)                                                              | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA14500        | Market Hotness: Median Days on Market in Boulder, CO (CBSA)                                                              | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR14500          | Housing Inventory: Median Days on Market in Boulder, CO (CBSA)                                                           | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM14500        | Housing Inventory: Median Days on Market Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY14500        | Housing Inventory: Median Days on Market Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI14500            | Housing Inventory: Median Listing Price in Boulder, CO (CBSA)                                                            | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM14500          | Housing Inventory: Median Listing Price Month-Over-Month in Boulder, CO (CBSA)                                           | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE14500   | Housing Inventory: Median Listing Price per Square Feet in Boulder, CO (CBSA)                                            | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM14500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Boulder, CO (CBSA)                           | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY14500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Boulder, CO (CBSA)                             | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY14500          | Housing Inventory: Median Listing Price Year-Over-Year in Boulder, CO (CBSA)                                             | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA14500          | Market Hotness: Median Days on Market in Boulder, CO (CBSA)                                                              | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA14500          | Market Hotness: Median Days on Market Versus the United States in Boulder, CO (CBSA)                                     | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA14500          | Market Hotness: Median Days on Market Day in Boulder, CO (CBSA)                                                          | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE14500            | Housing Inventory: Median Home Size in Square Feet in Boulder, CO (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM14500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Boulder, CO (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY14500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Boulder, CO (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA14500          | Market Hotness: Median Listing Price in Boulder, CO (CBSA)                                                               | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA14500            | Market Hotness: Median Listing Price in Boulder, CO (CBSA)                                                               | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA14500        | Market Hotness: Median Listing Price Versus the United States in Boulder, CO (CBSA)                                      | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA14500          | Market Hotness: Median Listing Price in Boulder, CO (CBSA)                                                               | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU14500            | Housing Inventory: New Listing Count in Boulder, CO (CBSA)                                                               | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM14500          | Housing Inventory: New Listing Count Month-Over-Month in Boulder, CO (CBSA)                                              | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY14500          | Housing Inventory: New Listing Count Year-Over-Year in Boulder, CO (CBSA)                                                | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA14500          | Market Hotness: Listing Views per Property in Boulder, CO (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA14500        | Market Hotness: Listing Views per Property Versus the United States in Boulder, CO (CBSA)                                | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA14500          | Market Hotness: Listing Views per Property in Boulder, CO (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA14500        | Market Hotness: Median Days on Market in Boulder, CO (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA14500          | Market Hotness: Median Days on Market in Boulder, CO (CBSA)                                                              | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA14500        | Market Hotness: Median Days on Market in Boulder, CO (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR14500          | Housing Inventory: Median Days on Market in Boulder, CO (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM14500        | Housing Inventory: Median Days on Market Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY14500        | Housing Inventory: Median Days on Market Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI14500            | Housing Inventory: Median Listing Price in Boulder, CO (CBSA)                                                            | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM14500          | Housing Inventory: Median Listing Price Month-Over-Month in Boulder, CO (CBSA)                                           | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE14500   | Housing Inventory: Median Listing Price per Square Feet in Boulder, CO (CBSA)                                            | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM14500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Boulder, CO (CBSA)                           | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY14500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Boulder, CO (CBSA)                             | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY14500          | Housing Inventory: Median Listing Price Year-Over-Year in Boulder, CO (CBSA)                                             | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA14500          | Market Hotness: Median Days on Market in Boulder, CO (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA14500          | Market Hotness: Median Days on Market Versus the United States in Boulder, CO (CBSA)                                     | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA14500          | Market Hotness: Median Days on Market Day in Boulder, CO (CBSA)                                                          | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE14500            | Housing Inventory: Median Home Size in Square Feet in Boulder, CO (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM14500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Boulder, CO (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY14500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Boulder, CO (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA14500          | Market Hotness: Median Listing Price in Boulder, CO (CBSA)                                                               | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA14500            | Market Hotness: Median Listing Price in Boulder, CO (CBSA)                                                               | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA14500        | Market Hotness: Median Listing Price Versus the United States in Boulder, CO (CBSA)                                      | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA14500          | Market Hotness: Median Listing Price in Boulder, CO (CBSA)                                                               | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU14500            | Housing Inventory: New Listing Count in Boulder, CO (CBSA)                                                               | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM14500          | Housing Inventory: New Listing Count Month-Over-Month in Boulder, CO (CBSA)                                              | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY14500          | Housing Inventory: New Listing Count Year-Over-Year in Boulder, CO (CBSA)                                                | 2017-07-01          | 2022-06-01        |
 | NGMP14500                 | Total Gross Domestic Product for Boulder, CO (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA14500            | Market Hotness: Nielsen Household Rank in Boulder, CO (CBSA)                                                             | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA14500            | Market Hotness: Nielsen Household Rank in Boulder, CO (CBSA)                                                             | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA114500          | U.S. Granted Utility Patents Originating in Boulder, CO (MSA)                                                            | 2000-01-01          | 2015-01-01        |
-| PENLISCOU14500            | Housing Inventory: Pending Listing Count in Boulder, CO (CBSA)                                                           | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM14500          | Housing Inventory: Pending Listing Count Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY14500          | Housing Inventory: Pending Listing Count Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU14500            | Housing Inventory: Price Increased Count in Boulder, CO (CBSA)                                                           | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM14500          | Housing Inventory: Price Increased Count Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY14500          | Housing Inventory: Price Increased Count Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU14500            | Housing Inventory: Price Reduced Count in Boulder, CO (CBSA)                                                             | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM14500          | Housing Inventory: Price Reduced Count Month-Over-Month in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY14500          | Housing Inventory: Price Reduced Count Year-Over-Year in Boulder, CO (CBSA)                                              | 2017-07-01          | 2022-05-01        |
+| PENLISCOU14500            | Housing Inventory: Pending Listing Count in Boulder, CO (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM14500          | Housing Inventory: Pending Listing Count Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY14500          | Housing Inventory: Pending Listing Count Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU14500            | Housing Inventory: Price Increased Count in Boulder, CO (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM14500          | Housing Inventory: Price Increased Count Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY14500          | Housing Inventory: Price Increased Count Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU14500            | Housing Inventory: Price Reduced Count in Boulder, CO (CBSA)                                                             | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM14500          | Housing Inventory: Price Reduced Count Month-Over-Month in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY14500          | Housing Inventory: Price Reduced Count Year-Over-Year in Boulder, CO (CBSA)                                              | 2017-07-01          | 2022-06-01        |
 | QGMP14500                 | Total Quantity Indexes for Real GDP for Boulder, CO (MSA)                                                                | 2001-01-01          | 2020-01-01        |
 | RGMP14500                 | Total Real Gross Domestic Product for Boulder, CO (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
 | RPI14500                  | Real Personal Income for Boulder, CO (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
@@ -173,4 +173,4 @@
 | SMU08145009093161101      | All Employees: Government: Local Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-05-01        |
 | SMU08145009093161101A     | All Employees: Local Government Educational Services in Boulder, CO (MSA)                                                | 1990-01-01          | 2021-01-01        |
 | SMU08145009093161101SA    | All Employees: Government: Local Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-05-01        |
-| SUSCMSA14500              | Market Hotness: Supply Score in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
+| SUSCMSA14500              | Market Hotness: Supply Score in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |

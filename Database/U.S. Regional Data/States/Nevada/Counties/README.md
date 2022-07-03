@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Humboldt County, NV   |                90 |
+| Humboldt County, NV   |                 0 |
 | Douglas County, NV    |               146 |
 | Lyon County, NV       |               146 |
 | Eureka County, NV     |                85 |

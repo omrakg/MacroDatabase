@@ -3,7 +3,7 @@
 | Emmet County, MI          |                90 |
 | Saginaw County, MI        |               147 |
 | Otsego County, MI         |                89 |
-| Macomb County, MI         |                 0 |
+| Macomb County, MI         |               147 |
 | Berrien County, MI        |               147 |
 | Sanilac County, MI        |                90 |
 | Clinton County, MI        |               147 |
@@ -16,7 +16,7 @@
 | Alcona County, MI         |                90 |
 | Barry County, MI          |               146 |
 | Kent County, MI           |               147 |
-| Washtenaw County, MI      |               147 |
+| Washtenaw County, MI      |                 0 |
 | Lenawee County, MI        |               147 |
 | Mackinac County, MI       |                89 |
 | Presque Isle County, MI   |                90 |
@@ -63,7 +63,7 @@
 | Antrim County, MI         |                90 |
 | Muskegon County, MI       |               147 |
 | Montmorency County, MI    |                89 |
-| Wexford County, MI        |                 0 |
+| Wexford County, MI        |                90 |
 | Monroe County, MI         |               147 |
 | St. Clair County, MI      |               147 |
 | Crawford County, MI       |                90 |
@@ -76,7 +76,7 @@
 | Ontonagon County, MI      |                89 |
 | Cass County, MI           |               146 |
 | Newaygo County, MI        |                90 |
-| Jackson County, MI        |               146 |
+| Jackson County, MI        |                 0 |
 | Benzie County, MI         |                90 |
 | Gratiot County, MI        |                90 |
 | Kalkaska County, MI       |                89 |

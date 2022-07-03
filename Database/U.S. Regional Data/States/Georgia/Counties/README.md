@@ -30,7 +30,7 @@
 | Lincoln County, GA       |                89 |
 | Hall County, GA          |               147 |
 | Dougherty County, GA     |               147 |
-| Echols County, GA        |                88 |
+| Echols County, GA        |                 0 |
 | Brantley County, GA      |                88 |
 | Towns County, GA         |                89 |
 | Gwinnett County, GA      |               147 |
@@ -57,7 +57,7 @@
 | Berrien County, GA       |                89 |
 | Peach County, GA         |                90 |
 | Miller County, GA        |                87 |
-| Union County, GA         |                 0 |
+| Union County, GA         |                90 |
 | Baker County, GA         |                87 |
 | Charlton County, GA      |                87 |
 | Johnson County, GA       |                88 |
@@ -90,7 +90,7 @@
 | McDuffie County, GA      |                90 |
 | Fayette County, GA       |               147 |
 | Cobb County, GA          |               147 |
-| Columbia County, GA      |               146 |
+| Columbia County, GA      |                 0 |
 | Richmond County, GA      |               146 |
 | Hart County, GA          |                89 |
 | Laurens County, GA       |               146 |
@@ -117,7 +117,7 @@
 | Grady County, GA         |                90 |
 | Montgomery County, GA    |                87 |
 | Wayne County, GA         |                89 |
-| Quitman County, GA       |                 0 |
+| Quitman County, GA       |                87 |
 | Dade County, GA          |                90 |
 | Bulloch County, GA       |               147 |
 | Long County, GA          |                88 |
@@ -150,7 +150,7 @@
 | De Kalb County, GA       |               147 |
 | Mitchell County, GA      |                90 |
 | Dodge County, GA         |                90 |
-| Jasper County, GA        |                90 |
+| Jasper County, GA        |                 0 |
 | Stephens County, GA      |                90 |
 | Bacon County, GA         |                88 |
 | Paulding County, GA      |               147 |

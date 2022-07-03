@@ -17,7 +17,7 @@
 | Mason County, IL       |                90 |
 | Schuyler County, IL    |                90 |
 | Greene County, IL      |                90 |
-| Henry County, IL       |                 0 |
+| Henry County, IL       |               143 |
 | Ford County, IL        |                90 |
 | Macoupin County, IL    |               144 |
 | Union County, IL       |                89 |
@@ -77,7 +77,7 @@
 | Edwards County, IL     |                88 |
 | Jasper County, IL      |                88 |
 | Randolph County, IL    |                90 |
-| De Kalb County, IL     |                 0 |
+| De Kalb County, IL     |               147 |
 | Fulton County, IL      |                90 |
 | Jefferson County, IL   |                90 |
 | Scott County, IL       |                89 |

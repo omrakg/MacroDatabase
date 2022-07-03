@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                   | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU21660            | Housing Inventory: Active Listing Count in Eugene, OR (CBSA)                                                            | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM21660          | Housing Inventory: Active Listing Count Month-Over-Month in Eugene, OR (CBSA)                                           | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY21660          | Housing Inventory: Active Listing Count Year-Over-Year in Eugene, OR (CBSA)                                             | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU21660            | Housing Inventory: Active Listing Count in Eugene, OR (CBSA)                                                            | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM21660          | Housing Inventory: Active Listing Count Month-Over-Month in Eugene, OR (CBSA)                                           | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY21660          | Housing Inventory: Active Listing Count Year-Over-Year in Eugene, OR (CBSA)                                             | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS21660Q            | All-Transactions House Price Index for Eugene-Springfield, OR (MSA)                                                     | 1977-07-01          | 2022-01-01        |
-| AVELISPRI21660            | Housing Inventory: Average Listing Price in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM21660          | Housing Inventory: Average Listing Price Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY21660          | Housing Inventory: Average Listing Price Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| DESCMSA21660              | Market Hotness: Demand Score in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
+| AVELISPRI21660            | Housing Inventory: Average Listing Price in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM21660          | Housing Inventory: Average Listing Price Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY21660          | Housing Inventory: Average Listing Price Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| DESCMSA21660              | Market Hotness: Demand Score in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
 | ENUC216630010             | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
 | ENUC216630010SA           | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
 | ENUC216640010             | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -34,8 +34,8 @@
 | EUGE641INFON              | All Employees: Information in Eugene, OR (MSA)                                                                          | 1990-01-01          | 2022-05-01        |
 | EUGE641LEIH               | All Employees: Leisure and Hospitality in Eugene, OR (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | EUGE641LEIHN              | All Employees: Leisure and Hospitality in Eugene, OR (MSA)                                                              | 1990-01-01          | 2022-05-01        |
-| EUGE641LF                 | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2022-04-01        |
-| EUGE641LFN                | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2022-04-01        |
+| EUGE641LF                 | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2022-05-01        |
+| EUGE641LFN                | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2022-05-01        |
 | EUGE641MFG                | All Employees: Manufacturing in Eugene, OR (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | EUGE641MFGN               | All Employees: Manufacturing in Eugene, OR (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | EUGE641NA                 | All Employees: Total Nonfarm in Eugene, OR (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
@@ -47,60 +47,60 @@
 | EUGE641SRVON              | All Employees: Other Services in Eugene, OR (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | EUGE641TRAD               | All Employees: Trade, Transportation, and Utilities in Eugene, OR (MSA)                                                 | 1990-01-01          | 2022-05-01        |
 | EUGE641TRADN              | All Employees: Trade, Transportation, and Utilities in Eugene, OR (MSA)                                                 | 1990-01-01          | 2022-05-01        |
-| EUGE641UR                 | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2022-04-01        |
-| EUGE641URN                | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2022-04-01        |
+| EUGE641UR                 | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2022-05-01        |
+| EUGE641URN                | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2022-05-01        |
 | EUGPOP                    | Resident Population in Eugene, OR (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA21660            | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
-| HORAMSA21660              | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA21660            | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2018-08-01          | 2022-05-01        |
-| HOSCMSA21660              | Market Hotness: Hotness Score in Eugene, OR (CBSA)                                                                      | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA21660            | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2018-08-01          | 2022-06-01        |
+| HORAMSA21660              | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA21660            | Market Hotness: Hotness Rank in Eugene, OR (CBSA)                                                                       | 2018-08-01          | 2022-06-01        |
+| HOSCMSA21660              | Market Hotness: Hotness Score in Eugene, OR (CBSA)                                                                      | 2017-08-01          | 2022-06-01        |
 | IRPD21660                 | Implicit Regional Price Deflator for Eugene, OR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT412166000000003A     | Unemployment Rate in Eugene, OR (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT412166000000004      | Unemployed Persons in Eugene, OR (MSA)                                                                                  | 1990-01-01          | 2022-04-01        |
+| LAUMT412166000000004      | Unemployed Persons in Eugene, OR (MSA)                                                                                  | 1990-01-01          | 2022-05-01        |
 | LAUMT412166000000004A     | Unemployed Persons in Eugene, OR (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT412166000000005      | Employed Persons in Eugene, OR (MSA)                                                                                    | 1990-01-01          | 2022-04-01        |
+| LAUMT412166000000005      | Employed Persons in Eugene, OR (MSA)                                                                                    | 1990-01-01          | 2022-05-01        |
 | LAUMT412166000000005A     | Employed Persons in Eugene, OR (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT412166000000006A     | Civilian Labor Force in Eugene, OR (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA21660          | Market Hotness: Listing Views per Property in Eugene, OR (CBSA)                                                         | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA21660        | Market Hotness: Listing Views per Property Versus the United States in Eugene, OR (CBSA)                                | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA21660          | Market Hotness: Listing Views per Property in Eugene, OR (CBSA)                                                         | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA21660        | Market Hotness: Median Days on Market in Eugene, OR (CBSA)                                                              | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA21660          | Market Hotness: Median Days on Market in Eugene, OR (CBSA)                                                              | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA21660        | Market Hotness: Median Days on Market in Eugene, OR (CBSA)                                                              | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR21660          | Housing Inventory: Median Days on Market in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM21660        | Housing Inventory: Median Days on Market Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY21660        | Housing Inventory: Median Days on Market Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI21660            | Housing Inventory: Median Listing Price in Eugene, OR (CBSA)                                                            | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM21660          | Housing Inventory: Median Listing Price Month-Over-Month in Eugene, OR (CBSA)                                           | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE21660   | Housing Inventory: Median Listing Price per Square Feet in Eugene, OR (CBSA)                                            | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM21660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Eugene, OR (CBSA)                           | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY21660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Eugene, OR (CBSA)                             | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY21660          | Housing Inventory: Median Listing Price Year-Over-Year in Eugene, OR (CBSA)                                             | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA21660          | Market Hotness: Median Days on Market in Eugene, OR (CBSA)                                                              | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA21660          | Market Hotness: Median Days on Market Versus the United States in Eugene, OR (CBSA)                                     | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA21660          | Market Hotness: Median Days on Market Day in Eugene, OR (CBSA)                                                          | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE21660            | Housing Inventory: Median Home Size in Square Feet in Eugene, OR (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM21660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Eugene, OR (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY21660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Eugene, OR (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA21660          | Market Hotness: Median Listing Price in Eugene, OR (CBSA)                                                               | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA21660            | Market Hotness: Median Listing Price in Eugene, OR (CBSA)                                                               | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA21660        | Market Hotness: Median Listing Price Versus the United States in Eugene, OR (CBSA)                                      | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA21660          | Market Hotness: Median Listing Price in Eugene, OR (CBSA)                                                               | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU21660            | Housing Inventory: New Listing Count in Eugene, OR (CBSA)                                                               | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM21660          | Housing Inventory: New Listing Count Month-Over-Month in Eugene, OR (CBSA)                                              | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY21660          | Housing Inventory: New Listing Count Year-Over-Year in Eugene, OR (CBSA)                                                | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA21660          | Market Hotness: Listing Views per Property in Eugene, OR (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA21660        | Market Hotness: Listing Views per Property Versus the United States in Eugene, OR (CBSA)                                | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA21660          | Market Hotness: Listing Views per Property in Eugene, OR (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA21660        | Market Hotness: Median Days on Market in Eugene, OR (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA21660          | Market Hotness: Median Days on Market in Eugene, OR (CBSA)                                                              | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA21660        | Market Hotness: Median Days on Market in Eugene, OR (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR21660          | Housing Inventory: Median Days on Market in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM21660        | Housing Inventory: Median Days on Market Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY21660        | Housing Inventory: Median Days on Market Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI21660            | Housing Inventory: Median Listing Price in Eugene, OR (CBSA)                                                            | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM21660          | Housing Inventory: Median Listing Price Month-Over-Month in Eugene, OR (CBSA)                                           | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE21660   | Housing Inventory: Median Listing Price per Square Feet in Eugene, OR (CBSA)                                            | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM21660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Eugene, OR (CBSA)                           | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY21660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Eugene, OR (CBSA)                             | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY21660          | Housing Inventory: Median Listing Price Year-Over-Year in Eugene, OR (CBSA)                                             | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA21660          | Market Hotness: Median Days on Market in Eugene, OR (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA21660          | Market Hotness: Median Days on Market Versus the United States in Eugene, OR (CBSA)                                     | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA21660          | Market Hotness: Median Days on Market Day in Eugene, OR (CBSA)                                                          | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE21660            | Housing Inventory: Median Home Size in Square Feet in Eugene, OR (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM21660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Eugene, OR (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY21660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Eugene, OR (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA21660          | Market Hotness: Median Listing Price in Eugene, OR (CBSA)                                                               | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA21660            | Market Hotness: Median Listing Price in Eugene, OR (CBSA)                                                               | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA21660        | Market Hotness: Median Listing Price Versus the United States in Eugene, OR (CBSA)                                      | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA21660          | Market Hotness: Median Listing Price in Eugene, OR (CBSA)                                                               | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU21660            | Housing Inventory: New Listing Count in Eugene, OR (CBSA)                                                               | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM21660          | Housing Inventory: New Listing Count Month-Over-Month in Eugene, OR (CBSA)                                              | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY21660          | Housing Inventory: New Listing Count Year-Over-Year in Eugene, OR (CBSA)                                                | 2017-07-01          | 2022-06-01        |
 | NGMP21660                 | Total Gross Domestic Product for Eugene, OR (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA21660            | Market Hotness: Nielsen Household Rank in Eugene, OR (CBSA)                                                             | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA21660            | Market Hotness: Nielsen Household Rank in Eugene, OR (CBSA)                                                             | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA121660          | U.S. Granted Utility Patents Originating in Eugene-Springfield, OR (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU21660            | Housing Inventory: Pending Listing Count in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM21660          | Housing Inventory: Pending Listing Count Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY21660          | Housing Inventory: Pending Listing Count Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU21660            | Housing Inventory: Price Increased Count in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM21660          | Housing Inventory: Price Increased Count Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY21660          | Housing Inventory: Price Increased Count Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU21660            | Housing Inventory: Price Reduced Count in Eugene, OR (CBSA)                                                             | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM21660          | Housing Inventory: Price Reduced Count Month-Over-Month in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY21660          | Housing Inventory: Price Reduced Count Year-Over-Year in Eugene, OR (CBSA)                                              | 2017-07-01          | 2022-05-01        |
+| PENLISCOU21660            | Housing Inventory: Pending Listing Count in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM21660          | Housing Inventory: Pending Listing Count Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY21660          | Housing Inventory: Pending Listing Count Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU21660            | Housing Inventory: Price Increased Count in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM21660          | Housing Inventory: Price Increased Count Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY21660          | Housing Inventory: Price Increased Count Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU21660            | Housing Inventory: Price Reduced Count in Eugene, OR (CBSA)                                                             | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM21660          | Housing Inventory: Price Reduced Count Month-Over-Month in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY21660          | Housing Inventory: Price Reduced Count Year-Over-Year in Eugene, OR (CBSA)                                              | 2017-07-01          | 2022-06-01        |
 | QGMP21660                 | Total Quantity Indexes for Real GDP for Eugene, OR (MSA)                                                                | 2001-01-01          | 2020-01-01        |
 | RGMP21660                 | Total Real Gross Domestic Product for Eugene, OR (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
 | RPI21660                  | Real Personal Income for Eugene, OR (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
@@ -207,4 +207,4 @@
 | SMU41216609093200001      | All Employees: Government: Local Government Excluding Educational Services in Eugene, OR (MSA)                          | 2001-01-01          | 2022-05-01        |
 | SMU41216609093200001A     | All Employees: Local Government Excluding Educational Services in Eugene, OR (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | SMU41216609093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Eugene, OR (MSA)                          | 2001-01-01          | 2022-05-01        |
-| SUSCMSA21660              | Market Hotness: Supply Score in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-05-01        |
+| SUSCMSA21660              | Market Hotness: Supply Score in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |

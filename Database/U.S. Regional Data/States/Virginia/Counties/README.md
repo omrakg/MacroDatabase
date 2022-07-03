@@ -9,7 +9,7 @@
 | Amherst County, VA                                  |                90 |
 | Charlotte County, VA                                |                88 |
 | Poquoson City, VA                                   |                78 |
-| Caroline County, VA                                 |                90 |
+| Caroline County, VA                                 |                 0 |
 | Bedford City, VA                                    |                23 |
 | Fauquier County, VA                                 |               147 |
 | Albemarle County + Charlottesville City, VA         |                12 |
@@ -48,7 +48,7 @@
 | Washington County + Bristol City, VA                |                12 |
 | Augusta, Staunton + Waynesboro County, VA           |                10 |
 | Northampton County, VA                              |                90 |
-| James City County, VA                               |                 0 |
+| James City County, VA                               |               137 |
 | Montgomery County, VA                               |               137 |
 | Martinsville City, VA                               |                78 |
 | Prince William, Manassas + Manassas Park County, VA |                10 |
@@ -69,7 +69,7 @@
 | York County + Poquoson City, VA                     |                12 |
 | Goochland County, VA                                |                89 |
 | Warren County, VA                                   |                90 |
-| Amelia County, VA                                   |                90 |
+| Amelia County, VA                                   |                 0 |
 | Prince Edward County, VA                            |                90 |
 | Franklin City, VA                                   |                79 |
 | Bath County, VA                                     |                89 |
@@ -108,7 +108,7 @@
 | Roanoke City, VA                                    |               146 |
 | Scott County, VA                                    |                88 |
 | Chesapeake City, VA                                 |               146 |
-| Alleghany County + Covington City, VA               |                 0 |
+| Alleghany County + Covington City, VA               |                12 |
 | Virginia Beach City, VA                             |               145 |
 | Greene County, VA                                   |                89 |
 | Southampton County + Franklin City, VA              |                12 |
@@ -129,7 +129,7 @@
 | Frederick County, VA                                |               137 |
 | Greensville County + Emporia City, VA               |                12 |
 | Northumberland County, VA                           |                90 |
-| Staunton City, VA                                   |                79 |
+| Staunton City, VA                                   |                 0 |
 | Greensville County, VA                              |                79 |
 | Cumberland County, VA                               |                90 |
 | Stafford County, VA                                 |               147 |

@@ -8,7 +8,7 @@
 | Williamsburg County, SC |                89 |
 | Bamberg County, SC      |                89 |
 | Calhoun County, SC      |                89 |
-| Marion County, SC       |                 0 |
+| Marion County, SC       |                89 |
 | Chesterfield County, SC |                90 |
 | Saluda County, SC       |                88 |
 | Kershaw County, SC      |               146 |
@@ -21,7 +21,7 @@
 | Abbeville County, SC    |                90 |
 | Marlboro County, SC     |                90 |
 | York County, SC         |               147 |
-| Pickens County, SC      |               142 |
+| Pickens County, SC      |                 0 |
 | Darlington County, SC   |               145 |
 | Lexington County, SC    |               147 |
 | Hampton County, SC      |                90 |

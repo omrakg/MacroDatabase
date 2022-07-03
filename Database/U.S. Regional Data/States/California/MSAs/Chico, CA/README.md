@@ -1,12 +1,12 @@
 | id                        | title                                                                                                      | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU17020            | Housing Inventory: Active Listing Count in Chico, CA (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM17020          | Housing Inventory: Active Listing Count Month-Over-Month in Chico, CA (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY17020          | Housing Inventory: Active Listing Count Year-Over-Year in Chico, CA (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU17020            | Housing Inventory: Active Listing Count in Chico, CA (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM17020          | Housing Inventory: Active Listing Count Month-Over-Month in Chico, CA (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY17020          | Housing Inventory: Active Listing Count Year-Over-Year in Chico, CA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ATNHPIUS17020Q            | All-Transactions House Price Index for Chico, CA (MSA)                                                     | 1979-04-01          | 2022-01-01        |
-| AVELISPRI17020            | Housing Inventory: Average Listing Price in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM17020          | Housing Inventory: Average Listing Price Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY17020          | Housing Inventory: Average Listing Price Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-05-01        |
+| AVELISPRI17020            | Housing Inventory: Average Listing Price in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM17020          | Housing Inventory: Average Listing Price Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY17020          | Housing Inventory: Average Listing Price Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
 | CHCPOP                    | Resident Population in Chico, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | CHIC006EDUH               | All Employees: Education and Health Services in Chico, CA (MSA)                                            | 1990-01-01          | 2022-05-01        |
 | CHIC006EDUHN              | All Employees: Education and Health Services in Chico, CA (MSA)                                            | 1990-01-01          | 2022-05-01        |
@@ -18,8 +18,8 @@
 | CHIC006INFON              | All Employees: Information in Chico, CA (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | CHIC006LEIH               | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | CHIC006LEIHN              | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| CHIC006LF                 | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| CHIC006LFN                | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| CHIC006LF                 | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| CHIC006LFN                | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | CHIC006MFG                | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | CHIC006MFGN               | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | CHIC006NA                 | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -33,9 +33,9 @@
 | CHIC006SRVON              | All Employees: Other Services in Chico, CA (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | CHIC006TRAD               | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | CHIC006TRADN              | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| CHIC006UR                 | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| CHIC006URN                | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| DESCMSA17020              | Market Hotness: Demand Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| CHIC006UR                 | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| CHIC006URN                | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| DESCMSA17020              | Market Hotness: Demand Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC170230010             | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC170230010SA           | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC170240010             | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -48,57 +48,57 @@
 | ENUC170240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC170240510             | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC170240510SA           | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA17020            | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA17020              | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA17020            | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA17020              | Market Hotness: Hotness Score in Chico, CA (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA17020            | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA17020              | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA17020            | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA17020              | Market Hotness: Hotness Score in Chico, CA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD17020                 | Implicit Regional Price Deflator for Chico, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT061702000000003A     | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT061702000000004      | Unemployed Persons in Chico, CA (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT061702000000004      | Unemployed Persons in Chico, CA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT061702000000004A     | Unemployed Persons in Chico, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT061702000000005      | Employed Persons in Chico, CA (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT061702000000005      | Employed Persons in Chico, CA (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT061702000000005A     | Employed Persons in Chico, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT061702000000006A     | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA17020          | Market Hotness: Listing Views per Property in Chico, CA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA17020        | Market Hotness: Listing Views per Property Versus the United States in Chico, CA (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA17020          | Market Hotness: Listing Views per Property in Chico, CA (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA17020        | Market Hotness: Median Days on Market in Chico, CA (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA17020          | Market Hotness: Median Days on Market in Chico, CA (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA17020        | Market Hotness: Median Days on Market in Chico, CA (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR17020          | Housing Inventory: Median Days on Market in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM17020        | Housing Inventory: Median Days on Market Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY17020        | Housing Inventory: Median Days on Market Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI17020            | Housing Inventory: Median Listing Price in Chico, CA (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM17020          | Housing Inventory: Median Listing Price Month-Over-Month in Chico, CA (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE17020   | Housing Inventory: Median Listing Price per Square Feet in Chico, CA (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM17020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Chico, CA (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY17020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Chico, CA (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY17020          | Housing Inventory: Median Listing Price Year-Over-Year in Chico, CA (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA17020          | Market Hotness: Median Days on Market in Chico, CA (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA17020          | Market Hotness: Median Days on Market Versus the United States in Chico, CA (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA17020          | Market Hotness: Median Days on Market Day in Chico, CA (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE17020            | Housing Inventory: Median Home Size in Square Feet in Chico, CA (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM17020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Chico, CA (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY17020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Chico, CA (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA17020          | Market Hotness: Median Listing Price in Chico, CA (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA17020            | Market Hotness: Median Listing Price in Chico, CA (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA17020        | Market Hotness: Median Listing Price Versus the United States in Chico, CA (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA17020          | Market Hotness: Median Listing Price in Chico, CA (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU17020            | Housing Inventory: New Listing Count in Chico, CA (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM17020          | Housing Inventory: New Listing Count Month-Over-Month in Chico, CA (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY17020          | Housing Inventory: New Listing Count Year-Over-Year in Chico, CA (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA17020          | Market Hotness: Listing Views per Property in Chico, CA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA17020        | Market Hotness: Listing Views per Property Versus the United States in Chico, CA (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA17020          | Market Hotness: Listing Views per Property in Chico, CA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA17020        | Market Hotness: Median Days on Market in Chico, CA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA17020          | Market Hotness: Median Days on Market in Chico, CA (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA17020        | Market Hotness: Median Days on Market in Chico, CA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR17020          | Housing Inventory: Median Days on Market in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM17020        | Housing Inventory: Median Days on Market Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY17020        | Housing Inventory: Median Days on Market Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI17020            | Housing Inventory: Median Listing Price in Chico, CA (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM17020          | Housing Inventory: Median Listing Price Month-Over-Month in Chico, CA (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE17020   | Housing Inventory: Median Listing Price per Square Feet in Chico, CA (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM17020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Chico, CA (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY17020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Chico, CA (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY17020          | Housing Inventory: Median Listing Price Year-Over-Year in Chico, CA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA17020          | Market Hotness: Median Days on Market in Chico, CA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA17020          | Market Hotness: Median Days on Market Versus the United States in Chico, CA (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA17020          | Market Hotness: Median Days on Market Day in Chico, CA (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE17020            | Housing Inventory: Median Home Size in Square Feet in Chico, CA (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM17020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Chico, CA (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY17020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Chico, CA (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA17020          | Market Hotness: Median Listing Price in Chico, CA (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA17020            | Market Hotness: Median Listing Price in Chico, CA (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA17020        | Market Hotness: Median Listing Price Versus the United States in Chico, CA (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA17020          | Market Hotness: Median Listing Price in Chico, CA (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU17020            | Housing Inventory: New Listing Count in Chico, CA (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM17020          | Housing Inventory: New Listing Count Month-Over-Month in Chico, CA (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY17020          | Housing Inventory: New Listing Count Year-Over-Year in Chico, CA (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP17020                 | Total Gross Domestic Product for Chico, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA17020            | Market Hotness: Nielsen Household Rank in Chico, CA (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA17020            | Market Hotness: Nielsen Household Rank in Chico, CA (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA117020          | U.S. Granted Utility Patents Originating in Chico, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU17020            | Housing Inventory: Pending Listing Count in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PENLISCOUMM17020          | Housing Inventory: Pending Listing Count Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PENLISCOUYY17020          | Housing Inventory: Pending Listing Count Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIINCCOU17020            | Housing Inventory: Price Increased Count in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM17020          | Housing Inventory: Price Increased Count Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY17020          | Housing Inventory: Price Increased Count Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU17020            | Housing Inventory: Price Reduced Count in Chico, CA (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM17020          | Housing Inventory: Price Reduced Count Month-Over-Month in Chico, CA (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY17020          | Housing Inventory: Price Reduced Count Year-Over-Year in Chico, CA (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PENLISCOU17020            | Housing Inventory: Pending Listing Count in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOUMM17020          | Housing Inventory: Pending Listing Count Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOUYY17020          | Housing Inventory: Pending Listing Count Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU17020            | Housing Inventory: Price Increased Count in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM17020          | Housing Inventory: Price Increased Count Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY17020          | Housing Inventory: Price Increased Count Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU17020            | Housing Inventory: Price Reduced Count in Chico, CA (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM17020          | Housing Inventory: Price Reduced Count Month-Over-Month in Chico, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY17020          | Housing Inventory: Price Reduced Count Year-Over-Year in Chico, CA (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP17020                 | Total Quantity Indexes for Real GDP for Chico, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP17020                 | Total Real Gross Domestic Product for Chico, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI17020                  | Real Personal Income for Chico, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -170,4 +170,4 @@
 | SMU06170209093200001      | All Employees: Government: Local Government Excluding Educational Services in Chico, CA (MSA)              | 2003-01-01          | 2022-05-01        |
 | SMU06170209093200001A     | All Employees: Local Government Excluding Educational Services in Chico, CA (MSA)                          | 2003-01-01          | 2021-01-01        |
 | SMU06170209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Chico, CA (MSA)              | 2003-01-01          | 2022-05-01        |
-| SUSCMSA17020              | Market Hotness: Supply Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA17020              | Market Hotness: Supply Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |

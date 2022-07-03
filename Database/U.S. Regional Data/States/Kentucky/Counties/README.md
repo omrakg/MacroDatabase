@@ -45,7 +45,7 @@
 | Grant County, KY        |                90 |
 | Greenup County, KY      |                90 |
 | Bath County, KY         |                90 |
-| Jefferson County, KY    |               147 |
+| Jefferson County, KY    |                 0 |
 | Calloway County, KY     |                90 |
 | Wayne County, KY        |                90 |
 | Mercer County, KY       |                89 |

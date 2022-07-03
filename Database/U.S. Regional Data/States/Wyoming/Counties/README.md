@@ -20,6 +20,6 @@
 | Sweetwater County, WY  |                90 |
 | Park County, WY        |                90 |
 | Sheridan County, WY    |                90 |
-| Weston County, WY      |                89 |
+| Weston County, WY      |                 0 |
 | Fremont County, WY     |                90 |
 | Natrona County, WY     |               146 |

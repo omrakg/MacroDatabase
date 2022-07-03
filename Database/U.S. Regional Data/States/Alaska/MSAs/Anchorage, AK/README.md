@@ -1,8 +1,8 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU11260            | Housing Inventory: Active Listing Count in Anchorage, AK (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| ACTLISCOUMM11260          | Housing Inventory: Active Listing Count Month-Over-Month in Anchorage, AK (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| ACTLISCOUYY11260          | Housing Inventory: Active Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                 | 2017-07-01          | 2022-05-01        |
+| ACTLISCOU11260            | Housing Inventory: Active Listing Count in Anchorage, AK (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| ACTLISCOUMM11260          | Housing Inventory: Active Listing Count Month-Over-Month in Anchorage, AK (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOUYY11260          | Housing Inventory: Active Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                 | 2017-07-01          | 2022-06-01        |
 | ANCH202BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-05-01        |
 | ANCH202BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-05-01        |
 | ANCH202BPPRIV             | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-05-01        |
@@ -17,8 +17,8 @@
 | ANCH202INFON              | All Employees: Information in Anchorage, AK (MSA)                                                              | 1990-01-01          | 2022-05-01        |
 | ANCH202LEIH               | All Employees: Leisure and Hospitality in Anchorage, AK (MSA)                                                  | 1990-01-01          | 2022-05-01        |
 | ANCH202LEIHN              | All Employees: Leisure and Hospitality in Anchorage, AK (MSA)                                                  | 1990-01-01          | 2022-05-01        |
-| ANCH202LF                 | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
-| ANCH202LFN                | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2022-04-01        |
+| ANCH202LF                 | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| ANCH202LFN                | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
 | ANCH202MFG                | All Employees: Manufacturing in Anchorage, AK (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | ANCH202MFGN               | All Employees: Manufacturing in Anchorage, AK (MSA)                                                            | 1990-01-01          | 2022-05-01        |
 | ANCH202NA                 | All Employees: Total Nonfarm in Anchorage, AK (MSA)                                                            | 1990-01-01          | 2022-05-01        |
@@ -30,14 +30,14 @@
 | ANCH202SRVON              | All Employees: Other Services in Anchorage, AK (MSA)                                                           | 1990-01-01          | 2022-05-01        |
 | ANCH202TRAD               | All Employees: Trade, Transportation, and Utilities in Anchorage, AK (MSA)                                     | 1990-01-01          | 2022-05-01        |
 | ANCH202TRADN              | All Employees: Trade, Transportation, and Utilities in Anchorage, AK (MSA)                                     | 1990-01-01          | 2022-05-01        |
-| ANCH202UR                 | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
-| ANCH202URN                | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2022-04-01        |
+| ANCH202UR                 | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| ANCH202URN                | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | ANCPOP                    | Resident Population in Anchorage, AK (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ATNHPIUS11260Q            | All-Transactions House Price Index for Anchorage, AK (MSA)                                                     | 1978-04-01          | 2022-01-01        |
-| AVELISPRI11260            | Housing Inventory: Average Listing Price in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| AVELISPRIMM11260          | Housing Inventory: Average Listing Price Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| AVELISPRIYY11260          | Housing Inventory: Average Listing Price Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| DESCMSA11260              | Market Hotness: Demand Score in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| AVELISPRI11260            | Housing Inventory: Average Listing Price in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| AVELISPRIMM11260          | Housing Inventory: Average Listing Price Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| AVELISPRIYY11260          | Housing Inventory: Average Listing Price Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| DESCMSA11260              | Market Hotness: Demand Score in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC112630010             | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC112630010SA           | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC112640010             | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -48,56 +48,56 @@
 | ENUC112640310             | Average Weekly Wages for Employees in Local Government Establishments in Anchorage, AK (MSA)                   | 2004-04-01          | 2005-04-01        |
 | ENUC112640510             | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC112640510SA           | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA11260            | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HORAMSA11260              | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
-| HORAYYMSA11260            | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2018-08-01          | 2022-05-01        |
-| HOSCMSA11260              | Market Hotness: Hotness Score in Anchorage, AK (CBSA)                                                          | 2017-08-01          | 2022-05-01        |
+| HORAMMMSA11260            | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HORAMSA11260              | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| HORAYYMSA11260            | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
+| HOSCMSA11260              | Market Hotness: Hotness Score in Anchorage, AK (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD11260                 | Implicit Regional Price Deflator for Anchorage, AK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT021126000000003A     | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT021126000000004      | Unemployed Persons in Anchorage, AK (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| LAUMT021126000000004      | Unemployed Persons in Anchorage, AK (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
 | LAUMT021126000000004A     | Unemployed Persons in Anchorage, AK (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT021126000000005      | Employed Persons in Anchorage, AK (MSA)                                                                        | 1990-01-01          | 2022-04-01        |
+| LAUMT021126000000005      | Employed Persons in Anchorage, AK (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
 | LAUMT021126000000005A     | Employed Persons in Anchorage, AK (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT021126000000006A     | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA11260          | Market Hotness: Listing Views per Property in Anchorage, AK (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| LDPEPRVSUSMSA11260        | Market Hotness: Listing Views per Property Versus the United States in Anchorage, AK (CBSA)                    | 2017-08-01          | 2022-05-01        |
-| LDPEPRYYMSA11260          | Market Hotness: Listing Views per Property in Anchorage, AK (CBSA)                                             | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMMMSA11260        | Market Hotness: Median Days on Market in Anchorage, AK (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDAONMAMSA11260          | Market Hotness: Median Days on Market in Anchorage, AK (CBSA)                                                  | 2017-08-01          | 2022-05-01        |
-| MEDAONMAYYMSA11260        | Market Hotness: Median Days on Market in Anchorage, AK (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDDAYONMAR11260          | Housing Inventory: Median Days on Market in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| MEDDAYONMARMM11260        | Housing Inventory: Median Days on Market Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| MEDDAYONMARYY11260        | Housing Inventory: Median Days on Market Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| MEDLISPRI11260            | Housing Inventory: Median Listing Price in Anchorage, AK (CBSA)                                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIMM11260          | Housing Inventory: Median Listing Price Month-Over-Month in Anchorage, AK (CBSA)                               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEE11260   | Housing Inventory: Median Listing Price per Square Feet in Anchorage, AK (CBSA)                                | 2016-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEMM11260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Anchorage, AK (CBSA)               | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIPERSQUFEEYY11260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Anchorage, AK (CBSA)                 | 2017-07-01          | 2022-05-01        |
-| MEDLISPRIYY11260          | Housing Inventory: Median Listing Price Year-Over-Year in Anchorage, AK (CBSA)                                 | 2017-07-01          | 2022-05-01        |
-| MEDOMMDAMSA11260          | Market Hotness: Median Days on Market in Anchorage, AK (CBSA)                                                  | 2018-08-01          | 2022-05-01        |
-| MEDOVSUSMSA11260          | Market Hotness: Median Days on Market Versus the United States in Anchorage, AK (CBSA)                         | 2017-08-01          | 2022-05-01        |
-| MEDOYYDAMSA11260          | Market Hotness: Median Days on Market Day in Anchorage, AK (CBSA)                                              | 2018-08-01          | 2022-05-01        |
-| MEDSQUFEE11260            | Housing Inventory: Median Home Size in Square Feet in Anchorage, AK (CBSA)                                     | 2016-07-01          | 2022-05-01        |
-| MEDSQUFEEMM11260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Anchorage, AK (CBSA)                    | 2017-07-01          | 2022-05-01        |
-| MEDSQUFEEYY11260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Anchorage, AK (CBSA)                      | 2017-07-01          | 2022-05-01        |
-| MELIPRMMMSA11260          | Market Hotness: Median Listing Price in Anchorage, AK (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| MELIPRMSA11260            | Market Hotness: Median Listing Price in Anchorage, AK (CBSA)                                                   | 2017-08-01          | 2022-05-01        |
-| MELIPRVSUSMSA11260        | Market Hotness: Median Listing Price Versus the United States in Anchorage, AK (CBSA)                          | 2017-08-01          | 2022-05-01        |
-| MELIPRYYMSA11260          | Market Hotness: Median Listing Price in Anchorage, AK (CBSA)                                                   | 2018-08-01          | 2022-05-01        |
-| NEWLISCOU11260            | Housing Inventory: New Listing Count in Anchorage, AK (CBSA)                                                   | 2016-07-01          | 2022-05-01        |
-| NEWLISCOUMM11260          | Housing Inventory: New Listing Count Month-Over-Month in Anchorage, AK (CBSA)                                  | 2017-07-01          | 2022-05-01        |
-| NEWLISCOUYY11260          | Housing Inventory: New Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                    | 2017-07-01          | 2022-05-01        |
+| LDPEPRMMMSA11260          | Market Hotness: Listing Views per Property in Anchorage, AK (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| LDPEPRVSUSMSA11260        | Market Hotness: Listing Views per Property Versus the United States in Anchorage, AK (CBSA)                    | 2017-08-01          | 2022-06-01        |
+| LDPEPRYYMSA11260          | Market Hotness: Listing Views per Property in Anchorage, AK (CBSA)                                             | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMMMSA11260        | Market Hotness: Median Days on Market in Anchorage, AK (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDAONMAMSA11260          | Market Hotness: Median Days on Market in Anchorage, AK (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
+| MEDAONMAYYMSA11260        | Market Hotness: Median Days on Market in Anchorage, AK (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDDAYONMAR11260          | Housing Inventory: Median Days on Market in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| MEDDAYONMARMM11260        | Housing Inventory: Median Days on Market Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMARYY11260        | Housing Inventory: Median Days on Market Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| MEDLISPRI11260            | Housing Inventory: Median Listing Price in Anchorage, AK (CBSA)                                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIMM11260          | Housing Inventory: Median Listing Price Month-Over-Month in Anchorage, AK (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEE11260   | Housing Inventory: Median Listing Price per Square Feet in Anchorage, AK (CBSA)                                | 2016-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEMM11260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Anchorage, AK (CBSA)               | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIPERSQUFEEYY11260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Anchorage, AK (CBSA)                 | 2017-07-01          | 2022-06-01        |
+| MEDLISPRIYY11260          | Housing Inventory: Median Listing Price Year-Over-Year in Anchorage, AK (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| MEDOMMDAMSA11260          | Market Hotness: Median Days on Market in Anchorage, AK (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
+| MEDOVSUSMSA11260          | Market Hotness: Median Days on Market Versus the United States in Anchorage, AK (CBSA)                         | 2017-08-01          | 2022-06-01        |
+| MEDOYYDAMSA11260          | Market Hotness: Median Days on Market Day in Anchorage, AK (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDSQUFEE11260            | Housing Inventory: Median Home Size in Square Feet in Anchorage, AK (CBSA)                                     | 2016-07-01          | 2022-06-01        |
+| MEDSQUFEEMM11260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Anchorage, AK (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEEYY11260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Anchorage, AK (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MELIPRMMMSA11260          | Market Hotness: Median Listing Price in Anchorage, AK (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| MELIPRMSA11260            | Market Hotness: Median Listing Price in Anchorage, AK (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
+| MELIPRVSUSMSA11260        | Market Hotness: Median Listing Price Versus the United States in Anchorage, AK (CBSA)                          | 2017-08-01          | 2022-06-01        |
+| MELIPRYYMSA11260          | Market Hotness: Median Listing Price in Anchorage, AK (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| NEWLISCOU11260            | Housing Inventory: New Listing Count in Anchorage, AK (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
+| NEWLISCOUMM11260          | Housing Inventory: New Listing Count Month-Over-Month in Anchorage, AK (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOUYY11260          | Housing Inventory: New Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                    | 2017-07-01          | 2022-06-01        |
 | NGMP11260                 | Total Gross Domestic Product for Anchorage, AK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA11260            | Market Hotness: Nielsen Household Rank in Anchorage, AK (CBSA)                                                 | 2017-08-01          | 2022-05-01        |
+| NIHHRAMSA11260            | Market Hotness: Nielsen Household Rank in Anchorage, AK (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA111260          | U.S. Granted Utility Patents Originating in Anchorage, AK (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU11260            | Housing Inventory: Pending Listing Count in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2016-11-01        |
 | PENLISCOUYY11260          | Housing Inventory: Pending Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2021-12-01        |
-| PRIINCCOU11260            | Housing Inventory: Price Increased Count in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-05-01        |
-| PRIINCCOUMM11260          | Housing Inventory: Price Increased Count Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY11260          | Housing Inventory: Price Increased Count Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU11260            | Housing Inventory: Price Reduced Count in Anchorage, AK (CBSA)                                                 | 2016-07-01          | 2022-05-01        |
-| PRIREDCOUMM11260          | Housing Inventory: Price Reduced Count Month-Over-Month in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-05-01        |
-| PRIREDCOUYY11260          | Housing Inventory: Price Reduced Count Year-Over-Year in Anchorage, AK (CBSA)                                  | 2017-07-01          | 2022-05-01        |
+| PRIINCCOU11260            | Housing Inventory: Price Increased Count in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PRIINCCOUMM11260          | Housing Inventory: Price Increased Count Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY11260          | Housing Inventory: Price Increased Count Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU11260            | Housing Inventory: Price Reduced Count in Anchorage, AK (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
+| PRIREDCOUMM11260          | Housing Inventory: Price Reduced Count Month-Over-Month in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOUYY11260          | Housing Inventory: Price Reduced Count Year-Over-Year in Anchorage, AK (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | QGMP11260                 | Total Quantity Indexes for Real GDP for Anchorage, AK (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP11260                 | Total Real Gross Domestic Product for Anchorage, AK (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI11260                  | Real Personal Income for Anchorage, AK (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -194,4 +194,4 @@
 | SMU02112609093161101      | All Employees: Government: Local Government Educational Services in Anchorage, AK (MSA)                        | 1990-01-01          | 2022-05-01        |
 | SMU02112609093161101A     | All Employees: Local Government Educational Services in Anchorage, AK (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU02112609093161101SA    | All Employees: Government: Local Government Educational Services in Anchorage, AK (MSA)                        | 1990-01-01          | 2022-05-01        |
-| SUSCMSA11260              | Market Hotness: Supply Score in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-05-01        |
+| SUSCMSA11260              | Market Hotness: Supply Score in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
