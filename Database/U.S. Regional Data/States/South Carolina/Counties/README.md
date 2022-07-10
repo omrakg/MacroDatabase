@@ -18,10 +18,10 @@
 | Allendale County, SC    |                89 |
 | Jasper County, SC       |                89 |
 | Greenville County, SC   |               143 |
-| Abbeville County, SC    |                90 |
+| Abbeville County, SC    |                 0 |
 | Marlboro County, SC     |                90 |
 | York County, SC         |               147 |
-| Pickens County, SC      |                 0 |
+| Pickens County, SC      |               142 |
 | Darlington County, SC   |               145 |
 | Lexington County, SC    |               147 |
 | Hampton County, SC      |                90 |

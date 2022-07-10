@@ -73,7 +73,7 @@
 | DEBTTLOMA188A        | Central government debt, total (% of GDP) for Oman                                                                                        | 1990-01-01          | 2013-01-01        |
 | DEOMNA052SCEN        | Value of Exports to Oman from Delaware                                                                                                    | 1997-01-01          | 2017-01-01        |
 | DEOMNA475SCEN        | Number of Identified Exporters to Oman from Delaware                                                                                      | 1992-01-01          | 2017-01-01        |
-| EXP5230              | U.S. Exports of Goods by F.A.S. Basis to Oman                                                                                             | 1992-01-01          | 2022-04-01        |
+| EXP5230              | U.S. Exports of Goods by F.A.S. Basis to Oman                                                                                             | 1992-01-01          | 2022-05-01        |
 | FLOMNA052SCEN        | Value of Exports to Oman from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLOMNA475SCEN        | Number of Identified Exporters to Oman from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGOMN       | Inflation, consumer prices for Oman                                                                                                       | 2001-01-01          | 2021-01-01        |
@@ -96,7 +96,7 @@
 | IDSGAMRINIOM         | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Oman         | 1973-10-01          | 2022-01-01        |
 | ILOMNA052SCEN        | Value of Exports to Oman from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILOMNA475SCEN        | Number of Identified Exporters to Oman from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP5230              | U.S. Imports of Goods by Customs Basis from Oman                                                                                          | 1992-01-01          | 2022-04-01        |
+| IMP5230              | U.S. Imports of Goods by Customs Basis from Oman                                                                                          | 1992-01-01          | 2022-05-01        |
 | INOMNA052SCEN        | Value of Exports to Oman from Indiana                                                                                                     | 1992-01-01          | 2017-01-01        |
 | INOMNA475SCEN        | Number of Identified Exporters to Oman from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2OMN       | Internet users for Oman                                                                                                                   | 1990-01-01          | 2020-01-01        |
@@ -114,7 +114,7 @@
 | MEOMNA475SCEN        | Number of Identified Exporters to Oman from Maine                                                                                         | 1992-01-01          | 2017-01-01        |
 | MIOMNA052SCEN        | Value of Exports to Oman from Michigan                                                                                                    | 1992-01-01          | 2017-01-01        |
 | MIOMNA475SCEN        | Number of Identified Exporters to Oman from Michigan                                                                                      | 1992-01-01          | 2017-01-01        |
-| MKTGDPOMA646NWDB     | Gross Domestic Product for Oman                                                                                                           | 1965-01-01          | 2020-01-01        |
+| MKTGDPOMA646NWDB     | Gross Domestic Product for Oman                                                                                                           | 1965-01-01          | 2021-01-01        |
 | MKTGNIOMA646NWDB     | Gross National Income for Oman                                                                                                            | 1965-01-01          | 2020-01-01        |
 | MNOMNA052SCEN        | Value of Exports to Oman from Minnesota                                                                                                   | 1992-01-01          | 2017-01-01        |
 | MNOMNA475SCEN        | Number of Identified Exporters to Oman from Minnesota                                                                                     | 1992-01-01          | 2017-01-01        |
@@ -193,9 +193,9 @@
 | OROMNA475SCEN        | Number of Identified Exporters to Oman from Oregon                                                                                        | 1992-01-01          | 2017-01-01        |
 | PAOMNA052SCEN        | Value of Exports to Oman from Pennsylvania                                                                                                | 1992-01-01          | 2017-01-01        |
 | PAOMNA475SCEN        | Number of Identified Exporters to Oman from Pennsylvania                                                                                  | 1992-01-01          | 2017-01-01        |
-| PCAGDPOMA646NWDB     | Gross Domestic Product Per Capita for Oman                                                                                                | 1965-01-01          | 2020-01-01        |
+| PCAGDPOMA646NWDB     | Gross Domestic Product Per Capita for Oman                                                                                                | 1965-01-01          | 2021-01-01        |
 | POPTOTOM52647NWDB    | Population, Total for Oman                                                                                                                | 1967-01-01          | 2012-01-01        |
-| POPTOTOMA647NWDB     | Population, Total for Oman                                                                                                                | 1960-01-01          | 2020-01-01        |
+| POPTOTOMA647NWDB     | Population, Total for Oman                                                                                                                | 1960-01-01          | 2021-01-01        |
 | PROMNA052SCEN        | Value of Exports to Oman from Puerto Rico                                                                                                 | 1992-01-01          | 2015-01-01        |
 | PROMNA475SCEN        | Number of Identified Exporters to Oman from Puerto Rico                                                                                   | 1992-01-01          | 2016-01-01        |
 | RIOMNA052SCEN        | Value of Exports to Oman from Rhode Island                                                                                                | 1992-01-01          | 2016-01-01        |
@@ -209,7 +209,7 @@
 | SPDYNIMRTINOMN       | Infant Mortality Rate for Oman                                                                                                            | 1963-01-01          | 2020-01-01        |
 | SPDYNLE00INOMN       | Life Expectancy at Birth, Total for Oman                                                                                                  | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINOMN       | Fertility Rate, Total for Oman                                                                                                            | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSOMN     | Population ages 65 and above for Oman                                                                                                     | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSOMN     | Population ages 65 and above for Oman                                                                                                     | 1960-01-01          | 2021-01-01        |
 | TNOMNA052SCEN        | Value of Exports to Oman from Tennessee                                                                                                   | 1992-01-01          | 2017-01-01        |
 | TNOMNA475SCEN        | Number of Identified Exporters to Oman from Tennessee                                                                                     | 1992-01-01          | 2017-01-01        |
 | TXOMNA052SCEN        | Value of Exports to Oman from Texas                                                                                                       | 1992-01-01          | 2017-01-01        |

@@ -24,7 +24,7 @@
 | HORAMSA45780              | Market Hotness: Hotness Rank in Toledo, OH (CBSA)                                                                                               | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA45780            | Market Hotness: Hotness Rank in Toledo, OH (CBSA)                                                                                               | 2018-08-01          | 2022-06-01        |
 | HOSCMSA45780              | Market Hotness: Hotness Score in Toledo, OH (CBSA)                                                                                              | 2017-08-01          | 2022-06-01        |
-| IHLCHG45780               | Job Postings on Indeed in Toledo, OH (MSA)                                                                                                      | 2020-02-01          | 2022-06-24        |
+| IHLCHG45780               | Job Postings on Indeed in Toledo, OH (MSA)                                                                                                      | 2020-02-01          | 2022-07-01        |
 | IRPD45780                 | Implicit Regional Price Deflator for Toledo, OH (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT394578000000003A     | Unemployment Rate in Toledo, OH (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT394578000000004      | Unemployed Persons in Toledo, OH (MSA)                                                                                                          | 1990-01-01          | 2022-05-01        |

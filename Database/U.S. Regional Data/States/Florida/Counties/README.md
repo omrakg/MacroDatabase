@@ -21,7 +21,7 @@
 | Lee County, FL          |               146 |
 | Columbia County, FL     |               146 |
 | Citrus County, FL       |               147 |
-| Flagler County, FL      |               147 |
+| Flagler County, FL      |                 0 |
 | Escambia County, FL     |               147 |
 | Suwannee County, FL     |                90 |
 | Hillsborough County, FL |               147 |
@@ -58,7 +58,7 @@
 | Lake County, FL         |               147 |
 | Bradford County, FL     |                90 |
 | Pasco County, FL        |               147 |
-| Taylor County, FL       |                 0 |
+| Taylor County, FL       |                89 |
 | Jefferson County, FL    |                89 |
 | Duval County, FL        |               146 |
 | Madison County, FL      |                88 |

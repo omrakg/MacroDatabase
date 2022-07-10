@@ -13,10 +13,10 @@
 | Wayne County, MI          |               147 |
 | Dickinson County, MI      |                90 |
 | Gogebic County, MI        |                89 |
-| Alcona County, MI         |                90 |
+| Alcona County, MI         |                 0 |
 | Barry County, MI          |               146 |
 | Kent County, MI           |               147 |
-| Washtenaw County, MI      |                 0 |
+| Washtenaw County, MI      |               147 |
 | Lenawee County, MI        |               147 |
 | Mackinac County, MI       |                89 |
 | Presque Isle County, MI   |                90 |
@@ -73,10 +73,10 @@
 | Ogemaw County, MI         |                90 |
 | Mecosta County, MI        |                90 |
 | Manistee County, MI       |                89 |
-| Ontonagon County, MI      |                89 |
+| Ontonagon County, MI      |                 0 |
 | Cass County, MI           |               146 |
 | Newaygo County, MI        |                90 |
-| Jackson County, MI        |                 0 |
+| Jackson County, MI        |               146 |
 | Benzie County, MI         |                90 |
 | Gratiot County, MI        |                90 |
 | Kalkaska County, MI       |                89 |

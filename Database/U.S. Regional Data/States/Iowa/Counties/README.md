@@ -31,7 +31,7 @@
 | Iowa County, IA          |                90 |
 | Appanoose County, IA     |                88 |
 | Wapello County, IA       |                90 |
-| Boone County, IA         |                 0 |
+| Boone County, IA         |                90 |
 | Lee County, IA           |                90 |
 | Winnebago County, IA     |                90 |
 | Osceola County, IA       |                90 |
@@ -49,7 +49,7 @@
 | Harrison County, IA      |                90 |
 | Fayette County, IA       |                90 |
 | Worth County, IA         |                89 |
-| Kossuth County, IA       |                90 |
+| Kossuth County, IA       |                 0 |
 | Taylor County, IA        |                89 |
 | Linn County, IA          |               147 |
 | Johnson County, IA       |               147 |
@@ -91,7 +91,7 @@
 | Poweshiek County, IA     |                90 |
 | Fremont County, IA       |                89 |
 | Hancock County, IA       |                90 |
-| Butler County, IA        |                 0 |
+| Butler County, IA        |                90 |
 | Wright County, IA        |                90 |
 | Scott County, IA         |               147 |
 | Monona County, IA        |                90 |

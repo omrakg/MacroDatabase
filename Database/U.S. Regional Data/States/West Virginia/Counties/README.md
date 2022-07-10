@@ -34,7 +34,7 @@
 | Fayette County, WV    |                90 |
 | Jefferson County, WV  |               146 |
 | Taylor County, WV     |                89 |
-| Ritchie County, WV    |                89 |
+| Ritchie County, WV    |                 0 |
 | Roane County, WV      |                89 |
 | Braxton County, WV    |                88 |
 | Mercer County, WV     |               146 |

@@ -51,7 +51,7 @@
 | DDSI06SRA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Suriname                                                                                           | 2008-01-01          | 2018-01-01        |
 | DESURA052SCEN     | Value of Exports to Suriname from Delaware                                                                                                              | 2012-01-01          | 2017-01-01        |
 | DESURA475SCEN     | Number of Identified Exporters to Suriname from Delaware                                                                                                | 2005-01-01          | 2017-01-01        |
-| EXP3150           | U.S. Exports of Goods by F.A.S. Basis to Suriname                                                                                                       | 1992-01-01          | 2022-04-01        |
+| EXP3150           | U.S. Exports of Goods by F.A.S. Basis to Suriname                                                                                                       | 1992-01-01          | 2022-05-01        |
 | FLSURA052SCEN     | Value of Exports to Suriname from Florida                                                                                                               | 1992-01-01          | 2017-01-01        |
 | FLSURA475SCEN     | Number of Identified Exporters to Suriname from Florida                                                                                                 | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSUR    | Inflation, consumer prices for Suriname                                                                                                                 | 1960-01-01          | 2021-01-01        |
@@ -73,7 +73,7 @@
 | IDSURA475SCEN     | Number of Identified Exporters to Suriname from Idaho                                                                                                   | 1997-01-01          | 2017-01-01        |
 | ILSURA052SCEN     | Value of Exports to Suriname from Illinois                                                                                                              | 1992-01-01          | 2017-01-01        |
 | ILSURA475SCEN     | Number of Identified Exporters to Suriname from Illinois                                                                                                | 1992-01-01          | 2017-01-01        |
-| IMP3150           | U.S. Imports of Goods by Customs Basis from Suriname                                                                                                    | 1992-01-01          | 2022-04-01        |
+| IMP3150           | U.S. Imports of Goods by Customs Basis from Suriname                                                                                                    | 1992-01-01          | 2022-05-01        |
 | INSURA052SCEN     | Value of Exports to Suriname from Indiana                                                                                                               | 1997-01-01          | 2014-01-01        |
 | INSURA475SCEN     | Number of Identified Exporters to Suriname from Indiana                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2SUR    | Internet users for Suriname                                                                                                                             | 1990-01-01          | 2020-01-01        |
@@ -94,8 +94,8 @@
 | MESURA475SCEN     | Number of Identified Exporters to Suriname from Maine                                                                                                   | 2004-01-01          | 2017-01-01        |
 | MISURA052SCEN     | Value of Exports to Suriname from Michigan                                                                                                              | 1992-01-01          | 2017-01-01        |
 | MISURA475SCEN     | Number of Identified Exporters to Suriname from Michigan                                                                                                | 1992-01-01          | 2017-01-01        |
-| MKTGDPSRA646NWDB  | Gross Domestic Product for Suriname                                                                                                                     | 1960-01-01          | 2020-01-01        |
-| MKTGNISRA646NWDB  | Gross National Income for Suriname                                                                                                                      | 1960-01-01          | 2020-01-01        |
+| MKTGDPSRA646NWDB  | Gross Domestic Product for Suriname                                                                                                                     | 1960-01-01          | 2021-01-01        |
+| MKTGNISRA646NWDB  | Gross National Income for Suriname                                                                                                                      | 1960-01-01          | 2021-01-01        |
 | MNSURA052SCEN     | Value of Exports to Suriname from Minnesota                                                                                                             | 1992-01-01          | 2017-01-01        |
 | MNSURA475SCEN     | Number of Identified Exporters to Suriname from Minnesota                                                                                               | 1992-01-01          | 2017-01-01        |
 | MOSURA052SCEN     | Value of Exports to Suriname from Missouri                                                                                                              | 2002-01-01          | 2017-01-01        |
@@ -116,7 +116,7 @@
 | NMSURA475SCEN     | Number of Identified Exporters to Suriname from New Mexico                                                                                              | 2003-01-01          | 2015-01-01        |
 | NVSURA052SCEN     | Value of Exports to Suriname from Nevada                                                                                                                | 2004-01-01          | 2017-01-01        |
 | NVSURA475SCEN     | Number of Identified Exporters to Suriname from Nevada                                                                                                  | 2002-01-01          | 2017-01-01        |
-| NYGDPPCAPKDSUR    | Constant GDP per capita for Suriname                                                                                                                    | 1960-01-01          | 2020-01-01        |
+| NYGDPPCAPKDSUR    | Constant GDP per capita for Suriname                                                                                                                    | 1960-01-01          | 2021-01-01        |
 | NYSURA052SCEN     | Value of Exports to Suriname from New York                                                                                                              | 1992-01-01          | 2017-01-01        |
 | NYSURA475SCEN     | Number of Identified Exporters to Suriname from New York                                                                                                | 1992-01-01          | 2017-01-01        |
 | OHSURA052SCEN     | Value of Exports to Suriname from Ohio                                                                                                                  | 1992-01-01          | 2017-01-01        |
@@ -130,7 +130,7 @@
 | PASURA052SCEN     | Value of Exports to Suriname from Pennsylvania                                                                                                          | 1992-01-01          | 2017-01-01        |
 | PASURA475SCEN     | Number of Identified Exporters to Suriname from Pennsylvania                                                                                            | 1992-01-01          | 2017-01-01        |
 | PC2GDPSRA620NUPN  | Purchasing Power Parity Converted GDP Per Capita, average GEKS-CPDW, at current prices for Suriname                                                     | 1970-01-01          | 2010-01-01        |
-| PCAGDPSRA646NWDB  | Gross Domestic Product Per Capita for Suriname                                                                                                          | 1960-01-01          | 2020-01-01        |
+| PCAGDPSRA646NWDB  | Gross Domestic Product Per Capita for Suriname                                                                                                          | 1960-01-01          | 2021-01-01        |
 | PCDGDPSRA620NUPN  | Purchasing Power Parity Converted Domestic Absorption Per Capita, average GEKS-CPDW, at current prices for Suriname                                     | 1970-01-01          | 2010-01-01        |
 | PGD2USSRA621NUPN  | Purchasing Power Parity Converted GDP Per Capita Relative to the United States, average GEKS-CPDW, at current prices for Suriname                       | 1970-01-01          | 2010-01-01        |
 | PGDPUSSRA621NUPN  | Purchasing Power Parity Converted GDP Per Capita Relative to the United States, G-K method, at current prices for Suriname                              | 1970-01-01          | 2010-01-01        |
@@ -140,7 +140,7 @@
 | PLOGINSRA623NUPN  | Price Level of Government Consumption for Suriname                                                                                                      | 1970-01-01          | 2010-01-01        |
 | PLOINVSRA624NUPN  | Price Level of Investment for Suriname                                                                                                                  | 1970-01-01          | 2010-01-01        |
 | POPTOTSR52647NWDB | Population, Total for Suriname                                                                                                                          | 1967-01-01          | 2012-01-01        |
-| POPTOTSRA647NWDB  | Population, Total for Suriname                                                                                                                          | 1960-01-01          | 2020-01-01        |
+| POPTOTSRA647NWDB  | Population, Total for Suriname                                                                                                                          | 1960-01-01          | 2021-01-01        |
 | POPTTLSRA173NUPN  | Population for Suriname                                                                                                                                 | 1950-01-01          | 2010-01-01        |
 | PPCGDPSRA620NUPN  | Purchasing Power Parity Converted GDP Per Capita, G-K method, at current prices for Suriname                                                            | 1970-01-01          | 2010-01-01        |
 | PPPGDPSRA619NUPN  | Total Purchasing Power Parity Converted GDP, G-K method, at current prices for Suriname                                                                 | 1970-01-01          | 2010-01-01        |
@@ -165,7 +165,7 @@
 | SPDYNIMRTINSUR    | Infant Mortality Rate for Suriname                                                                                                                      | 1983-01-01          | 2020-01-01        |
 | SPDYNLE00INSUR    | Life Expectancy at Birth, Total for Suriname                                                                                                            | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINSUR    | Fertility Rate, Total for Suriname                                                                                                                      | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSSUR  | Population ages 65 and above for Suriname                                                                                                               | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSSUR  | Population ages 65 and above for Suriname                                                                                                               | 1960-01-01          | 2021-01-01        |
 | SURBCAGDPBP6      | Balance of Payments for Suriname                                                                                                                        | 1980-01-01          | 2027-01-01        |
 | SURFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Suriname                                                                              | 2004-01-01          | 2020-01-01        |
 | SURFCACLNUM       | Geographical Outreach: Number of Automated Teller Machines (ATMs) in 3 Largest Cities for Suriname                                                      | 2004-01-01          | 2015-01-01        |

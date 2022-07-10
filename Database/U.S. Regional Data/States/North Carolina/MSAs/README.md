@@ -4,7 +4,7 @@
 | Raleigh-Cary, NC                              |               217 |
 | Hickory-Lenoir-Morganton, NC                  |               176 |
 | Rocky Mount, NC                               |               143 |
-| Goldsboro, NC                                 |               102 |
+| Goldsboro, NC                                 |                 0 |
 | Winston-Salem, NC                             |               180 |
 | Asheville, NC                                 |               157 |
 | Durham-Chapel Hill, NC                        |               133 |

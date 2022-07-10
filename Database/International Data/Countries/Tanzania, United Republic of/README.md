@@ -71,7 +71,7 @@
 | DDSM01TZA066NWDB    | Volatility of Stock Price Index for United Republic of Tanzania                                                                            | 2008-01-01          | 2017-01-01        |
 | DETZAA052SCEN       | Value of Exports to Tanzania from Delaware                                                                                                 | 2008-01-01          | 2017-01-01        |
 | DETZAA475SCEN       | Number of Identified Exporters to Tanzania from Delaware                                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP7830             | U.S. Exports of Goods by F.A.S. Basis to Tanzania                                                                                          | 1992-01-01          | 2022-04-01        |
+| EXP7830             | U.S. Exports of Goods by F.A.S. Basis to Tanzania                                                                                          | 1992-01-01          | 2022-05-01        |
 | FLTZAA052SCEN       | Value of Exports to Tanzania from Florida                                                                                                  | 1997-01-01          | 2017-01-01        |
 | FLTZAA475SCEN       | Number of Identified Exporters to Tanzania from Florida                                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGTZA      | Inflation, consumer prices for the United Republic of Tanzania                                                                             | 1966-01-01          | 2020-01-01        |
@@ -85,7 +85,7 @@
 | IDTZAA475SCEN       | Number of Identified Exporters to Tanzania from Idaho                                                                                      | 1997-01-01          | 2017-01-01        |
 | ILTZAA052SCEN       | Value of Exports to Tanzania from Illinois                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILTZAA475SCEN       | Number of Identified Exporters to Tanzania from Illinois                                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7830             | U.S. Imports of Goods by Customs Basis from Tanzania                                                                                       | 1992-01-01          | 2022-04-01        |
+| IMP7830             | U.S. Imports of Goods by Customs Basis from Tanzania                                                                                       | 1992-01-01          | 2022-05-01        |
 | INTZAA052SCEN       | Value of Exports to Tanzania from Indiana                                                                                                  | 2002-01-01          | 2017-01-01        |
 | INTZAA475SCEN       | Number of Identified Exporters to Tanzania from Indiana                                                                                    | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2TZA      | Internet users for the United Republic of Tanzania                                                                                         | 1990-01-01          | 2020-01-01        |
@@ -103,8 +103,8 @@
 | METZAA475SCEN       | Number of Identified Exporters to Tanzania from Maine                                                                                      | 2002-01-01          | 2017-01-01        |
 | MITZAA052SCEN       | Value of Exports to Tanzania from Michigan                                                                                                 | 1997-01-01          | 2017-01-01        |
 | MITZAA475SCEN       | Number of Identified Exporters to Tanzania from Michigan                                                                                   | 1992-01-01          | 2017-01-01        |
-| MKTGDPTZA646NWDB    | Gross Domestic Product for United Republic of Tanzania                                                                                     | 1988-01-01          | 2020-01-01        |
-| MKTGNITZA646NWDB    | Gross National Income for United Republic of Tanzania                                                                                      | 1988-01-01          | 2020-01-01        |
+| MKTGDPTZA646NWDB    | Gross Domestic Product for United Republic of Tanzania                                                                                     | 1988-01-01          | 2021-01-01        |
+| MKTGNITZA646NWDB    | Gross National Income for United Republic of Tanzania                                                                                      | 1988-01-01          | 2021-01-01        |
 | MNTZAA052SCEN       | Value of Exports to Tanzania from Minnesota                                                                                                | 1992-01-01          | 2017-01-01        |
 | MNTZAA475SCEN       | Number of Identified Exporters to Tanzania from Minnesota                                                                                  | 1992-01-01          | 2017-01-01        |
 | MOTZAA052SCEN       | Value of Exports to Tanzania from Missouri                                                                                                 | 2002-01-01          | 2016-01-01        |
@@ -125,7 +125,7 @@
 | NMTZAA475SCEN       | Number of Identified Exporters to Tanzania from New Mexico                                                                                 | 2002-01-01          | 2016-01-01        |
 | NVTZAA052SCEN       | Value of Exports to Tanzania from Nevada                                                                                                   | 2004-01-01          | 2017-01-01        |
 | NVTZAA475SCEN       | Number of Identified Exporters to Tanzania from Nevada                                                                                     | 1997-01-01          | 2017-01-01        |
-| NYGDPPCAPKDTZA      | Constant GDP per capita for the United Republic of Tanzania                                                                                | 1988-01-01          | 2020-01-01        |
+| NYGDPPCAPKDTZA      | Constant GDP per capita for the United Republic of Tanzania                                                                                | 1988-01-01          | 2021-01-01        |
 | NYTZAA052SCEN       | Value of Exports to Tanzania from New York                                                                                                 | 1992-01-01          | 2017-01-01        |
 | NYTZAA475SCEN       | Number of Identified Exporters to Tanzania from New York                                                                                   | 1992-01-01          | 2017-01-01        |
 | OHTZAA052SCEN       | Value of Exports to Tanzania from Ohio                                                                                                     | 1992-01-01          | 2017-01-01        |
@@ -136,9 +136,9 @@
 | ORTZAA475SCEN       | Number of Identified Exporters to Tanzania from Oregon                                                                                     | 1992-01-01          | 2017-01-01        |
 | PATZAA052SCEN       | Value of Exports to Tanzania from Pennsylvania                                                                                             | 1997-01-01          | 2017-01-01        |
 | PATZAA475SCEN       | Number of Identified Exporters to Tanzania from Pennsylvania                                                                               | 1992-01-01          | 2017-01-01        |
-| PCAGDPTZA646NWDB    | Gross Domestic Product Per Capita for United Republic of Tanzania                                                                          | 1988-01-01          | 2020-01-01        |
+| PCAGDPTZA646NWDB    | Gross Domestic Product Per Capita for United Republic of Tanzania                                                                          | 1988-01-01          | 2021-01-01        |
 | POPTOTTZ52647NWDB   | Population, Total for United Republic of Tanzania                                                                                          | 1967-01-01          | 2012-01-01        |
-| POPTOTTZA647NWDB    | Population, Total for United Republic of Tanzania                                                                                          | 1960-01-01          | 2020-01-01        |
+| POPTOTTZA647NWDB    | Population, Total for United Republic of Tanzania                                                                                          | 1960-01-01          | 2021-01-01        |
 | PRTZAA475SCEN       | Number of Identified Exporters to Tanzania from Puerto Rico                                                                                | 1992-01-01          | 2004-01-01        |
 | RITZAA475SCEN       | Number of Identified Exporters to Tanzania from Rhode Island                                                                               | 2002-01-01          | 2016-01-01        |
 | SCTZAA052SCEN       | Value of Exports to Tanzania from South Carolina                                                                                           | 2002-01-01          | 2014-01-01        |
@@ -149,7 +149,7 @@
 | SPDYNIMRTINTZA      | Infant Mortality Rate for the United Republic of Tanzania                                                                                  | 1960-01-01          | 2020-01-01        |
 | SPDYNLE00INTZA      | Life Expectancy at Birth, Total for the United Republic of Tanzania                                                                        | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINTZA      | Fertility Rate, Total for the United Republic of Tanzania                                                                                  | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSTZA    | Population ages 65 and above for the United Republic of Tanzania                                                                           | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSTZA    | Population ages 65 and above for the United Republic of Tanzania                                                                           | 1960-01-01          | 2021-01-01        |
 | TNTZAA052SCEN       | Value of Exports to Tanzania from Tennessee                                                                                                | 2002-01-01          | 2017-01-01        |
 | TNTZAA475SCEN       | Number of Identified Exporters to Tanzania from Tennessee                                                                                  | 1997-01-01          | 2017-01-01        |
 | TXTZAA052SCEN       | Value of Exports to Tanzania from Texas                                                                                                    | 1992-01-01          | 2017-01-01        |

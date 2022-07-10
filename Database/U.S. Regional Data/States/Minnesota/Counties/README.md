@@ -51,7 +51,7 @@
 | Otter Tail County, MN        |               146 |
 | Dodge County, MN             |                90 |
 | Swift County, MN             |                90 |
-| Kandiyohi County, MN         |                 0 |
+| Kandiyohi County, MN         |                90 |
 | Martin County, MN            |                90 |
 | Sibley County, MN            |                90 |
 | Todd County, MN              |                89 |

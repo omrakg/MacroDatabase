@@ -25,7 +25,7 @@
 | Uintah County, UT     |                90 |
 | Garfield County, UT   |                87 |
 | Carbon County, UT     |                90 |
-| Wasatch County, UT    |                 0 |
-| Iron County, UT       |                90 |
+| Wasatch County, UT    |                90 |
+| Iron County, UT       |                 0 |
 | Rich County, UT       |                89 |
 | Utah County, UT       |               147 |

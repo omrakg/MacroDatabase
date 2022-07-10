@@ -154,7 +154,7 @@
 | DDSI07AMA156NWDB    | Provisions to Non-Performing Loans for Armenia                                                                              | 2000-01-01          | 2019-01-01        |
 | DEARMA052SCEN       | Value of Exports to Armenia from Delaware                                                                                   | 2006-01-01          | 2008-01-01        |
 | DEARMA475SCEN       | Number of Identified Exporters to Armenia from Delaware                                                                     | 2004-01-01          | 2016-01-01        |
-| EXP4631             | U.S. Exports of Goods by F.A.S. Basis to Armenia                                                                            | 1992-01-01          | 2022-04-01        |
+| EXP4631             | U.S. Exports of Goods by F.A.S. Basis to Armenia                                                                            | 1992-01-01          | 2022-05-01        |
 | FLARMA052SCEN       | Value of Exports to Armenia from Florida                                                                                    | 2002-01-01          | 2017-01-01        |
 | FLARMA475SCEN       | Number of Identified Exporters to Armenia from Florida                                                                      | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGARM      | Inflation, consumer prices for Armenia                                                                                      | 1994-01-01          | 2021-01-01        |
@@ -167,7 +167,7 @@
 | IDARMA475SCEN       | Number of Identified Exporters to Armenia from Idaho                                                                        | 1997-01-01          | 2017-01-01        |
 | ILARMA052SCEN       | Value of Exports to Armenia from Illinois                                                                                   | 2003-01-01          | 2017-01-01        |
 | ILARMA475SCEN       | Number of Identified Exporters to Armenia from Illinois                                                                     | 1997-01-01          | 2017-01-01        |
-| IMP4631             | U.S. Imports of Goods by Customs Basis from Armenia                                                                         | 1992-01-01          | 2022-04-01        |
+| IMP4631             | U.S. Imports of Goods by Customs Basis from Armenia                                                                         | 1992-01-01          | 2022-05-01        |
 | INARMA052SCEN       | Value of Exports to Armenia from Indiana                                                                                    | 2006-01-01          | 2017-01-01        |
 | INARMA475SCEN       | Number of Identified Exporters to Armenia from Indiana                                                                      | 1997-01-01          | 2017-01-01        |
 | ITNETUSERP2ARM      | Internet users for Armenia                                                                                                  | 1990-01-01          | 2020-01-01        |
@@ -184,8 +184,8 @@
 | MEARMA475SCEN       | Number of Identified Exporters to Armenia from Maine                                                                        | 1997-01-01          | 2014-01-01        |
 | MIARMA052SCEN       | Value of Exports to Armenia from Michigan                                                                                   | 2003-01-01          | 2017-01-01        |
 | MIARMA475SCEN       | Number of Identified Exporters to Armenia from Michigan                                                                     | 2002-01-01          | 2017-01-01        |
-| MKTGDPAMA646NWDB    | Gross Domestic Product for Armenia                                                                                          | 1990-01-01          | 2020-01-01        |
-| MKTGNIAMA646NWDB    | Gross National Income for Armenia                                                                                           | 1990-01-01          | 2020-01-01        |
+| MKTGDPAMA646NWDB    | Gross Domestic Product for Armenia                                                                                          | 1990-01-01          | 2021-01-01        |
+| MKTGNIAMA646NWDB    | Gross National Income for Armenia                                                                                           | 1990-01-01          | 2021-01-01        |
 | MNARMA052SCEN       | Value of Exports to Armenia from Minnesota                                                                                  | 2002-01-01          | 2017-01-01        |
 | MNARMA475SCEN       | Number of Identified Exporters to Armenia from Minnesota                                                                    | 1997-01-01          | 2017-01-01        |
 | MOARMA052SCEN       | Value of Exports to Armenia from Missouri                                                                                   | 2013-01-01          | 2017-01-01        |
@@ -205,7 +205,7 @@
 | NVARMA475SCEN       | Number of Identified Exporters to Armenia from Nevada                                                                       | 2002-01-01          | 2017-01-01        |
 | NYARMA052SCEN       | Value of Exports to Armenia from New York                                                                                   | 1992-01-01          | 2017-01-01        |
 | NYARMA475SCEN       | Number of Identified Exporters to Armenia from New York                                                                     | 1992-01-01          | 2017-01-01        |
-| NYGDPPCAPKDARM      | Constant GDP per capita for Armenia                                                                                         | 1990-01-01          | 2020-01-01        |
+| NYGDPPCAPKDARM      | Constant GDP per capita for Armenia                                                                                         | 1990-01-01          | 2021-01-01        |
 | OHARMA052SCEN       | Value of Exports to Armenia from Ohio                                                                                       | 1997-01-01          | 2017-01-01        |
 | OHARMA475SCEN       | Number of Identified Exporters to Armenia from Ohio                                                                         | 1997-01-01          | 2017-01-01        |
 | OKARMA052SCEN       | Value of Exports to Armenia from Oklahoma                                                                                   | 2010-01-01          | 2015-01-01        |
@@ -214,7 +214,7 @@
 | ORARMA475SCEN       | Number of Identified Exporters to Armenia from Oregon                                                                       | 2003-01-01          | 2017-01-01        |
 | PAARMA052SCEN       | Value of Exports to Armenia from Pennsylvania                                                                               | 2005-01-01          | 2017-01-01        |
 | PAARMA475SCEN       | Number of Identified Exporters to Armenia from Pennsylvania                                                                 | 1997-01-01          | 2017-01-01        |
-| PCAGDPAMA646NWDB    | Gross Domestic Product Per Capita for Armenia                                                                               | 1990-01-01          | 2020-01-01        |
+| PCAGDPAMA646NWDB    | Gross Domestic Product Per Capita for Armenia                                                                               | 1990-01-01          | 2021-01-01        |
 | PRARMA475SCEN       | Number of Identified Exporters to Armenia from Puerto Rico                                                                  | 2009-01-01          | 2010-01-01        |
 | RIARMA475SCEN       | Number of Identified Exporters to Armenia from Rhode Island                                                                 | 1997-01-01          | 2013-01-01        |
 | SCARMA052SCEN       | Value of Exports to Armenia from South Carolina                                                                             | 2002-01-01          | 2017-01-01        |
@@ -224,7 +224,7 @@
 | SPDYNIMRTINARM      | Infant Mortality Rate for Armenia                                                                                           | 1976-01-01          | 2020-01-01        |
 | SPDYNLE00INARM      | Life Expectancy at Birth, Total for Armenia                                                                                 | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINARM      | Fertility Rate, Total for Armenia                                                                                           | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSARM    | Population ages 65 and above for Armenia                                                                                    | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSARM    | Population ages 65 and above for Armenia                                                                                    | 1960-01-01          | 2021-01-01        |
 | TNARMA052SCEN       | Value of Exports to Armenia from Tennessee                                                                                  | 2007-01-01          | 2017-01-01        |
 | TNARMA475SCEN       | Number of Identified Exporters to Armenia from Tennessee                                                                    | 2002-01-01          | 2017-01-01        |
 | TXARMA052SCEN       | Value of Exports to Armenia from Texas                                                                                      | 2003-01-01          | 2017-01-01        |

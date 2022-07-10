@@ -6,7 +6,7 @@
 | Broadwater County, MT      |                89 |
 | Glacier County, MT         |                90 |
 | Jefferson County, MT       |                90 |
-| Flathead County, MT        |               147 |
+| Flathead County, MT        |                 0 |
 | Musselshell County, MT     |                89 |
 | Powder River County, MT    |                86 |
 | Garfield County, MT        |                84 |

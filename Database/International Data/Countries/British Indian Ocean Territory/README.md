@@ -7,7 +7,7 @@
 | COIOTA475SCEN | Number of Identified Exporters to British Indian Ocean Territory from Colorado       | 2006-01-01          | 2016-01-01        |
 | CTIOTA475SCEN | Number of Identified Exporters to British Indian Ocean Territory from Connecticut    | 2003-01-01          | 2016-01-01        |
 | DEIOTA475SCEN | Number of Identified Exporters to British Indian Ocean Territory from Delaware       | 2005-01-01          | 2005-01-01        |
-| EXP7810       | U.S. Exports of Goods by F.A.S. Basis to British Indian Ocean Territory              | 1992-01-01          | 2022-04-01        |
+| EXP7810       | U.S. Exports of Goods by F.A.S. Basis to British Indian Ocean Territory              | 1992-01-01          | 2022-05-01        |
 | FLIOTA052SCEN | Value of Exports to British Indian Ocean Territory from Florida                      | 2004-01-01          | 2016-01-01        |
 | FLIOTA475SCEN | Number of Identified Exporters to British Indian Ocean Territory from Florida        | 1997-01-01          | 2016-01-01        |
 | GAIOTA052SCEN | Value of Exports to British Indian Ocean Territory from Georgia                      | 2016-01-01          | 2016-01-01        |
@@ -15,7 +15,7 @@
 | IAIOTA475SCEN | Number of Identified Exporters to British Indian Ocean Territory from Iowa           | 2003-01-01          | 2016-01-01        |
 | ILIOTA052SCEN | Value of Exports to British Indian Ocean Territory from Illinois                     | 2016-01-01          | 2016-01-01        |
 | ILIOTA475SCEN | Number of Identified Exporters to British Indian Ocean Territory from Illinois       | 1992-01-01          | 2016-01-01        |
-| IMP7810       | U.S. Imports of Goods by Customs Basis from British Indian Ocean Territory           | 1992-01-01          | 2022-04-01        |
+| IMP7810       | U.S. Imports of Goods by Customs Basis from British Indian Ocean Territory           | 1992-01-01          | 2022-05-01        |
 | INIOTA052SCEN | Value of Exports to British Indian Ocean Territory from Indiana                      | 2016-01-01          | 2016-01-01        |
 | INIOTA475SCEN | Number of Identified Exporters to British Indian Ocean Territory from Indiana        | 1997-01-01          | 2016-01-01        |
 | KSIOTA475SCEN | Number of Identified Exporters to British Indian Ocean Territory from Kansas         | 2004-01-01          | 2004-01-01        |

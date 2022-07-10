@@ -8,7 +8,7 @@
 | Rowan County, KY        |                90 |
 | Barren County, KY       |                89 |
 | Nelson County, KY       |                90 |
-| Garrard County, KY      |                89 |
+| Garrard County, KY      |                 0 |
 | Meade County, KY        |                89 |
 | Lincoln County, KY      |                90 |
 | McCreary County, KY     |                89 |
@@ -45,7 +45,7 @@
 | Grant County, KY        |                90 |
 | Greenup County, KY      |                90 |
 | Bath County, KY         |                90 |
-| Jefferson County, KY    |                 0 |
+| Jefferson County, KY    |               147 |
 | Calloway County, KY     |                90 |
 | Wayne County, KY        |                90 |
 | Mercer County, KY       |                89 |
@@ -104,8 +104,8 @@
 | Fleming County, KY      |                88 |
 | Hardin County, KY       |               147 |
 | Grayson County, KY      |                89 |
-| Magoffin County, KY     |                87 |
-| Crittenden County, KY   |                 0 |
+| Magoffin County, KY     |                 0 |
+| Crittenden County, KY   |                89 |
 | Graves County, KY       |                90 |
 | Bell County, KY         |                89 |
 | Monroe County, KY       |                88 |

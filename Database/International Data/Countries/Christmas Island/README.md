@@ -7,7 +7,7 @@
 | COCXRA475SCEN | Number of Identified Exporters to Christmas Island from Colorado       | 2012-01-01          | 2015-01-01        |
 | CTCXRA475SCEN | Number of Identified Exporters to Christmas Island from Connecticut    | 2003-01-01          | 2012-01-01        |
 | DECXRA475SCEN | Number of Identified Exporters to Christmas Island from Delaware       | 1997-01-01          | 2008-01-01        |
-| EXP6024       | U.S. Exports of Goods by F.A.S. Basis to Christmas Island              | 1992-01-01          | 2022-04-01        |
+| EXP6024       | U.S. Exports of Goods by F.A.S. Basis to Christmas Island              | 1992-01-01          | 2022-05-01        |
 | FLCXRA052SCEN | Value of Exports to Christmas Island from Florida                      | 2003-01-01          | 2010-01-01        |
 | FLCXRA475SCEN | Number of Identified Exporters to Christmas Island from Florida        | 2003-01-01          | 2016-01-01        |
 | GACXRA475SCEN | Number of Identified Exporters to Christmas Island from Georgia        | 2003-01-01          | 2015-01-01        |
@@ -16,7 +16,7 @@
 | IDCXRA475SCEN | Number of Identified Exporters to Christmas Island from Idaho          | 2009-01-01          | 2009-01-01        |
 | ILCXRA052SCEN | Value of Exports to Christmas Island from Illinois                     | 2002-01-01          | 2008-01-01        |
 | ILCXRA475SCEN | Number of Identified Exporters to Christmas Island from Illinois       | 1997-01-01          | 2016-01-01        |
-| IMP6024       | U.S. Imports of Goods by Customs Basis from Christmas Island           | 1992-01-01          | 2022-04-01        |
+| IMP6024       | U.S. Imports of Goods by Customs Basis from Christmas Island           | 1992-01-01          | 2022-05-01        |
 | INCXRA475SCEN | Number of Identified Exporters to Christmas Island from Indiana        | 2006-01-01          | 2012-01-01        |
 | KSCXRA475SCEN | Number of Identified Exporters to Christmas Island from Kansas         | 1997-01-01          | 2012-01-01        |
 | KYCXRA475SCEN | Number of Identified Exporters to Christmas Island from Kentucky       | 1997-01-01          | 2016-01-01        |

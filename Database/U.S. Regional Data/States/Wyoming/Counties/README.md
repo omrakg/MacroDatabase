@@ -19,7 +19,7 @@
 | Lincoln County, WY     |                90 |
 | Sweetwater County, WY  |                90 |
 | Park County, WY        |                90 |
-| Sheridan County, WY    |                90 |
-| Weston County, WY      |                 0 |
+| Sheridan County, WY    |                 0 |
+| Weston County, WY      |                89 |
 | Fremont County, WY     |                90 |
 | Natrona County, WY     |               146 |

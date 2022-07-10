@@ -12,10 +12,10 @@
 | CTPLWA475SCEN     | Number of Identified Exporters to Palau from Connecticut                                                      | 1997-01-01          | 2016-01-01        |
 | DDOI09PWA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Palau                                          | 1995-01-01          | 2013-01-01        |
 | DEPLWA475SCEN     | Number of Identified Exporters to Palau from Delaware                                                         | 2002-01-01          | 2014-01-01        |
-| EXP6830           | U.S. Exports of Goods by F.A.S. Basis to Palau                                                                | 1992-01-01          | 2022-04-01        |
+| EXP6830           | U.S. Exports of Goods by F.A.S. Basis to Palau                                                                | 1992-01-01          | 2022-05-01        |
 | FLPLWA052SCEN     | Value of Exports to Palau from Florida                                                                        | 2003-01-01          | 2017-01-01        |
 | FLPLWA475SCEN     | Number of Identified Exporters to Palau from Florida                                                          | 1992-01-01          | 2017-01-01        |
-| FPCPITOTLZGPLW    | Inflation, consumer prices for Palau                                                                          | 2002-01-01          | 2020-01-01        |
+| FPCPITOTLZGPLW    | Inflation, consumer prices for Palau                                                                          | 2002-01-01          | 2021-01-01        |
 | GAPLWA052SCEN     | Value of Exports to Palau from Georgia                                                                        | 2002-01-01          | 2017-01-01        |
 | GAPLWA475SCEN     | Number of Identified Exporters to Palau from Georgia                                                          | 2002-01-01          | 2017-01-01        |
 | HIPLWA052SCEN     | Value of Exports to Palau from Hawaii                                                                         | 1992-01-01          | 2015-01-01        |
@@ -25,7 +25,7 @@
 | IDPLWA475SCEN     | Number of Identified Exporters to Palau from Idaho                                                            | 1997-01-01          | 2016-01-01        |
 | ILPLWA052SCEN     | Value of Exports to Palau from Illinois                                                                       | 1992-01-01          | 2016-01-01        |
 | ILPLWA475SCEN     | Number of Identified Exporters to Palau from Illinois                                                         | 1992-01-01          | 2016-01-01        |
-| IMP6830           | U.S. Imports of Goods by Customs Basis from Palau                                                             | 1992-01-01          | 2022-04-01        |
+| IMP6830           | U.S. Imports of Goods by Customs Basis from Palau                                                             | 1992-01-01          | 2022-05-01        |
 | INPLWA052SCEN     | Value of Exports to Palau from Indiana                                                                        | 2013-01-01          | 2017-01-01        |
 | INPLWA475SCEN     | Number of Identified Exporters to Palau from Indiana                                                          | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2PLW    | Internet users for Palau                                                                                      | 1990-01-01          | 2004-01-01        |
@@ -92,7 +92,7 @@
 | PLWTMRPCPPPT      | External Trade: Volume of Imports of Goods and Services for Palau                                             | 2016-01-01          | 2024-01-01        |
 | PLWTXRPCPPPT      | External Trade: Volume of Exports of Goods and Services for Palau                                             | 2016-01-01          | 2024-01-01        |
 | POPTOTPW52647NWDB | Population, Total for Palau                                                                                   | 1967-01-01          | 2012-01-01        |
-| POPTOTPWA647NWDB  | Population, Total for Palau                                                                                   | 1960-01-01          | 2020-01-01        |
+| POPTOTPWA647NWDB  | Population, Total for Palau                                                                                   | 1960-01-01          | 2021-01-01        |
 | RIPLWA475SCEN     | Number of Identified Exporters to Palau from Rhode Island                                                     | 2003-01-01          | 2015-01-01        |
 | SCPLWA052SCEN     | Value of Exports to Palau from South Carolina                                                                 | 2005-01-01          | 2005-01-01        |
 | SCPLWA475SCEN     | Number of Identified Exporters to Palau from South Carolina                                                   | 2005-01-01          | 2015-01-01        |

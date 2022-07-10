@@ -1,6 +1,6 @@
 | Folder                                  |   Files / Folders |
 |-----------------------------------------|-------------------|
-| St. Cloud, MN                           |                 0 |
+| St. Cloud, MN                           |               158 |
 | Fargo, ND-MN                            |                 0 |
 | Grand Forks, ND-MN                      |                 0 |
 | Mankato, MN                             |                90 |

@@ -55,7 +55,7 @@
 | DDSI04KHA156NWDB    | Bank Credit to Bank Deposits for Cambodia                                                                                                       | 1993-01-01          | 2018-01-01        |
 | DDSI06KHA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Cambodia                                                                                   | 2002-01-01          | 2020-01-01        |
 | DEKHMA475SCEN       | Number of Identified Exporters to Cambodia from Delaware                                                                                        | 2009-01-01          | 2014-01-01        |
-| EXP5550             | U.S. Exports of Goods by F.A.S. Basis to Cambodia                                                                                               | 1992-01-01          | 2022-04-01        |
+| EXP5550             | U.S. Exports of Goods by F.A.S. Basis to Cambodia                                                                                               | 1992-01-01          | 2022-05-01        |
 | FLKHMA052SCEN       | Value of Exports to Cambodia from Florida                                                                                                       | 1997-01-01          | 2017-01-01        |
 | FLKHMA475SCEN       | Number of Identified Exporters to Cambodia from Florida                                                                                         | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGKHM      | Inflation, consumer prices for Cambodia                                                                                                         | 1995-01-01          | 2021-01-01        |
@@ -68,7 +68,7 @@
 | IDKHMA475SCEN       | Number of Identified Exporters to Cambodia from Idaho                                                                                           | 1997-01-01          | 2016-01-01        |
 | ILKHMA052SCEN       | Value of Exports to Cambodia from Illinois                                                                                                      | 1997-01-01          | 2017-01-01        |
 | ILKHMA475SCEN       | Number of Identified Exporters to Cambodia from Illinois                                                                                        | 1992-01-01          | 2017-01-01        |
-| IMP5550             | U.S. Imports of Goods by Customs Basis from Cambodia                                                                                            | 1992-01-01          | 2022-04-01        |
+| IMP5550             | U.S. Imports of Goods by Customs Basis from Cambodia                                                                                            | 1992-01-01          | 2022-05-01        |
 | INKHMA052SCEN       | Value of Exports to Cambodia from Indiana                                                                                                       | 2013-01-01          | 2017-01-01        |
 | INKHMA475SCEN       | Number of Identified Exporters to Cambodia from Indiana                                                                                         | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2KHM      | Internet users for Cambodia                                                                                                                     | 1990-01-01          | 2017-01-01        |
@@ -148,8 +148,8 @@
 | MEKHMA475SCEN       | Number of Identified Exporters to Cambodia from Maine                                                                                           | 2002-01-01          | 2017-01-01        |
 | MIKHMA052SCEN       | Value of Exports to Cambodia from Michigan                                                                                                      | 2006-01-01          | 2017-01-01        |
 | MIKHMA475SCEN       | Number of Identified Exporters to Cambodia from Michigan                                                                                        | 1992-01-01          | 2017-01-01        |
-| MKTGDPKHA646NWDB    | Gross Domestic Product for Cambodia                                                                                                             | 1960-01-01          | 2020-01-01        |
-| MKTGNIKHA646NWDB    | Gross National Income for Cambodia                                                                                                              | 1960-01-01          | 2020-01-01        |
+| MKTGDPKHA646NWDB    | Gross Domestic Product for Cambodia                                                                                                             | 1960-01-01          | 2021-01-01        |
+| MKTGNIKHA646NWDB    | Gross National Income for Cambodia                                                                                                              | 1960-01-01          | 2021-01-01        |
 | MNKHMA052SCEN       | Value of Exports to Cambodia from Minnesota                                                                                                     | 2003-01-01          | 2017-01-01        |
 | MNKHMA475SCEN       | Number of Identified Exporters to Cambodia from Minnesota                                                                                       | 1997-01-01          | 2017-01-01        |
 | MOKHMA052SCEN       | Value of Exports to Cambodia from Missouri                                                                                                      | 2010-01-01          | 2017-01-01        |
@@ -169,7 +169,7 @@
 | NMKHMA475SCEN       | Number of Identified Exporters to Cambodia from New Mexico                                                                                      | 2006-01-01          | 2016-01-01        |
 | NVKHMA052SCEN       | Value of Exports to Cambodia from Nevada                                                                                                        | 2005-01-01          | 2017-01-01        |
 | NVKHMA475SCEN       | Number of Identified Exporters to Cambodia from Nevada                                                                                          | 2002-01-01          | 2017-01-01        |
-| NYGDPPCAPKDKHM      | Constant GDP per capita for Cambodia                                                                                                            | 1993-01-01          | 2020-01-01        |
+| NYGDPPCAPKDKHM      | Constant GDP per capita for Cambodia                                                                                                            | 1993-01-01          | 2021-01-01        |
 | NYKHMA052SCEN       | Value of Exports to Cambodia from New York                                                                                                      | 1997-01-01          | 2017-01-01        |
 | NYKHMA475SCEN       | Number of Identified Exporters to Cambodia from New York                                                                                        | 1997-01-01          | 2017-01-01        |
 | OHKHMA052SCEN       | Value of Exports to Cambodia from Ohio                                                                                                          | 1997-01-01          | 2017-01-01        |
@@ -180,9 +180,9 @@
 | ORKHMA475SCEN       | Number of Identified Exporters to Cambodia from Oregon                                                                                          | 2003-01-01          | 2017-01-01        |
 | PAKHMA052SCEN       | Value of Exports to Cambodia from Pennsylvania                                                                                                  | 2002-01-01          | 2017-01-01        |
 | PAKHMA475SCEN       | Number of Identified Exporters to Cambodia from Pennsylvania                                                                                    | 1997-01-01          | 2017-01-01        |
-| PCAGDPKHA646NWDB    | Gross Domestic Product Per Capita for Cambodia                                                                                                  | 1960-01-01          | 2020-01-01        |
+| PCAGDPKHA646NWDB    | Gross Domestic Product Per Capita for Cambodia                                                                                                  | 1960-01-01          | 2021-01-01        |
 | POPTOTKH52647NWDB   | Population, Total for Cambodia                                                                                                                  | 1967-01-01          | 2012-01-01        |
-| POPTOTKHA647NWDB    | Population, Total for Cambodia                                                                                                                  | 1960-01-01          | 2020-01-01        |
+| POPTOTKHA647NWDB    | Population, Total for Cambodia                                                                                                                  | 1960-01-01          | 2021-01-01        |
 | PRKHMA052SCEN       | Value of Exports to Cambodia from Puerto Rico                                                                                                   | 2012-01-01          | 2012-01-01        |
 | PRKHMA475SCEN       | Number of Identified Exporters to Cambodia from Puerto Rico                                                                                     | 2002-01-01          | 2016-01-01        |
 | RIKHMA475SCEN       | Number of Identified Exporters to Cambodia from Rhode Island                                                                                    | 2002-01-01          | 2017-01-01        |
@@ -194,7 +194,7 @@
 | SPDYNIMRTINKHM      | Infant Mortality Rate for Cambodia                                                                                                              | 1975-01-01          | 2020-01-01        |
 | SPDYNLE00INKHM      | Life Expectancy at Birth, Total for Cambodia                                                                                                    | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINKHM      | Fertility Rate, Total for Cambodia                                                                                                              | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSKHM    | Population ages 65 and above for Cambodia                                                                                                       | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSKHM    | Population ages 65 and above for Cambodia                                                                                                       | 1960-01-01          | 2021-01-01        |
 | TNKHMA052SCEN       | Value of Exports to Cambodia from Tennessee                                                                                                     | 2002-01-01          | 2017-01-01        |
 | TNKHMA475SCEN       | Number of Identified Exporters to Cambodia from Tennessee                                                                                       | 2002-01-01          | 2017-01-01        |
 | TXKHMA052SCEN       | Value of Exports to Cambodia from Texas                                                                                                         | 1997-01-01          | 2017-01-01        |

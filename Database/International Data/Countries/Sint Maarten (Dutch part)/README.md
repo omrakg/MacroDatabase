@@ -16,7 +16,7 @@
 | CTSXMA475SCEN     | Number of Identified Exporters to Sint Maarten from Connecticut                 | 2011-01-01          | 2017-01-01        |
 | DESXMA052SCEN     | Value of Exports to Sint Maarten from Delaware                                  | 2016-01-01          | 2016-01-01        |
 | DESXMA475SCEN     | Number of Identified Exporters to Sint Maarten from Delaware                    | 2011-01-01          | 2016-01-01        |
-| EXP2774           | U.S. Exports of Goods by F.A.S. Basis to Sint Maarten                           | 2011-01-01          | 2022-04-01        |
+| EXP2774           | U.S. Exports of Goods by F.A.S. Basis to Sint Maarten                           | 2011-01-01          | 2022-05-01        |
 | FLSXMA052SCEN     | Value of Exports to Sint Maarten from Florida                                   | 2011-01-01          | 2017-01-01        |
 | FLSXMA475SCEN     | Number of Identified Exporters to Sint Maarten from Florida                     | 2011-01-01          | 2017-01-01        |
 | FPCPITOTLZGSXM    | Inflation, consumer prices for Sint Maarten                                     | 2006-01-01          | 2017-01-01        |
@@ -30,7 +30,7 @@
 | IDSXMA475SCEN     | Number of Identified Exporters to Sint Maarten from Idaho                       | 2011-01-01          | 2016-01-01        |
 | ILSXMA052SCEN     | Value of Exports to Sint Maarten from Illinois                                  | 2011-01-01          | 2017-01-01        |
 | ILSXMA475SCEN     | Number of Identified Exporters to Sint Maarten from Illinois                    | 2011-01-01          | 2017-01-01        |
-| IMP2774           | U.S. Imports of Goods by Customs Basis from Sint Maarten                        | 2011-01-01          | 2022-04-01        |
+| IMP2774           | U.S. Imports of Goods by Customs Basis from Sint Maarten                        | 2011-01-01          | 2022-05-01        |
 | INSXMA052SCEN     | Value of Exports to Sint Maarten from Indiana                                   | 2011-01-01          | 2017-01-01        |
 | INSXMA475SCEN     | Number of Identified Exporters to Sint Maarten from Indiana                     | 2011-01-01          | 2017-01-01        |
 | KSSXMA052SCEN     | Value of Exports to Sint Maarten from Kansas                                    | 2011-01-01          | 2017-01-01        |
@@ -77,7 +77,7 @@
 | PASXMA052SCEN     | Value of Exports to Sint Maarten from Pennsylvania                              | 2011-01-01          | 2017-01-01        |
 | PASXMA475SCEN     | Number of Identified Exporters to Sint Maarten from Pennsylvania                | 2011-01-01          | 2017-01-01        |
 | POPTOTSX52647NWDB | Population, Total for Sint Maarten                                              | 2007-01-01          | 2012-01-01        |
-| POPTOTSXA647NWDB  | Population, Total for Sint Maarten                                              | 1960-01-01          | 2020-01-01        |
+| POPTOTSXA647NWDB  | Population, Total for Sint Maarten                                              | 1960-01-01          | 2021-01-01        |
 | PRSXMA052SCEN     | Value of Exports to Sint Maarten from Puerto Rico                               | 2011-01-01          | 2017-01-01        |
 | PRSXMA475SCEN     | Number of Identified Exporters to Sint Maarten from Puerto Rico                 | 2011-01-01          | 2017-01-01        |
 | RISXMA052SCEN     | Value of Exports to Sint Maarten from Rhode Island                              | 2011-01-01          | 2017-01-01        |

@@ -26,7 +26,7 @@
 | Baldwin County, AL    |               147 |
 | Chambers County, AL   |                90 |
 | Barbour County, AL    |                89 |
-| Clarke County, AL     |                89 |
+| Clarke County, AL     |                 0 |
 | Henry County, AL      |                90 |
 | Mobile County, AL     |               147 |
 | Fayette County, AL    |                90 |
@@ -46,7 +46,7 @@
 | Bullock County, AL    |                89 |
 | Covington County, AL  |                89 |
 | Talladega County, AL  |               146 |
-| Jefferson County, AL  |                 0 |
+| Jefferson County, AL  |               146 |
 | Bibb County, AL       |                90 |
 | St. Clair County, AL  |               147 |
 | Dale County, AL       |               146 |

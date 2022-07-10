@@ -7,7 +7,7 @@
 | Maries County, MO         |                90 |
 | Howard County, MO         |                90 |
 | Vernon County, MO         |                90 |
-| Carter County, MO         |                88 |
+| Carter County, MO         |                 0 |
 | Cooper County, MO         |                89 |
 | Newton County, MO         |               145 |
 | Stoddard County, MO       |                90 |
@@ -46,7 +46,7 @@
 | Mississippi County, MO    |                90 |
 | Clark County, MO          |                89 |
 | Gasconade County, MO      |                89 |
-| Pemiscot County, MO       |                 0 |
+| Pemiscot County, MO       |                89 |
 | Ripley County, MO         |                90 |
 | Boone County, MO          |               147 |
 | Shelby County, MO         |                89 |
@@ -67,7 +67,7 @@
 | Camden County, MO         |                90 |
 | Cass County, MO           |               147 |
 | Barry County, MO          |                90 |
-| Montgomery County, MO     |                89 |
+| Montgomery County, MO     |                 0 |
 | Henry County, MO          |                89 |
 | Chariton County, MO       |                88 |
 | McDonald County, MO       |                89 |
@@ -106,7 +106,7 @@
 | Barton County, MO         |                90 |
 | Lewis County, MO          |                89 |
 | Cedar County, MO          |                88 |
-| Adair County, MO          |                 0 |
+| Adair County, MO          |                89 |
 | Carroll County, MO        |                88 |
 | Laclede County, MO        |                90 |
 | Webster County, MO        |                90 |

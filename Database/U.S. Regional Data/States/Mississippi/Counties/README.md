@@ -25,8 +25,8 @@
 | Warren County, MS          |               146 |
 | Leflore County, MS         |                90 |
 | Marion County, MS          |                89 |
-| Lee County, MS             |               147 |
-| Quitman County, MS         |                 0 |
+| Lee County, MS             |                 0 |
+| Quitman County, MS         |                87 |
 | Pike County, MS            |                89 |
 | Issaquena County, MS       |                88 |
 | Prentiss County, MS        |                88 |

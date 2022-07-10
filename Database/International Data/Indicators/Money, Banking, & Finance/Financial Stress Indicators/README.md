@@ -9,7 +9,7 @@
 | RETASTMXM163N | Return on Assets for Mexico                                         | 2005-01-01          | 2021-05-01        |
 | RETASTZAM163N | Return on Assets for South Africa                                   | 2008-01-01          | 2021-05-01        |
 | RETEQTMXM163N | Return on Equity for Mexico                                         | 2005-01-01          | 2021-05-01        |
-| RETEQTZAM163N | Return on Equity for South Africa                                   | 2008-01-01          | 2021-12-01        |
+| RETEQTZAM163N | Return on Equity for South Africa                                   | 2008-01-01          | 2021-05-01        |
 | RT1CRAMXM163N | Regulatory Tier 1 Capital to Risk-Weighted Assets for Mexico        | 2005-01-01          | 2021-05-01        |
 | RT1CRAZAM163N | Regulatory Tier 1 Capital to Risk-Weighted Assets for South Africa  | 2008-01-01          | 2021-05-01        |
 | TOTDTEAUQ163N | Total Debt to Equity for Australia                                  | 2005-10-01          | 2022-01-01        |

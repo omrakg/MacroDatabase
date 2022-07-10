@@ -16,21 +16,21 @@
 | Austria        |               816 |
 | South Africa   |               844 |
 | Netherlands    |               844 |
-| Venezuela      |                 5 |
+| Venezuela      |                 0 |
 | Malaysia       |                 4 |
 | Ireland        |               819 |
-| Japan          |                 0 |
+| Japan          |                 5 |
 | Portugal       |               829 |
 | Finland        |                 1 |
 | Switzerland    |               821 |
 | Spain          |               828 |
-| Euro           |                 5 |
-| South Korea    |                 5 |
+| Euro           |                 0 |
+| South Korea    |                 0 |
 | Brazil         |               858 |
-| Greece         |               847 |
-| Singapore      |                 5 |
-| New Zealand    |                 5 |
-| Sweden         |                 5 |
-| Canada         |               723 |
-| Australia      |                 5 |
-| Germany        |               816 |
+| Greece         |                 0 |
+| Singapore      |                 0 |
+| New Zealand    |                 0 |
+| Sweden         |                 0 |
+| Canada         |                 0 |
+| Australia      |                 0 |
+| Germany        |                 0 |

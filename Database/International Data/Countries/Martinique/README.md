@@ -12,7 +12,7 @@
 | CTMTQA475SCEN | Number of Identified Exporters to Martinique from Connecticut          | 1992-01-01          | 2016-01-01        |
 | DCMTQA475SCEN | Number of Identified Exporters to Martinique from District of Columbia | 2008-01-01          | 2016-01-01        |
 | DEMTQA475SCEN | Number of Identified Exporters to Martinique from Delaware             | 2009-01-01          | 2010-01-01        |
-| EXP2839       | U.S. Exports of Goods by F.A.S. Basis to Martinique                    | 1992-01-01          | 2022-04-01        |
+| EXP2839       | U.S. Exports of Goods by F.A.S. Basis to Martinique                    | 1992-01-01          | 2022-05-01        |
 | FLMTQA052SCEN | Value of Exports to Martinique from Florida                            | 1992-01-01          | 2017-01-01        |
 | FLMTQA475SCEN | Number of Identified Exporters to Martinique from Florida              | 1992-01-01          | 2017-01-01        |
 | GAMTQA052SCEN | Value of Exports to Martinique from Georgia                            | 1992-01-01          | 2017-01-01        |
@@ -22,7 +22,7 @@
 | IDMTQA475SCEN | Number of Identified Exporters to Martinique from Idaho                | 2006-01-01          | 2016-01-01        |
 | ILMTQA052SCEN | Value of Exports to Martinique from Illinois                           | 1992-01-01          | 2017-01-01        |
 | ILMTQA475SCEN | Number of Identified Exporters to Martinique from Illinois             | 1992-01-01          | 2017-01-01        |
-| IMP2839       | U.S. Imports of Goods by Customs Basis from Martinique                 | 1992-01-01          | 2022-04-01        |
+| IMP2839       | U.S. Imports of Goods by Customs Basis from Martinique                 | 1992-01-01          | 2022-05-01        |
 | INMTQA052SCEN | Value of Exports to Martinique from Indiana                            | 2002-01-01          | 2017-01-01        |
 | INMTQA475SCEN | Number of Identified Exporters to Martinique from Indiana              | 1992-01-01          | 2017-01-01        |
 | KSMTQA052SCEN | Value of Exports to Martinique from Kansas                             | 1997-01-01          | 2015-01-01        |

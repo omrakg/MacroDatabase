@@ -1,6 +1,6 @@
 | Folder                   |   Files / Folders |
 |--------------------------|-------------------|
-| Warren County, GA        |                88 |
+| Warren County, GA        |                 0 |
 | White County, GA         |                90 |
 | Coffee County, GA        |                89 |
 | Pulaski County, GA       |                89 |
@@ -30,7 +30,7 @@
 | Lincoln County, GA       |                89 |
 | Hall County, GA          |               147 |
 | Dougherty County, GA     |               147 |
-| Echols County, GA        |                 0 |
+| Echols County, GA        |                88 |
 | Brantley County, GA      |                88 |
 | Towns County, GA         |                89 |
 | Gwinnett County, GA      |               147 |
@@ -90,7 +90,7 @@
 | McDuffie County, GA      |                90 |
 | Fayette County, GA       |               147 |
 | Cobb County, GA          |               147 |
-| Columbia County, GA      |                 0 |
+| Columbia County, GA      |               146 |
 | Richmond County, GA      |               146 |
 | Hart County, GA          |                89 |
 | Laurens County, GA       |               146 |
@@ -111,7 +111,7 @@
 | Jefferson County, GA     |                89 |
 | Pierce County, GA        |                89 |
 | Coweta County, GA        |               146 |
-| Lowndes County, GA       |               147 |
+| Lowndes County, GA       |                 0 |
 | Dawson County, GA        |                90 |
 | Gilmer County, GA        |                90 |
 | Grady County, GA         |                90 |
@@ -150,7 +150,7 @@
 | De Kalb County, GA       |               147 |
 | Mitchell County, GA      |                90 |
 | Dodge County, GA         |                90 |
-| Jasper County, GA        |                 0 |
+| Jasper County, GA        |                90 |
 | Stephens County, GA      |                90 |
 | Bacon County, GA         |                88 |
 | Paulding County, GA      |               147 |

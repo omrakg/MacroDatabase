@@ -29,7 +29,7 @@
 | CTAIAA475SCEN | Number of Identified Exporters to Anguilla from Connecticut                                                              | 1992-01-01          | 2017-01-01        |
 | DCAIAA475SCEN | Number of Identified Exporters to Anguilla from District of Columbia                                                     | 2005-01-01          | 2015-01-01        |
 | DEAIAA475SCEN | Number of Identified Exporters to Anguilla from Delaware                                                                 | 2007-01-01          | 2015-01-01        |
-| EXP2481       | U.S. Exports of Goods by F.A.S. Basis to Anguilla                                                                        | 1992-01-01          | 2022-04-01        |
+| EXP2481       | U.S. Exports of Goods by F.A.S. Basis to Anguilla                                                                        | 1992-01-01          | 2022-05-01        |
 | FLAIAA052SCEN | Value of Exports to Anguilla from Florida                                                                                | 1992-01-01          | 2017-01-01        |
 | FLAIAA475SCEN | Number of Identified Exporters to Anguilla from Florida                                                                  | 1992-01-01          | 2017-01-01        |
 | GAAIAA052SCEN | Value of Exports to Anguilla from Georgia                                                                                | 1992-01-01          | 2017-01-01        |
@@ -40,7 +40,7 @@
 | IDAIAA475SCEN | Number of Identified Exporters to Anguilla from Idaho                                                                    | 1997-01-01          | 2015-01-01        |
 | ILAIAA052SCEN | Value of Exports to Anguilla from Illinois                                                                               | 1992-01-01          | 2017-01-01        |
 | ILAIAA475SCEN | Number of Identified Exporters to Anguilla from Illinois                                                                 | 1992-01-01          | 2017-01-01        |
-| IMP2481       | U.S. Imports of Goods by Customs Basis from Anguilla                                                                     | 1992-01-01          | 2022-04-01        |
+| IMP2481       | U.S. Imports of Goods by Customs Basis from Anguilla                                                                     | 1992-01-01          | 2022-05-01        |
 | INAIAA052SCEN | Value of Exports to Anguilla from Indiana                                                                                | 2004-01-01          | 2016-01-01        |
 | INAIAA475SCEN | Number of Identified Exporters to Anguilla from Indiana                                                                  | 1992-01-01          | 2016-01-01        |
 | KSAIAA052SCEN | Value of Exports to Anguilla from Kansas                                                                                 | 2005-01-01          | 2016-01-01        |

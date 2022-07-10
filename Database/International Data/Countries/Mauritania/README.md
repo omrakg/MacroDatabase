@@ -53,7 +53,7 @@
 | DDSI01MRA645NWDB     | Bank Z-Score for Mauritania                                                                                                  | 2000-01-01          | 2020-01-01        |
 | DDSI04MRA156NWDB     | Bank Credit to Bank Deposits for Mauritania                                                                                  | 1961-01-01          | 2019-01-01        |
 | DDSI06MRA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Mauritania                                                              | 2000-01-01          | 2020-01-01        |
-| EXP7410              | U.S. Exports of Goods by F.A.S. Basis to Mauritania                                                                          | 1992-01-01          | 2022-04-01        |
+| EXP7410              | U.S. Exports of Goods by F.A.S. Basis to Mauritania                                                                          | 1992-01-01          | 2022-05-01        |
 | FLMRTA052SCEN        | Value of Exports to Mauritania from Florida                                                                                  | 2002-01-01          | 2017-01-01        |
 | FLMRTA475SCEN        | Number of Identified Exporters to Mauritania from Florida                                                                    | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGMRT       | Inflation, consumer prices for Mauritania                                                                                    | 1986-01-01          | 2020-01-01        |
@@ -66,7 +66,7 @@
 | IDMRTA475SCEN        | Number of Identified Exporters to Mauritania from Idaho                                                                      | 2007-01-01          | 2016-01-01        |
 | ILMRTA052SCEN        | Value of Exports to Mauritania from Illinois                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILMRTA475SCEN        | Number of Identified Exporters to Mauritania from Illinois                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7410              | U.S. Imports of Goods by Customs Basis from Mauritania                                                                       | 1992-01-01          | 2022-04-01        |
+| IMP7410              | U.S. Imports of Goods by Customs Basis from Mauritania                                                                       | 1992-01-01          | 2022-05-01        |
 | INMRTA052SCEN        | Value of Exports to Mauritania from Indiana                                                                                  | 2003-01-01          | 2015-01-01        |
 | INMRTA475SCEN        | Number of Identified Exporters to Mauritania from Indiana                                                                    | 1997-01-01          | 2017-01-01        |
 | ITNETUSERP2MRT       | Internet users for Mauritania                                                                                                | 1990-01-01          | 2020-01-01        |
@@ -82,8 +82,8 @@
 | MEMRTA475SCEN        | Number of Identified Exporters to Mauritania from Maine                                                                      | 2002-01-01          | 2016-01-01        |
 | MIMRTA052SCEN        | Value of Exports to Mauritania from Michigan                                                                                 | 2007-01-01          | 2017-01-01        |
 | MIMRTA475SCEN        | Number of Identified Exporters to Mauritania from Michigan                                                                   | 2002-01-01          | 2017-01-01        |
-| MKTGDPMRA646NWDB     | Gross Domestic Product for Mauritania                                                                                        | 1961-01-01          | 2020-01-01        |
-| MKTGNIMRA646NWDB     | Gross National Income for Mauritania                                                                                         | 1961-01-01          | 2020-01-01        |
+| MKTGDPMRA646NWDB     | Gross Domestic Product for Mauritania                                                                                        | 1961-01-01          | 2021-01-01        |
+| MKTGNIMRA646NWDB     | Gross National Income for Mauritania                                                                                         | 1961-01-01          | 2021-01-01        |
 | MNMRTA052SCEN        | Value of Exports to Mauritania from Minnesota                                                                                | 2002-01-01          | 2017-01-01        |
 | MNMRTA475SCEN        | Number of Identified Exporters to Mauritania from Minnesota                                                                  | 1997-01-01          | 2017-01-01        |
 | MOMRTA052SCEN        | Value of Exports to Mauritania from Missouri                                                                                 | 2010-01-01          | 2014-01-01        |
@@ -150,7 +150,7 @@
 | NMMRTA475SCEN        | Number of Identified Exporters to Mauritania from New Mexico                                                                 | 2003-01-01          | 2016-01-01        |
 | NVMRTA052SCEN        | Value of Exports to Mauritania from Nevada                                                                                   | 2013-01-01          | 2017-01-01        |
 | NVMRTA475SCEN        | Number of Identified Exporters to Mauritania from Nevada                                                                     | 2006-01-01          | 2017-01-01        |
-| NYGDPPCAPKDMRT       | Constant GDP per capita for Mauritania                                                                                       | 1961-01-01          | 2020-01-01        |
+| NYGDPPCAPKDMRT       | Constant GDP per capita for Mauritania                                                                                       | 1961-01-01          | 2021-01-01        |
 | NYMRTA052SCEN        | Value of Exports to Mauritania from New York                                                                                 | 2002-01-01          | 2017-01-01        |
 | NYMRTA475SCEN        | Number of Identified Exporters to Mauritania from New York                                                                   | 1992-01-01          | 2017-01-01        |
 | OHMRTA052SCEN        | Value of Exports to Mauritania from Ohio                                                                                     | 2005-01-01          | 2017-01-01        |
@@ -161,9 +161,9 @@
 | ORMRTA475SCEN        | Number of Identified Exporters to Mauritania from Oregon                                                                     | 1997-01-01          | 2017-01-01        |
 | PAMRTA052SCEN        | Value of Exports to Mauritania from Pennsylvania                                                                             | 2002-01-01          | 2017-01-01        |
 | PAMRTA475SCEN        | Number of Identified Exporters to Mauritania from Pennsylvania                                                               | 1992-01-01          | 2017-01-01        |
-| PCAGDPMRA646NWDB     | Gross Domestic Product Per Capita for Mauritania                                                                             | 1961-01-01          | 2020-01-01        |
+| PCAGDPMRA646NWDB     | Gross Domestic Product Per Capita for Mauritania                                                                             | 1961-01-01          | 2021-01-01        |
 | POPTOTMR52647NWDB    | Population, Total for Mauritania                                                                                             | 1967-01-01          | 2012-01-01        |
-| POPTOTMRA647NWDB     | Population, Total for Mauritania                                                                                             | 1960-01-01          | 2020-01-01        |
+| POPTOTMRA647NWDB     | Population, Total for Mauritania                                                                                             | 1960-01-01          | 2021-01-01        |
 | RIMRTA475SCEN        | Number of Identified Exporters to Mauritania from Rhode Island                                                               | 2004-01-01          | 2015-01-01        |
 | SCMRTA052SCEN        | Value of Exports to Mauritania from South Carolina                                                                           | 2002-01-01          | 2017-01-01        |
 | SCMRTA475SCEN        | Number of Identified Exporters to Mauritania from South Carolina                                                             | 1997-01-01          | 2017-01-01        |
@@ -173,7 +173,7 @@
 | SPDYNIMRTINMRT       | Infant Mortality Rate for Mauritania                                                                                         | 1960-01-01          | 2020-01-01        |
 | SPDYNLE00INMRT       | Life Expectancy at Birth, Total for Mauritania                                                                               | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINMRT       | Fertility Rate, Total for Mauritania                                                                                         | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSMRT     | Population ages 65 and above for Mauritania                                                                                  | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSMRT     | Population ages 65 and above for Mauritania                                                                                  | 1960-01-01          | 2021-01-01        |
 | TNMRTA052SCEN        | Value of Exports to Mauritania from Tennessee                                                                                | 2008-01-01          | 2017-01-01        |
 | TNMRTA475SCEN        | Number of Identified Exporters to Mauritania from Tennessee                                                                  | 2002-01-01          | 2017-01-01        |
 | TXMRTA052SCEN        | Value of Exports to Mauritania from Texas                                                                                    | 2002-01-01          | 2017-01-01        |

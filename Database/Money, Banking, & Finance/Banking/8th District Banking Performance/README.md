@@ -4,7 +4,7 @@
 | Missouri      |               950 |
 | Mississippi   |               950 |
 | Illinois      |               950 |
-| 8th District  |                 1 |
+| 8th District  |                 0 |
 | Kentucky      |                 1 |
 | Arkansas      |                 1 |
 | Tennessee     |               921 |

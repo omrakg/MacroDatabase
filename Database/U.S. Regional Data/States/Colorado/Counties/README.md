@@ -34,8 +34,8 @@
 | Alamosa County, CO           |                90 |
 | Pitkin County, CO            |                90 |
 | Ouray County, CO             |                90 |
-| Arapahoe County, CO          |               147 |
-| Washington County, CO        |                 0 |
+| Arapahoe County, CO          |                 0 |
+| Washington County, CO        |                88 |
 | Grand County, CO             |                90 |
 | Denver County, CO            |               146 |
 | Teller County, CO            |                90 |

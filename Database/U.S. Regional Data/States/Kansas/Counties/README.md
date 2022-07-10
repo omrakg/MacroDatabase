@@ -92,14 +92,14 @@
 | Rice County, KS         |                89 |
 | Norton County, KS       |                87 |
 | Jackson County, KS      |                90 |
-| Geary County, KS        |                 0 |
+| Geary County, KS        |                90 |
 | Riley County, KS        |               147 |
 | Chase County, KS        |                89 |
 | Comanche County, KS     |                87 |
 | Bourbon County, KS      |                90 |
 | Grant County, KS        |                89 |
 | Barton County, KS       |                90 |
-| McPherson County, KS    |                90 |
+| McPherson County, KS    |                 0 |
 | Pratt County, KS        |                90 |
 | Wichita County, KS      |                88 |
 | Edwards County, KS      |                89 |

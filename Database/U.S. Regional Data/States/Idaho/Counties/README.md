@@ -5,7 +5,7 @@
 | Ada County, ID        |               147 |
 | Oneida County, ID     |                89 |
 | Madison County, ID    |                90 |
-| Gem County, ID        |                90 |
+| Gem County, ID        |                 0 |
 | Payette County, ID    |                89 |
 | Lincoln County, ID    |                89 |
 | Canyon County, ID     |               147 |
@@ -41,6 +41,6 @@
 | Franklin County, ID   |                90 |
 | Benewah County, ID    |                90 |
 | Owyhee County, ID     |                88 |
-| Adams County, ID      |                 0 |
+| Adams County, ID      |                90 |
 | Caribou County, ID    |                89 |
 | Lewis County, ID      |                89 |

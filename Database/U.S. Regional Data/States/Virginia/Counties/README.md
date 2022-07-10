@@ -8,8 +8,8 @@
 | Richmond County, VA                                 |                90 |
 | Amherst County, VA                                  |                90 |
 | Charlotte County, VA                                |                88 |
-| Poquoson City, VA                                   |                78 |
-| Caroline County, VA                                 |                 0 |
+| Poquoson City, VA                                   |                 0 |
+| Caroline County, VA                                 |                90 |
 | Bedford City, VA                                    |                23 |
 | Fauquier County, VA                                 |               147 |
 | Albemarle County + Charlottesville City, VA         |                12 |
@@ -68,8 +68,8 @@
 | Buena Vista City, VA                                |                79 |
 | York County + Poquoson City, VA                     |                12 |
 | Goochland County, VA                                |                89 |
-| Warren County, VA                                   |                90 |
-| Amelia County, VA                                   |                 0 |
+| Warren County, VA                                   |                 0 |
+| Amelia County, VA                                   |                90 |
 | Prince Edward County, VA                            |                90 |
 | Franklin City, VA                                   |                79 |
 | Bath County, VA                                     |                89 |
@@ -128,8 +128,8 @@
 | Nottoway County, VA                                 |                90 |
 | Frederick County, VA                                |               137 |
 | Greensville County + Emporia City, VA               |                12 |
-| Northumberland County, VA                           |                90 |
-| Staunton City, VA                                   |                 0 |
+| Northumberland County, VA                           |                 0 |
+| Staunton City, VA                                   |                79 |
 | Greensville County, VA                              |                79 |
 | Cumberland County, VA                               |                90 |
 | Stafford County, VA                                 |               147 |

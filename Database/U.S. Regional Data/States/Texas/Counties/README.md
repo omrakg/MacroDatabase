@@ -36,7 +36,7 @@
 | Oldham County, TX        |                87 |
 | Wilson County, TX        |                90 |
 | Presidio County, TX      |                88 |
-| Morris County, TX        |                 0 |
+| Morris County, TX        |                88 |
 | Terry County, TX         |                90 |
 | Tom Green County, TX     |               147 |
 | Comanche County, TX      |                89 |
@@ -50,7 +50,7 @@
 | Bexar County, TX         |               147 |
 | Gonzales County, TX      |                90 |
 | Zapata County, TX        |                87 |
-| Glasscock County, TX     |                84 |
+| Glasscock County, TX     |                 0 |
 | Andrews County, TX       |                90 |
 | Concho County, TX        |                88 |
 | San Jacinto County, TX   |                90 |
@@ -96,7 +96,7 @@
 | Garza County, TX         |                87 |
 | Matagorda County, TX     |                90 |
 | Guadalupe County, TX     |               147 |
-| Dickens County, TX       |                 0 |
+| Dickens County, TX       |                86 |
 | Moore County, TX         |                90 |
 | Brown County, TX         |                90 |
 | Baylor County, TX        |                87 |
@@ -110,7 +110,7 @@
 | Jackson County, TX       |                89 |
 | Donley County, TX        |                87 |
 | Hill County, TX          |                90 |
-| Lubbock County, TX       |               147 |
+| Lubbock County, TX       |                 0 |
 | Washington County, TX    |                90 |
 | Menard County, TX        |                87 |
 | Limestone County, TX     |                88 |
@@ -156,7 +156,7 @@
 | Bee County, TX           |                90 |
 | Burleson County, TX      |                89 |
 | Castro County, TX        |                89 |
-| Walker County, TX        |                 0 |
+| Walker County, TX        |               147 |
 | Throckmorton County, TX  |                86 |
 | Taylor County, TX        |               147 |
 | Colorado County, TX      |                90 |
@@ -215,8 +215,8 @@
 | Terrell County, TX       |                85 |
 | Camp County, TX          |                88 |
 | Aransas County, TX       |                90 |
-| Panola County, TX        |                90 |
-| Collin County, TX        |                 0 |
+| Panola County, TX        |                 0 |
+| Collin County, TX        |               147 |
 | Val Verde County, TX     |                89 |
 | Hood County, TX          |               146 |
 | Newton County, TX        |                87 |

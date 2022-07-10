@@ -66,7 +66,7 @@
 | DDSI07SZA156NWDB    | Provisions to Non-Performing Loans for Swaziland                                                                              | 2003-01-01          | 2019-01-01        |
 | DEBTTLSZA188A       | Central government debt, total (% of GDP) for Swaziland                                                                       | 1999-01-01          | 2012-01-01        |
 | DESWZA475SCEN       | Number of Identified Exporters to Swaziland from Delaware                                                                     | 2002-01-01          | 2015-01-01        |
-| EXP7950             | U.S. Exports of Goods by F.A.S. Basis to Swaziland                                                                            | 1992-01-01          | 2022-04-01        |
+| EXP7950             | U.S. Exports of Goods by F.A.S. Basis to Swaziland                                                                            | 1992-01-01          | 2022-05-01        |
 | FLSWZA052SCEN       | Value of Exports to Swaziland from Florida                                                                                    | 1997-01-01          | 2017-01-01        |
 | FLSWZA475SCEN       | Number of Identified Exporters to Swaziland from Florida                                                                      | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSWZ      | Inflation, consumer prices for Swaziland                                                                                      | 1966-01-01          | 2019-01-01        |
@@ -79,7 +79,7 @@
 | IDSWZA475SCEN       | Number of Identified Exporters to Swaziland from Idaho                                                                        | 2004-01-01          | 2016-01-01        |
 | ILSWZA052SCEN       | Value of Exports to Swaziland from Illinois                                                                                   | 1997-01-01          | 2017-01-01        |
 | ILSWZA475SCEN       | Number of Identified Exporters to Swaziland from Illinois                                                                     | 1992-01-01          | 2017-01-01        |
-| IMP7950             | U.S. Imports of Goods by Customs Basis from Swaziland                                                                         | 1992-01-01          | 2022-04-01        |
+| IMP7950             | U.S. Imports of Goods by Customs Basis from Swaziland                                                                         | 1992-01-01          | 2022-05-01        |
 | INSWZA052SCEN       | Value of Exports to Swaziland from Indiana                                                                                    | 2004-01-01          | 2017-01-01        |
 | INSWZA475SCEN       | Number of Identified Exporters to Swaziland from Indiana                                                                      | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2SWZ      | Internet users for Swaziland                                                                                                  | 1990-01-01          | 2017-01-01        |
@@ -96,8 +96,8 @@
 | MESWZA475SCEN       | Number of Identified Exporters to Swaziland from Maine                                                                        | 1997-01-01          | 2016-01-01        |
 | MISWZA052SCEN       | Value of Exports to Swaziland from Michigan                                                                                   | 2005-01-01          | 2017-01-01        |
 | MISWZA475SCEN       | Number of Identified Exporters to Swaziland from Michigan                                                                     | 2002-01-01          | 2017-01-01        |
-| MKTGDPSZA646NWDB    | Gross Domestic Product for Swaziland                                                                                          | 1960-01-01          | 2020-01-01        |
-| MKTGNISZA646NWDB    | Gross National Income for Swaziland                                                                                           | 1960-01-01          | 2020-01-01        |
+| MKTGDPSZA646NWDB    | Gross Domestic Product for Swaziland                                                                                          | 1960-01-01          | 2021-01-01        |
+| MKTGNISZA646NWDB    | Gross National Income for Swaziland                                                                                           | 1960-01-01          | 2021-01-01        |
 | MNSWZA052SCEN       | Value of Exports to Swaziland from Minnesota                                                                                  | 2005-01-01          | 2017-01-01        |
 | MNSWZA475SCEN       | Number of Identified Exporters to Swaziland from Minnesota                                                                    | 1997-01-01          | 2017-01-01        |
 | MOSWZA052SCEN       | Value of Exports to Swaziland from Missouri                                                                                   | 2010-01-01          | 2014-01-01        |
@@ -115,7 +115,7 @@
 | NMSWZA475SCEN       | Number of Identified Exporters to Swaziland from New Mexico                                                                   | 2003-01-01          | 2016-01-01        |
 | NVSWZA052SCEN       | Value of Exports to Swaziland from Nevada                                                                                     | 2009-01-01          | 2015-01-01        |
 | NVSWZA475SCEN       | Number of Identified Exporters to Swaziland from Nevada                                                                       | 1992-01-01          | 2016-01-01        |
-| NYGDPPCAPKDSWZ      | Constant GDP per capita for Swaziland                                                                                         | 1970-01-01          | 2020-01-01        |
+| NYGDPPCAPKDSWZ      | Constant GDP per capita for Swaziland                                                                                         | 1970-01-01          | 2021-01-01        |
 | NYSWZA052SCEN       | Value of Exports to Swaziland from New York                                                                                   | 1997-01-01          | 2017-01-01        |
 | NYSWZA475SCEN       | Number of Identified Exporters to Swaziland from New York                                                                     | 1992-01-01          | 2017-01-01        |
 | OHSWZA052SCEN       | Value of Exports to Swaziland from Ohio                                                                                       | 1997-01-01          | 2017-01-01        |
@@ -126,9 +126,9 @@
 | ORSWZA475SCEN       | Number of Identified Exporters to Swaziland from Oregon                                                                       | 1997-01-01          | 2017-01-01        |
 | PASWZA052SCEN       | Value of Exports to Swaziland from Pennsylvania                                                                               | 2002-01-01          | 2017-01-01        |
 | PASWZA475SCEN       | Number of Identified Exporters to Swaziland from Pennsylvania                                                                 | 1997-01-01          | 2017-01-01        |
-| PCAGDPSZA646NWDB    | Gross Domestic Product Per Capita for Swaziland                                                                               | 1960-01-01          | 2020-01-01        |
+| PCAGDPSZA646NWDB    | Gross Domestic Product Per Capita for Swaziland                                                                               | 1960-01-01          | 2021-01-01        |
 | POPTOTSZ52647NWDB   | Population, Total for Swaziland                                                                                               | 1967-01-01          | 2012-01-01        |
-| POPTOTSZA647NWDB    | Population, Total for Swaziland                                                                                               | 1960-01-01          | 2020-01-01        |
+| POPTOTSZA647NWDB    | Population, Total for Swaziland                                                                                               | 1960-01-01          | 2021-01-01        |
 | PRSWZA475SCEN       | Number of Identified Exporters to Swaziland from Puerto Rico                                                                  | 1997-01-01          | 2016-01-01        |
 | RISWZA475SCEN       | Number of Identified Exporters to Swaziland from Rhode Island                                                                 | 2006-01-01          | 2015-01-01        |
 | SCSWZA475SCEN       | Number of Identified Exporters to Swaziland from South Carolina                                                               | 2002-01-01          | 2016-01-01        |
@@ -138,7 +138,7 @@
 | SPDYNIMRTINSWZ      | Infant Mortality Rate for Swaziland                                                                                           | 1960-01-01          | 2020-01-01        |
 | SPDYNLE00INSWZ      | Life Expectancy at Birth, Total for Swaziland                                                                                 | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINSWZ      | Fertility Rate, Total for Swaziland                                                                                           | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSSWZ    | Population ages 65 and above for Swaziland                                                                                    | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSSWZ    | Population ages 65 and above for Swaziland                                                                                    | 1960-01-01          | 2021-01-01        |
 | SWZBCABP6GDPPT      | Net Current Account Total for Swaziland                                                                                       | 2004-01-01          | 2023-01-01        |
 | SWZBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Swaziland                       | 2004-01-01          | 2023-01-01        |
 | SWZBGSBP6GDPPT      | Goods and Services: Net for Swaziland                                                                                         | 2004-01-01          | 2023-01-01        |

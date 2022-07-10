@@ -72,7 +72,7 @@
 | NMWLDA475SCEN     | Number of Identified Exporters to All Countries from New Mexico           | 1992-01-01          | 2017-01-01        |
 | NVWLDA052SCEN     | Value of Exports to All Countries from Nevada                             | 1992-01-01          | 2017-01-01        |
 | NVWLDA475SCEN     | Number of Identified Exporters to All Countries from Nevada               | 1992-01-01          | 2017-01-01        |
-| NYGDPPCAPKDWLD    | Constant GDP per capita for the World                                     | 1960-01-01          | 2020-01-01        |
+| NYGDPPCAPKDWLD    | Constant GDP per capita for the World                                     | 1960-01-01          | 2021-01-01        |
 | NYWLDA052SCEN     | Value of Exports to All Countries from New York                           | 1992-01-01          | 2017-01-01        |
 | NYWLDA475SCEN     | Number of Identified Exporters to All Countries from New York             | 1992-01-01          | 2017-01-01        |
 | OHWLDA052SCEN     | Value of Exports to All Countries from Ohio                               | 1992-01-01          | 2017-01-01        |
@@ -94,7 +94,7 @@
 | SDWLDA052SCEN     | Value of Exports to All Countries from South Dakota                       | 1992-01-01          | 2017-01-01        |
 | SDWLDA475SCEN     | Number of Identified Exporters to All Countries from South Dakota         | 1992-01-01          | 2017-01-01        |
 | SMPOPNETMWLD      | Net migration for the World                                               | 1962-01-01          | 2017-01-01        |
-| SPPOP65UPTOZSWLD  | Population ages 65 and above for the World                                | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSWLD  | Population ages 65 and above for the World                                | 1960-01-01          | 2021-01-01        |
 | TNWLDA052SCEN     | Value of Exports to All Countries from Tennessee                          | 1992-01-01          | 2017-01-01        |
 | TNWLDA475SCEN     | Number of Identified Exporters to All Countries from Tennessee            | 1992-01-01          | 2017-01-01        |
 | TXWLDA052SCEN     | Value of Exports to All Countries from Texas                              | 1992-01-01          | 2017-01-01        |

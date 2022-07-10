@@ -1,6 +1,6 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Carter County, OK       |                 0 |
+| Carter County, OK       |               146 |
 | Grant County, OK        |                87 |
 | Okmulgee County, OK     |                90 |
 | Marshall County, OK     |                90 |
@@ -39,7 +39,7 @@
 | Major County, OK        |                88 |
 | Kay County, OK          |                89 |
 | Texas County, OK        |                90 |
-| Murray County, OK       |                90 |
+| Murray County, OK       |                 0 |
 | Atoka County, OK        |                88 |
 | Ellis County, OK        |                88 |
 | Roger Mills County, OK  |                88 |
@@ -60,7 +60,7 @@
 | Johnston County, OK     |                89 |
 | Hughes County, OK       |                88 |
 | Delaware County, OK     |                90 |
-| Rogers County, OK       |                 0 |
+| Rogers County, OK       |               147 |
 | Washington County, OK   |               146 |
 | Ottawa County, OK       |                90 |
 | Grady County, OK        |               146 |

@@ -23,7 +23,7 @@
 | Wayne County, IN       |               147 |
 | Bartholomew County, IN |               147 |
 | Madison County, IN     |               147 |
-| Owen County, IN        |                 0 |
+| Owen County, IN        |                90 |
 | Fayette County, IN     |                90 |
 | Parke County, IN       |                89 |
 | Jefferson County, IN   |                88 |
@@ -53,7 +53,7 @@
 | Starke County, IN      |                89 |
 | Wabash County, IN      |                90 |
 | Pulaski County, IN     |                90 |
-| Washington County, IN  |                89 |
+| Washington County, IN  |                 0 |
 | Perry County, IN       |                90 |
 | Elkhart County, IN     |               147 |
 | Vanderburgh County, IN |               147 |
@@ -83,7 +83,7 @@
 | Lagrange County, IN    |                90 |
 | Warrick County, IN     |               146 |
 | Noble County, IN       |                90 |
-| Vigo County, IN        |                 0 |
+| Vigo County, IN        |               147 |
 | Union County, IN       |                89 |
 | Switzerland County, IN |                89 |
 | Jackson County, IN     |                89 |

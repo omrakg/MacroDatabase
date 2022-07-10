@@ -78,7 +78,7 @@
 | DMANGDPRPCH       | Gross Domestic Product for Dominica                                                                                      | 1980-01-01          | 2027-01-01        |
 | DMAPCPIEPCH       | Consumer Prices for Dominica                                                                                             | 1980-01-01          | 2027-01-01        |
 | DMAPPPSH          | Purchasing Power Parity, Share of World for Dominica                                                                     | 2011-01-01          | 2024-01-01        |
-| EXP2486           | U.S. Exports of Goods by F.A.S. Basis to Dominica                                                                        | 1992-01-01          | 2022-04-01        |
+| EXP2486           | U.S. Exports of Goods by F.A.S. Basis to Dominica                                                                        | 1992-01-01          | 2022-05-01        |
 | FLDMAA052SCEN     | Value of Exports to Dominica from Florida                                                                                | 1992-01-01          | 2017-01-01        |
 | FLDMAA475SCEN     | Number of Identified Exporters to Dominica from Florida                                                                  | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGDMA    | Inflation, consumer prices for Dominica                                                                                  | 1967-01-01          | 2021-01-01        |
@@ -91,7 +91,7 @@
 | IDDMAA475SCEN     | Number of Identified Exporters to Dominica from Idaho                                                                    | 1997-01-01          | 2016-01-01        |
 | ILDMAA052SCEN     | Value of Exports to Dominica from Illinois                                                                               | 1992-01-01          | 2017-01-01        |
 | ILDMAA475SCEN     | Number of Identified Exporters to Dominica from Illinois                                                                 | 1992-01-01          | 2017-01-01        |
-| IMP2486           | U.S. Imports of Goods by Customs Basis from Dominica                                                                     | 1992-01-01          | 2022-04-01        |
+| IMP2486           | U.S. Imports of Goods by Customs Basis from Dominica                                                                     | 1992-01-01          | 2022-05-01        |
 | INDMAA052SCEN     | Value of Exports to Dominica from Indiana                                                                                | 2003-01-01          | 2017-01-01        |
 | INDMAA475SCEN     | Number of Identified Exporters to Dominica from Indiana                                                                  | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2DMA    | Internet users for Dominica                                                                                              | 1990-01-01          | 2017-01-01        |
@@ -109,8 +109,8 @@
 | MEDMAA475SCEN     | Number of Identified Exporters to Dominica from Maine                                                                    | 1992-01-01          | 2016-01-01        |
 | MIDMAA052SCEN     | Value of Exports to Dominica from Michigan                                                                               | 1997-01-01          | 2017-01-01        |
 | MIDMAA475SCEN     | Number of Identified Exporters to Dominica from Michigan                                                                 | 1997-01-01          | 2017-01-01        |
-| MKTGDPDMA646NWDB  | Gross Domestic Product for Dominica                                                                                      | 1977-01-01          | 2020-01-01        |
-| MKTGNIDMA646NWDB  | Gross National Income for Dominica                                                                                       | 1977-01-01          | 2020-01-01        |
+| MKTGDPDMA646NWDB  | Gross Domestic Product for Dominica                                                                                      | 1977-01-01          | 2021-01-01        |
+| MKTGNIDMA646NWDB  | Gross National Income for Dominica                                                                                       | 1977-01-01          | 2021-01-01        |
 | MNDMAA052SCEN     | Value of Exports to Dominica from Minnesota                                                                              | 1992-01-01          | 2017-01-01        |
 | MNDMAA475SCEN     | Number of Identified Exporters to Dominica from Minnesota                                                                | 1992-01-01          | 2017-01-01        |
 | MODMAA052SCEN     | Value of Exports to Dominica from Missouri                                                                               | 1997-01-01          | 2016-01-01        |
@@ -133,7 +133,7 @@
 | NVDMAA475SCEN     | Number of Identified Exporters to Dominica from Nevada                                                                   | 1997-01-01          | 2017-01-01        |
 | NYDMAA052SCEN     | Value of Exports to Dominica from New York                                                                               | 1992-01-01          | 2017-01-01        |
 | NYDMAA475SCEN     | Number of Identified Exporters to Dominica from New York                                                                 | 1992-01-01          | 2017-01-01        |
-| NYGDPPCAPKDDMA    | Constant GDP per capita for Dominica                                                                                     | 1977-01-01          | 2020-01-01        |
+| NYGDPPCAPKDDMA    | Constant GDP per capita for Dominica                                                                                     | 1977-01-01          | 2021-01-01        |
 | OHDMAA052SCEN     | Value of Exports to Dominica from Ohio                                                                                   | 1992-01-01          | 2016-01-01        |
 | OHDMAA475SCEN     | Number of Identified Exporters to Dominica from Ohio                                                                     | 1992-01-01          | 2017-01-01        |
 | OKDMAA052SCEN     | Value of Exports to Dominica from Oklahoma                                                                               | 2007-01-01          | 2014-01-01        |
@@ -142,9 +142,9 @@
 | ORDMAA475SCEN     | Number of Identified Exporters to Dominica from Oregon                                                                   | 1992-01-01          | 2017-01-01        |
 | PADMAA052SCEN     | Value of Exports to Dominica from Pennsylvania                                                                           | 1992-01-01          | 2016-01-01        |
 | PADMAA475SCEN     | Number of Identified Exporters to Dominica from Pennsylvania                                                             | 1992-01-01          | 2017-01-01        |
-| PCAGDPDMA646NWDB  | Gross Domestic Product Per Capita for Dominica                                                                           | 1977-01-01          | 2020-01-01        |
+| PCAGDPDMA646NWDB  | Gross Domestic Product Per Capita for Dominica                                                                           | 1977-01-01          | 2021-01-01        |
 | POPTOTDM52647NWDB | Population, Total for Dominica                                                                                           | 1967-01-01          | 2012-01-01        |
-| POPTOTDMA647NWDB  | Population, Total for Dominica                                                                                           | 1960-01-01          | 2020-01-01        |
+| POPTOTDMA647NWDB  | Population, Total for Dominica                                                                                           | 1960-01-01          | 2021-01-01        |
 | PRDMAA052SCEN     | Value of Exports to Dominica from Puerto Rico                                                                            | 1992-01-01          | 2017-01-01        |
 | PRDMAA475SCEN     | Number of Identified Exporters to Dominica from Puerto Rico                                                              | 1992-01-01          | 2017-01-01        |
 | RIDMAA052SCEN     | Value of Exports to Dominica from Rhode Island                                                                           | 2007-01-01          | 2015-01-01        |

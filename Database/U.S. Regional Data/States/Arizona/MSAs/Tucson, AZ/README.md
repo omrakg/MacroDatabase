@@ -24,7 +24,7 @@
 | HORAMSA46060              | Market Hotness: Hotness Rank in Tucson, AZ (CBSA)                                                                                               | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA46060            | Market Hotness: Hotness Rank in Tucson, AZ (CBSA)                                                                                               | 2018-08-01          | 2022-06-01        |
 | HOSCMSA46060              | Market Hotness: Hotness Score in Tucson, AZ (CBSA)                                                                                              | 2017-08-01          | 2022-06-01        |
-| IHLCHG46060               | Job Postings on Indeed in Tucson, AZ (MSA)                                                                                                      | 2020-02-01          | 2022-06-24        |
+| IHLCHG46060               | Job Postings on Indeed in Tucson, AZ (MSA)                                                                                                      | 2020-02-01          | 2022-07-01        |
 | IRPD46060                 | Implicit Regional Price Deflator for Tucson, AZ (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT044606000000003A     | Unemployment Rate in Tucson, AZ (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT044606000000004      | Unemployed Persons in Tucson, AZ (MSA)                                                                                                          | 1990-01-01          | 2022-05-01        |

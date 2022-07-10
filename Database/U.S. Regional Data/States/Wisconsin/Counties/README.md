@@ -43,7 +43,7 @@
 | Monroe County, WI                       |                90 |
 | Walworth County, WI                     |               147 |
 | Waukesha County, WI                     |               147 |
-| Price County, WI                        |                89 |
+| Price County, WI                        |                 0 |
 | Milwaukee County, WI                    |               146 |
 | Racine County, WI                       |               147 |
 | Door County, WI                         |                90 |

@@ -70,10 +70,10 @@
 | DDSI07KGA156NWDB    | Provisions to Non-Performing Loans for Kyrgyzstan                                                                                              | 2006-01-01          | 2015-01-01        |
 | DEBTTLKGA188A       | Central government debt, total (% of GDP) for the Kyrgyz Republic                                                                              | 2014-01-01          | 2016-01-01        |
 | DEKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Delaware                                                                                     | 2002-01-01          | 2016-01-01        |
-| EXP4635             | U.S. Exports of Goods by F.A.S. Basis to Kyrgyzstan                                                                                            | 1992-01-01          | 2022-04-01        |
+| EXP4635             | U.S. Exports of Goods by F.A.S. Basis to Kyrgyzstan                                                                                            | 1992-01-01          | 2022-05-01        |
 | FLKGZA052SCEN       | Value of Exports to Kyrgyzstan from Florida                                                                                                    | 1997-01-01          | 2017-01-01        |
 | FLKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Florida                                                                                      | 1997-01-01          | 2017-01-01        |
-| FPCPITOTLZGKGZ      | Inflation, consumer prices for the Kyrgyz Republic                                                                                             | 1996-01-01          | 2020-01-01        |
+| FPCPITOTLZGKGZ      | Inflation, consumer prices for the Kyrgyz Republic                                                                                             | 1996-01-01          | 2021-01-01        |
 | GAKGZA052SCEN       | Value of Exports to Kyrgyzstan from Georgia                                                                                                    | 2002-01-01          | 2017-01-01        |
 | GAKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Georgia                                                                                      | 2002-01-01          | 2017-01-01        |
 | IAKGZA052SCEN       | Value of Exports to Kyrgyzstan from Iowa                                                                                                       | 2011-01-01          | 2017-01-01        |
@@ -82,7 +82,7 @@
 | IDKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Idaho                                                                                        | 1997-01-01          | 2016-01-01        |
 | ILKGZA052SCEN       | Value of Exports to Kyrgyzstan from Illinois                                                                                                   | 2004-01-01          | 2017-01-01        |
 | ILKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Illinois                                                                                     | 1997-01-01          | 2017-01-01        |
-| IMP4635             | U.S. Imports of Goods by Customs Basis from Kyrgyzstan                                                                                         | 1992-01-01          | 2022-04-01        |
+| IMP4635             | U.S. Imports of Goods by Customs Basis from Kyrgyzstan                                                                                         | 1992-01-01          | 2022-05-01        |
 | INKGZA052SCEN       | Value of Exports to Kyrgyzstan from Indiana                                                                                                    | 2002-01-01          | 2009-01-01        |
 | INKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Indiana                                                                                      | 2002-01-01          | 2014-01-01        |
 | ITNETUSERP2KGZ      | Internet users for the Kyrgyz Republic                                                                                                         | 1990-01-01          | 2019-01-01        |
@@ -150,8 +150,8 @@
 | MEKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Maine                                                                                        | 2004-01-01          | 2015-01-01        |
 | MIKGZA052SCEN       | Value of Exports to Kyrgyzstan from Michigan                                                                                                   | 2002-01-01          | 2017-01-01        |
 | MIKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Michigan                                                                                     | 1997-01-01          | 2017-01-01        |
-| MKTGDPKGA646NWDB    | Gross Domestic Product for Kyrgyzstan                                                                                                          | 1990-01-01          | 2020-01-01        |
-| MKTGNIKGA646NWDB    | Gross National Income for Kyrgyzstan                                                                                                           | 1991-01-01          | 2020-01-01        |
+| MKTGDPKGA646NWDB    | Gross Domestic Product for Kyrgyzstan                                                                                                          | 1990-01-01          | 2021-01-01        |
+| MKTGNIKGA646NWDB    | Gross National Income for Kyrgyzstan                                                                                                           | 1991-01-01          | 2021-01-01        |
 | MNKGZA052SCEN       | Value of Exports to Kyrgyzstan from Minnesota                                                                                                  | 2002-01-01          | 2016-01-01        |
 | MNKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Minnesota                                                                                    | 1997-01-01          | 2017-01-01        |
 | MOKGZA052SCEN       | Value of Exports to Kyrgyzstan from Missouri                                                                                                   | 2002-01-01          | 2009-01-01        |
@@ -170,7 +170,7 @@
 | NJKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from New Jersey                                                                                   | 1997-01-01          | 2017-01-01        |
 | NMKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from New Mexico                                                                                   | 2003-01-01          | 2011-01-01        |
 | NVKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Nevada                                                                                       | 2007-01-01          | 2015-01-01        |
-| NYGDPPCAPKDKGZ      | Constant GDP per capita for the Kyrgyz Republic                                                                                                | 1986-01-01          | 2020-01-01        |
+| NYGDPPCAPKDKGZ      | Constant GDP per capita for the Kyrgyz Republic                                                                                                | 1986-01-01          | 2021-01-01        |
 | NYKGZA052SCEN       | Value of Exports to Kyrgyzstan from New York                                                                                                   | 2002-01-01          | 2017-01-01        |
 | NYKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from New York                                                                                     | 1997-01-01          | 2017-01-01        |
 | OHKGZA052SCEN       | Value of Exports to Kyrgyzstan from Ohio                                                                                                       | 2007-01-01          | 2017-01-01        |
@@ -180,9 +180,9 @@
 | ORKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Oregon                                                                                       | 1997-01-01          | 2017-01-01        |
 | PAKGZA052SCEN       | Value of Exports to Kyrgyzstan from Pennsylvania                                                                                               | 2004-01-01          | 2017-01-01        |
 | PAKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Pennsylvania                                                                                 | 1997-01-01          | 2017-01-01        |
-| PCAGDPKGA646NWDB    | Gross Domestic Product Per Capita for Kyrgyzstan                                                                                               | 1990-01-01          | 2020-01-01        |
+| PCAGDPKGA646NWDB    | Gross Domestic Product Per Capita for Kyrgyzstan                                                                                               | 1990-01-01          | 2021-01-01        |
 | POPTOTKG52647NWDB   | Population, Total for Kyrgyzstan                                                                                                               | 1967-01-01          | 2012-01-01        |
-| POPTOTKGA647NWDB    | Population, Total for Kyrgyzstan                                                                                                               | 1960-01-01          | 2020-01-01        |
+| POPTOTKGA647NWDB    | Population, Total for Kyrgyzstan                                                                                                               | 1960-01-01          | 2021-01-01        |
 | PRKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Puerto Rico                                                                                  | 2002-01-01          | 2008-01-01        |
 | RIKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Rhode Island                                                                                 | 2007-01-01          | 2014-01-01        |
 | SCKGZA052SCEN       | Value of Exports to Kyrgyzstan from South Carolina                                                                                             | 2012-01-01          | 2016-01-01        |
@@ -193,7 +193,7 @@
 | SPDYNIMRTINKGZ      | Infant Mortality Rate for the Kyrgyz Republic                                                                                                  | 1975-01-01          | 2020-01-01        |
 | SPDYNLE00INKGZ      | Life Expectancy at Birth, Total for the Kyrgyz Republic                                                                                        | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINKGZ      | Fertility Rate, Total for the Kyrgyz Republic                                                                                                  | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSKGZ    | Population ages 65 and above for the Kyrgyz Republic                                                                                           | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSKGZ    | Population ages 65 and above for the Kyrgyz Republic                                                                                           | 1960-01-01          | 2021-01-01        |
 | TNKGZA052SCEN       | Value of Exports to Kyrgyzstan from Tennessee                                                                                                  | 2003-01-01          | 2017-01-01        |
 | TNKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Tennessee                                                                                    | 1997-01-01          | 2017-01-01        |
 | TXKGZA052SCEN       | Value of Exports to Kyrgyzstan from Texas                                                                                                      | 2002-01-01          | 2017-01-01        |

@@ -12,11 +12,11 @@
 | LAUST720000000000006A  | Civilian Labor Force in Puerto Rico                                                                                                            | 1976-01-01          | 2021-01-01        |
 | NYGDPPCAPKDPRI         | Constant GDP per capita for Puerto Rico                                                                                                        | 1960-01-01          | 2020-01-01        |
 | POPTOTPR52647NWDB      | Population, Total for Puerto Rico                                                                                                              | 1967-01-01          | 2012-01-01        |
-| POPTOTPRA647NWDB       | Population, Total for Puerto Rico                                                                                                              | 1960-01-01          | 2020-01-01        |
-| PRICCLAIMS             | Continued Claims (Insured Unemployment) in Puerto Rico                                                                                         | 1986-02-08          | 2022-06-18        |
-| PRICEMPLOY             | Covered Employment in Puerto Rico                                                                                                              | 1986-02-08          | 2022-06-18        |
-| PRIICLAIMS             | Initial Claims in Puerto Rico                                                                                                                  | 1986-02-15          | 2022-06-25        |
-| PRIINSUREDUR           | Insured Unemployment Rate in Puerto Rico                                                                                                       | 1986-02-08          | 2022-06-18        |
+| POPTOTPRA647NWDB       | Population, Total for Puerto Rico                                                                                                              | 1960-01-01          | 2021-01-01        |
+| PRICCLAIMS             | Continued Claims (Insured Unemployment) in Puerto Rico                                                                                         | 1986-02-08          | 2022-06-25        |
+| PRICEMPLOY             | Covered Employment in Puerto Rico                                                                                                              | 1986-02-08          | 2022-06-25        |
+| PRIICLAIMS             | Initial Claims in Puerto Rico                                                                                                                  | 1986-02-15          | 2022-07-02        |
+| PRIINSUREDUR           | Insured Unemployment Rate in Puerto Rico                                                                                                       | 1986-02-08          | 2022-06-25        |
 | PRLF                   | Civilian Labor Force in Puerto Rico                                                                                                            | 1976-01-01          | 2022-05-01        |
 | PRLFN                  | Civilian Labor Force in Puerto Rico                                                                                                            | 1976-01-01          | 2022-05-01        |
 | PRUR                   | Unemployment Rate in Puerto Rico                                                                                                               | 1976-01-01          | 2022-05-01        |
@@ -296,4 +296,4 @@
 | SMU72000009093000001A  | All Employees: Local Government in Puerto Rico                                                                                                 | 1990-01-01          | 2021-01-01        |
 | SPDYNLE00INPRI         | Life Expectancy at Birth, Total for Puerto Rico                                                                                                | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINPRI         | Fertility Rate, Total for Puerto Rico                                                                                                          | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSPRI       | Population ages 65 and above for Puerto Rico                                                                                                   | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSPRI       | Population ages 65 and above for Puerto Rico                                                                                                   | 1960-01-01          | 2021-01-01        |

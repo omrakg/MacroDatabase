@@ -20,7 +20,7 @@
 | SEADTLITRZSBIH | Literacy Rate, Adult Total for Bosnia and Herzegovina                                  | 1991-01-01          | 2013-01-01        |
 | SEADTLITRZSBLR | Literacy Rate, Adult Total for Belarus                                                 | 1989-01-01          | 2019-01-01        |
 | SEADTLITRZSBLZ | Literacy Rate, Adult Total for Belize                                                  | 1991-01-01          | 2000-01-01        |
-| SEADTLITRZSBOL | Literacy Rate, Adult Total for the Plurinational State of Bolivia                      | 1976-01-01          | 2015-01-01        |
+| SEADTLITRZSBOL | Literacy Rate, Adult Total for the Plurinational State of Bolivia                      | 1976-01-01          | 2020-01-01        |
 | SEADTLITRZSBRA | Literacy Rate, Adult Total for Brazil                                                  | 1980-01-01          | 2018-01-01        |
 | SEADTLITRZSBRN | Literacy Rate, Adult Total for Brunei Darussalam                                       | 1981-01-01          | 2018-01-01        |
 | SEADTLITRZSBTN | Literacy Rate, Adult Total for Bhutan                                                  | 2005-01-01          | 2017-01-01        |
@@ -79,7 +79,7 @@
 | SEADTLITRZSIRN | Literacy Rate, Adult Total for the Islamic Republic of Iran                            | 1976-01-01          | 2016-01-01        |
 | SEADTLITRZSIRQ | Literacy Rate, Adult Total for Iraq                                                    | 2000-01-01          | 2017-01-01        |
 | SEADTLITRZSISR | Literacy Rate, Adult Total for Israel                                                  | 1983-01-01          | 1983-01-01        |
-| SEADTLITRZSITA | Literacy Rate, Adult Total for Italy                                                   | 1981-01-01          | 2018-01-01        |
+| SEADTLITRZSITA | Literacy Rate, Adult Total for Italy                                                   | 1981-01-01          | 2019-01-01        |
 | SEADTLITRZSJAM | Literacy Rate, Adult Total for Jamaica                                                 | 1999-01-01          | 2014-01-01        |
 | SEADTLITRZSJOR | Literacy Rate, Adult Total for Jordan                                                  | 1979-01-01          | 2018-01-01        |
 | SEADTLITRZSKAZ | Literacy Rate, Adult Total for Kazakhstan                                              | 1989-01-01          | 2018-01-01        |
@@ -95,7 +95,7 @@
 | SEADTLITRZSLCN | Literacy Rate, Adult Total: All Income Levels for Latin America and Caribbean          | 1974-01-01          | 2020-01-01        |
 | SEADTLITRZSLDC | Literacy Rate, Adult Total for Least Developed Countries                               | 1981-01-01          | 2020-01-01        |
 | SEADTLITRZSLIC | Literacy Rate, Adult Total for Low Income Countries                                    | 1988-01-01          | 2020-01-01        |
-| SEADTLITRZSLKA | Literacy Rate, Adult Total for Sri Lanka                                               | 1981-01-01          | 2019-01-01        |
+| SEADTLITRZSLKA | Literacy Rate, Adult Total for Sri Lanka                                               | 1981-01-01          | 2020-01-01        |
 | SEADTLITRZSLMC | Literacy Rate, Adult Total for Lower Middle Income Countries                           | 1975-01-01          | 2020-01-01        |
 | SEADTLITRZSLMY | Literacy Rate, Adult Total for Low and Middle Income Countries                         | 1975-01-01          | 2020-01-01        |
 | SEADTLITRZSLSO | Literacy Rate, Adult Total for Lesotho                                                 | 2000-01-01          | 2014-01-01        |
@@ -150,10 +150,10 @@
 | SEADTLITRZSSAU | Literacy Rate, Adult Total for Saudi Arabia                                            | 1992-01-01          | 2020-01-01        |
 | SEADTLITRZSSDN | Literacy Rate, Adult Total for the Sudan                                               | 2000-01-01          | 2018-01-01        |
 | SEADTLITRZSSEN | Literacy Rate, Adult Total for Senegal                                                 | 1988-01-01          | 2017-01-01        |
-| SEADTLITRZSSGP | Literacy Rate, Adult Total for Singapore                                               | 1980-01-01          | 2019-01-01        |
+| SEADTLITRZSSGP | Literacy Rate, Adult Total for Singapore                                               | 1980-01-01          | 2020-01-01        |
 | SEADTLITRZSSLB | Literacy Rate, Adult Total for the Solomon Islands                                     | 1999-01-01          | 2009-01-01        |
 | SEADTLITRZSSLE | Literacy Rate, Adult Total for Sierra Leone                                            | 2004-01-01          | 2018-01-01        |
-| SEADTLITRZSSLV | Literacy Rate, Adult Total for El Salvador                                             | 1992-01-01          | 2019-01-01        |
+| SEADTLITRZSSLV | Literacy Rate, Adult Total for El Salvador                                             | 1992-01-01          | 2020-01-01        |
 | SEADTLITRZSSRB | Literacy Rate, Adult Total for Serbia                                                  | 2003-01-01          | 2019-01-01        |
 | SEADTLITRZSSSA | Literacy Rate, Adult Total for Developing Countries in Sub-Saharan Africa              | 1985-01-01          | 2020-01-01        |
 | SEADTLITRZSSSD | Literacy Rate, Adult Total for the Republic of South Sudan                             | 2008-01-01          | 2018-01-01        |

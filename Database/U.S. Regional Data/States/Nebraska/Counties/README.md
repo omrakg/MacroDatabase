@@ -27,7 +27,7 @@
 | Arthur County, NE       |                82 |
 | Frontier County, NE     |                89 |
 | Valley County, NE       |                88 |
-| Dakota County, NE       |                 0 |
+| Dakota County, NE       |                90 |
 | Dundy County, NE        |                89 |
 | Douglas County, NE      |               147 |
 | Buffalo County, NE      |               146 |

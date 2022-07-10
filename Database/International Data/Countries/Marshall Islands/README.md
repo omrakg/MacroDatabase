@@ -13,7 +13,7 @@
 | DDAI02MHA643NWDB  | Number of Bank Branches for Marshall Islands                                                                 | 2004-01-01          | 2019-01-01        |
 | DDOI09MHA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Marshall Islands                              | 2009-01-01          | 2019-01-01        |
 | DEMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Delaware                                             | 1997-01-01          | 2009-01-01        |
-| EXP6810           | U.S. Exports of Goods by F.A.S. Basis to Marshall Islands                                                    | 1992-01-01          | 2022-04-01        |
+| EXP6810           | U.S. Exports of Goods by F.A.S. Basis to Marshall Islands                                                    | 1992-01-01          | 2022-05-01        |
 | FLMHLA052SCEN     | Value of Exports to Marshall Islands from Florida                                                            | 1997-01-01          | 2017-01-01        |
 | FLMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Florida                                              | 1992-01-01          | 2017-01-01        |
 | GAMHLA052SCEN     | Value of Exports to Marshall Islands from Georgia                                                            | 1992-01-01          | 2016-01-01        |
@@ -25,7 +25,7 @@
 | IDMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Idaho                                                | 2002-01-01          | 2016-01-01        |
 | ILMHLA052SCEN     | Value of Exports to Marshall Islands from Illinois                                                           | 1992-01-01          | 2017-01-01        |
 | ILMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Illinois                                             | 1992-01-01          | 2017-01-01        |
-| IMP6810           | U.S. Imports of Goods by Customs Basis from Marshall Islands                                                 | 1992-01-01          | 2022-04-01        |
+| IMP6810           | U.S. Imports of Goods by Customs Basis from Marshall Islands                                                 | 1992-01-01          | 2022-05-01        |
 | INMHLA052SCEN     | Value of Exports to Marshall Islands from Indiana                                                            | 1997-01-01          | 2012-01-01        |
 | INMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Indiana                                              | 1992-01-01          | 2016-01-01        |
 | ITNETUSERP2MHL    | Internet users for the Marshall Islands                                                                      | 1990-01-01          | 2017-01-01        |
@@ -59,8 +59,8 @@
 | MHLTXRPCPPPT      | External Trade: Volume of Exports of Goods and Services for Marshall Islands                                 | 2016-01-01          | 2024-01-01        |
 | MIMHLA052SCEN     | Value of Exports to Marshall Islands from Michigan                                                           | 2003-01-01          | 2003-01-01        |
 | MIMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Michigan                                             | 1992-01-01          | 2016-01-01        |
-| MKTGDPMHA646NWDB  | Gross Domestic Product for Marshall Islands                                                                  | 1981-01-01          | 2020-01-01        |
-| MKTGNIMHA646NWDB  | Gross National Income for Marshall Islands                                                                   | 1995-01-01          | 2020-01-01        |
+| MKTGDPMHA646NWDB  | Gross Domestic Product for Marshall Islands                                                                  | 1981-01-01          | 2021-01-01        |
+| MKTGNIMHA646NWDB  | Gross National Income for Marshall Islands                                                                   | 1995-01-01          | 2021-01-01        |
 | MNMHLA052SCEN     | Value of Exports to Marshall Islands from Minnesota                                                          | 1997-01-01          | 2017-01-01        |
 | MNMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Minnesota                                            | 1992-01-01          | 2017-01-01        |
 | MOMHLA052SCEN     | Value of Exports to Marshall Islands from Missouri                                                           | 2013-01-01          | 2017-01-01        |
@@ -75,7 +75,7 @@
 | NJMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from New Jersey                                           | 1992-01-01          | 2017-01-01        |
 | NMMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from New Mexico                                           | 1992-01-01          | 2013-01-01        |
 | NVMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Nevada                                               | 2003-01-01          | 2017-01-01        |
-| NYGDPPCAPKDMHL    | Constant GDP per capita for the Marshall Islands                                                             | 1981-01-01          | 2020-01-01        |
+| NYGDPPCAPKDMHL    | Constant GDP per capita for the Marshall Islands                                                             | 1981-01-01          | 2021-01-01        |
 | NYMHLA052SCEN     | Value of Exports to Marshall Islands from New York                                                           | 1992-01-01          | 2015-01-01        |
 | NYMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from New York                                             | 1992-01-01          | 2017-01-01        |
 | OHMHLA052SCEN     | Value of Exports to Marshall Islands from Ohio                                                               | 1992-01-01          | 2017-01-01        |
@@ -85,9 +85,9 @@
 | ORMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Oregon                                               | 1992-01-01          | 2017-01-01        |
 | PAMHLA052SCEN     | Value of Exports to Marshall Islands from Pennsylvania                                                       | 2004-01-01          | 2017-01-01        |
 | PAMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Pennsylvania                                         | 1992-01-01          | 2017-01-01        |
-| PCAGDPMHA646NWDB  | Gross Domestic Product Per Capita for Marshall Islands                                                       | 1981-01-01          | 2020-01-01        |
+| PCAGDPMHA646NWDB  | Gross Domestic Product Per Capita for Marshall Islands                                                       | 1981-01-01          | 2021-01-01        |
 | POPTOTMH52647NWDB | Population, Total for Marshall Islands                                                                       | 1967-01-01          | 2012-01-01        |
-| POPTOTMHA647NWDB  | Population, Total for Marshall Islands                                                                       | 1960-01-01          | 2020-01-01        |
+| POPTOTMHA647NWDB  | Population, Total for Marshall Islands                                                                       | 1960-01-01          | 2021-01-01        |
 | PRMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Puerto Rico                                          | 2011-01-01          | 2012-01-01        |
 | SCMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from South Carolina                                       | 1997-01-01          | 2016-01-01        |
 | SDMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from South Dakota                                         | 1997-01-01          | 2016-01-01        |

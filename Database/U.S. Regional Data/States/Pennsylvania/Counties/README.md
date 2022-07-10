@@ -29,8 +29,8 @@
 | Mercer County, PA              |               143 |
 | Beaver County, PA              |               145 |
 | York County, PA                |               147 |
-| Butler County, PA              |               143 |
-| Juniata County, PA             |                 0 |
+| Butler County, PA              |                 0 |
+| Juniata County, PA             |                88 |
 | Philadelphia County - city, PA |                 0 |
 | Cumberland County, PA          |               147 |
 | Greene County, PA              |                89 |

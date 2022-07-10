@@ -11,7 +11,7 @@
 | Morgan County, TN     |                89 |
 | Lawrence County, TN   |                89 |
 | Johnson County, TN    |                88 |
-| Blount County, TN     |                 0 |
+| Blount County, TN     |               147 |
 | Lake County, TN       |                87 |
 | Decatur County, TN    |                89 |
 | Pickett County, TN    |                88 |
@@ -45,7 +45,7 @@
 | Smith County, TN      |                90 |
 | Lewis County, TN      |                89 |
 | Scott County, TN      |                89 |
-| Union County, TN      |                90 |
+| Union County, TN      |                 0 |
 | Moore County, TN      |                88 |
 | Franklin County, TN   |                90 |
 | Maury County, TN      |               147 |
@@ -71,7 +71,7 @@
 | Benton County, TN     |                90 |
 | Wilson County, TN     |               147 |
 | Marshall County, TN   |                90 |
-| Gibson County, TN     |                 0 |
+| Gibson County, TN     |                90 |
 | Montgomery County, TN |               147 |
 | Hardeman County, TN   |                89 |
 | Haywood County, TN    |                89 |

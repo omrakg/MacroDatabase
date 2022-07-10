@@ -201,21 +201,21 @@
 | FINCPISXHQINMEI | Consumer Price Index: Services Less Housing for Finland                                     | 2000-01-01          | 2018-01-01        |
 | FPCPITOTLZGARB  | Inflation, consumer prices for the Arab World                                               | 1973-01-01          | 2021-01-01        |
 | FPCPITOTLZGCEB  | Inflation, consumer prices for Central Europe and the Baltics                               | 1991-01-01          | 2021-01-01        |
-| FPCPITOTLZGCSS  | Inflation, consumer prices for Caribbean Small States                                       | 1967-01-01          | 2020-01-01        |
-| FPCPITOTLZGEAP  | Inflation, consumer prices for Developing Countries in East Asia and Pacific                | 1987-01-01          | 2020-01-01        |
-| FPCPITOTLZGEAS  | Inflation, consumer prices: All Income Levels for East Asia and Pacific                     | 1987-01-01          | 2020-01-01        |
+| FPCPITOTLZGCSS  | Inflation, consumer prices for Caribbean Small States                                       | 1967-01-01          | 2021-01-01        |
+| FPCPITOTLZGEAP  | Inflation, consumer prices for Developing Countries in East Asia and Pacific                | 1987-01-01          | 2021-01-01        |
+| FPCPITOTLZGEAS  | Inflation, consumer prices: All Income Levels for East Asia and Pacific                     | 1987-01-01          | 2021-01-01        |
 | FPCPITOTLZGECA  | Inflation, consumer prices for Developing Countries in Europe and Central Asia              | 1994-01-01          | 2021-01-01        |
 | FPCPITOTLZGECS  | Inflation, consumer prices: All Income Levels for Europe and Central Asia                   | 1992-01-01          | 2021-01-01        |
 | FPCPITOTLZGEMU  | Inflation, consumer prices for the Euro Area                                                | 1960-01-01          | 2021-01-01        |
 | FPCPITOTLZGEUU  | Inflation, consumer prices for the European Union                                           | 1960-01-01          | 2021-01-01        |
-| FPCPITOTLZGFCS  | Inflation, consumer prices for Countries with Fragile and Conflict Affected Situations      | 1991-01-01          | 2020-01-01        |
+| FPCPITOTLZGFCS  | Inflation, consumer prices for Countries with Fragile and Conflict Affected Situations      | 1991-01-01          | 2021-01-01        |
 | FPCPITOTLZGHIC  | Inflation, consumer prices for High Income Countries                                        | 1980-01-01          | 2021-01-01        |
-| FPCPITOTLZGHPC  | Inflation, consumer prices for Heavily Indebted Poor Countries                              | 1981-01-01          | 2020-01-01        |
+| FPCPITOTLZGHPC  | Inflation, consumer prices for Heavily Indebted Poor Countries                              | 1981-01-01          | 2021-01-01        |
 | FPCPITOTLZGLAC  | Inflation, consumer prices for Developing Countries in Latin America and Caribbean          | 1960-01-01          | 2021-01-01        |
 | FPCPITOTLZGLCN  | Inflation, consumer prices: All Income Levels for Latin America and Caribbean               | 1967-01-01          | 2021-01-01        |
-| FPCPITOTLZGLDC  | Inflation, consumer prices for Least Developed Countries                                    | 1986-01-01          | 2020-01-01        |
-| FPCPITOTLZGLIC  | Inflation, consumer prices for Low Income Countries                                         | 1984-01-01          | 2020-01-01        |
-| FPCPITOTLZGLMC  | Inflation, consumer prices for Lower Middle Income Countries                                | 1977-01-01          | 2020-01-01        |
+| FPCPITOTLZGLDC  | Inflation, consumer prices for Least Developed Countries                                    | 1986-01-01          | 2021-01-01        |
+| FPCPITOTLZGLIC  | Inflation, consumer prices for Low Income Countries                                         | 1984-01-01          | 2021-01-01        |
+| FPCPITOTLZGLMC  | Inflation, consumer prices for Lower Middle Income Countries                                | 1974-01-01          | 2021-01-01        |
 | FPCPITOTLZGLMY  | Inflation, consumer prices for Low and Middle Income Countries                              | 1981-01-01          | 2021-01-01        |
 | FPCPITOTLZGMEA  | Inflation, consumer prices: All Income Levels for Middle East and North Africa              | 1970-01-01          | 2021-01-01        |
 | FPCPITOTLZGMIC  | Inflation, consumer prices for Middle Income Countries                                      | 1977-01-01          | 2021-01-01        |
@@ -223,11 +223,11 @@
 | FPCPITOTLZGOEC  | Inflation, consumer prices for High Income OECD Countries                                   | 1960-01-01          | 2015-01-01        |
 | FPCPITOTLZGOED  | Inflation, consumer prices for OECD Members                                                 | 1960-01-01          | 2021-01-01        |
 | FPCPITOTLZGOSS  | Inflation, consumer prices for Other Small States                                           | 1980-01-01          | 2021-01-01        |
-| FPCPITOTLZGPSS  | Inflation, consumer prices for Pacific Island Small States                                  | 2000-01-01          | 2019-01-01        |
+| FPCPITOTLZGPSS  | Inflation, consumer prices for Pacific Island Small States                                  | 2000-01-01          | 2020-01-01        |
 | FPCPITOTLZGSAS  | Inflation, consumer prices for South Asia                                                   | 1965-01-01          | 2021-01-01        |
-| FPCPITOTLZGSSA  | Inflation, consumer prices for Developing Countries in Sub-Saharan Africa                   | 1981-01-01          | 2020-01-01        |
-| FPCPITOTLZGSSF  | Inflation, consumer prices: All Income Levels for Sub-Saharan Africa                        | 1975-01-01          | 2020-01-01        |
-| FPCPITOTLZGSST  | Inflation, consumer prices for Small States                                                 | 1977-01-01          | 2020-01-01        |
+| FPCPITOTLZGSSA  | Inflation, consumer prices for Developing Countries in Sub-Saharan Africa                   | 1981-01-01          | 2021-01-01        |
+| FPCPITOTLZGSSF  | Inflation, consumer prices: All Income Levels for Sub-Saharan Africa                        | 1975-01-01          | 2021-01-01        |
+| FPCPITOTLZGSST  | Inflation, consumer prices for Small States                                                 | 1977-01-01          | 2021-01-01        |
 | FPCPITOTLZGUMC  | Inflation, consumer prices for Upper Middle Income Countries                                | 1986-01-01          | 2021-01-01        |
 | FRACPIALLAINMEI | Consumer Price Index: All Items for France                                                  | 1960-01-01          | 2021-01-01        |
 | FRACPIALLMINMEI | Consumer Price Index of All Items in France                                                 | 1960-01-01          | 2022-04-01        |

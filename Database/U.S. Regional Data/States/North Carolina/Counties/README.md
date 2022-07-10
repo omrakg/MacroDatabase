@@ -32,7 +32,7 @@
 | Washington County, NC   |                90 |
 | Gaston County, NC       |               146 |
 | Hoke County, NC         |               146 |
-| Montgomery County, NC   |                 0 |
+| Montgomery County, NC   |                90 |
 | Buncombe County, NC     |               147 |
 | Alamance County, NC     |               147 |
 | Pender County, NC       |               146 |
@@ -50,7 +50,7 @@
 | Chatham County, NC      |               146 |
 | Yancey County, NC       |                90 |
 | Hertford County, NC     |                89 |
-| Sampson County, NC      |                90 |
+| Sampson County, NC      |                 0 |
 | Nash County, NC         |               147 |
 | Alleghany County, NC    |                89 |
 | Caldwell County, NC     |               147 |

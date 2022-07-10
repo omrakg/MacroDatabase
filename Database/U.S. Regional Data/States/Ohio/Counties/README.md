@@ -6,7 +6,7 @@
 | Allen County, OH      |               147 |
 | Lucas County, OH      |               147 |
 | Vinton County, OH     |                90 |
-| Lake County, OH       |                 0 |
+| Lake County, OH       |               147 |
 | Wood County, OH       |               147 |
 | Clermont County, OH   |               147 |
 | Hocking County, OH    |                89 |
@@ -45,7 +45,7 @@
 | Hamilton County, OH   |               147 |
 | Butler County, OH     |               147 |
 | Portage County, OH    |               147 |
-| Henry County, OH      |                90 |
+| Henry County, OH      |                 0 |
 | Ashtabula County, OH  |               147 |
 | Van Wert County, OH   |                89 |
 | Delaware County, OH   |               147 |
@@ -66,7 +66,7 @@
 | Lawrence County, OH   |               146 |
 | Meigs County, OH      |                90 |
 | Williams County, OH   |                90 |
-| Champaign County, OH  |                 0 |
+| Champaign County, OH  |                90 |
 | Clinton County, OH    |                90 |
 | Cuyahoga County, OH   |               146 |
 | Pickaway County, OH   |               145 |

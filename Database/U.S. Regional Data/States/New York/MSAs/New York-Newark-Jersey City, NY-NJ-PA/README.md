@@ -23,7 +23,7 @@
 | HORAMSA35620              | Market Hotness: Hotness Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA35620            | Market Hotness: Hotness Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA35620              | Market Hotness: Hotness Score in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG35620               | Job Postings on Indeed in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                  | 2020-02-01          | 2022-06-24        |
+| IHLCHG35620               | Job Postings on Indeed in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                  | 2020-02-01          | 2022-07-01        |
 | IRPD35620                 | Implicit Regional Price Deflator for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT363562000000003A     | Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT363562000000004      | Unemployed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |

@@ -75,7 +75,7 @@
 | DDSM01KWA066NWDB     | Volatility of Stock Price Index for Kuwait                                                                               | 2006-01-01          | 2017-01-01        |
 | DEKWTA052SCEN        | Value of Exports to Kuwait from Delaware                                                                                 | 2002-01-01          | 2013-01-01        |
 | DEKWTA475SCEN        | Number of Identified Exporters to Kuwait from Delaware                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP5130              | U.S. Exports of Goods by F.A.S. Basis to Kuwait                                                                          | 1985-01-01          | 2022-04-01        |
+| EXP5130              | U.S. Exports of Goods by F.A.S. Basis to Kuwait                                                                          | 1985-01-01          | 2022-05-01        |
 | FLKWTA052SCEN        | Value of Exports to Kuwait from Florida                                                                                  | 1992-01-01          | 2017-01-01        |
 | FLKWTA475SCEN        | Number of Identified Exporters to Kuwait from Florida                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGKWT       | Inflation, consumer prices for Kuwait                                                                                    | 1973-01-01          | 2021-01-01        |
@@ -96,7 +96,7 @@
 | IDSGAMNINIKW         | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kuwait             | 1978-07-01          | 2022-01-01        |
 | ILKWTA052SCEN        | Value of Exports to Kuwait from Illinois                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILKWTA475SCEN        | Number of Identified Exporters to Kuwait from Illinois                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP5130              | U.S. Imports of Goods by Customs Basis from Kuwait                                                                       | 1985-01-01          | 2022-04-01        |
+| IMP5130              | U.S. Imports of Goods by Customs Basis from Kuwait                                                                       | 1985-01-01          | 2022-05-01        |
 | INKWTA052SCEN        | Value of Exports to Kuwait from Indiana                                                                                  | 1992-01-01          | 2017-01-01        |
 | INKWTA475SCEN        | Number of Identified Exporters to Kuwait from Indiana                                                                    | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2KWT       | Internet users for Kuwait                                                                                                | 1990-01-01          | 2020-01-01        |
@@ -200,7 +200,7 @@
 | PAKWTA475SCEN        | Number of Identified Exporters to Kuwait from Pennsylvania                                                               | 1992-01-01          | 2017-01-01        |
 | PCAGDPKWA646NWDB     | Gross Domestic Product Per Capita for Kuwait                                                                             | 1965-01-01          | 2020-01-01        |
 | POPTOTKW52647NWDB    | Population, Total for Kuwait                                                                                             | 1967-01-01          | 1987-01-01        |
-| POPTOTKWA647NWDB     | Population, Total for Kuwait                                                                                             | 1960-01-01          | 2020-01-01        |
+| POPTOTKWA647NWDB     | Population, Total for Kuwait                                                                                             | 1960-01-01          | 2021-01-01        |
 | PRKWTA052SCEN        | Value of Exports to Kuwait from Puerto Rico                                                                              | 1992-01-01          | 2017-01-01        |
 | PRKWTA475SCEN        | Number of Identified Exporters to Kuwait from Puerto Rico                                                                | 1992-01-01          | 2017-01-01        |
 | RIKWTA052SCEN        | Value of Exports to Kuwait from Rhode Island                                                                             | 1992-01-01          | 2016-01-01        |
@@ -214,7 +214,7 @@
 | SPDYNIMRTINKWT       | Infant Mortality Rate for Kuwait                                                                                         | 1960-01-01          | 2020-01-01        |
 | SPDYNLE00INKWT       | Life Expectancy at Birth, Total for Kuwait                                                                               | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINKWT       | Fertility Rate, Total for Kuwait                                                                                         | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSKWT     | Population ages 65 and above for Kuwait                                                                                  | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSKWT     | Population ages 65 and above for Kuwait                                                                                  | 1960-01-01          | 2021-01-01        |
 | TNKWTA052SCEN        | Value of Exports to Kuwait from Tennessee                                                                                | 1992-01-01          | 2017-01-01        |
 | TNKWTA475SCEN        | Number of Identified Exporters to Kuwait from Tennessee                                                                  | 1992-01-01          | 2017-01-01        |
 | TXKWTA052SCEN        | Value of Exports to Kuwait from Texas                                                                                    | 1992-01-01          | 2016-01-01        |

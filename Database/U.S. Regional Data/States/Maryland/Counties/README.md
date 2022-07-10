@@ -15,7 +15,7 @@
 | Caroline County, MD        |                90 |
 | Allegany County, MD        |               147 |
 | St. Mary's County, MD      |               147 |
-| Baltimore County, MD       |               148 |
+| Baltimore County, MD       |                 0 |
 | Anne Arundel County, MD    |               147 |
 | Garrett County, MD         |                90 |
 | Wicomico County, MD        |               147 |

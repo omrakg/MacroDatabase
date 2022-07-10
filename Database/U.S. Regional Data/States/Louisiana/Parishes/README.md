@@ -11,7 +11,7 @@
 | Bossier Parish, LA              |               147 |
 | Rapides Parish, LA              |               146 |
 | Caldwell Parish, LA             |                88 |
-| Sabine Parish, LA               |                90 |
+| Sabine Parish, LA               |                 0 |
 | St. James Parish, LA            |                90 |
 | Terrebonne Parish, LA           |               147 |
 | Iberville Parish, LA            |                89 |
@@ -32,7 +32,7 @@
 | Jefferson Davis Parish, LA      |                90 |
 | Lafayette Parish, LA            |               147 |
 | Claiborne Parish, LA            |                90 |
-| Plaquemines Parish, LA          |                 0 |
+| Plaquemines Parish, LA          |                89 |
 | Webster Parish, LA              |                90 |
 | St. Charles Parish, LA          |               145 |
 | East Baton Rouge Parish, LA     |               148 |

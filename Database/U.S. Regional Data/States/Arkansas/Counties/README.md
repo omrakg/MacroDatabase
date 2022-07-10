@@ -51,8 +51,8 @@
 | Searcy County, AR       |                88 |
 | Grant County, AR        |                90 |
 | Miller County, AR       |                89 |
-| Nevada County, AR       |                 0 |
-| Benton County, AR       |               147 |
+| Nevada County, AR       |                89 |
+| Benton County, AR       |                 0 |
 | Union County, AR        |                90 |
 | Marion County, AR       |                89 |
 | Madison County, AR      |                89 |

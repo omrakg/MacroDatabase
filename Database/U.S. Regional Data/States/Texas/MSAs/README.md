@@ -7,7 +7,7 @@
 | Sherman-Denison, TX                  |               137 |
 | Tyler, TX                            |               161 |
 | Odessa, TX                           |               166 |
-| Waco, TX                             |                 0 |
+| Waco, TX                             |               162 |
 | Abilene, TX                          |               162 |
 | San Antonio, TX                      |               312 |
 | Corpus Christi, TX                   |               180 |
@@ -21,7 +21,7 @@
 | El Paso, TX                          |               224 |
 | Amarillo, TX                         |               165 |
 | Brownsville-Harlingen, TX            |               217 |
-| Wichita Falls, TX                    |               162 |
+| Wichita Falls, TX                    |                 0 |
 | Texarkana, TX-AR                     |                 0 |
 | Longview, TX                         |               172 |
 | Austin-Round Rock-Georgetown, TX     |               305 |

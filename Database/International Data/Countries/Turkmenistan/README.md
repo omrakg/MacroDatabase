@@ -33,7 +33,7 @@
 | DDSI04TMA156NWDB     | Bank Credit to Bank Deposits for Turkmenistan                                                     | 1993-01-01          | 2001-01-01        |
 | DDSI06TMA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Turkmenistan                                 | 1999-01-01          | 2016-01-01        |
 | DETKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Delaware                                      | 1997-01-01          | 2015-01-01        |
-| EXP4643              | U.S. Exports of Goods by F.A.S. Basis to Turkmenistan                                             | 1992-01-01          | 2022-04-01        |
+| EXP4643              | U.S. Exports of Goods by F.A.S. Basis to Turkmenistan                                             | 1992-01-01          | 2022-05-01        |
 | FLTKMA052SCEN        | Value of Exports to Turkmenistan from Florida                                                     | 2008-01-01          | 2017-01-01        |
 | FLTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Florida                                       | 1997-01-01          | 2017-01-01        |
 | GATKMA052SCEN        | Value of Exports to Turkmenistan from Georgia                                                     | 2002-01-01          | 2017-01-01        |
@@ -43,7 +43,7 @@
 | IDTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Idaho                                         | 2011-01-01          | 2011-01-01        |
 | ILTKMA052SCEN        | Value of Exports to Turkmenistan from Illinois                                                    | 2004-01-01          | 2017-01-01        |
 | ILTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Illinois                                      | 1997-01-01          | 2017-01-01        |
-| IMP4643              | U.S. Imports of Goods by Customs Basis from Turkmenistan                                          | 1992-01-01          | 2022-04-01        |
+| IMP4643              | U.S. Imports of Goods by Customs Basis from Turkmenistan                                          | 1992-01-01          | 2022-05-01        |
 | INTKMA052SCEN        | Value of Exports to Turkmenistan from Indiana                                                     | 2006-01-01          | 2017-01-01        |
 | INTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Indiana                                       | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2TKM       | Internet users for Turkmenistan                                                                   | 1990-01-01          | 2017-01-01        |
@@ -88,7 +88,7 @@
 | PATKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Pennsylvania                                  | 2002-01-01          | 2017-01-01        |
 | PCAGDPTMA646NWDB     | Gross Domestic Product Per Capita for Turkmenistan                                                | 1987-01-01          | 2019-01-01        |
 | POPTOTTM52647NWDB    | Population, Total for Turkmenistan                                                                | 1967-01-01          | 2012-01-01        |
-| POPTOTTMA647NWDB     | Population, Total for Turkmenistan                                                                | 1960-01-01          | 2020-01-01        |
+| POPTOTTMA647NWDB     | Population, Total for Turkmenistan                                                                | 1960-01-01          | 2021-01-01        |
 | RITKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Rhode Island                                  | 2003-01-01          | 2016-01-01        |
 | SCTKMA052SCEN        | Value of Exports to Turkmenistan from South Carolina                                              | 2012-01-01          | 2014-01-01        |
 | SCTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from South Carolina                                | 1997-01-01          | 2016-01-01        |
@@ -98,7 +98,7 @@
 | SPDYNIMRTINTKM       | Infant Mortality Rate for Turkmenistan                                                            | 1977-01-01          | 2020-01-01        |
 | SPDYNLE00INTKM       | Life Expectancy at Birth, Total for Turkmenistan                                                  | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINTKM       | Fertility Rate, Total for Turkmenistan                                                            | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSTKM     | Population ages 65 and above for Turkmenistan                                                     | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSTKM     | Population ages 65 and above for Turkmenistan                                                     | 1960-01-01          | 2021-01-01        |
 | TNTKMA052SCEN        | Value of Exports to Turkmenistan from Tennessee                                                   | 2005-01-01          | 2017-01-01        |
 | TNTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Tennessee                                     | 1997-01-01          | 2017-01-01        |
 | TRNBCAGDPGDPPT       | Current Account Balance for Turkmenistan                                                          | 2009-01-01          | 2023-01-01        |

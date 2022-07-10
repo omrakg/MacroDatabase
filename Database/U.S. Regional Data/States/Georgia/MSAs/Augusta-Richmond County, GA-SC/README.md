@@ -52,7 +52,7 @@
 | HORAMSA12260              | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA12260            | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA12260              | Market Hotness: Hotness Score in Augusta-Richmond County, GA-SC (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG12260               | Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                                  | 2020-02-01          | 2022-06-24        |
+| IHLCHG12260               | Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                                  | 2020-02-01          | 2022-07-01        |
 | IRPD12260                 | Implicit Regional Price Deflator for Augusta-Richmond County, GA-SC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT131226000000003A     | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT131226000000004      | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2022-05-01        |

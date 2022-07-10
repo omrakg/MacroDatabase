@@ -12,7 +12,7 @@
 | CTANDA475SCEN    | Number of Identified Exporters to Andorra from Connecticut          | 1992-01-01          | 2016-01-01        |
 | DCANDA475SCEN    | Number of Identified Exporters to Andorra from District of Columbia | 2002-01-01          | 2006-01-01        |
 | DEANDA475SCEN    | Number of Identified Exporters to Andorra from Delaware             | 2002-01-01          | 2012-01-01        |
-| EXP4271          | U.S. Exports of Goods by F.A.S. Basis to Andorra                    | 1992-01-01          | 2022-04-01        |
+| EXP4271          | U.S. Exports of Goods by F.A.S. Basis to Andorra                    | 1992-01-01          | 2022-05-01        |
 | FLANDA052SCEN    | Value of Exports to Andorra from Florida                            | 1992-01-01          | 2017-01-01        |
 | FLANDA475SCEN    | Number of Identified Exporters to Andorra from Florida              | 1992-01-01          | 2017-01-01        |
 | GAANDA052SCEN    | Value of Exports to Andorra from Georgia                            | 2003-01-01          | 2012-01-01        |
@@ -21,7 +21,7 @@
 | IDANDA475SCEN    | Number of Identified Exporters to Andorra from Idaho                | 2005-01-01          | 2016-01-01        |
 | ILANDA052SCEN    | Value of Exports to Andorra from Illinois                           | 1992-01-01          | 2012-01-01        |
 | ILANDA475SCEN    | Number of Identified Exporters to Andorra from Illinois             | 1992-01-01          | 2016-01-01        |
-| IMP4271          | U.S. Imports of Goods by Customs Basis from Andorra                 | 1992-01-01          | 2022-04-01        |
+| IMP4271          | U.S. Imports of Goods by Customs Basis from Andorra                 | 1992-01-01          | 2022-05-01        |
 | INANDA052SCEN    | Value of Exports to Andorra from Indiana                            | 2002-01-01          | 2003-01-01        |
 | INANDA475SCEN    | Number of Identified Exporters to Andorra from Indiana              | 1992-01-01          | 2014-01-01        |
 | ITNETUSERP2AND   | Internet users for Andorra                                          | 1990-01-01          | 2017-01-01        |
@@ -37,7 +37,7 @@
 | MEANDA475SCEN    | Number of Identified Exporters to Andorra from Maine                | 1992-01-01          | 2009-01-01        |
 | MIANDA052SCEN    | Value of Exports to Andorra from Michigan                           | 1997-01-01          | 2008-01-01        |
 | MIANDA475SCEN    | Number of Identified Exporters to Andorra from Michigan             | 1992-01-01          | 2016-01-01        |
-| MKTGDPADA646NWDB | Gross Domestic Product for Andorra                                  | 1970-01-01          | 2019-01-01        |
+| MKTGDPADA646NWDB | Gross Domestic Product for Andorra                                  | 1970-01-01          | 2021-01-01        |
 | MKTGNIADA646NWDB | Gross National Income for Andorra                                   | 1970-01-01          | 2013-01-01        |
 | MNANDA052SCEN    | Value of Exports to Andorra from Minnesota                          | 1997-01-01          | 1997-01-01        |
 | MNANDA475SCEN    | Number of Identified Exporters to Andorra from Minnesota            | 1997-01-01          | 2016-01-01        |
@@ -53,7 +53,7 @@
 | NVANDA475SCEN    | Number of Identified Exporters to Andorra from Nevada               | 2005-01-01          | 2016-01-01        |
 | NYANDA052SCEN    | Value of Exports to Andorra from New York                           | 1992-01-01          | 2016-01-01        |
 | NYANDA475SCEN    | Number of Identified Exporters to Andorra from New York             | 1992-01-01          | 2017-01-01        |
-| NYGDPPCAPKDAND   | Constant GDP per capita for Andorra                                 | 1970-01-01          | 2020-01-01        |
+| NYGDPPCAPKDAND   | Constant GDP per capita for Andorra                                 | 1970-01-01          | 2021-01-01        |
 | OHANDA052SCEN    | Value of Exports to Andorra from Ohio                               | 1992-01-01          | 2002-01-01        |
 | OHANDA475SCEN    | Number of Identified Exporters to Andorra from Ohio                 | 1992-01-01          | 2014-01-01        |
 | OKANDA475SCEN    | Number of Identified Exporters to Andorra from Oklahoma             | 1997-01-01          | 2010-01-01        |
@@ -61,7 +61,7 @@
 | ORANDA475SCEN    | Number of Identified Exporters to Andorra from Oregon               | 1992-01-01          | 2016-01-01        |
 | PAANDA052SCEN    | Value of Exports to Andorra from Pennsylvania                       | 2004-01-01          | 2017-01-01        |
 | PAANDA475SCEN    | Number of Identified Exporters to Andorra from Pennsylvania         | 1992-01-01          | 2017-01-01        |
-| PCAGDPADA646NWDB | Gross Domestic Product Per Capita for Andorra                       | 1970-01-01          | 2019-01-01        |
+| PCAGDPADA646NWDB | Gross Domestic Product Per Capita for Andorra                       | 1970-01-01          | 2021-01-01        |
 | PRANDA475SCEN    | Number of Identified Exporters to Andorra from Puerto Rico          | 2004-01-01          | 2004-01-01        |
 | RIANDA475SCEN    | Number of Identified Exporters to Andorra from Rhode Island         | 1992-01-01          | 2009-01-01        |
 | SCANDA475SCEN    | Number of Identified Exporters to Andorra from South Carolina       | 1997-01-01          | 2016-01-01        |

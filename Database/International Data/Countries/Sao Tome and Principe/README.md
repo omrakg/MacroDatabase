@@ -35,7 +35,7 @@
 | DDSI04STA156NWDB    | Bank Credit to Bank Deposits for Sao Tome and Principe                                                                                  | 1995-01-01          | 2016-01-01        |
 | DDSI06STA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Sao Tome and Principe                                                              | 1996-01-01          | 2016-01-01        |
 | DESTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Delaware                                                                   | 1992-01-01          | 2012-01-01        |
-| EXP7644             | U.S. Exports of Goods by F.A.S. Basis to Sao Tome and Principe                                                                          | 1992-01-01          | 2022-04-01        |
+| EXP7644             | U.S. Exports of Goods by F.A.S. Basis to Sao Tome and Principe                                                                          | 1992-01-01          | 2022-05-01        |
 | FLSTPA052SCEN       | Value of Exports to Sao Tome and Principe from Florida                                                                                  | 2002-01-01          | 2017-01-01        |
 | FLSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Florida                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSTP      | Inflation, consumer prices for Sao Tome and Principe                                                                                    | 1997-01-01          | 2018-01-01        |
@@ -45,7 +45,7 @@
 | IDSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Idaho                                                                      | 2004-01-01          | 2006-01-01        |
 | ILSTPA052SCEN       | Value of Exports to Sao Tome and Principe from Illinois                                                                                 | 2008-01-01          | 2008-01-01        |
 | ILSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Illinois                                                                   | 1992-01-01          | 2016-01-01        |
-| IMP7644             | U.S. Imports of Goods by Customs Basis from Sao Tome and Principe                                                                       | 1992-01-01          | 2022-04-01        |
+| IMP7644             | U.S. Imports of Goods by Customs Basis from Sao Tome and Principe                                                                       | 1992-01-01          | 2022-05-01        |
 | INSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Indiana                                                                    | 2005-01-01          | 2013-01-01        |
 | ITNETUSERP2STP      | Internet users for Sao Tome and Principe                                                                                                | 1990-01-01          | 2020-01-01        |
 | KSSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Kansas                                                                     | 1992-01-01          | 2015-01-01        |
@@ -57,8 +57,8 @@
 | MDSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Maryland                                                                   | 2002-01-01          | 2016-01-01        |
 | MESTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Maine                                                                      | 1997-01-01          | 2016-01-01        |
 | MISTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Michigan                                                                   | 2004-01-01          | 2016-01-01        |
-| MKTGDPSTA646NWDB    | Gross Domestic Product for Sao Tome and Principe                                                                                        | 2001-01-01          | 2020-01-01        |
-| MKTGNISTA646NWDB    | Gross National Income for Sao Tome and Principe                                                                                         | 2001-01-01          | 2020-01-01        |
+| MKTGDPSTA646NWDB    | Gross Domestic Product for Sao Tome and Principe                                                                                        | 2001-01-01          | 2021-01-01        |
+| MKTGNISTA646NWDB    | Gross National Income for Sao Tome and Principe                                                                                         | 2001-01-01          | 2021-01-01        |
 | MNSTPA052SCEN       | Value of Exports to Sao Tome and Principe from Minnesota                                                                                | 2007-01-01          | 2007-01-01        |
 | MNSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Minnesota                                                                  | 2007-01-01          | 2016-01-01        |
 | MOSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Missouri                                                                   | 2004-01-01          | 2015-01-01        |
@@ -69,7 +69,7 @@
 | NJSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from New Jersey                                                                 | 1997-01-01          | 2016-01-01        |
 | NMSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from New Mexico                                                                 | 2006-01-01          | 2008-01-01        |
 | NVSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Nevada                                                                     | 2007-01-01          | 2007-01-01        |
-| NYGDPPCAPKDSTP      | Constant GDP per capita for Sao Tome and Principe                                                                                       | 2001-01-01          | 2020-01-01        |
+| NYGDPPCAPKDSTP      | Constant GDP per capita for Sao Tome and Principe                                                                                       | 2001-01-01          | 2021-01-01        |
 | NYSTPA052SCEN       | Value of Exports to Sao Tome and Principe from New York                                                                                 | 2002-01-01          | 2017-01-01        |
 | NYSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from New York                                                                   | 1997-01-01          | 2017-01-01        |
 | OHSTPA052SCEN       | Value of Exports to Sao Tome and Principe from Ohio                                                                                     | 2011-01-01          | 2014-01-01        |
@@ -77,9 +77,9 @@
 | OKSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Oklahoma                                                                   | 2009-01-01          | 2011-01-01        |
 | ORSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Oregon                                                                     | 2003-01-01          | 2007-01-01        |
 | PASTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Pennsylvania                                                               | 1992-01-01          | 2017-01-01        |
-| PCAGDPSTA646NWDB    | Gross Domestic Product Per Capita for Sao Tome and Principe                                                                             | 2001-01-01          | 2020-01-01        |
+| PCAGDPSTA646NWDB    | Gross Domestic Product Per Capita for Sao Tome and Principe                                                                             | 2001-01-01          | 2021-01-01        |
 | POPTOTST52647NWDB   | Population, Total for Sao Tome and Principe                                                                                             | 1967-01-01          | 2012-01-01        |
-| POPTOTSTA647NWDB    | Population, Total for Sao Tome and Principe                                                                                             | 1960-01-01          | 2020-01-01        |
+| POPTOTSTA647NWDB    | Population, Total for Sao Tome and Principe                                                                                             | 1960-01-01          | 2021-01-01        |
 | PRSTPA052SCEN       | Value of Exports to Sao Tome and Principe from Puerto Rico                                                                              | 2003-01-01          | 2009-01-01        |
 | PRSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Puerto Rico                                                                | 2003-01-01          | 2016-01-01        |
 | SCSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from South Carolina                                                             | 2005-01-01          | 2016-01-01        |
@@ -89,7 +89,7 @@
 | SPDYNIMRTINSTP      | Infant Mortality Rate for Sao Tome and Principe                                                                                         | 1965-01-01          | 2020-01-01        |
 | SPDYNLE00INSTP      | Life Expectancy at Birth, Total for Sao Tome and Principe                                                                               | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINSTP      | Fertility Rate, Total for Sao Tome and Principe                                                                                         | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSSTP    | Population ages 65 and above for Sao Tome and Principe                                                                                  | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSSTP    | Population ages 65 and above for Sao Tome and Principe                                                                                  | 1960-01-01          | 2021-01-01        |
 | STPBCABP6GDPPT      | Net Current Account Total for Sao Tome and Principe                                                                                     | 2004-01-01          | 2023-01-01        |
 | STPBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Sao Tome and Principe                     | 2004-01-01          | 2023-01-01        |
 | STPBGSBP6GDPPT      | Goods and Services: Net for Sao Tome and Principe                                                                                       | 2004-01-01          | 2023-01-01        |

@@ -18,7 +18,7 @@
 | DDOI12PFA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for French Polynesia                                                                        | 1984-01-01          | 2000-01-01        |
 | DEPYFA052SCEN     | Value of Exports to French Polynesia from Delaware                                                                                                    | 2007-01-01          | 2016-01-01        |
 | DEPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Delaware                                                                                      | 1997-01-01          | 2017-01-01        |
-| EXP6414           | U.S. Exports of Goods by F.A.S. Basis to French Polynesia                                                                                             | 1992-01-01          | 2022-04-01        |
+| EXP6414           | U.S. Exports of Goods by F.A.S. Basis to French Polynesia                                                                                             | 1992-01-01          | 2022-05-01        |
 | FLPYFA052SCEN     | Value of Exports to French Polynesia from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | GAPYFA052SCEN     | Value of Exports to French Polynesia from Georgia                                                                                                     | 1992-01-01          | 2017-01-01        |
@@ -40,7 +40,7 @@
 | IDSGAMRINIPF      | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in French Polynesia         | 2001-01-01          | 2011-01-01        |
 | ILPYFA052SCEN     | Value of Exports to French Polynesia from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP6414           | U.S. Imports of Goods by Customs Basis from French Polynesia                                                                                          | 1992-01-01          | 2022-04-01        |
+| IMP6414           | U.S. Imports of Goods by Customs Basis from French Polynesia                                                                                          | 1992-01-01          | 2022-05-01        |
 | INPYFA052SCEN     | Value of Exports to French Polynesia from Indiana                                                                                                     | 1992-01-01          | 2017-01-01        |
 | INPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2PYF    | Internet users for French Polynesia                                                                                                                   | 1990-01-01          | 2017-01-01        |
@@ -57,7 +57,7 @@
 | MEPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Maine                                                                                         | 1997-01-01          | 2016-01-01        |
 | MIPYFA052SCEN     | Value of Exports to French Polynesia from Michigan                                                                                                    | 1992-01-01          | 2017-01-01        |
 | MIPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Michigan                                                                                      | 1992-01-01          | 2017-01-01        |
-| MKTGDPPFA646NWDB  | Gross Domestic Product for French Polynesia                                                                                                           | 1965-01-01          | 2000-01-01        |
+| MKTGDPPFA646NWDB  | Gross Domestic Product for French Polynesia                                                                                                           | 1965-01-01          | 2020-01-01        |
 | MKTGNIPFA646NWDB  | Gross National Income for French Polynesia                                                                                                            | 1960-01-01          | 2000-01-01        |
 | MNPYFA052SCEN     | Value of Exports to French Polynesia from Minnesota                                                                                                   | 1992-01-01          | 2017-01-01        |
 | MNPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Minnesota                                                                                     | 1992-01-01          | 2017-01-01        |
@@ -88,9 +88,9 @@
 | ORPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Oregon                                                                                        | 1992-01-01          | 2017-01-01        |
 | PAPYFA052SCEN     | Value of Exports to French Polynesia from Pennsylvania                                                                                                | 1992-01-01          | 2017-01-01        |
 | PAPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Pennsylvania                                                                                  | 1992-01-01          | 2017-01-01        |
-| PCAGDPPFA646NWDB  | Gross Domestic Product Per Capita for French Polynesia                                                                                                | 1965-01-01          | 2000-01-01        |
+| PCAGDPPFA646NWDB  | Gross Domestic Product Per Capita for French Polynesia                                                                                                | 1965-01-01          | 2020-01-01        |
 | POPTOTPF52647NWDB | Population, Total for French Polynesia                                                                                                                | 1967-01-01          | 2012-01-01        |
-| POPTOTPFA647NWDB  | Population, Total for French Polynesia                                                                                                                | 1960-01-01          | 2020-01-01        |
+| POPTOTPFA647NWDB  | Population, Total for French Polynesia                                                                                                                | 1960-01-01          | 2021-01-01        |
 | PRPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Puerto Rico                                                                                   | 1992-01-01          | 2014-01-01        |
 | RIPYFA052SCEN     | Value of Exports to French Polynesia from Rhode Island                                                                                                | 2004-01-01          | 2010-01-01        |
 | RIPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Rhode Island                                                                                  | 1992-01-01          | 2016-01-01        |
@@ -100,7 +100,7 @@
 | SMPOPNETMPYF      | Net migration for French Polynesia                                                                                                                    | 1962-01-01          | 2017-01-01        |
 | SPDYNLE00INPYF    | Life Expectancy at Birth, Total for French Polynesia                                                                                                  | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINPYF    | Fertility Rate, Total for French Polynesia                                                                                                            | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSPYF  | Population ages 65 and above for French Polynesia                                                                                                     | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSPYF  | Population ages 65 and above for French Polynesia                                                                                                     | 1960-01-01          | 2021-01-01        |
 | TNPYFA052SCEN     | Value of Exports to French Polynesia from Tennessee                                                                                                   | 1997-01-01          | 2017-01-01        |
 | TNPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Tennessee                                                                                     | 1992-01-01          | 2017-01-01        |
 | TXPYFA052SCEN     | Value of Exports to French Polynesia from Texas                                                                                                       | 1992-01-01          | 2017-01-01        |

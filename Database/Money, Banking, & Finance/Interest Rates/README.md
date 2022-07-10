@@ -1,8 +1,8 @@
 | id              | title                                                                                            | observation_start   | observation_end   |
 |-----------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ECBDFR          | ECB Deposit Facility Rate for Euro Area                                                          | 1999-01-01          | 2022-07-01        |
-| ECBMLFR         | ECB Marginal Lending Facility Rate for Euro Area                                                 | 1999-01-01          | 2022-07-01        |
-| ECBMRRFR        | ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                           | 1999-01-01          | 2022-07-01        |
+| ECBDFR          | ECB Deposit Facility Rate for Euro Area                                                          | 1999-01-01          | 2022-07-08        |
+| ECBMLFR         | ECB Marginal Lending Facility Rate for Euro Area                                                 | 1999-01-01          | 2022-07-08        |
+| ECBMRRFR        | ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                           | 1999-01-01          | 2022-07-08        |
 | INTDSRAUM193N   | Interest Rates, Discount Rate for Australia                                                      | 1969-07-01          | 2013-04-01        |
 | INTDSRBRM193N   | Interest Rates, Discount Rate for Brazil                                                         | 1996-10-01          | 2022-02-01        |
 | INTDSRCAM193N   | Interest Rates, Discount Rate for Canada                                                         | 1992-12-01          | 2013-01-01        |
@@ -43,7 +43,7 @@
 | INTGSBPLM193N   | Interest Rates, Government Securities, Government Bonds for Poland                               | 2001-01-01          | 2022-01-01        |
 | INTGSBRUM193N   | Interest Rates, Government Securities, Government Bonds for Russian Federation                   | 2005-04-01          | 2011-03-01        |
 | INTGSBUSM193N   | Interest Rates, Government Securities, Government Bonds for United States                        | 1953-04-01          | 2021-08-01        |
-| INTGSBZAM193N   | Interest Rates, Government Securities, Government Bonds for South Africa                         | 1957-01-01          | 2022-04-01        |
+| INTGSBZAM193N   | Interest Rates, Government Securities, Government Bonds for South Africa                         | 1957-01-01          | 2022-05-01        |
 | INTGSTAUM193N   | Interest Rates, Government Securities, Treasury Bills for Australia                              | 1995-01-01          | 2013-05-01        |
 | INTGSTBRM193N   | Interest Rates, Government Securities, Treasury Bills for Brazil                                 | 1995-01-01          | 2022-02-01        |
 | INTGSTCAM193N   | Interest Rates, Government Securities, Treasury Bills for Canada                                 | 1950-01-01          | 2017-04-01        |
@@ -59,7 +59,7 @@
 | INTGSTSAM193N   | Interest Rates, Government Securities, Treasury Bills for Saudi Arabia                           | 2009-06-01          | 2018-02-01        |
 | INTGSTTRM193N   | Interest Rates, Government Securities, Treasury Bills for Turkey                                 | 1986-12-01          | 2008-04-01        |
 | INTGSTUSM193N   | Interest Rates, Government Securities, Treasury Bills for United States                          | 1950-01-01          | 2021-08-01        |
-| INTGSTZAM193N   | Interest Rates, Government Securities, Treasury Bills for South Africa                           | 1957-01-01          | 2022-04-01        |
+| INTGSTZAM193N   | Interest Rates, Government Securities, Treasury Bills for South Africa                           | 1957-01-01          | 2022-05-01        |
 | IR3OBD01IDA156N | Other 3-Month Rates: Bank Deposit Rates for Indonesia                                            | 1998-01-01          | 2021-01-01        |
 | IR3OBD01IDM156N | Other 3-Month Rates: Bank Deposit Rates for Indonesia                                            | 1998-01-01          | 2022-04-01        |
 | IR3OBD01IDQ156N | Other 3-Month Rates: Bank Deposit Rates for Indonesia                                            | 1998-01-01          | 2022-01-01        |

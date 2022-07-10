@@ -31,7 +31,7 @@
 | Congo, Republic of the                               |               233 |
 | Zimbabwe                                             |               288 |
 | Estonia                                              |               849 |
-| Turkey                                               |                 0 |
+| Turkey                                               |               887 |
 | Greenland                                            |                82 |
 | Eritrea                                              |               134 |
 | Uganda                                               |               284 |
@@ -45,7 +45,7 @@
 | Bolivia, Plurinational State of                      |               239 |
 | Bermuda                                              |               143 |
 | Pitcairn                                             |                40 |
-| Albania                                              |               209 |
+| Albania                                              |                 0 |
 | Faroe Islands                                        |                70 |
 | Congo, Democratic Republic of the                    |               192 |
 | Kazakhstan                                           |               264 |
@@ -94,7 +94,7 @@
 | Croatia                                              |               425 |
 | Aland Islands                                        |                 0 |
 | Pakistan                                             |               309 |
-| Seychelles                                           |                 0 |
+| Seychelles                                           |               230 |
 | Ecuador                                              |               271 |
 | Belgium                                              |                 0 |
 | Panama                                               |               225 |
@@ -107,7 +107,7 @@
 | France                                               |                 0 |
 | Burundi                                              |               282 |
 | Virgin Islands, British                              |               106 |
-| Guadeloupe                                           |                97 |
+| Guadeloupe                                           |                 0 |
 | Mexico                                               |                 0 |
 | Lao People's Democratic Republic                     |               190 |
 | Guinea-Bissau                                        |               152 |
@@ -167,7 +167,7 @@
 | Poland                                               |               889 |
 | Afghanistan                                          |               215 |
 | Argentina                                            |               557 |
-| Papua New Guinea                                     |               229 |
+| Papua New Guinea                                     |                 0 |
 | Portugal                                             |                 0 |
 | Hungary                                              |               864 |
 | Moldova, Republic of                                 |               235 |
@@ -214,38 +214,38 @@
 | Venezuela, Bolivarian Republic of                    |               257 |
 | Solomon Islands                                      |               167 |
 | Bulgaria                                             |               420 |
-| Samoa                                                |                 0 |
+| Samoa                                                |               279 |
 | Slovak Republic                                      |               761 |
 | Northern Mariana Islands                             |                 6 |
 | Israel                                               |               862 |
 | Brazil                                               |                 0 |
 | Greece                                               |                 0 |
-| Reunion                                              |                78 |
-| Costa Rica                                           |               578 |
-| Nepal                                                |               223 |
-| Ukraine                                              |               357 |
-| Kenya                                                |               268 |
+| Reunion                                              |                 0 |
+| Costa Rica                                           |                 0 |
+| Nepal                                                |                 0 |
+| Ukraine                                              |                 0 |
+| Kenya                                                |                 0 |
 | Singapore                                            |                 0 |
-| Macedonia, Former Yugoslav Republic of               |               240 |
-| Azerbaijan                                           |               230 |
-| Niue                                                 |                39 |
-| Caribbean Netherlands                                |                16 |
-| Mayotte                                              |                71 |
+| Macedonia, Former Yugoslav Republic of               |                 0 |
+| Azerbaijan                                           |                 0 |
+| Niue                                                 |                 0 |
+| Caribbean Netherlands                                |                 0 |
+| Mayotte                                              |                 0 |
 | New Zealand                                          |                 0 |
-| Monaco                                               |               100 |
-| Guatemala                                            |               237 |
-| Guyana                                               |               234 |
-| Madagascar                                           |               305 |
-| Mozambique                                           |               244 |
+| Monaco                                               |                 0 |
+| Guatemala                                            |                 0 |
+| Guyana                                               |                 0 |
+| Madagascar                                           |                 0 |
+| Mozambique                                           |                 0 |
 | United States                                        |                 0 |
 | Sweden                                               |                 0 |
-| Bahamas                                              |               204 |
+| Bahamas                                              |                 0 |
 | Canada                                               |                 0 |
-| Iran, Islamic Republic of                            |               208 |
-| Djibouti                                             |               188 |
-| Central African Republic                             |               185 |
+| Iran, Islamic Republic of                            |                 0 |
+| Djibouti                                             |                 0 |
+| Central African Republic                             |                 0 |
 | Australia                                            |                 0 |
-| Heard Island and McDonald Islands                    |                31 |
+| Heard Island and McDonald Islands                    |                 0 |
 | Germany                                              |                 0 |
-| Cyprus                                               |               420 |
-| San Marino                                           |               148 |
+| Cyprus                                               |                 0 |
+| San Marino                                           |                 0 |

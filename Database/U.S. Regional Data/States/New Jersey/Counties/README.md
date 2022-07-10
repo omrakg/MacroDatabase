@@ -4,7 +4,7 @@
 | Salem County, NJ      |               147 |
 | Ocean County, NJ      |               147 |
 | Essex County, NJ      |               143 |
-| Cumberland County, NJ |               147 |
+| Cumberland County, NJ |                 0 |
 | Mercer County, NJ     |               147 |
 | Atlantic County, NJ   |               147 |
 | Morris County, NJ     |               143 |

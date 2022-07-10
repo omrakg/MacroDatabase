@@ -115,10 +115,10 @@
 | ETHPCPIPCPPPT       | Consumer Prices: All Items for Ethiopia                                                                                               | 2004-01-01          | 2023-01-01        |
 | ETHTTTIX            | Terms of Trade for Goods for Ethiopia                                                                                                 | 2004-01-01          | 2023-01-01        |
 | EXP7740             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1992-01-01          | 2003-12-01        |
-| EXP7749             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1993-01-01          | 2022-04-01        |
+| EXP7749             | U.S. Exports of Goods by F.A.S. Basis to Ethiopia                                                                                     | 1993-01-01          | 2022-05-01        |
 | FLETHA052SCEN       | Value of Exports to Ethiopia from Florida                                                                                             | 1992-01-01          | 2017-01-01        |
 | FLETHA475SCEN       | Number of Identified Exporters to Ethiopia from Florida                                                                               | 1992-01-01          | 2017-01-01        |
-| FPCPITOTLZGETH      | Inflation, consumer prices for Ethiopia                                                                                               | 1966-01-01          | 2019-01-01        |
+| FPCPITOTLZGETH      | Inflation, consumer prices for Ethiopia                                                                                               | 1966-01-01          | 2021-01-01        |
 | GAETHA052SCEN       | Value of Exports to Ethiopia from Georgia                                                                                             | 1997-01-01          | 2017-01-01        |
 | GAETHA475SCEN       | Number of Identified Exporters to Ethiopia from Georgia                                                                               | 1992-01-01          | 2017-01-01        |
 | HIETHA475SCEN       | Number of Identified Exporters to Ethiopia from Hawaii                                                                                | 2002-01-01          | 2016-01-01        |
@@ -130,7 +130,7 @@
 | ILETHA052SCEN       | Value of Exports to Ethiopia from Illinois                                                                                            | 1992-01-01          | 2017-01-01        |
 | ILETHA475SCEN       | Number of Identified Exporters to Ethiopia from Illinois                                                                              | 1992-01-01          | 2017-01-01        |
 | IMP7740             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1992-01-01          | 2003-12-01        |
-| IMP7749             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1993-01-01          | 2022-04-01        |
+| IMP7749             | U.S. Imports of Goods by Customs Basis from Ethiopia                                                                                  | 1993-01-01          | 2022-05-01        |
 | INETHA052SCEN       | Value of Exports to Ethiopia from Indiana                                                                                             | 1997-01-01          | 2017-01-01        |
 | INETHA475SCEN       | Number of Identified Exporters to Ethiopia from Indiana                                                                               | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2ETH      | Internet users for Ethiopia                                                                                                           | 1990-01-01          | 2020-01-01        |
@@ -147,8 +147,8 @@
 | MEETHA475SCEN       | Number of Identified Exporters to Ethiopia from Maine                                                                                 | 1992-01-01          | 2017-01-01        |
 | MIETHA052SCEN       | Value of Exports to Ethiopia from Michigan                                                                                            | 1992-01-01          | 2017-01-01        |
 | MIETHA475SCEN       | Number of Identified Exporters to Ethiopia from Michigan                                                                              | 1992-01-01          | 2017-01-01        |
-| MKTGDPETA646NWDB    | Gross Domestic Product for Ethiopia                                                                                                   | 1981-01-01          | 2020-01-01        |
-| MKTGNIETA646NWDB    | Gross National Income for Ethiopia                                                                                                    | 1981-01-01          | 2020-01-01        |
+| MKTGDPETA646NWDB    | Gross Domestic Product for Ethiopia                                                                                                   | 1981-01-01          | 2021-01-01        |
+| MKTGNIETA646NWDB    | Gross National Income for Ethiopia                                                                                                    | 1981-01-01          | 2021-01-01        |
 | MNETHA052SCEN       | Value of Exports to Ethiopia from Minnesota                                                                                           | 1997-01-01          | 2016-01-01        |
 | MNETHA475SCEN       | Number of Identified Exporters to Ethiopia from Minnesota                                                                             | 1992-01-01          | 2017-01-01        |
 | MOETHA052SCEN       | Value of Exports to Ethiopia from Missouri                                                                                            | 2005-01-01          | 2017-01-01        |
@@ -173,7 +173,7 @@
 | NVETHA475SCEN       | Number of Identified Exporters to Ethiopia from Nevada                                                                                | 2002-01-01          | 2016-01-01        |
 | NYETHA052SCEN       | Value of Exports to Ethiopia from New York                                                                                            | 2003-01-01          | 2017-01-01        |
 | NYETHA475SCEN       | Number of Identified Exporters to Ethiopia from New York                                                                              | 1992-01-01          | 2017-01-01        |
-| NYGDPPCAPKDETH      | Constant GDP per capita for Ethiopia                                                                                                  | 1981-01-01          | 2020-01-01        |
+| NYGDPPCAPKDETH      | Constant GDP per capita for Ethiopia                                                                                                  | 1981-01-01          | 2021-01-01        |
 | OHETHA052SCEN       | Value of Exports to Ethiopia from Ohio                                                                                                | 1992-01-01          | 2013-01-01        |
 | OHETHA475SCEN       | Number of Identified Exporters to Ethiopia from Ohio                                                                                  | 1992-01-01          | 2017-01-01        |
 | OKETHA052SCEN       | Value of Exports to Ethiopia from Oklahoma                                                                                            | 2006-01-01          | 2017-01-01        |
@@ -182,9 +182,9 @@
 | ORETHA475SCEN       | Number of Identified Exporters to Ethiopia from Oregon                                                                                | 1997-01-01          | 2017-01-01        |
 | PAETHA052SCEN       | Value of Exports to Ethiopia from Pennsylvania                                                                                        | 2002-01-01          | 2017-01-01        |
 | PAETHA475SCEN       | Number of Identified Exporters to Ethiopia from Pennsylvania                                                                          | 1992-01-01          | 2017-01-01        |
-| PCAGDPETA646NWDB    | Gross Domestic Product Per Capita for Ethiopia                                                                                        | 1981-01-01          | 2020-01-01        |
+| PCAGDPETA646NWDB    | Gross Domestic Product Per Capita for Ethiopia                                                                                        | 1981-01-01          | 2021-01-01        |
 | POPTOTET52647NWDB   | Population, Total for Ethiopia                                                                                                        | 1967-01-01          | 2012-01-01        |
-| POPTOTETA647NWDB    | Population, Total for Ethiopia                                                                                                        | 1960-01-01          | 2020-01-01        |
+| POPTOTETA647NWDB    | Population, Total for Ethiopia                                                                                                        | 1960-01-01          | 2021-01-01        |
 | PRETHA475SCEN       | Number of Identified Exporters to Ethiopia from Puerto Rico                                                                           | 2002-01-01          | 2016-01-01        |
 | RIETHA052SCEN       | Value of Exports to Ethiopia from Rhode Island                                                                                        | 2009-01-01          | 2009-01-01        |
 | RIETHA475SCEN       | Number of Identified Exporters to Ethiopia from Rhode Island                                                                          | 2002-01-01          | 2017-01-01        |
@@ -196,7 +196,7 @@
 | SPDYNIMRTINETH      | Infant Mortality Rate for Ethiopia                                                                                                    | 1966-01-01          | 2020-01-01        |
 | SPDYNLE00INETH      | Life Expectancy at Birth, Total for Ethiopia                                                                                          | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINETH      | Fertility Rate, Total for Ethiopia                                                                                                    | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSETH    | Population ages 65 and above for Ethiopia                                                                                             | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSETH    | Population ages 65 and above for Ethiopia                                                                                             | 1960-01-01          | 2021-01-01        |
 | TNETHA052SCEN       | Value of Exports to Ethiopia from Tennessee                                                                                           | 1997-01-01          | 2017-01-01        |
 | TNETHA475SCEN       | Number of Identified Exporters to Ethiopia from Tennessee                                                                             | 1992-01-01          | 2017-01-01        |
 | TXETHA052SCEN       | Value of Exports to Ethiopia from Texas                                                                                               | 1997-01-01          | 2016-01-01        |

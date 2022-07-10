@@ -95,10 +95,10 @@
 | DDSI04CVA156NWDB    | Bank Credit to Bank Deposits for Cape Verde                                                                        | 1976-01-01          | 2020-01-01        |
 | DDSI06CVA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Cape Verde                                                    | 2008-01-01          | 2020-01-01        |
 | DECPVA475SCEN       | Number of Identified Exporters to Cape Verde from Delaware                                                         | 2010-01-01          | 2016-01-01        |
-| EXP7643             | U.S. Exports of Goods by F.A.S. Basis to Cabo Verde                                                                | 1992-01-01          | 2022-04-01        |
+| EXP7643             | U.S. Exports of Goods by F.A.S. Basis to Cabo Verde                                                                | 1992-01-01          | 2022-05-01        |
 | FLCPVA052SCEN       | Value of Exports to Cape Verde from Florida                                                                        | 2002-01-01          | 2016-01-01        |
 | FLCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Florida                                                          | 1997-01-01          | 2016-01-01        |
-| FPCPITOTLZGCPV      | Inflation, consumer prices for Cape Verde                                                                          | 1984-01-01          | 2020-01-01        |
+| FPCPITOTLZGCPV      | Inflation, consumer prices for Cape Verde                                                                          | 1984-01-01          | 2021-01-01        |
 | GACPVA052SCEN       | Value of Exports to Cape Verde from Georgia                                                                        | 2010-01-01          | 2016-01-01        |
 | GACPVA475SCEN       | Number of Identified Exporters to Cape Verde from Georgia                                                          | 2003-01-01          | 2016-01-01        |
 | IACPVA475SCEN       | Number of Identified Exporters to Cape Verde from Iowa                                                             | 2002-01-01          | 2016-01-01        |
@@ -106,7 +106,7 @@
 | IDCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Idaho                                                            | 2005-01-01          | 2016-01-01        |
 | ILCPVA052SCEN       | Value of Exports to Cape Verde from Illinois                                                                       | 2006-01-01          | 2010-01-01        |
 | ILCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Illinois                                                         | 1992-01-01          | 2015-01-01        |
-| IMP7643             | U.S. Imports of Goods by Customs Basis from Cabo Verde                                                             | 1992-01-01          | 2022-04-01        |
+| IMP7643             | U.S. Imports of Goods by Customs Basis from Cabo Verde                                                             | 1992-01-01          | 2022-05-01        |
 | INCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Indiana                                                          | 2009-01-01          | 2012-01-01        |
 | ITNETUSERP2CPV      | Internet users for Cape Verde                                                                                      | 1990-01-01          | 2020-01-01        |
 | KSCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Kansas                                                           | 2003-01-01          | 2009-01-01        |
@@ -119,8 +119,8 @@
 | MECPVA475SCEN       | Number of Identified Exporters to Cape Verde from Maine                                                            | 1997-01-01          | 2011-01-01        |
 | MICPVA052SCEN       | Value of Exports to Cape Verde from Michigan                                                                       | 2015-01-01          | 2015-01-01        |
 | MICPVA475SCEN       | Number of Identified Exporters to Cape Verde from Michigan                                                         | 1997-01-01          | 2016-01-01        |
-| MKTGDPCVA646NWDB    | Gross Domestic Product for Cape Verde                                                                              | 1980-01-01          | 2020-01-01        |
-| MKTGNICVA646NWDB    | Gross National Income for Cape Verde                                                                               | 1980-01-01          | 2020-01-01        |
+| MKTGDPCVA646NWDB    | Gross Domestic Product for Cape Verde                                                                              | 1980-01-01          | 2021-01-01        |
+| MKTGNICVA646NWDB    | Gross National Income for Cape Verde                                                                               | 1980-01-01          | 2021-01-01        |
 | MNCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Minnesota                                                        | 2004-01-01          | 2016-01-01        |
 | MOCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Missouri                                                         | 2005-01-01          | 2016-01-01        |
 | MSCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Mississippi                                                      | 1992-01-01          | 2013-01-01        |
@@ -135,16 +135,16 @@
 | NVCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Nevada                                                           | 2008-01-01          | 2014-01-01        |
 | NYCPVA052SCEN       | Value of Exports to Cape Verde from New York                                                                       | 1992-01-01          | 2016-01-01        |
 | NYCPVA475SCEN       | Number of Identified Exporters to Cape Verde from New York                                                         | 1992-01-01          | 2016-01-01        |
-| NYGDPPCAPKDCPV      | Constant GDP per capita for Cape Verde                                                                             | 1980-01-01          | 2020-01-01        |
+| NYGDPPCAPKDCPV      | Constant GDP per capita for Cape Verde                                                                             | 1980-01-01          | 2021-01-01        |
 | OHCPVA052SCEN       | Value of Exports to Cape Verde from Ohio                                                                           | 2005-01-01          | 2007-01-01        |
 | OHCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Ohio                                                             | 2002-01-01          | 2016-01-01        |
 | OKCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Oklahoma                                                         | 2010-01-01          | 2016-01-01        |
 | ORCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Oregon                                                           | 2006-01-01          | 2010-01-01        |
 | PACPVA052SCEN       | Value of Exports to Cape Verde from Pennsylvania                                                                   | 2006-01-01          | 2010-01-01        |
 | PACPVA475SCEN       | Number of Identified Exporters to Cape Verde from Pennsylvania                                                     | 2003-01-01          | 2016-01-01        |
-| PCAGDPCVA646NWDB    | Gross Domestic Product Per Capita for Cape Verde                                                                   | 1980-01-01          | 2020-01-01        |
+| PCAGDPCVA646NWDB    | Gross Domestic Product Per Capita for Cape Verde                                                                   | 1980-01-01          | 2021-01-01        |
 | POPTOTCV52647NWDB   | Population, Total for Cape Verde                                                                                   | 1967-01-01          | 2012-01-01        |
-| POPTOTCVA647NWDB    | Population, Total for Cape Verde                                                                                   | 1960-01-01          | 2020-01-01        |
+| POPTOTCVA647NWDB    | Population, Total for Cape Verde                                                                                   | 1960-01-01          | 2021-01-01        |
 | RICPVA475SCEN       | Number of Identified Exporters to Cape Verde from Rhode Island                                                     | 2005-01-01          | 2011-01-01        |
 | SCCPVA475SCEN       | Number of Identified Exporters to Cape Verde from South Carolina                                                   | 2009-01-01          | 2016-01-01        |
 | SDCPVA475SCEN       | Number of Identified Exporters to Cape Verde from South Dakota                                                     | 2003-01-01          | 2003-01-01        |
@@ -153,7 +153,7 @@
 | SPDYNIMRTINCPV      | Infant Mortality Rate for Cape Verde                                                                               | 1960-01-01          | 2020-01-01        |
 | SPDYNLE00INCPV      | Life Expectancy at Birth, Total for Cape Verde                                                                     | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINCPV      | Fertility Rate, Total for Cape Verde                                                                               | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSCPV    | Population ages 65 and above for Cape Verde                                                                        | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSCPV    | Population ages 65 and above for Cape Verde                                                                        | 1960-01-01          | 2021-01-01        |
 | TNCPVA052SCEN       | Value of Exports to Cape Verde from Tennessee                                                                      | 2015-01-01          | 2016-01-01        |
 | TNCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Tennessee                                                        | 2004-01-01          | 2016-01-01        |
 | TXCPVA052SCEN       | Value of Exports to Cape Verde from Texas                                                                          | 2005-01-01          | 2016-01-01        |

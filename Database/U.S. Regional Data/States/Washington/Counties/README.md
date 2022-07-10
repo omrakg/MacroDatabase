@@ -6,7 +6,7 @@
 | Clark County, WA        |               147 |
 | Skagit County, WA       |               147 |
 | Benton County, WA       |               147 |
-| Jefferson County, WA    |                90 |
+| Jefferson County, WA    |                 0 |
 | Lewis County, WA        |               147 |
 | Douglas County, WA      |                90 |
 | Walla Walla County, WA  |               145 |
@@ -36,6 +36,6 @@
 | Garfield County, WA     |                87 |
 | Pacific County, WA      |                89 |
 | Thurston County, WA     |               147 |
-| Franklin County, WA     |                 0 |
+| Franklin County, WA     |               147 |
 | Pierce County, WA       |               147 |
 | Island County, WA       |               147 |

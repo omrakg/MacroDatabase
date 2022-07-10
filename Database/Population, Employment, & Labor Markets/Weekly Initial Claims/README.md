@@ -1,25 +1,3 @@
-| id           | title                                                                                    | observation_start   | observation_end   |
-|--------------|------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CC4WSA       | 4-Week Moving Average of Continued Claims (Insured Unemployment)                         | 1967-01-28          | 2022-06-18        |
-| CCNSA        | Continued Claims (Insured Unemployment)                                                  | 1967-01-07          | 2022-06-18        |
-| CCSA         | Continued Claims (Insured Unemployment)                                                  | 1967-01-07          | 2022-06-18        |
-| COVEMP       | Covered Employment                                                                       | 1971-01-02          | 2022-06-11        |
-| IC4WSA       | 4-Week Moving Average of Initial Claims                                                  | 1967-01-28          | 2022-06-25        |
-| ICNSA        | Initial Claims                                                                           | 1967-01-07          | 2022-06-25        |
-| ICSA         | Initial Claims                                                                           | 1967-01-07          | 2022-06-25        |
-| IURNSA       | Insured Unemployment Rate                                                                | 1971-01-02          | 2022-06-18        |
-| IURSA        | Insured Unemployment Rate                                                                | 1971-01-02          | 2022-06-18        |
-| PEUCCCPR     | Pandemic Emergency Unemployment Compensation Continued Claims in Puerto Rico             | 2020-03-28          | 2022-06-04        |
-| PEUCCCVI     | Pandemic Emergency Unemployment Compensation Continued Claims in the U.S. Virgin Islands | 2020-03-28          | 2022-06-04        |
-| PRICCLAIMS   | Continued Claims (Insured Unemployment) in Puerto Rico                                   | 1986-02-08          | 2022-06-18        |
-| PRICEMPLOY   | Covered Employment in Puerto Rico                                                        | 1986-02-08          | 2022-06-18        |
-| PRIICLAIMS   | Initial Claims in Puerto Rico                                                            | 1986-02-15          | 2022-06-25        |
-| PRIINSUREDUR | Insured Unemployment Rate in Puerto Rico                                                 | 1986-02-08          | 2022-06-18        |
-| PUACCPR      | Pandemic Unemployment Assistance Continued Claims in Puerto Rico                         | 2020-03-28          | 2022-06-04        |
-| PUACCVI      | Pandemic Unemployment Assistance Continued Claims in the U.S. Virgin Islands             | 2020-03-28          | 2022-06-04        |
-| PUAICPR      | Pandemic Unemployment Assistance Initial Claims in Puerto Rico                           | 2020-04-04          | 2022-06-18        |
-| PUAICVI      | Pandemic Unemployment Assistance Initial Claims in the U.S. Virgin Islands               | 2020-04-04          | 2022-06-18        |
-| VIRCCLAIMS   | Continued Claims (Insured Unemployment) in the U.S. Virgin Islands                       | 1986-02-08          | 2022-06-18        |
-| VIRCEMPLOY   | Covered Employment in the U.S. Virgin Islands                                            | 1986-02-08          | 2022-06-18        |
-| VIRICLAIMS   | Initial Claims in the U.S. Virgin Islands                                                | 1986-02-15          | 2022-06-25        |
-| VIRINSUREDUR | Insured Unemployment Rate in the U.S. Virgin Islands                                     | 1986-02-08          | 2022-06-18        |
+| Folder       |   Files / Folders |
+|--------------|-------------------|
+| Discontinued |                 0 |

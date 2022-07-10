@@ -24,7 +24,7 @@
 | HORAMSA32580              | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA32580              | Market Hotness: Hotness Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-06-24        |
+| IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-07-01        |
 | IRPD32580                 | Implicit Regional Price Deflator for McAllen-Edinburg-Mission, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483258000000003A     | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT483258000000004      | Unemployed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                      | 1990-01-01          | 2022-05-01        |

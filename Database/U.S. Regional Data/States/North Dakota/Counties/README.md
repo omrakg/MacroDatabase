@@ -42,8 +42,8 @@
 | Williams County, ND      |                90 |
 | Golden Valley County, ND |                88 |
 | Walsh County, ND         |                89 |
-| McKenzie County, ND      |                89 |
-| Stutsman County, ND      |                 0 |
+| McKenzie County, ND      |                 0 |
+| Stutsman County, ND      |                90 |
 | La Moure County, ND      |                88 |
 | Wells County, ND         |                88 |
 | Benson County, ND        |                88 |

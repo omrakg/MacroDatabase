@@ -90,7 +90,7 @@
 | NGMP11260                 | Total Gross Domestic Product for Anchorage, AK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA11260            | Market Hotness: Nielsen Household Rank in Anchorage, AK (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
 | PATENTCBSA111260          | U.S. Granted Utility Patents Originating in Anchorage, AK (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU11260            | Housing Inventory: Pending Listing Count in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2016-11-01        |
+| PENLISCOU11260            | Housing Inventory: Pending Listing Count in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-06-01        |
 | PENLISCOUYY11260          | Housing Inventory: Pending Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2021-12-01        |
 | PRIINCCOU11260            | Housing Inventory: Price Increased Count in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-06-01        |
 | PRIINCCOUMM11260          | Housing Inventory: Price Increased Count Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-06-01        |

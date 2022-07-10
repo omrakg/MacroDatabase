@@ -25,7 +25,7 @@
 | Colorado             |                 6 |
 | Mississippi          |                 5 |
 | West Virginia        |                 7 |
-| Virgin Islands       |                 0 |
+| Virgin Islands       |               171 |
 | Alabama              |                 5 |
 | New Jersey           |                 8 |
 | Minnesota            |                 6 |

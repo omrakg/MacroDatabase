@@ -56,7 +56,7 @@
 | HORAMSA17820              | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA17820            | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2018-08-01          | 2022-06-01        |
 | HOSCMSA17820              | Market Hotness: Hotness Score in Colorado Springs, CO (CBSA)                                                                      | 2017-08-01          | 2022-06-01        |
-| IHLCHG17820               | Job Postings on Indeed in Colorado Springs, CO (MSA)                                                                              | 2020-02-01          | 2022-06-24        |
+| IHLCHG17820               | Job Postings on Indeed in Colorado Springs, CO (MSA)                                                                              | 2020-02-01          | 2022-07-01        |
 | IRPD17820                 | Implicit Regional Price Deflator for Colorado Springs, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT081782000000003A     | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
 | LAUMT081782000000004      | Unemployed Persons in Colorado Springs, CO (MSA)                                                                                  | 1990-01-01          | 2022-05-01        |

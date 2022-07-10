@@ -27,7 +27,7 @@
 | Saline County, IL      |                90 |
 | Vermilion County, IL   |               147 |
 | Henderson County, IL   |                88 |
-| Kane County, IL        |               147 |
+| Kane County, IL        |                 0 |
 | Montgomery County, IL  |                90 |
 | Adams County, IL       |               147 |
 | Pope County, IL        |                88 |
@@ -87,7 +87,7 @@
 | Stephenson County, IL  |               146 |
 | Cass County, IL        |                90 |
 | Stark County, IL       |                90 |
-| Washington County, IL  |                89 |
+| Washington County, IL  |                 0 |
 | Edgar County, IL       |                90 |
 | Marion County, IL      |                90 |
 | Christian County, IL   |                90 |

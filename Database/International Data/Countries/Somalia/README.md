@@ -14,7 +14,7 @@
 | DDAI06SOA156NWDB  | People 15 Years and Over Saving at a Financial Institution in the Past Year for Somalia      | 2011-01-01          | 2014-01-01        |
 | DDAI07SOA156NWDB  | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Somalia | 2011-01-01          | 2014-01-01        |
 | DDOI11SOA156NWDB  | Remittance Inflows to GDP for Somalia                                                        | 1979-01-01          | 2020-01-01        |
-| EXP7700           | U.S. Exports of Goods by F.A.S. Basis to Somalia                                             | 1992-01-01          | 2022-04-01        |
+| EXP7700           | U.S. Exports of Goods by F.A.S. Basis to Somalia                                             | 1992-01-01          | 2022-05-01        |
 | FLSOMA052SCEN     | Value of Exports to Somalia from Florida                                                     | 2003-01-01          | 2016-01-01        |
 | FLSOMA475SCEN     | Number of Identified Exporters to Somalia from Florida                                       | 1997-01-01          | 2016-01-01        |
 | GASOMA475SCEN     | Number of Identified Exporters to Somalia from Georgia                                       | 2005-01-01          | 2017-01-01        |
@@ -23,7 +23,7 @@
 | IDSOMA475SCEN     | Number of Identified Exporters to Somalia from Idaho                                         | 2005-01-01          | 2009-01-01        |
 | ILSOMA052SCEN     | Value of Exports to Somalia from Illinois                                                    | 2006-01-01          | 2016-01-01        |
 | ILSOMA475SCEN     | Number of Identified Exporters to Somalia from Illinois                                      | 1997-01-01          | 2017-01-01        |
-| IMP7700           | U.S. Imports of Goods by Customs Basis from Somalia                                          | 1992-01-01          | 2022-04-01        |
+| IMP7700           | U.S. Imports of Goods by Customs Basis from Somalia                                          | 1992-01-01          | 2022-05-01        |
 | INSOMA475SCEN     | Number of Identified Exporters to Somalia from Indiana                                       | 2007-01-01          | 2015-01-01        |
 | ITNETUSERP2SOM    | Internet users for Somalia                                                                   | 1990-01-01          | 2017-01-01        |
 | KSSOMA475SCEN     | Number of Identified Exporters to Somalia from Kansas                                        | 2002-01-01          | 2012-01-01        |
@@ -34,8 +34,8 @@
 | MDSOMA475SCEN     | Number of Identified Exporters to Somalia from Maryland                                      | 2002-01-01          | 2016-01-01        |
 | MESOMA475SCEN     | Number of Identified Exporters to Somalia from Maine                                         | 2005-01-01          | 2016-01-01        |
 | MISOMA475SCEN     | Number of Identified Exporters to Somalia from Michigan                                      | 2006-01-01          | 2017-01-01        |
-| MKTGDPSOA646NWDB  | Gross Domestic Product for Somalia                                                           | 1960-01-01          | 2020-01-01        |
-| MKTGNISOA646NWDB  | Gross National Income for Somalia                                                            | 1960-01-01          | 2020-01-01        |
+| MKTGDPSOA646NWDB  | Gross Domestic Product for Somalia                                                           | 1960-01-01          | 2021-01-01        |
+| MKTGNISOA646NWDB  | Gross National Income for Somalia                                                            | 1960-01-01          | 2021-01-01        |
 | MNSOMA052SCEN     | Value of Exports to Somalia from Minnesota                                                   | 2005-01-01          | 2017-01-01        |
 | MNSOMA475SCEN     | Number of Identified Exporters to Somalia from Minnesota                                     | 2002-01-01          | 2017-01-01        |
 | MOSOMA475SCEN     | Number of Identified Exporters to Somalia from Missouri                                      | 2002-01-01          | 2015-01-01        |
@@ -56,9 +56,9 @@
 | ORSOMA475SCEN     | Number of Identified Exporters to Somalia from Oregon                                        | 2002-01-01          | 2015-01-01        |
 | PASOMA052SCEN     | Value of Exports to Somalia from Pennsylvania                                                | 2009-01-01          | 2017-01-01        |
 | PASOMA475SCEN     | Number of Identified Exporters to Somalia from Pennsylvania                                  | 1997-01-01          | 2017-01-01        |
-| PCAGDPSOA646NWDB  | Gross Domestic Product Per Capita for Somalia                                                | 1960-01-01          | 2020-01-01        |
+| PCAGDPSOA646NWDB  | Gross Domestic Product Per Capita for Somalia                                                | 1960-01-01          | 2021-01-01        |
 | POPTOTSO52647NWDB | Population, Total for Somalia                                                                | 1967-01-01          | 2012-01-01        |
-| POPTOTSOA647NWDB  | Population, Total for Somalia                                                                | 1960-01-01          | 2020-01-01        |
+| POPTOTSOA647NWDB  | Population, Total for Somalia                                                                | 1960-01-01          | 2021-01-01        |
 | PRSOMA475SCEN     | Number of Identified Exporters to Somalia from Puerto Rico                                   | 2002-01-01          | 2004-01-01        |
 | RISOMA475SCEN     | Number of Identified Exporters to Somalia from Rhode Island                                  | 2005-01-01          | 2017-01-01        |
 | SCSOMA475SCEN     | Number of Identified Exporters to Somalia from South Carolina                                | 2003-01-01          | 2015-01-01        |
@@ -66,7 +66,7 @@
 | SPDYNIMRTINSOM    | Infant Mortality Rate for Somalia                                                            | 1984-01-01          | 2020-01-01        |
 | SPDYNLE00INSOM    | Life Expectancy at Birth, Total for Somalia                                                  | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINSOM    | Fertility Rate, Total for Somalia                                                            | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSSOM  | Population ages 65 and above for Somalia                                                     | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSSOM  | Population ages 65 and above for Somalia                                                     | 1960-01-01          | 2021-01-01        |
 | TNSOMA052SCEN     | Value of Exports to Somalia from Tennessee                                                   | 2013-01-01          | 2015-01-01        |
 | TNSOMA475SCEN     | Number of Identified Exporters to Somalia from Tennessee                                     | 1992-01-01          | 2016-01-01        |
 | TXSOMA052SCEN     | Value of Exports to Somalia from Texas                                                       | 2015-01-01          | 2017-01-01        |

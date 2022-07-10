@@ -36,10 +36,10 @@
 | DDOI12SBA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Solomon Islands                                                           | 1983-01-01          | 2016-01-01        |
 | DDSI04SBA156NWDB  | Bank Credit to Bank Deposits for Solomon Islands                                                                                        | 1978-01-01          | 2020-01-01        |
 | DDSI06SBA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Solomon Islands                                                                    | 2003-01-01          | 2006-01-01        |
-| EXP6223           | U.S. Exports of Goods by F.A.S. Basis to Solomon Islands                                                                                | 1992-01-01          | 2022-04-01        |
+| EXP6223           | U.S. Exports of Goods by F.A.S. Basis to Solomon Islands                                                                                | 1992-01-01          | 2022-05-01        |
 | FLSLBA052SCEN     | Value of Exports to Solomon Islands from Florida                                                                                        | 2004-01-01          | 2017-01-01        |
 | FLSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Florida                                                                          | 1997-01-01          | 2017-01-01        |
-| FPCPITOTLZGSLB    | Inflation, consumer prices for the Solomon Islands                                                                                      | 1972-01-01          | 2020-01-01        |
+| FPCPITOTLZGSLB    | Inflation, consumer prices for the Solomon Islands                                                                                      | 1972-01-01          | 2021-01-01        |
 | GASLBA052SCEN     | Value of Exports to Solomon Islands from Georgia                                                                                        | 2015-01-01          | 2017-01-01        |
 | GASLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Georgia                                                                          | 1992-01-01          | 2017-01-01        |
 | HISLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Hawaii                                                                           | 2011-01-01          | 2013-01-01        |
@@ -47,7 +47,7 @@
 | IDSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Idaho                                                                            | 2008-01-01          | 2013-01-01        |
 | ILSLBA052SCEN     | Value of Exports to Solomon Islands from Illinois                                                                                       | 2011-01-01          | 2013-01-01        |
 | ILSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Illinois                                                                         | 1997-01-01          | 2016-01-01        |
-| IMP6223           | U.S. Imports of Goods by Customs Basis from Solomon Islands                                                                             | 1992-01-01          | 2022-04-01        |
+| IMP6223           | U.S. Imports of Goods by Customs Basis from Solomon Islands                                                                             | 1992-01-01          | 2022-05-01        |
 | INSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Indiana                                                                          | 2006-01-01          | 2014-01-01        |
 | ITNETUSERP2SLB    | Internet users for the Solomon Islands                                                                                                  | 1990-01-01          | 2017-01-01        |
 | KSSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Kansas                                                                           | 2011-01-01          | 2013-01-01        |
@@ -58,8 +58,8 @@
 | MDSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Maryland                                                                         | 1997-01-01          | 2015-01-01        |
 | MESLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Maine                                                                            | 1997-01-01          | 2016-01-01        |
 | MISLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Michigan                                                                         | 2005-01-01          | 2016-01-01        |
-| MKTGDPSBA646NWDB  | Gross Domestic Product for Solomon Islands                                                                                              | 1967-01-01          | 2020-01-01        |
-| MKTGNISBA646NWDB  | Gross National Income for Solomon Islands                                                                                               | 1972-01-01          | 2020-01-01        |
+| MKTGDPSBA646NWDB  | Gross Domestic Product for Solomon Islands                                                                                              | 1967-01-01          | 2021-01-01        |
+| MKTGNISBA646NWDB  | Gross National Income for Solomon Islands                                                                                               | 1972-01-01          | 2021-01-01        |
 | MNSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Minnesota                                                                        | 1997-01-01          | 2016-01-01        |
 | MOSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Missouri                                                                         | 1992-01-01          | 2016-01-01        |
 | MSSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Mississippi                                                                      | 1992-01-01          | 2002-01-01        |
@@ -69,7 +69,7 @@
 | NJSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from New Jersey                                                                       | 1992-01-01          | 2016-01-01        |
 | NMSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from New Mexico                                                                       | 2010-01-01          | 2010-01-01        |
 | NVSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Nevada                                                                           | 1997-01-01          | 2015-01-01        |
-| NYGDPPCAPKDSLB    | Constant GDP per capita for the Solomon Islands                                                                                         | 1980-01-01          | 2020-01-01        |
+| NYGDPPCAPKDSLB    | Constant GDP per capita for the Solomon Islands                                                                                         | 1980-01-01          | 2021-01-01        |
 | NYSLBA052SCEN     | Value of Exports to Solomon Islands from New York                                                                                       | 2006-01-01          | 2016-01-01        |
 | NYSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from New York                                                                         | 1992-01-01          | 2017-01-01        |
 | OHSLBA052SCEN     | Value of Exports to Solomon Islands from Ohio                                                                                           | 2012-01-01          | 2012-01-01        |
@@ -77,9 +77,9 @@
 | OKSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Oklahoma                                                                         | 2006-01-01          | 2006-01-01        |
 | ORSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Oregon                                                                           | 1992-01-01          | 2016-01-01        |
 | PASLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Pennsylvania                                                                     | 1997-01-01          | 2017-01-01        |
-| PCAGDPSBA646NWDB  | Gross Domestic Product Per Capita for Solomon Islands                                                                                   | 1967-01-01          | 2020-01-01        |
+| PCAGDPSBA646NWDB  | Gross Domestic Product Per Capita for Solomon Islands                                                                                   | 1967-01-01          | 2021-01-01        |
 | POPTOTSB52647NWDB | Population, Total for Solomon Islands                                                                                                   | 1967-01-01          | 2012-01-01        |
-| POPTOTSBA647NWDB  | Population, Total for Solomon Islands                                                                                                   | 1960-01-01          | 2020-01-01        |
+| POPTOTSBA647NWDB  | Population, Total for Solomon Islands                                                                                                   | 1960-01-01          | 2021-01-01        |
 | PRSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Puerto Rico                                                                      | 1997-01-01          | 2002-01-01        |
 | RISLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Rhode Island                                                                     | 2007-01-01          | 2012-01-01        |
 | SCSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from South Carolina                                                                   | 1997-01-01          | 2009-01-01        |
@@ -154,7 +154,7 @@
 | SPDYNIMRTINSLB    | Infant Mortality Rate for the Solomon Islands                                                                                           | 1960-01-01          | 2020-01-01        |
 | SPDYNLE00INSLB    | Life Expectancy at Birth, Total for the Solomon Islands                                                                                 | 1960-01-01          | 2020-01-01        |
 | SPDYNTFRTINSLB    | Fertility Rate, Total for the Solomon Islands                                                                                           | 1960-01-01          | 2020-01-01        |
-| SPPOP65UPTOZSSLB  | Population ages 65 and above for the Solomon Islands                                                                                    | 1960-01-01          | 2020-01-01        |
+| SPPOP65UPTOZSSLB  | Population ages 65 and above for the Solomon Islands                                                                                    | 1960-01-01          | 2021-01-01        |
 | TNSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Tennessee                                                                        | 2012-01-01          | 2016-01-01        |
 | TXSLBA052SCEN     | Value of Exports to Solomon Islands from Texas                                                                                          | 2009-01-01          | 2017-01-01        |
 | TXSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Texas                                                                            | 1997-01-01          | 2017-01-01        |

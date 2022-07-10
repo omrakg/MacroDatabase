@@ -24,7 +24,7 @@
 | HORAMSA29540              | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA29540              | Market Hotness: Hotness Score in Lancaster, PA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-06-24        |
+| IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-07-01        |
 | IRPD29540                 | Implicit Regional Price Deflator for Lancaster, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LACPOP                    | Resident Population in Lancaster, PA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LANC542EDUH               | All Employees: Education and Health Services in Lancaster, PA (MSA)                                            | 1990-01-01          | 2022-05-01        |
