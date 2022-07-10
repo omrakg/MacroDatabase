@@ -1,7 +1,7 @@
 {
   "id": "A794RX0Q048SBEA",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Real personal consumption expenditures per capita",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-29 07:53:17-05",
-  "popularity": 47,
-  "group_popularity": 47,
+  "popularity": 44,
+  "group_popularity": 44,
   "notes": "BEA Account Code: A794RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

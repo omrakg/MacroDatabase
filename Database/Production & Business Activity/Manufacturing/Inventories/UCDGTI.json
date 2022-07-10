@@ -1,18 +1,18 @@
 {
   "id": "UCDGTI",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Manufacturers' Total Inventories: Consumer Durable Goods",
   "observation_start": "1992-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly, End of Period",
   "frequency_short": "M",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-02 09:03:46-05",
-  "popularity": 6,
+  "last_updated": "2022-07-05 09:03:05-05",
+  "popularity": 4,
   "group_popularity": 6,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

@@ -1,7 +1,7 @@
 {
   "id": "M04002GBM523NNBR",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Wheat Prices for Great Britain",
   "observation_start": "1845-09-01",
   "observation_end": "1934-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:49:02-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Figures Were Computed By NBER By Converting Pounds, Shillings And Pence To Shillings And Decimal Of Shilling. Where Other Units Of Measure Were Given, They Were Converted To Quarters. The London Gazette Quoted Average Daily Prices For The Last Week In The Month Taken. Last Week Considered Up To And Including The Third Of The Following Month. For 1920, In Cases Where The Exact Quotation Ceased To Be Given During The War, The Nearest Available Quotation Was Used. Beginning In January, 1921, Series Is Called End Of Month. In 1923, Data Were Given In Hundredweight And Were Converted To Quarters By Multiplying By 4.5, The Number Of Hundredweight In One Quarter. Beginning In 1930, Series Is Called \"Wholesale Price Of Commodities.\" Source: The Economist\n\nThis NBER data series m04002 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04002"
 }

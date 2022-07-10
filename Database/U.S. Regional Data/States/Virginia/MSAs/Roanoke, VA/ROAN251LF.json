@@ -1,7 +1,7 @@
 {
   "id": "ROAN251LF",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Civilian Labor Force in Roanoke, VA (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SSA",
   "last_updated": "2022-06-29 13:33:06-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

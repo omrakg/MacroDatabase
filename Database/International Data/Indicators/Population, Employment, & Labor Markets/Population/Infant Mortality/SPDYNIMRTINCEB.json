@@ -1,7 +1,7 @@
 {
   "id": "SPDYNIMRTINCEB",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Infant Mortality Rate for Central Europe and the Baltics",
   "observation_start": "1990-01-01",
   "observation_end": "2020-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Number per 1,000 Live Births",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-03 14:05:12-05",
+  "last_updated": "2022-07-05 14:32:47-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.\n\nNations that are included in this data series are listed at https://datahelpdesk.worldbank.org/knowledgebase/articles/906519\n\nSource Indicator: SP.DYN.IMRT.IN"

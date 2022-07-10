@@ -1,7 +1,7 @@
 {
   "id": "IPUDN2361W200000000",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Employment for Construction: Residential Building Construction (NAICS 2361) in the United States",
   "observation_start": "1987-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-02 11:32:02-05",
-  "popularity": 9,
-  "group_popularity": 11,
+  "popularity": 5,
+  "group_popularity": 8,
   "notes": "Employment is the total number of wage and salary workers, unincorporated self-employed workers, and unpaid family workers working within business establishments. An individual who works multiple jobs at separate establishments would have each job included in the number of employees."
 }

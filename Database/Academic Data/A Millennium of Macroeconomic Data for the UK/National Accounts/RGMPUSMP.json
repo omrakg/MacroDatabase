@@ -1,7 +1,7 @@
 {
   "id": "RGMPUSMP",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Total Real Gross Domestic Product for United States Metropolitan Portion",
   "observation_start": "2001-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-08 08:35:05-06",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "The All industry total includes all Private industries and Government.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
 }

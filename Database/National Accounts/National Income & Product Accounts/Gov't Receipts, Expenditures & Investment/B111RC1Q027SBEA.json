@@ -1,7 +1,7 @@
 {
   "id": "B111RC1Q027SBEA",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "State and local government current receipts: Interest payments",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-29 07:55:15-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B111RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

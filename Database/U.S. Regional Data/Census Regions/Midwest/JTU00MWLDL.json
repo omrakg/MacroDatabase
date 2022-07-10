@@ -1,17 +1,17 @@
 {
   "id": "JTU00MWLDL",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Layoffs and Discharges: Total Nonfarm in Midwest Census Region",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Level in Thousands",
   "units_short": "Level in Thous.",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-01 09:12:01-05",
+  "last_updated": "2022-07-06 13:16:17-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 3
 }

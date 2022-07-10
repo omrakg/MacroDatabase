@@ -1,7 +1,7 @@
 {
   "id": "M04045US35620M238NNBR",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Retail Price of Anthracite Coal for New York, NY",
   "observation_start": "1920-06-01",
   "observation_end": "1944-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:21-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "Prices For 1937-October 1941 Include 2% Sales Tax, And 1% Thereafter. There Is Insufficient Data For 08/1922 And 12/1925-02/1926; No Quotations Have Been Made For These Months. Source: Bls Bulletin Nos. 300, 315, 334, 396, 418, 445, 464, 495, And From\"Retail Prices\" (Monthly) Through 1941. For The Years After 1941, Data Are From Bls Mimeograph Release: \"Retail Prices Of Fuel By Cities\" (Monthly).\n\nThis NBER data series m04045 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04045"
 }

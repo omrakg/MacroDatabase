@@ -1,7 +1,7 @@
 {
   "id": "RETAILNS",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Retail Sales (DISCONTINUED)",
   "observation_start": "1967-01-01",
   "observation_end": "2001-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2005-09-30 01:08:59-05",
   "popularity": 1,
-  "group_popularity": 10,
+  "group_popularity": 9,
   "notes": "The U.S. Census Bureau maintained time series of monthly sales and end-of-month inventory estimates of retailers based on the Standard Industrial Classification (SIC) system. The SIC-based time series were discontinued as the North American Industry Classification System (NAICS) time series were newly introduced.\nhttps://census.gov/retail/mrts/mrtshist.html"
 }

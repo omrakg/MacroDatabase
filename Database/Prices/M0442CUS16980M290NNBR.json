@@ -1,7 +1,7 @@
 {
   "id": "M0442CUS16980M290NNBR",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Wholesale Price of Steel Scrap, Mixed Steel for Chicago, IL",
   "observation_start": "1889-10-01",
   "observation_end": "1893-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:55:03-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1873-1890 (2)--Original Data, 1890-1892; (3)--Original Data, 1889-1894; (4)--Original Data, 1894-1958. Prices Were Quoted Only Irregularly Prior To October, 1889. The Prices Given Here Are Averages Of Weekly Quotations. In Cases Where The Price Ranges Are Given, The Averages Of Lows Are Given. Weeks Ending On The 1St, 2Nd, Or 3Rd Of A Month Are Included With The Preceding Month (This Means Iron Age Issues Up To The 5Th). Source: Iron Age, Weekly Issues\n\nThis NBER data series m04142c appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04142c"
 }

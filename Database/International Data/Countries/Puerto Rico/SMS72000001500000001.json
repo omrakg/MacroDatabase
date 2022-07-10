@@ -1,7 +1,7 @@
 {
   "id": "SMS72000001500000001",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "All Employees: Mining, Logging, and Construction in Puerto Rico",
   "observation_start": "2001-01-01",
   "observation_end": "2022-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-18 03:04:31-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics."
 }

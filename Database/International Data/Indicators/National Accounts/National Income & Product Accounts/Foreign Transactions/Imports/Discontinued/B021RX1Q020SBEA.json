@@ -1,7 +1,7 @@
 {
   "id": "B021RX1Q020SBEA",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Real imports of goods and services (DISCONTINUED)",
   "observation_start": "1947-01-01",
   "observation_end": "2015-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2015-08-05 13:31:07-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 4,
   "notes": "BEA Account Code: B021RX1\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

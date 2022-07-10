@@ -1,7 +1,7 @@
 {
   "id": "W707MC1A027NBEA",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Federal government expenditures: Netting and grossing differences: Current surplus of government enterprises",
   "observation_start": "1952-01-01",
   "observation_end": "2020-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-02 11:23:16-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: W707MC1\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

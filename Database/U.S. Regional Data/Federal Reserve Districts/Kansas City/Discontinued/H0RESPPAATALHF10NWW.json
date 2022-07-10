@@ -1,7 +1,7 @@
 {
   "id": "H0RESPPAATALHF10NWW",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Assets: Net Portfolio Holdings of TALF LLC: Net Portfolio Holdings of TALF LLC: District 10: Kansas City: Wednesday Level (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2014-11-05",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-08-28 09:11:46-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

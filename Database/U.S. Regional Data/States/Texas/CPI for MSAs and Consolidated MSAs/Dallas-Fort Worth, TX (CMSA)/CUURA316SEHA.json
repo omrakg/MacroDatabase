@@ -1,7 +1,7 @@
 {
   "id": "CUURA316SEHA",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Dallas-Fort Worth-Arlington, TX (CBSA)",
   "observation_start": "1963-11-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-10 07:40:11-05",
-  "popularity": 20,
-  "group_popularity": 21
+  "popularity": 15,
+  "group_popularity": 16
 }

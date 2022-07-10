@@ -1,7 +1,7 @@
 {
   "id": "DHUTRS2Q224SBEA",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Contributions to percent change in gross domestic purchases: Personal consumption expenditures: Services: Household consumption expenditures: Housing and utilities",
   "observation_start": "1947-04-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-04-28 07:56:01-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: DHUTRS\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

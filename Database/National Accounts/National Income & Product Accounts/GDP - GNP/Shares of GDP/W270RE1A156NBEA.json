@@ -1,7 +1,7 @@
 {
   "id": "W270RE1A156NBEA",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Shares of gross domestic income: Compensation of employees, paid: Wage and salary accruals: Disbursements: to persons",
   "observation_start": "1948-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:33:02-05",
-  "popularity": 38,
-  "group_popularity": 38,
+  "popularity": 37,
+  "group_popularity": 37,
   "notes": "BEA Account Code: W270RE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

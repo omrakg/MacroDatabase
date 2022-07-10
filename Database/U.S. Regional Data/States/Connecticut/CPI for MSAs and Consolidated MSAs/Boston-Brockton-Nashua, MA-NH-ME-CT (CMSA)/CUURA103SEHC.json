@@ -1,7 +1,7 @@
 {
   "id": "CUURA103SEHC",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Boston-Cambridge-Newton, MA-NH (CBSA)",
   "observation_start": "1982-11-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-10 07:39:35-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 4,
+  "group_popularity": 4
 }

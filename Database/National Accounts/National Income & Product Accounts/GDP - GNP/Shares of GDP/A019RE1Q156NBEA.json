@@ -1,7 +1,7 @@
 {
   "id": "A019RE1Q156NBEA",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Shares of gross domestic product: Net exports of goods and services",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-29 07:54:13-05",
   "popularity": 19,
-  "group_popularity": 34,
+  "group_popularity": 31,
   "notes": "BEA Account Code: A019RE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

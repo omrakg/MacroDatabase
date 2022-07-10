@@ -1,7 +1,7 @@
 {
   "id": "NC000352Q",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Exports of Goods and Services",
   "observation_start": "2002-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-29 07:54:21-05",
   "popularity": 5,
-  "group_popularity": 52,
+  "group_popularity": 50,
   "notes": "BEA Account Code: NC000352"
 }

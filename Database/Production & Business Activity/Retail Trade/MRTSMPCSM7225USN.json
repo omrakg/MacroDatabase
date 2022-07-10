@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCSM7225USN",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Retail Sales: Restaurants and Other Eating Places",
   "observation_start": "1992-02-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-15 09:08:05-05",
   "popularity": 5,
-  "group_popularity": 43
+  "group_popularity": 44
 }

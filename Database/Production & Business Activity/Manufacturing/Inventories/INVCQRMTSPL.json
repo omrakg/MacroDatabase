@@ -1,7 +1,7 @@
 {
   "id": "INVCQRMTSPL",
-  "realtime_start": "2022-07-03",
-  "realtime_end": "2022-07-03",
+  "realtime_start": "2022-07-10",
+  "realtime_end": "2022-07-10",
   "title": "Real Manufacturing and Trade Inventories",
   "observation_start": "1967-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-30 07:49:27-05",
   "popularity": 1,
-  "group_popularity": 28,
+  "group_popularity": 30,
   "notes": "Real Manufacturing and Trade Inventories (INVCQRMTSPL) was first constructed by the Federal Reserve Bank of St. Louis in June 2015. It is calculated using Real Manufacturing and Trade Inventories (INVHQRMT) (https://fred.stlouisfed.org/series/INVHQRMT) and Real Manufacturing and Trade Inventories (INVCQRMT) (https://fred.stlouisfed.org/series/INVCQRMT).\n\nBefore January 1997\nlag1(INVHQRMT) = one observation earlier than current time period observation\nINVHQRMT _PC = the growth rate of INVHQRMT\nlead1(INVCQRMTSPL) = one observation later than current time period observation\nINVHQRMT _PC = [INVHQRMT /lag1(INVHQRMT) \u20131]\nINVCQRMTSPL= lead1(INVCQRMTSPL)/(1+ INVHQRMT _PC)\n\nAfter December 1996\nINVCQRMTSPL= INVCQRMT"
 }
