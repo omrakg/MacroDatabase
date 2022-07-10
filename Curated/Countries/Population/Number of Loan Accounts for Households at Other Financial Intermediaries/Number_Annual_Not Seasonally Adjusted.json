@@ -1,8 +1,8 @@
 {
   "Zambia": {
     "id": "ZMBFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Zambia",
     "observation_start": "2011-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "Bangladesh": {
     "id": "BGDFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Bangladesh",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -39,8 +39,8 @@
   },
   "Bosnia and Herzegovina": {
     "id": "BIHFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Bosnia and Herzegovina",
     "observation_start": "2007-01-01",
     "observation_end": "2017-01-01",
@@ -58,8 +58,8 @@
   },
   "Botswana": {
     "id": "BWAFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Botswana",
     "observation_start": "2012-01-01",
     "observation_end": "2016-01-01",
@@ -77,8 +77,8 @@
   },
   "Bulgaria": {
     "id": "BGRFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Bulgaria",
     "observation_start": "2007-01-01",
     "observation_end": "2017-01-01",
@@ -96,8 +96,8 @@
   },
   "Cameroon": {
     "id": "CMRFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Cameroon",
     "observation_start": "2014-01-01",
     "observation_end": "2014-01-01",
@@ -115,8 +115,8 @@
   },
   "Fiji": {
     "id": "FJIFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Fiji",
     "observation_start": "2004-01-01",
     "observation_end": "2013-01-01",
@@ -134,8 +134,8 @@
   },
   "Hungary": {
     "id": "HUNFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Hungary",
     "observation_start": "2008-01-01",
     "observation_end": "2014-01-01",
@@ -153,8 +153,8 @@
   },
   "Kosovo": {
     "id": "KOSFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Kosovo",
     "observation_start": "2004-01-01",
     "observation_end": "2016-01-01",
@@ -172,8 +172,8 @@
   },
   "Kuwait": {
     "id": "KWTFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Kuwait",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -189,29 +189,10 @@
     "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
     "path": "Database/International Data/Countries/Kuwait"
   },
-  "Madagascar": {
-    "id": "MDGFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
-    "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Madagascar",
-    "observation_start": "2009-01-01",
-    "observation_end": "2017-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Number",
-    "units_short": "Number",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2018-06-26 15:26:59-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
-    "path": "Database/International Data/Countries/Madagascar"
-  },
   "Myanmar": {
     "id": "MMRFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Myanmar",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -229,8 +210,8 @@
   },
   "Peru": {
     "id": "PERFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Peru",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -248,8 +229,8 @@
   },
   "Romania": {
     "id": "ROUFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Romania",
     "observation_start": "2009-01-01",
     "observation_end": "2017-01-01",
@@ -265,12 +246,12 @@
     "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
     "path": "Database/International Data/Countries/Romania"
   },
-  "Ukraine": {
-    "id": "UKRFCNMHNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
-    "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Ukraine",
-    "observation_start": "2004-01-01",
+  "Samoa": {
+    "id": "WSMFCNMHNUM",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
+    "title": "Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Samoa",
+    "observation_start": "2011-01-01",
     "observation_end": "2017-01-01",
     "frequency": "Annual",
     "frequency_short": "A",
@@ -278,10 +259,10 @@
     "units_short": "Number",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2018-06-26 15:23:03-05",
+    "last_updated": "2018-12-26 13:03:02-06",
     "popularity": 1,
     "group_popularity": 1,
     "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
-    "path": "Database/International Data/Countries/Ukraine"
+    "path": "Database/International Data/Countries/Samoa"
   }
 }

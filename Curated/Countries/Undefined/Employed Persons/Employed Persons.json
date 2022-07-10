@@ -2,8 +2,8 @@
   "Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "LASST720000000000005",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Employed Persons in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2022-05-01",
@@ -23,8 +23,8 @@
   "Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "LAUST720000000000005",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Employed Persons in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2022-05-01",
@@ -44,8 +44,8 @@
   "Persons_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "LAUST720000000000005A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Employed Persons in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2021-01-01",

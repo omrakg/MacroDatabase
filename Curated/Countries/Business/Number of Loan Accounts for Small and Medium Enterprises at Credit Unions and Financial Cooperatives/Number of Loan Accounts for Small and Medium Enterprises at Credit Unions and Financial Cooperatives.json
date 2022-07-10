@@ -1,8 +1,8 @@
 {
   "Latvia": {
     "id": "LVAFCNODUSNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Small and Medium Enterprises at Credit Unions and Financial Cooperatives for Latvia",
     "observation_start": "2018-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLFCNODUSNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Small and Medium Enterprises at Credit Unions and Financial Cooperatives for Chile",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "Colombia": {
     "id": "COLFCNODUSNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Small and Medium Enterprises at Credit Unions and Financial Cooperatives for Colombia",
     "observation_start": "2004-01-01",
     "observation_end": "2020-01-01",
@@ -58,8 +58,8 @@
   },
   "Guinea": {
     "id": "GINFCNODUSNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Small and Medium Enterprises at Credit Unions and Financial Cooperatives for Guinea",
     "observation_start": "2004-01-01",
     "observation_end": "2020-01-01",
@@ -77,8 +77,8 @@
   },
   "Hungary": {
     "id": "HUNFCNODUSNUM",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Use of Financial Services: Number of Loan Accounts for Small and Medium Enterprises at Credit Unions and Financial Cooperatives for Hungary",
     "observation_start": "2008-01-01",
     "observation_end": "2020-01-01",

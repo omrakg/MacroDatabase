@@ -2,8 +2,8 @@
   "Millions of Chained 2012 Dollars_Annual_Not Seasonally Adjusted": {
     "Georgia": {
       "id": "GAMANRGSP",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Real Gross Domestic Product: Manufacturing (NAICS 31-33) in Georgia",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Millions of Chained 2012 Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Georgia": {
       "id": "GAMANRQGSP",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Real Gross Domestic Product: Manufacturing (NAICS 31-33) in Georgia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",

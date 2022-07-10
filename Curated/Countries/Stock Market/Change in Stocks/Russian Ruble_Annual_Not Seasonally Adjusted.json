@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "RUSCINSADSMEI",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Change in Stocks in Russian Federation",
     "observation_start": "2003-01-01",
     "observation_end": "2020-01-01",
@@ -14,14 +14,14 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 19:50:24-06",
     "popularity": 1,
-    "group_popularity": 5,
+    "group_popularity": 3,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Russian Federation"
   },
   "Chile": {
     "id": "CHLCINSQDSMEI",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Change in Stocks in Chile",
     "observation_start": "1996-01-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "Czech Republic": {
     "id": "CZECINSQDSMEI",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Change in Stocks in Czech Republic",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Hungary": {
     "id": "HUNCINSQDSMEI",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Change in Stocks in Hungary",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -77,8 +77,8 @@
   },
   "Iceland": {
     "id": "ISLCINSQDSMEI",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Change in Stocks in Iceland",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",

@@ -1,8 +1,8 @@
 {
   "Great Britain": {
     "id": "NGDPSAXDCGBQ",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Nominal Gross Domestic Product for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2022-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NGDPXDCARA",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Nominal Gross Domestic Product for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -32,13 +32,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-04-25 07:10:05-05",
     "popularity": 1,
-    "group_popularity": 10,
+    "group_popularity": 7,
     "path": "Database/International Data/Countries/Argentina"
   },
   "Saudi Arabia": {
     "id": "NGDPXDCSAA",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Nominal Gross Domestic Product for Saudi Arabia",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
@@ -49,7 +49,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-06-20 07:10:15-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 11,
     "path": "Database/International Data/Countries/Saudi Arabia"
   }

@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "LFUNTTTTRUM647N",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Unemployed Population: Aged 15 and Over: All Persons for the Russian Federation",
     "observation_start": "2009-08-01",
     "observation_end": "2011-06-01",
@@ -20,8 +20,8 @@
   },
   "Poland": {
     "id": "LFUNTTTTPLQ647S",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Unemployed Population: Aged 15 and Over: All Persons for Poland",
     "observation_start": "1992-04-01",
     "observation_end": "2021-10-01",
@@ -36,5 +36,24 @@
     "group_popularity": 1,
     "notes": "OECD descriptor ID: LFUNTTTT\nOECD unit ID: STSA\nOECD country ID: POL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Poland"
+  },
+  "Turkey": {
+    "id": "LFUNTTTTTRQ647S",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
+    "title": "Unemployed Population: Aged 15 and Over: All Persons for Turkey",
+    "observation_start": "2006-01-01",
+    "observation_end": "2020-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Persons",
+    "units_short": "Persons",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2021-04-16 10:22:48-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: LFUNTTTT\nOECD unit ID: STSA\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Turkey"
   }
 }

@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000005552200001",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000005552200001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPICORAINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Chile",
       "observation_start": "1999-01-01",
       "observation_end": "2022-01-01",
@@ -40,8 +40,8 @@
     },
     "Czech Republic": {
       "id": "CZECPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -59,8 +59,8 @@
     },
     "Hungary": {
       "id": "HUNCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Hungary",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -78,8 +78,8 @@
     },
     "Iceland": {
       "id": "ISLCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Iceland",
       "observation_start": "1993-01-01",
       "observation_end": "2022-01-01",
@@ -99,8 +99,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPICORMINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2022-04-01",
@@ -118,8 +118,8 @@
     },
     "Chile": {
       "id": "CHLCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Chile",
       "observation_start": "1999-01-01",
       "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
     },
     "Czech Republic": {
       "id": "CZECPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -156,8 +156,8 @@
     },
     "Hungary": {
       "id": "HUNCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Hungary",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -175,8 +175,8 @@
     },
     "Iceland": {
       "id": "ISLCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Iceland",
       "observation_start": "1993-01-01",
       "observation_end": "2022-01-01",
@@ -196,8 +196,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2022-01-01",
@@ -215,8 +215,8 @@
     },
     "Chile": {
       "id": "CHLCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Chile",
       "observation_start": "1999-01-01",
       "observation_end": "2022-01-01",
@@ -234,8 +234,8 @@
     },
     "Czech Republic": {
       "id": "CZECPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -253,8 +253,8 @@
     },
     "Hungary": {
       "id": "HUNCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Hungary",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -272,8 +272,8 @@
     },
     "Iceland": {
       "id": "ISLCPICORQINMEI",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Consumer Price Index: All Items Excluding Food and Energy for Iceland",
       "observation_start": "1993-01-01",
       "observation_end": "2022-01-01",

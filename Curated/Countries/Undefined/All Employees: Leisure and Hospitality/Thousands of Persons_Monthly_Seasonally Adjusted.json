@@ -1,8 +1,8 @@
 {
   "Puerto Rico": {
     "id": "SMS72000007000000001",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "All Employees: Leisure and Hospitality in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-06-18 03:04:23-05",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics.",
     "path": "Database/International Data/Countries/Puerto Rico"
   },
   "Georgia": {
     "id": "GALEIHN",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "All Employees: Leisure and Hospitality in Georgia",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",

@@ -1,8 +1,8 @@
 {
   "Puerto Rico": {
     "id": "SMU72000007000000001",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "All Employees: Leisure and Hospitality in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
@@ -14,13 +14,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-06-18 02:04:48-05",
     "popularity": 1,
-    "group_popularity": 3,
+    "group_popularity": 1,
     "path": "Database/International Data/Countries/Puerto Rico"
   },
   "Georgia": {
     "id": "GALEIHN",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "All Employees: Leisure and Hospitality in Georgia",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",

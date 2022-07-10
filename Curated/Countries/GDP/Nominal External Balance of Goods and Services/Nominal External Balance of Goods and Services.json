@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NNXGSNSAXDCSAQ",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
     },
     "Argentina": {
       "id": "NNXGSXDCARA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
     },
     "Great Britain": {
       "id": "NNXGSXDCGBA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   "Domestic Currency_Quarterly_Seasonally Adjusted": {
     "Great Britain": {
       "id": "NNXGSSAXDCGBQ",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Great Britain",
       "observation_start": "1955-01-01",
       "observation_end": "2022-01-01",
@@ -76,8 +76,8 @@
     },
     "Argentina": {
       "id": "NNXGSXDCARA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -94,8 +94,8 @@
     },
     "Saudi Arabia": {
       "id": "NNXGSXDCSAA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -114,8 +114,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NNXGSXDCSAA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -132,8 +132,8 @@
     },
     "Argentina": {
       "id": "NNXGSXDCARA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -150,8 +150,8 @@
     },
     "Great Britain": {
       "id": "NNXGSXDCGBA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Nominal External Balance of Goods and Services for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
