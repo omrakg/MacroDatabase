@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWHOLERQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Hawaii",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWHOLERQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Alabama",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWHOLERQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Alaska",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWHOLERQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Arizona",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEWHOLERQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Real Gross Domestic Product: Wholesale Trade (NAICS 42) in Delaware",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",

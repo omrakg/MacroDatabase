@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004322000001",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -40,8 +40,8 @@
     },
     "Texas": {
       "id": "SMU48000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -59,8 +59,8 @@
     },
     "Utah": {
       "id": "SMU49000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -78,8 +78,8 @@
     },
     "Vermont": {
       "id": "SMU50000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -97,8 +97,8 @@
     },
     "Virginia": {
       "id": "SMU51000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -116,8 +116,8 @@
     },
     "Washington": {
       "id": "SMU53000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -135,8 +135,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -156,8 +156,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -194,8 +194,8 @@
     },
     "Texas": {
       "id": "SMU48000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -213,8 +213,8 @@
     },
     "Utah": {
       "id": "SMU49000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -232,8 +232,8 @@
     },
     "Vermont": {
       "id": "SMU50000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -251,8 +251,8 @@
     },
     "Virginia": {
       "id": "SMU51000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -270,8 +270,8 @@
     },
     "Washington": {
       "id": "SMU53000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -289,8 +289,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004322000001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Transportation and Utilities: Utilities in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

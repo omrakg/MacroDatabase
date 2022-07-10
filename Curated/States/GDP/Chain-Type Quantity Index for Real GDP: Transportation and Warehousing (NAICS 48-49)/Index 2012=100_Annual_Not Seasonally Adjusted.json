@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HITRANSWAREQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALTRANSWAREQQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Alabama",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKTRANSWAREQQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Alaska",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZTRANSWAREQQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Arizona",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -96,8 +96,8 @@
   },
   "California": {
     "id": "CATRANSWAREQQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in California",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -115,8 +115,8 @@
   },
   "Colorado": {
     "id": "COTRANSWAREQQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Colorado",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -134,8 +134,8 @@
   },
   "Connecticut": {
     "id": "CTTRANSWAREQQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Connecticut",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -153,8 +153,8 @@
   },
   "Delaware": {
     "id": "DETRANSWAREQQGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Chain-Type Quantity Index for Real GDP: Transportation and Warehousing (NAICS 48-49) in Delaware",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",

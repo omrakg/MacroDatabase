@@ -1,8 +1,8 @@
 {
   "Idaho": {
     "id": "IDTRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in Idaho",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALTRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in Alabama",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKTRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in Alaska",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZTRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in Arizona",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -96,8 +96,8 @@
   },
   "California": {
     "id": "CATRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in California",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -115,8 +115,8 @@
   },
   "Colorado": {
     "id": "COTRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in Colorado",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -134,8 +134,8 @@
   },
   "Connecticut": {
     "id": "CTTRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in Connecticut",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -153,8 +153,8 @@
   },
   "Delaware": {
     "id": "DETRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in Delaware",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -172,8 +172,8 @@
   },
   "Hawaii": {
     "id": "HITRANGRNDTRANNGSP",
-    "realtime_start": "2022-07-03",
-    "realtime_end": "2022-07-03",
+    "realtime_start": "2022-07-10",
+    "realtime_end": "2022-07-10",
     "title": "Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",

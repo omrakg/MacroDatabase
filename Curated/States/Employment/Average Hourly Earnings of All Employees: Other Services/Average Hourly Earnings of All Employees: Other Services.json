@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000008000000003",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Average Hourly Earnings of All Employees: Other Services in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2022-05-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000008000000003A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Average Hourly Earnings of All Employees: Other Services in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -135,8 +135,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000008000000003A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Average Hourly Earnings of All Employees: Other Services in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -172,8 +172,8 @@
     },
     "Texas": {
       "id": "SMU48000008000000003A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Average Hourly Earnings of All Employees: Other Services in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -306,8 +306,8 @@
     },
     "Texas": {
       "id": "SMU48000008000000003A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Average Hourly Earnings of All Employees: Other Services in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

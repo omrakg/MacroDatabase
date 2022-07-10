@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004244600001",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000004244600001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -60,8 +60,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004244600001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -97,8 +97,8 @@
     },
     "Texas": {
       "id": "SMU48000004244600001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -118,8 +118,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004244600001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -156,8 +156,8 @@
     },
     "Texas": {
       "id": "SMU48000004244600001SA",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

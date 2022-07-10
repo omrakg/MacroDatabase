@@ -2,8 +2,8 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000005552000007",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Average Weekly Hours of Production Employees: Financial Activities: Finance and Insurance in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2022-05-01",
@@ -22,8 +22,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000005552000007A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "Average Weekly Hours of Production Employees: Financial Activities: Finance and Insurance in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",

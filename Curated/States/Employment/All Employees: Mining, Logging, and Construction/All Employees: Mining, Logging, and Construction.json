@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000001500000001",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
     },
     "South Dakota": {
       "id": "SDMLCN",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in South Dakota",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -32,8 +32,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-18 03:08:55-05",
-      "popularity": 2,
-      "group_popularity": 3,
+      "popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/South Dakota"
     },
     "Tennessee": {
@@ -56,8 +56,8 @@
     },
     "Texas": {
       "id": "SMU48000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -74,8 +74,8 @@
     },
     "Utah": {
       "id": "SMU49000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -92,8 +92,8 @@
     },
     "Vermont": {
       "id": "SMU50000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -110,8 +110,8 @@
     },
     "Virginia": {
       "id": "SMU51000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -128,8 +128,8 @@
     },
     "Washington": {
       "id": "SMU53000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -146,8 +146,8 @@
     },
     "West Virginia": {
       "id": "SMU54000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -164,8 +164,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -177,15 +177,15 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:21:26-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     }
   },
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMS56000001500000001",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -202,8 +202,8 @@
     },
     "South Dakota": {
       "id": "SDMLCN",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in South Dakota",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -214,8 +214,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-18 03:08:55-05",
-      "popularity": 2,
-      "group_popularity": 3,
+      "popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/South Dakota"
     },
     "Tennessee": {
@@ -238,8 +238,8 @@
     },
     "Texas": {
       "id": "SMU48000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -256,8 +256,8 @@
     },
     "Utah": {
       "id": "SMU49000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -274,8 +274,8 @@
     },
     "Vermont": {
       "id": "SMU50000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -292,8 +292,8 @@
     },
     "Virginia": {
       "id": "SMU51000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -310,8 +310,8 @@
     },
     "Washington": {
       "id": "SMU53000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -328,8 +328,8 @@
     },
     "West Virginia": {
       "id": "SMU54000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -346,8 +346,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -359,15 +359,15 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:21:26-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     }
   },
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -384,8 +384,8 @@
     },
     "South Dakota": {
       "id": "SDMLCN",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in South Dakota",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -396,8 +396,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-18 03:08:55-05",
-      "popularity": 2,
-      "group_popularity": 3,
+      "popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/South Dakota"
     },
     "Tennessee": {
@@ -420,8 +420,8 @@
     },
     "Texas": {
       "id": "SMU48000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -438,8 +438,8 @@
     },
     "Utah": {
       "id": "SMU49000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -456,8 +456,8 @@
     },
     "Vermont": {
       "id": "SMU50000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -474,8 +474,8 @@
     },
     "Virginia": {
       "id": "SMU51000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -492,8 +492,8 @@
     },
     "Washington": {
       "id": "SMU53000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -510,8 +510,8 @@
     },
     "West Virginia": {
       "id": "SMU54000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -528,8 +528,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000001500000001A",
-      "realtime_start": "2022-07-03",
-      "realtime_end": "2022-07-03",
+      "realtime_start": "2022-07-10",
+      "realtime_end": "2022-07-10",
       "title": "All Employees: Mining, Logging, and Construction in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -541,7 +541,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:21:26-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
     }
   }
