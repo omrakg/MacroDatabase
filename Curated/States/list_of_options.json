@@ -9444,6 +9444,7 @@
         "Massachusetts",
         "Michigan",
         "Minnesota",
+        "Mississippi",
         "Montana",
         "Nebraska",
         "Nevada",
@@ -9477,6 +9478,7 @@
         "Massachusetts",
         "Michigan",
         "Minnesota",
+        "Mississippi",
         "Montana",
         "Nebraska",
         "Nevada",
@@ -9510,6 +9512,7 @@
         "Massachusetts",
         "Michigan",
         "Minnesota",
+        "Mississippi",
         "Montana",
         "Nebraska",
         "Nevada",
@@ -9543,6 +9546,7 @@
         "Massachusetts",
         "Michigan",
         "Minnesota",
+        "Mississippi",
         "Montana",
         "Nebraska",
         "Nevada",
@@ -16176,6 +16180,25 @@
         "Texas"
       ]
     },
+    "All Employees Pipeline Transportation": {
+      "All Employees Pipeline Transportation": [
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Texas"
+      ]
+    },
+    "All Employees: Pipeline Transportation": {
+      "All Employees: Pipeline Transportation": [
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Texas"
+      ]
+    },
     "All Employees Support Activities for Transportation": {
       "All Employees Support Activities for Transportation": [
         "Washington",
@@ -16309,6 +16332,53 @@
         "Texas"
       ]
     },
+    "Production or Nonsupervisory Employees Telecommunications": {
+      "Production or Nonsupervisory Employees Telecommunications": [
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Texas"
+      ]
+    },
+    "Average Weekly Hours of Production Employees Telecommunications": {
+      "Average Weekly Hours of Production Employees Telecommunications": [
+        "Texas"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "Texas"
+      ],
+      "Hours per Week_Annual_Not Seasonally Adjusted": [
+        "Texas"
+      ]
+    },
+    "Average Hourly Earnings of Production Employees Telecommunications": {
+      "Average Hourly Earnings of Production Employees Telecommunications": [
+        "Texas"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "Texas"
+      ],
+      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
+        "Texas"
+      ]
+    },
+    "Average Weekly Earnings of Production Employees Telecommunications": {
+      "Average Weekly Earnings of Production Employees Telecommunications": [
+        "Texas"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "Texas"
+      ],
+      "Dollars per Week_Annual_Not Seasonally Adjusted": [
+        "Texas"
+      ]
+    },
     "All Employees Data Processing, Hosting, and Related Services": {
       "All Employees Data Processing, Hosting, and Related Services": [
         "Utah",
@@ -16413,6 +16483,14 @@
         "Texas"
       ],
       "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Texas"
+      ]
+    },
+    "All Employees Securities, Commodity Contracts, and Other Financial Investments and Related Activities": {
+      "All Employees Securities, Commodity Contracts, and Other Financial Investments and Related Activities": [
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
         "Texas"
       ]
     },

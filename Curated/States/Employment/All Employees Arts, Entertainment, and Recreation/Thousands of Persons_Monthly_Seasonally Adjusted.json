@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMS56000007071000001",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
@@ -56,8 +56,8 @@
   },
   "Utah": {
     "id": "SMU49000007071000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -74,8 +74,8 @@
   },
   "Vermont": {
     "id": "SMU50000007071000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -92,8 +92,8 @@
   },
   "Virginia": {
     "id": "SMU51000007071000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Virginia",
     "observation_start": "2003-01-01",
     "observation_end": "2021-01-01",
@@ -110,8 +110,8 @@
   },
   "Washington": {
     "id": "SMU53000007071000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -128,8 +128,8 @@
   },
   "West Virginia": {
     "id": "SMU54000007071000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -146,8 +146,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000007071000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

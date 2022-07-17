@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000004200000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Retail Trade in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Texas": {
     "id": "SMU48000004200000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Retail Trade in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Utah": {
     "id": "SMU49000004200000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Retail Trade in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Vermont": {
     "id": "SMU50000004200000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Retail Trade in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Virginia": {
     "id": "SMU51000004200000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Retail Trade in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -104,13 +104,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 05:22:07-05",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 1,
     "path": "Database/U.S. Regional Data/States/Virginia"
   },
   "Washington": {
     "id": "SMU53000004200000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Retail Trade in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -127,8 +127,8 @@
   },
   "West Virginia": {
     "id": "SMU54000004200000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Retail Trade in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -145,8 +145,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000004200000001A",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Retail Trade in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

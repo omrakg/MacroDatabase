@@ -1,8 +1,8 @@
 {
   "Utah": {
     "id": "SMU49000005051700001SA",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Information: Telecommunications in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
   },
   "Texas": {
     "id": "SMU48000005051700001SA",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "All Employees: Information: Telecommunications in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-05-01",

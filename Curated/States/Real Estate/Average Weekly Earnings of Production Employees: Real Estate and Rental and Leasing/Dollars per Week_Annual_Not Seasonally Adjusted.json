@@ -1,8 +1,8 @@
 {
   "West Virginia": {
     "id": "SMU54000005553000030A",
-    "realtime_start": "2022-06-05",
-    "realtime_end": "2022-06-05",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "Average Weekly Earnings of Production Employees: Real Estate and Rental and Leasing in West Virginia",
     "observation_start": "2003-01-01",
     "observation_end": "2016-01-01",
@@ -14,7 +14,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2017-03-13 16:17:39-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 4,
     "path": "Database/U.S. Regional Data/States/West Virginia"
   }
 }

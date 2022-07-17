@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMS56000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -57,8 +57,8 @@
     },
     "Utah": {
       "id": "SMU49000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -75,8 +75,8 @@
     },
     "Vermont": {
       "id": "SMU50000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -93,8 +93,8 @@
     },
     "Virginia": {
       "id": "SMU51000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -111,8 +111,8 @@
     },
     "Washington": {
       "id": "SMU53000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -129,8 +129,8 @@
     },
     "West Virginia": {
       "id": "SMU54000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -147,8 +147,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -167,8 +167,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -221,8 +221,8 @@
     },
     "Utah": {
       "id": "SMU49000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -239,8 +239,8 @@
     },
     "Vermont": {
       "id": "SMU50000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -257,8 +257,8 @@
     },
     "Virginia": {
       "id": "SMU51000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -275,8 +275,8 @@
     },
     "Washington": {
       "id": "SMU53000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -293,8 +293,8 @@
     },
     "West Virginia": {
       "id": "SMU54000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -311,8 +311,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000007072000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Leisure and Hospitality: Accommodation and Food Services in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
