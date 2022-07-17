@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMS72000005500000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Financial Activities in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -21,8 +21,8 @@
     },
     "Georgia": {
       "id": "GAFIREN",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Financial Activities in Georgia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -41,8 +41,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000005500000001",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Financial Activities in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -59,8 +59,8 @@
     },
     "Georgia": {
       "id": "GAFIREN",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Financial Activities in Georgia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -79,8 +79,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000005500000001A",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Financial Activities in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -97,8 +97,8 @@
     },
     "Georgia": {
       "id": "GAFIREN",
-      "realtime_start": "2022-07-10",
-      "realtime_end": "2022-07-10",
+      "realtime_start": "2022-07-17",
+      "realtime_end": "2022-07-17",
       "title": "All Employees: Financial Activities in Georgia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

@@ -1,8 +1,8 @@
 {
   "Georgia": {
     "id": "GAPRFRMSPRTMSMNGSP",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "Gross Domestic Product: Performing Arts, Spectator Sports, Museums, and Related Activities (NAICS 711-712) in Georgia",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-10-01 09:27:28-05",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm.",
     "path": "Database/International Data/Countries/Georgia"
   }

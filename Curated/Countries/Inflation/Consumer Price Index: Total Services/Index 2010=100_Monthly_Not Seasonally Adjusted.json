@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "CPSETT01RUM661N",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "Consumer Price Index: Total Services for the Russian Federation",
     "observation_start": "1992-01-01",
     "observation_end": "2015-11-01",
@@ -20,8 +20,8 @@
   },
   "Hungary": {
     "id": "CPSETT01HUQ661N",
-    "realtime_start": "2022-07-10",
-    "realtime_end": "2022-07-10",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "Consumer Price Index: Total Services for Hungary",
     "observation_start": "1980-01-01",
     "observation_end": "2018-01-01",
