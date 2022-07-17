@@ -131,6 +131,7 @@
 | SMU06497009093161101A     | All Employees: Local Government Educational Services in Yuba City, CA (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU06497009093161101SA    | All Employees: Government: Local Government Educational Services in Yuba City, CA (MSA)                        | 1990-01-01          | 2022-05-01        |
 | SMU06497009093200001      | All Employees: Government: Local Government Excluding Educational Services in Yuba City, CA (MSA)              | 1990-01-01          | 2022-05-01        |
+| SMU06497009093200001A     | All Employees: Local Government Excluding Educational Services in Yuba City, CA (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU06497009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Yuba City, CA (MSA)              | 1990-01-01          | 2022-05-01        |
 | SUSCMSA49700              | Market Hotness: Supply Score in Yuba City, CA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | YUBA706EDUH               | All Employees: Education and Health Services in Yuba City, CA (MSA)                                            | 1990-01-01          | 2022-05-01        |

@@ -3,16 +3,16 @@
 | CUUSA433SA0     | Consumer Price Index for All Urban Consumers: All items in Denver-Aurora-Lakewood, CO (CBSA)                                    | 1984-01-01          | 2021-01-01        |
 | CUUSA433SA0E    | Consumer Price Index for All Urban Consumers: Energy in Denver-Aurora-Lakewood, CO (CBSA)                                       | 1984-01-01          | 2021-01-01        |
 | CUUSA433SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in Denver-Aurora-Lakewood, CO (CBSA)               | 1984-01-01          | 2021-01-01        |
-| CUUSA433SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Denver-Aurora-Lakewood, CO (CBSA)               | 1984-01-01          | 2021-07-01        |
+| CUUSA433SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Denver-Aurora-Lakewood, CO (CBSA)               | 1984-01-01          | 2022-01-01        |
 | CUUSA433SA0L2   | Consumer Price Index for All Urban Consumers: All items less shelter in Denver-Aurora-Lakewood, CO (CBSA)                       | 1984-01-01          | 2021-01-01        |
 | CUUSA433SA0L5   | Consumer Price Index for All Urban Consumers: All items less medical care in Denver-Aurora-Lakewood, CO (CBSA)                  | 1984-01-01          | 2021-01-01        |
 | CUUSA433SA0LE   | Consumer Price Index for All Urban Consumers: All items less energy in Denver-Aurora-Lakewood, CO (CBSA)                        | 1984-01-01          | 2021-01-01        |
-| CUUSA433SA0S    | Consumer Price Index for All Urban Consumers: All Items in Denver-Aurora-Lakewood, CO (CBSA)                                    | 1984-01-01          | 2021-07-01        |
+| CUUSA433SA0S    | Consumer Price Index for All Urban Consumers: All Items in Denver-Aurora-Lakewood, CO (CBSA)                                    | 1984-01-01          | 2022-01-01        |
 | CUUSA433SAA     | Consumer Price Index for All Urban Consumers: Apparel in Denver-Aurora-Lakewood, CO (CBSA)                                      | 1984-01-01          | 2021-01-01        |
 | CUUSA433SAC     | Consumer Price Index for All Urban Consumers: Commodities in Denver-Aurora-Lakewood, CO (CBSA)                                  | 1984-01-01          | 2021-01-01        |
 | CUUSA433SACL1   | Consumer Price Index for All Urban Consumers: Commodities less food in Denver-Aurora-Lakewood, CO (CBSA)                        | 1984-01-01          | 2021-01-01        |
 | CUUSA433SACL11  | Consumer Price Index for All Urban Consumers: Commodities less food and beverages in Denver-Aurora-Lakewood, CO (CBSA)          | 1984-01-01          | 2021-01-01        |
-| CUUSA433SACS    | Consumer Price Index for All Urban Consumers: Commodities in Denver-Aurora-Lakewood, CO (CBSA)                                  | 1984-01-01          | 2021-07-01        |
+| CUUSA433SACS    | Consumer Price Index for All Urban Consumers: Commodities in Denver-Aurora-Lakewood, CO (CBSA)                                  | 1984-01-01          | 2022-01-01        |
 | CUUSA433SAD     | Consumer Price Index for All Urban Consumers: Durables in Denver-Aurora-Lakewood, CO (CBSA)                                     | 1984-01-01          | 2021-01-01        |
 | CUUSA433SAE     | Consumer Price Index for All Urban Consumers: Education and communication in Denver-Aurora-Lakewood, CO (CBSA)                  | 1998-01-01          | 2021-01-01        |
 | CUUSA433SAEC    | Consumer Price Index for All Urban Consumers: Education and communication commodities in Denver-Aurora-Lakewood, CO (CBSA)      | 2010-01-01          | 2021-01-01        |
@@ -38,7 +38,7 @@
 | CUUSA433SAS     | Consumer Price Index for All Urban Consumers: Services in Denver-Aurora-Lakewood, CO (CBSA)                                     | 1984-01-01          | 2021-01-01        |
 | CUUSA433SASL2RS | Consumer Price Index for All Urban Consumers: Services less rent of shelter in Denver-Aurora-Lakewood, CO (CBSA)                | 1984-01-01          | 2021-01-01        |
 | CUUSA433SASL5   | Consumer Price Index for All Urban Consumers: Services less medical care services in Denver-Aurora-Lakewood, CO (CBSA)          | 1984-01-01          | 2021-01-01        |
-| CUUSA433SASS    | Consumer Price Index for All Urban Consumers: Services in Denver-Aurora-Lakewood, CO (CBSA)                                     | 1984-01-01          | 2021-07-01        |
+| CUUSA433SASS    | Consumer Price Index for All Urban Consumers: Services in Denver-Aurora-Lakewood, CO (CBSA)                                     | 1984-01-01          | 2022-01-01        |
 | CUUSA433SAT     | Consumer Price Index for All Urban Consumers: Transportation in Denver-Aurora-Lakewood, CO (CBSA)                               | 1984-01-01          | 2021-01-01        |
 | CUUSA433SAT1    | Consumer Price Index for All Urban Consumers: Private transportation in Denver-Aurora-Lakewood, CO (CBSA)                       | 1984-01-01          | 2021-01-01        |
 | CUUSA433SATCLTB | Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in Denver-Aurora-Lakewood, CO (CBSA)   | 2010-01-01          | 2020-01-01        |

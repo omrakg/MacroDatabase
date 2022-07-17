@@ -1,5 +1,11 @@
 | id                     | title                                                                                                                | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| LAUMT337690000000003A  | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT337690000000004   | Unemployed Persons in Portsmouth, NH-ME (NECTA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT337690000000004A  | Unemployed Persons in Portsmouth, NH-ME (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT337690000000005   | Employed Persons in Portsmouth, NH-ME (NECTA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT337690000000005A  | Employed Persons in Portsmouth, NH-ME (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT337690000000006A  | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
 | PORT933EDUH            | All Employees: Education and Health Services in Portsmouth, NH-ME (NECTA)                                            | 1990-01-01          | 2022-05-01        |
 | PORT933EDUHN           | All Employees: Education and Health Services in Portsmouth, NH-ME (NECTA)                                            | 1990-01-01          | 2022-05-01        |
 | PORT933FIRE            | All Employees: Financial Activities in Portsmouth, NH-ME (NECTA)                                                     | 1990-01-01          | 2022-05-01        |

@@ -74,4 +74,5 @@
 | RPPGOOD38340              | Regional Price Parities: Goods for Pittsfield, MA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH38340          | Regional Price Parities: Services: Other for Pittsfield, MA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT38340         | Regional Price Parities: Services: Rents for Pittsfield, MA (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| SMU25766009092000001A     | All Employees: Government: State Government in Pittsfield, MA (NECTA)                             | 1990-01-01          | 2021-01-01        |
 | SUSCMSA38340              | Market Hotness: Supply Score in Pittsfield, MA (CBSA)                                             | 2017-08-01          | 2022-06-01        |

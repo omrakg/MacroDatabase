@@ -24,7 +24,7 @@
 | HORAMSA46140              | Market Hotness: Hotness Rank in Tulsa, OK (CBSA)                                                                                               | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA46140            | Market Hotness: Hotness Rank in Tulsa, OK (CBSA)                                                                                               | 2018-08-01          | 2022-06-01        |
 | HOSCMSA46140              | Market Hotness: Hotness Score in Tulsa, OK (CBSA)                                                                                              | 2017-08-01          | 2022-06-01        |
-| IHLCHG46140               | Job Postings on Indeed in Tulsa, OK (MSA)                                                                                                      | 2020-02-01          | 2022-07-01        |
+| IHLCHG46140               | Job Postings on Indeed in Tulsa, OK (MSA)                                                                                                      | 2020-02-01          | 2022-07-08        |
 | IRPD46140                 | Implicit Regional Price Deflator for Tulsa, OK (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT404614000000003A     | Unemployment Rate in Tulsa, OK (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT404614000000004      | Unemployed Persons in Tulsa, OK (MSA)                                                                                                          | 1990-01-01          | 2022-05-01        |

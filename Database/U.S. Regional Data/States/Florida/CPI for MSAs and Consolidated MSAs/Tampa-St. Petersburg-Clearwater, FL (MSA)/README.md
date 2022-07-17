@@ -3,16 +3,16 @@
 | CUUSA321SA0     | Consumer Price Index for All Urban Consumers: All items in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                    | 1987-01-01          | 2021-01-01        |
 | CUUSA321SA0E    | Consumer Price Index for All Urban Consumers: Energy in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                       | 1987-01-01          | 2021-01-01        |
 | CUUSA321SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in Tampa-St. Petersburg-Clearwater, FL (CBSA)               | 1987-01-01          | 2021-01-01        |
-| CUUSA321SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Tampa-St. Petersburg-Clearwater, FL (CBSA)               | 1997-07-01          | 2021-07-01        |
+| CUUSA321SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Tampa-St. Petersburg-Clearwater, FL (CBSA)               | 1997-07-01          | 2022-01-01        |
 | CUUSA321SA0L2   | Consumer Price Index for All Urban Consumers: All items less shelter in Tampa-St. Petersburg-Clearwater, FL (CBSA)                       | 1987-01-01          | 2021-01-01        |
 | CUUSA321SA0L5   | Consumer Price Index for All Urban Consumers: All items less medical care in Tampa-St. Petersburg-Clearwater, FL (CBSA)                  | 1987-01-01          | 2021-01-01        |
 | CUUSA321SA0LE   | Consumer Price Index for All Urban Consumers: All items less energy in Tampa-St. Petersburg-Clearwater, FL (CBSA)                        | 1987-01-01          | 2021-01-01        |
-| CUUSA321SA0S    | Consumer Price Index for All Urban Consumers: All Items in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                    | 1997-07-01          | 2021-07-01        |
+| CUUSA321SA0S    | Consumer Price Index for All Urban Consumers: All Items in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                    | 1997-07-01          | 2022-01-01        |
 | CUUSA321SAA     | Consumer Price Index for All Urban Consumers: Apparel in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                      | 1987-01-01          | 2021-01-01        |
 | CUUSA321SAC     | Consumer Price Index for All Urban Consumers: Commodities in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                  | 1987-01-01          | 2021-01-01        |
 | CUUSA321SACL1   | Consumer Price Index for All Urban Consumers: Commodities less food in Tampa-St. Petersburg-Clearwater, FL (CBSA)                        | 1987-01-01          | 2021-01-01        |
 | CUUSA321SACL11  | Consumer Price Index for All Urban Consumers: Commodities less food and beverages in Tampa-St. Petersburg-Clearwater, FL (CBSA)          | 1987-01-01          | 2021-01-01        |
-| CUUSA321SACS    | Consumer Price Index for All Urban Consumers: Commodities in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                  | 1997-07-01          | 2021-07-01        |
+| CUUSA321SACS    | Consumer Price Index for All Urban Consumers: Commodities in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                  | 1997-07-01          | 2022-01-01        |
 | CUUSA321SAD     | Consumer Price Index for All Urban Consumers: Durables in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                     | 1987-01-01          | 2021-01-01        |
 | CUUSA321SAE     | Consumer Price Index for All Urban Consumers: Education and communication in Tampa-St. Petersburg-Clearwater, FL (CBSA)                  | 1998-01-01          | 2021-01-01        |
 | CUUSA321SAEC    | Consumer Price Index for All Urban Consumers: Education and communication commodities in Tampa-St. Petersburg-Clearwater, FL (CBSA)      | 2010-01-01          | 2021-01-01        |
@@ -38,7 +38,7 @@
 | CUUSA321SAS     | Consumer Price Index for All Urban Consumers: Services in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                     | 1987-01-01          | 2021-01-01        |
 | CUUSA321SASL2RS | Consumer Price Index for All Urban Consumers: Services less rent of shelter in Tampa-St. Petersburg-Clearwater, FL (CBSA)                | 1987-01-01          | 2021-01-01        |
 | CUUSA321SASL5   | Consumer Price Index for All Urban Consumers: Services less medical care services in Tampa-St. Petersburg-Clearwater, FL (CBSA)          | 1987-01-01          | 2021-01-01        |
-| CUUSA321SASS    | Consumer Price Index for All Urban Consumers: Services in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                     | 1997-07-01          | 2021-07-01        |
+| CUUSA321SASS    | Consumer Price Index for All Urban Consumers: Services in Tampa-St. Petersburg-Clearwater, FL (CBSA)                                     | 1997-07-01          | 2022-01-01        |
 | CUUSA321SAT     | Consumer Price Index for All Urban Consumers: Transportation in Tampa-St. Petersburg-Clearwater, FL (CBSA)                               | 1987-01-01          | 2021-01-01        |
 | CUUSA321SAT1    | Consumer Price Index for All Urban Consumers: Private transportation in Tampa-St. Petersburg-Clearwater, FL (CBSA)                       | 1987-01-01          | 2021-01-01        |
 | CUUSA321SATCLTB | Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in Tampa-St. Petersburg-Clearwater, FL (CBSA)   | 2010-01-01          | 2021-01-01        |

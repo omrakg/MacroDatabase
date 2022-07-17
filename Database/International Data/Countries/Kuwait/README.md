@@ -108,28 +108,28 @@
 | KWTBXUSD             | Exports of Goods and Services for Kuwait                                                                                 | 2000-01-01          | 2023-01-01        |
 | KWTDGDPGDPPT         | Total External Debt for Kuwait                                                                                           | 2000-01-01          | 2023-01-01        |
 | KWTFAFARUSD          | Gross International Reserves Held by Central Bank for Kuwait                                                             | 2000-01-01          | 2023-01-01        |
-| KWTFCAANUM           | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Kuwait                                                 | 2004-01-01          | 2020-01-01        |
-| KWTFCACNUM           | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Kuwait                               | 2004-01-01          | 2020-01-01        |
-| KWTFCAKNUM           | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Kuwait                                                       | 2004-01-01          | 2020-01-01        |
+| KWTFCAANUM           | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Kuwait                                                 | 2004-01-01          | 2021-01-01        |
+| KWTFCACNUM           | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Kuwait                               | 2004-01-01          | 2021-01-01        |
+| KWTFCAKNUM           | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Kuwait                                                       | 2004-01-01          | 2021-01-01        |
 | KWTFCAODCANUM        | Use of Financial Services: Key Indicators, Deposit Accounts with Commercial Banks Per 1000 Adults for Kuwait             | 2004-01-01          | 2014-01-01        |
 | KWTFCAODCNUM         | Use of Financial Services Deposit Accounts: Accounts at Commercial Banks for Kuwait                                      | 2004-01-01          | 2014-01-01        |
-| KWTFCBODCANUM        | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Kuwait                             | 2004-01-01          | 2020-01-01        |
-| KWTFCBODCKNUM        | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Kuwait                                   | 2004-01-01          | 2020-01-01        |
-| KWTFCBODCNUM         | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Kuwait                       | 2004-01-01          | 2020-01-01        |
-| KWTFCDODCANUM        | Use of Financial Services: Key Indicators, Depositors with Commercial Banks Per 1000 Adults for Kuwait                   | 2004-01-01          | 2020-01-01        |
-| KWTFCDODCPENUM       | Use of Financial Services: Number of Depositors at Commercial Banks for Kuwait                                           | 2004-01-01          | 2020-01-01        |
-| KWTFCIODCNUM         | Geographical Outreach: Number of Commercial Banks for Kuwait                                                             | 2004-01-01          | 2020-01-01        |
-| KWTFCIODDNUM         | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Kuwait            | 2004-01-01          | 2020-01-01        |
-| KWTFCLODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Kuwait                         | 2004-01-01          | 2020-01-01        |
-| KWTFCLODCXDC         | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Kuwait                              | 2004-01-01          | 2020-01-01        |
+| KWTFCBODCANUM        | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Kuwait                             | 2004-01-01          | 2021-01-01        |
+| KWTFCBODCKNUM        | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Kuwait                                   | 2004-01-01          | 2021-01-01        |
+| KWTFCBODCNUM         | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Kuwait                       | 2004-01-01          | 2021-01-01        |
+| KWTFCDODCANUM        | Use of Financial Services: Key Indicators, Depositors with Commercial Banks Per 1000 Adults for Kuwait                   | 2004-01-01          | 2021-01-01        |
+| KWTFCDODCPENUM       | Use of Financial Services: Number of Depositors at Commercial Banks for Kuwait                                           | 2004-01-01          | 2021-01-01        |
+| KWTFCIODCNUM         | Geographical Outreach: Number of Commercial Banks for Kuwait                                                             | 2004-01-01          | 2021-01-01        |
+| KWTFCIODDNUM         | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Kuwait            | 2004-01-01          | 2021-01-01        |
+| KWTFCLODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Kuwait                         | 2004-01-01          | 2021-01-01        |
+| KWTFCLODCXDC         | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Kuwait                              | 2004-01-01          | 2021-01-01        |
 | KWTFCNMHNUM          | Use of Financial Services: Number of Loan Accounts for Households at Other Financial Intermediaries for Kuwait           | 2004-01-01          | 2017-01-01        |
-| KWTFCNODCHANUM       | Use of Financial Services: Key Indicators, Household Loan Accounts with Commercial Banks Per 1,000 Adults for Kuwait     | 2004-01-01          | 2020-01-01        |
-| KWTFCNODCHNUM        | Use of Financial Services: Number of Loan Accounts for Households at Commercial Banks for Kuwait                         | 2004-01-01          | 2020-01-01        |
+| KWTFCNODCHANUM       | Use of Financial Services: Key Indicators, Household Loan Accounts with Commercial Banks Per 1,000 Adults for Kuwait     | 2004-01-01          | 2021-01-01        |
+| KWTFCNODCHNUM        | Use of Financial Services: Number of Loan Accounts for Households at Commercial Banks for Kuwait                         | 2004-01-01          | 2021-01-01        |
 | KWTFCRMPENUM         | Use of Financial Services Borrowers: Persons Borrowing from Other Financial Intermediaries for Kuwait                    | 2004-01-01          | 2017-01-01        |
-| KWTFCRODCANUM        | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for Kuwait                    | 2004-01-01          | 2020-01-01        |
-| KWTFCRODCPENUM       | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Kuwait                                  | 2004-01-01          | 2020-01-01        |
-| KWTFCSODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Kuwait                            | 2004-01-01          | 2020-01-01        |
-| KWTFCSODCXDC         | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Kuwait                                      | 2004-01-01          | 2020-01-01        |
+| KWTFCRODCANUM        | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for Kuwait                    | 2004-01-01          | 2021-01-01        |
+| KWTFCRODCPENUM       | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Kuwait                                  | 2004-01-01          | 2021-01-01        |
+| KWTFCSODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Kuwait                            | 2004-01-01          | 2021-01-01        |
+| KWTFCSODCXDC         | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Kuwait                                      | 2004-01-01          | 2021-01-01        |
 | KWTFMBPCHPT          | Broad Money for Kuwait                                                                                                   | 2000-01-01          | 2023-01-01        |
 | KWTGCXCNLGDPGDPPT    | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Kuwait                                        | 2000-01-01          | 2023-01-01        |
 | KWTGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Kuwait                                                                 | 2000-01-01          | 2023-01-01        |

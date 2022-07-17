@@ -1,10 +1,10 @@
 | Folder                              |   Files / Folders |
 |-------------------------------------|-------------------|
-| Eugene-Springfield, OR              |               210 |
-| Medford, OR                         |               186 |
 | Portland-Vancouver-Beaverton, OR-WA |                 0 |
+| Medford, OR                         |               186 |
+| Albany-Lebanon, OR                  |               131 |
 | Bend, OR                            |               174 |
 | Corvallis, OR                       |               144 |
 | Grants Pass, OR                     |               119 |
-| Albany-Lebanon, OR                  |               131 |
-| Salem, OR                           |               197 |
+| Salem, OR                           |                 0 |
+| Eugene-Springfield, OR              |               210 |

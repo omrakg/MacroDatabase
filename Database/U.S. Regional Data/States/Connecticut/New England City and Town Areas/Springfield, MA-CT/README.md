@@ -1,5 +1,13 @@
 | id                     | title                                                                                                                 | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| LAUMT257810000000003A  | Unemployment Rate in Springfield, MA-CT (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
+| LAUMT257810000000004   | Unemployed Persons in Springfield, MA-CT (NECTA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT257810000000004A  | Unemployed Persons in Springfield, MA-CT (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
+| LAUMT257810000000005   | Employed Persons in Springfield, MA-CT (NECTA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT257810000000005A  | Employed Persons in Springfield, MA-CT (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
+| LAUMT257810000000006A  | Civilian Labor Force in Springfield, MA-CT (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
+| SMS25781000000000001   | All Employees: Total Nonfarm in Springfield, MA-CT (NECTA)                                                            | 1990-01-01          | 2018-02-01        |
+| SMS25781000000000026   | All Employees: Total Nonfarm in Springfield, MA-CT (NECTA)                                                            | 1990-04-01          | 2022-05-01        |
 | SMU25781000000000001A  | All Employees: Total Nonfarm in Springfield, MA-CT (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU25781000500000001   | All Employees: Total Private in Springfield, MA-CT (NECTA)                                                            | 1990-01-01          | 2022-05-01        |
 | SMU25781000500000001A  | All Employees: Total Private in Springfield, MA-CT (NECTA)                                                            | 1990-01-01          | 2021-01-01        |

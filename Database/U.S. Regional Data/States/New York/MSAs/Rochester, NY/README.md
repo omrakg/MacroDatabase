@@ -24,7 +24,7 @@
 | HORAMSA40380              | Market Hotness: Hotness Rank in Rochester, NY (CBSA)                                                                                               | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA40380            | Market Hotness: Hotness Rank in Rochester, NY (CBSA)                                                                                               | 2018-08-01          | 2022-06-01        |
 | HOSCMSA40380              | Market Hotness: Hotness Score in Rochester, NY (CBSA)                                                                                              | 2017-08-01          | 2022-06-01        |
-| IHLCHG40380               | Job Postings on Indeed in Rochester, NY (MSA)                                                                                                      | 2020-02-01          | 2022-07-01        |
+| IHLCHG40380               | Job Postings on Indeed in Rochester, NY (MSA)                                                                                                      | 2020-02-01          | 2022-07-08        |
 | IRPD40380                 | Implicit Regional Price Deflator for Rochester, NY (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT364038000000003A     | Unemployment Rate in Rochester, NY (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT364038000000004      | Unemployed Persons in Rochester, NY (MSA)                                                                                                          | 1990-01-01          | 2022-05-01        |

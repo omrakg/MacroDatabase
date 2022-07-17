@@ -3,16 +3,16 @@
 | CUUSA424SA0     | Consumer Price Index for All Urban Consumers: All items in San Diego-Carlsbad, CA (CBSA)                                    | 1984-01-01          | 2021-01-01        |
 | CUUSA424SA0E    | Consumer Price Index for All Urban Consumers: Energy in San Diego-Carlsbad, CA (CBSA)                                       | 1984-01-01          | 2021-01-01        |
 | CUUSA424SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in San Diego-Carlsbad, CA (CBSA)               | 1984-01-01          | 2021-01-01        |
-| CUUSA424SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in San Diego-Carlsbad, CA (CBSA)               | 1984-01-01          | 2021-07-01        |
+| CUUSA424SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in San Diego-Carlsbad, CA (CBSA)               | 1984-01-01          | 2022-01-01        |
 | CUUSA424SA0L2   | Consumer Price Index for All Urban Consumers: All items less shelter in San Diego-Carlsbad, CA (CBSA)                       | 1984-01-01          | 2021-01-01        |
 | CUUSA424SA0L5   | Consumer Price Index for All Urban Consumers: All items less medical care in San Diego-Carlsbad, CA (CBSA)                  | 1984-01-01          | 2021-01-01        |
 | CUUSA424SA0LE   | Consumer Price Index for All Urban Consumers: All items less energy in San Diego-Carlsbad, CA (CBSA)                        | 1984-01-01          | 2021-01-01        |
-| CUUSA424SA0S    | Consumer Price Index for All Urban Consumers: All Items in San Diego-Carlsbad, CA (CBSA)                                    | 1984-01-01          | 2021-07-01        |
+| CUUSA424SA0S    | Consumer Price Index for All Urban Consumers: All Items in San Diego-Carlsbad, CA (CBSA)                                    | 1984-01-01          | 2022-01-01        |
 | CUUSA424SAA     | Consumer Price Index for All Urban Consumers: Apparel in San Diego-Carlsbad, CA (CBSA)                                      | 1984-01-01          | 2021-01-01        |
 | CUUSA424SAC     | Consumer Price Index for All Urban Consumers: Commodities in San Diego-Carlsbad, CA (CBSA)                                  | 1984-01-01          | 2021-01-01        |
 | CUUSA424SACL1   | Consumer Price Index for All Urban Consumers: Commodities less food in San Diego-Carlsbad, CA (CBSA)                        | 1984-01-01          | 2021-01-01        |
 | CUUSA424SACL11  | Consumer Price Index for All Urban Consumers: Commodities less food and beverages in San Diego-Carlsbad, CA (CBSA)          | 1984-01-01          | 2021-01-01        |
-| CUUSA424SACS    | Consumer Price Index for All Urban Consumers: Commodities in San Diego-Carlsbad, CA (CBSA)                                  | 1984-01-01          | 2021-07-01        |
+| CUUSA424SACS    | Consumer Price Index for All Urban Consumers: Commodities in San Diego-Carlsbad, CA (CBSA)                                  | 1984-01-01          | 2022-01-01        |
 | CUUSA424SAD     | Consumer Price Index for All Urban Consumers: Durables in San Diego-Carlsbad, CA (CBSA)                                     | 1984-01-01          | 2021-01-01        |
 | CUUSA424SAE     | Consumer Price Index for All Urban Consumers: Education and communication in San Diego-Carlsbad, CA (CBSA)                  | 1998-01-01          | 2021-01-01        |
 | CUUSA424SAEC    | Consumer Price Index for All Urban Consumers: Education and communication commodities in San Diego-Carlsbad, CA (CBSA)      | 2010-01-01          | 2021-01-01        |
@@ -38,7 +38,7 @@
 | CUUSA424SAS     | Consumer Price Index for All Urban Consumers: Services in San Diego-Carlsbad, CA (CBSA)                                     | 1984-01-01          | 2021-01-01        |
 | CUUSA424SASL2RS | Consumer Price Index for All Urban Consumers: Services less rent of shelter in San Diego-Carlsbad, CA (CBSA)                | 1984-01-01          | 2021-01-01        |
 | CUUSA424SASL5   | Consumer Price Index for All Urban Consumers: Services less medical care services in San Diego-Carlsbad, CA (CBSA)          | 1984-01-01          | 2021-01-01        |
-| CUUSA424SASS    | Consumer Price Index for All Urban Consumers: Services in San Diego-Carlsbad, CA (CBSA)                                     | 1984-01-01          | 2021-07-01        |
+| CUUSA424SASS    | Consumer Price Index for All Urban Consumers: Services in San Diego-Carlsbad, CA (CBSA)                                     | 1984-01-01          | 2022-01-01        |
 | CUUSA424SAT     | Consumer Price Index for All Urban Consumers: Transportation in San Diego-Carlsbad, CA (CBSA)                               | 1984-01-01          | 2021-01-01        |
 | CUUSA424SAT1    | Consumer Price Index for All Urban Consumers: Private transportation in San Diego-Carlsbad, CA (CBSA)                       | 1984-01-01          | 2021-01-01        |
 | CUUSA424SATCLTB | Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in San Diego-Carlsbad, CA (CBSA)   | 2010-01-01          | 2021-01-01        |

@@ -3,16 +3,16 @@
 | CUUSA429SA0     | Consumer Price Index for All Urban Consumers: All items in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                    | 2002-01-01          | 2021-01-01        |
 | CUUSA429SA0E    | Consumer Price Index for All Urban Consumers: Energy in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                       | 2002-01-01          | 2021-01-01        |
 | CUUSA429SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in Phoenix-Mesa-Scottsdale, AZ (CBSA)               | 2002-01-01          | 2021-01-01        |
-| CUUSA429SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Phoenix-Mesa-Scottsdale, AZ (CBSA)               | 2002-01-01          | 2021-07-01        |
+| CUUSA429SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Phoenix-Mesa-Scottsdale, AZ (CBSA)               | 2002-01-01          | 2022-01-01        |
 | CUUSA429SA0L2   | Consumer Price Index for All Urban Consumers: All items less shelter in Phoenix-Mesa-Scottsdale, AZ (CBSA)                       | 2002-01-01          | 2021-01-01        |
 | CUUSA429SA0L5   | Consumer Price Index for All Urban Consumers: All items less medical care in Phoenix-Mesa-Scottsdale, AZ (CBSA)                  | 2002-01-01          | 2021-01-01        |
 | CUUSA429SA0LE   | Consumer Price Index for All Urban Consumers: All items less energy in Phoenix-Mesa-Scottsdale, AZ (CBSA)                        | 2002-01-01          | 2021-01-01        |
-| CUUSA429SA0S    | Consumer Price Index for All Urban Consumers: All Items in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                    | 2002-01-01          | 2021-07-01        |
+| CUUSA429SA0S    | Consumer Price Index for All Urban Consumers: All Items in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                    | 2002-01-01          | 2022-01-01        |
 | CUUSA429SAA     | Consumer Price Index for All Urban Consumers: Apparel in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                      | 2002-01-01          | 2021-01-01        |
 | CUUSA429SAC     | Consumer Price Index for All Urban Consumers: Commodities in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                  | 2002-01-01          | 2021-01-01        |
 | CUUSA429SACL1   | Consumer Price Index for All Urban Consumers: Commodities less food in Phoenix-Mesa-Scottsdale, AZ (CBSA)                        | 2002-01-01          | 2021-01-01        |
 | CUUSA429SACL11  | Consumer Price Index for All Urban Consumers: Commodities less food and beverages in Phoenix-Mesa-Scottsdale, AZ (CBSA)          | 2002-01-01          | 2021-01-01        |
-| CUUSA429SACS    | Consumer Price Index for All Urban Consumers: Commodities in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                  | 2002-01-01          | 2021-07-01        |
+| CUUSA429SACS    | Consumer Price Index for All Urban Consumers: Commodities in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                  | 2002-01-01          | 2022-01-01        |
 | CUUSA429SAD     | Consumer Price Index for All Urban Consumers: Durables in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                     | 2002-01-01          | 2021-01-01        |
 | CUUSA429SAE     | Consumer Price Index for All Urban Consumers: Education and communication in Phoenix-Mesa-Scottsdale, AZ (CBSA)                  | 2002-01-01          | 2021-01-01        |
 | CUUSA429SAEC    | Consumer Price Index for All Urban Consumers: Education and communication commodities in Phoenix-Mesa-Scottsdale, AZ (CBSA)      | 2010-01-01          | 2021-01-01        |
@@ -38,7 +38,7 @@
 | CUUSA429SAS     | Consumer Price Index for All Urban Consumers: Services in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                     | 2002-01-01          | 2021-01-01        |
 | CUUSA429SASL2RS | Consumer Price Index for All Urban Consumers: Services less rent of shelter in Phoenix-Mesa-Scottsdale, AZ (CBSA)                | 2002-01-01          | 2021-01-01        |
 | CUUSA429SASL5   | Consumer Price Index for All Urban Consumers: Services less medical care services in Phoenix-Mesa-Scottsdale, AZ (CBSA)          | 2002-01-01          | 2021-01-01        |
-| CUUSA429SASS    | Consumer Price Index for All Urban Consumers: Services in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                     | 2002-01-01          | 2021-07-01        |
+| CUUSA429SASS    | Consumer Price Index for All Urban Consumers: Services in Phoenix-Mesa-Scottsdale, AZ (CBSA)                                     | 2002-01-01          | 2022-01-01        |
 | CUUSA429SAT     | Consumer Price Index for All Urban Consumers: Transportation in Phoenix-Mesa-Scottsdale, AZ (CBSA)                               | 2002-01-01          | 2021-01-01        |
 | CUUSA429SAT1    | Consumer Price Index for All Urban Consumers: Private transportation in Phoenix-Mesa-Scottsdale, AZ (CBSA)                       | 2002-01-01          | 2021-01-01        |
 | CUUSA429SATCLTB | Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in Phoenix-Mesa-Scottsdale, AZ (CBSA)   | 2010-01-01          | 2020-01-01        |

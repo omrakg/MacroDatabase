@@ -3,16 +3,16 @@
 | CUUSA426SA0     | Consumer Price Index for All Urban Consumers: All items in Urban Hawaii (CBSA)                                    | 1984-01-01          | 2021-01-01        |
 | CUUSA426SA0E    | Consumer Price Index for All Urban Consumers: Energy in Urban Hawaii (CBSA)                                       | 1984-01-01          | 2021-01-01        |
 | CUUSA426SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in Urban Hawaii (CBSA)               | 1984-01-01          | 2021-01-01        |
-| CUUSA426SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Urban Hawaii (CBSA)               | 1984-01-01          | 2021-07-01        |
+| CUUSA426SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Urban Hawaii (CBSA)               | 1984-01-01          | 2022-01-01        |
 | CUUSA426SA0L2   | Consumer Price Index for All Urban Consumers: All items less shelter in Urban Hawaii (CBSA)                       | 1984-01-01          | 2021-01-01        |
 | CUUSA426SA0L5   | Consumer Price Index for All Urban Consumers: All items less medical care in Urban Hawaii (CBSA)                  | 1984-01-01          | 2021-01-01        |
 | CUUSA426SA0LE   | Consumer Price Index for All Urban Consumers: All items less energy in Urban Hawaii (CBSA)                        | 1984-01-01          | 2021-01-01        |
-| CUUSA426SA0S    | Consumer Price Index for All Urban Consumers: All Items in Urban Hawaii (CBSA)                                    | 1984-01-01          | 2021-07-01        |
+| CUUSA426SA0S    | Consumer Price Index for All Urban Consumers: All Items in Urban Hawaii (CBSA)                                    | 1984-01-01          | 2022-01-01        |
 | CUUSA426SAA     | Consumer Price Index for All Urban Consumers: Apparel in Urban Hawaii (CBSA)                                      | 1984-01-01          | 2021-01-01        |
 | CUUSA426SAC     | Consumer Price Index for All Urban Consumers: Commodities in Urban Hawaii (CBSA)                                  | 1984-01-01          | 2021-01-01        |
 | CUUSA426SACL1   | Consumer Price Index for All Urban Consumers: Commodities less food in Urban Hawaii (CBSA)                        | 1984-01-01          | 2021-01-01        |
 | CUUSA426SACL11  | Consumer Price Index for All Urban Consumers: Commodities less food and beverages in Urban Hawaii (CBSA)          | 1984-01-01          | 2021-01-01        |
-| CUUSA426SACS    | Consumer Price Index for All Urban Consumers: Commodities in Urban Hawaii (CBSA)                                  | 1984-01-01          | 2021-07-01        |
+| CUUSA426SACS    | Consumer Price Index for All Urban Consumers: Commodities in Urban Hawaii (CBSA)                                  | 1984-01-01          | 2022-01-01        |
 | CUUSA426SAD     | Consumer Price Index for All Urban Consumers: Durables in Urban Hawaii (CBSA)                                     | 1984-01-01          | 2021-01-01        |
 | CUUSA426SAE     | Consumer Price Index for All Urban Consumers: Education and communication in Urban Hawaii (CBSA)                  | 1998-01-01          | 2021-01-01        |
 | CUUSA426SAEC    | Consumer Price Index for All Urban Consumers: Education and communication commodities in Urban Hawaii (CBSA)      | 2010-01-01          | 2021-01-01        |
@@ -38,7 +38,7 @@
 | CUUSA426SAS     | Consumer Price Index for All Urban Consumers: Services in Urban Hawaii (CBSA)                                     | 1984-01-01          | 2021-01-01        |
 | CUUSA426SASL2RS | Consumer Price Index for All Urban Consumers: Services less rent of shelter in Urban Hawaii (CBSA)                | 1984-01-01          | 2021-01-01        |
 | CUUSA426SASL5   | Consumer Price Index for All Urban Consumers: Services less medical care services in Urban Hawaii (CBSA)          | 1984-01-01          | 2021-01-01        |
-| CUUSA426SASS    | Consumer Price Index for All Urban Consumers: Services in Urban Hawaii (CBSA)                                     | 1984-01-01          | 2021-07-01        |
+| CUUSA426SASS    | Consumer Price Index for All Urban Consumers: Services in Urban Hawaii (CBSA)                                     | 1984-01-01          | 2022-01-01        |
 | CUUSA426SAT     | Consumer Price Index for All Urban Consumers: Transportation in Urban Hawaii (CBSA)                               | 1984-01-01          | 2021-01-01        |
 | CUUSA426SAT1    | Consumer Price Index for All Urban Consumers: Private transportation in Urban Hawaii (CBSA)                       | 1984-01-01          | 2021-01-01        |
 | CUUSA426SATCLTB | Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in Urban Hawaii (CBSA)   | 2010-01-01          | 2020-01-01        |

@@ -1,3 +1,3 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 0 |
+| id     | title                            | observation_start   | observation_end   |
+|--------|----------------------------------|---------------------|-------------------|
+| SRVPRD | All Employees, Service-Providing | 1939-01-01          | 2022-06-01        |

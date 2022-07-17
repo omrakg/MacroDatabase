@@ -109,7 +109,7 @@
 | SEADTLITRZSMEA | Literacy Rate, Adult Total: All Income Levels for Middle East and North Africa         | 1973-01-01          | 2020-01-01        |
 | SEADTLITRZSMEX | Literacy Rate, Adult Total for Mexico                                                  | 1980-01-01          | 2020-01-01        |
 | SEADTLITRZSMIC | Literacy Rate, Adult Total for Middle Income Countries                                 | 1975-01-01          | 2020-01-01        |
-| SEADTLITRZSMKD | Literacy Rate, Adult Total for the former Yugoslav Republic of Macedonia               | 1994-01-01          | 2020-01-01        |
+| SEADTLITRZSMKD | Literacy Rate, Adult Total for the former Yugoslav Republic of Macedonia               | 1994-01-01          | 2014-01-01        |
 | SEADTLITRZSMLI | Literacy Rate, Adult Total for Mali                                                    | 1976-01-01          | 2020-01-01        |
 | SEADTLITRZSMLT | Literacy Rate, Adult Total for Malta                                                   | 1985-01-01          | 2018-01-01        |
 | SEADTLITRZSMMR | Literacy Rate, Adult Total for Myanmar                                                 | 1983-01-01          | 2019-01-01        |
@@ -118,7 +118,7 @@
 | SEADTLITRZSMNG | Literacy Rate, Adult Total for Mongolia                                                | 2000-01-01          | 2020-01-01        |
 | SEADTLITRZSMOZ | Literacy Rate, Adult Total for Mozambique                                              | 1980-01-01          | 2017-01-01        |
 | SEADTLITRZSMRT | Literacy Rate, Adult Total for Mauritania                                              | 2000-01-01          | 2017-01-01        |
-| SEADTLITRZSMUS | Literacy Rate, Adult Total for Mauritius                                               | 1990-01-01          | 2018-01-01        |
+| SEADTLITRZSMUS | Literacy Rate, Adult Total for Mauritius                                               | 1990-01-01          | 2016-01-01        |
 | SEADTLITRZSMWI | Literacy Rate, Adult Total for Malawi                                                  | 1987-01-01          | 2015-01-01        |
 | SEADTLITRZSMYS | Literacy Rate, Adult Total for Malaysia                                                | 1980-01-01          | 2019-01-01        |
 | SEADTLITRZSNAM | Literacy Rate, Adult Total for Namibia                                                 | 1991-01-01          | 2018-01-01        |

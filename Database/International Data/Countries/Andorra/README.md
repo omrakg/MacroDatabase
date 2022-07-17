@@ -38,7 +38,7 @@
 | MIANDA052SCEN    | Value of Exports to Andorra from Michigan                           | 1997-01-01          | 2008-01-01        |
 | MIANDA475SCEN    | Number of Identified Exporters to Andorra from Michigan             | 1992-01-01          | 2016-01-01        |
 | MKTGDPADA646NWDB | Gross Domestic Product for Andorra                                  | 1970-01-01          | 2021-01-01        |
-| MKTGNIADA646NWDB | Gross National Income for Andorra                                   | 1970-01-01          | 2013-01-01        |
+| MKTGNIADA646NWDB | Gross National Income for Andorra                                   | 2019-01-01          | 2019-01-01        |
 | MNANDA052SCEN    | Value of Exports to Andorra from Minnesota                          | 1997-01-01          | 1997-01-01        |
 | MNANDA475SCEN    | Number of Identified Exporters to Andorra from Minnesota            | 1997-01-01          | 2016-01-01        |
 | MOANDA475SCEN    | Number of Identified Exporters to Andorra from Missouri             | 1992-01-01          | 2014-01-01        |

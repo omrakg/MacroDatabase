@@ -315,9 +315,9 @@
 | SLRTTO01DEA657S | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2021-01-01        |
 | SLRTTO01DEA659S | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2021-01-01        |
 | SLRTTO01DEA661N | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2021-01-01        |
-| SLRTTO01DEQ657S | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2021-10-01        |
-| SLRTTO01DEQ659S | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2021-10-01        |
-| SLRTTO01DEQ661N | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2021-10-01        |
+| SLRTTO01DEQ657S | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2022-01-01        |
+| SLRTTO01DEQ659S | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2022-01-01        |
+| SLRTTO01DEQ661N | Volume of Total Retail Trade sales for Germany                            | 1960-01-01          | 2022-01-01        |
 | SLRTTO01DKA657S | Volume of Total Retail Trade sales for Denmark                            | 1969-01-01          | 2021-01-01        |
 | SLRTTO01DKA659S | Volume of Total Retail Trade sales for Denmark                            | 1969-01-01          | 2017-01-01        |
 | SLRTTO01DKQ657S | Volume of Total Retail Trade sales for Denmark                            | 1968-04-01          | 2022-01-01        |
@@ -420,9 +420,9 @@
 | SLRTTO01MXA657S | Volume of Total Retail Trade sales for Mexico                             | 1987-01-01          | 2021-01-01        |
 | SLRTTO01MXA659S | Volume of Total Retail Trade sales for Mexico                             | 1987-01-01          | 2021-01-01        |
 | SLRTTO01MXA661N | Volume of Total Retail Trade sales for Mexico                             | 1986-01-01          | 2021-01-01        |
-| SLRTTO01MXQ657S | Volume of Total Retail Trade sales for Mexico                             | 1986-04-01          | 2021-10-01        |
-| SLRTTO01MXQ659S | Volume of Total Retail Trade sales for Mexico                             | 1987-01-01          | 2021-10-01        |
-| SLRTTO01MXQ661N | Volume of Total Retail Trade sales for Mexico                             | 1986-01-01          | 2021-10-01        |
+| SLRTTO01MXQ657S | Volume of Total Retail Trade sales for Mexico                             | 1986-04-01          | 2022-01-01        |
+| SLRTTO01MXQ659S | Volume of Total Retail Trade sales for Mexico                             | 1987-01-01          | 2022-01-01        |
+| SLRTTO01MXQ661N | Volume of Total Retail Trade sales for Mexico                             | 1986-01-01          | 2022-01-01        |
 | SLRTTO01NLA657S | Volume of Total Retail Trade sales for the Netherlands                    | 1961-01-01          | 2021-01-01        |
 | SLRTTO01NLA659S | Volume of Total Retail Trade sales for the Netherlands                    | 1961-01-01          | 2021-01-01        |
 | SLRTTO01NLA661N | Volume of Total Retail Trade sales for the Netherlands                    | 1961-01-01          | 2021-01-01        |
@@ -440,11 +440,11 @@
 | SLRTTO01NZA657S | Volume of Total Retail Trade sales for New Zealand                        | 1964-01-01          | 2016-01-01        |
 | SLRTTO01NZA659S | Volume of Total Retail Trade sales for New Zealand                        | 1964-01-01          | 2016-01-01        |
 | SLRTTO01NZA661N | Volume of Total Retail Trade sales for New Zealand                        | 1963-01-01          | 2016-01-01        |
-| SLRTTO01NZQ189N | Volume of Total Retail Trade sales for New Zealand                        | 1963-01-01          | 2021-10-01        |
-| SLRTTO01NZQ189S | Volume of Total Retail Trade sales for New Zealand                        | 1963-01-01          | 2021-10-01        |
-| SLRTTO01NZQ657S | Volume of Total Retail Trade sales for New Zealand                        | 1963-04-01          | 2021-10-01        |
-| SLRTTO01NZQ659S | Volume of Total Retail Trade sales for New Zealand                        | 1964-01-01          | 2021-10-01        |
-| SLRTTO01NZQ661N | Volume of Total Retail Trade sales for New Zealand                        | 1963-01-01          | 2021-10-01        |
+| SLRTTO01NZQ189N | Volume of Total Retail Trade sales for New Zealand                        | 1963-01-01          | 2022-01-01        |
+| SLRTTO01NZQ189S | Volume of Total Retail Trade sales for New Zealand                        | 1963-01-01          | 2022-01-01        |
+| SLRTTO01NZQ657S | Volume of Total Retail Trade sales for New Zealand                        | 1963-04-01          | 2022-01-01        |
+| SLRTTO01NZQ659S | Volume of Total Retail Trade sales for New Zealand                        | 1964-01-01          | 2022-01-01        |
+| SLRTTO01NZQ661N | Volume of Total Retail Trade sales for New Zealand                        | 1963-01-01          | 2022-01-01        |
 | SLRTTO01PLA657S | Volume of Total Retail Trade sales for Poland                             | 1992-01-01          | 2021-01-01        |
 | SLRTTO01PLA659S | Volume of Total Retail Trade sales for Poland                             | 1992-01-01          | 2021-01-01        |
 | SLRTTO01PLA661N | Volume of Total Retail Trade sales for Poland                             | 1991-01-01          | 2021-01-01        |
@@ -530,8 +530,8 @@
 | SLRTTO02CZQ661N | Value of Total Retail Trade sales for the Czech Republic                  | 1996-01-01          | 2022-01-01        |
 | SLRTTO02DEA661N | Value of Total Retail Trade sales for Germany                             | 1960-01-01          | 2021-01-01        |
 | SLRTTO02DEA661S | Value of Total Retail Trade sales for Germany                             | 1960-01-01          | 2021-01-01        |
-| SLRTTO02DEQ661N | Value of Total Retail Trade sales for Germany                             | 1960-01-01          | 2021-10-01        |
-| SLRTTO02DEQ661S | Value of Total Retail Trade sales for Germany                             | 1960-01-01          | 2021-10-01        |
+| SLRTTO02DEQ661N | Value of Total Retail Trade sales for Germany                             | 1960-01-01          | 2022-01-01        |
+| SLRTTO02DEQ661S | Value of Total Retail Trade sales for Germany                             | 1960-01-01          | 2022-01-01        |
 | SLRTTO02DKA661N | Value of Total Retail Trade sales for Denmark                             | 1960-01-01          | 2021-01-01        |
 | SLRTTO02DKA661S | Value of Total Retail Trade sales for Denmark                             | 1960-01-01          | 2021-01-01        |
 | SLRTTO02DKQ661N | Value of Total Retail Trade sales for Denmark                             | 1960-01-01          | 2022-01-01        |
@@ -602,8 +602,8 @@
 | SLRTTO02NOQ661S | Value of Total Retail Trade sales for Norway                              | 1960-01-01          | 2022-01-01        |
 | SLRTTO02NZA189N | Value of Total Retail Trade sales for New Zealand                         | 1991-01-01          | 2016-01-01        |
 | SLRTTO02NZA189S | Value of Total Retail Trade sales for New Zealand                         | 1991-01-01          | 2016-01-01        |
-| SLRTTO02NZQ189N | Value of Total Retail Trade sales for New Zealand                         | 1990-04-01          | 2021-10-01        |
-| SLRTTO02NZQ189S | Value of Total Retail Trade sales for New Zealand                         | 1990-04-01          | 2021-10-01        |
+| SLRTTO02NZQ189N | Value of Total Retail Trade sales for New Zealand                         | 1990-04-01          | 2022-01-01        |
+| SLRTTO02NZQ189S | Value of Total Retail Trade sales for New Zealand                         | 1990-04-01          | 2022-01-01        |
 | SLRTTO02PLA661N | Value of Total Retail Trade sales for Poland                              | 1980-01-01          | 2021-01-01        |
 | SLRTTO02PLA661S | Value of Total Retail Trade sales for Poland                              | 1980-01-01          | 2021-01-01        |
 | SLRTTO02PLQ661N | Value of Total Retail Trade sales for Poland                              | 1980-01-01          | 2022-01-01        |

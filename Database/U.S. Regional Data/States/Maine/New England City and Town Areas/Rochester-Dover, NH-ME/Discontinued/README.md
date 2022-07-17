@@ -66,9 +66,14 @@
 | SMU33773507000000001A  | All Employees: Leisure and Hospitality in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                         | 1990-01-01          | 2013-01-01        |
 | SMU33773508000000001A  | All Employees: Other Services in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                                  | 1990-01-01          | 2013-01-01        |
 | SMU33773509000000001A  | All Employees: Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                                      | 1990-01-01          | 2013-01-01        |
+| SMU33773509091000001   | All Employees: Federal Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                              | 1990-01-01          | 2014-12-01        |
 | SMU33773509091000001A  | All Employees: Federal Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                              | 1990-01-01          | 2013-01-01        |
+| SMU33773509092000001   | All Employees: State Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                                | 2003-01-01          | 2014-12-01        |
 | SMU33773509092000001A  | All Employees: State Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                                | 2003-01-01          | 2013-01-01        |
+| SMU33773509092000001SA | All Employees: State Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                                | 2003-01-01          | 2014-12-01        |
+| SMU33773509093000001   | All Employees: Local Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                                | 1990-01-01          | 2014-12-01        |
 | SMU33773509093000001A  | All Employees: Local Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                                | 1990-01-01          | 2013-01-01        |
+| SMU33773509093000001SA | All Employees: Local Government in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)                                | 1990-01-01          | 2014-12-01        |
 | SMU33773509093161101   | All Employees: Local Government Educational Services in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)           | 2005-01-01          | 2014-12-01        |
 | SMU33773509093161101A  | All Employees: Local Government Educational Services in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)           | 2005-01-01          | 2013-01-01        |
 | SMU33773509093161101SA | All Employees: Local Government Educational Services in Rochester-Dover, NH-ME (NECTA) (DISCONTINUED)           | 2005-01-01          | 2014-12-01        |

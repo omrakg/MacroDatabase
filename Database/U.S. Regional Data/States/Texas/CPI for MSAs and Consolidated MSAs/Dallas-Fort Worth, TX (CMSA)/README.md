@@ -1,7 +1,7 @@
 | id              | title                                                                                                                                | observation_start   | observation_end   |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | CUURA316SA0     | Consumer Price Index for All Urban Consumers: All Items in Dallas-Fort Worth-Arlington, TX (CBSA)                                    | 1963-11-01          | 2022-05-01        |
-| CUURA316SA0E    | Consumer Price Index for All Urban Consumers: Energy in Dallas-Fort Worth-Arlington, TX (CBSA)                                       | 1978-02-01          | 2022-05-01        |
+| CUURA316SA0E    | Consumer Price Index for All Urban Consumers: Energy in Dallas-Fort Worth-Arlington, TX (CBSA)                                       | 1978-02-01          | 2022-06-01        |
 | CUURA316SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Dallas-Fort Worth-Arlington, TX (CBSA)               | 1982-02-01          | 2022-05-01        |
 | CUURA316SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in Dallas-Fort Worth-Arlington, TX (CBSA)                       | 1975-11-01          | 2022-05-01        |
 | CUURA316SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in Dallas-Fort Worth-Arlington, TX (CBSA)                  | 1966-11-01          | 2022-05-01        |
@@ -16,16 +16,16 @@
 | CUURA316SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in Dallas-Fort Worth-Arlington, TX (CBSA)         | 2010-01-01          | 2022-05-01        |
 | CUURA316SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in Dallas-Fort Worth-Arlington, TX (CBSA)                           | 1975-11-01          | 2022-05-01        |
 | CUURA316SAF1    | Consumer Price Index for All Urban Consumers: Food in Dallas-Fort Worth-Arlington, TX (CBSA)                                         | 1963-11-01          | 2022-05-01        |
-| CUURA316SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Dallas-Fort Worth-Arlington, TX (CBSA)                                 | 1963-11-01          | 2022-05-01        |
+| CUURA316SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Dallas-Fort Worth-Arlington, TX (CBSA)                                 | 1963-11-01          | 2022-06-01        |
 | CUURA316SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Dallas-Fort Worth-Arlington, TX (CBSA)                          | 1975-11-01          | 2022-05-01        |
 | CUURA316SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in Dallas-Fort Worth-Arlington, TX (CBSA)                     | 1975-11-01          | 2022-05-01        |
 | CUURA316SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in Dallas-Fort Worth-Arlington, TX (CBSA)                                  | 2010-01-01          | 2022-05-01        |
 | CUURA316SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in Dallas-Fort Worth-Arlington, TX (CBSA)                      | 2010-01-01          | 2022-05-01        |
 | CUURA316SAH     | Consumer Price Index for All Urban Consumers: Housing in Dallas-Fort Worth-Arlington, TX (CBSA)                                      | 1975-11-01          | 2022-05-01        |
-| CUURA316SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Dallas-Fort Worth-Arlington, TX (CBSA)                                      | 1963-11-01          | 2022-05-01        |
+| CUURA316SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Dallas-Fort Worth-Arlington, TX (CBSA)                                      | 1963-11-01          | 2022-06-01        |
 | CUURA316SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in Dallas-Fort Worth-Arlington, TX (CBSA)                          | 1963-11-01          | 2022-05-01        |
 | CUURA316SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Dallas-Fort Worth-Arlington, TX (CBSA)         | 1975-11-01          | 2022-05-01        |
-| CUURA316SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Dallas-Fort Worth-Arlington, TX (CBSA)                             | 1976-01-01          | 2022-05-01        |
+| CUURA316SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Dallas-Fort Worth-Arlington, TX (CBSA)                             | 1976-01-01          | 2022-06-01        |
 | CUURA316SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in Dallas-Fort Worth-Arlington, TX (CBSA)           | 2010-01-01          | 2022-05-01        |
 | CUURA316SAM     | Consumer Price Index for All Urban Consumers: Medical Care in Dallas-Fort Worth-Arlington, TX (CBSA)                                 | 1963-11-01          | 2022-05-01        |
 | CUURA316SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Dallas-Fort Worth-Arlington, TX (CBSA)                                  | 1966-11-01          | 2022-05-01        |
@@ -39,17 +39,17 @@
 | CUURA316SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in Dallas-Fort Worth-Arlington, TX (CBSA)                       | 1963-11-01          | 2022-05-01        |
 | CUURA316SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Dallas-Fort Worth-Arlington, TX (CBSA)   | 2010-01-01          | 2022-05-01        |
 | CUURA316SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in Dallas-Fort Worth-Arlington, TX (CBSA)                          | 1963-11-01          | 2022-05-01        |
-| CUURA316SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Dallas-Fort Worth-Arlington, TX (CBSA)                    | 1963-11-01          | 2022-05-01        |
-| CUURA316SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Dallas-Fort Worth-Arlington, TX (CBSA)        | 1982-12-01          | 2022-05-01        |
-| CUURA316SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Dallas-Fort Worth-Arlington, TX (CBSA) | 1982-12-01          | 2022-05-01        |
-| CUURA316SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Dallas-Fort Worth-Arlington, TX (CBSA)                              | 1963-11-01          | 2022-05-01        |
-| CUURA316SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Dallas-Fort Worth-Arlington, TX (CBSA)                                  | 1971-05-01          | 2022-05-01        |
-| CUURA316SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Dallas-Fort Worth-Arlington, TX (CBSA)                  | 1971-05-01          | 2022-05-01        |
-| CUURA316SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Dallas-Fort Worth-Arlington, TX (CBSA)                                   | 1978-02-01          | 2022-05-01        |
-| CUURA316SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Dallas-Fort Worth-Arlington, TX (CBSA)                         | 1978-02-01          | 2022-05-01        |
-| CUURA316SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Dallas-Fort Worth-Arlington, TX (CBSA)                   | 1976-01-01          | 2022-05-01        |
-| CUURA316SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Dallas-Fort Worth-Arlington, TX (CBSA)                  | 1993-12-01          | 2022-05-01        |
-| CUURA316SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Dallas-Fort Worth-Arlington, TX (CBSA)                   | 1981-08-01          | 2022-05-01        |
+| CUURA316SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Dallas-Fort Worth-Arlington, TX (CBSA)                    | 1963-11-01          | 2022-06-01        |
+| CUURA316SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Dallas-Fort Worth-Arlington, TX (CBSA)        | 1982-12-01          | 2022-06-01        |
+| CUURA316SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Dallas-Fort Worth-Arlington, TX (CBSA) | 1982-12-01          | 2022-06-01        |
+| CUURA316SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Dallas-Fort Worth-Arlington, TX (CBSA)                              | 1963-11-01          | 2022-06-01        |
+| CUURA316SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Dallas-Fort Worth-Arlington, TX (CBSA)                                  | 1971-05-01          | 2022-06-01        |
+| CUURA316SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Dallas-Fort Worth-Arlington, TX (CBSA)                  | 1971-05-01          | 2022-06-01        |
+| CUURA316SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Dallas-Fort Worth-Arlington, TX (CBSA)                                   | 1978-02-01          | 2022-06-01        |
+| CUURA316SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Dallas-Fort Worth-Arlington, TX (CBSA)                         | 1978-02-01          | 2022-06-01        |
+| CUURA316SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Dallas-Fort Worth-Arlington, TX (CBSA)                   | 1976-01-01          | 2022-06-01        |
+| CUURA316SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Dallas-Fort Worth-Arlington, TX (CBSA)                  | 1993-12-01          | 2022-06-01        |
+| CUURA316SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Dallas-Fort Worth-Arlington, TX (CBSA)                   | 1981-08-01          | 2022-06-01        |
 | CUUSA316SA0     | Consumer Price Index for All Urban Consumers: All items in Dallas-Fort Worth-Arlington, TX (CBSA)                                    | 1984-01-01          | 2021-01-01        |
 | CUUSA316SA0E    | Consumer Price Index for All Urban Consumers: Energy in Dallas-Fort Worth-Arlington, TX (CBSA)                                       | 1984-01-01          | 2021-01-01        |
 | CUUSA316SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in Dallas-Fort Worth-Arlington, TX (CBSA)               | 1984-01-01          | 2021-01-01        |
