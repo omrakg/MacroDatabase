@@ -1,0 +1,17 @@
+{
+  "id": "LEWI623URN",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Unemployment Rate in Lewiston-Auburn, ME (NECTA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-29 10:12:44-05",
+  "popularity": 4,
+  "group_popularity": 5
+}

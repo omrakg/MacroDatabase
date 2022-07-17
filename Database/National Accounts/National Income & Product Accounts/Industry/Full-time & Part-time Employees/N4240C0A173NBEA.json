@@ -1,7 +1,7 @@
 {
   "id": "N4240C0A173NBEA",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Full-time and part-time employees: Domestic private industries: Retail trade: Food and beverage stores",
   "observation_start": "1998-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:38:11-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: N4240C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

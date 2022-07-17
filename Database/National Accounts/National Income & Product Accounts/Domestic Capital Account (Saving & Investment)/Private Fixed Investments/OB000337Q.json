@@ -1,7 +1,7 @@
 {
   "id": "OB000337Q",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Real Private Fixed Investment",
   "observation_start": "2003-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-29 07:57:48-05",
   "popularity": 1,
-  "group_popularity": 18,
+  "group_popularity": 22,
   "notes": "BEA Account Code: OB000337"
 }

@@ -1,7 +1,7 @@
 {
   "id": "M318191Q027NBEA",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Federal government expenditures: Budget outlays",
   "observation_start": "1959-07-01",
   "observation_end": "2020-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-02 11:23:02-05",
-  "popularity": 24,
-  "group_popularity": 25,
+  "popularity": 20,
+  "group_popularity": 21,
   "notes": "BEA Account Code: M318191\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

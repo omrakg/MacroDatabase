@@ -1,0 +1,18 @@
+{
+  "id": "RIFSPPCUSNM",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commercial Paper Funding Facility (CPFF) (DISCONTINUED)",
+  "observation_start": "2008-10-01",
+  "observation_end": "2010-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-03 16:09:05-05",
+  "popularity": 0,
+  "group_popularity": 2,
+  "notes": "Averages of daily figures.\n\nThe Federal Reserve Board has discontinued this series. For more information see the H.15 Statistical Release (https://www.federalreserve.gov/releases/h15/default.htm)."
+}

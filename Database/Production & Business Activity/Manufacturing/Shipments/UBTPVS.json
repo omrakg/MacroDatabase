@@ -1,0 +1,17 @@
+{
+  "id": "UBTPVS",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Manufacturers' Value of Shipments: Motor Vehicle Bodies, Trailers, and Parts",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-05 09:04:22-05",
+  "popularity": 1,
+  "group_popularity": 3
+}

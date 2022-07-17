@@ -1,7 +1,7 @@
 {
   "id": "M04072US000MAM324NNBR",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Cost of Living Index for Massachusetts",
   "observation_start": "1910-01-01",
   "observation_end": "1943-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:53:05-05",
-  "popularity": 14,
-  "group_popularity": 14,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "Cost Of Living Numbers For 1910-1918 Were Compiled By The Former Commissioner Of Necessaries Of Life And Were Published In Annual Reports. The Index Numbers Here Given Are In Continuation Of Series And The Same Procedure Was Followed In Their Collection And Compilation. The Revised Weights Used In Deriving The Index Were Food, 37.6, Clothing, 12.8, Shelter, 21.8, Fuel And Light, 5.0, And Sundries, 22.8. Source: Department Of Labor And Industries, Annual Report; The Commonwealth Of Massachusetts, 1932, Pp. 185-190; 1933, Pp. 153-156; 1939, Pp. 126-128\n\nThis NBER data series m04072 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04072"
 }

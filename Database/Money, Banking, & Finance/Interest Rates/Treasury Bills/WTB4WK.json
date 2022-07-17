@@ -1,0 +1,18 @@
+{
+  "id": "WTB4WK",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "4-Week Treasury Bill Secondary Market Rate, Discount Basis",
+  "observation_start": "2001-08-03",
+  "observation_end": "2022-07-08",
+  "frequency": "Weekly, Ending Friday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-11 15:26:51-05",
+  "popularity": 13,
+  "group_popularity": 60,
+  "notes": "Averages of business days. Discount basis."
+}

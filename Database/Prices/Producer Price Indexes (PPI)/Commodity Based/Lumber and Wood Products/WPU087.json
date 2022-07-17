@@ -1,0 +1,17 @@
+{
+  "id": "WPU087",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Producer Price Index by Commodity: Lumber and Wood Products: Treated Wood and Contract Wood Preserving",
+  "observation_start": "1985-06-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1985=100",
+  "units_short": "Index Jun 1985=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 07:52:51-05",
+  "popularity": 30,
+  "group_popularity": 32
+}

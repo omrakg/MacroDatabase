@@ -1,17 +1,17 @@
 {
   "id": "SMU48000004244700008",
-  "realtime_start": "2022-06-05",
-  "realtime_end": "2022-06-05",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Average Hourly Earnings of Production Employees: Retail Trade: Gasoline Stations in Texas",
   "observation_start": "2001-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Dollars per Hour",
   "units_short": "$ per Hour",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-21 02:21:46-05",
+  "last_updated": "2022-07-12 14:18:46-05",
   "popularity": 1,
   "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "AKPCPI",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Per Capita Personal Income in Alaska",
   "observation_start": "1950-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 13:28:08-05",
-  "popularity": 8,
-  "group_popularity": 8
+  "popularity": 11,
+  "group_popularity": 11
 }

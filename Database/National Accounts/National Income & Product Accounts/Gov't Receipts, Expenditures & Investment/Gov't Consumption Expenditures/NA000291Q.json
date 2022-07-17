@@ -1,7 +1,7 @@
 {
   "id": "NA000291Q",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Federal government consumption expenditures",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-29 07:57:58-05",
   "popularity": 1,
-  "group_popularity": 10,
+  "group_popularity": 9,
   "notes": "BEA Account Code: NA000291"
 }

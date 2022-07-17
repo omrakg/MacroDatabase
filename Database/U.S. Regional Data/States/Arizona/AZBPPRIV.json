@@ -1,7 +1,7 @@
 {
   "id": "AZBPPRIV",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "New Private Housing Units Authorized by Building Permits for Arizona",
   "observation_start": "1988-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-24 08:42:05-05",
-  "popularity": 14,
-  "group_popularity": 20,
+  "popularity": 22,
+  "group_popularity": 26,
   "notes": "This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more."
 }

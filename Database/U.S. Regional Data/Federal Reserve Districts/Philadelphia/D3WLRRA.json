@@ -1,17 +1,17 @@
 {
   "id": "D3WLRRA",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Wednesday Level in Federal Reserve District 3: Philadelphia",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-07-06",
+  "observation_end": "2022-07-13",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-07 15:35:36-05",
+  "last_updated": "2022-07-14 19:53:02-05",
   "popularity": 1,
   "group_popularity": 1
 }

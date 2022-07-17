@@ -1,0 +1,17 @@
+{
+  "id": "WPUSI01102A",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Producer Price Index by Commodity: Special Indexes: Apples",
+  "observation_start": "2008-06-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2008=100",
+  "units_short": "Index Jun 2008=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 07:50:23-05",
+  "popularity": 12,
+  "group_popularity": 12
+}

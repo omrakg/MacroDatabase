@@ -1,7 +1,7 @@
 {
   "id": "M04034US000NYM267NNBR",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Wholesale Price of Coffee for New York",
   "observation_start": "1890-01-01",
   "observation_end": "1940-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:01-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Original 1890-1917 Data Are First Of Month Quotations. For 1890-1917, Midmonth Data Were Computed By NBER By Averaging First Of Month Figure With That Of First Of Following Month. Beginning In 1918, Monthly Averages Of Weekly Quotations Are Used. Data Are For Rio #7, Brazil Grades, Invoice Lots F.O.B. New York. Source: Direct From Bls Records\n\nThis NBER data series m04034 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04034"
 }

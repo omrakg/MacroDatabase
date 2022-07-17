@@ -1,7 +1,7 @@
 {
   "id": "RGMPPRISERVPROUSMP",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Real Gross Domestic Product: Private Services-Providing Industries for United States Metropolitan Portion",
   "observation_start": "2001-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-08 08:36:32-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "The private services-producing sector consists of utilities; wholesale trade; retail trade; transportation and warehousing, excluding Postal Service; information; finance and insurance; real estate, rental, and leasing; professional and technical services; management of companies; administrative and waste services; educational services; health care and social assistance; arts, entertainment, and recreation; accommodation and food services; and other services, except government.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
 }

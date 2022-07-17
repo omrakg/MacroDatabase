@@ -1,7 +1,7 @@
 {
   "id": "M0442AUS37980M290NNBR",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Wholesale Price of Scrap, No.1 Wrought Iron for Philadelphia, PA",
   "observation_start": "1873-01-01",
   "observation_end": "1890-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:14-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1873-1890 (2)--Original Data, 1890-1892. Prices Given Are The Delivered Price At Philadelphia. Add $0.50 For Deliveries In The Interior. Data Are The Averages Of Weekly Quotations. Averages Are Of Lows When The Range Is Given In The Source. Weeks Ending On The 1St, 2Nd, Or 3Rd Of A Month Are Included In The Preceding Month (This Means Issues Of Iron Age Up To The 5Th Of The Month). In 1881 And 1882 (And Probably In The First Half Of 1883), There May Be A Downward Bias In The Figures Shown Here, Since The Range Of Prices Quoted Covers The Medium Qualities As Well, For Which The Low Prices Are Usually Lower Than Those For Selected Or No.1. They Cannot Be Segregated. In Two Weekly Reports In November, 1900, The Specification Is Given As \"No.1 Railway.\" The October, 1890 Price Is The Last One Shown For \"No.1 Wrought Scrap.\" No.1 Railroad Scrap Is Quoted Instead, After Having Been Quoted For 1 And 1/2 Months Together With \"No.1 Wrought.\" The Two Specifications Probably Cover Similar Types Of Scrap. The Following Is A Quotation From The Report On Prices From Pittsburgh For October 11, 1883 (When No Quotations For Scrap Appeared For Philadelphia): \"For Selected Railroad.\" Figures Here Are The Average Of Weekly Quotations. Source: The Iron Age, January 6, 1876 For 1873-1875 Data; Weekly Issues Thereafter.\n\nThis NBER data series m04142a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04142a"
 }

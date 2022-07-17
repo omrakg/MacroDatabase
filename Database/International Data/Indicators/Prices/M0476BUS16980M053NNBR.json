@@ -1,7 +1,7 @@
 {
   "id": "M0476BUS16980M053NNBR",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Wholesale Price of Portland Cement for Chicago, IL",
   "observation_start": "1914-01-01",
   "observation_end": "1941-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:29-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1895-1914 (2)--Original Data, 1914-1941. The Price In The Engineering News Record Construction Cost Index Is Used Here. It Is The Average For A Month, F.O.B. Cars, Chicago, Including Dealer'S Commission But Not Including Sacks. Source: Engineering News Record\n\nThis NBER data series m04076b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04076b"
 }

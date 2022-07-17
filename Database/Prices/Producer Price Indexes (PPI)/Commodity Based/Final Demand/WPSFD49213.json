@@ -1,0 +1,17 @@
+{
+  "id": "WPSFD49213",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Producer Price Index by Commodity: Final Demand: Finished Services Less Trade Services",
+  "observation_start": "2010-04-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Apr 2010=100",
+  "units_short": "Index Apr 2010=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-07-14 08:01:51-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

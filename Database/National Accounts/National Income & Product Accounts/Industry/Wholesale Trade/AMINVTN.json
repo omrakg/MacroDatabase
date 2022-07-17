@@ -1,0 +1,18 @@
+{
+  "id": "AMINVTN",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Advance Merchant Wholesale Inventories: Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories",
+  "observation_start": "2022-04-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-28 07:31:32-05",
+  "popularity": 2,
+  "group_popularity": 6,
+  "notes": "This series represent the advance estimate of the current month and revised estimate of the prior month of nearly complete coverage. The current month statistics reflecting complete coverage is available on FRED at https://fred.stlouisfed.org/series/I42IMNM144NCEN \n\nFor more information on data collection and methodology, see https://www.census.gov/econ/indicators/methodology.html"
+}

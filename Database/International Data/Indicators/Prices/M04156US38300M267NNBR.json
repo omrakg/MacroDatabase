@@ -1,7 +1,7 @@
 {
   "id": "M04156US38300M267NNBR",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Wholesale Price of Hot-Rolled Sheets, #10 Gage for Pittsburgh, PA",
   "observation_start": "1920-01-01",
   "observation_end": "1940-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:51:58-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Quotations Since May, 1933 Were Established By Adding Extra For Annealing To The Base Price For Hot-Rolled Sheets, No.10 Gage. From May 10, 1939 To And Including May 15, 1939, Reductions Of From $4.00 To $8.00 A Ton Off Base Prices Were Prevalent. Although These Concessions Were Withdrawn On May 15, Many Orders Originally Placed At Concessions Ranging From $4.00 To $6.00 Were Later Adjusted To The Maximum $8.00 Reduction From The Base Price. 1940 Data Were Computed By NBER From Weekly Data. Source: Iron Age, January 3, 1935, P.268, January 4, 1940, P.172, And Following Issues.\n\nThis NBER data series m04156 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04156"
 }

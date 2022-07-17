@@ -1,7 +1,7 @@
 {
   "id": "M0419BUS33460M053NNBR",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Wholesale Price of Wheat Flour for Minneapolis, MN",
   "observation_start": "1913-01-01",
   "observation_end": "1941-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:29-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "1914 Quotations Are \"In Each Week\"; 1915 Are \"On One Day (Varying) In Each Week\"; 1916-1941 Are On Tuesdays Of Each Week. Source: Bls Bulletins; 1913: War Industries Board, \"Prices Of Wheat And Wheat Products\", P. 16; 1918: The Same Source, P. 17\n\nThis NBER data series m04019b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04019b"
 }

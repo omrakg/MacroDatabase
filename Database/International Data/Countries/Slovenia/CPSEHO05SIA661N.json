@@ -1,7 +1,7 @@
 {
   "id": "CPSEHO05SIA661N",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
   "observation_start": "2000-01-01",
   "observation_end": "2017-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-03-09 15:22:57-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: SVN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

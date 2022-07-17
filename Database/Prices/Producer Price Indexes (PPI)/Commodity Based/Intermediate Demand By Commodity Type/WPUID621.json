@@ -1,0 +1,17 @@
+{
+  "id": "WPUID621",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Foodstuffs and Feedstuffs",
+  "observation_start": "1947-01-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 08:02:56-05",
+  "popularity": 3,
+  "group_popularity": 5
+}

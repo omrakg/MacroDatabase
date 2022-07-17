@@ -1,7 +1,7 @@
 {
   "id": "DSERRS2A224NBEA",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Contributions to percent change in gross domestic purchases: Personal consumption expenditures: Services",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 07:56:28-06",
   "popularity": 0,
-  "group_popularity": 3,
+  "group_popularity": 1,
   "notes": "BEA Account Code: DSERRS\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

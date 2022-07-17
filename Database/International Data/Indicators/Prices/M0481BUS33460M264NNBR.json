@@ -1,7 +1,7 @@
 {
   "id": "M0481BUS33460M264NNBR",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Wholesale Price Linseed Oil, Raw for Minneapolis, MN",
   "observation_start": "1952-01-01",
   "observation_end": "1958-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:57:27-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Two Variables--(1) --Original Data, 1890-1952 (2) Original Data, 1952-1958. Additionally, Series 04081B Is Comprised Of By Original Data For 1909-1941 For Crude Cottonseed Oil. This Series, No. 06-22-36.01, Is Wholesale Price Of Linseed Oil In Tank Cars, F.O.B. Minneapolis. Annual Figure Given For 1958 Is Bases On Two Months (January- February). Source: Bls, Monthly Wholesale Prices And Price Indexes For June, 1952 Through December, 1953, 1957, And 1958; Bulletin No. 1214, For 1954- 1956; January-May, 1952 From Survey Of Current Business, 1955 Statist- Ical Supplement (Scb Publishes Series Throughout The Period Given).\n\nThis NBER data series m04081b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04081b"
 }

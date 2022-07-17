@@ -1,0 +1,17 @@
+{
+  "id": "DRSREACBS",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Delinquency Rate on Loans Secured by Real Estate, All Commercial Banks",
+  "observation_start": "1987-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-05-20 13:19:07-05",
+  "popularity": 40,
+  "group_popularity": 40
+}

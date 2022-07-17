@@ -1,0 +1,17 @@
+{
+  "id": "AUESA",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Auto Exports",
+  "observation_start": "1993-01-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-06-30 08:44:21-05",
+  "popularity": 15,
+  "group_popularity": 18
+}

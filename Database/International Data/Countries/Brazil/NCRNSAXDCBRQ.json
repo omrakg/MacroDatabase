@@ -1,0 +1,17 @@
+{
+  "id": "NCRNSAXDCBRQ",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Real Final Consumption Expenditure for Brazil",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Domestic Currency",
+  "units_short": "Domestic Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-20 07:10:29-05",
+  "popularity": 1,
+  "group_popularity": 2
+}

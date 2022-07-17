@@ -1,7 +1,7 @@
 {
   "id": "PRURN",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Unemployment Rate in Puerto Rico",
   "observation_start": "1976-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-22 11:13:00-05",
-  "popularity": 11,
-  "group_popularity": 18
+  "popularity": 9,
+  "group_popularity": 17
 }

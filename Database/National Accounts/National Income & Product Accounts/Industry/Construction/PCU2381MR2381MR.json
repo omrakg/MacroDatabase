@@ -1,0 +1,17 @@
+{
+  "id": "PCU2381MR2381MR",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "Producer Price Index by Industry: Nonresidential Building Maintenance and Repair",
+  "observation_start": "2009-04-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Apr 2009=100",
+  "units_short": "Index April 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 07:56:23-05",
+  "popularity": 18,
+  "group_popularity": 18
+}

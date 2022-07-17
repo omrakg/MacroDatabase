@@ -1,7 +1,7 @@
 {
   "id": "M0482AUS16980M267NNBR",
-  "realtime_start": "2022-04-24",
-  "realtime_end": "2022-04-24",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "Wholesale Price of Hides, Packer, Heavy Native Steers for Chicago, IL",
   "observation_start": "1890-01-01",
   "observation_end": "1951-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:53:37-05",
   "popularity": 1,
-  "group_popularity": 7,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables-- (1)-- Original Data, 1890-1951 (2)--Original Data, 1947-1958. Prices For 1890-1896 Are First Of Month; 1897-1908 Are Average Monthly Price; 1909-1913 Are First Of Month; 1914-1917 Are First Wednesday Of Month; 1918-1951 Are Average Monthly Price. This Series Is Called Green, Salted Hides Through 1926. Source: Bls Bulletin Nos. 39, 45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114, 149, 181, 200, 226, 269, 296, 335, 367, 415, 440, 473, 493, 521, 543, 572, And Monthly \"Wholesale Prices\" For 1890-1941; Bulletin Nos. 718, 736, 759, 785, 870, 877, 920, 947, 973, And 1007 For 1942- June, 1949. After June, 1941, This Price Was Not Quoted By Bls. See Bls Bulletin No. 1007: Wholesale Prices, 1949, P.19; Survey Of Current Business Continues The Series Through January, 1951 (See October, 1951).\n\nThis NBER data series m04082a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04082a"
 }

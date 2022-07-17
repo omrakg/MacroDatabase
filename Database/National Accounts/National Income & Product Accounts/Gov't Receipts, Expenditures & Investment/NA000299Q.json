@@ -1,7 +1,7 @@
 {
   "id": "NA000299Q",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
   "title": "State and local government current receipts: Government social benefit payments to persons",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-29 07:57:57-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: NA000299"
 }

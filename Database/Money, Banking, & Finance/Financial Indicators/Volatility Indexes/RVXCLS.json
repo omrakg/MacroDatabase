@@ -1,0 +1,18 @@
+{
+  "id": "RVXCLS",
+  "realtime_start": "2022-07-17",
+  "realtime_end": "2022-07-17",
+  "title": "CBOE Russell 2000 Volatility Index",
+  "observation_start": "2004-01-02",
+  "observation_end": "2022-07-14",
+  "frequency": "Daily, Close",
+  "frequency_short": "D",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-15 08:36:29-05",
+  "popularity": 33,
+  "group_popularity": 33,
+  "notes": "Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission."
+}
