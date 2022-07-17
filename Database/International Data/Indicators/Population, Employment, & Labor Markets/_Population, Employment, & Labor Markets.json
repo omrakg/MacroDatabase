@@ -1,20 +1,20 @@
 {
   "NROU": {
     "id": "NROU",
-    "realtime_start": "2022-05-08",
-    "realtime_end": "2022-05-08",
+    "realtime_start": "2022-07-17",
+    "realtime_end": "2022-07-17",
     "title": "Noncyclical Rate of Unemployment",
     "observation_start": "1949-01-01",
-    "observation_end": "2031-10-01",
+    "observation_end": "2032-10-01",
     "frequency": "Quarterly",
     "frequency_short": "Q",
     "units": "Percent",
     "units_short": "%",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2021-02-01 14:37:05-06",
-    "popularity": 69,
-    "group_popularity": 69,
+    "last_updated": "2022-05-26 13:45:04-05",
+    "popularity": 66,
+    "group_popularity": 66,
     "notes": "Starting with the July, 2021 report: An Update to the Budget and Economic Outlook: 2021 to 2031 (https://www.cbo.gov/publication/57218), this series was renamed from \"Natural Rate of Unemployment (Long-Term)\" to \"Noncyclical Rate of Unemployment\".\n\nThe natural rate of unemployment (NAIRU) is the rate of unemployment arising from all sources except fluctuations in aggregate demand. Estimates of potential GDP are based on the long-term natural rate. (CBO did not make explicit adjustments to the short-term natural rate for structural factors before the recent downturn.) The short-term natural rate incorporates structural factors that are temporarily boosting the natural rate beginning in 2008. The short-term natural rate is used to gauge the amount of current and projected slack in labor markets, which is a key input into CBO's projections of inflation.",
     "path": "Database/International Data/Indicators/Population, Employment, & Labor Markets"
   }
