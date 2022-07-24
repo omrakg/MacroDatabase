@@ -1,0 +1,17 @@
+{
+  "id": "PCU3115133115131",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Cheese Manufacturing: Natural Cheese (Cheddar, Swiss, Italian, Brick, Cream, Grated, Dried etc.) Excluding Cottage Cheese",
+  "observation_start": "1967-01-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1981=100",
+  "units_short": "Index Jun 1981=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 07:56:16-05",
+  "popularity": 18,
+  "group_popularity": 18
+}

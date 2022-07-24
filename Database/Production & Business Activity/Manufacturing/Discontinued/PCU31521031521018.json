@@ -1,0 +1,17 @@
+{
+  "id": "PCU31521031521018",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Cut and Sew Apparel Contractors: Contract Receipts for Men's/Boys' Pants, Work Apparel, and Other Outerwear (DISCONTINUED)",
+  "observation_start": "2007-06-01",
+  "observation_end": "2017-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2007=100",
+  "units_short": "Index Jun 2007=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-06-13 09:59:48-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

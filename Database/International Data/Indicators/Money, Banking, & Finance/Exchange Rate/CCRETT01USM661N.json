@@ -1,7 +1,7 @@
 {
   "id": "CCRETT01USM661N",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Real Effective Exchange Rates Based on Manufacturing Consumer Price Index for the United States",
   "observation_start": "1970-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 14:15:16-05",
-  "popularity": 13,
-  "group_popularity": 16,
+  "popularity": 11,
+  "group_popularity": 13,
   "notes": "OECD descriptor ID: CCRETT01\nOECD unit ID: IXOB\nOECD country ID: USA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

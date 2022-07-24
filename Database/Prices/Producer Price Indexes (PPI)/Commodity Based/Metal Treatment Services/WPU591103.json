@@ -1,7 +1,7 @@
 {
   "id": "WPU591103",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Heat Treating",
   "observation_start": "1985-06-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 08:01:06-05",
-  "popularity": 3,
-  "group_popularity": 4
+  "popularity": 6,
+  "group_popularity": 8
 }

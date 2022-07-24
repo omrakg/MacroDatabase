@@ -1,7 +1,7 @@
 {
   "id": "CUUR0100SA0",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Consumer Price Index for All Urban Consumers: All Items in Northeast",
   "observation_start": "1966-12-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-13 07:39:13-05",
-  "popularity": 15,
-  "group_popularity": 15
+  "popularity": 12,
+  "group_popularity": 12
 }

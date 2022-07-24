@@ -1,7 +1,7 @@
 {
   "id": "WPU05730201",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Home Heating Oil and Distillates",
   "observation_start": "1973-02-01",
   "observation_end": "2022-06-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 07:58:56-05",
   "popularity": 3,
-  "group_popularity": 7
+  "group_popularity": 8
 }

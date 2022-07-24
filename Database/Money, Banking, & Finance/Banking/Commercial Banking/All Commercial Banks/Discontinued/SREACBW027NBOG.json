@@ -1,7 +1,7 @@
 {
   "id": "SREACBW027NBOG",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Securitized Real Estate Loans, All Commercial Banks (DISCONTINUED)",
   "observation_start": "2007-07-04",
   "observation_end": "2014-12-31",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-01-09 15:44:13-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

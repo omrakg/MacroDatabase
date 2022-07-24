@@ -1,7 +1,7 @@
 {
   "id": "NGDPRNSAXDCGBQ",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Real Gross Domestic Product for Great Britain",
   "observation_start": "1995-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Domestic Currency",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-30 07:09:10-05",
-  "popularity": 11,
-  "group_popularity": 26
+  "last_updated": "2022-07-18 07:09:05-05",
+  "popularity": 5,
+  "group_popularity": 25
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU05120922",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Prepared Bituminous Coal Underground Mine, Mechanically Crushed/Screened/Sized Only",
   "observation_start": "2008-06-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 08:07:05-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 4,
+  "group_popularity": 4
 }

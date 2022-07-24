@@ -1,0 +1,17 @@
+{
+  "id": "PCU481112481112P",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Scheduled Freight Air Transportation: Primary Services",
+  "observation_start": "1987-12-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1987=100",
+  "units_short": "Index Dec 1987=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 07:56:57-05",
+  "popularity": 11,
+  "group_popularity": 11
+}

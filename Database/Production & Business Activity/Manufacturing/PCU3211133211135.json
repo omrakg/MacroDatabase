@@ -1,0 +1,17 @@
+{
+  "id": "PCU3211133211135",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Sawmills: Wood Chips, Excluding Field Chips",
+  "observation_start": "1980-12-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1980=100",
+  "units_short": "Index Dec 1980=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 07:56:07-05",
+  "popularity": 25,
+  "group_popularity": 25
+}

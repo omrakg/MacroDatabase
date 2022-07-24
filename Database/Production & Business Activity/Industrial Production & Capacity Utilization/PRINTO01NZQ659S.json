@@ -1,18 +1,18 @@
 {
   "id": "PRINTO01NZQ659S",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Total Industry Production Excluding Construction for New Zealand",
   "observation_start": "1978-04-01",
-  "observation_end": "2021-10-01",
+  "observation_end": "2022-01-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Growth Rate Same Period Previous Year",
   "units_short": "Growth Rate Same Period Previous Yr.",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-04-14 14:39:36-05",
+  "last_updated": "2022-07-14 14:28:32-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: GYSA\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

@@ -1,7 +1,7 @@
 {
   "id": "LAUTOSA",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Motor Vehicle Retail Sales: Domestic and Foreign Autos",
   "observation_start": "1976-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-08 13:18:14-05",
-  "popularity": 33,
-  "group_popularity": 36
+  "popularity": 28,
+  "group_popularity": 31
 }

@@ -1,7 +1,7 @@
 {
   "id": "M2MNS",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "M2 Less Small Time Deposits",
   "observation_start": "1959-01-01",
   "observation_end": "2022-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-28 12:34:05-05",
   "popularity": 9,
-  "group_popularity": 30,
+  "group_popularity": 35,
   "notes": "M2 less small time deposits. Calculated by the Federal Reserve Bank of St. Louis."
 }

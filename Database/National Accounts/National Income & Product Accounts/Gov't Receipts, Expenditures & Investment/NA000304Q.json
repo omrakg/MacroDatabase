@@ -1,7 +1,7 @@
 {
   "id": "NA000304Q",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Federal Government Current Receipts",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-29 07:54:43-05",
-  "popularity": 3,
-  "group_popularity": 36,
+  "popularity": 5,
+  "group_popularity": 30,
   "notes": "BEA Account Code: NA000304"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU11470145",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Industrial and Commercial Fans and Blowers",
   "observation_start": "2003-12-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 08:05:44-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

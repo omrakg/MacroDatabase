@@ -1,7 +1,7 @@
 {
   "id": "LNS14027659",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Unemployment Rate - Less Than a High School Diploma, 25 Yrs. & over",
   "observation_start": "1992-01-01",
   "observation_end": "2022-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-08 07:44:51-05",
   "popularity": 17,
-  "group_popularity": 20,
+  "group_popularity": 19,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS14027659"
 }

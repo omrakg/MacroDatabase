@@ -1,0 +1,17 @@
+{
+  "id": "MRTSMPCSM4421USN",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Retail Sales: Furniture Stores",
+  "observation_start": "1992-02-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-15 09:06:32-05",
+  "popularity": 1,
+  "group_popularity": 9
+}

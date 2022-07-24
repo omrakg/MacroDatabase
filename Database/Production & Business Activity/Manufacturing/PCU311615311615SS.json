@@ -1,0 +1,17 @@
+{
+  "id": "PCU311615311615SS",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Poultry Processing: Secondary Products",
+  "observation_start": "1981-12-01",
+  "observation_end": "2011-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1981=100",
+  "units_short": "Index Dec 1981=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:48:40-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

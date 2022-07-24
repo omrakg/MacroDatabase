@@ -1,0 +1,17 @@
+{
+  "id": "PCU311221311221P",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Wet Corn Milling: Primary Products",
+  "observation_start": "1985-06-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1985=100",
+  "units_short": "Index Jun 1985=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 08:12:48-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

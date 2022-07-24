@@ -1,0 +1,17 @@
+{
+  "id": "PCU3118133118130",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Frozen Cakes and Other Pastries Manufacturing: Frozen Cakes, Pies, and Other Pastries",
+  "observation_start": "1967-01-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1982=100",
+  "units_short": "Index Dec 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-14 08:02:33-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

@@ -1,7 +1,7 @@
 {
   "id": "DRFAPGOBN",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Delinquency Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets",
   "observation_start": "1987-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-20 13:19:41-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
 }

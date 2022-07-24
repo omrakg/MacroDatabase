@@ -1,7 +1,7 @@
 {
   "id": "WPU061",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Industrial Chemicals",
   "observation_start": "1933-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 07:52:08-05",
-  "popularity": 61,
-  "group_popularity": 62
+  "popularity": 62,
+  "group_popularity": 63
 }

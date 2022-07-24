@@ -1,7 +1,7 @@
 {
   "id": "NHSUSSPTA",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "New Houses Sold by Sales Price in the United States, Total",
   "observation_start": "2002-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-26 09:01:45-05",
-  "popularity": 6,
-  "group_popularity": 36
+  "popularity": 5,
+  "group_popularity": 35
 }

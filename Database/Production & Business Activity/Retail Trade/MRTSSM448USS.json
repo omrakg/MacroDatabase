@@ -1,0 +1,18 @@
+{
+  "id": "MRTSSM448USS",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Retail Sales: Clothing and Clothing Accessory Stores",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-07-15 09:06:07-05",
+  "popularity": 23,
+  "group_popularity": 30,
+  "notes": "The most recent month's value of the advance estimate based on data from a subsample of firms from the larger Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/RSCCAS\n\n Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
+}

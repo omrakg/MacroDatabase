@@ -1,7 +1,7 @@
 {
   "id": "IPUON551L200000000",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Hours Worked for Management of Companies and Enterprises (NAICS 551) in the United States",
   "observation_start": "1987-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-02 11:32:19-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services."
 }

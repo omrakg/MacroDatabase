@@ -1,7 +1,7 @@
 {
   "id": "CUURA318SETB01",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Houston-The Woodlands-Sugar Land, TX (CBSA)",
   "observation_start": "1978-04-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-13 07:42:49-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

@@ -1,0 +1,17 @@
+{
+  "id": "PCU314110314110032",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Carpet and Rug Mills: Carpet and Rugs, Finishing Only",
+  "observation_start": "2005-01-01",
+  "observation_end": "2005-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1986=100",
+  "units_short": "Index Dec 1986=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:46:42-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

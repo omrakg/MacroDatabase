@@ -1,7 +1,7 @@
 {
   "id": "JTS1000JOR",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Job Openings: Total Private",
   "observation_start": "2000-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-06 13:05:49-05",
-  "popularity": 19,
-  "group_popularity": 42
+  "popularity": 12,
+  "group_popularity": 39
 }

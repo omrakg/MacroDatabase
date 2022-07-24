@@ -1,0 +1,17 @@
+{
+  "id": "MRTSIM4423XUSN",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Retail Inventories: Furniture, Home Furnishings, Electronics, and Appliance Stores",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-15 09:06:31-05",
+  "popularity": 3,
+  "group_popularity": 14
+}

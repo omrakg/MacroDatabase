@@ -1,7 +1,7 @@
 {
   "id": "JTS9200TSR",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Total Separations: State and Local",
   "observation_start": "2000-12-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-06 09:06:46-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

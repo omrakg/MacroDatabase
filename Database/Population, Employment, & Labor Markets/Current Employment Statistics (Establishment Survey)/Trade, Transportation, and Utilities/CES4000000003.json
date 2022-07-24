@@ -1,7 +1,7 @@
 {
   "id": "CES4000000003",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Average Hourly Earnings of All Employees, Trade, Transportation, and Utilities",
   "observation_start": "2006-03-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-08 07:47:27-05",
-  "popularity": 5,
-  "group_popularity": 6,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES4000000003"
 }

@@ -1,7 +1,7 @@
 {
   "id": "JTU480099JOL",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Job Openings: Transportation, Warehousing, and Utilities",
   "observation_start": "2000-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-06 13:03:03-05",
-  "popularity": 23,
+  "popularity": 20,
   "group_popularity": 27
 }

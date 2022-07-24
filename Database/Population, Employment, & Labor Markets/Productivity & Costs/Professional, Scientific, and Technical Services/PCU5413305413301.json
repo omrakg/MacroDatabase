@@ -1,7 +1,7 @@
 {
   "id": "PCU5413305413301",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Producer Price Index by Industry: Engineering Services: Building Related Engineering Projects",
   "observation_start": "1996-12-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 08:00:37-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 5,
+  "group_popularity": 5
 }

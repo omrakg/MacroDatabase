@@ -1,7 +1,7 @@
 {
   "id": "NGDPRNSAXDCARQ",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Real Gross Domestic Product for Argentina",
   "observation_start": "2004-01-01",
   "observation_end": "2022-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-11 07:09:12-05",
   "popularity": 3,
-  "group_popularity": 18
+  "group_popularity": 15
 }

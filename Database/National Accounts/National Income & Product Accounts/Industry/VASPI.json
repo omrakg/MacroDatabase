@@ -1,7 +1,7 @@
 {
   "id": "VASPI",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Value Added by Industry: Private Services-Producing Industries",
   "observation_start": "2005-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-29 07:32:21-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Consists of utilities; wholesale trade; retail trade; transportation and warehousing; information; finance, insurance, real estate, rental, and leasing; professional and business services; educational services, health care, and social assistance; arts, entertainment, recreation, accommodation, and food services; and other services, except government.\nValue added represents the sum of the costs-incurred and the incomes-earned in production, and consists of compensation of employees, taxes on production and imports, less subsidies, and gross operating surplus."
 }

@@ -1,0 +1,17 @@
+{
+  "id": "PCU31331031331013",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Producer Price Index by Industry: Textile and Fabric Finishing Mills: Commission Finishing of Cotton Broadwoven Fabrics (DISCONTINUED)",
+  "observation_start": "1984-06-01",
+  "observation_end": "2014-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1984=100",
+  "units_short": "Index Jun 1984=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:49:09-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

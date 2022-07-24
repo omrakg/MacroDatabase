@@ -1,7 +1,7 @@
 {
   "id": "UEMP5TO14",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Number Unemployed for 5-14 Weeks",
   "observation_start": "1948-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-08 07:45:31-05",
-  "popularity": 9,
-  "group_popularity": 10,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13008756"
 }

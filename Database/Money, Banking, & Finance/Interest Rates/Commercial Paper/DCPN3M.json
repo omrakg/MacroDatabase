@@ -1,18 +1,18 @@
 {
   "id": "DCPN3M",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
   "observation_start": "1997-01-02",
-  "observation_end": "2022-07-14",
+  "observation_end": "2022-07-21",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-15 15:25:04-05",
-  "popularity": 39,
+  "last_updated": "2022-07-22 15:28:04-05",
+  "popularity": 41,
   "group_popularity": 48,
   "notes": "Discount Basis"
 }

@@ -1,7 +1,7 @@
 {
   "id": "W989RC1Q027SBEA",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Capital account transactions (net): Private: Domestic business",
   "observation_start": "1960-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-29 07:55:50-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "BEA Account Code: W989RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

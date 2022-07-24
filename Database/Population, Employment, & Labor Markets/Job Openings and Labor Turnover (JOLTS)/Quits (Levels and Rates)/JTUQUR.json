@@ -1,7 +1,7 @@
 {
   "id": "JTUQUR",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Quits: Total Nonfarm",
   "observation_start": "2000-12-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-06 13:05:51-05",
   "popularity": 9,
-  "group_popularity": 66
+  "group_popularity": 65
 }

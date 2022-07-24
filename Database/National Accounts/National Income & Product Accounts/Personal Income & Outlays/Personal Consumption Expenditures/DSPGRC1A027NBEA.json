@@ -1,7 +1,7 @@
 {
   "id": "DSPGRC1A027NBEA",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Personal consumption expenditures: Durable goods: Sporting equipment, supplies, guns, and ammunition",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:54:05-05",
-  "popularity": 17,
-  "group_popularity": 17,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "BEA Account Code: DSPGRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

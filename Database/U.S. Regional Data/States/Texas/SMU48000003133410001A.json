@@ -1,7 +1,7 @@
 {
   "id": "SMU48000003133410001A",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "All Employees: Durable Goods: Computer and Peripheral Equipment Manufacturing in Texas",
   "observation_start": "1990-01-01",
   "observation_end": "2017-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-03-12 15:10:45-05",
   "popularity": 0,
-  "group_popularity": 2
+  "group_popularity": 1
 }

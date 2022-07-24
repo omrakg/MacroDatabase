@@ -1,7 +1,7 @@
 {
   "id": "IEABCPA",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Balance on capital account",
   "observation_start": "1999-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-23 09:27:23-05",
-  "popularity": 10,
-  "group_popularity": 30,
+  "popularity": 12,
+  "group_popularity": 32,
   "notes": "Calculated by subtracting the capital transfer payments and other debits from the capital transfer receipts and other credits"
 }

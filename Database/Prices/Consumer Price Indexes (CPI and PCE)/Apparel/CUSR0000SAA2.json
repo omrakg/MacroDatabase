@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SAA2",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
   "title": "Consumer Price Index for All Urban Consumers: Women's and Girls' Apparel in U.S. City Average",
   "observation_start": "1947-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-13 07:39:26-05",
-  "popularity": 9,
-  "group_popularity": 12
+  "popularity": 5,
+  "group_popularity": 8
 }

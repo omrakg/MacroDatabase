@@ -1,0 +1,17 @@
+{
+  "id": "LOGA849URN",
+  "realtime_start": "2022-07-24",
+  "realtime_end": "2022-07-24",
+  "title": "Unemployment Rate in Logan, UT-ID (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-29 10:58:30-05",
+  "popularity": 1,
+  "group_popularity": 4
+}
