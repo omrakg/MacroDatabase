@@ -1,5 +1,2 @@
-| id              | title                                                                                                                         | observation_start   | observation_end   |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BRVSLV02CNQ460N | Business Tendency Surveys for Retail Trade: Volume of Stocks: Level: European Commission Indicator for China                  | 2000-01-01          | 2011-10-01        |
-| BRVSLV02JPQ460S | Business Tendency Surveys for Retail Trade: Volume of Stocks: Level: European Commission Indicator for Japan                  | 1990-10-01          | 2022-04-01        |
-| BRVSLV02RUQ460S | Business Tendency Surveys for Retail Trade: Volume of Stocks: Level: European Commission Indicator for the Russian Federation | 1998-01-01          | 2021-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

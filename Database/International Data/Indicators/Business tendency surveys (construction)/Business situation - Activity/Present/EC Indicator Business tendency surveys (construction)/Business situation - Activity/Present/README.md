@@ -1,3 +1,3 @@
 | Folder       |   Files / Folders |
 |--------------|-------------------|
-| EC Indicator |                 4 |
+| EC Indicator |                 0 |

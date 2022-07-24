@@ -1,13 +1,16 @@
-| id      | title                                                                                                     | observation_start   | observation_end   |
-|---------|-----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IR103   | Import Price Index (End Use): Nuclear fuel materials (DISCONTINUED)                                       | 2011-12-01          | 2016-12-01        |
-| IR00110 | Import Price Index (End Use): Dairy products and eggs (DISCONTINUED)                                      | 2010-12-01          | 2017-08-01        |
-| IR00140 | Import Price Index (End Use): Nuts and preparations (DISCONTINUED)                                        | 2010-12-01          | 2011-12-01        |
-| IR160   | Import Price Index (End Use): Unfinished, nonmetals asso. with durable goods output (DISCONTINUED)        | 2011-12-01          | 2017-12-01        |
-| IR212   | Import Price Index (End Use): Agricultural machinery and equipment (DISCONTINUED)                         | 1985-12-01          | 2014-12-01        |
-| IR21000 | Import Price Index (End Use): Drilling and oil field equipment (DISCONTINUED)                             | 2007-12-01          | 2011-12-01        |
-| IR21140 | Import Price Index (End Use): Machinery for working wood, plastic, stone, rubber and glass (DISCONTINUED) | 1987-12-01          | 2013-12-01        |
-| IR21150 | Import Price Index (End Use): Pulp and paper machinery (DISCONTINUED)                                     | 1984-12-01          | 2014-12-01        |
-| IR40120 | Import Price Index (End Use): Toiletries and cosmetics (DISCONTINUED)                                     | 1984-12-01          | 2014-12-01        |
-| IR41110 | Import Price Index (End Use): Pleasure boats and motors (DISCONTINUED)                                    | 2007-12-01          | 2011-12-01        |
-| IR41220 | Import Price Index (End Use): Records, tapes and disks (DISCONTINUED)                                     | 2009-12-01          | 2017-07-01        |
+| id      | title                                                                                      | observation_start   | observation_end   |
+|---------|--------------------------------------------------------------------------------------------|---------------------|-------------------|
+| IQ00110 | Export Price Index (End Use): Oilseeds other than soybeans, and food oils (DISCONTINUED)   | 2011-12-01          | 2015-12-01        |
+| IQ120   | Export Price Index (End Use): Steelmaking and ferroalloying materials (DISCONTINUED)       | 2005-12-01          | 2014-12-01        |
+| IQ10100 | Export Price Index (End Use): Tobacco, unmanufactured (DISCONTINUED)                       | 2010-12-01          | 2012-12-01        |
+| IQ10130 | Export Price Index (End Use): Other agricultural materials (DISCONTINUED)                  | 2010-12-01          | 2016-12-01        |
+| IQ10140 | Export Price Index (End Use): Agricultural materials for farming (DISCONTINUED)            | 2008-12-01          | 2010-12-01        |
+| IQ10150 | Export Price Index (End Use): Other agricultural materials-manufactured (DISCONTINUED)     | 2010-12-01          | 2017-12-01        |
+| IQ11010 | Export Price Index (End Use): Metallurgical grade coal (DISCONTINUED)                      | 2008-12-01          | 2017-12-01        |
+| IQ12110 | Export Price Index (End Use): Iron and steel products advance manufacturing (DISCONTINUED) | 1982-03-01          | 2013-12-01        |
+| IQ12620 | Export Price Index (End Use): Manmade cloth and thread and cordage (DISCONTINUED)          | 2012-12-01          | 2017-12-01        |
+| IQ12640 | Export Price Index (End Use): Finished textile supplies (DISCONTINUED)                     | 2008-12-01          | 2010-12-01        |
+| IQ21000 | Export Price Index (End Use): Drilling and oil field equip. (DISCONTINUED)                 | 1980-12-01          | 2017-12-01        |
+| IQ21110 | Export Price Index (End Use): Food and tobacco processing machinery (DISCONTINUED)         | 2008-12-01          | 2016-12-01        |
+| IQ22020 | Export Price Index (End Use): Engines for civilian aircraft (DISCONTINUED)                 | 2002-12-01          | 2018-02-01        |
+| IQ40030 | Export Price Index (End Use): Nontextile apparel and footwear (DISCONTINUED)               | 2008-12-01          | 2011-12-01        |

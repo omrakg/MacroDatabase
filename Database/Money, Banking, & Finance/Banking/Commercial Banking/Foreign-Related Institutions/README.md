@@ -2,56 +2,56 @@
 |----------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ALLFRIM027NBOG | LESS: Allowance for Loan and Lease Losses, Foreign-Related Institutions                                                         | 2009-07-01          | 2022-06-01        |
 | ALLFRIM027SBOG | LESS: Allowance for Loan and Lease Losses, Foreign-Related Institutions                                                         | 2009-07-01          | 2022-06-01        |
-| ALLFRIW027NBOG | LESS: Allowance for Loan and Lease Losses, Foreign-Related Institutions                                                         | 2009-07-01          | 2022-07-06        |
-| ALLFRIW027SBOG | LESS: Allowance for Loan and Lease Losses, Foreign-Related Institutions                                                         | 2009-07-01          | 2022-07-06        |
+| ALLFRIW027NBOG | LESS: Allowance for Loan and Lease Losses, Foreign-Related Institutions                                                         | 2009-07-01          | 2022-07-13        |
+| ALLFRIW027SBOG | LESS: Allowance for Loan and Lease Losses, Foreign-Related Institutions                                                         | 2009-07-01          | 2022-07-13        |
 | AOCFRIM027NBOG | Consumer Loans: Other Consumer Loans: All Other Consumer Loans, Foreign-Related Institutions                                    | 2015-01-01          | 2022-06-01        |
 | AOCFRIM027SBOG | Consumer Loans: Other Consumer Loans: All Other Consumer Loans, Foreign-Related Institutions                                    | 2015-01-01          | 2022-06-01        |
-| AOCFRIW027NBOG | Consumer Loans: Other Consumer Loans: All Other Consumer Loans, Foreign-Related Institutions                                    | 2015-01-07          | 2022-07-06        |
-| AOCFRIW027SBOG | Consumer Loans: Other Consumer Loans: All Other Consumer Loans, Foreign-Related Institutions                                    | 2015-01-07          | 2022-07-06        |
+| AOCFRIW027NBOG | Consumer Loans: Other Consumer Loans: All Other Consumer Loans, Foreign-Related Institutions                                    | 2015-01-07          | 2022-07-13        |
+| AOCFRIW027SBOG | Consumer Loans: Other Consumer Loans: All Other Consumer Loans, Foreign-Related Institutions                                    | 2015-01-07          | 2022-07-13        |
 | AOLFRIM027NBOG | Other Loans and Leases: All Other Loans and Leases, Foreign-Related Institutions                                                | 1973-01-01          | 2022-06-01        |
 | AOLFRIM027SBOG | Other Loans and Leases: All Other Loans and Leases, Foreign-Related Institutions                                                | 1973-01-01          | 2022-06-01        |
-| AOLFRIW027NBOG | Other Loans and Leases: All Other Loans and Leases, Foreign-Related Institutions                                                | 1973-01-03          | 2022-07-06        |
-| AOLFRIW027SBOG | Other Loans and Leases: All Other Loans and Leases, Foreign-Related Institutions                                                | 1973-01-03          | 2022-07-06        |
+| AOLFRIW027NBOG | Other Loans and Leases: All Other Loans and Leases, Foreign-Related Institutions                                                | 1973-01-03          | 2022-07-13        |
+| AOLFRIW027SBOG | Other Loans and Leases: All Other Loans and Leases, Foreign-Related Institutions                                                | 1973-01-03          | 2022-07-13        |
 | BC0FRIM027NBOG | Bank Credit, Foreign-Related Institutions                                                                                       | 1973-01-01          | 2022-06-01        |
 | BC0FRIM027SBOG | Bank Credit, Foreign-Related Institutions                                                                                       | 1973-01-01          | 2022-06-01        |
-| BC0FRIW027NBOG | Bank Credit, Foreign-Related Institutions                                                                                       | 1973-01-03          | 2022-07-06        |
-| BC0FRIW027SBOG | Bank Credit, Foreign-Related Institutions                                                                                       | 1973-01-03          | 2022-07-06        |
+| BC0FRIW027NBOG | Bank Credit, Foreign-Related Institutions                                                                                       | 1973-01-03          | 2022-07-13        |
+| BC0FRIW027SBOG | Bank Credit, Foreign-Related Institutions                                                                                       | 1973-01-03          | 2022-07-13        |
 | CARFRIM027NBOG | Consumer Loans: Other Consumer Loans: Automobile Loans, Foreign-Related Institutions                                            | 2015-01-01          | 2022-06-01        |
 | CARFRIM027SBOG | Consumer Loans: Other Consumer Loans: Automobile Loans, Foreign-Related Institutions                                            | 2015-01-01          | 2022-06-01        |
-| CARFRIW027NBOG | Consumer Loans: Other Consumer Loans: Automobile Loans, Foreign-Related Institutions                                            | 2015-01-07          | 2022-07-06        |
-| CARFRIW027SBOG | Consumer Loans: Other Consumer Loans: Automobile Loans, Foreign-Related Institutions                                            | 2015-01-07          | 2022-07-06        |
+| CARFRIW027NBOG | Consumer Loans: Other Consumer Loans: Automobile Loans, Foreign-Related Institutions                                            | 2015-01-07          | 2022-07-13        |
+| CARFRIW027SBOG | Consumer Loans: Other Consumer Loans: Automobile Loans, Foreign-Related Institutions                                            | 2015-01-07          | 2022-07-13        |
 | CASFRIM027NBOG | Cash Assets, Foreign-Related Institutions                                                                                       | 1973-01-01          | 2022-06-01        |
 | CASFRIM027SBOG | Cash Assets, Foreign-Related Institutions                                                                                       | 1973-01-01          | 2022-06-01        |
-| CASFRIW027NBOG | Cash Assets, Foreign-Related Institutions                                                                                       | 1973-01-03          | 2022-07-06        |
-| CASFRIW027SBOG | Cash Assets, Foreign-Related Institutions                                                                                       | 1973-01-03          | 2022-07-06        |
+| CASFRIW027NBOG | Cash Assets, Foreign-Related Institutions                                                                                       | 1973-01-03          | 2022-07-13        |
+| CASFRIW027SBOG | Cash Assets, Foreign-Related Institutions                                                                                       | 1973-01-03          | 2022-07-13        |
 | CCLFRIM027NBOG | Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions                                            | 2009-07-01          | 2022-06-01        |
 | CCLFRIM027SBOG | Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions                                            | 2009-07-01          | 2022-06-01        |
-| CCLFRIW027NBOG | Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions                                            | 2009-07-01          | 2022-07-06        |
-| CCLFRIW027SBOG | Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions                                            | 2009-07-01          | 2022-07-06        |
+| CCLFRIW027NBOG | Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions                                            | 2009-07-01          | 2022-07-13        |
+| CCLFRIW027SBOG | Consumer Loans: Credit Cards and Other Revolving Plans, Foreign-Related Institutions                                            | 2009-07-01          | 2022-07-13        |
 | CILFRIM027NBOG | Commercial and Industrial Loans, Foreign-Related Institutions                                                                   | 1973-01-01          | 2022-06-01        |
 | CILFRIM027SBOG | Commercial and Industrial Loans, Foreign-Related Institutions                                                                   | 1973-01-01          | 2022-06-01        |
-| CILFRIW027NBOG | Commercial and Industrial Loans, Foreign-Related Institutions                                                                   | 1973-01-03          | 2022-07-06        |
-| CILFRIW027SBOG | Commercial and Industrial Loans, Foreign-Related Institutions                                                                   | 1973-01-03          | 2022-07-06        |
+| CILFRIW027NBOG | Commercial and Industrial Loans, Foreign-Related Institutions                                                                   | 1973-01-03          | 2022-07-13        |
+| CILFRIW027SBOG | Commercial and Industrial Loans, Foreign-Related Institutions                                                                   | 1973-01-03          | 2022-07-13        |
 | CLDFRIM027NBOG | Real Estate Loans: Commercial Real Estate Loans: Construction and Land Development Loans, Foreign-Related Institutions          | 2015-01-01          | 2022-06-01        |
 | CLDFRIM027SBOG | Real Estate Loans: Commercial Real Estate Loans: Construction and Land Development Loans, Foreign-Related Institutions          | 2015-01-01          | 2022-06-01        |
-| CLDFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans: Construction and Land Development Loans, Foreign-Related Institutions          | 2015-01-07          | 2022-07-06        |
-| CLDFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans: Construction and Land Development Loans, Foreign-Related Institutions          | 2015-01-07          | 2022-07-06        |
+| CLDFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans: Construction and Land Development Loans, Foreign-Related Institutions          | 2015-01-07          | 2022-07-13        |
+| CLDFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans: Construction and Land Development Loans, Foreign-Related Institutions          | 2015-01-07          | 2022-07-13        |
 | CLSFRIM027NBOG | Consumer Loans, Foreign-Related Institutions                                                                                    | 2009-07-01          | 2022-06-01        |
 | CLSFRIM027SBOG | Consumer Loans, Foreign-Related Institutions                                                                                    | 2009-07-01          | 2022-06-01        |
-| CLSFRIW027NBOG | Consumer Loans, Foreign-Related Institutions                                                                                    | 2009-07-01          | 2022-07-06        |
-| CLSFRIW027SBOG | Consumer Loans, Foreign-Related Institutions                                                                                    | 2009-07-01          | 2022-07-06        |
+| CLSFRIW027NBOG | Consumer Loans, Foreign-Related Institutions                                                                                    | 2009-07-01          | 2022-07-13        |
+| CLSFRIW027SBOG | Consumer Loans, Foreign-Related Institutions                                                                                    | 2009-07-01          | 2022-07-13        |
 | CREFRIM027NBOG | Real Estate Loans: Commercial Real Estate Loans, Foreign-Related Institutions                                                   | 2009-07-01          | 2022-06-01        |
 | CREFRIM027SBOG | Real Estate Loans: Commercial Real Estate Loans, Foreign-Related Institutions                                                   | 2009-07-01          | 2022-06-01        |
-| CREFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans, Foreign-Related Institutions                                                   | 2009-07-01          | 2022-07-06        |
-| CREFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans, Foreign-Related Institutions                                                   | 2009-07-01          | 2022-07-06        |
+| CREFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans, Foreign-Related Institutions                                                   | 2009-07-01          | 2022-07-13        |
+| CREFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans, Foreign-Related Institutions                                                   | 2009-07-01          | 2022-07-13        |
 | CRLFRIM027NBOG | Real Estate Loans: Residential Real Estate Loans: Closed-End Residential Loans, Foreign-Related Institutions                    | 2009-07-01          | 2022-06-01        |
 | CRLFRIM027SBOG | Real Estate Loans: Residential Real Estate Loans: Closed-End Residential Loans, Foreign-Related Institutions                    | 2009-07-01          | 2022-06-01        |
-| CRLFRIW027NBOG | Real Estate Loans: Residential Real Estate Loans: Closed-End Residential Loans, Foreign-Related Institutions                    | 2009-07-01          | 2022-07-06        |
-| CRLFRIW027SBOG | Real Estate Loans: Residential Real Estate Loans: Closed-End Residential Loans, Foreign-Related Institutions                    | 2009-07-01          | 2022-07-06        |
+| CRLFRIW027NBOG | Real Estate Loans: Residential Real Estate Loans: Closed-End Residential Loans, Foreign-Related Institutions                    | 2009-07-01          | 2022-07-13        |
+| CRLFRIW027SBOG | Real Estate Loans: Residential Real Estate Loans: Closed-End Residential Loans, Foreign-Related Institutions                    | 2009-07-01          | 2022-07-13        |
 | DPSFRIM027NBOG | Deposits, Foreign-Related Institutions                                                                                          | 1973-01-01          | 2022-06-01        |
 | DPSFRIM027SBOG | Deposits, Foreign-Related Institutions                                                                                          | 1973-01-01          | 2022-06-01        |
-| DPSFRIW027NBOG | Deposits, Foreign-Related Institutions                                                                                          | 1973-01-03          | 2022-07-06        |
-| DPSFRIW027SBOG | Deposits, Foreign-Related Institutions                                                                                          | 1973-01-03          | 2022-07-06        |
+| DPSFRIW027NBOG | Deposits, Foreign-Related Institutions                                                                                          | 1973-01-03          | 2022-07-13        |
+| DPSFRIW027SBOG | Deposits, Foreign-Related Institutions                                                                                          | 1973-01-03          | 2022-07-13        |
 | H8B1001NFRCAG  | Bank Credit, Foreign-Related Institutions                                                                                       | 1974-01-01          | 2021-01-01        |
 | H8B1001NFRCMG  | Bank Credit, Foreign-Related Institutions                                                                                       | 1973-02-01          | 2022-06-01        |
 | H8B1001NFRCQG  | Bank Credit, Foreign-Related Institutions                                                                                       | 1973-04-01          | 2022-04-01        |
@@ -124,33 +124,33 @@
 | H8B1304NFRCAG  | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2010-01-01          | 2021-01-01        |
 | H8B1304NFRCMG  | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2009-08-01          | 2022-06-01        |
 | H8B1304NFRCQG  | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2009-10-01          | 2022-04-01        |
-| H8B3053NFRA    | Other Assets, Foreign-Related Institutions                                                                                      | 1973-01-03          | 2022-07-06        |
+| H8B3053NFRA    | Other Assets, Foreign-Related Institutions                                                                                      | 1973-01-03          | 2022-07-13        |
 | H8B3053NFRAM   | Other Assets, Foreign-Related Institutions                                                                                      | 1973-01-01          | 2022-06-01        |
 | H8B3053NFRCAG  | Other Assets, Foreign-Related Institutions                                                                                      | 1974-01-01          | 2021-01-01        |
 | H8B3053NFRCMG  | Other Assets, Foreign-Related Institutions                                                                                      | 1973-02-01          | 2022-06-01        |
 | H8B3053NFRCQG  | Other Assets, Foreign-Related Institutions                                                                                      | 1973-04-01          | 2022-04-01        |
-| H8B3053NFRD    | Other Assets, Foreign-Related Institutions                                                                                      | 1973-01-03          | 2022-07-06        |
+| H8B3053NFRD    | Other Assets, Foreign-Related Institutions                                                                                      | 1973-01-03          | 2022-07-13        |
 | H8B3053NFRDM   | Other Assets, Foreign-Related Institutions                                                                                      | 1973-01-01          | 2022-06-01        |
-| H8B3092NFRA    | Total Fed Funds Sold and Securities Purchased Under Agreements to Resell at Foreign Banks                                       | 2010-01-06          | 2022-07-06        |
+| H8B3092NFRA    | Total Fed Funds Sold and Securities Purchased Under Agreements to Resell at Foreign Banks                                       | 2010-01-06          | 2022-07-13        |
 | H8B3092NFRAM   | Federal Funds Sold and Securities Purchased Under Agreement to Resell at Foreign Banks                                          | 2010-01-01          | 2022-06-01        |
 | H8B3092NFRCAG  | Total Fed Funds Sold and Securities Purchased Under Agreements to Resell at Foreign Banks                                       | 2011-01-01          | 2021-01-01        |
 | H8B3092NFRCMG  | Total Fed Funds Sold and Securities Purchased Under Agreements to Resell at Foreign Banks                                       | 2010-02-01          | 2022-06-01        |
 | H8B3092NFRCQG  | Total Fed Funds Sold and Securities Purchased Under Agreements to Resell at Foreign Banks                                       | 2010-04-01          | 2022-04-01        |
-| H8B3092NFRD    | Total Fed Funds Sold and Securities Purchased Under Agreements to Resell at Foreign Banks                                       | 2010-01-06          | 2022-07-06        |
+| H8B3092NFRD    | Total Fed Funds Sold and Securities Purchased Under Agreements to Resell at Foreign Banks                                       | 2010-01-06          | 2022-07-13        |
 | H8B3092NFRDM   | Total Fed Funds Sold and Securities Purchased Under Agreements to Resell at Foreign Banks                                       | 2010-01-01          | 2022-06-01        |
-| H8B3094NFRA    | Borrowings, Foreign-Related Institutions                                                                                        | 1973-01-03          | 2022-07-06        |
+| H8B3094NFRA    | Borrowings, Foreign-Related Institutions                                                                                        | 1973-01-03          | 2022-07-13        |
 | H8B3094NFRAM   | Borrowings, Foreign-Related Institutions                                                                                        | 1973-01-01          | 2022-06-01        |
 | H8B3094NFRCAG  | Borrowings, Foreign-Related Institutions                                                                                        | 1974-01-01          | 2021-01-01        |
 | H8B3094NFRCMG  | Borrowings, Foreign-Related Institutions                                                                                        | 1973-02-01          | 2022-06-01        |
 | H8B3094NFRCQG  | Borrowings, Foreign-Related Institutions                                                                                        | 1973-04-01          | 2022-04-01        |
-| H8B3094NFRD    | Borrowings, Foreign-Related Institutions                                                                                        | 1973-01-03          | 2022-07-06        |
+| H8B3094NFRD    | Borrowings, Foreign-Related Institutions                                                                                        | 1973-01-03          | 2022-07-13        |
 | H8B3094NFRDM   | Borrowings, Foreign-Related Institutions                                                                                        | 1973-01-01          | 2022-06-01        |
-| H8B3095NFRA    | Other Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-03          | 2022-07-06        |
+| H8B3095NFRA    | Other Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-03          | 2022-07-13        |
 | H8B3095NFRAM   | Other Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-01          | 2022-06-01        |
 | H8B3095NFRCAG  | Other Liabilities, Foreign-Related Institutions                                                                                 | 1974-01-01          | 2021-01-01        |
 | H8B3095NFRCMG  | Other Liabilities, Foreign-Related Institutions                                                                                 | 1973-02-01          | 2022-06-01        |
 | H8B3095NFRCQG  | Other Liabilities, Foreign-Related Institutions                                                                                 | 1973-04-01          | 2022-04-01        |
-| H8B3095NFRD    | Other Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-03          | 2022-07-06        |
+| H8B3095NFRD    | Other Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-03          | 2022-07-13        |
 | H8B3095NFRDM   | Other Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-01          | 2022-06-01        |
 | H8B3219NFRCAG  | Real Estate Loans: Commercial Real Estate Loans, Foreign-Related Institutions                                                   | 2010-01-01          | 2021-01-01        |
 | H8B3219NFRCMG  | Real Estate Loans: Commercial Real Estate Loans, Foreign-Related Institutions                                                   | 2009-08-01          | 2022-06-01        |
@@ -163,97 +163,97 @@
 | H8B3305NFRCQG  | Other Loans and Leases: All Other Loans and Leases, Foreign-Related Institutions                                                | 1973-04-01          | 2022-04-01        |
 | LCBFRIM027NBOG | Loans to Commercial Banks, Foreign-Related Institutions                                                                         | 1973-01-01          | 2022-06-01        |
 | LCBFRIM027SBOG | Loans to Commercial Banks, Foreign-Related Institutions                                                                         | 1973-01-01          | 2022-06-01        |
-| LCBFRIW027NBOG | Loans to Commercial Banks, Foreign-Related Institutions                                                                         | 1973-01-03          | 2022-07-06        |
-| LCBFRIW027SBOG | Loans to Commercial Banks, Foreign-Related Institutions                                                                         | 1973-01-03          | 2022-07-06        |
+| LCBFRIW027NBOG | Loans to Commercial Banks, Foreign-Related Institutions                                                                         | 1973-01-03          | 2022-07-13        |
+| LCBFRIW027SBOG | Loans to Commercial Banks, Foreign-Related Institutions                                                                         | 1973-01-03          | 2022-07-13        |
 | LLBFRIM027NBOG | Loans and Leases in Bank Credit, Foreign-Related Institutions                                                                   | 1973-01-01          | 2022-06-01        |
 | LLBFRIM027SBOG | Loans and Leases in Bank Credit, Foreign-Related Institutions                                                                   | 1973-01-01          | 2022-06-01        |
-| LLBFRIW027NBOG | Loans and Leases in Bank Credit, Foreign-Related Institutions                                                                   | 1973-01-03          | 2022-07-06        |
-| LLBFRIW027SBOG | Loans and Leases in Bank Credit, Foreign-Related Institutions                                                                   | 1973-01-03          | 2022-07-06        |
+| LLBFRIW027NBOG | Loans and Leases in Bank Credit, Foreign-Related Institutions                                                                   | 1973-01-03          | 2022-07-13        |
+| LLBFRIW027SBOG | Loans and Leases in Bank Credit, Foreign-Related Institutions                                                                   | 1973-01-03          | 2022-07-13        |
 | LNFFRIM027NBOG | Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, Foreign-Related Institutions | 2015-01-01          | 2022-06-01        |
 | LNFFRIM027SBOG | Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, Foreign-Related Institutions | 2015-01-01          | 2022-06-01        |
-| LNFFRIW027NBOG | Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, Foreign-Related Institutions | 2015-01-07          | 2022-07-06        |
-| LNFFRIW027SBOG | Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, Foreign-Related Institutions | 2015-01-07          | 2022-07-06        |
+| LNFFRIW027NBOG | Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, Foreign-Related Institutions | 2015-01-07          | 2022-07-13        |
+| LNFFRIW027SBOG | Other Loans and Leases: All Other Loans and Leases: Loans to Nondepository Financial Institutions, Foreign-Related Institutions | 2015-01-07          | 2022-07-13        |
 | LTDFRIM027NBOG | Large Time Deposits, Foreign-Related Institutions                                                                               | 1973-01-01          | 2022-06-01        |
 | LTDFRIM027SBOG | Large Time Deposits, Foreign-Related Institutions                                                                               | 1973-01-01          | 2022-06-01        |
-| LTDFRIW027NBOG | Large Time Deposits, Foreign-Related Institutions                                                                               | 1973-01-03          | 2022-07-06        |
-| LTDFRIW027SBOG | Large Time Deposits, Foreign-Related Institutions                                                                               | 1973-01-03          | 2022-07-06        |
+| LTDFRIW027NBOG | Large Time Deposits, Foreign-Related Institutions                                                                               | 1973-01-03          | 2022-07-13        |
+| LTDFRIW027SBOG | Large Time Deposits, Foreign-Related Institutions                                                                               | 1973-01-03          | 2022-07-13        |
 | NDFFRIM027NBOG | Net Due to Related Foreign Offices, Foreign-Related Institutions                                                                | 1973-01-01          | 2022-06-01        |
 | NDFFRIM027SBOG | Net Due to Related Foreign Offices, Foreign-Related Institutions                                                                | 1973-01-01          | 2022-06-01        |
-| NDFFRIW027NBOG | Net Due to Related Foreign Offices, Foreign-Related Institutions                                                                | 1973-01-03          | 2022-07-06        |
-| NDFFRIW027SBOG | Net Due to Related Foreign Offices, Foreign-Related Institutions                                                                | 1973-01-03          | 2022-07-06        |
+| NDFFRIW027NBOG | Net Due to Related Foreign Offices, Foreign-Related Institutions                                                                | 1973-01-03          | 2022-07-13        |
+| NDFFRIW027SBOG | Net Due to Related Foreign Offices, Foreign-Related Institutions                                                                | 1973-01-03          | 2022-07-13        |
 | OCLFRIM027NBOG | Consumer Loans: Other Consumer Loans, Foreign-Related Institutions                                                              | 2009-07-01          | 2022-06-01        |
 | OCLFRIM027SBOG | Consumer Loans: Other Consumer Loans, Foreign-Related Institutions                                                              | 2009-07-01          | 2022-06-01        |
-| OCLFRIW027NBOG | Consumer Loans: Other Consumer Loans, Foreign-Related Institutions                                                              | 2009-07-01          | 2022-07-06        |
-| OCLFRIW027SBOG | Consumer Loans: Other Consumer Loans, Foreign-Related Institutions                                                              | 2009-07-01          | 2022-07-06        |
+| OCLFRIW027NBOG | Consumer Loans: Other Consumer Loans, Foreign-Related Institutions                                                              | 2009-07-01          | 2022-07-13        |
+| OCLFRIW027SBOG | Consumer Loans: Other Consumer Loans, Foreign-Related Institutions                                                              | 2009-07-01          | 2022-07-13        |
 | ODSFRIM027NBOG | Other Deposits, Foreign-Related Institutions                                                                                    | 1973-01-01          | 2022-06-01        |
 | ODSFRIM027SBOG | Other Deposits, Foreign-Related Institutions                                                                                    | 1973-01-01          | 2022-06-01        |
-| ODSFRIW027NBOG | Other Deposits, Foreign-Related Institutions                                                                                    | 1973-01-03          | 2022-07-06        |
-| ODSFRIW027SBOG | Other Deposits, Foreign-Related Institutions                                                                                    | 1973-01-03          | 2022-07-06        |
+| ODSFRIW027NBOG | Other Deposits, Foreign-Related Institutions                                                                                    | 1973-01-03          | 2022-07-13        |
+| ODSFRIW027SBOG | Other Deposits, Foreign-Related Institutions                                                                                    | 1973-01-03          | 2022-07-13        |
 | OLNFRIM027NBOG | Other Loans and Leases: All Other Loans and Leases: Other Loans Not Elsewhere Classified, Foreign-Related Institutions          | 2015-01-01          | 2022-06-01        |
 | OLNFRIM027SBOG | Other Loans and Leases: All Other Loans and Leases: Other Loans Not Elsewhere Classified, Foreign-Related Institutions          | 2015-01-01          | 2022-06-01        |
-| OLNFRIW027NBOG | Other Loans and Leases: All Other Loans and Leases: Other Loans Not Elsewhere Classified, Foreign-Related Institutions          | 2015-01-07          | 2022-07-06        |
-| OLNFRIW027SBOG | Other Loans and Leases: All Other Loans and Leases: Other Loans Not Elsewhere Classified, Foreign-Related Institutions          | 2015-01-07          | 2022-07-06        |
+| OLNFRIW027NBOG | Other Loans and Leases: All Other Loans and Leases: Other Loans Not Elsewhere Classified, Foreign-Related Institutions          | 2015-01-07          | 2022-07-13        |
+| OLNFRIW027SBOG | Other Loans and Leases: All Other Loans and Leases: Other Loans Not Elsewhere Classified, Foreign-Related Institutions          | 2015-01-07          | 2022-07-13        |
 | OMBFRIM027NBOG | Other Securities: Mortgage-Backed Securities, Foreign-Related Institutions                                                      | 2009-07-01          | 2022-06-01        |
 | OMBFRIM027SBOG | Other Securities: Mortgage-Backed Securities, Foreign-Related Institutions                                                      | 2009-07-01          | 2022-06-01        |
-| OMBFRIW027NBOG | Other Securities: Mortgage-Backed Securities, Foreign-Related Institutions                                                      | 2009-07-01          | 2022-07-06        |
-| OMBFRIW027SBOG | Other Securities: Mortgage-Backed Securities, Foreign-Related Institutions                                                      | 2009-07-01          | 2022-07-06        |
+| OMBFRIW027NBOG | Other Securities: Mortgage-Backed Securities, Foreign-Related Institutions                                                      | 2009-07-01          | 2022-07-13        |
+| OMBFRIW027SBOG | Other Securities: Mortgage-Backed Securities, Foreign-Related Institutions                                                      | 2009-07-01          | 2022-07-13        |
 | ONMFRIM027NBOG | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2009-07-01          | 2022-06-01        |
 | ONMFRIM027SBOG | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2009-07-01          | 2022-06-01        |
-| ONMFRIW027NBOG | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2009-07-01          | 2022-07-06        |
-| ONMFRIW027SBOG | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2009-07-01          | 2022-07-06        |
+| ONMFRIW027NBOG | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2009-07-01          | 2022-07-13        |
+| ONMFRIW027SBOG | Other Securities: Non-MBS, Foreign-Related Institutions                                                                         | 2009-07-01          | 2022-07-13        |
 | OSEFRIM027NBOG | Other Securities, Foreign-Related Institutions                                                                                  | 1973-01-01          | 2022-06-01        |
 | OSEFRIM027SBOG | Other Securities, Foreign-Related Institutions                                                                                  | 1973-01-01          | 2022-06-01        |
-| OSEFRIW027NBOG | Other Securities, Foreign-Related Institutions                                                                                  | 1973-01-03          | 2022-07-06        |
-| OSEFRIW027SBOG | Other Securities, Foreign-Related Institutions                                                                                  | 1973-01-03          | 2022-07-06        |
+| OSEFRIW027NBOG | Other Securities, Foreign-Related Institutions                                                                                  | 1973-01-03          | 2022-07-13        |
+| OSEFRIW027SBOG | Other Securities, Foreign-Related Institutions                                                                                  | 1973-01-03          | 2022-07-13        |
 | RALFRIM027NBOG | Residual (Assets Less Liabilities), Foreign-Related Institutions                                                                | 1973-01-01          | 2022-06-01        |
 | RALFRIM027SBOG | Residual (Assets Less Liabilities), Foreign-Related Institutions                                                                | 1973-01-01          | 2022-06-01        |
-| RALFRIW027NBOG | Residual (Assets Less Liabilities), Foreign-Related Institutions                                                                | 1973-01-03          | 2022-07-06        |
-| RALFRIW027SBOG | Residual (Assets Less Liabilities), Foreign-Related Institutions                                                                | 1973-01-03          | 2022-07-06        |
+| RALFRIW027NBOG | Residual (Assets Less Liabilities), Foreign-Related Institutions                                                                | 1973-01-03          | 2022-07-13        |
+| RALFRIW027SBOG | Residual (Assets Less Liabilities), Foreign-Related Institutions                                                                | 1973-01-03          | 2022-07-13        |
 | RELFRIM027NBOG | Real Estate Loans, Foreign-Related Institutions                                                                                 | 1989-01-01          | 2022-06-01        |
 | RELFRIM027SBOG | Real Estate Loans, Foreign-Related Institutions                                                                                 | 1989-01-01          | 2022-06-01        |
-| RELFRIW027NBOG | Real Estate Loans, Foreign-Related Institutions                                                                                 | 1989-01-04          | 2022-07-06        |
-| RELFRIW027SBOG | Real Estate Loans, Foreign-Related Institutions                                                                                 | 1989-01-04          | 2022-07-06        |
+| RELFRIW027NBOG | Real Estate Loans, Foreign-Related Institutions                                                                                 | 1989-01-04          | 2022-07-13        |
+| RELFRIW027SBOG | Real Estate Loans, Foreign-Related Institutions                                                                                 | 1989-01-04          | 2022-07-13        |
 | RHEFRIM027NBOG | Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, Foreign-Related Institutions                     | 2009-07-01          | 2022-06-01        |
 | RHEFRIM027SBOG | Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, Foreign-Related Institutions                     | 2009-07-01          | 2022-06-01        |
-| RHEFRIW027NBOG | Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, Foreign-Related Institutions                     | 2009-07-01          | 2022-07-06        |
-| RHEFRIW027SBOG | Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, Foreign-Related Institutions                     | 2009-07-01          | 2022-07-06        |
+| RHEFRIW027NBOG | Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, Foreign-Related Institutions                     | 2009-07-01          | 2022-07-13        |
+| RHEFRIW027SBOG | Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, Foreign-Related Institutions                     | 2009-07-01          | 2022-07-13        |
 | RREFRIM027NBOG | Real Estate Loans: Residential Real Estate Loans, Foreign-Related Institutions                                                  | 2009-07-01          | 2022-06-01        |
 | RREFRIM027SBOG | Real Estate Loans: Residential Real Estate Loans, Foreign-Related Institutions                                                  | 2009-07-01          | 2022-06-01        |
-| RREFRIW027NBOG | Real Estate Loans: Residential Real Estate Loans, Foreign-Related Institutions                                                  | 2009-07-01          | 2022-07-06        |
-| RREFRIW027SBOG | Real Estate Loans: Residential Real Estate Loans, Foreign-Related Institutions                                                  | 2009-07-01          | 2022-07-06        |
+| RREFRIW027NBOG | Real Estate Loans: Residential Real Estate Loans, Foreign-Related Institutions                                                  | 2009-07-01          | 2022-07-13        |
+| RREFRIW027SBOG | Real Estate Loans: Residential Real Estate Loans, Foreign-Related Institutions                                                  | 2009-07-01          | 2022-07-13        |
 | SBCFRIM027NBOG | Securities in Bank Credit, Foreign-Related Institutions                                                                         | 1973-01-01          | 2022-06-01        |
 | SBCFRIM027SBOG | Securities in Bank Credit, Foreign-Related Institutions                                                                         | 1973-01-01          | 2022-06-01        |
-| SBCFRIW027NBOG | Securities in Bank Credit, Foreign-Related Institutions                                                                         | 1973-01-03          | 2022-07-06        |
-| SBCFRIW027SBOG | Securities in Bank Credit, Foreign-Related Institutions                                                                         | 1973-01-03          | 2022-07-06        |
+| SBCFRIW027NBOG | Securities in Bank Credit, Foreign-Related Institutions                                                                         | 1973-01-03          | 2022-07-13        |
+| SBCFRIW027SBOG | Securities in Bank Credit, Foreign-Related Institutions                                                                         | 1973-01-03          | 2022-07-13        |
 | SBFFRIM027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Farmland, Foreign-Related Institutions                              | 2015-01-01          | 2022-06-01        |
 | SBFFRIM027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Farmland, Foreign-Related Institutions                              | 2015-01-01          | 2022-06-01        |
-| SBFFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Farmland, Foreign-Related Institutions                              | 2015-01-07          | 2022-07-06        |
-| SBFFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Farmland, Foreign-Related Institutions                              | 2015-01-07          | 2022-07-06        |
+| SBFFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Farmland, Foreign-Related Institutions                              | 2015-01-07          | 2022-07-13        |
+| SBFFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Farmland, Foreign-Related Institutions                              | 2015-01-07          | 2022-07-13        |
 | SMPFRIM027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Multifamily Properties, Foreign-Related Institutions                | 2015-01-01          | 2022-06-01        |
 | SMPFRIM027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Multifamily Properties, Foreign-Related Institutions                | 2015-01-01          | 2022-06-01        |
-| SMPFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Multifamily Properties, Foreign-Related Institutions                | 2015-01-07          | 2022-07-06        |
-| SMPFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Multifamily Properties, Foreign-Related Institutions                | 2015-01-07          | 2022-07-06        |
+| SMPFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Multifamily Properties, Foreign-Related Institutions                | 2015-01-07          | 2022-07-13        |
+| SMPFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Multifamily Properties, Foreign-Related Institutions                | 2015-01-07          | 2022-07-13        |
 | SNFFRIM027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions     | 2015-01-01          | 2022-06-01        |
 | SNFFRIM027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions     | 2015-01-01          | 2022-06-01        |
-| SNFFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions     | 2015-01-07          | 2022-07-06        |
-| SNFFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions     | 2015-01-07          | 2022-07-06        |
+| SNFFRIW027NBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions     | 2015-01-07          | 2022-07-13        |
+| SNFFRIW027SBOG | Real Estate Loans: Commercial Real Estate Loans: Secured by Nonfarm Nonresidential Properties, Foreign-Related Institutions     | 2015-01-07          | 2022-07-13        |
 | TASFRIM027NBOG | Treasury and Agency Securities, Foreign-Related Institutions                                                                    | 1973-01-01          | 2022-06-01        |
 | TASFRIM027SBOG | Treasury and Agency Securities, Foreign-Related Institutions                                                                    | 1973-01-01          | 2022-06-01        |
-| TASFRIW027NBOG | Treasury and Agency Securities, Foreign-Related Institutions                                                                    | 1973-01-03          | 2022-07-06        |
-| TASFRIW027SBOG | Treasury and Agency Securities, Foreign-Related Institutions                                                                    | 1973-01-03          | 2022-07-06        |
+| TASFRIW027NBOG | Treasury and Agency Securities, Foreign-Related Institutions                                                                    | 1973-01-03          | 2022-07-13        |
+| TASFRIW027SBOG | Treasury and Agency Securities, Foreign-Related Institutions                                                                    | 1973-01-03          | 2022-07-13        |
 | TLAFRIM027NBOG | Total Assets, Foreign-Related Institutions                                                                                      | 1973-01-01          | 2022-06-01        |
 | TLAFRIM027SBOG | Total Assets, Foreign-Related Institutions                                                                                      | 1973-01-01          | 2022-06-01        |
-| TLAFRIW027NBOG | Total Assets, Foreign-Related Institutions                                                                                      | 1973-01-03          | 2022-07-06        |
-| TLAFRIW027SBOG | Total Assets, Foreign-Related Institutions                                                                                      | 1973-01-03          | 2022-07-06        |
+| TLAFRIW027NBOG | Total Assets, Foreign-Related Institutions                                                                                      | 1973-01-03          | 2022-07-13        |
+| TLAFRIW027SBOG | Total Assets, Foreign-Related Institutions                                                                                      | 1973-01-03          | 2022-07-13        |
 | TLBFRIM027NBOG | Total Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-01          | 2022-06-01        |
 | TLBFRIM027SBOG | Total Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-01          | 2022-06-01        |
-| TLBFRIW027NBOG | Total Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-03          | 2022-07-06        |
-| TLBFRIW027SBOG | Total Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-03          | 2022-07-06        |
+| TLBFRIW027NBOG | Total Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-03          | 2022-07-13        |
+| TLBFRIW027SBOG | Total Liabilities, Foreign-Related Institutions                                                                                 | 1973-01-03          | 2022-07-13        |
 | TMBFRIM027NBOG | Treasury and Agency Securities: Mortgage-Backed Securities (MBS), Foreign-Related Institutions                                  | 2009-07-01          | 2022-06-01        |
 | TMBFRIM027SBOG | Treasury and Agency Securities: Mortgage-Backed Securities (MBS), Foreign-Related Institutions                                  | 2009-07-01          | 2022-06-01        |
-| TMBFRIW027NBOG | Treasury and Agency Securities: Mortgage-Backed Securities (MBS), Foreign-Related Institutions                                  | 2009-07-01          | 2022-07-06        |
-| TMBFRIW027SBOG | Treasury and Agency Securities: Mortgage-Backed Securities (MBS), Foreign-Related Institutions                                  | 2009-07-01          | 2022-07-06        |
+| TMBFRIW027NBOG | Treasury and Agency Securities: Mortgage-Backed Securities (MBS), Foreign-Related Institutions                                  | 2009-07-01          | 2022-07-13        |
+| TMBFRIW027SBOG | Treasury and Agency Securities: Mortgage-Backed Securities (MBS), Foreign-Related Institutions                                  | 2009-07-01          | 2022-07-13        |
 | TNMFRIM027NBOG | Treasury and Agency Securities: Non-MBS, Foreign-Related Institutions                                                           | 2009-07-01          | 2022-06-01        |
 | TNMFRIM027SBOG | Treasury and Agency Securities: Non-MBS, Foreign-Related Institutions                                                           | 2009-07-01          | 2022-06-01        |
-| TNMFRIW027NBOG | Treasury and Agency Securities: Non-MBS, Foreign-Related Institutions                                                           | 2009-07-01          | 2022-07-06        |
-| TNMFRIW027SBOG | Treasury and Agency Securities: Non-MBS, Foreign-Related Institutions                                                           | 2009-07-01          | 2022-07-06        |
+| TNMFRIW027NBOG | Treasury and Agency Securities: Non-MBS, Foreign-Related Institutions                                                           | 2009-07-01          | 2022-07-13        |
+| TNMFRIW027SBOG | Treasury and Agency Securities: Non-MBS, Foreign-Related Institutions                                                           | 2009-07-01          | 2022-07-13        |

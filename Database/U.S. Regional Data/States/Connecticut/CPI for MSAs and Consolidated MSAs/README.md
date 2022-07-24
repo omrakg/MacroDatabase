@@ -1,4 +1,4 @@
 | Folder                                                       |   Files / Folders |
 |--------------------------------------------------------------|-------------------|
-| New York-Northern New Jersey-Long Island, NY-NJ-CT-PA (CMSA) |                51 |
-| Boston-Brockton-Nashua, MA-NH-ME-CT (CMSA)                   |                53 |
+| Boston-Brockton-Nashua, MA-NH-ME-CT (CMSA)                   |                 0 |
+| New York-Northern New Jersey-Long Island, NY-NJ-CT-PA (CMSA) |                 0 |

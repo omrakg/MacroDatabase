@@ -1,5 +1,5 @@
 | Folder                          |   Files / Folders |
 |---------------------------------|-------------------|
-| Boston, MA                      |                 0 |
-| Peabody, MA                     |                 1 |
+| Boston, MA                      |                 3 |
 | Cambridge-Newton-Framingham, MA |                 3 |
+| Peabody, MA                     |                 1 |

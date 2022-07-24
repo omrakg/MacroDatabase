@@ -40,6 +40,7 @@
 | DTP10L19    | 10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2019 (DISCONTINUED)     | 2009-07-08          | 2019-07-15        |
 | DTP10L20    | 10-Year 1-1/4% Treasury Inflation-Indexed Note, Due 7/15/2020 (DISCONTINUED)     | 2010-07-09          | 2020-07-15        |
 | DTP10L21    | 10-Year 0-5/8% Treasury Inflation-Indexed Note, Due 7/15/2021 (DISCONTINUED)     | 2011-07-22          | 2021-07-15        |
+| DTP10L22    | 10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2022 (DISCONTINUED)     | 2012-07-20          | 2022-07-13        |
 | H0RIFLGFLNA | Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                   | 2002-01-01          | 2004-01-01        |
 | LTA         | Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                   | 2002-02-01          | 2004-05-01        |
 | TP3HA32     | 30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032 (DISCONTINUED) | 2001-10-01          | 2020-07-01        |

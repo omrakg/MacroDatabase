@@ -1,11 +1,11 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| San German, PR              |                51 |
-| Arecibo, PR                 |                38 |
+| Ponce, PR                   |                85 |
+| Mayaguez, PR                |                82 |
 | Guayama, PR                 |                49 |
+| Yauco, PR                   |                 3 |
+| Arecibo, PR                 |                38 |
 | Aguadilla-Isabela, PR       |                62 |
 | San Juan-Bayamon-Caguas, PR |               184 |
-| Mayaguez, PR                |                82 |
-| Yauco, PR                   |                 3 |
 | Fajardo, PR                 |                 3 |
-| Ponce, PR                   |                85 |
+| San German, PR              |                51 |

@@ -1100,9 +1100,9 @@
 | PRCNTO01GRA657S | Total Construction for Greece                                                                                                                       | 2001-01-01          | 2021-01-01        |
 | PRCNTO01GRA659S | Total Construction for Greece                                                                                                                       | 2001-01-01          | 2021-01-01        |
 | PRCNTO01GRA661N | Total Construction for Greece                                                                                                                       | 2000-01-01          | 2021-01-01        |
-| PRCNTO01GRQ657S | Total Construction for Greece                                                                                                                       | 2000-04-01          | 2021-10-01        |
-| PRCNTO01GRQ659S | Total Construction for Greece                                                                                                                       | 2001-01-01          | 2021-10-01        |
-| PRCNTO01GRQ661N | Total Construction for Greece                                                                                                                       | 2000-01-01          | 2021-10-01        |
+| PRCNTO01GRQ657S | Total Construction for Greece                                                                                                                       | 2000-04-01          | 2022-01-01        |
+| PRCNTO01GRQ659S | Total Construction for Greece                                                                                                                       | 2001-01-01          | 2022-01-01        |
+| PRCNTO01GRQ661N | Total Construction for Greece                                                                                                                       | 2000-01-01          | 2022-01-01        |
 | PRCNTO01HUA657S | Total Construction for Hungary                                                                                                                      | 1996-01-01          | 2021-01-01        |
 | PRCNTO01HUA659S | Total Construction for Hungary                                                                                                                      | 1996-01-01          | 2021-01-01        |
 | PRCNTO01HUA661N | Total Construction for Hungary                                                                                                                      | 1995-01-01          | 2021-01-01        |
@@ -1134,7 +1134,7 @@
 | PRCNTO01ISQ189S | Total Construction for Iceland                                                                                                                      | 1998-01-01          | 2017-10-01        |
 | PRCNTO01ISQ657S | Total Construction for Iceland                                                                                                                      | 1998-04-01          | 2017-10-01        |
 | PRCNTO01ISQ659S | Total Construction for Iceland                                                                                                                      | 1999-01-01          | 2017-10-01        |
-| PRCNTO01ISQ661N | Total Construction for Iceland                                                                                                                      | 1998-01-01          | 2021-10-01        |
+| PRCNTO01ISQ661N | Total Construction for Iceland                                                                                                                      | 1998-01-01          | 2022-01-01        |
 | PRCNTO01ITA657S | Total Construction for Italy                                                                                                                        | 1996-01-01          | 2021-01-01        |
 | PRCNTO01ITA659S | Total Construction for Italy                                                                                                                        | 1996-01-01          | 2021-01-01        |
 | PRCNTO01ITA661N | Total Construction for Italy                                                                                                                        | 1995-01-01          | 2021-01-01        |
@@ -1150,9 +1150,9 @@
 | PRCNTO01MXA657S | Total Construction for Mexico                                                                                                                       | 1981-01-01          | 2021-01-01        |
 | PRCNTO01MXA659S | Total Construction for Mexico                                                                                                                       | 1981-01-01          | 2021-01-01        |
 | PRCNTO01MXA661N | Total Construction for Mexico                                                                                                                       | 1980-01-01          | 2021-01-01        |
-| PRCNTO01MXQ657S | Total Construction for Mexico                                                                                                                       | 1980-04-01          | 2021-10-01        |
-| PRCNTO01MXQ659S | Total Construction for Mexico                                                                                                                       | 1981-01-01          | 2021-10-01        |
-| PRCNTO01MXQ661N | Total Construction for Mexico                                                                                                                       | 1980-01-01          | 2021-10-01        |
+| PRCNTO01MXQ657S | Total Construction for Mexico                                                                                                                       | 1980-04-01          | 2022-01-01        |
+| PRCNTO01MXQ659S | Total Construction for Mexico                                                                                                                       | 1981-01-01          | 2022-01-01        |
+| PRCNTO01MXQ661N | Total Construction for Mexico                                                                                                                       | 1980-01-01          | 2022-01-01        |
 | PRCNTO01NLA657S | Total Construction for the Netherlands                                                                                                              | 2001-01-01          | 2021-01-01        |
 | PRCNTO01NLA659S | Total Construction for the Netherlands                                                                                                              | 2001-01-01          | 2021-01-01        |
 | PRCNTO01NLA661N | Total Construction for the Netherlands                                                                                                              | 2000-01-01          | 2021-01-01        |
@@ -1164,11 +1164,11 @@
 | PRCNTO01NZA657S | Total Construction for New Zealand                                                                                                                  | 1979-01-01          | 2021-01-01        |
 | PRCNTO01NZA659S | Total Construction for New Zealand                                                                                                                  | 1979-01-01          | 2021-01-01        |
 | PRCNTO01NZA661N | Total Construction for New Zealand                                                                                                                  | 1978-01-01          | 2021-01-01        |
-| PRCNTO01NZQ189N | Total Construction for New Zealand                                                                                                                  | 1977-04-01          | 2021-10-01        |
-| PRCNTO01NZQ189S | Total Construction for New Zealand                                                                                                                  | 1977-04-01          | 2021-10-01        |
-| PRCNTO01NZQ657S | Total Construction for New Zealand                                                                                                                  | 1977-07-01          | 2021-10-01        |
-| PRCNTO01NZQ659S | Total Construction for New Zealand                                                                                                                  | 1978-04-01          | 2021-10-01        |
-| PRCNTO01NZQ661N | Total Construction for New Zealand                                                                                                                  | 1977-04-01          | 2021-10-01        |
+| PRCNTO01NZQ189N | Total Construction for New Zealand                                                                                                                  | 1977-04-01          | 2022-01-01        |
+| PRCNTO01NZQ189S | Total Construction for New Zealand                                                                                                                  | 1977-04-01          | 2022-01-01        |
+| PRCNTO01NZQ657S | Total Construction for New Zealand                                                                                                                  | 1977-07-01          | 2022-01-01        |
+| PRCNTO01NZQ659S | Total Construction for New Zealand                                                                                                                  | 1978-04-01          | 2022-01-01        |
+| PRCNTO01NZQ661N | Total Construction for New Zealand                                                                                                                  | 1977-04-01          | 2022-01-01        |
 | PRCNTO01PLA657S | Total Construction for Poland                                                                                                                       | 1986-01-01          | 2021-01-01        |
 | PRCNTO01PLA659S | Total Construction for Poland                                                                                                                       | 1986-01-01          | 2021-01-01        |
 | PRCNTO01PLA661N | Total Construction for Poland                                                                                                                       | 1985-01-01          | 2021-01-01        |
@@ -1279,8 +1279,8 @@
 | PRENTO01JPQ661S | Total Energy Production for Japan                                                                                                                   | 1998-01-01          | 2022-01-01        |
 | PRENTO01MXA661N | Total Energy Production for Mexico                                                                                                                  | 1980-01-01          | 2021-01-01        |
 | PRENTO01MXA661S | Total Energy Production for Mexico                                                                                                                  | 1980-01-01          | 2021-01-01        |
-| PRENTO01MXQ661N | Total Energy Production for Mexico                                                                                                                  | 1980-01-01          | 2021-10-01        |
-| PRENTO01MXQ661S | Total Energy Production for Mexico                                                                                                                  | 1980-01-01          | 2021-10-01        |
+| PRENTO01MXQ661N | Total Energy Production for Mexico                                                                                                                  | 1980-01-01          | 2022-01-01        |
+| PRENTO01MXQ661S | Total Energy Production for Mexico                                                                                                                  | 1980-01-01          | 2022-01-01        |
 | PRENTO01RUA661S | Total Energy Production for the Russian Federation                                                                                                  | 1999-01-01          | 2021-01-01        |
 | PRENTO01RUQ661S | Total Energy Production for the Russian Federation                                                                                                  | 1999-01-01          | 2021-10-01        |
 | PRENTO01SIA661N | Total Energy Production for Slovenia                                                                                                                | 1992-01-01          | 2021-01-01        |
@@ -1289,8 +1289,8 @@
 | PRENTO01SIQ661S | Total Energy Production for Slovenia                                                                                                                | 1992-01-01          | 2022-01-01        |
 | PRENTO01TRA661N | Total Energy Production for Turkey                                                                                                                  | 1985-01-01          | 2021-01-01        |
 | PRENTO01TRA661S | Total Energy Production for Turkey                                                                                                                  | 1985-01-01          | 2021-01-01        |
-| PRENTO01TRQ661N | Total Energy Production for Turkey                                                                                                                  | 1985-01-01          | 2021-10-01        |
-| PRENTO01TRQ661S | Total Energy Production for Turkey                                                                                                                  | 1985-01-01          | 2021-10-01        |
+| PRENTO01TRQ661N | Total Energy Production for Turkey                                                                                                                  | 1985-01-01          | 2022-01-01        |
+| PRENTO01TRQ661S | Total Energy Production for Turkey                                                                                                                  | 1985-01-01          | 2022-01-01        |
 | PRINTO01ATA657S | Total Industry Production Excluding Construction for Austria                                                                                        | 1960-01-01          | 2021-01-01        |
 | PRINTO01ATA659S | Total Industry Production Excluding Construction for Austria                                                                                        | 1960-01-01          | 2021-01-01        |
 | PRINTO01ATA661N | Total Industry Production Excluding Construction for Austria                                                                                        | 1960-01-01          | 2021-01-01        |
@@ -1372,9 +1372,9 @@
 | PRINTO01ESA657S | Total Industry Production Excluding Construction for Spain                                                                                          | 1966-01-01          | 2021-01-01        |
 | PRINTO01ESA659S | Total Industry Production Excluding Construction for Spain                                                                                          | 1966-01-01          | 2021-01-01        |
 | PRINTO01ESA661N | Total Industry Production Excluding Construction for Spain                                                                                          | 1961-01-01          | 2021-01-01        |
-| PRINTO01ESQ657S | Total Industry Production Excluding Construction for Spain                                                                                          | 1965-04-01          | 2021-10-01        |
-| PRINTO01ESQ659S | Total Industry Production Excluding Construction for Spain                                                                                          | 1966-01-01          | 2021-10-01        |
-| PRINTO01ESQ661N | Total Industry Production Excluding Construction for Spain                                                                                          | 1961-01-01          | 2021-10-01        |
+| PRINTO01ESQ657S | Total Industry Production Excluding Construction for Spain                                                                                          | 1965-04-01          | 2022-01-01        |
+| PRINTO01ESQ659S | Total Industry Production Excluding Construction for Spain                                                                                          | 1966-01-01          | 2022-01-01        |
+| PRINTO01ESQ661N | Total Industry Production Excluding Construction for Spain                                                                                          | 1961-01-01          | 2022-01-01        |
 | PRINTO01EUA657S | Total Industry Production Excluding Construction for the European Union                                                                             | 1977-01-01          | 2019-01-01        |
 | PRINTO01EUA659S | Total Industry Production Excluding Construction for the European Union                                                                             | 1977-01-01          | 2019-01-01        |
 | PRINTO01EUA661S | Total Industry Production Excluding Construction for the European Union                                                                             | 1976-01-01          | 2019-01-01        |
@@ -1490,11 +1490,11 @@
 | PRINTO01NZA657S | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1979-01-01          | 2021-01-01        |
 | PRINTO01NZA659S | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1979-01-01          | 2021-01-01        |
 | PRINTO01NZA661N | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1978-01-01          | 2021-01-01        |
-| PRINTO01NZQ189N | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1977-04-01          | 2021-10-01        |
-| PRINTO01NZQ189S | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1977-04-01          | 2021-10-01        |
-| PRINTO01NZQ657S | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1977-07-01          | 2021-10-01        |
-| PRINTO01NZQ659S | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1978-04-01          | 2021-10-01        |
-| PRINTO01NZQ661N | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1977-04-01          | 2021-10-01        |
+| PRINTO01NZQ189N | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1977-04-01          | 2022-01-01        |
+| PRINTO01NZQ189S | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1977-04-01          | 2022-01-01        |
+| PRINTO01NZQ657S | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1977-07-01          | 2022-01-01        |
+| PRINTO01NZQ659S | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1978-04-01          | 2022-01-01        |
+| PRINTO01NZQ661N | Total Industry Production Excluding Construction for New Zealand                                                                                    | 1977-04-01          | 2022-01-01        |
 | PRINTO01PLA657S | Total Industry Production Excluding Construction for Poland                                                                                         | 1986-01-01          | 2021-01-01        |
 | PRINTO01PLA659S | Total Industry Production Excluding Construction for Poland                                                                                         | 1986-01-01          | 2021-01-01        |
 | PRINTO01PLA661N | Total Industry Production Excluding Construction for Poland                                                                                         | 1985-01-01          | 2021-01-01        |
@@ -1545,8 +1545,8 @@
 | PRINTO01USQ661N | Total Industry Production Excluding Construction for the United States                                                                              | 1960-01-01          | 2022-01-01        |
 | PRINTO02MXA661N | Total Industry Production Including Construction for Mexico                                                                                         | 1980-01-01          | 2021-01-01        |
 | PRINTO02MXA661S | Total Industry Production Including Construction for Mexico                                                                                         | 1980-01-01          | 2021-01-01        |
-| PRINTO02MXQ661N | Total Industry Production Including Construction for Mexico                                                                                         | 1980-01-01          | 2021-10-01        |
-| PRINTO02MXQ661S | Total Industry Production Including Construction for Mexico                                                                                         | 1980-01-01          | 2021-10-01        |
+| PRINTO02MXQ661N | Total Industry Production Including Construction for Mexico                                                                                         | 1980-01-01          | 2022-01-01        |
+| PRINTO02MXQ661S | Total Industry Production Including Construction for Mexico                                                                                         | 1980-01-01          | 2022-01-01        |
 | PRMITO01ATA661N | Total Mining Production for Austria                                                                                                                 | 1990-01-01          | 2021-01-01        |
 | PRMITO01ATA661S | Total Mining Production for Austria                                                                                                                 | 1990-01-01          | 2021-01-01        |
 | PRMITO01ATQ661N | Total Mining Production for Austria                                                                                                                 | 1990-01-01          | 2022-01-01        |
@@ -1570,7 +1570,7 @@
 | PRMITO01DKQ661N | Total Mining Production for Denmark                                                                                                                 | 1980-01-01          | 2022-01-01        |
 | PRMITO01DKQ661S | Total Mining Production for Denmark                                                                                                                 | 1985-01-01          | 2022-01-01        |
 | PRMITO01ESA661N | Total Mining Production for Spain                                                                                                                   | 2010-01-01          | 2021-01-01        |
-| PRMITO01ESQ661N | Total Mining Production for Spain                                                                                                                   | 2010-01-01          | 2021-10-01        |
+| PRMITO01ESQ661N | Total Mining Production for Spain                                                                                                                   | 2010-01-01          | 2022-01-01        |
 | PRMITO01FIA661N | Total Mining Production for Finland                                                                                                                 | 1990-01-01          | 2021-01-01        |
 | PRMITO01FIA661S | Total Mining Production for Finland                                                                                                                 | 1990-01-01          | 2021-01-01        |
 | PRMITO01FIQ661N | Total Mining Production for Finland                                                                                                                 | 1990-01-01          | 2022-01-01        |
@@ -1589,8 +1589,8 @@
 | PRMITO01JPQ661S | Total Mining Production for Japan                                                                                                                   | 1998-01-01          | 2022-01-01        |
 | PRMITO01MXA661N | Total Mining Production for Mexico                                                                                                                  | 1980-01-01          | 2021-01-01        |
 | PRMITO01MXA661S | Total Mining Production for Mexico                                                                                                                  | 1980-01-01          | 2021-01-01        |
-| PRMITO01MXQ661N | Total Mining Production for Mexico                                                                                                                  | 1980-01-01          | 2021-10-01        |
-| PRMITO01MXQ661S | Total Mining Production for Mexico                                                                                                                  | 1980-01-01          | 2021-10-01        |
+| PRMITO01MXQ661N | Total Mining Production for Mexico                                                                                                                  | 1980-01-01          | 2022-01-01        |
+| PRMITO01MXQ661S | Total Mining Production for Mexico                                                                                                                  | 1980-01-01          | 2022-01-01        |
 | PRMITO01PLA661N | Total Mining Production for Poland                                                                                                                  | 1985-01-01          | 2021-01-01        |
 | PRMITO01PLQ661N | Total Mining Production for Poland                                                                                                                  | 1985-01-01          | 2022-01-01        |
 | PRMITO01RUA661N | Total Mining Production for the Russian Federation                                                                                                  | 1999-01-01          | 2021-01-01        |
@@ -1687,7 +1687,7 @@
 | PRMNCG02INA661N | Production of Durable Consumer Goods for Manufacturing for India                                                                                    | 1995-01-01          | 2021-01-01        |
 | PRMNCG02INA661S | Production of Durable Consumer Goods for Manufacturing for India                                                                                    | 1995-01-01          | 2021-01-01        |
 | PRMNCG02INQ661N | Production of Durable Consumer Goods for Manufacturing for India                                                                                    | 1994-04-01          | 2022-01-01        |
-| PRMNCG02INQ661S | Production of Durable Consumer Goods for Manufacturing for India                                                                                    | 1994-04-01          | 2021-10-01        |
+| PRMNCG02INQ661S | Production of Durable Consumer Goods for Manufacturing for India                                                                                    | 1994-04-01          | 2022-01-01        |
 | PRMNCG02KRA661N | Production of Durable Consumer Goods for Manufacturing for the Republic of Korea                                                                    | 1990-01-01          | 2018-01-01        |
 | PRMNCG02KRA661S | Production of Durable Consumer Goods for Manufacturing for the Republic of Korea                                                                    | 1990-01-01          | 2018-01-01        |
 | PRMNCG02KRQ661N | Production of Durable Consumer Goods for Manufacturing for the Republic of Korea                                                                    | 1990-01-01          | 2018-10-01        |
@@ -1865,8 +1865,8 @@
 | PRMNTO01EEQ661S | Total Manufacturing Production for Estonia                                                                                                          | 1998-01-01          | 2022-01-01        |
 | PRMNTO01ESA657S | Total Manufacturing Production for Spain                                                                                                            | 1962-01-01          | 2021-01-01        |
 | PRMNTO01ESA661N | Total Manufacturing Production for Spain                                                                                                            | 1961-01-01          | 2021-01-01        |
-| PRMNTO01ESQ657S | Total Manufacturing Production for Spain                                                                                                            | 1961-04-01          | 2021-10-01        |
-| PRMNTO01ESQ661N | Total Manufacturing Production for Spain                                                                                                            | 1961-01-01          | 2021-10-01        |
+| PRMNTO01ESQ657S | Total Manufacturing Production for Spain                                                                                                            | 1961-04-01          | 2022-01-01        |
+| PRMNTO01ESQ661N | Total Manufacturing Production for Spain                                                                                                            | 1961-01-01          | 2022-01-01        |
 | PRMNTO01EUA657S | Total Manufacturing Production for the European Union                                                                                               | 1991-01-01          | 2019-01-01        |
 | PRMNTO01EUA661S | Total Manufacturing Production for the European Union                                                                                               | 1990-01-01          | 2019-01-01        |
 | PRMNTO01EUQ657S | Total Manufacturing Production for the European Union                                                                                               | 1990-04-01          | 2019-10-01        |

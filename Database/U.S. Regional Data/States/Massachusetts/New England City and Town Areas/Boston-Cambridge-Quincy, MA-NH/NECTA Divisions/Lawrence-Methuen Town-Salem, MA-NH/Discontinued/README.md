@@ -1,5 +1,2 @@
-| id                     | title                                                                                                                         | observation_start   | observation_end   |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU25742040500000002SA | Average Weekly Hours of All Employees: Total Private in Lawrence-Methuen Town-Salem, MA-NH (NECTA Division) (DISCONTINUED)    | 2011-01-01          | 2022-03-01        |
-| SMU25742040500000003SA | Average Hourly Earnings of All Employees: Total Private in Lawrence-Methuen Town-Salem, MA-NH (NECTA Division) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
-| SMU25742040500000011SA | Average Weekly Earnings of All Employees: Total Private in Lawrence-Methuen Town-Salem, MA-NH (NECTA Division) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|
