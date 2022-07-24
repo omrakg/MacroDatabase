@@ -2,8 +2,8 @@
   "Chained 2000 National Currency Units_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP07RUA652S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2016-01-01",
@@ -21,8 +21,8 @@
     },
     "Brazil": {
       "id": "NAEXKP07BRQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -37,13 +37,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Brazil"
+    },
+    "India": {
+      "id": "NAEXKP07INQ661S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for India",
+      "observation_start": "2011-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-14 10:57:39-05",
+      "popularity": 1,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Previous Period_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP07RUA657S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
       "observation_start": "2004-01-01",
       "observation_end": "2020-01-01",
@@ -61,8 +80,8 @@
     },
     "Brazil": {
       "id": "NAEXKP07BRQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -77,13 +96,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Brazil"
+    },
+    "India": {
+      "id": "NAEXKP07INQ661S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for India",
+      "observation_start": "2011-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-14 10:57:39-05",
+      "popularity": 1,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Same Period Previous Year_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP07RUA659S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
       "observation_start": "2004-01-01",
       "observation_end": "2020-01-01",
@@ -101,8 +139,8 @@
     },
     "Brazil": {
       "id": "NAEXKP07BRQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -117,13 +155,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Brazil"
+    },
+    "India": {
+      "id": "NAEXKP07INQ661S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for India",
+      "observation_start": "2011-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-14 10:57:39-05",
+      "popularity": 1,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP07RUA661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2020-01-01",
@@ -141,8 +198,8 @@
     },
     "Brazil": {
       "id": "NAEXKP07BRQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -157,13 +214,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Brazil"
+    },
+    "India": {
+      "id": "NAEXKP07INQ661S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for India",
+      "observation_start": "2011-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-14 10:57:39-05",
+      "popularity": 1,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Chained 2000 National Currency Units_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP07RUQ652S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2016-10-01",
@@ -181,8 +257,8 @@
     },
     "Brazil": {
       "id": "NAEXKP07BRQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -197,13 +273,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Brazil"
+    },
+    "India": {
+      "id": "NAEXKP07INQ661S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for India",
+      "observation_start": "2011-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-14 10:57:39-05",
+      "popularity": 1,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Previous Period_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP07RUQ657S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
       "observation_start": "2003-04-01",
       "observation_end": "2021-07-01",
@@ -221,8 +316,8 @@
     },
     "Brazil": {
       "id": "NAEXKP07BRQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -237,13 +332,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Brazil"
+    },
+    "India": {
+      "id": "NAEXKP07INQ661S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for India",
+      "observation_start": "2011-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-14 10:57:39-05",
+      "popularity": 1,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Same Period Previous Year_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP07RUQ659S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
       "observation_start": "2004-01-01",
       "observation_end": "2021-07-01",
@@ -261,8 +375,8 @@
     },
     "Brazil": {
       "id": "NAEXKP07BRQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -277,13 +391,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Brazil"
+    },
+    "India": {
+      "id": "NAEXKP07INQ661S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for India",
+      "observation_start": "2011-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-14 10:57:39-05",
+      "popularity": 1,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP07RUQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -301,8 +434,8 @@
     },
     "Brazil": {
       "id": "NAEXKP07BRQ661S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -317,6 +450,25 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Brazil"
+    },
+    "India": {
+      "id": "NAEXKP07INQ661S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for India",
+      "observation_start": "2011-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-06-14 10:57:39-05",
+      "popularity": 1,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: IXOBSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   }
 }

@@ -1,11 +1,32 @@
 {
+  "Percent of GDP_Annual_Not Seasonally Adjusted": {
+    "India": {
+      "id": "XTIMVA01INA188S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1997-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Percent of GDP",
+      "units_short": "% of GDP",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-07-14 19:26:00-05",
+      "popularity": 1,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: STSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
+    }
+  },
   "Growth Rate Previous Period_Annual_Not Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNA657S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1993-01-01",
+    "India": {
+      "id": "XTIMVA01INA657S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1991-01-01",
       "observation_end": "2021-01-01",
       "frequency": "Annual",
       "frequency_short": "A",
@@ -13,20 +34,20 @@
       "units_short": "Growth Rate Previous Period",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-06-14 10:57:11-05",
+      "last_updated": "2022-07-14 19:26:00-05",
       "popularity": 1,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GPSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GPSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Same Period Previous Year_Annual_Not Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNA659S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1993-01-01",
+    "India": {
+      "id": "XTIMVA01INA659S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1991-01-01",
       "observation_end": "2021-01-01",
       "frequency": "Annual",
       "frequency_short": "A",
@@ -34,20 +55,20 @@
       "units_short": "Growth Rate Same Period Previous Yr.",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-06-14 12:00:26-05",
+      "last_updated": "2022-07-14 19:26:00-05",
       "popularity": 1,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GYSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GYSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "National currency, Monthly Level_Annual_Not Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNA664S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-01-01",
+    "India": {
+      "id": "XTIMVA01INA664S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
       "frequency": "Annual",
       "frequency_short": "A",
@@ -55,20 +76,20 @@
       "units_short": "National currency, Monthly Level",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-06-14 12:00:25-05",
+      "last_updated": "2022-07-14 19:25:59-05",
       "popularity": 1,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCMLSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCMLSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "US Dollars Monthly Level_Annual_Not Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNA667S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-01-01",
+    "India": {
+      "id": "XTIMVA01INA667S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
       "frequency": "Annual",
       "frequency_short": "A",
@@ -76,20 +97,20 @@
       "units_short": "US $, Monthly Level",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-06-14 12:00:25-05",
+      "last_updated": "2022-07-14 19:25:59-05",
       "popularity": 1,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXMLSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXMLSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Previous Period_Monthly_Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNM657S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-02-01",
+    "India": {
+      "id": "XTIMVA01INM657S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-02-01",
       "observation_end": "2022-05-01",
       "frequency": "Monthly",
       "frequency_short": "M",
@@ -97,20 +118,20 @@
       "units_short": "Growth Rate Previous Period",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-07-14 14:25:26-05",
-      "popularity": 2,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GPSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "last_updated": "2022-07-14 17:58:12-05",
+      "popularity": 1,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GPSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Same Period Previous Year_Monthly_Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNM659S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1993-01-01",
+    "India": {
+      "id": "XTIMVA01INM659S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1991-01-01",
       "observation_end": "2022-05-01",
       "frequency": "Monthly",
       "frequency_short": "M",
@@ -118,20 +139,41 @@
       "units_short": "Growth Rate Same Period Previous Yr.",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-07-14 14:25:25-05",
+      "last_updated": "2022-07-14 17:58:12-05",
       "popularity": 1,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GYSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GYSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
+    }
+  },
+  "National currency, Monthly Level_Monthly_Not Seasonally Adjusted": {
+    "India": {
+      "id": "XTIMVA01INM664N",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
+      "observation_end": "2022-05-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "National currency, Monthly Level",
+      "units_short": "National currency, Monthly Level",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-07-14 14:21:27-05",
+      "popularity": 2,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCML\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "National currency, Monthly Level_Monthly_Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNM664S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-01-01",
+    "India": {
+      "id": "XTIMVA01INM664S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
       "frequency": "Monthly",
       "frequency_short": "M",
@@ -139,20 +181,20 @@
       "units_short": "National currency, Monthly Level",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-07-14 14:25:15-05",
-      "popularity": 2,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCMLSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "last_updated": "2022-07-14 17:46:17-05",
+      "popularity": 1,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCMLSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "US Dollars Monthly Level_Monthly_Not Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNM667N",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-01-01",
+    "India": {
+      "id": "XTIMVA01INM667N",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
       "frequency": "Monthly",
       "frequency_short": "M",
@@ -160,20 +202,20 @@
       "units_short": "US $, Monthly Level",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-07-14 14:25:20-05",
-      "popularity": 4,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXML\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "last_updated": "2022-07-14 17:46:15-05",
+      "popularity": 1,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXML\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "US Dollars Monthly Level_Monthly_Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNM667S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-01-01",
+    "India": {
+      "id": "XTIMVA01INM667S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
       "frequency": "Monthly",
       "frequency_short": "M",
@@ -181,20 +223,41 @@
       "units_short": "US $, Monthly Level",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-07-14 14:25:06-05",
-      "popularity": 24,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXMLSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "last_updated": "2022-07-14 14:21:14-05",
+      "popularity": 6,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXMLSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
+    }
+  },
+  "Percent of GDP_Quarterly_Seasonally Adjusted": {
+    "India": {
+      "id": "XTIMVA01INQ188S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1996-04-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Percent of GDP",
+      "units_short": "% of GDP",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-07-14 14:11:44-05",
+      "popularity": 3,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: STSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Previous Period_Quarterly_Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNQ657S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-04-01",
+    "India": {
+      "id": "XTIMVA01INQ657S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-04-01",
       "observation_end": "2022-01-01",
       "frequency": "Quarterly",
       "frequency_short": "Q",
@@ -202,20 +265,20 @@
       "units_short": "Growth Rate Previous Period",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-06-14 11:03:33-05",
+      "last_updated": "2022-07-14 14:34:16-05",
       "popularity": 1,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GPSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GPSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth Rate Same Period Previous Year_Quarterly_Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNQ659S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1993-01-01",
+    "India": {
+      "id": "XTIMVA01INQ659S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
       "frequency": "Quarterly",
       "frequency_short": "Q",
@@ -223,20 +286,41 @@
       "units_short": "Growth Rate Same Period Previous Yr.",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-06-14 11:03:33-05",
+      "last_updated": "2022-07-14 14:34:16-05",
       "popularity": 1,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GYSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: GYSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
+    }
+  },
+  "National currency, Monthly Level_Quarterly_Not Seasonally Adjusted": {
+    "India": {
+      "id": "XTIMVA01INQ664N",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "National currency, Monthly Level",
+      "units_short": "National currency, Monthly Level",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-07-14 14:34:15-05",
+      "popularity": 1,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCML\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "National currency, Monthly Level_Quarterly_Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNQ664S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-01-01",
+    "India": {
+      "id": "XTIMVA01INQ664S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
       "frequency": "Quarterly",
       "frequency_short": "Q",
@@ -244,20 +328,20 @@
       "units_short": "National currency, Monthly Level",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-06-14 11:03:33-05",
-      "popularity": 2,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCMLSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "last_updated": "2022-07-14 14:34:15-05",
+      "popularity": 1,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCMLSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "US Dollars Monthly Level_Quarterly_Not Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNQ667N",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-01-01",
+    "India": {
+      "id": "XTIMVA01INQ667N",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
       "frequency": "Quarterly",
       "frequency_short": "Q",
@@ -265,20 +349,20 @@
       "units_short": "US $, Monthly Level",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-06-14 11:03:32-05",
+      "last_updated": "2022-07-14 14:34:15-05",
       "popularity": 1,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXML\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXML\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "US Dollars Monthly Level_Quarterly_Seasonally Adjusted": {
-    "China": {
-      "id": "XTIMVA01CNQ667S",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
-      "title": "Imports: Value Goods for China",
-      "observation_start": "1992-01-01",
+    "India": {
+      "id": "XTIMVA01INQ667S",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
+      "title": "Imports: Value Goods for India",
+      "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
       "frequency": "Quarterly",
       "frequency_short": "Q",
@@ -286,11 +370,11 @@
       "units_short": "US $, Monthly Level",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-06-14 10:39:13-05",
-      "popularity": 3,
-      "group_popularity": 28,
-      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXMLSA\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-      "path": "Database/International Data/Countries/China"
+      "last_updated": "2022-07-14 14:34:15-05",
+      "popularity": 1,
+      "group_popularity": 10,
+      "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXMLSA\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "China": {
-    "id": "COCHNZ334",
-    "realtime_start": "2022-07-17",
-    "realtime_end": "2022-07-17",
-    "title": "Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for China",
+  "Japan": {
+    "id": "COJPNZ334",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
+    "title": "Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Japan",
     "observation_start": "2012-06-01",
     "observation_end": "2022-06-01",
     "frequency": "Monthly",
@@ -12,10 +12,29 @@
     "units_short": "Index Jun 2012=100",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-07-15 07:38:27-05",
-    "popularity": 5,
-    "group_popularity": 5,
+    "last_updated": "2022-07-15 07:52:39-05",
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/",
-    "path": "Database/International Data/Countries/China"
+    "path": "Database/International Data/Countries/Japan"
+  },
+  "Germany": {
+    "id": "COGERZ334",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
+    "title": "Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Germany",
+    "observation_start": "2012-06-01",
+    "observation_end": "2022-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index Jun 2012=100",
+    "units_short": "Index Jun 2012=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-07-15 07:53:40-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/",
+    "path": "Database/International Data/Countries/Germany"
   }
 }

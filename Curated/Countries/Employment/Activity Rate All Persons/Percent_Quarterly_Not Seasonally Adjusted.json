@@ -1,21 +1,21 @@
 {
-  "New Zealand": {
-    "id": "LRAC64TTNZQ156N",
-    "realtime_start": "2022-07-17",
-    "realtime_end": "2022-07-17",
-    "title": "Activity Rate: Aged 15-64: All Persons for New Zealand",
-    "observation_start": "1986-01-01",
-    "observation_end": "2022-01-01",
+  "Brazil": {
+    "id": "LRACTTTTBRQ156N",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
+    "title": "Activity Rate: Aged 15 and Over: All Persons for Brazil",
+    "observation_start": "2002-04-01",
+    "observation_end": "2015-07-01",
     "frequency": "Quarterly",
     "frequency_short": "Q",
     "units": "Percent",
     "units_short": "%",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-05-12 10:37:02-05",
-    "popularity": 0,
+    "last_updated": "2018-02-26 13:41:45-06",
+    "popularity": 1,
     "group_popularity": 1,
-    "notes": "OECD descriptor ID: LRAC64TT\nOECD unit ID: ST\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
-    "path": "Database/International Data/Countries/New Zealand"
+    "notes": "OECD descriptor ID: LRACTTTT\nOECD unit ID: ST\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/Brazil"
   }
 }
