@@ -1,8 +1,8 @@
 {
   "EXP0013": {
     "id": "EXP0013",
-    "realtime_start": "2022-07-17",
-    "realtime_end": "2022-07-17",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
     "title": "U.S. Exports of Goods by F.A.S. Basis to Africa",
     "observation_start": "1997-01-01",
     "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
   },
   "IMP0013": {
     "id": "IMP0013",
-    "realtime_start": "2022-07-17",
-    "realtime_end": "2022-07-17",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
     "title": "U.S. Imports of Goods by Customs Basis from Africa",
     "observation_start": "1997-01-01",
     "observation_end": "2022-05-01",
