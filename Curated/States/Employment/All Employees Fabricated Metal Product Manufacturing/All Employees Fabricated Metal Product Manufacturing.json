@@ -2,8 +2,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
     },
     "Texas": {
       "id": "SMU48000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -56,8 +56,8 @@
     },
     "Vermont": {
       "id": "SMU50000003133200001SA",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Vermont",
       "observation_start": "2007-01-01",
       "observation_end": "2016-12-01",
@@ -75,8 +75,8 @@
     },
     "Washington": {
       "id": "SMU53000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -95,8 +95,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Vermont": {
       "id": "SMU50000003133200001",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Vermont",
       "observation_start": "2007-01-01",
       "observation_end": "2016-12-01",
@@ -131,8 +131,8 @@
     },
     "Texas": {
       "id": "SMU48000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -149,8 +149,8 @@
     },
     "Washington": {
       "id": "SMU53000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -167,8 +167,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -187,8 +187,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Vermont": {
       "id": "SMU50000003133200001SA",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Vermont",
       "observation_start": "2007-01-01",
       "observation_end": "2016-12-01",
@@ -224,8 +224,8 @@
     },
     "Texas": {
       "id": "SMU48000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -242,8 +242,8 @@
     },
     "Washington": {
       "id": "SMU53000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -260,8 +260,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000003133200001A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",

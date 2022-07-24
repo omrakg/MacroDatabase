@@ -2,18 +2,18 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000005000000002",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Average Weekly Hours of All Employees: Information in Washington",
       "observation_start": "2007-01-01",
-      "observation_end": "2022-05-01",
+      "observation_end": "2022-06-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Hours per Week",
       "units_short": "Hours per Week",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-06-18 02:17:15-05",
+      "last_updated": "2022-07-23 02:07:38-05",
       "popularity": 1,
       "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Washington"
@@ -60,8 +60,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000005000000002A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Average Weekly Hours of All Employees: Information in Washington",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

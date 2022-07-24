@@ -2,18 +2,18 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000005500000003",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Average Hourly Earnings of All Employees: Financial Activities in Wisconsin",
       "observation_start": "2007-01-01",
-      "observation_end": "2022-05-01",
+      "observation_end": "2022-06-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Dollars per Hour",
       "units_short": "$ per Hour",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-06-18 02:12:56-05",
+      "last_updated": "2022-07-23 02:06:59-05",
       "popularity": 1,
       "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wisconsin"
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000005500000003A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Average Hourly Earnings of All Employees: Financial Activities in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -135,8 +135,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000005500000003A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Average Hourly Earnings of All Employees: Financial Activities in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -172,8 +172,8 @@
     },
     "Texas": {
       "id": "SMU48000005500000003A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Average Hourly Earnings of All Employees: Financial Activities in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -306,8 +306,8 @@
     },
     "Texas": {
       "id": "SMU48000005500000003A",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Average Hourly Earnings of All Employees: Financial Activities in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

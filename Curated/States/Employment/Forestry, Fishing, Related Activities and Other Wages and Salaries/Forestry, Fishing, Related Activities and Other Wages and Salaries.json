@@ -2,8 +2,8 @@
   "Thousands of Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Hawaii": {
       "id": "HIWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Hawaii",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -21,8 +21,8 @@
     },
     "Alabama": {
       "id": "ALWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Alabama",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -40,8 +40,8 @@
     },
     "Alaska": {
       "id": "AKWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Alaska",
       "observation_start": "1998-01-01",
       "observation_end": "2019-10-01",
@@ -59,8 +59,8 @@
     },
     "Arizona": {
       "id": "AZWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Arizona",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -97,8 +97,8 @@
     },
     "Delaware": {
       "id": "DEWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Delaware",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -118,8 +118,8 @@
   "Thousands of Dollars_Quarterly_Not Seasonally Adjusted": {
     "Delaware": {
       "id": "DEWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Delaware",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
     },
     "Alabama": {
       "id": "ALWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Alabama",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -156,8 +156,8 @@
     },
     "Alaska": {
       "id": "AKWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Alaska",
       "observation_start": "1998-01-01",
       "observation_end": "2019-10-01",
@@ -175,8 +175,8 @@
     },
     "Arizona": {
       "id": "AZWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Arizona",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -213,8 +213,8 @@
     },
     "Hawaii": {
       "id": "HIWFOR",
-      "realtime_start": "2022-07-17",
-      "realtime_end": "2022-07-17",
+      "realtime_start": "2022-07-24",
+      "realtime_end": "2022-07-24",
       "title": "Forestry, Fishing, Related Activities and Other Wages and Salaries in Hawaii",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",

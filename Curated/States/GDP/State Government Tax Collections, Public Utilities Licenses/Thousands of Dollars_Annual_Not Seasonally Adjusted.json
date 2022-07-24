@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIUTILLICTAX",
-    "realtime_start": "2022-07-17",
-    "realtime_end": "2022-07-17",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
     "title": "State Government Tax Collections, Public Utilities Licenses in Hawaii",
     "observation_start": "1955-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALUTILLICTAX",
-    "realtime_start": "2022-07-17",
-    "realtime_end": "2022-07-17",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
     "title": "State Government Tax Collections, Public Utilities Licenses in Alabama",
     "observation_start": "1951-01-01",
     "observation_end": "2021-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKUTILLICTAX",
-    "realtime_start": "2022-07-17",
-    "realtime_end": "2022-07-17",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
     "title": "State Government Tax Collections, Public Utilities Licenses in Alaska",
     "observation_start": "1957-01-01",
     "observation_end": "2021-01-01",
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEUTILLICTAX",
-    "realtime_start": "2022-07-17",
-    "realtime_end": "2022-07-17",
+    "realtime_start": "2022-07-24",
+    "realtime_end": "2022-07-24",
     "title": "State Government Tax Collections, Public Utilities Licenses in Delaware",
     "observation_start": "1951-01-01",
     "observation_end": "2021-01-01",
