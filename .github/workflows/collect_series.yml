@@ -1,7 +1,6 @@
 name: Collect Series
 on:
-  schedule:
-  - cron: 00 12 * * 0
+  [push]
 
 jobs:
   Collect-Fred-Series:
