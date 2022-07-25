@@ -45,6 +45,7 @@ for table_location in [path_str]:
         for path in paths:
             if path:
                 name = paths[1].split("/")[-1]
+                name = name.replace(":", "")
 
                 if 'Discontinued' in path:
                     all_json_name = f"_{name}_Discontinued.json"

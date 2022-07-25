@@ -58,7 +58,7 @@ def get_fred_data(fred_id):
                 return print(f"The category {fred_id} does not exist.")
 
         category_id = category['categories'][0]['id']
-        name = category['categories'][0]['name']
+        name = category['categories'][0]['name'].replace(":", "")
         parent_id = category['categories'][0]['parent_id']
 
         json.dump({'name': name, 'id': category_id}, open(f"{id_str}/{category_id}.json", "w"))
@@ -87,7 +87,7 @@ def get_fred_data(fred_id):
                     category_parent = fred.categories(category_parent['categories'][0]['parent_id'])
 
                     category_id = category_parent['categories'][0]['id']
-                    name = category_parent['categories'][0]['name']
+                    name = category_parent['categories'][0]['name'].replace(":", "")
 
                     parents_names.insert(0, name)
                     parents_ids.insert(0, category_id)
@@ -99,7 +99,7 @@ def get_fred_data(fred_id):
             folder = path_str
             for parent in zip(parents_names, parents_ids):
                 parent_name = parent[0]
-                parent_name = parent_name.replace("/", " - ")
+                parent_name = parent_name.replace("/", " - ").replace(":", "")
 
                 parent_id = parent[1]
 

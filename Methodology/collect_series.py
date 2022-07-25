@@ -25,7 +25,7 @@ except ModuleNotFoundError:
 
 
 def obtain_series_data(dictionary):
-    name = dictionary[0]
+    name = dictionary[0].replace(":", "")
     data = dictionary[1]
     key_counter = 1
 

@@ -15,7 +15,7 @@ for directory_path, directory_names, _ in os.walk(path_str):
     if directory_path.split("/")[-1] == "Discontinued":
         directory_path = "/".join(directory_path.split("/")[:-1])
 
-    name = directory_path.split("/")[-1]
+    name = directory_path.split("/")[-1].replace(":", "")
 
     all_json_files = dict()
     all_discontinued_json_files = dict()
