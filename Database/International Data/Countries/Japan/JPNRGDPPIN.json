@@ -1,7 +1,7 @@
 {
   "id": "JPNRGDPPIN",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Real Public Investment for Japan",
   "observation_start": "1994-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-07 18:56:04-05",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Copyright, 2016, Cabinet Office of Japan."
 }

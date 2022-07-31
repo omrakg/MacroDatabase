@@ -1,7 +1,7 @@
 {
   "id": "WPU08120601",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Lumber, Made from Purchased Lumber",
   "observation_start": "2003-12-01",
   "observation_end": "2020-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-04-09 07:52:43-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

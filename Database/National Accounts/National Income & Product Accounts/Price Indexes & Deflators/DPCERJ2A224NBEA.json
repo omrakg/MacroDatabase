@@ -1,7 +1,7 @@
 {
   "id": "DPCERJ2A224NBEA",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Contributions to percent change in gross domestic product price index: Personal consumption expenditures",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:55:59-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 3,
   "notes": "BEA Account Code: DPCERJ\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "REVOLSLAR",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Percent Change of Total Revolving Consumer Credit",
   "observation_start": "1968-02-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-08 14:02:09-05",
-  "popularity": 31,
-  "group_popularity": 31,
+  "popularity": 26,
+  "group_popularity": 26,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
 }

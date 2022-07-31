@@ -1,17 +1,17 @@
 {
   "id": "MTMFGN",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "All Employees: Manufacturing in Montana",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-05-01",
+  "observation_end": "2022-06-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-18 03:10:25-05",
+  "last_updated": "2022-07-23 02:32:50-05",
   "popularity": 1,
   "group_popularity": 1
 }

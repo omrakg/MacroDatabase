@@ -1,7 +1,7 @@
 {
   "id": "Q10080USQ311NNBR",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Net Credit Change, Bonds, Par Value, All Industries for United States",
   "observation_start": "1900-01-01",
   "observation_end": "1943-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:18:04-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Source: Derived By NBER From Changes In Series 10084 (Bonds Outstanding, Straight, Par Value, Industrials).\n\nThis NBER data series q10080 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10080"
 }

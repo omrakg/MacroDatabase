@@ -1,7 +1,7 @@
 {
   "id": "BFPBF4QTOTALNSATX",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Projected Business Formations Within Four Quarters: Total for All NAICS in Texas",
   "observation_start": "2004-07-01",
   "observation_end": "2022-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 11:05:14-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "The projected number of employer businesses that originate from Business Applications (BA) within four quarters from the quarter of application.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
 }

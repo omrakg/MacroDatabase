@@ -1,17 +1,17 @@
 {
   "id": "HIURN",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Unemployment Rate in Hawaii",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-05-01",
+  "observation_end": "2022-06-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-22 11:12:57-05",
-  "popularity": 9,
-  "group_popularity": 20
+  "last_updated": "2022-07-25 09:42:34-05",
+  "popularity": 7,
+  "group_popularity": 18
 }

@@ -1,7 +1,7 @@
 {
   "id": "A862RG3A086NBEA",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Gross domestic product, chained price index: Gross private domestic investment: Fixed investment: Nonresidential: Equipment: Other equipment",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:02:23-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: A862RG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

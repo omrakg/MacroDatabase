@@ -1,7 +1,7 @@
 {
   "id": "SMS50000005000000001",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "All Employees: Information in Vermont",
   "observation_start": "1990-01-01",
   "observation_end": "2018-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2018-03-23 16:42:04-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

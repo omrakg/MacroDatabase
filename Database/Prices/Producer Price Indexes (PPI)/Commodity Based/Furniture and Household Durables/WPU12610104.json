@@ -1,7 +1,7 @@
 {
   "id": "WPU12610104",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Vitreous China, Porcelain, and Earthenware (Semivitreous) Table and Kitchenware",
   "observation_start": "2008-06-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 07:53:48-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 3,
+  "group_popularity": 3
 }

@@ -1,17 +1,17 @@
 {
   "id": "AISRSA",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Auto Inventory/Sales Ratio",
   "observation_start": "1993-01-01",
-  "observation_end": "2022-05-01",
+  "observation_end": "2022-06-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Ratio",
   "units_short": "Ratio",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-06-30 08:44:15-05",
-  "popularity": 59,
-  "group_popularity": 59
+  "last_updated": "2022-07-29 13:56:07-05",
+  "popularity": 60,
+  "group_popularity": 60
 }

@@ -1,7 +1,7 @@
 {
   "id": "RIFSGFSM06NA",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "6-Month Treasury Bill Secondary Market Rate, Discount Basis",
   "observation_start": "1958-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 16:10:39-05",
   "popularity": 4,
-  "group_popularity": 56,
+  "group_popularity": 58,
   "notes": "Averages of daily figures.\n\nFor more information see the H.15 Statistical Release (https://www.federalreserve.gov/releases/h15/default.htm)."
 }

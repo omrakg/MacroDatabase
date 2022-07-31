@@ -1,7 +1,7 @@
 {
   "id": "UMXTVS",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Manufacturers' Value of Shipments: Manufacturing Excluding Transportation",
   "observation_start": "1992-01-01",
   "observation_end": "2022-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-05 09:02:15-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Estimates of Shipments for the semiconductor industry are no longer shown separately, but are included in Computers and Electronic Products industry and in all other applicable aggregate totals."
 }

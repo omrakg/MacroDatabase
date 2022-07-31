@@ -1,17 +1,17 @@
 {
   "id": "HNFSS",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "New One Family Houses for Sale for the South Census Region",
   "observation_start": "1973-01-01",
-  "observation_end": "2022-05-01",
+  "observation_end": "2022-06-01",
   "frequency": "Monthly, End of Month",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-24 09:02:12-05",
+  "last_updated": "2022-07-26 09:01:38-05",
   "popularity": 1,
   "group_popularity": 1
 }

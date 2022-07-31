@@ -1,7 +1,7 @@
 {
   "id": "SMS35107400000000026",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "All Employees: Total Nonfarm in Albuquerque, NM (MSA)",
   "observation_start": "1990-04-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-23 02:39:13-05",
-  "popularity": 3,
-  "group_popularity": 11
+  "popularity": 1,
+  "group_popularity": 6
 }

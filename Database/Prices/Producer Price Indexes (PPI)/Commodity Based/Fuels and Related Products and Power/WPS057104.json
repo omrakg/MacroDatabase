@@ -1,7 +1,7 @@
 {
   "id": "WPS057104",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Unleaded Regular Gasoline",
   "observation_start": "1979-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-14 08:01:58-05",
-  "popularity": 5,
-  "group_popularity": 7
+  "popularity": 3,
+  "group_popularity": 4
 }

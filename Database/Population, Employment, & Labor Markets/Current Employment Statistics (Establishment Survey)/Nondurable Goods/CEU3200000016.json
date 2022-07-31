@@ -1,7 +1,7 @@
 {
   "id": "CEU3200000016",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Indexes of Aggregate Weekly Hours of All Employees, Nondurable Goods",
   "observation_start": "2006-03-01",
   "observation_end": "2022-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-08 07:52:29-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 1,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU3200000016"
 }

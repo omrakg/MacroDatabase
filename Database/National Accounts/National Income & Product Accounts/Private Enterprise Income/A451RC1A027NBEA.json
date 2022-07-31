@@ -1,7 +1,7 @@
 {
   "id": "A451RC1A027NBEA",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Gross value added of corporate business",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-26 07:54:57-05",
   "popularity": 4,
-  "group_popularity": 14,
+  "group_popularity": 12,
   "notes": "BEA Account Code: A451RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

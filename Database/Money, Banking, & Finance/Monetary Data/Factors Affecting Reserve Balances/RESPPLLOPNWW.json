@@ -1,17 +1,17 @@
 {
   "id": "RESPPLLOPNWW",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Liabilities and Capital: Liabilities: Earnings Remittances Due to the U.S. Treasury: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-07-20",
+  "observation_end": "2022-07-27",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-21 15:33:32-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "last_updated": "2022-07-28 15:33:15-05",
+  "popularity": 12,
+  "group_popularity": 12
 }

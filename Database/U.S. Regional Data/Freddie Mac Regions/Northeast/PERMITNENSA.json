@@ -1,7 +1,7 @@
 {
   "id": "PERMITNENSA",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region",
   "observation_start": "1959-01-01",
   "observation_end": "2022-06-01",
@@ -11,7 +11,7 @@
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-19 07:31:36-05",
+  "last_updated": "2022-07-26 07:02:13-05",
   "popularity": 1,
-  "group_popularity": 7
+  "group_popularity": 5
 }

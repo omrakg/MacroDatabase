@@ -1,7 +1,7 @@
 {
   "id": "A191RD3A086NBEA",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Gross domestic product (implicit price deflator)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:08-05",
-  "popularity": 31,
-  "group_popularity": 31,
+  "popularity": 33,
+  "group_popularity": 33,
   "notes": "BEA Account Code: A191RD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

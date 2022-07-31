@@ -1,7 +1,7 @@
 {
   "id": "HISTHPI",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "All-Transactions House Price Index for Hawaii",
   "observation_start": "1975-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-31 09:02:15-05",
-  "popularity": 47,
-  "group_popularity": 47,
+  "popularity": 46,
+  "group_popularity": 46,
   "notes": "Estimated using sales prices and appraisal data."
 }

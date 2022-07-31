@@ -1,17 +1,17 @@
 {
   "id": "EMPLOYMT",
-  "realtime_start": "2022-07-17",
-  "realtime_end": "2022-07-17",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Employment Level for Montana",
   "observation_start": "2003-10-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-04-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Persons, 4-Quarter Moving Average",
   "units_short": "Persons, 4-Qtr. Moving Average",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-29 14:05:45-05",
+  "last_updated": "2022-07-29 17:38:27-05",
   "popularity": 1,
   "group_popularity": 1
 }

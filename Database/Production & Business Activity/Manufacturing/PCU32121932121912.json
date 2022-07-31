@@ -1,7 +1,7 @@
 {
   "id": "PCU32121932121912",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Producer Price Index by Industry: Reconstituted Wood Product Manufacturing: Particleboard, Non-Industrial, made from Particleboard Produced at the Same Location",
   "observation_start": "2009-06-01",
   "observation_end": "2019-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-02-15 08:53:17-06",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 3,
+  "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "FLRQGSP",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Real Gross Domestic Product: All Industry Total in Florida",
   "observation_start": "2005-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-30 09:05:05-05",
-  "popularity": 9,
-  "group_popularity": 14,
+  "popularity": 15,
+  "group_popularity": 24,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
 }

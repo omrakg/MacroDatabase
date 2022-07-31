@@ -1,7 +1,7 @@
 {
   "id": "MRTSSM4441USN",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Retail Sales: Building Materials and Supplies Dealers",
   "observation_start": "1992-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-15 09:06:18-05",
-  "popularity": 6,
-  "group_popularity": 44
+  "popularity": 9,
+  "group_popularity": 45
 }

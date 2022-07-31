@@ -1,17 +1,17 @@
 {
   "id": "ASPUS",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Average Sales Price of Houses Sold for the United States",
   "observation_start": "1963-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-04-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Dollars",
   "units_short": "$",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-26 09:01:05-05",
+  "last_updated": "2022-07-26 09:01:05-05",
   "popularity": 83,
   "group_popularity": 83
 }

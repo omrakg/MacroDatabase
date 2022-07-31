@@ -1,7 +1,7 @@
 {
   "id": "LNS14000024",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Unemployment Rate - 20 Yrs. & over",
   "observation_start": "1948-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-08 07:44:22-05",
-  "popularity": 50,
-  "group_popularity": 52,
+  "popularity": 49,
+  "group_popularity": 50,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS14000024"
 }

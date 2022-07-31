@@ -1,7 +1,7 @@
 {
   "id": "T10Y3MM",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity",
   "observation_start": "1982-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-01 16:01:17-05",
-  "popularity": 36,
+  "popularity": 38,
   "group_popularity": 92,
   "notes": "Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEARM) and 3-Month Treasury Constant Maturity (BC_3MONTHM).\nStarting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)."
 }

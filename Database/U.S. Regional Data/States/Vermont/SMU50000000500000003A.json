@@ -1,7 +1,7 @@
 {
   "id": "SMU50000000500000003A",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Average Hourly Earnings of All Employees: Total Private in Vermont",
   "observation_start": "2007-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 05:22:31-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

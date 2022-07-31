@@ -1,7 +1,7 @@
 {
   "id": "IAMFG",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "All Employees: Manufacturing in Iowa",
   "observation_start": "1990-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-23 02:05:15-05",
-  "popularity": 2,
-  "group_popularity": 3
+  "popularity": 3,
+  "group_popularity": 4
 }

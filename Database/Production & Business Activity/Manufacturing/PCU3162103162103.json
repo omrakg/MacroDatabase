@@ -1,7 +1,7 @@
 {
   "id": "PCU3162103162103",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Producer Price Index by Industry: Footwear Manufacturing: Men's Nonathletic Footwear",
   "observation_start": "1993-12-01",
   "observation_end": "2020-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-02-19 07:54:31-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 4,
+  "group_popularity": 4
 }

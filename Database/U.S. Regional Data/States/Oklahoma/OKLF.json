@@ -1,17 +1,17 @@
 {
   "id": "OKLF",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Civilian Labor Force in Oklahoma",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-05-01",
+  "observation_end": "2022-06-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Persons",
   "units_short": "Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-06-22 11:14:45-05",
+  "last_updated": "2022-07-25 09:43:22-05",
   "popularity": 1,
   "group_popularity": 1
 }

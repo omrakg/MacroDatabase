@@ -1,7 +1,7 @@
 {
   "id": "WPU43210101",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Producer Price Index by Commodity: Real Estate Services (Partial): Residential Property Sales and Rental, Brokerage Fees and Commissions",
   "observation_start": "2008-12-01",
   "observation_end": "2022-06-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 08:03:48-05",
   "popularity": 1,
-  "group_popularity": 9
+  "group_popularity": 8
 }

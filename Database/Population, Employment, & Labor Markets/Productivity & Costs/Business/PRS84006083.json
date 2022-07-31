@@ -1,7 +1,7 @@
 {
   "id": "PRS84006083",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Business Sector: Nonlabor Payments for All Employed Persons",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-02 07:37:10-05",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1
 }

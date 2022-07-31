@@ -1,7 +1,7 @@
 {
   "id": "CUURA103SA0",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Consumer Price Index for All Urban Consumers: All Items in Boston-Cambridge-Newton, MA-NH (CBSA)",
   "observation_start": "1914-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-10 07:40:13-05",
-  "popularity": 18,
-  "group_popularity": 22
+  "popularity": 14,
+  "group_popularity": 17
 }

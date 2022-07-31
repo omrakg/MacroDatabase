@@ -1,7 +1,7 @@
 {
   "id": "JTS9200JOL",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Job Openings: State and Local",
   "observation_start": "2000-12-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-06 13:05:51-05",
-  "popularity": 14,
+  "popularity": 13,
   "group_popularity": 15
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU03810826",
-  "realtime_start": "2022-07-24",
-  "realtime_end": "2022-07-24",
+  "realtime_start": "2022-07-31",
+  "realtime_end": "2022-07-31",
   "title": "Producer Price Index by Commodity: Textile Products and Apparel: Socks and Hosiery, Shipped in the Greige (Excluding Sheer)",
   "observation_start": "2003-12-01",
   "observation_end": "2019-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-02-15 09:07:27-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }
