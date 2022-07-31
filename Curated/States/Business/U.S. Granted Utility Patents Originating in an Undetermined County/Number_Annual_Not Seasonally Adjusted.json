@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "PATENTCOUNTY53000",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined County in Washington",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
@@ -39,8 +39,8 @@
   },
   "Texas": {
     "id": "PATENTCOUNTY48000",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined County in Texas",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
@@ -58,8 +58,8 @@
   },
   "Utah": {
     "id": "PATENTCOUNTY49000",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined County in Utah",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
@@ -77,8 +77,8 @@
   },
   "Virginia": {
     "id": "PATENTCOUNTY51000",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined County in Virginia",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
