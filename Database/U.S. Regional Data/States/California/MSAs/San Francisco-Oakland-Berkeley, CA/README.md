@@ -23,7 +23,7 @@
 | HORAMSA41860              | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA41860            | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA41860              | Market Hotness: Hotness Score in San Francisco-Oakland-Hayward, CA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG41860               | Job Postings on Indeed in San Francisco-Oakland-Berkeley, CA (MSA)                                                                 | 2020-02-01          | 2022-07-15        |
+| IHLCHG41860               | Job Postings on Indeed in San Francisco-Oakland-Berkeley, CA (MSA)                                                                 | 2020-02-01          | 2022-07-22        |
 | IRPD41860                 | Implicit Regional Price Deflator for San Francisco-Oakland-Hayward, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT064186000000003A     | Unemployment Rate in San Francisco-Oakland-Hayward, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT064186000000004      | Unemployed Persons in San Francisco-Oakland-Hayward, CA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
@@ -79,10 +79,10 @@
 | RPPGOOD41860              | Regional Price Parities: Goods for San Francisco-Oakland-Hayward, CA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH41860          | Regional Price Parities: Services: Other for San Francisco-Oakland-Hayward, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT41860         | Regional Price Parities: Services: Rents for San Francisco-Oakland-Hayward, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SANF806BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-05-01        |
-| SANF806BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-05-01        |
-| SANF806BPPRIV             | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-05-01        |
-| SANF806BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-05-01        |
+| SANF806BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-06-01        |
+| SANF806BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-06-01        |
+| SANF806BPPRIV             | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-06-01        |
+| SANF806BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-06-01        |
 | SANF806EDUH               | All Employees: Education and Health Services in San Francisco-Oakland-Hayward, CA (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | SANF806EDUHN              | All Employees: Education and Health Services in San Francisco-Oakland-Hayward, CA (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | SANF806FIRE               | All Employees: Financial Activities in San Francisco-Oakland-Hayward, CA (MSA)                                                     | 1990-01-01          | 2022-06-01        |
@@ -109,16 +109,16 @@
 | SANF806UR                 | Unemployment Rate in San Francisco-Oakland-Hayward, CA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | SANF806URN                | Unemployment Rate in San Francisco-Oakland-Hayward, CA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
 | SFCPOP                    | Resident Population in San Francisco-Oakland-Hayward, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| SFXRCNSA                  | Condo Price Index for San Francisco, California                                                                                    | 1995-01-01          | 2022-04-01        |
-| SFXRCPSNSA                | Condo Price Sales Pair Counts for San Francisco, California                                                                        | 1995-01-01          | 2022-04-01        |
-| SFXRCSA                   | Condo Price Index for San Francisco, California                                                                                    | 1995-01-01          | 2022-04-01        |
-| SFXRHTNSA                 | Home Price Index (High Tier) for San Francisco, California                                                                         | 1987-01-01          | 2022-04-01        |
-| SFXRHTSA                  | Home Price Index (High Tier) for San Francisco, California                                                                         | 1987-01-01          | 2022-04-01        |
-| SFXRLTNSA                 | Home Price Index (Low Tier) for San Francisco, California                                                                          | 1987-01-01          | 2022-04-01        |
-| SFXRLTSA                  | Home Price Index (Low Tier) for San Francisco, California                                                                          | 1987-01-01          | 2022-04-01        |
-| SFXRMTNSA                 | Home Price Index (Middle Tier) for San Francisco, California                                                                       | 1987-01-01          | 2022-04-01        |
-| SFXRMTSA                  | Home Price Index (Middle Tier) for San Francisco, California                                                                       | 1987-01-01          | 2022-04-01        |
-| SFXRPSNSA                 | Home Price Sales Pair Counts for San Francisco, California                                                                         | 1987-01-01          | 2022-04-01        |
+| SFXRCNSA                  | Condo Price Index for San Francisco, California                                                                                    | 1995-01-01          | 2022-05-01        |
+| SFXRCPSNSA                | Condo Price Sales Pair Counts for San Francisco, California                                                                        | 1995-01-01          | 2022-05-01        |
+| SFXRCSA                   | Condo Price Index for San Francisco, California                                                                                    | 1995-01-01          | 2022-05-01        |
+| SFXRHTNSA                 | Home Price Index (High Tier) for San Francisco, California                                                                         | 1987-01-01          | 2022-05-01        |
+| SFXRHTSA                  | Home Price Index (High Tier) for San Francisco, California                                                                         | 1987-01-01          | 2022-05-01        |
+| SFXRLTNSA                 | Home Price Index (Low Tier) for San Francisco, California                                                                          | 1987-01-01          | 2022-05-01        |
+| SFXRLTSA                  | Home Price Index (Low Tier) for San Francisco, California                                                                          | 1987-01-01          | 2022-05-01        |
+| SFXRMTNSA                 | Home Price Index (Middle Tier) for San Francisco, California                                                                       | 1987-01-01          | 2022-05-01        |
+| SFXRMTSA                  | Home Price Index (Middle Tier) for San Francisco, California                                                                       | 1987-01-01          | 2022-05-01        |
+| SFXRPSNSA                 | Home Price Sales Pair Counts for San Francisco, California                                                                         | 1987-01-01          | 2022-05-01        |
 | SMS06418600000000026      | All Employees: Total Nonfarm in San Francisco-Oakland-Hayward, CA (MSA)                                                            | 1990-04-01          | 2022-06-01        |
 | SMU06418600000000001A     | All Employees: Total Nonfarm in San Francisco-Oakland-Hayward, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU06418600500000001      | All Employees: Total Private in San Francisco-Oakland-Hayward, CA (MSA)                                                            | 1990-01-01          | 2022-06-01        |

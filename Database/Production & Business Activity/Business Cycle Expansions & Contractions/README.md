@@ -150,8 +150,8 @@
 | ITARECDP        | OECD based Recession Indicators for Italy from the Peak through the Period preceding the Trough                         | 1960-02-01          | 2022-02-28        |
 | ITARECM         | OECD based Recession Indicators for Italy from the Peak through the Trough                                              | 1960-02-01          | 2022-02-01        |
 | ITARECP         | OECD based Recession Indicators for Italy from the Peak through the Period preceding the Trough                         | 1960-02-01          | 2022-02-01        |
-| JHDUSRGDPBR     | Dates of U.S. recessions as inferred by GDP-based recession indicator                                                   | 1967-10-01          | 2021-10-01        |
-| JHGDPBRINDX     | GDP-Based Recession Indicator Index                                                                                     | 1967-10-01          | 2021-10-01        |
+| JHDUSRGDPBR     | Dates of U.S. recessions as inferred by GDP-based recession indicator                                                   | 1967-10-01          | 2022-01-01        |
+| JHGDPBRINDX     | GDP-Based Recession Indicator Index                                                                                     | 1967-10-01          | 2022-01-01        |
 | JPNREC          | OECD based Recession Indicators for Japan from the Period following the Peak through the Trough                         | 1960-02-01          | 2022-02-01        |
 | JPNRECD         | OECD based Recession Indicators for Japan from the Period following the Peak through the Trough                         | 1960-02-01          | 2022-02-28        |
 | JPNRECDM        | OECD based Recession Indicators for Japan from the Peak through the Trough                                              | 1960-02-01          | 2022-02-28        |
@@ -278,11 +278,11 @@
 | USARECDP        | OECD based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1947-02-01          | 2022-04-30        |
 | USARECM         | OECD based Recession Indicators for the United States from the Peak through the Trough                                  | 1947-02-01          | 2022-04-01        |
 | USARECP         | OECD based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1947-02-01          | 2022-04-01        |
-| USPHCI          | Coincident Economic Activity Index for the United States                                                                | 1979-01-01          | 2022-05-01        |
+| USPHCI          | Coincident Economic Activity Index for the United States                                                                | 1979-01-01          | 2022-06-01        |
 | USREC           | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-06-01        |
-| USRECD          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-07-21        |
-| USRECDM         | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-07-21        |
-| USRECDP         | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-07-21        |
+| USRECD          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-07-28        |
+| USRECDM         | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-07-28        |
+| USRECDP         | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-07-28        |
 | USRECM          | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-06-01        |
 | USRECP          | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-06-01        |
 | USRECQ          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-10-01          | 2022-04-01        |

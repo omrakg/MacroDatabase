@@ -14,7 +14,7 @@
 | Washington County, TX    |                90 |
 | Montague County, TX      |                90 |
 | Trinity County, TX       |                88 |
-| Smith County, TX         |               147 |
+| Smith County, TX         |                 0 |
 | Lamar County, TX         |               142 |
 | Kendall County, TX       |                90 |
 | Presidio County, TX      |                88 |
@@ -74,7 +74,7 @@
 | Collingsworth County, TX |                88 |
 | San Jacinto County, TX   |                90 |
 | Liberty County, TX       |               147 |
-| Cherokee County, TX      |                89 |
+| Cherokee County, TX      |                 0 |
 | Gray County, TX          |                89 |
 | Palo Pinto County, TX    |                90 |
 | Shackelford County, TX   |                88 |
@@ -89,7 +89,7 @@
 | Cottle County, TX        |                87 |
 | Polk County, TX          |                90 |
 | Taylor County, TX        |               147 |
-| Comanche County, TX      |                 0 |
+| Comanche County, TX      |                89 |
 | Dallam County, TX        |                89 |
 | Randall County, TX       |               147 |
 | Clay County, TX          |                88 |
@@ -134,7 +134,7 @@
 | Upton County, TX         |                88 |
 | Bandera County, TX       |                90 |
 | Scurry County, TX        |                89 |
-| Jim Wells County, TX     |                90 |
+| Jim Wells County, TX     |                 0 |
 | Live Oak County, TX      |                89 |
 | El Paso County, TX       |               147 |
 | Moore County, TX         |                90 |
@@ -149,7 +149,7 @@
 | Andrews County, TX       |                90 |
 | Walker County, TX        |               147 |
 | Jackson County, TX       |                89 |
-| Wilson County, TX        |                 0 |
+| Wilson County, TX        |                90 |
 | Falls County, TX         |                89 |
 | Reagan County, TX        |                88 |
 | Grayson County, TX       |               147 |
@@ -194,7 +194,7 @@
 | Tyler County, TX         |                89 |
 | Fort Bend County, TX     |               147 |
 | Stonewall County, TX     |                87 |
-| Fannin County, TX        |                90 |
+| Fannin County, TX        |                 0 |
 | Foard County, TX         |                87 |
 | Morris County, TX        |                88 |
 | Kerr County, TX          |               146 |
@@ -209,7 +209,7 @@
 | Sutton County, TX        |                88 |
 | Zapata County, TX        |                87 |
 | Hemphill County, TX      |                88 |
-| Marion County, TX        |                 0 |
+| Marion County, TX        |                89 |
 | Zavala County, TX        |                87 |
 | Rains County, TX         |                89 |
 | Knox County, TX          |                89 |

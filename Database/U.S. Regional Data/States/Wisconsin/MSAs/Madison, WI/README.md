@@ -24,7 +24,7 @@
 | HORAMSA31540              | Market Hotness: Hotness Rank in Madison, WI (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA31540            | Market Hotness: Hotness Rank in Madison, WI (CBSA)                                                                       | 2018-08-01          | 2022-06-01        |
 | HOSCMSA31540              | Market Hotness: Hotness Score in Madison, WI (CBSA)                                                                      | 2017-08-01          | 2022-06-01        |
-| IHLCHG31540               | Job Postings on Indeed in Madison, WI (MSA)                                                                              | 2020-02-01          | 2022-07-15        |
+| IHLCHG31540               | Job Postings on Indeed in Madison, WI (MSA)                                                                              | 2020-02-01          | 2022-07-22        |
 | IRPD31540                 | Implicit Regional Price Deflator for Madison, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT553154000000003A     | Unemployment Rate in Madison, WI (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
 | LAUMT553154000000004      | Unemployed Persons in Madison, WI (MSA)                                                                                  | 1990-01-01          | 2022-05-01        |
@@ -35,10 +35,10 @@
 | LDPEPRMMMSA31540          | Market Hotness: Listing Views per Property in Madison, WI (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
 | LDPEPRVSUSMSA31540        | Market Hotness: Listing Views per Property Versus the United States in Madison, WI (CBSA)                                | 2017-08-01          | 2022-06-01        |
 | LDPEPRYYMSA31540          | Market Hotness: Listing Views per Property in Madison, WI (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
-| MADI555BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Madison, WI (MSA)                        | 1988-01-01          | 2022-05-01        |
-| MADI555BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Madison, WI (MSA)                        | 1988-01-01          | 2022-05-01        |
-| MADI555BPPRIV             | New Private Housing Units Authorized by Building Permits for Madison, WI (MSA)                                           | 1988-01-01          | 2022-05-01        |
-| MADI555BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Madison, WI (MSA)                                           | 1988-01-01          | 2022-05-01        |
+| MADI555BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Madison, WI (MSA)                        | 1988-01-01          | 2022-06-01        |
+| MADI555BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Madison, WI (MSA)                        | 1988-01-01          | 2022-06-01        |
+| MADI555BPPRIV             | New Private Housing Units Authorized by Building Permits for Madison, WI (MSA)                                           | 1988-01-01          | 2022-06-01        |
+| MADI555BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Madison, WI (MSA)                                           | 1988-01-01          | 2022-06-01        |
 | MADI555EDUH               | All Employees: Education and Health Services in Madison, WI (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | MADI555EDUHN              | All Employees: Education and Health Services in Madison, WI (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | MADI555FIRE               | All Employees: Financial Activities in Madison, WI (MSA)                                                                 | 1990-01-01          | 2022-06-01        |

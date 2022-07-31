@@ -24,7 +24,7 @@
 | HORAMSA30780              | Market Hotness: Hotness Rank in Little Rock-North Little Rock-Conway, AR (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA30780            | Market Hotness: Hotness Rank in Little Rock-North Little Rock-Conway, AR (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA30780              | Market Hotness: Hotness Score in Little Rock-North Little Rock-Conway, AR (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG30780               | Job Postings on Indeed in Little Rock-North Little Rock-Conway, AR (MSA)                                                                  | 2020-02-01          | 2022-07-15        |
+| IHLCHG30780               | Job Postings on Indeed in Little Rock-North Little Rock-Conway, AR (MSA)                                                                  | 2020-02-01          | 2022-07-22        |
 | IRPD30780                 | Implicit Regional Price Deflator for Little Rock-North Little Rock-Conway, AR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT053078000000003A     | Unemployment Rate in Little Rock-North Little Rock-Conway, AR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT053078000000004      | Unemployed Persons in Little Rock-North Little Rock-Conway, AR (MSA)                                                                      | 1990-01-01          | 2022-05-01        |

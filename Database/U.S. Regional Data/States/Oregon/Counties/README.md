@@ -9,7 +9,7 @@
 | Josephine County, OR  |               147 |
 | Crook County, OR      |                90 |
 | Lincoln County, OR    |               146 |
-| Yamhill County, OR    |               146 |
+| Yamhill County, OR    |                 0 |
 | Clatsop County, OR    |                90 |
 | Malheur County, OR    |                90 |
 | Wheeler County, OR    |                87 |
@@ -31,7 +31,7 @@
 | Klamath County, OR    |               147 |
 | Deschutes County, OR  |               147 |
 | Clackamas County, OR  |               147 |
-| Columbia County, OR   |                 0 |
+| Columbia County, OR   |               146 |
 | Grant County, OR      |                88 |
 | Jackson County, OR    |               147 |
 | Benton County, OR     |               147 |

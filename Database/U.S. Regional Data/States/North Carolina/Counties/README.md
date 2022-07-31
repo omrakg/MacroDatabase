@@ -21,11 +21,11 @@
 | New Hanover County, NC  |               147 |
 | Washington County, NC   |                90 |
 | Craven County, NC       |               147 |
-| Caswell County, NC      |                 0 |
+| Caswell County, NC      |                90 |
 | Bladen County, NC       |                90 |
 | Burke County, NC        |               147 |
 | Scotland County, NC     |                90 |
-| Edgecombe County, NC    |               146 |
+| Edgecombe County, NC    |                 0 |
 | Graham County, NC       |                88 |
 | Hoke County, NC         |               146 |
 | Union County, NC        |               147 |

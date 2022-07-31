@@ -24,7 +24,7 @@
 | HORAMSA32580              | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA32580              | Market Hotness: Hotness Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-07-15        |
+| IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-07-22        |
 | IRPD32580                 | Implicit Regional Price Deflator for McAllen-Edinburg-Mission, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483258000000003A     | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT483258000000004      | Unemployed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
@@ -55,10 +55,10 @@
 | MCAINFOA175MCFRBDAL       | Change in Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                               | 1990-02-01          | 2022-05-01        |
 | MCAINFOA175MFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-01-01          | 2022-05-01        |
 | MCAINFOA674AFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1991-01-01          | 2021-01-01        |
-| MCAL548BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-05-01        |
-| MCAL548BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-05-01        |
-| MCAL548BPPRIV             | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-05-01        |
-| MCAL548BPPRIVSA           | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-05-01        |
+| MCAL548BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-06-01        |
+| MCAL548BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-06-01        |
+| MCAL548BPPRIV             | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-06-01        |
+| MCAL548BPPRIVSA           | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-06-01        |
 | MCAL548EDUH               | All Employees: Education and Health Services in McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | MCAL548EDUHN              | All Employees: Education and Health Services in McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | MCAL548FIRE               | All Employees: Financial Activities in McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2022-06-01        |

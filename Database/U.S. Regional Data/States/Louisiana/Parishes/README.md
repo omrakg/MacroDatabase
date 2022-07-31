@@ -5,7 +5,7 @@
 | Ascension Parish, LA            |               147 |
 | LaFourche Parish, LA            |               147 |
 | Avoyelles Parish, LA            |                90 |
-| Richland Parish, LA             |                 0 |
+| Richland Parish, LA             |                89 |
 | Jackson Parish, LA              |                90 |
 | Assumption Parish, LA           |                90 |
 | West Baton Rouge Parish, LA     |                89 |
@@ -13,7 +13,7 @@
 | Red River Parish, LA            |                89 |
 | East Feliciana Parish, LA       |                90 |
 | Livingston Parish, LA           |               147 |
-| St. Charles Parish, LA          |               145 |
+| St. Charles Parish, LA          |                 0 |
 | Jefferson Parish, LA            |               147 |
 | Concordia Parish, LA            |                90 |
 | Grant Parish, LA                |                90 |

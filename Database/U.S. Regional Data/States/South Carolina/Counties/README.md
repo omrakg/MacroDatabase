@@ -18,7 +18,7 @@
 | Jasper County, SC       |                89 |
 | Chester County, SC      |                90 |
 | Marlboro County, SC     |                90 |
-| Lexington County, SC    |                 0 |
+| Lexington County, SC    |               147 |
 | Williamsburg County, SC |                89 |
 | Aiken County, SC        |               147 |
 | Anderson County, SC     |               143 |

@@ -12,5 +12,5 @@
 | Yuma County, AZ       |               147 |
 | Apache County, AZ     |                91 |
 | Pima County, AZ       |               147 |
-| Gila County, AZ       |                 0 |
+| Gila County, AZ       |               146 |
 | Cochise County, AZ    |               147 |

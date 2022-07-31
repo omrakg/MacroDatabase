@@ -7,10 +7,10 @@
 | AVELISPRI13460            | Housing Inventory: Average Listing Price in Bend-Redmond, OR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
 | AVELISPRIMM13460          | Housing Inventory: Average Listing Price Month-Over-Month in Bend-Redmond, OR (CBSA)                              | 2017-07-01          | 2022-06-01        |
 | AVELISPRIYY13460          | Housing Inventory: Average Listing Price Year-Over-Year in Bend-Redmond, OR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| BEND441BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-05-01        |
-| BEND441BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-05-01        |
-| BEND441BPPRIV             | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-05-01        |
-| BEND441BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-05-01        |
+| BEND441BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-06-01        |
+| BEND441BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-06-01        |
+| BEND441BPPRIV             | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-06-01        |
+| BEND441BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-06-01        |
 | BEND441EDUH               | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | BEND441EDUHN              | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | BEND441FIRE               | All Employees: Financial Activities in Bend-Redmond, OR (MSA)                                                     | 1990-01-01          | 2022-06-01        |

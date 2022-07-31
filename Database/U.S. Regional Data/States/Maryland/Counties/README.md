@@ -1,7 +1,7 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
 | Allegany County, MD        |               147 |
-| Talbot County, MD          |                 0 |
+| Talbot County, MD          |                90 |
 | Garrett County, MD         |                90 |
 | Washington County, MD      |               147 |
 | Baltimore City, MD         |               236 |

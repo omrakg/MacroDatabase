@@ -22,7 +22,7 @@
 | HORAMSA27140              | Market Hotness: Hotness Rank in Jackson, MS (CBSA)                                                                                               | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA27140            | Market Hotness: Hotness Rank in Jackson, MS (CBSA)                                                                                               | 2018-08-01          | 2022-06-01        |
 | HOSCMSA27140              | Market Hotness: Hotness Score in Jackson, MS (CBSA)                                                                                              | 2017-08-01          | 2022-06-01        |
-| IHLCHG27140               | Job Postings on Indeed in Jackson, MS (MSA)                                                                                                      | 2020-02-01          | 2022-07-15        |
+| IHLCHG27140               | Job Postings on Indeed in Jackson, MS (MSA)                                                                                                      | 2020-02-01          | 2022-07-22        |
 | IRPD27140                 | Implicit Regional Price Deflator for Jackson, MS (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | JACK128EDUH               | All Employees: Education and Health Services in Jackson, MS (MSA)                                                                                | 1990-01-01          | 2022-06-01        |
 | JACK128EDUHN              | All Employees: Education and Health Services in Jackson, MS (MSA)                                                                                | 1990-01-01          | 2022-06-01        |

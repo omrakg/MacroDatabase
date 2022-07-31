@@ -17,7 +17,7 @@
 | Edgar County, IL       |                90 |
 | Jackson County, IL     |               145 |
 | Logan County, IL       |                90 |
-| Madison County, IL     |                 0 |
+| Madison County, IL     |               147 |
 | Kendall County, IL     |               147 |
 | Shelby County, IL      |                90 |
 | Coles County, IL       |               144 |
@@ -59,7 +59,7 @@
 | Henry County, IL       |               143 |
 | White County, IL       |                90 |
 | Morgan County, IL      |                90 |
-| Clark County, IL       |                90 |
+| Clark County, IL       |                 0 |
 | Clay County, IL        |                88 |
 | Bureau County, IL      |                90 |
 | Putnam County, IL      |                89 |

@@ -39,7 +39,7 @@
 | Serbia                                               |               245 |
 | Togo                                                 |               226 |
 | Chad                                                 |               218 |
-| Qatar                                                |                 0 |
+| Qatar                                                |               259 |
 | Cayman Islands                                       |               141 |
 | Austria                                              |                 1 |
 | Japan                                                |               737 |
@@ -56,7 +56,7 @@
 | Turkey                                               |               887 |
 | Botswana                                             |               293 |
 | Dominican Republic                                   |               287 |
-| Nicaragua                                            |               235 |
+| Nicaragua                                            |                 0 |
 | Svalbard and Jan Mayen                               |                43 |
 | Saint Lucia                                          |               170 |
 | Great Britain                                        |                61 |
@@ -69,7 +69,7 @@
 | Ukraine                                              |               357 |
 | Belize                                               |               216 |
 | Christmas Island                                     |                55 |
-| Greece                                               |                 1 |
+| Greece                                               |                 0 |
 | Republic of the Gambia                               |               205 |
 | Spain                                                |                 1 |
 | Argentina                                            |               557 |
@@ -106,7 +106,7 @@
 | Saint Vincent and the Grenadines                     |               164 |
 | Ghana                                                |               264 |
 | Libyan Arab Jamahiriya                               |               225 |
-| Sri Lanka                                            |                 0 |
+| Sri Lanka                                            |                 5 |
 | Malaysia                                             |                 5 |
 | Caribbean Netherlands                                |                16 |
 | Palau                                                |               115 |
@@ -124,9 +124,9 @@
 | Kosovo                                               |               140 |
 | French Southern Territories                          |                39 |
 | Sierra Leone                                         |               214 |
-| French Polynesia                                     |                 0 |
+| French Polynesia                                     |               120 |
 | Bosnia and Herzegovina                               |               226 |
-| Sudan                                                |               211 |
+| Sudan                                                |                 0 |
 | Micronesia, Federated States of                      |               155 |
 | Oman                                                 |               230 |
 | Slovak Republic                                      |               761 |
@@ -193,7 +193,7 @@
 | Pakistan                                             |               309 |
 | Djibouti                                             |               188 |
 | Guinea-Bissau                                        |               152 |
-| Guam                                                 |                 0 |
+| Guam                                                 |                11 |
 | Syrian Arab Republic                                 |               205 |
 | Korea, Republic of (South Korea)                     |               814 |
 | Vanuatu                                              |               166 |
@@ -232,7 +232,7 @@
 | Holy See (Vatican City State)                        |                58 |
 | Lithuania                                            |               979 |
 | Macedonia, Former Yugoslav Republic of               |               240 |
-| Côte d’Ivoire                                        |               224 |
+| Côte d’Ivoire                                        |                 0 |
 | Burkina Faso                                         |               207 |
 | American Samoa                                       |                 7 |
 | United Arab Emirates                                 |               246 |

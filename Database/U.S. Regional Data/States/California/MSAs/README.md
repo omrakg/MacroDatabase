@@ -4,7 +4,7 @@
 | Santa Rosa-Petaluma, CA              |               221 |
 | San Francisco-Oakland-Berkeley, CA   |               195 |
 | Visalia, CA                          |               191 |
-| Salinas, CA                          |                 0 |
+| Salinas, CA                          |               196 |
 | Fresno, CA                           |               246 |
 | Riverside-San Bernardino-Ontario, CA |               364 |
 | San Luis Obispo-Paso Robles, CA      |               191 |
@@ -14,7 +14,7 @@
 | Bakersfield, CA                      |               246 |
 | El Centro, CA                        |               150 |
 | Stockton, CA                         |               240 |
-| Santa Cruz-Watsonville, CA           |               188 |
+| Santa Cruz-Watsonville, CA           |                 0 |
 | Merced, CA                           |               173 |
 | Yuba City, CA                        |               164 |
 | Napa, CA                             |               165 |

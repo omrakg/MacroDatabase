@@ -12,7 +12,7 @@
 | Leisure and Hospitality              |                43 |
 | Durable Goods                        |                64 |
 | Trade, Transportation, and Utilities |                29 |
-| Financial Activities                 |                 0 |
+| Financial Activities                 |                51 |
 | Goods-Producing                      |                29 |
 | Total Nonfarm                        |                 7 |
 | Mining and Logging                   |                41 |

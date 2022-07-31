@@ -18,7 +18,7 @@
 | Pawnee County, KS       |                89 |
 | Greenwood County, KS    |                88 |
 | Morton County, KS       |                88 |
-| Butler County, KS       |               146 |
+| Butler County, KS       |                 0 |
 | Marshall County, KS     |                89 |
 | Logan County, KS        |                89 |
 | Douglas County, KS      |               147 |
@@ -49,7 +49,7 @@
 | Neosho County, KS       |                90 |
 | Chase County, KS        |                89 |
 | Jefferson County, KS    |                90 |
-| Saline County, KS       |                 0 |
+| Saline County, KS       |               146 |
 | Coffey County, KS       |                90 |
 | Anderson County, KS     |                90 |
 | Allen County, KS        |                90 |
@@ -78,7 +78,7 @@
 | Sheridan County, KS     |                86 |
 | Edwards County, KS      |                89 |
 | Brown County, KS        |                90 |
-| Meade County, KS        |                88 |
+| Meade County, KS        |                 0 |
 | Graham County, KS       |                88 |
 | Rawlins County, KS      |                89 |
 | Cloud County, KS        |                89 |

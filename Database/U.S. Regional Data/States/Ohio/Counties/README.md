@@ -39,7 +39,7 @@
 | Highland County, OH   |                89 |
 | Monroe County, OH     |                88 |
 | Champaign County, OH  |                90 |
-| Hardin County, OH     |                90 |
+| Hardin County, OH     |                 0 |
 | Lucas County, OH      |               147 |
 | Perry County, OH      |                90 |
 | Seneca County, OH     |               144 |

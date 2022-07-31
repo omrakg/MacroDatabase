@@ -24,13 +24,13 @@
 | Van Buren County, MI      |               147 |
 | Houghton County, MI       |                90 |
 | Keweenaw County, MI       |                89 |
-| Ingham County, MI         |                 0 |
+| Ingham County, MI         |               147 |
 | Arenac County, MI         |                90 |
 | Mackinac County, MI       |                89 |
 | Mecosta County, MI        |                90 |
 | Hillsdale County, MI      |                90 |
 | Tuscola County, MI        |                90 |
-| Benzie County, MI         |                90 |
+| Benzie County, MI         |                 0 |
 | Ogemaw County, MI         |                90 |
 | Grand Traverse County, MI |               147 |
 | Emmet County, MI          |                90 |

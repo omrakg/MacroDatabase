@@ -34,7 +34,7 @@
 | Vernon County, WI                       |                89 |
 | Racine County, WI                       |               147 |
 | Shawano County, WI (includes Menominee) |                 4 |
-| Eau Claire County, WI                   |                 0 |
+| Eau Claire County, WI                   |               147 |
 | Kenosha County, WI                      |               147 |
 | Rusk County, WI                         |                90 |
 | Milwaukee County, WI                    |               146 |
@@ -50,7 +50,7 @@
 | Taylor County, WI                       |                90 |
 | La Crosse County, WI                    |               147 |
 | Iron County, WI                         |                88 |
-| Lincoln County, WI                      |                90 |
+| Lincoln County, WI                      |                 0 |
 | Menominee County, WI                    |                87 |
 | Pierce County, WI                       |                90 |
 | Brown County, WI                        |               147 |

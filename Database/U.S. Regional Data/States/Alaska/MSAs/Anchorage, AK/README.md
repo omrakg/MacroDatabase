@@ -3,10 +3,10 @@
 | ACTLISCOU11260            | Housing Inventory: Active Listing Count in Anchorage, AK (CBSA)                                                | 2016-07-01          | 2022-06-01        |
 | ACTLISCOUMM11260          | Housing Inventory: Active Listing Count Month-Over-Month in Anchorage, AK (CBSA)                               | 2017-07-01          | 2022-06-01        |
 | ACTLISCOUYY11260          | Housing Inventory: Active Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| ANCH202BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-05-01        |
-| ANCH202BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-05-01        |
-| ANCH202BPPRIV             | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-05-01        |
-| ANCH202BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-05-01        |
+| ANCH202BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-06-01        |
+| ANCH202BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-06-01        |
+| ANCH202BPPRIV             | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-06-01        |
+| ANCH202BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-06-01        |
 | ANCH202EDUH               | All Employees: Education and Health Services in Anchorage, AK (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | ANCH202EDUHN              | All Employees: Education and Health Services in Anchorage, AK (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | ANCH202FIRE               | All Employees: Financial Activities in Anchorage, AK (MSA)                                                     | 1990-01-01          | 2022-06-01        |

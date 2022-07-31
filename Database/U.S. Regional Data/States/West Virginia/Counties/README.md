@@ -3,7 +3,7 @@
 | Hampshire County, WV  |                90 |
 | Wood County, WV       |               147 |
 | Upshur County, WV     |                90 |
-| Hardy County, WV      |                 0 |
+| Hardy County, WV      |                89 |
 | Tyler County, WV      |                89 |
 | Pocahontas County, WV |                87 |
 | McDowell County, WV   |                89 |
@@ -38,7 +38,7 @@
 | Jackson County, WV    |                90 |
 | Barbour County, WV    |                89 |
 | Preston County, WV    |                88 |
-| Mason County, WV      |                89 |
+| Mason County, WV      |                 0 |
 | Lincoln County, WV    |                88 |
 | Mineral County, WV    |                89 |
 | Brooke County, WV     |                90 |

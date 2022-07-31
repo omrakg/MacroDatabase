@@ -6,7 +6,7 @@
 | Erie County, NY         |               147 |
 | Albany County, NY       |               147 |
 | Tioga County, NY        |               146 |
-| Franklin County, NY     |                 0 |
+| Franklin County, NY     |               146 |
 | Seneca County, NY       |                90 |
 | Orleans County, NY      |                89 |
 | Tompkins County, NY     |               146 |
@@ -28,7 +28,7 @@
 | Washington County, NY   |               146 |
 | St. Lawrence County, NY |               147 |
 | Saratoga County, NY     |               147 |
-| Cortland County, NY     |               146 |
+| Cortland County, NY     |                 0 |
 | Rensselaer County, NY   |               147 |
 | Fulton County, NY       |               146 |
 | Dutchess County, NY     |               147 |

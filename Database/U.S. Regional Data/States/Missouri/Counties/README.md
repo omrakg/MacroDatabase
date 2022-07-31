@@ -19,7 +19,7 @@
 | Harrison County, MO       |                88 |
 | Lafayette County, MO      |                90 |
 | Shannon County, MO        |                89 |
-| Warren County, MO         |                 0 |
+| Warren County, MO         |                90 |
 | Texas County, MO          |                89 |
 | Johnson County, MO        |               145 |
 | Saline County, MO         |                90 |
@@ -71,7 +71,7 @@
 | Wright County, MO         |                89 |
 | Montgomery County, MO     |                89 |
 | Dent County, MO           |                89 |
-| Putnam County, MO         |                88 |
+| Putnam County, MO         |                 0 |
 | Boone County, MO          |               147 |
 | Jackson County, MO        |               147 |
 | Crawford County, MO       |                90 |

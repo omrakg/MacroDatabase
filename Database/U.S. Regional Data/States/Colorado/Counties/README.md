@@ -38,7 +38,7 @@
 | Custer County, CO            |                90 |
 | Delta County, CO             |                90 |
 | Jackson County, CO           |                86 |
-| Baca County, CO              |                 0 |
+| Baca County, CO              |                89 |
 | Larimer County, CO           |               147 |
 | Rio Blanco County, CO        |                89 |
 | Kit Carson County, CO        |                89 |
@@ -47,7 +47,7 @@
 | Kiowa County, CO             |                88 |
 | San Miguel County, CO        |                88 |
 | Montrose County, CO          |                90 |
-| Park County, CO              |                90 |
+| Park County, CO              |                 0 |
 | La Plata County, CO          |               146 |
 | Denver County, CO            |               146 |
 | Routt County, CO             |                90 |

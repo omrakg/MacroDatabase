@@ -3,19 +3,19 @@
 | A788RC1A027NBEA | Gross government fixed investment: Federal: National defense                                                      | 1929-01-01          | 2021-01-01        |
 | A798RC1A027NBEA | Gross government fixed investment: Federal: Nondefense                                                            | 1929-01-01          | 2021-01-01        |
 | A801RC1A027NBEA | Gross government fixed investment: Structures: Federal                                                            | 1929-01-01          | 2021-01-01        |
-| A801RC1Q027SBEA | Government consumption expenditures and gross investment: Federal: Gross investment: Structures                   | 1947-01-01          | 2022-01-01        |
+| A801RC1Q027SBEA | Government consumption expenditures and gross investment: Federal: Gross investment: Structures                   | 1947-01-01          | 2022-04-01        |
 | A808RC1A027NBEA | Gross government fixed investment: Structures: Federal: National defense                                          | 1929-01-01          | 2021-01-01        |
-| A808RC1Q027SBEA | Government consumption expenditures and gross investment: Federal: National defense: Gross investment: Structures | 1947-01-01          | 2022-01-01        |
+| A808RC1Q027SBEA | Government consumption expenditures and gross investment: Federal: National defense: Gross investment: Structures | 1947-01-01          | 2022-04-01        |
 | A814RC1A027NBEA | Gross government fixed investment: Structures: Federal: National defense: New                                     | 1929-01-01          | 2020-01-01        |
 | A814RX1A020NBEA | Real gross government fixed investment: Structures: Federal: National defense: New                                | 2002-01-01          | 2020-01-01        |
 | A815RC1A027NBEA | Gross government fixed investment: Structures: Federal: National defense: New: Buildings                          | 1929-01-01          | 1997-01-01        |
 | A830RC1A027NBEA | Gross government fixed investment: Structures: Federal: Nondefense                                                | 1929-01-01          | 2021-01-01        |
-| A830RC1Q027SBEA | Government consumption expenditures and gross investment: Federal: Nondefense: Gross investment: Structures       | 1947-01-01          | 2022-01-01        |
+| A830RC1Q027SBEA | Government consumption expenditures and gross investment: Federal: Nondefense: Gross investment: Structures       | 1947-01-01          | 2022-04-01        |
 | A831RC1A027NBEA | Gross government fixed investment: Structures: Federal: Nondefense: New                                           | 1929-01-01          | 2020-01-01        |
 | A831RX1A020NBEA | Real gross government fixed investment: Structures: Federal: Nondefense: New                                      | 2002-01-01          | 2020-01-01        |
 | A832RC1A027NBEA | Gross government fixed investment: Structures: Federal: Nondefense: New: Buildings                                | 1929-01-01          | 1997-01-01        |
 | A842RC1A027NBEA | Gross government fixed investment: Structures: State and local                                                    | 1929-01-01          | 2021-01-01        |
-| A842RC1Q027SBEA | Government consumption expenditures and gross investment: State and local: Gross investment: Structures           | 1947-01-01          | 2022-01-01        |
+| A842RC1Q027SBEA | Government consumption expenditures and gross investment: State and local: Gross investment: Structures           | 1947-01-01          | 2022-04-01        |
 | A843RC1A027NBEA | Gross government fixed investment: Structures: State and local: New                                               | 1929-01-01          | 2020-01-01        |
 | A843RX1A020NBEA | Real gross government fixed investment: Structures: State and local: New                                          | 2002-01-01          | 2020-01-01        |
 | A844RC1A027NBEA | Gross government fixed investment: Structures: State and local: New: Buildings                                    | 1929-01-01          | 1997-01-01        |
@@ -49,15 +49,15 @@
 | B870RC1A027NBEA | Gross government fixed investment: State and local: Net purchases of used structures                              | 1929-01-01          | 2020-01-01        |
 | B870RX1A020NBEA | Real gross government fixed investment: Structures: State and local: Net purchases of used structures             | 2002-01-01          | 2020-01-01        |
 | B874RC1A027NBEA | Gross government fixed investment: Equipment and software: Federal: National defense: Aircraft                    | 1972-01-01          | 2021-01-01        |
-| B874RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Aircraft             | 1972-01-01          | 2022-01-01        |
+| B874RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Aircraft             | 1972-01-01          | 2022-04-01        |
 | B875RC1A027NBEA | Gross government fixed investment: Equipment and software: Federal: National defense: Missiles                    | 1972-01-01          | 2021-01-01        |
-| B875RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Missiles             | 1972-01-01          | 2022-01-01        |
+| B875RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Missiles             | 1972-01-01          | 2022-04-01        |
 | B876RC1A027NBEA | Gross government fixed investment: Equipment and software: Federal: National defense: Ships                       | 1972-01-01          | 2021-01-01        |
-| B876RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Ships                | 1972-01-01          | 2022-01-01        |
+| B876RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Ships                | 1972-01-01          | 2022-04-01        |
 | B877RC1A027NBEA | Gross government fixed investment: Equipment and software: Federal: National defense: Vehicles                    | 1972-01-01          | 2021-01-01        |
-| B877RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Vehicles             | 1972-01-01          | 2022-01-01        |
+| B877RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Vehicles             | 1972-01-01          | 2022-04-01        |
 | B879RC1A027NBEA | Gross government fixed investment: Equipment and software: Federal: National defense: Other equipment             | 1972-01-01          | 2021-01-01        |
-| B879RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Other equipment      | 1972-01-01          | 2022-01-01        |
+| B879RC1Q027SBEA | National defense consumption expenditures and gross investment: Gross investment: Equipment: Other equipment      | 1972-01-01          | 2022-04-01        |
 | W147RC1A027NBEA | Gross government fixed investment: Structures: State and local: New: Residential                                  | 1929-01-01          | 2020-01-01        |
 | W147RX1A020NBEA | Real gross government fixed investment: Structures: State and local: New: Residential                             | 2002-01-01          | 2020-01-01        |
 | W148RC1A027NBEA | Gross government fixed investment: Structures: State and local: New: Educational                                  | 1929-01-01          | 2020-01-01        |

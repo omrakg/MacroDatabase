@@ -1,11 +1,11 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| Leake County, MS           |                89 |
+| Leake County, MS           |                 0 |
 | Tallahatchie County, MS    |                87 |
 | Yalobusha County, MS       |                87 |
 | Wilkinson County, MS       |                88 |
 | Calhoun County, MS         |                89 |
-| Jasper County, MS          |                 0 |
+| Jasper County, MS          |                87 |
 | Covington County, MS       |                89 |
 | Hinds County, MS           |               147 |
 | Carroll County, MS         |                88 |
@@ -60,12 +60,12 @@
 | Marshall County, MS        |                90 |
 | Adams County, MS           |                89 |
 | Noxubee County, MS         |                87 |
-| Copiah County, MS          |                89 |
+| Copiah County, MS          |                 0 |
 | Marion County, MS          |                89 |
 | Issaquena County, MS       |                88 |
 | Monroe County, MS          |                89 |
 | Montgomery County, MS      |                87 |
-| Perry County, MS           |                 0 |
+| Perry County, MS           |                89 |
 | Pontotoc County, MS        |                90 |
 | Chickasaw County, MS       |                90 |
 | Warren County, MS          |               146 |

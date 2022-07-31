@@ -5,7 +5,7 @@
 | Cape Coral-Fort Myers, FL               |               169 |
 | Crestview-Fort Walton Beach-Destin, FL  |               159 |
 | Orlando-Kissimmee, FL                   |               247 |
-| Palm Coast, FL                          |                 8 |
+| Palm Coast, FL                          |                 0 |
 | Port St. Lucie, FL                      |               162 |
 | Sebring-Avon Park, FL                   |                59 |
 | Panama City, FL                         |               159 |
@@ -19,7 +19,7 @@
 | Punta Gorda, FL                         |               162 |
 | Naples-Marco Island, FL                 |               162 |
 | Homosassa Springs, FL                   |                59 |
-| Lakeland-Winter Haven, FL               |                 0 |
+| Lakeland-Winter Haven, FL               |               172 |
 | Miami-Fort Lauderdale-Pompano Beach, FL |               199 |
 | Deltona-Daytona Beach-Ormond Beach, FL  |               173 |
 | Jacksonville, FL                        |               215 |

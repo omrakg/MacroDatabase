@@ -4,7 +4,7 @@
 | International Monetary Fund                                        |                 8 |
 | European Economic Area                                             |               169 |
 | Bureau of Labor Statistics Latin America                           |                17 |
-| USMCA                                                              |                 0 |
+| USMCA                                                              |                 6 |
 | Four Big European Countries                                        |                17 |
 | Advanced Economies                                                 |                 6 |
 | Unidentified Countries                                             |                21 |
@@ -17,7 +17,7 @@
 | NICS                                                               |                 4 |
 | European Union                                                     |               848 |
 | United Nations                                                     |                 0 |
-| Bureau of Labor Statistics Pacific Rim                             |                42 |
+| Bureau of Labor Statistics Pacific Rim                             |                 0 |
 | Group of Seven (G7)                                                |               465 |
 | OECD + Non-member Economies                                        |                19 |
 | Bureau of Labor Statistics Asian Newly Industrialized Countries    |                10 |

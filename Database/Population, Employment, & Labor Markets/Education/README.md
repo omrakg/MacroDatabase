@@ -181,7 +181,7 @@
 | SEENRPRIMFMZSROU | Ratio of Female to Male Primary School Enrollment for Romania                                                   | 1971-01-01          | 2019-01-01        |
 | SEENRPRIMFMZSRUS | Ratio of Female to Male Primary School Enrollment for the Russian Federation                                    | 1981-01-01          | 2019-01-01        |
 | SEENRPRIMFMZSRWA | Ratio of Female to Male Primary School Enrollment for Rwanda                                                    | 1971-01-01          | 2019-01-01        |
-| SEENRPRIMFMZSSAS | Ratio of Female to Male Primary School Enrollment for South Asia                                                | 1970-01-01          | 2019-01-01        |
+| SEENRPRIMFMZSSAS | Ratio of Female to Male Primary School Enrollment for South Asia                                                | 1970-01-01          | 2020-01-01        |
 | SEENRPRIMFMZSSAU | Ratio of Female to Male Primary School Enrollment for Saudi Arabia                                              | 1979-01-01          | 2020-01-01        |
 | SEENRPRIMFMZSSDN | Ratio of Female to Male Primary School Enrollment for Sudan                                                     | 2001-01-01          | 2018-01-01        |
 | SEENRPRIMFMZSSEN | Ratio of Female to Male Primary School Enrollment for Senegal                                                   | 1971-01-01          | 2020-01-01        |
@@ -413,7 +413,7 @@
 | SEENRSECOFMZSROU | Ratio of Female to Male Secondary School Enrollment for Romania                                                 | 1971-01-01          | 2019-01-01        |
 | SEENRSECOFMZSRUS | Ratio of Female to Male Secondary School Enrollment for the Russian Federation                                  | 1994-01-01          | 2019-01-01        |
 | SEENRSECOFMZSRWA | Ratio of Female to Male Secondary School Enrollment for Rwanda                                                  | 1971-01-01          | 2019-01-01        |
-| SEENRSECOFMZSSAS | Ratio of Female to Male Secondary School Enrollment for South Asia                                              | 1970-01-01          | 2019-01-01        |
+| SEENRSECOFMZSSAS | Ratio of Female to Male Secondary School Enrollment for South Asia                                              | 1970-01-01          | 2020-01-01        |
 | SEENRSECOFMZSSAU | Ratio of Female to Male Secondary School Enrollment for Saudi Arabia                                            | 1979-01-01          | 2020-01-01        |
 | SEENRSECOFMZSSDN | Ratio of Female to Male Secondary School Enrollment for Sudan                                                   | 2001-01-01          | 2018-01-01        |
 | SEENRSECOFMZSSEN | Ratio of Female to Male Secondary School Enrollment for Senegal                                                 | 1971-01-01          | 2020-01-01        |

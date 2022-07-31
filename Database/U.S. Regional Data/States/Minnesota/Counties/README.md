@@ -17,7 +17,7 @@
 | Red Lake County, MN          |                88 |
 | Clearwater County, MN        |                89 |
 | Washington County, MN        |               147 |
-| Koochiching County, MN       |                 0 |
+| Koochiching County, MN       |                89 |
 | Redwood County, MN           |                90 |
 | Morrison County, MN          |                90 |
 | Benton County, MN            |                90 |
@@ -52,7 +52,7 @@
 | Wabasha County, MN           |                90 |
 | Sibley County, MN            |                90 |
 | Nobles County, MN            |                89 |
-| Lake of the Woods County, MN |                88 |
+| Lake of the Woods County, MN |                 0 |
 | Jackson County, MN           |                89 |
 | Faribault County, MN         |                90 |
 | Crow Wing County, MN         |               146 |

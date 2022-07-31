@@ -23,7 +23,7 @@
 | Hidalgo County, NM    |                87 |
 | De Baca County, NM    |                88 |
 | Curry County, NM      |               146 |
-| Lincoln County, NM    |                 0 |
+| Lincoln County, NM    |                90 |
 | Guadalupe County, NM  |                87 |
 | Rio Arriba County, NM |                90 |
 | Lea County, NM        |               147 |
@@ -31,5 +31,5 @@
 | Catron County, NM     |                87 |
 | Luna County, NM       |                90 |
 | Union County, NM      |                87 |
-| Otero County, NM      |               147 |
+| Otero County, NM      |                 0 |
 | Socorro County, NM    |                90 |

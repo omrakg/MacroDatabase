@@ -29,7 +29,7 @@
 | Skagway Municipality, AK                        |                83 |
 | Bethel Census Area, AK                          |                88 |
 | Nome Census Area, AK                            |                87 |
-| North Slope Borough, AK                         |                 0 |
+| North Slope Borough, AK                         |                87 |
 | Valdez-Cordova Census Area, AK                  |                87 |
 | Ketchikan Gateway Borough, AK                   |                88 |
-| Denali Borough, AK                              |                83 |
+| Denali Borough, AK                              |                 0 |

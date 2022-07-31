@@ -29,7 +29,7 @@
 | Murray County, OK       |                90 |
 | Blaine County, OK       |                89 |
 | Woodward County, OK     |                90 |
-| Harmon County, OK       |                87 |
+| Harmon County, OK       |                 0 |
 | Washita County, OK      |                89 |
 | Tillman County, OK      |                88 |
 | Lincoln County, OK      |                90 |

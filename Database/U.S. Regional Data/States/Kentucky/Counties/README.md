@@ -1,6 +1,6 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Daviess County, KY      |                 0 |
+| Daviess County, KY      |               147 |
 | Bullitt County, KY      |               147 |
 | Laurel County, KY       |               146 |
 | Todd County, KY         |                89 |
@@ -60,7 +60,7 @@
 | Metcalfe County, KY     |                88 |
 | Franklin County, KY     |               145 |
 | Owsley County, KY       |                86 |
-| Lincoln County, KY      |                 0 |
+| Lincoln County, KY      |                90 |
 | Meade County, KY        |                89 |
 | Magoffin County, KY     |                87 |
 | Warren County, KY       |               147 |
@@ -109,7 +109,7 @@
 | Rowan County, KY        |                90 |
 | Graves County, KY       |                90 |
 | Gallatin County, KY     |                87 |
-| Carlisle County, KY     |                87 |
+| Carlisle County, KY     |                 0 |
 | Fleming County, KY      |                88 |
 | Hickman County, KY      |                87 |
 | Lyon County, KY         |                90 |

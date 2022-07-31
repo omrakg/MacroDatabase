@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Barbour County, AL    |                 0 |
+| Barbour County, AL    |                89 |
 | Clay County, AL       |                88 |
 | Monroe County, AL     |                89 |
 | Jackson County, AL    |               143 |
@@ -22,7 +22,7 @@
 | Blount County, AL     |               146 |
 | Chambers County, AL   |                90 |
 | Houston County, AL    |               147 |
-| Madison County, AL    |               147 |
+| Madison County, AL    |                 0 |
 | Winston County, AL    |                90 |
 | Wilcox County, AL     |                88 |
 | Fayette County, AL    |                90 |
@@ -60,7 +60,7 @@
 | Hale County, AL       |                90 |
 | Mobile County, AL     |               147 |
 | Pike County, AL       |                90 |
-| Cherokee County, AL   |                 0 |
+| Cherokee County, AL   |                90 |
 | Jefferson County, AL  |               146 |
 | Tuscaloosa County, AL |               147 |
 | Geneva County, AL     |                90 |

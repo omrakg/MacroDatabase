@@ -37,7 +37,7 @@
 | Botetourt County, VA                                |                90 |
 | Falls Church City, VA                               |                79 |
 | Augusta County, VA                                  |               137 |
-| Charlotte County, VA                                |                 0 |
+| Charlotte County, VA                                |                88 |
 | Dickenson County, VA                                |                89 |
 | Hampton City, VA                                    |               146 |
 | Arlington County, VA                                |               147 |
@@ -47,7 +47,7 @@
 | Staunton City, VA                                   |                79 |
 | Dinwiddie County, VA                                |                80 |
 | Charlottesville City, VA                            |               135 |
-| Wise County, VA                                     |                79 |
+| Wise County, VA                                     |                 0 |
 | Alexandria City, VA                                 |               146 |
 | Bath County, VA                                     |                89 |
 | Pittsylvania County + Danville City, VA             |                12 |
@@ -122,7 +122,7 @@
 | Henry County, VA                                    |               136 |
 | Pittsylvania County, VA                             |               136 |
 | Fairfax County, VA                                  |               137 |
-| Middlesex County, VA                                |                 0 |
+| Middlesex County, VA                                |                88 |
 | Covington City, VA                                  |                77 |
 | Greene County, VA                                   |                89 |
 | Northumberland County, VA                           |                90 |
@@ -151,7 +151,7 @@
 | Charles City County, VA                             |                90 |
 | Carroll County + Galax City, VA                     |                12 |
 | King George County, VA                              |                90 |
-| Fluvanna County, VA                                 |                90 |
+| Fluvanna County, VA                                 |                 0 |
 | Henry County + Martinsville City, VA                |                12 |
 | Montgomery County + Radford City, VA                |                12 |
 | Newport News City, VA                               |               146 |

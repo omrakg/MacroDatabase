@@ -4,11 +4,11 @@
 | Jennings County, IN    |                89 |
 | Marshall County, IN    |                90 |
 | Benton County, IN      |                89 |
-| Huntington County, IN  |                 0 |
+| Huntington County, IN  |                90 |
 | Switzerland County, IN |                89 |
 | Orange County, IN      |                89 |
 | Rush County, IN        |                90 |
-| White County, IN       |                90 |
+| White County, IN       |                 0 |
 | Sullivan County, IN    |                90 |
 | Morgan County, IN      |               146 |
 | Decatur County, IN     |                89 |
@@ -64,11 +64,11 @@
 | Union County, IN       |                89 |
 | Blackford County, IN   |                89 |
 | Scott County, IN       |                90 |
-| Parke County, IN       |                 0 |
+| Parke County, IN       |                89 |
 | Tippecanoe County, IN  |               147 |
 | Clark County, IN       |               147 |
 | Steuben County, IN     |                89 |
-| Knox County, IN        |                90 |
+| Knox County, IN        |                 0 |
 | Ripley County, IN      |                90 |
 | Vanderburgh County, IN |               147 |
 | Monroe County, IN      |               147 |

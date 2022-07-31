@@ -10,7 +10,7 @@
 | Sierra County, CA               |                89 |
 | Siskiyou County, CA             |                90 |
 | Tuolumne County, CA             |               146 |
-| Trinity County, CA              |                 0 |
+| Trinity County, CA              |                89 |
 | Kern County, CA                 |               147 |
 | Mendocino County, CA            |               147 |
 | Alpine County, CA               |                86 |
@@ -20,7 +20,7 @@
 | Kings County, CA                |               147 |
 | Napa County, CA                 |               147 |
 | Inyo County, CA                 |                90 |
-| San Joaquin County, CA          |               146 |
+| San Joaquin County, CA          |                 0 |
 | Stanislaus County, CA           |               147 |
 | Riverside County, CA            |               147 |
 | Sacramento County, CA           |               147 |

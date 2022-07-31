@@ -72,10 +72,10 @@
 | PRIREDCOU39460            | Housing Inventory: Price Reduced Count in Punta Gorda, FL (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
 | PRIREDCOUMM39460          | Housing Inventory: Price Reduced Count Month-Over-Month in Punta Gorda, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
 | PRIREDCOUYY39460          | Housing Inventory: Price Reduced Count Year-Over-Year in Punta Gorda, FL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| PUNT412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-05-01        |
-| PUNT412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-05-01        |
-| PUNT412BPPRIV             | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-05-01        |
-| PUNT412BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-05-01        |
+| PUNT412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-06-01        |
+| PUNT412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-06-01        |
+| PUNT412BPPRIV             | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-06-01        |
+| PUNT412BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-06-01        |
 | PUNT412EDUH               | All Employees: Education and Health Services in Punta Gorda, FL (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | PUNT412EDUHN              | All Employees: Education and Health Services in Punta Gorda, FL (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | PUNT412FIRE               | All Employees: Financial Activities in Punta Gorda, FL (MSA)                                                     | 1990-01-01          | 2022-06-01        |

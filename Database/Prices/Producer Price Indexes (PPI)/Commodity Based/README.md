@@ -12,12 +12,12 @@
 | Travel Arrangement Services                                        |                25 |
 | Wholesale Trade Services                                           |                43 |
 | Lumber and Wood Products                                           |               119 |
-| Warehousing, Storage, and Related Services                         |                 7 |
+| Warehousing, Storage, and Related Services                         |                 0 |
 | Real Estate Services                                               |                37 |
 | Stage of Processing                                                |                 1 |
 | Accommodation Services                                             |                12 |
 | Professional Services                                              |                56 |
-| Nonmetallic Mineral Products                                       |                 0 |
+| Nonmetallic Mineral Products                                       |               183 |
 | Pulp, Paper, and Allied Products                                   |               176 |
 | Data Processing and Related Services                               |                11 |
 | Machinery and Equipment                                            |               592 |

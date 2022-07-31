@@ -7,8 +7,8 @@
 | Wilson County, TN     |               147 |
 | Weakley County, TN    |                90 |
 | Giles County, TN      |                90 |
-| Hancock County, TN    |                 0 |
-| Lewis County, TN      |                89 |
+| Hancock County, TN    |                87 |
+| Lewis County, TN      |                 0 |
 | Morgan County, TN     |                89 |
 | Cocke County, TN      |                90 |
 | Tipton County, TN     |               146 |
@@ -67,7 +67,7 @@
 | Hardeman County, TN   |                89 |
 | Macon County, TN      |                89 |
 | Lawrence County, TN   |                89 |
-| Grainger County, TN   |                 0 |
+| Grainger County, TN   |                88 |
 | Chester County, TN    |                90 |
 | Anderson County, TN   |               147 |
 | De Kalb County, TN    |                90 |

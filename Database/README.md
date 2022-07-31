@@ -51,7 +51,7 @@
 |                                         | M0442BUS37980M290NNBR.json                                      | 0       |
 |                                         | M0485AUS000NYM298NNBR.json                                      | 0       |
 |                                         | M04069GBM312NNBR.json                                           | 0       |
-|                                         | Health Care Indexes                                             | 0       |
+|                                         | Health Care Indexes                                             | 59      |
 |                                         | M0445BUSM287NNBR.json                                           | 0       |
 |                                         | RPPALLUSNMP.json                                                | 0       |
 |                                         | EXPINF9YR.json                                                  | 0       |
@@ -357,7 +357,7 @@
 |                                         | M0466BUSM349NNBR.json                                           | 0       |
 |                                         | M0489CUSM276NNBR.json                                           | 0       |
 |                                         | M0493BUSM267NNBR.json                                           | 0       |
-|                                         | Producer Price Indexes (PPI)                                    | 5,643   |
+|                                         | Producer Price Indexes (PPI)                                    | 5,839   |
 |                                         | M0486BUSM271NNBR.json                                           | 0       |
 |                                         | M04102GBM318NNBR.json                                           | 0       |
 |                                         | M04032US16980M237NNBR.json                                      | 0       |
@@ -418,9 +418,9 @@
 |                                         | _Money, Banking, & Finance.json                                 | 0       |
 |                                         | Interest Rates                                                  | 1,127   |
 |                                         | Monetary Data                                                   | 925     |
-| International Data                      | Institutions                                                    | 4,831   |
-|                                         | Countries                                                       | 64,788  |
-|                                         | Indicators                                                      | 22,314  |
+| International Data                      | Institutions                                                    | 4,792   |
+|                                         | Countries                                                       | 64,467  |
+|                                         | Indicators                                                      | 21,959  |
 |                                         | Geography                                                       | 218     |
 | National Accounts                       | _National Accounts.json                                         | 0       |
 |                                         | Federal Government Debt                                         | 44      |
@@ -428,7 +428,7 @@
 |                                         | RLCMEXUKA.json                                                  | 0       |
 |                                         | RLCMEXUKQ.json                                                  | 0       |
 |                                         | TUVGGXWDGG01GDPPT.json                                          | 0       |
-|                                         | Flow of Funds                                                   | 2,409   |
+|                                         | Flow of Funds                                                   | 2,142   |
 |                                         | RGDPFCUKA.json                                                  | 0       |
 |                                         | RGDPFCUKM.json                                                  | 0       |
 |                                         | NGDPMBUKA.json                                                  | 0       |
@@ -441,7 +441,7 @@
 |                                         | TUVBCABP6USD.json                                               | 0       |
 |                                         | TUVGGXCNLG01GDPPT.json                                          | 0       |
 |                                         | TVEXPUKA.json                                                   | 0       |
-|                                         | National Income & Product Accounts                              | 9,875   |
+|                                         | National Income & Product Accounts                              | 10,156  |
 |                                         | RGDPFCUKQ.json                                                  | 0       |
 |                                         | RGDPMPUKA.json                                                  | 0       |
 |                                         | RGDPMRPUKM.json                                                 | 0       |
@@ -460,7 +460,7 @@
 |                                         | RGDPMRPUKQ.json                                                 | 0       |
 |                                         | TUVNGDPDUSD.json                                                | 0       |
 | U.S. Regional Data                      | Census Regions                                                  | 435     |
-|                                         | States                                                          | 411,167 |
+|                                         | States                                                          | 411,129 |
 |                                         | BLS Regions                                                     | 204     |
 |                                         | Freddie Mac Regions                                             | 776     |
 |                                         | Federal Reserve Districts                                       | 994     |
@@ -475,7 +475,7 @@
 |                                         | Tax Data                                                        | 1,002   |
 |                                         | Productivity & Costs                                            | 2,289   |
 |                                         | Job Openings and Labor Turnover (JOLTS)                         | 467     |
-|                                         | Current Employment Statistics (Establishment Survey)            | 865     |
+|                                         | Current Employment Statistics (Establishment Survey)            | 919     |
 |                                         | ADP Employment                                                  | 31      |
 |                                         | Population                                                      | 2,006   |
 |                                         | Minimum Wage                                                    | 53      |

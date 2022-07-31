@@ -33,7 +33,7 @@
 | Grays Harbor County, WA |               147 |
 | Kittitas County, WA     |                90 |
 | Kitsap County, WA       |               147 |
-| Walla Walla County, WA  |                 0 |
+| Walla Walla County, WA  |               145 |
 | Benton County, WA       |               147 |
 | Yakima County, WA       |               146 |
 | Garfield County, WA     |                87 |

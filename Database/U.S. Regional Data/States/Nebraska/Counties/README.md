@@ -59,7 +59,7 @@
 | Thomas County, NE       |                85 |
 | Phelps County, NE       |                90 |
 | Boone County, NE        |                87 |
-| Brown County, NE        |                 0 |
+| Brown County, NE        |                88 |
 | Hall County, NE         |               145 |
 | Madison County, NE      |                89 |
 | Chase County, NE        |                88 |
@@ -90,5 +90,5 @@
 | Fillmore County, NE     |                90 |
 | Dawson County, NE       |                90 |
 | Saline County, NE       |                89 |
-| Kimball County, NE      |                89 |
+| Kimball County, NE      |                 0 |
 | Arthur County, NE       |                82 |

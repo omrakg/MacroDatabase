@@ -51,7 +51,7 @@
 | Columbia County, GA      |               146 |
 | Fayette County, GA       |               147 |
 | Echols County, GA        |                88 |
-| Glascock County, GA      |                87 |
+| Glascock County, GA      |                 0 |
 | Oconee County, GA        |                90 |
 | McDuffie County, GA      |                90 |
 | Clinch County, GA        |                87 |
@@ -69,7 +69,7 @@
 | Murray County, GA        |                90 |
 | Monroe County, GA        |                90 |
 | Bartow County, GA        |               147 |
-| Polk County, GA          |                 0 |
+| Polk County, GA          |                90 |
 | Butts County, GA         |                90 |
 | Tift County, GA          |                90 |
 | Terrell County, GA       |                88 |
@@ -111,7 +111,7 @@
 | Elbert County, GA        |                89 |
 | Screven County, GA       |                89 |
 | Liberty County, GA       |               146 |
-| Bleckley County, GA      |                89 |
+| Bleckley County, GA      |                 0 |
 | Forsyth County, GA       |               147 |
 | Douglas County, GA       |               147 |
 | Turner County, GA        |                90 |
@@ -129,7 +129,7 @@
 | White County, GA         |                90 |
 | Thomas County, GA        |                90 |
 | Lanier County, GA        |                88 |
-| Coffee County, GA        |                 0 |
+| Coffee County, GA        |                89 |
 | Webster County, GA       |                88 |
 | Seminole County, GA      |                88 |
 | Sumter County, GA        |                89 |

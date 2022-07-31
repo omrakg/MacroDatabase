@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Caribou County, ID    |                89 |
+| Caribou County, ID    |                 0 |
 | Franklin County, ID   |                90 |
 | Lewis County, ID      |                89 |
 | Twin Falls County, ID |               147 |
@@ -21,7 +21,7 @@
 | Ada County, ID        |               147 |
 | Boundary County, ID   |                89 |
 | Minidoka County, ID   |                90 |
-| Owyhee County, ID     |                 0 |
+| Owyhee County, ID     |                88 |
 | Lemhi County, ID      |                89 |
 | Idaho County, ID      |                90 |
 | Bingham County, ID    |                90 |

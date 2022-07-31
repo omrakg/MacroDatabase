@@ -130,10 +130,10 @@
 | SMU39442209093161101A     | All Employees: Local Government Educational Services in Springfield, OH (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU39442209093161101SA    | All Employees: Government: Local Government Educational Services in Springfield, OH (MSA)                        | 1990-01-01          | 2022-06-01        |
 | SPGPOP                    | Resident Population in Springfield, OH (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| SPRI239BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-05-01        |
-| SPRI239BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-05-01        |
-| SPRI239BPPRIV             | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-05-01        |
-| SPRI239BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-05-01        |
+| SPRI239BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-06-01        |
+| SPRI239BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-06-01        |
+| SPRI239BPPRIV             | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-06-01        |
+| SPRI239BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-06-01        |
 | SPRI239EDUH               | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | SPRI239EDUHN              | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | SPRI239FIRE               | All Employees: Financial Activities in Springfield, OH (MSA)                                                     | 2003-01-01          | 2022-06-01        |

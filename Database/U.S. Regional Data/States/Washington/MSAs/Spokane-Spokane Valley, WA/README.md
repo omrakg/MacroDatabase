@@ -24,7 +24,7 @@
 | HORAMSA44060              | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA44060            | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA44060              | Market Hotness: Hotness Score in Spokane-Spokane Valley, WA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-07-15        |
+| IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-07-22        |
 | IRPD44060                 | Implicit Regional Price Deflator for Spokane-Spokane Valley, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT534406000000003A     | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT534406000000004      | Unemployed Persons in Spokane-Spokane Valley, WA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |

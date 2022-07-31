@@ -1,17 +1,17 @@
 | id                    | title                                                                                                                         | observation_start   | observation_end   |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CIU2010000000212I     | Employment Cost Index: Total compensation for Private industry workers in the Middle Atlantic Census Division                 | 2006-01-01          | 2022-01-01        |
-| CIU2020000000212I     | Employment Cost Index: Wages and salaries for Private industry workers in the Middle Atlantic Census Division                 | 2006-01-01          | 2022-01-01        |
-| CMATBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Middle Atlantic Census Division           | 1988-01-01          | 2022-05-01        |
-| CMATBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Middle Atlantic Census Division           | 1988-01-01          | 2022-05-01        |
-| CMATBPPRIV            | New Private Housing Units Authorized by Building Permits for the Middle Atlantic Census Division                              | 1988-01-01          | 2022-05-01        |
-| CMATBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the Middle Atlantic Census Division                              | 1988-01-01          | 2022-05-01        |
-| CMATLF                | Civilian Labor Force in Mid Atlantic Census Division                                                                          | 1976-01-01          | 2022-05-01        |
-| CMATLFN               | Civilian Labor Force in Mid Atlantic Census Division                                                                          | 1976-01-01          | 2022-05-01        |
+| CIU2010000000212I     | Employment Cost Index: Total compensation for Private industry workers in the Middle Atlantic Census Division                 | 2006-01-01          | 2022-04-01        |
+| CIU2020000000212I     | Employment Cost Index: Wages and salaries for Private industry workers in the Middle Atlantic Census Division                 | 2006-01-01          | 2022-04-01        |
+| CMATBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Middle Atlantic Census Division           | 1988-01-01          | 2022-06-01        |
+| CMATBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Middle Atlantic Census Division           | 1988-01-01          | 2022-06-01        |
+| CMATBPPRIV            | New Private Housing Units Authorized by Building Permits for the Middle Atlantic Census Division                              | 1988-01-01          | 2022-06-01        |
+| CMATBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the Middle Atlantic Census Division                              | 1988-01-01          | 2022-06-01        |
+| CMATLF                | Civilian Labor Force in Mid Atlantic Census Division                                                                          | 1976-01-01          | 2022-06-01        |
+| CMATLFN               | Civilian Labor Force in Mid Atlantic Census Division                                                                          | 1976-01-01          | 2022-06-01        |
 | CMATPOP               | Resident Population in the Middle Atlantic Census Division                                                                    | 1900-01-01          | 2021-01-01        |
 | CMATSTHPI             | All-Transactions House Price Index for the Middle Atlantic Census Division                                                    | 1975-01-01          | 2022-01-01        |
-| CMATUR                | Unemployment Rate in Middle Atlantic division                                                                                 | 1976-01-01          | 2022-05-01        |
-| CMATURN               | Unemployment Rate in Middle Atlantic division                                                                                 | 1976-01-01          | 2022-05-01        |
+| CMATUR                | Unemployment Rate in Middle Atlantic division                                                                                 | 1976-01-01          | 2022-06-01        |
+| CMATURN               | Unemployment Rate in Middle Atlantic division                                                                                 | 1976-01-01          | 2022-06-01        |
 | LASRD820000000000004  | Unemployed Persons in Middle Atlantic Census Division                                                                         | 1976-01-01          | 2022-05-01        |
 | LASRD820000000000005  | Employed Persons in Middle Atlantic Census Division                                                                           | 1976-01-01          | 2022-05-01        |
 | LAURD820000000000003A | Unemployment Rate in Middle Atlantic Census Division                                                                          | 1976-01-01          | 2021-01-01        |
@@ -23,7 +23,7 @@
 | PCU221122221122412    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for Middle Atlantic Census Division | 1990-12-01          | 2022-06-01        |
 | PCU221122221122422    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for Middle Atlantic Census Division  | 1971-01-01          | 2022-06-01        |
 | PCU221122221122432    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for Middle Atlantic Census Division  | 1971-01-01          | 2022-06-01        |
-| PONHPI00102M226N      | Purchase Only House Price Index for the Middle Atlantic Census Division                                                       | 1991-01-01          | 2022-04-01        |
-| PONHPI00102M226S      | Purchase Only House Price Index for the Middle Atlantic Census Division                                                       | 1991-01-01          | 2022-04-01        |
+| PONHPI00102M226N      | Purchase Only House Price Index for the Middle Atlantic Census Division                                                       | 1991-01-01          | 2022-05-01        |
+| PONHPI00102M226S      | Purchase Only House Price Index for the Middle Atlantic Census Division                                                       | 1991-01-01          | 2022-05-01        |
 | PONHPI10200Q226N      | Purchase Only House Price Index for the Middle Atlantic Census Division                                                       | 1991-01-01          | 2022-01-01        |
 | PONHPI10200Q226S      | Purchase Only House Price Index for the Middle Atlantic Census Division                                                       | 1991-01-01          | 2022-01-01        |

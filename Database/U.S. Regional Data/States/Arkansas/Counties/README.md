@@ -11,7 +11,7 @@
 | Clay County, AR         |                88 |
 | White County, AR        |               147 |
 | Searcy County, AR       |                88 |
-| Lee County, AR          |                 0 |
+| Lee County, AR          |                88 |
 | Boone County, AR        |                90 |
 | Lonoke County, AR       |               147 |
 | Madison County, AR      |                89 |
@@ -37,7 +37,7 @@
 | Crawford County, AR     |               146 |
 | Crittenden County, AR   |               146 |
 | Nevada County, AR       |                89 |
-| Independence County, AR |                90 |
+| Independence County, AR |                 0 |
 | Newton County, AR       |                89 |
 | Woodruff County, AR     |                88 |
 | Pike County, AR         |                87 |
@@ -71,7 +71,7 @@
 | Polk County, AR         |                90 |
 | Drew County, AR         |                90 |
 | Hot Spring County, AR   |                90 |
-| Desha County, AR        |                 0 |
+| Desha County, AR        |                88 |
 | Columbia County, AR     |                90 |
 | Pope County, AR         |               146 |
 | Randolph County, AR     |                90 |

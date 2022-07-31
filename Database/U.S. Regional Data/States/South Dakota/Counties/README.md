@@ -12,7 +12,7 @@
 | Shannon County, SD       |                22 |
 | Bon Homme County, SD     |                89 |
 | Fall River County, SD    |                88 |
-| Jackson County, SD       |                 0 |
+| Jackson County, SD       |                86 |
 | Edmunds County, SD       |                88 |
 | Douglas County, SD       |                88 |
 | Bennett County, SD       |                87 |
@@ -47,7 +47,7 @@
 | Stanley County, SD       |                89 |
 | Clay County, SD          |                90 |
 | Marshall County, SD      |                89 |
-| Sully County, SD         |                85 |
+| Sully County, SD         |                 0 |
 | Custer County, SD        |                89 |
 | Jerauld County, SD       |                88 |
 | Hanson County, SD        |                88 |
