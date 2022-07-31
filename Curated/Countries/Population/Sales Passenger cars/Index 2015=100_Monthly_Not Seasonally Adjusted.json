@@ -1,8 +1,8 @@
 {
   "Estonia": {
     "id": "ESTSLRTCR03IXOBM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Sales: Retail trade: Car registration: Passenger cars for Estonia",
     "observation_start": "2003-01-01",
     "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
   },
   "Canada": {
     "id": "CANSLRTCR03MLSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Sales: Retail trade: Car registration: Passenger cars for Canada",
     "observation_start": "1960-01-01",
     "observation_end": "2018-12-01",
@@ -39,8 +39,8 @@
   },
   "Chile": {
     "id": "CHLSLRTCR03MLSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Sales: Retail trade: Car registration: Passenger cars for Chile",
     "observation_start": "1994-01-01",
     "observation_end": "2018-12-01",
@@ -58,8 +58,8 @@
   },
   "Czech Republic": {
     "id": "CZESLRTCR03MLSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Sales: Retail trade: Car registration: Passenger cars for the Czech Republic",
     "observation_start": "2003-01-01",
     "observation_end": "2018-12-01",
@@ -77,8 +77,8 @@
   },
   "Iceland": {
     "id": "ISLSLRTCR03IXOBSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Sales: Retail trade: Car registration: Passenger cars for Iceland",
     "observation_start": "1992-01-01",
     "observation_end": "2018-09-01",
@@ -96,8 +96,8 @@
   },
   "India": {
     "id": "INDSLRTCR03MLSAQ",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Sales: Retail trade: Car registration: Passenger cars for India",
     "observation_start": "2001-07-01",
     "observation_end": "2018-07-01",
@@ -109,14 +109,14 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-11-23 12:52:58-06",
     "popularity": 1,
-    "group_popularity": 8,
+    "group_popularity": 7,
     "notes": "OECD descriptor ID: SLRTCR03 OECD unit ID: MLSA OECD country ID: IND All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/India"
   },
   "Israel": {
     "id": "ISRSLRTCR03MLSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Sales: Retail trade: Car registration: Passenger cars for Israel",
     "observation_start": "2004-01-01",
     "observation_end": "2022-02-01",
@@ -134,8 +134,8 @@
   },
   "Japan": {
     "id": "JPNSLRTCR03MLSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Sales: Retail trade: Car registration: Passenger cars for Japan",
     "observation_start": "1968-04-01",
     "observation_end": "2018-12-01",
@@ -146,8 +146,8 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2019-07-12 11:54:41-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "OECD descriptor ID: SLRTCR03 OECD unit ID: MLSA OECD country ID: JPN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Japan"
   }

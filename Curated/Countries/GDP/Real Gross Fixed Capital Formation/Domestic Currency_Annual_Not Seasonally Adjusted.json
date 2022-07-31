@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NFIRXDCSAA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Fixed Capital Formation for Saudi Arabia",
     "observation_start": "2010-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NFIRXDCARA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Fixed Capital Formation for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Brazil": {
     "id": "NFIRXDCBRA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Fixed Capital Formation for Brazil",
     "observation_start": "1996-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Great Britain": {
     "id": "NFIRXDCGBA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "India": {
     "id": "NFIRXDCINA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Fixed Capital Formation for India",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",

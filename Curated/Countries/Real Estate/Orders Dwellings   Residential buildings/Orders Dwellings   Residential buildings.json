@@ -2,8 +2,8 @@
   "Growth rate previous period_Monthly_Seasonally Adjusted": {
     "Germany": {
       "id": "DEUODCNPI03GPSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Orders : Construction : Permits issued : Dwellings / Residential buildings for Germany",
       "observation_start": "1994-02-01",
       "observation_end": "2022-04-01",
@@ -23,8 +23,8 @@
   "Growth rate same period previous year_Monthly_Seasonally Adjusted": {
     "Germany": {
       "id": "DEUODCNPI03GYSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Orders : Construction : Permits issued : Dwellings / Residential buildings for Germany",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",

@@ -2,8 +2,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLIRLOBL01STM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Interest Rates: Other long term rates and yields: Bank loans: Bank loans for Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-06-01",
@@ -23,8 +23,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLIRLOBL01STQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Interest Rates: Other long term rates and yields: Bank loans: Bank loans for Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",

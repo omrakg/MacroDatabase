@@ -2,8 +2,8 @@
   "National Currency_Annual_Not Seasonally Adjusted": {
     "Brazil": {
       "id": "NAEXCP06BRA189N",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Gross Domestic Product by Expenditure in Current Prices: Exports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "National Currency_Quarterly_Not Seasonally Adjusted": {
     "Brazil": {
       "id": "NAEXCP06BRQ189N",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Gross Domestic Product by Expenditure in Current Prices: Exports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",

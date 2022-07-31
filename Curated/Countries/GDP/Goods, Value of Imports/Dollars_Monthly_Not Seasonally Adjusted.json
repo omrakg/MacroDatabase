@@ -1,8 +1,8 @@
 {
   "Taiwan": {
     "id": "VALIMPTWM052N",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Goods, Value of Imports for Taiwan Province of China",
     "observation_start": "1961-01-01",
     "observation_end": "2019-03-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "VALIMPARM052N",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Goods, Value of Imports for Argentina",
     "observation_start": "2006-01-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "India": {
     "id": "VALIMPINM052N",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Goods, Value of Imports for India",
     "observation_start": "2006-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Saudi Arabia": {
     "id": "VALIMPSAM052N",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Goods, Value of Imports for Saudi Arabia",
     "observation_start": "2015-01-01",
     "observation_end": "2022-04-01",

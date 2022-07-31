@@ -1,8 +1,8 @@
 {
   "Great Britain": {
     "id": "NIRSAXDCGBQ",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NIRXDCARA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Capital Formation for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "India": {
     "id": "NIRXDCINA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Capital Formation for India",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Saudi Arabia": {
     "id": "NIRXDCSAA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Gross Capital Formation for Saudi Arabia",
     "observation_start": "2010-01-01",
     "observation_end": "2021-01-01",

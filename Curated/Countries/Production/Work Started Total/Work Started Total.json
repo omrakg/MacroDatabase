@@ -2,8 +2,8 @@
   "Growth rate previous period_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01GPSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1995-02-01",
       "observation_end": "2022-03-01",
@@ -21,8 +21,8 @@
     },
     "Canada": {
       "id": "CANWSCNDW01STSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -42,8 +42,8 @@
   "Growth rate same period previous year_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01GYSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1996-01-01",
       "observation_end": "2022-03-01",
@@ -61,8 +61,8 @@
     },
     "Canada": {
       "id": "CANWSCNDW01STSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01IXOBSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-03-01",
@@ -101,8 +101,8 @@
     },
     "Canada": {
       "id": "CANWSCNDW01STSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -122,8 +122,8 @@
   "Number_Monthly_Seasonally Adjusted": {
     "Canada": {
       "id": "CANWSCNDW01STSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -141,8 +141,8 @@
     },
     "Israel": {
       "id": "ISRWSCNDW01IXOBSAM",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-03-01",

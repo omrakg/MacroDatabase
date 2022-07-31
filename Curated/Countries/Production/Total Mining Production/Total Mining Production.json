@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRMITO01RUA661S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for the Russian Federation",
       "observation_start": "1999-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Brazil": {
       "id": "PRMITO01BRQ661S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for Brazil",
       "observation_start": "1975-01-01",
       "observation_end": "2021-10-01",
@@ -40,8 +40,8 @@
     },
     "India": {
       "id": "PRMITO01INQ661S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for India",
       "observation_start": "1994-04-01",
       "observation_end": "2018-10-01",
@@ -61,8 +61,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRMITO01RUQ661N",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for the Russian Federation",
       "observation_start": "1999-01-01",
       "observation_end": "2021-10-01",
@@ -80,8 +80,8 @@
     },
     "Brazil": {
       "id": "PRMITO01BRQ661S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for Brazil",
       "observation_start": "1975-01-01",
       "observation_end": "2021-10-01",
@@ -99,8 +99,8 @@
     },
     "India": {
       "id": "PRMITO01INQ661S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for India",
       "observation_start": "1994-04-01",
       "observation_end": "2018-10-01",
@@ -120,8 +120,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRMITO01RUQ661S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for the Russian Federation",
       "observation_start": "1999-01-01",
       "observation_end": "2021-10-01",
@@ -139,8 +139,8 @@
     },
     "Brazil": {
       "id": "PRMITO01BRQ661S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for Brazil",
       "observation_start": "1975-01-01",
       "observation_end": "2021-10-01",
@@ -158,8 +158,8 @@
     },
     "India": {
       "id": "PRMITO01INQ661S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Total Mining Production for India",
       "observation_start": "1994-04-01",
       "observation_end": "2018-10-01",

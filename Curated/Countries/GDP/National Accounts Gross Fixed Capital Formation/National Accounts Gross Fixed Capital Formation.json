@@ -2,8 +2,8 @@
   "Growth rate previous period_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXKP04GPSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Costa Rica",
       "observation_start": "1991-04-01",
       "observation_end": "2022-01-01",
@@ -15,14 +15,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:53:44-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP04 OECD unit ID: GPSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     },
     "Colombia": {
       "id": "COLNAEXKP04STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -42,8 +42,8 @@
   "Growth rate same period previous year_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXKP04GYSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Costa Rica",
       "observation_start": "1992-01-01",
       "observation_end": "2022-01-01",
@@ -55,14 +55,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:53:44-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP04 OECD unit ID: GYSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     },
     "Colombia": {
       "id": "COLNAEXKP04STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -82,8 +82,8 @@
   "Index 2010=100_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLNAEXKP04IXOBSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -101,8 +101,8 @@
     },
     "Costa Rica": {
       "id": "CRINAEXKP04STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -114,7 +114,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:12:16-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP04 OECD unit ID: STSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     }
@@ -122,8 +122,8 @@
   "Colombian Peso_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLNAEXKP04STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -141,8 +141,8 @@
     },
     "Costa Rica": {
       "id": "CRINAEXKP04STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -154,7 +154,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:12:16-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP04 OECD unit ID: STSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     }
@@ -162,8 +162,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXKP04IXOBSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -175,14 +175,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:53:44-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP04 OECD unit ID: IXOBSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     },
     "Colombia": {
       "id": "COLNAEXKP04STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -202,8 +202,8 @@
   "Costa Rican Colon_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXKP04STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -215,14 +215,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:12:16-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP04 OECD unit ID: STSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     },
     "Colombia": {
       "id": "COLNAEXKP04STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Fixed Capital Formation for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",

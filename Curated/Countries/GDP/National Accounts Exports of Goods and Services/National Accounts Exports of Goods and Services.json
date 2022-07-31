@@ -2,8 +2,8 @@
   "Growth rate previous period_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXKP06GPSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Costa Rica",
       "observation_start": "1991-04-01",
       "observation_end": "2022-01-01",
@@ -21,8 +21,8 @@
     },
     "Colombia": {
       "id": "COLNAEXKP06STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -42,8 +42,8 @@
   "Growth rate same period previous year_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXKP06GYSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Costa Rica",
       "observation_start": "1992-01-01",
       "observation_end": "2022-01-01",
@@ -61,8 +61,8 @@
     },
     "Colombia": {
       "id": "COLNAEXKP06STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXKP06IXOBSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -101,8 +101,8 @@
     },
     "Colombia": {
       "id": "COLNAEXKP06STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -122,8 +122,8 @@
   "Colombian Peso_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLNAEXKP06STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -141,8 +141,8 @@
     },
     "Costa Rica": {
       "id": "CRINAEXKP06STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -162,8 +162,8 @@
   "Costa Rican Colon_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRINAEXKP06STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-01-01",
@@ -181,8 +181,8 @@
     },
     "Colombia": {
       "id": "COLNAEXKP06STSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Colombia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",

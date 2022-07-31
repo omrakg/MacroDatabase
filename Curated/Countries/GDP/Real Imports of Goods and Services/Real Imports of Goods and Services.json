@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NMRNSAXDCSAQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
     },
     "Argentina": {
       "id": "NMRXDCARA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
     },
     "Brazil": {
       "id": "NMRXDCBRA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -56,8 +56,8 @@
     },
     "Great Britain": {
       "id": "NMRXDCGBA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -74,8 +74,8 @@
     },
     "India": {
       "id": "NMRXDCINA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -92,8 +92,8 @@
     },
     "Japan": {
       "id": "JPNRGDPIGS",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Japan",
       "observation_start": "1994-01-01",
       "observation_end": "2022-01-01",
@@ -113,8 +113,8 @@
   "Domestic Currency_Quarterly_Seasonally Adjusted": {
     "Great Britain": {
       "id": "NMRSAXDCGBQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Great Britain",
       "observation_start": "1955-01-01",
       "observation_end": "2022-01-01",
@@ -131,8 +131,8 @@
     },
     "Argentina": {
       "id": "NMRXDCARA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -149,8 +149,8 @@
     },
     "Brazil": {
       "id": "NMRXDCBRA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -167,8 +167,8 @@
     },
     "India": {
       "id": "NMRXDCINA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -185,8 +185,8 @@
     },
     "Japan": {
       "id": "JPNRGDPIGS",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Japan",
       "observation_start": "1994-01-01",
       "observation_end": "2022-01-01",
@@ -204,8 +204,8 @@
     },
     "Saudi Arabia": {
       "id": "NMRXDCSAA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -224,8 +224,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NMRXDCSAA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -242,8 +242,8 @@
     },
     "Argentina": {
       "id": "NMRXDCARA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -260,8 +260,8 @@
     },
     "Brazil": {
       "id": "NMRXDCBRA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -278,8 +278,8 @@
     },
     "Great Britain": {
       "id": "NMRXDCGBA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -296,8 +296,8 @@
     },
     "India": {
       "id": "NMRXDCINA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -314,8 +314,8 @@
     },
     "Japan": {
       "id": "JPNRGDPIGS",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Japan",
       "observation_start": "1994-01-01",
       "observation_end": "2022-01-01",
@@ -335,8 +335,8 @@
   "Billions of Chained 2015 Yen_Quarterly_Seasonally Adjusted": {
     "Japan": {
       "id": "JPNRGDPIGS",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Japan",
       "observation_start": "1994-01-01",
       "observation_end": "2022-01-01",
@@ -354,8 +354,8 @@
     },
     "Argentina": {
       "id": "NMRXDCARA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -372,8 +372,8 @@
     },
     "Brazil": {
       "id": "NMRXDCBRA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -390,8 +390,8 @@
     },
     "Great Britain": {
       "id": "NMRXDCGBA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -408,8 +408,8 @@
     },
     "India": {
       "id": "NMRXDCINA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -426,8 +426,8 @@
     },
     "Saudi Arabia": {
       "id": "NMRXDCSAA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Imports of Goods and Services for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",

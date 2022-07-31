@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "India": {
       "id": "NSDGDPRNSAXDCINQ",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Statistical Discrepancy for India",
       "observation_start": "2004-04-01",
       "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
     },
     "Argentina": {
       "id": "NSDGDPRXDCARA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Statistical Discrepancy for Argentina",
       "observation_start": "2016-01-01",
       "observation_end": "2021-01-01",
@@ -40,8 +40,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "India": {
       "id": "NSDGDPRXDCINA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Statistical Discrepancy for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
     },
     "Argentina": {
       "id": "NSDGDPRXDCARA",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Real Statistical Discrepancy for Argentina",
       "observation_start": "2016-01-01",
       "observation_end": "2021-01-01",

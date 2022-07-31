@@ -1,8 +1,8 @@
 {
   "Romania": {
     "id": "SRVRPOROM086NEST",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Harmonized Index of Consumer Prices: Services Related to Recreation and Personal Care, Excluding Package Holidays and Accommodation for Romania",
     "observation_start": "2000-12-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Bulgaria": {
     "id": "SRVRPOBGM086NEST",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Harmonized Index of Consumer Prices: Services Related to Recreation and Personal Care, Excluding Package Holidays and Accommodation for Bulgaria",
     "observation_start": "1996-12-01",
     "observation_end": "2022-06-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "SRVRPOHRM086NEST",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Harmonized Index of Consumer Prices: Services Related to Recreation and Personal Care, Excluding Package Holidays and Accommodation for Croatia",
     "observation_start": "1998-01-01",
     "observation_end": "2022-06-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "SRVRPOCYM086NEST",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Harmonized Index of Consumer Prices: Services Related to Recreation and Personal Care, Excluding Package Holidays and Accommodation for Cyprus",
     "observation_start": "1996-01-01",
     "observation_end": "2022-06-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "SRVRPOMTM086NEST",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Harmonized Index of Consumer Prices: Services Related to Recreation and Personal Care, Excluding Package Holidays and Accommodation for Malta",
     "observation_start": "1996-01-01",
     "observation_end": "2022-06-01",

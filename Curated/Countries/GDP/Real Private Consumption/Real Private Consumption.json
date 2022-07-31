@@ -1,8 +1,8 @@
 {
   "Japan": {
     "id": "JPNRGDPPC",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Real Private Consumption for Japan",
     "observation_start": "1994-01-01",
     "observation_end": "2022-01-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-06-07 18:56:05-05",
-    "popularity": 11,
-    "group_popularity": 11,
+    "popularity": 7,
+    "group_popularity": 7,
     "notes": "Copyright, 2016, Cabinet Office of Japan.",
     "path": "Database/International Data/Countries/Japan"
   }

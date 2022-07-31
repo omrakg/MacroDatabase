@@ -1,8 +1,8 @@
 {
   "Lithuania": {
     "id": "LTUBVEMTE02STSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Business tendency surveys (services): Employment: Tendency: National indicator for Lithuania",
     "observation_start": "2002-05-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Latvia": {
     "id": "LVABVEMTE02STSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Business tendency surveys (services): Employment: Tendency: National indicator for Latvia",
     "observation_start": "2002-02-01",
     "observation_end": "2022-06-01",

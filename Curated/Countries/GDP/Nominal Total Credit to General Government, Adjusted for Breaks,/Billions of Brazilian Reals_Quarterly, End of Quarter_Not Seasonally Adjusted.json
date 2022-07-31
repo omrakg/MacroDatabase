@@ -1,8 +1,8 @@
 {
   "Brazil": {
     "id": "QBRGANXDCA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Brazil",
     "observation_start": "1998-01-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "QARGANXDCA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina",
     "observation_start": "1992-10-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "India": {
     "id": "QINGANXDCA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for India",
     "observation_start": "1981-01-01",
     "observation_end": "2021-10-01",
@@ -58,8 +58,8 @@
   },
   "Saudi Arabia": {
     "id": "QSAGANXDCA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Saudi Arabia",
     "observation_start": "1999-10-01",
     "observation_end": "2021-10-01",
@@ -77,8 +77,8 @@
   },
   "Thailand": {
     "id": "QTHGANXDCA",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Thailand",
     "observation_start": "1997-01-01",
     "observation_end": "2021-10-01",

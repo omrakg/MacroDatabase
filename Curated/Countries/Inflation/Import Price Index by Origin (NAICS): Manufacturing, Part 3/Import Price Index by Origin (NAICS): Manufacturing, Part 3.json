@@ -1,8 +1,8 @@
 {
   "United Kingdom": {
     "id": "COUKZ33",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for United Kingdom",
     "observation_start": "2012-06-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Canada": {
     "id": "COCANZ33",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Canada",
     "observation_start": "2012-06-01",
     "observation_end": "2022-06-01",
@@ -39,8 +39,8 @@
   },
   "Germany": {
     "id": "COGERZ33",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Germany",
     "observation_start": "2012-06-01",
     "observation_end": "2022-06-01",
@@ -51,15 +51,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-07-15 07:41:17-05",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/",
     "path": "Database/International Data/Countries/Germany"
   },
   "Japan": {
     "id": "COJPNZ33",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Japan",
     "observation_start": "2012-06-01",
     "observation_end": "2022-06-01",

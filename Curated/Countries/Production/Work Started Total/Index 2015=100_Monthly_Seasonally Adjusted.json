@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRWSCNDW01IXOBSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2022-03-01",
@@ -20,8 +20,8 @@
   },
   "Canada": {
     "id": "CANWSCNDW01STSAM",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
     "observation_start": "1960-01-01",
     "observation_end": "2022-05-01",

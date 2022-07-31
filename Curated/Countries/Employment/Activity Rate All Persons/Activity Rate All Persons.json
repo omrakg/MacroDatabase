@@ -2,8 +2,8 @@
   "Percent_Annual_Not Seasonally Adjusted": {
     "Brazil": {
       "id": "LRACTTTTBRA156S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Activity Rate: Aged 15 and Over: All Persons for Brazil",
       "observation_start": "2003-01-01",
       "observation_end": "2014-01-01",
@@ -23,8 +23,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Brazil": {
       "id": "LRACTTTTBRM156N",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Activity Rate: Aged 15 and Over: All Persons for Brazil",
       "observation_start": "2002-03-01",
       "observation_end": "2015-11-01",
@@ -44,8 +44,8 @@
   "Percent_Monthly_Seasonally Adjusted": {
     "Brazil": {
       "id": "LRACTTTTBRM156S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Activity Rate: Aged 15 and Over: All Persons for Brazil",
       "observation_start": "2002-03-01",
       "observation_end": "2015-11-01",
@@ -65,8 +65,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Brazil": {
       "id": "LRACTTTTBRQ156N",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Activity Rate: Aged 15 and Over: All Persons for Brazil",
       "observation_start": "2002-04-01",
       "observation_end": "2015-07-01",
@@ -86,8 +86,8 @@
   "Percent_Quarterly_Seasonally Adjusted": {
     "Brazil": {
       "id": "LRACTTTTBRQ156S",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Activity Rate: Aged 15 and Over: All Persons for Brazil",
       "observation_start": "2002-04-01",
       "observation_end": "2015-07-01",

@@ -2,8 +2,8 @@
   "Percent_Annual_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "IRLTMT01ISA156N",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Iceland",
       "observation_start": "1994-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "IRLTMT01ISM156N",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Iceland",
       "observation_start": "1993-11-01",
       "observation_end": "2022-06-01",
@@ -44,8 +44,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "IRLTMT01ISQ156N",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Long-Term Government Bond Yields: 2 to 9 -Year for Iceland",
       "observation_start": "1994-01-01",
       "observation_end": "2022-04-01",

@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Japan": {
       "id": "JPNSACRAISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Japan",
       "observation_start": "1969-01-01",
       "observation_end": "2020-01-01",
@@ -21,8 +21,8 @@
     },
     "Canada": {
       "id": "CANSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2018-10-01",
@@ -40,8 +40,8 @@
     },
     "Chile": {
       "id": "CHLSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Chile",
       "observation_start": "1994-01-01",
       "observation_end": "2018-10-01",
@@ -59,8 +59,8 @@
     },
     "Czech Republic": {
       "id": "CZESACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Czech Republic",
       "observation_start": "2003-01-01",
       "observation_end": "2018-10-01",
@@ -78,8 +78,8 @@
     },
     "Israel": {
       "id": "ISRSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Israel",
       "observation_start": "2004-01-01",
       "observation_end": "2018-07-01",
@@ -99,8 +99,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Japan": {
       "id": "JPNSACRMISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Japan",
       "observation_start": "1968-04-01",
       "observation_end": "2018-12-01",
@@ -118,8 +118,8 @@
     },
     "Canada": {
       "id": "CANSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2018-10-01",
@@ -137,8 +137,8 @@
     },
     "Chile": {
       "id": "CHLSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Chile",
       "observation_start": "1994-01-01",
       "observation_end": "2018-10-01",
@@ -156,8 +156,8 @@
     },
     "Czech Republic": {
       "id": "CZESACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Czech Republic",
       "observation_start": "2003-01-01",
       "observation_end": "2018-10-01",
@@ -175,8 +175,8 @@
     },
     "Israel": {
       "id": "ISRSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Israel",
       "observation_start": "2004-01-01",
       "observation_end": "2018-07-01",
@@ -196,8 +196,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Japan": {
       "id": "JPNSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Japan",
       "observation_start": "1968-04-01",
       "observation_end": "2018-07-01",
@@ -215,8 +215,8 @@
     },
     "Canada": {
       "id": "CANSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2018-10-01",
@@ -234,8 +234,8 @@
     },
     "Chile": {
       "id": "CHLSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Chile",
       "observation_start": "1994-01-01",
       "observation_end": "2018-10-01",
@@ -253,8 +253,8 @@
     },
     "Czech Republic": {
       "id": "CZESACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Czech Republic",
       "observation_start": "2003-01-01",
       "observation_end": "2018-10-01",
@@ -272,8 +272,8 @@
     },
     "Israel": {
       "id": "ISRSACRQISMEI",
-      "realtime_start": "2022-07-24",
-      "realtime_end": "2022-07-24",
+      "realtime_start": "2022-07-31",
+      "realtime_end": "2022-07-31",
       "title": "Passenger Car Registrations in Israel",
       "observation_start": "2004-01-01",
       "observation_end": "2018-07-01",

@@ -1,8 +1,8 @@
 {
   "India": {
     "id": "PRMNCG01INQ661S",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Total Production of Consumer Goods for Manufacturing for India",
     "observation_start": "1994-04-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "Brazil": {
     "id": "PRMNCG01BRQ661S",
-    "realtime_start": "2022-07-24",
-    "realtime_end": "2022-07-24",
+    "realtime_start": "2022-07-31",
+    "realtime_end": "2022-07-31",
     "title": "Total Production of Consumer Goods for Manufacturing for Brazil",
     "observation_start": "1991-01-01",
     "observation_end": "2018-10-01",
