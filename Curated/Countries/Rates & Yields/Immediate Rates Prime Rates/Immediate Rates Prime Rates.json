@@ -2,8 +2,8 @@
   "Percent_Annual_Not Seasonally Adjusted": {
     "India": {
       "id": "IRSTPI01INA156N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Immediate Rates: Less than 24 Hours: Prime Rates for India",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -15,14 +15,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-10 11:43:32-06",
       "popularity": 1,
-      "group_popularity": 7,
+      "group_popularity": 5,
       "notes": "OECD descriptor ID: IRSTPI01\nOECD unit ID: ST\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/India"
     },
     "Canada": {
       "id": "IRSTPI01CAQ156N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Immediate Rates: Less than 24 Hours: Prime Rates for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-01-01",
@@ -33,7 +33,7 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-05-12 09:14:22-05",
-      "popularity": 2,
+      "popularity": 1,
       "group_popularity": 22,
       "notes": "OECD descriptor ID: IRSTPI01\nOECD unit ID: ST\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
@@ -42,8 +42,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "India": {
       "id": "IRSTPI01INM156N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Immediate Rates: Less than 24 Hours: Prime Rates for India",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -55,14 +55,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-07-14 14:21:16-05",
       "popularity": 4,
-      "group_popularity": 7,
+      "group_popularity": 5,
       "notes": "OECD descriptor ID: IRSTPI01\nOECD unit ID: ST\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/India"
     },
     "Canada": {
       "id": "IRSTPI01CAQ156N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Immediate Rates: Less than 24 Hours: Prime Rates for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-01-01",
@@ -73,7 +73,7 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-05-12 09:14:22-05",
-      "popularity": 2,
+      "popularity": 1,
       "group_popularity": 22,
       "notes": "OECD descriptor ID: IRSTPI01\nOECD unit ID: ST\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
@@ -82,8 +82,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "India": {
       "id": "IRSTPI01INQ156N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Immediate Rates: Less than 24 Hours: Prime Rates for India",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -94,15 +94,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-05-12 09:10:25-05",
-      "popularity": 4,
-      "group_popularity": 7,
+      "popularity": 2,
+      "group_popularity": 5,
       "notes": "OECD descriptor ID: IRSTPI01\nOECD unit ID: ST\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/India"
     },
     "Canada": {
       "id": "IRSTPI01CAQ156N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Immediate Rates: Less than 24 Hours: Prime Rates for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-01-01",
@@ -113,7 +113,7 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-05-12 09:14:22-05",
-      "popularity": 2,
+      "popularity": 1,
       "group_popularity": 22,
       "notes": "OECD descriptor ID: IRSTPI01\nOECD unit ID: ST\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"

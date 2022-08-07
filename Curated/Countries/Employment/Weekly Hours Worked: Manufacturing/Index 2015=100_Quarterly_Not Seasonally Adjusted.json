@@ -1,8 +1,8 @@
 {
   "Turkey": {
     "id": "HOHWMN02TRQ661N",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Weekly Hours Worked: Manufacturing for Turkey",
     "observation_start": "1977-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Canada": {
     "id": "HOHWMN02CAQ065N",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Weekly Hours Worked: Manufacturing for Canada",
     "observation_start": "1960-01-01",
     "observation_end": "2022-01-01",

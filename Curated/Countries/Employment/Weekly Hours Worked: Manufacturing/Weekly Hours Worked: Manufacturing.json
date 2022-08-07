@@ -2,8 +2,8 @@
   "Hours_Annual_Not Seasonally Adjusted": {
     "Canada": {
       "id": "HOHWMN02CAA065N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Turkey": {
       "id": "HOHWMN02TRQ661N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2022-01-01",
@@ -42,8 +42,8 @@
   "Hours_Monthly_Not Seasonally Adjusted": {
     "Canada": {
       "id": "HOHWMN02CAM065N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
     },
     "Turkey": {
       "id": "HOHWMN02TRQ661N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2022-01-01",
@@ -82,8 +82,8 @@
   "Hours_Quarterly_Not Seasonally Adjusted": {
     "Canada": {
       "id": "HOHWMN02CAQ065N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-01-01",
@@ -101,8 +101,8 @@
     },
     "Turkey": {
       "id": "HOHWMN02TRQ661N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2022-01-01",
@@ -122,8 +122,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "HOHWMN02TRA661N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2021-01-01",
@@ -141,8 +141,8 @@
     },
     "Canada": {
       "id": "HOHWMN02CAQ065N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-01-01",
@@ -162,8 +162,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "HOHWMN02TRQ661N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2022-01-01",
@@ -181,8 +181,8 @@
     },
     "Canada": {
       "id": "HOHWMN02CAQ065N",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Weekly Hours Worked: Manufacturing for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-01-01",

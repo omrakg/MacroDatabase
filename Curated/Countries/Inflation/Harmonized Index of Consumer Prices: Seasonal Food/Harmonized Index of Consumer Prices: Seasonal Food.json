@@ -1,8 +1,8 @@
 {
   "Romania": {
     "id": "SEAS00ROM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Seasonal Food for Romania",
     "observation_start": "2000-12-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Bulgaria": {
     "id": "SEAS00BGM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Seasonal Food for Bulgaria",
     "observation_start": "1996-12-01",
     "observation_end": "2022-06-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "SEAS00HRM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Seasonal Food for Croatia",
     "observation_start": "1998-01-01",
     "observation_end": "2022-06-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "SEAS00CYM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Seasonal Food for Cyprus",
     "observation_start": "1996-01-01",
     "observation_end": "2022-06-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "SEAS00MTM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Seasonal Food for Malta",
     "observation_start": "1996-01-01",
     "observation_end": "2022-06-01",

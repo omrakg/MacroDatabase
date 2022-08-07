@@ -1,8 +1,8 @@
 {
   "Japan": {
     "id": "JPNCPIALLMINMEI",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Consumer Price Index of All Items in Japan",
     "observation_start": "1960-01-01",
     "observation_end": "2022-04-01",
@@ -14,14 +14,14 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-06-14 10:46:03-05",
     "popularity": 57,
-    "group_popularity": 58,
+    "group_popularity": 57,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Japan"
   },
   "Canada": {
     "id": "CANCPIALLQINMEI",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Consumer Price Index of All Items in Canada",
     "observation_start": "1960-01-01",
     "observation_end": "2022-01-01",
@@ -33,14 +33,14 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-12 09:14:04-05",
     "popularity": 4,
-    "group_popularity": 29,
+    "group_popularity": 24,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Canada"
   },
   "France": {
     "id": "FRACPIALLQINMEI",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Consumer Price Index of All Items in France",
     "observation_start": "1960-01-01",
     "observation_end": "2022-01-01",
@@ -51,15 +51,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-12 09:11:04-05",
-    "popularity": 12,
-    "group_popularity": 40,
+    "popularity": 14,
+    "group_popularity": 41,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/France"
   },
   "Germany": {
     "id": "DEUCPIALLQINMEI",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Consumer Price Index of All Items in Germany",
     "observation_start": "1960-01-01",
     "observation_end": "2022-01-01",
@@ -70,8 +70,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-05-12 09:13:03-05",
-    "popularity": 14,
-    "group_popularity": 50,
+    "popularity": 15,
+    "group_popularity": 49,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Germany"
   }

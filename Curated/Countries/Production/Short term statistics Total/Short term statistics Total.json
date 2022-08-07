@@ -2,8 +2,8 @@
   "eRatio_Monthly_Not Seasonally Adjusted": {
     "Canada": {
       "id": "CANSTMNIS01STM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Short term statistics: Stocks - Manufacturing: Inventories to shipments: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -21,8 +21,8 @@
     },
     "Japan": {
       "id": "JPNSTMNIS01IXOBSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Short term statistics: Stocks - Manufacturing: Inventories to shipments: Total for Japan",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Japan": {
       "id": "JPNSTMNIS01IXOBM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Short term statistics: Stocks - Manufacturing: Inventories to shipments: Total for Japan",
       "observation_start": "1998-01-01",
       "observation_end": "2022-05-01",
@@ -61,8 +61,8 @@
     },
     "Canada": {
       "id": "CANSTMNIS01STM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Short term statistics: Stocks - Manufacturing: Inventories to shipments: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Japan": {
       "id": "JPNSTMNIS01IXOBSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Short term statistics: Stocks - Manufacturing: Inventories to shipments: Total for Japan",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -101,8 +101,8 @@
     },
     "Canada": {
       "id": "CANSTMNIS01STM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Short term statistics: Stocks - Manufacturing: Inventories to shipments: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",

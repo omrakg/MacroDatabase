@@ -1,8 +1,8 @@
 {
   "Japan": {
     "id": "HOHWMN03JPQ661N",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Monthly Hours Worked: Manufacturing for Japan",
     "observation_start": "1960-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Hungary": {
     "id": "HOHWMN03HUQ065N",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Monthly Hours Worked: Manufacturing for Hungary",
     "observation_start": "1984-01-01",
     "observation_end": "2022-01-01",

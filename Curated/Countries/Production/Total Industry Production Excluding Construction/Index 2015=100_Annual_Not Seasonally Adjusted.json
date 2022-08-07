@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "PRINTO01RUA661N",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Total Industry Production Excluding Construction for the Russian Federation",
     "observation_start": "1993-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Brazil": {
     "id": "PRINTO01BRQ661N",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Total Industry Production Excluding Construction for Brazil",
     "observation_start": "1975-01-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "India": {
     "id": "PRINTO01INQ661N",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Total Industry Production Excluding Construction for India",
     "observation_start": "1994-04-01",
     "observation_end": "2022-01-01",

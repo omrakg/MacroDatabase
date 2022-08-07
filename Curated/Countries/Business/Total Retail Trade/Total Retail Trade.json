@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Japan": {
       "id": "JPNSARTAISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Japan",
       "observation_start": "1970-01-01",
       "observation_end": "2020-01-01",
@@ -15,14 +15,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-02-15 11:16:02-06",
       "popularity": 1,
-      "group_popularity": 7,
+      "group_popularity": 6,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Japan"
     },
     "Brazil": {
       "id": "BRASARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Brazil",
       "observation_start": "2000-01-01",
       "observation_end": "2021-10-01",
@@ -40,8 +40,8 @@
     },
     "Canada": {
       "id": "CANSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Canada",
       "observation_start": "1970-01-01",
       "observation_end": "2022-01-01",
@@ -53,14 +53,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 15:22:40-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 6,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Canada"
     },
     "Chile": {
       "id": "CHLSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Chile",
       "observation_start": "2005-01-01",
       "observation_end": "2018-10-01",
@@ -78,8 +78,8 @@
     },
     "Czech Republic": {
       "id": "CZESARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Czech Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -97,8 +97,8 @@
     },
     "Iceland": {
       "id": "ISLSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Iceland",
       "observation_start": "1991-01-01",
       "observation_end": "2017-10-01",
@@ -116,8 +116,8 @@
     },
     "Israel": {
       "id": "ISRSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -129,7 +129,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:10:01-05",
       "popularity": 2,
-      "group_popularity": 3,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -137,8 +137,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Japan": {
       "id": "JPNSARTMISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Japan",
       "observation_start": "1970-01-01",
       "observation_end": "2021-07-01",
@@ -149,15 +149,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-04-14 14:31:19-05",
-      "popularity": 7,
-      "group_popularity": 7,
+      "popularity": 6,
+      "group_popularity": 6,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Japan"
     },
     "Brazil": {
       "id": "BRASARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Brazil",
       "observation_start": "2000-01-01",
       "observation_end": "2021-10-01",
@@ -175,8 +175,8 @@
     },
     "Canada": {
       "id": "CANSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Canada",
       "observation_start": "1970-01-01",
       "observation_end": "2022-01-01",
@@ -188,14 +188,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 15:22:40-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 6,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Canada"
     },
     "Chile": {
       "id": "CHLSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Chile",
       "observation_start": "2005-01-01",
       "observation_end": "2018-10-01",
@@ -213,8 +213,8 @@
     },
     "Czech Republic": {
       "id": "CZESARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Czech Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -232,8 +232,8 @@
     },
     "Iceland": {
       "id": "ISLSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Iceland",
       "observation_start": "1991-01-01",
       "observation_end": "2017-10-01",
@@ -251,8 +251,8 @@
     },
     "Israel": {
       "id": "ISRSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -264,7 +264,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:10:01-05",
       "popularity": 2,
-      "group_popularity": 3,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -272,8 +272,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Japan": {
       "id": "JPNSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Japan",
       "observation_start": "1970-01-01",
       "observation_end": "2021-04-01",
@@ -285,14 +285,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-04-14 14:50:22-05",
       "popularity": 1,
-      "group_popularity": 7,
+      "group_popularity": 6,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Japan"
     },
     "Brazil": {
       "id": "BRASARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Brazil",
       "observation_start": "2000-01-01",
       "observation_end": "2021-10-01",
@@ -310,8 +310,8 @@
     },
     "Canada": {
       "id": "CANSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Canada",
       "observation_start": "1970-01-01",
       "observation_end": "2022-01-01",
@@ -323,14 +323,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 15:22:40-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 6,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Canada"
     },
     "Chile": {
       "id": "CHLSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Chile",
       "observation_start": "2005-01-01",
       "observation_end": "2018-10-01",
@@ -348,8 +348,8 @@
     },
     "Czech Republic": {
       "id": "CZESARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Czech Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -367,8 +367,8 @@
     },
     "Iceland": {
       "id": "ISLSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Iceland",
       "observation_start": "1991-01-01",
       "observation_end": "2017-10-01",
@@ -386,8 +386,8 @@
     },
     "Israel": {
       "id": "ISRSARTQISMEI",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Total Retail Trade in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -399,7 +399,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:10:01-05",
       "popularity": 2,
-      "group_popularity": 3,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }

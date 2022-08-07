@@ -2,8 +2,8 @@
   "Growth rate previous period_Monthly_Not Seasonally Adjusted": {
     "Japan": {
       "id": "JPNPISPPR02GPM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Producer Prices Index: Stage of processing: Primary products: Domestic for Japan",
       "observation_start": "1970-02-01",
       "observation_end": "2022-04-01",
@@ -23,8 +23,8 @@
   "Growth rate previous period_Quarterly_Not Seasonally Adjusted": {
     "Japan": {
       "id": "JPNPISPPR02GPQ",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Producer Prices Index: Stage of processing: Primary products: Domestic for Japan",
       "observation_start": "1970-04-01",
       "observation_end": "2022-01-01",
@@ -44,8 +44,8 @@
   "Growth rate same period previous year_Monthly_Not Seasonally Adjusted": {
     "Japan": {
       "id": "JPNPISPPR02GYM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Producer Prices Index: Stage of processing: Primary products: Domestic for Japan",
       "observation_start": "1971-01-01",
       "observation_end": "2022-04-01",
@@ -65,8 +65,8 @@
   "Growth rate same period previous year_Quarterly_Not Seasonally Adjusted": {
     "Japan": {
       "id": "JPNPISPPR02GYQ",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Producer Prices Index: Stage of processing: Primary products: Domestic for Japan",
       "observation_start": "1971-01-01",
       "observation_end": "2022-01-01",

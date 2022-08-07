@@ -1,8 +1,8 @@
 {
   "Japan": {
     "id": "COJPNZ325",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Import Price Index by Origin (NAICS): Chemical Manufacturing for Japan",
     "observation_start": "2012-06-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Canada": {
     "id": "COCANZ325",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Import Price Index by Origin (NAICS): Chemical Manufacturing for Canada",
     "observation_start": "2012-06-01",
     "observation_end": "2022-06-01",

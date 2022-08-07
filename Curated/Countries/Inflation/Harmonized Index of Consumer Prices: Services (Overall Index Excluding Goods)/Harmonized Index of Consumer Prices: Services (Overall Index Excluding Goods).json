@@ -1,8 +1,8 @@
 {
   "Romania": {
     "id": "SERV00ROM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Services (Overall Index Excluding Goods) for Romania",
     "observation_start": "2000-12-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Bulgaria": {
     "id": "SERV00BGM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Services (Overall Index Excluding Goods) for Bulgaria",
     "observation_start": "1996-12-01",
     "observation_end": "2022-06-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "SERV00HRM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Services (Overall Index Excluding Goods) for Croatia",
     "observation_start": "1998-01-01",
     "observation_end": "2022-06-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "SERV00CYM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Services (Overall Index Excluding Goods) for Cyprus",
     "observation_start": "1996-01-01",
     "observation_end": "2022-06-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "SERV00MTM086NEST",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Harmonized Index of Consumer Prices: Services (Overall Index Excluding Goods) for Malta",
     "observation_start": "1996-01-01",
     "observation_end": "2022-06-01",

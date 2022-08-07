@@ -2,8 +2,8 @@
   "Growth Rate Same Period Previous Year_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LORSGPORRUQ659S",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Leading Indicators OECD: Reference Series: Gross Domestic Product: Original Series for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -21,8 +21,8 @@
     },
     "Brazil": {
       "id": "LORSGPORBRQ661S",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Leading Indicators OECD: Reference Series: Gross Domestic Product: Original Series for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -40,8 +40,8 @@
     },
     "India": {
       "id": "LORSGPORINQ661S",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Leading Indicators OECD: Reference Series: Gross Domestic Product: Original Series for India",
       "observation_start": "1996-04-01",
       "observation_end": "2022-01-01",
@@ -61,8 +61,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LORSGPORRUQ661S",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Leading Indicators OECD: Reference Series: Gross Domestic Product: Original Series for the Russian Federation",
       "observation_start": "1995-01-01",
       "observation_end": "2021-07-01",
@@ -80,8 +80,8 @@
     },
     "Brazil": {
       "id": "LORSGPORBRQ661S",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Leading Indicators OECD: Reference Series: Gross Domestic Product: Original Series for Brazil",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -99,8 +99,8 @@
     },
     "India": {
       "id": "LORSGPORINQ661S",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Leading Indicators OECD: Reference Series: Gross Domestic Product: Original Series for India",
       "observation_start": "1996-04-01",
       "observation_end": "2022-01-01",

@@ -2,8 +2,8 @@
   "Growth rate previous period_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01GPSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1995-02-01",
       "observation_end": "2022-03-01",
@@ -21,8 +21,8 @@
     },
     "Canada": {
       "id": "CANWSCNDW01STSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -33,8 +33,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:25:14-05",
-      "popularity": 5,
-      "group_popularity": 5,
+      "popularity": 6,
+      "group_popularity": 6,
       "notes": "OECD descriptor ID: WSCNDW01 OECD unit ID: STSA OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
     }
@@ -42,8 +42,8 @@
   "Growth rate same period previous year_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01GYSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1996-01-01",
       "observation_end": "2022-03-01",
@@ -61,8 +61,8 @@
     },
     "Canada": {
       "id": "CANWSCNDW01STSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -73,8 +73,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:25:14-05",
-      "popularity": 5,
-      "group_popularity": 5,
+      "popularity": 6,
+      "group_popularity": 6,
       "notes": "OECD descriptor ID: WSCNDW01 OECD unit ID: STSA OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
     }
@@ -82,8 +82,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRWSCNDW01IXOBSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-03-01",
@@ -101,8 +101,8 @@
     },
     "Canada": {
       "id": "CANWSCNDW01STSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -113,8 +113,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:25:14-05",
-      "popularity": 5,
-      "group_popularity": 5,
+      "popularity": 6,
+      "group_popularity": 6,
       "notes": "OECD descriptor ID: WSCNDW01 OECD unit ID: STSA OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
     }
@@ -122,8 +122,8 @@
   "Number_Monthly_Seasonally Adjusted": {
     "Canada": {
       "id": "CANWSCNDW01STSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-05-01",
@@ -134,15 +134,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 14:25:14-05",
-      "popularity": 5,
-      "group_popularity": 5,
+      "popularity": 6,
+      "group_popularity": 6,
       "notes": "OECD descriptor ID: WSCNDW01 OECD unit ID: STSA OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
     },
     "Israel": {
       "id": "ISRWSCNDW01IXOBSAM",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-03-01",

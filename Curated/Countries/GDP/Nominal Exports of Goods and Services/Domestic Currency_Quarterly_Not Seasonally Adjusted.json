@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NXNSAXDCSAQ",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Nominal Exports of Goods and Services for Saudi Arabia",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NXXDCARA",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Nominal Exports of Goods and Services for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Brazil": {
     "id": "NXXDCBRA",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Nominal Exports of Goods and Services for Brazil",
     "observation_start": "1996-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Great Britain": {
     "id": "NXXDCGBA",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Nominal Exports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "India": {
     "id": "NXXDCINA",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "Nominal Exports of Goods and Services for India",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
