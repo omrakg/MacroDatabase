@@ -14,7 +14,7 @@
 | Bakersfield, CA                      |               246 |
 | El Centro, CA                        |               150 |
 | Stockton, CA                         |               240 |
-| Santa Cruz-Watsonville, CA           |                 0 |
+| Santa Cruz-Watsonville, CA           |               188 |
 | Merced, CA                           |               173 |
 | Yuba City, CA                        |               164 |
 | Napa, CA                             |               165 |

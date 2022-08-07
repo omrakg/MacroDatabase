@@ -35,8 +35,8 @@
 | LACR155INFON              | All Employees: Information in La Crosse-Onalaska, WI-MN (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | LACR155LEIH               | All Employees: Leisure and Hospitality in La Crosse-Onalaska, WI-MN (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | LACR155LEIHN              | All Employees: Leisure and Hospitality in La Crosse-Onalaska, WI-MN (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| LACR155LF                 | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| LACR155LFN                | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| LACR155LF                 | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| LACR155LFN                | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | LACR155MFG                | All Employees: Manufacturing in La Crosse-Onalaska, WI-MN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | LACR155MFGN               | All Employees: Manufacturing in La Crosse-Onalaska, WI-MN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | LACR155NA                 | All Employees: Total Nonfarm in La Crosse-Onalaska, WI-MN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -50,12 +50,12 @@
 | LACR155SRVON              | All Employees: Other Services in La Crosse-Onalaska, WI-MN (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | LACR155TRAD               | All Employees: Trade, Transportation, and Utilities in La Crosse-Onalaska, WI-MN (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | LACR155TRADN              | All Employees: Trade, Transportation, and Utilities in La Crosse-Onalaska, WI-MN (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| LACR155UR                 | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| LACR155URN                | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| LACR155UR                 | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| LACR155URN                | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | LAUMT552910000000003A     | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT552910000000004      | Unemployed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT552910000000004      | Unemployed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT552910000000004A     | Unemployed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT552910000000005      | Employed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT552910000000005      | Employed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT552910000000005A     | Employed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT552910000000006A     | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LCRPOP                    | Resident Population in La Crosse-Onalaska, WI-MN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

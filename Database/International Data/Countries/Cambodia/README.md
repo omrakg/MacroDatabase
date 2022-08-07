@@ -28,7 +28,7 @@
 | DDDI08KHA156NWDB    | Financial System Deposits to GDP for Cambodia                                                                                                   | 1993-01-01          | 2019-01-01        |
 | DDDI09KHA156NWDB    | Life Insurance Premium Volume to GDP for Cambodia                                                                                               | 2014-01-01          | 2019-01-01        |
 | DDDI10KHA156NWDB    | Non-Life Insurance Premium Volume to GDP for Cambodia                                                                                           | 1997-01-01          | 2019-01-01        |
-| DDDI11KHA156NWDB    | Insurance Company Assets to GDP for Cambodia                                                                                                    | 2005-01-01          | 2008-01-01        |
+| DDDI11KHA156NWDB    | Insurance Company Assets to GDP for Cambodia                                                                                                    | 2005-01-01          | 2007-01-01        |
 | DDDI12KHA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Cambodia                                                      | 1993-01-01          | 2019-01-01        |
 | DDDM09KHA156NWDB    | Gross Portfolio Equity Assets to GDP for Cambodia                                                                                               | 1999-01-01          | 2019-01-01        |
 | DDEI01KHA156NWDB    | Bank's Net Interest Margin for Cambodia                                                                                                         | 2003-01-01          | 2020-01-01        |
@@ -45,17 +45,17 @@
 | DDOI05KHA156NWDB    | Boone Indicator in Banking Market for Cambodia                                                                                                  | 2000-01-01          | 2014-01-01        |
 | DDOI06KHA156NWDB    | 5-Bank Asset Concentration for Cambodia                                                                                                         | 2003-01-01          | 2020-01-01        |
 | DDOI07KHA648NWDB    | Liquid Liabilities (Broad Money) for Cambodia                                                                                                   | 1993-01-01          | 2019-01-01        |
-| DDOI09KHA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Cambodia                                                                         | 2003-01-01          | 2013-01-01        |
+| DDOI09KHA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Cambodia                                                                         | 2018-01-01          | 2020-01-01        |
 | DDOI10KHA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Cambodia                                                   | 1995-01-01          | 2019-01-01        |
 | DDOI11KHA156NWDB    | Remittance Inflows to GDP for Cambodia                                                                                                          | 1993-01-01          | 2020-01-01        |
 | DDOI12KHA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Cambodia                                                                          | 1987-01-01          | 2019-01-01        |
 | DDOI13KHA156NWDB    | Percentage of Foreign Banks Among Total Banks for Cambodia                                                                                      | 1995-01-01          | 2013-01-01        |
-| DDOI14KHA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Cambodia                                                                          | 2004-01-01          | 2012-01-01        |
+| DDOI14KHA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Cambodia                                                                          | 2005-01-01          | 2012-01-01        |
 | DDSI01KHA645NWDB    | Bank Z-Score for Cambodia                                                                                                                       | 2003-01-01          | 2017-01-01        |
 | DDSI04KHA156NWDB    | Bank Credit to Bank Deposits for Cambodia                                                                                                       | 1993-01-01          | 2018-01-01        |
 | DDSI06KHA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Cambodia                                                                                   | 2002-01-01          | 2020-01-01        |
 | DEKHMA475SCEN       | Number of Identified Exporters to Cambodia from Delaware                                                                                        | 2009-01-01          | 2014-01-01        |
-| EXP5550             | U.S. Exports of Goods by F.A.S. Basis to Cambodia                                                                                               | 1992-01-01          | 2022-05-01        |
+| EXP5550             | U.S. Exports of Goods by F.A.S. Basis to Cambodia                                                                                               | 1992-01-01          | 2022-06-01        |
 | FLKHMA052SCEN       | Value of Exports to Cambodia from Florida                                                                                                       | 1997-01-01          | 2017-01-01        |
 | FLKHMA475SCEN       | Number of Identified Exporters to Cambodia from Florida                                                                                         | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGKHM      | Inflation, consumer prices for Cambodia                                                                                                         | 1995-01-01          | 2021-01-01        |
@@ -68,7 +68,7 @@
 | IDKHMA475SCEN       | Number of Identified Exporters to Cambodia from Idaho                                                                                           | 1997-01-01          | 2016-01-01        |
 | ILKHMA052SCEN       | Value of Exports to Cambodia from Illinois                                                                                                      | 1997-01-01          | 2017-01-01        |
 | ILKHMA475SCEN       | Number of Identified Exporters to Cambodia from Illinois                                                                                        | 1992-01-01          | 2017-01-01        |
-| IMP5550             | U.S. Imports of Goods by Customs Basis from Cambodia                                                                                            | 1992-01-01          | 2022-05-01        |
+| IMP5550             | U.S. Imports of Goods by Customs Basis from Cambodia                                                                                            | 1992-01-01          | 2022-06-01        |
 | INKHMA052SCEN       | Value of Exports to Cambodia from Indiana                                                                                                       | 2013-01-01          | 2017-01-01        |
 | INKHMA475SCEN       | Number of Identified Exporters to Cambodia from Indiana                                                                                         | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2KHM      | Internet users for Cambodia                                                                                                                     | 1990-01-01          | 2017-01-01        |

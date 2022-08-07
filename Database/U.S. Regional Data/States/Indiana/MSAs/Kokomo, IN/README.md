@@ -28,8 +28,8 @@
 | KOKO018INFON              | All Employees: Information in Kokomo, IN (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | KOKO018LEIH               | All Employees: Leisure and Hospitality in Kokomo, IN (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | KOKO018LEIHN              | All Employees: Leisure and Hospitality in Kokomo, IN (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| KOKO018LF                 | Civilian Labor Force in Kokomo, IN (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| KOKO018LFN                | Civilian Labor Force in Kokomo, IN (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| KOKO018LF                 | Civilian Labor Force in Kokomo, IN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| KOKO018LFN                | Civilian Labor Force in Kokomo, IN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | KOKO018MFG                | All Employees: Manufacturing in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | KOKO018MFGN               | All Employees: Manufacturing in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | KOKO018NA                 | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -41,13 +41,13 @@
 | KOKO018SRVON              | All Employees: Other Services in Kokomo, IN (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | KOKO018TRAD               | All Employees: Trade, Transportation, and Utilities in Kokomo, IN (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | KOKO018TRADN              | All Employees: Trade, Transportation, and Utilities in Kokomo, IN (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| KOKO018UR                 | Unemployment Rate in Kokomo, IN (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| KOKO018URN                | Unemployment Rate in Kokomo, IN (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| KOKO018UR                 | Unemployment Rate in Kokomo, IN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| KOKO018URN                | Unemployment Rate in Kokomo, IN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | KOKPOP                    | Resident Population in Kokomo, IN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT182902000000003A     | Unemployment Rate in Kokomo, IN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT182902000000004      | Unemployed Persons in Kokomo, IN (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT182902000000004      | Unemployed Persons in Kokomo, IN (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT182902000000004A     | Unemployed Persons in Kokomo, IN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT182902000000005      | Employed Persons in Kokomo, IN (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT182902000000005      | Employed Persons in Kokomo, IN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT182902000000005A     | Employed Persons in Kokomo, IN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT182902000000006A     | Civilian Labor Force in Kokomo, IN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR29020          | Housing Inventory: Median Days on Market in Kokomo, IN (CBSA)                                               | 2016-07-01          | 2022-06-01        |

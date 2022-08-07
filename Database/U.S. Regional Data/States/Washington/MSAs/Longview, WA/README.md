@@ -21,9 +21,9 @@
 | ENUC310240510SA           | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD31020                 | Implicit Regional Price Deflator for Longview, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT533102000000003A     | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT533102000000004      | Unemployed Persons in Longview, WA (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT533102000000004      | Unemployed Persons in Longview, WA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT533102000000004A     | Unemployed Persons in Longview, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT533102000000005      | Employed Persons in Longview, WA (MSA)                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT533102000000005      | Employed Persons in Longview, WA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT533102000000005A     | Employed Persons in Longview, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT533102000000006A     | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LGKPOP                    | Resident Population in Longview, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
@@ -33,8 +33,8 @@
 | LONG053GOVTN              | All Employees: Government in Longview, WA (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | LONG053LEIH               | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | LONG053LEIHN              | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2022-06-01        |
-| LONG053LF                 | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-05-01        |
-| LONG053LFN                | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| LONG053LF                 | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| LONG053LFN                | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | LONG053MFG                | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | LONG053MFGN               | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | LONG053NA                 | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-01-01          | 2022-06-01        |
@@ -44,8 +44,8 @@
 | LONG053PCPI               | Per Capita Personal Income in Longview, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | LONG053TRAD               | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2022-06-01        |
 | LONG053TRADN              | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2022-06-01        |
-| LONG053UR                 | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| LONG053URN                | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| LONG053UR                 | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| LONG053URN                | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | MEDDAYONMAR31020          | Housing Inventory: Median Days on Market in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-06-01        |
 | MEDDAYONMARMM31020        | Housing Inventory: Median Days on Market Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-06-01        |
 | MEDDAYONMARYY31020        | Housing Inventory: Median Days on Market Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-06-01        |

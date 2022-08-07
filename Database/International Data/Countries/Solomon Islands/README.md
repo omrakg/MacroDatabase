@@ -19,7 +19,7 @@
 | DDDI08SBA156NWDB  | Financial System Deposits to GDP for Solomon Islands                                                                                    | 1978-01-01          | 2020-01-01        |
 | DDDI12SBA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Solomon Islands                                       | 1977-01-01          | 2020-01-01        |
 | DDEI01SBA156NWDB  | Bank's Net Interest Margin for Solomon Islands                                                                                          | 2004-01-01          | 2006-01-01        |
-| DDEI02SBA156NWDB  | Bank Lending Deposit Spread for Solomon Islands                                                                                         | 1981-01-01          | 2016-01-01        |
+| DDEI02SBA156NWDB  | Bank Lending Deposit Spread for Solomon Islands                                                                                         | 2010-01-01          | 2018-01-01        |
 | DDEI03SBA156NWDB  | Bank's Non-Interest Income to Total Income for Solomon Islands                                                                          | 2003-01-01          | 2006-01-01        |
 | DDEI04SBA156NWDB  | Bank's Overhead Costs to Total Assets for Solomon Islands                                                                               | 2004-01-01          | 2006-01-01        |
 | DDEI05SBA156NWDB  | Bank's Return on Assets for Solomon Islands                                                                                             | 2004-01-01          | 2006-01-01        |
@@ -36,7 +36,7 @@
 | DDOI12SBA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Solomon Islands                                                           | 1983-01-01          | 2016-01-01        |
 | DDSI04SBA156NWDB  | Bank Credit to Bank Deposits for Solomon Islands                                                                                        | 1978-01-01          | 2020-01-01        |
 | DDSI06SBA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Solomon Islands                                                                    | 2003-01-01          | 2006-01-01        |
-| EXP6223           | U.S. Exports of Goods by F.A.S. Basis to Solomon Islands                                                                                | 1992-01-01          | 2022-05-01        |
+| EXP6223           | U.S. Exports of Goods by F.A.S. Basis to Solomon Islands                                                                                | 1992-01-01          | 2022-06-01        |
 | FLSLBA052SCEN     | Value of Exports to Solomon Islands from Florida                                                                                        | 2004-01-01          | 2017-01-01        |
 | FLSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Florida                                                                          | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGSLB    | Inflation, consumer prices for the Solomon Islands                                                                                      | 1972-01-01          | 2021-01-01        |
@@ -47,7 +47,7 @@
 | IDSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Idaho                                                                            | 2008-01-01          | 2013-01-01        |
 | ILSLBA052SCEN     | Value of Exports to Solomon Islands from Illinois                                                                                       | 2011-01-01          | 2013-01-01        |
 | ILSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Illinois                                                                         | 1997-01-01          | 2016-01-01        |
-| IMP6223           | U.S. Imports of Goods by Customs Basis from Solomon Islands                                                                             | 1992-01-01          | 2022-05-01        |
+| IMP6223           | U.S. Imports of Goods by Customs Basis from Solomon Islands                                                                             | 1992-01-01          | 2022-06-01        |
 | INSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Indiana                                                                          | 2006-01-01          | 2014-01-01        |
 | ITNETUSERP2SLB    | Internet users for the Solomon Islands                                                                                                  | 1990-01-01          | 2017-01-01        |
 | KSSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Kansas                                                                           | 2011-01-01          | 2013-01-01        |

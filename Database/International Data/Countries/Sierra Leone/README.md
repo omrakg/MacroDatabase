@@ -33,7 +33,7 @@
 | DDDI09SLA156NWDB    | Life Insurance Premium Volume to GDP for Sierra Leone                                                                         | 2003-01-01          | 2016-01-01        |
 | DDDI10SLA156NWDB    | Non-Life Insurance Premium Volume to GDP for Sierra Leone                                                                     | 2003-01-01          | 2015-01-01        |
 | DDDI12SLA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Sierra Leone                                | 1960-01-01          | 2020-01-01        |
-| DDDM10SLA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Sierra Leone                                                                      | 2008-01-01          | 2013-01-01        |
+| DDDM10SLA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Sierra Leone                                                                      | 2008-01-01          | 2011-01-01        |
 | DDEI01SLA156NWDB    | Bank's Net Interest Margin for Sierra Leone                                                                                   | 2000-01-01          | 2017-01-01        |
 | DDEI02SLA156NWDB    | Bank Lending Deposit Spread for Sierra Leone                                                                                  | 1980-01-01          | 2019-01-01        |
 | DDEI03SLA156NWDB    | Bank's Non-Interest Income to Total Income for Sierra Leone                                                                   | 2000-01-01          | 2017-01-01        |
@@ -64,7 +64,7 @@
 | DEBTTLSLA188A       | Central government debt, total (% of GDP) for Sierra Leone                                                                    | 1990-01-01          | 1999-01-01        |
 | DESLEA052SCEN       | Value of Exports to Sierra Leone from Delaware                                                                                | 2010-01-01          | 2013-01-01        |
 | DESLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Delaware                                                                  | 2002-01-01          | 2016-01-01        |
-| EXP7470             | U.S. Exports of Goods by F.A.S. Basis to Sierra Leone                                                                         | 1992-01-01          | 2022-05-01        |
+| EXP7470             | U.S. Exports of Goods by F.A.S. Basis to Sierra Leone                                                                         | 1992-01-01          | 2022-06-01        |
 | FLSLEA052SCEN       | Value of Exports to Sierra Leone from Florida                                                                                 | 1992-01-01          | 2017-01-01        |
 | FLSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Florida                                                                   | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSLE      | Inflation, consumer prices for Sierra Leone                                                                                   | 2007-01-01          | 2021-01-01        |
@@ -77,7 +77,7 @@
 | IDSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Idaho                                                                     | 1997-01-01          | 2014-01-01        |
 | ILSLEA052SCEN       | Value of Exports to Sierra Leone from Illinois                                                                                | 1992-01-01          | 2017-01-01        |
 | ILSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Illinois                                                                  | 1992-01-01          | 2017-01-01        |
-| IMP7470             | U.S. Imports of Goods by Customs Basis from Sierra Leone                                                                      | 1992-01-01          | 2022-05-01        |
+| IMP7470             | U.S. Imports of Goods by Customs Basis from Sierra Leone                                                                      | 1992-01-01          | 2022-06-01        |
 | INSLEA052SCEN       | Value of Exports to Sierra Leone from Indiana                                                                                 | 2002-01-01          | 2017-01-01        |
 | INSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Indiana                                                                   | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2SLE      | Internet users for Sierra Leone                                                                                               | 1990-01-01          | 2020-01-01        |

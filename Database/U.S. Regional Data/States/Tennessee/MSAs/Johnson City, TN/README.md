@@ -40,8 +40,8 @@
 | JOHN747INFON              | All Employees: Information in Johnson City, TN (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | JOHN747LEIH               | All Employees: Leisure and Hospitality in Johnson City, TN (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | JOHN747LEIHN              | All Employees: Leisure and Hospitality in Johnson City, TN (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| JOHN747LF                 | Civilian Labor Force in Johnson City, TN (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| JOHN747LFN                | Civilian Labor Force in Johnson City, TN (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| JOHN747LF                 | Civilian Labor Force in Johnson City, TN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| JOHN747LFN                | Civilian Labor Force in Johnson City, TN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | JOHN747MFG                | All Employees: Manufacturing in Johnson City, TN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | JOHN747MFGN               | All Employees: Manufacturing in Johnson City, TN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | JOHN747NA                 | All Employees: Total Nonfarm in Johnson City, TN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -55,12 +55,12 @@
 | JOHN747SRVON              | All Employees: Other Services in Johnson City, TN (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | JOHN747TRAD               | All Employees: Trade, Transportation, and Utilities in Johnson City, TN (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | JOHN747TRADN              | All Employees: Trade, Transportation, and Utilities in Johnson City, TN (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| JOHN747UR                 | Unemployment Rate in Johnson City, TN (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| JOHN747URN                | Unemployment Rate in Johnson City, TN (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| JOHN747UR                 | Unemployment Rate in Johnson City, TN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| JOHN747URN                | Unemployment Rate in Johnson City, TN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | LAUMT472774000000003A     | Unemployment Rate in Johnson City, TN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT472774000000004      | Unemployed Persons in Johnson City, TN (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT472774000000004      | Unemployed Persons in Johnson City, TN (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT472774000000004A     | Unemployed Persons in Johnson City, TN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT472774000000005      | Employed Persons in Johnson City, TN (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT472774000000005      | Employed Persons in Johnson City, TN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT472774000000005A     | Employed Persons in Johnson City, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT472774000000006A     | Civilian Labor Force in Johnson City, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA27740          | Market Hotness: Listing Views per Property in Johnson City, TN (CBSA)                                             | 2018-08-01          | 2022-06-01        |

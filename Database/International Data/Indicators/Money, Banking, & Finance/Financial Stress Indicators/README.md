@@ -22,5 +22,5 @@
 | TOTDTEITA163N | Total Debt to Equity for Italy                                      | 2005-01-01          | 2021-01-01        |
 | TOTDTEITQ163N | Total Debt to Equity for Italy                                      | 2005-04-01          | 2021-10-01        |
 | TOTDTEKRA163N | Total Debt to Equity for Republic of Korea                          | 2005-01-01          | 2020-01-01        |
-| TOTDTEPLQ163N | Total Debt to Equity for Poland                                     | 2008-10-01          | 2021-07-01        |
+| TOTDTEPLQ163N | Total Debt to Equity for Poland                                     | 2008-10-01          | 2022-01-01        |
 | TOTDTEUSQ163N | Total Debt to Equity for United States                              | 2005-01-01          | 2021-10-01        |

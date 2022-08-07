@@ -1,6 +1,6 @@
 | id       | title                 | observation_start   | observation_end   |
 |----------|-----------------------|---------------------|-------------------|
-| CBBCHUSD | Coinbase Bitcoin Cash | 2017-12-20          | 2022-07-30        |
-| CBBTCUSD | Coinbase Bitcoin      | 2014-12-01          | 2022-07-30        |
-| CBETHUSD | Coinbase Ethereum     | 2016-05-18          | 2022-07-30        |
-| CBLTCUSD | Coinbase Litecoin     | 2016-08-17          | 2022-07-30        |
+| CBBCHUSD | Coinbase Bitcoin Cash | 2017-12-20          | 2022-08-06        |
+| CBBTCUSD | Coinbase Bitcoin      | 2014-12-01          | 2022-08-06        |
+| CBETHUSD | Coinbase Ethereum     | 2016-05-18          | 2022-08-06        |
+| CBLTCUSD | Coinbase Litecoin     | 2016-08-17          | 2022-08-06        |

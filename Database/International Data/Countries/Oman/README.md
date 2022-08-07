@@ -36,23 +36,23 @@
 | DDDM01OMA156NWDB     | Stock Market Capitalization to GDP for Oman                                                                                               | 1993-01-01          | 2019-01-01        |
 | DDDM02OMA156NWDB     | Stock Market Total Value Traded to GDP for Oman                                                                                           | 1993-01-01          | 2019-01-01        |
 | DDDM07OMA156NWDB     | Outstanding Total International Debt Securities to GDP for Oman                                                                           | 1993-01-01          | 2019-01-01        |
-| DDEI01OMA156NWDB     | Bank's Net Interest Margin for Oman                                                                                                       | 1996-01-01          | 2017-01-01        |
+| DDEI01OMA156NWDB     | Bank's Net Interest Margin for Oman                                                                                                       | 2000-01-01          | 2020-01-01        |
 | DDEI02OMA156NWDB     | Bank Lending Deposit Spread for Oman                                                                                                      | 1984-01-01          | 2017-01-01        |
-| DDEI03OMA156NWDB     | Bank's Non-Interest Income to Total Income for Oman                                                                                       | 1996-01-01          | 2017-01-01        |
-| DDEI04OMA156NWDB     | Bank's Overhead Costs to Total Assets for Oman                                                                                            | 1996-01-01          | 2017-01-01        |
-| DDEI05OMA156NWDB     | Bank's Return on Assets for Oman                                                                                                          | 1996-01-01          | 2017-01-01        |
-| DDEI06OMA156NWDB     | Bank's Return on Equity for Oman                                                                                                          | 1996-01-01          | 2017-01-01        |
-| DDEI07OMA156NWDB     | Bank's Cost to Income Ratio for Oman                                                                                                      | 1996-01-01          | 2017-01-01        |
+| DDEI03OMA156NWDB     | Bank's Non-Interest Income to Total Income for Oman                                                                                       | 2000-01-01          | 2020-01-01        |
+| DDEI04OMA156NWDB     | Bank's Overhead Costs to Total Assets for Oman                                                                                            | 2000-01-01          | 2020-01-01        |
+| DDEI05OMA156NWDB     | Bank's Return on Assets for Oman                                                                                                          | 2000-01-01          | 2020-01-01        |
+| DDEI06OMA156NWDB     | Bank's Return on Equity for Oman                                                                                                          | 2000-01-01          | 2020-01-01        |
+| DDEI07OMA156NWDB     | Bank's Cost to Income Ratio for Oman                                                                                                      | 2000-01-01          | 2020-01-01        |
 | DDEI08OMA156NWDB     | Credit to Government and State-Owned Enterprises to GDP for Oman                                                                          | 1980-01-01          | 2019-01-01        |
 | DDEM01OMA156NWDB     | Stock Market Turnover Ratio (Value Traded/Capitalization) for Oman                                                                        | 1993-01-01          | 2019-01-01        |
 | DDOE01OMA086NWDB     | Consumer Price Index for Oman                                                                                                             | 2000-01-01          | 2017-01-01        |
 | DDOE02OMA086NWDB     | Consumer Price Index for Oman                                                                                                             | 2000-01-01          | 2017-01-01        |
-| DDOI01OMA156NWDB     | Bank Concentration for Oman                                                                                                               | 1996-01-01          | 2017-01-01        |
+| DDOI01OMA156NWDB     | Bank Concentration for Oman                                                                                                               | 2000-01-01          | 2020-01-01        |
 | DDOI02OMA156NWDB     | Bank Deposits to GDP for Oman                                                                                                             | 1972-01-01          | 2019-01-01        |
 | DDOI03OMA066NWDB     | H-Statistic in Banking Market for Oman                                                                                                    | 2010-01-01          | 2014-01-01        |
 | DDOI04OMA066NWDB     | Lerner Index in Banking Market for Oman                                                                                                   | 1996-01-01          | 2011-01-01        |
 | DDOI05OMA156NWDB     | Boone Indicator in Banking Market for Oman                                                                                                | 1999-01-01          | 2014-01-01        |
-| DDOI06OMA156NWDB     | 5-Bank Asset Concentration for Oman                                                                                                       | 1996-01-01          | 2017-01-01        |
+| DDOI06OMA156NWDB     | 5-Bank Asset Concentration for Oman                                                                                                       | 2000-01-01          | 2020-01-01        |
 | DDOI07OMA648NWDB     | Liquid Liabilities (Broad Money) for Oman                                                                                                 | 1972-01-01          | 2019-01-01        |
 | DDOI08OMA156NWDB     | Loans from Non-Resident Banks, Net, to GDP for Oman                                                                                       | 1973-01-01          | 2019-01-01        |
 | DDOI09OMA156NWDB     | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Oman                                                                       | 1973-01-01          | 2019-01-01        |
@@ -62,18 +62,18 @@
 | DDOI13OMA156NWDB     | Percentage of Foreign Banks Among Total Banks for Oman                                                                                    | 1995-01-01          | 2013-01-01        |
 | DDOI14OMA156NWDB     | Percentage of Foreign Bank Assets Among Total Bank Assets for Oman                                                                        | 2012-01-01          | 2013-01-01        |
 | DDOM01OMA644NWDB     | Number of Listed Companies for Oman                                                                                                       | 1993-01-01          | 2020-01-01        |
-| DDSI01OMA645NWDB     | Bank Z-Score for Oman                                                                                                                     | 1996-01-01          | 2017-01-01        |
+| DDSI01OMA645NWDB     | Bank Z-Score for Oman                                                                                                                     | 2000-01-01          | 2020-01-01        |
 | DDSI02OMA156NWDB     | Bank Non-Performing Loans to Gross Loans for Oman                                                                                         | 1998-01-01          | 2015-01-01        |
 | DDSI03OMA156NWDB     | Bank Capital to Total Assets for Oman                                                                                                     | 1999-01-01          | 2015-01-01        |
 | DDSI04OMA156NWDB     | Bank Credit to Bank Deposits for Oman                                                                                                     | 1972-01-01          | 2019-01-01        |
 | DDSI05OMA156NWDB     | Bank Regulatory Capital to Risk-Weighted Assets for Oman                                                                                  | 1999-01-01          | 2015-01-01        |
-| DDSI06OMA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Oman                                                                                 | 1996-01-01          | 2017-01-01        |
+| DDSI06OMA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Oman                                                                                 | 2000-01-01          | 2020-01-01        |
 | DDSI07OMA156NWDB     | Provisions to Non-Performing Loans for Oman                                                                                               | 1998-01-01          | 2015-01-01        |
 | DDSM01OMA066NWDB     | Volatility of Stock Price Index for Oman                                                                                                  | 1992-01-01          | 2020-01-01        |
 | DEBTTLOMA188A        | Central government debt, total (% of GDP) for Oman                                                                                        | 1990-01-01          | 2013-01-01        |
 | DEOMNA052SCEN        | Value of Exports to Oman from Delaware                                                                                                    | 1997-01-01          | 2017-01-01        |
 | DEOMNA475SCEN        | Number of Identified Exporters to Oman from Delaware                                                                                      | 1992-01-01          | 2017-01-01        |
-| EXP5230              | U.S. Exports of Goods by F.A.S. Basis to Oman                                                                                             | 1992-01-01          | 2022-05-01        |
+| EXP5230              | U.S. Exports of Goods by F.A.S. Basis to Oman                                                                                             | 1992-01-01          | 2022-06-01        |
 | FLOMNA052SCEN        | Value of Exports to Oman from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLOMNA475SCEN        | Number of Identified Exporters to Oman from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGOMN       | Inflation, consumer prices for Oman                                                                                                       | 2001-01-01          | 2021-01-01        |
@@ -96,7 +96,7 @@
 | IDSGAMRINIOM         | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Oman         | 1973-10-01          | 2022-01-01        |
 | ILOMNA052SCEN        | Value of Exports to Oman from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILOMNA475SCEN        | Number of Identified Exporters to Oman from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP5230              | U.S. Imports of Goods by Customs Basis from Oman                                                                                          | 1992-01-01          | 2022-05-01        |
+| IMP5230              | U.S. Imports of Goods by Customs Basis from Oman                                                                                          | 1992-01-01          | 2022-06-01        |
 | INOMNA052SCEN        | Value of Exports to Oman from Indiana                                                                                                     | 1992-01-01          | 2017-01-01        |
 | INOMNA475SCEN        | Number of Identified Exporters to Oman from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2OMN       | Internet users for Oman                                                                                                                   | 1990-01-01          | 2020-01-01        |

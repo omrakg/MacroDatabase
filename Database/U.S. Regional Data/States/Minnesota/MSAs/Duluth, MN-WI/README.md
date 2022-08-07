@@ -19,8 +19,8 @@
 | DULU227INFON              | All Employees: Information in Duluth, MN-WI (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | DULU227LEIH               | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | DULU227LEIHN              | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| DULU227LF                 | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| DULU227LFN                | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| DULU227LF                 | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| DULU227LFN                | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | DULU227MFG                | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | DULU227MFGN               | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | DULU227NA                 | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -34,8 +34,8 @@
 | DULU227SRVON              | All Employees: Other Services in Duluth, MN-WI (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | DULU227TRAD               | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | DULU227TRADN              | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| DULU227UR                 | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| DULU227URN                | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| DULU227UR                 | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| DULU227URN                | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | ENUC202630010             | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC202630010SA           | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC202640010             | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA20260              | Market Hotness: Hotness Score in Duluth, MN-WI (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD20260                 | Implicit Regional Price Deflator for Duluth, MN-WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT272026000000003A     | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT272026000000004      | Unemployed Persons in Duluth, MN-WI (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT272026000000004      | Unemployed Persons in Duluth, MN-WI (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT272026000000004A     | Unemployed Persons in Duluth, MN-WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT272026000000005      | Employed Persons in Duluth, MN-WI (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT272026000000005      | Employed Persons in Duluth, MN-WI (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT272026000000005A     | Employed Persons in Duluth, MN-WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT272026000000006A     | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA20260          | Market Hotness: Listing Views per Property in Duluth, MN-WI (CBSA)                                             | 2018-08-01          | 2022-06-01        |

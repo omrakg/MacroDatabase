@@ -13,7 +13,7 @@
 | Red River Parish, LA            |                89 |
 | East Feliciana Parish, LA       |                90 |
 | Livingston Parish, LA           |               147 |
-| St. Charles Parish, LA          |                 0 |
+| St. Charles Parish, LA          |               145 |
 | Jefferson Parish, LA            |               147 |
 | Concordia Parish, LA            |                90 |
 | Grant Parish, LA                |                90 |
@@ -41,7 +41,7 @@
 | St. Landry Parish, LA           |               146 |
 | Beauregard Parish, LA           |                89 |
 | St. Mary Parish, LA             |               144 |
-| Webster Parish, LA              |                90 |
+| Webster Parish, LA              |                 0 |
 | Bienville Parish, LA            |                88 |
 | Plaquemines Parish, LA          |                89 |
 | Washington Parish, LA           |                90 |

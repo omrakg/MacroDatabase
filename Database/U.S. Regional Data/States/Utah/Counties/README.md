@@ -3,7 +3,7 @@
 | Davis County, UT      |               147 |
 | Salt Lake County, UT  |               147 |
 | Morgan County, UT     |                90 |
-| Sevier County, UT     |                 0 |
+| Sevier County, UT     |                89 |
 | Piute County, UT      |                88 |
 | Weber County, UT      |               147 |
 | Millard County, UT    |                89 |

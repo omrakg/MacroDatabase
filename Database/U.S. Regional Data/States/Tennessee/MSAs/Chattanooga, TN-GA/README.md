@@ -17,8 +17,8 @@
 | CHAT847INFON              | All Employees: Information in Chattanooga, TN-GA (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | CHAT847LEIH               | All Employees: Leisure and Hospitality in Chattanooga, TN-GA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | CHAT847LEIHN              | All Employees: Leisure and Hospitality in Chattanooga, TN-GA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| CHAT847LF                 | Civilian Labor Force in Chattanooga, TN-GA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| CHAT847LFN                | Civilian Labor Force in Chattanooga, TN-GA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| CHAT847LF                 | Civilian Labor Force in Chattanooga, TN-GA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| CHAT847LFN                | Civilian Labor Force in Chattanooga, TN-GA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | CHAT847MFG                | All Employees: Manufacturing in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | CHAT847MFGN               | All Employees: Manufacturing in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | CHAT847NA                 | All Employees: Total Nonfarm in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -32,8 +32,8 @@
 | CHAT847SRVON              | All Employees: Other Services in Chattanooga, TN-GA (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | CHAT847TRAD               | All Employees: Trade, Transportation, and Utilities in Chattanooga, TN-GA (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | CHAT847TRADN              | All Employees: Trade, Transportation, and Utilities in Chattanooga, TN-GA (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| CHAT847UR                 | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| CHAT847URN                | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| CHAT847UR                 | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| CHAT847URN                | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | CHTPOP                    | Resident Population in Chattanooga, TN-GA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16860              | Market Hotness: Demand Score in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC168630010             | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
@@ -52,12 +52,12 @@
 | HORAMSA16860              | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA16860            | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA16860              | Market Hotness: Hotness Score in Chattanooga, TN-GA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG16860               | Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                  | 2020-02-01          | 2022-07-22        |
+| IHLCHG16860               | Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
 | IRPD16860                 | Implicit Regional Price Deflator for Chattanooga, TN-GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT471686000000003A     | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT471686000000004      | Unemployed Persons in Chattanooga, TN-GA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT471686000000004      | Unemployed Persons in Chattanooga, TN-GA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT471686000000004A     | Unemployed Persons in Chattanooga, TN-GA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT471686000000005      | Employed Persons in Chattanooga, TN-GA (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT471686000000005      | Employed Persons in Chattanooga, TN-GA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT471686000000005A     | Employed Persons in Chattanooga, TN-GA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT471686000000006A     | Civilian Labor Force in Chattanooga, TN-GA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA16860          | Market Hotness: Listing Views per Property in Chattanooga, TN-GA (CBSA)                                             | 2018-08-01          | 2022-06-01        |

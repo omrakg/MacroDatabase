@@ -15,7 +15,7 @@
 | Jasper County, GA        |                90 |
 | Madison County, GA       |                90 |
 | Jenkins County, GA       |                87 |
-| Baldwin County, GA       |                90 |
+| Baldwin County, GA       |                 0 |
 | Decatur County, GA       |                89 |
 | Heard County, GA         |                90 |
 | Stewart County, GA       |                87 |
@@ -51,7 +51,7 @@
 | Columbia County, GA      |               146 |
 | Fayette County, GA       |               147 |
 | Echols County, GA        |                88 |
-| Glascock County, GA      |                 0 |
+| Glascock County, GA      |                87 |
 | Oconee County, GA        |                90 |
 | McDuffie County, GA      |                90 |
 | Clinch County, GA        |                87 |
@@ -111,7 +111,7 @@
 | Elbert County, GA        |                89 |
 | Screven County, GA       |                89 |
 | Liberty County, GA       |               146 |
-| Bleckley County, GA      |                 0 |
+| Bleckley County, GA      |                89 |
 | Forsyth County, GA       |               147 |
 | Douglas County, GA       |               147 |
 | Turner County, GA        |                90 |
@@ -121,7 +121,7 @@
 | Atkinson County, GA      |                88 |
 | Walton County, GA        |               147 |
 | Hart County, GA          |                89 |
-| Clay County, GA          |                87 |
+| Clay County, GA          |                 0 |
 | Dodge County, GA         |                90 |
 | De Kalb County, GA       |               147 |
 | Jeff Davis County, GA    |                90 |

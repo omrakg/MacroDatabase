@@ -16,8 +16,8 @@
 | CARS132GOVTN              | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2022-06-01        |
 | CARS132LEIH               | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-06-01        |
 | CARS132LEIHN              | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-06-01        |
-| CARS132LF                 | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| CARS132LFN                | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| CARS132LF                 | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| CARS132LFN                | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | CARS132MFG                | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | CARS132MFGN               | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | CARS132NA                 | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-06-01        |
@@ -27,8 +27,8 @@
 | CARS132PCPI               | Per Capita Personal Income in Carson City, NV (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | CARS132TRAD               | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-06-01        |
 | CARS132TRADN              | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-06-01        |
-| CARS132UR                 | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-05-01        |
-| CARS132URN                | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-05-01        |
+| CARS132UR                 | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-06-01        |
+| CARS132URN                | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | ENUC161830010             | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC161830010SA           | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC161840010             | Average Weekly Wages for Employees in Total Covered Establishments in Carson City, NV (MSA)           | 1990-01-01          | 2021-10-01        |
@@ -43,9 +43,9 @@
 | ENUC161840510SA           | Average Weekly Wages for Employees in Private Establishments in Carson City, NV (MSA)                 | 1990-01-01          | 2021-10-01        |
 | IRPD16180                 | Implicit Regional Price Deflator for Carson City, NV (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT321618000000003A     | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LAUMT321618000000004      | Unemployed Persons in Carson City, NV (MSA)                                                           | 1990-01-01          | 2022-05-01        |
+| LAUMT321618000000004      | Unemployed Persons in Carson City, NV (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | LAUMT321618000000004A     | Unemployed Persons in Carson City, NV (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT321618000000005      | Employed Persons in Carson City, NV (MSA)                                                             | 1990-01-01          | 2022-05-01        |
+| LAUMT321618000000005      | Employed Persons in Carson City, NV (MSA)                                                             | 1990-01-01          | 2022-06-01        |
 | LAUMT321618000000005A     | Employed Persons in Carson City, NV (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT321618000000006A     | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR16180          | Housing Inventory: Median Days on Market in Carson City, NV (CBSA)                                    | 2016-07-01          | 2022-06-01        |

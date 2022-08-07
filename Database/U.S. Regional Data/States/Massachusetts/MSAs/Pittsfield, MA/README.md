@@ -1,9 +1,9 @@
 | id                     | title                                                                             | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------|---------------------|-------------------|
 | LAUMT257660000000003A  | Unemployment Rate in Pittsfield, MA (NECTA)                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT257660000000004   | Unemployed Persons in Pittsfield, MA (NECTA)                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT257660000000004   | Unemployed Persons in Pittsfield, MA (NECTA)                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT257660000000004A  | Unemployed Persons in Pittsfield, MA (NECTA)                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT257660000000005   | Employed Persons in Pittsfield, MA (NECTA)                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT257660000000005   | Employed Persons in Pittsfield, MA (NECTA)                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT257660000000005A  | Employed Persons in Pittsfield, MA (NECTA)                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT257660000000006A  | Civilian Labor Force in Pittsfield, MA (NECTA)                                    | 1990-01-01          | 2021-01-01        |
 | PITT625EDUH            | All Employees: Education and Health Services in Pittsfield, MA (NECTA)            | 1990-01-01          | 2022-06-01        |
@@ -16,8 +16,8 @@
 | PITT625INFON           | All Employees: Information in Pittsfield, MA (NECTA)                              | 1990-01-01          | 2022-06-01        |
 | PITT625LEIH            | All Employees: Leisure and Hospitality in Pittsfield, MA (NECTA)                  | 1990-01-01          | 2022-06-01        |
 | PITT625LEIHN           | All Employees: Leisure and Hospitality in Pittsfield, MA (NECTA)                  | 1990-01-01          | 2022-06-01        |
-| PITT625LF              | Civilian Labor Force in Pittsfield, MA (NECTA)                                    | 1990-01-01          | 2022-05-01        |
-| PITT625LFN             | Civilian Labor Force in Pittsfield, MA (NECTA)                                    | 1990-01-01          | 2022-05-01        |
+| PITT625LF              | Civilian Labor Force in Pittsfield, MA (NECTA)                                    | 1990-01-01          | 2022-06-01        |
+| PITT625LFN             | Civilian Labor Force in Pittsfield, MA (NECTA)                                    | 1990-01-01          | 2022-06-01        |
 | PITT625MFG             | All Employees: Manufacturing in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-06-01        |
 | PITT625MFGN            | All Employees: Manufacturing in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-06-01        |
 | PITT625NA              | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2022-06-01        |
@@ -31,8 +31,8 @@
 | PITT625SRVON           | All Employees: Other Services in Pittsfield, MA (NECTA)                           | 1990-01-01          | 2022-06-01        |
 | PITT625TRAD            | All Employees: Trade, Transportation, and Utilities in Pittsfield, MA (NECTA)     | 1990-01-01          | 2022-06-01        |
 | PITT625TRADN           | All Employees: Trade, Transportation, and Utilities in Pittsfield, MA (NECTA)     | 1990-01-01          | 2022-06-01        |
-| PITT625UR              | Unemployment Rate in Pittsfield, MA (NECTA)                                       | 1990-01-01          | 2022-05-01        |
-| PITT625URN             | Unemployment Rate in Pittsfield, MA (NECTA)                                       | 1990-01-01          | 2022-05-01        |
+| PITT625UR              | Unemployment Rate in Pittsfield, MA (NECTA)                                       | 1990-01-01          | 2022-06-01        |
+| PITT625URN             | Unemployment Rate in Pittsfield, MA (NECTA)                                       | 1990-01-01          | 2022-06-01        |
 | SMS25766000000000001   | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2018-02-01        |
 | SMS25766000000000026   | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-04-01          | 2022-06-01        |
 | SMU25766000000000001A  | All Employees: Total Nonfarm in Pittsfield, MA (NECTA)                            | 1990-01-01          | 2021-01-01        |

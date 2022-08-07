@@ -26,9 +26,9 @@
 | HOSCMSA46220              | Market Hotness: Hotness Score in Tuscaloosa, AL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD46220                 | Implicit Regional Price Deflator for Tuscaloosa, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT014622000000003A     | Unemployment Rate in Tuscaloosa, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT014622000000004      | Unemployed Persons in Tuscaloosa, AL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT014622000000004      | Unemployed Persons in Tuscaloosa, AL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT014622000000004A     | Unemployed Persons in Tuscaloosa, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT014622000000005      | Employed Persons in Tuscaloosa, AL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT014622000000005      | Employed Persons in Tuscaloosa, AL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT014622000000005A     | Employed Persons in Tuscaloosa, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT014622000000006A     | Civilian Labor Force in Tuscaloosa, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA46220          | Market Hotness: Listing Views per Property in Tuscaloosa, AL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -135,8 +135,8 @@
 | TUSC201INFON              | All Employees: Information in Tuscaloosa, AL (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | TUSC201LEIH               | All Employees: Leisure and Hospitality in Tuscaloosa, AL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | TUSC201LEIHN              | All Employees: Leisure and Hospitality in Tuscaloosa, AL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| TUSC201LF                 | Civilian Labor Force in Tuscaloosa, AL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| TUSC201LFN                | Civilian Labor Force in Tuscaloosa, AL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| TUSC201LF                 | Civilian Labor Force in Tuscaloosa, AL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| TUSC201LFN                | Civilian Labor Force in Tuscaloosa, AL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | TUSC201MFG                | All Employees: Manufacturing in Tuscaloosa, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | TUSC201MFGN               | All Employees: Manufacturing in Tuscaloosa, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | TUSC201NA                 | All Employees: Total Nonfarm in Tuscaloosa, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -150,6 +150,6 @@
 | TUSC201SRVON              | All Employees: Other Services in Tuscaloosa, AL (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | TUSC201TRAD               | All Employees: Trade, Transportation, and Utilities in Tuscaloosa, AL (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | TUSC201TRADN              | All Employees: Trade, Transportation, and Utilities in Tuscaloosa, AL (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| TUSC201UR                 | Unemployment Rate in Tuscaloosa, AL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| TUSC201URN                | Unemployment Rate in Tuscaloosa, AL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| TUSC201UR                 | Unemployment Rate in Tuscaloosa, AL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| TUSC201URN                | Unemployment Rate in Tuscaloosa, AL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | TUSPOP                    | Resident Population in Tuscaloosa, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

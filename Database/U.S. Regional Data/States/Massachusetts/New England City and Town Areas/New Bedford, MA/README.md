@@ -1,9 +1,9 @@
 | id                     | title                                                                                                      | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | LAUMT257555000000003A  | Unemployment Rate in New Bedford, MA (NECTA)                                                               | 1990-01-01          | 2021-01-01        |
-| LAUMT257555000000004   | Unemployed Persons in New Bedford, MA (NECTA)                                                              | 1990-01-01          | 2022-05-01        |
+| LAUMT257555000000004   | Unemployed Persons in New Bedford, MA (NECTA)                                                              | 1990-01-01          | 2022-06-01        |
 | LAUMT257555000000004A  | Unemployed Persons in New Bedford, MA (NECTA)                                                              | 1990-01-01          | 2021-01-01        |
-| LAUMT257555000000005   | Employed Persons in New Bedford, MA (NECTA)                                                                | 1990-01-01          | 2022-05-01        |
+| LAUMT257555000000005   | Employed Persons in New Bedford, MA (NECTA)                                                                | 1990-01-01          | 2022-06-01        |
 | LAUMT257555000000005A  | Employed Persons in New Bedford, MA (NECTA)                                                                | 1990-01-01          | 2021-01-01        |
 | LAUMT257555000000006A  | Civilian Labor Force in New Bedford, MA (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
 | NEWB525EDUH            | All Employees: Education and Health Services in New Bedford, MA (NECTA)                                    | 1990-01-01          | 2022-06-01        |
@@ -16,8 +16,8 @@
 | NEWB525INFON           | All Employees: Information in New Bedford, MA (NECTA)                                                      | 1990-01-01          | 2022-06-01        |
 | NEWB525LEIH            | All Employees: Leisure and Hospitality in New Bedford, MA (NECTA)                                          | 1990-01-01          | 2022-06-01        |
 | NEWB525LEIHN           | All Employees: Leisure and Hospitality in New Bedford, MA (NECTA)                                          | 1990-01-01          | 2022-06-01        |
-| NEWB525LF              | Civilian Labor Force in New Bedford, MA (NECTA)                                                            | 1990-01-01          | 2022-05-01        |
-| NEWB525LFN             | Civilian Labor Force in New Bedford, MA (NECTA)                                                            | 1990-01-01          | 2022-05-01        |
+| NEWB525LF              | Civilian Labor Force in New Bedford, MA (NECTA)                                                            | 1990-01-01          | 2022-06-01        |
+| NEWB525LFN             | Civilian Labor Force in New Bedford, MA (NECTA)                                                            | 1990-01-01          | 2022-06-01        |
 | NEWB525MFG             | All Employees: Manufacturing in New Bedford, MA (NECTA)                                                    | 1990-01-01          | 2022-06-01        |
 | NEWB525MFGN            | All Employees: Manufacturing in New Bedford, MA (NECTA)                                                    | 1990-01-01          | 2022-06-01        |
 | NEWB525NA              | All Employees: Total Nonfarm in New Bedford, MA (NECTA)                                                    | 1990-01-01          | 2022-06-01        |
@@ -30,8 +30,8 @@
 | NEWB525SRVON           | All Employees: Other Services in New Bedford, MA (NECTA)                                                   | 1990-01-01          | 2022-06-01        |
 | NEWB525TRAD            | All Employees: Trade, Transportation, and Utilities in New Bedford, MA (NECTA)                             | 1990-01-01          | 2022-06-01        |
 | NEWB525TRADN           | All Employees: Trade, Transportation, and Utilities in New Bedford, MA (NECTA)                             | 1990-01-01          | 2022-06-01        |
-| NEWB525UR              | Unemployment Rate in New Bedford, MA (NECTA)                                                               | 1990-01-01          | 2022-05-01        |
-| NEWB525URN             | Unemployment Rate in New Bedford, MA (NECTA)                                                               | 1990-01-01          | 2022-05-01        |
+| NEWB525UR              | Unemployment Rate in New Bedford, MA (NECTA)                                                               | 1990-01-01          | 2022-06-01        |
+| NEWB525URN             | Unemployment Rate in New Bedford, MA (NECTA)                                                               | 1990-01-01          | 2022-06-01        |
 | SMS25755500000000001   | All Employees: Total Nonfarm in New Bedford, MA (NECTA)                                                    | 1990-01-01          | 2018-02-01        |
 | SMS25755500000000026   | All Employees: Total Nonfarm in New Bedford, MA (NECTA)                                                    | 1990-04-01          | 2022-06-01        |
 | SMU25755500000000001A  | All Employees: Total Nonfarm in New Bedford, MA (NECTA)                                                    | 1990-01-01          | 2021-01-01        |

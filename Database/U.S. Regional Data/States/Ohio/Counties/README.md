@@ -20,7 +20,7 @@
 | Hocking County, OH    |                89 |
 | Van Wert County, OH   |                89 |
 | Montgomery County, OH |               147 |
-| Warren County, OH     |               147 |
+| Warren County, OH     |                 0 |
 | Ashland County, OH    |               144 |
 | Cuyahoga County, OH   |               146 |
 | Hancock County, OH    |               147 |
@@ -39,7 +39,7 @@
 | Highland County, OH   |                89 |
 | Monroe County, OH     |                88 |
 | Champaign County, OH  |                90 |
-| Hardin County, OH     |                 0 |
+| Hardin County, OH     |                90 |
 | Lucas County, OH      |               147 |
 | Perry County, OH      |                90 |
 | Seneca County, OH     |               144 |

@@ -25,7 +25,7 @@
 | Bladen County, NC       |                90 |
 | Burke County, NC        |               147 |
 | Scotland County, NC     |                90 |
-| Edgecombe County, NC    |                 0 |
+| Edgecombe County, NC    |               146 |
 | Graham County, NC       |                88 |
 | Hoke County, NC         |               146 |
 | Union County, NC        |               147 |
@@ -44,7 +44,7 @@
 | Durham County, NC       |               147 |
 | Cumberland County, NC   |               147 |
 | Beaufort County, NC     |               146 |
-| Jones County, NC        |                90 |
+| Jones County, NC        |                 0 |
 | Onslow County, NC       |               147 |
 | Mitchell County, NC     |                89 |
 | Montgomery County, NC   |                90 |

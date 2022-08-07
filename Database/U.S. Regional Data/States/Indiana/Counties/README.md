@@ -8,7 +8,7 @@
 | Switzerland County, IN |                89 |
 | Orange County, IN      |                89 |
 | Rush County, IN        |                90 |
-| White County, IN       |                 0 |
+| White County, IN       |                90 |
 | Sullivan County, IN    |                90 |
 | Morgan County, IN      |               146 |
 | Decatur County, IN     |                89 |
@@ -27,7 +27,7 @@
 | Jackson County, IN     |                89 |
 | Lake County, IN        |               147 |
 | Lawrence County, IN    |               146 |
-| La Porte County, IN    |               147 |
+| La Porte County, IN    |                 0 |
 | Porter County, IN      |               147 |
 | Pulaski County, IN     |                90 |
 | Elkhart County, IN     |               147 |
@@ -68,7 +68,7 @@
 | Tippecanoe County, IN  |               147 |
 | Clark County, IN       |               147 |
 | Steuben County, IN     |                89 |
-| Knox County, IN        |                 0 |
+| Knox County, IN        |                90 |
 | Ripley County, IN      |                90 |
 | Vanderburgh County, IN |               147 |
 | Monroe County, IN      |               147 |
@@ -87,7 +87,7 @@
 | Whitley County, IN     |                90 |
 | Jefferson County, IN   |                88 |
 | Fayette County, IN     |                90 |
-| Washington County, IN  |                89 |
+| Washington County, IN  |                 0 |
 | Hamilton County, IN    |               146 |
 | Owen County, IN        |                90 |
 | St. Joseph County, IN  |               147 |

@@ -26,9 +26,9 @@
 | HOSCMSA36780              | Market Hotness: Hotness Score in Oshkosh-Neenah, WI (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD36780                 | Implicit Regional Price Deflator for Oshkosh-Neenah, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT553678000000003A     | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT553678000000004      | Unemployed Persons in Oshkosh-Neenah, WI (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT553678000000004      | Unemployed Persons in Oshkosh-Neenah, WI (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT553678000000004A     | Unemployed Persons in Oshkosh-Neenah, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT553678000000005      | Employed Persons in Oshkosh-Neenah, WI (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT553678000000005      | Employed Persons in Oshkosh-Neenah, WI (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT553678000000005A     | Employed Persons in Oshkosh-Neenah, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT553678000000006A     | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA36780          | Market Hotness: Listing Views per Property in Oshkosh-Neenah, WI (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -71,8 +71,8 @@
 | OSHK755INFON              | All Employees: Information in Oshkosh-Neenah, WI (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | OSHK755LEIH               | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | OSHK755LEIHN              | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| OSHK755LF                 | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| OSHK755LFN                | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| OSHK755LF                 | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| OSHK755LFN                | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | OSHK755MFG                | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2022-06-01        |
 | OSHK755MFGN               | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2022-06-01        |
 | OSHK755NA                 | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -86,8 +86,8 @@
 | OSHK755SRVON              | All Employees: Other Services in Oshkosh-Neenah, WI (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | OSHK755TRAD               | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | OSHK755TRADN              | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| OSHK755UR                 | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| OSHK755URN                | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| OSHK755UR                 | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| OSHK755URN                | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | OSNPOP                    | Resident Population in Oshkosh-Neenah, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136780          | U.S. Granted Utility Patents Originating in Oshkosh-Neenah, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36780            | Housing Inventory: Pending Listing Count in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-06-01        |

@@ -2,4 +2,4 @@
 |------------------------------------------|-------------------|
 | Elgin, IL                                |                90 |
 | Chicago-Naperville-Arlington Heights, IL |               395 |
-| Lake County-Kenosha County, IL-WI        |                94 |
+| Lake County-Kenosha County, IL-WI        |                 0 |

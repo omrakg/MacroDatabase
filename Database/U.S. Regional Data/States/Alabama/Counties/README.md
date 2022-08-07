@@ -7,7 +7,7 @@
 | Marengo County, AL    |                90 |
 | Washington County, AL |                87 |
 | Cullman County, AL    |               147 |
-| Greene County, AL     |                89 |
+| Greene County, AL     |                 0 |
 | Franklin County, AL   |                90 |
 | Coffee County, AL     |               146 |
 | Lawrence County, AL   |                89 |
@@ -22,7 +22,7 @@
 | Blount County, AL     |               146 |
 | Chambers County, AL   |                90 |
 | Houston County, AL    |               147 |
-| Madison County, AL    |                 0 |
+| Madison County, AL    |               147 |
 | Winston County, AL    |                90 |
 | Wilcox County, AL     |                88 |
 | Fayette County, AL    |                90 |

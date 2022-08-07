@@ -46,7 +46,7 @@
 | Clay County, MO           |               147 |
 | Douglas County, MO        |                89 |
 | Platte County, MO         |               147 |
-| Hickory County, MO        |                88 |
+| Hickory County, MO        |                 0 |
 | Grundy County, MO         |                89 |
 | Pettis County, MO         |                90 |
 | Pike County, MO           |                90 |
@@ -71,7 +71,7 @@
 | Wright County, MO         |                89 |
 | Montgomery County, MO     |                89 |
 | Dent County, MO           |                89 |
-| Putnam County, MO         |                 0 |
+| Putnam County, MO         |                88 |
 | Boone County, MO          |               147 |
 | Jackson County, MO        |               147 |
 | Crawford County, MO       |                90 |

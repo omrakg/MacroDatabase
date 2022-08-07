@@ -17,7 +17,7 @@
 | DCTZAA052SCEN       | Value of Exports to Tanzania from District of Columbia                                                                                     | 2004-01-01          | 2016-01-01        |
 | DCTZAA475SCEN       | Number of Identified Exporters to Tanzania from District of Columbia                                                                       | 1992-01-01          | 2016-01-01        |
 | DDAI01TZA642NWDB    | Number of Bank Accounts for United Republic of Tanzania                                                                                    | 2006-01-01          | 2015-01-01        |
-| DDAI02TZA643NWDB    | Number of Bank Branches for United Republic of Tanzania                                                                                    | 2004-01-01          | 2015-01-01        |
+| DDAI02TZA643NWDB    | Number of Bank Branches for United Republic of Tanzania                                                                                    | 2005-01-01          | 2015-01-01        |
 | DDAI03TZA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for United Republic of Tanzania                                                    | 2006-01-01          | 2013-01-01        |
 | DDAI04TZA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for United Republic of Tanzania                                        | 2006-01-01          | 2013-01-01        |
 | DDAI05TZA156NWDB    | People 15 Years and Over with Account at a Formal Financial Institution for United Republic of Tanzania                                    | 2011-01-01          | 2017-01-01        |
@@ -36,14 +36,14 @@
 | DDDI13TZA156NWDB    | Pension Fund Assets to GDP for United Republic of Tanzania                                                                                 | 2013-01-01          | 2017-01-01        |
 | DDDM01TZA156NWDB    | Stock Market Capitalization to GDP for United Republic of Tanzania                                                                         | 1999-01-01          | 2020-01-01        |
 | DDDM02TZA156NWDB    | Stock Market Total Value Traded to GDP for United Republic of Tanzania                                                                     | 1999-01-01          | 2020-01-01        |
-| DDDM08TZA156NWDB    | Gross Portfolio Equity Liabilities to GDP for United Republic of Tanzania                                                                  | 2004-01-01          | 2017-01-01        |
+| DDDM08TZA156NWDB    | Gross Portfolio Equity Liabilities to GDP for United Republic of Tanzania                                                                  | 2001-01-01          | 2012-01-01        |
 | DDDM10TZA156NWDB    | Gross Portfolio Debt Liabilities to GDP for United Republic of Tanzania                                                                    | 2001-01-01          | 2018-01-01        |
-| DDEI01TZA156NWDB    | Bank's Net Interest Margin for United Republic of Tanzania                                                                                 | 2004-01-01          | 2017-01-01        |
+| DDEI01TZA156NWDB    | Bank's Net Interest Margin for United Republic of Tanzania                                                                                 | 2005-01-01          | 2020-01-01        |
 | DDEI02TZA156NWDB    | Bank Lending Deposit Spread for United Republic of Tanzania                                                                                | 1992-01-01          | 2019-01-01        |
 | DDEI03TZA156NWDB    | Bank's Non-Interest Income to Total Income for United Republic of Tanzania                                                                 | 2004-01-01          | 2020-01-01        |
-| DDEI04TZA156NWDB    | Bank's Overhead Costs to Total Assets for United Republic of Tanzania                                                                      | 2004-01-01          | 2017-01-01        |
-| DDEI05TZA156NWDB    | Bank's Return on Assets for United Republic of Tanzania                                                                                    | 2004-01-01          | 2017-01-01        |
-| DDEI06TZA156NWDB    | Bank's Return on Equity for United Republic of Tanzania                                                                                    | 2004-01-01          | 2017-01-01        |
+| DDEI04TZA156NWDB    | Bank's Overhead Costs to Total Assets for United Republic of Tanzania                                                                      | 2005-01-01          | 2020-01-01        |
+| DDEI05TZA156NWDB    | Bank's Return on Assets for United Republic of Tanzania                                                                                    | 2005-01-01          | 2020-01-01        |
+| DDEI06TZA156NWDB    | Bank's Return on Equity for United Republic of Tanzania                                                                                    | 2005-01-01          | 2020-01-01        |
 | DDEI07TZA156NWDB    | Bank's Cost to Income Ratio for United Republic of Tanzania                                                                                | 2004-01-01          | 2020-01-01        |
 | DDEI08TZA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for United Republic of Tanzania                                                    | 1980-01-01          | 2019-01-01        |
 | DDEM01TZA156NWDB    | Stock Market Turnover Ratio (Value Traded/Capitalization) for United Republic of Tanzania                                                  | 1999-01-01          | 2020-01-01        |
@@ -55,7 +55,7 @@
 | DDOI05TZA156NWDB    | Boone Indicator in Banking Market for United Republic of Tanzania                                                                          | 1999-01-01          | 2014-01-01        |
 | DDOI06TZA156NWDB    | 5-Bank Asset Concentration for United Republic of Tanzania                                                                                 | 2004-01-01          | 2020-01-01        |
 | DDOI07TZA648NWDB    | Liquid Liabilities (Broad Money) for United Republic of Tanzania                                                                           | 1966-01-01          | 2020-01-01        |
-| DDOI09TZA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for United Republic of Tanzania                                                 | 2004-01-01          | 2017-01-01        |
+| DDOI09TZA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for United Republic of Tanzania                                                 | 2013-01-01          | 2019-01-01        |
 | DDOI10TZA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for United Republic of Tanzania                           | 1995-01-01          | 2020-01-01        |
 | DDOI11TZA156NWDB    | Remittance Inflows to GDP for United Republic of Tanzania                                                                                  | 1995-01-01          | 2020-01-01        |
 | DDOI12TZA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for United Republic of Tanzania                                                  | 1983-01-01          | 2019-01-01        |
@@ -68,10 +68,10 @@
 | DDSI04TZA156NWDB    | Bank Credit to Bank Deposits for United Republic of Tanzania                                                                               | 1988-01-01          | 2020-01-01        |
 | DDSI05TZA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for United Republic of Tanzania                                                            | 1998-01-01          | 2019-01-01        |
 | DDSI06TZA156NWDB    | Liquid Assets to Deposits and Short Term Funding for United Republic of Tanzania                                                           | 2004-01-01          | 2020-01-01        |
-| DDSM01TZA066NWDB    | Volatility of Stock Price Index for United Republic of Tanzania                                                                            | 2008-01-01          | 2017-01-01        |
+| DDSM01TZA066NWDB    | Volatility of Stock Price Index for United Republic of Tanzania                                                                            | 2009-01-01          | 2020-01-01        |
 | DETZAA052SCEN       | Value of Exports to Tanzania from Delaware                                                                                                 | 2008-01-01          | 2017-01-01        |
 | DETZAA475SCEN       | Number of Identified Exporters to Tanzania from Delaware                                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP7830             | U.S. Exports of Goods by F.A.S. Basis to Tanzania                                                                                          | 1992-01-01          | 2022-05-01        |
+| EXP7830             | U.S. Exports of Goods by F.A.S. Basis to Tanzania                                                                                          | 1992-01-01          | 2022-06-01        |
 | FLTZAA052SCEN       | Value of Exports to Tanzania from Florida                                                                                                  | 1997-01-01          | 2017-01-01        |
 | FLTZAA475SCEN       | Number of Identified Exporters to Tanzania from Florida                                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGTZA      | Inflation, consumer prices for the United Republic of Tanzania                                                                             | 1966-01-01          | 2020-01-01        |
@@ -85,7 +85,7 @@
 | IDTZAA475SCEN       | Number of Identified Exporters to Tanzania from Idaho                                                                                      | 1997-01-01          | 2017-01-01        |
 | ILTZAA052SCEN       | Value of Exports to Tanzania from Illinois                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILTZAA475SCEN       | Number of Identified Exporters to Tanzania from Illinois                                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7830             | U.S. Imports of Goods by Customs Basis from Tanzania                                                                                       | 1992-01-01          | 2022-05-01        |
+| IMP7830             | U.S. Imports of Goods by Customs Basis from Tanzania                                                                                       | 1992-01-01          | 2022-06-01        |
 | INTZAA052SCEN       | Value of Exports to Tanzania from Indiana                                                                                                  | 2002-01-01          | 2017-01-01        |
 | INTZAA475SCEN       | Number of Identified Exporters to Tanzania from Indiana                                                                                    | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2TZA      | Internet users for the United Republic of Tanzania                                                                                         | 1990-01-01          | 2020-01-01        |

@@ -9,8 +9,8 @@
 | ALTO042GOVTN              | All Employees: Government in Altoona, PA (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | ALTO042LEIH               | All Employees: Leisure and Hospitality in Altoona, PA (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | ALTO042LEIHN              | All Employees: Leisure and Hospitality in Altoona, PA (MSA)                                    | 1990-01-01          | 2022-06-01        |
-| ALTO042LF                 | Civilian Labor Force in Altoona, PA (MSA)                                                      | 1990-01-01          | 2022-05-01        |
-| ALTO042LFN                | Civilian Labor Force in Altoona, PA (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| ALTO042LF                 | Civilian Labor Force in Altoona, PA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| ALTO042LFN                | Civilian Labor Force in Altoona, PA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | ALTO042MFG                | All Employees: Manufacturing in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | ALTO042MFGN               | All Employees: Manufacturing in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | ALTO042NA                 | All Employees: Total Nonfarm in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-06-01        |
@@ -20,8 +20,8 @@
 | ALTO042PCPI               | Per Capita Personal Income in Altoona, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | ALTO042TRAD               | All Employees: Trade, Transportation, and Utilities in Altoona, PA (MSA)                       | 1990-01-01          | 2022-06-01        |
 | ALTO042TRADN              | All Employees: Trade, Transportation, and Utilities in Altoona, PA (MSA)                       | 1990-01-01          | 2022-06-01        |
-| ALTO042UR                 | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| ALTO042URN                | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| ALTO042UR                 | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| ALTO042URN                | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | ALTPOP                    | Resident Population in Altoona, PA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | ATNHPIUS11020Q            | All-Transactions House Price Index for Altoona, PA (MSA)                                       | 1993-01-01          | 2022-01-01        |
 | AVELISPRI11020            | Housing Inventory: Average Listing Price in Altoona, PA (CBSA)                                 | 2016-07-01          | 2022-06-01        |
@@ -41,9 +41,9 @@
 | ENUC110240510SA           | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD11020                 | Implicit Regional Price Deflator for Altoona, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT421102000000003A     | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT421102000000004      | Unemployed Persons in Altoona, PA (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT421102000000004      | Unemployed Persons in Altoona, PA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT421102000000004A     | Unemployed Persons in Altoona, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT421102000000005      | Employed Persons in Altoona, PA (MSA)                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT421102000000005      | Employed Persons in Altoona, PA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT421102000000005A     | Employed Persons in Altoona, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT421102000000006A     | Civilian Labor Force in Altoona, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR11020          | Housing Inventory: Median Days on Market in Altoona, PA (CBSA)                                 | 2016-07-01          | 2022-06-01        |

@@ -25,19 +25,19 @@
 | FARM135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-06-01        |
 | FARM135GOVT               | All Employees: Government in Farmington, NM (MSA)                                                    | 1990-01-01          | 2022-06-01        |
 | FARM135GOVTN              | All Employees: Government in Farmington, NM (MSA)                                                    | 1990-01-01          | 2022-06-01        |
-| FARM135LF                 | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| FARM135LFN                | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| FARM135LF                 | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| FARM135LFN                | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | FARM135NA                 | All Employees: Total Nonfarm in Farmington, NM (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | FARM135NAN                | All Employees: Total Nonfarm in Farmington, NM (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | FARM135PCPI               | Per Capita Personal Income in Farmington, NM (MSA)                                                   | 1969-01-01          | 2020-01-01        |
-| FARM135UR                 | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2022-05-01        |
-| FARM135URN                | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2022-05-01        |
+| FARM135UR                 | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2022-06-01        |
+| FARM135URN                | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | FMTPOP                    | Resident Population in Farmington, NM (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | IRPD22140                 | Implicit Regional Price Deflator for Farmington, NM (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT352214000000003A     | Unemployment Rate in Farmington, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LAUMT352214000000004      | Unemployed Persons in Farmington, NM (MSA)                                                           | 1990-01-01          | 2022-05-01        |
+| LAUMT352214000000004      | Unemployed Persons in Farmington, NM (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | LAUMT352214000000004A     | Unemployed Persons in Farmington, NM (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT352214000000005      | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2022-05-01        |
+| LAUMT352214000000005      | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2022-06-01        |
 | LAUMT352214000000005A     | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT352214000000006A     | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR22140          | Housing Inventory: Median Days on Market in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-06-01        |

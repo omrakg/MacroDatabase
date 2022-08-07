@@ -10,7 +10,7 @@
 | DDOI11AWA156NWDB | Remittance Inflows to GDP for Aruba                                                                     | 1991-01-01          | 2018-01-01        |
 | DDOI11AZA156NWDB | Remittance Inflows to GDP for Azerbaijan                                                                | 1995-01-01          | 2020-01-01        |
 | DDOI11BAA156NWDB | Remittance Inflows to GDP for Bosnia and Herzegovina                                                    | 1998-01-01          | 2020-01-01        |
-| DDOI11BBA156NWDB | Remittance Inflows to GDP for Barbados                                                                  | 1970-01-01          | 2017-01-01        |
+| DDOI11BBA156NWDB | Remittance Inflows to GDP for Barbados                                                                  | 1974-01-01          | 2020-01-01        |
 | DDOI11BDA156NWDB | Remittance Inflows to GDP for Bangladesh                                                                | 1976-01-01          | 2020-01-01        |
 | DDOI11BEA156NWDB | Remittance Inflows to GDP for Belgium                                                                   | 1975-01-01          | 2020-01-01        |
 | DDOI11BFA156NWDB | Remittance Inflows to GDP for Burkina Faso                                                              | 1974-01-01          | 2020-01-01        |
@@ -22,10 +22,10 @@
 | DDOI11BRA156NWDB | Remittance Inflows to GDP for Brazil                                                                    | 1975-01-01          | 2020-01-01        |
 | DDOI11BTA156NWDB | Remittance Inflows to GDP for Bhutan                                                                    | 2005-01-01          | 2020-01-01        |
 | DDOI11BWA156NWDB | Remittance Inflows to GDP for Botswana                                                                  | 1975-01-01          | 2020-01-01        |
-| DDOI11BYA156NWDB | Remittance Inflows to GDP for Belarus                                                                   | 1993-01-01          | 2017-01-01        |
+| DDOI11BYA156NWDB | Remittance Inflows to GDP for Belarus                                                                   | 1994-01-01          | 2020-01-01        |
 | DDOI11BZA156NWDB | Remittance Inflows to GDP for Belize                                                                    | 1984-01-01          | 2020-01-01        |
 | DDOI11CFA156NWDB | Remittance Inflows to GDP for Central African Republic                                                  | 1977-01-01          | 2020-01-01        |
-| DDOI11CGA156NWDB | Remittance Inflows to GDP for Congo                                                                     | 1978-01-01          | 2017-01-01        |
+| DDOI11CGA156NWDB | Remittance Inflows to GDP for Congo                                                                     | 1978-01-01          | 2016-01-01        |
 | DDOI11CHA156NWDB | Remittance Inflows to GDP for Switzerland                                                               | 1980-01-01          | 2020-01-01        |
 | DDOI11CIA156NWDB | Remittance Inflows to GDP for Cote d'Ivoire                                                             | 1975-01-01          | 2020-01-01        |
 | DDOI11CLA156NWDB | Remittance Inflows to GDP for Chile                                                                     | 1983-01-01          | 2020-01-01        |
@@ -146,9 +146,9 @@
 | DDOI11SNA156NWDB | Remittance Inflows to GDP for Senegal                                                                   | 1974-01-01          | 2020-01-01        |
 | DDOI11SOA156NWDB | Remittance Inflows to GDP for Somalia                                                                   | 1979-01-01          | 2020-01-01        |
 | DDOI11SRA156NWDB | Remittance Inflows to GDP for Suriname                                                                  | 1977-01-01          | 2020-01-01        |
-| DDOI11STA156NWDB | Remittance Inflows to GDP for Sao Tome and Principe                                                     | 2000-01-01          | 2017-01-01        |
+| DDOI11STA156NWDB | Remittance Inflows to GDP for Sao Tome and Principe                                                     | 2001-01-01          | 2020-01-01        |
 | DDOI11SVA156NWDB | Remittance Inflows to GDP for El Salvador                                                               | 1976-01-01          | 2020-01-01        |
-| DDOI11SYA156NWDB | Remittance Inflows to GDP for Syrian Arab Republic                                                      | 2005-01-01          | 2010-01-01        |
+| DDOI11SYA156NWDB | Remittance Inflows to GDP for Syrian Arab Republic                                                      | 1977-01-01          | 2007-01-01        |
 | DDOI11SZA156NWDB | Remittance Inflows to GDP for Swaziland                                                                 | 1974-01-01          | 2020-01-01        |
 | DDOI11TDA156NWDB | Remittance Inflows to GDP for Chad                                                                      | 1985-01-01          | 2020-01-01        |
 | DDOI11TGA156NWDB | Remittance Inflows to GDP for Togo                                                                      | 1974-01-01          | 2020-01-01        |
@@ -267,7 +267,7 @@
 | DDOI12LBA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Lebanon                                   | 1983-01-01          | 2019-01-01        |
 | DDOI12LCA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Saint Lucia                               | 1983-01-01          | 2019-01-01        |
 | DDOI12LKA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Sri Lanka                                 | 1983-01-01          | 2019-01-01        |
-| DDOI12LRA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Liberia                                   | 1999-01-01          | 2016-01-01        |
+| DDOI12LRA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Liberia                                   | 2000-01-01          | 2019-01-01        |
 | DDOI12LSA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Lesotho                                   | 1983-01-01          | 2019-01-01        |
 | DDOI12LTA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Lithuania                                 | 1995-01-01          | 2019-01-01        |
 | DDOI12LUA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Luxembourg                                | 1997-01-01          | 2019-01-01        |

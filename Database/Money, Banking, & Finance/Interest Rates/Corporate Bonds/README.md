@@ -1,153 +1,153 @@
 | id                       | title                                                                                                      | observation_start   | observation_end   |
 |--------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| AAA                      | Moody's Seasoned Aaa Corporate Bond Yield                                                                  | 1919-01-01          | 2022-06-01        |
-| BAA                      | Moody's Seasoned Baa Corporate Bond Yield                                                                  | 1919-01-01          | 2022-06-01        |
-| BAMLC0A0CM               | ICE BofA US Corporate Index Option-Adjusted Spread                                                         | 1996-12-31          | 2022-07-28        |
-| BAMLC0A0CMEY             | ICE BofA US Corporate Index Effective Yield                                                                | 1996-12-31          | 2022-07-28        |
-| BAMLC0A0CMSYTW           | ICE BofA US Corporate Index Semi-Annual Yield to Worst                                                     | 1996-12-31          | 2022-07-28        |
-| BAMLC0A1CAAA             | ICE BofA AAA US Corporate Index Option-Adjusted Spread                                                     | 1996-12-31          | 2022-07-28        |
-| BAMLC0A1CAAAEY           | ICE BofA AAA US Corporate Index Effective Yield                                                            | 1996-12-31          | 2022-07-28        |
-| BAMLC0A1CAAASYTW         | ICE BofA AAA US Corporate Index Semi-Annual Yield to Worst                                                 | 1996-12-31          | 2022-07-28        |
-| BAMLC0A2CAA              | ICE BofA AA US Corporate Index Option-Adjusted Spread                                                      | 1996-12-31          | 2022-07-28        |
-| BAMLC0A2CAAEY            | ICE BofA AA US Corporate Index Effective Yield                                                             | 1996-12-31          | 2022-07-28        |
-| BAMLC0A2CAASYTW          | ICE BofA AA US Corporate Index Semi-Annual Yield to Worst                                                  | 1996-12-31          | 2022-07-28        |
-| BAMLC0A3CA               | ICE BofA Single-A US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-07-28        |
-| BAMLC0A3CAEY             | ICE BofA Single-A US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-07-28        |
-| BAMLC0A3CASYTW           | ICE BofA Single-A US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-07-28        |
-| BAMLC0A4CBBB             | ICE BofA BBB US Corporate Index Option-Adjusted Spread                                                     | 1996-12-31          | 2022-07-28        |
-| BAMLC0A4CBBBEY           | ICE BofA BBB US Corporate Index Effective Yield                                                            | 1996-12-31          | 2022-07-28        |
-| BAMLC0A4CBBBSYTW         | ICE BofA BBB US Corporate Index Semi-Annual Yield to Worst                                                 | 1996-12-31          | 2022-07-28        |
-| BAMLC1A0C13Y             | ICE BofA 1-3 Year US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-07-28        |
-| BAMLC1A0C13YEY           | ICE BofA 1-3 Year US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-07-28        |
-| BAMLC1A0C13YSYTW         | ICE BofA 1-3 Year US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-07-28        |
-| BAMLC2A0C35Y             | ICE BofA 3-5 Year US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-07-28        |
-| BAMLC2A0C35YEY           | ICE BofA 3-5 Year US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-07-28        |
-| BAMLC2A0C35YSYTW         | ICE BofA 3-5 Year US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-07-28        |
-| BAMLC3A0C57Y             | ICE BofA 5-7 Year US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-07-28        |
-| BAMLC3A0C57YEY           | ICE BofA 5-7 Year US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-07-28        |
-| BAMLC3A0C57YSYTW         | ICE BofA 5-7 Year US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-07-28        |
-| BAMLC4A0C710Y            | ICE BofA 7-10 Year US Corporate Index Option-Adjusted Spread                                               | 1996-12-31          | 2022-07-28        |
-| BAMLC4A0C710YEY          | ICE BofA 7-10 Year US Corporate Index Effective Yield                                                      | 1996-12-31          | 2022-07-28        |
-| BAMLC4A0C710YSYTW        | ICE BofA 7-10 Year US Corporate Index Semi-Annual Yield to Worst                                           | 1996-12-31          | 2022-07-28        |
-| BAMLC7A0C1015Y           | ICE BofA 10-15 Year US Corporate Index Option-Adjusted Spread                                              | 1996-12-31          | 2022-07-28        |
-| BAMLC7A0C1015YEY         | ICE BofA 10-15 Year US Corporate Index Effective Yield                                                     | 1996-12-31          | 2022-07-28        |
-| BAMLC7A0C1015YSYTW       | ICE BofA 10-15 Year US Corporate Index Semi-Annual Yield to Worst                                          | 1996-12-31          | 2022-07-28        |
-| BAMLC8A0C15PY            | ICE BofA 15+ Year US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-07-28        |
-| BAMLC8A0C15PYEY          | ICE BofA 15+ Year US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-07-28        |
-| BAMLC8A0C15PYSYTW        | ICE BofA 15+ Year US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-07-28        |
-| BAMLEM1BRRAAA2ACRPIEY    | ICE BofA AAA-A Emerging Markets Corporate Plus Index Effective Yield                                       | 1998-12-31          | 2022-07-28        |
-| BAMLEM1BRRAAA2ACRPIOAS   | ICE BofA AAA-A Emerging Markets Corporate Plus Index Option-Adjusted Spread                                | 1998-12-31          | 2022-07-28        |
-| BAMLEM1BRRAAA2ACRPISYTW  | ICE BofA AAA-A Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                            | 1998-12-31          | 2022-07-28        |
-| BAMLEM1RAAA2ALCRPIUSEY   | ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Effective Yield                             | 2003-12-31          | 2022-07-28        |
-| BAMLEM1RAAA2ALCRPIUSOAS  | ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                      | 2003-12-31          | 2022-07-28        |
-| BAMLEM1RAAA2ALCRPIUSSYTW | ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                  | 2003-12-31          | 2022-07-28        |
-| BAMLEM2BRRBBBCRPIEY      | ICE BofA BBB Emerging Markets Corporate Plus Index Effective Yield                                         | 1998-12-31          | 2022-07-28        |
-| BAMLEM2BRRBBBCRPIOAS     | ICE BofA BBB Emerging Markets Corporate Plus Index Option-Adjusted Spread                                  | 1998-12-31          | 2022-07-28        |
-| BAMLEM2BRRBBBCRPISYTW    | ICE BofA BBB Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                              | 1998-12-31          | 2022-07-28        |
-| BAMLEM2RBBBLCRPIUSEY     | ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Effective Yield                               | 2003-12-31          | 2022-07-28        |
-| BAMLEM2RBBBLCRPIUSOAS    | ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                        | 2003-12-31          | 2022-07-28        |
-| BAMLEM2RBBBLCRPIUSSYTW   | ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                    | 2003-12-31          | 2022-07-28        |
-| BAMLEM3BRRBBCRPIEY       | ICE BofA BB Emerging Markets Corporate Plus Index Effective Yield                                          | 1998-12-31          | 2022-07-28        |
-| BAMLEM3BRRBBCRPIOAS      | ICE BofA BB Emerging Markets Corporate Plus Index Option-Adjusted Spread                                   | 1998-12-31          | 2022-07-28        |
-| BAMLEM3BRRBBCRPISYTW     | ICE BofA BB Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                               | 1998-12-31          | 2022-07-28        |
-| BAMLEM3RBBLCRPIUSEY      | ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Effective Yield                                | 2003-12-31          | 2022-07-28        |
-| BAMLEM3RBBLCRPIUSOAS     | ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                         | 2003-12-31          | 2022-07-28        |
-| BAMLEM3RBBLCRPIUSSYTW    | ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                     | 2003-12-31          | 2022-07-28        |
-| BAMLEM4BRRBLCRPIEY       | ICE BofA B & Lower Emerging Markets Corporate Plus Index Effective Yield                                   | 1998-12-31          | 2022-07-28        |
-| BAMLEM4BRRBLCRPIOAS      | ICE BofA B & Lower Emerging Markets Corporate Plus Index Option-Adjusted Spread                            | 1998-12-31          | 2022-07-28        |
-| BAMLEM4BRRBLCRPISYTW     | ICE BofA B & Lower Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                        | 1998-12-31          | 2022-07-28        |
-| BAMLEM4RBLLCRPIUSEY      | ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Effective Yield                         | 2003-12-31          | 2022-07-28        |
-| BAMLEM4RBLLCRPIUSOAS     | ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                  | 2003-12-31          | 2022-07-28        |
-| BAMLEM4RBLLCRPIUSSYTW    | ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst              | 2003-12-31          | 2022-07-28        |
-| BAMLEM5BCOCRPIEY         | ICE BofA Crossover Emerging Markets Corporate Plus Index Effective Yield                                   | 1998-12-31          | 2022-07-28        |
-| BAMLEM5BCOCRPIOAS        | ICE BofA Crossover Emerging Markets Corporate Plus Index Option-Adjusted Spread                            | 1998-12-31          | 2022-07-28        |
-| BAMLEM5BCOCRPISYTW       | ICE BofA Crossover Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                        | 1998-12-31          | 2022-07-28        |
-| BAMLEMALLCRPIASIAUSEY    | ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Effective Yield                              | 2003-12-31          | 2022-07-28        |
-| BAMLEMALLCRPIASIAUSOAS   | ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                       | 2003-12-31          | 2022-07-28        |
-| BAMLEMALLCRPIASIAUSSYTW  | ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                   | 2003-12-31          | 2022-07-28        |
-| BAMLEMCBPIEY             | ICE BofA Emerging Markets Corporate Plus Index Effective Yield                                             | 1998-12-31          | 2022-07-28        |
-| BAMLEMCBPIOAS            | ICE BofA Emerging Markets Corporate Plus Index Option-Adjusted Spread                                      | 1998-12-31          | 2022-07-28        |
-| BAMLEMCBPISYTW           | ICE BofA Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                                  | 1998-12-31          | 2022-07-28        |
-| BAMLEMCLLCRPIUSEY        | ICE BofA US Emerging Markets Liquid Corporate Plus Index Effective Yield                                   | 2003-12-31          | 2022-07-28        |
-| BAMLEMCLLCRPIUSOAS       | ICE BofA US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                            | 2003-12-31          | 2022-07-28        |
-| BAMLEMCLLCRPIUSSYTW      | ICE BofA US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                        | 2003-12-31          | 2022-07-28        |
-| BAMLEMEBCRPIEEY          | ICE BofA Euro Emerging Markets Corporate Plus Index Effective Yield                                        | 1998-12-31          | 2022-07-28        |
-| BAMLEMEBCRPIEOAS         | ICE BofA Euro Emerging Markets Corporate Plus Index Option-Adjusted Spread                                 | 1998-12-31          | 2022-07-28        |
-| BAMLEMEBCRPIESYTW        | ICE BofA Euro Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                             | 1998-12-31          | 2022-07-28        |
-| BAMLEMELLCRPIEMEAUSEY    | ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Effective Yield                              | 2003-12-31          | 2022-07-28        |
-| BAMLEMELLCRPIEMEAUSOAS   | ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                       | 2003-12-31          | 2022-07-28        |
-| BAMLEMELLCRPIEMEAUSSYTW  | ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                   | 2003-12-31          | 2022-07-28        |
-| BAMLEMFLFLCRPIUSEY       | ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Effective Yield                         | 2003-12-31          | 2022-07-28        |
-| BAMLEMFLFLCRPIUSOAS      | ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                  | 2003-12-31          | 2022-07-28        |
-| BAMLEMFLFLCRPIUSSYTW     | ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst              | 2003-12-31          | 2022-07-28        |
-| BAMLEMFSFCRPIEY          | ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Effective Yield                    | 1998-12-31          | 2022-07-28        |
-| BAMLEMFSFCRPIOAS         | ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Option-Adjusted Spread             | 1998-12-31          | 2022-07-28        |
-| BAMLEMFSFCRPISYTW        | ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst         | 1998-12-31          | 2022-07-28        |
-| BAMLEMHBHYCRPIEY         | ICE BofA High Yield Emerging Markets Corporate Plus Index Effective Yield                                  | 1998-12-31          | 2022-07-28        |
-| BAMLEMHBHYCRPIOAS        | ICE BofA High Yield Emerging Markets Corporate Plus Index Option-Adjusted Spread                           | 1998-12-31          | 2022-07-28        |
-| BAMLEMHBHYCRPISYTW       | ICE BofA High Yield Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                       | 1998-12-31          | 2022-07-28        |
-| BAMLEMHGHGLCRPIUSEY      | ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Effective Yield                        | 2003-12-31          | 2022-07-28        |
-| BAMLEMHGHGLCRPIUSOAS     | ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                 | 2003-12-31          | 2022-07-28        |
-| BAMLEMHGHGLCRPIUSSYTW    | ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst             | 2003-12-31          | 2022-07-28        |
-| BAMLEMHYHYLCRPIUSEY      | ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Effective Yield                        | 2003-12-31          | 2022-07-28        |
-| BAMLEMHYHYLCRPIUSOAS     | ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                 | 2003-12-31          | 2022-07-28        |
-| BAMLEMHYHYLCRPIUSSYTW    | ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst             | 2003-12-31          | 2022-07-28        |
-| BAMLEMIBHGCRPIEY         | ICE BofA High Grade Emerging Markets Corporate Plus Index Effective Yield                                  | 1998-12-31          | 2022-07-28        |
-| BAMLEMIBHGCRPIOAS        | ICE BofA High Grade Emerging Markets Corporate Plus Index Option-Adjusted Spread                           | 1998-12-31          | 2022-07-28        |
-| BAMLEMIBHGCRPISYTW       | ICE BofA High Grade Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                       | 1998-12-31          | 2022-07-28        |
-| BAMLEMLLLCRPILAUSEY      | ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Effective Yield                     | 2003-12-31          | 2022-07-28        |
-| BAMLEMLLLCRPILAUSOAS     | ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread              | 2003-12-31          | 2022-07-28        |
-| BAMLEMLLLCRPILAUSSYTW    | ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst          | 2003-12-31          | 2022-07-28        |
-| BAMLEMNFNFLCRPIUSEY      | ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Effective Yield                     | 2003-12-31          | 2022-07-28        |
-| BAMLEMNFNFLCRPIUSOAS     | ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread              | 2003-12-31          | 2022-07-28        |
-| BAMLEMNFNFLCRPIUSSYTW    | ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst          | 2003-12-31          | 2022-07-28        |
-| BAMLEMNSNFCRPIEY         | ICE BofA Non-Financial Emerging Markets Corporate Plus Index Effective Yield                               | 1998-12-31          | 2022-07-28        |
-| BAMLEMNSNFCRPIOAS        | ICE BofA Non-Financial Emerging Markets Corporate Plus Index Option-Adjusted Spread                        | 1998-12-31          | 2022-07-28        |
-| BAMLEMNSNFCRPISYTW       | ICE BofA Non-Financial Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                    | 1998-12-31          | 2022-07-28        |
-| BAMLEMPBPUBSICRPIEY      | ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Effective Yield                       | 1998-12-31          | 2022-07-28        |
-| BAMLEMPBPUBSICRPIOAS     | ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Option-Adjusted Spread                | 1998-12-31          | 2022-07-28        |
-| BAMLEMPBPUBSICRPISYTW    | ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst            | 1998-12-31          | 2022-07-28        |
-| BAMLEMPTPRVICRPIEY       | ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Effective Yield                      | 1998-12-31          | 2022-07-28        |
-| BAMLEMPTPRVICRPIOAS      | ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Option-Adjusted Spread               | 1998-12-31          | 2022-07-28        |
-| BAMLEMPTPRVICRPISYTW     | ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst           | 1998-12-31          | 2022-07-28        |
-| BAMLEMPUPUBSLCRPIUSEY    | ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Effective Yield             | 2003-12-31          | 2022-07-28        |
-| BAMLEMPUPUBSLCRPIUSOAS   | ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread      | 2003-12-31          | 2022-07-28        |
-| BAMLEMPUPUBSLCRPIUSSYTW  | ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst  | 2003-12-31          | 2022-07-28        |
-| BAMLEMPVPRIVSLCRPIUSEY   | ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Effective Yield            | 2003-12-31          | 2022-07-28        |
-| BAMLEMPVPRIVSLCRPIUSOAS  | ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread     | 2003-12-31          | 2022-07-28        |
-| BAMLEMPVPRIVSLCRPIUSSYTW | ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst | 2003-12-31          | 2022-07-28        |
-| BAMLEMRACRPIASIAEY       | ICE BofA Asia Emerging Markets Corporate Plus Index Effective Yield                                        | 1998-12-31          | 2022-07-28        |
-| BAMLEMRACRPIASIAOAS      | ICE BofA Asia Emerging Markets Corporate Plus Index Option-Adjusted Spread                                 | 1998-12-31          | 2022-07-28        |
-| BAMLEMRACRPIASIASYTW     | ICE BofA Asia Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                             | 1998-12-31          | 2022-07-28        |
-| BAMLEMRECRPIEMEAEY       | ICE BofA EMEA Emerging Markets Corporate Plus Index Effective Yield                                        | 1998-12-31          | 2022-07-28        |
-| BAMLEMRECRPIEMEAOAS      | ICE BofA EMEA Emerging Markets Corporate Plus Index Option-Adjusted Spread                                 | 1998-12-31          | 2022-07-28        |
-| BAMLEMRECRPIEMEASYTW     | ICE BofA EMEA Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                             | 1998-12-31          | 2022-07-28        |
-| BAMLEMRLCRPILAEY         | ICE BofA Latin America Emerging Markets Corporate Plus Index Effective Yield                               | 1998-12-31          | 2022-07-28        |
-| BAMLEMRLCRPILAOAS        | ICE BofA Latin America Emerging Markets Corporate Plus Index Option-Adjusted Spread                        | 1998-12-31          | 2022-07-28        |
-| BAMLEMRLCRPILASYTW       | ICE BofA Latin America Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                    | 1998-12-31          | 2022-07-28        |
-| BAMLEMUBCRPIUSEY         | ICE BofA US Emerging Markets Corporate Plus Index Effective Yield                                          | 1998-12-31          | 2022-07-28        |
-| BAMLEMUBCRPIUSOAS        | ICE BofA US Emerging Markets Corporate Plus Index Option-Adjusted Spread                                   | 1998-12-31          | 2022-07-28        |
-| BAMLEMUBCRPIUSSYTW       | ICE BofA US Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                               | 1998-12-31          | 2022-07-28        |
-| BAMLEMXOCOLCRPIUSEY      | ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Effective Yield                         | 2003-12-31          | 2022-07-28        |
-| BAMLEMXOCOLCRPIUSOAS     | ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                  | 2003-12-31          | 2022-07-28        |
-| BAMLEMXOCOLCRPIUSSYTW    | ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst              | 2003-12-31          | 2022-07-28        |
-| BAMLH0A0HYM2             | ICE BofA US High Yield Index Option-Adjusted Spread                                                        | 1996-12-31          | 2022-07-28        |
-| BAMLH0A0HYM2EY           | ICE BofA US High Yield Index Effective Yield                                                               | 1996-12-31          | 2022-07-28        |
-| BAMLH0A0HYM2SYTW         | ICE BofA US High Yield Index Semi-Annual Yield to Worst                                                    | 1996-12-31          | 2022-07-28        |
-| BAMLH0A1HYBB             | ICE BofA BB US High Yield Index Option-Adjusted Spread                                                     | 1996-12-31          | 2022-07-28        |
-| BAMLH0A1HYBBEY           | ICE BofA BB US High Yield Index Effective Yield                                                            | 1996-12-31          | 2022-07-28        |
-| BAMLH0A1HYBBSYTW         | ICE BofA BB US High Yield Index Semi-Annual Yield to Worst                                                 | 1996-12-31          | 2022-07-28        |
-| BAMLH0A2HYB              | ICE BofA Single-B US High Yield Index Option-Adjusted Spread                                               | 1996-12-31          | 2022-07-28        |
-| BAMLH0A2HYBEY            | ICE BofA Single-B US High Yield Index Effective Yield                                                      | 1996-12-31          | 2022-07-28        |
-| BAMLH0A2HYBSYTW          | ICE BofA Single-B US High Yield Index Semi-Annual Yield to Worst                                           | 1996-12-31          | 2022-07-28        |
-| BAMLH0A3HYC              | ICE BofA CCC & Lower US High Yield Index Option-Adjusted Spread                                            | 1996-12-31          | 2022-07-28        |
-| BAMLH0A3HYCEY            | ICE BofA CCC & Lower US High Yield Index Effective Yield                                                   | 1996-12-31          | 2022-07-28        |
-| BAMLH0A3HYCSYTW          | ICE BofA CCC & Lower US High Yield Index Semi-Annual Yield to Worst                                        | 1996-12-31          | 2022-07-28        |
-| BAMLHE00EHYIEY           | ICE BofA Euro High Yield Index Effective Yield                                                             | 1997-12-31          | 2022-07-28        |
-| BAMLHE00EHYIOAS          | ICE BofA Euro High Yield Index Option-Adjusted Spread                                                      | 1997-12-31          | 2022-07-28        |
-| BAMLHE00EHYISYTW         | ICE BofA Euro High Yield Index Semi-Annual Yield to Worst                                                  | 1997-12-31          | 2022-07-28        |
-| DAAA                     | Moody's Seasoned Aaa Corporate Bond Yield                                                                  | 1983-01-03          | 2022-07-28        |
-| DBAA                     | Moody's Seasoned Baa Corporate Bond Yield                                                                  | 1986-01-02          | 2022-07-28        |
+| AAA                      | Moody's Seasoned Aaa Corporate Bond Yield                                                                  | 1919-01-01          | 2022-07-01        |
+| BAA                      | Moody's Seasoned Baa Corporate Bond Yield                                                                  | 1919-01-01          | 2022-07-01        |
+| BAMLC0A0CM               | ICE BofA US Corporate Index Option-Adjusted Spread                                                         | 1996-12-31          | 2022-08-04        |
+| BAMLC0A0CMEY             | ICE BofA US Corporate Index Effective Yield                                                                | 1996-12-31          | 2022-08-04        |
+| BAMLC0A0CMSYTW           | ICE BofA US Corporate Index Semi-Annual Yield to Worst                                                     | 1996-12-31          | 2022-08-04        |
+| BAMLC0A1CAAA             | ICE BofA AAA US Corporate Index Option-Adjusted Spread                                                     | 1996-12-31          | 2022-08-04        |
+| BAMLC0A1CAAAEY           | ICE BofA AAA US Corporate Index Effective Yield                                                            | 1996-12-31          | 2022-08-04        |
+| BAMLC0A1CAAASYTW         | ICE BofA AAA US Corporate Index Semi-Annual Yield to Worst                                                 | 1996-12-31          | 2022-08-04        |
+| BAMLC0A2CAA              | ICE BofA AA US Corporate Index Option-Adjusted Spread                                                      | 1996-12-31          | 2022-08-04        |
+| BAMLC0A2CAAEY            | ICE BofA AA US Corporate Index Effective Yield                                                             | 1996-12-31          | 2022-08-04        |
+| BAMLC0A2CAASYTW          | ICE BofA AA US Corporate Index Semi-Annual Yield to Worst                                                  | 1996-12-31          | 2022-08-04        |
+| BAMLC0A3CA               | ICE BofA Single-A US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-08-04        |
+| BAMLC0A3CAEY             | ICE BofA Single-A US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-08-04        |
+| BAMLC0A3CASYTW           | ICE BofA Single-A US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-08-04        |
+| BAMLC0A4CBBB             | ICE BofA BBB US Corporate Index Option-Adjusted Spread                                                     | 1996-12-31          | 2022-08-04        |
+| BAMLC0A4CBBBEY           | ICE BofA BBB US Corporate Index Effective Yield                                                            | 1996-12-31          | 2022-08-04        |
+| BAMLC0A4CBBBSYTW         | ICE BofA BBB US Corporate Index Semi-Annual Yield to Worst                                                 | 1996-12-31          | 2022-08-04        |
+| BAMLC1A0C13Y             | ICE BofA 1-3 Year US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-08-04        |
+| BAMLC1A0C13YEY           | ICE BofA 1-3 Year US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-08-04        |
+| BAMLC1A0C13YSYTW         | ICE BofA 1-3 Year US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-08-04        |
+| BAMLC2A0C35Y             | ICE BofA 3-5 Year US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-08-04        |
+| BAMLC2A0C35YEY           | ICE BofA 3-5 Year US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-08-04        |
+| BAMLC2A0C35YSYTW         | ICE BofA 3-5 Year US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-08-04        |
+| BAMLC3A0C57Y             | ICE BofA 5-7 Year US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-08-04        |
+| BAMLC3A0C57YEY           | ICE BofA 5-7 Year US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-08-04        |
+| BAMLC3A0C57YSYTW         | ICE BofA 5-7 Year US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-08-04        |
+| BAMLC4A0C710Y            | ICE BofA 7-10 Year US Corporate Index Option-Adjusted Spread                                               | 1996-12-31          | 2022-08-04        |
+| BAMLC4A0C710YEY          | ICE BofA 7-10 Year US Corporate Index Effective Yield                                                      | 1996-12-31          | 2022-08-04        |
+| BAMLC4A0C710YSYTW        | ICE BofA 7-10 Year US Corporate Index Semi-Annual Yield to Worst                                           | 1996-12-31          | 2022-08-04        |
+| BAMLC7A0C1015Y           | ICE BofA 10-15 Year US Corporate Index Option-Adjusted Spread                                              | 1996-12-31          | 2022-08-04        |
+| BAMLC7A0C1015YEY         | ICE BofA 10-15 Year US Corporate Index Effective Yield                                                     | 1996-12-31          | 2022-08-04        |
+| BAMLC7A0C1015YSYTW       | ICE BofA 10-15 Year US Corporate Index Semi-Annual Yield to Worst                                          | 1996-12-31          | 2022-08-04        |
+| BAMLC8A0C15PY            | ICE BofA 15+ Year US Corporate Index Option-Adjusted Spread                                                | 1996-12-31          | 2022-08-04        |
+| BAMLC8A0C15PYEY          | ICE BofA 15+ Year US Corporate Index Effective Yield                                                       | 1996-12-31          | 2022-08-04        |
+| BAMLC8A0C15PYSYTW        | ICE BofA 15+ Year US Corporate Index Semi-Annual Yield to Worst                                            | 1996-12-31          | 2022-08-04        |
+| BAMLEM1BRRAAA2ACRPIEY    | ICE BofA AAA-A Emerging Markets Corporate Plus Index Effective Yield                                       | 1998-12-31          | 2022-08-04        |
+| BAMLEM1BRRAAA2ACRPIOAS   | ICE BofA AAA-A Emerging Markets Corporate Plus Index Option-Adjusted Spread                                | 1998-12-31          | 2022-08-04        |
+| BAMLEM1BRRAAA2ACRPISYTW  | ICE BofA AAA-A Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                            | 1998-12-31          | 2022-08-04        |
+| BAMLEM1RAAA2ALCRPIUSEY   | ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Effective Yield                             | 2003-12-31          | 2022-08-04        |
+| BAMLEM1RAAA2ALCRPIUSOAS  | ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                      | 2003-12-31          | 2022-08-04        |
+| BAMLEM1RAAA2ALCRPIUSSYTW | ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                  | 2003-12-31          | 2022-08-04        |
+| BAMLEM2BRRBBBCRPIEY      | ICE BofA BBB Emerging Markets Corporate Plus Index Effective Yield                                         | 1998-12-31          | 2022-08-04        |
+| BAMLEM2BRRBBBCRPIOAS     | ICE BofA BBB Emerging Markets Corporate Plus Index Option-Adjusted Spread                                  | 1998-12-31          | 2022-08-04        |
+| BAMLEM2BRRBBBCRPISYTW    | ICE BofA BBB Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                              | 1998-12-31          | 2022-08-04        |
+| BAMLEM2RBBBLCRPIUSEY     | ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Effective Yield                               | 2003-12-31          | 2022-08-04        |
+| BAMLEM2RBBBLCRPIUSOAS    | ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                        | 2003-12-31          | 2022-08-04        |
+| BAMLEM2RBBBLCRPIUSSYTW   | ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                    | 2003-12-31          | 2022-08-04        |
+| BAMLEM3BRRBBCRPIEY       | ICE BofA BB Emerging Markets Corporate Plus Index Effective Yield                                          | 1998-12-31          | 2022-08-04        |
+| BAMLEM3BRRBBCRPIOAS      | ICE BofA BB Emerging Markets Corporate Plus Index Option-Adjusted Spread                                   | 1998-12-31          | 2022-08-04        |
+| BAMLEM3BRRBBCRPISYTW     | ICE BofA BB Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                               | 1998-12-31          | 2022-08-04        |
+| BAMLEM3RBBLCRPIUSEY      | ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Effective Yield                                | 2003-12-31          | 2022-08-04        |
+| BAMLEM3RBBLCRPIUSOAS     | ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                         | 2003-12-31          | 2022-08-04        |
+| BAMLEM3RBBLCRPIUSSYTW    | ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                     | 2003-12-31          | 2022-08-04        |
+| BAMLEM4BRRBLCRPIEY       | ICE BofA B & Lower Emerging Markets Corporate Plus Index Effective Yield                                   | 1998-12-31          | 2022-08-04        |
+| BAMLEM4BRRBLCRPIOAS      | ICE BofA B & Lower Emerging Markets Corporate Plus Index Option-Adjusted Spread                            | 1998-12-31          | 2022-08-04        |
+| BAMLEM4BRRBLCRPISYTW     | ICE BofA B & Lower Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                        | 1998-12-31          | 2022-08-04        |
+| BAMLEM4RBLLCRPIUSEY      | ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Effective Yield                         | 2003-12-31          | 2022-08-04        |
+| BAMLEM4RBLLCRPIUSOAS     | ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                  | 2003-12-31          | 2022-08-04        |
+| BAMLEM4RBLLCRPIUSSYTW    | ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst              | 2003-12-31          | 2022-08-04        |
+| BAMLEM5BCOCRPIEY         | ICE BofA Crossover Emerging Markets Corporate Plus Index Effective Yield                                   | 1998-12-31          | 2022-08-04        |
+| BAMLEM5BCOCRPIOAS        | ICE BofA Crossover Emerging Markets Corporate Plus Index Option-Adjusted Spread                            | 1998-12-31          | 2022-08-04        |
+| BAMLEM5BCOCRPISYTW       | ICE BofA Crossover Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                        | 1998-12-31          | 2022-08-04        |
+| BAMLEMALLCRPIASIAUSEY    | ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Effective Yield                              | 2003-12-31          | 2022-08-04        |
+| BAMLEMALLCRPIASIAUSOAS   | ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                       | 2003-12-31          | 2022-08-04        |
+| BAMLEMALLCRPIASIAUSSYTW  | ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                   | 2003-12-31          | 2022-08-04        |
+| BAMLEMCBPIEY             | ICE BofA Emerging Markets Corporate Plus Index Effective Yield                                             | 1998-12-31          | 2022-08-04        |
+| BAMLEMCBPIOAS            | ICE BofA Emerging Markets Corporate Plus Index Option-Adjusted Spread                                      | 1998-12-31          | 2022-08-04        |
+| BAMLEMCBPISYTW           | ICE BofA Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                                  | 1998-12-31          | 2022-08-04        |
+| BAMLEMCLLCRPIUSEY        | ICE BofA US Emerging Markets Liquid Corporate Plus Index Effective Yield                                   | 2003-12-31          | 2022-08-04        |
+| BAMLEMCLLCRPIUSOAS       | ICE BofA US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                            | 2003-12-31          | 2022-08-04        |
+| BAMLEMCLLCRPIUSSYTW      | ICE BofA US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                        | 2003-12-31          | 2022-08-04        |
+| BAMLEMEBCRPIEEY          | ICE BofA Euro Emerging Markets Corporate Plus Index Effective Yield                                        | 1998-12-31          | 2022-08-04        |
+| BAMLEMEBCRPIEOAS         | ICE BofA Euro Emerging Markets Corporate Plus Index Option-Adjusted Spread                                 | 1998-12-31          | 2022-08-04        |
+| BAMLEMEBCRPIESYTW        | ICE BofA Euro Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                             | 1998-12-31          | 2022-08-04        |
+| BAMLEMELLCRPIEMEAUSEY    | ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Effective Yield                              | 2003-12-31          | 2022-08-04        |
+| BAMLEMELLCRPIEMEAUSOAS   | ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                       | 2003-12-31          | 2022-08-04        |
+| BAMLEMELLCRPIEMEAUSSYTW  | ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst                   | 2003-12-31          | 2022-08-04        |
+| BAMLEMFLFLCRPIUSEY       | ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Effective Yield                         | 2003-12-31          | 2022-08-04        |
+| BAMLEMFLFLCRPIUSOAS      | ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                  | 2003-12-31          | 2022-08-04        |
+| BAMLEMFLFLCRPIUSSYTW     | ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst              | 2003-12-31          | 2022-08-04        |
+| BAMLEMFSFCRPIEY          | ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Effective Yield                    | 1998-12-31          | 2022-08-04        |
+| BAMLEMFSFCRPIOAS         | ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Option-Adjusted Spread             | 1998-12-31          | 2022-08-04        |
+| BAMLEMFSFCRPISYTW        | ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst         | 1998-12-31          | 2022-08-04        |
+| BAMLEMHBHYCRPIEY         | ICE BofA High Yield Emerging Markets Corporate Plus Index Effective Yield                                  | 1998-12-31          | 2022-08-04        |
+| BAMLEMHBHYCRPIOAS        | ICE BofA High Yield Emerging Markets Corporate Plus Index Option-Adjusted Spread                           | 1998-12-31          | 2022-08-04        |
+| BAMLEMHBHYCRPISYTW       | ICE BofA High Yield Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                       | 1998-12-31          | 2022-08-04        |
+| BAMLEMHGHGLCRPIUSEY      | ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Effective Yield                        | 2003-12-31          | 2022-08-04        |
+| BAMLEMHGHGLCRPIUSOAS     | ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                 | 2003-12-31          | 2022-08-04        |
+| BAMLEMHGHGLCRPIUSSYTW    | ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst             | 2003-12-31          | 2022-08-04        |
+| BAMLEMHYHYLCRPIUSEY      | ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Effective Yield                        | 2003-12-31          | 2022-08-04        |
+| BAMLEMHYHYLCRPIUSOAS     | ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                 | 2003-12-31          | 2022-08-04        |
+| BAMLEMHYHYLCRPIUSSYTW    | ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst             | 2003-12-31          | 2022-08-04        |
+| BAMLEMIBHGCRPIEY         | ICE BofA High Grade Emerging Markets Corporate Plus Index Effective Yield                                  | 1998-12-31          | 2022-08-04        |
+| BAMLEMIBHGCRPIOAS        | ICE BofA High Grade Emerging Markets Corporate Plus Index Option-Adjusted Spread                           | 1998-12-31          | 2022-08-04        |
+| BAMLEMIBHGCRPISYTW       | ICE BofA High Grade Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                       | 1998-12-31          | 2022-08-04        |
+| BAMLEMLLLCRPILAUSEY      | ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Effective Yield                     | 2003-12-31          | 2022-08-04        |
+| BAMLEMLLLCRPILAUSOAS     | ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread              | 2003-12-31          | 2022-08-04        |
+| BAMLEMLLLCRPILAUSSYTW    | ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst          | 2003-12-31          | 2022-08-04        |
+| BAMLEMNFNFLCRPIUSEY      | ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Effective Yield                     | 2003-12-31          | 2022-08-04        |
+| BAMLEMNFNFLCRPIUSOAS     | ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread              | 2003-12-31          | 2022-08-04        |
+| BAMLEMNFNFLCRPIUSSYTW    | ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst          | 2003-12-31          | 2022-08-04        |
+| BAMLEMNSNFCRPIEY         | ICE BofA Non-Financial Emerging Markets Corporate Plus Index Effective Yield                               | 1998-12-31          | 2022-08-04        |
+| BAMLEMNSNFCRPIOAS        | ICE BofA Non-Financial Emerging Markets Corporate Plus Index Option-Adjusted Spread                        | 1998-12-31          | 2022-08-04        |
+| BAMLEMNSNFCRPISYTW       | ICE BofA Non-Financial Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                    | 1998-12-31          | 2022-08-04        |
+| BAMLEMPBPUBSICRPIEY      | ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Effective Yield                       | 1998-12-31          | 2022-08-04        |
+| BAMLEMPBPUBSICRPIOAS     | ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Option-Adjusted Spread                | 1998-12-31          | 2022-08-04        |
+| BAMLEMPBPUBSICRPISYTW    | ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst            | 1998-12-31          | 2022-08-04        |
+| BAMLEMPTPRVICRPIEY       | ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Effective Yield                      | 1998-12-31          | 2022-08-04        |
+| BAMLEMPTPRVICRPIOAS      | ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Option-Adjusted Spread               | 1998-12-31          | 2022-08-04        |
+| BAMLEMPTPRVICRPISYTW     | ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst           | 1998-12-31          | 2022-08-04        |
+| BAMLEMPUPUBSLCRPIUSEY    | ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Effective Yield             | 2003-12-31          | 2022-08-04        |
+| BAMLEMPUPUBSLCRPIUSOAS   | ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread      | 2003-12-31          | 2022-08-04        |
+| BAMLEMPUPUBSLCRPIUSSYTW  | ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst  | 2003-12-31          | 2022-08-04        |
+| BAMLEMPVPRIVSLCRPIUSEY   | ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Effective Yield            | 2003-12-31          | 2022-08-04        |
+| BAMLEMPVPRIVSLCRPIUSOAS  | ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread     | 2003-12-31          | 2022-08-04        |
+| BAMLEMPVPRIVSLCRPIUSSYTW | ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst | 2003-12-31          | 2022-08-04        |
+| BAMLEMRACRPIASIAEY       | ICE BofA Asia Emerging Markets Corporate Plus Index Effective Yield                                        | 1998-12-31          | 2022-08-04        |
+| BAMLEMRACRPIASIAOAS      | ICE BofA Asia Emerging Markets Corporate Plus Index Option-Adjusted Spread                                 | 1998-12-31          | 2022-08-04        |
+| BAMLEMRACRPIASIASYTW     | ICE BofA Asia Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                             | 1998-12-31          | 2022-08-04        |
+| BAMLEMRECRPIEMEAEY       | ICE BofA EMEA Emerging Markets Corporate Plus Index Effective Yield                                        | 1998-12-31          | 2022-08-04        |
+| BAMLEMRECRPIEMEAOAS      | ICE BofA EMEA Emerging Markets Corporate Plus Index Option-Adjusted Spread                                 | 1998-12-31          | 2022-08-04        |
+| BAMLEMRECRPIEMEASYTW     | ICE BofA EMEA Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                             | 1998-12-31          | 2022-08-04        |
+| BAMLEMRLCRPILAEY         | ICE BofA Latin America Emerging Markets Corporate Plus Index Effective Yield                               | 1998-12-31          | 2022-08-04        |
+| BAMLEMRLCRPILAOAS        | ICE BofA Latin America Emerging Markets Corporate Plus Index Option-Adjusted Spread                        | 1998-12-31          | 2022-08-04        |
+| BAMLEMRLCRPILASYTW       | ICE BofA Latin America Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                    | 1998-12-31          | 2022-08-04        |
+| BAMLEMUBCRPIUSEY         | ICE BofA US Emerging Markets Corporate Plus Index Effective Yield                                          | 1998-12-31          | 2022-08-04        |
+| BAMLEMUBCRPIUSOAS        | ICE BofA US Emerging Markets Corporate Plus Index Option-Adjusted Spread                                   | 1998-12-31          | 2022-08-04        |
+| BAMLEMUBCRPIUSSYTW       | ICE BofA US Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst                               | 1998-12-31          | 2022-08-04        |
+| BAMLEMXOCOLCRPIUSEY      | ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Effective Yield                         | 2003-12-31          | 2022-08-04        |
+| BAMLEMXOCOLCRPIUSOAS     | ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread                  | 2003-12-31          | 2022-08-04        |
+| BAMLEMXOCOLCRPIUSSYTW    | ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst              | 2003-12-31          | 2022-08-04        |
+| BAMLH0A0HYM2             | ICE BofA US High Yield Index Option-Adjusted Spread                                                        | 1996-12-31          | 2022-08-04        |
+| BAMLH0A0HYM2EY           | ICE BofA US High Yield Index Effective Yield                                                               | 1996-12-31          | 2022-08-04        |
+| BAMLH0A0HYM2SYTW         | ICE BofA US High Yield Index Semi-Annual Yield to Worst                                                    | 1996-12-31          | 2022-08-04        |
+| BAMLH0A1HYBB             | ICE BofA BB US High Yield Index Option-Adjusted Spread                                                     | 1996-12-31          | 2022-08-04        |
+| BAMLH0A1HYBBEY           | ICE BofA BB US High Yield Index Effective Yield                                                            | 1996-12-31          | 2022-08-04        |
+| BAMLH0A1HYBBSYTW         | ICE BofA BB US High Yield Index Semi-Annual Yield to Worst                                                 | 1996-12-31          | 2022-08-04        |
+| BAMLH0A2HYB              | ICE BofA Single-B US High Yield Index Option-Adjusted Spread                                               | 1996-12-31          | 2022-08-04        |
+| BAMLH0A2HYBEY            | ICE BofA Single-B US High Yield Index Effective Yield                                                      | 1996-12-31          | 2022-08-04        |
+| BAMLH0A2HYBSYTW          | ICE BofA Single-B US High Yield Index Semi-Annual Yield to Worst                                           | 1996-12-31          | 2022-08-04        |
+| BAMLH0A3HYC              | ICE BofA CCC & Lower US High Yield Index Option-Adjusted Spread                                            | 1996-12-31          | 2022-08-04        |
+| BAMLH0A3HYCEY            | ICE BofA CCC & Lower US High Yield Index Effective Yield                                                   | 1996-12-31          | 2022-08-04        |
+| BAMLH0A3HYCSYTW          | ICE BofA CCC & Lower US High Yield Index Semi-Annual Yield to Worst                                        | 1996-12-31          | 2022-08-04        |
+| BAMLHE00EHYIEY           | ICE BofA Euro High Yield Index Effective Yield                                                             | 1997-12-31          | 2022-08-04        |
+| BAMLHE00EHYIOAS          | ICE BofA Euro High Yield Index Option-Adjusted Spread                                                      | 1997-12-31          | 2022-08-04        |
+| BAMLHE00EHYISYTW         | ICE BofA Euro High Yield Index Semi-Annual Yield to Worst                                                  | 1997-12-31          | 2022-08-04        |
+| DAAA                     | Moody's Seasoned Aaa Corporate Bond Yield                                                                  | 1983-01-03          | 2022-08-04        |
+| DBAA                     | Moody's Seasoned Baa Corporate Bond Yield                                                                  | 1986-01-02          | 2022-08-04        |
 | HQMCB1Y6M                | 1.5-Year High Quality Market (HQM) Corporate Bond Spot Rate                                                | 1984-01-01          | 2022-06-01        |
 | HQMCB1YR                 | 1-Year High Quality Market (HQM) Corporate Bond Spot Rate                                                  | 1984-01-01          | 2022-06-01        |
 | HQMCB2Y6M                | 2.5-Year High Quality Market (HQM) Corporate Bond Spot Rate                                                | 1984-01-01          | 2022-06-01        |
@@ -352,5 +352,5 @@
 | HQMCB99Y6M               | 99.5-Year High Quality Market (HQM) Corporate Bond Spot Rate                                               | 1984-01-01          | 2022-06-01        |
 | HQMCB99YR                | 99-Year High Quality Market (HQM) Corporate Bond Spot Rate                                                 | 1984-01-01          | 2022-06-01        |
 | HQMCB100YR               | 100-Year High Quality Market (HQM) Corporate Bond Spot Rate                                                | 1984-01-01          | 2022-06-01        |
-| WAAA                     | Moody's Seasoned Aaa Corporate Bond Yield                                                                  | 1962-01-05          | 2022-07-22        |
-| WBAA                     | Moody's Seasoned Baa Corporate Bond Yield                                                                  | 1962-01-05          | 2022-07-22        |
+| WAAA                     | Moody's Seasoned Aaa Corporate Bond Yield                                                                  | 1962-01-05          | 2022-07-29        |
+| WBAA                     | Moody's Seasoned Baa Corporate Bond Yield                                                                  | 1962-01-05          | 2022-07-29        |

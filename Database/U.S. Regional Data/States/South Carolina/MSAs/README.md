@@ -7,7 +7,7 @@
 | Augusta-Richmond County, GA-SC                |                 0 |
 | Sumter, SC                                    |               109 |
 | Charleston-North Charleston, SC               |               175 |
-| Hilton Head Island-Bluffton, SC               |                 0 |
+| Hilton Head Island-Bluffton, SC               |                59 |
 | Spartanburg, SC                               |               165 |
 | Columbia, SC                                  |               172 |
 | Myrtle Beach-Conway-North Myrtle Beach, SC-NC |                 0 |

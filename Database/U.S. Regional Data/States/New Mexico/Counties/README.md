@@ -31,5 +31,5 @@
 | Catron County, NM     |                87 |
 | Luna County, NM       |                90 |
 | Union County, NM      |                87 |
-| Otero County, NM      |                 0 |
+| Otero County, NM      |               147 |
 | Socorro County, NM    |                90 |

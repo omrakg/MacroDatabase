@@ -21,9 +21,9 @@
 | ENUC308640510SA           | Average Weekly Wages for Employees in Private Establishments in Logan, UT-ID (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD30860                 | Implicit Regional Price Deflator for Logan, UT-ID (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT493086000000003A     | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT493086000000004      | Unemployed Persons in Logan, UT-ID (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT493086000000004      | Unemployed Persons in Logan, UT-ID (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT493086000000004A     | Unemployed Persons in Logan, UT-ID (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT493086000000005      | Employed Persons in Logan, UT-ID (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT493086000000005      | Employed Persons in Logan, UT-ID (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT493086000000005A     | Employed Persons in Logan, UT-ID (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT493086000000006A     | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LOGA849EDUH               | All Employees: Education and Health Services in Logan, UT-ID (MSA)                                            | 1990-01-01          | 2022-06-01        |
@@ -36,8 +36,8 @@
 | LOGA849INFON              | All Employees: Information in Logan, UT-ID (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | LOGA849LEIH               | All Employees: Leisure and Hospitality in Logan, UT-ID (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | LOGA849LEIHN              | All Employees: Leisure and Hospitality in Logan, UT-ID (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| LOGA849LF                 | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| LOGA849LFN                | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| LOGA849LF                 | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| LOGA849LFN                | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | LOGA849MFG                | All Employees: Manufacturing in Logan, UT-ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | LOGA849MFGN               | All Employees: Manufacturing in Logan, UT-ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | LOGA849NA                 | All Employees: Total Nonfarm in Logan, UT-ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -51,8 +51,8 @@
 | LOGA849SRVON              | All Employees: Other Services in Logan, UT-ID (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | LOGA849TRAD               | All Employees: Trade, Transportation, and Utilities in Logan, UT-ID (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | LOGA849TRADN              | All Employees: Trade, Transportation, and Utilities in Logan, UT-ID (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| LOGA849UR                 | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| LOGA849URN                | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| LOGA849UR                 | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| LOGA849URN                | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | LOGPOP                    | Resident Population in Logan, UT-ID (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | MEDDAYONMAR30860          | Housing Inventory: Median Days on Market in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-06-01        |
 | MEDDAYONMARMM30860        | Housing Inventory: Median Days on Market Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-06-01        |

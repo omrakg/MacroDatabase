@@ -2,7 +2,7 @@
 |-----------------------|-------------------|
 | Humboldt County, NV   |                90 |
 | Lincoln County, NV    |                88 |
-| Clark County, NV      |               146 |
+| Clark County, NV      |                 0 |
 | Pershing County, NV   |                89 |
 | Churchill County, NV  |                90 |
 | Eureka County, NV     |                85 |

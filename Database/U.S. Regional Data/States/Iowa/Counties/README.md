@@ -17,9 +17,9 @@
 | Crawford County, IA      |                90 |
 | Fayette County, IA       |                90 |
 | Monroe County, IA        |                88 |
-| Adams County, IA         |                 0 |
+| Adams County, IA         |                89 |
 | Carroll County, IA       |                90 |
-| Howard County, IA        |                90 |
+| Howard County, IA        |                 0 |
 | Lucas County, IA         |                89 |
 | Buena Vista County, IA   |                90 |
 | Jackson County, IA       |                89 |
@@ -77,7 +77,7 @@
 | Montgomery County, IA    |                89 |
 | Poweshiek County, IA     |                90 |
 | Story County, IA         |               147 |
-| Palo Alto County, IA     |                 0 |
+| Palo Alto County, IA     |                90 |
 | Winnebago County, IA     |                90 |
 | Dubuque County, IA       |               147 |
 | Bremer County, IA        |                90 |

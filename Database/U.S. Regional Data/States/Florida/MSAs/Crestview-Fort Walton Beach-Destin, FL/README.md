@@ -32,7 +32,7 @@
 | FORT012LEIH               | All Employees: Leisure and Hospitality in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | FORT012LEIHN              | All Employees: Leisure and Hospitality in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | FORT012LF                 | Civilian Labor Force in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                    | 1990-01-01          | 2018-02-01        |
-| FORT012LFN                | Civilian Labor Force in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| FORT012LFN                | Civilian Labor Force in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | FORT012MFG                | All Employees: Manufacturing in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | FORT012MFGN               | All Employees: Manufacturing in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | FORT012NA                 | All Employees: Total Nonfarm in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -47,7 +47,7 @@
 | FORT012TRAD               | All Employees: Trade, Transportation, and Utilities in Crestview-Fort Walton Beach-Destin, FL (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | FORT012TRADN              | All Employees: Trade, Transportation, and Utilities in Crestview-Fort Walton Beach-Destin, FL (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | FORT012UR                 | Unemployment Rate in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                       | 1990-01-01          | 2018-02-01        |
-| FORT012URN                | Unemployment Rate in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| FORT012URN                | Unemployment Rate in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | FWBPOP                    | Resident Population in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | HORAMMMSA18880            | Market Hotness: Hotness Rank in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HORAMSA18880              | Market Hotness: Hotness Rank in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
@@ -55,9 +55,9 @@
 | HOSCMSA18880              | Market Hotness: Hotness Score in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD18880                 | Implicit Regional Price Deflator for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT121888000000003A     | Unemployment Rate in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT121888000000004      | Unemployed Persons in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT121888000000004      | Unemployed Persons in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT121888000000004A     | Unemployed Persons in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT121888000000005      | Employed Persons in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT121888000000005      | Employed Persons in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT121888000000005A     | Employed Persons in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT121888000000006A     | Civilian Labor Force in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA18880          | Market Hotness: Listing Views per Property in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |

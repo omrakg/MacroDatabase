@@ -23,7 +23,7 @@
 | St. Lucie County, FL    |               147 |
 | Volusia County, FL      |               147 |
 | Columbia County, FL     |               146 |
-| Brevard County, FL      |               147 |
+| Brevard County, FL      |                 0 |
 | Gilchrist County, FL    |                90 |
 | Highlands County, FL    |               147 |
 | Okeechobee County, FL   |                89 |

@@ -5,7 +5,7 @@
 | Carroll County, NH      |                90 |
 | Hillsborough County, NH |               146 |
 | Coos County, NH         |                88 |
-| Strafford County, NH    |                 0 |
+| Strafford County, NH    |               146 |
 | Merrimack County, NH    |               147 |
 | Grafton County, NH      |               146 |
 | Sullivan County, NH     |                89 |

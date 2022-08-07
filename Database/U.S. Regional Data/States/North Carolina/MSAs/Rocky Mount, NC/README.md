@@ -26,9 +26,9 @@
 | HOSCMSA40580              | Market Hotness: Hotness Score in Rocky Mount, NC (CBSA)                                            | 2017-08-01          | 2022-06-01        |
 | IRPD40580                 | Implicit Regional Price Deflator for Rocky Mount, NC (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT374058000000003A     | Unemployment Rate in Rocky Mount, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT374058000000004      | Unemployed Persons in Rocky Mount, NC (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT374058000000004      | Unemployed Persons in Rocky Mount, NC (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT374058000000004A     | Unemployed Persons in Rocky Mount, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT374058000000005      | Employed Persons in Rocky Mount, NC (MSA)                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT374058000000005      | Employed Persons in Rocky Mount, NC (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT374058000000005A     | Employed Persons in Rocky Mount, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT374058000000006A     | Civilian Labor Force in Rocky Mount, NC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA40580          | Market Hotness: Listing Views per Property in Rocky Mount, NC (CBSA)                               | 2018-08-01          | 2022-06-01        |
@@ -80,8 +80,8 @@
 | ROCK537GOVTN              | All Employees: Government in Rocky Mount, NC (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | ROCK537LEIH               | All Employees: Leisure and Hospitality in Rocky Mount, NC (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | ROCK537LEIHN              | All Employees: Leisure and Hospitality in Rocky Mount, NC (MSA)                                    | 1990-01-01          | 2022-06-01        |
-| ROCK537LF                 | Civilian Labor Force in Rocky Mount, NC (MSA)                                                      | 1990-01-01          | 2022-05-01        |
-| ROCK537LFN                | Civilian Labor Force in Rocky Mount, NC (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| ROCK537LF                 | Civilian Labor Force in Rocky Mount, NC (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| ROCK537LFN                | Civilian Labor Force in Rocky Mount, NC (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | ROCK537MFG                | All Employees: Manufacturing in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | ROCK537MFGN               | All Employees: Manufacturing in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | ROCK537NA                 | All Employees: Total Nonfarm in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-06-01        |
@@ -93,8 +93,8 @@
 | ROCK537PCPI               | Per Capita Personal Income in Rocky Mount, NC (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | ROCK537TRAD               | All Employees: Trade, Transportation, and Utilities in Rocky Mount, NC (MSA)                       | 1990-01-01          | 2022-06-01        |
 | ROCK537TRADN              | All Employees: Trade, Transportation, and Utilities in Rocky Mount, NC (MSA)                       | 1990-01-01          | 2022-06-01        |
-| ROCK537UR                 | Unemployment Rate in Rocky Mount, NC (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| ROCK537URN                | Unemployment Rate in Rocky Mount, NC (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| ROCK537UR                 | Unemployment Rate in Rocky Mount, NC (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| ROCK537URN                | Unemployment Rate in Rocky Mount, NC (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | RPI40580                  | Real Personal Income for Rocky Mount, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC40580                | Real Per Capita Personal Income for Rocky Mount, NC (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL40580               | Regional Price Parities: All Items for Rocky Mount, NC (MSA)                                       | 2008-01-01          | 2020-01-01        |

@@ -4,7 +4,7 @@
 | Prince of Wales-Hyder Census Area, AK           |                83 |
 | Fairbanks North Star Borough, AK                |               146 |
 | Kenai Peninsula Borough, AK                     |                88 |
-| Aleutian Islands Census Area                    |                 4 |
+| Aleutian Islands Census Area                    |                 0 |
 | Anchorage Borough - municipality, AK            |                 0 |
 | Haines Borough, AK                              |                87 |
 | Wade Hampton Census Area, AK                    |                13 |
@@ -32,4 +32,4 @@
 | North Slope Borough, AK                         |                87 |
 | Valdez-Cordova Census Area, AK                  |                87 |
 | Ketchikan Gateway Borough, AK                   |                88 |
-| Denali Borough, AK                              |                 0 |
+| Denali Borough, AK                              |                83 |

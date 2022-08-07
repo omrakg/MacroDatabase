@@ -1,6 +1,6 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| Leake County, MS           |                 0 |
+| Leake County, MS           |                89 |
 | Tallahatchie County, MS    |                87 |
 | Yalobusha County, MS       |                87 |
 | Wilkinson County, MS       |                88 |
@@ -32,7 +32,7 @@
 | Alcorn County, MS          |                89 |
 | Washington County, MS      |                90 |
 | Leflore County, MS         |                90 |
-| Tippah County, MS          |                90 |
+| Tippah County, MS          |                 0 |
 | Jones County, MS           |               146 |
 | Prentiss County, MS        |                88 |
 | Hancock County, MS         |               146 |
@@ -60,7 +60,7 @@
 | Marshall County, MS        |                90 |
 | Adams County, MS           |                89 |
 | Noxubee County, MS         |                87 |
-| Copiah County, MS          |                 0 |
+| Copiah County, MS          |                89 |
 | Marion County, MS          |                89 |
 | Issaquena County, MS       |                88 |
 | Monroe County, MS          |                89 |

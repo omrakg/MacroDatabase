@@ -47,13 +47,13 @@
 | Stanley County, SD       |                89 |
 | Clay County, SD          |                90 |
 | Marshall County, SD      |                89 |
-| Sully County, SD         |                 0 |
+| Sully County, SD         |                85 |
 | Custer County, SD        |                89 |
 | Jerauld County, SD       |                88 |
 | Hanson County, SD        |                88 |
 | Moody County, SD         |                89 |
 | Hughes County, SD        |                90 |
-| Lawrence County, SD      |                90 |
+| Lawrence County, SD      |                 0 |
 | Tripp County, SD         |                88 |
 | Potter County, SD        |                87 |
 | Dewey County, SD         |                89 |

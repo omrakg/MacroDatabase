@@ -28,12 +28,12 @@
 | DDOI01SMA156NWDB  | Bank Concentration for San Marino                                                                                           | 2004-01-01          | 2013-01-01        |
 | DDOI02SMA156NWDB  | Bank Deposits to GDP for San Marino                                                                                         | 2001-01-01          | 2018-01-01        |
 | DDOI05SMA156NWDB  | Boone Indicator in Banking Market for San Marino                                                                            | 1999-01-01          | 2014-01-01        |
-| DDOI06SMA156NWDB  | 5-Bank Asset Concentration for San Marino                                                                                   | 2005-01-01          | 2012-01-01        |
+| DDOI06SMA156NWDB  | 5-Bank Asset Concentration for San Marino                                                                                   | 2005-01-01          | 2010-01-01        |
 | DDOI07SMA648NWDB  | Liquid Liabilities (Broad Money) for San Marino                                                                             | 1993-01-01          | 2020-01-01        |
 | DDSI01SMA645NWDB  | Bank Z-Score for San Marino                                                                                                 | 2004-01-01          | 2013-01-01        |
 | DDSI04SMA156NWDB  | Bank Credit to Bank Deposits for San Marino                                                                                 | 2001-01-01          | 2017-01-01        |
 | DEBTTLSMA188A     | Central government debt, total (% of GDP) for San Marino                                                                    | 2002-01-01          | 2016-01-01        |
-| EXP4751           | U.S. Exports of Goods by F.A.S. Basis to San Marino                                                                         | 1992-01-01          | 2022-05-01        |
+| EXP4751           | U.S. Exports of Goods by F.A.S. Basis to San Marino                                                                         | 1992-01-01          | 2022-06-01        |
 | FLSMRA052SCEN     | Value of Exports to San Marino from Florida                                                                                 | 2002-01-01          | 2017-01-01        |
 | FLSMRA475SCEN     | Number of Identified Exporters to San Marino from Florida                                                                   | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGSMR    | Inflation, consumer prices for San Marino                                                                                   | 2004-01-01          | 2017-01-01        |
@@ -44,7 +44,7 @@
 | ICBUSEASEXQSMR    | Ease of doing business index for San Marino                                                                                 | 2019-01-01          | 2019-01-01        |
 | ILSMRA052SCEN     | Value of Exports to San Marino from Illinois                                                                                | 2009-01-01          | 2009-01-01        |
 | ILSMRA475SCEN     | Number of Identified Exporters to San Marino from Illinois                                                                  | 1997-01-01          | 2016-01-01        |
-| IMP4751           | U.S. Imports of Goods by Customs Basis from San Marino                                                                      | 1992-01-01          | 2022-05-01        |
+| IMP4751           | U.S. Imports of Goods by Customs Basis from San Marino                                                                      | 1992-01-01          | 2022-06-01        |
 | INSMRA052SCEN     | Value of Exports to San Marino from Indiana                                                                                 | 2014-01-01          | 2014-01-01        |
 | INSMRA475SCEN     | Number of Identified Exporters to San Marino from Indiana                                                                   | 2005-01-01          | 2016-01-01        |
 | ITNETUSERP2SMR    | Internet users for San Marino                                                                                               | 1990-01-01          | 2017-01-01        |

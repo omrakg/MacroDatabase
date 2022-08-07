@@ -22,9 +22,9 @@
 | HOSCMSA39900              | Market Hotness: Hotness Score in Reno, NV (CBSA)                                                                                              | 2017-08-01          | 2022-06-01        |
 | IRPD39900                 | Implicit Regional Price Deflator for Reno, NV (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT323990000000003A     | Unemployment Rate in Reno, NV (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT323990000000004      | Unemployed Persons in Reno, NV (MSA)                                                                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT323990000000004      | Unemployed Persons in Reno, NV (MSA)                                                                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT323990000000004A     | Unemployed Persons in Reno, NV (MSA)                                                                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT323990000000005      | Employed Persons in Reno, NV (MSA)                                                                                                            | 1990-01-01          | 2022-05-01        |
+| LAUMT323990000000005      | Employed Persons in Reno, NV (MSA)                                                                                                            | 1990-01-01          | 2022-06-01        |
 | LAUMT323990000000005A     | Employed Persons in Reno, NV (MSA)                                                                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT323990000000006A     | Civilian Labor Force in Reno, NV (MSA)                                                                                                        | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA39900          | Market Hotness: Listing Views per Property in Reno, NV (CBSA)                                                                                 | 2018-08-01          | 2022-06-01        |
@@ -82,8 +82,8 @@
 | RENO932INFON              | All Employees: Information in Reno, NV (MSA)                                                                                                  | 1990-01-01          | 2022-06-01        |
 | RENO932LEIH               | All Employees: Leisure and Hospitality in Reno, NV (MSA)                                                                                      | 1990-01-01          | 2022-06-01        |
 | RENO932LEIHN              | All Employees: Leisure and Hospitality in Reno, NV (MSA)                                                                                      | 1990-01-01          | 2022-06-01        |
-| RENO932LF                 | Civilian Labor Force in Reno, NV (MSA)                                                                                                        | 1990-01-01          | 2022-05-01        |
-| RENO932LFN                | Civilian Labor Force in Reno, NV (MSA)                                                                                                        | 1990-01-01          | 2022-05-01        |
+| RENO932LF                 | Civilian Labor Force in Reno, NV (MSA)                                                                                                        | 1990-01-01          | 2022-06-01        |
+| RENO932LFN                | Civilian Labor Force in Reno, NV (MSA)                                                                                                        | 1990-01-01          | 2022-06-01        |
 | RENO932MFG                | All Employees: Manufacturing in Reno, NV (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
 | RENO932MFGN               | All Employees: Manufacturing in Reno, NV (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
 | RENO932NA                 | All Employees: Total Nonfarm in Reno, NV (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
@@ -95,8 +95,8 @@
 | RENO932SRVON              | All Employees: Other Services in Reno, NV (MSA)                                                                                               | 1990-01-01          | 2022-06-01        |
 | RENO932TRAD               | All Employees: Trade, Transportation, and Utilities in Reno, NV (MSA)                                                                         | 1990-01-01          | 2022-06-01        |
 | RENO932TRADN              | All Employees: Trade, Transportation, and Utilities in Reno, NV (MSA)                                                                         | 1990-01-01          | 2022-06-01        |
-| RENO932UR                 | Unemployment Rate in Reno, NV (MSA)                                                                                                           | 1990-01-01          | 2022-05-01        |
-| RENO932URN                | Unemployment Rate in Reno, NV (MSA)                                                                                                           | 1990-01-01          | 2022-05-01        |
+| RENO932UR                 | Unemployment Rate in Reno, NV (MSA)                                                                                                           | 1990-01-01          | 2022-06-01        |
+| RENO932URN                | Unemployment Rate in Reno, NV (MSA)                                                                                                           | 1990-01-01          | 2022-06-01        |
 | RENPOP                    | Resident Population in Reno, NV (MSA)                                                                                                         | 2000-01-01          | 2021-01-01        |
 | RGMP39900                 | Total Real Gross Domestic Product for Reno, NV (MSA)                                                                                          | 2001-01-01          | 2020-01-01        |
 | RPI39900                  | Real Personal Income for Reno, NV (MSA)                                                                                                       | 2008-01-01          | 2020-01-01        |

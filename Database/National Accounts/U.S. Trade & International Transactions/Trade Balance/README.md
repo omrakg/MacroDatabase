@@ -2,9 +2,9 @@
 |----------|--------------------------------------------------------------|---------------------|-------------------|
 | AITGCBN  | Advance U.S. International Trade in Goods: Balance           | 2022-06-01          | 2022-06-01        |
 | AITGCBS  | Advance U.S. International Trade in Goods: Balance           | 2022-06-01          | 2022-06-01        |
-| BOPGSTB  | Trade Balance: Goods and Services, Balance of Payments Basis | 1992-01-01          | 2022-05-01        |
-| BOPGTB   | Trade Balance: Goods, Balance of Payments Basis              | 1992-01-01          | 2022-05-01        |
-| BOPSTB   | Trade Balance: Services, Balance of Payments Basis           | 1992-01-01          | 2022-05-01        |
+| BOPGSTB  | Trade Balance: Goods and Services, Balance of Payments Basis | 1992-01-01          | 2022-06-01        |
+| BOPGTB   | Trade Balance: Goods, Balance of Payments Basis              | 1992-01-01          | 2022-06-01        |
+| BOPSTB   | Trade Balance: Services, Balance of Payments Basis           | 1992-01-01          | 2022-06-01        |
 | IEABC    | Balance on current account                                   | 1999-01-01          | 2022-01-01        |
 | IEABCA   | Balance on current account                                   | 1999-01-01          | 2021-01-01        |
 | IEABCG   | Balance on goods                                             | 1999-01-01          | 2022-01-01        |

@@ -27,8 +27,8 @@
 | IDAH816INFON              | All Employees: Information in Idaho Falls, ID (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | IDAH816LEIH               | All Employees: Leisure and Hospitality in Idaho Falls, ID (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | IDAH816LEIHN              | All Employees: Leisure and Hospitality in Idaho Falls, ID (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| IDAH816LF                 | Civilian Labor Force in Idaho Falls, ID (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| IDAH816LFN                | Civilian Labor Force in Idaho Falls, ID (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| IDAH816LF                 | Civilian Labor Force in Idaho Falls, ID (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| IDAH816LFN                | Civilian Labor Force in Idaho Falls, ID (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | IDAH816MFG                | All Employees: Manufacturing in Idaho Falls, ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | IDAH816MFGN               | All Employees: Manufacturing in Idaho Falls, ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | IDAH816NA                 | All Employees: Total Nonfarm in Idaho Falls, ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -42,14 +42,14 @@
 | IDAH816SRVON              | All Employees: Other Services in Idaho Falls, ID (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | IDAH816TRAD               | All Employees: Trade, Transportation, and Utilities in Idaho Falls, ID (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | IDAH816TRADN              | All Employees: Trade, Transportation, and Utilities in Idaho Falls, ID (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| IDAH816UR                 | Unemployment Rate in Idaho Falls, ID (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| IDAH816URN                | Unemployment Rate in Idaho Falls, ID (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| IDAH816UR                 | Unemployment Rate in Idaho Falls, ID (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| IDAH816URN                | Unemployment Rate in Idaho Falls, ID (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | IDFPOP                    | Resident Population in Idaho Falls, ID (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | IRPD26820                 | Implicit Regional Price Deflator for Idaho Falls, ID (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT162682000000003A     | Unemployment Rate in Idaho Falls, ID (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT162682000000004      | Unemployed Persons in Idaho Falls, ID (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT162682000000004      | Unemployed Persons in Idaho Falls, ID (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT162682000000004A     | Unemployed Persons in Idaho Falls, ID (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT162682000000005      | Employed Persons in Idaho Falls, ID (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT162682000000005      | Employed Persons in Idaho Falls, ID (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT162682000000005A     | Employed Persons in Idaho Falls, ID (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT162682000000006A     | Civilian Labor Force in Idaho Falls, ID (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR26820          | Housing Inventory: Median Days on Market in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-06-01        |

@@ -1,9 +1,9 @@
 | id                     | title                                                                                                                  | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | LAUMT237465000000003A  | Unemployment Rate in Lewiston-Auburn, ME (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT237465000000004   | Unemployed Persons in Lewiston-Auburn, ME (NECTA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT237465000000004   | Unemployed Persons in Lewiston-Auburn, ME (NECTA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT237465000000004A  | Unemployed Persons in Lewiston-Auburn, ME (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT237465000000005   | Employed Persons in Lewiston-Auburn, ME (NECTA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT237465000000005   | Employed Persons in Lewiston-Auburn, ME (NECTA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT237465000000005A  | Employed Persons in Lewiston-Auburn, ME (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT237465000000006A  | Civilian Labor Force in Lewiston-Auburn, ME (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LEWI623EDUH            | All Employees: Education and Health Services in Lewiston-Auburn, ME (NECTA)                                            | 1990-01-01          | 2022-06-01        |
@@ -16,8 +16,8 @@
 | LEWI623INFON           | All Employees: Information in Lewiston-Auburn, ME (NECTA)                                                              | 1990-01-01          | 2022-06-01        |
 | LEWI623LEIH            | All Employees: Leisure and Hospitality in Lewiston-Auburn, ME (NECTA)                                                  | 1990-01-01          | 2022-06-01        |
 | LEWI623LEIHN           | All Employees: Leisure and Hospitality in Lewiston-Auburn, ME (NECTA)                                                  | 1990-01-01          | 2022-06-01        |
-| LEWI623LF              | Civilian Labor Force in Lewiston-Auburn, ME (NECTA)                                                                    | 1990-01-01          | 2022-05-01        |
-| LEWI623LFN             | Civilian Labor Force in Lewiston-Auburn, ME (NECTA)                                                                    | 1990-01-01          | 2022-05-01        |
+| LEWI623LF              | Civilian Labor Force in Lewiston-Auburn, ME (NECTA)                                                                    | 1990-01-01          | 2022-06-01        |
+| LEWI623LFN             | Civilian Labor Force in Lewiston-Auburn, ME (NECTA)                                                                    | 1990-01-01          | 2022-06-01        |
 | LEWI623MFG             | All Employees: Manufacturing in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-06-01        |
 | LEWI623MFGN            | All Employees: Manufacturing in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-06-01        |
 | LEWI623NA              | All Employees: Total Nonfarm in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -31,8 +31,8 @@
 | LEWI623SRVON           | All Employees: Other Services in Lewiston-Auburn, ME (NECTA)                                                           | 1990-01-01          | 2022-06-01        |
 | LEWI623TRAD            | All Employees: Trade, Transportation, and Utilities in Lewiston-Auburn, ME (NECTA)                                     | 1990-01-01          | 2022-06-01        |
 | LEWI623TRADN           | All Employees: Trade, Transportation, and Utilities in Lewiston-Auburn, ME (NECTA)                                     | 1990-01-01          | 2022-06-01        |
-| LEWI623UR              | Unemployment Rate in Lewiston-Auburn, ME (NECTA)                                                                       | 1990-01-01          | 2022-05-01        |
-| LEWI623URN             | Unemployment Rate in Lewiston-Auburn, ME (NECTA)                                                                       | 1990-01-01          | 2022-05-01        |
+| LEWI623UR              | Unemployment Rate in Lewiston-Auburn, ME (NECTA)                                                                       | 1990-01-01          | 2022-06-01        |
+| LEWI623URN             | Unemployment Rate in Lewiston-Auburn, ME (NECTA)                                                                       | 1990-01-01          | 2022-06-01        |
 | SMS23746500000000026   | All Employees: Total Nonfarm in Lewiston-Auburn, ME (NECTA)                                                            | 1990-04-01          | 2022-06-01        |
 | SMU23746500000000001A  | All Employees: Total Nonfarm in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU23746500500000001   | All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-06-01        |

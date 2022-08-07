@@ -26,9 +26,9 @@
 | HOSCMSA41060              | Market Hotness: Hotness Score in St. Cloud, MN (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD41060                 | Implicit Regional Price Deflator for St. Cloud, MN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT274106000000003A     | Unemployment Rate in St. Cloud, MN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT274106000000004      | Unemployed Persons in St. Cloud, MN (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT274106000000004      | Unemployed Persons in St. Cloud, MN (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT274106000000004A     | Unemployed Persons in St. Cloud, MN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT274106000000005      | Employed Persons in St. Cloud, MN (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT274106000000005      | Employed Persons in St. Cloud, MN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT274106000000005A     | Employed Persons in St. Cloud, MN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT274106000000006A     | Civilian Labor Force in St. Cloud, MN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA41060          | Market Hotness: Listing Views per Property in St. Cloud, MN (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -137,8 +137,8 @@
 | STCL027INFON              | All Employees: Information in St. Cloud, MN (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | STCL027LEIH               | All Employees: Leisure and Hospitality in St. Cloud, MN (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | STCL027LEIHN              | All Employees: Leisure and Hospitality in St. Cloud, MN (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| STCL027LF                 | Civilian Labor Force in St. Cloud, MN (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| STCL027LFN                | Civilian Labor Force in St. Cloud, MN (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| STCL027LF                 | Civilian Labor Force in St. Cloud, MN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| STCL027LFN                | Civilian Labor Force in St. Cloud, MN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | STCL027MFG                | All Employees: Manufacturing in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | STCL027MFGN               | All Employees: Manufacturing in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | STCL027NA                 | All Employees: Total Nonfarm in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -152,7 +152,7 @@
 | STCL027SRVON              | All Employees: Other Services in St. Cloud, MN (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | STCL027TRAD               | All Employees: Trade, Transportation, and Utilities in St. Cloud, MN (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | STCL027TRADN              | All Employees: Trade, Transportation, and Utilities in St. Cloud, MN (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| STCL027UR                 | Unemployment Rate in St. Cloud, MN (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| STCL027URN                | Unemployment Rate in St. Cloud, MN (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| STCL027UR                 | Unemployment Rate in St. Cloud, MN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| STCL027URN                | Unemployment Rate in St. Cloud, MN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | STCPOP                    | Resident Population in St. Cloud, MN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SUSCMSA41060              | Market Hotness: Supply Score in St. Cloud, MN (CBSA)                                                           | 2017-08-01          | 2022-06-01        |

@@ -5,7 +5,7 @@
 | Powell County, MT          |                88 |
 | Mineral County, MT         |                89 |
 | Daniels County, MT         |                88 |
-| Dawson County, MT          |                89 |
+| Dawson County, MT          |                 0 |
 | Liberty County, MT         |                85 |
 | Wibaux County, MT          |                85 |
 | Garfield County, MT        |                84 |
@@ -45,7 +45,7 @@
 | Madison County, MT         |                90 |
 | Wheatland County, MT       |                87 |
 | Cascade County, MT         |               147 |
-| Broadwater County, MT      |                 0 |
+| Broadwater County, MT      |                89 |
 | Blaine County, MT          |                88 |
 | Lake County, MT            |                90 |
 | Valley County, MT          |                89 |

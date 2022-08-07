@@ -9,11 +9,11 @@
 | DDDI09AUA156NWDB | Life Insurance Premium Volume to GDP for Australia                                     | 1993-01-01          | 2019-01-01        |
 | DDDI09AWA156NWDB | Life Insurance Premium Volume to GDP for Aruba                                         | 2001-01-01          | 2019-01-01        |
 | DDDI09AZA156NWDB | Life Insurance Premium Volume to GDP for Azerbaijan                                    | 1999-01-01          | 2019-01-01        |
-| DDDI09BAA156NWDB | Life Insurance Premium Volume to GDP for Bosnia and Herzegovina                        | 1998-01-01          | 2016-01-01        |
+| DDDI09BAA156NWDB | Life Insurance Premium Volume to GDP for Bosnia and Herzegovina                        | 2008-01-01          | 2018-01-01        |
 | DDDI09BBA156NWDB | Life Insurance Premium Volume to GDP for Barbados                                      | 1990-01-01          | 2019-01-01        |
 | DDDI09BDA156NWDB | Life Insurance Premium Volume to GDP for Bangladesh                                    | 1990-01-01          | 2017-01-01        |
 | DDDI09BEA156NWDB | Life Insurance Premium Volume to GDP for Belgium                                       | 1999-01-01          | 2019-01-01        |
-| DDDI09BFA156NWDB | Life Insurance Premium Volume to GDP for Burkina Faso                                  | 1999-01-01          | 2016-01-01        |
+| DDDI09BFA156NWDB | Life Insurance Premium Volume to GDP for Burkina Faso                                  | 2001-01-01          | 2018-01-01        |
 | DDDI09BGA156NWDB | Life Insurance Premium Volume to GDP for Bulgaria                                      | 1994-01-01          | 2019-01-01        |
 | DDDI09BHA156NWDB | Life Insurance Premium Volume to GDP for Bahrain                                       | 1991-01-01          | 2018-01-01        |
 | DDDI09BIA156NWDB | Life Insurance Premium Volume to GDP for Burundi                                       | 2001-01-01          | 2018-01-01        |
@@ -23,7 +23,7 @@
 | DDDI09BRA156NWDB | Life Insurance Premium Volume to GDP for Brazil                                        | 1994-01-01          | 2019-01-01        |
 | DDDI09BSA156NWDB | Life Insurance Premium Volume to GDP for Bahamas                                       | 1991-01-01          | 2019-01-01        |
 | DDDI09BWA156NWDB | Life Insurance Premium Volume to GDP for Botswana                                      | 1996-01-01          | 2018-01-01        |
-| DDDI09BYA156NWDB | Life Insurance Premium Volume to GDP for Belarus                                       | 1996-01-01          | 2017-01-01        |
+| DDDI09BYA156NWDB | Life Insurance Premium Volume to GDP for Belarus                                       | 1998-01-01          | 2019-01-01        |
 | DDDI09BZA156NWDB | Life Insurance Premium Volume to GDP for Belize                                        | 1995-01-01          | 2018-01-01        |
 | DDDI09CAA156NWDB | Life Insurance Premium Volume to GDP for Canada                                        | 1992-01-01          | 2019-01-01        |
 | DDDI09CFA156NWDB | Life Insurance Premium Volume to GDP for Central African Republic                      | 2000-01-01          | 2014-01-01        |
@@ -126,9 +126,9 @@
 | DDDI09PTA156NWDB | Life Insurance Premium Volume to GDP for Portugal                                      | 1994-01-01          | 2019-01-01        |
 | DDDI09PYA156NWDB | Life Insurance Premium Volume to GDP for Paraguay                                      | 1990-01-01          | 2019-01-01        |
 | DDDI09QAA156NWDB | Life Insurance Premium Volume to GDP for Qatar                                         | 2002-01-01          | 2013-01-01        |
-| DDDI09RSA156NWDB | Life Insurance Premium Volume to GDP for Serbia                                        | 1996-01-01          | 2017-01-01        |
+| DDDI09RSA156NWDB | Life Insurance Premium Volume to GDP for Serbia                                        | 1997-01-01          | 2019-01-01        |
 | DDDI09RUA156NWDB | Life Insurance Premium Volume to GDP for Russian Federation                            | 1996-01-01          | 2018-01-01        |
-| DDDI09RWA156NWDB | Life Insurance Premium Volume to GDP for Rwanda                                        | 2007-01-01          | 2014-01-01        |
+| DDDI09RWA156NWDB | Life Insurance Premium Volume to GDP for Rwanda                                        | 2000-01-01          | 2011-01-01        |
 | DDDI09SAA156NWDB | Life Insurance Premium Volume to GDP for Saudi Arabia                                  | 1992-01-01          | 2019-01-01        |
 | DDDI09SCA156NWDB | Life Insurance Premium Volume to GDP for Seychelles                                    | 2005-01-01          | 2014-01-01        |
 | DDDI09SDA156NWDB | Life Insurance Premium Volume to GDP for Sudan                                         | 1998-01-01          | 2016-01-01        |
@@ -170,7 +170,7 @@
 | DDDI10AUA156NWDB | Non-Life Insurance Premium Volume to GDP for Australia                                 | 1991-01-01          | 2019-01-01        |
 | DDDI10AWA156NWDB | Non-Life Insurance Premium Volume to GDP for Aruba                                     | 2001-01-01          | 2019-01-01        |
 | DDDI10AZA156NWDB | Non-Life Insurance Premium Volume to GDP for Azerbaijan                                | 1997-01-01          | 2019-01-01        |
-| DDDI10BAA156NWDB | Non-Life Insurance Premium Volume to GDP for Bosnia and Herzegovina                    | 1998-01-01          | 2016-01-01        |
+| DDDI10BAA156NWDB | Non-Life Insurance Premium Volume to GDP for Bosnia and Herzegovina                    | 2008-01-01          | 2018-01-01        |
 | DDDI10BBA156NWDB | Non-Life Insurance Premium Volume to GDP for Barbados                                  | 1990-01-01          | 2019-01-01        |
 | DDDI10BDA156NWDB | Non-Life Insurance Premium Volume to GDP for Bangladesh                                | 1990-01-01          | 2017-01-01        |
 | DDDI10BEA156NWDB | Non-Life Insurance Premium Volume to GDP for Belgium                                   | 1999-01-01          | 2019-01-01        |
@@ -220,7 +220,7 @@
 | DDDI10GEA156NWDB | Non-Life Insurance Premium Volume to GDP for Georgia                                   | 1997-01-01          | 2019-01-01        |
 | DDDI10GHA156NWDB | Non-Life Insurance Premium Volume to GDP for Ghana                                     | 1990-01-01          | 2019-01-01        |
 | DDDI10GMA156NWDB | Non-Life Insurance Premium Volume to GDP for Gambia                                    | 2002-01-01          | 2015-01-01        |
-| DDDI10GNA156NWDB | Non-Life Insurance Premium Volume to GDP for Guinea                                    | 2016-01-01          | 2016-01-01        |
+| DDDI10GNA156NWDB | Non-Life Insurance Premium Volume to GDP for Guinea                                    | 2000-01-01          | 2013-01-01        |
 | DDDI10GQA156NWDB | Non-Life Insurance Premium Volume to GDP for Equatorial Guinea                         | 2002-01-01          | 2015-01-01        |
 | DDDI10GRA156NWDB | Non-Life Insurance Premium Volume to GDP for Greece                                    | 1996-01-01          | 2017-01-01        |
 | DDDI10GTA156NWDB | Non-Life Insurance Premium Volume to GDP for Guatemala                                 | 1990-01-01          | 2019-01-01        |
@@ -288,7 +288,7 @@
 | DDDI10PTA156NWDB | Non-Life Insurance Premium Volume to GDP for Portugal                                  | 1991-01-01          | 2019-01-01        |
 | DDDI10PYA156NWDB | Non-Life Insurance Premium Volume to GDP for Paraguay                                  | 1990-01-01          | 2019-01-01        |
 | DDDI10QAA156NWDB | Non-Life Insurance Premium Volume to GDP for Qatar                                     | 1990-01-01          | 2018-01-01        |
-| DDDI10RSA156NWDB | Non-Life Insurance Premium Volume to GDP for Serbia                                    | 1996-01-01          | 2017-01-01        |
+| DDDI10RSA156NWDB | Non-Life Insurance Premium Volume to GDP for Serbia                                    | 1997-01-01          | 2019-01-01        |
 | DDDI10RUA156NWDB | Non-Life Insurance Premium Volume to GDP for Russian Federation                        | 1992-01-01          | 2018-01-01        |
 | DDDI10RWA156NWDB | Non-Life Insurance Premium Volume to GDP for Rwanda                                    | 2000-01-01          | 2019-01-01        |
 | DDDI10SAA156NWDB | Non-Life Insurance Premium Volume to GDP for Saudi Arabia                              | 1991-01-01          | 2019-01-01        |
@@ -332,7 +332,7 @@
 | DDDI11ATA156NWDB | Insurance Company Assets to GDP for Austria                                            | 1981-01-01          | 2019-01-01        |
 | DDDI11AUA156NWDB | Insurance Company Assets to GDP for Australia                                          | 1988-01-01          | 2018-01-01        |
 | DDDI11AZA156NWDB | Insurance Company Assets to GDP for Azerbaijan                                         | 2007-01-01          | 2014-01-01        |
-| DDDI11BAA156NWDB | Insurance Company Assets to GDP for Bosnia and Herzegovina                             | 2004-01-01          | 2016-01-01        |
+| DDDI11BAA156NWDB | Insurance Company Assets to GDP for Bosnia and Herzegovina                             | 2006-01-01          | 2019-01-01        |
 | DDDI11BBA156NWDB | Insurance Company Assets to GDP for Barbados                                           | 2002-01-01          | 2017-01-01        |
 | DDDI11BDA156NWDB | Insurance Company Assets to GDP for Bangladesh                                         | 2000-01-01          | 2016-01-01        |
 | DDDI11BEA156NWDB | Insurance Company Assets to GDP for Belgium                                            | 1980-01-01          | 2019-01-01        |
@@ -382,34 +382,34 @@
 | DDDI11HUA156NWDB | Insurance Company Assets to GDP for Hungary                                            | 1989-01-01          | 2019-01-01        |
 | DDDI11IDA156NWDB | Insurance Company Assets to GDP for Indonesia                                          | 2001-01-01          | 2019-01-01        |
 | DDDI11IEA156NWDB | Insurance Company Assets to GDP for Ireland                                            | 2002-01-01          | 2019-01-01        |
-| DDDI11ILA156NWDB | Insurance Company Assets to GDP for Israel                                             | 2000-01-01          | 2016-01-01        |
+| DDDI11ILA156NWDB | Insurance Company Assets to GDP for Israel                                             | 2003-01-01          | 2019-01-01        |
 | DDDI11INA156NWDB | Insurance Company Assets to GDP for India                                              | 2004-01-01          | 2019-01-01        |
 | DDDI11IRA156NWDB | Insurance Company Assets to GDP for Islamic Republic of Iran                           | 2005-01-01          | 2015-01-01        |
-| DDDI11ISA156NWDB | Insurance Company Assets to GDP for Iceland                                            | 2000-01-01          | 2016-01-01        |
+| DDDI11ISA156NWDB | Insurance Company Assets to GDP for Iceland                                            | 2002-01-01          | 2019-01-01        |
 | DDDI11ITA156NWDB | Insurance Company Assets to GDP for Italy                                              | 1999-01-01          | 2019-01-01        |
 | DDDI11JMA156NWDB | Insurance Company Assets to GDP for Jamaica                                            | 2001-01-01          | 2019-01-01        |
 | DDDI11JOA156NWDB | Insurance Company Assets to GDP for Jordan                                             | 2000-01-01          | 2017-01-01        |
 | DDDI11JPA156NWDB | Insurance Company Assets to GDP for Japan                                              | 1980-01-01          | 2019-01-01        |
 | DDDI11KEA156NWDB | Insurance Company Assets to GDP for Kenya                                              | 2001-01-01          | 2019-01-01        |
 | DDDI11KGA156NWDB | Insurance Company Assets to GDP for Kyrgyzstan                                         | 2007-01-01          | 2017-01-01        |
-| DDDI11KHA156NWDB | Insurance Company Assets to GDP for Cambodia                                           | 2005-01-01          | 2008-01-01        |
+| DDDI11KHA156NWDB | Insurance Company Assets to GDP for Cambodia                                           | 2005-01-01          | 2007-01-01        |
 | DDDI11KRA156NWDB | Insurance Company Assets to GDP for Republic of Korea                                  | 2002-01-01          | 2019-01-01        |
 | DDDI11KWA156NWDB | Insurance Company Assets to GDP for Kuwait                                             | 2008-01-01          | 2011-01-01        |
 | DDDI11KZA156NWDB | Insurance Company Assets to GDP for Kazakhstan                                         | 2002-01-01          | 2019-01-01        |
 | DDDI11LBA156NWDB | Insurance Company Assets to GDP for Lebanon                                            | 2001-01-01          | 2018-01-01        |
 | DDDI11LKA156NWDB | Insurance Company Assets to GDP for Sri Lanka                                          | 1997-01-01          | 2019-01-01        |
 | DDDI11LTA156NWDB | Insurance Company Assets to GDP for Lithuania                                          | 2001-01-01          | 2019-01-01        |
-| DDDI11LUA156NWDB | Insurance Company Assets to GDP for Luxembourg                                         | 1996-01-01          | 2008-01-01        |
+| DDDI11LUA156NWDB | Insurance Company Assets to GDP for Luxembourg                                         | 1995-01-01          | 2003-01-01        |
 | DDDI11LVA156NWDB | Insurance Company Assets to GDP for Latvia                                             | 1997-01-01          | 2019-01-01        |
 | DDDI11MAA156NWDB | Insurance Company Assets to GDP for Morocco                                            | 2003-01-01          | 2018-01-01        |
 | DDDI11MDA156NWDB | Insurance Company Assets to GDP for Republic of Moldova                                | 2007-01-01          | 2017-01-01        |
 | DDDI11MGA156NWDB | Insurance Company Assets to GDP for Madagascar                                         | 2004-01-01          | 2018-01-01        |
-| DDDI11MKA156NWDB | Insurance Company Assets to GDP for the former Yugoslav Republic of Macedonia          | 2000-01-01          | 2017-01-01        |
+| DDDI11MKA156NWDB | Insurance Company Assets to GDP for the former Yugoslav Republic of Macedonia          | 2008-01-01          | 2019-01-01        |
 | DDDI11MLA156NWDB | Insurance Company Assets to GDP for Mali                                               | 2003-01-01          | 2018-01-01        |
 | DDDI11MNA156NWDB | Insurance Company Assets to GDP for Mongolia                                           | 2008-01-01          | 2017-01-01        |
 | DDDI11MUA156NWDB | Insurance Company Assets to GDP for Mauritius                                          | 1999-01-01          | 2019-01-01        |
-| DDDI11MWA156NWDB | Insurance Company Assets to GDP for Malawi                                             | 2001-01-01          | 2016-01-01        |
-| DDDI11MXA156NWDB | Insurance Company Assets to GDP for Mexico                                             | 1996-01-01          | 2017-01-01        |
+| DDDI11MWA156NWDB | Insurance Company Assets to GDP for Malawi                                             | 2006-01-01          | 2019-01-01        |
+| DDDI11MXA156NWDB | Insurance Company Assets to GDP for Mexico                                             | 1999-01-01          | 2019-01-01        |
 | DDDI11MYA156NWDB | Insurance Company Assets to GDP for Malaysia                                           | 1990-01-01          | 2019-01-01        |
 | DDDI11MZA156NWDB | Insurance Company Assets to GDP for Mozambique                                         | 2005-01-01          | 2019-01-01        |
 | DDDI11NAA156NWDB | Insurance Company Assets to GDP for Namibia                                            | 2000-01-01          | 2019-01-01        |
@@ -417,21 +417,21 @@
 | DDDI11NGA156NWDB | Insurance Company Assets to GDP for Nigeria                                            | 2002-01-01          | 2018-01-01        |
 | DDDI11NIA156NWDB | Insurance Company Assets to GDP for Nicaragua                                          | 2001-01-01          | 2019-01-01        |
 | DDDI11NLA156NWDB | Insurance Company Assets to GDP for Netherlands                                        | 1995-01-01          | 2019-01-01        |
-| DDDI11NOA156NWDB | Insurance Company Assets to GDP for Norway                                             | 1996-01-01          | 2017-01-01        |
+| DDDI11NOA156NWDB | Insurance Company Assets to GDP for Norway                                             | 1997-01-01          | 2019-01-01        |
 | DDDI11NPA156NWDB | Insurance Company Assets to GDP for Nepal                                              | 2006-01-01          | 2019-01-01        |
 | DDDI11OMA156NWDB | Insurance Company Assets to GDP for Oman                                               | 2004-01-01          | 2019-01-01        |
 | DDDI11PAA156NWDB | Insurance Company Assets to GDP for Panama                                             | 2002-01-01          | 2019-01-01        |
 | DDDI11PEA156NWDB | Insurance Company Assets to GDP for Peru                                               | 1998-01-01          | 2019-01-01        |
 | DDDI11PHA156NWDB | Insurance Company Assets to GDP for Philippines                                        | 2002-01-01          | 2019-01-01        |
 | DDDI11PKA156NWDB | Insurance Company Assets to GDP for Pakistan                                           | 2003-01-01          | 2019-01-01        |
-| DDDI11PLA156NWDB | Insurance Company Assets to GDP for Poland                                             | 1996-01-01          | 2016-01-01        |
+| DDDI11PLA156NWDB | Insurance Company Assets to GDP for Poland                                             | 2000-01-01          | 2019-01-01        |
 | DDDI11PTA156NWDB | Insurance Company Assets to GDP for Portugal                                           | 1995-01-01          | 2019-01-01        |
 | DDDI11PYA156NWDB | Insurance Company Assets to GDP for Paraguay                                           | 2000-01-01          | 2019-01-01        |
 | DDDI11QAA156NWDB | Insurance Company Assets to GDP for Qatar                                              | 2004-01-01          | 2018-01-01        |
 | DDDI11RSA156NWDB | Insurance Company Assets to GDP for Serbia                                             | 2002-01-01          | 2019-01-01        |
 | DDDI11RUA156NWDB | Insurance Company Assets to GDP for Russian Federation                                 | 2005-01-01          | 2019-01-01        |
 | DDDI11SAA156NWDB | Insurance Company Assets to GDP for Saudi Arabia                                       | 2009-01-01          | 2019-01-01        |
-| DDDI11SDA156NWDB | Insurance Company Assets to GDP for Sudan                                              | 2003-01-01          | 2012-01-01        |
+| DDDI11SDA156NWDB | Insurance Company Assets to GDP for Sudan                                              | 2006-01-01          | 2016-01-01        |
 | DDDI11SEA156NWDB | Insurance Company Assets to GDP for Sweden                                             | 1995-01-01          | 2019-01-01        |
 | DDDI11SGA156NWDB | Insurance Company Assets to GDP for Singapore                                          | 1990-01-01          | 2019-01-01        |
 | DDDI11SIA156NWDB | Insurance Company Assets to GDP for Slovenia                                           | 2001-01-01          | 2019-01-01        |

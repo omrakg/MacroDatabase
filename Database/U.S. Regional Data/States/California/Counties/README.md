@@ -20,7 +20,7 @@
 | Kings County, CA                |               147 |
 | Napa County, CA                 |               147 |
 | Inyo County, CA                 |                90 |
-| San Joaquin County, CA          |                 0 |
+| San Joaquin County, CA          |               146 |
 | Stanislaus County, CA           |               147 |
 | Riverside County, CA            |               147 |
 | Sacramento County, CA           |               147 |

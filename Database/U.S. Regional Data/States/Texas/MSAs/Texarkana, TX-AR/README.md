@@ -26,9 +26,9 @@
 | HOSCMSA45500              | Market Hotness: Hotness Score in Texarkana, TX-AR (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD45500                 | Implicit Regional Price Deflator for Texarkana, TX-AR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484550000000003A     | Unemployment Rate in Texarkana, TX-AR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT484550000000004      | Unemployed Persons in Texarkana, TX-AR (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT484550000000004      | Unemployed Persons in Texarkana, TX-AR (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT484550000000004A     | Unemployed Persons in Texarkana, TX-AR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT484550000000005      | Employed Persons in Texarkana, TX-AR (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT484550000000005      | Employed Persons in Texarkana, TX-AR (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT484550000000005A     | Employed Persons in Texarkana, TX-AR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484550000000006A     | Civilian Labor Force in Texarkana, TX-AR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA45500          | Market Hotness: Listing Views per Property in Texarkana, TX-AR (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -147,8 +147,8 @@
 | TEXGOVTN                  | All Employees: Government in Texarkana, TX-AR (MSA)                                                               | 1990-01-01          | 2022-06-01        |
 | TEXINFON                  | All Employees: Information in Texarkana, TX-AR (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | TEXLEIHN                  | All Employees: Leisure and Hospitality in Texarkana, TX-AR (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| TEXLF                     | Civilian Labor Force in Texarkana, TX-AR (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| TEXLFN                    | Civilian Labor Force in Texarkana, TX-AR (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| TEXLF                     | Civilian Labor Force in Texarkana, TX-AR (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| TEXLFN                    | Civilian Labor Force in Texarkana, TX-AR (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | TEXMFGN                   | All Employees: Manufacturing in Texarkana, TX-AR (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | TEXNAN                    | All Employees: Total Nonfarm in Texarkana, TX-AR (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | TEXNRMNN                  | All Employees: Mining, Logging, and Construction in Texarkana, TX-AR (MSA)                                        | 1990-01-01          | 2022-06-01        |
@@ -161,5 +161,5 @@
 | TEXSA674AFRBDAL           | Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA)                                            | 1991-01-01          | 2021-01-01        |
 | TEXSRVON                  | All Employees: Other Services in Texarkana, TX-AR (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | TEXTRADN                  | All Employees: Trade, Transportation, and Utilities in Texarkana, TX-AR (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| TEXUR                     | Unemployment Rate in Texarkana, TX-Texarkana, AR (MSA)                                                            | 1990-01-01          | 2022-05-01        |
-| TEXURN                    | Unemployment Rate in Texarkana, TX-AR (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| TEXUR                     | Unemployment Rate in Texarkana, TX-Texarkana, AR (MSA)                                                            | 1990-01-01          | 2022-06-01        |
+| TEXURN                    | Unemployment Rate in Texarkana, TX-AR (MSA)                                                                       | 1990-01-01          | 2022-06-01        |

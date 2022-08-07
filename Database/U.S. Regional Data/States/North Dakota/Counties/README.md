@@ -12,7 +12,7 @@
 | McIntosh County, ND      |                89 |
 | Burke County, ND         |                87 |
 | Griggs County, ND        |                88 |
-| Bottineau County, ND     |                88 |
+| Bottineau County, ND     |                 0 |
 | Sioux County, ND         |                87 |
 | Stutsman County, ND      |                90 |
 | Emmons County, ND        |                88 |

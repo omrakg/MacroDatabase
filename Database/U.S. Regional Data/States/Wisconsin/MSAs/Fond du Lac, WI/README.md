@@ -30,8 +30,8 @@
 | FOND555INFON              | All Employees: Information in Fond du Lac, WI (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | FOND555LEIH               | All Employees: Leisure and Hospitality in Fond du Lac, WI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | FOND555LEIHN              | All Employees: Leisure and Hospitality in Fond du Lac, WI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| FOND555LF                 | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| FOND555LFN                | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| FOND555LF                 | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| FOND555LFN                | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | FOND555MFG                | All Employees: Manufacturing in Fond du Lac, WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | FOND555MFGN               | All Employees: Manufacturing in Fond du Lac, WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | FOND555NA                 | All Employees: Total Nonfarm in Fond du Lac, WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -45,13 +45,13 @@
 | FOND555SRVON              | All Employees: Other Services in Fond du Lac, WI (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | FOND555TRAD               | All Employees: Trade, Transportation, and Utilities in Fond du Lac, WI (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | FOND555TRADN              | All Employees: Trade, Transportation, and Utilities in Fond du Lac, WI (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| FOND555UR                 | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| FOND555URN                | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| FOND555UR                 | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| FOND555URN                | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | IRPD22540                 | Implicit Regional Price Deflator for Fond du Lac, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT552254000000003A     | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT552254000000004      | Unemployed Persons in Fond du Lac, WI (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT552254000000004      | Unemployed Persons in Fond du Lac, WI (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT552254000000004A     | Unemployed Persons in Fond du Lac, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT552254000000005      | Employed Persons in Fond du Lac, WI (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT552254000000005      | Employed Persons in Fond du Lac, WI (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT552254000000005A     | Employed Persons in Fond du Lac, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT552254000000006A     | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR22540          | Housing Inventory: Median Days on Market in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-06-01        |

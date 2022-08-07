@@ -29,8 +29,8 @@
 | JOPL929EDUHN              | All Employees: Education and Health Services in Joplin, MO (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | JOPL929GOVT               | All Employees: Government in Joplin, MO (MSA)                                                       | 1990-01-01          | 2022-06-01        |
 | JOPL929GOVTN              | All Employees: Government in Joplin, MO (MSA)                                                       | 1990-01-01          | 2022-06-01        |
-| JOPL929LF                 | Civilian Labor Force in Joplin, MO (MSA)                                                            | 1990-01-01          | 2022-05-01        |
-| JOPL929LFN                | Civilian Labor Force in Joplin, MO (MSA)                                                            | 1990-01-01          | 2022-05-01        |
+| JOPL929LF                 | Civilian Labor Force in Joplin, MO (MSA)                                                            | 1990-01-01          | 2022-06-01        |
+| JOPL929LFN                | Civilian Labor Force in Joplin, MO (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | JOPL929MFG                | All Employees: Manufacturing in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-06-01        |
 | JOPL929MFGN               | All Employees: Manufacturing in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-06-01        |
 | JOPL929NA                 | All Employees: Total Nonfarm in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-06-01        |
@@ -38,13 +38,13 @@
 | JOPL929PCPI               | Per Capita Personal Income in Joplin, MO (MSA)                                                      | 1969-01-01          | 2020-01-01        |
 | JOPL929TRAD               | All Employees: Trade, Transportation, and Utilities in Joplin, MO (MSA)                             | 1990-01-01          | 2022-06-01        |
 | JOPL929TRADN              | All Employees: Trade, Transportation, and Utilities in Joplin, MO (MSA)                             | 1990-01-01          | 2022-06-01        |
-| JOPL929UR                 | Unemployment Rate in Joplin, MO (MSA)                                                               | 1990-01-01          | 2022-05-01        |
-| JOPL929URN                | Unemployment Rate in Joplin, MO (MSA)                                                               | 1990-01-01          | 2022-05-01        |
+| JOPL929UR                 | Unemployment Rate in Joplin, MO (MSA)                                                               | 1990-01-01          | 2022-06-01        |
+| JOPL929URN                | Unemployment Rate in Joplin, MO (MSA)                                                               | 1990-01-01          | 2022-06-01        |
 | JOPPOP                    | Resident Population in Joplin, MO (MSA)                                                             | 2000-01-01          | 2021-01-01        |
 | LAUMT292790000000003A     | Unemployment Rate in Joplin, MO (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| LAUMT292790000000004      | Unemployed Persons in Joplin, MO (MSA)                                                              | 1990-01-01          | 2022-05-01        |
+| LAUMT292790000000004      | Unemployed Persons in Joplin, MO (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | LAUMT292790000000004A     | Unemployed Persons in Joplin, MO (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| LAUMT292790000000005      | Employed Persons in Joplin, MO (MSA)                                                                | 1990-01-01          | 2022-05-01        |
+| LAUMT292790000000005      | Employed Persons in Joplin, MO (MSA)                                                                | 1990-01-01          | 2022-06-01        |
 | LAUMT292790000000005A     | Employed Persons in Joplin, MO (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | LAUMT292790000000006A     | Civilian Labor Force in Joplin, MO (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA27900          | Market Hotness: Listing Views per Property in Joplin, MO (CBSA)                                     | 2018-08-01          | 2022-06-01        |

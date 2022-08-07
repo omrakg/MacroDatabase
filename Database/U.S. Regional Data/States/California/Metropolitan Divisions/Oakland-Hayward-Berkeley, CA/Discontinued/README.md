@@ -1,14 +1,2 @@
-| id                     | title                                                                                                                          | observation_start   | observation_end   |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU06360840500000002SA | Average Weekly Hours of All Employees: Total Private in Oakland-Hayward-Berkeley, CA (MD) (DISCONTINUED)                       | 2007-01-01          | 2022-03-01        |
-| SMU06360840500000003SA | Average Hourly Earnings of All Employees: Total Private in Oakland-Hayward-Berkeley, CA (MD) (DISCONTINUED)                    | 2007-01-01          | 2022-03-01        |
-| SMU06360840500000011SA | Average Weekly Earnings of All Employees: Total Private in Oakland-Hayward-Berkeley, CA (MD) (DISCONTINUED)                    | 2007-01-01          | 2022-03-01        |
-| SMU06360843133600001   | All Employees: Durable Goods: Transportation Equipment Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)        | 1990-01-01          | 2013-12-01        |
-| SMU06360843133600001A  | All Employees: Durable Goods: Transportation Equipment Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)        | 1990-01-01          | 2012-01-01        |
-| SMU06360843133600001SA | All Employees: Durable Goods: Transportation Equipment Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)        | 1990-01-01          | 2013-12-01        |
-| SMU06360843232400001   | All Employees: Non-Durable Goods: Petroleum and Coal Products Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU06360843232400001A  | All Employees: Non-Durable Goods: Petroleum and Coal Products Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED) | 1990-01-01          | 2013-01-01        |
-| SMU06360843232400001SA | All Employees: Non-Durable Goods: Petroleum and Coal Products Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU06360843232500001   | All Employees: Non-Durable Goods: Chemical Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)                    | 1990-01-01          | 2014-12-01        |
-| SMU06360843232500001A  | All Employees: Non-Durable Goods: Chemical Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)                    | 1990-01-01          | 2013-01-01        |
-| SMU06360843232500001SA | All Employees: Non-Durable Goods: Chemical Manufacturing in Oakland-Fremont-Hayward, CA (MD) (DISCONTINUED)                    | 1990-01-01          | 2014-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

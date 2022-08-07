@@ -38,13 +38,13 @@
 | Jackson County, WV    |                90 |
 | Barbour County, WV    |                89 |
 | Preston County, WV    |                88 |
-| Mason County, WV      |                 0 |
+| Mason County, WV      |                89 |
 | Lincoln County, WV    |                88 |
 | Mineral County, WV    |                89 |
 | Brooke County, WV     |                90 |
 | Marion County, WV     |               146 |
 | Mercer County, WV     |               146 |
-| Clay County, WV       |                88 |
+| Clay County, WV       |                 0 |
 | Hancock County, WV    |                90 |
 | Morgan County, WV     |                89 |
 | Lewis County, WV      |                89 |

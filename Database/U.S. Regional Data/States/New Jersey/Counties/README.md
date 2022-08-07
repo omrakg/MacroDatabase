@@ -9,7 +9,7 @@
 | Passaic County, NJ    |               143 |
 | Gloucester County, NJ |               147 |
 | Cape May County, NJ   |               147 |
-| Essex County, NJ      |                 0 |
+| Essex County, NJ      |               143 |
 | Hudson County, NJ     |               147 |
 | Atlantic County, NJ   |               147 |
 | Mercer County, NJ     |               147 |

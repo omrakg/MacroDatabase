@@ -26,9 +26,9 @@
 | HOSCMSA36100              | Market Hotness: Hotness Score in Ocala, FL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD36100                 | Implicit Regional Price Deflator for Ocala, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT123610000000003A     | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT123610000000004      | Unemployed Persons in Ocala, FL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT123610000000004      | Unemployed Persons in Ocala, FL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT123610000000004A     | Unemployed Persons in Ocala, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT123610000000005      | Employed Persons in Ocala, FL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT123610000000005      | Employed Persons in Ocala, FL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT123610000000005A     | Employed Persons in Ocala, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT123610000000006A     | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA36100          | Market Hotness: Listing Views per Property in Ocala, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -75,8 +75,8 @@
 | OCAL112INFON              | All Employees: Information in Ocala, FL (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | OCAL112LEIH               | All Employees: Leisure and Hospitality in Ocala, FL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | OCAL112LEIHN              | All Employees: Leisure and Hospitality in Ocala, FL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| OCAL112LF                 | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| OCAL112LFN                | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| OCAL112LF                 | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| OCAL112LFN                | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | OCAL112MFG                | All Employees: Manufacturing in Ocala, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | OCAL112MFGN               | All Employees: Manufacturing in Ocala, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | OCAL112NA                 | All Employees: Total Nonfarm in Ocala, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -90,8 +90,8 @@
 | OCAL112SRVON              | All Employees: Other Services in Ocala, FL (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | OCAL112TRAD               | All Employees: Trade, Transportation, and Utilities in Ocala, FL (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | OCAL112TRADN              | All Employees: Trade, Transportation, and Utilities in Ocala, FL (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| OCAL112UR                 | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| OCAL112URN                | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| OCAL112UR                 | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| OCAL112URN                | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | OCLPOP                    | Resident Population in Ocala, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136100          | U.S. Granted Utility Patents Originating in Ocala, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36100            | Housing Inventory: Pending Listing Count in Ocala, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |

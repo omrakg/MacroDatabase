@@ -28,11 +28,11 @@
 | DDDI05RWA156NWDB    | Liquid Liabilities to GDP for Rwanda                                                                                                                  | 1964-01-01          | 2020-01-01        |
 | DDDI06RWA156NWDB    | Central Bank Assets to GDP for Rwanda                                                                                                                 | 1964-01-01          | 2020-01-01        |
 | DDDI08RWA156NWDB    | Financial System Deposits to GDP for Rwanda                                                                                                           | 1964-01-01          | 2020-01-01        |
-| DDDI09RWA156NWDB    | Life Insurance Premium Volume to GDP for Rwanda                                                                                                       | 2007-01-01          | 2014-01-01        |
+| DDDI09RWA156NWDB    | Life Insurance Premium Volume to GDP for Rwanda                                                                                                       | 2000-01-01          | 2011-01-01        |
 | DDDI10RWA156NWDB    | Non-Life Insurance Premium Volume to GDP for Rwanda                                                                                                   | 2000-01-01          | 2019-01-01        |
 | DDDI12RWA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Rwanda                                                              | 1964-01-01          | 2020-01-01        |
-| DDDM08RWA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Rwanda                                                                                                  | 2010-01-01          | 2017-01-01        |
-| DDDM09RWA156NWDB    | Gross Portfolio Equity Assets to GDP for Rwanda                                                                                                       | 2008-01-01          | 2017-01-01        |
+| DDDM08RWA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Rwanda                                                                                                  | 2011-01-01          | 2019-01-01        |
+| DDDM09RWA156NWDB    | Gross Portfolio Equity Assets to GDP for Rwanda                                                                                                       | 2014-01-01          | 2019-01-01        |
 | DDEI01RWA156NWDB    | Bank's Net Interest Margin for Rwanda                                                                                                                 | 2002-01-01          | 2020-01-01        |
 | DDEI02RWA156NWDB    | Bank Lending Deposit Spread for Rwanda                                                                                                                | 1996-01-01          | 2019-01-01        |
 | DDEI03RWA156NWDB    | Bank's Non-Interest Income to Total Income for Rwanda                                                                                                 | 2003-01-01          | 2020-01-01        |
@@ -48,7 +48,7 @@
 | DDOI05RWA156NWDB    | Boone Indicator in Banking Market for Rwanda                                                                                                          | 2000-01-01          | 2014-01-01        |
 | DDOI06RWA156NWDB    | 5-Bank Asset Concentration for Rwanda                                                                                                                 | 2007-01-01          | 2020-01-01        |
 | DDOI07RWA648NWDB    | Liquid Liabilities (Broad Money) for Rwanda                                                                                                           | 1964-01-01          | 2020-01-01        |
-| DDOI09RWA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Rwanda                                                                                 | 2007-01-01          | 2017-01-01        |
+| DDOI09RWA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Rwanda                                                                                 | 2013-01-01          | 2020-01-01        |
 | DDOI10RWA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Rwanda                                                           | 1995-01-01          | 2020-01-01        |
 | DDOI11RWA156NWDB    | Remittance Inflows to GDP for Rwanda                                                                                                                  | 1976-01-01          | 2020-01-01        |
 | DDOI12RWA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Rwanda                                                                                  | 1983-01-01          | 2019-01-01        |
@@ -63,7 +63,7 @@
 | DDSI07RWA156NWDB    | Provisions to Non-Performing Loans for Rwanda                                                                                                         | 2003-01-01          | 2019-01-01        |
 | DEBTTLRWA188A       | Central government debt, total (% of GDP) for Rwanda                                                                                                  | 1990-01-01          | 1992-01-01        |
 | DERWAA475SCEN       | Number of Identified Exporters to Rwanda from Delaware                                                                                                | 1997-01-01          | 2015-01-01        |
-| EXP7690             | U.S. Exports of Goods by F.A.S. Basis to Rwanda                                                                                                       | 1992-01-01          | 2022-05-01        |
+| EXP7690             | U.S. Exports of Goods by F.A.S. Basis to Rwanda                                                                                                       | 1992-01-01          | 2022-06-01        |
 | FLRWAA052SCEN       | Value of Exports to Rwanda from Florida                                                                                                               | 1997-01-01          | 2017-01-01        |
 | FLRWAA475SCEN       | Number of Identified Exporters to Rwanda from Florida                                                                                                 | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGRWA      | Inflation, consumer prices for Rwanda                                                                                                                 | 1967-01-01          | 2021-01-01        |
@@ -75,7 +75,7 @@
 | IDRWAA475SCEN       | Number of Identified Exporters to Rwanda from Idaho                                                                                                   | 1997-01-01          | 2016-01-01        |
 | ILRWAA052SCEN       | Value of Exports to Rwanda from Illinois                                                                                                              | 2007-01-01          | 2017-01-01        |
 | ILRWAA475SCEN       | Number of Identified Exporters to Rwanda from Illinois                                                                                                | 1997-01-01          | 2017-01-01        |
-| IMP7690             | U.S. Imports of Goods by Customs Basis from Rwanda                                                                                                    | 1992-01-01          | 2022-05-01        |
+| IMP7690             | U.S. Imports of Goods by Customs Basis from Rwanda                                                                                                    | 1992-01-01          | 2022-06-01        |
 | INRWAA052SCEN       | Value of Exports to Rwanda from Indiana                                                                                                               | 2004-01-01          | 2017-01-01        |
 | INRWAA475SCEN       | Number of Identified Exporters to Rwanda from Indiana                                                                                                 | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2RWA      | Internet users for Rwanda                                                                                                                             | 1990-01-01          | 2020-01-01        |

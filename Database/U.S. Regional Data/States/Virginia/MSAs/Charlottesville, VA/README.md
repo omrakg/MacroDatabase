@@ -11,8 +11,8 @@
 | CHAR851GOVTN              | All Employees: Government in Charlottesville, VA (MSA)                                                               | 1990-01-01          | 2022-06-01        |
 | CHAR851LEIH               | All Employees: Leisure and Hospitality in Charlottesville, VA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | CHAR851LEIHN              | All Employees: Leisure and Hospitality in Charlottesville, VA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| CHAR851LF                 | Civilian Labor Force in Charlottesville, VA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| CHAR851LFN                | Civilian Labor Force in Charlottesville, VA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| CHAR851LF                 | Civilian Labor Force in Charlottesville, VA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| CHAR851LFN                | Civilian Labor Force in Charlottesville, VA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | CHAR851NA                 | All Employees: Total Nonfarm in Charlottesville, VA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | CHAR851NAN                | All Employees: Total Nonfarm in Charlottesville, VA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | CHAR851PBSV               | All Employees: Professional and Business Services in Charlottesville, VA (MSA)                                       | 1990-01-01          | 2022-06-01        |
@@ -20,8 +20,8 @@
 | CHAR851PCPI               | Per Capita Personal Income in Charlottesville, VA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | CHAR851TRAD               | All Employees: Trade, Transportation, and Utilities in Charlottesville, VA (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | CHAR851TRADN              | All Employees: Trade, Transportation, and Utilities in Charlottesville, VA (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| CHAR851UR                 | Unemployment Rate in Charlottesville, VA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| CHAR851URN                | Unemployment Rate in Charlottesville, VA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| CHAR851UR                 | Unemployment Rate in Charlottesville, VA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| CHAR851URN                | Unemployment Rate in Charlottesville, VA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | CHLPOP                    | Resident Population in Charlottesville, VA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16820              | Market Hotness: Demand Score in Charlottesville, VA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC168230010             | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
@@ -42,9 +42,9 @@
 | HOSCMSA16820              | Market Hotness: Hotness Score in Charlottesville, VA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD16820                 | Implicit Regional Price Deflator for Charlottesville, VA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT511682000000003A     | Unemployment Rate in Charlottesville, VA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT511682000000004      | Unemployed Persons in Charlottesville, VA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT511682000000004      | Unemployed Persons in Charlottesville, VA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT511682000000004A     | Unemployed Persons in Charlottesville, VA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT511682000000005      | Employed Persons in Charlottesville, VA (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT511682000000005      | Employed Persons in Charlottesville, VA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT511682000000005A     | Employed Persons in Charlottesville, VA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT511682000000006A     | Civilian Labor Force in Charlottesville, VA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA16820          | Market Hotness: Listing Views per Property in Charlottesville, VA (CBSA)                                             | 2018-08-01          | 2022-06-01        |

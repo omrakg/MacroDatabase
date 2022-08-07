@@ -18,8 +18,8 @@
 | DECA401INFON              | All Employees: Information in Decatur, AL (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | DECA401LEIH               | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | DECA401LEIHN              | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| DECA401LF                 | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| DECA401LFN                | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| DECA401LF                 | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| DECA401LFN                | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | DECA401MFG                | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | DECA401MFGN               | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | DECA401NA                 | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -33,8 +33,8 @@
 | DECA401SRVON              | All Employees: Other Services in Decatur, AL (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | DECA401TRAD               | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | DECA401TRADN              | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| DECA401UR                 | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| DECA401URN                | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| DECA401UR                 | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| DECA401URN                | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | DESCMSA19460              | Market Hotness: Demand Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC194630010             | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC194630010SA           | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
@@ -55,9 +55,9 @@
 | IRPD19460                 | Implicit Regional Price Deflator for Decatur, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD19500                 | Implicit Regional Price Deflator for Decatur, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT011946000000003A     | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT011946000000004      | Unemployed Persons in Decatur, AL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT011946000000004      | Unemployed Persons in Decatur, AL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT011946000000004A     | Unemployed Persons in Decatur, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT011946000000005      | Employed Persons in Decatur, AL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT011946000000005      | Employed Persons in Decatur, AL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT011946000000005A     | Employed Persons in Decatur, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT011946000000006A     | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA19460          | Market Hotness: Listing Views per Property in Decatur, AL (CBSA)                                             | 2018-08-01          | 2022-06-01        |

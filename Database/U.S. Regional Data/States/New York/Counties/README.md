@@ -13,7 +13,7 @@
 | Ontario County, NY      |               147 |
 | Oswego County, NY       |               146 |
 | Schoharie County, NY    |                89 |
-| Oneida County, NY       |               147 |
+| Oneida County, NY       |                 0 |
 | Steuben County, NY      |               147 |
 | Allegany County, NY     |                90 |
 | Putnam County, NY       |               146 |
@@ -28,7 +28,7 @@
 | Washington County, NY   |               146 |
 | St. Lawrence County, NY |               147 |
 | Saratoga County, NY     |               147 |
-| Cortland County, NY     |                 0 |
+| Cortland County, NY     |               146 |
 | Rensselaer County, NY   |               147 |
 | Fulton County, NY       |               146 |
 | Dutchess County, NY     |               147 |

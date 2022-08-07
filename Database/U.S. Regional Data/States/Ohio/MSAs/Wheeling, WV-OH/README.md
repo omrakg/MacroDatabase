@@ -26,9 +26,9 @@
 | HOSCMSA48540              | Market Hotness: Hotness Score in Wheeling, WV-OH (CBSA)                                            | 2017-08-01          | 2022-06-01        |
 | IRPD48540                 | Implicit Regional Price Deflator for Wheeling, WV-OH (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT544854000000003A     | Unemployment Rate in Wheeling, WV-OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT544854000000004      | Unemployed Persons in Wheeling, WV-OH (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT544854000000004      | Unemployed Persons in Wheeling, WV-OH (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT544854000000004A     | Unemployed Persons in Wheeling, WV-OH (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT544854000000005      | Employed Persons in Wheeling, WV-OH (MSA)                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT544854000000005      | Employed Persons in Wheeling, WV-OH (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT544854000000005A     | Employed Persons in Wheeling, WV-OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT544854000000006A     | Civilian Labor Force in Wheeling, WV-OH (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA48540          | Market Hotness: Listing Views per Property in Wheeling, WV-OH (CBSA)                               | 2018-08-01          | 2022-06-01        |
@@ -115,13 +115,13 @@
 | WHEE554EDUHN              | All Employees: Education and Health Services in Wheeling, WV-OH (MSA)                              | 1990-01-01          | 2022-06-01        |
 | WHEE554GOVT               | All Employees: Government in Wheeling, WV-OH (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | WHEE554GOVTN              | All Employees: Government in Wheeling, WV-OH (MSA)                                                 | 1990-01-01          | 2022-06-01        |
-| WHEE554LF                 | Civilian Labor Force in Wheeling, WV-OH (MSA)                                                      | 1990-01-01          | 2022-05-01        |
-| WHEE554LFN                | Civilian Labor Force in Wheeling, WV-OH (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| WHEE554LF                 | Civilian Labor Force in Wheeling, WV-OH (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| WHEE554LFN                | Civilian Labor Force in Wheeling, WV-OH (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | WHEE554MFG                | All Employees: Manufacturing in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | WHEE554MFGN               | All Employees: Manufacturing in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | WHEE554NA                 | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | WHEE554NAN                | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1982-01-01          | 2022-06-01        |
 | WHEE554PCPI               | Per Capita Personal Income in Wheeling, WV-OH (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| WHEE554UR                 | Unemployment Rate in Wheeling, WV-OH (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| WHEE554URN                | Unemployment Rate in Wheeling, WV-OH (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| WHEE554UR                 | Unemployment Rate in Wheeling, WV-OH (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| WHEE554URN                | Unemployment Rate in Wheeling, WV-OH (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | WHLPOP                    | Resident Population in Wheeling, WV-OH (MSA)                                                       | 2000-01-01          | 2021-01-01        |

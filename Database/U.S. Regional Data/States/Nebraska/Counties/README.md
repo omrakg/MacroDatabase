@@ -5,7 +5,7 @@
 | Cheyenne County, NE     |                89 |
 | Morrill County, NE      |                88 |
 | Cedar County, NE        |                90 |
-| Seward County, NE       |                90 |
+| Seward County, NE       |                 0 |
 | Sherman County, NE      |                88 |
 | Pawnee County, NE       |                87 |
 | Webster County, NE      |                87 |
@@ -90,5 +90,5 @@
 | Fillmore County, NE     |                90 |
 | Dawson County, NE       |                90 |
 | Saline County, NE       |                89 |
-| Kimball County, NE      |                 0 |
+| Kimball County, NE      |                89 |
 | Arthur County, NE       |                82 |

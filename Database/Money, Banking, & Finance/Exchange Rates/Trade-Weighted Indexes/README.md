@@ -1,11 +1,11 @@
 | id                 | title                                                      | observation_start   | observation_end   |
 |--------------------|------------------------------------------------------------|---------------------|-------------------|
-| DTWEXAFEGS         | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-02          | 2022-07-22        |
-| DTWEXBGS           | Nominal Broad U.S. Dollar Index                            | 2006-01-02          | 2022-07-22        |
-| DTWEXEMEGS         | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-02          | 2022-07-22        |
-| RTWEXAFEGS         | Real Advanced Foreign Economies Dollar Index               | 2006-01-01          | 2022-06-01        |
-| RTWEXBGS           | Real Broad Dollar Index                                    | 2006-01-01          | 2022-06-01        |
-| RTWEXEMEGS         | Real Emerging Market Economies Dollar Index                | 2006-01-01          | 2022-06-01        |
+| DTWEXAFEGS         | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-02          | 2022-07-29        |
+| DTWEXBGS           | Nominal Broad U.S. Dollar Index                            | 2006-01-02          | 2022-07-29        |
+| DTWEXEMEGS         | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-02          | 2022-07-29        |
+| RTWEXAFEGS         | Real Advanced Foreign Economies Dollar Index               | 2006-01-01          | 2022-07-01        |
+| RTWEXBGS           | Real Broad Dollar Index                                    | 2006-01-01          | 2022-07-01        |
+| RTWEXEMEGS         | Real Emerging Market Economies Dollar Index                | 2006-01-01          | 2022-07-01        |
 | RTWVDAK684NMFRBDAL | Real Trade-Weighted Value of the dollar for Alaska         | 1988-01-01          | 2022-05-01        |
 | RTWVDAL684NMFRBDAL | Real Trade-Weighted Value of the dollar for Alabama        | 1988-01-01          | 2022-05-01        |
 | RTWVDAR684NMFRBDAL | Real Trade-Weighted Value of the dollar for Arkansas       | 1988-01-01          | 2022-05-01        |
@@ -57,8 +57,8 @@
 | RTWVDWV684NMFRBDAL | Real Trade-Weighted Value of the dollar for West Virginia  | 1988-01-01          | 2022-05-01        |
 | RTWVDWY684NMFRBDAL | Real Trade-Weighted Value of the dollar for Wyoming        | 1988-01-01          | 2022-05-01        |
 | TWEXAFEGSANL       | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-01          | 2021-01-01        |
-| TWEXAFEGSMTH       | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-01          | 2022-06-01        |
+| TWEXAFEGSMTH       | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-01          | 2022-07-01        |
 | TWEXBGSANL         | Nominal Broad U.S. Dollar Index                            | 2006-01-01          | 2021-01-01        |
-| TWEXBGSMTH         | Nominal Broad U.S. Dollar Index                            | 2006-01-01          | 2022-06-01        |
+| TWEXBGSMTH         | Nominal Broad U.S. Dollar Index                            | 2006-01-01          | 2022-07-01        |
 | TWEXEMEGSANL       | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-01          | 2021-01-01        |
-| TWEXEMEGSMTH       | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-01          | 2022-06-01        |
+| TWEXEMEGSMTH       | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-01          | 2022-07-01        |

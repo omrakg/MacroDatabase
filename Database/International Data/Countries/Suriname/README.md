@@ -42,7 +42,7 @@
 | DDOI01SRA156NWDB  | Bank Concentration for Suriname                                                                                                                         | 2008-01-01          | 2018-01-01        |
 | DDOI02SRA156NWDB  | Bank Deposits to GDP for Suriname                                                                                                                       | 1967-01-01          | 2020-01-01        |
 | DDOI07SRA648NWDB  | Liquid Liabilities (Broad Money) for Suriname                                                                                                           | 1967-01-01          | 2020-01-01        |
-| DDOI09SRA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Suriname                                                                                 | 1995-01-01          | 2016-01-01        |
+| DDOI09SRA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Suriname                                                                                 | 1997-01-01          | 2020-01-01        |
 | DDOI10SRA156NWDB  | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Suriname                                                           | 1995-01-01          | 2020-01-01        |
 | DDOI11SRA156NWDB  | Remittance Inflows to GDP for Suriname                                                                                                                  | 1977-01-01          | 2020-01-01        |
 | DDOI12SRA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Suriname                                                                                  | 1983-01-01          | 2019-01-01        |
@@ -51,7 +51,7 @@
 | DDSI06SRA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Suriname                                                                                           | 2008-01-01          | 2018-01-01        |
 | DESURA052SCEN     | Value of Exports to Suriname from Delaware                                                                                                              | 2012-01-01          | 2017-01-01        |
 | DESURA475SCEN     | Number of Identified Exporters to Suriname from Delaware                                                                                                | 2005-01-01          | 2017-01-01        |
-| EXP3150           | U.S. Exports of Goods by F.A.S. Basis to Suriname                                                                                                       | 1992-01-01          | 2022-05-01        |
+| EXP3150           | U.S. Exports of Goods by F.A.S. Basis to Suriname                                                                                                       | 1992-01-01          | 2022-06-01        |
 | FLSURA052SCEN     | Value of Exports to Suriname from Florida                                                                                                               | 1992-01-01          | 2017-01-01        |
 | FLSURA475SCEN     | Number of Identified Exporters to Suriname from Florida                                                                                                 | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSUR    | Inflation, consumer prices for Suriname                                                                                                                 | 1960-01-01          | 2021-01-01        |
@@ -73,7 +73,7 @@
 | IDSURA475SCEN     | Number of Identified Exporters to Suriname from Idaho                                                                                                   | 1997-01-01          | 2017-01-01        |
 | ILSURA052SCEN     | Value of Exports to Suriname from Illinois                                                                                                              | 1992-01-01          | 2017-01-01        |
 | ILSURA475SCEN     | Number of Identified Exporters to Suriname from Illinois                                                                                                | 1992-01-01          | 2017-01-01        |
-| IMP3150           | U.S. Imports of Goods by Customs Basis from Suriname                                                                                                    | 1992-01-01          | 2022-05-01        |
+| IMP3150           | U.S. Imports of Goods by Customs Basis from Suriname                                                                                                    | 1992-01-01          | 2022-06-01        |
 | INSURA052SCEN     | Value of Exports to Suriname from Indiana                                                                                                               | 1997-01-01          | 2014-01-01        |
 | INSURA475SCEN     | Number of Identified Exporters to Suriname from Indiana                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2SUR    | Internet users for Suriname                                                                                                                             | 1990-01-01          | 2020-01-01        |

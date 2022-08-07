@@ -30,7 +30,7 @@
 | Clay County, KY         |                88 |
 | Oldham County, KY       |               147 |
 | Whitley County, KY      |                90 |
-| Logan County, KY        |                90 |
+| Logan County, KY        |                 0 |
 | Clinton County, KY      |                88 |
 | Anderson County, KY     |                90 |
 | Rockcastle County, KY   |                88 |
@@ -90,7 +90,7 @@
 | Garrard County, KY      |                89 |
 | Edmonson County, KY     |                88 |
 | Trigg County, KY        |                90 |
-| Monroe County, KY       |                88 |
+| Monroe County, KY       |                 0 |
 | Nelson County, KY       |                90 |
 | Casey County, KY        |                90 |
 | Bourbon County, KY      |                90 |
@@ -109,7 +109,7 @@
 | Rowan County, KY        |                90 |
 | Graves County, KY       |                90 |
 | Gallatin County, KY     |                87 |
-| Carlisle County, KY     |                 0 |
+| Carlisle County, KY     |                87 |
 | Fleming County, KY      |                88 |
 | Hickman County, KY      |                87 |
 | Lyon County, KY         |                90 |

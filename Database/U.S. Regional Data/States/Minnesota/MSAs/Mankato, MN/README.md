@@ -20,13 +20,13 @@
 | ENUC318640510             | Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)              | 2013-01-01          | 2021-10-01        |
 | ENUC318640510SA           | Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)              | 2013-01-01          | 2021-10-01        |
 | IRPD31860                 | Implicit Regional Price Deflator for Mankato-North Mankato, MN (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT273186000000003      | Unemployment Rate in Mankato-North Mankato, MN (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| LAUMT273186000000003      | Unemployment Rate in Mankato-North Mankato, MN (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | LAUMT273186000000003A     | Unemployment Rate in Mankato-North Mankato, MN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT273186000000004      | Unemployed Persons in Mankato-North Mankato, MN (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT273186000000004      | Unemployed Persons in Mankato-North Mankato, MN (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT273186000000004A     | Unemployed Persons in Mankato-North Mankato, MN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT273186000000005      | Employed Persons in Mankato-North Mankato, MN (MSA)                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT273186000000005      | Employed Persons in Mankato-North Mankato, MN (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT273186000000005A     | Employed Persons in Mankato-North Mankato, MN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT273186000000006      | Civilian Labor Force in Mankato-North Mankato, MN (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT273186000000006      | Civilian Labor Force in Mankato-North Mankato, MN (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT273186000000006A     | Civilian Labor Force in Mankato-North Mankato, MN (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR31860          | Housing Inventory: Median Days on Market in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-06-01        |
 | MEDDAYONMARMM31860        | Housing Inventory: Median Days on Market Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-06-01        |

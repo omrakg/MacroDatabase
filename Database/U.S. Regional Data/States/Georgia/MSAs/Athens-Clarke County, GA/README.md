@@ -7,8 +7,8 @@
 | ATHE013GOVTN              | All Employees: Government in Athens-Clarke County, GA (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | ATHE013LEIH               | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | ATHE013LEIHN              | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2022-06-01        |
-| ATHE013LF                 | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-05-01        |
-| ATHE013LFN                | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| ATHE013LF                 | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| ATHE013LFN                | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | ATHE013NA                 | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | ATHE013NAN                | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | ATHE013PBSV               | All Employees: Professional and Business Services in Athens-Clarke County, GA (MSA)                         | 1990-01-01          | 2022-06-01        |
@@ -16,8 +16,8 @@
 | ATHE013PCPI               | Per Capita Personal Income in Athens-Clarke County, GA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | ATHE013TRAD               | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2022-06-01        |
 | ATHE013TRADN              | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2022-06-01        |
-| ATHE013UR                 | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| ATHE013URN                | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| ATHE013UR                 | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| ATHE013URN                | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | ATHPOP                    | Resident Population in Athens-Clarke County, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | ATNHPIUS12020Q            | All-Transactions House Price Index for Athens-Clarke County, GA (MSA)                                       | 1985-04-01          | 2022-01-01        |
 | AVELISPRI12020            | Housing Inventory: Average Listing Price in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-06-01        |
@@ -42,9 +42,9 @@
 | HOSCMSA12020              | Market Hotness: Hotness Score in Athens-Clarke County, GA (CBSA)                                            | 2017-08-01          | 2022-06-01        |
 | IRPD12020                 | Implicit Regional Price Deflator for Athens-Clarke County, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT131202000000003A     | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT131202000000004      | Unemployed Persons in Athens-Clarke County, GA (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT131202000000004      | Unemployed Persons in Athens-Clarke County, GA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT131202000000004A     | Unemployed Persons in Athens-Clarke County, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT131202000000005      | Employed Persons in Athens-Clarke County, GA (MSA)                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT131202000000005      | Employed Persons in Athens-Clarke County, GA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT131202000000005A     | Employed Persons in Athens-Clarke County, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT131202000000006A     | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA12020          | Market Hotness: Listing Views per Property in Athens-Clarke County, GA (CBSA)                               | 2018-08-01          | 2022-06-01        |

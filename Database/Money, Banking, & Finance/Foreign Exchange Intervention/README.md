@@ -6,12 +6,12 @@
 | CHINTDCHFUSD  | Swiss Intervention: Swiss National Bank Purchases of USD against CHF (Millions of USD)                                       | 1986-01-01          | 2001-04-05        |
 | CHINTDUSDDM   | Swiss Intervention: Swiss National Bank Purchases of USD against DEM (Millions of USD)                                       | 1975-01-01          | 1998-12-31        |
 | CHINTDUSDJPY  | Swiss Intervention: Swiss National Bank Purchases of USD against JPY (Millions of USD)                                       | 1975-01-01          | 2001-04-05        |
-| JPINTDDMEJPY  | Japan Intervention: Japanese Bank purchases of DM/Euro against JPY                                                           | 1991-04-01          | 2022-03-31        |
-| JPINTDEXR     | Japan Intervention: Japanese Bank purchases of USD against DM                                                                | 1991-04-01          | 2022-03-31        |
-| JPINTDUSDJPY  | Japan Intervention: Japanese Bank purchases of USD against JPY                                                               | 1991-04-01          | 2022-03-31        |
-| JPINTDUSDRP   | Japan Intervention: Japanese Bank purchases of USD against Rupiah                                                            | 1991-04-01          | 2022-03-31        |
+| JPINTDDMEJPY  | Japan Intervention: Japanese Bank purchases of DM/Euro against JPY                                                           | 1991-04-01          | 2022-06-30        |
+| JPINTDEXR     | Japan Intervention: Japanese Bank purchases of USD against DM                                                                | 1991-04-01          | 2022-06-30        |
+| JPINTDUSDJPY  | Japan Intervention: Japanese Bank purchases of USD against JPY                                                               | 1991-04-01          | 2022-06-30        |
+| JPINTDUSDRP   | Japan Intervention: Japanese Bank purchases of USD against Rupiah                                                            | 1991-04-01          | 2022-06-30        |
 | MEXINTDUSD    | Mexican Intervention: Banco de Mexico Purchases of USD against MXN (Millions of USD)                                         | 1997-10-27          | 2011-05-31        |
-| TRINTDEXR     | Turkish Intervention: Central Bank of Turkey Purchases of USD (Millions of USD)                                              | 2002-01-01          | 2022-07-01        |
+| TRINTDEXR     | Turkish Intervention: Central Bank of Turkey Purchases of USD (Millions of USD)                                              | 2002-01-01          | 2022-08-01        |
 | USINTDCSDM    | U.S. Intervention: With-Customer Transactions in the DEM/USD (Euro since 1999) (Millions of USD)                             | 1973-03-02          | 2011-05-31        |
 | USINTDCSJPY   | U.S. Intervention: With-Customer Transactions in the JPY/USD (Millions of USD)                                               | 1973-03-02          | 2011-05-31        |
 | USINTDCSOTH   | U.S. Intervention: With-Customer Transactions in Other Currencies (Millions of USD)                                          | 1973-03-02          | 2011-05-31        |

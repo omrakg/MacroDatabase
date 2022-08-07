@@ -9,7 +9,7 @@
 | Freeborn County, MN          |                90 |
 | Stearns County, MN           |               147 |
 | Norman County, MN            |                88 |
-| Pine County, MN              |                90 |
+| Pine County, MN              |                 0 |
 | Douglas County, MN           |                90 |
 | Kittson County, MN           |                88 |
 | Anoka County, MN             |               147 |
@@ -52,7 +52,7 @@
 | Wabasha County, MN           |                90 |
 | Sibley County, MN            |                90 |
 | Nobles County, MN            |                89 |
-| Lake of the Woods County, MN |                 0 |
+| Lake of the Woods County, MN |                88 |
 | Jackson County, MN           |                89 |
 | Faribault County, MN         |                90 |
 | Crow Wing County, MN         |               146 |
@@ -69,7 +69,7 @@
 | Wadena County, MN            |                89 |
 | Chippewa County, MN          |                90 |
 | Olmsted County, MN           |               147 |
-| Aitkin County, MN            |                90 |
+| Aitkin County, MN            |                 0 |
 | Otter Tail County, MN        |               146 |
 | Kandiyohi County, MN         |                90 |
 | McLeod County, MN            |                90 |

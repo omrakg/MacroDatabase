@@ -26,9 +26,9 @@
 | HOSCMSA43780              | Market Hotness: Hotness Score in South Bend-Mishawaka, IN-MI (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD43780                 | Implicit Regional Price Deflator for South Bend-Mishawaka, IN-MI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT184378000000003A     | Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT184378000000004      | Unemployed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT184378000000004      | Unemployed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT184378000000004A     | Unemployed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT184378000000005      | Employed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT184378000000005      | Employed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT184378000000005A     | Employed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT184378000000006A     | Civilian Labor Force in South Bend-Mishawaka, IN-MI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA43780          | Market Hotness: Listing Views per Property in South Bend-Mishawaka, IN-MI (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -150,8 +150,8 @@
 | SOUT718INFON              | All Employees: Information in South Bend-Mishawaka, IN-MI (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | SOUT718LEIH               | All Employees: Leisure and Hospitality in South Bend-Mishawaka, IN-MI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | SOUT718LEIHN              | All Employees: Leisure and Hospitality in South Bend-Mishawaka, IN-MI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| SOUT718LF                 | Civilian Labor Force in South Bend-Mishawaka, IN-MI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| SOUT718LFN                | Civilian Labor Force in South Bend-Mishawaka, IN-MI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| SOUT718LF                 | Civilian Labor Force in South Bend-Mishawaka, IN-MI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| SOUT718LFN                | Civilian Labor Force in South Bend-Mishawaka, IN-MI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | SOUT718MFG                | All Employees: Manufacturing in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | SOUT718MFGN               | All Employees: Manufacturing in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | SOUT718NA                 | All Employees: Total Nonfarm in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -165,6 +165,6 @@
 | SOUT718SRVON              | All Employees: Other Services in South Bend-Mishawaka, IN-MI (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | SOUT718TRAD               | All Employees: Trade, Transportation, and Utilities in South Bend-Mishawaka, IN-MI (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | SOUT718TRADN              | All Employees: Trade, Transportation, and Utilities in South Bend-Mishawaka, IN-MI (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| SOUT718UR                 | Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| SOUT718URN                | Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| SOUT718UR                 | Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| SOUT718URN                | Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | SUSCMSA43780              | Market Hotness: Supply Score in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2017-08-01          | 2022-06-01        |

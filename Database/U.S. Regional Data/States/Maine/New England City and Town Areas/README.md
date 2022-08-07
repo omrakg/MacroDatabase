@@ -3,7 +3,7 @@
 | Rockland, ME                          |                 0 |
 | Bangor, ME                            |                 0 |
 | Lewiston-Auburn, ME                   |                 0 |
-| Portland-South Portland-Biddeford, ME |                 0 |
+| Portland-South Portland-Biddeford, ME |               101 |
 | Waterville, ME                        |                 0 |
 | Augusta, ME                           |                 0 |
 | Brunswick, ME                         |                 0 |

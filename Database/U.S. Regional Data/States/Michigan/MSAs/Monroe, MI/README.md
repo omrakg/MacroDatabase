@@ -26,9 +26,9 @@
 | HOSCMSA33780              | Market Hotness: Hotness Score in Monroe, MI (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD33780                 | Implicit Regional Price Deflator for Monroe, MI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT263378000000003A     | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT263378000000004      | Unemployed Persons in Monroe, MI (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT263378000000004      | Unemployed Persons in Monroe, MI (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT263378000000004A     | Unemployed Persons in Monroe, MI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT263378000000005      | Employed Persons in Monroe, MI (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT263378000000005      | Employed Persons in Monroe, MI (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT263378000000005A     | Employed Persons in Monroe, MI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT263378000000006A     | Civilian Labor Force in Monroe, MI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA33780          | Market Hotness: Listing Views per Property in Monroe, MI (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -65,8 +65,8 @@
 | MONR726GOVTN              | All Employees: Government in Monroe, MI (MSA)                                                               | 1990-01-01          | 2022-06-01        |
 | MONR726LEIH               | All Employees: Leisure and Hospitality in Monroe, MI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | MONR726LEIHN              | All Employees: Leisure and Hospitality in Monroe, MI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| MONR726LF                 | Civilian Labor Force in Monroe, MI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| MONR726LFN                | Civilian Labor Force in Monroe, MI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| MONR726LF                 | Civilian Labor Force in Monroe, MI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| MONR726LFN                | Civilian Labor Force in Monroe, MI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | MONR726MFG                | All Employees: Manufacturing in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | MONR726MFGN               | All Employees: Manufacturing in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | MONR726NA                 | All Employees: Total Nonfarm in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -80,8 +80,8 @@
 | MONR726SRVON              | All Employees: Other Services in Monroe, MI (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | MONR726TRAD               | All Employees: Trade, Transportation, and Utilities in Monroe, MI (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | MONR726TRADN              | All Employees: Trade, Transportation, and Utilities in Monroe, MI (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| MONR726UR                 | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| MONR726URN                | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| MONR726UR                 | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| MONR726URN                | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | NEWLISCOU33780            | Housing Inventory: New Listing Count in Monroe, MI (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
 | NEWLISCOUMM33780          | Housing Inventory: New Listing Count Month-Over-Month in Monroe, MI (CBSA)                                  | 2017-07-01          | 2022-06-01        |
 | NEWLISCOUYY33780          | Housing Inventory: New Listing Count Year-Over-Year in Monroe, MI (CBSA)                                    | 2017-07-01          | 2022-06-01        |

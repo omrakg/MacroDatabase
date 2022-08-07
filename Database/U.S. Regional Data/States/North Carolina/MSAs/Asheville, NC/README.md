@@ -13,8 +13,8 @@
 | ASHE737INFON              | All Employees: Information in Asheville, NC (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | ASHE737LEIH               | All Employees: Leisure and Hospitality in Asheville, NC (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | ASHE737LEIHN              | All Employees: Leisure and Hospitality in Asheville, NC (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| ASHE737LF                 | Civilian Labor Force in Asheville, NC (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| ASHE737LFN                | Civilian Labor Force in Asheville, NC (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| ASHE737LF                 | Civilian Labor Force in Asheville, NC (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| ASHE737LFN                | Civilian Labor Force in Asheville, NC (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | ASHE737MFG                | All Employees: Manufacturing in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | ASHE737MFGN               | All Employees: Manufacturing in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | ASHE737NA                 | All Employees: Total Nonfarm in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -28,8 +28,8 @@
 | ASHE737SRVON              | All Employees: Other Services in Asheville, NC (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | ASHE737TRAD               | All Employees: Trade, Transportation, and Utilities in Asheville, NC (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | ASHE737TRADN              | All Employees: Trade, Transportation, and Utilities in Asheville, NC (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| ASHE737UR                 | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| ASHE737URN                | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| ASHE737UR                 | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| ASHE737URN                | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | ASHPOP                    | Resident Population in Asheville, NC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ATNHPIUS11700Q            | All-Transactions House Price Index for Asheville, NC (MSA)                                                     | 1984-07-01          | 2022-01-01        |
 | AVELISPRI11700            | Housing Inventory: Average Listing Price in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-06-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA11700              | Market Hotness: Hotness Score in Asheville, NC (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD11700                 | Implicit Regional Price Deflator for Asheville, NC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT371170000000003A     | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT371170000000004      | Unemployed Persons in Asheville, NC (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT371170000000004      | Unemployed Persons in Asheville, NC (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT371170000000004A     | Unemployed Persons in Asheville, NC (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT371170000000005      | Employed Persons in Asheville, NC (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT371170000000005      | Employed Persons in Asheville, NC (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT371170000000005A     | Employed Persons in Asheville, NC (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT371170000000006A     | Civilian Labor Force in Asheville, NC (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA11700          | Market Hotness: Listing Views per Property in Asheville, NC (CBSA)                                             | 2018-08-01          | 2022-06-01        |

@@ -26,9 +26,9 @@
 | HOSCMSA45220              | Market Hotness: Hotness Score in Tallahassee, FL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD45220                 | Implicit Regional Price Deflator for Tallahassee, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT124522000000003A     | Unemployment Rate in Tallahassee, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT124522000000004      | Unemployed Persons in Tallahassee, FL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT124522000000004      | Unemployed Persons in Tallahassee, FL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT124522000000004A     | Unemployed Persons in Tallahassee, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT124522000000005      | Employed Persons in Tallahassee, FL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT124522000000005      | Employed Persons in Tallahassee, FL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT124522000000005A     | Employed Persons in Tallahassee, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT124522000000006A     | Civilian Labor Force in Tallahassee, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA45220          | Market Hotness: Listing Views per Property in Tallahassee, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -148,8 +148,8 @@
 | TALL212INFON              | All Employees: Information in Tallahassee, FL (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | TALL212LEIH               | All Employees: Leisure and Hospitality in Tallahassee, FL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | TALL212LEIHN              | All Employees: Leisure and Hospitality in Tallahassee, FL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| TALL212LF                 | Civilian Labor Force in Tallahassee, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| TALL212LFN                | Civilian Labor Force in Tallahassee, FL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| TALL212LF                 | Civilian Labor Force in Tallahassee, FL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| TALL212LFN                | Civilian Labor Force in Tallahassee, FL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | TALL212MFG                | All Employees: Manufacturing in Tallahassee, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | TALL212MFGN               | All Employees: Manufacturing in Tallahassee, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | TALL212NA                 | All Employees: Total Nonfarm in Tallahassee, FL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -163,6 +163,6 @@
 | TALL212SRVON              | All Employees: Other Services in Tallahassee, FL (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | TALL212TRAD               | All Employees: Trade, Transportation, and Utilities in Tallahassee, FL (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | TALL212TRADN              | All Employees: Trade, Transportation, and Utilities in Tallahassee, FL (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| TALL212UR                 | Unemployment Rate in Tallahassee, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| TALL212URN                | Unemployment Rate in Tallahassee, FL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| TALL212UR                 | Unemployment Rate in Tallahassee, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| TALL212URN                | Unemployment Rate in Tallahassee, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | TALPOP                    | Resident Population in Tallahassee, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

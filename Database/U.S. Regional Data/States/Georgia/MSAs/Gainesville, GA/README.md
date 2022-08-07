@@ -22,15 +22,15 @@
 | ENUC235840510SA           | Average Weekly Wages for Employees in Private Establishments in Gainesville, GA (MSA)              | 1990-01-01          | 2021-10-01        |
 | GAIN513GOVT               | All Employees: Government in Gainesville, GA (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | GAIN513GOVTN              | All Employees: Government in Gainesville, GA (MSA)                                                 | 1990-01-01          | 2022-06-01        |
-| GAIN513LF                 | Civilian Labor Force in Gainesville, GA (MSA)                                                      | 1990-01-01          | 2022-05-01        |
-| GAIN513LFN                | Civilian Labor Force in Gainesville, GA (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| GAIN513LF                 | Civilian Labor Force in Gainesville, GA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| GAIN513LFN                | Civilian Labor Force in Gainesville, GA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | GAIN513NA                 | All Employees: Total Nonfarm in Gainesville, GA (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | GAIN513NAN                | All Employees: Total Nonfarm in Gainesville, GA (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | GAIN513PCPI               | Per Capita Personal Income in Gainesville, GA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | GAIN513TRAD               | All Employees: Trade, Transportation, and Utilities in Gainesville, GA (MSA)                       | 1990-01-01          | 2022-06-01        |
 | GAIN513TRADN              | All Employees: Trade, Transportation, and Utilities in Gainesville, GA (MSA)                       | 1990-01-01          | 2022-06-01        |
-| GAIN513UR                 | Unemployment Rate in Gainesville, GA (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| GAIN513URN                | Unemployment Rate in Gainesville, GA (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| GAIN513UR                 | Unemployment Rate in Gainesville, GA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| GAIN513URN                | Unemployment Rate in Gainesville, GA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | GAIPOP                    | Resident Population in Gainesville, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA23580            | Market Hotness: Hotness Rank in Gainesville, GA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
 | HORAMSA23580              | Market Hotness: Hotness Rank in Gainesville, GA (CBSA)                                             | 2017-08-01          | 2022-06-01        |
@@ -38,9 +38,9 @@
 | HOSCMSA23580              | Market Hotness: Hotness Score in Gainesville, GA (CBSA)                                            | 2017-08-01          | 2022-06-01        |
 | IRPD23580                 | Implicit Regional Price Deflator for Gainesville, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT132358000000003A     | Unemployment Rate in Gainesville, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT132358000000004      | Unemployed Persons in Gainesville, GA (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT132358000000004      | Unemployed Persons in Gainesville, GA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT132358000000004A     | Unemployed Persons in Gainesville, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT132358000000005      | Employed Persons in Gainesville, GA (MSA)                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT132358000000005      | Employed Persons in Gainesville, GA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT132358000000005A     | Employed Persons in Gainesville, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT132358000000006A     | Civilian Labor Force in Gainesville, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA23580          | Market Hotness: Listing Views per Property in Gainesville, GA (CBSA)                               | 2018-08-01          | 2022-06-01        |

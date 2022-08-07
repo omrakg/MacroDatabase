@@ -16,7 +16,7 @@
 | Montgomery County, PA          |               147 |
 | Chester County, PA             |               146 |
 | Tioga County, PA               |                90 |
-| Huntingdon County, PA          |                 0 |
+| Huntingdon County, PA          |                89 |
 | Wayne County, PA               |                90 |
 | Schuylkill County, PA          |               147 |
 | Venango County, PA             |               145 |

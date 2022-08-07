@@ -30,8 +30,8 @@
 | ITHA036INFON              | All Employees: Information in Ithaca, NY (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | ITHA036LEIH               | All Employees: Leisure and Hospitality in Ithaca, NY (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | ITHA036LEIHN              | All Employees: Leisure and Hospitality in Ithaca, NY (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| ITHA036LF                 | Civilian Labor Force in Ithaca, NY (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| ITHA036LFN                | Civilian Labor Force in Ithaca, NY (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| ITHA036LF                 | Civilian Labor Force in Ithaca, NY (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| ITHA036LFN                | Civilian Labor Force in Ithaca, NY (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | ITHA036MFG                | All Employees: Manufacturing in Ithaca, NY (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | ITHA036MFGN               | All Employees: Manufacturing in Ithaca, NY (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | ITHA036NA                 | All Employees: Total Nonfarm in Ithaca, NY (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -45,13 +45,13 @@
 | ITHA036SRVON              | All Employees: Other Services in Ithaca, NY (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | ITHA036TRAD               | All Employees: Trade, Transportation, and Utilities in Ithaca, NY (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | ITHA036TRADN              | All Employees: Trade, Transportation, and Utilities in Ithaca, NY (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| ITHA036UR                 | Unemployment Rate in Ithaca, NY (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| ITHA036URN                | Unemployment Rate in Ithaca, NY (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| ITHA036UR                 | Unemployment Rate in Ithaca, NY (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| ITHA036URN                | Unemployment Rate in Ithaca, NY (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | ITHPOP                    | Resident Population in Ithaca, NY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT362706000000003A     | Unemployment Rate in Ithaca, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT362706000000004      | Unemployed Persons in Ithaca, NY (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT362706000000004      | Unemployed Persons in Ithaca, NY (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT362706000000004A     | Unemployed Persons in Ithaca, NY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT362706000000005      | Employed Persons in Ithaca, NY (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT362706000000005      | Employed Persons in Ithaca, NY (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT362706000000005A     | Employed Persons in Ithaca, NY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT362706000000006A     | Civilian Labor Force in Ithaca, NY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR27060          | Housing Inventory: Median Days on Market in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-06-01        |

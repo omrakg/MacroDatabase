@@ -17,8 +17,8 @@
 | BISM938INFON              | All Employees: Information in Bismarck, ND (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | BISM938LEIH               | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | BISM938LEIHN              | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| BISM938LF                 | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| BISM938LFN                | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| BISM938LF                 | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| BISM938LFN                | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | BISM938MFG                | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | BISM938MFGN               | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | BISM938NA                 | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -32,8 +32,8 @@
 | BISM938SRVON              | All Employees: Other Services in Bismarck, ND (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | BISM938TRAD               | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | BISM938TRADN              | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| BISM938UR                 | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| BISM938URN                | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| BISM938UR                 | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| BISM938URN                | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | BIZPOP                    | Resident Population in Bismarck, ND (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA13900              | Market Hotness: Demand Score in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC139030010             | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA13900              | Market Hotness: Hotness Score in Bismarck, ND (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD13900                 | Implicit Regional Price Deflator for Bismarck, ND (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT381390000000003A     | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT381390000000004      | Unemployed Persons in Bismarck, ND (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT381390000000004      | Unemployed Persons in Bismarck, ND (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT381390000000004A     | Unemployed Persons in Bismarck, ND (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT381390000000005      | Employed Persons in Bismarck, ND (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT381390000000005      | Employed Persons in Bismarck, ND (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT381390000000005A     | Employed Persons in Bismarck, ND (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT381390000000006A     | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA13900          | Market Hotness: Listing Views per Property in Bismarck, ND (CBSA)                                             | 2018-08-01          | 2022-06-01        |

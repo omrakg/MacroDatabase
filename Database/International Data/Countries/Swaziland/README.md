@@ -30,22 +30,22 @@
 | DDDI08SZA156NWDB    | Financial System Deposits to GDP for Swaziland                                                                                | 1970-01-01          | 2020-01-01        |
 | DDDI10SZA156NWDB    | Non-Life Insurance Premium Volume to GDP for Swaziland                                                                        | 2004-01-01          | 2018-01-01        |
 | DDDI12SZA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Swaziland                                   | 1970-01-01          | 2020-01-01        |
-| DDDM01SZA156NWDB    | Stock Market Capitalization to GDP for Swaziland                                                                              | 1991-01-01          | 2007-01-01        |
+| DDDM01SZA156NWDB    | Stock Market Capitalization to GDP for Swaziland                                                                              | 1994-01-01          | 2007-01-01        |
 | DDDM02SZA156NWDB    | Stock Market Total Value Traded to GDP for Swaziland                                                                          | 1994-01-01          | 2007-01-01        |
 | DDDM08SZA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Swaziland                                                                       | 1999-01-01          | 2019-01-01        |
 | DDDM09SZA156NWDB    | Gross Portfolio Equity Assets to GDP for Swaziland                                                                            | 1999-01-01          | 2019-01-01        |
-| DDEI01SZA156NWDB    | Bank's Net Interest Margin for Swaziland                                                                                      | 1996-01-01          | 2016-01-01        |
+| DDEI01SZA156NWDB    | Bank's Net Interest Margin for Swaziland                                                                                      | 2000-01-01          | 2014-01-01        |
 | DDEI02SZA156NWDB    | Bank Lending Deposit Spread for Swaziland                                                                                     | 1980-01-01          | 2019-01-01        |
-| DDEI03SZA156NWDB    | Bank's Non-Interest Income to Total Income for Swaziland                                                                      | 1996-01-01          | 2014-01-01        |
-| DDEI04SZA156NWDB    | Bank's Overhead Costs to Total Assets for Swaziland                                                                           | 1996-01-01          | 2016-01-01        |
-| DDEI05SZA156NWDB    | Bank's Return on Assets for Swaziland                                                                                         | 1997-01-01          | 2016-01-01        |
-| DDEI06SZA156NWDB    | Bank's Return on Equity for Swaziland                                                                                         | 1997-01-01          | 2016-01-01        |
-| DDEI07SZA156NWDB    | Bank's Cost to Income Ratio for Swaziland                                                                                     | 1996-01-01          | 2014-01-01        |
+| DDEI03SZA156NWDB    | Bank's Non-Interest Income to Total Income for Swaziland                                                                      | 2000-01-01          | 2014-01-01        |
+| DDEI04SZA156NWDB    | Bank's Overhead Costs to Total Assets for Swaziland                                                                           | 2000-01-01          | 2014-01-01        |
+| DDEI05SZA156NWDB    | Bank's Return on Assets for Swaziland                                                                                         | 2000-01-01          | 2014-01-01        |
+| DDEI06SZA156NWDB    | Bank's Return on Equity for Swaziland                                                                                         | 2003-01-01          | 2014-01-01        |
+| DDEI07SZA156NWDB    | Bank's Cost to Income Ratio for Swaziland                                                                                     | 2000-01-01          | 2014-01-01        |
 | DDEI08SZA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Swaziland                                                         | 1980-01-01          | 2019-01-01        |
 | DDEM01SZA156NWDB    | Stock Market Turnover Ratio (Value Traded/Capitalization) for Swaziland                                                       | 1994-01-01          | 2007-01-01        |
 | DDOE01SZA086NWDB    | Consumer Price Index for Swaziland                                                                                            | 1964-01-01          | 2017-01-01        |
 | DDOE02SZA086NWDB    | Consumer Price Index for Swaziland                                                                                            | 1964-01-01          | 2017-01-01        |
-| DDOI01SZA156NWDB    | Bank Concentration for Swaziland                                                                                              | 1997-01-01          | 2016-01-01        |
+| DDOI01SZA156NWDB    | Bank Concentration for Swaziland                                                                                              | 2000-01-01          | 2014-01-01        |
 | DDOI02SZA156NWDB    | Bank Deposits to GDP for Swaziland                                                                                            | 1970-01-01          | 2020-01-01        |
 | DDOI04SZA066NWDB    | Lerner Index in Banking Market for Swaziland                                                                                  | 1996-01-01          | 2010-01-01        |
 | DDOI05SZA156NWDB    | Boone Indicator in Banking Market for Swaziland                                                                               | 1999-01-01          | 2014-01-01        |
@@ -55,18 +55,18 @@
 | DDOI11SZA156NWDB    | Remittance Inflows to GDP for Swaziland                                                                                       | 1974-01-01          | 2020-01-01        |
 | DDOI12SZA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Swaziland                                                       | 1983-01-01          | 2019-01-01        |
 | DDOI13SZA156NWDB    | Percentage of Foreign Banks Among Total Banks for Swaziland                                                                   | 1995-01-01          | 2013-01-01        |
-| DDOI14SZA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Swaziland                                                       | 2004-01-01          | 2013-01-01        |
-| DDOM01SZA644NWDB    | Number of Listed Companies for Swaziland                                                                                      | 1990-01-01          | 2011-01-01        |
-| DDSI01SZA645NWDB    | Bank Z-Score for Swaziland                                                                                                    | 1996-01-01          | 2016-01-01        |
+| DDOI14SZA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Swaziland                                                       | 2005-01-01          | 2013-01-01        |
+| DDOM01SZA644NWDB    | Number of Listed Companies for Swaziland                                                                                      | 1993-01-01          | 2007-01-01        |
+| DDSI01SZA645NWDB    | Bank Z-Score for Swaziland                                                                                                    | 2001-01-01          | 2014-01-01        |
 | DDSI02SZA156NWDB    | Bank Non-Performing Loans to Gross Loans for Swaziland                                                                        | 2003-01-01          | 2019-01-01        |
 | DDSI03SZA156NWDB    | Bank Capital to Total Assets for Swaziland                                                                                    | 2002-01-01          | 2019-01-01        |
 | DDSI04SZA156NWDB    | Bank Credit to Bank Deposits for Swaziland                                                                                    | 1970-01-01          | 2019-01-01        |
 | DDSI05SZA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Swaziland                                                                 | 2003-01-01          | 2019-01-01        |
-| DDSI06SZA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Swaziland                                                                | 1996-01-01          | 2016-01-01        |
+| DDSI06SZA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Swaziland                                                                | 2000-01-01          | 2014-01-01        |
 | DDSI07SZA156NWDB    | Provisions to Non-Performing Loans for Swaziland                                                                              | 2003-01-01          | 2019-01-01        |
 | DEBTTLSZA188A       | Central government debt, total (% of GDP) for Swaziland                                                                       | 1999-01-01          | 2012-01-01        |
 | DESWZA475SCEN       | Number of Identified Exporters to Swaziland from Delaware                                                                     | 2002-01-01          | 2015-01-01        |
-| EXP7950             | U.S. Exports of Goods by F.A.S. Basis to Swaziland                                                                            | 1992-01-01          | 2022-05-01        |
+| EXP7950             | U.S. Exports of Goods by F.A.S. Basis to Swaziland                                                                            | 1992-01-01          | 2022-06-01        |
 | FLSWZA052SCEN       | Value of Exports to Swaziland from Florida                                                                                    | 1997-01-01          | 2017-01-01        |
 | FLSWZA475SCEN       | Number of Identified Exporters to Swaziland from Florida                                                                      | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSWZ      | Inflation, consumer prices for Swaziland                                                                                      | 1966-01-01          | 2019-01-01        |
@@ -79,7 +79,7 @@
 | IDSWZA475SCEN       | Number of Identified Exporters to Swaziland from Idaho                                                                        | 2004-01-01          | 2016-01-01        |
 | ILSWZA052SCEN       | Value of Exports to Swaziland from Illinois                                                                                   | 1997-01-01          | 2017-01-01        |
 | ILSWZA475SCEN       | Number of Identified Exporters to Swaziland from Illinois                                                                     | 1992-01-01          | 2017-01-01        |
-| IMP7950             | U.S. Imports of Goods by Customs Basis from Swaziland                                                                         | 1992-01-01          | 2022-05-01        |
+| IMP7950             | U.S. Imports of Goods by Customs Basis from Swaziland                                                                         | 1992-01-01          | 2022-06-01        |
 | INSWZA052SCEN       | Value of Exports to Swaziland from Indiana                                                                                    | 2004-01-01          | 2017-01-01        |
 | INSWZA475SCEN       | Number of Identified Exporters to Swaziland from Indiana                                                                      | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2SWZ      | Internet users for Swaziland                                                                                                  | 1990-01-01          | 2017-01-01        |

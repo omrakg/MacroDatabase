@@ -14,9 +14,9 @@
 | ENUC482640510SA       | Average Weekly Wages for Employees in Private Establishments in Steubenville-Weirton, OH-WV (MSA)            | 1990-01-01          | 2021-10-01        |
 | IRPD48260             | Implicit Regional Price Deflator for Weirton-Steubenville, WV-OH (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT394826000000003A | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT394826000000004  | Unemployed Persons in Weirton-Steubenville, WV-OH (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT394826000000004  | Unemployed Persons in Weirton-Steubenville, WV-OH (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT394826000000004A | Unemployed Persons in Weirton-Steubenville, WV-OH (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT394826000000005  | Employed Persons in Weirton-Steubenville, WV-OH (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT394826000000005  | Employed Persons in Weirton-Steubenville, WV-OH (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT394826000000005A | Employed Persons in Weirton-Steubenville, WV-OH (MSA)                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT394826000000006A | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP48260             | Total Gross Domestic Product for Weirton-Steubenville, WV-OH (MSA)                                           | 2001-01-01          | 2020-01-01        |
@@ -29,9 +29,9 @@
 | RPPGOOD48260          | Regional Price Parities: Goods for Weirton-Steubenville, WV-OH (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH48260      | Regional Price Parities: Services: Other for Weirton-Steubenville, WV-OH (MSA)                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT48260     | Regional Price Parities: Services: Rents for Weirton-Steubenville, WV-OH (MSA)                               | 2008-01-01          | 2020-01-01        |
-| WEIR239LF             | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                    | 1990-01-01          | 2022-05-01        |
-| WEIR239LFN            | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                    | 1990-01-01          | 2022-05-01        |
+| WEIR239LF             | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                    | 1990-01-01          | 2022-06-01        |
+| WEIR239LFN            | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                    | 1990-01-01          | 2022-06-01        |
 | WEIR239PCPI           | Per Capita Personal Income in Weirton-Steubenville, WV-OH (MSA)                                              | 1969-01-01          | 2020-01-01        |
-| WEIR239UR             | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                       | 1990-01-01          | 2022-05-01        |
-| WEIR239URN            | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                       | 1990-01-01          | 2022-05-01        |
+| WEIR239UR             | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                       | 1990-01-01          | 2022-06-01        |
+| WEIR239URN            | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                       | 1990-01-01          | 2022-06-01        |
 | WEUPOP                | Resident Population in Weirton-Steubenville, WV-OH (MSA)                                                     | 2000-01-01          | 2021-01-01        |

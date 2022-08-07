@@ -67,7 +67,7 @@
 | DDSM01MNA066NWDB    | Volatility of Stock Price Index for Mongolia                                                                                 | 2001-01-01          | 2020-01-01        |
 | DEBTTLMNA188A       | Central government debt, total (% of GDP) for Mongolia                                                                       | 1992-01-01          | 2009-01-01        |
 | DEMNGA475SCEN       | Number of Identified Exporters to Mongolia from Delaware                                                                     | 2004-01-01          | 2016-01-01        |
-| EXP5740             | U.S. Exports of Goods by F.A.S. Basis to Mongolia                                                                            | 1992-01-01          | 2022-05-01        |
+| EXP5740             | U.S. Exports of Goods by F.A.S. Basis to Mongolia                                                                            | 1992-01-01          | 2022-06-01        |
 | FLMNGA052SCEN       | Value of Exports to Mongolia from Florida                                                                                    | 2002-01-01          | 2017-01-01        |
 | FLMNGA475SCEN       | Number of Identified Exporters to Mongolia from Florida                                                                      | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGMNG      | Inflation, consumer prices for Mongolia                                                                                      | 1993-01-01          | 2021-01-01        |
@@ -81,7 +81,7 @@
 | IDMNGA475SCEN       | Number of Identified Exporters to Mongolia from Idaho                                                                        | 2003-01-01          | 2017-01-01        |
 | ILMNGA052SCEN       | Value of Exports to Mongolia from Illinois                                                                                   | 2002-01-01          | 2017-01-01        |
 | ILMNGA475SCEN       | Number of Identified Exporters to Mongolia from Illinois                                                                     | 1992-01-01          | 2017-01-01        |
-| IMP5740             | U.S. Imports of Goods by Customs Basis from Mongolia                                                                         | 1992-01-01          | 2022-05-01        |
+| IMP5740             | U.S. Imports of Goods by Customs Basis from Mongolia                                                                         | 1992-01-01          | 2022-06-01        |
 | INMNGA052SCEN       | Value of Exports to Mongolia from Indiana                                                                                    | 2005-01-01          | 2017-01-01        |
 | INMNGA475SCEN       | Number of Identified Exporters to Mongolia from Indiana                                                                      | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2MNG      | Internet users for Mongolia                                                                                                  | 1990-01-01          | 2020-01-01        |

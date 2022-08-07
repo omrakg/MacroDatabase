@@ -25,19 +25,19 @@
 | HSPBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 1988-01-01          | 2022-06-01        |
 | HSPGOVT                   | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-06-01        |
 | HSPGOVTN                  | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-06-01        |
-| HSPLF                     | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| HSPLFN                    | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| HSPLF                     | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| HSPLFN                    | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | HSPNA                     | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | HSPNAN                    | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | HSPPCPI                   | Per Capita Personal Income in Hot Springs, AR (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | HSPPOP                    | Resident Population in Hot Springs, AR (MSA)                                                          | 2000-01-01          | 2021-01-01        |
-| HSPUR                     | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-05-01        |
-| HSPURN                    | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-05-01        |
+| HSPUR                     | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-06-01        |
+| HSPURN                    | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | IRPD26300                 | Implicit Regional Price Deflator for Hot Springs, AR (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT052630000000003A     | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LAUMT052630000000004      | Unemployed Persons in Hot Springs, AR (MSA)                                                           | 1990-01-01          | 2022-05-01        |
+| LAUMT052630000000004      | Unemployed Persons in Hot Springs, AR (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | LAUMT052630000000004A     | Unemployed Persons in Hot Springs, AR (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT052630000000005      | Employed Persons in Hot Springs, AR (MSA)                                                             | 1990-01-01          | 2022-05-01        |
+| LAUMT052630000000005      | Employed Persons in Hot Springs, AR (MSA)                                                             | 1990-01-01          | 2022-06-01        |
 | LAUMT052630000000005A     | Employed Persons in Hot Springs, AR (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT052630000000006A     | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR26300          | Housing Inventory: Median Days on Market in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-06-01        |

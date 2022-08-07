@@ -4,20 +4,20 @@
 | DANB809GOVTN           | All Employees: Government in Danbury, CT (NECTA)                               | 1990-01-01          | 2022-06-01        |
 | DANB809LEIH            | All Employees: Leisure and Hospitality in Danbury, CT (NECTA)                  | 1990-01-01          | 2022-06-01        |
 | DANB809LEIHN           | All Employees: Leisure and Hospitality in Danbury, CT (NECTA)                  | 1990-01-01          | 2022-06-01        |
-| DANB809LF              | Civilian Labor Force in Danbury, CT (NECTA)                                    | 1990-01-01          | 2022-05-01        |
-| DANB809LFN             | Civilian Labor Force in Danbury, CT (NECTA)                                    | 1990-01-01          | 2022-05-01        |
+| DANB809LF              | Civilian Labor Force in Danbury, CT (NECTA)                                    | 1990-01-01          | 2022-06-01        |
+| DANB809LFN             | Civilian Labor Force in Danbury, CT (NECTA)                                    | 1990-01-01          | 2022-06-01        |
 | DANB809NA              | All Employees: Total Nonfarm in Danbury, CT (NECTA)                            | 1990-01-01          | 2022-06-01        |
 | DANB809NAN             | All Employees: Total Nonfarm in Danbury, CT (NECTA)                            | 1990-01-01          | 2022-06-01        |
 | DANB809PBSV            | All Employees: Professional and Business Services in Danbury, CT (NECTA)       | 1990-01-01          | 2022-06-01        |
 | DANB809PBSVN           | All Employees: Professional and Business Services in Danbury, CT (NECTA)       | 1990-01-01          | 2022-06-01        |
 | DANB809TRAD            | All Employees: Trade, Transportation, and Utilities in Danbury, CT (NECTA)     | 1990-01-01          | 2022-06-01        |
 | DANB809TRADN           | All Employees: Trade, Transportation, and Utilities in Danbury, CT (NECTA)     | 1990-01-01          | 2022-06-01        |
-| DANB809UR              | Unemployment Rate in Danbury, CT (NECTA)                                       | 1990-01-01          | 2022-05-01        |
-| DANB809URN             | Unemployment Rate in Danbury, CT (NECTA)                                       | 1990-01-01          | 2022-05-01        |
+| DANB809UR              | Unemployment Rate in Danbury, CT (NECTA)                                       | 1990-01-01          | 2022-06-01        |
+| DANB809URN             | Unemployment Rate in Danbury, CT (NECTA)                                       | 1990-01-01          | 2022-06-01        |
 | LAUMT097285000000003A  | Unemployment Rate in Danbury, CT (NECTA)                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT097285000000004   | Unemployed Persons in Danbury, CT (NECTA)                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT097285000000004   | Unemployed Persons in Danbury, CT (NECTA)                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT097285000000004A  | Unemployed Persons in Danbury, CT (NECTA)                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT097285000000005   | Employed Persons in Danbury, CT (NECTA)                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT097285000000005   | Employed Persons in Danbury, CT (NECTA)                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT097285000000005A  | Employed Persons in Danbury, CT (NECTA)                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT097285000000006A  | Civilian Labor Force in Danbury, CT (NECTA)                                    | 1990-01-01          | 2021-01-01        |
 | SMS09728500000000001   | All Employees: Total Nonfarm in Danbury, CT (NECTA)                            | 1990-01-01          | 2018-02-01        |

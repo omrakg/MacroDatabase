@@ -22,8 +22,8 @@
 | COLL748INFON              | All Employees: Information in College Station-Bryan, TX (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | COLL748LEIH               | All Employees: Leisure and Hospitality in College Station-Bryan, TX (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | COLL748LEIHN              | All Employees: Leisure and Hospitality in College Station-Bryan, TX (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| COLL748LF                 | Civilian Labor Force in College Station-Bryan, TX (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| COLL748LFN                | Civilian Labor Force in College Station-Bryan, TX (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| COLL748LF                 | Civilian Labor Force in College Station-Bryan, TX (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| COLL748LFN                | Civilian Labor Force in College Station-Bryan, TX (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | COLL748MFG                | All Employees: Manufacturing in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | COLL748MFGN               | All Employees: Manufacturing in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | COLL748NA                 | All Employees: Total Nonfarm in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -37,8 +37,8 @@
 | COLL748SRVON              | All Employees: Other Services in College Station-Bryan, TX (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | COLL748TRAD               | All Employees: Trade, Transportation, and Utilities in College Station-Bryan, TX (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | COLL748TRADN              | All Employees: Trade, Transportation, and Utilities in College Station-Bryan, TX (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| COLL748UR                 | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| COLL748URN                | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| COLL748UR                 | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| COLL748URN                | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | DESCMSA17780              | Market Hotness: Demand Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | ENUC177830010             | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC177830010SA           | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
@@ -58,9 +58,9 @@
 | HOSCMSA17780              | Market Hotness: Hotness Score in College Station-Bryan, TX (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD17780                 | Implicit Regional Price Deflator for College Station-Bryan, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT481778000000003A     | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT481778000000004      | Unemployed Persons in College Station-Bryan, TX (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT481778000000004      | Unemployed Persons in College Station-Bryan, TX (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT481778000000004A     | Unemployed Persons in College Station-Bryan, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT481778000000005      | Employed Persons in College Station-Bryan, TX (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT481778000000005      | Employed Persons in College Station-Bryan, TX (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT481778000000005A     | Employed Persons in College Station-Bryan, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT481778000000006A     | Civilian Labor Force in College Station-Bryan, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA17780          | Market Hotness: Listing Views per Property in College Station-Bryan, TX (CBSA)                                             | 2018-08-01          | 2022-06-01        |

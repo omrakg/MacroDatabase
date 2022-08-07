@@ -21,9 +21,9 @@
 | ENUC306240510SA           | Average Weekly Wages for Employees in Private Establishments in Lima, OH (MSA)                                                                | 1990-01-01          | 2021-10-01        |
 | IRPD30620                 | Implicit Regional Price Deflator for Lima, OH (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT393062000000003A     | Unemployment Rate in Lima, OH (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT393062000000004      | Unemployed Persons in Lima, OH (MSA)                                                                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT393062000000004      | Unemployed Persons in Lima, OH (MSA)                                                                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT393062000000004A     | Unemployed Persons in Lima, OH (MSA)                                                                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT393062000000005      | Employed Persons in Lima, OH (MSA)                                                                                                            | 1990-01-01          | 2022-05-01        |
+| LAUMT393062000000005      | Employed Persons in Lima, OH (MSA)                                                                                                            | 1990-01-01          | 2022-06-01        |
 | LAUMT393062000000005A     | Employed Persons in Lima, OH (MSA)                                                                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT393062000000006A     | Civilian Labor Force in Lima, OH (MSA)                                                                                                        | 1990-01-01          | 2021-01-01        |
 | LIMA639EDUH               | All Employees: Education and Health Services in Lima, OH (MSA)                                                                                | 1990-01-01          | 2022-06-01        |
@@ -32,8 +32,8 @@
 | LIMA639GOVTN              | All Employees: Government in Lima, OH (MSA)                                                                                                   | 1990-01-01          | 2022-06-01        |
 | LIMA639LEIH               | All Employees: Leisure and Hospitality in Lima, OH (MSA)                                                                                      | 1990-01-01          | 2022-06-01        |
 | LIMA639LEIHN              | All Employees: Leisure and Hospitality in Lima, OH (MSA)                                                                                      | 1990-01-01          | 2022-06-01        |
-| LIMA639LF                 | Civilian Labor Force in Lima, OH (MSA)                                                                                                        | 1990-01-01          | 2022-05-01        |
-| LIMA639LFN                | Civilian Labor Force in Lima, OH (MSA)                                                                                                        | 1990-01-01          | 2022-05-01        |
+| LIMA639LF                 | Civilian Labor Force in Lima, OH (MSA)                                                                                                        | 1990-01-01          | 2022-06-01        |
+| LIMA639LFN                | Civilian Labor Force in Lima, OH (MSA)                                                                                                        | 1990-01-01          | 2022-06-01        |
 | LIMA639MFG                | All Employees: Manufacturing in Lima, OH (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
 | LIMA639MFGN               | All Employees: Manufacturing in Lima, OH (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
 | LIMA639NA                 | All Employees: Total Nonfarm in Lima, OH (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
@@ -45,8 +45,8 @@
 | LIMA639PCPI               | Per Capita Personal Income in Lima, OH (MSA)                                                                                                  | 1969-01-01          | 2020-01-01        |
 | LIMA639TRAD               | All Employees: Trade, Transportation, and Utilities in Lima, OH (MSA)                                                                         | 1990-01-01          | 2022-06-01        |
 | LIMA639TRADN              | All Employees: Trade, Transportation, and Utilities in Lima, OH (MSA)                                                                         | 1990-01-01          | 2022-06-01        |
-| LIMA639UR                 | Unemployment Rate in Lima, OH (MSA)                                                                                                           | 1990-01-01          | 2022-05-01        |
-| LIMA639URN                | Unemployment Rate in Lima, OH (MSA)                                                                                                           | 1990-01-01          | 2022-05-01        |
+| LIMA639UR                 | Unemployment Rate in Lima, OH (MSA)                                                                                                           | 1990-01-01          | 2022-06-01        |
+| LIMA639URN                | Unemployment Rate in Lima, OH (MSA)                                                                                                           | 1990-01-01          | 2022-06-01        |
 | LIMPOP                    | Resident Population in Lima, OH (MSA)                                                                                                         | 2000-01-01          | 2021-01-01        |
 | MEDDAYONMAR30620          | Housing Inventory: Median Days on Market in Lima, OH (CBSA)                                                                                   | 2016-07-01          | 2022-06-01        |
 | MEDDAYONMARMM30620        | Housing Inventory: Median Days on Market Month-Over-Month in Lima, OH (CBSA)                                                                  | 2017-07-01          | 2022-06-01        |

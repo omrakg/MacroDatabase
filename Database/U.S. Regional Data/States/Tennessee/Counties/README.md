@@ -8,7 +8,7 @@
 | Weakley County, TN    |                90 |
 | Giles County, TN      |                90 |
 | Hancock County, TN    |                87 |
-| Lewis County, TN      |                 0 |
+| Lewis County, TN      |                89 |
 | Morgan County, TN     |                89 |
 | Cocke County, TN      |                90 |
 | Tipton County, TN     |               146 |
@@ -23,7 +23,7 @@
 | Sullivan County, TN   |               147 |
 | Cumberland County, TN |               146 |
 | Hamilton County, TN   |               147 |
-| Moore County, TN      |                88 |
+| Moore County, TN      |                 0 |
 | Madison County, TN    |               147 |
 | Overton County, TN    |                90 |
 | Crockett County, TN   |                90 |
@@ -83,7 +83,7 @@
 | Carter County, TN     |               146 |
 | Roane County, TN      |               146 |
 | Decatur County, TN    |                89 |
-| Marshall County, TN   |                90 |
+| Marshall County, TN   |                 0 |
 | Hickman County, TN    |                90 |
 | Pickett County, TN    |                88 |
 | Henderson County, TN  |                89 |

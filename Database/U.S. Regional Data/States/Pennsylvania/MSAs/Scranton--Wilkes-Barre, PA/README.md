@@ -24,12 +24,12 @@
 | HORAMSA42540              | Market Hotness: Hotness Rank in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA42540            | Market Hotness: Hotness Rank in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA42540              | Market Hotness: Hotness Score in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
-| IHLCHG42540               | Job Postings on Indeed in Scranton--Wilkes-Barre, PA (MSA)                                                                            | 2020-02-01          | 2022-07-22        |
+| IHLCHG42540               | Job Postings on Indeed in Scranton--Wilkes-Barre, PA (MSA)                                                                            | 2020-02-01          | 2022-07-29        |
 | IRPD42540                 | Implicit Regional Price Deflator for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT424254000000003A     | Unemployment Rate in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT424254000000004      | Unemployed Persons in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT424254000000004      | Unemployed Persons in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT424254000000004A     | Unemployed Persons in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT424254000000005      | Employed Persons in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT424254000000005      | Employed Persons in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT424254000000005A     | Employed Persons in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT424254000000006A     | Civilian Labor Force in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA42540          | Market Hotness: Listing Views per Property in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -90,8 +90,8 @@
 | SCRA542INFON              | All Employees: Information in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | SCRA542LEIH               | All Employees: Leisure and Hospitality in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | SCRA542LEIHN              | All Employees: Leisure and Hospitality in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| SCRA542LF                 | Civilian Labor Force in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| SCRA542LFN                | Civilian Labor Force in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| SCRA542LF                 | Civilian Labor Force in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| SCRA542LFN                | Civilian Labor Force in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | SCRA542MFG                | All Employees: Manufacturing in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | SCRA542MFGN               | All Employees: Manufacturing in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | SCRA542NA                 | All Employees: Total Nonfarm in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -105,8 +105,8 @@
 | SCRA542SRVON              | All Employees: Other Services in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | SCRA542TRAD               | All Employees: Trade, Transportation, and Utilities in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | SCRA542TRADN              | All Employees: Trade, Transportation, and Utilities in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| SCRA542UR                 | Unemployment Rate in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| SCRA542URN                | Unemployment Rate in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| SCRA542UR                 | Unemployment Rate in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| SCRA542URN                | Unemployment Rate in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | SMS42425400000000026      | All Employees: Total Nonfarm in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                            | 1990-04-01          | 2022-06-01        |
 | SMU42425400000000001A     | All Employees: Total Nonfarm in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU42425400500000001      | All Employees: Total Private in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                            | 1990-01-01          | 2022-06-01        |

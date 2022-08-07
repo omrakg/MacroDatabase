@@ -39,44 +39,44 @@
 | DDDM01KEA156NWDB    | Stock Market Capitalization to GDP for Kenya                                                                                            | 1993-01-01          | 2020-01-01        |
 | DDDM02KEA156NWDB    | Stock Market Total Value Traded to GDP for Kenya                                                                                        | 1993-01-01          | 2020-01-01        |
 | DDDM07KEA156NWDB    | Outstanding Total International Debt Securities to GDP for Kenya                                                                        | 2014-01-01          | 2019-01-01        |
-| DDEI01KEA156NWDB    | Bank's Net Interest Margin for Kenya                                                                                                    | 1996-01-01          | 2017-01-01        |
+| DDEI01KEA156NWDB    | Bank's Net Interest Margin for Kenya                                                                                                    | 2000-01-01          | 2020-01-01        |
 | DDEI02KEA156NWDB    | Bank Lending Deposit Spread for Kenya                                                                                                   | 1980-01-01          | 2019-01-01        |
-| DDEI03KEA156NWDB    | Bank's Non-Interest Income to Total Income for Kenya                                                                                    | 1996-01-01          | 2017-01-01        |
-| DDEI04KEA156NWDB    | Bank's Overhead Costs to Total Assets for Kenya                                                                                         | 1996-01-01          | 2017-01-01        |
-| DDEI05KEA156NWDB    | Bank's Return on Assets for Kenya                                                                                                       | 1996-01-01          | 2017-01-01        |
-| DDEI06KEA156NWDB    | Bank's Return on Equity for Kenya                                                                                                       | 1996-01-01          | 2017-01-01        |
-| DDEI07KEA156NWDB    | Bank's Cost to Income Ratio for Kenya                                                                                                   | 1996-01-01          | 2017-01-01        |
+| DDEI03KEA156NWDB    | Bank's Non-Interest Income to Total Income for Kenya                                                                                    | 2000-01-01          | 2020-01-01        |
+| DDEI04KEA156NWDB    | Bank's Overhead Costs to Total Assets for Kenya                                                                                         | 2000-01-01          | 2020-01-01        |
+| DDEI05KEA156NWDB    | Bank's Return on Assets for Kenya                                                                                                       | 2000-01-01          | 2020-01-01        |
+| DDEI06KEA156NWDB    | Bank's Return on Equity for Kenya                                                                                                       | 2000-01-01          | 2020-01-01        |
+| DDEI07KEA156NWDB    | Bank's Cost to Income Ratio for Kenya                                                                                                   | 2000-01-01          | 2020-01-01        |
 | DDEI08KEA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Kenya                                                                       | 1980-01-01          | 2019-01-01        |
 | DDEM01KEA156NWDB    | Stock Market Turnover Ratio (Value Traded/Capitalization) for Kenya                                                                     | 1993-01-01          | 2020-01-01        |
 | DDOE01KEA086NWDB    | Consumer Price Index for Kenya                                                                                                          | 1960-01-01          | 2017-01-01        |
 | DDOE02KEA086NWDB    | Consumer Price Index for Kenya                                                                                                          | 1960-01-01          | 2017-01-01        |
-| DDOI01KEA156NWDB    | Bank Concentration for Kenya                                                                                                            | 1996-01-01          | 2017-01-01        |
+| DDOI01KEA156NWDB    | Bank Concentration for Kenya                                                                                                            | 2000-01-01          | 2020-01-01        |
 | DDOI02KEA156NWDB    | Bank Deposits to GDP for Kenya                                                                                                          | 1961-01-01          | 2020-01-01        |
 | DDOI03KEA066NWDB    | H-Statistic in Banking Market for Kenya                                                                                                 | 2010-01-01          | 2014-01-01        |
 | DDOI04KEA066NWDB    | Lerner Index in Banking Market for Kenya                                                                                                | 1996-01-01          | 2014-01-01        |
 | DDOI05KEA156NWDB    | Boone Indicator in Banking Market for Kenya                                                                                             | 1999-01-01          | 2014-01-01        |
-| DDOI06KEA156NWDB    | 5-Bank Asset Concentration for Kenya                                                                                                    | 1996-01-01          | 2017-01-01        |
+| DDOI06KEA156NWDB    | 5-Bank Asset Concentration for Kenya                                                                                                    | 2000-01-01          | 2020-01-01        |
 | DDOI07KEA648NWDB    | Liquid Liabilities (Broad Money) for Kenya                                                                                              | 1966-01-01          | 2020-01-01        |
 | DDOI08KEA156NWDB    | Loans from Non-Resident Banks, Net, to GDP for Kenya                                                                                    | 1997-01-01          | 2015-01-01        |
-| DDOI09KEA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Kenya                                                                    | 1996-01-01          | 2017-01-01        |
+| DDOI09KEA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Kenya                                                                    | 1997-01-01          | 2020-01-01        |
 | DDOI10KEA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Kenya                                              | 1995-01-01          | 2020-01-01        |
 | DDOI11KEA156NWDB    | Remittance Inflows to GDP for Kenya                                                                                                     | 1970-01-01          | 2020-01-01        |
 | DDOI12KEA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Kenya                                                                     | 1983-01-01          | 2019-01-01        |
 | DDOI13KEA156NWDB    | Percentage of Foreign Banks Among Total Banks for Kenya                                                                                 | 1995-01-01          | 2013-01-01        |
-| DDOI14KEA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Kenya                                                                     | 2004-01-01          | 2013-01-01        |
+| DDOI14KEA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Kenya                                                                     | 2005-01-01          | 2013-01-01        |
 | DDOM01KEA644NWDB    | Number of Listed Companies for Kenya                                                                                                    | 1993-01-01          | 2020-01-01        |
-| DDSI01KEA645NWDB    | Bank Z-Score for Kenya                                                                                                                  | 1996-01-01          | 2017-01-01        |
+| DDSI01KEA645NWDB    | Bank Z-Score for Kenya                                                                                                                  | 2000-01-01          | 2020-01-01        |
 | DDSI02KEA156NWDB    | Bank Non-Performing Loans to Gross Loans for Kenya                                                                                      | 1998-01-01          | 2018-01-01        |
 | DDSI03KEA156NWDB    | Bank Capital to Total Assets for Kenya                                                                                                  | 1998-01-01          | 2018-01-01        |
 | DDSI04KEA156NWDB    | Bank Credit to Bank Deposits for Kenya                                                                                                  | 1961-01-01          | 2020-01-01        |
 | DDSI05KEA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Kenya                                                                               | 2000-01-01          | 2018-01-01        |
-| DDSI06KEA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Kenya                                                                              | 1996-01-01          | 2017-01-01        |
+| DDSI06KEA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Kenya                                                                              | 2000-01-01          | 2020-01-01        |
 | DDSI07KEA156NWDB    | Provisions to Non-Performing Loans for Kenya                                                                                            | 2001-01-01          | 2018-01-01        |
 | DDSM01KEA066NWDB    | Volatility of Stock Price Index for Kenya                                                                                               | 2009-01-01          | 2020-01-01        |
 | DEBTTLKEA188A       | Central government debt, total (% of GDP) for Kenya                                                                                     | 1998-01-01          | 1999-01-01        |
 | DEKENA052SCEN       | Value of Exports to Kenya from Delaware                                                                                                 | 2003-01-01          | 2016-01-01        |
 | DEKENA475SCEN       | Number of Identified Exporters to Kenya from Delaware                                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP7790             | U.S. Exports of Goods by F.A.S. Basis to Kenya                                                                                          | 1992-01-01          | 2022-05-01        |
+| EXP7790             | U.S. Exports of Goods by F.A.S. Basis to Kenya                                                                                          | 1992-01-01          | 2022-06-01        |
 | FLKENA052SCEN       | Value of Exports to Kenya from Florida                                                                                                  | 1992-01-01          | 2017-01-01        |
 | FLKENA475SCEN       | Number of Identified Exporters to Kenya from Florida                                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGKEN      | Inflation, consumer prices for Kenya                                                                                                    | 1960-01-01          | 2021-01-01        |
@@ -97,7 +97,7 @@
 | IDSGAMNINIKE        | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kenya                             | 1997-10-01          | 2021-04-01        |
 | ILKENA052SCEN       | Value of Exports to Kenya from Illinois                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILKENA475SCEN       | Number of Identified Exporters to Kenya from Illinois                                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7790             | U.S. Imports of Goods by Customs Basis from Kenya                                                                                       | 1992-01-01          | 2022-05-01        |
+| IMP7790             | U.S. Imports of Goods by Customs Basis from Kenya                                                                                       | 1992-01-01          | 2022-06-01        |
 | INKENA052SCEN       | Value of Exports to Kenya from Indiana                                                                                                  | 1992-01-01          | 2017-01-01        |
 | INKENA475SCEN       | Number of Identified Exporters to Kenya from Indiana                                                                                    | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2KEN      | Internet users for Kenya                                                                                                                | 1990-01-01          | 2020-01-01        |

@@ -59,7 +59,7 @@
 | Henry County, IL       |               143 |
 | White County, IL       |                90 |
 | Morgan County, IL      |                90 |
-| Clark County, IL       |                 0 |
+| Clark County, IL       |                90 |
 | Clay County, IL        |                88 |
 | Bureau County, IL      |                90 |
 | Putnam County, IL      |                89 |
@@ -79,7 +79,7 @@
 | Winnebago County, IL   |               147 |
 | Gallatin County, IL    |                87 |
 | Marshall County, IL    |                90 |
-| St. Clair County, IL   |               147 |
+| St. Clair County, IL   |                 0 |
 | Iroquois County, IL    |                89 |
 | Pike County, IL        |                89 |
 | Jersey County, IL      |                90 |

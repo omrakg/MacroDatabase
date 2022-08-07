@@ -26,9 +26,9 @@
 | HOSCMSA42340              | Market Hotness: Hotness Score in Savannah, GA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD42340                 | Implicit Regional Price Deflator for Savannah, GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT134234000000003A     | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT134234000000004      | Unemployed Persons in Savannah, GA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT134234000000004      | Unemployed Persons in Savannah, GA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT134234000000004A     | Unemployed Persons in Savannah, GA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT134234000000005      | Employed Persons in Savannah, GA (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT134234000000005      | Employed Persons in Savannah, GA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT134234000000005A     | Employed Persons in Savannah, GA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT134234000000006A     | Civilian Labor Force in Savannah, GA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA42340          | Market Hotness: Listing Views per Property in Savannah, GA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -89,8 +89,8 @@
 | SAVA313INFON              | All Employees: Information in Savannah, GA (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | SAVA313LEIH               | All Employees: Leisure and Hospitality in Savannah, GA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | SAVA313LEIHN              | All Employees: Leisure and Hospitality in Savannah, GA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| SAVA313LF                 | Civilian Labor Force in Savannah, GA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| SAVA313LFN                | Civilian Labor Force in Savannah, GA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| SAVA313LF                 | Civilian Labor Force in Savannah, GA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| SAVA313LFN                | Civilian Labor Force in Savannah, GA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | SAVA313MFG                | All Employees: Manufacturing in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | SAVA313MFGN               | All Employees: Manufacturing in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | SAVA313NA                 | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -104,8 +104,8 @@
 | SAVA313SRVON              | All Employees: Other Services in Savannah, GA (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | SAVA313TRAD               | All Employees: Trade, Transportation, and Utilities in Savannah, GA (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | SAVA313TRADN              | All Employees: Trade, Transportation, and Utilities in Savannah, GA (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| SAVA313UR                 | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| SAVA313URN                | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| SAVA313UR                 | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| SAVA313URN                | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | SAVPOP                    | Resident Population in Savannah, GA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SMS13423400000000026      | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1990-04-01          | 2022-06-01        |
 | SMU13423400000000001A     | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1970-01-01          | 2021-01-01        |

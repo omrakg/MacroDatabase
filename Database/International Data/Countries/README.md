@@ -54,9 +54,9 @@
 | Colombia                                             |               919 |
 | Sweden                                               |                 5 |
 | Turkey                                               |               887 |
-| Botswana                                             |               293 |
+| Botswana                                             |                 0 |
 | Dominican Republic                                   |               287 |
-| Nicaragua                                            |                 0 |
+| Nicaragua                                            |               235 |
 | Svalbard and Jan Mayen                               |                43 |
 | Saint Lucia                                          |               170 |
 | Great Britain                                        |                61 |
@@ -126,7 +126,7 @@
 | Sierra Leone                                         |               214 |
 | French Polynesia                                     |               120 |
 | Bosnia and Herzegovina                               |               226 |
-| Sudan                                                |                 0 |
+| Sudan                                                |               211 |
 | Micronesia, Federated States of                      |               155 |
 | Oman                                                 |               230 |
 | Slovak Republic                                      |               761 |
@@ -229,10 +229,10 @@
 | Netherlands                                          |                 1 |
 | Anguilla                                             |               109 |
 | Virgin Islands, U.S.                                 |               144 |
-| Holy See (Vatican City State)                        |                58 |
+| Holy See (Vatican City State)                        |                 0 |
 | Lithuania                                            |               979 |
 | Macedonia, Former Yugoslav Republic of               |               240 |
-| Côte d’Ivoire                                        |                 0 |
+| Côte d’Ivoire                                        |               224 |
 | Burkina Faso                                         |               207 |
 | American Samoa                                       |                 7 |
 | United Arab Emirates                                 |               246 |

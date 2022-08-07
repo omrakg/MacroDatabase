@@ -21,9 +21,9 @@
 | ENUC349040510SA           | Average Weekly Wages for Employees in Private Establishments in Napa, CA (MSA)                                                                | 1990-01-01          | 2021-10-01        |
 | IRPD34900                 | Implicit Regional Price Deflator for Napa, CA (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT063490000000003A     | Unemployment Rate in Napa, CA (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT063490000000004      | Unemployed Persons in Napa, CA (MSA)                                                                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT063490000000004      | Unemployed Persons in Napa, CA (MSA)                                                                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT063490000000004A     | Unemployed Persons in Napa, CA (MSA)                                                                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT063490000000005      | Employed Persons in Napa, CA (MSA)                                                                                                            | 1990-01-01          | 2022-05-01        |
+| LAUMT063490000000005      | Employed Persons in Napa, CA (MSA)                                                                                                            | 1990-01-01          | 2022-06-01        |
 | LAUMT063490000000005A     | Employed Persons in Napa, CA (MSA)                                                                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT063490000000006A     | Civilian Labor Force in Napa, CA (MSA)                                                                                                        | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR34900          | Housing Inventory: Median Days on Market in Napa, CA (CBSA)                                                                                   | 2016-07-01          | 2022-06-01        |
@@ -48,8 +48,8 @@
 | NAPA906INFON              | All Employees: Information in Napa, CA (MSA)                                                                                                  | 1990-01-01          | 2022-06-01        |
 | NAPA906LEIH               | All Employees: Leisure and Hospitality in Napa, CA (MSA)                                                                                      | 1990-01-01          | 2022-06-01        |
 | NAPA906LEIHN              | All Employees: Leisure and Hospitality in Napa, CA (MSA)                                                                                      | 1990-01-01          | 2022-06-01        |
-| NAPA906LF                 | Civilian Labor Force in Napa, CA (MSA)                                                                                                        | 1990-01-01          | 2022-05-01        |
-| NAPA906LFN                | Civilian Labor Force in Napa, CA (MSA)                                                                                                        | 1990-01-01          | 2022-05-01        |
+| NAPA906LF                 | Civilian Labor Force in Napa, CA (MSA)                                                                                                        | 1990-01-01          | 2022-06-01        |
+| NAPA906LFN                | Civilian Labor Force in Napa, CA (MSA)                                                                                                        | 1990-01-01          | 2022-06-01        |
 | NAPA906MFG                | All Employees: Manufacturing in Napa, CA (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
 | NAPA906MFGN               | All Employees: Manufacturing in Napa, CA (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
 | NAPA906NA                 | All Employees: Total Nonfarm in Napa, CA (MSA)                                                                                                | 1990-01-01          | 2022-06-01        |
@@ -63,8 +63,8 @@
 | NAPA906SRVON              | All Employees: Other Services in Napa, CA (MSA)                                                                                               | 1990-01-01          | 2022-06-01        |
 | NAPA906TRAD               | All Employees: Trade, Transportation, and Utilities in Napa, CA (MSA)                                                                         | 1990-01-01          | 2022-06-01        |
 | NAPA906TRADN              | All Employees: Trade, Transportation, and Utilities in Napa, CA (MSA)                                                                         | 1990-01-01          | 2022-06-01        |
-| NAPA906UR                 | Unemployment Rate in Napa, CA (MSA)                                                                                                           | 1990-01-01          | 2022-05-01        |
-| NAPA906URN                | Unemployment Rate in Napa, CA (MSA)                                                                                                           | 1990-01-01          | 2022-05-01        |
+| NAPA906UR                 | Unemployment Rate in Napa, CA (MSA)                                                                                                           | 1990-01-01          | 2022-06-01        |
+| NAPA906URN                | Unemployment Rate in Napa, CA (MSA)                                                                                                           | 1990-01-01          | 2022-06-01        |
 | NAPPOP                    | Resident Population in Napa, CA (MSA)                                                                                                         | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU34900            | Housing Inventory: New Listing Count in Napa, CA (CBSA)                                                                                       | 2016-07-01          | 2022-06-01        |
 | NEWLISCOUMM34900          | Housing Inventory: New Listing Count Month-Over-Month in Napa, CA (CBSA)                                                                      | 2017-07-01          | 2022-06-01        |

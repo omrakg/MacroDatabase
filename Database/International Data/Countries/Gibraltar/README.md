@@ -12,7 +12,7 @@
 | CTGIBA475SCEN  | Number of Identified Exporters to Gibraltar from Connecticut                                                                                   | 1992-01-01          | 2016-01-01        |
 | DCGIBA475SCEN  | Number of Identified Exporters to Gibraltar from District of Columbia                                                                          | 1992-01-01          | 2016-01-01        |
 | DEGIBA475SCEN  | Number of Identified Exporters to Gibraltar from Delaware                                                                                      | 2006-01-01          | 2015-01-01        |
-| EXP4720        | U.S. Exports of Goods by F.A.S. Basis to Gibraltar                                                                                             | 1992-01-01          | 2022-05-01        |
+| EXP4720        | U.S. Exports of Goods by F.A.S. Basis to Gibraltar                                                                                             | 1992-01-01          | 2022-06-01        |
 | FLGIBA052SCEN  | Value of Exports to Gibraltar from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLGIBA475SCEN  | Number of Identified Exporters to Gibraltar from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | GAGIBA052SCEN  | Value of Exports to Gibraltar from Georgia                                                                                                     | 2005-01-01          | 2017-01-01        |
@@ -31,7 +31,7 @@
 | IDSGAMRINIGI   | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Gibraltar         | 1991-04-01          | 2005-04-01        |
 | ILGIBA052SCEN  | Value of Exports to Gibraltar from Illinois                                                                                                    | 2005-01-01          | 2014-01-01        |
 | ILGIBA475SCEN  | Number of Identified Exporters to Gibraltar from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP4720        | U.S. Imports of Goods by Customs Basis from Gibraltar                                                                                          | 1992-01-01          | 2022-05-01        |
+| IMP4720        | U.S. Imports of Goods by Customs Basis from Gibraltar                                                                                          | 1992-01-01          | 2022-06-01        |
 | INGIBA052SCEN  | Value of Exports to Gibraltar from Indiana                                                                                                     | 2002-01-01          | 2013-01-01        |
 | INGIBA475SCEN  | Number of Identified Exporters to Gibraltar from Indiana                                                                                       | 1992-01-01          | 2015-01-01        |
 | KSGIBA475SCEN  | Number of Identified Exporters to Gibraltar from Kansas                                                                                        | 2002-01-01          | 2015-01-01        |

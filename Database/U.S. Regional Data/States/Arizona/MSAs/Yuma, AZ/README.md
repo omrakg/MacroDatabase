@@ -26,9 +26,9 @@
 | HOSCMSA49740              | Market Hotness: Hotness Score in Yuma, AZ (CBSA)                                            | 2017-08-01          | 2022-06-01        |
 | IRPD49740                 | Implicit Regional Price Deflator for Yuma, AZ (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT044974000000003A     | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT044974000000004      | Unemployed Persons in Yuma, AZ (MSA)                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT044974000000004      | Unemployed Persons in Yuma, AZ (MSA)                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT044974000000004A     | Unemployed Persons in Yuma, AZ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT044974000000005      | Employed Persons in Yuma, AZ (MSA)                                                          | 1990-01-01          | 2022-05-01        |
+| LAUMT044974000000005      | Employed Persons in Yuma, AZ (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT044974000000005A     | Employed Persons in Yuma, AZ (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT044974000000006A     | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA49740          | Market Hotness: Listing Views per Property in Yuma, AZ (CBSA)                               | 2018-08-01          | 2022-06-01        |
@@ -126,8 +126,8 @@
 | YUMA704INFON              | All Employees: Information in Yuma, AZ (MSA)                                                | 1990-01-01          | 2022-06-01        |
 | YUMA704LEIH               | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | YUMA704LEIHN              | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2022-06-01        |
-| YUMA704LF                 | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-05-01        |
-| YUMA704LFN                | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-05-01        |
+| YUMA704LF                 | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| YUMA704LFN                | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-06-01        |
 | YUMA704MFG                | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | YUMA704MFGN               | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-06-01        |
 | YUMA704NA                 | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-06-01        |
@@ -141,6 +141,6 @@
 | YUMA704SRVON              | All Employees: Other Services in Yuma, AZ (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | YUMA704TRAD               | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2022-06-01        |
 | YUMA704TRADN              | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2022-06-01        |
-| YUMA704UR                 | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-05-01        |
-| YUMA704URN                | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-05-01        |
+| YUMA704UR                 | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| YUMA704URN                | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | YUMPOP                    | Resident Population in Yuma, AZ (MSA)                                                       | 2000-01-01          | 2021-01-01        |

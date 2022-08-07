@@ -26,9 +26,9 @@
 | HOSCMSA48140              | Market Hotness: Hotness Score in Wausau, WI (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD48140                 | Implicit Regional Price Deflator for Wausau, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT554814000000003A     | Unemployment Rate in Wausau, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT554814000000004      | Unemployed Persons in Wausau, WI (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT554814000000004      | Unemployed Persons in Wausau, WI (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT554814000000004A     | Unemployed Persons in Wausau, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT554814000000005      | Employed Persons in Wausau, WI (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT554814000000005      | Employed Persons in Wausau, WI (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT554814000000005A     | Employed Persons in Wausau, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT554814000000006A     | Civilian Labor Force in Wausau, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA48140          | Market Hotness: Listing Views per Property in Wausau, WI (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -139,8 +139,8 @@
 | WAUS155INFON              | All Employees: Information in Wausau, WI (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | WAUS155LEIH               | All Employees: Leisure and Hospitality in Wausau, WI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | WAUS155LEIHN              | All Employees: Leisure and Hospitality in Wausau, WI (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| WAUS155LF                 | Civilian Labor Force in Wausau, WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| WAUS155LFN                | Civilian Labor Force in Wausau, WI (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| WAUS155LF                 | Civilian Labor Force in Wausau, WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| WAUS155LFN                | Civilian Labor Force in Wausau, WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | WAUS155MFG                | All Employees: Manufacturing in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | WAUS155MFGN               | All Employees: Manufacturing in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | WAUS155NA                 | All Employees: Total Nonfarm in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -154,5 +154,5 @@
 | WAUS155SRVON              | All Employees: Other Services in Wausau, WI (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | WAUS155TRAD               | All Employees: Trade, Transportation, and Utilities in Wausau, WI (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | WAUS155TRADN              | All Employees: Trade, Transportation, and Utilities in Wausau, WI (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| WAUS155UR                 | Unemployment Rate in Wausau, WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| WAUS155URN                | Unemployment Rate in Wausau, WI (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| WAUS155UR                 | Unemployment Rate in Wausau, WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| WAUS155URN                | Unemployment Rate in Wausau, WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |

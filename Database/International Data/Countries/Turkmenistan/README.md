@@ -19,21 +19,21 @@
 | DDAI07TMA156NWDB     | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Turkmenistan | 2011-01-01          | 2017-01-01        |
 | DDDI04TMA156NWDB     | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Turkmenistan   | 1993-01-01          | 2001-01-01        |
 | DDDI10TMA156NWDB     | Non-Life Insurance Premium Volume to GDP for Turkmenistan                                         | 2005-01-01          | 2011-01-01        |
-| DDEI01TMA156NWDB     | Bank's Net Interest Margin for Turkmenistan                                                       | 2000-01-01          | 2016-01-01        |
-| DDEI03TMA156NWDB     | Bank's Non-Interest Income to Total Income for Turkmenistan                                       | 1999-01-01          | 2014-01-01        |
-| DDEI04TMA156NWDB     | Bank's Overhead Costs to Total Assets for Turkmenistan                                            | 2000-01-01          | 2016-01-01        |
-| DDEI05TMA156NWDB     | Bank's Return on Assets for Turkmenistan                                                          | 2000-01-01          | 2016-01-01        |
-| DDEI06TMA156NWDB     | Bank's Return on Equity for Turkmenistan                                                          | 2000-01-01          | 2016-01-01        |
-| DDEI07TMA156NWDB     | Bank's Cost to Income Ratio for Turkmenistan                                                      | 1999-01-01          | 2014-01-01        |
+| DDEI01TMA156NWDB     | Bank's Net Interest Margin for Turkmenistan                                                       | 2015-01-01          | 2019-01-01        |
+| DDEI03TMA156NWDB     | Bank's Non-Interest Income to Total Income for Turkmenistan                                       | 2015-01-01          | 2019-01-01        |
+| DDEI04TMA156NWDB     | Bank's Overhead Costs to Total Assets for Turkmenistan                                            | 2015-01-01          | 2019-01-01        |
+| DDEI05TMA156NWDB     | Bank's Return on Assets for Turkmenistan                                                          | 2015-01-01          | 2019-01-01        |
+| DDEI06TMA156NWDB     | Bank's Return on Equity for Turkmenistan                                                          | 2015-01-01          | 2019-01-01        |
+| DDEI07TMA156NWDB     | Bank's Cost to Income Ratio for Turkmenistan                                                      | 2015-01-01          | 2019-01-01        |
 | DDOI07TMA648NWDB     | Liquid Liabilities (Broad Money) for Turkmenistan                                                 | 1993-01-01          | 2001-01-01        |
 | DDOI09TMA156NWDB     | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Turkmenistan                       | 1995-01-01          | 2013-01-01        |
 | DDOI11TMA156NWDB     | Remittance Inflows to GDP for Turkmenistan                                                        | 1996-01-01          | 2019-01-01        |
 | DDOI12TMA156NWDB     | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Turkmenistan                        | 1994-01-01          | 2019-01-01        |
-| DDSI01TMA645NWDB     | Bank Z-Score for Turkmenistan                                                                     | 1999-01-01          | 2016-01-01        |
+| DDSI01TMA645NWDB     | Bank Z-Score for Turkmenistan                                                                     | 2015-01-01          | 2019-01-01        |
 | DDSI04TMA156NWDB     | Bank Credit to Bank Deposits for Turkmenistan                                                     | 1993-01-01          | 2001-01-01        |
-| DDSI06TMA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Turkmenistan                                 | 1999-01-01          | 2016-01-01        |
+| DDSI06TMA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Turkmenistan                                 | 2015-01-01          | 2019-01-01        |
 | DETKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Delaware                                      | 1997-01-01          | 2015-01-01        |
-| EXP4643              | U.S. Exports of Goods by F.A.S. Basis to Turkmenistan                                             | 1992-01-01          | 2022-05-01        |
+| EXP4643              | U.S. Exports of Goods by F.A.S. Basis to Turkmenistan                                             | 1992-01-01          | 2022-06-01        |
 | FLTKMA052SCEN        | Value of Exports to Turkmenistan from Florida                                                     | 2008-01-01          | 2017-01-01        |
 | FLTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Florida                                       | 1997-01-01          | 2017-01-01        |
 | GATKMA052SCEN        | Value of Exports to Turkmenistan from Georgia                                                     | 2002-01-01          | 2017-01-01        |
@@ -43,7 +43,7 @@
 | IDTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Idaho                                         | 2011-01-01          | 2011-01-01        |
 | ILTKMA052SCEN        | Value of Exports to Turkmenistan from Illinois                                                    | 2004-01-01          | 2017-01-01        |
 | ILTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Illinois                                      | 1997-01-01          | 2017-01-01        |
-| IMP4643              | U.S. Imports of Goods by Customs Basis from Turkmenistan                                          | 1992-01-01          | 2022-05-01        |
+| IMP4643              | U.S. Imports of Goods by Customs Basis from Turkmenistan                                          | 1992-01-01          | 2022-06-01        |
 | INTKMA052SCEN        | Value of Exports to Turkmenistan from Indiana                                                     | 2006-01-01          | 2017-01-01        |
 | INTKMA475SCEN        | Number of Identified Exporters to Turkmenistan from Indiana                                       | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2TKM       | Internet users for Turkmenistan                                                                   | 1990-01-01          | 2017-01-01        |

@@ -12,18 +12,18 @@
 | CTMCOA475SCEN     | Number of Identified Exporters to Monaco from Connecticut          | 1992-01-01          | 2016-01-01        |
 | DCMCOA052SCEN     | Value of Exports to Monaco from District of Columbia               | 1992-01-01          | 1992-01-01        |
 | DCMCOA475SCEN     | Number of Identified Exporters to Monaco from District of Columbia | 1992-01-01          | 2016-01-01        |
-| DDEI01MCA156NWDB  | Bank's Net Interest Margin for Monaco                              | 1996-01-01          | 1999-01-01        |
-| DDEI03MCA156NWDB  | Bank's Non-Interest Income to Total Income for Monaco              | 1996-01-01          | 1999-01-01        |
-| DDEI04MCA156NWDB  | Bank's Overhead Costs to Total Assets for Monaco                   | 1996-01-01          | 1999-01-01        |
-| DDEI05MCA156NWDB  | Bank's Return on Assets for Monaco                                 | 1996-01-01          | 1999-01-01        |
-| DDEI06MCA156NWDB  | Bank's Return on Equity for Monaco                                 | 1996-01-01          | 1999-01-01        |
-| DDEI07MCA156NWDB  | Bank's Cost to Income Ratio for Monaco                             | 1996-01-01          | 1999-01-01        |
-| DDOI01MCA156NWDB  | Bank Concentration for Monaco                                      | 1996-01-01          | 1999-01-01        |
+| DDEI01MCA156NWDB  | Bank's Net Interest Margin for Monaco                              | 2000-01-01          | 2002-01-01        |
+| DDEI03MCA156NWDB  | Bank's Non-Interest Income to Total Income for Monaco              | 2000-01-01          | 2002-01-01        |
+| DDEI04MCA156NWDB  | Bank's Overhead Costs to Total Assets for Monaco                   | 2000-01-01          | 2002-01-01        |
+| DDEI05MCA156NWDB  | Bank's Return on Assets for Monaco                                 | 2000-01-01          | 2002-01-01        |
+| DDEI06MCA156NWDB  | Bank's Return on Equity for Monaco                                 | 2000-01-01          | 2002-01-01        |
+| DDEI07MCA156NWDB  | Bank's Cost to Income Ratio for Monaco                             | 2000-01-01          | 2002-01-01        |
+| DDOI01MCA156NWDB  | Bank Concentration for Monaco                                      | 2000-01-01          | 2002-01-01        |
 | DDOI05MCA156NWDB  | Boone Indicator in Banking Market for Monaco                       | 1999-01-01          | 2004-01-01        |
 | DDOI06MCA156NWDB  | 5-Bank Asset Concentration for Monaco                              | 1996-01-01          | 1999-01-01        |
-| DDSI01MCA645NWDB  | Bank Z-Score for Monaco                                            | 1996-01-01          | 1999-01-01        |
+| DDSI01MCA645NWDB  | Bank Z-Score for Monaco                                            | 2000-01-01          | 2002-01-01        |
 | DEMCOA475SCEN     | Number of Identified Exporters to Monaco from Delaware             | 2007-01-01          | 2012-01-01        |
-| EXP4272           | U.S. Exports of Goods by F.A.S. Basis to Monaco                    | 1992-01-01          | 2022-05-01        |
+| EXP4272           | U.S. Exports of Goods by F.A.S. Basis to Monaco                    | 1992-01-01          | 2022-06-01        |
 | FLMCOA052SCEN     | Value of Exports to Monaco from Florida                            | 1992-01-01          | 2017-01-01        |
 | FLMCOA475SCEN     | Number of Identified Exporters to Monaco from Florida              | 1992-01-01          | 2017-01-01        |
 | GAMCOA052SCEN     | Value of Exports to Monaco from Georgia                            | 1992-01-01          | 2014-01-01        |
@@ -32,7 +32,7 @@
 | IDMCOA475SCEN     | Number of Identified Exporters to Monaco from Idaho                | 2007-01-01          | 2011-01-01        |
 | ILMCOA052SCEN     | Value of Exports to Monaco from Illinois                           | 2003-01-01          | 2017-01-01        |
 | ILMCOA475SCEN     | Number of Identified Exporters to Monaco from Illinois             | 1992-01-01          | 2017-01-01        |
-| IMP4272           | U.S. Imports of Goods by Customs Basis from Monaco                 | 1992-01-01          | 2022-05-01        |
+| IMP4272           | U.S. Imports of Goods by Customs Basis from Monaco                 | 1992-01-01          | 2022-06-01        |
 | INMCOA052SCEN     | Value of Exports to Monaco from Indiana                            | 2006-01-01          | 2014-01-01        |
 | INMCOA475SCEN     | Number of Identified Exporters to Monaco from Indiana              | 2002-01-01          | 2016-01-01        |
 | ITNETUSERP2MCO    | Internet users for Monaco                                          | 1990-01-01          | 2017-01-01        |

@@ -26,9 +26,9 @@
 | HOSCMSA49620              | Market Hotness: Hotness Score in York-Hanover, PA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD49620                 | Implicit Regional Price Deflator for York-Hanover, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT424962000000003A     | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT424962000000004      | Unemployed Persons in York-Hanover, PA (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT424962000000004      | Unemployed Persons in York-Hanover, PA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT424962000000004A     | Unemployed Persons in York-Hanover, PA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT424962000000005      | Employed Persons in York-Hanover, PA (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT424962000000005      | Employed Persons in York-Hanover, PA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT424962000000005A     | Employed Persons in York-Hanover, PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT424962000000006A     | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA49620          | Market Hotness: Listing Views per Property in York-Hanover, PA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
@@ -147,8 +147,8 @@
 | YORK642INFON              | All Employees: Information in York-Hanover, PA (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | YORK642LEIH               | All Employees: Leisure and Hospitality in York-Hanover, PA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | YORK642LEIHN              | All Employees: Leisure and Hospitality in York-Hanover, PA (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| YORK642LF                 | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| YORK642LFN                | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| YORK642LF                 | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| YORK642LFN                | Civilian Labor Force in York-Hanover, PA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | YORK642MFG                | All Employees: Manufacturing in York-Hanover, PA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | YORK642MFGN               | All Employees: Manufacturing in York-Hanover, PA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | YORK642NA                 | All Employees: Total Nonfarm in York-Hanover, PA (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -162,6 +162,6 @@
 | YORK642SRVON              | All Employees: Other Services in York-Hanover, PA (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | YORK642TRAD               | All Employees: Trade, Transportation, and Utilities in York-Hanover, PA (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | YORK642TRADN              | All Employees: Trade, Transportation, and Utilities in York-Hanover, PA (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| YORK642UR                 | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| YORK642URN                | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| YORK642UR                 | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| YORK642URN                | Unemployment Rate in York-Hanover, PA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | YRKPOP                    | Resident Population in York-Hanover, PA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

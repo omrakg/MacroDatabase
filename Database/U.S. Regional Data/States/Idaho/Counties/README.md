@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Caribou County, ID    |                 0 |
+| Caribou County, ID    |                89 |
 | Franklin County, ID   |                90 |
 | Lewis County, ID      |                89 |
 | Twin Falls County, ID |               147 |
@@ -16,7 +16,7 @@
 | Jerome County, ID     |                90 |
 | Bannock County, ID    |               147 |
 | Camas County, ID      |                85 |
-| Butte County, ID      |                88 |
+| Butte County, ID      |                 0 |
 | Custer County, ID     |                89 |
 | Ada County, ID        |               147 |
 | Boundary County, ID   |                89 |

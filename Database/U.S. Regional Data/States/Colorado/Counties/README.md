@@ -14,7 +14,7 @@
 | Sedgwick County, CO          |                88 |
 | El Paso County, CO           |               147 |
 | Grand County, CO             |                90 |
-| Las Animas County, CO        |                89 |
+| Las Animas County, CO        |                 0 |
 | Elbert County, CO            |                90 |
 | Pueblo County, CO            |               147 |
 | Gunnison County, CO          |                90 |
@@ -47,7 +47,7 @@
 | Kiowa County, CO             |                88 |
 | San Miguel County, CO        |                88 |
 | Montrose County, CO          |                90 |
-| Park County, CO              |                 0 |
+| Park County, CO              |                90 |
 | La Plata County, CO          |               146 |
 | Denver County, CO            |               146 |
 | Routt County, CO             |                90 |

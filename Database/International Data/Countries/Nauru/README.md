@@ -6,7 +6,7 @@
 | CANRUA475SCEN  | Number of Identified Exporters to Nauru from California                                                                                    | 1997-01-01          | 2017-01-01        |
 | CONRUA475SCEN  | Number of Identified Exporters to Nauru from Colorado                                                                                      | 2002-01-01          | 2012-01-01        |
 | CTNRUA475SCEN  | Number of Identified Exporters to Nauru from Connecticut                                                                                   | 2005-01-01          | 2011-01-01        |
-| EXP6862        | U.S. Exports of Goods by F.A.S. Basis to Nauru                                                                                             | 1992-01-01          | 2022-05-01        |
+| EXP6862        | U.S. Exports of Goods by F.A.S. Basis to Nauru                                                                                             | 1992-01-01          | 2022-06-01        |
 | FLNRUA052SCEN  | Value of Exports to Nauru from Florida                                                                                                     | 2002-01-01          | 2002-01-01        |
 | FLNRUA475SCEN  | Number of Identified Exporters to Nauru from Florida                                                                                       | 2002-01-01          | 2010-01-01        |
 | GANRUA475SCEN  | Number of Identified Exporters to Nauru from Georgia                                                                                       | 2003-01-01          | 2007-01-01        |
@@ -23,7 +23,7 @@
 | IDSGAMRININR   | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Nauru         | 1986-01-01          | 1995-04-01        |
 | ILNRUA052SCEN  | Value of Exports to Nauru from Illinois                                                                                                    | 2006-01-01          | 2006-01-01        |
 | ILNRUA475SCEN  | Number of Identified Exporters to Nauru from Illinois                                                                                      | 1992-01-01          | 2015-01-01        |
-| IMP6862        | U.S. Imports of Goods by Customs Basis from Nauru                                                                                          | 1992-01-01          | 2022-05-01        |
+| IMP6862        | U.S. Imports of Goods by Customs Basis from Nauru                                                                                          | 1992-01-01          | 2022-06-01        |
 | INNRUA475SCEN  | Number of Identified Exporters to Nauru from Indiana                                                                                       | 1992-01-01          | 2007-01-01        |
 | KYNRUA475SCEN  | Number of Identified Exporters to Nauru from Kentucky                                                                                      | 2002-01-01          | 2007-01-01        |
 | LANRUA475SCEN  | Number of Identified Exporters to Nauru from Louisiana                                                                                     | 2002-01-01          | 2002-01-01        |

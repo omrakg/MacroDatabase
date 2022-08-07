@@ -21,9 +21,9 @@
 | ENUC385440510SA           | Average Weekly Wages for Employees in Private Establishments in Pocatello, ID (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD38540                 | Implicit Regional Price Deflator for Pocatello, ID (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT163854000000003A     | Unemployment Rate in Pocatello, ID (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT163854000000004      | Unemployed Persons in Pocatello, ID (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT163854000000004      | Unemployed Persons in Pocatello, ID (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT163854000000004A     | Unemployed Persons in Pocatello, ID (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT163854000000005      | Employed Persons in Pocatello, ID (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT163854000000005      | Employed Persons in Pocatello, ID (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT163854000000005A     | Employed Persons in Pocatello, ID (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT163854000000006A     | Civilian Labor Force in Pocatello, ID (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR38540          | Housing Inventory: Median Days on Market in Pocatello, ID (CBSA)                                               | 2016-07-01          | 2022-06-01        |
@@ -56,8 +56,8 @@
 | POCA516INFON              | All Employees: Information in Pocatello, ID (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | POCA516LEIH               | All Employees: Leisure and Hospitality in Pocatello, ID (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | POCA516LEIHN              | All Employees: Leisure and Hospitality in Pocatello, ID (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| POCA516LF                 | Civilian Labor Force in Pocatello, ID (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| POCA516LFN                | Civilian Labor Force in Pocatello, ID (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| POCA516LF                 | Civilian Labor Force in Pocatello, ID (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| POCA516LFN                | Civilian Labor Force in Pocatello, ID (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | POCA516MFG                | All Employees: Manufacturing in Pocatello, ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | POCA516MFGN               | All Employees: Manufacturing in Pocatello, ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | POCA516NA                 | All Employees: Total Nonfarm in Pocatello, ID (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -71,8 +71,8 @@
 | POCA516SRVON              | All Employees: Other Services in Pocatello, ID (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | POCA516TRAD               | All Employees: Trade, Transportation, and Utilities in Pocatello, ID (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | POCA516TRADN              | All Employees: Trade, Transportation, and Utilities in Pocatello, ID (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| POCA516UR                 | Unemployment Rate in Pocatello, ID (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| POCA516URN                | Unemployment Rate in Pocatello, ID (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| POCA516UR                 | Unemployment Rate in Pocatello, ID (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| POCA516URN                | Unemployment Rate in Pocatello, ID (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | POLPOP                    | Resident Population in Pocatello, ID (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PRIINCCOU38540            | Housing Inventory: Price Increased Count in Pocatello, ID (CBSA)                                               | 2016-07-01          | 2022-06-01        |
 | PRIINCCOUMM38540          | Housing Inventory: Price Increased Count Month-Over-Month in Pocatello, ID (CBSA)                              | 2017-08-01          | 2022-06-01        |

@@ -35,16 +35,16 @@
 | DDDI12KGA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Kyrgyzstan                                                   | 1995-01-01          | 2020-01-01        |
 | DDDM01KGA156NWDB    | Stock Market Capitalization to GDP for Kyrgyzstan                                                                                              | 2000-01-01          | 2012-01-01        |
 | DDDM02KGA156NWDB    | Stock Market Total Value Traded to GDP for Kyrgyzstan                                                                                          | 2000-01-01          | 2012-01-01        |
-| DDDM08KGA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Kyrgyzstan                                                                                       | 2002-01-01          | 2017-01-01        |
+| DDDM08KGA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Kyrgyzstan                                                                                       | 2002-01-01          | 2016-01-01        |
 | DDDM09KGA156NWDB    | Gross Portfolio Equity Assets to GDP for Kyrgyzstan                                                                                            | 2007-01-01          | 2016-01-01        |
 | DDDM10KGA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Kyrgyzstan                                                                                         | 2000-01-01          | 2019-01-01        |
 | DDEI01KGA156NWDB    | Bank's Net Interest Margin for Kyrgyzstan                                                                                                      | 2001-01-01          | 2020-01-01        |
 | DDEI02KGA156NWDB    | Bank Lending Deposit Spread for Kyrgyzstan                                                                                                     | 1996-01-01          | 2019-01-01        |
 | DDEI03KGA156NWDB    | Bank's Non-Interest Income to Total Income for Kyrgyzstan                                                                                      | 2000-01-01          | 2020-01-01        |
-| DDEI04KGA156NWDB    | Bank's Overhead Costs to Total Assets for Kyrgyzstan                                                                                           | 2001-01-01          | 2017-01-01        |
+| DDEI04KGA156NWDB    | Bank's Overhead Costs to Total Assets for Kyrgyzstan                                                                                           | 2002-01-01          | 2020-01-01        |
 | DDEI05KGA156NWDB    | Bank's Return on Assets for Kyrgyzstan                                                                                                         | 2001-01-01          | 2020-01-01        |
 | DDEI06KGA156NWDB    | Bank's Return on Equity for Kyrgyzstan                                                                                                         | 2001-01-01          | 2020-01-01        |
-| DDEI07KGA156NWDB    | Bank's Cost to Income Ratio for Kyrgyzstan                                                                                                     | 2000-01-01          | 2017-01-01        |
+| DDEI07KGA156NWDB    | Bank's Cost to Income Ratio for Kyrgyzstan                                                                                                     | 2001-01-01          | 2020-01-01        |
 | DDEI08KGA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Kyrgyzstan                                                                         | 1995-01-01          | 2019-01-01        |
 | DDEM01KGA156NWDB    | Stock Market Turnover Ratio (Value Traded/Capitalization) for Kyrgyzstan                                                                       | 2000-01-01          | 2012-01-01        |
 | DDOE01KGA086NWDB    | Consumer Price Index for Kyrgyzstan                                                                                                            | 1994-01-01          | 2017-01-01        |
@@ -52,9 +52,9 @@
 | DDOI01KGA156NWDB    | Bank Concentration for Kyrgyzstan                                                                                                              | 2000-01-01          | 2020-01-01        |
 | DDOI02KGA156NWDB    | Bank Deposits to GDP for Kyrgyzstan                                                                                                            | 1995-01-01          | 2020-01-01        |
 | DDOI05KGA156NWDB    | Boone Indicator in Banking Market for Kyrgyzstan                                                                                               | 2000-01-01          | 2014-01-01        |
-| DDOI06KGA156NWDB    | 5-Bank Asset Concentration for Kyrgyzstan                                                                                                      | 2000-01-01          | 2017-01-01        |
+| DDOI06KGA156NWDB    | 5-Bank Asset Concentration for Kyrgyzstan                                                                                                      | 2001-01-01          | 2020-01-01        |
 | DDOI07KGA648NWDB    | Liquid Liabilities (Broad Money) for Kyrgyzstan                                                                                                | 1995-01-01          | 2020-01-01        |
-| DDOI09KGA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Kyrgyzstan                                                                      | 2000-01-01          | 2017-01-01        |
+| DDOI09KGA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Kyrgyzstan                                                                      | 2017-01-01          | 2020-01-01        |
 | DDOI10KGA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Kyrgyzstan                                                | 1995-01-01          | 2020-01-01        |
 | DDOI11KGA156NWDB    | Remittance Inflows to GDP for Kyrgyzstan                                                                                                       | 1993-01-01          | 2020-01-01        |
 | DDOI12KGA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Kyrgyzstan                                                                       | 1995-01-01          | 2019-01-01        |
@@ -70,7 +70,7 @@
 | DDSI07KGA156NWDB    | Provisions to Non-Performing Loans for Kyrgyzstan                                                                                              | 2006-01-01          | 2015-01-01        |
 | DEBTTLKGA188A       | Central government debt, total (% of GDP) for the Kyrgyz Republic                                                                              | 2014-01-01          | 2016-01-01        |
 | DEKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Delaware                                                                                     | 2002-01-01          | 2016-01-01        |
-| EXP4635             | U.S. Exports of Goods by F.A.S. Basis to Kyrgyzstan                                                                                            | 1992-01-01          | 2022-05-01        |
+| EXP4635             | U.S. Exports of Goods by F.A.S. Basis to Kyrgyzstan                                                                                            | 1992-01-01          | 2022-06-01        |
 | FLKGZA052SCEN       | Value of Exports to Kyrgyzstan from Florida                                                                                                    | 1997-01-01          | 2017-01-01        |
 | FLKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Florida                                                                                      | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGKGZ      | Inflation, consumer prices for the Kyrgyz Republic                                                                                             | 1996-01-01          | 2021-01-01        |
@@ -82,7 +82,7 @@
 | IDKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Idaho                                                                                        | 1997-01-01          | 2016-01-01        |
 | ILKGZA052SCEN       | Value of Exports to Kyrgyzstan from Illinois                                                                                                   | 2004-01-01          | 2017-01-01        |
 | ILKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Illinois                                                                                     | 1997-01-01          | 2017-01-01        |
-| IMP4635             | U.S. Imports of Goods by Customs Basis from Kyrgyzstan                                                                                         | 1992-01-01          | 2022-05-01        |
+| IMP4635             | U.S. Imports of Goods by Customs Basis from Kyrgyzstan                                                                                         | 1992-01-01          | 2022-06-01        |
 | INKGZA052SCEN       | Value of Exports to Kyrgyzstan from Indiana                                                                                                    | 2002-01-01          | 2009-01-01        |
 | INKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Indiana                                                                                      | 2002-01-01          | 2014-01-01        |
 | ITNETUSERP2KGZ      | Internet users for the Kyrgyz Republic                                                                                                         | 1990-01-01          | 2019-01-01        |

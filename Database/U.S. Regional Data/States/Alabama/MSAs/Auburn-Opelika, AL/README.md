@@ -19,8 +19,8 @@
 | AUBU201INFON              | All Employees: Information in Auburn-Opelika, AL (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | AUBU201LEIH               | All Employees: Leisure and Hospitality in Auburn-Opelika, AL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | AUBU201LEIHN              | All Employees: Leisure and Hospitality in Auburn-Opelika, AL (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| AUBU201LF                 | Civilian Labor Force in Auburn-Opelika, AL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| AUBU201LFN                | Civilian Labor Force in Auburn-Opelika, AL (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| AUBU201LF                 | Civilian Labor Force in Auburn-Opelika, AL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| AUBU201LFN                | Civilian Labor Force in Auburn-Opelika, AL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | AUBU201MFG                | All Employees: Manufacturing in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | AUBU201MFGN               | All Employees: Manufacturing in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | AUBU201NA                 | All Employees: Total Nonfarm in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -34,8 +34,8 @@
 | AUBU201SRVON              | All Employees: Other Services in Auburn-Opelika, AL (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | AUBU201TRAD               | All Employees: Trade, Transportation, and Utilities in Auburn-Opelika, AL (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | AUBU201TRADN              | All Employees: Trade, Transportation, and Utilities in Auburn-Opelika, AL (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| AUBU201UR                 | Unemployment Rate in Auburn-Opelika, AL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| AUBU201URN                | Unemployment Rate in Auburn-Opelika, AL (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| AUBU201UR                 | Unemployment Rate in Auburn-Opelika, AL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| AUBU201URN                | Unemployment Rate in Auburn-Opelika, AL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | AVELISPRI12220            | Housing Inventory: Average Listing Price in Auburn-Opelika, AL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
 | AVELISPRIMM12220          | Housing Inventory: Average Listing Price Month-Over-Month in Auburn-Opelika, AL (CBSA)                              | 2017-07-01          | 2022-06-01        |
 | AVELISPRIYY12220          | Housing Inventory: Average Listing Price Year-Over-Year in Auburn-Opelika, AL (CBSA)                                | 2017-07-01          | 2022-06-01        |
@@ -58,9 +58,9 @@
 | HOSCMSA12220              | Market Hotness: Hotness Score in Auburn-Opelika, AL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD12220                 | Implicit Regional Price Deflator for Auburn-Opelika, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT011222000000003A     | Unemployment Rate in Auburn-Opelika, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT011222000000004      | Unemployed Persons in Auburn-Opelika, AL (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT011222000000004      | Unemployed Persons in Auburn-Opelika, AL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT011222000000004A     | Unemployed Persons in Auburn-Opelika, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT011222000000005      | Employed Persons in Auburn-Opelika, AL (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT011222000000005      | Employed Persons in Auburn-Opelika, AL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT011222000000005A     | Employed Persons in Auburn-Opelika, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT011222000000006A     | Civilian Labor Force in Auburn-Opelika, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA12220          | Market Hotness: Listing Views per Property in Auburn-Opelika, AL (CBSA)                                             | 2018-08-01          | 2022-06-01        |

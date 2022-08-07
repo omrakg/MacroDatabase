@@ -30,8 +30,8 @@
 | FTSINFON                  | All Employees: Information in Fort Smith, AR-OK (MSA)                                                              | 1990-01-01          | 2022-06-01        |
 | FTSLEIH                   | All Employees: Leisure and Hospitality in Fort Smith, AR-OK (MSA)                                                  | 1990-01-01          | 2022-06-01        |
 | FTSLEIHN                  | All Employees: Leisure and Hospitality in Fort Smith, AR-OK (MSA)                                                  | 1990-01-01          | 2022-06-01        |
-| FTSLF                     | Civilian Labor Force in Fort Smith, AR-OK (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
-| FTSLFN                    | Civilian Labor Force in Fort Smith, AR-OK (MSA)                                                                    | 1990-01-01          | 2022-05-01        |
+| FTSLF                     | Civilian Labor Force in Fort Smith, AR-OK (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| FTSLFN                    | Civilian Labor Force in Fort Smith, AR-OK (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
 | FTSMFG                    | All Employees: Manufacturing in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | FTSMFGN                   | All Employees: Manufacturing in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-06-01        |
 | FTSNA                     | All Employees: Total Nonfarm in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-06-01        |
@@ -46,17 +46,17 @@
 | FTSSRVON                  | All Employees: Other Services in Fort Smith, AR-OK (MSA)                                                           | 1990-01-01          | 2022-06-01        |
 | FTSTRAD                   | All Employees: Trade, Transportation, and Utilities in Fort Smith, AR-OK (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | FTSTRADN                  | All Employees: Trade, Transportation, and Utilities in Fort Smith, AR-OK (MSA)                                     | 1990-01-01          | 2022-06-01        |
-| FTSUR                     | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
-| FTSURN                    | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2022-05-01        |
+| FTSUR                     | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| FTSURN                    | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | HORAMMMSA22900            | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HORAMSA22900              | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
 | HORAYYMSA22900            | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
 | HOSCMSA22900              | Market Hotness: Hotness Score in Fort Smith, AR-OK (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
 | IRPD22900                 | Implicit Regional Price Deflator for Fort Smith, AR-OK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT052290000000003A     | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT052290000000004      | Unemployed Persons in Fort Smith, AR-OK (MSA)                                                                      | 1990-01-01          | 2022-05-01        |
+| LAUMT052290000000004      | Unemployed Persons in Fort Smith, AR-OK (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT052290000000004A     | Unemployed Persons in Fort Smith, AR-OK (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT052290000000005      | Employed Persons in Fort Smith, AR-OK (MSA)                                                                        | 1990-01-01          | 2022-05-01        |
+| LAUMT052290000000005      | Employed Persons in Fort Smith, AR-OK (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT052290000000005A     | Employed Persons in Fort Smith, AR-OK (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT052290000000006A     | Civilian Labor Force in Fort Smith, AR-OK (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA22900          | Market Hotness: Listing Views per Property in Fort Smith, AR-OK (CBSA)                                             | 2018-08-01          | 2022-06-01        |
