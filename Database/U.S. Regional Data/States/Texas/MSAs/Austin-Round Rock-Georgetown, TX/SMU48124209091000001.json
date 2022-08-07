@@ -1,7 +1,7 @@
 {
   "id": "SMU48124209091000001",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "All Employees: Government: Federal Government in Austin-Round Rock, TX (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-23 02:01:25-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 5,
+  "group_popularity": 5
 }

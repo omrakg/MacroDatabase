@@ -1,7 +1,7 @@
 {
   "id": "RCPHBS",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Business Sector: Real Hourly Compensation for All Employed Persons",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-02 07:36:22-05",
-  "popularity": 10,
-  "group_popularity": 13
+  "popularity": 8,
+  "group_popularity": 12
 }

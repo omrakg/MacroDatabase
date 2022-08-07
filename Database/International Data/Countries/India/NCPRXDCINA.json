@@ -1,7 +1,7 @@
 {
   "id": "NCPRXDCINA",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Real Private Sector Final Consumption Expenditure for India",
   "observation_start": "2005-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-20 07:10:31-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

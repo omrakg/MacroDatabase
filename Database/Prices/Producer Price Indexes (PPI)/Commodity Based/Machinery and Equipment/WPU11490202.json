@@ -1,7 +1,7 @@
 {
   "id": "WPU11490202",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Industrial Ball Valves, Including Manual and Power Operated",
   "observation_start": "1982-12-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 07:58:28-05",
-  "popularity": 7,
-  "group_popularity": 7
+  "popularity": 9,
+  "group_popularity": 9
 }

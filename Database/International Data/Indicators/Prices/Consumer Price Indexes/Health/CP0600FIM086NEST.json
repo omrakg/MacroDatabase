@@ -1,7 +1,7 @@
 {
   "id": "CP0600FIM086NEST",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Harmonized Index of Consumer Prices: Health for Finland",
   "observation_start": "1996-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-19 07:15:29-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The Harmonized Index of Consumer Prices category \"Health (06)\" is a classification of nondurable goods and services that include health services purchased from school and university health centers.\n\nThis category contains the subcategories of Medical Products, Appliances, and Equipment (06.1), Out-Patient Services (06.2), and Hospital Services (06.3) categories and all subcategories therein.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
 }

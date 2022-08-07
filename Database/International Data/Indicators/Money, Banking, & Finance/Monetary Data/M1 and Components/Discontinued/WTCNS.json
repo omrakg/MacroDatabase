@@ -1,7 +1,7 @@
 {
   "id": "WTCNS",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Travelers Checks (DISCONTINUED)",
   "observation_start": "1975-01-06",
   "observation_end": "2018-12-31",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-10-02 11:04:02-05",
-  "popularity": 2,
-  "group_popularity": 13
+  "popularity": 3,
+  "group_popularity": 9
 }

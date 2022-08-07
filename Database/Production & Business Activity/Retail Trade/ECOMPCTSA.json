@@ -1,7 +1,7 @@
 {
   "id": "ECOMPCTSA",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "E-Commerce Retail Sales as a Percent of Total Sales",
   "observation_start": "1999-10-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-19 09:16:02-05",
   "popularity": 63,
-  "group_popularity": 64,
+  "group_popularity": 63,
   "notes": "E-commerce sales are sales of goods and services where  the buyer places an order, or the price and terms  of the sale  are negotiated over an Internet, mobile device  (M-commerce),  extranet,  Electronic  Data  Interchange  (EDI)  network,  electronic  mail,  or  other  comparable  online  system.  Payment  may  or  may  not  be  made online."
 }

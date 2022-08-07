@@ -1,7 +1,7 @@
 {
   "id": "JCXFE",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Personal Consumption Expenditures: Chain-type Price Index Less Food and Energy",
   "observation_start": "1959-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-28 07:53:15-05",
-  "popularity": 35,
-  "group_popularity": 35,
+  "popularity": 33,
+  "group_popularity": 33,
   "notes": "BEA Account Code: DPCCRG\n\nThe number of decimal places reported varies over time."
 }

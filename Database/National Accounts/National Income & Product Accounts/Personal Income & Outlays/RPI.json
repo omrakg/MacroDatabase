@@ -1,7 +1,7 @@
 {
   "id": "RPI",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Real Personal Income",
   "observation_start": "1959-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-29 07:43:17-05",
-  "popularity": 59,
-  "group_popularity": 59,
+  "popularity": 57,
+  "group_popularity": 57,
   "notes": "Calculated by the Federal Reserve Bank of St. Louis:\nPersonal income in chained 2009 dollars (RPI) is personal income in\ncurrent dollars (PI) deflated by the PCE chained price index (PCEPI)."
 }

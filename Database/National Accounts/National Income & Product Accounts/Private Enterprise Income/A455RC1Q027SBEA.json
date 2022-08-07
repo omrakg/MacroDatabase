@@ -1,7 +1,7 @@
 {
   "id": "A455RC1Q027SBEA",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Gross value added of nonfinancial corporate business",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-29 07:53:29-05",
   "popularity": 21,
-  "group_popularity": 23,
+  "group_popularity": 22,
   "notes": "BEA Account Code: A455RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

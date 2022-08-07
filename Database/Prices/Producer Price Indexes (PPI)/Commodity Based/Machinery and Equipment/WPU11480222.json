@@ -1,7 +1,7 @@
 {
   "id": "WPU11480222",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Unitary Air-Conditioners, Except Air Source Heat Pumps",
   "observation_start": "1997-06-01",
   "observation_end": "2022-06-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 08:05:43-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 3
 }

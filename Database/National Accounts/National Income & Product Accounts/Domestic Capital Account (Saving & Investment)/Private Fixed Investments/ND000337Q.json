@@ -1,7 +1,7 @@
 {
   "id": "ND000337Q",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Real Private Fixed Investment",
   "observation_start": "2002-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-28 07:54:56-05",
   "popularity": 3,
-  "group_popularity": 27,
+  "group_popularity": 25,
   "notes": "BEA Account Code: ND000337"
 }

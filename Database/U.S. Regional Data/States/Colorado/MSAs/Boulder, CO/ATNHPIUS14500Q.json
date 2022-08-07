@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS14500Q",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "All-Transactions House Price Index for Boulder, CO (MSA)",
   "observation_start": "1978-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-31 09:03:03-05",
-  "popularity": 24,
-  "group_popularity": 24,
+  "popularity": 26,
+  "group_popularity": 26,
   "notes": "Estimated using sales prices and appraisal data."
 }

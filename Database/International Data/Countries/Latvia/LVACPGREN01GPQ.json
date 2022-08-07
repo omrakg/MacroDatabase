@@ -1,7 +1,7 @@
 {
   "id": "LVACPGREN01GPQ",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Consumer Price Index: OECD Groups: Energy (Fuel, electricity & gasoline): Total for Latvia",
   "observation_start": "1995-04-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 20:45:36-05",
   "popularity": 0,
-  "group_popularity": 3,
+  "group_popularity": 1,
   "notes": "OECD descriptor ID: CPGREN01 OECD unit ID: GP OECD country ID: LVA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

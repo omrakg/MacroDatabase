@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCIM4423XUSN",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Retail Inventories: Furniture, Home Furnishings, Electronics, and Appliance Stores",
   "observation_start": "1992-02-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-15 09:06:40-05",
-  "popularity": 1,
-  "group_popularity": 16,
+  "popularity": 2,
+  "group_popularity": 14,
   "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
 }

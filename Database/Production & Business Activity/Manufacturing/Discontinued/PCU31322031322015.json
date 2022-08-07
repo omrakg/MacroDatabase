@@ -1,7 +1,7 @@
 {
   "id": "PCU31322031322015",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Producer Price Index by Industry: Narrow Fabric Mills and Schiffli Machine Embroidery: Covered Rubber Thread, made in Narrow Fabric Mills (DISCONTINUED)",
   "observation_start": "1984-06-01",
   "observation_end": "2006-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-05-15 08:46:53-05",
-  "popularity": 2,
+  "popularity": 1,
   "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "NGDPRSAXDCBRQ",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Real Gross Domestic Product for Brazil",
   "observation_start": "1996-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-20 07:09:04-05",
-  "popularity": 28,
-  "group_popularity": 30
+  "popularity": 30,
+  "group_popularity": 33
 }

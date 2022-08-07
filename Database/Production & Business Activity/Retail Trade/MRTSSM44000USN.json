@@ -1,7 +1,7 @@
 {
   "id": "MRTSSM44000USN",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Retail Sales: Retail Trade",
   "observation_start": "1992-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-15 09:06:25-05",
-  "popularity": 6,
-  "group_popularity": 32,
+  "popularity": 4,
+  "group_popularity": 30,
   "notes": "The most recent month's value of the advance estimate based on data from a subsample of firms from the larger Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/RSXFSN\n\n Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
 }

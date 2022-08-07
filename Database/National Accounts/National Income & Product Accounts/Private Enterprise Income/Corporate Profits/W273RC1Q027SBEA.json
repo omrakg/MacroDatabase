@@ -1,7 +1,7 @@
 {
   "id": "W273RC1Q027SBEA",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Profits after tax with inventory valuation and capital consumption adjustments",
   "observation_start": "1947-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-29 07:52:58-05",
-  "popularity": 5,
+  "popularity": 4,
   "group_popularity": 6,
   "notes": "BEA Account Code: W273RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

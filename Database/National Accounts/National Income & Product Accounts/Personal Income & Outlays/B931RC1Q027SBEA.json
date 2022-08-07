@@ -1,7 +1,7 @@
 {
   "id": "B931RC1Q027SBEA",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Personal current transfer receipts: Other current transfer receipts, from business (net)",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-28 07:53:53-05",
   "popularity": 1,
-  "group_popularity": 6,
+  "group_popularity": 4,
   "notes": "BEA Account Code: B931RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

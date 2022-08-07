@@ -1,7 +1,7 @@
 {
   "id": "SEENRPRIMFMZSJPN",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Ratio of Female to Male Primary School Enrollment for Japan",
   "observation_start": "1971-01-01",
   "observation_end": "1999-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-13 15:59:34-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Ratio of girls to boys enrolled at primary level in public and private schools.\n\nSource Indicator: SE.ENR.PRIM.FM.ZS"
 }

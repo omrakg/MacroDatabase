@@ -1,7 +1,7 @@
 {
   "id": "DPCMRA3Q086SBEA",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Real personal consumption expenditures: Market-based (chain-type quantity index)",
   "observation_start": "1987-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-28 07:54:43-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: DPCMRA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

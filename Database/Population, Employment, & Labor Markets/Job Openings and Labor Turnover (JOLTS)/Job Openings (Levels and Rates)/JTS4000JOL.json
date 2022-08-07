@@ -1,17 +1,17 @@
 {
   "id": "JTS4000JOL",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Job Openings: Trade, Transportation, and Utilities",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-05-01",
+  "observation_end": "2022-06-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Level in Thousands",
   "units_short": "Level in Thous.",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-07-06 13:05:19-05",
-  "popularity": 14,
-  "group_popularity": 15
+  "last_updated": "2022-08-02 09:06:09-05",
+  "popularity": 16,
+  "group_popularity": 17
 }

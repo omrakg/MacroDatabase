@@ -1,7 +1,7 @@
 {
   "id": "MSPTFFHAI",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Median Sales Price of Houses Sold by Type of Financing, FHA Insured",
   "observation_start": "1988-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-26 09:01:23-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 6,
+  "group_popularity": 6
 }

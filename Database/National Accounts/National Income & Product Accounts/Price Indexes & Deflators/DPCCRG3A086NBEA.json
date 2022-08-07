@@ -1,7 +1,7 @@
 {
   "id": "DPCCRG3A086NBEA",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Personal consumption expenditures excluding food and energy (chain-type price index)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:54:03-05",
   "popularity": 31,
-  "group_popularity": 78,
+  "group_popularity": 76,
   "notes": "BEA Account Code: DPCCRG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

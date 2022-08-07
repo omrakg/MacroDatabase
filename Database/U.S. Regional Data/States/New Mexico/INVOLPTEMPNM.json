@@ -1,7 +1,7 @@
 {
   "id": "INVOLPTEMPNM",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Employed Involuntary Part-Time for New Mexico",
   "observation_start": "2003-10-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-29 17:38:31-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Persons employed part time for economic reasons are those working less than 35 hours per week who want to work full time, are available to do so, and gave an economic reason (their hours had been cut back or they were unable to find a full time job) for working part time. These individuals are sometimes referred to as involuntary part-time workers."
 }

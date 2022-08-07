@@ -1,7 +1,7 @@
 {
   "id": "DRCRELEXFOBS",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets",
   "observation_start": "1991-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-20 13:18:25-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
 }

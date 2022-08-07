@@ -1,17 +1,17 @@
 {
   "id": "RESPPNTEPNWW",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Collateralization of Currency: Memo Items: U.S. Treasury, Agency Debt, and Mortgage-Backed Securities Eligible to Be Pledged: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-07-27",
+  "observation_end": "2022-08-03",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-28 15:33:16-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "last_updated": "2022-08-04 15:33:18-05",
+  "popularity": 10,
+  "group_popularity": 10
 }

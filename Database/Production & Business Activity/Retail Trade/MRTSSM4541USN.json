@@ -1,7 +1,7 @@
 {
   "id": "MRTSSM4541USN",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-07",
+  "realtime_end": "2022-08-07",
   "title": "Retail Sales: Electronic Shopping and Mail-Order Houses",
   "observation_start": "1992-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-15 09:06:15-05",
-  "popularity": 7,
-  "group_popularity": 29
+  "popularity": 5,
+  "group_popularity": 25
 }
