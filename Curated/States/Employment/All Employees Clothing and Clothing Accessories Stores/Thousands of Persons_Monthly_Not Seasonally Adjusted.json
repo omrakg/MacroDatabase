@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000004244800001",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "All Employees: Retail Trade: Clothing and Clothing Accessories Stores in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-06-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000004244800001SA",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "All Employees: Retail Trade: Clothing and Clothing Accessories Stores in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-06-01",

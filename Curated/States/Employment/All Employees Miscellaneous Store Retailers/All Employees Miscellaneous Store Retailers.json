@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004245300001",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "All Employees: Retail Trade: Miscellaneous Store Retailers in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000004245300001SA",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "All Employees: Retail Trade: Miscellaneous Store Retailers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -60,8 +60,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004245300001A",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "All Employees: Retail Trade: Miscellaneous Store Retailers in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -97,8 +97,8 @@
     },
     "Texas": {
       "id": "SMU48000004245300001SA",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "All Employees: Retail Trade: Miscellaneous Store Retailers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -118,8 +118,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004245300001SA",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "All Employees: Retail Trade: Miscellaneous Store Retailers in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -156,8 +156,8 @@
     },
     "Texas": {
       "id": "SMU48000004245300001SA",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "All Employees: Retail Trade: Miscellaneous Store Retailers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",

@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000001021210001A",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "All Employees: Mining: Coal Mining in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 03:55:04-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "path": "Database/U.S. Regional Data/States/Wyoming"
   }
 }

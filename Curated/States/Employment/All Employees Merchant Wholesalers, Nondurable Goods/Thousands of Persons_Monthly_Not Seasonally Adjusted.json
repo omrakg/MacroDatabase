@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000004142400001",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-06-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000004142400001SA",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-06-01",
@@ -57,8 +57,8 @@
   },
   "Washington": {
     "id": "SMU53000004142400001SA",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-06-01",

@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000002023820001",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "All Employees: Construction: Building Equipment Contractors in Wisconsin",
     "observation_start": "2003-01-01",
     "observation_end": "2022-06-01",
@@ -19,8 +19,8 @@
   },
   "Texas": {
     "id": "SMU48000002023820001SA",
-    "realtime_start": "2022-07-31",
-    "realtime_end": "2022-07-31",
+    "realtime_start": "2022-08-07",
+    "realtime_end": "2022-08-07",
     "title": "All Employees: Construction: Building Equipment Contractors in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-06-01",

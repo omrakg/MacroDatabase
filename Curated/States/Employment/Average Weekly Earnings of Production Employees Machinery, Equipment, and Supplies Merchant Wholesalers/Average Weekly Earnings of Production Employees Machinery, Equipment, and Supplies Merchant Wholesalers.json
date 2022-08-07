@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142380030",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Average Weekly Earnings of Production Employees: Wholesale Trade: Machinery, Equipment, and Supplies Merchant Wholesalers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-06-01",
@@ -22,8 +22,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142380030A",
-      "realtime_start": "2022-07-31",
-      "realtime_end": "2022-07-31",
+      "realtime_start": "2022-08-07",
+      "realtime_end": "2022-08-07",
       "title": "Average Weekly Earnings of Production Employees: Wholesale Trade: Machinery, Equipment, and Supplies Merchant Wholesalers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",
