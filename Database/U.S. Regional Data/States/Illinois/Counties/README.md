@@ -5,7 +5,7 @@
 | Hamilton County, IL    |                87 |
 | Tazewell County, IL    |               147 |
 | Ogle County, IL        |               146 |
-| McHenry County, IL     |               147 |
+| McHenry County, IL     |                 0 |
 | Massac County, IL      |                89 |
 | Stark County, IL       |                90 |
 | Union County, IL       |                89 |
@@ -79,7 +79,7 @@
 | Winnebago County, IL   |               147 |
 | Gallatin County, IL    |                87 |
 | Marshall County, IL    |                90 |
-| St. Clair County, IL   |                 0 |
+| St. Clair County, IL   |               147 |
 | Iroquois County, IL    |                89 |
 | Pike County, IL        |                89 |
 | Jersey County, IL      |                90 |
@@ -100,5 +100,5 @@
 | Adams County, IL       |               147 |
 | Wabash County, IL      |                89 |
 | Hardin County, IL      |                89 |
-| Jasper County, IL      |                88 |
+| Jasper County, IL      |                 0 |
 | Marion County, IL      |                90 |

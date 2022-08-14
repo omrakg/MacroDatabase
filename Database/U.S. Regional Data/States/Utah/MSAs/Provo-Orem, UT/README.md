@@ -1,13 +1,13 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU39340            | Housing Inventory: Active Listing Count in Provo-Orem, UT (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM39340          | Housing Inventory: Active Listing Count Month-Over-Month in Provo-Orem, UT (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY39340          | Housing Inventory: Active Listing Count Year-Over-Year in Provo-Orem, UT (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU39340            | Housing Inventory: Active Listing Count in Provo-Orem, UT (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM39340          | Housing Inventory: Active Listing Count Month-Over-Month in Provo-Orem, UT (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY39340          | Housing Inventory: Active Listing Count Year-Over-Year in Provo-Orem, UT (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS39340Q            | All-Transactions House Price Index for Provo-Orem, UT (MSA)                                                     | 1982-04-01          | 2022-01-01        |
-| AVELISPRI39340            | Housing Inventory: Average Listing Price in Provo-Orem, UT (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM39340          | Housing Inventory: Average Listing Price Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY39340          | Housing Inventory: Average Listing Price Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA39340              | Market Hotness: Demand Score in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI39340            | Housing Inventory: Average Listing Price in Provo-Orem, UT (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM39340          | Housing Inventory: Average Listing Price Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY39340          | Housing Inventory: Average Listing Price Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA39340              | Market Hotness: Demand Score in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC393430010             | Total Quarterly Wages in Provo-Orem, UT (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC393430010SA           | Total Quarterly Wages in Provo-Orem, UT (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC393440010             | Average Weekly Wages for Employees in Total Covered Establishments in Provo-Orem, UT (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC393440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC393440510             | Average Weekly Wages for Employees in Private Establishments in Provo-Orem, UT (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC393440510SA           | Average Weekly Wages for Employees in Private Establishments in Provo-Orem, UT (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA39340            | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA39340              | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA39340            | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA39340              | Market Hotness: Hotness Score in Provo-Orem, UT (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA39340            | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA39340              | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA39340            | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA39340              | Market Hotness: Hotness Score in Provo-Orem, UT (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IHLCHG39340               | Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
 | IRPD39340                 | Implicit Regional Price Deflator for Provo-Orem, UT (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT493934000000003A     | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
@@ -32,46 +32,46 @@
 | LAUMT493934000000005      | Employed Persons in Provo-Orem, UT (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT493934000000005A     | Employed Persons in Provo-Orem, UT (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT493934000000006A     | Civilian Labor Force in Provo-Orem, UT (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA39340          | Market Hotness: Listing Views per Property in Provo-Orem, UT (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA39340        | Market Hotness: Listing Views per Property Versus the United States in Provo-Orem, UT (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA39340          | Market Hotness: Listing Views per Property in Provo-Orem, UT (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA39340        | Market Hotness: Median Days on Market in Provo-Orem, UT (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA39340          | Market Hotness: Median Days on Market in Provo-Orem, UT (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA39340        | Market Hotness: Median Days on Market in Provo-Orem, UT (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR39340          | Housing Inventory: Median Days on Market in Provo-Orem, UT (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM39340        | Housing Inventory: Median Days on Market Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY39340        | Housing Inventory: Median Days on Market Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI39340            | Housing Inventory: Median Listing Price in Provo-Orem, UT (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM39340          | Housing Inventory: Median Listing Price Month-Over-Month in Provo-Orem, UT (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE39340   | Housing Inventory: Median Listing Price per Square Feet in Provo-Orem, UT (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM39340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Provo-Orem, UT (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY39340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Provo-Orem, UT (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY39340          | Housing Inventory: Median Listing Price Year-Over-Year in Provo-Orem, UT (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA39340          | Market Hotness: Median Days on Market in Provo-Orem, UT (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA39340          | Market Hotness: Median Days on Market Versus the United States in Provo-Orem, UT (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA39340          | Market Hotness: Median Days on Market Day in Provo-Orem, UT (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE39340            | Housing Inventory: Median Home Size in Square Feet in Provo-Orem, UT (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM39340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Provo-Orem, UT (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY39340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Provo-Orem, UT (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA39340          | Market Hotness: Median Listing Price in Provo-Orem, UT (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA39340            | Market Hotness: Median Listing Price in Provo-Orem, UT (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA39340        | Market Hotness: Median Listing Price Versus the United States in Provo-Orem, UT (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA39340          | Market Hotness: Median Listing Price in Provo-Orem, UT (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU39340            | Housing Inventory: New Listing Count in Provo-Orem, UT (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM39340          | Housing Inventory: New Listing Count Month-Over-Month in Provo-Orem, UT (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY39340          | Housing Inventory: New Listing Count Year-Over-Year in Provo-Orem, UT (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA39340          | Market Hotness: Listing Views per Property in Provo-Orem, UT (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA39340        | Market Hotness: Listing Views per Property Versus the United States in Provo-Orem, UT (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA39340          | Market Hotness: Listing Views per Property in Provo-Orem, UT (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA39340        | Market Hotness: Median Days on Market in Provo-Orem, UT (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA39340          | Market Hotness: Median Days on Market in Provo-Orem, UT (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA39340        | Market Hotness: Median Days on Market in Provo-Orem, UT (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR39340          | Housing Inventory: Median Days on Market in Provo-Orem, UT (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM39340        | Housing Inventory: Median Days on Market Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY39340        | Housing Inventory: Median Days on Market Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI39340            | Housing Inventory: Median Listing Price in Provo-Orem, UT (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM39340          | Housing Inventory: Median Listing Price Month-Over-Month in Provo-Orem, UT (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE39340   | Housing Inventory: Median Listing Price per Square Feet in Provo-Orem, UT (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM39340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Provo-Orem, UT (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY39340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Provo-Orem, UT (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY39340          | Housing Inventory: Median Listing Price Year-Over-Year in Provo-Orem, UT (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA39340          | Market Hotness: Median Days on Market in Provo-Orem, UT (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA39340          | Market Hotness: Median Days on Market Versus the United States in Provo-Orem, UT (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA39340          | Market Hotness: Median Days on Market Day in Provo-Orem, UT (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE39340            | Housing Inventory: Median Home Size in Square Feet in Provo-Orem, UT (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM39340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Provo-Orem, UT (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY39340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Provo-Orem, UT (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA39340          | Market Hotness: Median Listing Price in Provo-Orem, UT (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA39340            | Market Hotness: Median Listing Price in Provo-Orem, UT (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA39340        | Market Hotness: Median Listing Price Versus the United States in Provo-Orem, UT (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA39340          | Market Hotness: Median Listing Price in Provo-Orem, UT (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU39340            | Housing Inventory: New Listing Count in Provo-Orem, UT (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM39340          | Housing Inventory: New Listing Count Month-Over-Month in Provo-Orem, UT (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY39340          | Housing Inventory: New Listing Count Year-Over-Year in Provo-Orem, UT (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP39340                 | Total Gross Domestic Product for Provo-Orem, UT (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA39340            | Market Hotness: Nielsen Household Rank in Provo-Orem, UT (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA39340            | Market Hotness: Nielsen Household Rank in Provo-Orem, UT (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA139340          | U.S. Granted Utility Patents Originating in Provo-Orem, UT (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU39340            | Housing Inventory: Pending Listing Count in Provo-Orem, UT (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM39340          | Housing Inventory: Pending Listing Count Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY39340          | Housing Inventory: Pending Listing Count Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU39340            | Housing Inventory: Price Increased Count in Provo-Orem, UT (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM39340          | Housing Inventory: Price Increased Count Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY39340          | Housing Inventory: Price Increased Count Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU39340            | Housing Inventory: Price Reduced Count in Provo-Orem, UT (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM39340          | Housing Inventory: Price Reduced Count Month-Over-Month in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY39340          | Housing Inventory: Price Reduced Count Year-Over-Year in Provo-Orem, UT (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU39340            | Housing Inventory: Pending Listing Count in Provo-Orem, UT (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM39340          | Housing Inventory: Pending Listing Count Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY39340          | Housing Inventory: Pending Listing Count Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU39340            | Housing Inventory: Price Increased Count in Provo-Orem, UT (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM39340          | Housing Inventory: Price Increased Count Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY39340          | Housing Inventory: Price Increased Count Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU39340            | Housing Inventory: Price Reduced Count in Provo-Orem, UT (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM39340          | Housing Inventory: Price Reduced Count Month-Over-Month in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY39340          | Housing Inventory: Price Reduced Count Year-Over-Year in Provo-Orem, UT (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | PROV349EDUH               | All Employees: Education and Health Services in Provo-Orem, UT (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | PROV349EDUHN              | All Employees: Education and Health Services in Provo-Orem, UT (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | PROV349FIRE               | All Employees: Financial Activities in Provo-Orem, UT (MSA)                                                     | 1990-01-01          | 2022-06-01        |
@@ -186,4 +186,4 @@
 | SMU49393409093000001      | All Employees: Government: Local Government in Provo-Orem, UT (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU49393409093000001A     | All Employees: Local Government in Provo-Orem, UT (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU49393409093000001SA    | All Employees: Government: Local Government in Provo-Orem, UT (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA39340              | Market Hotness: Supply Score in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA39340              | Market Hotness: Supply Score in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

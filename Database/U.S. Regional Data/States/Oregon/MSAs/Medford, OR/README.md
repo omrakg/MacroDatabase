@@ -1,13 +1,13 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU32780            | Housing Inventory: Active Listing Count in Medford, OR (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM32780          | Housing Inventory: Active Listing Count Month-Over-Month in Medford, OR (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY32780          | Housing Inventory: Active Listing Count Year-Over-Year in Medford, OR (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU32780            | Housing Inventory: Active Listing Count in Medford, OR (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM32780          | Housing Inventory: Active Listing Count Month-Over-Month in Medford, OR (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY32780          | Housing Inventory: Active Listing Count Year-Over-Year in Medford, OR (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS32780Q            | All-Transactions House Price Index for Medford, OR (MSA)                                                     | 1979-10-01          | 2022-01-01        |
-| AVELISPRI32780            | Housing Inventory: Average Listing Price in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM32780          | Housing Inventory: Average Listing Price Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY32780          | Housing Inventory: Average Listing Price Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA32780              | Market Hotness: Demand Score in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI32780            | Housing Inventory: Average Listing Price in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM32780          | Housing Inventory: Average Listing Price Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY32780          | Housing Inventory: Average Listing Price Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA32780              | Market Hotness: Demand Score in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC327830010             | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC327830010SA           | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC327840010             | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC327840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC327840510             | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC327840510SA           | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA32780              | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA32780              | Market Hotness: Hotness Score in Medford, OR (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA32780              | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA32780              | Market Hotness: Hotness Score in Medford, OR (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD32780                 | Implicit Regional Price Deflator for Medford, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT413278000000003A     | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT413278000000004      | Unemployed Persons in Medford, OR (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -31,15 +31,15 @@
 | LAUMT413278000000005      | Employed Persons in Medford, OR (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT413278000000005A     | Employed Persons in Medford, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT413278000000006A     | Civilian Labor Force in Medford, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA32780          | Market Hotness: Listing Views per Property in Medford, OR (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA32780        | Market Hotness: Listing Views per Property Versus the United States in Medford, OR (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA32780          | Market Hotness: Listing Views per Property in Medford, OR (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA32780        | Market Hotness: Median Days on Market in Medford, OR (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA32780          | Market Hotness: Median Days on Market in Medford, OR (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA32780        | Market Hotness: Median Days on Market in Medford, OR (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR32780          | Housing Inventory: Median Days on Market in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM32780        | Housing Inventory: Median Days on Market Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY32780        | Housing Inventory: Median Days on Market Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA32780          | Market Hotness: Listing Views per Property in Medford, OR (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA32780        | Market Hotness: Listing Views per Property Versus the United States in Medford, OR (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA32780          | Market Hotness: Listing Views per Property in Medford, OR (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA32780        | Market Hotness: Median Days on Market in Medford, OR (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA32780          | Market Hotness: Median Days on Market in Medford, OR (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA32780        | Market Hotness: Median Days on Market in Medford, OR (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR32780          | Housing Inventory: Median Days on Market in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM32780        | Housing Inventory: Median Days on Market Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY32780        | Housing Inventory: Median Days on Market Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-07-01        |
 | MEDF741BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-06-01        |
 | MEDF741BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-06-01        |
 | MEDF741BPPRIV             | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-06-01        |
@@ -69,38 +69,38 @@
 | MEDF741TRADN              | All Employees: Trade, Transportation, and Utilities in Medford, OR (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | MEDF741UR                 | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | MEDF741URN                | Unemployment Rate in Medford, OR (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| MEDLISPRI32780            | Housing Inventory: Median Listing Price in Medford, OR (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM32780          | Housing Inventory: Median Listing Price Month-Over-Month in Medford, OR (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE32780   | Housing Inventory: Median Listing Price per Square Feet in Medford, OR (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM32780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Medford, OR (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY32780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Medford, OR (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY32780          | Housing Inventory: Median Listing Price Year-Over-Year in Medford, OR (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA32780          | Market Hotness: Median Days on Market in Medford, OR (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA32780          | Market Hotness: Median Days on Market Versus the United States in Medford, OR (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA32780          | Market Hotness: Median Days on Market Day in Medford, OR (CBSA)                                              | 2018-08-01          | 2022-06-01        |
+| MEDLISPRI32780            | Housing Inventory: Median Listing Price in Medford, OR (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM32780          | Housing Inventory: Median Listing Price Month-Over-Month in Medford, OR (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE32780   | Housing Inventory: Median Listing Price per Square Feet in Medford, OR (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM32780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Medford, OR (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY32780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Medford, OR (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY32780          | Housing Inventory: Median Listing Price Year-Over-Year in Medford, OR (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA32780          | Market Hotness: Median Days on Market in Medford, OR (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA32780          | Market Hotness: Median Days on Market Versus the United States in Medford, OR (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA32780          | Market Hotness: Median Days on Market Day in Medford, OR (CBSA)                                              | 2018-08-01          | 2022-07-01        |
 | MEDPOP                    | Resident Population in Medford, OR (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| MEDSQUFEE32780            | Housing Inventory: Median Home Size in Square Feet in Medford, OR (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM32780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Medford, OR (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY32780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Medford, OR (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA32780          | Market Hotness: Median Listing Price in Medford, OR (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA32780            | Market Hotness: Median Listing Price in Medford, OR (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA32780        | Market Hotness: Median Listing Price Versus the United States in Medford, OR (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA32780          | Market Hotness: Median Listing Price in Medford, OR (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU32780            | Housing Inventory: New Listing Count in Medford, OR (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM32780          | Housing Inventory: New Listing Count Month-Over-Month in Medford, OR (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY32780          | Housing Inventory: New Listing Count Year-Over-Year in Medford, OR (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| MEDSQUFEE32780            | Housing Inventory: Median Home Size in Square Feet in Medford, OR (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM32780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Medford, OR (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY32780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Medford, OR (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA32780          | Market Hotness: Median Listing Price in Medford, OR (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA32780            | Market Hotness: Median Listing Price in Medford, OR (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA32780        | Market Hotness: Median Listing Price Versus the United States in Medford, OR (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA32780          | Market Hotness: Median Listing Price in Medford, OR (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU32780            | Housing Inventory: New Listing Count in Medford, OR (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM32780          | Housing Inventory: New Listing Count Month-Over-Month in Medford, OR (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY32780          | Housing Inventory: New Listing Count Year-Over-Year in Medford, OR (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP32780                 | Total Gross Domestic Product for Medford, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA32780            | Market Hotness: Nielsen Household Rank in Medford, OR (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA32780            | Market Hotness: Nielsen Household Rank in Medford, OR (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA132780          | U.S. Granted Utility Patents Originating in Medford, OR (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU32780            | Housing Inventory: Pending Listing Count in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM32780          | Housing Inventory: Pending Listing Count Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY32780          | Housing Inventory: Pending Listing Count Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU32780            | Housing Inventory: Price Increased Count in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM32780          | Housing Inventory: Price Increased Count Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY32780          | Housing Inventory: Price Increased Count Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU32780            | Housing Inventory: Price Reduced Count in Medford, OR (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM32780          | Housing Inventory: Price Reduced Count Month-Over-Month in Medford, OR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY32780          | Housing Inventory: Price Reduced Count Year-Over-Year in Medford, OR (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU32780            | Housing Inventory: Pending Listing Count in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM32780          | Housing Inventory: Pending Listing Count Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY32780          | Housing Inventory: Pending Listing Count Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU32780            | Housing Inventory: Price Increased Count in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM32780          | Housing Inventory: Price Increased Count Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY32780          | Housing Inventory: Price Increased Count Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU32780            | Housing Inventory: Price Reduced Count in Medford, OR (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM32780          | Housing Inventory: Price Reduced Count Month-Over-Month in Medford, OR (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY32780          | Housing Inventory: Price Reduced Count Year-Over-Year in Medford, OR (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP32780                 | Total Quantity Indexes for Real GDP for Medford, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP32780                 | Total Real Gross Domestic Product for Medford, OR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI32780                  | Real Personal Income for Medford, OR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -183,4 +183,4 @@
 | SMU41327809093200001      | All Employees: Government: Local Government Excluding Educational Services in Medford, OR (MSA)              | 2001-01-01          | 2022-06-01        |
 | SMU41327809093200001A     | All Employees: Local Government Excluding Educational Services in Medford, OR (MSA)                          | 2001-01-01          | 2021-01-01        |
 | SMU41327809093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Medford, OR (MSA)              | 2001-01-01          | 2022-06-01        |
-| SUSCMSA32780              | Market Hotness: Supply Score in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA32780              | Market Hotness: Supply Score in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

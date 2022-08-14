@@ -13,10 +13,10 @@
 | Durable Goods                        |                64 |
 | Trade, Transportation, and Utilities |                29 |
 | Financial Activities                 |                51 |
-| Goods-Producing                      |                29 |
+| Goods-Producing                      |                 0 |
 | Total Nonfarm                        |                 7 |
 | Mining and Logging                   |                41 |
-| Government                           |                28 |
+| Government                           |                 0 |
 | Transportation and Warehousing       |               196 |
 | Manufacturing                        |                 0 |
 | Construction                         |                 0 |

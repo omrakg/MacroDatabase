@@ -13,7 +13,7 @@
 | Harford County, MD         |               147 |
 | Frederick County, MD       |               147 |
 | Cecil County, MD           |               147 |
-| Baltimore County, MD       |               148 |
+| Baltimore County, MD       |                 0 |
 | Montgomery County, MD      |               147 |
 | Queen Anne's County, MD    |               146 |
 | Carroll County, MD         |               147 |

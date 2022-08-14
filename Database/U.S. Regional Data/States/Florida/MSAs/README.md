@@ -11,7 +11,7 @@
 | Panama City, FL                         |               159 |
 | The Villages, FL                        |                59 |
 | North Port-Sarasota-Bradenton, FL       |               178 |
-| Pensacola-Ferry Pass-Brent, FL          |                 0 |
+| Pensacola-Ferry Pass-Brent, FL          |               175 |
 | Sebastian-Vero Beach, FL                |               161 |
 | Gainesville, FL                         |               165 |
 | Palm Bay-Melbourne-Titusville, FL       |               181 |

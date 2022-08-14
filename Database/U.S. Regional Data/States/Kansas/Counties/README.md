@@ -15,7 +15,7 @@
 | Republic County, KS     |                89 |
 | Finney County, KS       |                90 |
 | Jewell County, KS       |                87 |
-| Pawnee County, KS       |                 0 |
+| Pawnee County, KS       |                89 |
 | Greenwood County, KS    |                88 |
 | Morton County, KS       |                88 |
 | Butler County, KS       |               146 |
@@ -42,7 +42,7 @@
 | Elk County, KS          |                87 |
 | Ness County, KS         |                88 |
 | Shawnee County, KS      |               147 |
-| Miami County, KS        |                90 |
+| Miami County, KS        |                 0 |
 | Stafford County, KS     |                89 |
 | Gove County, KS         |                88 |
 | Mitchell County, KS     |                88 |
@@ -75,7 +75,7 @@
 | Cherokee County, KS     |                90 |
 | Franklin County, KS     |                90 |
 | Kingman County, KS      |                89 |
-| Sheridan County, KS     |                 0 |
+| Sheridan County, KS     |                86 |
 | Edwards County, KS      |                89 |
 | Brown County, KS        |                90 |
 | Meade County, KS        |                88 |
@@ -102,6 +102,6 @@
 | Riley County, KS        |               147 |
 | Pratt County, KS        |                90 |
 | Lane County, KS         |                89 |
-| Morris County, KS       |                88 |
+| Morris County, KS       |                 0 |
 | Crawford County, KS     |                90 |
 | Hodgeman County, KS     |                89 |

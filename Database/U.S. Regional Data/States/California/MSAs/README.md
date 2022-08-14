@@ -22,7 +22,7 @@
 | Oxnard-Thousand Oaks-Ventura, CA     |               239 |
 | Los Angeles-Long Beach-Anaheim, CA   |               332 |
 | Redding, CA                          |               167 |
-| Sacramento-Roseville-Folsom, CA      |               325 |
+| Sacramento-Roseville-Folsom, CA      |                 0 |
 | San Jose-Sunnyvale-Santa Clara, CA   |               331 |
 | Santa Maria-Santa Barbara, CA        |               175 |
 | Hanford-Corcoran, CA                 |               144 |

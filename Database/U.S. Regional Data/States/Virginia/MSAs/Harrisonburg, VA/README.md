@@ -1,12 +1,12 @@
 | id                        | title                                                                                                  | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU25500            | Housing Inventory: Active Listing Count in Harrisonburg, VA (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM25500          | Housing Inventory: Active Listing Count Month-Over-Month in Harrisonburg, VA (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY25500          | Housing Inventory: Active Listing Count Year-Over-Year in Harrisonburg, VA (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU25500            | Housing Inventory: Active Listing Count in Harrisonburg, VA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM25500          | Housing Inventory: Active Listing Count Month-Over-Month in Harrisonburg, VA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY25500          | Housing Inventory: Active Listing Count Year-Over-Year in Harrisonburg, VA (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS25500Q            | All-Transactions House Price Index for Harrisonburg, VA (MSA)                                          | 1987-01-01          | 2022-01-01        |
-| AVELISPRI25500            | Housing Inventory: Average Listing Price in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM25500          | Housing Inventory: Average Listing Price Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY25500          | Housing Inventory: Average Listing Price Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-06-01        |
+| AVELISPRI25500            | Housing Inventory: Average Listing Price in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM25500          | Housing Inventory: Average Listing Price Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY25500          | Housing Inventory: Average Listing Price Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-07-01        |
 | ENUC255030010             | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC255030010SA           | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC255040010             | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2021-10-01        |
@@ -38,32 +38,32 @@
 | LAUMT512550000000005      | Employed Persons in Harrisonburg, VA (MSA)                                                             | 1990-01-01          | 2022-06-01        |
 | LAUMT512550000000005A     | Employed Persons in Harrisonburg, VA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT512550000000006A     | Civilian Labor Force in Harrisonburg, VA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR25500          | Housing Inventory: Median Days on Market in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM25500        | Housing Inventory: Median Days on Market Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY25500        | Housing Inventory: Median Days on Market Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI25500            | Housing Inventory: Median Listing Price in Harrisonburg, VA (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM25500          | Housing Inventory: Median Listing Price Month-Over-Month in Harrisonburg, VA (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE25500   | Housing Inventory: Median Listing Price per Square Feet in Harrisonburg, VA (CBSA)                     | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM25500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Harrisonburg, VA (CBSA)    | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY25500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Harrisonburg, VA (CBSA)      | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY25500          | Housing Inventory: Median Listing Price Year-Over-Year in Harrisonburg, VA (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE25500            | Housing Inventory: Median Home Size in Square Feet in Harrisonburg, VA (CBSA)                          | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM25500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Harrisonburg, VA (CBSA)         | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY25500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Harrisonburg, VA (CBSA)           | 2017-07-01          | 2022-06-01        |
-| NEWLISCOU25500            | Housing Inventory: New Listing Count in Harrisonburg, VA (CBSA)                                        | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM25500          | Housing Inventory: New Listing Count Month-Over-Month in Harrisonburg, VA (CBSA)                       | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY25500          | Housing Inventory: New Listing Count Year-Over-Year in Harrisonburg, VA (CBSA)                         | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR25500          | Housing Inventory: Median Days on Market in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM25500        | Housing Inventory: Median Days on Market Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY25500        | Housing Inventory: Median Days on Market Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI25500            | Housing Inventory: Median Listing Price in Harrisonburg, VA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM25500          | Housing Inventory: Median Listing Price Month-Over-Month in Harrisonburg, VA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE25500   | Housing Inventory: Median Listing Price per Square Feet in Harrisonburg, VA (CBSA)                     | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM25500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Harrisonburg, VA (CBSA)    | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY25500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Harrisonburg, VA (CBSA)      | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY25500          | Housing Inventory: Median Listing Price Year-Over-Year in Harrisonburg, VA (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE25500            | Housing Inventory: Median Home Size in Square Feet in Harrisonburg, VA (CBSA)                          | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM25500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Harrisonburg, VA (CBSA)         | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY25500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Harrisonburg, VA (CBSA)           | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU25500            | Housing Inventory: New Listing Count in Harrisonburg, VA (CBSA)                                        | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM25500          | Housing Inventory: New Listing Count Month-Over-Month in Harrisonburg, VA (CBSA)                       | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY25500          | Housing Inventory: New Listing Count Year-Over-Year in Harrisonburg, VA (CBSA)                         | 2017-07-01          | 2022-07-01        |
 | NGMP25500                 | Total Gross Domestic Product for Harrisonburg, VA (MSA)                                                | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA125500          | U.S. Granted Utility Patents Originating in Harrisonburg, VA (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU25500            | Housing Inventory: Pending Listing Count in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM25500          | Housing Inventory: Pending Listing Count Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY25500          | Housing Inventory: Pending Listing Count Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU25500            | Housing Inventory: Price Increased Count in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM25500          | Housing Inventory: Price Increased Count Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY25500          | Housing Inventory: Price Increased Count Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-09-01          | 2022-06-01        |
-| PRIREDCOU25500            | Housing Inventory: Price Reduced Count in Harrisonburg, VA (CBSA)                                      | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM25500          | Housing Inventory: Price Reduced Count Month-Over-Month in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY25500          | Housing Inventory: Price Reduced Count Year-Over-Year in Harrisonburg, VA (CBSA)                       | 2017-07-01          | 2022-06-01        |
+| PENLISCOU25500            | Housing Inventory: Pending Listing Count in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM25500          | Housing Inventory: Pending Listing Count Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY25500          | Housing Inventory: Pending Listing Count Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU25500            | Housing Inventory: Price Increased Count in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM25500          | Housing Inventory: Price Increased Count Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY25500          | Housing Inventory: Price Increased Count Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-09-01          | 2022-07-01        |
+| PRIREDCOU25500            | Housing Inventory: Price Reduced Count in Harrisonburg, VA (CBSA)                                      | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM25500          | Housing Inventory: Price Reduced Count Month-Over-Month in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY25500          | Housing Inventory: Price Reduced Count Year-Over-Year in Harrisonburg, VA (CBSA)                       | 2017-07-01          | 2022-07-01        |
 | QGMP25500                 | Total Quantity Indexes for Real GDP for Harrisonburg, VA (MSA)                                         | 2001-01-01          | 2020-01-01        |
 | RGMP25500                 | Total Real Gross Domestic Product for Harrisonburg, VA (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | RPI25500                  | Real Personal Income for Harrisonburg, VA (MSA)                                                        | 2008-01-01          | 2020-01-01        |

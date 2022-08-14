@@ -1,13 +1,13 @@
 | id                        | title                                                                                             | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU34060            | Housing Inventory: Active Listing Count in Morgantown, WV (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM34060          | Housing Inventory: Active Listing Count Month-Over-Month in Morgantown, WV (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY34060          | Housing Inventory: Active Listing Count Year-Over-Year in Morgantown, WV (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU34060            | Housing Inventory: Active Listing Count in Morgantown, WV (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM34060          | Housing Inventory: Active Listing Count Month-Over-Month in Morgantown, WV (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY34060          | Housing Inventory: Active Listing Count Year-Over-Year in Morgantown, WV (CBSA)                   | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS34060Q            | All-Transactions House Price Index for Morgantown, WV (MSA)                                       | 1993-04-01          | 2022-01-01        |
-| AVELISPRI34060            | Housing Inventory: Average Listing Price in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM34060          | Housing Inventory: Average Listing Price Month-Over-Month in Morgantown, WV (CBSA)                | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY34060          | Housing Inventory: Average Listing Price Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| DESCMSA34060              | Market Hotness: Demand Score in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-06-01        |
+| AVELISPRI34060            | Housing Inventory: Average Listing Price in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM34060          | Housing Inventory: Average Listing Price Month-Over-Month in Morgantown, WV (CBSA)                | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY34060          | Housing Inventory: Average Listing Price Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| DESCMSA34060              | Market Hotness: Demand Score in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-07-01        |
 | ENUC340630010             | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC340630010SA           | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC340640010             | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC340640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2021-10-01        |
 | ENUC340640510             | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2021-10-01        |
 | ENUC340640510SA           | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA34060            | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| HORAMSA34060              | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA34060            | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| HOSCMSA34060              | Market Hotness: Hotness Score in Morgantown, WV (CBSA)                                            | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA34060            | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| HORAMSA34060              | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA34060            | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| HOSCMSA34060              | Market Hotness: Hotness Score in Morgantown, WV (CBSA)                                            | 2017-08-01          | 2022-07-01        |
 | IRPD34060                 | Implicit Regional Price Deflator for Morgantown, WV (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT543406000000003A     | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT543406000000004      | Unemployed Persons in Morgantown, WV (MSA)                                                        | 1990-01-01          | 2022-06-01        |
@@ -31,31 +31,31 @@
 | LAUMT543406000000005      | Employed Persons in Morgantown, WV (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT543406000000005A     | Employed Persons in Morgantown, WV (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT543406000000006A     | Civilian Labor Force in Morgantown, WV (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA34060          | Market Hotness: Listing Views per Property in Morgantown, WV (CBSA)                               | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA34060        | Market Hotness: Listing Views per Property Versus the United States in Morgantown, WV (CBSA)      | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA34060          | Market Hotness: Listing Views per Property in Morgantown, WV (CBSA)                               | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA34060        | Market Hotness: Median Days on Market in Morgantown, WV (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA34060          | Market Hotness: Median Days on Market in Morgantown, WV (CBSA)                                    | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA34060        | Market Hotness: Median Days on Market in Morgantown, WV (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR34060          | Housing Inventory: Median Days on Market in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM34060        | Housing Inventory: Median Days on Market Month-Over-Month in Morgantown, WV (CBSA)                | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY34060        | Housing Inventory: Median Days on Market Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI34060            | Housing Inventory: Median Listing Price in Morgantown, WV (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM34060          | Housing Inventory: Median Listing Price Month-Over-Month in Morgantown, WV (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE34060   | Housing Inventory: Median Listing Price per Square Feet in Morgantown, WV (CBSA)                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM34060 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Morgantown, WV (CBSA) | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY34060 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Morgantown, WV (CBSA)   | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY34060          | Housing Inventory: Median Listing Price Year-Over-Year in Morgantown, WV (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA34060          | Market Hotness: Median Days on Market in Morgantown, WV (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA34060          | Market Hotness: Median Days on Market Versus the United States in Morgantown, WV (CBSA)           | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA34060          | Market Hotness: Median Days on Market Day in Morgantown, WV (CBSA)                                | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE34060            | Housing Inventory: Median Home Size in Square Feet in Morgantown, WV (CBSA)                       | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM34060          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Morgantown, WV (CBSA)      | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY34060          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Morgantown, WV (CBSA)        | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA34060          | Market Hotness: Median Listing Price in Morgantown, WV (CBSA)                                     | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA34060            | Market Hotness: Median Listing Price in Morgantown, WV (CBSA)                                     | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA34060        | Market Hotness: Median Listing Price Versus the United States in Morgantown, WV (CBSA)            | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA34060          | Market Hotness: Median Listing Price in Morgantown, WV (CBSA)                                     | 2018-08-01          | 2022-06-01        |
+| LDPEPRMMMSA34060          | Market Hotness: Listing Views per Property in Morgantown, WV (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA34060        | Market Hotness: Listing Views per Property Versus the United States in Morgantown, WV (CBSA)      | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA34060          | Market Hotness: Listing Views per Property in Morgantown, WV (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA34060        | Market Hotness: Median Days on Market in Morgantown, WV (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA34060          | Market Hotness: Median Days on Market in Morgantown, WV (CBSA)                                    | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA34060        | Market Hotness: Median Days on Market in Morgantown, WV (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR34060          | Housing Inventory: Median Days on Market in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM34060        | Housing Inventory: Median Days on Market Month-Over-Month in Morgantown, WV (CBSA)                | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY34060        | Housing Inventory: Median Days on Market Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI34060            | Housing Inventory: Median Listing Price in Morgantown, WV (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM34060          | Housing Inventory: Median Listing Price Month-Over-Month in Morgantown, WV (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE34060   | Housing Inventory: Median Listing Price per Square Feet in Morgantown, WV (CBSA)                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM34060 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Morgantown, WV (CBSA) | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY34060 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Morgantown, WV (CBSA)   | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY34060          | Housing Inventory: Median Listing Price Year-Over-Year in Morgantown, WV (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA34060          | Market Hotness: Median Days on Market in Morgantown, WV (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA34060          | Market Hotness: Median Days on Market Versus the United States in Morgantown, WV (CBSA)           | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA34060          | Market Hotness: Median Days on Market Day in Morgantown, WV (CBSA)                                | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE34060            | Housing Inventory: Median Home Size in Square Feet in Morgantown, WV (CBSA)                       | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM34060          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Morgantown, WV (CBSA)      | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY34060          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Morgantown, WV (CBSA)        | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA34060          | Market Hotness: Median Listing Price in Morgantown, WV (CBSA)                                     | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA34060            | Market Hotness: Median Listing Price in Morgantown, WV (CBSA)                                     | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA34060        | Market Hotness: Median Listing Price Versus the United States in Morgantown, WV (CBSA)            | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA34060          | Market Hotness: Median Listing Price in Morgantown, WV (CBSA)                                     | 2018-08-01          | 2022-07-01        |
 | MORG054EDUH               | All Employees: Education and Health Services in Morgantown, WV (MSA)                              | 1990-01-01          | 2022-06-01        |
 | MORG054EDUHN              | All Employees: Education and Health Services in Morgantown, WV (MSA)                              | 1990-01-01          | 2022-06-01        |
 | MORG054GOVT               | All Employees: Government in Morgantown, WV (MSA)                                                 | 1990-01-01          | 2022-06-01        |
@@ -74,21 +74,21 @@
 | MORG054UR                 | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | MORG054URN                | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | MRWPOP                    | Resident Population in Morgantown, WV (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| NEWLISCOU34060            | Housing Inventory: New Listing Count in Morgantown, WV (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM34060          | Housing Inventory: New Listing Count Month-Over-Month in Morgantown, WV (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY34060          | Housing Inventory: New Listing Count Year-Over-Year in Morgantown, WV (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| NEWLISCOU34060            | Housing Inventory: New Listing Count in Morgantown, WV (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM34060          | Housing Inventory: New Listing Count Month-Over-Month in Morgantown, WV (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY34060          | Housing Inventory: New Listing Count Year-Over-Year in Morgantown, WV (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | NGMP34060                 | Total Gross Domestic Product for Morgantown, WV (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA34060            | Market Hotness: Nielsen Household Rank in Morgantown, WV (CBSA)                                   | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA34060            | Market Hotness: Nielsen Household Rank in Morgantown, WV (CBSA)                                   | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA134060          | U.S. Granted Utility Patents Originating in Morgantown, WV (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU34060            | Housing Inventory: Pending Listing Count in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM34060          | Housing Inventory: Pending Listing Count Month-Over-Month in Morgantown, WV (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY34060          | Housing Inventory: Pending Listing Count Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU34060            | Housing Inventory: Price Increased Count in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM34060          | Housing Inventory: Price Increased Count Month-Over-Month in Morgantown, WV (CBSA)                | 2017-08-01          | 2022-06-01        |
-| PRIINCCOUYY34060          | Housing Inventory: Price Increased Count Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU34060            | Housing Inventory: Price Reduced Count in Morgantown, WV (CBSA)                                   | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM34060          | Housing Inventory: Price Reduced Count Month-Over-Month in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY34060          | Housing Inventory: Price Reduced Count Year-Over-Year in Morgantown, WV (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| PENLISCOU34060            | Housing Inventory: Pending Listing Count in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM34060          | Housing Inventory: Pending Listing Count Month-Over-Month in Morgantown, WV (CBSA)                | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY34060          | Housing Inventory: Pending Listing Count Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU34060            | Housing Inventory: Price Increased Count in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM34060          | Housing Inventory: Price Increased Count Month-Over-Month in Morgantown, WV (CBSA)                | 2017-08-01          | 2022-07-01        |
+| PRIINCCOUYY34060          | Housing Inventory: Price Increased Count Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU34060            | Housing Inventory: Price Reduced Count in Morgantown, WV (CBSA)                                   | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM34060          | Housing Inventory: Price Reduced Count Month-Over-Month in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY34060          | Housing Inventory: Price Reduced Count Year-Over-Year in Morgantown, WV (CBSA)                    | 2017-07-01          | 2022-07-01        |
 | QGMP34060                 | Total Quantity Indexes for Real GDP for Morgantown, WV (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP34060                 | Total Real Gross Domestic Product for Morgantown, WV (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI34060                  | Real Personal Income for Morgantown, WV (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -134,4 +134,4 @@
 | SMU54340609093000001      | All Employees: Government: Local Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-06-01        |
 | SMU54340609093000001A     | All Employees: Local Government in Morgantown, WV (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU54340609093000001SA    | All Employees: Government: Local Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-06-01        |
-| SUSCMSA34060              | Market Hotness: Supply Score in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-06-01        |
+| SUSCMSA34060              | Market Hotness: Supply Score in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-07-01        |

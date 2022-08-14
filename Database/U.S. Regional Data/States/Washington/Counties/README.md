@@ -12,7 +12,7 @@
 | Skagit County, WA       |               147 |
 | Clark County, WA        |               147 |
 | Skamania County, WA     |                90 |
-| San Juan County, WA     |                 0 |
+| San Juan County, WA     |                90 |
 | Pend Oreille County, WA |                90 |
 | Ferry County, WA        |                88 |
 | Wahkiakum County, WA    |                90 |

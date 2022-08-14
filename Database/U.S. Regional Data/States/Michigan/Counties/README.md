@@ -29,7 +29,7 @@
 | Mackinac County, MI       |                89 |
 | Mecosta County, MI        |                90 |
 | Hillsdale County, MI      |                90 |
-| Tuscola County, MI        |                90 |
+| Tuscola County, MI        |                 0 |
 | Benzie County, MI         |                90 |
 | Ogemaw County, MI         |                90 |
 | Grand Traverse County, MI |               147 |
@@ -49,7 +49,7 @@
 | Branch County, MI         |                90 |
 | Genesee County, MI        |               147 |
 | Isabella County, MI       |               146 |
-| Calhoun County, MI        |                 0 |
+| Calhoun County, MI        |               147 |
 | Lake County, MI           |                90 |
 | Eaton County, MI          |               147 |
 | Chippewa County, MI       |                90 |

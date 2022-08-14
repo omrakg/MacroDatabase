@@ -7,7 +7,7 @@
 | Aleutian Islands Division, AK        |                 4 |
 | Outer Ketchikan Division, AK         |                 4 |
 | Bristol Bay Division, AK             |                 4 |
-| Barrow-North Slope Division, AK      |                 4 |
+| Barrow-North Slope Division, AK      |                 0 |
 | Southeast Fairbanks Division, AK     |                 4 |
 | Kuskokwim Division, AK               |                 4 |
 | Angoon Division, AK                  |                 4 |

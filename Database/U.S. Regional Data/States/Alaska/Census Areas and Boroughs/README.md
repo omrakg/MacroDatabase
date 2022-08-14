@@ -4,7 +4,7 @@
 | Prince of Wales-Hyder Census Area, AK           |                83 |
 | Fairbanks North Star Borough, AK                |               146 |
 | Kenai Peninsula Borough, AK                     |                88 |
-| Aleutian Islands Census Area                    |                 0 |
+| Aleutian Islands Census Area                    |                 4 |
 | Anchorage Borough - municipality, AK            |                 0 |
 | Haines Borough, AK                              |                87 |
 | Wade Hampton Census Area, AK                    |                13 |

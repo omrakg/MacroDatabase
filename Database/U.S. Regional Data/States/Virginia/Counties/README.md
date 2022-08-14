@@ -28,7 +28,7 @@
 | Rockingham County, VA                               |               137 |
 | Prince George County, VA                            |                80 |
 | Gloucester County, VA                               |                89 |
-| Bland County, VA                                    |                 0 |
+| Bland County, VA                                    |                89 |
 | Petersburg City, VA                                 |                79 |
 | Norton City, VA                                     |                77 |
 | James City County, VA                               |               137 |
@@ -55,7 +55,7 @@
 | Colonial Heights City, VA                           |                77 |
 | Smyth County, VA                                    |                89 |
 | Culpeper County, VA                                 |                90 |
-| Fairfax, Fairfax City + Falls Church County, VA     |                10 |
+| Fairfax, Fairfax City + Falls Church County, VA     |                 0 |
 | Lee County, VA                                      |                89 |
 | Nelson County, VA                                   |                90 |
 | Goochland County, VA                                |                89 |
@@ -88,7 +88,7 @@
 | Shenandoah County, VA                               |                90 |
 | Russell County, VA                                  |                89 |
 | Portsmouth City, VA                                 |               146 |
-| Clifton Forge City, VA                              |                 0 |
+| Clifton Forge City, VA                              |                 1 |
 | Spotsylvania County, VA                             |               137 |
 | Radford City, VA                                    |                79 |
 | Wise County + Norton City, VA                       |                12 |
@@ -115,7 +115,7 @@
 | Clarke County, VA                                   |                90 |
 | Franklin City, VA                                   |                79 |
 | Grayson County, VA                                  |                89 |
-| Harrisonburg City, VA                               |                79 |
+| Harrisonburg City, VA                               |                 0 |
 | Lancaster County, VA                                |                90 |
 | Alleghany County + Covington City, VA               |                12 |
 | Rockingham County + Harrisonburg City, VA           |                12 |
@@ -148,7 +148,7 @@
 | South Boston City, VA                               |                 1 |
 | Orange County, VA                                   |                90 |
 | Page County, VA                                     |                90 |
-| Charles City County, VA                             |                 0 |
+| Charles City County, VA                             |                90 |
 | Carroll County + Galax City, VA                     |                12 |
 | King George County, VA                              |                90 |
 | Fluvanna County, VA                                 |                90 |

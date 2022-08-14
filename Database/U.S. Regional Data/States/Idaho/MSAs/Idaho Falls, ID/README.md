@@ -1,12 +1,12 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU26820            | Housing Inventory: Active Listing Count in Idaho Falls, ID (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM26820          | Housing Inventory: Active Listing Count Month-Over-Month in Idaho Falls, ID (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY26820          | Housing Inventory: Active Listing Count Year-Over-Year in Idaho Falls, ID (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU26820            | Housing Inventory: Active Listing Count in Idaho Falls, ID (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM26820          | Housing Inventory: Active Listing Count Month-Over-Month in Idaho Falls, ID (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY26820          | Housing Inventory: Active Listing Count Year-Over-Year in Idaho Falls, ID (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS26820Q            | All-Transactions House Price Index for Idaho Falls, ID (MSA)                                                     | 1986-04-01          | 2022-01-01        |
-| AVELISPRI26820            | Housing Inventory: Average Listing Price in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM26820          | Housing Inventory: Average Listing Price Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY26820          | Housing Inventory: Average Listing Price Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| AVELISPRI26820            | Housing Inventory: Average Listing Price in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM26820          | Housing Inventory: Average Listing Price Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY26820          | Housing Inventory: Average Listing Price Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-07-01        |
 | ENUC268230010             | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC268230010SA           | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC268240010             | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -52,32 +52,32 @@
 | LAUMT162682000000005      | Employed Persons in Idaho Falls, ID (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT162682000000005A     | Employed Persons in Idaho Falls, ID (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT162682000000006A     | Civilian Labor Force in Idaho Falls, ID (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR26820          | Housing Inventory: Median Days on Market in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM26820        | Housing Inventory: Median Days on Market Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY26820        | Housing Inventory: Median Days on Market Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI26820            | Housing Inventory: Median Listing Price in Idaho Falls, ID (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM26820          | Housing Inventory: Median Listing Price Month-Over-Month in Idaho Falls, ID (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE26820   | Housing Inventory: Median Listing Price per Square Feet in Idaho Falls, ID (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM26820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Idaho Falls, ID (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY26820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Idaho Falls, ID (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY26820          | Housing Inventory: Median Listing Price Year-Over-Year in Idaho Falls, ID (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE26820            | Housing Inventory: Median Home Size in Square Feet in Idaho Falls, ID (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM26820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Idaho Falls, ID (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY26820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Idaho Falls, ID (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| NEWLISCOU26820            | Housing Inventory: New Listing Count in Idaho Falls, ID (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM26820          | Housing Inventory: New Listing Count Month-Over-Month in Idaho Falls, ID (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY26820          | Housing Inventory: New Listing Count Year-Over-Year in Idaho Falls, ID (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR26820          | Housing Inventory: Median Days on Market in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM26820        | Housing Inventory: Median Days on Market Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY26820        | Housing Inventory: Median Days on Market Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI26820            | Housing Inventory: Median Listing Price in Idaho Falls, ID (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM26820          | Housing Inventory: Median Listing Price Month-Over-Month in Idaho Falls, ID (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE26820   | Housing Inventory: Median Listing Price per Square Feet in Idaho Falls, ID (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM26820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Idaho Falls, ID (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY26820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Idaho Falls, ID (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY26820          | Housing Inventory: Median Listing Price Year-Over-Year in Idaho Falls, ID (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE26820            | Housing Inventory: Median Home Size in Square Feet in Idaho Falls, ID (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM26820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Idaho Falls, ID (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY26820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Idaho Falls, ID (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU26820            | Housing Inventory: New Listing Count in Idaho Falls, ID (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM26820          | Housing Inventory: New Listing Count Month-Over-Month in Idaho Falls, ID (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY26820          | Housing Inventory: New Listing Count Year-Over-Year in Idaho Falls, ID (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP26820                 | Total Gross Domestic Product for Idaho Falls, ID (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA126820          | U.S. Granted Utility Patents Originating in Idaho Falls, ID (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU26820            | Housing Inventory: Pending Listing Count in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM26820          | Housing Inventory: Pending Listing Count Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY26820          | Housing Inventory: Pending Listing Count Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU26820            | Housing Inventory: Price Increased Count in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM26820          | Housing Inventory: Price Increased Count Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOU26820            | Housing Inventory: Pending Listing Count in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM26820          | Housing Inventory: Pending Listing Count Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY26820          | Housing Inventory: Pending Listing Count Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU26820            | Housing Inventory: Price Increased Count in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM26820          | Housing Inventory: Price Increased Count Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-07-01        |
 | PRIINCCOUYY26820          | Housing Inventory: Price Increased Count Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU26820            | Housing Inventory: Price Reduced Count in Idaho Falls, ID (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM26820          | Housing Inventory: Price Reduced Count Month-Over-Month in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY26820          | Housing Inventory: Price Reduced Count Year-Over-Year in Idaho Falls, ID (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU26820            | Housing Inventory: Price Reduced Count in Idaho Falls, ID (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM26820          | Housing Inventory: Price Reduced Count Month-Over-Month in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY26820          | Housing Inventory: Price Reduced Count Year-Over-Year in Idaho Falls, ID (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP26820                 | Total Quantity Indexes for Real GDP for Idaho Falls, ID (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP26820                 | Total Real Gross Domestic Product for Idaho Falls, ID (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI26820                  | Real Personal Income for Idaho Falls, ID (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

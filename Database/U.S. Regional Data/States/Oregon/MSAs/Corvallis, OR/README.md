@@ -1,12 +1,12 @@
 | id                        | title                                                                                                  | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU18700            | Housing Inventory: Active Listing Count in Corvallis, OR (CBSA)                                        | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM18700          | Housing Inventory: Active Listing Count Month-Over-Month in Corvallis, OR (CBSA)                       | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY18700          | Housing Inventory: Active Listing Count Year-Over-Year in Corvallis, OR (CBSA)                         | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU18700            | Housing Inventory: Active Listing Count in Corvallis, OR (CBSA)                                        | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM18700          | Housing Inventory: Active Listing Count Month-Over-Month in Corvallis, OR (CBSA)                       | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY18700          | Housing Inventory: Active Listing Count Year-Over-Year in Corvallis, OR (CBSA)                         | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS18700Q            | All-Transactions House Price Index for Corvallis, OR (MSA)                                             | 1983-04-01          | 2022-01-01        |
-| AVELISPRI18700            | Housing Inventory: Average Listing Price in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM18700          | Housing Inventory: Average Listing Price Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY18700          | Housing Inventory: Average Listing Price Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-06-01        |
+| AVELISPRI18700            | Housing Inventory: Average Listing Price in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM18700          | Housing Inventory: Average Listing Price Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY18700          | Housing Inventory: Average Listing Price Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-07-01        |
 | CORV741EDUH               | All Employees: Education and Health Services in Corvallis, OR (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | CORV741EDUHN              | All Employees: Education and Health Services in Corvallis, OR (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | CORV741FIRE               | All Employees: Financial Activities in Corvallis, OR (MSA)                                             | 1990-01-01          | 2022-06-01        |
@@ -54,32 +54,32 @@
 | LAUMT411870000000005      | Employed Persons in Corvallis, OR (MSA)                                                                | 1990-01-01          | 2022-06-01        |
 | LAUMT411870000000005A     | Employed Persons in Corvallis, OR (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | LAUMT411870000000006A     | Civilian Labor Force in Corvallis, OR (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR18700          | Housing Inventory: Median Days on Market in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM18700        | Housing Inventory: Median Days on Market Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY18700        | Housing Inventory: Median Days on Market Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI18700            | Housing Inventory: Median Listing Price in Corvallis, OR (CBSA)                                        | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM18700          | Housing Inventory: Median Listing Price Month-Over-Month in Corvallis, OR (CBSA)                       | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE18700   | Housing Inventory: Median Listing Price per Square Feet in Corvallis, OR (CBSA)                        | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM18700 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Corvallis, OR (CBSA)       | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY18700 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Corvallis, OR (CBSA)         | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY18700          | Housing Inventory: Median Listing Price Year-Over-Year in Corvallis, OR (CBSA)                         | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE18700            | Housing Inventory: Median Home Size in Square Feet in Corvallis, OR (CBSA)                             | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM18700          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Corvallis, OR (CBSA)            | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY18700          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Corvallis, OR (CBSA)              | 2017-07-01          | 2022-06-01        |
-| NEWLISCOU18700            | Housing Inventory: New Listing Count in Corvallis, OR (CBSA)                                           | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM18700          | Housing Inventory: New Listing Count Month-Over-Month in Corvallis, OR (CBSA)                          | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY18700          | Housing Inventory: New Listing Count Year-Over-Year in Corvallis, OR (CBSA)                            | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR18700          | Housing Inventory: Median Days on Market in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM18700        | Housing Inventory: Median Days on Market Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY18700        | Housing Inventory: Median Days on Market Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI18700            | Housing Inventory: Median Listing Price in Corvallis, OR (CBSA)                                        | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM18700          | Housing Inventory: Median Listing Price Month-Over-Month in Corvallis, OR (CBSA)                       | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE18700   | Housing Inventory: Median Listing Price per Square Feet in Corvallis, OR (CBSA)                        | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM18700 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Corvallis, OR (CBSA)       | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY18700 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Corvallis, OR (CBSA)         | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY18700          | Housing Inventory: Median Listing Price Year-Over-Year in Corvallis, OR (CBSA)                         | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE18700            | Housing Inventory: Median Home Size in Square Feet in Corvallis, OR (CBSA)                             | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM18700          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Corvallis, OR (CBSA)            | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY18700          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Corvallis, OR (CBSA)              | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU18700            | Housing Inventory: New Listing Count in Corvallis, OR (CBSA)                                           | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM18700          | Housing Inventory: New Listing Count Month-Over-Month in Corvallis, OR (CBSA)                          | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY18700          | Housing Inventory: New Listing Count Year-Over-Year in Corvallis, OR (CBSA)                            | 2017-07-01          | 2022-07-01        |
 | NGMP18700                 | Total Gross Domestic Product for Corvallis, OR (MSA)                                                   | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA118700          | U.S. Granted Utility Patents Originating in Corvallis, OR (MSA)                                        | 2000-01-01          | 2015-01-01        |
-| PENLISCOU18700            | Housing Inventory: Pending Listing Count in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM18700          | Housing Inventory: Pending Listing Count Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY18700          | Housing Inventory: Pending Listing Count Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU18700            | Housing Inventory: Price Increased Count in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM18700          | Housing Inventory: Price Increased Count Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-08-01          | 2022-06-01        |
-| PRIINCCOUYY18700          | Housing Inventory: Price Increased Count Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-08-01          | 2022-06-01        |
-| PRIREDCOU18700            | Housing Inventory: Price Reduced Count in Corvallis, OR (CBSA)                                         | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM18700          | Housing Inventory: Price Reduced Count Month-Over-Month in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY18700          | Housing Inventory: Price Reduced Count Year-Over-Year in Corvallis, OR (CBSA)                          | 2017-07-01          | 2022-06-01        |
+| PENLISCOU18700            | Housing Inventory: Pending Listing Count in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM18700          | Housing Inventory: Pending Listing Count Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY18700          | Housing Inventory: Pending Listing Count Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU18700            | Housing Inventory: Price Increased Count in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM18700          | Housing Inventory: Price Increased Count Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-08-01          | 2022-07-01        |
+| PRIINCCOUYY18700          | Housing Inventory: Price Increased Count Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-08-01          | 2022-07-01        |
+| PRIREDCOU18700            | Housing Inventory: Price Reduced Count in Corvallis, OR (CBSA)                                         | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM18700          | Housing Inventory: Price Reduced Count Month-Over-Month in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY18700          | Housing Inventory: Price Reduced Count Year-Over-Year in Corvallis, OR (CBSA)                          | 2017-07-01          | 2022-07-01        |
 | QGMP18700                 | Total Quantity Indexes for Real GDP for Corvallis, OR (MSA)                                            | 2001-01-01          | 2020-01-01        |
 | RGMP18700                 | Total Real Gross Domestic Product for Corvallis, OR (MSA)                                              | 2001-01-01          | 2020-01-01        |
 | RPI18700                  | Real Personal Income for Corvallis, OR (MSA)                                                           | 2008-01-01          | 2020-01-01        |

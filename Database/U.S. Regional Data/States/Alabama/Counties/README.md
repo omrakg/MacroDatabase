@@ -7,7 +7,7 @@
 | Marengo County, AL    |                90 |
 | Washington County, AL |                87 |
 | Cullman County, AL    |               147 |
-| Greene County, AL     |                 0 |
+| Greene County, AL     |                89 |
 | Franklin County, AL   |                90 |
 | Coffee County, AL     |               146 |
 | Lawrence County, AL   |                89 |
@@ -27,7 +27,7 @@
 | Wilcox County, AL     |                88 |
 | Fayette County, AL    |                90 |
 | Limestone County, AL  |               147 |
-| Etowah County, AL     |               147 |
+| Etowah County, AL     |                 0 |
 | Russell County, AL    |               145 |
 | Calhoun County, AL    |               147 |
 | Escambia County, AL   |                89 |

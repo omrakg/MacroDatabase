@@ -1,12 +1,12 @@
 | id                        | title                                                                                           | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU29940            | Housing Inventory: Active Listing Count in Lawrence, KS (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM29940          | Housing Inventory: Active Listing Count Month-Over-Month in Lawrence, KS (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY29940          | Housing Inventory: Active Listing Count Year-Over-Year in Lawrence, KS (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU29940            | Housing Inventory: Active Listing Count in Lawrence, KS (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM29940          | Housing Inventory: Active Listing Count Month-Over-Month in Lawrence, KS (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY29940          | Housing Inventory: Active Listing Count Year-Over-Year in Lawrence, KS (CBSA)                   | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS29940Q            | All-Transactions House Price Index for Lawrence, KS (MSA)                                       | 1985-07-01          | 2022-01-01        |
-| AVELISPRI29940            | Housing Inventory: Average Listing Price in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM29940          | Housing Inventory: Average Listing Price Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY29940          | Housing Inventory: Average Listing Price Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| AVELISPRI29940            | Housing Inventory: Average Listing Price in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM29940          | Housing Inventory: Average Listing Price Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY29940          | Housing Inventory: Average Listing Price Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
 | ENUC299430010             | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC299430010SA           | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC299440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -40,32 +40,32 @@
 | LAWR920TRADN              | All Employees: Trade, Transportation, and Utilities in Lawrence, KS (MSA)                       | 1990-01-01          | 2022-06-01        |
 | LAWR920UR                 | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | LAWR920URN                | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| MEDDAYONMAR29940          | Housing Inventory: Median Days on Market in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM29940        | Housing Inventory: Median Days on Market Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY29940        | Housing Inventory: Median Days on Market Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI29940            | Housing Inventory: Median Listing Price in Lawrence, KS (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM29940          | Housing Inventory: Median Listing Price Month-Over-Month in Lawrence, KS (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE29940   | Housing Inventory: Median Listing Price per Square Feet in Lawrence, KS (CBSA)                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM29940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lawrence, KS (CBSA) | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY29940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lawrence, KS (CBSA)   | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY29940          | Housing Inventory: Median Listing Price Year-Over-Year in Lawrence, KS (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE29940            | Housing Inventory: Median Home Size in Square Feet in Lawrence, KS (CBSA)                       | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM29940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lawrence, KS (CBSA)      | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY29940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lawrence, KS (CBSA)        | 2017-07-01          | 2022-06-01        |
-| NEWLISCOU29940            | Housing Inventory: New Listing Count in Lawrence, KS (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM29940          | Housing Inventory: New Listing Count Month-Over-Month in Lawrence, KS (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY29940          | Housing Inventory: New Listing Count Year-Over-Year in Lawrence, KS (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR29940          | Housing Inventory: Median Days on Market in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM29940        | Housing Inventory: Median Days on Market Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY29940        | Housing Inventory: Median Days on Market Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI29940            | Housing Inventory: Median Listing Price in Lawrence, KS (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM29940          | Housing Inventory: Median Listing Price Month-Over-Month in Lawrence, KS (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE29940   | Housing Inventory: Median Listing Price per Square Feet in Lawrence, KS (CBSA)                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM29940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lawrence, KS (CBSA) | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY29940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lawrence, KS (CBSA)   | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY29940          | Housing Inventory: Median Listing Price Year-Over-Year in Lawrence, KS (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE29940            | Housing Inventory: Median Home Size in Square Feet in Lawrence, KS (CBSA)                       | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM29940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lawrence, KS (CBSA)      | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY29940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lawrence, KS (CBSA)        | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU29940            | Housing Inventory: New Listing Count in Lawrence, KS (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM29940          | Housing Inventory: New Listing Count Month-Over-Month in Lawrence, KS (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY29940          | Housing Inventory: New Listing Count Year-Over-Year in Lawrence, KS (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | NGMP29940                 | Total Gross Domestic Product for Lawrence, KS (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA129940          | U.S. Granted Utility Patents Originating in Lawrence, KS (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU29940            | Housing Inventory: Pending Listing Count in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM29940          | Housing Inventory: Pending Listing Count Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY29940          | Housing Inventory: Pending Listing Count Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU29940            | Housing Inventory: Price Increased Count in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-06-01        |
+| PENLISCOU29940            | Housing Inventory: Pending Listing Count in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM29940          | Housing Inventory: Pending Listing Count Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY29940          | Housing Inventory: Pending Listing Count Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU29940            | Housing Inventory: Price Increased Count in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM29940          | Housing Inventory: Price Increased Count Month-Over-Month in Lawrence, KS (CBSA)                | 2017-12-01          | 2022-03-01        |
 | PRIINCCOUYY29940          | Housing Inventory: Price Increased Count Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU29940            | Housing Inventory: Price Reduced Count in Lawrence, KS (CBSA)                                   | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM29940          | Housing Inventory: Price Reduced Count Month-Over-Month in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY29940          | Housing Inventory: Price Reduced Count Year-Over-Year in Lawrence, KS (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU29940            | Housing Inventory: Price Reduced Count in Lawrence, KS (CBSA)                                   | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM29940          | Housing Inventory: Price Reduced Count Month-Over-Month in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY29940          | Housing Inventory: Price Reduced Count Year-Over-Year in Lawrence, KS (CBSA)                    | 2017-07-01          | 2022-07-01        |
 | QGMP29940                 | Total Quantity Indexes for Real GDP for Lawrence, KS (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP29940                 | Total Real Gross Domestic Product for Lawrence, KS (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI29940                  | Real Personal Income for Lawrence, KS (MSA)                                                     | 2008-01-01          | 2020-01-01        |

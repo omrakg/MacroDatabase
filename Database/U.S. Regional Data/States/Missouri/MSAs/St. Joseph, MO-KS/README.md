@@ -1,12 +1,12 @@
 | id                        | title                                                                                                | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU41140            | Housing Inventory: Active Listing Count in St. Joseph, MO-KS (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM41140          | Housing Inventory: Active Listing Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY41140          | Housing Inventory: Active Listing Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU41140            | Housing Inventory: Active Listing Count in St. Joseph, MO-KS (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM41140          | Housing Inventory: Active Listing Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY41140          | Housing Inventory: Active Listing Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                   | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS41140Q            | All-Transactions House Price Index for St. Joseph, MO-KS (MSA)                                       | 1986-07-01          | 2022-01-01        |
-| AVELISPRI41140            | Housing Inventory: Average Listing Price in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM41140          | Housing Inventory: Average Listing Price Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY41140          | Housing Inventory: Average Listing Price Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| AVELISPRI41140            | Housing Inventory: Average Listing Price in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM41140          | Housing Inventory: Average Listing Price Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY41140          | Housing Inventory: Average Listing Price Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
 | ENUC411430010             | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC411430010SA           | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC411440010             | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -24,32 +24,32 @@
 | LAUMT294114000000005      | Employed Persons in St. Joseph, MO-KS (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT294114000000005A     | Employed Persons in St. Joseph, MO-KS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT294114000000006A     | Civilian Labor Force in St. Joseph, MO-KS (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR41140          | Housing Inventory: Median Days on Market in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM41140        | Housing Inventory: Median Days on Market Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY41140        | Housing Inventory: Median Days on Market Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI41140            | Housing Inventory: Median Listing Price in St. Joseph, MO-KS (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM41140          | Housing Inventory: Median Listing Price Month-Over-Month in St. Joseph, MO-KS (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE41140   | Housing Inventory: Median Listing Price per Square Feet in St. Joseph, MO-KS (CBSA)                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM41140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in St. Joseph, MO-KS (CBSA) | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY41140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in St. Joseph, MO-KS (CBSA)   | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY41140          | Housing Inventory: Median Listing Price Year-Over-Year in St. Joseph, MO-KS (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE41140            | Housing Inventory: Median Home Size in Square Feet in St. Joseph, MO-KS (CBSA)                       | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM41140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in St. Joseph, MO-KS (CBSA)      | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY41140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in St. Joseph, MO-KS (CBSA)        | 2017-07-01          | 2022-06-01        |
-| NEWLISCOU41140            | Housing Inventory: New Listing Count in St. Joseph, MO-KS (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM41140          | Housing Inventory: New Listing Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY41140          | Housing Inventory: New Listing Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR41140          | Housing Inventory: Median Days on Market in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM41140        | Housing Inventory: Median Days on Market Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY41140        | Housing Inventory: Median Days on Market Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI41140            | Housing Inventory: Median Listing Price in St. Joseph, MO-KS (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM41140          | Housing Inventory: Median Listing Price Month-Over-Month in St. Joseph, MO-KS (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE41140   | Housing Inventory: Median Listing Price per Square Feet in St. Joseph, MO-KS (CBSA)                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM41140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in St. Joseph, MO-KS (CBSA) | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY41140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in St. Joseph, MO-KS (CBSA)   | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY41140          | Housing Inventory: Median Listing Price Year-Over-Year in St. Joseph, MO-KS (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE41140            | Housing Inventory: Median Home Size in Square Feet in St. Joseph, MO-KS (CBSA)                       | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM41140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in St. Joseph, MO-KS (CBSA)      | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY41140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in St. Joseph, MO-KS (CBSA)        | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU41140            | Housing Inventory: New Listing Count in St. Joseph, MO-KS (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM41140          | Housing Inventory: New Listing Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY41140          | Housing Inventory: New Listing Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | NGMP41140                 | Total Gross Domestic Product for St. Joseph, MO-KS (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA141140          | U.S. Granted Utility Patents Originating in St. Joseph, MO-KS (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU41140            | Housing Inventory: Pending Listing Count in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM41140          | Housing Inventory: Pending Listing Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY41140          | Housing Inventory: Pending Listing Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU41140            | Housing Inventory: Price Increased Count in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-06-01        |
+| PENLISCOU41140            | Housing Inventory: Pending Listing Count in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM41140          | Housing Inventory: Pending Listing Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY41140          | Housing Inventory: Pending Listing Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU41140            | Housing Inventory: Price Increased Count in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM41140          | Housing Inventory: Price Increased Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-05-01        |
 | PRIINCCOUYY41140          | Housing Inventory: Price Increased Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-09-01          | 2022-06-01        |
-| PRIREDCOU41140            | Housing Inventory: Price Reduced Count in St. Joseph, MO-KS (CBSA)                                   | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM41140          | Housing Inventory: Price Reduced Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY41140          | Housing Inventory: Price Reduced Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU41140            | Housing Inventory: Price Reduced Count in St. Joseph, MO-KS (CBSA)                                   | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM41140          | Housing Inventory: Price Reduced Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY41140          | Housing Inventory: Price Reduced Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                    | 2017-07-01          | 2022-07-01        |
 | QGMP41140                 | Total Quantity Indexes for Real GDP for St. Joseph, MO-KS (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP41140                 | Total Real Gross Domestic Product for St. Joseph, MO-KS (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI41140                  | Real Personal Income for St. Joseph, MO-KS (MSA)                                                     | 2008-01-01          | 2020-01-01        |

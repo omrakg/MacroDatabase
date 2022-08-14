@@ -13,9 +13,9 @@
 | Ontario County, NY      |               147 |
 | Oswego County, NY       |               146 |
 | Schoharie County, NY    |                89 |
-| Oneida County, NY       |                 0 |
+| Oneida County, NY       |               147 |
 | Steuben County, NY      |               147 |
-| Allegany County, NY     |                90 |
+| Allegany County, NY     |                 0 |
 | Putnam County, NY       |               146 |
 | Clinton County, NY      |               147 |
 | Chautauqua County, NY   |               147 |

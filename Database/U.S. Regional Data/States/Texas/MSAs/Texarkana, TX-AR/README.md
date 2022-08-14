@@ -1,13 +1,13 @@
 | id                        | title                                                                                                             | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU45500            | Housing Inventory: Active Listing Count in Texarkana, TX-AR (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM45500          | Housing Inventory: Active Listing Count Month-Over-Month in Texarkana, TX-AR (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY45500          | Housing Inventory: Active Listing Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU45500            | Housing Inventory: Active Listing Count in Texarkana, TX-AR (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM45500          | Housing Inventory: Active Listing Count Month-Over-Month in Texarkana, TX-AR (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY45500          | Housing Inventory: Active Listing Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS45500Q            | All-Transactions House Price Index for Texarkana, TX-Texarkana, AR (MSA)                                          | 1992-04-01          | 2022-01-01        |
-| AVELISPRI45500            | Housing Inventory: Average Listing Price in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM45500          | Housing Inventory: Average Listing Price Month-Over-Month in Texarkana, TX-AR (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY45500          | Housing Inventory: Average Listing Price Year-Over-Year in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA45500              | Market Hotness: Demand Score in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI45500            | Housing Inventory: Average Listing Price in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM45500          | Housing Inventory: Average Listing Price Month-Over-Month in Texarkana, TX-AR (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY45500          | Housing Inventory: Average Listing Price Year-Over-Year in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA45500              | Market Hotness: Demand Score in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC455030010             | Total Quarterly Wages in Texarkana, TX-AR (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC455030010SA           | Total Quarterly Wages in Texarkana, TX-AR (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC455040010             | Average Weekly Wages for Employees in Total Covered Establishments in Texarkana, TX-Texarkana, AR (MSA)           | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC455040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2021-10-01        |
 | ENUC455040510             | Average Weekly Wages for Employees in Private Establishments in Texarkana, TX-Texarkana, AR (MSA)                 | 1990-01-01          | 2021-10-01        |
 | ENUC455040510SA           | Average Weekly Wages for Employees in Private Establishments in Texarkana, TX-Texarkana, AR (MSA)                 | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA45500            | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA45500              | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA45500            | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA45500              | Market Hotness: Hotness Score in Texarkana, TX-AR (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA45500            | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA45500              | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA45500            | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA45500              | Market Hotness: Hotness Score in Texarkana, TX-AR (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD45500                 | Implicit Regional Price Deflator for Texarkana, TX-AR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484550000000003A     | Unemployment Rate in Texarkana, TX-AR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT484550000000004      | Unemployed Persons in Texarkana, TX-AR (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -31,46 +31,46 @@
 | LAUMT484550000000005      | Employed Persons in Texarkana, TX-AR (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT484550000000005A     | Employed Persons in Texarkana, TX-AR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484550000000006A     | Civilian Labor Force in Texarkana, TX-AR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA45500          | Market Hotness: Listing Views per Property in Texarkana, TX-AR (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA45500        | Market Hotness: Listing Views per Property Versus the United States in Texarkana, TX-AR (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA45500          | Market Hotness: Listing Views per Property in Texarkana, TX-AR (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA45500        | Market Hotness: Median Days on Market in Texarkana, TX-AR (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA45500          | Market Hotness: Median Days on Market in Texarkana, TX-AR (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA45500        | Market Hotness: Median Days on Market in Texarkana, TX-AR (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR45500          | Housing Inventory: Median Days on Market in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM45500        | Housing Inventory: Median Days on Market Month-Over-Month in Texarkana, TX-AR (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY45500        | Housing Inventory: Median Days on Market Year-Over-Year in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI45500            | Housing Inventory: Median Listing Price in Texarkana, TX-AR (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM45500          | Housing Inventory: Median Listing Price Month-Over-Month in Texarkana, TX-AR (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE45500   | Housing Inventory: Median Listing Price per Square Feet in Texarkana, TX-AR (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM45500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Texarkana, TX-AR (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY45500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Texarkana, TX-AR (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY45500          | Housing Inventory: Median Listing Price Year-Over-Year in Texarkana, TX-AR (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA45500          | Market Hotness: Median Days on Market in Texarkana, TX-AR (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA45500          | Market Hotness: Median Days on Market Versus the United States in Texarkana, TX-AR (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA45500          | Market Hotness: Median Days on Market Day in Texarkana, TX-AR (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE45500            | Housing Inventory: Median Home Size in Square Feet in Texarkana, TX-AR (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM45500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Texarkana, TX-AR (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY45500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Texarkana, TX-AR (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA45500          | Market Hotness: Median Listing Price in Texarkana, TX-AR (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA45500            | Market Hotness: Median Listing Price in Texarkana, TX-AR (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA45500        | Market Hotness: Median Listing Price Versus the United States in Texarkana, TX-AR (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA45500          | Market Hotness: Median Listing Price in Texarkana, TX-AR (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU45500            | Housing Inventory: New Listing Count in Texarkana, TX-AR (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM45500          | Housing Inventory: New Listing Count Month-Over-Month in Texarkana, TX-AR (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY45500          | Housing Inventory: New Listing Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA45500          | Market Hotness: Listing Views per Property in Texarkana, TX-AR (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA45500        | Market Hotness: Listing Views per Property Versus the United States in Texarkana, TX-AR (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA45500          | Market Hotness: Listing Views per Property in Texarkana, TX-AR (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA45500        | Market Hotness: Median Days on Market in Texarkana, TX-AR (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA45500          | Market Hotness: Median Days on Market in Texarkana, TX-AR (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA45500        | Market Hotness: Median Days on Market in Texarkana, TX-AR (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR45500          | Housing Inventory: Median Days on Market in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM45500        | Housing Inventory: Median Days on Market Month-Over-Month in Texarkana, TX-AR (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY45500        | Housing Inventory: Median Days on Market Year-Over-Year in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI45500            | Housing Inventory: Median Listing Price in Texarkana, TX-AR (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM45500          | Housing Inventory: Median Listing Price Month-Over-Month in Texarkana, TX-AR (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE45500   | Housing Inventory: Median Listing Price per Square Feet in Texarkana, TX-AR (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM45500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Texarkana, TX-AR (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY45500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Texarkana, TX-AR (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY45500          | Housing Inventory: Median Listing Price Year-Over-Year in Texarkana, TX-AR (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA45500          | Market Hotness: Median Days on Market in Texarkana, TX-AR (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA45500          | Market Hotness: Median Days on Market Versus the United States in Texarkana, TX-AR (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA45500          | Market Hotness: Median Days on Market Day in Texarkana, TX-AR (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE45500            | Housing Inventory: Median Home Size in Square Feet in Texarkana, TX-AR (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM45500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Texarkana, TX-AR (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY45500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Texarkana, TX-AR (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA45500          | Market Hotness: Median Listing Price in Texarkana, TX-AR (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA45500            | Market Hotness: Median Listing Price in Texarkana, TX-AR (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA45500        | Market Hotness: Median Listing Price Versus the United States in Texarkana, TX-AR (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA45500          | Market Hotness: Median Listing Price in Texarkana, TX-AR (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU45500            | Housing Inventory: New Listing Count in Texarkana, TX-AR (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM45500          | Housing Inventory: New Listing Count Month-Over-Month in Texarkana, TX-AR (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY45500          | Housing Inventory: New Listing Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP45500                 | Total Gross Domestic Product for Texarkana, TX-AR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA45500            | Market Hotness: Nielsen Household Rank in Texarkana, TX-AR (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA45500            | Market Hotness: Nielsen Household Rank in Texarkana, TX-AR (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA145500          | U.S. Granted Utility Patents Originating in Texarkana, TX-Texarkana, AR (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU45500            | Housing Inventory: Pending Listing Count in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM45500          | Housing Inventory: Pending Listing Count Month-Over-Month in Texarkana, TX-AR (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY45500          | Housing Inventory: Pending Listing Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU45500            | Housing Inventory: Price Increased Count in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOU45500            | Housing Inventory: Pending Listing Count in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM45500          | Housing Inventory: Pending Listing Count Month-Over-Month in Texarkana, TX-AR (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY45500          | Housing Inventory: Pending Listing Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU45500            | Housing Inventory: Price Increased Count in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM45500          | Housing Inventory: Price Increased Count Month-Over-Month in Texarkana, TX-AR (CBSA)                              | 2017-07-01          | 2022-06-01        |
 | PRIINCCOUYY45500          | Housing Inventory: Price Increased Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU45500            | Housing Inventory: Price Reduced Count in Texarkana, TX-AR (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM45500          | Housing Inventory: Price Reduced Count Month-Over-Month in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY45500          | Housing Inventory: Price Reduced Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU45500            | Housing Inventory: Price Reduced Count in Texarkana, TX-AR (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM45500          | Housing Inventory: Price Reduced Count Month-Over-Month in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY45500          | Housing Inventory: Price Reduced Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP45500                 | Total Quantity Indexes for Real GDP for Texarkana, TX-AR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP45500                 | Total Real Gross Domestic Product for Texarkana, TX-AR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI45500                  | Real Personal Income for Texarkana, TX-AR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -137,7 +137,7 @@
 | SMU48455009093000001      | All Employees: Government: Local Government in Texarkana, TX-AR (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU48455009093000001A     | All Employees: Local Government in Texarkana, TX-AR (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48455009093000001SA    | All Employees: Government: Local Government in Texarkana, TX-AR (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA45500              | Market Hotness: Supply Score in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA45500              | Market Hotness: Supply Score in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | TEXBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Texarkana, TX-AR (MSA)            | 1988-01-01          | 2022-06-01        |
 | TEXBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Texarkana, TX-AR (MSA)            | 1988-01-01          | 2022-06-01        |
 | TEXBPPRIV                 | New Private Housing Structures Authorized by Building Permits for Texarkana, TX-AR (MSA)                          | 1988-01-01          | 2022-06-01        |

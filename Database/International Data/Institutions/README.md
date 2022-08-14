@@ -15,7 +15,7 @@
 | OECD - Europe                                                      |                89 |
 | Major 5 Asia                                                       |                19 |
 | NICS                                                               |                 4 |
-| European Union                                                     |                 0 |
+| European Union                                                     |               848 |
 | United Nations                                                     |                 0 |
 | Bureau of Labor Statistics Pacific Rim                             |                42 |
 | Group of Seven (G7)                                                |               465 |

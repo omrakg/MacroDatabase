@@ -8,8 +8,8 @@
 | TRESEGBRM194N | Total Reserves excluding Gold for Brazil                   | 1950-12-01          | 2022-02-01        |
 | TRESEGCAM052N | Total Reserves excluding Gold for Canada                   | 1950-12-01          | 2022-06-01        |
 | TRESEGCAM194N | Total Reserves excluding Gold for Canada                   | 1950-12-01          | 2022-06-01        |
-| TRESEGCNM052N | Total Reserves excluding Gold for China                    | 1977-12-01          | 2022-05-01        |
-| TRESEGCNM194N | Total Reserves excluding Gold for China                    | 1977-12-01          | 2022-05-01        |
+| TRESEGCNM052N | Total Reserves excluding Gold for China                    | 1977-12-01          | 2022-06-01        |
+| TRESEGCNM194N | Total Reserves excluding Gold for China                    | 1977-12-01          | 2022-06-01        |
 | TRESEGDEM052N | Total Reserves excluding Gold for Germany                  | 1950-12-01          | 2022-06-01        |
 | TRESEGDEM194N | Total Reserves excluding Gold for Germany                  | 1950-12-01          | 2022-06-01        |
 | TRESEGESM052N | Total Reserves excluding Gold for Spain                    | 1950-12-01          | 2022-06-01        |
@@ -26,8 +26,8 @@
 | TRESEGGBM194N | Total Reserves excluding Gold for United Kingdom           | 1950-12-01          | 2022-06-01        |
 | TRESEGIDM052N | Total Reserves excluding Gold for Indonesia                | 1950-12-01          | 2022-05-01        |
 | TRESEGIDM194N | Total Reserves excluding Gold for Indonesia                | 1950-12-01          | 2022-05-01        |
-| TRESEGINM052N | Total Reserves excluding Gold for India                    | 1950-12-01          | 2022-05-01        |
-| TRESEGINM194N | Total Reserves excluding Gold for India                    | 1950-12-01          | 2022-05-01        |
+| TRESEGINM052N | Total Reserves excluding Gold for India                    | 1950-12-01          | 2022-06-01        |
+| TRESEGINM194N | Total Reserves excluding Gold for India                    | 1950-12-01          | 2022-06-01        |
 | TRESEGIRM052N | Total Reserves excluding Gold for Islamic Republic of Iran | 1950-12-01          | 1983-03-01        |
 | TRESEGIRM194N | Total Reserves excluding Gold for Islamic Republic of Iran | 1950-12-01          | 1983-03-01        |
 | TRESEGITM052N | Total Reserves excluding Gold for Italy                    | 1950-12-01          | 2022-06-01        |

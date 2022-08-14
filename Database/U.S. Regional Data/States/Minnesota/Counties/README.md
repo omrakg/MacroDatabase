@@ -9,7 +9,7 @@
 | Freeborn County, MN          |                90 |
 | Stearns County, MN           |               147 |
 | Norman County, MN            |                88 |
-| Pine County, MN              |                 0 |
+| Pine County, MN              |                90 |
 | Douglas County, MN           |                90 |
 | Kittson County, MN           |                88 |
 | Anoka County, MN             |               147 |
@@ -60,7 +60,7 @@
 | Blue Earth County, MN        |               146 |
 | Big Stone County, MN         |                88 |
 | Waseca County, MN            |                90 |
-| Cook County, MN              |                90 |
+| Cook County, MN              |                 0 |
 | Pipestone County, MN         |                90 |
 | Le Sueur County, MN          |                89 |
 | Fillmore County, MN          |                90 |
@@ -69,7 +69,7 @@
 | Wadena County, MN            |                89 |
 | Chippewa County, MN          |                90 |
 | Olmsted County, MN           |               147 |
-| Aitkin County, MN            |                 0 |
+| Aitkin County, MN            |                90 |
 | Otter Tail County, MN        |               146 |
 | Kandiyohi County, MN         |                90 |
 | McLeod County, MN            |                90 |

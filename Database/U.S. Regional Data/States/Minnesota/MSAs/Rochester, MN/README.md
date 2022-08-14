@@ -1,13 +1,13 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU40340            | Housing Inventory: Active Listing Count in Rochester, MN (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM40340          | Housing Inventory: Active Listing Count Month-Over-Month in Rochester, MN (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY40340          | Housing Inventory: Active Listing Count Year-Over-Year in Rochester, MN (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU40340            | Housing Inventory: Active Listing Count in Rochester, MN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM40340          | Housing Inventory: Active Listing Count Month-Over-Month in Rochester, MN (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY40340          | Housing Inventory: Active Listing Count Year-Over-Year in Rochester, MN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS40340Q            | All-Transactions House Price Index for Rochester, MN (MSA)                                                     | 1983-04-01          | 2022-01-01        |
-| AVELISPRI40340            | Housing Inventory: Average Listing Price in Rochester, MN (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM40340          | Housing Inventory: Average Listing Price Month-Over-Month in Rochester, MN (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY40340          | Housing Inventory: Average Listing Price Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA40340              | Market Hotness: Demand Score in Rochester, MN (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI40340            | Housing Inventory: Average Listing Price in Rochester, MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM40340          | Housing Inventory: Average Listing Price Month-Over-Month in Rochester, MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY40340          | Housing Inventory: Average Listing Price Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA40340              | Market Hotness: Demand Score in Rochester, MN (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC403430010             | Total Quarterly Wages in Rochester, MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC403430010SA           | Total Quarterly Wages in Rochester, MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC403440010             | Average Weekly Wages for Employees in Total Covered Establishments in Rochester, MN (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC403440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC403440510             | Average Weekly Wages for Employees in Private Establishments in Rochester, MN (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC403440510SA           | Average Weekly Wages for Employees in Private Establishments in Rochester, MN (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA40340            | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA40340              | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA40340            | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA40340              | Market Hotness: Hotness Score in Rochester, MN (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA40340            | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA40340              | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA40340            | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA40340              | Market Hotness: Hotness Score in Rochester, MN (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD40340                 | Implicit Regional Price Deflator for Rochester, MN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD40380                 | Implicit Regional Price Deflator for Rochester, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT274034000000003A     | Unemployment Rate in Rochester, MN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
@@ -32,46 +32,46 @@
 | LAUMT274034000000005      | Employed Persons in Rochester, MN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT274034000000005A     | Employed Persons in Rochester, MN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT274034000000006A     | Civilian Labor Force in Rochester, MN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA40340          | Market Hotness: Listing Views per Property in Rochester, MN (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA40340        | Market Hotness: Listing Views per Property Versus the United States in Rochester, MN (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA40340          | Market Hotness: Listing Views per Property in Rochester, MN (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA40340        | Market Hotness: Median Days on Market in Rochester, MN (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA40340          | Market Hotness: Median Days on Market in Rochester, MN (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA40340        | Market Hotness: Median Days on Market in Rochester, MN (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR40340          | Housing Inventory: Median Days on Market in Rochester, MN (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM40340        | Housing Inventory: Median Days on Market Month-Over-Month in Rochester, MN (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY40340        | Housing Inventory: Median Days on Market Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI40340            | Housing Inventory: Median Listing Price in Rochester, MN (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM40340          | Housing Inventory: Median Listing Price Month-Over-Month in Rochester, MN (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE40340   | Housing Inventory: Median Listing Price per Square Feet in Rochester, MN (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM40340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Rochester, MN (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY40340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Rochester, MN (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY40340          | Housing Inventory: Median Listing Price Year-Over-Year in Rochester, MN (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA40340          | Market Hotness: Median Days on Market in Rochester, MN (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA40340          | Market Hotness: Median Days on Market Versus the United States in Rochester, MN (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA40340          | Market Hotness: Median Days on Market Day in Rochester, MN (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE40340            | Housing Inventory: Median Home Size in Square Feet in Rochester, MN (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM40340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Rochester, MN (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY40340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Rochester, MN (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA40340          | Market Hotness: Median Listing Price in Rochester, MN (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA40340            | Market Hotness: Median Listing Price in Rochester, MN (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA40340        | Market Hotness: Median Listing Price Versus the United States in Rochester, MN (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA40340          | Market Hotness: Median Listing Price in Rochester, MN (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU40340            | Housing Inventory: New Listing Count in Rochester, MN (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM40340          | Housing Inventory: New Listing Count Month-Over-Month in Rochester, MN (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY40340          | Housing Inventory: New Listing Count Year-Over-Year in Rochester, MN (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA40340          | Market Hotness: Listing Views per Property in Rochester, MN (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA40340        | Market Hotness: Listing Views per Property Versus the United States in Rochester, MN (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA40340          | Market Hotness: Listing Views per Property in Rochester, MN (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA40340        | Market Hotness: Median Days on Market in Rochester, MN (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA40340          | Market Hotness: Median Days on Market in Rochester, MN (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA40340        | Market Hotness: Median Days on Market in Rochester, MN (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR40340          | Housing Inventory: Median Days on Market in Rochester, MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM40340        | Housing Inventory: Median Days on Market Month-Over-Month in Rochester, MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY40340        | Housing Inventory: Median Days on Market Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI40340            | Housing Inventory: Median Listing Price in Rochester, MN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM40340          | Housing Inventory: Median Listing Price Month-Over-Month in Rochester, MN (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE40340   | Housing Inventory: Median Listing Price per Square Feet in Rochester, MN (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM40340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Rochester, MN (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY40340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Rochester, MN (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY40340          | Housing Inventory: Median Listing Price Year-Over-Year in Rochester, MN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA40340          | Market Hotness: Median Days on Market in Rochester, MN (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA40340          | Market Hotness: Median Days on Market Versus the United States in Rochester, MN (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA40340          | Market Hotness: Median Days on Market Day in Rochester, MN (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE40340            | Housing Inventory: Median Home Size in Square Feet in Rochester, MN (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM40340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Rochester, MN (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY40340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Rochester, MN (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA40340          | Market Hotness: Median Listing Price in Rochester, MN (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA40340            | Market Hotness: Median Listing Price in Rochester, MN (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA40340        | Market Hotness: Median Listing Price Versus the United States in Rochester, MN (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA40340          | Market Hotness: Median Listing Price in Rochester, MN (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU40340            | Housing Inventory: New Listing Count in Rochester, MN (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM40340          | Housing Inventory: New Listing Count Month-Over-Month in Rochester, MN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY40340          | Housing Inventory: New Listing Count Year-Over-Year in Rochester, MN (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP40340                 | Total Gross Domestic Product for Rochester, MN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA40340            | Market Hotness: Nielsen Household Rank in Rochester, MN (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA40340            | Market Hotness: Nielsen Household Rank in Rochester, MN (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA140340          | U.S. Granted Utility Patents Originating in Rochester, MN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU40340            | Housing Inventory: Pending Listing Count in Rochester, MN (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM40340          | Housing Inventory: Pending Listing Count Month-Over-Month in Rochester, MN (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY40340          | Housing Inventory: Pending Listing Count Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU40340            | Housing Inventory: Price Increased Count in Rochester, MN (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOU40340            | Housing Inventory: Pending Listing Count in Rochester, MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM40340          | Housing Inventory: Pending Listing Count Month-Over-Month in Rochester, MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY40340          | Housing Inventory: Pending Listing Count Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU40340            | Housing Inventory: Price Increased Count in Rochester, MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM40340          | Housing Inventory: Price Increased Count Month-Over-Month in Rochester, MN (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY40340          | Housing Inventory: Price Increased Count Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU40340            | Housing Inventory: Price Reduced Count in Rochester, MN (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM40340          | Housing Inventory: Price Reduced Count Month-Over-Month in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY40340          | Housing Inventory: Price Reduced Count Year-Over-Year in Rochester, MN (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY40340          | Housing Inventory: Price Increased Count Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU40340            | Housing Inventory: Price Reduced Count in Rochester, MN (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM40340          | Housing Inventory: Price Reduced Count Month-Over-Month in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY40340          | Housing Inventory: Price Reduced Count Year-Over-Year in Rochester, MN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP40340                 | Total Quantity Indexes for Real GDP for Rochester, MN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP40340                 | Total Real Gross Domestic Product for Rochester, MN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | ROCH327EDUH               | All Employees: Education and Health Services in Rochester, MN (MSA)                                            | 1990-01-01          | 2022-06-01        |
@@ -163,4 +163,4 @@
 | SMU27403409093000001      | All Employees: Government: Local Government in Rochester, MN (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU27403409093000001A     | All Employees: Local Government in Rochester, MN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU27403409093000001SA    | All Employees: Government: Local Government in Rochester, MN (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA40340              | Market Hotness: Supply Score in Rochester, MN (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA40340              | Market Hotness: Supply Score in Rochester, MN (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

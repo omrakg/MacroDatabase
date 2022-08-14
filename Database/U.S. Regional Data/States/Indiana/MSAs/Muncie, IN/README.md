@@ -1,12 +1,12 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU34620            | Housing Inventory: Active Listing Count in Muncie, IN (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM34620          | Housing Inventory: Active Listing Count Month-Over-Month in Muncie, IN (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY34620          | Housing Inventory: Active Listing Count Year-Over-Year in Muncie, IN (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU34620            | Housing Inventory: Active Listing Count in Muncie, IN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM34620          | Housing Inventory: Active Listing Count Month-Over-Month in Muncie, IN (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY34620          | Housing Inventory: Active Listing Count Year-Over-Year in Muncie, IN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS34620Q            | All-Transactions House Price Index for Muncie, IN (MSA)                                                     | 1990-10-01          | 2022-01-01        |
-| AVELISPRI34620            | Housing Inventory: Average Listing Price in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM34620          | Housing Inventory: Average Listing Price Month-Over-Month in Muncie, IN (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY34620          | Housing Inventory: Average Listing Price Year-Over-Year in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| AVELISPRI34620            | Housing Inventory: Average Listing Price in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM34620          | Housing Inventory: Average Listing Price Month-Over-Month in Muncie, IN (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY34620          | Housing Inventory: Average Listing Price Year-Over-Year in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-07-01        |
 | ENUC346230010             | Total Quarterly Wages in Muncie, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC346230010SA           | Total Quarterly Wages in Muncie, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC346240010             | Average Weekly Wages for Employees in Total Covered Establishments in Muncie, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -26,18 +26,18 @@
 | LAUMT183462000000005      | Employed Persons in Muncie, IN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT183462000000005A     | Employed Persons in Muncie, IN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT183462000000006A     | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR34620          | Housing Inventory: Median Days on Market in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM34620        | Housing Inventory: Median Days on Market Month-Over-Month in Muncie, IN (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY34620        | Housing Inventory: Median Days on Market Year-Over-Year in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI34620            | Housing Inventory: Median Listing Price in Muncie, IN (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM34620          | Housing Inventory: Median Listing Price Month-Over-Month in Muncie, IN (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE34620   | Housing Inventory: Median Listing Price per Square Feet in Muncie, IN (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM34620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Muncie, IN (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY34620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Muncie, IN (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY34620          | Housing Inventory: Median Listing Price Year-Over-Year in Muncie, IN (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE34620            | Housing Inventory: Median Home Size in Square Feet in Muncie, IN (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM34620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Muncie, IN (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY34620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Muncie, IN (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR34620          | Housing Inventory: Median Days on Market in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM34620        | Housing Inventory: Median Days on Market Month-Over-Month in Muncie, IN (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY34620        | Housing Inventory: Median Days on Market Year-Over-Year in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI34620            | Housing Inventory: Median Listing Price in Muncie, IN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM34620          | Housing Inventory: Median Listing Price Month-Over-Month in Muncie, IN (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE34620   | Housing Inventory: Median Listing Price per Square Feet in Muncie, IN (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM34620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Muncie, IN (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY34620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Muncie, IN (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY34620          | Housing Inventory: Median Listing Price Year-Over-Year in Muncie, IN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE34620            | Housing Inventory: Median Home Size in Square Feet in Muncie, IN (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM34620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Muncie, IN (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY34620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Muncie, IN (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | MUNC618EDUH               | All Employees: Education and Health Services in Muncie, IN (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | MUNC618EDUHN              | All Employees: Education and Health Services in Muncie, IN (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | MUNC618FIRE               | All Employees: Financial Activities in Muncie, IN (MSA)                                                     | 1990-01-01          | 2022-06-01        |
@@ -64,20 +64,20 @@
 | MUNC618UR                 | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | MUNC618URN                | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | MUNPOP                    | Resident Population in Muncie, IN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| NEWLISCOU34620            | Housing Inventory: New Listing Count in Muncie, IN (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM34620          | Housing Inventory: New Listing Count Month-Over-Month in Muncie, IN (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY34620          | Housing Inventory: New Listing Count Year-Over-Year in Muncie, IN (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| NEWLISCOU34620            | Housing Inventory: New Listing Count in Muncie, IN (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM34620          | Housing Inventory: New Listing Count Month-Over-Month in Muncie, IN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY34620          | Housing Inventory: New Listing Count Year-Over-Year in Muncie, IN (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP34620                 | Total Gross Domestic Product for Muncie, IN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA134620          | U.S. Granted Utility Patents Originating in Muncie, IN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU34620            | Housing Inventory: Pending Listing Count in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM34620          | Housing Inventory: Pending Listing Count Month-Over-Month in Muncie, IN (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY34620          | Housing Inventory: Pending Listing Count Year-Over-Year in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU34620            | Housing Inventory: Price Increased Count in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOU34620            | Housing Inventory: Pending Listing Count in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM34620          | Housing Inventory: Pending Listing Count Month-Over-Month in Muncie, IN (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY34620          | Housing Inventory: Pending Listing Count Year-Over-Year in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU34620            | Housing Inventory: Price Increased Count in Muncie, IN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM34620          | Housing Inventory: Price Increased Count Month-Over-Month in Muncie, IN (CBSA)                              | 2018-02-01          | 2022-06-01        |
-| PRIINCCOUYY34620          | Housing Inventory: Price Increased Count Year-Over-Year in Muncie, IN (CBSA)                                | 2018-04-01          | 2022-06-01        |
-| PRIREDCOU34620            | Housing Inventory: Price Reduced Count in Muncie, IN (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM34620          | Housing Inventory: Price Reduced Count Month-Over-Month in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY34620          | Housing Inventory: Price Reduced Count Year-Over-Year in Muncie, IN (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY34620          | Housing Inventory: Price Increased Count Year-Over-Year in Muncie, IN (CBSA)                                | 2018-04-01          | 2022-07-01        |
+| PRIREDCOU34620            | Housing Inventory: Price Reduced Count in Muncie, IN (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM34620          | Housing Inventory: Price Reduced Count Month-Over-Month in Muncie, IN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY34620          | Housing Inventory: Price Reduced Count Year-Over-Year in Muncie, IN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP34620                 | Total Quantity Indexes for Real GDP for Muncie, IN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP34620                 | Total Real Gross Domestic Product for Muncie, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI34620                  | Real Personal Income for Muncie, IN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

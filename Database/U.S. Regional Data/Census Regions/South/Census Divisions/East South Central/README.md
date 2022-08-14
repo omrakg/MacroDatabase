@@ -20,9 +20,9 @@
 | LAURD860000000000005  | Employed Persons in East South Central Census Division                                                                           | 1976-01-01          | 2022-06-01        |
 | LAURD860000000000005A | Employed Persons in East South Central Census Division                                                                           | 1976-01-01          | 2021-01-01        |
 | LAURD860000000000006A | Civilian Labor Force in East South Central Census Division                                                                       | 1976-01-01          | 2021-01-01        |
-| PCU221122221122416    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for East South Central Census Division | 1990-12-01          | 2022-06-01        |
-| PCU221122221122426    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for East South Central Census Division  | 1971-01-01          | 2022-06-01        |
-| PCU221122221122436    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for East South Central Census Division  | 1971-01-01          | 2022-06-01        |
+| PCU221122221122416    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for East South Central Census Division | 1990-12-01          | 2022-07-01        |
+| PCU221122221122426    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for East South Central Census Division  | 1971-01-01          | 2022-07-01        |
+| PCU221122221122436    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for East South Central Census Division  | 1971-01-01          | 2022-07-01        |
 | PONHPI00104M226N      | Purchase Only House Price Index for the East South Central Census Division                                                       | 1991-01-01          | 2022-05-01        |
 | PONHPI00104M226S      | Purchase Only House Price Index for the East South Central Census Division                                                       | 1991-01-01          | 2022-05-01        |
 | PONHPI10400Q226N      | Purchase Only House Price Index for the East South Central Census Division                                                       | 1991-01-01          | 2022-01-01        |

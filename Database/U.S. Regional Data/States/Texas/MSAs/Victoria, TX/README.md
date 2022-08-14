@@ -1,12 +1,12 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU47020            | Housing Inventory: Active Listing Count in Victoria, TX (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM47020          | Housing Inventory: Active Listing Count Month-Over-Month in Victoria, TX (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY47020          | Housing Inventory: Active Listing Count Year-Over-Year in Victoria, TX (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU47020            | Housing Inventory: Active Listing Count in Victoria, TX (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM47020          | Housing Inventory: Active Listing Count Month-Over-Month in Victoria, TX (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY47020          | Housing Inventory: Active Listing Count Year-Over-Year in Victoria, TX (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS47020Q            | All-Transactions House Price Index for Victoria, TX (MSA)                                                     | 1991-04-01          | 2022-01-01        |
-| AVELISPRI47020            | Housing Inventory: Average Listing Price in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM47020          | Housing Inventory: Average Listing Price Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY47020          | Housing Inventory: Average Listing Price Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| AVELISPRI47020            | Housing Inventory: Average Listing Price in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM47020          | Housing Inventory: Average Listing Price Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY47020          | Housing Inventory: Average Listing Price Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
 | ENUC470230010             | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC470230010SA           | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC470240010             | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -26,32 +26,32 @@
 | LAUMT484702000000005      | Employed Persons in Victoria, TX (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT484702000000005A     | Employed Persons in Victoria, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484702000000006A     | Civilian Labor Force in Victoria, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR47020          | Housing Inventory: Median Days on Market in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM47020        | Housing Inventory: Median Days on Market Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY47020        | Housing Inventory: Median Days on Market Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI47020            | Housing Inventory: Median Listing Price in Victoria, TX (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM47020          | Housing Inventory: Median Listing Price Month-Over-Month in Victoria, TX (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE47020   | Housing Inventory: Median Listing Price per Square Feet in Victoria, TX (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM47020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Victoria, TX (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY47020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Victoria, TX (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY47020          | Housing Inventory: Median Listing Price Year-Over-Year in Victoria, TX (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE47020            | Housing Inventory: Median Home Size in Square Feet in Victoria, TX (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM47020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Victoria, TX (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY47020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Victoria, TX (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| NEWLISCOU47020            | Housing Inventory: New Listing Count in Victoria, TX (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM47020          | Housing Inventory: New Listing Count Month-Over-Month in Victoria, TX (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY47020          | Housing Inventory: New Listing Count Year-Over-Year in Victoria, TX (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR47020          | Housing Inventory: Median Days on Market in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM47020        | Housing Inventory: Median Days on Market Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY47020        | Housing Inventory: Median Days on Market Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI47020            | Housing Inventory: Median Listing Price in Victoria, TX (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM47020          | Housing Inventory: Median Listing Price Month-Over-Month in Victoria, TX (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE47020   | Housing Inventory: Median Listing Price per Square Feet in Victoria, TX (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM47020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Victoria, TX (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY47020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Victoria, TX (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY47020          | Housing Inventory: Median Listing Price Year-Over-Year in Victoria, TX (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE47020            | Housing Inventory: Median Home Size in Square Feet in Victoria, TX (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM47020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Victoria, TX (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY47020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Victoria, TX (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU47020            | Housing Inventory: New Listing Count in Victoria, TX (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM47020          | Housing Inventory: New Listing Count Month-Over-Month in Victoria, TX (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY47020          | Housing Inventory: New Listing Count Year-Over-Year in Victoria, TX (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP47020                 | Total Gross Domestic Product for Victoria, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA147020          | U.S. Granted Utility Patents Originating in Victoria, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU47020            | Housing Inventory: Pending Listing Count in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM47020          | Housing Inventory: Pending Listing Count Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY47020          | Housing Inventory: Pending Listing Count Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU47020            | Housing Inventory: Price Increased Count in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOU47020            | Housing Inventory: Pending Listing Count in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM47020          | Housing Inventory: Pending Listing Count Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY47020          | Housing Inventory: Pending Listing Count Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU47020            | Housing Inventory: Price Increased Count in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM47020          | Housing Inventory: Price Increased Count Month-Over-Month in Victoria, TX (CBSA)                              | 2017-08-01          | 2022-02-01        |
 | PRIINCCOUYY47020          | Housing Inventory: Price Increased Count Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU47020            | Housing Inventory: Price Reduced Count in Victoria, TX (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM47020          | Housing Inventory: Price Reduced Count Month-Over-Month in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY47020          | Housing Inventory: Price Reduced Count Year-Over-Year in Victoria, TX (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU47020            | Housing Inventory: Price Reduced Count in Victoria, TX (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM47020          | Housing Inventory: Price Reduced Count Month-Over-Month in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY47020          | Housing Inventory: Price Reduced Count Year-Over-Year in Victoria, TX (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP47020                 | Total Quantity Indexes for Real GDP for Victoria, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP47020                 | Total Real Gross Domestic Product for Victoria, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI47020                  | Real Personal Income for Victoria, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

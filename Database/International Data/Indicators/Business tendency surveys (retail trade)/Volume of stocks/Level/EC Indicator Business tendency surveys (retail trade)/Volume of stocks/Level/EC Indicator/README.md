@@ -1,27 +1,27 @@
 | id              | title                                                                                                                                 | observation_start   | observation_end   |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BCSPFT02ATM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Austria                | 1985-01-01          | 2022-06-01        |
-| BCSPFT02BEM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Belgium                | 1985-01-01          | 2022-06-01        |
+| BCSPFT02ATM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Austria                | 1985-01-01          | 2022-07-01        |
+| BCSPFT02BEM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Belgium                | 1985-01-01          | 2022-07-01        |
 | BCSPFT02CHM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Switzerland            | 1994-10-01          | 2022-06-01        |
-| BCSPFT02CLM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Chile                  | 2003-11-01          | 2022-06-01        |
-| BCSPFT02CZM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Czech Republic     | 1993-02-01          | 2022-06-01        |
-| BCSPFT02DEM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Germany                | 1985-01-01          | 2022-06-01        |
-| BCSPFT02DKM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Denmark                | 1998-01-01          | 2022-06-01        |
-| BCSPFT02EEM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Estonia                | 1994-04-01          | 2022-06-01        |
-| BCSPFT02ESM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Spain                  | 1989-01-01          | 2022-06-01        |
-| BCSPFT02EZM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Euro Area          | 1985-01-01          | 2022-06-01        |
-| BCSPFT02FIM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Finland                | 1985-01-01          | 2022-06-01        |
-| BCSPFT02FRM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for France                 | 1985-01-01          | 2022-06-01        |
+| BCSPFT02CLM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Chile                  | 2003-11-01          | 2022-07-01        |
+| BCSPFT02CZM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Czech Republic     | 1993-02-01          | 2022-07-01        |
+| BCSPFT02DEM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Germany                | 1985-01-01          | 2022-07-01        |
+| BCSPFT02DKM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Denmark                | 1998-01-01          | 2022-07-01        |
+| BCSPFT02EEM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Estonia                | 1994-04-01          | 2022-07-01        |
+| BCSPFT02ESM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Spain                  | 1989-01-01          | 2022-07-01        |
+| BCSPFT02EZM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Euro Area          | 1985-01-01          | 2022-07-01        |
+| BCSPFT02FIM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Finland                | 1985-01-01          | 2022-07-01        |
+| BCSPFT02FRM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for France                 | 1985-01-01          | 2022-07-01        |
 | BCSPFT02GBM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the United Kingdom     | 1985-01-01          | 2019-10-01        |
-| BCSPFT02GRM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Greece                 | 1985-01-01          | 2022-06-01        |
-| BCSPFT02HUM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Hungary                | 2001-01-01          | 2022-06-01        |
-| BCSPFT02ITM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Italy                  | 1985-01-01          | 2022-06-01        |
+| BCSPFT02GRM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Greece                 | 1985-01-01          | 2022-07-01        |
+| BCSPFT02HUM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Hungary                | 2001-01-01          | 2022-07-01        |
+| BCSPFT02ITM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Italy                  | 1985-01-01          | 2022-07-01        |
 | BCSPFT02JPQ460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Japan                  | 1991-01-01          | 2022-04-01        |
-| BCSPFT02LUM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Luxembourg             | 1985-01-01          | 2022-06-01        |
-| BCSPFT02NLM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Netherlands        | 1985-09-01          | 2022-06-01        |
-| BCSPFT02PLM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Poland                 | 1993-07-01          | 2022-06-01        |
+| BCSPFT02LUM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Luxembourg             | 1985-01-01          | 2022-07-01        |
+| BCSPFT02NLM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Netherlands        | 1985-09-01          | 2022-07-01        |
+| BCSPFT02PLM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Poland                 | 1993-07-01          | 2022-07-01        |
 | BCSPFT02PTM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Portugal               | 1989-01-01          | 2022-05-01        |
 | BCSPFT02RUQ460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Russian Federation | 1998-01-01          | 2021-10-01        |
-| BCSPFT02SEM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Sweden                 | 1990-01-01          | 2022-06-01        |
-| BCSPFT02SIM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Slovenia               | 2002-03-01          | 2022-06-01        |
-| BCSPFT02SKM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Slovak Republic    | 1993-08-01          | 2022-06-01        |
+| BCSPFT02SEM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Sweden                 | 1990-01-01          | 2022-07-01        |
+| BCSPFT02SIM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Slovenia               | 2002-03-01          | 2022-07-01        |
+| BCSPFT02SKM460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for the Slovak Republic    | 1993-08-01          | 2022-07-01        |

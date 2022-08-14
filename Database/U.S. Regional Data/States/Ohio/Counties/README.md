@@ -16,11 +16,11 @@
 | Mahoning County, OH   |               147 |
 | Stark County, OH      |               147 |
 | Jackson County, OH    |                89 |
-| Portage County, OH    |               147 |
+| Portage County, OH    |                 0 |
 | Hocking County, OH    |                89 |
 | Van Wert County, OH   |                89 |
 | Montgomery County, OH |               147 |
-| Warren County, OH     |                 0 |
+| Warren County, OH     |               147 |
 | Ashland County, OH    |               144 |
 | Cuyahoga County, OH   |               146 |
 | Hancock County, OH    |               147 |

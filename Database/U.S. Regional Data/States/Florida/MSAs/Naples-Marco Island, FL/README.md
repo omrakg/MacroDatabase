@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                              | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU34940            | Housing Inventory: Active Listing Count in Naples-Immokalee-Marco Island, FL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM34940          | Housing Inventory: Active Listing Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY34940          | Housing Inventory: Active Listing Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU34940            | Housing Inventory: Active Listing Count in Naples-Immokalee-Marco Island, FL (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM34940          | Housing Inventory: Active Listing Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY34940          | Housing Inventory: Active Listing Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS34940Q            | All-Transactions House Price Index for Naples-Marco Island, FL (MSA)                                                               | 1984-04-01          | 2022-01-01        |
-| AVELISPRI34940            | Housing Inventory: Average Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM34940          | Housing Inventory: Average Listing Price Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY34940          | Housing Inventory: Average Listing Price Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA34940              | Market Hotness: Demand Score in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI34940            | Housing Inventory: Average Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM34940          | Housing Inventory: Average Listing Price Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY34940          | Housing Inventory: Average Listing Price Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA34940              | Market Hotness: Demand Score in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC349430010             | Total Quarterly Wages in Naples-Immokalee-Marco Island, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC349430010SA           | Total Quarterly Wages in Naples-Immokalee-Marco Island, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC349440010             | Average Weekly Wages for Employees in Total Covered Establishments in Naples-Marco Island, FL (MSA)                                | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC349440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2021-10-01        |
 | ENUC349440510             | Average Weekly Wages for Employees in Private Establishments in Naples-Marco Island, FL (MSA)                                      | 1990-01-01          | 2021-10-01        |
 | ENUC349440510SA           | Average Weekly Wages for Employees in Private Establishments in Naples-Marco Island, FL (MSA)                                      | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA34940            | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA34940              | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA34940            | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA34940              | Market Hotness: Hotness Score in Naples-Immokalee-Marco Island, FL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA34940            | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA34940              | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA34940            | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA34940              | Market Hotness: Hotness Score in Naples-Immokalee-Marco Island, FL (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD34940                 | Implicit Regional Price Deflator for Naples-Immokalee-Marco Island, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT123494000000003A     | Unemployment Rate in Naples-Immokalee-Marco Island, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT123494000000004      | Unemployed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -31,31 +31,31 @@
 | LAUMT123494000000005      | Employed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT123494000000005A     | Employed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT123494000000006A     | Civilian Labor Force in Naples-Immokalee-Marco Island, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA34940          | Market Hotness: Listing Views per Property in Naples-Immokalee-Marco Island, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA34940        | Market Hotness: Listing Views per Property Versus the United States in Naples-Immokalee-Marco Island, FL (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA34940          | Market Hotness: Listing Views per Property in Naples-Immokalee-Marco Island, FL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA34940        | Market Hotness: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA34940          | Market Hotness: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA34940        | Market Hotness: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR34940          | Housing Inventory: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM34940        | Housing Inventory: Median Days on Market Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY34940        | Housing Inventory: Median Days on Market Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI34940            | Housing Inventory: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM34940          | Housing Inventory: Median Listing Price Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE34940   | Housing Inventory: Median Listing Price per Square Feet in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM34940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY34940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY34940          | Housing Inventory: Median Listing Price Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA34940          | Market Hotness: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA34940          | Market Hotness: Median Days on Market Versus the United States in Naples-Immokalee-Marco Island, FL (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA34940          | Market Hotness: Median Days on Market Day in Naples-Immokalee-Marco Island, FL (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE34940            | Housing Inventory: Median Home Size in Square Feet in Naples-Immokalee-Marco Island, FL (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM34940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY34940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA34940          | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA34940            | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA34940        | Market Hotness: Median Listing Price Versus the United States in Naples-Immokalee-Marco Island, FL (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA34940          | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
+| LDPEPRMMMSA34940          | Market Hotness: Listing Views per Property in Naples-Immokalee-Marco Island, FL (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA34940        | Market Hotness: Listing Views per Property Versus the United States in Naples-Immokalee-Marco Island, FL (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA34940          | Market Hotness: Listing Views per Property in Naples-Immokalee-Marco Island, FL (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA34940        | Market Hotness: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA34940          | Market Hotness: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA34940        | Market Hotness: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR34940          | Housing Inventory: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM34940        | Housing Inventory: Median Days on Market Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY34940        | Housing Inventory: Median Days on Market Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI34940            | Housing Inventory: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM34940          | Housing Inventory: Median Listing Price Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE34940   | Housing Inventory: Median Listing Price per Square Feet in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM34940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY34940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY34940          | Housing Inventory: Median Listing Price Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA34940          | Market Hotness: Median Days on Market in Naples-Immokalee-Marco Island, FL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA34940          | Market Hotness: Median Days on Market Versus the United States in Naples-Immokalee-Marco Island, FL (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA34940          | Market Hotness: Median Days on Market Day in Naples-Immokalee-Marco Island, FL (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE34940            | Housing Inventory: Median Home Size in Square Feet in Naples-Immokalee-Marco Island, FL (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM34940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY34940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA34940          | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA34940            | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA34940        | Market Hotness: Median Listing Price Versus the United States in Naples-Immokalee-Marco Island, FL (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA34940          | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
 | NAPL912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-06-01        |
 | NAPL912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-06-01        |
 | NAPL912BPPRIV             | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-06-01        |
@@ -87,22 +87,22 @@
 | NAPL912TRADN              | All Employees: Trade, Transportation, and Utilities in Naples-Immokalee-Marco Island, FL (MSA)                                     | 1990-01-01          | 2022-06-01        |
 | NAPL912UR                 | Unemployment Rate in Naples-Immokalee-Marco Island, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | NAPL912URN                | Unemployment Rate in Naples-Immokalee-Marco Island, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| NEWLISCOU34940            | Housing Inventory: New Listing Count in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM34940          | Housing Inventory: New Listing Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY34940          | Housing Inventory: New Listing Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| NEWLISCOU34940            | Housing Inventory: New Listing Count in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM34940          | Housing Inventory: New Listing Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY34940          | Housing Inventory: New Listing Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP34940                 | Total Gross Domestic Product for Naples-Immokalee-Marco Island, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA34940            | Market Hotness: Nielsen Household Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA34940            | Market Hotness: Nielsen Household Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | NPLPOP                    | Resident Population in Naples-Immokalee-Marco Island, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA134940          | U.S. Granted Utility Patents Originating in Naples-Marco Island, FL (MSA)                                                          | 2000-01-01          | 2015-01-01        |
-| PENLISCOU34940            | Housing Inventory: Pending Listing Count in Naples-Immokalee-Marco Island, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM34940          | Housing Inventory: Pending Listing Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY34940          | Housing Inventory: Pending Listing Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU34940            | Housing Inventory: Price Increased Count in Naples-Immokalee-Marco Island, FL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM34940          | Housing Inventory: Price Increased Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY34940          | Housing Inventory: Price Increased Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU34940            | Housing Inventory: Price Reduced Count in Naples-Immokalee-Marco Island, FL (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM34940          | Housing Inventory: Price Reduced Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY34940          | Housing Inventory: Price Reduced Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU34940            | Housing Inventory: Pending Listing Count in Naples-Immokalee-Marco Island, FL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM34940          | Housing Inventory: Pending Listing Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY34940          | Housing Inventory: Pending Listing Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU34940            | Housing Inventory: Price Increased Count in Naples-Immokalee-Marco Island, FL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM34940          | Housing Inventory: Price Increased Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY34940          | Housing Inventory: Price Increased Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU34940            | Housing Inventory: Price Reduced Count in Naples-Immokalee-Marco Island, FL (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM34940          | Housing Inventory: Price Reduced Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY34940          | Housing Inventory: Price Reduced Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP34940                 | Total Quantity Indexes for Real GDP for Naples-Immokalee-Marco Island, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP34940                 | Total Real Gross Domestic Product for Naples-Immokalee-Marco Island, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI34940                  | Real Personal Income for Naples-Immokalee-Marco Island, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -159,4 +159,4 @@
 | SMU12349409093000001      | All Employees: Government: Local Government in Naples-Immokalee-Marco Island, FL (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU12349409093000001A     | All Employees: Local Government in Naples-Immokalee-Marco Island, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU12349409093000001SA    | All Employees: Government: Local Government in Naples-Immokalee-Marco Island, FL (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA34940              | Market Hotness: Supply Score in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA34940              | Market Hotness: Supply Score in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

@@ -39,14 +39,14 @@
 | Randolph County, MO       |                90 |
 | Carter County, MO         |                88 |
 | Ray County, MO            |                90 |
-| Ozark County, MO          |                89 |
+| Ozark County, MO          |                 0 |
 | Washington County, MO     |                89 |
 | Shelby County, MO         |                89 |
 | Christian County, MO      |               147 |
 | Clay County, MO           |               147 |
 | Douglas County, MO        |                89 |
 | Platte County, MO         |               147 |
-| Hickory County, MO        |                 0 |
+| Hickory County, MO        |                88 |
 | Grundy County, MO         |                89 |
 | Pettis County, MO         |                90 |
 | Pike County, MO           |                90 |
@@ -99,7 +99,7 @@
 | Holt County, MO           |                88 |
 | Barton County, MO         |                90 |
 | Taney County, MO          |               146 |
-| Reynolds County, MO       |                88 |
+| Reynolds County, MO       |                 0 |
 | Vernon County, MO         |                90 |
 | Dade County, MO           |                89 |
 | Adair County, MO          |                89 |

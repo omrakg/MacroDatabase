@@ -3,7 +3,7 @@
 | Springfield, MA-CT                       |               129 |
 | Danbury, CT                              |                59 |
 | Hartford-West Hartford-East Hartford, CT |               134 |
-| Waterbury, CT                            |                86 |
+| Waterbury, CT                            |                 0 |
 | Danielson, CT                            |                 0 |
 | Worcester, MA-CT                         |               117 |
 | Bridgeport-Stamford-Norwalk, CT          |                 0 |

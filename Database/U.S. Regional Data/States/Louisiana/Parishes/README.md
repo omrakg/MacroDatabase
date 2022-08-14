@@ -16,7 +16,7 @@
 | St. Charles Parish, LA          |               145 |
 | Jefferson Parish, LA            |               147 |
 | Concordia Parish, LA            |                90 |
-| Grant Parish, LA                |                90 |
+| Grant Parish, LA                |                 0 |
 | Union Parish, LA                |                90 |
 | Terrebonne Parish, LA           |               147 |
 | Sabine Parish, LA               |                90 |
@@ -41,7 +41,7 @@
 | St. Landry Parish, LA           |               146 |
 | Beauregard Parish, LA           |                89 |
 | St. Mary Parish, LA             |               144 |
-| Webster Parish, LA              |                 0 |
+| Webster Parish, LA              |                90 |
 | Bienville Parish, LA            |                88 |
 | Plaquemines Parish, LA          |                89 |
 | Washington Parish, LA           |                90 |

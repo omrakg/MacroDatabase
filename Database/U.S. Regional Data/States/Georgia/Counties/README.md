@@ -13,9 +13,9 @@
 | Taliaferro County, GA    |                87 |
 | Crisp County, GA         |                90 |
 | Jasper County, GA        |                90 |
-| Madison County, GA       |                90 |
+| Madison County, GA       |                 0 |
 | Jenkins County, GA       |                87 |
-| Baldwin County, GA       |                 0 |
+| Baldwin County, GA       |                90 |
 | Decatur County, GA       |                89 |
 | Heard County, GA         |                90 |
 | Stewart County, GA       |                87 |
@@ -73,7 +73,7 @@
 | Butts County, GA         |                90 |
 | Tift County, GA          |                90 |
 | Terrell County, GA       |                88 |
-| Walker County, GA        |               146 |
+| Walker County, GA        |                 0 |
 | Worth County, GA         |                90 |
 | Laurens County, GA       |               146 |
 | Crawford County, GA      |                89 |
@@ -121,7 +121,7 @@
 | Atkinson County, GA      |                88 |
 | Walton County, GA        |               147 |
 | Hart County, GA          |                89 |
-| Clay County, GA          |                 0 |
+| Clay County, GA          |                87 |
 | Dodge County, GA         |                90 |
 | De Kalb County, GA       |               147 |
 | Jeff Davis County, GA    |                90 |
@@ -133,7 +133,7 @@
 | Webster County, GA       |                88 |
 | Seminole County, GA      |                88 |
 | Sumter County, GA        |                89 |
-| Long County, GA          |                88 |
+| Long County, GA          |                 0 |
 | Dade County, GA          |                90 |
 | Gordon County, GA        |               146 |
 | Jones County, GA         |                90 |

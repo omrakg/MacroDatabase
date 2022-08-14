@@ -15,7 +15,7 @@
 | Delaware County, OK     |                90 |
 | Bryan County, OK        |                90 |
 | McIntosh County, OK     |                90 |
-| Nowata County, OK       |                 0 |
+| Nowata County, OK       |                90 |
 | Johnston County, OK     |                89 |
 | Love County, OK         |                89 |
 | Roger Mills County, OK  |                88 |
@@ -32,7 +32,7 @@
 | Harmon County, OK       |                87 |
 | Washita County, OK      |                89 |
 | Tillman County, OK      |                88 |
-| Lincoln County, OK      |                90 |
+| Lincoln County, OK      |                 0 |
 | Wagoner County, OK      |               147 |
 | Noble County, OK        |                90 |
 | Ottawa County, OK       |                90 |

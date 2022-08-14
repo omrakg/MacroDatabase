@@ -1,13 +1,13 @@
 | id                        | title                                                                                                      | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU46340            | Housing Inventory: Active Listing Count in Tyler, TX (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM46340          | Housing Inventory: Active Listing Count Month-Over-Month in Tyler, TX (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY46340          | Housing Inventory: Active Listing Count Year-Over-Year in Tyler, TX (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU46340            | Housing Inventory: Active Listing Count in Tyler, TX (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM46340          | Housing Inventory: Active Listing Count Month-Over-Month in Tyler, TX (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY46340          | Housing Inventory: Active Listing Count Year-Over-Year in Tyler, TX (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS46340Q            | All-Transactions House Price Index for Tyler, TX (MSA)                                                     | 1985-04-01          | 2022-01-01        |
-| AVELISPRI46340            | Housing Inventory: Average Listing Price in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM46340          | Housing Inventory: Average Listing Price Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY46340          | Housing Inventory: Average Listing Price Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA46340              | Market Hotness: Demand Score in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI46340            | Housing Inventory: Average Listing Price in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM46340          | Housing Inventory: Average Listing Price Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY46340          | Housing Inventory: Average Listing Price Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA46340              | Market Hotness: Demand Score in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC463430010             | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC463430010SA           | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC463440010             | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC463440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC463440510             | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC463440510SA           | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA46340            | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA46340              | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA46340            | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA46340              | Market Hotness: Hotness Score in Tyler, TX (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA46340            | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA46340              | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA46340            | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA46340              | Market Hotness: Hotness Score in Tyler, TX (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD46340                 | Implicit Regional Price Deflator for Tyler, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484634000000003A     | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT484634000000004      | Unemployed Persons in Tyler, TX (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -31,46 +31,46 @@
 | LAUMT484634000000005      | Employed Persons in Tyler, TX (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT484634000000005A     | Employed Persons in Tyler, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484634000000006A     | Civilian Labor Force in Tyler, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA46340          | Market Hotness: Listing Views per Property in Tyler, TX (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA46340        | Market Hotness: Listing Views per Property Versus the United States in Tyler, TX (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA46340          | Market Hotness: Listing Views per Property in Tyler, TX (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA46340        | Market Hotness: Median Days on Market in Tyler, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA46340          | Market Hotness: Median Days on Market in Tyler, TX (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA46340        | Market Hotness: Median Days on Market in Tyler, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR46340          | Housing Inventory: Median Days on Market in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM46340        | Housing Inventory: Median Days on Market Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY46340        | Housing Inventory: Median Days on Market Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI46340            | Housing Inventory: Median Listing Price in Tyler, TX (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM46340          | Housing Inventory: Median Listing Price Month-Over-Month in Tyler, TX (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE46340   | Housing Inventory: Median Listing Price per Square Feet in Tyler, TX (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM46340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Tyler, TX (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY46340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Tyler, TX (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY46340          | Housing Inventory: Median Listing Price Year-Over-Year in Tyler, TX (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA46340          | Market Hotness: Median Days on Market in Tyler, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA46340          | Market Hotness: Median Days on Market Versus the United States in Tyler, TX (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA46340          | Market Hotness: Median Days on Market Day in Tyler, TX (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE46340            | Housing Inventory: Median Home Size in Square Feet in Tyler, TX (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM46340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Tyler, TX (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY46340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Tyler, TX (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA46340          | Market Hotness: Median Listing Price in Tyler, TX (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA46340            | Market Hotness: Median Listing Price in Tyler, TX (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA46340        | Market Hotness: Median Listing Price Versus the United States in Tyler, TX (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA46340          | Market Hotness: Median Listing Price in Tyler, TX (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU46340            | Housing Inventory: New Listing Count in Tyler, TX (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM46340          | Housing Inventory: New Listing Count Month-Over-Month in Tyler, TX (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY46340          | Housing Inventory: New Listing Count Year-Over-Year in Tyler, TX (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA46340          | Market Hotness: Listing Views per Property in Tyler, TX (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA46340        | Market Hotness: Listing Views per Property Versus the United States in Tyler, TX (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA46340          | Market Hotness: Listing Views per Property in Tyler, TX (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA46340        | Market Hotness: Median Days on Market in Tyler, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA46340          | Market Hotness: Median Days on Market in Tyler, TX (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA46340        | Market Hotness: Median Days on Market in Tyler, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR46340          | Housing Inventory: Median Days on Market in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM46340        | Housing Inventory: Median Days on Market Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY46340        | Housing Inventory: Median Days on Market Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI46340            | Housing Inventory: Median Listing Price in Tyler, TX (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM46340          | Housing Inventory: Median Listing Price Month-Over-Month in Tyler, TX (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE46340   | Housing Inventory: Median Listing Price per Square Feet in Tyler, TX (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM46340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Tyler, TX (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY46340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Tyler, TX (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY46340          | Housing Inventory: Median Listing Price Year-Over-Year in Tyler, TX (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA46340          | Market Hotness: Median Days on Market in Tyler, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA46340          | Market Hotness: Median Days on Market Versus the United States in Tyler, TX (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA46340          | Market Hotness: Median Days on Market Day in Tyler, TX (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE46340            | Housing Inventory: Median Home Size in Square Feet in Tyler, TX (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM46340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Tyler, TX (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY46340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Tyler, TX (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA46340          | Market Hotness: Median Listing Price in Tyler, TX (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA46340            | Market Hotness: Median Listing Price in Tyler, TX (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA46340        | Market Hotness: Median Listing Price Versus the United States in Tyler, TX (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA46340          | Market Hotness: Median Listing Price in Tyler, TX (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU46340            | Housing Inventory: New Listing Count in Tyler, TX (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM46340          | Housing Inventory: New Listing Count Month-Over-Month in Tyler, TX (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY46340          | Housing Inventory: New Listing Count Year-Over-Year in Tyler, TX (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP46340                 | Total Gross Domestic Product for Tyler, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA46340            | Market Hotness: Nielsen Household Rank in Tyler, TX (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA46340            | Market Hotness: Nielsen Household Rank in Tyler, TX (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA146340          | U.S. Granted Utility Patents Originating in Tyler, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU46340            | Housing Inventory: Pending Listing Count in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM46340          | Housing Inventory: Pending Listing Count Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY46340          | Housing Inventory: Pending Listing Count Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU46340            | Housing Inventory: Price Increased Count in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM46340          | Housing Inventory: Price Increased Count Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY46340          | Housing Inventory: Price Increased Count Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU46340            | Housing Inventory: Price Reduced Count in Tyler, TX (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM46340          | Housing Inventory: Price Reduced Count Month-Over-Month in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY46340          | Housing Inventory: Price Reduced Count Year-Over-Year in Tyler, TX (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU46340            | Housing Inventory: Pending Listing Count in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM46340          | Housing Inventory: Pending Listing Count Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY46340          | Housing Inventory: Pending Listing Count Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU46340            | Housing Inventory: Price Increased Count in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM46340          | Housing Inventory: Price Increased Count Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY46340          | Housing Inventory: Price Increased Count Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU46340            | Housing Inventory: Price Reduced Count in Tyler, TX (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM46340          | Housing Inventory: Price Reduced Count Month-Over-Month in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY46340          | Housing Inventory: Price Reduced Count Year-Over-Year in Tyler, TX (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP46340                 | Total Quantity Indexes for Real GDP for Tyler, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP46340                 | Total Real Gross Domestic Product for Tyler, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI46340                  | Real Personal Income for Tyler, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -127,7 +127,7 @@
 | SMU48463409093000001      | All Employees: Government: Local Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU48463409093000001A     | All Employees: Local Government in Tyler, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48463409093000001SA    | All Employees: Government: Local Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA46340              | Market Hotness: Supply Score in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA46340              | Market Hotness: Supply Score in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | TYLE348EDUH               | All Employees: Education and Health Services in Tyler, TX (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | TYLE348EDUHN              | All Employees: Education and Health Services in Tyler, TX (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | TYLE348FIRE               | All Employees: Financial Activities in Tyler, TX (MSA)                                                     | 1990-01-01          | 2022-06-01        |

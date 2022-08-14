@@ -26,11 +26,11 @@
 | Wolfe County, KY        |                87 |
 | Carroll County, KY      |                90 |
 | Grant County, KY        |                90 |
-| Hart County, KY         |                89 |
+| Hart County, KY         |                 0 |
 | Clay County, KY         |                88 |
 | Oldham County, KY       |               147 |
 | Whitley County, KY      |                90 |
-| Logan County, KY        |                 0 |
+| Logan County, KY        |                90 |
 | Clinton County, KY      |                88 |
 | Anderson County, KY     |                90 |
 | Rockcastle County, KY   |                88 |
@@ -86,11 +86,11 @@
 | Carter County, KY       |                90 |
 | Russell County, KY      |                90 |
 | Shelby County, KY       |                90 |
-| Taylor County, KY       |                90 |
+| Taylor County, KY       |                 0 |
 | Garrard County, KY      |                89 |
 | Edmonson County, KY     |                88 |
 | Trigg County, KY        |                90 |
-| Monroe County, KY       |                 0 |
+| Monroe County, KY       |                88 |
 | Nelson County, KY       |                90 |
 | Casey County, KY        |                90 |
 | Bourbon County, KY      |                90 |

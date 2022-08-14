@@ -1,13 +1,13 @@
 | id                        | title                                                                                           | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU39140            | Housing Inventory: Active Listing Count in Prescott, AZ (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM39140          | Housing Inventory: Active Listing Count Month-Over-Month in Prescott, AZ (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY39140          | Housing Inventory: Active Listing Count Year-Over-Year in Prescott, AZ (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU39140            | Housing Inventory: Active Listing Count in Prescott, AZ (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM39140          | Housing Inventory: Active Listing Count Month-Over-Month in Prescott, AZ (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY39140          | Housing Inventory: Active Listing Count Year-Over-Year in Prescott, AZ (CBSA)                   | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS39150Q            | All-Transactions House Price Index for Prescott Valley-Prescott, AZ (MSA)                       | 1987-01-01          | 2022-01-01        |
-| AVELISPRI39140            | Housing Inventory: Average Listing Price in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM39140          | Housing Inventory: Average Listing Price Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY39140          | Housing Inventory: Average Listing Price Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| DESCMSA39140              | Market Hotness: Demand Score in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-06-01        |
+| AVELISPRI39140            | Housing Inventory: Average Listing Price in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM39140          | Housing Inventory: Average Listing Price Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY39140          | Housing Inventory: Average Listing Price Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| DESCMSA39140              | Market Hotness: Demand Score in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-07-01        |
 | ENUC391430010             | Total Quarterly Wages in Prescott, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC391430010SA           | Total Quarterly Wages in Prescott, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC391440010             | Average Weekly Wages for Employees in Total Covered Establishments in Prescott, AZ (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC391440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
 | ENUC391440510             | Average Weekly Wages for Employees in Private Establishments in Prescott, AZ (MSA)              | 1990-01-01          | 2021-10-01        |
 | ENUC391440510SA           | Average Weekly Wages for Employees in Private Establishments in Prescott, AZ (MSA)              | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA39140            | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| HORAMSA39140              | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA39140            | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| HOSCMSA39140              | Market Hotness: Hotness Score in Prescott, AZ (CBSA)                                            | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA39140            | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| HORAMSA39140              | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA39140            | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| HOSCMSA39140              | Market Hotness: Hotness Score in Prescott, AZ (CBSA)                                            | 2017-08-01          | 2022-07-01        |
 | IRPD39140                 | Implicit Regional Price Deflator for Prescott, AZ (MSA)                                         | 2008-01-01          | 2017-01-01        |
 | LAUMT043914000000003A     | Unemployment Rate in Prescott, AZ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT043914000000004      | Unemployed Persons in Prescott, AZ (MSA)                                                        | 1990-01-01          | 2022-06-01        |
@@ -31,40 +31,40 @@
 | LAUMT043914000000005      | Employed Persons in Prescott, AZ (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT043914000000005A     | Employed Persons in Prescott, AZ (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT043914000000006A     | Civilian Labor Force in Prescott, AZ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA39140          | Market Hotness: Listing Views per Property in Prescott, AZ (CBSA)                               | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA39140        | Market Hotness: Listing Views per Property Versus the United States in Prescott, AZ (CBSA)      | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA39140          | Market Hotness: Listing Views per Property in Prescott, AZ (CBSA)                               | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA39140        | Market Hotness: Median Days on Market in Prescott, AZ (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA39140          | Market Hotness: Median Days on Market in Prescott, AZ (CBSA)                                    | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA39140        | Market Hotness: Median Days on Market in Prescott, AZ (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR39140          | Housing Inventory: Median Days on Market in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM39140        | Housing Inventory: Median Days on Market Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY39140        | Housing Inventory: Median Days on Market Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI39140            | Housing Inventory: Median Listing Price in Prescott, AZ (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM39140          | Housing Inventory: Median Listing Price Month-Over-Month in Prescott, AZ (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE39140   | Housing Inventory: Median Listing Price per Square Feet in Prescott, AZ (CBSA)                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM39140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Prescott, AZ (CBSA) | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY39140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Prescott, AZ (CBSA)   | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY39140          | Housing Inventory: Median Listing Price Year-Over-Year in Prescott, AZ (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA39140          | Market Hotness: Median Days on Market in Prescott, AZ (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA39140          | Market Hotness: Median Days on Market Versus the United States in Prescott, AZ (CBSA)           | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA39140          | Market Hotness: Median Days on Market Day in Prescott, AZ (CBSA)                                | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE39140            | Housing Inventory: Median Home Size in Square Feet in Prescott, AZ (CBSA)                       | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM39140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Prescott, AZ (CBSA)      | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY39140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Prescott, AZ (CBSA)        | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA39140          | Market Hotness: Median Listing Price in Prescott, AZ (CBSA)                                     | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA39140            | Market Hotness: Median Listing Price in Prescott, AZ (CBSA)                                     | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA39140        | Market Hotness: Median Listing Price Versus the United States in Prescott, AZ (CBSA)            | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA39140          | Market Hotness: Median Listing Price in Prescott, AZ (CBSA)                                     | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU39140            | Housing Inventory: New Listing Count in Prescott, AZ (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM39140          | Housing Inventory: New Listing Count Month-Over-Month in Prescott, AZ (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY39140          | Housing Inventory: New Listing Count Year-Over-Year in Prescott, AZ (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA39140          | Market Hotness: Listing Views per Property in Prescott, AZ (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA39140        | Market Hotness: Listing Views per Property Versus the United States in Prescott, AZ (CBSA)      | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA39140          | Market Hotness: Listing Views per Property in Prescott, AZ (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA39140        | Market Hotness: Median Days on Market in Prescott, AZ (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA39140          | Market Hotness: Median Days on Market in Prescott, AZ (CBSA)                                    | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA39140        | Market Hotness: Median Days on Market in Prescott, AZ (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR39140          | Housing Inventory: Median Days on Market in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM39140        | Housing Inventory: Median Days on Market Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY39140        | Housing Inventory: Median Days on Market Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI39140            | Housing Inventory: Median Listing Price in Prescott, AZ (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM39140          | Housing Inventory: Median Listing Price Month-Over-Month in Prescott, AZ (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE39140   | Housing Inventory: Median Listing Price per Square Feet in Prescott, AZ (CBSA)                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM39140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Prescott, AZ (CBSA) | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY39140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Prescott, AZ (CBSA)   | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY39140          | Housing Inventory: Median Listing Price Year-Over-Year in Prescott, AZ (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA39140          | Market Hotness: Median Days on Market in Prescott, AZ (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA39140          | Market Hotness: Median Days on Market Versus the United States in Prescott, AZ (CBSA)           | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA39140          | Market Hotness: Median Days on Market Day in Prescott, AZ (CBSA)                                | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE39140            | Housing Inventory: Median Home Size in Square Feet in Prescott, AZ (CBSA)                       | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM39140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Prescott, AZ (CBSA)      | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY39140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Prescott, AZ (CBSA)        | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA39140          | Market Hotness: Median Listing Price in Prescott, AZ (CBSA)                                     | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA39140            | Market Hotness: Median Listing Price in Prescott, AZ (CBSA)                                     | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA39140        | Market Hotness: Median Listing Price Versus the United States in Prescott, AZ (CBSA)            | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA39140          | Market Hotness: Median Listing Price in Prescott, AZ (CBSA)                                     | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU39140            | Housing Inventory: New Listing Count in Prescott, AZ (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM39140          | Housing Inventory: New Listing Count Month-Over-Month in Prescott, AZ (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY39140          | Housing Inventory: New Listing Count Year-Over-Year in Prescott, AZ (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | NGMP39140                 | Total Gross Domestic Product for Prescott, AZ (MSA)                                             | 2001-01-01          | 2017-01-01        |
-| NIHHRAMSA39140            | Market Hotness: Nielsen Household Rank in Prescott, AZ (CBSA)                                   | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA39140            | Market Hotness: Nielsen Household Rank in Prescott, AZ (CBSA)                                   | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA139140          | U.S. Granted Utility Patents Originating in Prescott, AZ (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU39140            | Housing Inventory: Pending Listing Count in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM39140          | Housing Inventory: Pending Listing Count Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY39140          | Housing Inventory: Pending Listing Count Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU39140            | Housing Inventory: Pending Listing Count in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM39140          | Housing Inventory: Pending Listing Count Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY39140          | Housing Inventory: Pending Listing Count Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
 | PRCPOP                    | Resident Population in Prescott, AZ (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | PRES104EDUH               | All Employees: Education and Health Services in Prescott, AZ (MSA)                              | 1990-01-01          | 2022-06-01        |
 | PRES104EDUHN              | All Employees: Education and Health Services in Prescott, AZ (MSA)                              | 1990-01-01          | 2022-06-01        |
@@ -93,12 +93,12 @@
 | PRES104TRADN              | All Employees: Trade, Transportation, and Utilities in Prescott, AZ (MSA)                       | 1990-01-01          | 2022-06-01        |
 | PRES104UR                 | Unemployment Rate in Prescott, AZ (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | PRES104URN                | Unemployment Rate in Prescott, AZ (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| PRIINCCOU39140            | Housing Inventory: Price Increased Count in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM39140          | Housing Inventory: Price Increased Count Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY39140          | Housing Inventory: Price Increased Count Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU39140            | Housing Inventory: Price Reduced Count in Prescott, AZ (CBSA)                                   | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM39140          | Housing Inventory: Price Reduced Count Month-Over-Month in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY39140          | Housing Inventory: Price Reduced Count Year-Over-Year in Prescott, AZ (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| PRIINCCOU39140            | Housing Inventory: Price Increased Count in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM39140          | Housing Inventory: Price Increased Count Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY39140          | Housing Inventory: Price Increased Count Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU39140            | Housing Inventory: Price Reduced Count in Prescott, AZ (CBSA)                                   | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM39140          | Housing Inventory: Price Reduced Count Month-Over-Month in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY39140          | Housing Inventory: Price Reduced Count Year-Over-Year in Prescott, AZ (CBSA)                    | 2017-07-01          | 2022-07-01        |
 | QGMP39140                 | Total Quantity Indexes for Real GDP for Prescott, AZ (MSA)                                      | 2001-01-01          | 2017-01-01        |
 | RGMP39140                 | Total Real Gross Domestic Product for Prescott, AZ (MSA)                                        | 2001-01-01          | 2017-01-01        |
 | RPI39140                  | Real Personal Income for Prescott, AZ (MSA)                                                     | 2008-01-01          | 2017-01-01        |
@@ -143,4 +143,4 @@
 | SMU04391409094000001      | All Employees: Government: Total State and Local Government in Prescott, AZ (MSA)               | 1990-01-01          | 2022-06-01        |
 | SMU04391409094000001A     | All Employees: Total State and Local Government in Prescott, AZ (MSA)                           | 1990-01-01          | 2021-01-01        |
 | SMU04391409094000001SA    | All Employees: Government: Total State and Local Government in Prescott, AZ (MSA)               | 1990-01-01          | 2022-06-01        |
-| SUSCMSA39140              | Market Hotness: Supply Score in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-06-01        |
+| SUSCMSA39140              | Market Hotness: Supply Score in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-07-01        |

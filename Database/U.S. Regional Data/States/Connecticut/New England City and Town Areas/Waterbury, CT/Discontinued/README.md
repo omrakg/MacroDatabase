@@ -1,5 +1,2 @@
-| id                     | title                                                                                           | observation_start   | observation_end   |
-|------------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU09787000500000002SA | Average Weekly Hours of All Employees: Total Private in Waterbury, CT (NECTA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
-| SMU09787000500000003SA | Average Hourly Earnings of All Employees: Total Private in Waterbury, CT (NECTA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
-| SMU09787000500000011SA | Average Weekly Earnings of All Employees: Total Private in Waterbury, CT (NECTA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

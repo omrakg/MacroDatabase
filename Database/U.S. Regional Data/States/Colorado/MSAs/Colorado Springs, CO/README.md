@@ -1,12 +1,12 @@
 | id                        | title                                                                                                                             | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU17820            | Housing Inventory: Active Listing Count in Colorado Springs, CO (CBSA)                                                            | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM17820          | Housing Inventory: Active Listing Count Month-Over-Month in Colorado Springs, CO (CBSA)                                           | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY17820          | Housing Inventory: Active Listing Count Year-Over-Year in Colorado Springs, CO (CBSA)                                             | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU17820            | Housing Inventory: Active Listing Count in Colorado Springs, CO (CBSA)                                                            | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM17820          | Housing Inventory: Active Listing Count Month-Over-Month in Colorado Springs, CO (CBSA)                                           | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY17820          | Housing Inventory: Active Listing Count Year-Over-Year in Colorado Springs, CO (CBSA)                                             | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS17820Q            | All-Transactions House Price Index for Colorado Springs, CO (MSA)                                                                 | 1979-04-01          | 2022-01-01        |
-| AVELISPRI17820            | Housing Inventory: Average Listing Price in Colorado Springs, CO (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM17820          | Housing Inventory: Average Listing Price Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY17820          | Housing Inventory: Average Listing Price Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
+| AVELISPRI17820            | Housing Inventory: Average Listing Price in Colorado Springs, CO (CBSA)                                                           | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM17820          | Housing Inventory: Average Listing Price Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY17820          | Housing Inventory: Average Listing Price Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-07-01        |
 | CLRPOP                    | Resident Population in Colorado Springs, CO (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
 | COLO808BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-06-01        |
 | COLO808BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-06-01        |
@@ -39,7 +39,7 @@
 | COLO808TRADN              | All Employees: Trade, Transportation, and Utilities in Colorado Springs, CO (MSA)                                                 | 1990-01-01          | 2022-06-01        |
 | COLO808UR                 | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2022-06-01        |
 | COLO808URN                | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2022-06-01        |
-| DESCMSA17820              | Market Hotness: Demand Score in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
+| DESCMSA17820              | Market Hotness: Demand Score in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-07-01        |
 | ENUC178230010             | Total Quarterly Wages in Colorado Springs, CO (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
 | ENUC178230010SA           | Total Quarterly Wages in Colorado Springs, CO (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
 | ENUC178240010             | Average Weekly Wages for Employees in Total Covered Establishments in Colorado Springs, CO (MSA)                                  | 1990-01-01          | 2021-10-01        |
@@ -52,10 +52,10 @@
 | ENUC178240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Colorado Springs, CO (MSA)                               | 2001-01-01          | 2021-10-01        |
 | ENUC178240510             | Average Weekly Wages for Employees in Private Establishments in Colorado Springs, CO (MSA)                                        | 1990-01-01          | 2021-10-01        |
 | ENUC178240510SA           | Average Weekly Wages for Employees in Private Establishments in Colorado Springs, CO (MSA)                                        | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA17820            | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2018-08-01          | 2022-06-01        |
-| HORAMSA17820              | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA17820            | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2018-08-01          | 2022-06-01        |
-| HOSCMSA17820              | Market Hotness: Hotness Score in Colorado Springs, CO (CBSA)                                                                      | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA17820            | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2018-08-01          | 2022-07-01        |
+| HORAMSA17820              | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA17820            | Market Hotness: Hotness Rank in Colorado Springs, CO (CBSA)                                                                       | 2018-08-01          | 2022-07-01        |
+| HOSCMSA17820              | Market Hotness: Hotness Score in Colorado Springs, CO (CBSA)                                                                      | 2017-08-01          | 2022-07-01        |
 | IHLCHG17820               | Job Postings on Indeed in Colorado Springs, CO (MSA)                                                                              | 2020-02-01          | 2022-07-29        |
 | IRPD17820                 | Implicit Regional Price Deflator for Colorado Springs, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT081782000000003A     | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
@@ -64,46 +64,46 @@
 | LAUMT081782000000005      | Employed Persons in Colorado Springs, CO (MSA)                                                                                    | 1990-01-01          | 2022-06-01        |
 | LAUMT081782000000005A     | Employed Persons in Colorado Springs, CO (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT081782000000006A     | Civilian Labor Force in Colorado Springs, CO (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA17820          | Market Hotness: Listing Views per Property in Colorado Springs, CO (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA17820        | Market Hotness: Listing Views per Property Versus the United States in Colorado Springs, CO (CBSA)                                | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA17820          | Market Hotness: Listing Views per Property in Colorado Springs, CO (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA17820        | Market Hotness: Median Days on Market in Colorado Springs, CO (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA17820          | Market Hotness: Median Days on Market in Colorado Springs, CO (CBSA)                                                              | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA17820        | Market Hotness: Median Days on Market in Colorado Springs, CO (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR17820          | Housing Inventory: Median Days on Market in Colorado Springs, CO (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM17820        | Housing Inventory: Median Days on Market Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY17820        | Housing Inventory: Median Days on Market Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI17820            | Housing Inventory: Median Listing Price in Colorado Springs, CO (CBSA)                                                            | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM17820          | Housing Inventory: Median Listing Price Month-Over-Month in Colorado Springs, CO (CBSA)                                           | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE17820   | Housing Inventory: Median Listing Price per Square Feet in Colorado Springs, CO (CBSA)                                            | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM17820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Colorado Springs, CO (CBSA)                           | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY17820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Colorado Springs, CO (CBSA)                             | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY17820          | Housing Inventory: Median Listing Price Year-Over-Year in Colorado Springs, CO (CBSA)                                             | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA17820          | Market Hotness: Median Days on Market in Colorado Springs, CO (CBSA)                                                              | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA17820          | Market Hotness: Median Days on Market Versus the United States in Colorado Springs, CO (CBSA)                                     | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA17820          | Market Hotness: Median Days on Market Day in Colorado Springs, CO (CBSA)                                                          | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE17820            | Housing Inventory: Median Home Size in Square Feet in Colorado Springs, CO (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM17820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Colorado Springs, CO (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY17820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Colorado Springs, CO (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA17820          | Market Hotness: Median Listing Price in Colorado Springs, CO (CBSA)                                                               | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA17820            | Market Hotness: Median Listing Price in Colorado Springs, CO (CBSA)                                                               | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA17820        | Market Hotness: Median Listing Price Versus the United States in Colorado Springs, CO (CBSA)                                      | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA17820          | Market Hotness: Median Listing Price in Colorado Springs, CO (CBSA)                                                               | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU17820            | Housing Inventory: New Listing Count in Colorado Springs, CO (CBSA)                                                               | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM17820          | Housing Inventory: New Listing Count Month-Over-Month in Colorado Springs, CO (CBSA)                                              | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY17820          | Housing Inventory: New Listing Count Year-Over-Year in Colorado Springs, CO (CBSA)                                                | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA17820          | Market Hotness: Listing Views per Property in Colorado Springs, CO (CBSA)                                                         | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA17820        | Market Hotness: Listing Views per Property Versus the United States in Colorado Springs, CO (CBSA)                                | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA17820          | Market Hotness: Listing Views per Property in Colorado Springs, CO (CBSA)                                                         | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA17820        | Market Hotness: Median Days on Market in Colorado Springs, CO (CBSA)                                                              | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA17820          | Market Hotness: Median Days on Market in Colorado Springs, CO (CBSA)                                                              | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA17820        | Market Hotness: Median Days on Market in Colorado Springs, CO (CBSA)                                                              | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR17820          | Housing Inventory: Median Days on Market in Colorado Springs, CO (CBSA)                                                           | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM17820        | Housing Inventory: Median Days on Market Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY17820        | Housing Inventory: Median Days on Market Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI17820            | Housing Inventory: Median Listing Price in Colorado Springs, CO (CBSA)                                                            | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM17820          | Housing Inventory: Median Listing Price Month-Over-Month in Colorado Springs, CO (CBSA)                                           | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE17820   | Housing Inventory: Median Listing Price per Square Feet in Colorado Springs, CO (CBSA)                                            | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM17820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Colorado Springs, CO (CBSA)                           | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY17820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Colorado Springs, CO (CBSA)                             | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY17820          | Housing Inventory: Median Listing Price Year-Over-Year in Colorado Springs, CO (CBSA)                                             | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA17820          | Market Hotness: Median Days on Market in Colorado Springs, CO (CBSA)                                                              | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA17820          | Market Hotness: Median Days on Market Versus the United States in Colorado Springs, CO (CBSA)                                     | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA17820          | Market Hotness: Median Days on Market Day in Colorado Springs, CO (CBSA)                                                          | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE17820            | Housing Inventory: Median Home Size in Square Feet in Colorado Springs, CO (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM17820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Colorado Springs, CO (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY17820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Colorado Springs, CO (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA17820          | Market Hotness: Median Listing Price in Colorado Springs, CO (CBSA)                                                               | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA17820            | Market Hotness: Median Listing Price in Colorado Springs, CO (CBSA)                                                               | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA17820        | Market Hotness: Median Listing Price Versus the United States in Colorado Springs, CO (CBSA)                                      | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA17820          | Market Hotness: Median Listing Price in Colorado Springs, CO (CBSA)                                                               | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU17820            | Housing Inventory: New Listing Count in Colorado Springs, CO (CBSA)                                                               | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM17820          | Housing Inventory: New Listing Count Month-Over-Month in Colorado Springs, CO (CBSA)                                              | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY17820          | Housing Inventory: New Listing Count Year-Over-Year in Colorado Springs, CO (CBSA)                                                | 2017-07-01          | 2022-07-01        |
 | NGMP17820                 | Total Gross Domestic Product for Colorado Springs, CO (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA17820            | Market Hotness: Nielsen Household Rank in Colorado Springs, CO (CBSA)                                                             | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA17820            | Market Hotness: Nielsen Household Rank in Colorado Springs, CO (CBSA)                                                             | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA117820          | U.S. Granted Utility Patents Originating in Colorado Springs, CO (MSA)                                                            | 2000-01-01          | 2015-01-01        |
-| PENLISCOU17820            | Housing Inventory: Pending Listing Count in Colorado Springs, CO (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM17820          | Housing Inventory: Pending Listing Count Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY17820          | Housing Inventory: Pending Listing Count Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU17820            | Housing Inventory: Price Increased Count in Colorado Springs, CO (CBSA)                                                           | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM17820          | Housing Inventory: Price Increased Count Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY17820          | Housing Inventory: Price Increased Count Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU17820            | Housing Inventory: Price Reduced Count in Colorado Springs, CO (CBSA)                                                             | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM17820          | Housing Inventory: Price Reduced Count Month-Over-Month in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY17820          | Housing Inventory: Price Reduced Count Year-Over-Year in Colorado Springs, CO (CBSA)                                              | 2017-07-01          | 2022-06-01        |
+| PENLISCOU17820            | Housing Inventory: Pending Listing Count in Colorado Springs, CO (CBSA)                                                           | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM17820          | Housing Inventory: Pending Listing Count Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY17820          | Housing Inventory: Pending Listing Count Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU17820            | Housing Inventory: Price Increased Count in Colorado Springs, CO (CBSA)                                                           | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM17820          | Housing Inventory: Price Increased Count Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY17820          | Housing Inventory: Price Increased Count Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU17820            | Housing Inventory: Price Reduced Count in Colorado Springs, CO (CBSA)                                                             | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM17820          | Housing Inventory: Price Reduced Count Month-Over-Month in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY17820          | Housing Inventory: Price Reduced Count Year-Over-Year in Colorado Springs, CO (CBSA)                                              | 2017-07-01          | 2022-07-01        |
 | QGMP17820                 | Total Quantity Indexes for Real GDP for Colorado Springs, CO (MSA)                                                                | 2001-01-01          | 2020-01-01        |
 | RGMP17820                 | Total Real Gross Domestic Product for Colorado Springs, CO (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
 | RPI17820                  | Real Personal Income for Colorado Springs, CO (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
@@ -208,4 +208,4 @@
 | SMU08178209093161101      | All Employees: Government: Local Government Educational Services in Colorado Springs, CO (MSA)                                    | 1990-01-01          | 2022-06-01        |
 | SMU08178209093161101A     | All Employees: Local Government Educational Services in Colorado Springs, CO (MSA)                                                | 1990-01-01          | 2021-01-01        |
 | SMU08178209093161101SA    | All Employees: Government: Local Government Educational Services in Colorado Springs, CO (MSA)                                    | 1990-01-01          | 2022-06-01        |
-| SUSCMSA17820              | Market Hotness: Supply Score in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-06-01        |
+| SUSCMSA17820              | Market Hotness: Supply Score in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-07-01        |

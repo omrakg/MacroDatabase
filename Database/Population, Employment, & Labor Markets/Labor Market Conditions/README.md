@@ -1,7 +1,7 @@
 | id                 | title                                                                                                | observation_start   | observation_end   |
 |--------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| FRBKCLMCILA        | KC Fed Labor Market Conditions Index, Level of Activity Indicator                                    | 1992-01-01          | 2022-06-01        |
-| FRBKCLMCIM         | KC Fed Labor Market Conditions Index, Momentum Indicator                                             | 1992-01-01          | 2022-06-01        |
+| FRBKCLMCILA        | KC Fed Labor Market Conditions Index, Level of Activity Indicator                                    | 1992-01-01          | 2022-07-01        |
+| FRBKCLMCIM         | KC Fed Labor Market Conditions Index, Momentum Indicator                                             | 1992-01-01          | 2022-07-01        |
 | IHLCHG10420        | Job Postings on Indeed in Akron, OH (MSA)                                                            | 2020-02-01          | 2022-07-29        |
 | IHLCHG10580        | Job Postings on Indeed in Albany-Schenectady-Troy, NY (MSA)                                          | 2020-02-01          | 2022-07-29        |
 | IHLCHG10740        | Job Postings on Indeed in Albuquerque, NM (MSA)                                                      | 2020-02-01          | 2022-07-29        |
@@ -389,5 +389,5 @@
 | IHLCHGUSTPSPOR     | Sports Job Postings on Indeed in the United States                                                   | 2020-02-01          | 2022-07-29        |
 | IHLCHGUSTPTHER     | Therapy Job Postings on Indeed in the United States                                                  | 2020-02-01          | 2022-07-29        |
 | IHLCHGUSTPVETE     | Veterinary Job Postings on Indeed in the United States                                               | 2020-02-01          | 2022-07-29        |
-| NEIM156SFRBRIC     | Hornstein-Kudlyak-Lange Non-Employment Index                                                         | 1994-01-01          | 2022-06-01        |
-| NEIPTERM156SFRBRIC | Hornstein-Kudlyak-Lange Non-Employment Index including People Working Part-Time for Economic Reasons | 1994-01-01          | 2022-06-01        |
+| NEIM156SFRBRIC     | Hornstein-Kudlyak-Lange Non-Employment Index                                                         | 1994-01-01          | 2022-07-01        |
+| NEIPTERM156SFRBRIC | Hornstein-Kudlyak-Lange Non-Employment Index including People Working Part-Time for Economic Reasons | 1994-01-01          | 2022-07-01        |

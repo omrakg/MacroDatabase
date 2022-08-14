@@ -12,8 +12,8 @@
 | SLWHTO01MXQ661S | Volume of Total Wholesale Trade sales for Mexico           | 1986-01-01          | 2018-10-01        |
 | SLWHTO01ZAA661N | Volume of Total Wholesale Trade sales for South Africa     | 1998-01-01          | 2021-01-01        |
 | SLWHTO01ZAA661S | Volume of Total Wholesale Trade sales for South Africa     | 1998-01-01          | 2021-01-01        |
-| SLWHTO01ZAQ661N | Volume of Total Wholesale Trade sales for South Africa     | 1998-01-01          | 2021-10-01        |
-| SLWHTO01ZAQ661S | Volume of Total Wholesale Trade sales for South Africa     | 1998-01-01          | 2021-10-01        |
+| SLWHTO01ZAQ661N | Volume of Total Wholesale Trade sales for South Africa     | 1998-01-01          | 2022-01-01        |
+| SLWHTO01ZAQ661S | Volume of Total Wholesale Trade sales for South Africa     | 1998-01-01          | 2022-01-01        |
 | SLWHTO02DEA661N | Value of Total Wholesale Trade sales for Germany           | 1964-01-01          | 2021-01-01        |
 | SLWHTO02DEA661S | Value of Total Wholesale Trade sales for Germany           | 1964-01-01          | 2021-01-01        |
 | SLWHTO02DEQ661N | Value of Total Wholesale Trade sales for Germany           | 1964-01-01          | 2022-01-01        |
@@ -28,5 +28,5 @@
 | SLWHTO02USQ189S | Value of Total Wholesale Trade sales for the United States | 1960-01-01          | 2018-04-01        |
 | SLWHTO02ZAA661N | Value of Total Wholesale Trade sales for South Africa      | 1998-01-01          | 2021-01-01        |
 | SLWHTO02ZAA661S | Value of Total Wholesale Trade sales for South Africa      | 1998-01-01          | 2021-01-01        |
-| SLWHTO02ZAQ661N | Value of Total Wholesale Trade sales for South Africa      | 1998-01-01          | 2021-10-01        |
-| SLWHTO02ZAQ661S | Value of Total Wholesale Trade sales for South Africa      | 1998-01-01          | 2021-10-01        |
+| SLWHTO02ZAQ661N | Value of Total Wholesale Trade sales for South Africa      | 1998-01-01          | 2022-01-01        |
+| SLWHTO02ZAQ661S | Value of Total Wholesale Trade sales for South Africa      | 1998-01-01          | 2022-01-01        |

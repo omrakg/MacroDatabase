@@ -1,13 +1,13 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU43620            | Housing Inventory: Active Listing Count in Sioux Falls, SD (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM43620          | Housing Inventory: Active Listing Count Month-Over-Month in Sioux Falls, SD (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY43620          | Housing Inventory: Active Listing Count Year-Over-Year in Sioux Falls, SD (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU43620            | Housing Inventory: Active Listing Count in Sioux Falls, SD (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM43620          | Housing Inventory: Active Listing Count Month-Over-Month in Sioux Falls, SD (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY43620          | Housing Inventory: Active Listing Count Year-Over-Year in Sioux Falls, SD (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS43620Q            | All-Transactions House Price Index for Sioux Falls, SD (MSA)                                                     | 1986-04-01          | 2022-01-01        |
-| AVELISPRI43620            | Housing Inventory: Average Listing Price in Sioux Falls, SD (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM43620          | Housing Inventory: Average Listing Price Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY43620          | Housing Inventory: Average Listing Price Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA43620              | Market Hotness: Demand Score in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI43620            | Housing Inventory: Average Listing Price in Sioux Falls, SD (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM43620          | Housing Inventory: Average Listing Price Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY43620          | Housing Inventory: Average Listing Price Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA43620              | Market Hotness: Demand Score in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC436230010             | Total Quarterly Wages in Sioux Falls, SD (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC436230010SA           | Total Quarterly Wages in Sioux Falls, SD (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC436240010             | Average Weekly Wages for Employees in Total Covered Establishments in Sioux Falls, SD (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC436240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sioux Falls, SD (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC436240510             | Average Weekly Wages for Employees in Private Establishments in Sioux Falls, SD (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC436240510SA           | Average Weekly Wages for Employees in Private Establishments in Sioux Falls, SD (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA43620            | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA43620              | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA43620            | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA43620              | Market Hotness: Hotness Score in Sioux Falls, SD (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA43620            | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA43620              | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA43620            | Market Hotness: Hotness Rank in Sioux Falls, SD (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA43620              | Market Hotness: Hotness Score in Sioux Falls, SD (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD43620                 | Implicit Regional Price Deflator for Sioux Falls, SD (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT464362000000003A     | Unemployment Rate in Sioux Falls, SD (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT464362000000004      | Unemployed Persons in Sioux Falls, SD (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -31,46 +31,46 @@
 | LAUMT464362000000005      | Employed Persons in Sioux Falls, SD (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT464362000000005A     | Employed Persons in Sioux Falls, SD (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT464362000000006A     | Civilian Labor Force in Sioux Falls, SD (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA43620          | Market Hotness: Listing Views per Property in Sioux Falls, SD (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA43620        | Market Hotness: Listing Views per Property Versus the United States in Sioux Falls, SD (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA43620          | Market Hotness: Listing Views per Property in Sioux Falls, SD (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA43620        | Market Hotness: Median Days on Market in Sioux Falls, SD (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA43620          | Market Hotness: Median Days on Market in Sioux Falls, SD (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA43620        | Market Hotness: Median Days on Market in Sioux Falls, SD (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR43620          | Housing Inventory: Median Days on Market in Sioux Falls, SD (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM43620        | Housing Inventory: Median Days on Market Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY43620        | Housing Inventory: Median Days on Market Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI43620            | Housing Inventory: Median Listing Price in Sioux Falls, SD (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM43620          | Housing Inventory: Median Listing Price Month-Over-Month in Sioux Falls, SD (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE43620   | Housing Inventory: Median Listing Price per Square Feet in Sioux Falls, SD (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM43620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sioux Falls, SD (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY43620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sioux Falls, SD (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY43620          | Housing Inventory: Median Listing Price Year-Over-Year in Sioux Falls, SD (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA43620          | Market Hotness: Median Days on Market in Sioux Falls, SD (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA43620          | Market Hotness: Median Days on Market Versus the United States in Sioux Falls, SD (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA43620          | Market Hotness: Median Days on Market Day in Sioux Falls, SD (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE43620            | Housing Inventory: Median Home Size in Square Feet in Sioux Falls, SD (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM43620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sioux Falls, SD (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY43620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sioux Falls, SD (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA43620          | Market Hotness: Median Listing Price in Sioux Falls, SD (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA43620            | Market Hotness: Median Listing Price in Sioux Falls, SD (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA43620        | Market Hotness: Median Listing Price Versus the United States in Sioux Falls, SD (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA43620          | Market Hotness: Median Listing Price in Sioux Falls, SD (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU43620            | Housing Inventory: New Listing Count in Sioux Falls, SD (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM43620          | Housing Inventory: New Listing Count Month-Over-Month in Sioux Falls, SD (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY43620          | Housing Inventory: New Listing Count Year-Over-Year in Sioux Falls, SD (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA43620          | Market Hotness: Listing Views per Property in Sioux Falls, SD (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA43620        | Market Hotness: Listing Views per Property Versus the United States in Sioux Falls, SD (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA43620          | Market Hotness: Listing Views per Property in Sioux Falls, SD (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA43620        | Market Hotness: Median Days on Market in Sioux Falls, SD (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA43620          | Market Hotness: Median Days on Market in Sioux Falls, SD (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA43620        | Market Hotness: Median Days on Market in Sioux Falls, SD (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR43620          | Housing Inventory: Median Days on Market in Sioux Falls, SD (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM43620        | Housing Inventory: Median Days on Market Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY43620        | Housing Inventory: Median Days on Market Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI43620            | Housing Inventory: Median Listing Price in Sioux Falls, SD (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM43620          | Housing Inventory: Median Listing Price Month-Over-Month in Sioux Falls, SD (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE43620   | Housing Inventory: Median Listing Price per Square Feet in Sioux Falls, SD (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM43620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sioux Falls, SD (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY43620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sioux Falls, SD (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY43620          | Housing Inventory: Median Listing Price Year-Over-Year in Sioux Falls, SD (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA43620          | Market Hotness: Median Days on Market in Sioux Falls, SD (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA43620          | Market Hotness: Median Days on Market Versus the United States in Sioux Falls, SD (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA43620          | Market Hotness: Median Days on Market Day in Sioux Falls, SD (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE43620            | Housing Inventory: Median Home Size in Square Feet in Sioux Falls, SD (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM43620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sioux Falls, SD (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY43620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sioux Falls, SD (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA43620          | Market Hotness: Median Listing Price in Sioux Falls, SD (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA43620            | Market Hotness: Median Listing Price in Sioux Falls, SD (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA43620        | Market Hotness: Median Listing Price Versus the United States in Sioux Falls, SD (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA43620          | Market Hotness: Median Listing Price in Sioux Falls, SD (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU43620            | Housing Inventory: New Listing Count in Sioux Falls, SD (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM43620          | Housing Inventory: New Listing Count Month-Over-Month in Sioux Falls, SD (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY43620          | Housing Inventory: New Listing Count Year-Over-Year in Sioux Falls, SD (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP43620                 | Total Gross Domestic Product for Sioux Falls, SD (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA43620            | Market Hotness: Nielsen Household Rank in Sioux Falls, SD (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA43620            | Market Hotness: Nielsen Household Rank in Sioux Falls, SD (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA143620          | U.S. Granted Utility Patents Originating in Sioux Falls, SD (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU43620            | Housing Inventory: Pending Listing Count in Sioux Falls, SD (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM43620          | Housing Inventory: Pending Listing Count Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY43620          | Housing Inventory: Pending Listing Count Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU43620            | Housing Inventory: Price Increased Count in Sioux Falls, SD (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM43620          | Housing Inventory: Price Increased Count Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY43620          | Housing Inventory: Price Increased Count Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU43620            | Housing Inventory: Price Reduced Count in Sioux Falls, SD (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM43620          | Housing Inventory: Price Reduced Count Month-Over-Month in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY43620          | Housing Inventory: Price Reduced Count Year-Over-Year in Sioux Falls, SD (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU43620            | Housing Inventory: Pending Listing Count in Sioux Falls, SD (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM43620          | Housing Inventory: Pending Listing Count Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY43620          | Housing Inventory: Pending Listing Count Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU43620            | Housing Inventory: Price Increased Count in Sioux Falls, SD (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM43620          | Housing Inventory: Price Increased Count Month-Over-Month in Sioux Falls, SD (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY43620          | Housing Inventory: Price Increased Count Year-Over-Year in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU43620            | Housing Inventory: Price Reduced Count in Sioux Falls, SD (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM43620          | Housing Inventory: Price Reduced Count Month-Over-Month in Sioux Falls, SD (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY43620          | Housing Inventory: Price Reduced Count Year-Over-Year in Sioux Falls, SD (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP43620                 | Total Quantity Indexes for Real GDP for Sioux Falls, SD (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP43620                 | Total Real Gross Domestic Product for Sioux Falls, SD (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI43620                  | Real Personal Income for Sioux Falls, SD (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -154,5 +154,5 @@
 | SMU46436209093000001      | All Employees: Government: Local Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU46436209093000001A     | All Employees: Government: Local Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2021-01-01        |
 | SMU46436209093000001SA    | All Employees: Government: Local Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA43620              | Market Hotness: Supply Score in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA43620              | Market Hotness: Supply Score in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | SXFPOP                    | Resident Population in Sioux Falls, SD (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

@@ -20,7 +20,7 @@
 | Watauga County, NC      |               146 |
 | New Hanover County, NC  |               147 |
 | Washington County, NC   |                90 |
-| Craven County, NC       |               147 |
+| Craven County, NC       |                 0 |
 | Caswell County, NC      |                90 |
 | Bladen County, NC       |                90 |
 | Burke County, NC        |               147 |
@@ -44,7 +44,7 @@
 | Durham County, NC       |               147 |
 | Cumberland County, NC   |               147 |
 | Beaufort County, NC     |               146 |
-| Jones County, NC        |                 0 |
+| Jones County, NC        |                90 |
 | Onslow County, NC       |               147 |
 | Mitchell County, NC     |                89 |
 | Montgomery County, NC   |                90 |
@@ -80,7 +80,7 @@
 | Rockingham County, NC   |               147 |
 | Wake County, NC         |               147 |
 | Pamlico County, NC      |                90 |
-| Lenoir County, NC       |               146 |
+| Lenoir County, NC       |                 0 |
 | Orange County, NC       |               147 |
 | Nash County, NC         |               147 |
 | Iredell County, NC      |               147 |

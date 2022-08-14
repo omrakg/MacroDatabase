@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU34740            | Housing Inventory: Active Listing Count in Muskegon, MI (CBSA)                                              | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM34740          | Housing Inventory: Active Listing Count Month-Over-Month in Muskegon, MI (CBSA)                             | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY34740          | Housing Inventory: Active Listing Count Year-Over-Year in Muskegon, MI (CBSA)                               | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU34740            | Housing Inventory: Active Listing Count in Muskegon, MI (CBSA)                                              | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM34740          | Housing Inventory: Active Listing Count Month-Over-Month in Muskegon, MI (CBSA)                             | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY34740          | Housing Inventory: Active Listing Count Year-Over-Year in Muskegon, MI (CBSA)                               | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS34740Q            | All-Transactions House Price Index for Muskegon, MI (MSA)                                                   | 1985-07-01          | 2022-01-01        |
-| AVELISPRI34740            | Housing Inventory: Average Listing Price in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM34740          | Housing Inventory: Average Listing Price Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY34740          | Housing Inventory: Average Listing Price Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| DESCMSA34740              | Market Hotness: Demand Score in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-06-01        |
+| AVELISPRI34740            | Housing Inventory: Average Listing Price in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM34740          | Housing Inventory: Average Listing Price Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY34740          | Housing Inventory: Average Listing Price Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| DESCMSA34740              | Market Hotness: Demand Score in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-07-01        |
 | ENUC347430010             | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2021-10-01        |
 | ENUC347430010SA           | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2021-10-01        |
 | ENUC347440010             | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC347440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2021-10-01        |
 | ENUC347440510             | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2021-10-01        |
 | ENUC347440510SA           | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA34740            | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
-| HORAMSA34740              | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA34740            | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2018-08-01          | 2022-06-01        |
-| HOSCMSA34740              | Market Hotness: Hotness Score in Muskegon, MI (CBSA)                                                        | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA34740            | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2018-08-01          | 2022-07-01        |
+| HORAMSA34740              | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA34740            | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2018-08-01          | 2022-07-01        |
+| HOSCMSA34740              | Market Hotness: Hotness Score in Muskegon, MI (CBSA)                                                        | 2017-08-01          | 2022-07-01        |
 | IRPD34740                 | Implicit Regional Price Deflator for Muskegon, MI (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | LAUMT263474000000003A     | Unemployment Rate in Muskegon, MI (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
 | LAUMT263474000000004      | Unemployed Persons in Muskegon, MI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
@@ -31,31 +31,31 @@
 | LAUMT263474000000005      | Employed Persons in Muskegon, MI (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
 | LAUMT263474000000005A     | Employed Persons in Muskegon, MI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | LAUMT263474000000006A     | Civilian Labor Force in Muskegon, MI (MSA)                                                                  | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA34740          | Market Hotness: Listing Views per Property in Muskegon, MI (CBSA)                                           | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA34740        | Market Hotness: Listing Views per Property Versus the United States in Muskegon, MI (CBSA)                  | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA34740          | Market Hotness: Listing Views per Property in Muskegon, MI (CBSA)                                           | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA34740        | Market Hotness: Median Days on Market in Muskegon, MI (CBSA)                                                | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA34740          | Market Hotness: Median Days on Market in Muskegon, MI (CBSA)                                                | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA34740        | Market Hotness: Median Days on Market in Muskegon, MI (CBSA)                                                | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR34740          | Housing Inventory: Median Days on Market in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM34740        | Housing Inventory: Median Days on Market Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY34740        | Housing Inventory: Median Days on Market Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI34740            | Housing Inventory: Median Listing Price in Muskegon, MI (CBSA)                                              | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM34740          | Housing Inventory: Median Listing Price Month-Over-Month in Muskegon, MI (CBSA)                             | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE34740   | Housing Inventory: Median Listing Price per Square Feet in Muskegon, MI (CBSA)                              | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM34740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Muskegon, MI (CBSA)             | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY34740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Muskegon, MI (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY34740          | Housing Inventory: Median Listing Price Year-Over-Year in Muskegon, MI (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA34740          | Market Hotness: Median Days on Market in Muskegon, MI (CBSA)                                                | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA34740          | Market Hotness: Median Days on Market Versus the United States in Muskegon, MI (CBSA)                       | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA34740          | Market Hotness: Median Days on Market Day in Muskegon, MI (CBSA)                                            | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE34740            | Housing Inventory: Median Home Size in Square Feet in Muskegon, MI (CBSA)                                   | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM34740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Muskegon, MI (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY34740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Muskegon, MI (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA34740          | Market Hotness: Median Listing Price in Muskegon, MI (CBSA)                                                 | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA34740            | Market Hotness: Median Listing Price in Muskegon, MI (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA34740        | Market Hotness: Median Listing Price Versus the United States in Muskegon, MI (CBSA)                        | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA34740          | Market Hotness: Median Listing Price in Muskegon, MI (CBSA)                                                 | 2018-08-01          | 2022-06-01        |
+| LDPEPRMMMSA34740          | Market Hotness: Listing Views per Property in Muskegon, MI (CBSA)                                           | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA34740        | Market Hotness: Listing Views per Property Versus the United States in Muskegon, MI (CBSA)                  | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA34740          | Market Hotness: Listing Views per Property in Muskegon, MI (CBSA)                                           | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA34740        | Market Hotness: Median Days on Market in Muskegon, MI (CBSA)                                                | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA34740          | Market Hotness: Median Days on Market in Muskegon, MI (CBSA)                                                | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA34740        | Market Hotness: Median Days on Market in Muskegon, MI (CBSA)                                                | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR34740          | Housing Inventory: Median Days on Market in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM34740        | Housing Inventory: Median Days on Market Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY34740        | Housing Inventory: Median Days on Market Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI34740            | Housing Inventory: Median Listing Price in Muskegon, MI (CBSA)                                              | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM34740          | Housing Inventory: Median Listing Price Month-Over-Month in Muskegon, MI (CBSA)                             | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE34740   | Housing Inventory: Median Listing Price per Square Feet in Muskegon, MI (CBSA)                              | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM34740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Muskegon, MI (CBSA)             | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY34740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Muskegon, MI (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY34740          | Housing Inventory: Median Listing Price Year-Over-Year in Muskegon, MI (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA34740          | Market Hotness: Median Days on Market in Muskegon, MI (CBSA)                                                | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA34740          | Market Hotness: Median Days on Market Versus the United States in Muskegon, MI (CBSA)                       | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA34740          | Market Hotness: Median Days on Market Day in Muskegon, MI (CBSA)                                            | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE34740            | Housing Inventory: Median Home Size in Square Feet in Muskegon, MI (CBSA)                                   | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM34740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Muskegon, MI (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY34740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Muskegon, MI (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA34740          | Market Hotness: Median Listing Price in Muskegon, MI (CBSA)                                                 | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA34740            | Market Hotness: Median Listing Price in Muskegon, MI (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA34740        | Market Hotness: Median Listing Price Versus the United States in Muskegon, MI (CBSA)                        | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA34740          | Market Hotness: Median Listing Price in Muskegon, MI (CBSA)                                                 | 2018-08-01          | 2022-07-01        |
 | MNSPOP                    | Resident Population in Muskegon, MI (MSA)                                                                   | 2000-01-01          | 2021-01-01        |
 | MUSK726EDUH               | All Employees: Education and Health Services in Muskegon, MI (MSA)                                          | 1990-01-01          | 2022-06-01        |
 | MUSK726EDUHN              | All Employees: Education and Health Services in Muskegon, MI (MSA)                                          | 1990-01-01          | 2022-06-01        |
@@ -84,21 +84,21 @@
 | MUSK726TRADN              | All Employees: Trade, Transportation, and Utilities in Muskegon, MI (MSA)                                   | 1990-01-01          | 2022-06-01        |
 | MUSK726UR                 | Unemployment Rate in Muskegon, MI (MSA)                                                                     | 1990-01-01          | 2022-06-01        |
 | MUSK726URN                | Unemployment Rate in Muskegon, MI (MSA)                                                                     | 1990-01-01          | 2022-06-01        |
-| NEWLISCOU34740            | Housing Inventory: New Listing Count in Muskegon, MI (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM34740          | Housing Inventory: New Listing Count Month-Over-Month in Muskegon, MI (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY34740          | Housing Inventory: New Listing Count Year-Over-Year in Muskegon, MI (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| NEWLISCOU34740            | Housing Inventory: New Listing Count in Muskegon, MI (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM34740          | Housing Inventory: New Listing Count Month-Over-Month in Muskegon, MI (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY34740          | Housing Inventory: New Listing Count Year-Over-Year in Muskegon, MI (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | NGMP34740                 | Total Gross Domestic Product for Muskegon, MI (MSA)                                                         | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA34740            | Market Hotness: Nielsen Household Rank in Muskegon, MI (CBSA)                                               | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA34740            | Market Hotness: Nielsen Household Rank in Muskegon, MI (CBSA)                                               | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA134740          | U.S. Granted Utility Patents Originating in Muskegon-Norton Shores, MI (MSA)                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU34740            | Housing Inventory: Pending Listing Count in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM34740          | Housing Inventory: Pending Listing Count Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY34740          | Housing Inventory: Pending Listing Count Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU34740            | Housing Inventory: Price Increased Count in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM34740          | Housing Inventory: Price Increased Count Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-10-01          | 2022-06-01        |
-| PRIINCCOUYY34740          | Housing Inventory: Price Increased Count Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-12-01          | 2022-06-01        |
-| PRIREDCOU34740            | Housing Inventory: Price Reduced Count in Muskegon, MI (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM34740          | Housing Inventory: Price Reduced Count Month-Over-Month in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY34740          | Housing Inventory: Price Reduced Count Year-Over-Year in Muskegon, MI (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PENLISCOU34740            | Housing Inventory: Pending Listing Count in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM34740          | Housing Inventory: Pending Listing Count Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY34740          | Housing Inventory: Pending Listing Count Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU34740            | Housing Inventory: Price Increased Count in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM34740          | Housing Inventory: Price Increased Count Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-10-01          | 2022-07-01        |
+| PRIINCCOUYY34740          | Housing Inventory: Price Increased Count Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-12-01          | 2022-07-01        |
+| PRIREDCOU34740            | Housing Inventory: Price Reduced Count in Muskegon, MI (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM34740          | Housing Inventory: Price Reduced Count Month-Over-Month in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY34740          | Housing Inventory: Price Reduced Count Year-Over-Year in Muskegon, MI (CBSA)                                | 2017-07-01          | 2022-07-01        |
 | QGMP34740                 | Total Quantity Indexes for Real GDP for Muskegon, MI (MSA)                                                  | 2001-01-01          | 2020-01-01        |
 | RGMP34740                 | Total Real Gross Domestic Product for Muskegon, MI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RPI34740                  | Real Personal Income for Muskegon, MI (MSA)                                                                 | 2008-01-01          | 2020-01-01        |
@@ -143,4 +143,4 @@
 | SMU26347407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Muskegon, MI (MSA)               | 1990-01-01          | 2022-06-01        |
 | SMU26347408000000001A     | All Employees: Other Services in Muskegon, MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU26347409000000001A     | All Employees: Government in Muskegon, MI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SUSCMSA34740              | Market Hotness: Supply Score in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-06-01        |
+| SUSCMSA34740              | Market Hotness: Supply Score in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-07-01        |

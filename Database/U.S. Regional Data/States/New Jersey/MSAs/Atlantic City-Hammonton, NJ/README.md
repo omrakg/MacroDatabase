@@ -1,8 +1,8 @@
 | id                        | title                                                                                                                        | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU12100            | Housing Inventory: Active Listing Count in Atlantic City-Hammonton, NJ (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM12100          | Housing Inventory: Active Listing Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY12100          | Housing Inventory: Active Listing Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU12100            | Housing Inventory: Active Listing Count in Atlantic City-Hammonton, NJ (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM12100          | Housing Inventory: Active Listing Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY12100          | Housing Inventory: Active Listing Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ACTPOP                    | Resident Population in Atlantic City-Hammonton, NJ (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ATLA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-06-01        |
 | ATLA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-06-01        |
@@ -36,10 +36,10 @@
 | ATLA134UR                 | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | ATLA134URN                | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | ATNHPIUS12100Q            | All-Transactions House Price Index for Atlantic City-Hammonton, NJ (MSA)                                                     | 1982-10-01          | 2022-01-01        |
-| AVELISPRI12100            | Housing Inventory: Average Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM12100          | Housing Inventory: Average Listing Price Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY12100          | Housing Inventory: Average Listing Price Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA12100              | Market Hotness: Demand Score in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI12100            | Housing Inventory: Average Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM12100          | Housing Inventory: Average Listing Price Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY12100          | Housing Inventory: Average Listing Price Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA12100              | Market Hotness: Demand Score in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC121030010             | Total Quarterly Wages in Atlantic City-Hammonton, NJ (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC121030010SA           | Total Quarterly Wages in Atlantic City-Hammonton, NJ (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC121040010             | Average Weekly Wages for Employees in Total Covered Establishments in Atlantic City-Hammonton, NJ (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -52,10 +52,10 @@
 | ENUC121040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Atlantic City-Hammonton, NJ (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC121040510             | Average Weekly Wages for Employees in Private Establishments in Atlantic City-Hammonton, NJ (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC121040510SA           | Average Weekly Wages for Employees in Private Establishments in Atlantic City-Hammonton, NJ (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA12100            | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA12100              | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA12100            | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA12100              | Market Hotness: Hotness Score in Atlantic City-Hammonton, NJ (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA12100            | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA12100              | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA12100            | Market Hotness: Hotness Rank in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA12100              | Market Hotness: Hotness Score in Atlantic City-Hammonton, NJ (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD12100                 | Implicit Regional Price Deflator for Atlantic City-Hammonton, NJ (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT341210000000003A     | Unemployment Rate in Atlantic City-Hammonton, NJ (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT341210000000004      | Unemployed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -63,46 +63,46 @@
 | LAUMT341210000000005      | Employed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT341210000000005A     | Employed Persons in Atlantic City-Hammonton, NJ (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT341210000000006A     | Civilian Labor Force in Atlantic City-Hammonton, NJ (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA12100          | Market Hotness: Listing Views per Property in Atlantic City-Hammonton, NJ (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA12100        | Market Hotness: Listing Views per Property Versus the United States in Atlantic City-Hammonton, NJ (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA12100          | Market Hotness: Listing Views per Property in Atlantic City-Hammonton, NJ (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA12100        | Market Hotness: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA12100          | Market Hotness: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA12100        | Market Hotness: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR12100          | Housing Inventory: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM12100        | Housing Inventory: Median Days on Market Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY12100        | Housing Inventory: Median Days on Market Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI12100            | Housing Inventory: Median Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM12100          | Housing Inventory: Median Listing Price Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE12100   | Housing Inventory: Median Listing Price per Square Feet in Atlantic City-Hammonton, NJ (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM12100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY12100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY12100          | Housing Inventory: Median Listing Price Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA12100          | Market Hotness: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA12100          | Market Hotness: Median Days on Market Versus the United States in Atlantic City-Hammonton, NJ (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA12100          | Market Hotness: Median Days on Market Day in Atlantic City-Hammonton, NJ (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE12100            | Housing Inventory: Median Home Size in Square Feet in Atlantic City-Hammonton, NJ (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM12100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY12100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA12100          | Market Hotness: Median Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA12100            | Market Hotness: Median Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA12100        | Market Hotness: Median Listing Price Versus the United States in Atlantic City-Hammonton, NJ (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA12100          | Market Hotness: Median Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU12100            | Housing Inventory: New Listing Count in Atlantic City-Hammonton, NJ (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM12100          | Housing Inventory: New Listing Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY12100          | Housing Inventory: New Listing Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA12100          | Market Hotness: Listing Views per Property in Atlantic City-Hammonton, NJ (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA12100        | Market Hotness: Listing Views per Property Versus the United States in Atlantic City-Hammonton, NJ (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA12100          | Market Hotness: Listing Views per Property in Atlantic City-Hammonton, NJ (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA12100        | Market Hotness: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA12100          | Market Hotness: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA12100        | Market Hotness: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR12100          | Housing Inventory: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM12100        | Housing Inventory: Median Days on Market Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY12100        | Housing Inventory: Median Days on Market Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI12100            | Housing Inventory: Median Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM12100          | Housing Inventory: Median Listing Price Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE12100   | Housing Inventory: Median Listing Price per Square Feet in Atlantic City-Hammonton, NJ (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM12100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY12100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY12100          | Housing Inventory: Median Listing Price Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA12100          | Market Hotness: Median Days on Market in Atlantic City-Hammonton, NJ (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA12100          | Market Hotness: Median Days on Market Versus the United States in Atlantic City-Hammonton, NJ (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA12100          | Market Hotness: Median Days on Market Day in Atlantic City-Hammonton, NJ (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE12100            | Housing Inventory: Median Home Size in Square Feet in Atlantic City-Hammonton, NJ (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM12100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY12100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA12100          | Market Hotness: Median Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA12100            | Market Hotness: Median Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA12100        | Market Hotness: Median Listing Price Versus the United States in Atlantic City-Hammonton, NJ (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA12100          | Market Hotness: Median Listing Price in Atlantic City-Hammonton, NJ (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU12100            | Housing Inventory: New Listing Count in Atlantic City-Hammonton, NJ (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM12100          | Housing Inventory: New Listing Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY12100          | Housing Inventory: New Listing Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP12100                 | Total Gross Domestic Product for Atlantic City-Hammonton, NJ (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA12100            | Market Hotness: Nielsen Household Rank in Atlantic City-Hammonton, NJ (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA12100            | Market Hotness: Nielsen Household Rank in Atlantic City-Hammonton, NJ (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA112100          | U.S. Granted Utility Patents Originating in Atlantic City-Hammonton, NJ (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU12100            | Housing Inventory: Pending Listing Count in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM12100          | Housing Inventory: Pending Listing Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY12100          | Housing Inventory: Pending Listing Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU12100            | Housing Inventory: Price Increased Count in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM12100          | Housing Inventory: Price Increased Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY12100          | Housing Inventory: Price Increased Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU12100            | Housing Inventory: Price Reduced Count in Atlantic City-Hammonton, NJ (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM12100          | Housing Inventory: Price Reduced Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY12100          | Housing Inventory: Price Reduced Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU12100            | Housing Inventory: Pending Listing Count in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM12100          | Housing Inventory: Pending Listing Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY12100          | Housing Inventory: Pending Listing Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU12100            | Housing Inventory: Price Increased Count in Atlantic City-Hammonton, NJ (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM12100          | Housing Inventory: Price Increased Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY12100          | Housing Inventory: Price Increased Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU12100            | Housing Inventory: Price Reduced Count in Atlantic City-Hammonton, NJ (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM12100          | Housing Inventory: Price Reduced Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY12100          | Housing Inventory: Price Reduced Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP12100                 | Total Quantity Indexes for Real GDP for Atlantic City-Hammonton, NJ (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP12100                 | Total Real Gross Domestic Product for Atlantic City-Hammonton, NJ (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI12100                  | Real Personal Income for Atlantic City-Hammonton, NJ (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -174,4 +174,4 @@
 | SMU34121009093000001      | All Employees: Government: Local Government in Atlantic City-Hammonton, NJ (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU34121009093000001A     | All Employees: Local Government in Atlantic City-Hammonton, NJ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU34121009093000001SA    | All Employees: Government: Local Government in Atlantic City-Hammonton, NJ (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA12100              | Market Hotness: Supply Score in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA12100              | Market Hotness: Supply Score in Atlantic City-Hammonton, NJ (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

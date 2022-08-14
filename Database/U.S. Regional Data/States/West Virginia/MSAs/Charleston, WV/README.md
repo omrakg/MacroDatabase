@@ -1,12 +1,12 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU16620            | Housing Inventory: Active Listing Count in Charleston, WV (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM16620          | Housing Inventory: Active Listing Count Month-Over-Month in Charleston, WV (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY16620          | Housing Inventory: Active Listing Count Year-Over-Year in Charleston, WV (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU16620            | Housing Inventory: Active Listing Count in Charleston, WV (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM16620          | Housing Inventory: Active Listing Count Month-Over-Month in Charleston, WV (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY16620          | Housing Inventory: Active Listing Count Year-Over-Year in Charleston, WV (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS16620Q            | All-Transactions House Price Index for Charleston, WV (MSA)                                                     | 1986-04-01          | 2022-01-01        |
-| AVELISPRI16620            | Housing Inventory: Average Listing Price in Charleston, WV (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM16620          | Housing Inventory: Average Listing Price Month-Over-Month in Charleston, WV (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY16620          | Housing Inventory: Average Listing Price Year-Over-Year in Charleston, WV (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| AVELISPRI16620            | Housing Inventory: Average Listing Price in Charleston, WV (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM16620          | Housing Inventory: Average Listing Price Month-Over-Month in Charleston, WV (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY16620          | Housing Inventory: Average Listing Price Year-Over-Year in Charleston, WV (CBSA)                                | 2017-07-01          | 2022-07-01        |
 | CHAR654EDUH               | All Employees: Education and Health Services in Charleston, WV (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | CHAR654EDUHN              | All Employees: Education and Health Services in Charleston, WV (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | CHAR654FIRE               | All Employees: Financial Activities in Charleston, WV (MSA)                                                     | 1990-01-01          | 2022-06-01        |
@@ -35,7 +35,7 @@
 | CHAR654UR                 | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | CHAR654URN                | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | CHRPOP                    | Resident Population in Charleston, WV (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| DESCMSA16620              | Market Hotness: Demand Score in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| DESCMSA16620              | Market Hotness: Demand Score in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC166230010             | Total Quarterly Wages in Charleston, WV (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC166230010SA           | Total Quarterly Wages in Charleston, WV (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC166240010             | Average Weekly Wages for Employees in Total Covered Establishments in Charleston, WV (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -48,10 +48,10 @@
 | ENUC166240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Charleston, WV (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC166240510             | Average Weekly Wages for Employees in Private Establishments in Charleston, WV (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC166240510SA           | Average Weekly Wages for Employees in Private Establishments in Charleston, WV (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA16620            | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA16620              | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA16620            | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA16620              | Market Hotness: Hotness Score in Charleston, WV (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA16620            | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA16620              | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA16620            | Market Hotness: Hotness Rank in Charleston, WV (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA16620              | Market Hotness: Hotness Score in Charleston, WV (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD16620                 | Implicit Regional Price Deflator for Charleston, WV (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT541662000000003A     | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT541662000000004      | Unemployed Persons in Charleston, WV (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -59,46 +59,46 @@
 | LAUMT541662000000005      | Employed Persons in Charleston, WV (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT541662000000005A     | Employed Persons in Charleston, WV (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT541662000000006A     | Civilian Labor Force in Charleston, WV (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA16620          | Market Hotness: Listing Views per Property in Charleston, WV (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA16620        | Market Hotness: Listing Views per Property Versus the United States in Charleston, WV (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA16620          | Market Hotness: Listing Views per Property in Charleston, WV (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA16620        | Market Hotness: Median Days on Market in Charleston, WV (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA16620          | Market Hotness: Median Days on Market in Charleston, WV (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA16620        | Market Hotness: Median Days on Market in Charleston, WV (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR16620          | Housing Inventory: Median Days on Market in Charleston, WV (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM16620        | Housing Inventory: Median Days on Market Month-Over-Month in Charleston, WV (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY16620        | Housing Inventory: Median Days on Market Year-Over-Year in Charleston, WV (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI16620            | Housing Inventory: Median Listing Price in Charleston, WV (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM16620          | Housing Inventory: Median Listing Price Month-Over-Month in Charleston, WV (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE16620   | Housing Inventory: Median Listing Price per Square Feet in Charleston, WV (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM16620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Charleston, WV (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY16620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Charleston, WV (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY16620          | Housing Inventory: Median Listing Price Year-Over-Year in Charleston, WV (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA16620          | Market Hotness: Median Days on Market in Charleston, WV (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA16620          | Market Hotness: Median Days on Market Versus the United States in Charleston, WV (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA16620          | Market Hotness: Median Days on Market Day in Charleston, WV (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE16620            | Housing Inventory: Median Home Size in Square Feet in Charleston, WV (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM16620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Charleston, WV (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY16620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Charleston, WV (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA16620          | Market Hotness: Median Listing Price in Charleston, WV (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA16620            | Market Hotness: Median Listing Price in Charleston, WV (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA16620        | Market Hotness: Median Listing Price Versus the United States in Charleston, WV (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA16620          | Market Hotness: Median Listing Price in Charleston, WV (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU16620            | Housing Inventory: New Listing Count in Charleston, WV (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM16620          | Housing Inventory: New Listing Count Month-Over-Month in Charleston, WV (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY16620          | Housing Inventory: New Listing Count Year-Over-Year in Charleston, WV (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA16620          | Market Hotness: Listing Views per Property in Charleston, WV (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA16620        | Market Hotness: Listing Views per Property Versus the United States in Charleston, WV (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA16620          | Market Hotness: Listing Views per Property in Charleston, WV (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA16620        | Market Hotness: Median Days on Market in Charleston, WV (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA16620          | Market Hotness: Median Days on Market in Charleston, WV (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA16620        | Market Hotness: Median Days on Market in Charleston, WV (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR16620          | Housing Inventory: Median Days on Market in Charleston, WV (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM16620        | Housing Inventory: Median Days on Market Month-Over-Month in Charleston, WV (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY16620        | Housing Inventory: Median Days on Market Year-Over-Year in Charleston, WV (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI16620            | Housing Inventory: Median Listing Price in Charleston, WV (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM16620          | Housing Inventory: Median Listing Price Month-Over-Month in Charleston, WV (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE16620   | Housing Inventory: Median Listing Price per Square Feet in Charleston, WV (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM16620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Charleston, WV (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY16620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Charleston, WV (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY16620          | Housing Inventory: Median Listing Price Year-Over-Year in Charleston, WV (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA16620          | Market Hotness: Median Days on Market in Charleston, WV (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA16620          | Market Hotness: Median Days on Market Versus the United States in Charleston, WV (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA16620          | Market Hotness: Median Days on Market Day in Charleston, WV (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE16620            | Housing Inventory: Median Home Size in Square Feet in Charleston, WV (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM16620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Charleston, WV (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY16620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Charleston, WV (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA16620          | Market Hotness: Median Listing Price in Charleston, WV (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA16620            | Market Hotness: Median Listing Price in Charleston, WV (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA16620        | Market Hotness: Median Listing Price Versus the United States in Charleston, WV (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA16620          | Market Hotness: Median Listing Price in Charleston, WV (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU16620            | Housing Inventory: New Listing Count in Charleston, WV (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM16620          | Housing Inventory: New Listing Count Month-Over-Month in Charleston, WV (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY16620          | Housing Inventory: New Listing Count Year-Over-Year in Charleston, WV (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP16620                 | Total Gross Domestic Product for Charleston, WV (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA16620            | Market Hotness: Nielsen Household Rank in Charleston, WV (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA16620            | Market Hotness: Nielsen Household Rank in Charleston, WV (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA116620          | U.S. Granted Utility Patents Originating in Charleston, WV (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU16620            | Housing Inventory: Pending Listing Count in Charleston, WV (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM16620          | Housing Inventory: Pending Listing Count Month-Over-Month in Charleston, WV (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY16620          | Housing Inventory: Pending Listing Count Year-Over-Year in Charleston, WV (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU16620            | Housing Inventory: Price Increased Count in Charleston, WV (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOU16620            | Housing Inventory: Pending Listing Count in Charleston, WV (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM16620          | Housing Inventory: Pending Listing Count Month-Over-Month in Charleston, WV (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY16620          | Housing Inventory: Pending Listing Count Year-Over-Year in Charleston, WV (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU16620            | Housing Inventory: Price Increased Count in Charleston, WV (CBSA)                                               | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM16620          | Housing Inventory: Price Increased Count Month-Over-Month in Charleston, WV (CBSA)                              | 2017-07-01          | 2021-09-01        |
 | PRIINCCOUYY16620          | Housing Inventory: Price Increased Count Year-Over-Year in Charleston, WV (CBSA)                                | 2017-08-01          | 2022-04-01        |
-| PRIREDCOU16620            | Housing Inventory: Price Reduced Count in Charleston, WV (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM16620          | Housing Inventory: Price Reduced Count Month-Over-Month in Charleston, WV (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY16620          | Housing Inventory: Price Reduced Count Year-Over-Year in Charleston, WV (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU16620            | Housing Inventory: Price Reduced Count in Charleston, WV (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM16620          | Housing Inventory: Price Reduced Count Month-Over-Month in Charleston, WV (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY16620          | Housing Inventory: Price Reduced Count Year-Over-Year in Charleston, WV (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP16620                 | Total Quantity Indexes for Real GDP for Charleston, WV (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP16620                 | Total Real Gross Domestic Product for Charleston, WV (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI16620                  | Real Personal Income for Charleston, WV (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -168,4 +168,4 @@
 | SMU54166209093000001      | All Employees: Government: Local Government in Charleston, WV (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU54166209093000001A     | All Employees: Local Government in Charleston, WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU54166209093000001SA    | All Employees: Government: Local Government in Charleston, WV (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA16620              | Market Hotness: Supply Score in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA16620              | Market Hotness: Supply Score in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

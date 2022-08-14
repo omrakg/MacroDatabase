@@ -13,8 +13,8 @@
 | Roberts County, TX       |                88 |
 | Washington County, TX    |                90 |
 | Montague County, TX      |                90 |
-| Trinity County, TX       |                88 |
-| Smith County, TX         |                 0 |
+| Trinity County, TX       |                 0 |
+| Smith County, TX         |               147 |
 | Lamar County, TX         |               142 |
 | Kendall County, TX       |                90 |
 | Presidio County, TX      |                88 |
@@ -73,7 +73,7 @@
 | Wichita County, TX       |               147 |
 | Collingsworth County, TX |                88 |
 | San Jacinto County, TX   |                90 |
-| Liberty County, TX       |               147 |
+| Liberty County, TX       |                 0 |
 | Cherokee County, TX      |                89 |
 | Gray County, TX          |                89 |
 | Palo Pinto County, TX    |                90 |
@@ -112,7 +112,7 @@
 | Williamson County, TX    |               147 |
 | King County, TX          |                81 |
 | Nacogdoches County, TX   |               146 |
-| San Saba County, TX      |                 0 |
+| San Saba County, TX      |                88 |
 | Kimble County, TX        |                89 |
 | Willacy County, TX       |                89 |
 | Rockwall County, TX      |               147 |
@@ -133,7 +133,7 @@
 | Kleberg County, TX       |                89 |
 | Upton County, TX         |                88 |
 | Bandera County, TX       |                90 |
-| Scurry County, TX        |                89 |
+| Scurry County, TX        |                 0 |
 | Jim Wells County, TX     |                90 |
 | Live Oak County, TX      |                89 |
 | El Paso County, TX       |               147 |
@@ -172,7 +172,7 @@
 | Grimes County, TX        |                89 |
 | Hardeman County, TX      |                89 |
 | Schleicher County, TX    |                88 |
-| McMullen County, TX      |                 0 |
+| McMullen County, TX      |                85 |
 | Loving County, TX        |                81 |
 | Dawson County, TX        |                89 |
 | Jones County, TX         |                89 |
@@ -193,7 +193,7 @@
 | Hall County, TX          |                88 |
 | Tyler County, TX         |                89 |
 | Fort Bend County, TX     |               147 |
-| Stonewall County, TX     |                87 |
+| Stonewall County, TX     |                 0 |
 | Fannin County, TX        |                90 |
 | Foard County, TX         |                87 |
 | Morris County, TX        |                88 |
@@ -232,7 +232,7 @@
 | Upshur County, TX        |                90 |
 | Terrell County, TX       |                85 |
 | Lampasas County, TX      |                90 |
-| Glasscock County, TX     |                 0 |
+| Glasscock County, TX     |                84 |
 | Denton County, TX        |               147 |
 | Deaf Smith County, TX    |                89 |
 | Angelina County, TX      |               147 |

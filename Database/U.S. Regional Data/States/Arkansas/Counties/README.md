@@ -36,8 +36,8 @@
 | Greene County, AR       |                90 |
 | Crawford County, AR     |               146 |
 | Crittenden County, AR   |               146 |
-| Nevada County, AR       |                89 |
-| Independence County, AR |                 0 |
+| Nevada County, AR       |                 0 |
+| Independence County, AR |                90 |
 | Newton County, AR       |                89 |
 | Woodruff County, AR     |                88 |
 | Pike County, AR         |                87 |

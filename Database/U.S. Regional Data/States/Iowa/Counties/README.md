@@ -19,14 +19,14 @@
 | Monroe County, IA        |                88 |
 | Adams County, IA         |                89 |
 | Carroll County, IA       |                90 |
-| Howard County, IA        |                 0 |
+| Howard County, IA        |                90 |
 | Lucas County, IA         |                89 |
 | Buena Vista County, IA   |                90 |
 | Jackson County, IA       |                89 |
 | Clayton County, IA       |                90 |
 | Emmet County, IA         |                90 |
 | Jasper County, IA        |                90 |
-| Keokuk County, IA        |                89 |
+| Keokuk County, IA        |                 0 |
 | Tama County, IA          |                90 |
 | Des Moines County, IA    |                90 |
 | Mitchell County, IA      |                90 |
@@ -86,7 +86,7 @@
 | Washington County, IA    |                89 |
 | Johnson County, IA       |               147 |
 | Taylor County, IA        |                89 |
-| Clarke County, IA        |                90 |
+| Clarke County, IA        |                 0 |
 | Jones County, IA         |                90 |
 | Winneshiek County, IA    |                90 |
 | Cass County, IA          |                90 |

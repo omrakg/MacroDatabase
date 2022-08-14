@@ -22,7 +22,7 @@
 | Solomon Islands                                      |               167 |
 | Chile                                                |               854 |
 | Australia                                            |                 5 |
-| Russian Federation                                   |               777 |
+| Russian Federation                                   |                 0 |
 | Central African Republic                             |               185 |
 | Saint Pierre and Miquelon                            |                33 |
 | Myanmar                                              |               287 |
@@ -54,7 +54,7 @@
 | Colombia                                             |               919 |
 | Sweden                                               |                 5 |
 | Turkey                                               |               887 |
-| Botswana                                             |                 0 |
+| Botswana                                             |               293 |
 | Dominican Republic                                   |               287 |
 | Nicaragua                                            |               235 |
 | Svalbard and Jan Mayen                               |                43 |
@@ -92,7 +92,7 @@
 | New Zealand                                          |                 5 |
 | Georgia                                              |                 0 |
 | Mauritius                                            |               271 |
-| Rwanda                                               |               300 |
+| Rwanda                                               |                 0 |
 | Heard Island and McDonald Islands                    |                31 |
 | Norway                                               |                 5 |
 | Guatemala                                            |               237 |
@@ -161,7 +161,7 @@
 | Senegal                                              |               235 |
 | Jersey                                               |                 0 |
 | United States Minor Outlying Islands                 |                 0 |
-| Hungary                                              |               864 |
+| Hungary                                              |                 0 |
 | Yemen, Republic of                                   |               201 |
 | Niue                                                 |                39 |
 | Canada                                               |               723 |
@@ -229,7 +229,7 @@
 | Netherlands                                          |                 1 |
 | Anguilla                                             |               109 |
 | Virgin Islands, U.S.                                 |               144 |
-| Holy See (Vatican City State)                        |                 0 |
+| Holy See (Vatican City State)                        |                58 |
 | Lithuania                                            |               979 |
 | Macedonia, Former Yugoslav Republic of               |               240 |
 | Côte d’Ivoire                                        |               224 |
@@ -240,7 +240,7 @@
 | Denmark                                              |                 5 |
 | Marshall Islands                                     |               110 |
 | Cook Islands                                         |                56 |
-| Bulgaria                                             |               420 |
+| Bulgaria                                             |                 0 |
 | Curaçao                                              |               116 |
 | Viet Nam                                             |               227 |
 | Palestinian Territories                              |               209 |

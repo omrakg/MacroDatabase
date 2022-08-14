@@ -14,7 +14,7 @@
 | Marquette County, WI                    |                89 |
 | Calumet County, WI                      |               144 |
 | Monroe County, WI                       |                90 |
-| Dodge County, WI                        |                 0 |
+| Dodge County, WI                        |               147 |
 | Forest County, WI                       |                90 |
 | Fond Du Lac County, WI                  |               147 |
 | Door County, WI                         |                90 |

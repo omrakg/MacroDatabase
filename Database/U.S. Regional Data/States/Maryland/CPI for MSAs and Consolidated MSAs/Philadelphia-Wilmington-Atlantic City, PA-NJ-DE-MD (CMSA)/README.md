@@ -1,7 +1,7 @@
 | id              | title                                                                                                                                            | observation_start   | observation_end   |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | CUURA102SA0     | Consumer Price Index for All Urban Consumers: All Items in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                    | 1914-12-01          | 2022-06-01        |
-| CUURA102SA0E    | Consumer Price Index for All Urban Consumers: Energy in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                       | 1977-12-01          | 2022-06-01        |
+| CUURA102SA0E    | Consumer Price Index for All Urban Consumers: Energy in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                       | 1977-12-01          | 2022-07-01        |
 | CUURA102SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)               | 1982-01-01          | 2022-06-01        |
 | CUURA102SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                       | 1976-01-01          | 2022-06-01        |
 | CUURA102SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                  | 1967-01-01          | 2022-06-01        |
@@ -16,16 +16,16 @@
 | CUURA102SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)         | 2009-12-01          | 2022-06-01        |
 | CUURA102SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                           | 1976-01-01          | 2022-06-01        |
 | CUURA102SAF1    | Consumer Price Index for All Urban Consumers: Food in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                         | 1914-12-01          | 2022-06-01        |
-| CUURA102SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                 | 1953-01-01          | 2022-06-01        |
+| CUURA102SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                 | 1953-01-01          | 2022-07-01        |
 | CUURA102SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                          | 1976-01-01          | 2022-06-01        |
 | CUURA102SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                     | 1976-01-01          | 2022-06-01        |
 | CUURA102SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                  | 2009-12-01          | 2022-06-01        |
 | CUURA102SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                      | 2009-12-01          | 2022-06-01        |
 | CUURA102SAH     | Consumer Price Index for All Urban Consumers: Housing in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                      | 1976-01-01          | 2022-06-01        |
-| CUURA102SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                      | 1952-12-01          | 2022-06-01        |
+| CUURA102SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                      | 1952-12-01          | 2022-07-01        |
 | CUURA102SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                          | 1952-12-01          | 2022-06-01        |
 | CUURA102SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)         | 1976-01-01          | 2022-06-01        |
-| CUURA102SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                             | 1976-01-01          | 2022-06-01        |
+| CUURA102SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                             | 1976-01-01          | 2022-07-01        |
 | CUURA102SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)           | 2009-12-01          | 2022-06-01        |
 | CUURA102SAM     | Consumer Price Index for All Urban Consumers: Medical Care in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                 | 1947-01-01          | 2022-06-01        |
 | CUURA102SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                  | 1967-01-01          | 2022-06-01        |
@@ -39,14 +39,14 @@
 | CUURA102SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                       | 1947-01-01          | 2022-06-01        |
 | CUURA102SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)   | 2009-12-01          | 2022-06-01        |
 | CUURA102SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                          | 1952-12-01          | 2022-06-01        |
-| CUURA102SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                    | 1914-12-01          | 2022-06-01        |
-| CUURA102SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)        | 1982-12-01          | 2022-06-01        |
-| CUURA102SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA) | 1982-12-01          | 2022-06-01        |
-| CUURA102SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                              | 1935-03-01          | 2022-06-01        |
-| CUURA102SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                  | 1971-05-01          | 2022-06-01        |
-| CUURA102SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                  | 1971-05-01          | 2022-06-01        |
-| CUURA102SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                   | 1977-12-01          | 2022-06-01        |
-| CUURA102SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                         | 1977-12-01          | 2022-06-01        |
-| CUURA102SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                   | 1976-01-01          | 2022-06-01        |
-| CUURA102SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                  | 1993-12-01          | 2022-06-01        |
-| CUURA102SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                   | 1981-08-01          | 2022-06-01        |
+| CUURA102SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                    | 1914-12-01          | 2022-07-01        |
+| CUURA102SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)        | 1982-12-01          | 2022-07-01        |
+| CUURA102SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA) | 1982-12-01          | 2022-07-01        |
+| CUURA102SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                              | 1935-03-01          | 2022-07-01        |
+| CUURA102SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                  | 1971-05-01          | 2022-07-01        |
+| CUURA102SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                  | 1971-05-01          | 2022-07-01        |
+| CUURA102SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                                   | 1977-12-01          | 2022-07-01        |
+| CUURA102SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                         | 1977-12-01          | 2022-07-01        |
+| CUURA102SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                   | 1976-01-01          | 2022-07-01        |
+| CUURA102SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                  | 1993-12-01          | 2022-07-01        |
+| CUURA102SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (CBSA)                   | 1981-08-01          | 2022-07-01        |

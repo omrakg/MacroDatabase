@@ -7,7 +7,7 @@
 | Bristol County, MA    |               146 |
 | Dukes County, MA      |                89 |
 | Barnstable County, MA |               146 |
-| Norfolk County, MA    |                 0 |
+| Norfolk County, MA    |               146 |
 | Berkshire County, MA  |               146 |
 | Hampden County, MA    |               146 |
 | Plymouth County, MA   |               146 |

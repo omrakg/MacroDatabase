@@ -27,7 +27,7 @@
 | Jackson County, IN     |                89 |
 | Lake County, IN        |               147 |
 | Lawrence County, IN    |               146 |
-| La Porte County, IN    |                 0 |
+| La Porte County, IN    |               147 |
 | Porter County, IN      |               147 |
 | Pulaski County, IN     |                90 |
 | Elkhart County, IN     |               147 |
@@ -63,7 +63,7 @@
 | Marion County, IN      |               146 |
 | Union County, IN       |                89 |
 | Blackford County, IN   |                89 |
-| Scott County, IN       |                90 |
+| Scott County, IN       |                 0 |
 | Parke County, IN       |                89 |
 | Tippecanoe County, IN  |               147 |
 | Clark County, IN       |               147 |
@@ -87,7 +87,7 @@
 | Whitley County, IN     |                90 |
 | Jefferson County, IN   |                88 |
 | Fayette County, IN     |                90 |
-| Washington County, IN  |                 0 |
+| Washington County, IN  |                89 |
 | Hamilton County, IN    |               146 |
 | Owen County, IN        |                90 |
 | St. Joseph County, IN  |               147 |

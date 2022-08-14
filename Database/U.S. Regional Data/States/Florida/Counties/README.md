@@ -23,7 +23,7 @@
 | St. Lucie County, FL    |               147 |
 | Volusia County, FL      |               147 |
 | Columbia County, FL     |               146 |
-| Brevard County, FL      |                 0 |
+| Brevard County, FL      |               147 |
 | Gilchrist County, FL    |                90 |
 | Highlands County, FL    |               147 |
 | Okeechobee County, FL   |                89 |
@@ -59,7 +59,7 @@
 | Duval County, FL        |               146 |
 | Gadsden County, FL      |                90 |
 | Gulf County, FL         |                90 |
-| Jefferson County, FL    |                89 |
+| Jefferson County, FL    |                 0 |
 | Baker County, FL        |                90 |
 | Lake County, FL         |               147 |
 | Bradford County, FL     |                90 |

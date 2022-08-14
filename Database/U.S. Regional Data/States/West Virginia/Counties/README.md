@@ -36,7 +36,7 @@
 | Gilmer County, WV     |                88 |
 | Pleasants County, WV  |                88 |
 | Jackson County, WV    |                90 |
-| Barbour County, WV    |                89 |
+| Barbour County, WV    |                 0 |
 | Preston County, WV    |                88 |
 | Mason County, WV      |                89 |
 | Lincoln County, WV    |                88 |
@@ -44,7 +44,7 @@
 | Brooke County, WV     |                90 |
 | Marion County, WV     |               146 |
 | Mercer County, WV     |               146 |
-| Clay County, WV       |                 0 |
+| Clay County, WV       |                88 |
 | Hancock County, WV    |                90 |
 | Morgan County, WV     |                89 |
 | Lewis County, WV      |                89 |

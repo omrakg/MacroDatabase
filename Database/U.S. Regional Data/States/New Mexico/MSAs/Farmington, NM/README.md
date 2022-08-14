@@ -1,12 +1,12 @@
 | id                        | title                                                                                                | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU22140            | Housing Inventory: Active Listing Count in Farmington, NM (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM22140          | Housing Inventory: Active Listing Count Month-Over-Month in Farmington, NM (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY22140          | Housing Inventory: Active Listing Count Year-Over-Year in Farmington, NM (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU22140            | Housing Inventory: Active Listing Count in Farmington, NM (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM22140          | Housing Inventory: Active Listing Count Month-Over-Month in Farmington, NM (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY22140          | Housing Inventory: Active Listing Count Year-Over-Year in Farmington, NM (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS22140Q            | All-Transactions House Price Index for Farmington, NM (MSA)                                          | 1985-01-01          | 2022-01-01        |
-| AVELISPRI22140            | Housing Inventory: Average Listing Price in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM22140          | Housing Inventory: Average Listing Price Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY22140          | Housing Inventory: Average Listing Price Year-Over-Year in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-06-01        |
+| AVELISPRI22140            | Housing Inventory: Average Listing Price in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM22140          | Housing Inventory: Average Listing Price Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY22140          | Housing Inventory: Average Listing Price Year-Over-Year in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-07-01        |
 | ENUC221430010             | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC221430010SA           | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC221440010             | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2021-10-01        |
@@ -40,32 +40,32 @@
 | LAUMT352214000000005      | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2022-06-01        |
 | LAUMT352214000000005A     | Employed Persons in Farmington, NM (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT352214000000006A     | Civilian Labor Force in Farmington, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR22140          | Housing Inventory: Median Days on Market in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM22140        | Housing Inventory: Median Days on Market Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY22140        | Housing Inventory: Median Days on Market Year-Over-Year in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI22140            | Housing Inventory: Median Listing Price in Farmington, NM (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM22140          | Housing Inventory: Median Listing Price Month-Over-Month in Farmington, NM (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE22140   | Housing Inventory: Median Listing Price per Square Feet in Farmington, NM (CBSA)                     | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM22140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Farmington, NM (CBSA)    | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY22140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Farmington, NM (CBSA)      | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY22140          | Housing Inventory: Median Listing Price Year-Over-Year in Farmington, NM (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE22140            | Housing Inventory: Median Home Size in Square Feet in Farmington, NM (CBSA)                          | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM22140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Farmington, NM (CBSA)         | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY22140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Farmington, NM (CBSA)           | 2017-07-01          | 2022-06-01        |
-| NEWLISCOU22140            | Housing Inventory: New Listing Count in Farmington, NM (CBSA)                                        | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM22140          | Housing Inventory: New Listing Count Month-Over-Month in Farmington, NM (CBSA)                       | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY22140          | Housing Inventory: New Listing Count Year-Over-Year in Farmington, NM (CBSA)                         | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR22140          | Housing Inventory: Median Days on Market in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM22140        | Housing Inventory: Median Days on Market Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY22140        | Housing Inventory: Median Days on Market Year-Over-Year in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI22140            | Housing Inventory: Median Listing Price in Farmington, NM (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM22140          | Housing Inventory: Median Listing Price Month-Over-Month in Farmington, NM (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE22140   | Housing Inventory: Median Listing Price per Square Feet in Farmington, NM (CBSA)                     | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM22140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Farmington, NM (CBSA)    | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY22140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Farmington, NM (CBSA)      | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY22140          | Housing Inventory: Median Listing Price Year-Over-Year in Farmington, NM (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE22140            | Housing Inventory: Median Home Size in Square Feet in Farmington, NM (CBSA)                          | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM22140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Farmington, NM (CBSA)         | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY22140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Farmington, NM (CBSA)           | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU22140            | Housing Inventory: New Listing Count in Farmington, NM (CBSA)                                        | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM22140          | Housing Inventory: New Listing Count Month-Over-Month in Farmington, NM (CBSA)                       | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY22140          | Housing Inventory: New Listing Count Year-Over-Year in Farmington, NM (CBSA)                         | 2017-07-01          | 2022-07-01        |
 | NGMP22140                 | Total Gross Domestic Product for Farmington, NM (MSA)                                                | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA122140          | U.S. Granted Utility Patents Originating in Farmington, NM (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU22140            | Housing Inventory: Pending Listing Count in Farmington, NM (CBSA)                                    | 2016-09-01          | 2022-06-01        |
-| PENLISCOUMM22140          | Housing Inventory: Pending Listing Count Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY22140          | Housing Inventory: Pending Listing Count Year-Over-Year in Farmington, NM (CBSA)                     | 2018-02-01          | 2022-06-01        |
-| PRIINCCOU22140            | Housing Inventory: Price Increased Count in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM22140          | Housing Inventory: Price Increased Count Month-Over-Month in Farmington, NM (CBSA)                   | 2018-05-01          | 2022-05-01        |
+| PENLISCOU22140            | Housing Inventory: Pending Listing Count in Farmington, NM (CBSA)                                    | 2016-09-01          | 2022-07-01        |
+| PENLISCOUMM22140          | Housing Inventory: Pending Listing Count Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY22140          | Housing Inventory: Pending Listing Count Year-Over-Year in Farmington, NM (CBSA)                     | 2018-02-01          | 2022-07-01        |
+| PRIINCCOU22140            | Housing Inventory: Price Increased Count in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM22140          | Housing Inventory: Price Increased Count Month-Over-Month in Farmington, NM (CBSA)                   | 2018-05-01          | 2022-07-01        |
 | PRIINCCOUYY22140          | Housing Inventory: Price Increased Count Year-Over-Year in Farmington, NM (CBSA)                     | 2018-04-01          | 2022-06-01        |
-| PRIREDCOU22140            | Housing Inventory: Price Reduced Count in Farmington, NM (CBSA)                                      | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM22140          | Housing Inventory: Price Reduced Count Month-Over-Month in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY22140          | Housing Inventory: Price Reduced Count Year-Over-Year in Farmington, NM (CBSA)                       | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU22140            | Housing Inventory: Price Reduced Count in Farmington, NM (CBSA)                                      | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM22140          | Housing Inventory: Price Reduced Count Month-Over-Month in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY22140          | Housing Inventory: Price Reduced Count Year-Over-Year in Farmington, NM (CBSA)                       | 2017-07-01          | 2022-07-01        |
 | QGMP22140                 | Total Quantity Indexes for Real GDP for Farmington, NM (MSA)                                         | 2001-01-01          | 2020-01-01        |
 | RGMP22140                 | Total Real Gross Domestic Product for Farmington, NM (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | RPI22140                  | Real Personal Income for Farmington, NM (MSA)                                                        | 2008-01-01          | 2020-01-01        |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU44100            | Housing Inventory: Active Listing Count in Springfield, IL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM44100          | Housing Inventory: Active Listing Count Month-Over-Month in Springfield, IL (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY44100          | Housing Inventory: Active Listing Count Year-Over-Year in Springfield, IL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU44100            | Housing Inventory: Active Listing Count in Springfield, IL (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM44100          | Housing Inventory: Active Listing Count Month-Over-Month in Springfield, IL (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY44100          | Housing Inventory: Active Listing Count Year-Over-Year in Springfield, IL (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS44100Q            | All-Transactions House Price Index for Springfield, IL (MSA)                                                     | 1984-07-01          | 2022-01-01        |
-| AVELISPRI44100            | Housing Inventory: Average Listing Price in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM44100          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, IL (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY44100          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA44100              | Market Hotness: Demand Score in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI44100            | Housing Inventory: Average Listing Price in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM44100          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, IL (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY44100          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA44100              | Market Hotness: Demand Score in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC441030010             | Total Quarterly Wages in Springfield, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC441030010SA           | Total Quarterly Wages in Springfield, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC441040010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC441040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC441040510             | Average Weekly Wages for Employees in Private Establishments in Springfield, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC441040510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA44100            | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA44100              | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA44100            | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA44100              | Market Hotness: Hotness Score in Springfield, IL (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA44100            | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA44100              | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA44100            | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA44100              | Market Hotness: Hotness Score in Springfield, IL (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD44100                 | Implicit Regional Price Deflator for Springfield, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT174410000000003A     | Unemployment Rate in Springfield, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT174410000000004      | Unemployed Persons in Springfield, IL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -31,46 +31,46 @@
 | LAUMT174410000000005      | Employed Persons in Springfield, IL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT174410000000005A     | Employed Persons in Springfield, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT174410000000006A     | Civilian Labor Force in Springfield, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA44100          | Market Hotness: Listing Views per Property in Springfield, IL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA44100        | Market Hotness: Listing Views per Property Versus the United States in Springfield, IL (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA44100          | Market Hotness: Listing Views per Property in Springfield, IL (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA44100        | Market Hotness: Median Days on Market in Springfield, IL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA44100          | Market Hotness: Median Days on Market in Springfield, IL (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA44100        | Market Hotness: Median Days on Market in Springfield, IL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR44100          | Housing Inventory: Median Days on Market in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM44100        | Housing Inventory: Median Days on Market Month-Over-Month in Springfield, IL (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY44100        | Housing Inventory: Median Days on Market Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI44100            | Housing Inventory: Median Listing Price in Springfield, IL (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM44100          | Housing Inventory: Median Listing Price Month-Over-Month in Springfield, IL (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE44100   | Housing Inventory: Median Listing Price per Square Feet in Springfield, IL (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM44100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Springfield, IL (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY44100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Springfield, IL (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY44100          | Housing Inventory: Median Listing Price Year-Over-Year in Springfield, IL (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA44100          | Market Hotness: Median Days on Market in Springfield, IL (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA44100          | Market Hotness: Median Days on Market Versus the United States in Springfield, IL (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA44100          | Market Hotness: Median Days on Market Day in Springfield, IL (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE44100            | Housing Inventory: Median Home Size in Square Feet in Springfield, IL (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM44100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Springfield, IL (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY44100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Springfield, IL (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA44100          | Market Hotness: Median Listing Price in Springfield, IL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA44100            | Market Hotness: Median Listing Price in Springfield, IL (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA44100        | Market Hotness: Median Listing Price Versus the United States in Springfield, IL (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA44100          | Market Hotness: Median Listing Price in Springfield, IL (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU44100            | Housing Inventory: New Listing Count in Springfield, IL (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM44100          | Housing Inventory: New Listing Count Month-Over-Month in Springfield, IL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY44100          | Housing Inventory: New Listing Count Year-Over-Year in Springfield, IL (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA44100          | Market Hotness: Listing Views per Property in Springfield, IL (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA44100        | Market Hotness: Listing Views per Property Versus the United States in Springfield, IL (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA44100          | Market Hotness: Listing Views per Property in Springfield, IL (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA44100        | Market Hotness: Median Days on Market in Springfield, IL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA44100          | Market Hotness: Median Days on Market in Springfield, IL (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA44100        | Market Hotness: Median Days on Market in Springfield, IL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR44100          | Housing Inventory: Median Days on Market in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM44100        | Housing Inventory: Median Days on Market Month-Over-Month in Springfield, IL (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY44100        | Housing Inventory: Median Days on Market Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI44100            | Housing Inventory: Median Listing Price in Springfield, IL (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM44100          | Housing Inventory: Median Listing Price Month-Over-Month in Springfield, IL (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE44100   | Housing Inventory: Median Listing Price per Square Feet in Springfield, IL (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM44100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Springfield, IL (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY44100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Springfield, IL (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY44100          | Housing Inventory: Median Listing Price Year-Over-Year in Springfield, IL (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA44100          | Market Hotness: Median Days on Market in Springfield, IL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA44100          | Market Hotness: Median Days on Market Versus the United States in Springfield, IL (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA44100          | Market Hotness: Median Days on Market Day in Springfield, IL (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE44100            | Housing Inventory: Median Home Size in Square Feet in Springfield, IL (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM44100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Springfield, IL (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY44100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Springfield, IL (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA44100          | Market Hotness: Median Listing Price in Springfield, IL (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA44100            | Market Hotness: Median Listing Price in Springfield, IL (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA44100        | Market Hotness: Median Listing Price Versus the United States in Springfield, IL (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA44100          | Market Hotness: Median Listing Price in Springfield, IL (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU44100            | Housing Inventory: New Listing Count in Springfield, IL (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM44100          | Housing Inventory: New Listing Count Month-Over-Month in Springfield, IL (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY44100          | Housing Inventory: New Listing Count Year-Over-Year in Springfield, IL (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP44100                 | Total Gross Domestic Product for Springfield, IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA44100            | Market Hotness: Nielsen Household Rank in Springfield, IL (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA44100            | Market Hotness: Nielsen Household Rank in Springfield, IL (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA144100          | U.S. Granted Utility Patents Originating in Springfield, IL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU44100            | Housing Inventory: Pending Listing Count in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM44100          | Housing Inventory: Pending Listing Count Month-Over-Month in Springfield, IL (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY44100          | Housing Inventory: Pending Listing Count Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU44100            | Housing Inventory: Price Increased Count in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-06-01        |
+| PENLISCOU44100            | Housing Inventory: Pending Listing Count in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM44100          | Housing Inventory: Pending Listing Count Month-Over-Month in Springfield, IL (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY44100          | Housing Inventory: Pending Listing Count Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU44100            | Housing Inventory: Price Increased Count in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM44100          | Housing Inventory: Price Increased Count Month-Over-Month in Springfield, IL (CBSA)                              | 2017-09-01          | 2022-05-01        |
-| PRIINCCOUYY44100          | Housing Inventory: Price Increased Count Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-02-01        |
-| PRIREDCOU44100            | Housing Inventory: Price Reduced Count in Springfield, IL (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM44100          | Housing Inventory: Price Reduced Count Month-Over-Month in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY44100          | Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, IL (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY44100          | Housing Inventory: Price Increased Count Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU44100            | Housing Inventory: Price Reduced Count in Springfield, IL (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM44100          | Housing Inventory: Price Reduced Count Month-Over-Month in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY44100          | Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, IL (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP44100                 | Total Quantity Indexes for Real GDP for Springfield, IL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP44100                 | Total Real Gross Domestic Product for Springfield, IL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI44100                  | Real Personal Income for Springfield, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -164,4 +164,4 @@
 | SPRI117UR                 | Unemployment Rate in Springfield, IL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | SPRI117URN                | Unemployment Rate in Springfield, IL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | SPRPOP                    | Resident Population in Springfield, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| SUSCMSA44100              | Market Hotness: Supply Score in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA44100              | Market Hotness: Supply Score in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

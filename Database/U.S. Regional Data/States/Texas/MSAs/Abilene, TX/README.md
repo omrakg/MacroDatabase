@@ -32,14 +32,14 @@
 | ABISA175MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-01-01          | 2022-05-01        |
 | ABISA674AFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | ABLPOP                    | Resident Population in Abilene, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ACTLISCOU10180            | Housing Inventory: Active Listing Count in Abilene, TX (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM10180          | Housing Inventory: Active Listing Count Month-Over-Month in Abilene, TX (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY10180          | Housing Inventory: Active Listing Count Year-Over-Year in Abilene, TX (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU10180            | Housing Inventory: Active Listing Count in Abilene, TX (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM10180          | Housing Inventory: Active Listing Count Month-Over-Month in Abilene, TX (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY10180          | Housing Inventory: Active Listing Count Year-Over-Year in Abilene, TX (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS10180Q            | All-Transactions House Price Index for Abilene, TX (MSA)                                                     | 1986-04-01          | 2022-01-01        |
-| AVELISPRI10180            | Housing Inventory: Average Listing Price in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM10180          | Housing Inventory: Average Listing Price Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY10180          | Housing Inventory: Average Listing Price Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA10180              | Market Hotness: Demand Score in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI10180            | Housing Inventory: Average Listing Price in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM10180          | Housing Inventory: Average Listing Price Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY10180          | Housing Inventory: Average Listing Price Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA10180              | Market Hotness: Demand Score in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC101830010             | Total Quarterly Wages in Abilene, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC101830010SA           | Total Quarterly Wages in Abilene, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC101840010             | Average Weekly Wages for Employees in Total Covered Establishments in Abilene, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -52,10 +52,10 @@
 | ENUC101840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2021-10-01        |
 | ENUC101840510             | Average Weekly Wages for Employees in Private Establishments in Abilene, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC101840510SA           | Average Weekly Wages for Employees in Private Establishments in Abilene, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA10180            | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA10180              | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA10180            | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA10180              | Market Hotness: Hotness Score in Abilene, TX (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA10180            | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA10180              | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA10180            | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA10180              | Market Hotness: Hotness Score in Abilene, TX (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD10180                 | Implicit Regional Price Deflator for Abilene, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT481018000000003A     | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT481018000000004      | Unemployed Persons in Abilene, TX (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -63,46 +63,46 @@
 | LAUMT481018000000005      | Employed Persons in Abilene, TX (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT481018000000005A     | Employed Persons in Abilene, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT481018000000006A     | Civilian Labor Force in Abilene, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA10180          | Market Hotness: Listing Views per Property in Abilene, TX (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA10180        | Market Hotness: Listing Views per Property Versus the United States in Abilene, TX (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA10180          | Market Hotness: Listing Views per Property in Abilene, TX (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA10180        | Market Hotness: Median Days on Market in Abilene, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA10180          | Market Hotness: Median Days on Market in Abilene, TX (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA10180        | Market Hotness: Median Days on Market in Abilene, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR10180          | Housing Inventory: Median Days on Market in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM10180        | Housing Inventory: Median Days on Market Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY10180        | Housing Inventory: Median Days on Market Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI10180            | Housing Inventory: Median Listing Price in Abilene, TX (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM10180          | Housing Inventory: Median Listing Price Month-Over-Month in Abilene, TX (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE10180   | Housing Inventory: Median Listing Price per Square Feet in Abilene, TX (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM10180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Abilene, TX (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY10180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Abilene, TX (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY10180          | Housing Inventory: Median Listing Price Year-Over-Year in Abilene, TX (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA10180          | Market Hotness: Median Days on Market in Abilene, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA10180          | Market Hotness: Median Days on Market Versus the United States in Abilene, TX (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA10180          | Market Hotness: Median Days on Market Day in Abilene, TX (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE10180            | Housing Inventory: Median Home Size in Square Feet in Abilene, TX (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM10180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Abilene, TX (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY10180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Abilene, TX (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA10180          | Market Hotness: Median Listing Price in Abilene, TX (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA10180            | Market Hotness: Median Listing Price in Abilene, TX (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA10180        | Market Hotness: Median Listing Price Versus the United States in Abilene, TX (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA10180          | Market Hotness: Median Listing Price in Abilene, TX (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU10180            | Housing Inventory: New Listing Count in Abilene, TX (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM10180          | Housing Inventory: New Listing Count Month-Over-Month in Abilene, TX (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY10180          | Housing Inventory: New Listing Count Year-Over-Year in Abilene, TX (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA10180          | Market Hotness: Listing Views per Property in Abilene, TX (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA10180        | Market Hotness: Listing Views per Property Versus the United States in Abilene, TX (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA10180          | Market Hotness: Listing Views per Property in Abilene, TX (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA10180        | Market Hotness: Median Days on Market in Abilene, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA10180          | Market Hotness: Median Days on Market in Abilene, TX (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA10180        | Market Hotness: Median Days on Market in Abilene, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR10180          | Housing Inventory: Median Days on Market in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM10180        | Housing Inventory: Median Days on Market Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY10180        | Housing Inventory: Median Days on Market Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI10180            | Housing Inventory: Median Listing Price in Abilene, TX (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM10180          | Housing Inventory: Median Listing Price Month-Over-Month in Abilene, TX (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE10180   | Housing Inventory: Median Listing Price per Square Feet in Abilene, TX (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM10180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Abilene, TX (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY10180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Abilene, TX (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY10180          | Housing Inventory: Median Listing Price Year-Over-Year in Abilene, TX (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA10180          | Market Hotness: Median Days on Market in Abilene, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA10180          | Market Hotness: Median Days on Market Versus the United States in Abilene, TX (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA10180          | Market Hotness: Median Days on Market Day in Abilene, TX (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE10180            | Housing Inventory: Median Home Size in Square Feet in Abilene, TX (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM10180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Abilene, TX (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY10180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Abilene, TX (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA10180          | Market Hotness: Median Listing Price in Abilene, TX (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA10180            | Market Hotness: Median Listing Price in Abilene, TX (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA10180        | Market Hotness: Median Listing Price Versus the United States in Abilene, TX (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA10180          | Market Hotness: Median Listing Price in Abilene, TX (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU10180            | Housing Inventory: New Listing Count in Abilene, TX (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM10180          | Housing Inventory: New Listing Count Month-Over-Month in Abilene, TX (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY10180          | Housing Inventory: New Listing Count Year-Over-Year in Abilene, TX (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP10180                 | Total Gross Domestic Product for Abilene, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA10180            | Market Hotness: Nielsen Household Rank in Abilene, TX (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA10180            | Market Hotness: Nielsen Household Rank in Abilene, TX (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA110180          | U.S. Granted Utility Patents Originating in Abilene, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU10180            | Housing Inventory: Pending Listing Count in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM10180          | Housing Inventory: Pending Listing Count Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY10180          | Housing Inventory: Pending Listing Count Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU10180            | Housing Inventory: Price Increased Count in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM10180          | Housing Inventory: Price Increased Count Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY10180          | Housing Inventory: Price Increased Count Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU10180            | Housing Inventory: Price Reduced Count in Abilene, TX (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM10180          | Housing Inventory: Price Reduced Count Month-Over-Month in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY10180          | Housing Inventory: Price Reduced Count Year-Over-Year in Abilene, TX (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU10180            | Housing Inventory: Pending Listing Count in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM10180          | Housing Inventory: Pending Listing Count Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY10180          | Housing Inventory: Pending Listing Count Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU10180            | Housing Inventory: Price Increased Count in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM10180          | Housing Inventory: Price Increased Count Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY10180          | Housing Inventory: Price Increased Count Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU10180            | Housing Inventory: Price Reduced Count in Abilene, TX (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM10180          | Housing Inventory: Price Reduced Count Month-Over-Month in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY10180          | Housing Inventory: Price Reduced Count Year-Over-Year in Abilene, TX (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP10180                 | Total Quantity Indexes for Real GDP for Abilene, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP10180                 | Total Real Gross Domestic Product for Abilene, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI10180                  | Real Personal Income for Abilene, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -159,4 +159,4 @@
 | SMU48101809093000001      | All Employees: Government: Local Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU48101809093000001A     | All Employees: Local Government in Abilene, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48101809093000001SA    | All Employees: Government: Local Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA10180              | Market Hotness: Supply Score in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA10180              | Market Hotness: Supply Score in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

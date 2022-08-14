@@ -1,13 +1,13 @@
 | id                        | title                                                                                          | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU27100            | Housing Inventory: Active Listing Count in Jackson, MI (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM27100          | Housing Inventory: Active Listing Count Month-Over-Month in Jackson, MI (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY27100          | Housing Inventory: Active Listing Count Year-Over-Year in Jackson, MI (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU27100            | Housing Inventory: Active Listing Count in Jackson, MI (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM27100          | Housing Inventory: Active Listing Count Month-Over-Month in Jackson, MI (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY27100          | Housing Inventory: Active Listing Count Year-Over-Year in Jackson, MI (CBSA)                   | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS27100Q            | All-Transactions House Price Index for Jackson, MI (MSA)                                       | 1986-04-01          | 2022-01-01        |
-| AVELISPRI27100            | Housing Inventory: Average Listing Price in Jackson, MI (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM27100          | Housing Inventory: Average Listing Price Month-Over-Month in Jackson, MI (CBSA)                | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY27100          | Housing Inventory: Average Listing Price Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| DESCMSA27100              | Market Hotness: Demand Score in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-06-01        |
+| AVELISPRI27100            | Housing Inventory: Average Listing Price in Jackson, MI (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM27100          | Housing Inventory: Average Listing Price Month-Over-Month in Jackson, MI (CBSA)                | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY27100          | Housing Inventory: Average Listing Price Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| DESCMSA27100              | Market Hotness: Demand Score in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-07-01        |
 | ENUC271030010             | Total Quarterly Wages in Jackson, MI (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC271030010SA           | Total Quarterly Wages in Jackson, MI (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC271040010             | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, MI (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC271040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jackson, MI (MSA)     | 1990-01-01          | 2021-10-01        |
 | ENUC271040510             | Average Weekly Wages for Employees in Private Establishments in Jackson, MI (MSA)              | 1990-01-01          | 2021-10-01        |
 | ENUC271040510SA           | Average Weekly Wages for Employees in Private Establishments in Jackson, MI (MSA)              | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA27100            | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| HORAMSA27100              | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA27100            | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| HOSCMSA27100              | Market Hotness: Hotness Score in Jackson, MI (CBSA)                                            | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA27100            | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| HORAMSA27100              | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA27100            | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| HOSCMSA27100              | Market Hotness: Hotness Score in Jackson, MI (CBSA)                                            | 2017-08-01          | 2022-07-01        |
 | IRPD27100                 | Implicit Regional Price Deflator for Jackson, MI (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | IRPD27140                 | Implicit Regional Price Deflator for Jackson, MS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | IRPD27180                 | Implicit Regional Price Deflator for Jackson, TN (MSA)                                         | 2008-01-01          | 2020-01-01        |
@@ -61,46 +61,46 @@
 | LAUMT262710000000005      | Employed Persons in Jackson, MI (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT262710000000005A     | Employed Persons in Jackson, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT262710000000006A     | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA27100          | Market Hotness: Listing Views per Property in Jackson, MI (CBSA)                               | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA27100        | Market Hotness: Listing Views per Property Versus the United States in Jackson, MI (CBSA)      | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA27100          | Market Hotness: Listing Views per Property in Jackson, MI (CBSA)                               | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA27100        | Market Hotness: Median Days on Market in Jackson, MI (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA27100          | Market Hotness: Median Days on Market in Jackson, MI (CBSA)                                    | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA27100        | Market Hotness: Median Days on Market in Jackson, MI (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR27100          | Housing Inventory: Median Days on Market in Jackson, MI (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM27100        | Housing Inventory: Median Days on Market Month-Over-Month in Jackson, MI (CBSA)                | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY27100        | Housing Inventory: Median Days on Market Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI27100            | Housing Inventory: Median Listing Price in Jackson, MI (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM27100          | Housing Inventory: Median Listing Price Month-Over-Month in Jackson, MI (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE27100   | Housing Inventory: Median Listing Price per Square Feet in Jackson, MI (CBSA)                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM27100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Jackson, MI (CBSA) | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY27100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Jackson, MI (CBSA)   | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY27100          | Housing Inventory: Median Listing Price Year-Over-Year in Jackson, MI (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA27100          | Market Hotness: Median Days on Market in Jackson, MI (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA27100          | Market Hotness: Median Days on Market Versus the United States in Jackson, MI (CBSA)           | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA27100          | Market Hotness: Median Days on Market Day in Jackson, MI (CBSA)                                | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE27100            | Housing Inventory: Median Home Size in Square Feet in Jackson, MI (CBSA)                       | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM27100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Jackson, MI (CBSA)      | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY27100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Jackson, MI (CBSA)        | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA27100          | Market Hotness: Median Listing Price in Jackson, MI (CBSA)                                     | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA27100            | Market Hotness: Median Listing Price in Jackson, MI (CBSA)                                     | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA27100        | Market Hotness: Median Listing Price Versus the United States in Jackson, MI (CBSA)            | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA27100          | Market Hotness: Median Listing Price in Jackson, MI (CBSA)                                     | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU27100            | Housing Inventory: New Listing Count in Jackson, MI (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM27100          | Housing Inventory: New Listing Count Month-Over-Month in Jackson, MI (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY27100          | Housing Inventory: New Listing Count Year-Over-Year in Jackson, MI (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA27100          | Market Hotness: Listing Views per Property in Jackson, MI (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA27100        | Market Hotness: Listing Views per Property Versus the United States in Jackson, MI (CBSA)      | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA27100          | Market Hotness: Listing Views per Property in Jackson, MI (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA27100        | Market Hotness: Median Days on Market in Jackson, MI (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA27100          | Market Hotness: Median Days on Market in Jackson, MI (CBSA)                                    | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA27100        | Market Hotness: Median Days on Market in Jackson, MI (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR27100          | Housing Inventory: Median Days on Market in Jackson, MI (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM27100        | Housing Inventory: Median Days on Market Month-Over-Month in Jackson, MI (CBSA)                | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY27100        | Housing Inventory: Median Days on Market Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI27100            | Housing Inventory: Median Listing Price in Jackson, MI (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM27100          | Housing Inventory: Median Listing Price Month-Over-Month in Jackson, MI (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE27100   | Housing Inventory: Median Listing Price per Square Feet in Jackson, MI (CBSA)                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM27100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Jackson, MI (CBSA) | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY27100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Jackson, MI (CBSA)   | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY27100          | Housing Inventory: Median Listing Price Year-Over-Year in Jackson, MI (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA27100          | Market Hotness: Median Days on Market in Jackson, MI (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA27100          | Market Hotness: Median Days on Market Versus the United States in Jackson, MI (CBSA)           | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA27100          | Market Hotness: Median Days on Market Day in Jackson, MI (CBSA)                                | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE27100            | Housing Inventory: Median Home Size in Square Feet in Jackson, MI (CBSA)                       | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM27100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Jackson, MI (CBSA)      | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY27100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Jackson, MI (CBSA)        | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA27100          | Market Hotness: Median Listing Price in Jackson, MI (CBSA)                                     | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA27100            | Market Hotness: Median Listing Price in Jackson, MI (CBSA)                                     | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA27100        | Market Hotness: Median Listing Price Versus the United States in Jackson, MI (CBSA)            | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA27100          | Market Hotness: Median Listing Price in Jackson, MI (CBSA)                                     | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU27100            | Housing Inventory: New Listing Count in Jackson, MI (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM27100          | Housing Inventory: New Listing Count Month-Over-Month in Jackson, MI (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY27100          | Housing Inventory: New Listing Count Year-Over-Year in Jackson, MI (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | NGMP27100                 | Total Gross Domestic Product for Jackson, MI (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA27100            | Market Hotness: Nielsen Household Rank in Jackson, MI (CBSA)                                   | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA27100            | Market Hotness: Nielsen Household Rank in Jackson, MI (CBSA)                                   | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA127100          | U.S. Granted Utility Patents Originating in Jackson, MI (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU27100            | Housing Inventory: Pending Listing Count in Jackson, MI (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM27100          | Housing Inventory: Pending Listing Count Month-Over-Month in Jackson, MI (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY27100          | Housing Inventory: Pending Listing Count Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU27100            | Housing Inventory: Price Increased Count in Jackson, MI (CBSA)                                 | 2016-07-01          | 2022-06-01        |
+| PENLISCOU27100            | Housing Inventory: Pending Listing Count in Jackson, MI (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM27100          | Housing Inventory: Pending Listing Count Month-Over-Month in Jackson, MI (CBSA)                | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY27100          | Housing Inventory: Pending Listing Count Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU27100            | Housing Inventory: Price Increased Count in Jackson, MI (CBSA)                                 | 2016-07-01          | 2022-07-01        |
 | PRIINCCOUMM27100          | Housing Inventory: Price Increased Count Month-Over-Month in Jackson, MI (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY27100          | Housing Inventory: Price Increased Count Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU27100            | Housing Inventory: Price Reduced Count in Jackson, MI (CBSA)                                   | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM27100          | Housing Inventory: Price Reduced Count Month-Over-Month in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY27100          | Housing Inventory: Price Reduced Count Year-Over-Year in Jackson, MI (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY27100          | Housing Inventory: Price Increased Count Year-Over-Year in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU27100            | Housing Inventory: Price Reduced Count in Jackson, MI (CBSA)                                   | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM27100          | Housing Inventory: Price Reduced Count Month-Over-Month in Jackson, MI (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY27100          | Housing Inventory: Price Reduced Count Year-Over-Year in Jackson, MI (CBSA)                    | 2017-07-01          | 2022-07-01        |
 | QGMP27100                 | Total Quantity Indexes for Real GDP for Jackson, MI (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP27100                 | Total Real Gross Domestic Product for Jackson, MI (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI27100                  | Real Personal Income for Jackson, MI (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -154,4 +154,4 @@
 | SMU26271007000000001A     | All Employees: Leisure and Hospitality in Jackson, MI (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU26271008000000001A     | All Employees: Other Services in Jackson, MI (MSA)                                             | 1990-01-01          | 2021-01-01        |
 | SMU26271009000000001A     | All Employees: Government in Jackson, MI (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SUSCMSA27100              | Market Hotness: Supply Score in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-06-01        |
+| SUSCMSA27100              | Market Hotness: Supply Score in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-07-01        |

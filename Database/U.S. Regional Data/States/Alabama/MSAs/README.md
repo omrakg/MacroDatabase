@@ -1,7 +1,7 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
 | Birmingham-Hoover, AL      |               229 |
-| Montgomery, AL             |                 0 |
+| Montgomery, AL             |               170 |
 | Huntsville, AL             |               179 |
 | Gadsden, AL                |               135 |
 | Decatur, AL                |               168 |

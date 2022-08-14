@@ -45,7 +45,7 @@
 | Buffalo County, SD       |                85 |
 | Ziebach County, SD       |                87 |
 | Stanley County, SD       |                89 |
-| Clay County, SD          |                90 |
+| Clay County, SD          |                 0 |
 | Marshall County, SD      |                89 |
 | Sully County, SD         |                85 |
 | Custer County, SD        |                89 |
@@ -53,7 +53,7 @@
 | Hanson County, SD        |                88 |
 | Moody County, SD         |                89 |
 | Hughes County, SD        |                90 |
-| Lawrence County, SD      |                 0 |
+| Lawrence County, SD      |                90 |
 | Tripp County, SD         |                88 |
 | Potter County, SD        |                87 |
 | Dewey County, SD         |                89 |

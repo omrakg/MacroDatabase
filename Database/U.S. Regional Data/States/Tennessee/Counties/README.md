@@ -23,7 +23,7 @@
 | Sullivan County, TN   |               147 |
 | Cumberland County, TN |               146 |
 | Hamilton County, TN   |               147 |
-| Moore County, TN      |                 0 |
+| Moore County, TN      |                88 |
 | Madison County, TN    |               147 |
 | Overton County, TN    |                90 |
 | Crockett County, TN   |                90 |
@@ -55,7 +55,7 @@
 | Franklin County, TN   |                90 |
 | Perry County, TN      |                88 |
 | Wayne County, TN      |                89 |
-| Rhea County, TN       |                90 |
+| Rhea County, TN       |                 0 |
 | Polk County, TN       |                89 |
 | Robertson County, TN  |               147 |
 | Putnam County, TN     |               147 |
@@ -83,7 +83,7 @@
 | Carter County, TN     |               146 |
 | Roane County, TN      |               146 |
 | Decatur County, TN    |                89 |
-| Marshall County, TN   |                 0 |
+| Marshall County, TN   |                90 |
 | Hickman County, TN    |                90 |
 | Pickett County, TN    |                88 |
 | Henderson County, TN  |                89 |

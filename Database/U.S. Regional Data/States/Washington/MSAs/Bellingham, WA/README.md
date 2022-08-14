@@ -1,12 +1,12 @@
 | id                        | title                                                                                             | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU13380            | Housing Inventory: Active Listing Count in Bellingham, WA (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM13380          | Housing Inventory: Active Listing Count Month-Over-Month in Bellingham, WA (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY13380          | Housing Inventory: Active Listing Count Year-Over-Year in Bellingham, WA (CBSA)                   | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU13380            | Housing Inventory: Active Listing Count in Bellingham, WA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM13380          | Housing Inventory: Active Listing Count Month-Over-Month in Bellingham, WA (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY13380          | Housing Inventory: Active Listing Count Year-Over-Year in Bellingham, WA (CBSA)                   | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS13380Q            | All-Transactions House Price Index for Bellingham, WA (MSA)                                       | 1978-07-01          | 2022-01-01        |
-| AVELISPRI13380            | Housing Inventory: Average Listing Price in Bellingham, WA (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM13380          | Housing Inventory: Average Listing Price Month-Over-Month in Bellingham, WA (CBSA)                | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY13380          | Housing Inventory: Average Listing Price Year-Over-Year in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| AVELISPRI13380            | Housing Inventory: Average Listing Price in Bellingham, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM13380          | Housing Inventory: Average Listing Price Month-Over-Month in Bellingham, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY13380          | Housing Inventory: Average Listing Price Year-Over-Year in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
 | BELL353FIRE               | All Employees: Financial Activities in Bellingham, WA (MSA)                                       | 1990-01-01          | 2022-06-01        |
 | BELL353FIREN              | All Employees: Financial Activities in Bellingham, WA (MSA)                                       | 1990-01-01          | 2022-06-01        |
 | BELL353GOVT               | All Employees: Government in Bellingham, WA (MSA)                                                 | 1990-01-01          | 2022-06-01        |
@@ -29,7 +29,7 @@
 | BELL353UR                 | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | BELL353URN                | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
 | BLLPOP                    | Resident Population in Bellingham, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| DESCMSA13380              | Market Hotness: Demand Score in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-06-01        |
+| DESCMSA13380              | Market Hotness: Demand Score in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
 | ENUC133830010             | Total Quarterly Wages in Bellingham, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC133830010SA           | Total Quarterly Wages in Bellingham, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC133840010             | Average Weekly Wages for Employees in Total Covered Establishments in Bellingham, WA (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -42,10 +42,10 @@
 | ENUC133840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bellingham, WA (MSA)     | 1990-01-01          | 2021-10-01        |
 | ENUC133840510             | Average Weekly Wages for Employees in Private Establishments in Bellingham, WA (MSA)              | 1990-01-01          | 2021-10-01        |
 | ENUC133840510SA           | Average Weekly Wages for Employees in Private Establishments in Bellingham, WA (MSA)              | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA13380            | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| HORAMSA13380              | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA13380            | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| HOSCMSA13380              | Market Hotness: Hotness Score in Bellingham, WA (CBSA)                                            | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA13380            | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| HORAMSA13380              | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA13380            | Market Hotness: Hotness Rank in Bellingham, WA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| HOSCMSA13380              | Market Hotness: Hotness Score in Bellingham, WA (CBSA)                                            | 2017-08-01          | 2022-07-01        |
 | IRPD13380                 | Implicit Regional Price Deflator for Bellingham, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT531338000000003A     | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT531338000000004      | Unemployed Persons in Bellingham, WA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
@@ -53,46 +53,46 @@
 | LAUMT531338000000005      | Employed Persons in Bellingham, WA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
 | LAUMT531338000000005A     | Employed Persons in Bellingham, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT531338000000006A     | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA13380          | Market Hotness: Listing Views per Property in Bellingham, WA (CBSA)                               | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA13380        | Market Hotness: Listing Views per Property Versus the United States in Bellingham, WA (CBSA)      | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA13380          | Market Hotness: Listing Views per Property in Bellingham, WA (CBSA)                               | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA13380        | Market Hotness: Median Days on Market in Bellingham, WA (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA13380          | Market Hotness: Median Days on Market in Bellingham, WA (CBSA)                                    | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA13380        | Market Hotness: Median Days on Market in Bellingham, WA (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR13380          | Housing Inventory: Median Days on Market in Bellingham, WA (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM13380        | Housing Inventory: Median Days on Market Month-Over-Month in Bellingham, WA (CBSA)                | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY13380        | Housing Inventory: Median Days on Market Year-Over-Year in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI13380            | Housing Inventory: Median Listing Price in Bellingham, WA (CBSA)                                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM13380          | Housing Inventory: Median Listing Price Month-Over-Month in Bellingham, WA (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE13380   | Housing Inventory: Median Listing Price per Square Feet in Bellingham, WA (CBSA)                  | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM13380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bellingham, WA (CBSA) | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY13380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bellingham, WA (CBSA)   | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY13380          | Housing Inventory: Median Listing Price Year-Over-Year in Bellingham, WA (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA13380          | Market Hotness: Median Days on Market in Bellingham, WA (CBSA)                                    | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA13380          | Market Hotness: Median Days on Market Versus the United States in Bellingham, WA (CBSA)           | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA13380          | Market Hotness: Median Days on Market Day in Bellingham, WA (CBSA)                                | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE13380            | Housing Inventory: Median Home Size in Square Feet in Bellingham, WA (CBSA)                       | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM13380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bellingham, WA (CBSA)      | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY13380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bellingham, WA (CBSA)        | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA13380          | Market Hotness: Median Listing Price in Bellingham, WA (CBSA)                                     | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA13380            | Market Hotness: Median Listing Price in Bellingham, WA (CBSA)                                     | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA13380        | Market Hotness: Median Listing Price Versus the United States in Bellingham, WA (CBSA)            | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA13380          | Market Hotness: Median Listing Price in Bellingham, WA (CBSA)                                     | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU13380            | Housing Inventory: New Listing Count in Bellingham, WA (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM13380          | Housing Inventory: New Listing Count Month-Over-Month in Bellingham, WA (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY13380          | Housing Inventory: New Listing Count Year-Over-Year in Bellingham, WA (CBSA)                      | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA13380          | Market Hotness: Listing Views per Property in Bellingham, WA (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA13380        | Market Hotness: Listing Views per Property Versus the United States in Bellingham, WA (CBSA)      | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA13380          | Market Hotness: Listing Views per Property in Bellingham, WA (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA13380        | Market Hotness: Median Days on Market in Bellingham, WA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA13380          | Market Hotness: Median Days on Market in Bellingham, WA (CBSA)                                    | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA13380        | Market Hotness: Median Days on Market in Bellingham, WA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR13380          | Housing Inventory: Median Days on Market in Bellingham, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM13380        | Housing Inventory: Median Days on Market Month-Over-Month in Bellingham, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY13380        | Housing Inventory: Median Days on Market Year-Over-Year in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI13380            | Housing Inventory: Median Listing Price in Bellingham, WA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM13380          | Housing Inventory: Median Listing Price Month-Over-Month in Bellingham, WA (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE13380   | Housing Inventory: Median Listing Price per Square Feet in Bellingham, WA (CBSA)                  | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM13380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bellingham, WA (CBSA) | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY13380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bellingham, WA (CBSA)   | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY13380          | Housing Inventory: Median Listing Price Year-Over-Year in Bellingham, WA (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA13380          | Market Hotness: Median Days on Market in Bellingham, WA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA13380          | Market Hotness: Median Days on Market Versus the United States in Bellingham, WA (CBSA)           | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA13380          | Market Hotness: Median Days on Market Day in Bellingham, WA (CBSA)                                | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE13380            | Housing Inventory: Median Home Size in Square Feet in Bellingham, WA (CBSA)                       | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM13380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bellingham, WA (CBSA)      | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY13380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bellingham, WA (CBSA)        | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA13380          | Market Hotness: Median Listing Price in Bellingham, WA (CBSA)                                     | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA13380            | Market Hotness: Median Listing Price in Bellingham, WA (CBSA)                                     | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA13380        | Market Hotness: Median Listing Price Versus the United States in Bellingham, WA (CBSA)            | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA13380          | Market Hotness: Median Listing Price in Bellingham, WA (CBSA)                                     | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU13380            | Housing Inventory: New Listing Count in Bellingham, WA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM13380          | Housing Inventory: New Listing Count Month-Over-Month in Bellingham, WA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY13380          | Housing Inventory: New Listing Count Year-Over-Year in Bellingham, WA (CBSA)                      | 2017-07-01          | 2022-07-01        |
 | NGMP13380                 | Total Gross Domestic Product for Bellingham, WA (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA13380            | Market Hotness: Nielsen Household Rank in Bellingham, WA (CBSA)                                   | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA13380            | Market Hotness: Nielsen Household Rank in Bellingham, WA (CBSA)                                   | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA113380          | U.S. Granted Utility Patents Originating in Bellingham, WA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU13380            | Housing Inventory: Pending Listing Count in Bellingham, WA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| PENLISCOUMM13380          | Housing Inventory: Pending Listing Count Month-Over-Month in Bellingham, WA (CBSA)                | 2017-08-01          | 2022-06-01        |
-| PENLISCOUYY13380          | Housing Inventory: Pending Listing Count Year-Over-Year in Bellingham, WA (CBSA)                  | 2018-07-01          | 2022-06-01        |
-| PRIINCCOU13380            | Housing Inventory: Price Increased Count in Bellingham, WA (CBSA)                                 | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM13380          | Housing Inventory: Price Increased Count Month-Over-Month in Bellingham, WA (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY13380          | Housing Inventory: Price Increased Count Year-Over-Year in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU13380            | Housing Inventory: Price Reduced Count in Bellingham, WA (CBSA)                                   | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM13380          | Housing Inventory: Price Reduced Count Month-Over-Month in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY13380          | Housing Inventory: Price Reduced Count Year-Over-Year in Bellingham, WA (CBSA)                    | 2017-07-01          | 2022-06-01        |
+| PENLISCOU13380            | Housing Inventory: Pending Listing Count in Bellingham, WA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| PENLISCOUMM13380          | Housing Inventory: Pending Listing Count Month-Over-Month in Bellingham, WA (CBSA)                | 2017-08-01          | 2022-07-01        |
+| PENLISCOUYY13380          | Housing Inventory: Pending Listing Count Year-Over-Year in Bellingham, WA (CBSA)                  | 2018-07-01          | 2022-07-01        |
+| PRIINCCOU13380            | Housing Inventory: Price Increased Count in Bellingham, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM13380          | Housing Inventory: Price Increased Count Month-Over-Month in Bellingham, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY13380          | Housing Inventory: Price Increased Count Year-Over-Year in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU13380            | Housing Inventory: Price Reduced Count in Bellingham, WA (CBSA)                                   | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM13380          | Housing Inventory: Price Reduced Count Month-Over-Month in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY13380          | Housing Inventory: Price Reduced Count Year-Over-Year in Bellingham, WA (CBSA)                    | 2017-07-01          | 2022-07-01        |
 | QGMP13380                 | Total Quantity Indexes for Real GDP for Bellingham, WA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP13380                 | Total Real Gross Domestic Product for Bellingham, WA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI13380                  | Real Personal Income for Bellingham, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -140,4 +140,4 @@
 | SMU53133809093000001      | All Employees: Government: Local Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-06-01        |
 | SMU53133809093000001A     | All Employees: Local Government in Bellingham, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU53133809093000001SA    | All Employees: Government: Local Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-06-01        |
-| SUSCMSA13380              | Market Hotness: Supply Score in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-06-01        |
+| SUSCMSA13380              | Market Hotness: Supply Score in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-07-01        |

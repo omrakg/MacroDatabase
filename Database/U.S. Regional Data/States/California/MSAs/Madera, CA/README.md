@@ -1,12 +1,12 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU31460            | Housing Inventory: Active Listing Count in Madera, CA (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM31460          | Housing Inventory: Active Listing Count Month-Over-Month in Madera, CA (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY31460          | Housing Inventory: Active Listing Count Year-Over-Year in Madera, CA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU31460            | Housing Inventory: Active Listing Count in Madera, CA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM31460          | Housing Inventory: Active Listing Count Month-Over-Month in Madera, CA (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY31460          | Housing Inventory: Active Listing Count Year-Over-Year in Madera, CA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS31460Q            | All-Transactions House Price Index for Madera-Chowchilla, CA (MSA)                                          | 1982-04-01          | 2022-01-01        |
-| AVELISPRI31460            | Housing Inventory: Average Listing Price in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM31460          | Housing Inventory: Average Listing Price Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY31460          | Housing Inventory: Average Listing Price Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| AVELISPRI31460            | Housing Inventory: Average Listing Price in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM31460          | Housing Inventory: Average Listing Price Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY31460          | Housing Inventory: Average Listing Price Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
 | ENUC314630010             | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC314630010SA           | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC314640010             | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -54,32 +54,32 @@
 | MADE406UR                 | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | MADE406URN                | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
 | MADPOP                    | Resident Population in Madera, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| MEDDAYONMAR31460          | Housing Inventory: Median Days on Market in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM31460        | Housing Inventory: Median Days on Market Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY31460        | Housing Inventory: Median Days on Market Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI31460            | Housing Inventory: Median Listing Price in Madera, CA (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM31460          | Housing Inventory: Median Listing Price Month-Over-Month in Madera, CA (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE31460   | Housing Inventory: Median Listing Price per Square Feet in Madera, CA (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM31460 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Madera, CA (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY31460 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Madera, CA (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY31460          | Housing Inventory: Median Listing Price Year-Over-Year in Madera, CA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEE31460            | Housing Inventory: Median Home Size in Square Feet in Madera, CA (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM31460          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Madera, CA (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY31460          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Madera, CA (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| NEWLISCOU31460            | Housing Inventory: New Listing Count in Madera, CA (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM31460          | Housing Inventory: New Listing Count Month-Over-Month in Madera, CA (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY31460          | Housing Inventory: New Listing Count Year-Over-Year in Madera, CA (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| MEDDAYONMAR31460          | Housing Inventory: Median Days on Market in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM31460        | Housing Inventory: Median Days on Market Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY31460        | Housing Inventory: Median Days on Market Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI31460            | Housing Inventory: Median Listing Price in Madera, CA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM31460          | Housing Inventory: Median Listing Price Month-Over-Month in Madera, CA (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE31460   | Housing Inventory: Median Listing Price per Square Feet in Madera, CA (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM31460 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Madera, CA (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY31460 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Madera, CA (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY31460          | Housing Inventory: Median Listing Price Year-Over-Year in Madera, CA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEE31460            | Housing Inventory: Median Home Size in Square Feet in Madera, CA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM31460          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Madera, CA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY31460          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Madera, CA (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU31460            | Housing Inventory: New Listing Count in Madera, CA (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM31460          | Housing Inventory: New Listing Count Month-Over-Month in Madera, CA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY31460          | Housing Inventory: New Listing Count Year-Over-Year in Madera, CA (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP31460                 | Total Gross Domestic Product for Madera, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA131460          | U.S. Granted Utility Patents Originating in Madera-Chowchilla, CA (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU31460            | Housing Inventory: Pending Listing Count in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM31460          | Housing Inventory: Pending Listing Count Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY31460          | Housing Inventory: Pending Listing Count Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU31460            | Housing Inventory: Price Increased Count in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM31460          | Housing Inventory: Price Increased Count Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY31460          | Housing Inventory: Price Increased Count Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU31460            | Housing Inventory: Price Reduced Count in Madera, CA (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM31460          | Housing Inventory: Price Reduced Count Month-Over-Month in Madera, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY31460          | Housing Inventory: Price Reduced Count Year-Over-Year in Madera, CA (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU31460            | Housing Inventory: Pending Listing Count in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM31460          | Housing Inventory: Pending Listing Count Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY31460          | Housing Inventory: Pending Listing Count Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU31460            | Housing Inventory: Price Increased Count in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM31460          | Housing Inventory: Price Increased Count Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY31460          | Housing Inventory: Price Increased Count Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU31460            | Housing Inventory: Price Reduced Count in Madera, CA (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM31460          | Housing Inventory: Price Reduced Count Month-Over-Month in Madera, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY31460          | Housing Inventory: Price Reduced Count Year-Over-Year in Madera, CA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP31460                 | Total Quantity Indexes for Real GDP for Madera, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP31460                 | Total Real Gross Domestic Product for Madera, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI31460                  | Real Personal Income for Madera, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

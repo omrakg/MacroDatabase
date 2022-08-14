@@ -25,14 +25,14 @@
 | Oktibbeha County, MS       |               146 |
 | Kemper County, MS          |                87 |
 | Walthall County, MS        |                89 |
-| Humphreys County, MS       |                86 |
+| Humphreys County, MS       |                 0 |
 | Sunflower County, MS       |                89 |
 | Tishomingo County, MS      |                90 |
 | De Soto County, MS         |               147 |
 | Alcorn County, MS          |                89 |
 | Washington County, MS      |                90 |
 | Leflore County, MS         |                90 |
-| Tippah County, MS          |                 0 |
+| Tippah County, MS          |                90 |
 | Jones County, MS           |               146 |
 | Prentiss County, MS        |                88 |
 | Hancock County, MS         |               146 |

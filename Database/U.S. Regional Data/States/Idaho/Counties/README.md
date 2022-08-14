@@ -16,7 +16,7 @@
 | Jerome County, ID     |                90 |
 | Bannock County, ID    |               147 |
 | Camas County, ID      |                85 |
-| Butte County, ID      |                 0 |
+| Butte County, ID      |                88 |
 | Custer County, ID     |                89 |
 | Ada County, ID        |               147 |
 | Boundary County, ID   |                89 |
@@ -33,7 +33,7 @@
 | Valley County, ID     |                90 |
 | Lincoln County, ID    |                89 |
 | Kootenai County, ID   |               147 |
-| Adams County, ID      |                90 |
+| Adams County, ID      |                 0 |
 | Gem County, ID        |                90 |
 | Oneida County, ID     |                89 |
 | Power County, ID      |                89 |

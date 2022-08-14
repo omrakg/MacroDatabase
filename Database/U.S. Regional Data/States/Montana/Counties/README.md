@@ -5,7 +5,7 @@
 | Powell County, MT          |                88 |
 | Mineral County, MT         |                89 |
 | Daniels County, MT         |                88 |
-| Dawson County, MT          |                 0 |
+| Dawson County, MT          |                89 |
 | Liberty County, MT         |                85 |
 | Wibaux County, MT          |                85 |
 | Garfield County, MT        |                84 |
@@ -26,7 +26,7 @@
 | McCone County, MT          |                86 |
 | Jefferson County, MT       |                90 |
 | Petroleum County, MT       |                82 |
-| Big Horn County, MT        |                88 |
+| Big Horn County, MT        |                 0 |
 | Teton County, MT           |                89 |
 | Granite County, MT         |                88 |
 | Toole County, MT           |                90 |

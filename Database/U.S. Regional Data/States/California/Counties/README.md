@@ -28,7 +28,7 @@
 | Tulare County, CA               |               147 |
 | Ventura County, CA              |               147 |
 | San Benito County, CA           |                90 |
-| El Dorado County, CA            |               147 |
+| El Dorado County, CA            |                 0 |
 | Del Norte County, CA            |                90 |
 | Glenn County, CA                |                90 |
 | San Diego County, CA            |               146 |

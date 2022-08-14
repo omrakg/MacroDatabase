@@ -1,13 +1,13 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU42340            | Housing Inventory: Active Listing Count in Savannah, GA (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM42340          | Housing Inventory: Active Listing Count Month-Over-Month in Savannah, GA (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY42340          | Housing Inventory: Active Listing Count Year-Over-Year in Savannah, GA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU42340            | Housing Inventory: Active Listing Count in Savannah, GA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM42340          | Housing Inventory: Active Listing Count Month-Over-Month in Savannah, GA (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY42340          | Housing Inventory: Active Listing Count Year-Over-Year in Savannah, GA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ATNHPIUS42340Q            | All-Transactions House Price Index for Savannah, GA (MSA)                                                     | 1984-01-01          | 2022-01-01        |
-| AVELISPRI42340            | Housing Inventory: Average Listing Price in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM42340          | Housing Inventory: Average Listing Price Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY42340          | Housing Inventory: Average Listing Price Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA42340              | Market Hotness: Demand Score in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI42340            | Housing Inventory: Average Listing Price in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM42340          | Housing Inventory: Average Listing Price Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY42340          | Housing Inventory: Average Listing Price Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA42340              | Market Hotness: Demand Score in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC423430010             | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC423430010SA           | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC423440010             | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC423440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC423440510             | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC423440510SA           | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA42340              | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA42340              | Market Hotness: Hotness Score in Savannah, GA (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA42340              | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA42340              | Market Hotness: Hotness Score in Savannah, GA (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD42340                 | Implicit Regional Price Deflator for Savannah, GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT134234000000003A     | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT134234000000004      | Unemployed Persons in Savannah, GA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -31,46 +31,46 @@
 | LAUMT134234000000005      | Employed Persons in Savannah, GA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT134234000000005A     | Employed Persons in Savannah, GA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT134234000000006A     | Civilian Labor Force in Savannah, GA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA42340          | Market Hotness: Listing Views per Property in Savannah, GA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA42340        | Market Hotness: Listing Views per Property Versus the United States in Savannah, GA (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA42340          | Market Hotness: Listing Views per Property in Savannah, GA (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA42340        | Market Hotness: Median Days on Market in Savannah, GA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA42340          | Market Hotness: Median Days on Market in Savannah, GA (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA42340        | Market Hotness: Median Days on Market in Savannah, GA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR42340          | Housing Inventory: Median Days on Market in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM42340        | Housing Inventory: Median Days on Market Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY42340        | Housing Inventory: Median Days on Market Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI42340            | Housing Inventory: Median Listing Price in Savannah, GA (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM42340          | Housing Inventory: Median Listing Price Month-Over-Month in Savannah, GA (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE42340   | Housing Inventory: Median Listing Price per Square Feet in Savannah, GA (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM42340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Savannah, GA (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY42340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Savannah, GA (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY42340          | Housing Inventory: Median Listing Price Year-Over-Year in Savannah, GA (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA42340          | Market Hotness: Median Days on Market in Savannah, GA (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA42340          | Market Hotness: Median Days on Market Versus the United States in Savannah, GA (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA42340          | Market Hotness: Median Days on Market Day in Savannah, GA (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE42340            | Housing Inventory: Median Home Size in Square Feet in Savannah, GA (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM42340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Savannah, GA (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY42340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Savannah, GA (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA42340          | Market Hotness: Median Listing Price in Savannah, GA (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA42340            | Market Hotness: Median Listing Price in Savannah, GA (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA42340        | Market Hotness: Median Listing Price Versus the United States in Savannah, GA (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA42340          | Market Hotness: Median Listing Price in Savannah, GA (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU42340            | Housing Inventory: New Listing Count in Savannah, GA (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM42340          | Housing Inventory: New Listing Count Month-Over-Month in Savannah, GA (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY42340          | Housing Inventory: New Listing Count Year-Over-Year in Savannah, GA (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA42340          | Market Hotness: Listing Views per Property in Savannah, GA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA42340        | Market Hotness: Listing Views per Property Versus the United States in Savannah, GA (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA42340          | Market Hotness: Listing Views per Property in Savannah, GA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA42340        | Market Hotness: Median Days on Market in Savannah, GA (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA42340          | Market Hotness: Median Days on Market in Savannah, GA (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA42340        | Market Hotness: Median Days on Market in Savannah, GA (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR42340          | Housing Inventory: Median Days on Market in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM42340        | Housing Inventory: Median Days on Market Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY42340        | Housing Inventory: Median Days on Market Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI42340            | Housing Inventory: Median Listing Price in Savannah, GA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM42340          | Housing Inventory: Median Listing Price Month-Over-Month in Savannah, GA (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE42340   | Housing Inventory: Median Listing Price per Square Feet in Savannah, GA (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM42340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Savannah, GA (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY42340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Savannah, GA (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY42340          | Housing Inventory: Median Listing Price Year-Over-Year in Savannah, GA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA42340          | Market Hotness: Median Days on Market in Savannah, GA (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA42340          | Market Hotness: Median Days on Market Versus the United States in Savannah, GA (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA42340          | Market Hotness: Median Days on Market Day in Savannah, GA (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE42340            | Housing Inventory: Median Home Size in Square Feet in Savannah, GA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM42340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Savannah, GA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY42340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Savannah, GA (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA42340          | Market Hotness: Median Listing Price in Savannah, GA (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA42340            | Market Hotness: Median Listing Price in Savannah, GA (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA42340        | Market Hotness: Median Listing Price Versus the United States in Savannah, GA (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA42340          | Market Hotness: Median Listing Price in Savannah, GA (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU42340            | Housing Inventory: New Listing Count in Savannah, GA (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM42340          | Housing Inventory: New Listing Count Month-Over-Month in Savannah, GA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY42340          | Housing Inventory: New Listing Count Year-Over-Year in Savannah, GA (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP42340                 | Total Gross Domestic Product for Savannah, GA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA42340            | Market Hotness: Nielsen Household Rank in Savannah, GA (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA42340            | Market Hotness: Nielsen Household Rank in Savannah, GA (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA142340          | U.S. Granted Utility Patents Originating in Savannah, GA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU42340            | Housing Inventory: Pending Listing Count in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM42340          | Housing Inventory: Pending Listing Count Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY42340          | Housing Inventory: Pending Listing Count Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU42340            | Housing Inventory: Price Increased Count in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM42340          | Housing Inventory: Price Increased Count Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY42340          | Housing Inventory: Price Increased Count Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU42340            | Housing Inventory: Price Reduced Count in Savannah, GA (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM42340          | Housing Inventory: Price Reduced Count Month-Over-Month in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY42340          | Housing Inventory: Price Reduced Count Year-Over-Year in Savannah, GA (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU42340            | Housing Inventory: Pending Listing Count in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM42340          | Housing Inventory: Pending Listing Count Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY42340          | Housing Inventory: Pending Listing Count Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU42340            | Housing Inventory: Price Increased Count in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM42340          | Housing Inventory: Price Increased Count Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY42340          | Housing Inventory: Price Increased Count Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU42340            | Housing Inventory: Price Reduced Count in Savannah, GA (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM42340          | Housing Inventory: Price Reduced Count Month-Over-Month in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY42340          | Housing Inventory: Price Reduced Count Year-Over-Year in Savannah, GA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP42340                 | Total Quantity Indexes for Real GDP for Savannah, GA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP42340                 | Total Real Gross Domestic Product for Savannah, GA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI42340                  | Real Personal Income for Savannah, GA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -155,4 +155,4 @@
 | SMU13423409093000001      | All Employees: Government: Local Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU13423409093000001A     | All Employees: Local Government in Savannah, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU13423409093000001SA    | All Employees: Government: Local Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA42340              | Market Hotness: Supply Score in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA42340              | Market Hotness: Supply Score in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

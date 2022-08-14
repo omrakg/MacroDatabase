@@ -1,8 +1,8 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU11100            | Housing Inventory: Active Listing Count in Amarillo, TX (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| ACTLISCOUMM11100          | Housing Inventory: Active Listing Count Month-Over-Month in Amarillo, TX (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| ACTLISCOUYY11100          | Housing Inventory: Active Listing Count Year-Over-Year in Amarillo, TX (CBSA)                                 | 2017-07-01          | 2022-06-01        |
+| ACTLISCOU11100            | Housing Inventory: Active Listing Count in Amarillo, TX (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| ACTLISCOUMM11100          | Housing Inventory: Active Listing Count Month-Over-Month in Amarillo, TX (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| ACTLISCOUYY11100          | Housing Inventory: Active Listing Count Year-Over-Year in Amarillo, TX (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | AMAPOP                    | Resident Population in Amarillo, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | AMAR148EDUH               | All Employees: Education and Health Services in Amarillo, TX (MSA)                                            | 1990-01-01          | 2022-06-01        |
 | AMAR148EDUHN              | All Employees: Education and Health Services in Amarillo, TX (MSA)                                            | 1990-01-01          | 2022-06-01        |
@@ -36,10 +36,10 @@
 | AMASA175MFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1990-01-01          | 2022-05-01        |
 | AMASA674AFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | ATNHPIUS11100Q            | All-Transactions House Price Index for Amarillo, TX (MSA)                                                     | 1980-01-01          | 2022-01-01        |
-| AVELISPRI11100            | Housing Inventory: Average Listing Price in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| AVELISPRIMM11100          | Housing Inventory: Average Listing Price Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| AVELISPRIYY11100          | Housing Inventory: Average Listing Price Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| DESCMSA11100              | Market Hotness: Demand Score in Amarillo, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| AVELISPRI11100            | Housing Inventory: Average Listing Price in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| AVELISPRIMM11100          | Housing Inventory: Average Listing Price Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| AVELISPRIYY11100          | Housing Inventory: Average Listing Price Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| DESCMSA11100              | Market Hotness: Demand Score in Amarillo, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
 | ENUC111030010             | Total Quarterly Wages in Amarillo, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC111030010SA           | Total Quarterly Wages in Amarillo, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC111040010             | Average Weekly Wages for Employees in Total Covered Establishments in Amarillo, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -52,10 +52,10 @@
 | ENUC111040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
 | ENUC111040510             | Average Weekly Wages for Employees in Private Establishments in Amarillo, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC111040510SA           | Average Weekly Wages for Employees in Private Establishments in Amarillo, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA11100            | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HORAMSA11100              | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
-| HORAYYMSA11100            | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2018-08-01          | 2022-06-01        |
-| HOSCMSA11100              | Market Hotness: Hotness Score in Amarillo, TX (CBSA)                                                          | 2017-08-01          | 2022-06-01        |
+| HORAMMMSA11100            | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HORAMSA11100              | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| HORAYYMSA11100            | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
+| HOSCMSA11100              | Market Hotness: Hotness Score in Amarillo, TX (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD11100                 | Implicit Regional Price Deflator for Amarillo, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT481110000000003A     | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT481110000000004      | Unemployed Persons in Amarillo, TX (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
@@ -63,46 +63,46 @@
 | LAUMT481110000000005      | Employed Persons in Amarillo, TX (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
 | LAUMT481110000000005A     | Employed Persons in Amarillo, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT481110000000006A     | Civilian Labor Force in Amarillo, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA11100          | Market Hotness: Listing Views per Property in Amarillo, TX (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| LDPEPRVSUSMSA11100        | Market Hotness: Listing Views per Property Versus the United States in Amarillo, TX (CBSA)                    | 2017-08-01          | 2022-06-01        |
-| LDPEPRYYMSA11100          | Market Hotness: Listing Views per Property in Amarillo, TX (CBSA)                                             | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMMMSA11100        | Market Hotness: Median Days on Market in Amarillo, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDAONMAMSA11100          | Market Hotness: Median Days on Market in Amarillo, TX (CBSA)                                                  | 2017-08-01          | 2022-06-01        |
-| MEDAONMAYYMSA11100        | Market Hotness: Median Days on Market in Amarillo, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDDAYONMAR11100          | Housing Inventory: Median Days on Market in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| MEDDAYONMARMM11100        | Housing Inventory: Median Days on Market Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| MEDDAYONMARYY11100        | Housing Inventory: Median Days on Market Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| MEDLISPRI11100            | Housing Inventory: Median Listing Price in Amarillo, TX (CBSA)                                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIMM11100          | Housing Inventory: Median Listing Price Month-Over-Month in Amarillo, TX (CBSA)                               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEE11100   | Housing Inventory: Median Listing Price per Square Feet in Amarillo, TX (CBSA)                                | 2016-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEMM11100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Amarillo, TX (CBSA)               | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIPERSQUFEEYY11100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Amarillo, TX (CBSA)                 | 2017-07-01          | 2022-06-01        |
-| MEDLISPRIYY11100          | Housing Inventory: Median Listing Price Year-Over-Year in Amarillo, TX (CBSA)                                 | 2017-07-01          | 2022-06-01        |
-| MEDOMMDAMSA11100          | Market Hotness: Median Days on Market in Amarillo, TX (CBSA)                                                  | 2018-08-01          | 2022-06-01        |
-| MEDOVSUSMSA11100          | Market Hotness: Median Days on Market Versus the United States in Amarillo, TX (CBSA)                         | 2017-08-01          | 2022-06-01        |
-| MEDOYYDAMSA11100          | Market Hotness: Median Days on Market Day in Amarillo, TX (CBSA)                                              | 2018-08-01          | 2022-06-01        |
-| MEDSQUFEE11100            | Housing Inventory: Median Home Size in Square Feet in Amarillo, TX (CBSA)                                     | 2016-07-01          | 2022-06-01        |
-| MEDSQUFEEMM11100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Amarillo, TX (CBSA)                    | 2017-07-01          | 2022-06-01        |
-| MEDSQUFEEYY11100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Amarillo, TX (CBSA)                      | 2017-07-01          | 2022-06-01        |
-| MELIPRMMMSA11100          | Market Hotness: Median Listing Price in Amarillo, TX (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| MELIPRMSA11100            | Market Hotness: Median Listing Price in Amarillo, TX (CBSA)                                                   | 2017-08-01          | 2022-06-01        |
-| MELIPRVSUSMSA11100        | Market Hotness: Median Listing Price Versus the United States in Amarillo, TX (CBSA)                          | 2017-08-01          | 2022-06-01        |
-| MELIPRYYMSA11100          | Market Hotness: Median Listing Price in Amarillo, TX (CBSA)                                                   | 2018-08-01          | 2022-06-01        |
-| NEWLISCOU11100            | Housing Inventory: New Listing Count in Amarillo, TX (CBSA)                                                   | 2016-07-01          | 2022-06-01        |
-| NEWLISCOUMM11100          | Housing Inventory: New Listing Count Month-Over-Month in Amarillo, TX (CBSA)                                  | 2017-07-01          | 2022-06-01        |
-| NEWLISCOUYY11100          | Housing Inventory: New Listing Count Year-Over-Year in Amarillo, TX (CBSA)                                    | 2017-07-01          | 2022-06-01        |
+| LDPEPRMMMSA11100          | Market Hotness: Listing Views per Property in Amarillo, TX (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRVSUSMSA11100        | Market Hotness: Listing Views per Property Versus the United States in Amarillo, TX (CBSA)                    | 2017-08-01          | 2022-07-01        |
+| LDPEPRYYMSA11100          | Market Hotness: Listing Views per Property in Amarillo, TX (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMMMSA11100        | Market Hotness: Median Days on Market in Amarillo, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDAONMAMSA11100          | Market Hotness: Median Days on Market in Amarillo, TX (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
+| MEDAONMAYYMSA11100        | Market Hotness: Median Days on Market in Amarillo, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDDAYONMAR11100          | Housing Inventory: Median Days on Market in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| MEDDAYONMARMM11100        | Housing Inventory: Median Days on Market Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMARYY11100        | Housing Inventory: Median Days on Market Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| MEDLISPRI11100            | Housing Inventory: Median Listing Price in Amarillo, TX (CBSA)                                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIMM11100          | Housing Inventory: Median Listing Price Month-Over-Month in Amarillo, TX (CBSA)                               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEE11100   | Housing Inventory: Median Listing Price per Square Feet in Amarillo, TX (CBSA)                                | 2016-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEMM11100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Amarillo, TX (CBSA)               | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIPERSQUFEEYY11100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Amarillo, TX (CBSA)                 | 2017-07-01          | 2022-07-01        |
+| MEDLISPRIYY11100          | Housing Inventory: Median Listing Price Year-Over-Year in Amarillo, TX (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| MEDOMMDAMSA11100          | Market Hotness: Median Days on Market in Amarillo, TX (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
+| MEDOVSUSMSA11100          | Market Hotness: Median Days on Market Versus the United States in Amarillo, TX (CBSA)                         | 2017-08-01          | 2022-07-01        |
+| MEDOYYDAMSA11100          | Market Hotness: Median Days on Market Day in Amarillo, TX (CBSA)                                              | 2018-08-01          | 2022-07-01        |
+| MEDSQUFEE11100            | Housing Inventory: Median Home Size in Square Feet in Amarillo, TX (CBSA)                                     | 2016-07-01          | 2022-07-01        |
+| MEDSQUFEEMM11100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Amarillo, TX (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| MEDSQUFEEYY11100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Amarillo, TX (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MELIPRMMMSA11100          | Market Hotness: Median Listing Price in Amarillo, TX (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| MELIPRMSA11100            | Market Hotness: Median Listing Price in Amarillo, TX (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
+| MELIPRVSUSMSA11100        | Market Hotness: Median Listing Price Versus the United States in Amarillo, TX (CBSA)                          | 2017-08-01          | 2022-07-01        |
+| MELIPRYYMSA11100          | Market Hotness: Median Listing Price in Amarillo, TX (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
+| NEWLISCOU11100            | Housing Inventory: New Listing Count in Amarillo, TX (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
+| NEWLISCOUMM11100          | Housing Inventory: New Listing Count Month-Over-Month in Amarillo, TX (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| NEWLISCOUYY11100          | Housing Inventory: New Listing Count Year-Over-Year in Amarillo, TX (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP11100                 | Total Gross Domestic Product for Amarillo, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA11100            | Market Hotness: Nielsen Household Rank in Amarillo, TX (CBSA)                                                 | 2017-08-01          | 2022-06-01        |
+| NIHHRAMSA11100            | Market Hotness: Nielsen Household Rank in Amarillo, TX (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
 | PATENTCBSA111100          | U.S. Granted Utility Patents Originating in Amarillo, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU11100            | Housing Inventory: Pending Listing Count in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PENLISCOUMM11100          | Housing Inventory: Pending Listing Count Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PENLISCOUYY11100          | Housing Inventory: Pending Listing Count Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOU11100            | Housing Inventory: Price Increased Count in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-06-01        |
-| PRIINCCOUMM11100          | Housing Inventory: Price Increased Count Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY11100          | Housing Inventory: Price Increased Count Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU11100            | Housing Inventory: Price Reduced Count in Amarillo, TX (CBSA)                                                 | 2016-07-01          | 2022-06-01        |
-| PRIREDCOUMM11100          | Housing Inventory: Price Reduced Count Month-Over-Month in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOUYY11100          | Housing Inventory: Price Reduced Count Year-Over-Year in Amarillo, TX (CBSA)                                  | 2017-07-01          | 2022-06-01        |
+| PENLISCOU11100            | Housing Inventory: Pending Listing Count in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOUMM11100          | Housing Inventory: Pending Listing Count Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOUYY11100          | Housing Inventory: Pending Listing Count Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIINCCOU11100            | Housing Inventory: Price Increased Count in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PRIINCCOUMM11100          | Housing Inventory: Price Increased Count Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY11100          | Housing Inventory: Price Increased Count Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU11100            | Housing Inventory: Price Reduced Count in Amarillo, TX (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
+| PRIREDCOUMM11100          | Housing Inventory: Price Reduced Count Month-Over-Month in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| PRIREDCOUYY11100          | Housing Inventory: Price Reduced Count Year-Over-Year in Amarillo, TX (CBSA)                                  | 2017-07-01          | 2022-07-01        |
 | QGMP11100                 | Total Quantity Indexes for Real GDP for Amarillo, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP11100                 | Total Real Gross Domestic Product for Amarillo, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI11100                  | Real Personal Income for Amarillo, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -162,4 +162,4 @@
 | SMU48111009093000001      | All Employees: Government: Local Government in Amarillo, TX (MSA)                                             | 1990-01-01          | 2022-06-01        |
 | SMU48111009093000001A     | All Employees: Local Government in Amarillo, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48111009093000001SA    | All Employees: Government: Local Government in Amarillo, TX (MSA)                                             | 1990-01-01          | 2022-06-01        |
-| SUSCMSA11100              | Market Hotness: Supply Score in Amarillo, TX (CBSA)                                                           | 2017-08-01          | 2022-06-01        |
+| SUSCMSA11100              | Market Hotness: Supply Score in Amarillo, TX (CBSA)                                                           | 2017-08-01          | 2022-07-01        |

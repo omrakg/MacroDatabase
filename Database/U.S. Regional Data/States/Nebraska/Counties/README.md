@@ -5,7 +5,7 @@
 | Cheyenne County, NE     |                89 |
 | Morrill County, NE      |                88 |
 | Cedar County, NE        |                90 |
-| Seward County, NE       |                 0 |
+| Seward County, NE       |                90 |
 | Sherman County, NE      |                88 |
 | Pawnee County, NE       |                87 |
 | Webster County, NE      |                87 |
@@ -26,7 +26,7 @@
 | Cass County, NE         |                90 |
 | Garfield County, NE     |                87 |
 | Nuckolls County, NE     |                87 |
-| Cuming County, NE       |                90 |
+| Cuming County, NE       |                 0 |
 | Knox County, NE         |                89 |
 | Franklin County, NE     |                87 |
 | Antelope County, NE     |                90 |
@@ -86,7 +86,7 @@
 | Custer County, NE       |                90 |
 | Hitchcock County, NE    |                88 |
 | Logan County, NE        |                86 |
-| Sarpy County, NE        |               147 |
+| Sarpy County, NE        |                 0 |
 | Fillmore County, NE     |                90 |
 | Dawson County, NE       |                90 |
 | Saline County, NE       |                89 |
