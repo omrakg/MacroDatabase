@@ -2,8 +2,8 @@
   "Millions of Dollars_Annual_Not Seasonally Adjusted": {
     "Hawaii": {
       "id": "HIWHOLENGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Hawaii",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Alabama": {
       "id": "ALWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Alabama",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -40,8 +40,8 @@
     },
     "Alaska": {
       "id": "AKWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Alaska",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -59,8 +59,8 @@
     },
     "Arizona": {
       "id": "AZWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Arizona",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -97,8 +97,8 @@
     },
     "Delaware": {
       "id": "DEWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Delaware",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -118,8 +118,8 @@
   "Millions of Dollars_Quarterly_Seasonally Adjusted Annual Rate": {
     "Hawaii": {
       "id": "HIWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Hawaii",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
     },
     "Alabama": {
       "id": "ALWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Alabama",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -156,8 +156,8 @@
     },
     "Alaska": {
       "id": "AKWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Alaska",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -175,8 +175,8 @@
     },
     "Arizona": {
       "id": "AZWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Arizona",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -213,8 +213,8 @@
     },
     "Delaware": {
       "id": "DEWHOLENQGSP",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Gross Domestic Product: Wholesale Trade (NAICS 42) in Delaware",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",

@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142380006",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade: Machinery, Equipment, and Supplies Merchant Wholesalers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-06-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142380006A",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade: Machinery, Equipment, and Supplies Merchant Wholesalers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142380006SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade: Machinery, Equipment, and Supplies Merchant Wholesalers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-06-01",

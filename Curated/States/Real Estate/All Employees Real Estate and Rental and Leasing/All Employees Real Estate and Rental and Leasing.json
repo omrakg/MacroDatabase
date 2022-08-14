@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMS56000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -21,8 +21,8 @@
     },
     "Puerto Rico": {
       "id": "SMS72000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -33,8 +33,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-23 02:38:17-05",
-      "popularity": 1,
-      "group_popularity": 2,
+      "popularity": 2,
+      "group_popularity": 3,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Tennessee": {
@@ -57,8 +57,8 @@
     },
     "Texas": {
       "id": "SMU48000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -75,8 +75,8 @@
     },
     "Utah": {
       "id": "SMU49000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -93,8 +93,8 @@
     },
     "Vermont": {
       "id": "SMU50000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -111,8 +111,8 @@
     },
     "Virginia": {
       "id": "SMU51000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -129,8 +129,8 @@
     },
     "Washington": {
       "id": "SMU53000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -147,8 +147,8 @@
     },
     "West Virginia": {
       "id": "SMU54000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -165,8 +165,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -185,8 +185,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -203,8 +203,8 @@
     },
     "Puerto Rico": {
       "id": "SMS72000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -215,8 +215,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-23 02:38:17-05",
-      "popularity": 1,
-      "group_popularity": 2,
+      "popularity": 2,
+      "group_popularity": 3,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Tennessee": {
@@ -239,8 +239,8 @@
     },
     "Texas": {
       "id": "SMU48000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -257,8 +257,8 @@
     },
     "Utah": {
       "id": "SMU49000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -275,8 +275,8 @@
     },
     "Vermont": {
       "id": "SMU50000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -293,8 +293,8 @@
     },
     "Virginia": {
       "id": "SMU51000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -311,8 +311,8 @@
     },
     "Washington": {
       "id": "SMU53000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -329,8 +329,8 @@
     },
     "West Virginia": {
       "id": "SMU54000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -347,8 +347,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000005553000001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",

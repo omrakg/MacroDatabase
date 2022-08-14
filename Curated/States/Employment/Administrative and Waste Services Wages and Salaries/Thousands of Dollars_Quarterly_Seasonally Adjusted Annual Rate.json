@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWADM",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Administrative and Waste Services Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWADM",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Administrative and Waste Services Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWADM",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Administrative and Waste Services Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWADM",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Administrative and Waste Services Wages and Salaries in Arizona",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -96,8 +96,8 @@
   },
   "Connecticut": {
     "id": "CTWADM",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Administrative and Waste Services Wages and Salaries in Connecticut",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -115,8 +115,8 @@
   },
   "Delaware": {
     "id": "DEWADM",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Administrative and Waste Services Wages and Salaries in Delaware",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",

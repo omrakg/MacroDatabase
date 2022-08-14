@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000003100000008",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Average Hourly Earnings of Production Employees: Manufacturing: Durable Goods in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2022-06-01",
@@ -117,8 +117,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000003100000008A",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Average Hourly Earnings of Production Employees: Manufacturing: Durable Goods in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",

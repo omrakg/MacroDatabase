@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004244700001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000004244700001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -58,8 +58,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004244700001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -79,8 +79,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004244700001A",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -116,8 +116,8 @@
     },
     "Texas": {
       "id": "SMU48000004244700001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -135,8 +135,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004244700001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -156,8 +156,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004244700001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -194,8 +194,8 @@
     },
     "Texas": {
       "id": "SMU48000004244700001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -213,8 +213,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004244700001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Retail Trade: Gasoline Stations in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",

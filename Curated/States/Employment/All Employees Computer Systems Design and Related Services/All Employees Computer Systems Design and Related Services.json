@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000006054150001",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000006054150001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -39,8 +39,8 @@
     },
     "Utah": {
       "id": "SMU49000006054150001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -58,8 +58,8 @@
     },
     "Virginia": {
       "id": "SMU51000006054150001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -79,8 +79,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000006054150001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -98,8 +98,8 @@
     },
     "Texas": {
       "id": "SMU48000006054150001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -117,8 +117,8 @@
     },
     "Utah": {
       "id": "SMU49000006054150001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -136,8 +136,8 @@
     },
     "Virginia": {
       "id": "SMU51000006054150001SA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "All Employees: Professional and Business Services: Computer Systems Design and Related Services in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
