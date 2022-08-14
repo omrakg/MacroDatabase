@@ -2,8 +2,8 @@
   "Growth Rate Previous Period_Annual_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "CPSEHO05EEA657N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1999-01-01",
       "observation_end": "2017-01-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -40,8 +40,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -59,8 +59,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -78,8 +78,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -97,8 +97,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -116,8 +116,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",
@@ -135,8 +135,8 @@
     },
     "United Kingdom": {
       "id": "CPSEHO05GBQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2018-01-01",
@@ -148,7 +148,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-05-24 14:11:09-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     }
@@ -156,8 +156,8 @@
   "Growth Rate Same Period Previous Year_Annual_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "CPSEHO05EEA659N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1999-01-01",
       "observation_end": "2017-01-01",
@@ -175,8 +175,8 @@
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -194,8 +194,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -213,8 +213,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -232,8 +232,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -251,8 +251,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -270,8 +270,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",
@@ -289,8 +289,8 @@
     },
     "United Kingdom": {
       "id": "CPSEHO05GBQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2018-01-01",
@@ -302,7 +302,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-05-24 14:11:09-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     }
@@ -310,8 +310,8 @@
   "Index 2010=100_Annual_Not Seasonally Adjusted": {
     "United Kingdom": {
       "id": "CPSEHO05GBA661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2017-01-01",
@@ -323,14 +323,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-05-24 14:11:09-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -348,8 +348,8 @@
     },
     "Estonia": {
       "id": "CPSEHO05EEQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -367,8 +367,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -386,8 +386,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -405,8 +405,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -424,8 +424,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -443,8 +443,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",
@@ -464,8 +464,8 @@
   "Growth Rate Previous Period_Monthly_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "CPSEHO05EEM657N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1998-02-01",
       "observation_end": "2018-05-01",
@@ -483,8 +483,8 @@
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -502,8 +502,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -521,8 +521,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -540,8 +540,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -559,8 +559,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -578,8 +578,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",
@@ -597,8 +597,8 @@
     },
     "United Kingdom": {
       "id": "CPSEHO05GBQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2018-01-01",
@@ -610,7 +610,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-05-24 14:11:09-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     }
@@ -618,8 +618,8 @@
   "Growth Rate Same Period Previous Year_Monthly_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "CPSEHO05EEM659N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1999-01-01",
       "observation_end": "2018-05-01",
@@ -637,8 +637,8 @@
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -656,8 +656,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -675,8 +675,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -694,8 +694,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -713,8 +713,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -732,8 +732,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",
@@ -751,8 +751,8 @@
     },
     "United Kingdom": {
       "id": "CPSEHO05GBQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2018-01-01",
@@ -764,7 +764,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-05-24 14:11:09-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     }
@@ -772,8 +772,8 @@
   "Index 2010=100_Monthly_Not Seasonally Adjusted": {
     "United Kingdom": {
       "id": "CPSEHO05GBM661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2018-05-01",
@@ -784,15 +784,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-06-14 14:11:23-05",
-      "popularity": 2,
-      "group_popularity": 2,
+      "popularity": 1,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -810,8 +810,8 @@
     },
     "Estonia": {
       "id": "CPSEHO05EEQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -829,8 +829,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -848,8 +848,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -867,8 +867,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -886,8 +886,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -905,8 +905,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",
@@ -926,8 +926,8 @@
   "Growth Rate Previous Period_Quarterly_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "CPSEHO05EEQ657N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1998-04-01",
       "observation_end": "2018-01-01",
@@ -945,8 +945,8 @@
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -964,8 +964,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -983,8 +983,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -1002,8 +1002,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -1021,8 +1021,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -1040,8 +1040,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",
@@ -1059,8 +1059,8 @@
     },
     "United Kingdom": {
       "id": "CPSEHO05GBQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2018-01-01",
@@ -1072,7 +1072,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-05-24 14:11:09-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     }
@@ -1080,8 +1080,8 @@
   "Growth Rate Same Period Previous Year_Quarterly_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "CPSEHO05EEQ659N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1999-01-01",
       "observation_end": "2018-01-01",
@@ -1099,8 +1099,8 @@
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -1118,8 +1118,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -1137,8 +1137,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -1156,8 +1156,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -1175,8 +1175,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -1194,8 +1194,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",
@@ -1213,8 +1213,8 @@
     },
     "United Kingdom": {
       "id": "CPSEHO05GBQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2018-01-01",
@@ -1226,7 +1226,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-05-24 14:11:09-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     }
@@ -1234,8 +1234,8 @@
   "Index 2010=100_Quarterly_Not Seasonally Adjusted": {
     "United Kingdom": {
       "id": "CPSEHO05GBQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for the United Kingdom",
       "observation_start": "1987-01-01",
       "observation_end": "2018-01-01",
@@ -1247,14 +1247,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-05-24 14:11:09-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: CPSEHO05\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/United Kingdom"
     },
     "Chile": {
       "id": "CPSEHO05CLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -1272,8 +1272,8 @@
     },
     "Estonia": {
       "id": "CPSEHO05EEQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -1291,8 +1291,8 @@
     },
     "France": {
       "id": "CPSEHO05FRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for France",
       "observation_start": "1990-01-01",
       "observation_end": "2018-01-01",
@@ -1310,8 +1310,8 @@
     },
     "Luxembourg": {
       "id": "CPSEHO05LUQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
       "observation_start": "1995-01-01",
       "observation_end": "2018-01-01",
@@ -1329,8 +1329,8 @@
     },
     "Poland": {
       "id": "CPSEHO05PLQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -1348,8 +1348,8 @@
     },
     "Slovenia": {
       "id": "CPSEHO05SIQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -1367,8 +1367,8 @@
     },
     "Turkey": {
       "id": "CPSEHO05TRQ661N",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
       "observation_start": "1982-01-01",
       "observation_end": "2018-01-01",

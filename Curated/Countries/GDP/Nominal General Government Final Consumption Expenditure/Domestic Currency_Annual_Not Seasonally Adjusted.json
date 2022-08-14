@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NCGGXDCSAA",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Nominal General Government Final Consumption Expenditure for Saudi Arabia",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NCGGXDCARA",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Nominal General Government Final Consumption Expenditure for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Brazil": {
     "id": "NCGGXDCBRA",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Nominal General Government Final Consumption Expenditure for Brazil",
     "observation_start": "1996-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Great Britain": {
     "id": "NCGGXDCGBA",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Nominal General Government Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "India": {
     "id": "NCGGXDCINA",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Nominal General Government Final Consumption Expenditure for India",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",

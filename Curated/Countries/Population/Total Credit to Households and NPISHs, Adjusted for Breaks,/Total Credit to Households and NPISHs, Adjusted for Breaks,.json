@@ -2,8 +2,8 @@
   "Percentage of GDP_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Thailand": {
       "id": "QTHHAM770A",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Thailand",
       "observation_start": "1991-10-01",
       "observation_end": "2021-10-01",
@@ -15,14 +15,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:08:06-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:TH:H:A:M:770:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values.",
       "path": "Database/International Data/Countries/Thailand"
     },
     "Argentina": {
       "id": "QARHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina",
       "observation_start": "1994-01-01",
       "observation_end": "2021-10-01",
@@ -40,8 +40,8 @@
     },
     "Brazil": {
       "id": "QBRHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil",
       "observation_start": "1994-07-01",
       "observation_end": "2021-10-01",
@@ -53,14 +53,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:10:09-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:BR:H:A:M:XDC:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values. For information specifying what comprises G20, Advanced Economies, Emerging Market Economies, and All Reporting Economies, visit https://www.bis.org/statistics/totcredit/tables_f.pdf",
       "path": "Database/International Data/Countries/Brazil"
     },
     "India": {
       "id": "QINHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for India",
       "observation_start": "2007-04-01",
       "observation_end": "2021-10-01",
@@ -78,8 +78,8 @@
     },
     "Saudi Arabia": {
       "id": "QSAHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1998-01-01",
       "observation_end": "2021-10-01",
@@ -99,8 +99,8 @@
   "Billions of US Dollars_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Thailand": {
       "id": "QTHHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Thailand",
       "observation_start": "1991-10-01",
       "observation_end": "2021-10-01",
@@ -112,14 +112,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:08:06-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:TH:H:A:M:USD:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values.",
       "path": "Database/International Data/Countries/Thailand"
     },
     "Argentina": {
       "id": "QARHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina",
       "observation_start": "1994-01-01",
       "observation_end": "2021-10-01",
@@ -137,8 +137,8 @@
     },
     "Brazil": {
       "id": "QBRHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil",
       "observation_start": "1994-07-01",
       "observation_end": "2021-10-01",
@@ -150,14 +150,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:10:09-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:BR:H:A:M:XDC:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values. For information specifying what comprises G20, Advanced Economies, Emerging Market Economies, and All Reporting Economies, visit https://www.bis.org/statistics/totcredit/tables_f.pdf",
       "path": "Database/International Data/Countries/Brazil"
     },
     "India": {
       "id": "QINHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for India",
       "observation_start": "2007-04-01",
       "observation_end": "2021-10-01",
@@ -175,8 +175,8 @@
     },
     "Saudi Arabia": {
       "id": "QSAHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1998-01-01",
       "observation_end": "2021-10-01",
@@ -196,8 +196,8 @@
   "Billions of Argentine Pesos_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Argentina": {
       "id": "QARHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina",
       "observation_start": "1994-01-01",
       "observation_end": "2021-10-01",
@@ -215,8 +215,8 @@
     },
     "Brazil": {
       "id": "QBRHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil",
       "observation_start": "1994-07-01",
       "observation_end": "2021-10-01",
@@ -228,14 +228,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:10:09-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:BR:H:A:M:XDC:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values. For information specifying what comprises G20, Advanced Economies, Emerging Market Economies, and All Reporting Economies, visit https://www.bis.org/statistics/totcredit/tables_f.pdf",
       "path": "Database/International Data/Countries/Brazil"
     },
     "India": {
       "id": "QINHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for India",
       "observation_start": "2007-04-01",
       "observation_end": "2021-10-01",
@@ -253,8 +253,8 @@
     },
     "Saudi Arabia": {
       "id": "QSAHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1998-01-01",
       "observation_end": "2021-10-01",
@@ -272,8 +272,8 @@
     },
     "Thailand": {
       "id": "QTHHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Thailand",
       "observation_start": "1991-10-01",
       "observation_end": "2021-10-01",
@@ -285,7 +285,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:08:06-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:TH:H:A:M:USD:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values.",
       "path": "Database/International Data/Countries/Thailand"
     }
@@ -293,8 +293,8 @@
   "Billions of Brazilian Reals_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Brazil": {
       "id": "QBRHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil",
       "observation_start": "1994-07-01",
       "observation_end": "2021-10-01",
@@ -306,14 +306,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:10:09-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:BR:H:A:M:XDC:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values. For information specifying what comprises G20, Advanced Economies, Emerging Market Economies, and All Reporting Economies, visit https://www.bis.org/statistics/totcredit/tables_f.pdf",
       "path": "Database/International Data/Countries/Brazil"
     },
     "Argentina": {
       "id": "QARHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina",
       "observation_start": "1994-01-01",
       "observation_end": "2021-10-01",
@@ -331,8 +331,8 @@
     },
     "India": {
       "id": "QINHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for India",
       "observation_start": "2007-04-01",
       "observation_end": "2021-10-01",
@@ -350,8 +350,8 @@
     },
     "Saudi Arabia": {
       "id": "QSAHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1998-01-01",
       "observation_end": "2021-10-01",
@@ -369,8 +369,8 @@
     },
     "Thailand": {
       "id": "QTHHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Thailand",
       "observation_start": "1991-10-01",
       "observation_end": "2021-10-01",
@@ -382,7 +382,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:08:06-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:TH:H:A:M:USD:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values.",
       "path": "Database/International Data/Countries/Thailand"
     }
@@ -390,8 +390,8 @@
   "Billions of Saudi Riyals_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "QSAHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1998-01-01",
       "observation_end": "2021-10-01",
@@ -409,8 +409,8 @@
     },
     "Argentina": {
       "id": "QARHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina",
       "observation_start": "1994-01-01",
       "observation_end": "2021-10-01",
@@ -428,8 +428,8 @@
     },
     "Brazil": {
       "id": "QBRHAMXDCA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil",
       "observation_start": "1994-07-01",
       "observation_end": "2021-10-01",
@@ -441,14 +441,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:10:09-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:BR:H:A:M:XDC:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values. For information specifying what comprises G20, Advanced Economies, Emerging Market Economies, and All Reporting Economies, visit https://www.bis.org/statistics/totcredit/tables_f.pdf",
       "path": "Database/International Data/Countries/Brazil"
     },
     "India": {
       "id": "QINHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for India",
       "observation_start": "2007-04-01",
       "observation_end": "2021-10-01",
@@ -466,8 +466,8 @@
     },
     "Thailand": {
       "id": "QTHHAMUSDA",
-      "realtime_start": "2022-08-07",
-      "realtime_end": "2022-08-07",
+      "realtime_start": "2022-08-14",
+      "realtime_end": "2022-08-14",
       "title": "Total Credit to Households and NPISHs, Adjusted for Breaks, for Thailand",
       "observation_start": "1991-10-01",
       "observation_end": "2021-10-01",
@@ -479,7 +479,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-13 13:08:06-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Credit is provided by domestic banks, all other sectors of the economy and non-residents. The \"private non-financial sector\" includes non-financial corporations (both private-owned and public-owned), households and non-profit institutions serving households as defined in the System of National Accounts 2008. The series have quarterly frequency and capture the outstanding amount of credit at the end of the reference quarter. In terms of financial instruments, credit covers loans and debt securities.(1)\n\nThe combination of different sources and data from various methodological frameworks resulted in breaks in the series. The BIS is therefore, in addition, publishing a second set of series adjusted for breaks, which covers the same time span as the unadjusted series. The break-adjusted series are the result of the BIS's own calculations, and were obtained by adjusting levels through standard statistical techniques described in the special feature on the long credit series of the March 2013 issue of the BIS Quarterly Review at https://www.bis.org/publ/qtrpdf/r_qt1303h.htm. (1)\n\nSource Code: Q:TH:H:A:M:USD:A\n\n(1) Bank for International Settlements. \"Long series on credit to private non-financial ://www.bis.org/statistics/credtopriv.htm\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.\n\nUnless otherwise specified, series values are market values.",
       "path": "Database/International Data/Countries/Thailand"
     }

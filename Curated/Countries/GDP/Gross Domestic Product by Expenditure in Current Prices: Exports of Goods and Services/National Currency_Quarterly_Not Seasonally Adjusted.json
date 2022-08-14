@@ -1,8 +1,8 @@
 {
   "Brazil": {
     "id": "NAEXCP06BRQ189N",
-    "realtime_start": "2022-08-07",
-    "realtime_end": "2022-08-07",
+    "realtime_start": "2022-08-14",
+    "realtime_end": "2022-08-14",
     "title": "Gross Domestic Product by Expenditure in Current Prices: Exports of Goods and Services for Brazil",
     "observation_start": "1996-01-01",
     "observation_end": "2022-01-01",
@@ -14,7 +14,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-06-14 11:04:45-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 2,
     "notes": "OECD descriptor ID: NAEXCP06\nOECD unit ID: ST\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Brazil"
   }
