@@ -1,17 +1,17 @@
 {
   "id": "H41RESPPAABNWW",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of Corporate Credit Facility LLC: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-08-03",
+  "observation_end": "2022-08-10",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-04 15:35:03-05",
+  "last_updated": "2022-08-11 15:35:08-05",
   "popularity": 16,
   "group_popularity": 16
 }

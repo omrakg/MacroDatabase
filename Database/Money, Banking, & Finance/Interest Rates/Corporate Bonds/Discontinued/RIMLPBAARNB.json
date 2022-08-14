@@ -1,7 +1,7 @@
 {
   "id": "RIMLPBAARNB",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)",
   "observation_start": "1986-01-02",
   "observation_end": "2016-10-07",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 16:11:21-05",
-  "popularity": 3,
-  "group_popularity": 13,
+  "popularity": 7,
+  "group_popularity": 14,
   "notes": "The Federal Reserve Board has discontinued this series. For more information, please refer to the Technical Q&As (https://www.federalreserve.gov/releases/h15/h15_technical_qa.htm) for the H.15 Statistical Release."
 }

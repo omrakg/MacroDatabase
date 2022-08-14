@@ -1,7 +1,7 @@
 {
   "id": "NHFSEPTS",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "New Houses for Sale by Stage of Construction, Total",
   "observation_start": "1963-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-26 09:01:20-05",
-  "popularity": 9,
-  "group_popularity": 11
+  "popularity": 8,
+  "group_popularity": 10
 }

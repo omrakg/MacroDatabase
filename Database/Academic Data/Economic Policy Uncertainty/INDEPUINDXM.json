@@ -1,7 +1,7 @@
 {
   "id": "INDEPUINDXM",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Economic Policy Uncertainty Index for India",
   "observation_start": "2003-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-01 08:02:05-05",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "For additional details, including an analysis of the performance of the model, see Baker, Scott, Nicholas Bloom and Steven Davis (2012), \"Measuring Economic Policy Uncertainty\" (http://www.policyuncertainty.com/media/BakerBloomDavis.pdf)"
 }

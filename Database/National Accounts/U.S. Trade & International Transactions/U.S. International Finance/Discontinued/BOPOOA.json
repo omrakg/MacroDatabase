@@ -1,7 +1,7 @@
 {
   "id": "BOPOOA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "U.S. Official Reserve Assets Abroad, Net (DISCONTINUED)",
   "observation_start": "1960-01-01",
   "observation_end": "2013-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2014-06-18 08:41:10-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "This series has been discontinued as a result of the comprehensive restructuring of the international economic accounts (https://apps.bea.gov/scb/pdf/2014/07%20July/0714_annual_international_transactions_accounts.pdf). For a crosswalk of the old and new series in FRED see: http://research.stlouisfed.org/CompRevisionReleaseID49.xlsx."
 }

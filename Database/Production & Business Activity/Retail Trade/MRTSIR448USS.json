@@ -1,7 +1,7 @@
 {
   "id": "MRTSIR448USS",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Retail Inventories/Sales Ratio: Clothing and Clothing Accessory Stores",
   "observation_start": "1992-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-15 09:06:07-05",
-  "popularity": 28,
-  "group_popularity": 36
+  "popularity": 25,
+  "group_popularity": 34
 }

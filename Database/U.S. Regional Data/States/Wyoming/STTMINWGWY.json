@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGWY",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "State Minimum Wage Rate for Wyoming",
   "observation_start": "1968-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:31-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "For more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

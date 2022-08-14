@@ -1,7 +1,7 @@
 {
   "id": "LNS14000093",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Unemployment Rate - 45-54 Yrs.",
   "observation_start": "1948-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-05 07:45:19-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS14000093"
 }

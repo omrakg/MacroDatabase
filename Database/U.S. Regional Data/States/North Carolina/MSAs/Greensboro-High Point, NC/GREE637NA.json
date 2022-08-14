@@ -1,7 +1,7 @@
 {
   "id": "GREE637NA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "All Employees: Total Nonfarm in Greensboro-High Point, NC (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-23 02:04:23-05",
-  "popularity": 1,
+  "popularity": 2,
   "group_popularity": 2
 }

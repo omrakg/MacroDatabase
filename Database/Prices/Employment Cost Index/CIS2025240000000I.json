@@ -1,7 +1,7 @@
 {
   "id": "CIS2025240000000I",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Insurance carriers and related activities",
   "observation_start": "2004-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-29 07:52:01-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "See Footnote W onhttps://www.bls.gov/ect/cimapnote.htm"
 }

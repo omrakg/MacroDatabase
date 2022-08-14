@@ -1,7 +1,7 @@
 {
   "id": "TOTLLM1619",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Civilian Labor Force - 16 to 19 years, Men",
   "observation_start": "2000-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 10:23:19-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The civilian labor force is the sum of employed and unemployed persons.\n\nThe series comes from the 'Current Population Survey (Household Survey)'."
 }

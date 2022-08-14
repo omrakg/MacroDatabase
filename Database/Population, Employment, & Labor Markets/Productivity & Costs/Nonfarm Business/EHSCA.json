@@ -1,7 +1,7 @@
 {
   "id": "EHSCA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Hours of Wage and Salary Workers on Nonfarm Payrolls: Education and Health Services",
   "observation_start": "1964-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-20 13:48:11-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "For more information, see https://www.bls.gov/lpc/hoursdatainfo.htm"
 }

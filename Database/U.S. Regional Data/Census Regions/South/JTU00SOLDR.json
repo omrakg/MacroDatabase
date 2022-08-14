@@ -1,17 +1,17 @@
 {
   "id": "JTU00SOLDR",
-  "realtime_start": "2022-07-31",
-  "realtime_end": "2022-07-31",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Layoffs and Discharges: Total Nonfarm in South Census Region",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-05-01",
+  "observation_end": "2022-06-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Rate",
   "units_short": "Rate",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-06 09:06:34-05",
+  "last_updated": "2022-08-02 09:06:33-05",
   "popularity": 1,
   "group_popularity": 1
 }

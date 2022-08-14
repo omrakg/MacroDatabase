@@ -1,7 +1,7 @@
 {
   "id": "JTU7000LDL",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Layoffs and Discharges: Leisure and Hospitality",
   "observation_start": "2000-12-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-02 09:05:16-05",
-  "popularity": 11,
-  "group_popularity": 12
+  "popularity": 8,
+  "group_popularity": 9
 }

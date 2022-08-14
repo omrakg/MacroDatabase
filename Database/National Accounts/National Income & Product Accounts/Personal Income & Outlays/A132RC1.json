@@ -1,7 +1,7 @@
 {
   "id": "A132RC1",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Compensation of Employees, Received: Wage and Salary Disbursements: Private Industries",
   "observation_start": "1959-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-29 07:43:31-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 15,
+  "group_popularity": 15,
   "notes": "BEA Account Code: A132RC\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

@@ -1,7 +1,7 @@
 {
   "id": "DALLSRESFRMACBEP",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks",
   "observation_start": "1991-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-20 13:19:08-05",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 17,
+  "group_popularity": 17,
   "notes": "Delinquent loans and leases are those past due thirty days or more and still accruing interest as well as those in nonaccrual status."
 }

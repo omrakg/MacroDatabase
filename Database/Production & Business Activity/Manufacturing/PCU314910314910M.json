@@ -1,17 +1,17 @@
 {
   "id": "PCU314910314910M",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Producer Price Index by Industry: Textile Bag and Canvas Mills: Miscellaneous Receipts",
   "observation_start": "2011-12-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 2011=100",
   "units_short": "Index Dec 2011=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-14 08:13:18-05",
+  "last_updated": "2022-08-11 08:00:07-05",
   "popularity": 1,
   "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCSM4413USN",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Retail Sales: Automotive Parts, Accessory, and Tire Stores",
   "observation_start": "1992-02-01",
   "observation_end": "2022-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-15 09:06:42-05",
   "popularity": 1,
-  "group_popularity": 29,
+  "group_popularity": 24,
   "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
 }

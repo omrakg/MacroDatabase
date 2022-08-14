@@ -1,7 +1,7 @@
 {
   "id": "SPADOTFRTIND",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Adolescent Fertility Rate for India",
   "observation_start": "1960-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-03 14:01:35-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19.\n\nSource Indicator: SP.ADO.TFRT"
 }

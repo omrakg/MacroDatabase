@@ -1,7 +1,7 @@
 {
   "id": "COPOP",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Resident Population in Colorado",
   "observation_start": "1900-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-22 12:09:03-06",
-  "popularity": 20,
-  "group_popularity": 20,
+  "popularity": 15,
+  "group_popularity": 15,
   "notes": "Data for \"Resident Population\" from 1900 to present are estimates as of July 1"
 }

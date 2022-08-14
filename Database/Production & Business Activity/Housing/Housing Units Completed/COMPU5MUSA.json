@@ -1,7 +1,7 @@
 {
   "id": "COMPU5MUSA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More",
   "observation_start": "1968-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-19 07:31:18-05",
-  "popularity": 23,
-  "group_popularity": 25
+  "popularity": 19,
+  "group_popularity": 22
 }

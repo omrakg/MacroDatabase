@@ -1,17 +1,17 @@
 {
   "id": "WPS4511",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Producer Price Index by Commodity: Professional Services (Partial): Legal Services",
   "observation_start": "2009-03-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Mar 2009=100",
   "units_short": "Index Mar 2009=100",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-07-14 08:08:50-05",
+  "last_updated": "2022-08-11 07:58:39-05",
   "popularity": 1,
-  "group_popularity": 35
+  "group_popularity": 37
 }

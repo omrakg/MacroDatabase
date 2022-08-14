@@ -1,7 +1,7 @@
 {
   "id": "LNU04032230",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Unemployment Rate - Mining, Quarrying, and Oil and Gas Extraction, Nonagricultural Private Wage and Salary Workers",
   "observation_start": "2000-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 07:43:15-05",
-  "popularity": 14,
-  "group_popularity": 14,
+  "popularity": 20,
+  "group_popularity": 20,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04032230"
 }

@@ -1,7 +1,7 @@
 {
   "id": "CPN1M",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "30-Day AA Nonfinancial Commercial Paper Interest Rate",
   "observation_start": "1997-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-01 15:25:29-05",
   "popularity": 3,
-  "group_popularity": 21,
+  "group_popularity": 25,
   "notes": "Averages of Business Days, Discount Basis"
 }

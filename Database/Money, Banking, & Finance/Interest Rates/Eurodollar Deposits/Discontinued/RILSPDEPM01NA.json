@@ -1,7 +1,7 @@
 {
   "id": "RILSPDEPM01NA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)",
   "observation_start": "1971-01-01",
   "observation_end": "2015-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 16:11:01-05",
-  "popularity": 2,
+  "popularity": 1,
   "group_popularity": 33,
   "notes": "Averages of daily figures.\n\nThe Federal Reserve Board has discontinued this series. For more information, please refer to the Technical Q&As (https://www.federalreserve.gov/releases/h15/h15_technical_qa.htm) for the H.15 Statistical Release."
 }

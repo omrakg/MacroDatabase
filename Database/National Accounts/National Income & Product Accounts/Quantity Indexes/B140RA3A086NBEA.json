@@ -1,7 +1,7 @@
 {
   "id": "B140RA3A086NBEA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Real auto output: Net purchases of used autos (chain-type quantity index)",
   "observation_start": "1947-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:57:26-05",
-  "popularity": 3,
-  "group_popularity": 9,
+  "popularity": 2,
+  "group_popularity": 8,
   "notes": "BEA Account Code: B140RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "MIBPPRIV",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "New Private Housing Units Authorized by Building Permits for Michigan",
   "observation_start": "1988-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-26 08:46:59-05",
-  "popularity": 7,
-  "group_popularity": 9,
+  "popularity": 6,
+  "group_popularity": 13,
   "notes": "This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more."
 }

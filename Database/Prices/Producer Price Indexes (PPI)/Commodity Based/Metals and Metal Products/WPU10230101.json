@@ -1,7 +1,7 @@
 {
   "id": "WPU10230101",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: No. 1 Copper Scrap, Including Wire",
   "observation_start": "1986-12-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 07:57:55-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 6,
+  "group_popularity": 6
 }

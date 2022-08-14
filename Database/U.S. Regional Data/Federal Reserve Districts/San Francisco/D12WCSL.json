@@ -1,17 +1,17 @@
 {
   "id": "D12WCSL",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Liabilities and Capital: Capital: Surplus: Wednesday Level in Federal Reserve District 12: San Francisco",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-08-03",
+  "observation_end": "2022-08-10",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-04 15:34:48-05",
+  "last_updated": "2022-08-11 16:03:42-05",
   "popularity": 1,
   "group_popularity": 1
 }

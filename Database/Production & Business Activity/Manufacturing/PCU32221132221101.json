@@ -1,17 +1,17 @@
 {
   "id": "PCU32221132221101",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Producer Price Index by Industry: Corrugated and Solid Fiber Box Manufacturing: Corrugated Shipping Containers for Food and Beverages and Carryout Boxes for Retail Food",
   "observation_start": "1961-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Mar 1980=100",
   "units_short": "Index Mar 1980=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-14 07:58:43-05",
+  "last_updated": "2022-08-11 07:55:28-05",
   "popularity": 6,
   "group_popularity": 6
 }

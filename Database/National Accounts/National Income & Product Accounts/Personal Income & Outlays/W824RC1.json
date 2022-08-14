@@ -1,7 +1,7 @@
 {
   "id": "W824RC1",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Personal current transfer receipts: Government social benefits to persons: Medicare",
   "observation_start": "1966-07-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-29 07:43:29-05",
-  "popularity": 20,
-  "group_popularity": 23,
+  "popularity": 15,
+  "group_popularity": 16,
   "notes": "BEA Account Code: W824RC\nMedicare benefits include hospital and supplementary medical insurance benefits that are distributed from the federal hospital insurance trust fund and the supplementary medical insurance trust fund.\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

@@ -1,7 +1,7 @@
 {
   "id": "M08G9BUSM144NNBR",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Total Dividend Payments for United States",
   "observation_start": "1906-01-01",
   "observation_end": "1926-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:16:02-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 6,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1885-1903 (2)--Original Data, 1906-1926 (3)--Original Data, 1925-1942. Data Until 1909 Include Bank Dividends. Data For 1909-1926 Exclude Bank Dividends And Are The Sum Of Industrial Corporations And Railroad And Traction Companies Which Was Computed By NBER. Source: U.S. Department Of Commerce, Journal Of Commerce, 1906-1942.\n\nThis NBER data series m08079b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08079b"
 }

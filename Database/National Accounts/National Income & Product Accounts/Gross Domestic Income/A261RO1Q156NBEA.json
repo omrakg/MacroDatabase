@@ -1,7 +1,7 @@
 {
   "id": "A261RO1Q156NBEA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Real Gross Domestic Income",
   "observation_start": "1948-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-26 07:54:01-05",
-  "popularity": 8,
-  "group_popularity": 46,
+  "popularity": 7,
+  "group_popularity": 42,
   "notes": "BEA Account Code: A261RO\r\n\r\nFor more information about this series, please see http://www.bea.gov/national/."
 }

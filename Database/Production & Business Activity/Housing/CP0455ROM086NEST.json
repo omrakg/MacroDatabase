@@ -1,7 +1,7 @@
 {
   "id": "CP0455ROM086NEST",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Harmonized Index of Consumer Prices: Heat Energy for Romania",
   "observation_start": "2000-12-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-19 07:18:02-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The Harmonized Index of Consumer Prices category \"Heat Energy (04.5.5)\" is a classification of nondurable goods and energy that includes hot water and steam purchased from district heating plants, associated expenditure such as hire of meters, reading of meters, standing charges, etc.; and ice used for cooling and refrigeration purposes.\n\nThis category is a subcategory of the Housing, Water, Electricity, Gas, and Other Fuels (04) and of Electricity, Gas, and Other Fuels (04.5) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
 }

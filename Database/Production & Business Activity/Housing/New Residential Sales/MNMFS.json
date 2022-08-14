@@ -1,7 +1,7 @@
 {
   "id": "MNMFS",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Median Number of Months on Sales Market for Newly Completed Homes",
   "observation_start": "1975-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-26 09:01:14-05",
-  "popularity": 26,
-  "group_popularity": 26,
+  "popularity": 30,
+  "group_popularity": 30,
   "notes": "This is the median number of months for sale since the completion of the home."
 }

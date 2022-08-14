@@ -1,7 +1,7 @@
 {
   "id": "CEU1000000003",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Average Hourly Earnings of All Employees, Mining and Logging",
   "observation_start": "2006-03-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 07:45:34-05",
-  "popularity": 1,
-  "group_popularity": 34,
+  "popularity": 2,
+  "group_popularity": 35,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU1000000003"
 }

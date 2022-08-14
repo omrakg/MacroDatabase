@@ -1,7 +1,7 @@
 {
   "id": "RETAILMPCIMSA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Retailers Inventories",
   "observation_start": "1992-02-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-15 09:01:12-05",
-  "popularity": 16,
-  "group_popularity": 58
+  "popularity": 11,
+  "group_popularity": 56
 }

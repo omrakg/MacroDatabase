@@ -1,17 +1,17 @@
 {
   "id": "PCU316316",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Producer Price Index by Industry: Leather and Allied Product Manufacturing",
   "observation_start": "1984-12-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 1984=100",
   "units_short": "Index Dec 1984=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-14 08:13:07-05",
+  "last_updated": "2022-08-11 07:59:58-05",
   "popularity": 1,
   "group_popularity": 1
 }

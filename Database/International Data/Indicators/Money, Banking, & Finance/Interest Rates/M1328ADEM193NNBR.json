@@ -1,7 +1,7 @@
 {
   "id": "M1328ADEM193NNBR",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Bond Yields for Germany",
   "observation_start": "1870-01-01",
   "observation_end": "1913-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:17:47-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1870-1813 (2)--Original Data, 1924-1931 (3)--Original Data, 1926-1935. The Figure For November 1903 Was Given In Source As 2.54, But Is Presented Heer As 3.54; The Figure For December 1903 Was Given In Source As 2.53, But Is Given Here As 3.53. NBER Provides No Explanation. Source: Institut Of Konjunkturforschung, Viertilsjahrshefte Zur Konjunkturforschung, Sosderkeft 36, Pp. 98-99.\n\nThis NBER data series m13028a appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13028a"
 }

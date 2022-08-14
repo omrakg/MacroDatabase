@@ -1,7 +1,7 @@
 {
   "id": "CIU2028100000000I",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Other services, except public administration",
   "observation_start": "2001-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-29 07:51:36-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 1,
   "notes": "New series. Historical data are available beginning with December 2005."
 }

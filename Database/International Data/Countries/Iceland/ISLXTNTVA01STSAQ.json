@@ -1,7 +1,7 @@
 {
   "id": "ISLXTNTVA01STSAQ",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "International Trade: Net trade: Value (goods): Total for Iceland",
   "observation_start": "1995-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "%",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-06-14 12:12:32-05",
+  "last_updated": "2022-08-11 16:13:06-05",
   "popularity": 0,
   "group_popularity": 1,
   "notes": "OECD descriptor ID: XTNTVA01 OECD unit ID: STSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."

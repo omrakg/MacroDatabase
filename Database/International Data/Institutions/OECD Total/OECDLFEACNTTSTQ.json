@@ -1,7 +1,7 @@
 {
   "id": "OECDLFEACNTTSTQ",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Labour Force Survey - quarterly levels: Employment - by economic activity: Construction: All persons for OECD - Total",
   "observation_start": "2010-07-01",
   "observation_end": "2020-10-01",
@@ -11,8 +11,8 @@
   "units_short": "Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-14 20:34:46-05",
+  "last_updated": "2022-08-11 16:07:43-05",
   "popularity": 0,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "OECD descriptor ID: LFEACNTT OECD unit ID: ST OECD country ID: OECD All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

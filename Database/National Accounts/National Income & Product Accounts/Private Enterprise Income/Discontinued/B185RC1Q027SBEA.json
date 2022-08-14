@@ -1,7 +1,7 @@
 {
   "id": "B185RC1Q027SBEA",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Net private saving: Households and institutions: Wage accruals less disbursements (DISCONTINUED)",
   "observation_start": "1947-01-01",
   "observation_end": "2013-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2013-04-26 10:48:15-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B185RC1\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

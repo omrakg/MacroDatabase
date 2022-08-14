@@ -1,17 +1,17 @@
 {
   "id": "WPUID62",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Goods for Intermediate Demand",
   "observation_start": "1947-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index 1982=100",
   "units_short": "Index 1982=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-14 07:58:25-05",
-  "popularity": 36,
-  "group_popularity": 40
+  "last_updated": "2022-08-11 07:50:08-05",
+  "popularity": 38,
+  "group_popularity": 42
 }

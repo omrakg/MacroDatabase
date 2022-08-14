@@ -1,7 +1,7 @@
 {
   "id": "WPU10220181",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Other Nonferrous Metals, Unalloyed",
   "observation_start": "1988-06-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-14 08:06:33-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 3,
+  "group_popularity": 3
 }

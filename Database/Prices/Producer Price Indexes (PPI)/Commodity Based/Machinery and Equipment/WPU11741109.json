@@ -1,7 +1,7 @@
 {
   "id": "WPU11741109",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Power Regulators, Boosters, and Other Transformers and Parts for All Transformers",
   "observation_start": "2002-06-01",
   "observation_end": "2015-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-09-11 10:44:29-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

@@ -1,7 +1,7 @@
 {
   "id": "MRTSSM444USS",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Retail Sales: Building Materials and Garden Equipment and Supplies Dealers",
   "observation_start": "1992-01-01",
   "observation_end": "2022-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-15 09:06:09-05",
-  "popularity": 8,
-  "group_popularity": 16
+  "popularity": 9,
+  "group_popularity": 15
 }

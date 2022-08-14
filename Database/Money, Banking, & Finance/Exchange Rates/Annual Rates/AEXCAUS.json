@@ -1,7 +1,7 @@
 {
   "id": "AEXCAUS",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Canadian Dollars to U.S. Dollar Spot Exchange Rate",
   "observation_start": "1971-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-03 15:36:03-06",
-  "popularity": 19,
-  "group_popularity": 59,
+  "popularity": 14,
+  "group_popularity": 58,
   "notes": "Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies."
 }

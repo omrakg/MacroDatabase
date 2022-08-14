@@ -1,7 +1,7 @@
 {
   "id": "CEU7000000001",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "All Employees, Leisure and Hospitality",
   "observation_start": "1939-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 07:44:36-05",
-  "popularity": 12,
-  "group_popularity": 55,
+  "popularity": 9,
+  "group_popularity": 54,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU7000000001"
 }

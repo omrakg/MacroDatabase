@@ -1,18 +1,18 @@
 {
   "id": "SMPACBW027NBOG",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Real Estate Loans: Commercial Real Estate Loans: Secured by Multifamily Properties, All Commercial Banks",
   "observation_start": "2015-01-07",
-  "observation_end": "2022-07-27",
+  "observation_end": "2022-08-03",
   "frequency": "Weekly",
   "frequency_short": "W",
   "units": "Billions of U.S. Dollars",
   "units_short": "Bil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-05 15:36:52-05",
+  "last_updated": "2022-08-12 15:37:15-05",
   "popularity": 1,
-  "group_popularity": 15,
+  "group_popularity": 14,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "CGADLW3544",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "Civilian Labor Force: College Graduates: Advanced Degree: Master's Degree and Higher, 35 to 44 years, Women",
   "observation_start": "2014-12-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 10:25:27-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The civilian labor force is the sum of employed and unemployed persons. Those persons not classified as employed or unemployed are not in the labor force."
 }

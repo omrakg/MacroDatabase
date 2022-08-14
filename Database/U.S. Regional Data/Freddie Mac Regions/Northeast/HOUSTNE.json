@@ -1,7 +1,7 @@
 {
   "id": "HOUSTNE",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-14",
+  "realtime_end": "2022-08-14",
   "title": "New Privately-Owned Housing Units Started: Total Units in the Northeast Census Region",
   "observation_start": "1959-01-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-19 07:31:20-05",
-  "popularity": 13,
-  "group_popularity": 15
+  "popularity": 14,
+  "group_popularity": 16
 }
