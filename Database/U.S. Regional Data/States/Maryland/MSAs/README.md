@@ -1,9 +1,9 @@
 | Folder                                       |   Files / Folders |
 |----------------------------------------------|-------------------|
-| Cumberland, MD-WV                            |                93 |
-| Hagerstown-Martinsburg, MD-WV                |               152 |
-| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  |               183 |
-| Washington-Arlington-Alexandria, DC-VA-MD-WV |               187 |
 | Baltimore-Columbia-Towson, MD                |               277 |
-| Salisbury, MD-DE                             |               146 |
+| Salisbury, MD-DE                             |                 0 |
+| Hagerstown-Martinsburg, MD-WV                |                 0 |
+| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  |                 0 |
+| Cumberland, MD-WV                            |                 0 |
+| Washington-Arlington-Alexandria, DC-VA-MD-WV |                 0 |
 | California-Lexington Park, MD                |                59 |

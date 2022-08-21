@@ -2,16 +2,16 @@
 |-------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | IM0   | Import Price Index (SITC): Food and live animals (DISCONTINUED)                                                          | 1995-01-01          | 2005-12-01        |
 | IM0R  | Import Price Index (SITC): Other food and live animals (DISCONTINUED)                                                    | 1996-12-01          | 2005-12-01        |
-| IM01  | Import Price Index (SITC): Meat and meat preparations (DISCONTINUED)                                                     | 1995-01-01          | 2005-12-01        |
 | IM1   | Import Price Index (SITC): Beverages and tobacco (DISCONTINUED)                                                          | 1995-01-01          | 2005-12-01        |
+| IM01  | Import Price Index (SITC): Meat and meat preparations (DISCONTINUED)                                                     | 1995-01-01          | 2005-12-01        |
 | IM2   | Import Price Index (SITC): Crude materials, inedible, except fuels (DISCONTINUED)                                        | 1995-01-01          | 2005-12-01        |
 | IM3   | Import Price Index (SITC): Mineral fuels, lubricants and related materials (DISCONTINUED)                                | 1995-01-01          | 2005-12-01        |
 | IM03  | Import Price Index (SITC): Fish, crustaceans, aquatic invertebrates and preparations thereof (DISCONTINUED)              | 1995-01-01          | 2005-12-01        |
-| IM05  | Import Price Index (SITC): Vegetables, fruit and nuts, fresh or dried (DISCONTINUED)                                     | 1995-01-01          | 2005-12-01        |
 | IM5   | Import Price Index (SITC): Chemicals and related products, n.e.s. (DISCONTINUED)                                         | 1995-01-01          | 2005-12-01        |
+| IM05  | Import Price Index (SITC): Vegetables, fruit and nuts, fresh or dried (DISCONTINUED)                                     | 1995-01-01          | 2005-12-01        |
 | IM6   | Import Price Index (SITC): Manufactured goods classified chiefly by material (DISCONTINUED)                              | 1995-01-01          | 2005-12-01        |
-| IM07  | Import Price Index (SITC): Coffee, tea, cocoa, spices and manufactures thereof (DISCONTINUED)                            | 1995-01-01          | 2005-12-01        |
 | IM7   | Import Price Index (SITC): Machinery and transport equipment (DISCONTINUED)                                              | 1995-01-01          | 2005-12-01        |
+| IM07  | Import Price Index (SITC): Coffee, tea, cocoa, spices and manufactures thereof (DISCONTINUED)                            | 1995-01-01          | 2005-12-01        |
 | IM8   | Import Price Index (SITC): Miscellaneous manufactured articles (DISCONTINUED)                                            | 1995-01-01          | 2005-12-01        |
 | IM11  | Import Price Index (SITC): Beverages (DISCONTINUED)                                                                      | 1995-01-01          | 2005-12-01        |
 | IM24  | Import Price Index (SITC): Cork and wood (DISCONTINUED)                                                                  | 1995-01-01          | 2005-12-01        |
@@ -19,8 +19,8 @@
 | IM28  | Import Price Index (SITC): Metalliferous ores and metal scrap (DISCONTINUED)                                             | 1995-01-01          | 2005-12-01        |
 | IM29  | Import Price Index (SITC): Crude animal and vegetable materials, n.e.s. (DISCONTINUED)                                   | 1996-12-01          | 2005-12-01        |
 | IM33  | Import Price Index (SITC): Petroleum, petroleum products and related materials (DISCONTINUED)                            | 1995-01-01          | 2005-12-01        |
-| IM034 | Import Price Index (SITC): Fish, fresh (live or dead), chilled or frozen (DISCONTINUED)                                  | 1995-01-01          | 2005-12-01        |
 | IM34  | Import Price Index (SITC): Gas, natural and manufactured (DISCONTINUED)                                                  | 1995-01-01          | 2005-12-01        |
+| IM034 | Import Price Index (SITC): Fish, fresh (live or dead), chilled or frozen (DISCONTINUED)                                  | 1995-01-01          | 2005-12-01        |
 | IM036 | Import Price Index (SITC): Crustaceans, aquatic invert. fresh, chilled, frozen, dried, salted (DISCONTINUED)             | 1995-01-01          | 2005-12-01        |
 | IM51  | Import Price Index (SITC): Organic chemicals (DISCONTINUED)                                                              | 1995-01-01          | 2005-12-01        |
 | IM52  | Import Price Index (SITC): Inorganic chemicals (DISCONTINUED)                                                            | 1995-01-01          | 2005-12-01        |

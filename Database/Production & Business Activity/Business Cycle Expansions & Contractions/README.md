@@ -280,9 +280,9 @@
 | USARECP         | OECD based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1947-02-01          | 2022-07-01        |
 | USPHCI          | Coincident Economic Activity Index for the United States                                                                | 1979-01-01          | 2022-06-01        |
 | USREC           | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-07-01        |
-| USRECD          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-08-11        |
-| USRECDM         | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-08-11        |
-| USRECDP         | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-08-11        |
+| USRECD          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-08-18        |
+| USRECDM         | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-08-18        |
+| USRECDP         | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-08-18        |
 | USRECM          | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-07-01        |
 | USRECP          | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-07-01        |
 | USRECQ          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-10-01          | 2022-04-01        |

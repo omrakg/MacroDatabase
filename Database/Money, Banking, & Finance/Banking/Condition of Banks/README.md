@@ -11,13 +11,13 @@
 | DDAI01BRA642NWDB | Number of Bank Accounts for Brazil                                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI01BWA642NWDB | Number of Bank Accounts for Botswana                                                                                           | 2004-01-01          | 2019-01-01        |
 | DDAI01BZA642NWDB | Number of Bank Accounts for Belize                                                                                             | 2004-01-01          | 2019-01-01        |
-| DDAI01CFA642NWDB | Number of Bank Accounts for Central African Republic                                                                           | 2001-01-01          | 2013-01-01        |
+| DDAI01CFA642NWDB | Number of Bank Accounts for Central African Republic                                                                           | 2009-01-01          | 2017-01-01        |
 | DDAI01CGA642NWDB | Number of Bank Accounts for Congo                                                                                              | 2004-01-01          | 2017-01-01        |
 | DDAI01CLA642NWDB | Number of Bank Accounts for Chile                                                                                              | 2004-01-01          | 2010-01-01        |
 | DDAI01CMA642NWDB | Number of Bank Accounts for Cameroon                                                                                           | 2004-01-01          | 2018-01-01        |
 | DDAI01CRA642NWDB | Number of Bank Accounts for Costa Rica                                                                                         | 2004-01-01          | 2019-01-01        |
 | DDAI01CVA642NWDB | Number of Bank Accounts for Cape Verde                                                                                         | 2004-01-01          | 2019-01-01        |
-| DDAI01DJA642NWDB | Number of Bank Accounts for Djibouti                                                                                           | 2005-01-01          | 2016-01-01        |
+| DDAI01DJA642NWDB | Number of Bank Accounts for Djibouti                                                                                           | 2008-01-01          | 2019-01-01        |
 | DDAI01DOA642NWDB | Number of Bank Accounts for Dominican Republic                                                                                 | 2011-01-01          | 2019-01-01        |
 | DDAI01DZA642NWDB | Number of Bank Accounts for Algeria                                                                                            | 2004-01-01          | 2013-01-01        |
 | DDAI01EEA642NWDB | Number of Bank Accounts for Estonia                                                                                            | 2008-01-01          | 2019-01-01        |
@@ -25,7 +25,7 @@
 | DDAI01GAA642NWDB | Number of Bank Accounts for Gabon                                                                                              | 2008-01-01          | 2013-01-01        |
 | DDAI01GEA642NWDB | Number of Bank Accounts for Georgia                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI01GHA642NWDB | Number of Bank Accounts for Ghana                                                                                              | 2005-01-01          | 2018-01-01        |
-| DDAI01GQA642NWDB | Number of Bank Accounts for Equatorial Guinea                                                                                  | 2001-01-01          | 2016-01-01        |
+| DDAI01GQA642NWDB | Number of Bank Accounts for Equatorial Guinea                                                                                  | 2013-01-01          | 2019-01-01        |
 | DDAI01HTA642NWDB | Number of Bank Accounts for Haiti                                                                                              | 2004-01-01          | 2018-01-01        |
 | DDAI01HUA642NWDB | Number of Bank Accounts for Hungary                                                                                            | 2012-01-01          | 2019-01-01        |
 | DDAI01ILA642NWDB | Number of Bank Accounts for Israel                                                                                             | 2008-01-01          | 2019-01-01        |
@@ -33,7 +33,7 @@
 | DDAI01ITA642NWDB | Number of Bank Accounts for Italy                                                                                              | 2004-01-01          | 2019-01-01        |
 | DDAI01KEA642NWDB | Number of Bank Accounts for Kenya                                                                                              | 2004-01-01          | 2015-01-01        |
 | DDAI01KGA642NWDB | Number of Bank Accounts for Kyrgyzstan                                                                                         | 2009-01-01          | 2019-01-01        |
-| DDAI01KMA642NWDB | Number of Bank Accounts for Comoros                                                                                            | 2001-01-01          | 2016-01-01        |
+| DDAI01KMA642NWDB | Number of Bank Accounts for Comoros                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI01KZA642NWDB | Number of Bank Accounts for Kazakhstan                                                                                         | 2004-01-01          | 2011-01-01        |
 | DDAI01LAA642NWDB | Number of Bank Accounts for Lao People's Democratic Republic                                                                   | 2013-01-01          | 2018-01-01        |
 | DDAI01LBA642NWDB | Number of Bank Accounts for Lebanon                                                                                            | 2005-01-01          | 2019-01-01        |
@@ -47,7 +47,7 @@
 | DDAI01MUA642NWDB | Number of Bank Accounts for Mauritius                                                                                          | 2015-01-01          | 2019-01-01        |
 | DDAI01MVA642NWDB | Number of Bank Accounts for Maldives                                                                                           | 2004-01-01          | 2019-01-01        |
 | DDAI01MWA642NWDB | Number of Bank Accounts for Malawi                                                                                             | 2007-01-01          | 2019-01-01        |
-| DDAI01MYA642NWDB | Number of Bank Accounts for Malaysia                                                                                           | 2011-01-01          | 2017-01-01        |
+| DDAI01MYA642NWDB | Number of Bank Accounts for Malaysia                                                                                           | 2013-01-01          | 2019-01-01        |
 | DDAI01NAA642NWDB | Number of Bank Accounts for Namibia                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI01NGA642NWDB | Number of Bank Accounts for Nigeria                                                                                            | 2007-01-01          | 2018-01-01        |
 | DDAI01NOA642NWDB | Number of Bank Accounts for Norway                                                                                             | 2005-01-01          | 2015-01-01        |
@@ -55,7 +55,7 @@
 | DDAI01OMA642NWDB | Number of Bank Accounts for Oman                                                                                               | 2009-01-01          | 2009-01-01        |
 | DDAI01PEA642NWDB | Number of Bank Accounts for Peru                                                                                               | 2004-01-01          | 2019-01-01        |
 | DDAI01PGA642NWDB | Number of Bank Accounts for Papua New Guinea                                                                                   | 2006-01-01          | 2009-01-01        |
-| DDAI01PHA642NWDB | Number of Bank Accounts for Philippines                                                                                        | 2005-01-01          | 2017-01-01        |
+| DDAI01PHA642NWDB | Number of Bank Accounts for Philippines                                                                                        | 2008-01-01          | 2019-01-01        |
 | DDAI01PKA642NWDB | Number of Bank Accounts for Pakistan                                                                                           | 2004-01-01          | 2019-01-01        |
 | DDAI01PYA642NWDB | Number of Bank Accounts for Paraguay                                                                                           | 2005-01-01          | 2019-01-01        |
 | DDAI01QAA642NWDB | Number of Bank Accounts for Qatar                                                                                              | 2004-01-01          | 2019-01-01        |
@@ -68,7 +68,7 @@
 | DDAI01STA642NWDB | Number of Bank Accounts for Sao Tome and Principe                                                                              | 2007-01-01          | 2018-01-01        |
 | DDAI01SYA642NWDB | Number of Bank Accounts for Syrian Arab Republic                                                                               | 2008-01-01          | 2013-01-01        |
 | DDAI01SZA642NWDB | Number of Bank Accounts for Swaziland                                                                                          | 2004-01-01          | 2018-01-01        |
-| DDAI01TDA642NWDB | Number of Bank Accounts for Chad                                                                                               | 2005-01-01          | 2016-01-01        |
+| DDAI01TDA642NWDB | Number of Bank Accounts for Chad                                                                                               | 2013-01-01          | 2019-01-01        |
 | DDAI01TGA642NWDB | Number of Bank Accounts for Togo                                                                                               | 2004-01-01          | 2019-01-01        |
 | DDAI01THA642NWDB | Number of Bank Accounts for Thailand                                                                                           | 2006-01-01          | 2019-01-01        |
 | DDAI01TJA642NWDB | Number of Bank Accounts for Tajikistan                                                                                         | 2004-01-01          | 2018-01-01        |
@@ -79,7 +79,7 @@
 | DDAI01UGA642NWDB | Number of Bank Accounts for Uganda                                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI01UYA642NWDB | Number of Bank Accounts for Uruguay                                                                                            | 2005-01-01          | 2019-01-01        |
 | DDAI01UZA642NWDB | Number of Bank Accounts for Uzbekistan                                                                                         | 2004-01-01          | 2019-01-01        |
-| DDAI01WSA642NWDB | Number of Bank Accounts for Samoa                                                                                              | 2001-01-01          | 2016-01-01        |
+| DDAI01WSA642NWDB | Number of Bank Accounts for Samoa                                                                                              | 2004-01-01          | 2018-01-01        |
 | DDAI01YEA642NWDB | Number of Bank Accounts for Yemen                                                                                              | 2004-01-01          | 2015-01-01        |
 | DDAI01ZMA642NWDB | Number of Bank Accounts for Zambia                                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI02AEA643NWDB | Number of Bank Branches for United Arab Emirates                                                                               | 2004-01-01          | 2019-01-01        |
@@ -107,17 +107,17 @@
 | DDAI02BYA643NWDB | Number of Bank Branches for Belarus                                                                                            | 2004-01-01          | 2017-01-01        |
 | DDAI02BZA643NWDB | Number of Bank Branches for Belize                                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI02CAA643NWDB | Number of Bank Branches for Canada                                                                                             | 2006-01-01          | 2019-01-01        |
-| DDAI02CFA643NWDB | Number of Bank Branches for Central African Republic                                                                           | 2001-01-01          | 2013-01-01        |
+| DDAI02CFA643NWDB | Number of Bank Branches for Central African Republic                                                                           | 2004-01-01          | 2017-01-01        |
 | DDAI02CGA643NWDB | Number of Bank Branches for Congo                                                                                              | 2004-01-01          | 2017-01-01        |
 | DDAI02CHA643NWDB | Number of Bank Branches for Switzerland                                                                                        | 2004-01-01          | 2019-01-01        |
 | DDAI02CLA643NWDB | Number of Bank Branches for Chile                                                                                              | 2004-01-01          | 2019-01-01        |
 | DDAI02CMA643NWDB | Number of Bank Branches for Cameroon                                                                                           | 2004-01-01          | 2018-01-01        |
-| DDAI02COA643NWDB | Number of Bank Branches for Colombia                                                                                           | 2005-01-01          | 2017-01-01        |
+| DDAI02COA643NWDB | Number of Bank Branches for Colombia                                                                                           | 2008-01-01          | 2019-01-01        |
 | DDAI02CRA643NWDB | Number of Bank Branches for Costa Rica                                                                                         | 2004-01-01          | 2019-01-01        |
 | DDAI02CVA643NWDB | Number of Bank Branches for Cape Verde                                                                                         | 2004-01-01          | 2019-01-01        |
 | DDAI02CZA643NWDB | Number of Bank Branches for Czech Republic                                                                                     | 2004-01-01          | 2019-01-01        |
 | DDAI02DEA643NWDB | Number of Bank Branches for Germany                                                                                            | 2004-01-01          | 2019-01-01        |
-| DDAI02DKA643NWDB | Number of Bank Branches for Denmark                                                                                            | 2001-01-01          | 2017-01-01        |
+| DDAI02DKA643NWDB | Number of Bank Branches for Denmark                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI02DMA643NWDB | Number of Bank Branches for Dominica                                                                                           | 2004-01-01          | 2019-01-01        |
 | DDAI02DOA643NWDB | Number of Bank Branches for Dominican Republic                                                                                 | 2004-01-01          | 2019-01-01        |
 | DDAI02DZA643NWDB | Number of Bank Branches for Algeria                                                                                            | 2004-01-01          | 2019-01-01        |
@@ -136,7 +136,7 @@
 | DDAI02GHA643NWDB | Number of Bank Branches for Ghana                                                                                              | 2004-01-01          | 2018-01-01        |
 | DDAI02GMA643NWDB | Number of Bank Branches for Gambia                                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI02GNA643NWDB | Number of Bank Branches for Guinea                                                                                             | 2004-01-01          | 2019-01-01        |
-| DDAI02GQA643NWDB | Number of Bank Branches for Equatorial Guinea                                                                                  | 2001-01-01          | 2015-01-01        |
+| DDAI02GQA643NWDB | Number of Bank Branches for Equatorial Guinea                                                                                  | 2004-01-01          | 2019-01-01        |
 | DDAI02GRA643NWDB | Number of Bank Branches for Greece                                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI02GTA643NWDB | Number of Bank Branches for Guatemala                                                                                          | 2004-01-01          | 2019-01-01        |
 | DDAI02GYA643NWDB | Number of Bank Branches for Guyana                                                                                             | 2004-01-01          | 2019-01-01        |
@@ -159,12 +159,12 @@
 | DDAI02KGA643NWDB | Number of Bank Branches for Kyrgyzstan                                                                                         | 2004-01-01          | 2019-01-01        |
 | DDAI02KHA643NWDB | Number of Bank Branches for Cambodia                                                                                           | 2006-01-01          | 2019-01-01        |
 | DDAI02KIA643NWDB | Number of Bank Branches for Kiribati                                                                                           | 2011-01-01          | 2013-01-01        |
-| DDAI02KMA643NWDB | Number of Bank Branches for Comoros                                                                                            | 2001-01-01          | 2016-01-01        |
+| DDAI02KMA643NWDB | Number of Bank Branches for Comoros                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI02KNA643NWDB | Number of Bank Branches for Saint Kitts and Nevis                                                                              | 2004-01-01          | 2019-01-01        |
 | DDAI02KRA643NWDB | Number of Bank Branches for Republic of Korea                                                                                  | 2004-01-01          | 2019-01-01        |
 | DDAI02KWA643NWDB | Number of Bank Branches for Kuwait                                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI02KZA643NWDB | Number of Bank Branches for Kazakhstan                                                                                         | 2004-01-01          | 2019-01-01        |
-| DDAI02LAA643NWDB | Number of Bank Branches for Lao People's Democratic Republic                                                                   | 2008-01-01          | 2017-01-01        |
+| DDAI02LAA643NWDB | Number of Bank Branches for Lao People's Democratic Republic                                                                   | 2009-01-01          | 2018-01-01        |
 | DDAI02LBA643NWDB | Number of Bank Branches for Lebanon                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI02LCA643NWDB | Number of Bank Branches for Saint Lucia                                                                                        | 2004-01-01          | 2019-01-01        |
 | DDAI02LKA643NWDB | Number of Bank Branches for Sri Lanka                                                                                          | 2004-01-01          | 2015-01-01        |
@@ -194,7 +194,7 @@
 | DDAI02NGA643NWDB | Number of Bank Branches for Nigeria                                                                                            | 2004-01-01          | 2018-01-01        |
 | DDAI02NIA643NWDB | Number of Bank Branches for Nicaragua                                                                                          | 2004-01-01          | 2019-01-01        |
 | DDAI02NLA643NWDB | Number of Bank Branches for Netherlands                                                                                        | 2004-01-01          | 2019-01-01        |
-| DDAI02NOA643NWDB | Number of Bank Branches for Norway                                                                                             | 2004-01-01          | 2017-01-01        |
+| DDAI02NOA643NWDB | Number of Bank Branches for Norway                                                                                             | 2005-01-01          | 2017-01-01        |
 | DDAI02NPA643NWDB | Number of Bank Branches for Nepal                                                                                              | 2004-01-01          | 2019-01-01        |
 | DDAI02NZA643NWDB | Number of Bank Branches for New Zealand                                                                                        | 2004-01-01          | 2019-01-01        |
 | DDAI02OMA643NWDB | Number of Bank Branches for Oman                                                                                               | 2004-01-01          | 2018-01-01        |
@@ -221,7 +221,7 @@
 | DDAI02SLA643NWDB | Number of Bank Branches for Sierra Leone                                                                                       | 2004-01-01          | 2012-01-01        |
 | DDAI02SNA643NWDB | Number of Bank Branches for Senegal                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI02SRA643NWDB | Number of Bank Branches for Suriname                                                                                           | 2004-01-01          | 2019-01-01        |
-| DDAI02STA643NWDB | Number of Bank Branches for Sao Tome and Principe                                                                              | 2004-01-01          | 2016-01-01        |
+| DDAI02STA643NWDB | Number of Bank Branches for Sao Tome and Principe                                                                              | 2008-01-01          | 2018-01-01        |
 | DDAI02SVA643NWDB | Number of Bank Branches for El Salvador                                                                                        | 2009-01-01          | 2019-01-01        |
 | DDAI02SYA643NWDB | Number of Bank Branches for Syrian Arab Republic                                                                               | 2004-01-01          | 2013-01-01        |
 | DDAI02SZA643NWDB | Number of Bank Branches for Swaziland                                                                                          | 2004-01-01          | 2018-01-01        |
@@ -229,20 +229,20 @@
 | DDAI02TGA643NWDB | Number of Bank Branches for Togo                                                                                               | 2004-01-01          | 2019-01-01        |
 | DDAI02THA643NWDB | Number of Bank Branches for Thailand                                                                                           | 2004-01-01          | 2019-01-01        |
 | DDAI02TJA643NWDB | Number of Bank Branches for Tajikistan                                                                                         | 2004-01-01          | 2018-01-01        |
-| DDAI02TNA643NWDB | Number of Bank Branches for Tunisia                                                                                            | 2001-01-01          | 2017-01-01        |
+| DDAI02TNA643NWDB | Number of Bank Branches for Tunisia                                                                                            | 2004-01-01          | 2018-01-01        |
 | DDAI02TOA643NWDB | Number of Bank Branches for Tonga                                                                                              | 2004-01-01          | 2018-01-01        |
-| DDAI02TRA643NWDB | Number of Bank Branches for Turkey                                                                                             | 2004-01-01          | 2017-01-01        |
-| DDAI02TZA643NWDB | Number of Bank Branches for United Republic of Tanzania                                                                        | 2004-01-01          | 2015-01-01        |
+| DDAI02TRA643NWDB | Number of Bank Branches for Turkey                                                                                             | 2005-01-01          | 2019-01-01        |
+| DDAI02TZA643NWDB | Number of Bank Branches for United Republic of Tanzania                                                                        | 2005-01-01          | 2015-01-01        |
 | DDAI02UAA643NWDB | Number of Bank Branches for Ukraine                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI02UGA643NWDB | Number of Bank Branches for Uganda                                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI02USA643NWDB | Number of Bank Branches for United States                                                                                      | 2004-01-01          | 2019-01-01        |
 | DDAI02UYA643NWDB | Number of Bank Branches for Uruguay                                                                                            | 2004-01-01          | 2019-01-01        |
 | DDAI02UZA643NWDB | Number of Bank Branches for Uzbekistan                                                                                         | 2004-01-01          | 2019-01-01        |
 | DDAI02VCA643NWDB | Number of Bank Branches for Saint Vincent and the Grenadines                                                                   | 2009-01-01          | 2019-01-01        |
-| DDAI02VEA643NWDB | Number of Bank Branches for Bolivarian Republic of Venezuela                                                                   | 2004-01-01          | 2015-01-01        |
+| DDAI02VEA643NWDB | Number of Bank Branches for Bolivarian Republic of Venezuela                                                                   | 2005-01-01          | 2015-01-01        |
 | DDAI02VNA643NWDB | Number of Bank Branches for Viet Nam                                                                                           | 2008-01-01          | 2019-01-01        |
 | DDAI02VUA643NWDB | Number of Bank Branches for Vanuatu                                                                                            | 2004-01-01          | 2019-01-01        |
-| DDAI02WSA643NWDB | Number of Bank Branches for Samoa                                                                                              | 2001-01-01          | 2016-01-01        |
+| DDAI02WSA643NWDB | Number of Bank Branches for Samoa                                                                                              | 2004-01-01          | 2019-01-01        |
 | DDAI02YEA643NWDB | Number of Bank Branches for Yemen                                                                                              | 2004-01-01          | 2015-01-01        |
 | DDAI02ZAA643NWDB | Number of Bank Branches for South Africa                                                                                       | 2004-01-01          | 2019-01-01        |
 | DDAI02ZMA643NWDB | Number of Bank Branches for Zambia                                                                                             | 2004-01-01          | 2019-01-01        |
@@ -325,7 +325,7 @@
 | DDAI05LTA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Lithuania                                          | 2011-01-01          | 2017-01-01        |
 | DDAI05LUA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Luxembourg                                         | 2011-01-01          | 2017-01-01        |
 | DDAI05LVA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Latvia                                             | 2011-01-01          | 2017-01-01        |
-| DDAI05MAA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Morocco                                            | 2011-01-01          | 2017-01-01        |
+| DDAI05MAA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Morocco                                            | 2017-01-01          | 2017-01-01        |
 | DDAI05MDA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Republic of Moldova                                | 2011-01-01          | 2017-01-01        |
 | DDAI05MEA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Montenegro                                         | 2011-01-01          | 2017-01-01        |
 | DDAI05MGA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Madagascar                                         | 2011-01-01          | 2017-01-01        |
@@ -338,7 +338,7 @@
 | DDAI05MWA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Malawi                                             | 2011-01-01          | 2017-01-01        |
 | DDAI05MXA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Mexico                                             | 2011-01-01          | 2017-01-01        |
 | DDAI05MYA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Malaysia                                           | 2011-01-01          | 2017-01-01        |
-| DDAI05MZA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Mozambique                                         | 2011-01-01          | 2017-01-01        |
+| DDAI05MZA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Mozambique                                         | 2017-01-01          | 2017-01-01        |
 | DDAI05NEA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Niger                                              | 2011-01-01          | 2017-01-01        |
 | DDAI05NGA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Nigeria                                            | 2011-01-01          | 2017-01-01        |
 | DDAI05NIA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Nicaragua                                          | 2011-01-01          | 2017-01-01        |
@@ -365,7 +365,7 @@
 | DDAI05SKA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Slovakia                                           | 2011-01-01          | 2017-01-01        |
 | DDAI05SLA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Sierra Leone                                       | 2011-01-01          | 2017-01-01        |
 | DDAI05SNA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Senegal                                            | 2011-01-01          | 2017-01-01        |
-| DDAI05SOA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Somalia                                            | 2011-01-01          | 2014-01-01        |
+| DDAI05SOA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Somalia                                            | 2014-01-01          | 2014-01-01        |
 | DDAI05SVA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for El Salvador                                        | 2011-01-01          | 2017-01-01        |
 | DDAI05SYA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Syrian Arab Republic                               | 2011-01-01          | 2011-01-01        |
 | DDAI05SZA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Swaziland                                          | 2011-01-01          | 2011-01-01        |
@@ -374,7 +374,7 @@
 | DDAI05THA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Thailand                                           | 2011-01-01          | 2017-01-01        |
 | DDAI05TJA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Tajikistan                                         | 2011-01-01          | 2017-01-01        |
 | DDAI05TMA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Turkmenistan                                       | 2011-01-01          | 2017-01-01        |
-| DDAI05TNA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Tunisia                                            | 2011-01-01          | 2017-01-01        |
+| DDAI05TNA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Tunisia                                            | 2014-01-01          | 2017-01-01        |
 | DDAI05TRA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Turkey                                             | 2011-01-01          | 2017-01-01        |
 | DDAI05TTA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for Trinidad and Tobago                                | 2011-01-01          | 2017-01-01        |
 | DDAI05TZA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for United Republic of Tanzania                        | 2011-01-01          | 2017-01-01        |
@@ -468,7 +468,7 @@
 | DDAI06LTA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Lithuania                                      | 2011-01-01          | 2017-01-01        |
 | DDAI06LUA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Luxembourg                                     | 2011-01-01          | 2017-01-01        |
 | DDAI06LVA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Latvia                                         | 2011-01-01          | 2017-01-01        |
-| DDAI06MAA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Morocco                                        | 2011-01-01          | 2017-01-01        |
+| DDAI06MAA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Morocco                                        | 2017-01-01          | 2017-01-01        |
 | DDAI06MDA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Republic of Moldova                            | 2011-01-01          | 2017-01-01        |
 | DDAI06MEA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Montenegro                                     | 2011-01-01          | 2017-01-01        |
 | DDAI06MGA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Madagascar                                     | 2011-01-01          | 2017-01-01        |
@@ -481,7 +481,7 @@
 | DDAI06MWA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Malawi                                         | 2011-01-01          | 2017-01-01        |
 | DDAI06MXA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Mexico                                         | 2011-01-01          | 2017-01-01        |
 | DDAI06MYA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Malaysia                                       | 2011-01-01          | 2017-01-01        |
-| DDAI06MZA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Mozambique                                     | 2011-01-01          | 2017-01-01        |
+| DDAI06MZA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Mozambique                                     | 2017-01-01          | 2017-01-01        |
 | DDAI06NEA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Niger                                          | 2011-01-01          | 2017-01-01        |
 | DDAI06NGA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Nigeria                                        | 2011-01-01          | 2017-01-01        |
 | DDAI06NIA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Nicaragua                                      | 2011-01-01          | 2017-01-01        |
@@ -508,7 +508,7 @@
 | DDAI06SKA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Slovakia                                       | 2011-01-01          | 2017-01-01        |
 | DDAI06SLA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Sierra Leone                                   | 2011-01-01          | 2017-01-01        |
 | DDAI06SNA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Senegal                                        | 2011-01-01          | 2017-01-01        |
-| DDAI06SOA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Somalia                                        | 2011-01-01          | 2014-01-01        |
+| DDAI06SOA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Somalia                                        | 2014-01-01          | 2014-01-01        |
 | DDAI06SVA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for El Salvador                                    | 2011-01-01          | 2017-01-01        |
 | DDAI06SYA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Syrian Arab Republic                           | 2011-01-01          | 2011-01-01        |
 | DDAI06SZA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Swaziland                                      | 2011-01-01          | 2011-01-01        |
@@ -517,7 +517,7 @@
 | DDAI06THA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Thailand                                       | 2011-01-01          | 2017-01-01        |
 | DDAI06TJA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Tajikistan                                     | 2011-01-01          | 2017-01-01        |
 | DDAI06TMA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Turkmenistan                                   | 2011-01-01          | 2017-01-01        |
-| DDAI06TNA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Tunisia                                        | 2011-01-01          | 2017-01-01        |
+| DDAI06TNA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Tunisia                                        | 2014-01-01          | 2017-01-01        |
 | DDAI06TRA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Turkey                                         | 2011-01-01          | 2017-01-01        |
 | DDAI06TTA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for Trinidad and Tobago                            | 2011-01-01          | 2017-01-01        |
 | DDAI06TZA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for United Republic of Tanzania                    | 2011-01-01          | 2017-01-01        |
@@ -611,7 +611,7 @@
 | DDAI07LTA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Lithuania                                 | 2011-01-01          | 2017-01-01        |
 | DDAI07LUA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Luxembourg                                | 2011-01-01          | 2017-01-01        |
 | DDAI07LVA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Latvia                                    | 2011-01-01          | 2017-01-01        |
-| DDAI07MAA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Morocco                                   | 2011-01-01          | 2017-01-01        |
+| DDAI07MAA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Morocco                                   | 2017-01-01          | 2017-01-01        |
 | DDAI07MDA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Republic of Moldova                       | 2011-01-01          | 2017-01-01        |
 | DDAI07MEA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Montenegro                                | 2011-01-01          | 2017-01-01        |
 | DDAI07MGA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Madagascar                                | 2011-01-01          | 2017-01-01        |
@@ -624,7 +624,7 @@
 | DDAI07MWA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Malawi                                    | 2011-01-01          | 2017-01-01        |
 | DDAI07MXA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Mexico                                    | 2011-01-01          | 2017-01-01        |
 | DDAI07MYA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Malaysia                                  | 2011-01-01          | 2017-01-01        |
-| DDAI07MZA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Mozambique                                | 2011-01-01          | 2017-01-01        |
+| DDAI07MZA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Mozambique                                | 2017-01-01          | 2017-01-01        |
 | DDAI07NEA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Niger                                     | 2011-01-01          | 2017-01-01        |
 | DDAI07NGA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Nigeria                                   | 2011-01-01          | 2017-01-01        |
 | DDAI07NIA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Nicaragua                                 | 2011-01-01          | 2017-01-01        |
@@ -651,7 +651,7 @@
 | DDAI07SKA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Slovakia                                  | 2011-01-01          | 2017-01-01        |
 | DDAI07SLA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Sierra Leone                              | 2011-01-01          | 2017-01-01        |
 | DDAI07SNA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Senegal                                   | 2011-01-01          | 2017-01-01        |
-| DDAI07SOA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Somalia                                   | 2011-01-01          | 2014-01-01        |
+| DDAI07SOA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Somalia                                   | 2014-01-01          | 2014-01-01        |
 | DDAI07SVA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for El Salvador                               | 2011-01-01          | 2017-01-01        |
 | DDAI07SYA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Syrian Arab Republic                      | 2011-01-01          | 2011-01-01        |
 | DDAI07SZA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Swaziland                                 | 2011-01-01          | 2011-01-01        |
@@ -660,7 +660,7 @@
 | DDAI07THA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Thailand                                  | 2011-01-01          | 2017-01-01        |
 | DDAI07TJA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Tajikistan                                | 2011-01-01          | 2017-01-01        |
 | DDAI07TMA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Turkmenistan                              | 2011-01-01          | 2017-01-01        |
-| DDAI07TNA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Tunisia                                   | 2011-01-01          | 2017-01-01        |
+| DDAI07TNA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Tunisia                                   | 2014-01-01          | 2017-01-01        |
 | DDAI07TRA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Turkey                                    | 2011-01-01          | 2017-01-01        |
 | DDAI07TTA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Trinidad and Tobago                       | 2011-01-01          | 2017-01-01        |
 | DDAI07TZA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for United Republic of Tanzania               | 2011-01-01          | 2017-01-01        |
@@ -679,12 +679,12 @@
 | DDDI01AFA156NWDB | Private Credit by Deposit Money Banks to GDP for Afghanistan                                                                   | 1960-01-01          | 2020-01-01        |
 | DDDI01AGA156NWDB | Private Credit by Deposit Money Banks to GDP for Antigua and Barbuda                                                           | 1975-01-01          | 2020-01-01        |
 | DDDI01ALA156NWDB | Private Credit by Deposit Money Banks to GDP for Albania                                                                       | 1994-01-01          | 2020-01-01        |
-| DDDI01AMA156NWDB | Private Credit by Deposit Money Banks to GDP for Armenia                                                                       | 1992-01-01          | 2017-01-01        |
+| DDDI01AMA156NWDB | Private Credit by Deposit Money Banks to GDP for Armenia                                                                       | 1993-01-01          | 2020-01-01        |
 | DDDI01AOA156NWDB | Private Credit by Deposit Money Banks to GDP for Angola                                                                        | 1995-01-01          | 2020-01-01        |
 | DDDI01ARA156NWDB | Private Credit by Deposit Money Banks to GDP for Argentina                                                                     | 1960-01-01          | 2017-01-01        |
 | DDDI01ATA156NWDB | Private Credit by Deposit Money Banks to GDP for Austria                                                                       | 1960-01-01          | 2020-01-01        |
 | DDDI01AUA156NWDB | Private Credit by Deposit Money Banks to GDP for Australia                                                                     | 1960-01-01          | 2020-01-01        |
-| DDDI01AWA156NWDB | Private Credit by Deposit Money Banks to GDP for Aruba                                                                         | 1986-01-01          | 2017-01-01        |
+| DDDI01AWA156NWDB | Private Credit by Deposit Money Banks to GDP for Aruba                                                                         | 1994-01-01          | 2019-01-01        |
 | DDDI01AZA156NWDB | Private Credit by Deposit Money Banks to GDP for Azerbaijan                                                                    | 1992-01-01          | 2020-01-01        |
 | DDDI01BAA156NWDB | Private Credit by Deposit Money Banks to GDP for Bosnia and Herzegovina                                                        | 1997-01-01          | 2020-01-01        |
 | DDDI01BBA156NWDB | Private Credit by Deposit Money Banks to GDP for Barbados                                                                      | 1966-01-01          | 2019-01-01        |
@@ -693,7 +693,7 @@
 | DDDI01BFA156NWDB | Private Credit by Deposit Money Banks to GDP for Burkina Faso                                                                  | 1960-01-01          | 2020-01-01        |
 | DDDI01BGA156NWDB | Private Credit by Deposit Money Banks to GDP for Bulgaria                                                                      | 1991-01-01          | 2020-01-01        |
 | DDDI01BHA156NWDB | Private Credit by Deposit Money Banks to GDP for Bahrain                                                                       | 1965-01-01          | 2015-01-01        |
-| DDDI01BIA156NWDB | Private Credit by Deposit Money Banks to GDP for Burundi                                                                       | 1964-01-01          | 2017-01-01        |
+| DDDI01BIA156NWDB | Private Credit by Deposit Money Banks to GDP for Burundi                                                                       | 1965-01-01          | 2020-01-01        |
 | DDDI01BJA156NWDB | Private Credit by Deposit Money Banks to GDP for Benin                                                                         | 1960-01-01          | 2020-01-01        |
 | DDDI01BNA156NWDB | Private Credit by Deposit Money Banks to GDP for Brunei Darussalam                                                             | 1999-01-01          | 2020-01-01        |
 | DDDI01BOA156NWDB | Private Credit by Deposit Money Banks to GDP for the Plurinational State of Bolivia                                            | 1960-01-01          | 2020-01-01        |
@@ -701,7 +701,7 @@
 | DDDI01BSA156NWDB | Private Credit by Deposit Money Banks to GDP for Bahamas                                                                       | 1969-01-01          | 2020-01-01        |
 | DDDI01BTA156NWDB | Private Credit by Deposit Money Banks to GDP for Bhutan                                                                        | 1983-01-01          | 2020-01-01        |
 | DDDI01BWA156NWDB | Private Credit by Deposit Money Banks to GDP for Botswana                                                                      | 1972-01-01          | 2020-01-01        |
-| DDDI01BYA156NWDB | Private Credit by Deposit Money Banks to GDP for Belarus                                                                       | 1994-01-01          | 2017-01-01        |
+| DDDI01BYA156NWDB | Private Credit by Deposit Money Banks to GDP for Belarus                                                                       | 2009-01-01          | 2020-01-01        |
 | DDDI01BZA156NWDB | Private Credit by Deposit Money Banks to GDP for Belize                                                                        | 1976-01-01          | 2020-01-01        |
 | DDDI01CAA156NWDB | Private Credit by Deposit Money Banks to GDP for Canada                                                                        | 1960-01-01          | 2008-01-01        |
 | DDDI01CFA156NWDB | Private Credit by Deposit Money Banks to GDP for Central African Republic                                                      | 1960-01-01          | 2019-01-01        |
@@ -717,8 +717,8 @@
 | DDDI01CYA156NWDB | Private Credit by Deposit Money Banks to GDP for Cyprus                                                                        | 1975-01-01          | 2007-01-01        |
 | DDDI01CZA156NWDB | Private Credit by Deposit Money Banks to GDP for Czech Republic                                                                | 1993-01-01          | 2020-01-01        |
 | DDDI01DEA156NWDB | Private Credit by Deposit Money Banks to GDP for Germany                                                                       | 1970-01-01          | 2020-01-01        |
-| DDDI01DJA156NWDB | Private Credit by Deposit Money Banks to GDP for Djibouti                                                                      | 1984-01-01          | 2016-01-01        |
-| DDDI01DKA156NWDB | Private Credit by Deposit Money Banks to GDP for Denmark                                                                       | 1996-01-01          | 2017-01-01        |
+| DDDI01DJA156NWDB | Private Credit by Deposit Money Banks to GDP for Djibouti                                                                      | 1985-01-01          | 2020-01-01        |
+| DDDI01DKA156NWDB | Private Credit by Deposit Money Banks to GDP for Denmark                                                                       | 2000-01-01          | 2020-01-01        |
 | DDDI01DMA156NWDB | Private Credit by Deposit Money Banks to GDP for Dominica                                                                      | 1975-01-01          | 2020-01-01        |
 | DDDI01DOA156NWDB | Private Credit by Deposit Money Banks to GDP for Dominican Republic                                                            | 1960-01-01          | 2020-01-01        |
 | DDDI01DZA156NWDB | Private Credit by Deposit Money Banks to GDP for Algeria                                                                       | 1964-01-01          | 2020-01-01        |
@@ -770,7 +770,7 @@
 | DDDI01LBA156NWDB | Private Credit by Deposit Money Banks to GDP for Lebanon                                                                       | 1964-01-01          | 2017-01-01        |
 | DDDI01LCA156NWDB | Private Credit by Deposit Money Banks to GDP for Saint Lucia                                                                   | 1975-01-01          | 2020-01-01        |
 | DDDI01LKA156NWDB | Private Credit by Deposit Money Banks to GDP for Sri Lanka                                                                     | 1960-01-01          | 2019-01-01        |
-| DDDI01LRA156NWDB | Private Credit by Deposit Money Banks to GDP for Liberia                                                                       | 1961-01-01          | 2013-01-01        |
+| DDDI01LRA156NWDB | Private Credit by Deposit Money Banks to GDP for Liberia                                                                       | 2001-01-01          | 2014-01-01        |
 | DDDI01LSA156NWDB | Private Credit by Deposit Money Banks to GDP for Lesotho                                                                       | 1973-01-01          | 2020-01-01        |
 | DDDI01LTA156NWDB | Private Credit by Deposit Money Banks to GDP for Lithuania                                                                     | 1995-01-01          | 2020-01-01        |
 | DDDI01LUA156NWDB | Private Credit by Deposit Money Banks to GDP for Luxembourg                                                                    | 1960-01-01          | 2020-01-01        |
@@ -812,7 +812,7 @@
 | DDDI01PYA156NWDB | Private Credit by Deposit Money Banks to GDP for Paraguay                                                                      | 1960-01-01          | 2020-01-01        |
 | DDDI01QAA156NWDB | Private Credit by Deposit Money Banks to GDP for Qatar                                                                         | 1970-01-01          | 2020-01-01        |
 | DDDI01RSA156NWDB | Private Credit by Deposit Money Banks to GDP for Serbia                                                                        | 1997-01-01          | 2015-01-01        |
-| DDDI01RUA156NWDB | Private Credit by Deposit Money Banks to GDP for Russian Federation                                                            | 1996-01-01          | 2017-01-01        |
+| DDDI01RUA156NWDB | Private Credit by Deposit Money Banks to GDP for Russian Federation                                                            | 2001-01-01          | 2020-01-01        |
 | DDDI01RWA156NWDB | Private Credit by Deposit Money Banks to GDP for Rwanda                                                                        | 1964-01-01          | 2020-01-01        |
 | DDDI01SAA156NWDB | Private Credit by Deposit Money Banks to GDP for Saudi Arabia                                                                  | 1968-01-01          | 2017-01-01        |
 | DDDI01SBA156NWDB | Private Credit by Deposit Money Banks to GDP for Solomon Islands                                                               | 1978-01-01          | 2020-01-01        |
@@ -826,16 +826,16 @@
 | DDDI01SMA156NWDB | Private Credit by Deposit Money Banks to GDP for San Marino                                                                    | 2001-01-01          | 2018-01-01        |
 | DDDI01SNA156NWDB | Private Credit by Deposit Money Banks to GDP for Senegal                                                                       | 1960-01-01          | 2020-01-01        |
 | DDDI01SRA156NWDB | Private Credit by Deposit Money Banks to GDP for Suriname                                                                      | 1967-01-01          | 2020-01-01        |
-| DDDI01STA156NWDB | Private Credit by Deposit Money Banks to GDP for Sao Tome and Principe                                                         | 1995-01-01          | 2016-01-01        |
+| DDDI01STA156NWDB | Private Credit by Deposit Money Banks to GDP for Sao Tome and Principe                                                         | 2009-01-01          | 2019-01-01        |
 | DDDI01SVA156NWDB | Private Credit by Deposit Money Banks to GDP for El Salvador                                                                   | 1965-01-01          | 2020-01-01        |
 | DDDI01SYA156NWDB | Private Credit by Deposit Money Banks to GDP for Syrian Arab Republic                                                          | 1960-01-01          | 2010-01-01        |
 | DDDI01SZA156NWDB | Private Credit by Deposit Money Banks to GDP for Swaziland                                                                     | 1970-01-01          | 2020-01-01        |
-| DDDI01TDA156NWDB | Private Credit by Deposit Money Banks to GDP for Chad                                                                          | 1960-01-01          | 2015-01-01        |
+| DDDI01TDA156NWDB | Private Credit by Deposit Money Banks to GDP for Chad                                                                          | 1970-01-01          | 2019-01-01        |
 | DDDI01TGA156NWDB | Private Credit by Deposit Money Banks to GDP for Togo                                                                          | 1960-01-01          | 2020-01-01        |
 | DDDI01THA156NWDB | Private Credit by Deposit Money Banks to GDP for Thailand                                                                      | 1960-01-01          | 2020-01-01        |
 | DDDI01TJA156NWDB | Private Credit by Deposit Money Banks to GDP for Tajikistan                                                                    | 1998-01-01          | 2020-01-01        |
 | DDDI01TNA156NWDB | Private Credit by Deposit Money Banks to GDP for Tunisia                                                                       | 1962-01-01          | 2020-01-01        |
-| DDDI01TOA156NWDB | Private Credit by Deposit Money Banks to GDP for Tonga                                                                         | 1975-01-01          | 2016-01-01        |
+| DDDI01TOA156NWDB | Private Credit by Deposit Money Banks to GDP for Tonga                                                                         | 1976-01-01          | 2018-01-01        |
 | DDDI01TRA156NWDB | Private Credit by Deposit Money Banks to GDP for Turkey                                                                        | 1960-01-01          | 2020-01-01        |
 | DDDI01TTA156NWDB | Private Credit by Deposit Money Banks to GDP for Trinidad and Tobago                                                           | 1960-01-01          | 2020-01-01        |
 | DDDI01TZA156NWDB | Private Credit by Deposit Money Banks to GDP for United Republic of Tanzania                                                   | 1988-01-01          | 2020-01-01        |
@@ -844,24 +844,24 @@
 | DDDI01USA156NWDB | Private Credit by Deposit Money Banks to GDP for United States                                                                 | 1960-01-01          | 2020-01-01        |
 | DDDI01UYA156NWDB | Private Credit by Deposit Money Banks to GDP for Uruguay                                                                       | 1960-01-01          | 2020-01-01        |
 | DDDI01VCA156NWDB | Private Credit by Deposit Money Banks to GDP for Saint Vincent and the Grenadines                                              | 1975-01-01          | 2020-01-01        |
-| DDDI01VEA156NWDB | Private Credit by Deposit Money Banks to GDP for Bolivarian Republic of Venezuela                                              | 1996-01-01          | 2015-01-01        |
+| DDDI01VEA156NWDB | Private Credit by Deposit Money Banks to GDP for Bolivarian Republic of Venezuela                                              | 1960-01-01          | 2014-01-01        |
 | DDDI01VNA156NWDB | Private Credit by Deposit Money Banks to GDP for Viet Nam                                                                      | 1992-01-01          | 2020-01-01        |
 | DDDI01VUA156NWDB | Private Credit by Deposit Money Banks to GDP for Vanuatu                                                                       | 1976-01-01          | 2020-01-01        |
 | DDDI01WSA156NWDB | Private Credit by Deposit Money Banks to GDP for Samoa                                                                         | 1963-01-01          | 2020-01-01        |
 | DDDI01YEA156NWDB | Private Credit by Deposit Money Banks to GDP for Yemen                                                                         | 1991-01-01          | 2013-01-01        |
 | DDDI01ZAA156NWDB | Private Credit by Deposit Money Banks to GDP for South Africa                                                                  | 1965-01-01          | 2020-01-01        |
-| DDDI01ZMA156NWDB | Private Credit by Deposit Money Banks to GDP for Zambia                                                                        | 1996-01-01          | 2017-01-01        |
+| DDDI01ZMA156NWDB | Private Credit by Deposit Money Banks to GDP for Zambia                                                                        | 2009-01-01          | 2020-01-01        |
 | DDDI01ZWA156NWDB | Private Credit by Deposit Money Banks to GDP for Zimbabwe                                                                      | 1984-01-01          | 2019-01-01        |
 | DDDI02AEA156NWDB | Deposit Money Bank Assets to GDP for United Arab Emirates                                                                      | 1975-01-01          | 2019-01-01        |
 | DDDI02AFA156NWDB | Deposit Money Bank Assets to GDP for Afghanistan                                                                               | 1960-01-01          | 2020-01-01        |
 | DDDI02AGA156NWDB | Deposit Money Bank Assets to GDP for Antigua and Barbuda                                                                       | 1975-01-01          | 2020-01-01        |
 | DDDI02ALA156NWDB | Deposit Money Bank Assets to GDP for Albania                                                                                   | 1994-01-01          | 2020-01-01        |
-| DDDI02AMA156NWDB | Deposit Money Bank Assets to GDP for Armenia                                                                                   | 1992-01-01          | 2017-01-01        |
+| DDDI02AMA156NWDB | Deposit Money Bank Assets to GDP for Armenia                                                                                   | 1993-01-01          | 2020-01-01        |
 | DDDI02AOA156NWDB | Deposit Money Bank Assets to GDP for Angola                                                                                    | 1995-01-01          | 2020-01-01        |
 | DDDI02ARA156NWDB | Deposit Money Bank Assets to GDP for Argentina                                                                                 | 1960-01-01          | 2017-01-01        |
 | DDDI02ATA156NWDB | Deposit Money Bank Assets to GDP for Austria                                                                                   | 1960-01-01          | 2020-01-01        |
 | DDDI02AUA156NWDB | Deposit Money Bank Assets to GDP for Australia                                                                                 | 1960-01-01          | 2020-01-01        |
-| DDDI02AWA156NWDB | Deposit Money Bank Assets to GDP for Aruba                                                                                     | 1986-01-01          | 2017-01-01        |
+| DDDI02AWA156NWDB | Deposit Money Bank Assets to GDP for Aruba                                                                                     | 1995-01-01          | 2019-01-01        |
 | DDDI02AZA156NWDB | Deposit Money Bank Assets to GDP for Azerbaijan                                                                                | 1992-01-01          | 2020-01-01        |
 | DDDI02BAA156NWDB | Deposit Money Bank Assets to GDP for Bosnia and Herzegovina                                                                    | 1997-01-01          | 2020-01-01        |
 | DDDI02BBA156NWDB | Deposit Money Bank Assets to GDP for Barbados                                                                                  | 1966-01-01          | 2019-01-01        |
@@ -870,7 +870,7 @@
 | DDDI02BFA156NWDB | Deposit Money Bank Assets to GDP for Burkina Faso                                                                              | 1960-01-01          | 2020-01-01        |
 | DDDI02BGA156NWDB | Deposit Money Bank Assets to GDP for Bulgaria                                                                                  | 1991-01-01          | 2020-01-01        |
 | DDDI02BHA156NWDB | Deposit Money Bank Assets to GDP for Bahrain                                                                                   | 1965-01-01          | 2015-01-01        |
-| DDDI02BIA156NWDB | Deposit Money Bank Assets to GDP for Burundi                                                                                   | 1964-01-01          | 2017-01-01        |
+| DDDI02BIA156NWDB | Deposit Money Bank Assets to GDP for Burundi                                                                                   | 1965-01-01          | 2020-01-01        |
 | DDDI02BJA156NWDB | Deposit Money Bank Assets to GDP for Benin                                                                                     | 1960-01-01          | 2020-01-01        |
 | DDDI02BNA156NWDB | Deposit Money Bank Assets to GDP for Brunei Darussalam                                                                         | 1999-01-01          | 2020-01-01        |
 | DDDI02BOA156NWDB | Deposit Money Bank Assets to GDP for the Plurinational State of Bolivia                                                        | 1960-01-01          | 2020-01-01        |
@@ -878,7 +878,7 @@
 | DDDI02BSA156NWDB | Deposit Money Bank Assets to GDP for Bahamas                                                                                   | 1969-01-01          | 2020-01-01        |
 | DDDI02BTA156NWDB | Deposit Money Bank Assets to GDP for Bhutan                                                                                    | 1983-01-01          | 2020-01-01        |
 | DDDI02BWA156NWDB | Deposit Money Bank Assets to GDP for Botswana                                                                                  | 1972-01-01          | 2020-01-01        |
-| DDDI02BYA156NWDB | Deposit Money Bank Assets to GDP for Belarus                                                                                   | 1994-01-01          | 2017-01-01        |
+| DDDI02BYA156NWDB | Deposit Money Bank Assets to GDP for Belarus                                                                                   | 2009-01-01          | 2020-01-01        |
 | DDDI02BZA156NWDB | Deposit Money Bank Assets to GDP for Belize                                                                                    | 1976-01-01          | 2020-01-01        |
 | DDDI02CAA156NWDB | Deposit Money Bank Assets to GDP for Canada                                                                                    | 1960-01-01          | 2008-01-01        |
 | DDDI02CFA156NWDB | Deposit Money Bank Assets to GDP for Central African Republic                                                                  | 1960-01-01          | 2019-01-01        |
@@ -894,7 +894,7 @@
 | DDDI02CYA156NWDB | Deposit Money Bank Assets to GDP for Cyprus                                                                                    | 1975-01-01          | 2020-01-01        |
 | DDDI02CZA156NWDB | Deposit Money Bank Assets to GDP for Czech Republic                                                                            | 1993-01-01          | 2020-01-01        |
 | DDDI02DEA156NWDB | Deposit Money Bank Assets to GDP for Germany                                                                                   | 1970-01-01          | 2020-01-01        |
-| DDDI02DJA156NWDB | Deposit Money Bank Assets to GDP for Djibouti                                                                                  | 1984-01-01          | 2016-01-01        |
+| DDDI02DJA156NWDB | Deposit Money Bank Assets to GDP for Djibouti                                                                                  | 1985-01-01          | 2020-01-01        |
 | DDDI02DKA156NWDB | Deposit Money Bank Assets to GDP for Denmark                                                                                   | 1966-01-01          | 2020-01-01        |
 | DDDI02DMA156NWDB | Deposit Money Bank Assets to GDP for Dominica                                                                                  | 1975-01-01          | 2020-01-01        |
 | DDDI02DOA156NWDB | Deposit Money Bank Assets to GDP for Dominican Republic                                                                        | 1960-01-01          | 2020-01-01        |
@@ -947,7 +947,7 @@
 | DDDI02LBA156NWDB | Deposit Money Bank Assets to GDP for Lebanon                                                                                   | 1964-01-01          | 2018-01-01        |
 | DDDI02LCA156NWDB | Deposit Money Bank Assets to GDP for Saint Lucia                                                                               | 1975-01-01          | 2020-01-01        |
 | DDDI02LKA156NWDB | Deposit Money Bank Assets to GDP for Sri Lanka                                                                                 | 1960-01-01          | 2019-01-01        |
-| DDDI02LRA156NWDB | Deposit Money Bank Assets to GDP for Liberia                                                                                   | 1973-01-01          | 2013-01-01        |
+| DDDI02LRA156NWDB | Deposit Money Bank Assets to GDP for Liberia                                                                                   | 2001-01-01          | 2012-01-01        |
 | DDDI02LSA156NWDB | Deposit Money Bank Assets to GDP for Lesotho                                                                                   | 1973-01-01          | 2020-01-01        |
 | DDDI02LTA156NWDB | Deposit Money Bank Assets to GDP for Lithuania                                                                                 | 1995-01-01          | 2020-01-01        |
 | DDDI02LUA156NWDB | Deposit Money Bank Assets to GDP for Luxembourg                                                                                | 1960-01-01          | 2020-01-01        |

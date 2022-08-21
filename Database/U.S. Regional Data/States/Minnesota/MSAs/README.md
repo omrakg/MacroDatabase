@@ -1,10 +1,10 @@
 | Folder                                  |   Files / Folders |
 |-----------------------------------------|-------------------|
-| St. Cloud, MN                           |               158 |
-| La Crosse-Onalaska, WI-MN               |               161 |
-| Fargo, ND-MN                            |                 0 |
-| Rochester, MN                           |               166 |
-| Minneapolis-St. Paul-Bloomington, MN-WI |               270 |
-| Duluth, MN-WI                           |               161 |
-| Mankato, MN                             |                90 |
+| Duluth, MN-WI                           |                 0 |
 | Grand Forks, ND-MN                      |                 0 |
+| St. Cloud, MN                           |               158 |
+| Rochester, MN                           |               166 |
+| Minneapolis-St. Paul-Bloomington, MN-WI |                 0 |
+| Fargo, ND-MN                            |                 0 |
+| Mankato, MN                             |                90 |
+| La Crosse-Onalaska, WI-MN               |                 0 |

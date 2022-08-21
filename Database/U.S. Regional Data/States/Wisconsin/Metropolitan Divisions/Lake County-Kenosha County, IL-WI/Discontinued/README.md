@@ -1,2 +1,8 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                   | observation_start   | observation_end   |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU17294040500000002SA | Average Weekly Hours of All Employees: Total Private in Lake County-Kenosha County, IL-WI (MD) (DISCONTINUED)           | 2007-01-01          | 2022-03-01        |
+| SMU17294040500000003SA | Average Hourly Earnings of All Employees: Total Private in Lake County-Kenosha County, IL-WI (MD) (DISCONTINUED)        | 2007-01-01          | 2022-03-01        |
+| SMU17294040500000011SA | Average Weekly Earnings of All Employees: Total Private in Lake County-Kenosha County, IL-WI (MD) (DISCONTINUED)        | 2007-01-01          | 2022-03-01        |
+| SMU17294043000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Lake County-Kenosha County, IL-WI (MD) (DISCONTINUED)    | 2006-06-01          | 2018-12-01        |
+| SMU17294043000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Lake County-Kenosha County, IL-WI (MD) (DISCONTINUED) | 2006-06-01          | 2018-12-01        |
+| SMU17294043000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Lake County-Kenosha County, IL-WI (MD) (DISCONTINUED) | 2006-06-01          | 2018-12-01        |

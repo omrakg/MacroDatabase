@@ -1,3 +1,2 @@
-| id              | title                                                                                                                                     | observation_start   | observation_end   |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BCSPFT02CHQ460S | Business Tendency Surveys for Construction: Selling Prices: Future Tendency: European Commission Indicator for Switzerland (DISCONTINUED) | 1994-07-01          | 2010-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,102 +1,102 @@
-| id              | title                                                                                                                | observation_start   | observation_end   |
-|-----------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CUURA200SA0     | Consumer Price Index for All Urban Consumers: All Items in Midwest - Size Class A                                    | 1977-12-01          | 2022-07-01        |
-| CUURA200SA0E    | Consumer Price Index for All Urban Consumers: Energy in Midwest - Size Class A                                       | 1977-12-01          | 2022-07-01        |
-| CUURA200SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Midwest - Size Class A               | 1982-02-01          | 2022-07-01        |
-| CUURA200SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in Midwest - Size Class A                       | 1977-12-01          | 2022-07-01        |
-| CUURA200SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in Midwest - Size Class A                  | 1977-12-01          | 2022-07-01        |
-| CUURA200SA0LE   | Consumer Price Index for All Urban Consumers: All Items Less Energy in Midwest - Size Class A                        | 1977-12-01          | 2022-07-01        |
-| CUURA200SAA     | Consumer Price Index for All Urban Consumers: Apparel in Midwest - Size Class A                                      | 1977-12-01          | 2022-07-01        |
-| CUURA200SAC     | Consumer Price Index for All Urban Consumers: Commodities in Midwest - Size Class A                                  | 1977-12-01          | 2022-07-01        |
-| CUURA200SACL1   | Consumer Price Index for All Urban Consumers: Commodities Less Food in Midwest - Size Class A                        | 1977-12-01          | 2022-07-01        |
-| CUURA200SACL11  | Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in Midwest - Size Class A          | 1977-12-01          | 2022-07-01        |
-| CUURA200SAD     | Consumer Price Index for All Urban Consumers: Durables in Midwest - Size Class A                                     | 1977-12-01          | 2022-07-01        |
-| CUURA200SAE     | Consumer Price Index for All Urban Consumers: Education and Communication in Midwest - Size Class A                  | 1997-12-01          | 2022-07-01        |
-| CUURA200SAEC    | Consumer Price Index for All Urban Consumers: Education and Communication Commodities in Midwest - Size Class A      | 2009-12-01          | 2022-07-01        |
-| CUURA200SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in Midwest - Size Class A         | 2009-12-01          | 2022-07-01        |
-| CUURA200SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in Midwest - Size Class A                           | 1977-12-01          | 2022-07-01        |
-| CUURA200SAF1    | Consumer Price Index for All Urban Consumers: Food in Midwest - Size Class A                                         | 1977-12-01          | 2022-07-01        |
-| CUURA200SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Midwest - Size Class A                                 | 1977-12-01          | 2022-07-01        |
-| CUURA200SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Midwest - Size Class A                          | 1977-12-01          | 2022-07-01        |
-| CUURA200SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in Midwest - Size Class A                     | 1977-12-01          | 2022-07-01        |
-| CUURA200SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in Midwest - Size Class A                                  | 2009-12-01          | 2022-07-01        |
-| CUURA200SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in Midwest - Size Class A                      | 2009-12-01          | 2022-07-01        |
-| CUURA200SAH     | Consumer Price Index for All Urban Consumers: Housing in Midwest - Size Class A                                      | 1977-12-01          | 2022-07-01        |
-| CUURA200SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Midwest - Size Class A                                      | 1977-12-01          | 2022-07-01        |
-| CUURA200SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in Midwest - Size Class A                          | 1977-12-01          | 2022-07-01        |
-| CUURA200SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Midwest - Size Class A         | 1977-12-01          | 2022-07-01        |
-| CUURA200SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Midwest - Size Class A                             | 1977-12-01          | 2022-07-01        |
-| CUURA200SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in Midwest - Size Class A           | 2009-12-01          | 2022-07-01        |
-| CUURA200SAM     | Consumer Price Index for All Urban Consumers: Medical Care in Midwest - Size Class A                                 | 1977-12-01          | 2022-07-01        |
-| CUURA200SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Midwest - Size Class A                                  | 1977-12-01          | 2022-07-01        |
-| CUURA200SANL1   | Consumer Price Index for All Urban Consumers: Nondurables Less Food in Midwest - Size Class A                        | 1977-12-01          | 2022-07-01        |
-| CUURA200SANL11  | Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in Midwest - Size Class A          | 1977-12-01          | 2022-07-01        |
-| CUURA200SAR     | Consumer Price Index for All Urban Consumers: Recreation in Midwest - Size Class A                                   | 1997-12-01          | 2022-07-01        |
-| CUURA200SAS     | Consumer Price Index for All Urban Consumers: Services in Midwest - Size Class A                                     | 1977-12-01          | 2022-07-01        |
-| CUURA200SASL2RS | Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in Midwest - Size Class A                | 1982-12-01          | 2022-07-01        |
-| CUURA200SASL5   | Consumer Price Index for All Urban Consumers: Services Less Medical Care Services in Midwest - Size Class A          | 1977-12-01          | 2022-07-01        |
-| CUURA200SAT     | Consumer Price Index for All Urban Consumers: Transportation in Midwest - Size Class A                               | 1977-12-01          | 2022-07-01        |
-| CUURA200SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in Midwest - Size Class A                       | 1977-12-01          | 2022-07-01        |
-| CUURA200SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Midwest - Size Class A   | 2009-12-01          | 2022-07-01        |
-| CUURA200SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in Midwest - Size Class A                          | 1977-12-01          | 2022-07-01        |
-| CUURA200SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Midwest - Size Class A                    | 1977-12-01          | 2022-07-01        |
-| CUURA200SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Midwest - Size Class A        | 1982-12-01          | 2022-07-01        |
-| CUURA200SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Midwest - Size Class A | 1982-12-01          | 2022-07-01        |
-| CUURA200SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Midwest - Size Class A                              | 1977-12-01          | 2022-07-01        |
-| CUURA200SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Midwest - Size Class A                                  | 1977-12-01          | 2022-07-01        |
-| CUURA200SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Midwest - Size Class A                  | 1977-12-01          | 2022-07-01        |
-| CUURA200SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Midwest - Size Class A                                   | 1977-12-01          | 2022-07-01        |
-| CUURA200SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Midwest - Size Class A                         | 1977-12-01          | 2022-07-01        |
-| CUURA200SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Midwest - Size Class A                   | 1978-06-01          | 2022-07-01        |
-| CUURA200SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Midwest - Size Class A                  | 1993-12-01          | 2022-07-01        |
-| CUURA200SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Midwest - Size Class A                   | 1981-08-01          | 2022-07-01        |
-| CUUSA200SA0     | Consumer Price Index for All Urban Consumers: All Items in Midwest - Size Class A                                    | 1984-01-01          | 2022-01-01        |
-| CUUSA200SA0E    | Consumer Price Index for All Urban Consumers: Energy in Midwest - Size Class A                                       | 1984-01-01          | 2022-01-01        |
-| CUUSA200SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Midwest - Size Class A               | 1984-01-01          | 2022-01-01        |
-| CUUSA200SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in Midwest - Size Class A                       | 1984-01-01          | 2022-01-01        |
-| CUUSA200SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in Midwest - Size Class A                  | 1984-01-01          | 2022-01-01        |
-| CUUSA200SA0LE   | Consumer Price Index for All Urban Consumers: All Items Less Energy in Midwest - Size Class A                        | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAA     | Consumer Price Index for All Urban Consumers: Apparel in Midwest - Size Class A                                      | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAC     | Consumer Price Index for All Urban Consumers: Commodities in Midwest - Size Class A                                  | 1984-01-01          | 2022-01-01        |
-| CUUSA200SACL1   | Consumer Price Index for All Urban Consumers: Commodities Less Food in Midwest - Size Class A                        | 1984-01-01          | 2022-01-01        |
-| CUUSA200SACL11  | Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in Midwest - Size Class A          | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAD     | Consumer Price Index for All Urban Consumers: Durables in Midwest - Size Class A                                     | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAE     | Consumer Price Index for All Urban Consumers: Education and Communication in Midwest - Size Class A                  | 1998-01-01          | 2022-01-01        |
-| CUUSA200SAEC    | Consumer Price Index for All Urban Consumers: Education and Communication Commodities in Midwest - Size Class A      | 2010-01-01          | 2022-01-01        |
-| CUUSA200SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in Midwest - Size Class A         | 2010-01-01          | 2022-01-01        |
-| CUUSA200SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in Midwest - Size Class A                           | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAF1    | Consumer Price Index for All Urban Consumers: Food in Midwest - Size Class A                                         | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Midwest - Size Class A                                 | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Midwest - Size Class A                          | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in Midwest - Size Class A                     | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in Midwest - Size Class A                                  | 2010-01-01          | 2022-01-01        |
-| CUUSA200SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in Midwest - Size Class A                      | 2010-01-01          | 2022-01-01        |
-| CUUSA200SAH     | Consumer Price Index for All Urban Consumers: Housing in Midwest - Size Class A                                      | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Midwest - Size Class A                                      | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in Midwest - Size Class A                          | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Midwest - Size Class A         | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Midwest - Size Class A                             | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in Midwest - Size Class A           | 2010-01-01          | 2022-01-01        |
-| CUUSA200SAM     | Consumer Price Index for All Urban Consumers: Medical Care in Midwest - Size Class A                                 | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Midwest - Size Class A                                  | 1984-01-01          | 2022-01-01        |
-| CUUSA200SANL1   | Consumer Price Index for All Urban Consumers: Nondurables Less Food in Midwest - Size Class A                        | 1984-01-01          | 2022-01-01        |
-| CUUSA200SANL11  | Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in Midwest - Size Class A          | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAR     | Consumer Price Index for All Urban Consumers: Recreation in Midwest - Size Class A                                   | 1998-01-01          | 2022-01-01        |
-| CUUSA200SAS     | Consumer Price Index for All Urban Consumers: Services in Midwest - Size Class A                                     | 1984-01-01          | 2022-01-01        |
-| CUUSA200SASL2RS | Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in Midwest - Size Class A                | 1984-01-01          | 2022-01-01        |
-| CUUSA200SASL5   | Consumer Price Index for All Urban Consumers: Services Less Medical Care Services in Midwest - Size Class A          | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAT     | Consumer Price Index for All Urban Consumers: Transportation in Midwest - Size Class A                               | 1984-01-01          | 2022-01-01        |
-| CUUSA200SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in Midwest - Size Class A                       | 1984-01-01          | 2022-01-01        |
-| CUUSA200SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Midwest - Size Class A   | 2010-01-01          | 2022-01-01        |
-| CUUSA200SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in Midwest - Size Class A                          | 1984-01-01          | 2022-01-01        |
-| CUUSA200SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Midwest - Size Class A                    | 1984-01-01          | 2022-01-01        |
-| CUUSA200SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Midwest - Size Class A        | 1984-01-01          | 2022-01-01        |
-| CUUSA200SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Midwest - Size Class A | 1984-01-01          | 2022-01-01        |
-| CUUSA200SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Midwest - Size Class A                              | 1984-01-01          | 2022-01-01        |
-| CUUSA200SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Midwest - Size Class A                                  | 1984-01-01          | 2022-01-01        |
-| CUUSA200SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Midwest - Size Class A                  | 1984-01-01          | 2022-01-01        |
-| CUUSA200SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Midwest - Size Class A                                   | 1984-01-01          | 2022-01-01        |
-| CUUSA200SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Midwest - Size Class A                         | 1984-01-01          | 2022-01-01        |
-| CUUSA200SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Midwest - Size Class A                   | 1984-01-01          | 2022-01-01        |
-| CUUSA200SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Midwest - Size Class A                  | 1994-01-01          | 2022-01-01        |
-| CUUSA200SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Midwest - Size Class A                   | 1984-01-01          | 2022-01-01        |
+| id              | title                                                                                                             | observation_start   | observation_end   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CUURA400SA0     | Consumer Price Index for All Urban Consumers: All Items in West - Size Class A                                    | 1977-12-01          | 2022-07-01        |
+| CUURA400SA0E    | Consumer Price Index for All Urban Consumers: Energy in West - Size Class A                                       | 1977-12-01          | 2022-07-01        |
+| CUURA400SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in West - Size Class A               | 1982-02-01          | 2022-07-01        |
+| CUURA400SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in West - Size Class A                       | 1977-12-01          | 2022-07-01        |
+| CUURA400SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in West - Size Class A                  | 1977-12-01          | 2022-07-01        |
+| CUURA400SA0LE   | Consumer Price Index for All Urban Consumers: All Items Less Energy in West - Size Class A                        | 1977-12-01          | 2022-07-01        |
+| CUURA400SAA     | Consumer Price Index for All Urban Consumers: Apparel in West - Size Class A                                      | 1977-12-01          | 2022-07-01        |
+| CUURA400SAC     | Consumer Price Index for All Urban Consumers: Commodities in West - Size Class A                                  | 1977-12-01          | 2022-07-01        |
+| CUURA400SACL1   | Consumer Price Index for All Urban Consumers: Commodities Less Food in West - Size Class A                        | 1977-12-01          | 2022-07-01        |
+| CUURA400SACL11  | Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in West - Size Class A          | 1977-12-01          | 2022-07-01        |
+| CUURA400SAD     | Consumer Price Index for All Urban Consumers: Durables in West - Size Class A                                     | 1977-12-01          | 2022-07-01        |
+| CUURA400SAE     | Consumer Price Index for All Urban Consumers: Education and Communication in West - Size Class A                  | 1997-12-01          | 2022-07-01        |
+| CUURA400SAEC    | Consumer Price Index for All Urban Consumers: Education and Communication Commodities in West - Size Class A      | 2009-12-01          | 2022-07-01        |
+| CUURA400SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in West - Size Class A         | 2009-12-01          | 2022-07-01        |
+| CUURA400SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in West - Size Class A                           | 1977-12-01          | 2022-07-01        |
+| CUURA400SAF1    | Consumer Price Index for All Urban Consumers: Food in West - Size Class A                                         | 1977-12-01          | 2022-07-01        |
+| CUURA400SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in West - Size Class A                                 | 1977-12-01          | 2022-07-01        |
+| CUURA400SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in West - Size Class A                          | 1977-12-01          | 2022-07-01        |
+| CUURA400SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in West - Size Class A                     | 1977-12-01          | 2022-07-01        |
+| CUURA400SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in West - Size Class A                                  | 2009-12-01          | 2022-07-01        |
+| CUURA400SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in West - Size Class A                      | 2009-12-01          | 2022-07-01        |
+| CUURA400SAH     | Consumer Price Index for All Urban Consumers: Housing in West - Size Class A                                      | 1977-12-01          | 2022-07-01        |
+| CUURA400SAH1    | Consumer Price Index for All Urban Consumers: Shelter in West - Size Class A                                      | 1977-12-01          | 2022-07-01        |
+| CUURA400SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in West - Size Class A                          | 1977-12-01          | 2022-07-01        |
+| CUURA400SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in West - Size Class A         | 1977-12-01          | 2022-07-01        |
+| CUURA400SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in West - Size Class A                             | 1977-12-01          | 2022-07-01        |
+| CUURA400SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in West - Size Class A           | 2009-12-01          | 2022-07-01        |
+| CUURA400SAM     | Consumer Price Index for All Urban Consumers: Medical Care in West - Size Class A                                 | 1977-12-01          | 2022-07-01        |
+| CUURA400SAN     | Consumer Price Index for All Urban Consumers: Nondurables in West - Size Class A                                  | 1977-12-01          | 2022-07-01        |
+| CUURA400SANL1   | Consumer Price Index for All Urban Consumers: Nondurables Less Food in West - Size Class A                        | 1977-12-01          | 2022-07-01        |
+| CUURA400SANL11  | Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in West - Size Class A          | 1977-12-01          | 2022-07-01        |
+| CUURA400SAR     | Consumer Price Index for All Urban Consumers: Recreation in West - Size Class A                                   | 1997-12-01          | 2022-07-01        |
+| CUURA400SAS     | Consumer Price Index for All Urban Consumers: Services in West - Size Class A                                     | 1977-12-01          | 2022-07-01        |
+| CUURA400SASL2RS | Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in West - Size Class A                | 1982-12-01          | 2022-07-01        |
+| CUURA400SASL5   | Consumer Price Index for All Urban Consumers: Services Less Medical Care Services in West - Size Class A          | 1977-12-01          | 2022-07-01        |
+| CUURA400SAT     | Consumer Price Index for All Urban Consumers: Transportation in West - Size Class A                               | 1977-12-01          | 2022-07-01        |
+| CUURA400SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in West - Size Class A                       | 1977-12-01          | 2022-07-01        |
+| CUURA400SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in West - Size Class A   | 2009-12-01          | 2022-07-01        |
+| CUURA400SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in West - Size Class A                          | 1977-12-01          | 2022-07-01        |
+| CUURA400SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in West - Size Class A                    | 1977-12-01          | 2022-07-01        |
+| CUURA400SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in West - Size Class A        | 1982-12-01          | 2022-07-01        |
+| CUURA400SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in West - Size Class A | 1982-12-01          | 2022-07-01        |
+| CUURA400SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in West - Size Class A                              | 1977-12-01          | 2022-07-01        |
+| CUURA400SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in West - Size Class A                                  | 1977-12-01          | 2022-07-01        |
+| CUURA400SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in West - Size Class A                  | 1977-12-01          | 2022-07-01        |
+| CUURA400SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in West - Size Class A                                   | 1977-12-01          | 2022-07-01        |
+| CUURA400SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in West - Size Class A                         | 1977-12-01          | 2022-07-01        |
+| CUURA400SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in West - Size Class A                   | 1978-06-01          | 2022-07-01        |
+| CUURA400SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in West - Size Class A                  | 1993-12-01          | 2022-07-01        |
+| CUURA400SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in West - Size Class A                   | 1981-08-01          | 2022-07-01        |
+| CUUSA400SA0     | Consumer Price Index for All Urban Consumers: All Items in West - Size Class A                                    | 1984-01-01          | 2022-01-01        |
+| CUUSA400SA0E    | Consumer Price Index for All Urban Consumers: Energy in West - Size Class A                                       | 1984-01-01          | 2022-01-01        |
+| CUUSA400SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in West - Size Class A               | 1984-01-01          | 2022-01-01        |
+| CUUSA400SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in West - Size Class A                       | 1984-01-01          | 2022-01-01        |
+| CUUSA400SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in West - Size Class A                  | 1984-01-01          | 2022-01-01        |
+| CUUSA400SA0LE   | Consumer Price Index for All Urban Consumers: All Items Less Energy in West - Size Class A                        | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAA     | Consumer Price Index for All Urban Consumers: Apparel in West - Size Class A                                      | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAC     | Consumer Price Index for All Urban Consumers: Commodities in West - Size Class A                                  | 1984-01-01          | 2022-01-01        |
+| CUUSA400SACL1   | Consumer Price Index for All Urban Consumers: Commodities Less Food in West - Size Class A                        | 1984-01-01          | 2022-01-01        |
+| CUUSA400SACL11  | Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in West - Size Class A          | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAD     | Consumer Price Index for All Urban Consumers: Durables in West - Size Class A                                     | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAE     | Consumer Price Index for All Urban Consumers: Education and Communication in West - Size Class A                  | 1998-01-01          | 2022-01-01        |
+| CUUSA400SAEC    | Consumer Price Index for All Urban Consumers: Education and Communication Commodities in West - Size Class A      | 2010-01-01          | 2022-01-01        |
+| CUUSA400SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in West - Size Class A         | 2010-01-01          | 2022-01-01        |
+| CUUSA400SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in West - Size Class A                           | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAF1    | Consumer Price Index for All Urban Consumers: Food in West - Size Class A                                         | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in West - Size Class A                                 | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in West - Size Class A                          | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in West - Size Class A                     | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in West - Size Class A                                  | 2010-01-01          | 2022-01-01        |
+| CUUSA400SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in West - Size Class A                      | 2010-01-01          | 2022-01-01        |
+| CUUSA400SAH     | Consumer Price Index for All Urban Consumers: Housing in West - Size Class A                                      | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAH1    | Consumer Price Index for All Urban Consumers: Shelter in West - Size Class A                                      | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in West - Size Class A                          | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in West - Size Class A         | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in West - Size Class A                             | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in West - Size Class A           | 2010-01-01          | 2022-01-01        |
+| CUUSA400SAM     | Consumer Price Index for All Urban Consumers: Medical Care in West - Size Class A                                 | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAN     | Consumer Price Index for All Urban Consumers: Nondurables in West - Size Class A                                  | 1984-01-01          | 2022-01-01        |
+| CUUSA400SANL1   | Consumer Price Index for All Urban Consumers: Nondurables Less Food in West - Size Class A                        | 1984-01-01          | 2022-01-01        |
+| CUUSA400SANL11  | Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in West - Size Class A          | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAR     | Consumer Price Index for All Urban Consumers: Recreation in West - Size Class A                                   | 1998-01-01          | 2022-01-01        |
+| CUUSA400SAS     | Consumer Price Index for All Urban Consumers: Services in West - Size Class A                                     | 1984-01-01          | 2022-01-01        |
+| CUUSA400SASL2RS | Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in West - Size Class A                | 1984-01-01          | 2022-01-01        |
+| CUUSA400SASL5   | Consumer Price Index for All Urban Consumers: Services Less Medical Care Services in West - Size Class A          | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAT     | Consumer Price Index for All Urban Consumers: Transportation in West - Size Class A                               | 1984-01-01          | 2022-01-01        |
+| CUUSA400SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in West - Size Class A                       | 1984-01-01          | 2022-01-01        |
+| CUUSA400SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in West - Size Class A   | 2010-01-01          | 2022-01-01        |
+| CUUSA400SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in West - Size Class A                          | 1984-01-01          | 2022-01-01        |
+| CUUSA400SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in West - Size Class A                    | 1984-01-01          | 2022-01-01        |
+| CUUSA400SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in West - Size Class A        | 1984-01-01          | 2022-01-01        |
+| CUUSA400SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in West - Size Class A | 1984-01-01          | 2022-01-01        |
+| CUUSA400SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in West - Size Class A                              | 1984-01-01          | 2022-01-01        |
+| CUUSA400SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in West - Size Class A                                  | 1984-01-01          | 2022-01-01        |
+| CUUSA400SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in West - Size Class A                  | 1984-01-01          | 2022-01-01        |
+| CUUSA400SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in West - Size Class A                                   | 1984-01-01          | 2022-01-01        |
+| CUUSA400SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in West - Size Class A                         | 1984-01-01          | 2022-01-01        |
+| CUUSA400SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in West - Size Class A                   | 1984-01-01          | 2022-01-01        |
+| CUUSA400SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in West - Size Class A                  | 1994-01-01          | 2022-01-01        |
+| CUUSA400SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in West - Size Class A                   | 1984-01-01          | 2022-01-01        |

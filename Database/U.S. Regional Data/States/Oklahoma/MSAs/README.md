@@ -1,7 +1,7 @@
 | Folder            |   Files / Folders |
 |-------------------|-------------------|
-| Fort Smith, AR-OK |               158 |
 | Enid, OK          |                33 |
+| Lawton, OK        |               138 |
 | Oklahoma City, OK |               230 |
 | Tulsa, OK         |               250 |
-| Lawton, OK        |               138 |
+| Fort Smith, AR-OK |                 0 |

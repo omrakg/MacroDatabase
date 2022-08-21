@@ -113,38 +113,38 @@
 | UNAPUO             | Manufacturers' Unfilled Orders: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-06-01        |
 | UNDEUO             | Manufacturers' Unfilled Orders: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-06-01        |
 | UNXAUO             | Manufacturers' Unfilled Orders: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-06-01        |
-| UOCDFNA066MNFRBPHI | Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                             | 1968-05-01          | 2022-07-01        |
-| UOCDFSA066MSFRBPHI | Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                             | 1968-05-01          | 2022-07-01        |
-| UOCDINA066MNFRBNY  | Current Unfilled Orders; Diffusion Index for New York                                                             | 2001-07-01          | 2022-07-01        |
-| UOCDISA066MSFRBNY  | Current Unfilled Orders; Diffusion Index for New York                                                             | 2001-07-01          | 2022-07-01        |
-| UOCDNA156MNFRBNY   | Current Unfilled Orders; Percent Reporting Decreases for New York                                                 | 2001-07-01          | 2022-07-01        |
-| UOCDNA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-07-01        |
-| UOCDSA156MSFRBNY   | Current Unfilled Orders; Percent Reporting Decreases for New York                                                 | 2001-07-01          | 2022-07-01        |
-| UOCDSA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-07-01        |
-| UOCINA156MNFRBNY   | Current Unfilled Orders; Percent Reporting Increases for New York                                                 | 2001-07-01          | 2022-07-01        |
-| UOCINA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-07-01        |
-| UOCISA156MSFRBNY   | Current Unfilled Orders; Percent Reporting Increases for New York                                                 | 2001-07-01          | 2022-07-01        |
-| UOCISA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-07-01        |
-| UOCNNA156MNFRBNY   | Current Unfilled Orders; Percent Reporting No Change for New York                                                 | 2001-07-01          | 2022-07-01        |
-| UOCNNA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-07-01        |
-| UOCNSA156MSFRBNY   | Current Unfilled Orders; Percent Reporting No Change for New York                                                 | 2001-07-01          | 2022-07-01        |
-| UOCNSA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-07-01        |
+| UOCDFNA066MNFRBPHI | Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                             | 1968-05-01          | 2022-08-01        |
+| UOCDFSA066MSFRBPHI | Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                             | 1968-05-01          | 2022-08-01        |
+| UOCDINA066MNFRBNY  | Current Unfilled Orders; Diffusion Index for New York                                                             | 2001-07-01          | 2022-08-01        |
+| UOCDISA066MSFRBNY  | Current Unfilled Orders; Diffusion Index for New York                                                             | 2001-07-01          | 2022-08-01        |
+| UOCDNA156MNFRBNY   | Current Unfilled Orders; Percent Reporting Decreases for New York                                                 | 2001-07-01          | 2022-08-01        |
+| UOCDNA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-08-01        |
+| UOCDSA156MSFRBNY   | Current Unfilled Orders; Percent Reporting Decreases for New York                                                 | 2001-07-01          | 2022-08-01        |
+| UOCDSA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-08-01        |
+| UOCINA156MNFRBNY   | Current Unfilled Orders; Percent Reporting Increases for New York                                                 | 2001-07-01          | 2022-08-01        |
+| UOCINA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-08-01        |
+| UOCISA156MSFRBNY   | Current Unfilled Orders; Percent Reporting Increases for New York                                                 | 2001-07-01          | 2022-08-01        |
+| UOCISA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-08-01        |
+| UOCNNA156MNFRBNY   | Current Unfilled Orders; Percent Reporting No Change for New York                                                 | 2001-07-01          | 2022-08-01        |
+| UOCNNA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-08-01        |
+| UOCNSA156MSFRBNY   | Current Unfilled Orders; Percent Reporting No Change for New York                                                 | 2001-07-01          | 2022-08-01        |
+| UOCNSA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-08-01        |
 | UODGUO             | Manufacturers' Unfilled Orders: All Other Durable Goods                                                           | 1992-01-01          | 2022-06-01        |
-| UOFDFNA066MNFRBPHI | Future Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                              | 1968-05-01          | 2022-07-01        |
-| UOFDFSA066MSFRBPHI | Future Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                              | 1968-05-01          | 2022-07-01        |
-| UOFDINA066MNFRBNY  | Future Unfilled Orders; Diffusion Index for New York                                                              | 2001-07-01          | 2022-07-01        |
-| UOFDISA066MSFRBNY  | Future Unfilled Orders; Diffusion Index for New York                                                              | 2001-07-01          | 2022-07-01        |
-| UOFDNA156MNFRBNY   | Future Unfilled Orders; Percent Expecting Decreases for New York                                                  | 2001-07-01          | 2022-07-01        |
-| UOFDNA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-07-01        |
-| UOFDSA156MSFRBNY   | Future Unfilled Orders; Percent Expecting Decreases for New York                                                  | 2001-07-01          | 2022-07-01        |
-| UOFDSA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-07-01        |
-| UOFINA156MNFRBNY   | Future Unfilled Orders; Percent Expecting Increases for New York                                                  | 2001-07-01          | 2022-07-01        |
-| UOFINA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-07-01        |
-| UOFISA156MSFRBNY   | Future Unfilled Orders; Percent Expecting Increases for New York                                                  | 2001-07-01          | 2022-07-01        |
-| UOFISA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-07-01        |
-| UOFNNA156MNFRBNY   | Future Unfilled Orders; Percent Expecting No Change for New York                                                  | 2001-07-01          | 2022-07-01        |
-| UOFNNA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-07-01        |
-| UOFNSA156MSFRBNY   | Future Unfilled Orders; Percent Expecting No Change for New York                                                  | 2001-07-01          | 2022-07-01        |
-| UOFNSA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-07-01        |
+| UOFDFNA066MNFRBPHI | Future Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                              | 1968-05-01          | 2022-08-01        |
+| UOFDFSA066MSFRBPHI | Future Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                              | 1968-05-01          | 2022-08-01        |
+| UOFDINA066MNFRBNY  | Future Unfilled Orders; Diffusion Index for New York                                                              | 2001-07-01          | 2022-08-01        |
+| UOFDISA066MSFRBNY  | Future Unfilled Orders; Diffusion Index for New York                                                              | 2001-07-01          | 2022-08-01        |
+| UOFDNA156MNFRBNY   | Future Unfilled Orders; Percent Expecting Decreases for New York                                                  | 2001-07-01          | 2022-08-01        |
+| UOFDNA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-08-01        |
+| UOFDSA156MSFRBNY   | Future Unfilled Orders; Percent Expecting Decreases for New York                                                  | 2001-07-01          | 2022-08-01        |
+| UOFDSA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-08-01        |
+| UOFINA156MNFRBNY   | Future Unfilled Orders; Percent Expecting Increases for New York                                                  | 2001-07-01          | 2022-08-01        |
+| UOFINA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-08-01        |
+| UOFISA156MSFRBNY   | Future Unfilled Orders; Percent Expecting Increases for New York                                                  | 2001-07-01          | 2022-08-01        |
+| UOFISA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-08-01        |
+| UOFNNA156MNFRBNY   | Future Unfilled Orders; Percent Expecting No Change for New York                                                  | 2001-07-01          | 2022-08-01        |
+| UOFNNA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-08-01        |
+| UOFNSA156MSFRBNY   | Future Unfilled Orders; Percent Expecting No Change for New York                                                  | 2001-07-01          | 2022-08-01        |
+| UOFNSA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-08-01        |
 | UTCGUO             | Manufacturers' Unfilled Orders: Capital Goods                                                                     | 1992-01-01          | 2022-06-01        |
 | UTGPUO             | Manufacturers' Unfilled Orders: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-06-01        |

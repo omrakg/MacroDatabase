@@ -1,25 +1,2 @@
-| id                     | title                                                                                                                                         | observation_start   | observation_end   |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA38900Q156N       | CredAbility Consumer Distress Index for Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                                              | 2005-01-01          | 2013-01-01        |
-| INTINCOMEPOR           | Net Interest Income for Commercial Banks with Assets under $5B in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                    | 1989-01-01          | 2020-07-01        |
-| LLSPOR                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| LLSRPOR                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)       | 1989-01-01          | 2020-07-01        |
-| NIMPOR                 | Net Interest Margin for Commercial Banks with Assets under $5B in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                    | 1989-01-01          | 2020-07-01        |
-| NIPOR                  | Net Income for Commercial Banks with Assets under $5B in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                             | 1989-01-01          | 2020-07-01        |
-| PCRGMP38900            | Total Per Capita Real Gross Domestic Product for Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                                     | 2001-01-01          | 2017-01-01        |
-| PORAGRIDX              | Economic Conditions Index for Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                                                        | 1990-02-01          | 2019-12-01        |
-| ROAPOR                 | Return on Average Assets for Commercial Banks with Assets under $5B in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)               | 1989-01-01          | 2020-07-01        |
-| SMU41389000500000002SA | Average Weekly Hours of All Employees: Total Private in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                              | 2007-01-01          | 2022-03-01        |
-| SMU41389000500000003SA | Average Hourly Earnings of All Employees: Total Private in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
-| SMU41389000500000011SA | Average Weekly Earnings of All Employees: Total Private in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
-| SMU41389003000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                       | 2003-01-01          | 2022-03-01        |
-| SMU41389003000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                    | 2003-01-01          | 2022-03-01        |
-| SMU41389003000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                    | 2003-01-01          | 2022-03-01        |
-| SMU41389003100000007SA | Average Weekly Hours of Production Employees: Manufacturing: Durable Goods in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)        | 2003-01-01          | 2022-03-01        |
-| SMU41389003100000008SA | Average Hourly Earnings of Production Employees: Manufacturing: Durable Goods in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)     | 2003-01-01          | 2022-03-01        |
-| SMU41389003100000030SA | Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)     | 2003-01-01          | 2022-03-01        |
-| SMU41389003200000007SA | Average Weekly Hours of Production Employees: Manufacturing: Non-Durable Goods in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)    | 2003-01-01          | 2022-03-01        |
-| SMU41389003200000008SA | Average Hourly Earnings of Production Employees: Manufacturing: Non-Durable Goods in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED) | 2003-01-01          | 2022-03-01        |
-| SMU41389003200000030SA | Average Weekly Earnings of Production Employees: Manufacturing: Non-Durable Goods in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED) | 2003-01-01          | 2022-03-01        |
-| TOTASSETPOR            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)      | 1989-01-01          | 2020-07-01        |
-| TOTLOANPOR             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)       | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

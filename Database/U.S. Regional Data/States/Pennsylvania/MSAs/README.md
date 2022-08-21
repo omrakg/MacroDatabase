@@ -1,22 +1,22 @@
 | Folder                                      |   Files / Folders |
 |---------------------------------------------|-------------------|
-| Youngstown-Warren-Boardman, OH-PA           |                 0 |
-| Johnstown, PA                               |               152 |
-| Williamsport, PA                            |               117 |
-| Gettysburg, PA                              |                77 |
-| Altoona, PA                                 |               135 |
-| East Stroudsburg, PA                        |                89 |
-| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |                 0 |
-| Bloomsburg-Berwick, PA                      |                80 |
-| New York-Newark-Jersey City, NY-NJ-PA       |                 0 |
-| Reading, PA                                 |               176 |
-| Chambersburg-Waynesboro, PA                 |                94 |
 | Pittsburgh, PA                              |               288 |
-| Scranton--Wilkes-Barre, PA                  |               192 |
-| Allentown-Bethlehem-Easton, PA-NJ           |                 0 |
 | Lebanon, PA                                 |               134 |
-| Lancaster, PA                               |               183 |
-| York-Hanover, PA                            |               167 |
-| Erie, PA                                    |               167 |
-| Harrisburg-Carlisle, PA                     |               213 |
+| Gettysburg, PA                              |                77 |
+| Bloomsburg-Berwick, PA                      |                80 |
+| Altoona, PA                                 |                 0 |
 | State College, PA                           |               140 |
+| Williamsport, PA                            |               117 |
+| York-Hanover, PA                            |               167 |
+| Reading, PA                                 |               176 |
+| Erie, PA                                    |               167 |
+| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |                 0 |
+| Scranton--Wilkes-Barre, PA                  |               192 |
+| New York-Newark-Jersey City, NY-NJ-PA       |                 0 |
+| Youngstown-Warren-Boardman, OH-PA           |               180 |
+| East Stroudsburg, PA                        |                89 |
+| Chambersburg-Waynesboro, PA                 |                94 |
+| Harrisburg-Carlisle, PA                     |               213 |
+| Johnstown, PA                               |               152 |
+| Allentown-Bethlehem-Easton, PA-NJ           |                 0 |
+| Lancaster, PA                               |               183 |
