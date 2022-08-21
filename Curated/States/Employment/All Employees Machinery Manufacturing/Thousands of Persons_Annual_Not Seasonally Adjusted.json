@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000003133300001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Durable Goods: Machinery Manufacturing in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Texas": {
     "id": "SMU48000003133300001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Durable Goods: Machinery Manufacturing in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Washington": {
     "id": "SMU53000003133300001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Durable Goods: Machinery Manufacturing in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

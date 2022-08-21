@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000004100000001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Wholesale Trade in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Texas": {
     "id": "SMU48000004100000001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Wholesale Trade in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Utah": {
     "id": "SMU49000004100000001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Wholesale Trade in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Vermont": {
     "id": "SMU50000004100000001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Wholesale Trade in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -109,8 +109,8 @@
   },
   "Virginia": {
     "id": "SMU51000004100000001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Wholesale Trade in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -127,8 +127,8 @@
   },
   "Washington": {
     "id": "SMU53000004100000001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Wholesale Trade in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -145,8 +145,8 @@
   },
   "West Virginia": {
     "id": "SMU54000004100000001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Wholesale Trade in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -163,8 +163,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000004100000001A",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "All Employees: Wholesale Trade in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

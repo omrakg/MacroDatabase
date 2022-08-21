@@ -1,8 +1,8 @@
 {
   "Idaho": {
     "id": "IDTLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in Idaho",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALTLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in Alabama",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKTLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in Alaska",
     "observation_start": "1957-01-01",
     "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZTLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in Arizona",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -96,8 +96,8 @@
   },
   "California": {
     "id": "CATLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in California",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -115,8 +115,8 @@
   },
   "Colorado": {
     "id": "COTLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in Colorado",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -134,8 +134,8 @@
   },
   "Connecticut": {
     "id": "CTTLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in Connecticut",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -153,8 +153,8 @@
   },
   "Delaware": {
     "id": "DETLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in Delaware",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -172,8 +172,8 @@
   },
   "Hawaii": {
     "id": "HITLLICTAX",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "State Government Tax Collections, Total License Taxes in Hawaii",
     "observation_start": "1955-01-01",
     "observation_end": "2021-01-01",
