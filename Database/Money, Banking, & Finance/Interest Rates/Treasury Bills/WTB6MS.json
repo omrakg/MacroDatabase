@@ -1,18 +1,18 @@
 {
   "id": "WTB6MS",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "6-Month Treasury Bill Secondary Market Rate, Discount Basis",
   "observation_start": "1958-12-12",
-  "observation_end": "2022-08-05",
+  "observation_end": "2022-08-12",
   "frequency": "Weekly, Ending Friday",
   "frequency_short": "W",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-08 15:22:11-05",
+  "last_updated": "2022-08-15 15:18:03-05",
   "popularity": 16,
-  "group_popularity": 56,
+  "group_popularity": 57,
   "notes": "Averages of Business Days, Discount Basis"
 }

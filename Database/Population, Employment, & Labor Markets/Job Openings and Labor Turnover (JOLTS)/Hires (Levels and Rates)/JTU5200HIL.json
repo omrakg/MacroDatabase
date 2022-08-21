@@ -1,7 +1,7 @@
 {
   "id": "JTU5200HIL",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Hires: Finance and Insurance",
   "observation_start": "2000-12-01",
   "observation_end": "2022-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-02 09:05:42-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 3,
+  "group_popularity": 3
 }

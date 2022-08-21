@@ -1,0 +1,18 @@
+{
+  "id": "M0448AUSM323NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Index of Wholesale Prices, Variable Group Weights for United States",
+  "observation_start": "1850-01-01",
+  "observation_end": "1894-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1910-1914=100",
+  "units_short": "Index 1910-1914=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:56:57-05",
+  "popularity": 11,
+  "group_popularity": 11,
+  "notes": "Series Is Presented Here As Three Variables-- (1)--Original Data, 1850-1894 (2)--Original Data, 1890-1914 (3)-- Original Data, 1913-1968. Source: G.F. Warren And F.A. Pearson, \"Prices\" Pp. 12-13\n\nThis NBER data series m04048a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04048a"
+}

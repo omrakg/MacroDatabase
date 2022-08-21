@@ -1,7 +1,7 @@
 {
   "id": "WBA3M",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "3-Month Bankers Acceptance Rate (DISCONTINUED)",
   "observation_start": "1976-01-02",
   "observation_end": "2000-06-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2000-06-30 00:00:00-05",
-  "popularity": 5,
-  "group_popularity": 17,
+  "popularity": 2,
+  "group_popularity": 12,
   "notes": "Averages of business days, discount basis."
 }

@@ -1,17 +1,17 @@
 {
   "id": "PERMITMWNSA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Midwest Census Region",
   "observation_start": "1959-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-26 07:02:14-05",
+  "last_updated": "2022-08-16 07:31:42-05",
   "popularity": 1,
   "group_popularity": 7
 }

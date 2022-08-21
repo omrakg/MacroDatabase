@@ -1,7 +1,7 @@
 {
   "id": "NHPHCI",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Coincident Economic Activity Index for New Hampshire",
   "observation_start": "1979-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-07-27 09:06:37-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The Coincident Economic Activity Index includes four indicators: nonfarm payroll employment, the unemployment rate, average hours worked in manufacturing and wages and salaries. The trend for each state's index is set to match the trend for gross state product.\u00a0"
 }

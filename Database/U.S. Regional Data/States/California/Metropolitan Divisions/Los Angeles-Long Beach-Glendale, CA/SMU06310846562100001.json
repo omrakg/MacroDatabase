@@ -1,17 +1,17 @@
 {
   "id": "SMU06310846562100001",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "All Employees: Education and Health Services: Ambulatory Health Care Services in Los Angeles-Long Beach-Glendale, CA (MD)",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-23 02:36:18-05",
+  "last_updated": "2022-08-20 02:45:00-05",
   "popularity": 1,
   "group_popularity": 1
 }

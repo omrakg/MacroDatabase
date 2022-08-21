@@ -1,7 +1,7 @@
 {
   "id": "PCU2111112111113",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Industry: Crude Petroleum and Natural Gas Extraction: Natural Gas (from the Wellhead)",
   "observation_start": "1975-12-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:56:07-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 5,
+  "group_popularity": 5
 }

@@ -1,0 +1,17 @@
+{
+  "id": "PCU31499931499982",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: All Other Miscellaneous Textile Product Mills: Fabricated Flags, Banners, and Similar Emblems",
+  "observation_start": "2009-12-01",
+  "observation_end": "2018-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2009=100",
+  "units_short": "Index Dec 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-10-10 08:06:20-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

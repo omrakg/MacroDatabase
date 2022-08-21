@@ -1,7 +1,7 @@
 {
   "id": "WPU02940301",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Meat Meal and Meat and Bone Meal",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:52:21-05",
-  "popularity": 12,
-  "group_popularity": 12
+  "popularity": 13,
+  "group_popularity": 13
 }

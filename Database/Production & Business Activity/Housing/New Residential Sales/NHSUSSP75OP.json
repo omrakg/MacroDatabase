@@ -1,7 +1,7 @@
 {
   "id": "NHSUSSP75OP",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "New Houses Sold by Sales Price in the United States, Between $750,000 and Over",
   "observation_start": "2002-01-01",
   "observation_end": "2022-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-26 09:01:37-05",
   "popularity": 2,
-  "group_popularity": 16,
+  "group_popularity": 13,
   "notes": "Percents computed from unrounded figures. Components may not add to total because of rounding."
 }

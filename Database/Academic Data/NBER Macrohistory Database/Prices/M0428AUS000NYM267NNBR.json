@@ -1,0 +1,18 @@
+{
+  "id": "M0428AUS000NYM267NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Creamery Butter for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1916-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1890-1916; (2)--Original Data, 1913-1941. Quotations Are From Tuesday Of Each Week As Cited In \"New York Journal Of Commerce And Commercial Bulletin\". 1890-1901 Data Was Computed By NBER By Taking The Arithmetic Average Of Price Ranges. Source: Bls, Bulletins, No. 39, Pp. 282-283; And Following Monthly Issues\n\nThis NBER data series m04028a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04028a"
+}

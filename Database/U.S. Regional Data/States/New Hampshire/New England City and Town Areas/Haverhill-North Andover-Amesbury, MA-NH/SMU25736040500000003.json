@@ -1,17 +1,17 @@
 {
   "id": "SMU25736040500000003",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Average Hourly Earnings of All Employees: Total Private in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)",
   "observation_start": "2007-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Dollars per Hour",
   "units_short": "$ per Hour",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-23 02:26:37-05",
+  "last_updated": "2022-08-20 02:31:14-05",
   "popularity": 1,
   "group_popularity": 1
 }

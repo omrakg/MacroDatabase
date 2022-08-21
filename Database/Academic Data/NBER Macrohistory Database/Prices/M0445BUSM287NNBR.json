@@ -1,0 +1,18 @@
+{
+  "id": "M0445BUSM287NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Tin Plate, F.O.B. Mill for United States",
+  "observation_start": "1953-05-01",
+  "observation_end": "1958-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hundred Pounds",
+  "units_short": "$ Per Hundred Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:47:13-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1898-1955 (2)--Original Data, 1953-1958. As Of May, 1953, New Specififaction (Bls Code #10-14-66.02) Reads: Tin Plate, Hot Dipped Carbon Steel, 1.25 Pound Coating Weight, 95 Pound Basis Weight, 20 Inch Through 28 Inch, Unassorted, Standard Multiple Packaging, Base Quantity, Mill To User, Per 100 Pound Base Box, F.O.B. Mill. Source: Bls, Monthly Issues Of \"Wholesale Prices And Price Indexes\" For 1953, 1957, And 1958 Data. Data For 1954-1956 Are From The Summary Table In Bls Bulletin No. 1214, Wholesale Prices And Price Indexes: 1954-1956 (Published September, 1957).\n\nThis NBER data series m04145b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04145b"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PCU3212113212114",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: Hardwood Veneer and Plywood Manufacturing: Hardwood Plywood",
+  "observation_start": "2012-12-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2012=100",
+  "units_short": "Index Dec 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-08-11 07:55:30-05",
+  "popularity": 8,
+  "group_popularity": 8
+}

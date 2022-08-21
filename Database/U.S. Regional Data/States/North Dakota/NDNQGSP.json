@@ -1,7 +1,7 @@
 {
   "id": "NDNQGSP",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Gross Domestic Product: All Industry Total in North Dakota",
   "observation_start": "2005-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-30 09:06:42-05",
   "popularity": 6,
-  "group_popularity": 14,
+  "group_popularity": 17,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
 }

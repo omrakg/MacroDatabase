@@ -1,0 +1,18 @@
+{
+  "id": "Q04032US16980Q237NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Potatoes for Chicago, IL",
+  "observation_start": "1890-01-01",
+  "observation_end": "1910-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Average Price per Hundred Pounds in Dollars",
+  "units_short": "Average Price Per Hundred Pounds In $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:55:02-05",
+  "popularity": 9,
+  "group_popularity": 11,
+  "notes": "Prices For 1890-1906 Are For Burbank Potatoes. For 1907 1910, The Series Was Called White, Good To Fancy. From 1911-1912, The Series Was Called White, Fair To Fancy; In 1913, Ordinary To Choice; From 1914-1925, Good To Choice; 1926-1946, White; And 1947- 1952, The Series Was Called White, U.S. No. 1, New And Old, Arithmetical Average All Prices, Chicago L.C.L. Market. Data For 1890-1901 Were Computed From The Weekly Range Figures By Obtaining The Mean Price Of The Range For Each Date And Computing Monthly Average Therefrom. These In Turn Were Converted From Price Per Bushel To Price Per Hundred Pounds By Multiplying By 100 Over 60. Data For 1902-1920 Were Converted From Price Per Bushel To Price Per Hundred Pounds. Original Data, 1890-1912 Are Weekly Range Figures; Original Data, 1913-1914 Are Price Per Bushel On Monday Of Each Week; Original 1915-1916 Data Are Price Per Bushel On Tuesday Of Each Week; Thereafter Data Are Also Average Of Tuesday Prices. Source: Bls Bulletin Nos. 39, For 1890-1901; 45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114, 149, 181, 200, 226, 269, 296, 335, 367, 415, 440, 473, 493, 521, 543, And 572, For 1902-1931; Monthly Wholesale Prices, Through 1941; Bulletin Nos. 718, 736, 759, 785, 870, 877, And 920 For 1942-1946; For 1947-1952, NBER Multiplied New Indexes (1947-1949= 100) Wth Ratio Of January-March, 1947 Prices (Old) To January-March, 1947 Indexes (New). Data Are From \"Prices And Price Relatives For Individual Commodities In The Revised Index, 1947-1950, \" Group I; January-November, 1951, Volume 2; Monthly Issues Of \"Prices And Price Relatives\" Thereafter.\n\nThis NBER data series q04032 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: q04032"
+}

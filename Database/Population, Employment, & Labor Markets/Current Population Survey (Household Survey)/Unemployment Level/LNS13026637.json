@@ -1,7 +1,7 @@
 {
   "id": "LNS13026637",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Unemployment Level - Persons Who Completed Temporary Jobs",
   "observation_start": "1994-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-05 07:44:52-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13026637"
 }

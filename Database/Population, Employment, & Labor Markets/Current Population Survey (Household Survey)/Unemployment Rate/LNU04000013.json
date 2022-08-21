@@ -1,7 +1,7 @@
 {
   "id": "LNU04000013",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Unemployment Rate - 16-19 Yrs., Men",
   "observation_start": "1948-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 07:46:03-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04000013"
 }

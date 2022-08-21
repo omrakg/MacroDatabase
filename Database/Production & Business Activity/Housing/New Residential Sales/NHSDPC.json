@@ -1,7 +1,7 @@
 {
   "id": "NHSDPC",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "New Houses Sold by Stage of Construction, Completed",
   "observation_start": "1963-01-01",
   "observation_end": "2022-06-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-26 09:01:24-05",
   "popularity": 6,
-  "group_popularity": 18
+  "group_popularity": 14
 }

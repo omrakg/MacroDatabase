@@ -1,0 +1,18 @@
+{
+  "id": "M04H0AUS000NYM298NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Spruce for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1919-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Thousand Feet",
+  "units_short": "$ Per Thous. Feet",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:52:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1919 (2)--Original Data, 1913-1944. Quotations Are For Spruce, 6 To 9 Inch Cargoes And Are Taken On The First Of The Month From The New York Lumber Trade Journal. The New York Lumber Trade Journal Gives Range In 1St Of Month Publication Of Price Supplement. Data Therefore Are Average Range. No Quotations For July Or August, 1910, June, 1911, July, 1912, July, 1913, And July, 1915. Data Are Interpolated. Quotations From 1911-1916 Called Spruce, 6 To 9 Inch Cargoes, Eastern. 1917-1919 No Dimensions Given. Average Of 1919 On Base Of Series 1920 On Equals 41.90. New York Lumber Trade Journal Gives No Quotations For 1920. Note States \"No Lumber By Mail.\" Source: Bls Bulletin Nos. 45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114, 149, 181, 200, 226, 269, 296, 335, 367, 415, 440, 473, 493, 521, 543, 572, And Monthly \"Wholesale Prices.\"\n\nThis NBER data series m04090a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04090a"
+}

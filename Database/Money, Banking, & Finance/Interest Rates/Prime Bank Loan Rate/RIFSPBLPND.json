@@ -1,18 +1,18 @@
 {
   "id": "RIFSPBLPND",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Bank Prime Loan Rate",
   "observation_start": "1955-08-04",
-  "observation_end": "2022-08-11",
+  "observation_end": "2022-08-18",
   "frequency": "Daily, 7-Day",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-12 15:17:04-05",
-  "popularity": 5,
+  "last_updated": "2022-08-19 15:27:05-05",
+  "popularity": 6,
   "group_popularity": 71,
   "notes": "Rate posted by a majority of top 25 (by assets in domestic offices) insured U.S.-chartered commercial banks. Prime is one of several base rates used by banks to price short-term business loans."
 }

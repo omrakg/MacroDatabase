@@ -1,0 +1,18 @@
+{
+  "id": "M0454AUS38300M267NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price Steel Sheets for Pittsburgh, PA",
+  "observation_start": "1894-07-01",
+  "observation_end": "1947-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:54:51-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1894-1947 (2)--Original Data, 1947-1958. Prices Are As Of First Tuesday Each Month (See Bls Bulletins Through 1916) Through 1917. Beginning In 1918, The Average Of Weekly Quotations Is Given. Prices Are For \"Box Annealed, Cold-Rolled, U.S. Standard, No.27.\" Quarterly Figures Are Averages Of The Respective Months. Beginning In 1917, Prices Were Computed To 1 Additional Place By Multiplying The 1913 Price Of $0.0219 And The 1913 Base Relatives. Beginning In 1926, The Extra Digit Was Computed From The 1926 Price Of $0.0317 And The 1926 Base Relatives. Bls Code #446 Was Changed To #446.1 In March, 1946. There Seems To Be No Change Except For The Fact That The Quotation Is Now In \"Dollars Per 100 Pounds.\" Bulletin Nos. 877 And 920 Do Not Make This Clear. However, The Monthly Mimeographed Release Shows A New Series, #446.2. This Is A \"Substitution, Rolled, 11 Gauge, 36\" To 48\" Wide, Per 100 Pounds, F.O.B. Basing Point.\" Bls Bulletin 947 Carries This Series Back To January, 1947. In The New Index, The Series Code Is 10-14-46. Source: Bls Bulletins And \"Wholesale Prices\" And Iron Age.\n\nThis NBER data series m04154a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04154a"
+}

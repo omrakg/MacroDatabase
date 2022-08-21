@@ -1,7 +1,7 @@
 {
   "id": "NMPCPI",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Per Capita Personal Income in New Mexico",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 13:28:12-05",
-  "popularity": 8,
-  "group_popularity": 8
+  "popularity": 7,
+  "group_popularity": 7
 }

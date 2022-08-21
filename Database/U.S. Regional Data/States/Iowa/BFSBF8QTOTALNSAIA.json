@@ -1,7 +1,7 @@
 {
   "id": "BFSBF8QTOTALNSAIA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Spliced Business Formations Within Eight Quarters: Total for All NAICS in Iowa",
   "observation_start": "2004-07-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 11:04:15-05",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "This series combines (splices) BFBF8QTOTALNSAIA (https://fred.stlouisfed.org/series/BFBF8QTOTALNSAIA) and BFPBF8QTOTALNSAIA (https://fred.stlouisfed.org/series/BFPBF8QTOTALNSAIA) to provide the entire time series for the actual and projected business formations within eight quarters.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
 }

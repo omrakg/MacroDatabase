@@ -1,17 +1,17 @@
 {
   "id": "H41RESPPAABF01NWW",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Assets: Liquidity and Credit Facilities: Net Portfolio Holdings of Corporate Credit Facility LLC: Wednesday Level in Federal Reserve District 1: Boston",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-08-10",
+  "observation_end": "2022-08-17",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 16:04:01-05",
+  "last_updated": "2022-08-18 15:35:26-05",
   "popularity": 1,
   "group_popularity": 1
 }

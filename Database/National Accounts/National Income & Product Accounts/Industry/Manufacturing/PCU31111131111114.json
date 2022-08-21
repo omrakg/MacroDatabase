@@ -1,0 +1,17 @@
+{
+  "id": "PCU31111131111114",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: Dog and Cat Food Manufacturing: Dry and Semi Moist Dog Food",
+  "observation_start": "2011-12-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2011=100",
+  "units_short": "Index Dec 2011=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-08-11 07:56:06-05",
+  "popularity": 4,
+  "group_popularity": 4
+}

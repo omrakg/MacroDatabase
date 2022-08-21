@@ -1,0 +1,17 @@
+{
+  "id": "PCU3152103152101T",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: Cut and Sew Apparel Contractors: Contract Receipts for Men's/Boys' Shirts, Underwear/Nightwear, and Tailored Suits/Coats/Jackets (DISCONTINUED)",
+  "observation_start": "2007-06-01",
+  "observation_end": "2014-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2007=100",
+  "units_short": "Index Jun 2007=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:45:14-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

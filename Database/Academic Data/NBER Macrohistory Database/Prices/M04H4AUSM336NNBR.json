@@ -1,0 +1,18 @@
+{
+  "id": "M04H4AUSM336NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Index of Wholesale Price of Textiles for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:55:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Revisions Were Made In January 1926 According To The Following Groupings: Old Grouping -- Cotton Textiles, Silk Textiles, Wool And Worsted Textiles, Other Textiles; New Grouping: Clothing, Cotton Goods, Knit Goods, Other Textile Products, Silk And Rayon, Woolen And Worsted Goods. Source: Bls, 1890-1930: Bulletin No. 543, Pp. 3-11; 1926-1931: Bulletin No. 572, Pp. 5-6; 1931:\"Survey Of Current Business\", January 1932; 1932- 1941: Bls, \"Wholesale Prices\"; 1942-1950: Bls Bulletins Beginning With No. 736; 1951:\"Monthly Labor Review\", 1952 Issues.\n\nThis NBER data series m04064a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04064a"
+}

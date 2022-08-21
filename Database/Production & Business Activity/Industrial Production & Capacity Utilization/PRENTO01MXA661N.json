@@ -1,7 +1,7 @@
 {
   "id": "PRENTO01MXA661N",
-  "realtime_start": "2022-08-07",
-  "realtime_end": "2022-08-07",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Total Energy Production for Mexico",
   "observation_start": "1980-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Index 2015=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-12 10:24:26-05",
+  "last_updated": "2022-08-11 15:59:07-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "OECD descriptor ID: PRENTO01\nOECD unit ID: IXOB\nOECD country ID: MEX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."

@@ -1,7 +1,7 @@
 {
   "id": "J4816C0A144NBEA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Employer contributions for government social insurance: Domestic private industries: Finance, insurance, and real estate",
   "observation_start": "1948-01-01",
   "observation_end": "1987-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-08-10 12:14:24-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 0,
+  "group_popularity": 4,
   "notes": "BEA Account Code: J4816C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,17 +1,17 @@
 {
   "id": "RESPPLAML1LTNWW",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Supplementary Information: Supplementary Information on Principal Accounts of Maiden Lane LLC: Outstanding Principal Amount and Accrued Interest on Loan Payable to JPMorgan Chase and Co.: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-08-10",
+  "observation_end": "2022-08-17",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 15:34:14-05",
+  "last_updated": "2022-08-18 15:34:18-05",
   "popularity": 1,
   "group_popularity": 1
 }

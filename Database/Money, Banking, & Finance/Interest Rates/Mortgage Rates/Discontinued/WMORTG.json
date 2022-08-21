@@ -1,7 +1,7 @@
 {
   "id": "WMORTG",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)",
   "observation_start": "1971-04-02",
   "observation_end": "2004-01-02",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-06 14:42:32-05",
-  "popularity": 5,
-  "group_popularity": 31,
+  "popularity": 4,
+  "group_popularity": 32,
   "notes": "Average Contract Rate on Commitments for Fixed-Rate First Mortgages. - Please refer to the series WRMORTG for current data. Copyright, 2016, Federal Home Loan Mortgage Corporation. Reprinted with permission."
 }

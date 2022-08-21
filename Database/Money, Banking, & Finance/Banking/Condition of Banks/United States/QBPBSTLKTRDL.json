@@ -1,0 +1,18 @@
+{
+  "id": "QBPBSTLKTRDL",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Balance Sheet: Total Liabilities and Capital: Trading Account Liabilities",
+  "observation_start": "1994-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-24 14:53:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series is found in Assets and Liabilities of FDIC-Insured Commercial Banks and Savings Institutions.\n\nThe Quarterly Banking Profile is a quarterly publication that provides the earliest comprehensive summary of financial results for all FDIC-insured institutions.\n\nSee Notes to Users (https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/timeseries/qbpnot.pdf) for more information."
+}

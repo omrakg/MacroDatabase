@@ -1,7 +1,7 @@
 {
   "id": "H0RIFSRDF02NB",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Discount Rate (DISCONTINUED)",
   "observation_start": "1955-01-03",
   "observation_end": "2003-01-08",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 16:09:52-05",
   "popularity": 1,
-  "group_popularity": 17,
+  "group_popularity": 15,
   "notes": "The Federal Reserve Board has discontinued this series. For more information see the H.15 Statistical Release (https://www.federalreserve.gov/releases/h15/default.htm)."
 }

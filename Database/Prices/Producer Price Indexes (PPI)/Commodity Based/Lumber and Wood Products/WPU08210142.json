@@ -1,7 +1,7 @@
 {
   "id": "WPU08210142",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Lumber and Wood Products: Wood Panel, Flush, and Molded Face Doors, Interior and Exterior, Including Doors with Glazed Sections",
   "observation_start": "1983-06-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:51:49-05",
-  "popularity": 9,
-  "group_popularity": 9
+  "popularity": 13,
+  "group_popularity": 13
 }

@@ -1,0 +1,18 @@
+{
+  "id": "M0437AUSM284NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Haymowers, 5 Feet Regular Lift for United States",
+  "observation_start": "1913-01-01",
+  "observation_end": "1937-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Each",
+  "units_short": "$ Per Each",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:51:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1913-1937 (2)--Original Data, 1933-1944. Data Are Prices For \"Hay Mowers, 5 Foot Regular Lift, Factory\" For Period 1913-1928. In 1929, The Series Is Called \"Mower, Hay\" But Prices Seem To Be Continuous (NBER Note). This Series Was Revised In 1938. See \"Wholesale Prices,\" January, 1938, P.12. Source: 1913-1925 Data Are From Mimeographed Sheets From Bls. For 1926- 1937 Data, See Bls Bulletins And \"Wholesale Prices.\"\n\nThis NBER data series m04137a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04137a"
+}

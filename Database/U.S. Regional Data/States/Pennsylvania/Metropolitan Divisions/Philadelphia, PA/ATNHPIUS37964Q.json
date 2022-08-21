@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS37964Q",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "All-Transactions House Price Index for Philadelphia, PA (MSAD)",
   "observation_start": "1976-10-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-31 09:02:30-05",
-  "popularity": 36,
-  "group_popularity": 36,
+  "popularity": 30,
+  "group_popularity": 30,
   "notes": "Estimated using sales prices and appraisal data. Metropolitan Division refers to a county or group of counties within a Metropolitan Statistical Area that has a population core of at least 2.5 million."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU0427",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Finished and Unfinished Leather",
   "observation_start": "1997-12-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:52:30-05",
-  "popularity": 12,
-  "group_popularity": 13
+  "popularity": 8,
+  "group_popularity": 8
 }

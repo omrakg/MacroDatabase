@@ -1,7 +1,7 @@
 {
   "id": "A358RC1A027NBEA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Gross value added: GDP: Business: Nonfarm",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:57:07-05",
   "popularity": 1,
-  "group_popularity": 10,
+  "group_popularity": 9,
   "notes": "BEA Account Code: A358RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

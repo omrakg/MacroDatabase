@@ -1,0 +1,18 @@
+{
+  "id": "A04184USA336NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Index of Retail Price of 58 Foods for United States",
+  "observation_start": "1913-01-01",
+  "observation_end": "1942-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Last Two Years Were Computed By Dividing The Retail Value In A Given Year By The Retail Value In 1926 (See\"Agricultural Statistics\", 1943, Table 505.) Source: Bureau Of Agricultural Economics, \"Price Spread Between The Farmer And The Consumer\" By Richard O. Been And Frederick V. Waugh, 1936, And Supplement To That Report In 1941\n\nThis NBER data series a04184 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: a04184"
+}

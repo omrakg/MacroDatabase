@@ -1,7 +1,7 @@
 {
   "id": "WPU1085",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Ammunition, Except for Small Arms",
   "observation_start": "1985-12-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:57:47-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 3
 }

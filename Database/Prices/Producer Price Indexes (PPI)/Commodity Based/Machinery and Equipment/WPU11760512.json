@@ -1,7 +1,7 @@
 {
   "id": "WPU11760512",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Electronic Systems and Equipment, Not Elsewhere Classified",
   "observation_start": "2003-12-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:57:34-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 3
 }

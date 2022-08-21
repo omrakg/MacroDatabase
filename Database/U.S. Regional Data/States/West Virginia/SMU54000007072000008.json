@@ -1,17 +1,17 @@
 {
   "id": "SMU54000007072000008",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Average Hourly Earnings of Production Employees: Leisure and Hospitality: Accommodation and Food Services in West Virginia",
   "observation_start": "2003-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Dollars per Hour",
   "units_short": "$ per Hour",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-23 02:06:26-05",
+  "last_updated": "2022-08-20 02:05:45-05",
   "popularity": 1,
   "group_popularity": 1
 }

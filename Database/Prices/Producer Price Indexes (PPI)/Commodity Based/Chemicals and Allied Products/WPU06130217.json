@@ -1,7 +1,7 @@
 {
   "id": "WPU06130217",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Potassium and Sodium Compounds, Excluding Bleaches",
   "observation_start": "2001-06-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:52:12-05",
-  "popularity": 30,
-  "group_popularity": 30
+  "popularity": 29,
+  "group_popularity": 29
 }

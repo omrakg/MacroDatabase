@@ -1,7 +1,7 @@
 {
   "id": "T6MFFM",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "6-Month Treasury Constant Maturity Minus Federal Funds Rate",
   "observation_start": "1982-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-01 16:01:25-05",
-  "popularity": 10,
-  "group_popularity": 30,
+  "popularity": 11,
+  "group_popularity": 31,
   "notes": "Series is calculated as the spread between 6-Month Treasury Constant Maturity (https://fred.stlouisfed.org/series/GS6M) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/FEDFUNDS)."
 }

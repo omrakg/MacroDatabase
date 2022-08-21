@@ -1,0 +1,18 @@
+{
+  "id": "M0430AUS000NYM267NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Granulated Sugar for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1941-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:50:46-05",
+  "popularity": 3,
+  "group_popularity": 4,
+  "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1890-1941; (2)--Original Data, 1938-1956. 1890-1901 Data Was Computed By Summing Quotations For Thursdays Of A Given Month And Dividing By 4 Or 5 As The Case Might Be. Wherever The Range Is Shown The Mean Price For Each Date In The Month Is Found And This Is Used For Computing The Monthly Average. Quotations Are From Willett & Gray'S \"Statistical Sugar Trade Journal.\" See Willett & Gray For Information Regarding Changes In Import Duty. Source: 1890-1931: Bls Bulletin No. 39, Pp. 336-337 And Following Bulletins; 1932-1941: Monthly Issues Of \"Wholesale Price Bulletin\"\n\nThis NBER data series m04030a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04030a"
+}

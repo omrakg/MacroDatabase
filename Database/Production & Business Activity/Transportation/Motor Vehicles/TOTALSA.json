@@ -1,7 +1,7 @@
 {
   "id": "TOTALSA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Total Vehicle Sales",
   "observation_start": "1976-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-08-05 13:18:02-05",
-  "popularity": 74,
-  "group_popularity": 75
+  "popularity": 75,
+  "group_popularity": 76
 }

@@ -1,7 +1,7 @@
 {
   "id": "CCUSMA02INQ618N",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "National Currency to US Dollar Exchange Rate: Average of Daily Rates for India",
   "observation_start": "1960-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 14:45:09-05",
-  "popularity": 6,
-  "group_popularity": 10,
+  "popularity": 5,
+  "group_popularity": 12,
   "notes": "OECD descriptor ID: CCUSMA02\nOECD unit ID: ST\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

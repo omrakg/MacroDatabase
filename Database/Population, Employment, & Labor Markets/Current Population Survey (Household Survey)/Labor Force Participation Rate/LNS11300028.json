@@ -1,7 +1,7 @@
 {
   "id": "LNS11300028",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Labor Force Participation Rate - 20 Yrs. & over, White Men",
   "observation_start": "1954-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-05 07:44:30-05",
-  "popularity": 25,
-  "group_popularity": 28,
+  "popularity": 24,
+  "group_popularity": 26,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS11300028"
 }

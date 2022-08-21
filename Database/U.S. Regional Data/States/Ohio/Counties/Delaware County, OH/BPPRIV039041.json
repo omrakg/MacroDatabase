@@ -1,7 +1,7 @@
 {
   "id": "BPPRIV039041",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "New Private Housing Structures Authorized by Building Permits for Delaware County, OH",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-03 16:15:25-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more."
 }

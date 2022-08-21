@@ -1,0 +1,18 @@
+{
+  "id": "M04067GBM312NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price Index of Minerals for Great Britain",
+  "observation_start": "1914-03-01",
+  "observation_end": "1935-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1867-1877=100",
+  "units_short": "Index 1867-1877=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:56:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: 1884-1913:\"Journal Of The Royal Statistical Society\", Vol. 56, P.221 And Following Issues; 1914-1935: \"The Statist\", Monthly Issues\n\nThis NBER data series m04067 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04067"
+}

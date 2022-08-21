@@ -1,17 +1,17 @@
 {
   "id": "SMU36105809092161101",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "All Employees: Government: State Government Educational Services in Albany-Schenectady-Troy, NY (MSA)",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-23 02:17:56-05",
+  "last_updated": "2022-08-20 02:21:34-05",
   "popularity": 1,
   "group_popularity": 1
 }

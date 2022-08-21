@@ -1,7 +1,7 @@
 {
   "id": "SCND1819",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Unemployment Rate - Some College, No Degree, 18 to 19 years",
   "observation_start": "2000-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 10:23:04-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The unemployment rate represents the number unemployed as a percent of the labor force.\n\nThe series comes from the 'Current Population Survey (Household Survey)'."
 }

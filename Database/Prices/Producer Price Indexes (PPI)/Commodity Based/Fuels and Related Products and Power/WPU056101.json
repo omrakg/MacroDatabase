@@ -1,7 +1,7 @@
 {
   "id": "WPU056101",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Crude Petroleum (Domestic Production)",
   "observation_start": "1991-07-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:58:07-05",
-  "popularity": 2,
-  "group_popularity": 42
+  "popularity": 1,
+  "group_popularity": 44
 }

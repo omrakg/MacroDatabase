@@ -1,0 +1,18 @@
+{
+  "id": "M04063FRM359NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price Index, Foodstuffs for France",
+  "observation_start": "1913-01-01",
+  "observation_end": "1939-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jul 1914=100",
+  "units_short": "Index Jul 1914=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:16-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Refers To End Of The Month. Source: 1913-1930:\"Indices Generaux Du Mouvement Economique En France A 1901-1931\", Pp. 120-123; 1931-1939: \"Bulletin De La Statistique Generale De La France\".\n\nThis NBER data series m04063 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04063"
+}

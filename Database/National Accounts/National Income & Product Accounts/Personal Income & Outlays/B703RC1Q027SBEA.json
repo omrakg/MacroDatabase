@@ -1,7 +1,7 @@
 {
   "id": "B703RC1Q027SBEA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Personal income receipts on assets: Personal dividend income",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-28 07:53:30-05",
-  "popularity": 4,
+  "popularity": 5,
   "group_popularity": 17,
   "notes": "BEA Account Code: B703RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

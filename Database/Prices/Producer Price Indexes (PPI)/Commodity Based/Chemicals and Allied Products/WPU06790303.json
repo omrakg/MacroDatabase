@@ -1,7 +1,7 @@
 {
   "id": "WPU06790303",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Nitrogen",
   "observation_start": "1981-06-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:52:23-05",
-  "popularity": 19,
-  "group_popularity": 19
+  "popularity": 18,
+  "group_popularity": 18
 }

@@ -1,7 +1,7 @@
 {
   "id": "SMU20486203133640001A",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "All Employees: Durable Goods: Aerospace Product and Parts Manufacturing in Wichita, KS (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 05:39:02-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

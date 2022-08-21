@@ -1,0 +1,17 @@
+{
+  "id": "PCU313210313210XT",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: Broadwoven Fabric Mills: Greige Wool Broadwoven Fabrics",
+  "observation_start": "2001-12-01",
+  "observation_end": "2004-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2001=100",
+  "units_short": "Index Dec 2001=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:46:57-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

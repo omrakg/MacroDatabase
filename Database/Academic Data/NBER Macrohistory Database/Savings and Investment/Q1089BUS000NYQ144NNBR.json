@@ -1,7 +1,7 @@
 {
   "id": "Q1089BUS000NYQ144NNBR",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Excess of Deposits Over Drafts, Savings Banks, Five Banks for New York",
   "observation_start": "1900-01-01",
   "observation_end": "1948-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:18:26-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1880-1923 (2)--Original Data, 1900-1948 (3)--Original Data, 1925-1948. Source: Savings Bank Association Of New York State\n\nThis NBER data series q10089b appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10089b"
 }

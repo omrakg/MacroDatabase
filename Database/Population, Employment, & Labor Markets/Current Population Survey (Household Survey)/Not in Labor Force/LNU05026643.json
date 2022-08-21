@@ -1,7 +1,7 @@
 {
   "id": "LNU05026643",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Not in Labor Force - Want a Job Now, Marginally Attached (Searched for Work in Previous Year, Available to Work Now), Men",
   "observation_start": "1994-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 07:43:34-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU05026643"
 }

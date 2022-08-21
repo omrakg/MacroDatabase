@@ -1,7 +1,7 @@
 {
   "id": "A074RC1Q027SBEA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Federal government current tax receipts: Personal current taxes",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-28 07:54:15-05",
-  "popularity": 22,
-  "group_popularity": 23,
+  "popularity": 21,
+  "group_popularity": 22,
   "notes": "BEA Account Code: A074RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

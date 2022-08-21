@@ -1,7 +1,7 @@
 {
   "id": "DALLCCACBEP",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Credit Cards, All Commercial Banks",
   "observation_start": "1991-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-20 13:19:10-05",
-  "popularity": 18,
-  "group_popularity": 18,
+  "popularity": 21,
+  "group_popularity": 21,
   "notes": "Delinquent loans and leases are those past due thirty days or more and still accruing interest as well as those in nonaccrual status."
 }

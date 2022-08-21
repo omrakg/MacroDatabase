@@ -1,0 +1,17 @@
+{
+  "id": "PCU3212193212193",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: Reconstituted Wood Product Manufacturing: Medium Density Fiberboard (MDF) Made from MDF Produced at the Same Location",
+  "observation_start": "1984-06-01",
+  "observation_end": "2022-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1984=100",
+  "units_short": "Index Jun 1984=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-08-11 09:08:02-05",
+  "popularity": 27,
+  "group_popularity": 27
+}

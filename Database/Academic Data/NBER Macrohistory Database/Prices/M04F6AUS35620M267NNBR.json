@@ -1,0 +1,18 @@
+{
+  "id": "M04F6AUS35620M267NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Lard for New York, NY",
+  "observation_start": "1911-01-01",
+  "observation_end": "1944-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:52:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1911-1944; (2)--Original Data, 1938-1956. Data Is The Average Of Range Of Prices On Tuesday Of Each Week. Source: Bls Bulletins And Monthly Issues Of \"Wholesale Prices\"\n\nThis NBER data series m04026a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04026a"
+}

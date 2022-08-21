@@ -1,7 +1,7 @@
 {
   "id": "PCUOMINOMIN",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Industry: Total Mining Industries",
   "observation_start": "1984-12-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:53:06-05",
-  "popularity": 30,
-  "group_popularity": 30
+  "popularity": 27,
+  "group_popularity": 27
 }

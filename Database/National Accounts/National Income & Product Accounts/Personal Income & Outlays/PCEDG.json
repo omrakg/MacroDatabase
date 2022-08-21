@@ -1,7 +1,7 @@
 {
   "id": "PCEDG",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Personal Consumption Expenditures: Durable Goods",
   "observation_start": "1959-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-29 07:43:16-05",
-  "popularity": 59,
-  "group_popularity": 62,
+  "popularity": 60,
+  "group_popularity": 63,
   "notes": "BEA Account Code: DDURRC\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

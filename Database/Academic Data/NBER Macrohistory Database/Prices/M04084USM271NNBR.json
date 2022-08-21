@@ -1,0 +1,18 @@
+{
+  "id": "M04084USM271NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Bleached Muslin, 4-4, Fruit of the Loom Mills for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1944-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Yard",
+  "units_short": "Cents per Yard",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:50:33-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Reference Title To Series Changes In The Source From Time To Time. The Most Common Citations Are \"Shirtings, Bleached, 4-4, Fruit Of The Loom\" From The Approximate Dates 1890-1920 And \"Muslin, Bleached, 4-4, Fruit Of The Loom\" After 1920. Prices For 1890-1916 Are The First Price In The Month; Prices Quoted For 1917-1944 Are Monthly Average Prices. Source: Bls Bulletin No. 39, Pp. 370-371, Following Bulletins, And Monthly \"Wholesale Price\" Bulletins\n\nThis NBER data series m04084 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04084"
+}

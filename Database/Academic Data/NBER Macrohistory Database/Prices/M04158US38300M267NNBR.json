@@ -1,0 +1,18 @@
+{
+  "id": "M04158US38300M267NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Wholesale Price of Hot-Rolled Strip Steel for Pittsburgh, PA",
+  "observation_start": "1917-11-01",
+  "observation_end": "1940-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:58:40-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Prices Quoted Only For Strips Of Wider Than 6\" Prior To June 1, 1932. Figure For May, 1923 Is Sometimes Misprinted As 2.30. Here It Is Given As 3.30, After Being Checked With Weekly Figures. From May 10, 1939 To May 15, 1939, Reductions Of From $4.00 To $8.00 A Ton Off Base Price Were Prevalent. Although These Concessions Were Withdrawn On May 15, Many Orders Placed At Concessions Ranging From $4.00 To $6.00 Were Later Adjusted To The Maximum $8.00 Reduction From The Base Prices. 1940 Data Were Computed By NBER From Weekly Figures. Source: Iron Age, January 3, 1935, P.269, January 4, 1940, P.172, And Following Issues.\n\nThis NBER data series m04158 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04158"
+}

@@ -1,7 +1,7 @@
 {
   "id": "A460RC1A027NBEA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Net value added of nonfinancial corporate business: Compensation of employees",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-26 07:54:56-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "BEA Account Code: A460RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

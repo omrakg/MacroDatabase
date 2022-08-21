@@ -1,0 +1,18 @@
+{
+  "id": "Q04057FRQ360NNBR",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Index of Wholesale Prices, All Commodities (20 Foods, 25 Raw Materials) for France",
+  "observation_start": "1902-01-01",
+  "observation_end": "1933-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index Jul 1914=100",
+  "units_short": "Index Jul, 1914=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:55:28-05",
+  "popularity": 2,
+  "group_popularity": 3,
+  "notes": "The Quarterly Data Originally Appears On 1901-10=100 Base And Has Here (NBER) Been Converted To The July, 1914=100 Base (To Agree With The Monthly Series Given On The July, 1914 Base) By Dividing The Original Data By 113.2, The Value Of July, 1914 On The 1901-10 Base And Multiplying By 100. The Figure, 113.2, Is Given By De Bernonville In Journal De La Societe De Statistique De Paris, June 1924, P.244. It Will Be Noted That The Quarterly Data As Thus Converted Will Agree With The Quarterly Averages Computed From Monthly Data, Beginning In 1913. For A Description Of The Index, See Journal De Societe De Statistique De Paris, June, 1924, P.234, And The Sources Mentioned In\"Sources\" Above. Monthly Data Are For The End Of The Month. Quarterly Data Are Averages For The Quarter. Figures Are Unweighted Arithmetical Averages. Source: Statistique Generale De La France.\n\nThis NBER data series q04057 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: q04057"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PCU315220315220294",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: Men's and Boys' Cut and Sew Apparel Manufacturing: Men's and Boys' Tailored Overcoats, Topcoats, and Car and Suburban Coats (Including Water-Repellent)",
+  "observation_start": "2002-06-01",
+  "observation_end": "2008-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2002=100",
+  "units_short": "Index Jun 2002=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:45:05-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

@@ -1,7 +1,7 @@
 {
   "id": "A067RL1A156NBEA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Real Disposable Personal Income",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-26 07:52:12-05",
-  "popularity": 16,
-  "group_popularity": 73,
+  "popularity": 13,
+  "group_popularity": 74,
   "notes": "BEA Account Code: A067RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

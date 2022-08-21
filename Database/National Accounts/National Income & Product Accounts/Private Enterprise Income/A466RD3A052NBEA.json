@@ -1,7 +1,7 @@
 {
   "id": "A466RD3A052NBEA",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Profit per unit of real gross value added of nonfinancial corporate business: Corporate profits after tax with IVA and CCAdj (unit profits from current production)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:54-05",
-  "popularity": 4,
-  "group_popularity": 42,
+  "popularity": 5,
+  "group_popularity": 40,
   "notes": "BEA Account Code: A466RD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

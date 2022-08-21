@@ -1,7 +1,7 @@
 {
   "id": "MPU4900193",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Private Business Sector: Contribution of Research and Development (R&D) Intensity",
   "observation_start": "1988-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-25 12:30:06-05",
-  "popularity": 4,
-  "group_popularity": 5,
+  "popularity": 2,
+  "group_popularity": 3,
   "notes": "The portion of labor productivity change attributed to research and development. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU4900193"
 }

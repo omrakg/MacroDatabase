@@ -1,0 +1,17 @@
+{
+  "id": "PCU31223031223091",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: Tobacco Manufacturing: Cigars",
+  "observation_start": "1965-01-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1982=100",
+  "units_short": "Index Dec 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-08-11 07:55:33-05",
+  "popularity": 4,
+  "group_popularity": 4
+}

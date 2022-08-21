@@ -1,0 +1,18 @@
+{
+  "id": "SPPOP1564TOZSBRA",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Population Ages 15 to 64 for Brazil",
+  "observation_start": "1960-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent of Total",
+  "units_short": "% of Total",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-05 14:31:48-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source Indicator: SP.POP.1564.TO.ZS"
+}

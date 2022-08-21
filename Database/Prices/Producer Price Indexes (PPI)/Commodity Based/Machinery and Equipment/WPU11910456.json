@@ -1,7 +1,7 @@
 {
   "id": "WPU11910456",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Oil Field and Gas Field Production Machinery (Except Pumps and Parts Sold Separately)",
   "observation_start": "2003-12-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:51:33-05",
-  "popularity": 11,
-  "group_popularity": 12
+  "popularity": 10,
+  "group_popularity": 11
 }

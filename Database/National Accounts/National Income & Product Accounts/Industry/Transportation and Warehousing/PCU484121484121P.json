@@ -1,0 +1,17 @@
+{
+  "id": "PCU484121484121P",
+  "realtime_start": "2022-08-21",
+  "realtime_end": "2022-08-21",
+  "title": "Producer Price Index by Industry: General Freight Trucking, Long-Distance Truckload: Primary Services",
+  "observation_start": "1992-06-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1992=100",
+  "units_short": "Index Jun 1992=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-08-11 07:54:17-05",
+  "popularity": 8,
+  "group_popularity": 8
+}
