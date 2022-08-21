@@ -1,8 +1,8 @@
 {
   "Latvia": {
     "id": "LVAFCRODUSPENUM",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "Use of Financial Services Borrowers: Small and Medium Enterprises Borrowing from Credit Unions and Financial Cooperatives for Latvia",
     "observation_start": "2014-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLFCRODUSPENUM",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "Use of Financial Services Borrowers: Small and Medium Enterprises Borrowing from Credit Unions and Financial Cooperatives for Chile",
     "observation_start": "2004-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "Colombia": {
     "id": "COLFCRODUSPENUM",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "Use of Financial Services Borrowers: Small and Medium Enterprises Borrowing from Credit Unions and Financial Cooperatives for Colombia",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   },
   "Guinea": {
     "id": "GINFCRODUSPENUM",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "Use of Financial Services Borrowers: Small and Medium Enterprises Borrowing from Credit Unions and Financial Cooperatives for Guinea",
     "observation_start": "2004-01-01",
     "observation_end": "2020-01-01",

@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NIRXDCSAA",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "Real Gross Capital Formation for Saudi Arabia",
     "observation_start": "2010-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NIRXDCARA",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "Real Gross Capital Formation for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Great Britain": {
     "id": "NIRXDCGBA",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
+    "realtime_start": "2022-08-21",
+    "realtime_end": "2022-08-21",
     "title": "Real Gross Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -52,23 +52,5 @@
     "popularity": 1,
     "group_popularity": 1,
     "path": "Database/International Data/Countries/Great Britain"
-  },
-  "India": {
-    "id": "NIRXDCINA",
-    "realtime_start": "2022-08-14",
-    "realtime_end": "2022-08-14",
-    "title": "Real Gross Capital Formation for India",
-    "observation_start": "2005-01-01",
-    "observation_end": "2021-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Domestic Currency",
-    "units_short": "Domestic Currency",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-06-20 07:10:07-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/International Data/Countries/India"
   }
 }
