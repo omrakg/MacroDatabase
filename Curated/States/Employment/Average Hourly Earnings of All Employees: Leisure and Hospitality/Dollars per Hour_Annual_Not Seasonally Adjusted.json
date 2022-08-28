@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000007000000003A",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Average Hourly Earnings of All Employees: Leisure and Hospitality in Wyoming",
     "observation_start": "2007-01-01",
     "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000007000000003A",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Average Hourly Earnings of All Employees: Leisure and Hospitality in Texas",
     "observation_start": "2007-01-01",
     "observation_end": "2021-01-01",

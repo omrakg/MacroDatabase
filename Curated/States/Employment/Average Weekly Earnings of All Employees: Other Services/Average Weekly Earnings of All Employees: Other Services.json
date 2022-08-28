@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000008000000011",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Average Weekly Earnings of All Employees: Other Services in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2022-07-01",
@@ -135,8 +135,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000008000000011A",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Average Weekly Earnings of All Employees: Other Services in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

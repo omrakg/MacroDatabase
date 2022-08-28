@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000004200000030",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Average Weekly Earnings of Production Employees: Retail Trade in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2022-07-01",
@@ -79,8 +79,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000004200000030A",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Average Weekly Earnings of Production Employees: Retail Trade in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",

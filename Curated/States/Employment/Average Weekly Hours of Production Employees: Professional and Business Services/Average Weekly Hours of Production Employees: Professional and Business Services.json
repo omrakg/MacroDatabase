@@ -2,8 +2,8 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000006000000007",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Average Weekly Hours of Production Employees: Professional and Business Services in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2022-07-01",
@@ -22,8 +22,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000006000000007A",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Average Weekly Hours of Production Employees: Professional and Business Services in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",

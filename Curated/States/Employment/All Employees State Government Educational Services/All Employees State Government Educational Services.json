@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000009092161101",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Government: State Government Educational Services in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -58,8 +58,8 @@
     },
     "Utah": {
       "id": "SMU49000009092161101SA",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Government: State Government Educational Services in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-07-01",
@@ -77,8 +77,8 @@
     },
     "Vermont": {
       "id": "SMU50000009092161101SA",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Government: State Government Educational Services in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -96,8 +96,8 @@
     },
     "Washington": {
       "id": "SMU53000009092161101SA",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Government: State Government Educational Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -117,8 +117,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000009092161101SA",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Government: State Government Educational Services in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -174,8 +174,8 @@
     },
     "Utah": {
       "id": "SMU49000009092161101SA",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Government: State Government Educational Services in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-07-01",
@@ -193,8 +193,8 @@
     },
     "Vermont": {
       "id": "SMU50000009092161101SA",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Government: State Government Educational Services in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -212,8 +212,8 @@
     },
     "Washington": {
       "id": "SMU53000009092161101SA",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Government: State Government Educational Services in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",

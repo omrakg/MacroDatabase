@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWCON",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Construction Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWCON",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Construction Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWCON",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Construction Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWCON",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Construction Wages and Salaries in Arizona",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -70,8 +70,8 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-06-22 12:42:05-05",
-    "popularity": 8,
-    "group_popularity": 8,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS.",
     "path": "Database/U.S. Regional Data/States/Arizona"
   },
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEWCON",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Construction Wages and Salaries in Delaware",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",

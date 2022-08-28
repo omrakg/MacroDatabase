@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003232610001",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Manufacturing: Non-Durable Goods: Plastics Product Manufacturing in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2022-07-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003232610001SA",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "All Employees: Manufacturing: Non-Durable Goods: Plastics Product Manufacturing in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2022-07-01",
