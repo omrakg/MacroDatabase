@@ -1,7 +1,7 @@
 | id              | title                                                                                                                                                 | observation_start   | observation_end   |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | A054RC1A027NBEA | Taxes on corporate income, NIPAs                                                                                                                      | 1929-01-01          | 2021-01-01        |
-| A054RC1Q027SBEA | Gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Taxes on corporate income | 1947-01-01          | 2022-01-01        |
+| A054RC1Q027SBEA | Gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Taxes on corporate income | 1947-01-01          | 2022-04-01        |
 | A678RC1A027NBEA | Federal government current tax receipts: Taxes on corporate income: Other (excluding Federal Reserve banks)                                           | 1929-01-01          | 2017-01-01        |
 | A678RC1Q027SBEA | Federal government current tax receipts: Taxes on corporate income: Other (excluding Federal Reserve banks)                                           | 1947-01-01          | 2018-01-01        |
 | A3102C0A144NBEA | Taxes on corporate income: Domestic industries                                                                                                        | 1948-01-01          | 2020-01-01        |
@@ -17,8 +17,8 @@
 | A3152C0A144NBEA | Taxes on corporate income: Domestic industries: Banking                                                                                               | 1929-01-01          | 1947-01-01        |
 | A3161C0A144NBEA | Taxes on corporate income: Domestic industries: Services                                                                                              | 1987-01-01          | 2000-01-01        |
 | A3169C0A144NBEA | Taxes on corporate income: Domestic industries: Health, legal, educational, and other services                                                        | 1987-01-01          | 2000-01-01        |
-| B075RC1Q027SBEA | Federal government current tax receipts: Taxes on corporate income                                                                                    | 1947-01-01          | 2022-01-01        |
-| B102RC1Q027SBEA | State and local government current tax receipts: Taxes on corporate income                                                                            | 1947-01-01          | 2022-01-01        |
+| B075RC1Q027SBEA | Federal government current tax receipts: Taxes on corporate income                                                                                    | 1947-01-01          | 2022-04-01        |
+| B102RC1Q027SBEA | State and local government current tax receipts: Taxes on corporate income                                                                            | 1947-01-01          | 2022-04-01        |
 | B677RC1A027NBEA | Federal government current tax receipts: Taxes on corporate income: Federal Reserve banks                                                             | 1929-01-01          | 2017-01-01        |
 | B677RC1Q027SBEA | Federal government current tax receipts: Taxes on corporate income: Federal Reserve banks                                                             | 1947-01-01          | 2018-01-01        |
 | B3104C0A144NBEA | Taxes on corporate income: Domestic industries: Farms                                                                                                 | 1987-01-01          | 2000-01-01        |
@@ -168,8 +168,8 @@
 | N3191C0A144NBEA | Taxes on corporate income: Domestic industries: Finance and insurance                                                                                 | 1998-01-01          | 2020-01-01        |
 | N3192C0A144NBEA | Taxes on corporate income: Domestic industries: Credit intermediation and related activities                                                          | 1998-01-01          | 2018-01-01        |
 | N3193C0A144NBEA | Taxes on corporate income: Domestic industries: Securities, commodity contracts, and investments                                                      | 1998-01-01          | 2018-01-01        |
-| NA000272Q       | Gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Taxes on corporate income | 2002-01-01          | 2022-01-01        |
-| NA000322Q       | Federal government current tax receipts: Taxes on corporate income                                                                                    | 1947-01-01          | 2022-01-01        |
-| NA000323Q       | State and local government current tax receipts: Taxes on corporate income                                                                            | 1947-01-01          | 2022-01-01        |
+| NA000272Q       | Gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Taxes on corporate income | 2002-01-01          | 2022-04-01        |
+| NA000322Q       | Federal government current tax receipts: Taxes on corporate income                                                                                    | 1947-01-01          | 2022-04-01        |
+| NA000323Q       | State and local government current tax receipts: Taxes on corporate income                                                                            | 1947-01-01          | 2022-04-01        |
 | W739RC1A027NBEA | State government current tax receipts: Taxes on corporate income                                                                                      | 1959-01-01          | 2020-01-01        |
 | W839RC1A027NBEA | Local government current tax receipts: Taxes on corporate income                                                                                      | 1959-01-01          | 2020-01-01        |

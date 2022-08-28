@@ -79,10 +79,10 @@
 | RPPGOOD41860              | Regional Price Parities: Goods for San Francisco-Oakland-Hayward, CA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH41860          | Regional Price Parities: Services: Other for San Francisco-Oakland-Hayward, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT41860         | Regional Price Parities: Services: Rents for San Francisco-Oakland-Hayward, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SANF806BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-06-01        |
-| SANF806BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-06-01        |
-| SANF806BPPRIV             | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-06-01        |
-| SANF806BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-06-01        |
+| SANF806BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-07-01        |
+| SANF806BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Francisco-Oakland-Berkeley, CA (MSA)           | 1988-01-01          | 2022-07-01        |
+| SANF806BPPRIV             | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-07-01        |
+| SANF806BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for San Francisco-Oakland-Berkeley, CA (MSA)                         | 1988-01-01          | 2022-07-01        |
 | SANF806EDUH               | All Employees: Education and Health Services in San Francisco-Oakland-Hayward, CA (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | SANF806EDUHN              | All Employees: Education and Health Services in San Francisco-Oakland-Hayward, CA (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | SANF806FIRE               | All Employees: Financial Activities in San Francisco-Oakland-Hayward, CA (MSA)                                                     | 1990-01-01          | 2022-07-01        |

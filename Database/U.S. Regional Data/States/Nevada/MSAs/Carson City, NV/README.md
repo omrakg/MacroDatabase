@@ -8,10 +8,10 @@
 | AVELISPRIMM16180          | Housing Inventory: Average Listing Price Month-Over-Month in Carson City, NV (CBSA)                   | 2017-07-01          | 2022-07-01        |
 | AVELISPRIYY16180          | Housing Inventory: Average Listing Price Year-Over-Year in Carson City, NV (CBSA)                     | 2017-07-01          | 2022-07-01        |
 | CARPOP                    | Resident Population in Carson City, NV (MSA)                                                          | 2000-01-01          | 2021-01-01        |
-| CARS132BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Carson City, NV (MSA) | 2004-01-01          | 2022-06-01        |
-| CARS132BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Carson City, NV (MSA) | 2004-01-01          | 2022-06-01        |
-| CARS132BPPRIV             | New Private Housing Units Authorized by Building Permits for Carson City, NV (MSA)                    | 2004-01-01          | 2022-06-01        |
-| CARS132BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Carson City, NV (MSA)                    | 2004-01-01          | 2022-06-01        |
+| CARS132BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Carson City, NV (MSA) | 2004-01-01          | 2022-07-01        |
+| CARS132BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Carson City, NV (MSA) | 2004-01-01          | 2022-07-01        |
+| CARS132BPPRIV             | New Private Housing Units Authorized by Building Permits for Carson City, NV (MSA)                    | 2004-01-01          | 2022-07-01        |
+| CARS132BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Carson City, NV (MSA)                    | 2004-01-01          | 2022-07-01        |
 | CARS132GOVT               | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | CARS132GOVTN              | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | CARS132LEIH               | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-07-01        |

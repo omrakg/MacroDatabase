@@ -1,7 +1,7 @@
 | Folder                 |   Files / Folders |
 |------------------------|-------------------|
 | Tipton County, IN      |                90 |
-| Allen County, IN       |                 0 |
+| Allen County, IN       |               147 |
 | Knox County, IN        |                90 |
 | Tippecanoe County, IN  |               147 |
 | Benton County, IN      |                89 |

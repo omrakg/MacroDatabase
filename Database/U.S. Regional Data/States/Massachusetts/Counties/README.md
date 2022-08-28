@@ -8,7 +8,7 @@
 | Dukes County, MA      |                89 |
 | Bristol County, MA    |               146 |
 | Hampden County, MA    |               146 |
-| Nantucket County, MA  |                 0 |
+| Nantucket County, MA  |                89 |
 | Suffolk County, MA    |               146 |
 | Worcester County, MA  |               146 |
 | Berkshire County, MA  |               146 |

@@ -8,4 +8,4 @@
 | Zero Repricing - Maturity Interval               |                 0 |
 | 2 to 30 Days Repricing - Maturity Interval       |                 0 |
 | Discontinued                                     |                34 |
-| Base Rate of Loans                               |                 0 |
+| Base Rate of Loans                               |                 1 |

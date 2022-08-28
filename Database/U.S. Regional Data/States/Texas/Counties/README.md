@@ -37,7 +37,7 @@
 | Lipscomb County, TX      |                88 |
 | Hardeman County, TX      |                89 |
 | Throckmorton County, TX  |                86 |
-| Red River County, TX     |                88 |
+| Red River County, TX     |                 0 |
 | Floyd County, TX         |                89 |
 | Aransas County, TX       |                90 |
 | Bosque County, TX        |                89 |
@@ -67,7 +67,7 @@
 | Dawson County, TX        |                89 |
 | Castro County, TX        |                89 |
 | Hood County, TX          |               146 |
-| Hays County, TX          |                 0 |
+| Hays County, TX          |               147 |
 | Brazos County, TX        |               147 |
 | Brooks County, TX        |                87 |
 | Johnson County, TX       |               147 |
@@ -97,7 +97,7 @@
 | Yoakum County, TX        |                89 |
 | Bell County, TX          |               147 |
 | Coleman County, TX       |                89 |
-| Jim Wells County, TX     |                90 |
+| Jim Wells County, TX     |                 0 |
 | Crosby County, TX        |                87 |
 | Rusk County, TX          |               146 |
 | Howard County, TX        |                90 |
@@ -127,7 +127,7 @@
 | Potter County, TX        |               147 |
 | Franklin County, TX      |                88 |
 | Palo Pinto County, TX    |                90 |
-| Eastland County, TX      |                 0 |
+| Eastland County, TX      |                88 |
 | Baylor County, TX        |                87 |
 | Comal County, TX         |               147 |
 | Moore County, TX         |                90 |
@@ -157,7 +157,7 @@
 | Taylor County, TX        |               147 |
 | Shackelford County, TX   |                88 |
 | Lee County, TX           |                90 |
-| McMullen County, TX      |                85 |
+| McMullen County, TX      |                 0 |
 | Frio County, TX          |                88 |
 | Childress County, TX     |                87 |
 | Gonzales County, TX      |                90 |
@@ -187,7 +187,7 @@
 | Kerr County, TX          |               146 |
 | Cottle County, TX        |                87 |
 | Dallas County, TX        |               147 |
-| Anderson County, TX      |                 0 |
+| Anderson County, TX      |                90 |
 | Tyler County, TX         |                89 |
 | Tarrant County, TX       |               147 |
 | Bee County, TX           |                90 |
@@ -217,7 +217,7 @@
 | Wilbarger County, TX     |                90 |
 | Delta County, TX         |                89 |
 | Montgomery County, TX    |               147 |
-| La Salle County, TX      |                88 |
+| La Salle County, TX      |                 0 |
 | Rains County, TX         |                89 |
 | Terry County, TX         |                90 |
 | McCulloch County, TX     |                88 |
@@ -247,7 +247,7 @@
 | Medina County, TX        |                90 |
 | Sherman County, TX       |                87 |
 | Foard County, TX         |                87 |
-| Zavala County, TX        |                 0 |
+| Zavala County, TX        |                87 |
 | Milam County, TX         |                90 |
 | Reagan County, TX        |                88 |
 | Washington County, TX    |                90 |

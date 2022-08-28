@@ -10,7 +10,7 @@
 | Franklin County, VT   |               146 |
 | Orange County, VT     |                90 |
 | Essex County, VT      |                89 |
-| Windsor County, VT    |                 0 |
+| Windsor County, VT    |               146 |
 | Lamoille County, VT   |                90 |
 | Windham County, VT    |                90 |
 | Chittenden County, VT |               147 |

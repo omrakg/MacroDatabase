@@ -138,10 +138,10 @@
 | SMU48455009093000001A     | All Employees: Local Government in Texarkana, TX-AR (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48455009093000001SA    | All Employees: Government: Local Government in Texarkana, TX-AR (MSA)                                             | 1990-01-01          | 2022-07-01        |
 | SUSCMSA45500              | Market Hotness: Supply Score in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
-| TEXBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Texarkana, TX-AR (MSA)            | 1988-01-01          | 2022-06-01        |
-| TEXBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Texarkana, TX-AR (MSA)            | 1988-01-01          | 2022-06-01        |
-| TEXBPPRIV                 | New Private Housing Structures Authorized by Building Permits for Texarkana, TX-AR (MSA)                          | 1988-01-01          | 2022-06-01        |
-| TEXBPPRIVSA               | New Private Housing Structures Authorized by Building Permits for Texarkana, TX-AR (MSA)                          | 1988-01-01          | 2022-06-01        |
+| TEXBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Texarkana, TX-AR (MSA)            | 1988-01-01          | 2022-07-01        |
+| TEXBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Texarkana, TX-AR (MSA)            | 1988-01-01          | 2022-07-01        |
+| TEXBPPRIV                 | New Private Housing Structures Authorized by Building Permits for Texarkana, TX-AR (MSA)                          | 1988-01-01          | 2022-07-01        |
+| TEXBPPRIVSA               | New Private Housing Structures Authorized by Building Permits for Texarkana, TX-AR (MSA)                          | 1988-01-01          | 2022-07-01        |
 | TEXEDUHN                  | All Employees: Education and Health Services in Texarkana, TX-AR (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | TEXFIREN                  | All Employees: Financial Activities in Texarkana, TX-AR (MSA)                                                     | 1990-01-01          | 2022-07-01        |
 | TEXGOVTN                  | All Employees: Government in Texarkana, TX-AR (MSA)                                                               | 1990-01-01          | 2022-07-01        |

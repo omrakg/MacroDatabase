@@ -12,13 +12,13 @@
 | Union County, OR      |                90 |
 | Linn County, OR       |               147 |
 | Marion County, OR     |               147 |
-| Multnomah County, OR  |                 0 |
+| Multnomah County, OR  |               147 |
 | Baker County, OR      |                90 |
 | Hood River County, OR |                90 |
 | Benton County, OR     |               147 |
 | Coos County, OR       |               146 |
 | Deschutes County, OR  |               147 |
-| Columbia County, OR   |               146 |
+| Columbia County, OR   |                 0 |
 | Lane County, OR       |               147 |
 | Curry County, OR      |                90 |
 | Klamath County, OR    |               147 |

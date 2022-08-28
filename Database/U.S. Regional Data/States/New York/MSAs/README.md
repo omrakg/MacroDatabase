@@ -11,4 +11,4 @@
 | Albany-Schenectady-Troy, NY           |               207 |
 | New York-Newark-Jersey City, NY-NJ-PA |                 0 |
 | Kingston, NY                          |               161 |
-| Utica-Rome, NY                        |                 0 |
+| Utica-Rome, NY                        |               164 |

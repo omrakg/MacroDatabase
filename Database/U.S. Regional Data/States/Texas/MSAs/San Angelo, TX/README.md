@@ -60,10 +60,10 @@
 | RPPGOOD41660              | Regional Price Parities: Goods for San Angelo, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH41660          | Regional Price Parities: Services: Other for San Angelo, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT41660         | Regional Price Parities: Services: Rents for San Angelo, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SANA648BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Angelo, TX (MSA)            | 1988-01-01          | 2022-06-01        |
-| SANA648BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Angelo, TX (MSA)            | 1988-01-01          | 2022-06-01        |
-| SANA648BPPRIV             | New Private Housing Units Authorized by Building Permits for San Angelo, TX (MSA)                               | 1988-01-01          | 2022-06-01        |
-| SANA648BPPRIVSA           | New Private Housing Units Authorized by Building Permits for San Angelo, TX (MSA)                               | 1988-01-01          | 2022-06-01        |
+| SANA648BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Angelo, TX (MSA)            | 1988-01-01          | 2022-07-01        |
+| SANA648BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for San Angelo, TX (MSA)            | 1988-01-01          | 2022-07-01        |
+| SANA648BPPRIV             | New Private Housing Units Authorized by Building Permits for San Angelo, TX (MSA)                               | 1988-01-01          | 2022-07-01        |
+| SANA648BPPRIVSA           | New Private Housing Units Authorized by Building Permits for San Angelo, TX (MSA)                               | 1988-01-01          | 2022-07-01        |
 | SANA648EDUH               | All Employees: Education and Health Services in San Angelo, TX (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | SANA648EDUHN              | All Employees: Education and Health Services in San Angelo, TX (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | SANA648FIRE               | All Employees: Financial Activities in San Angelo, TX (MSA)                                                     | 1990-01-01          | 2022-07-01        |

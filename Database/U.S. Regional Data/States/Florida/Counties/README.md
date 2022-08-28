@@ -62,7 +62,7 @@
 | Monroe County, FL       |               147 |
 | Sumter County, FL       |               147 |
 | Seminole County, FL     |               147 |
-| Wakulla County, FL      |                 0 |
+| Wakulla County, FL      |                89 |
 | Nassau County, FL       |               147 |
 | Manatee County, FL      |               147 |
 | Indian River County, FL |               147 |

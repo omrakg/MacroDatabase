@@ -17,7 +17,7 @@
 | Santa Rosa-Petaluma, CA              |               221 |
 | Santa Maria-Santa Barbara, CA        |               175 |
 | Salinas, CA                          |               196 |
-| Chico, CA                            |               173 |
+| Chico, CA                            |                 0 |
 | Yuba City, CA                        |               164 |
 | San Jose-Sunnyvale-Santa Clara, CA   |               331 |
 | Madera, CA                           |               150 |

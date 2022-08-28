@@ -48,8 +48,8 @@
 | BFSBF8QTOTALSATX          | Spliced Business Formations Within Eight Quarters: Total for All NAICS in Texas                                                          | 2004-07-01          | 2022-07-01        |
 | BR48000TXA647NCEN         | SNAP Benefits Recipients in Texas                                                                                                        | 1989-01-01          | 2019-01-01        |
 | BRTX48M647NCEN            | SNAP Benefits Recipients in Texas                                                                                                        | 1981-01-01          | 2020-06-01        |
-| BUSAPPWNSATX              | Business Applications for Texas                                                                                                          | 2006-01-07          | 2022-08-13        |
-| BUSAPPWNSATXYY            | Business Applications for Texas                                                                                                          | 2007-01-06          | 2022-08-13        |
+| BUSAPPWNSATX              | Business Applications for Texas                                                                                                          | 2006-01-07          | 2022-08-20        |
+| BUSAPPWNSATXYY            | Business Applications for Texas                                                                                                          | 2007-01-06          | 2022-08-20        |
 | CAPUDSAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUDUAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUISAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Increases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
@@ -58,8 +58,8 @@
 | CAPUNUAMFRBDAL            | Current Capacity Utilization; Percentage Reporting No Change for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUSAMFRBDAL             | Current Capacity Utilization; Diffusion Index for Texas                                                                                  | 2004-06-01          | 2022-05-01        |
 | CAPUUAMFRBDAL             | Current Capacity Utilization; Diffusion Index for Texas                                                                                  | 2004-06-01          | 2022-05-01        |
-| CBUSAPPWNSATX             | Business Applications from Corporations for Texas                                                                                        | 2006-01-07          | 2022-08-13        |
-| CBUSAPPWNSATXYY           | Business Applications from Corporations for Texas                                                                                        | 2007-01-06          | 2022-08-13        |
+| CBUSAPPWNSATX             | Business Applications from Corporations for Texas                                                                                        | 2006-01-07          | 2022-08-20        |
+| CBUSAPPWNSATXYY           | Business Applications from Corporations for Texas                                                                                        | 2007-01-06          | 2022-08-20        |
 | CEXPDSAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CEXPDUAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CEXPISAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Increases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
@@ -320,8 +320,8 @@
 | GRONUAMFRBDAL             | Current Growth Rate of Orders; Percentage Reporting No Change for Texas                                                                  | 2004-06-01          | 2022-05-01        |
 | GROSAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                                 | 2004-06-01          | 2022-05-01        |
 | GROUAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                                 | 2004-06-01          | 2022-05-01        |
-| HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                          | 2006-01-07          | 2022-08-13        |
-| HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                          | 2007-01-06          | 2022-08-13        |
+| HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                          | 2006-01-07          | 2022-08-20        |
+| HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                          | 2007-01-06          | 2022-08-20        |
 | IHLCHGUSTX                | Job Postings on Indeed in Texas                                                                                                          | 2020-02-01          | 2022-07-29        |
 | IMPMANTX                  | Imports of Goods: Manufactured Commodities for Texas                                                                                     | 2008-01-01          | 2022-06-01        |
 | IMPNONTX                  | Imports of Goods: Non-Manufactured Commodities for Texas                                                                                 | 2008-01-01          | 2022-06-01        |
@@ -434,7 +434,7 @@
 | PENLISCOUTX               | Housing Inventory: Pending Listing Count in Texas                                                                                        | 2016-07-01          | 2022-07-01        |
 | PENLISCOUYYTX             | Housing Inventory: Pending Listing Count Year-Over-Year in Texas                                                                         | 2017-07-01          | 2022-07-01        |
 | PEU18TX48000A647NCEN      | Estimate of People Age 0-17 in Poverty in Texas                                                                                          | 1989-01-01          | 2020-01-01        |
-| PEUCCCTX                  | Pandemic Emergency Unemployment Compensation Continued Claims in Texas                                                                   | 2020-03-28          | 2022-07-23        |
+| PEUCCCTX                  | Pandemic Emergency Unemployment Compensation Continued Claims in Texas                                                                   | 2020-03-28          | 2022-07-30        |
 | PEXMTX48A647NCEN          | Poverty Tax Exemptions for Texas                                                                                                         | 1989-01-01          | 2019-01-01        |
 | PFGDSAMFRBDAL             | Current Prices Received for Finished Goods; Percentage Reporting Decreases for Texas                                                     | 2004-06-01          | 2022-05-01        |
 | PFGDUAMFRBDAL             | Current Prices Received for Finished Goods; Percentage Reporting Decreases for Texas                                                     | 2004-06-01          | 2022-05-01        |
@@ -483,8 +483,8 @@
 | PUA0T17TX48000A647NCEN    | Poverty Universe, Age 0-17 for Texas                                                                                                     | 1998-01-01          | 2020-01-01        |
 | PUA5T17RTX48000A647NCEN   | Poverty Universe, Age 5-17 related for Texas                                                                                             | 1998-01-01          | 2020-01-01        |
 | PUAATX48000A647NCEN       | Poverty Universe, All Ages for Texas                                                                                                     | 1998-01-01          | 2020-01-01        |
-| PUACCTX                   | Pandemic Unemployment Assistance Continued Claims in Texas                                                                               | 2020-03-28          | 2022-07-23        |
-| PUAICTX                   | Pandemic Unemployment Assistance Initial Claims in Texas                                                                                 | 2020-04-04          | 2022-08-06        |
+| PUACCTX                   | Pandemic Unemployment Assistance Continued Claims in Texas                                                                               | 2020-03-28          | 2022-07-30        |
+| PUAICTX                   | Pandemic Unemployment Assistance Initial Claims in Texas                                                                                 | 2020-04-04          | 2022-08-13        |
 | QTAXT01QTAXCAT3TXNO       | State Tax Collections: T01 Property Taxes for Texas                                                                                      | 1994-01-01          | 2010-10-01        |
 | QTAXT09QTAXCAT3TXNO       | State Tax Collections: T09 General Sales and Gross Receipts Taxes for Texas                                                              | 1994-01-01          | 2022-01-01        |
 | QTAXT10QTAXCAT3TXNO       | State Tax Collections: T10 Alcoholic Beverages Sales Tax for Texas                                                                       | 1994-01-01          | 2022-01-01        |

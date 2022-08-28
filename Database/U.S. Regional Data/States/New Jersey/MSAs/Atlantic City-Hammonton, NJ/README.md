@@ -4,10 +4,10 @@
 | ACTLISCOUMM12100          | Housing Inventory: Active Listing Count Month-Over-Month in Atlantic City-Hammonton, NJ (CBSA)                               | 2017-07-01          | 2022-07-01        |
 | ACTLISCOUYY12100          | Housing Inventory: Active Listing Count Year-Over-Year in Atlantic City-Hammonton, NJ (CBSA)                                 | 2017-07-01          | 2022-07-01        |
 | ACTPOP                    | Resident Population in Atlantic City-Hammonton, NJ (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ATLA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-06-01        |
-| ATLA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-06-01        |
-| ATLA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Atlantic City-Hammonton, NJ (MSA)                               | 1988-01-01          | 2022-06-01        |
-| ATLA134BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Atlantic City-Hammonton, NJ (MSA)                               | 1988-01-01          | 2022-06-01        |
+| ATLA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-07-01        |
+| ATLA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Atlantic City-Hammonton, NJ (MSA)            | 1988-01-01          | 2022-07-01        |
+| ATLA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Atlantic City-Hammonton, NJ (MSA)                               | 1988-01-01          | 2022-07-01        |
+| ATLA134BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Atlantic City-Hammonton, NJ (MSA)                               | 1988-01-01          | 2022-07-01        |
 | ATLA134EDUH               | All Employees: Education and Health Services in Atlantic City-Hammonton, NJ (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | ATLA134EDUHN              | All Employees: Education and Health Services in Atlantic City-Hammonton, NJ (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | ATLA134FIRE               | All Employees: Financial Activities in Atlantic City-Hammonton, NJ (MSA)                                                     | 1990-01-01          | 2022-07-01        |

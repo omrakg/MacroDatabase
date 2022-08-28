@@ -8,7 +8,7 @@
 | Elko County, NV       |               145 |
 | Washoe County, NV     |               147 |
 | Mineral County, NV    |                88 |
-| Lincoln County, NV    |                88 |
+| Lincoln County, NV    |                 0 |
 | Humboldt County, NV   |                90 |
 | Nye County, NV        |                89 |
 | Carson City, NV       |                 0 |

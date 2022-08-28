@@ -4,7 +4,7 @@
 | Lebanon, PA                                 |               134 |
 | Gettysburg, PA                              |                77 |
 | Bloomsburg-Berwick, PA                      |                80 |
-| Altoona, PA                                 |                 0 |
+| Altoona, PA                                 |               135 |
 | State College, PA                           |               140 |
 | Williamsport, PA                            |               117 |
 | York-Hanover, PA                            |               167 |

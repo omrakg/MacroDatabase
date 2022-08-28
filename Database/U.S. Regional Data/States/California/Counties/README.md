@@ -14,7 +14,7 @@
 | Mono County, CA                 |                90 |
 | Santa Barbara County, CA        |               147 |
 | Monterey County, CA             |               147 |
-| San Bernardino County, CA       |               146 |
+| San Bernardino County, CA       |                 0 |
 | Yuba County, CA                 |               147 |
 | Mendocino County, CA            |               147 |
 | Tehama County, CA               |               146 |
@@ -57,4 +57,4 @@
 | Inyo County, CA                 |                90 |
 | Trinity County, CA              |                89 |
 | Siskiyou County, CA             |                90 |
-| Solano County, CA               |                 0 |
+| Solano County, CA               |               147 |

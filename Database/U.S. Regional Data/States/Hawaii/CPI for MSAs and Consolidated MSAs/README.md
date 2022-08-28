@@ -1,3 +1,3 @@
 | Folder             |   Files / Folders |
 |--------------------|-------------------|
-| Honolulu, HI (MSA) |                 0 |
+| Honolulu, HI (MSA) |                56 |

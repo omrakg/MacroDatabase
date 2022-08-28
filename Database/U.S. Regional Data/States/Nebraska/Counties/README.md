@@ -32,7 +32,7 @@
 | McPherson County, NE    |                83 |
 | Antelope County, NE     |                90 |
 | Saunders County, NE     |                90 |
-| Dawes County, NE        |                 0 |
+| Dawes County, NE        |                88 |
 | Sioux County, NE        |                86 |
 | Sherman County, NE      |                88 |
 | Brown County, NE        |                88 |
@@ -41,7 +41,7 @@
 | Morrill County, NE      |                88 |
 | Richardson County, NE   |                88 |
 | Greeley County, NE      |                86 |
-| Knox County, NE         |                89 |
+| Knox County, NE         |                 0 |
 | Cheyenne County, NE     |                89 |
 | Stanton County, NE      |                88 |
 | Platte County, NE       |                90 |

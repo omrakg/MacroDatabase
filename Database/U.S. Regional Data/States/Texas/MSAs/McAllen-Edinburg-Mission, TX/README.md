@@ -55,10 +55,10 @@
 | MCAINFOA175MCFRBDAL       | Change in Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                               | 1990-02-01          | 2022-07-01        |
 | MCAINFOA175MFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | MCAINFOA674AFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1991-01-01          | 2021-01-01        |
-| MCAL548BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-06-01        |
-| MCAL548BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-06-01        |
-| MCAL548BPPRIV             | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-06-01        |
-| MCAL548BPPRIVSA           | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-06-01        |
+| MCAL548BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-07-01        |
+| MCAL548BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-07-01        |
+| MCAL548BPPRIV             | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-07-01        |
+| MCAL548BPPRIVSA           | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-07-01        |
 | MCAL548EDUH               | All Employees: Education and Health Services in McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | MCAL548EDUHN              | All Employees: Education and Health Services in McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | MCAL548FIRE               | All Employees: Financial Activities in McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2022-07-01        |

@@ -18,14 +18,14 @@
 | Jackson County, GA       |               146 |
 | Screven County, GA       |                89 |
 | Mitchell County, GA      |                90 |
-| Carroll County, GA       |                 0 |
+| Carroll County, GA       |               147 |
 | Clinch County, GA        |                87 |
 | Gwinnett County, GA      |               147 |
 | Telfair County, GA       |                88 |
 | Irwin County, GA         |                90 |
 | Pulaski County, GA       |                89 |
 | Turner County, GA        |                90 |
-| Lee County, GA           |                90 |
+| Lee County, GA           |                 0 |
 | Jasper County, GA        |                90 |
 | Douglas County, GA       |               147 |
 | Whitfield County, GA     |               147 |
@@ -134,13 +134,13 @@
 | Gilmer County, GA        |                90 |
 | Madison County, GA       |                90 |
 | Lanier County, GA        |                88 |
-| Richmond County, GA      |                 0 |
+| Richmond County, GA      |               146 |
 | Harris County, GA        |                90 |
 | Decatur County, GA       |                89 |
 | Schley County, GA        |                88 |
 | Taliaferro County, GA    |                87 |
 | Ben Hill County, GA      |                90 |
-| Burke County, GA         |                90 |
+| Burke County, GA         |                 0 |
 | Houston County, GA       |               147 |
 | Putnam County, GA        |                90 |
 | Catoosa County, GA       |               146 |

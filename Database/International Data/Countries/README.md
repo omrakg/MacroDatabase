@@ -118,7 +118,7 @@
 | Colombia                                             |               919 |
 | Nicaragua                                            |               235 |
 | Hungary                                              |               864 |
-| Burundi                                              |               282 |
+| Burundi                                              |                 0 |
 | Saint Lucia                                          |               170 |
 | Cuba                                                 |               102 |
 | Egypt                                                |               249 |
@@ -144,7 +144,7 @@
 | Svalbard and Jan Mayen                               |                43 |
 | San Marino                                           |               148 |
 | Northern Mariana Islands                             |                 6 |
-| Bhutan                                               |                 0 |
+| Bhutan                                               |               153 |
 | Ukraine                                              |               357 |
 | Zimbabwe                                             |               288 |
 | Zambia                                               |               314 |
@@ -184,7 +184,7 @@
 | Botswana                                             |               293 |
 | Barbados                                             |               215 |
 | Togo                                                 |               226 |
-| Great Britain                                        |                61 |
+| Great Britain                                        |                 0 |
 | Gibraltar                                            |                85 |
 | Iceland                                              |               833 |
 | Liechtenstein                                        |               102 |
@@ -204,7 +204,7 @@
 | Mauritania                                           |               192 |
 | Niue                                                 |                39 |
 | Territorial collectivity of Saint Barthelemy         |                 0 |
-| Tuvalu                                               |                 0 |
+| Tuvalu                                               |                47 |
 | Armenia                                              |               242 |
 | Brazil                                               |                 0 |
 | South Sudan                                          |               137 |

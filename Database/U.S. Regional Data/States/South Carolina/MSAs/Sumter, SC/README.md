@@ -92,10 +92,10 @@
 | SMU45449409093000001A     | All Employees: Local Government in Sumter, SC (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU45449409093000001SA    | All Employees: Government: Local Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-07-01        |
 | SUMPOP                    | Resident Population in Sumter, SC (MSA)                                                          | 2000-01-01          | 2021-01-01        |
-| SUMT945BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sumter, SC (MSA) | 1993-01-01          | 2022-06-01        |
-| SUMT945BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sumter, SC (MSA) | 1993-01-01          | 2022-06-01        |
-| SUMT945BPPRIV             | New Private Housing Units Authorized by Building Permits for Sumter, SC (MSA)                    | 1993-01-01          | 2022-06-01        |
-| SUMT945BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Sumter, SC (MSA)                    | 1993-01-01          | 2022-06-01        |
+| SUMT945BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sumter, SC (MSA) | 1993-01-01          | 2022-07-01        |
+| SUMT945BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sumter, SC (MSA) | 1993-01-01          | 2022-07-01        |
+| SUMT945BPPRIV             | New Private Housing Units Authorized by Building Permits for Sumter, SC (MSA)                    | 1993-01-01          | 2022-07-01        |
+| SUMT945BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Sumter, SC (MSA)                    | 1993-01-01          | 2022-07-01        |
 | SUMT945GOVT               | All Employees: Government in Sumter, SC (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | SUMT945GOVTN              | All Employees: Government in Sumter, SC (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | SUMT945LF                 | Civilian Labor Force in Sumter, SC (MSA)                                                         | 1990-01-01          | 2022-06-01        |

@@ -8,10 +8,10 @@
 | AVELISPRIMM17820          | Housing Inventory: Average Listing Price Month-Over-Month in Colorado Springs, CO (CBSA)                                          | 2017-07-01          | 2022-07-01        |
 | AVELISPRIYY17820          | Housing Inventory: Average Listing Price Year-Over-Year in Colorado Springs, CO (CBSA)                                            | 2017-07-01          | 2022-07-01        |
 | CLRPOP                    | Resident Population in Colorado Springs, CO (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
-| COLO808BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-06-01        |
-| COLO808BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-06-01        |
-| COLO808BPPRIV             | New Private Housing Units Authorized by Building Permits for Colorado Springs, CO (MSA)                                           | 1988-01-01          | 2022-06-01        |
-| COLO808BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Colorado Springs, CO (MSA)                                           | 1988-01-01          | 2022-06-01        |
+| COLO808BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-07-01        |
+| COLO808BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado Springs, CO (MSA)                        | 1988-01-01          | 2022-07-01        |
+| COLO808BPPRIV             | New Private Housing Units Authorized by Building Permits for Colorado Springs, CO (MSA)                                           | 1988-01-01          | 2022-07-01        |
+| COLO808BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Colorado Springs, CO (MSA)                                           | 1988-01-01          | 2022-07-01        |
 | COLO808EDUH               | All Employees: Education and Health Services in Colorado Springs, CO (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | COLO808EDUHN              | All Employees: Education and Health Services in Colorado Springs, CO (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | COLO808FIRE               | All Employees: Financial Activities in Colorado Springs, CO (MSA)                                                                 | 1990-01-01          | 2022-07-01        |

@@ -61,7 +61,7 @@
 | Cumberland County, PA          |               147 |
 | Lancaster County, PA           |               146 |
 | Fulton County, PA              |                88 |
-| Montour County, PA             |                89 |
+| Montour County, PA             |                 0 |
 | Northumberland County, PA      |               146 |
 | Clinton County, PA             |                89 |
 | Forest County, PA              |                88 |

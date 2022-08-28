@@ -32,5 +32,5 @@
 | Ireland        |                 1 |
 | South Korea    |                 5 |
 | Italy          |               795 |
-| Austria        |               816 |
+| Austria        |                 0 |
 | Portugal       |               829 |

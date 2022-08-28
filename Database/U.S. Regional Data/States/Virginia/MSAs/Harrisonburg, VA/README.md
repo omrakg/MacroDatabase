@@ -15,10 +15,10 @@
 | ENUC255040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2021-10-01        |
 | ENUC255040510             | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2021-10-01        |
 | ENUC255040510SA           | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| HARR551BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-06-01        |
-| HARR551BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-06-01        |
-| HARR551BPPRIV             | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-06-01        |
-| HARR551BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-06-01        |
+| HARR551BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-07-01        |
+| HARR551BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-07-01        |
+| HARR551BPPRIV             | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-07-01        |
+| HARR551BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-07-01        |
 | HARR551GOVT               | All Employees: Government in Harrisonburg, VA (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | HARR551GOVTN              | All Employees: Government in Harrisonburg, VA (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | HARR551LF                 | Civilian Labor Force in Harrisonburg, VA (MSA)                                                         | 1990-01-01          | 2022-06-01        |

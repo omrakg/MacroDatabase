@@ -12,13 +12,13 @@
 | Blaine County, MT          |                88 |
 | Sweet Grass County, MT     |                90 |
 | Richland County, MT        |                89 |
-| Meagher County, MT         |                 0 |
+| Meagher County, MT         |                87 |
 | Treasure County, MT        |                85 |
 | Fallon County, MT          |                88 |
 | Mineral County, MT         |                89 |
 | Teton County, MT           |                89 |
 | Chouteau County, MT        |                89 |
-| Cascade County, MT         |               147 |
+| Cascade County, MT         |                 0 |
 | Judith Basin County, MT    |                86 |
 | Petroleum County, MT       |                82 |
 | Sanders County, MT         |                90 |

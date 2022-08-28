@@ -12,7 +12,7 @@
 | Boundary County, ID   |                89 |
 | Gem County, ID        |                90 |
 | Custer County, ID     |                89 |
-| Washington County, ID |                90 |
+| Washington County, ID |                 0 |
 | Lincoln County, ID    |                89 |
 | Bannock County, ID    |               147 |
 | Nez Perce County, ID  |                90 |

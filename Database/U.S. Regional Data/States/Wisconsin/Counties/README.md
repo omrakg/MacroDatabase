@@ -15,7 +15,7 @@
 | Ashland County, WI                      |                90 |
 | Rusk County, WI                         |                90 |
 | Washburn County, WI                     |                89 |
-| Florence County, WI                     |                 0 |
+| Florence County, WI                     |                89 |
 | Racine County, WI                       |               147 |
 | La Crosse County, WI                    |               147 |
 | Barron County, WI                       |                90 |
@@ -58,7 +58,7 @@
 | Rock County, WI                         |               147 |
 | Winnebago County, WI                    |               147 |
 | St. Croix County, WI                    |               147 |
-| Burnett County, WI                      |                90 |
+| Burnett County, WI                      |                 0 |
 | Waushara County, WI                     |                90 |
 | Sheboygan County, WI                    |               147 |
 | Pepin County, WI                        |                89 |

@@ -40,8 +40,8 @@
 | Spartanburg County, SC  |               147 |
 | Lexington County, SC    |               147 |
 | Edgefield County, SC    |                90 |
-| Abbeville County, SC    |                 0 |
-| Charleston County, SC   |               147 |
+| Abbeville County, SC    |                90 |
+| Charleston County, SC   |                 0 |
 | Florence County, SC     |               147 |
 | Berkeley County, SC     |               147 |
 | Richland County, SC     |               146 |

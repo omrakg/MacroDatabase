@@ -30,7 +30,7 @@
 | Perry County, IL       |                90 |
 | Saline County, IL      |                90 |
 | Henry County, IL       |               143 |
-| Morgan County, IL      |                90 |
+| Morgan County, IL      |                 0 |
 | Livingston County, IL  |                90 |
 | Vermilion County, IL   |               147 |
 | McLean County, IL      |               147 |
@@ -94,7 +94,7 @@
 | Hancock County, IL     |                90 |
 | De Kalb County, IL     |               147 |
 | Greene County, IL      |                90 |
-| Schuyler County, IL    |                 0 |
+| Schuyler County, IL    |                90 |
 | Macon County, IL       |               147 |
 | Wayne County, IL       |                89 |
 | Lee County, IL         |                90 |

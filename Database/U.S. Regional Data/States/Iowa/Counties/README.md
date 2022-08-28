@@ -13,7 +13,7 @@
 | Adair County, IA         |                90 |
 | Clay County, IA          |                90 |
 | Clayton County, IA       |                90 |
-| Butler County, IA        |                 0 |
+| Butler County, IA        |                90 |
 | Linn County, IA          |               147 |
 | Dubuque County, IA       |               147 |
 | Hancock County, IA       |                90 |
@@ -59,7 +59,7 @@
 | Jackson County, IA       |                89 |
 | Wright County, IA        |                90 |
 | Allamakee County, IA     |                90 |
-| Kossuth County, IA       |                90 |
+| Kossuth County, IA       |                 0 |
 | Calhoun County, IA       |                90 |
 | Louisa County, IA        |                90 |
 | Crawford County, IA      |                90 |

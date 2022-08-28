@@ -11,7 +11,7 @@
 | Pocahontas County, WV |                87 |
 | Logan County, WV      |                90 |
 | Ritchie County, WV    |                89 |
-| Mineral County, WV    |                89 |
+| Mineral County, WV    |                 0 |
 | Jefferson County, WV  |               146 |
 | Calhoun County, WV    |                87 |
 | McDowell County, WV   |                89 |
@@ -36,7 +36,7 @@
 | Monongalia County, WV |               147 |
 | Roane County, WV      |                89 |
 | Greenbrier County, WV |                89 |
-| Webster County, WV    |                 0 |
+| Webster County, WV    |                87 |
 | Wyoming County, WV    |                89 |
 | Marion County, WV     |               146 |
 | Clay County, WV       |                88 |

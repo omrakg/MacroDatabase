@@ -1,6 +1,6 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Calhoun County, AR      |                 0 |
+| Calhoun County, AR      |                89 |
 | Craighead County, AR    |               147 |
 | Phillips County, AR     |                88 |
 | Lincoln County, AR      |                87 |
@@ -20,7 +20,7 @@
 | Lonoke County, AR       |               147 |
 | Woodruff County, AR     |                88 |
 | Polk County, AR         |                90 |
-| Clark County, AR        |                90 |
+| Clark County, AR        |                 0 |
 | Stone County, AR        |                89 |
 | Prairie County, AR      |                89 |
 | Crittenden County, AR   |               146 |
@@ -60,7 +60,7 @@
 | Ouachita County, AR     |                90 |
 | Montgomery County, AR   |                87 |
 | Chicot County, AR       |                90 |
-| Grant County, AR        |                 0 |
+| Grant County, AR        |                90 |
 | Lafayette County, AR    |                88 |
 | Howard County, AR       |                89 |
 | Conway County, AR       |                90 |

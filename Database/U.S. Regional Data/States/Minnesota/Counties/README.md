@@ -3,7 +3,7 @@
 | Hennepin County, MN          |               147 |
 | Waseca County, MN            |                90 |
 | Meeker County, MN            |                90 |
-| Benton County, MN            |                 0 |
+| Benton County, MN            |                90 |
 | Itasca County, MN            |                90 |
 | Red Lake County, MN          |                88 |
 | Polk County, MN              |                89 |
@@ -48,7 +48,7 @@
 | Cook County, MN              |                90 |
 | Olmsted County, MN           |               147 |
 | Lake County, MN              |                89 |
-| Morrison County, MN          |                90 |
+| Morrison County, MN          |                 0 |
 | Lyon County, MN              |                90 |
 | Stevens County, MN           |                89 |
 | Le Sueur County, MN          |                89 |
@@ -63,7 +63,7 @@
 | Crow Wing County, MN         |               146 |
 | Traverse County, MN          |                88 |
 | Mille Lacs County, MN        |                89 |
-| Big Stone County, MN         |                 0 |
+| Big Stone County, MN         |                88 |
 | Isanti County, MN            |                90 |
 | Marshall County, MN          |                89 |
 | Kanabec County, MN           |                89 |

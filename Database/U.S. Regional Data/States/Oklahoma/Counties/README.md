@@ -1,7 +1,7 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
 | Haskell County, OK      |                88 |
-| Dewey County, OK        |                 0 |
+| Dewey County, OK        |                87 |
 | Washita County, OK      |                89 |
 | Stephens County, OK     |                90 |
 | McClain County, OK      |                90 |
@@ -53,7 +53,7 @@
 | Bryan County, OK        |                90 |
 | Johnston County, OK     |                89 |
 | Cotton County, OK       |                88 |
-| Pontotoc County, OK     |                90 |
+| Pontotoc County, OK     |                 0 |
 | Custer County, OK       |                90 |
 | Atoka County, OK        |                88 |
 | Pottawatomie County, OK |               147 |
@@ -61,7 +61,7 @@
 | Woodward County, OK     |                90 |
 | Mayes County, OK        |                90 |
 | Tillman County, OK      |                88 |
-| McCurtain County, OK    |                 0 |
+| McCurtain County, OK    |                89 |
 | Latimer County, OK      |                88 |
 | Okmulgee County, OK     |                90 |
 | Texas County, OK        |                90 |

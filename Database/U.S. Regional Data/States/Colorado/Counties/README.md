@@ -30,14 +30,14 @@
 | Clear Creek County, CO       |                90 |
 | San Juan County, CO          |                86 |
 | Broomfield County - city, CO |                 0 |
-| Eagle County, CO             |                 0 |
+| Eagle County, CO             |               146 |
 | Huerfano County, CO          |                90 |
 | Lake County, CO              |                90 |
 | Gunnison County, CO          |                90 |
 | Chaffee County, CO           |                89 |
 | Mesa County, CO              |               146 |
 | La Plata County, CO          |               146 |
-| Rio Grande County, CO        |                89 |
+| Rio Grande County, CO        |                 0 |
 | Costilla County, CO          |                88 |
 | Yuma County, CO              |                89 |
 | Kit Carson County, CO        |                89 |

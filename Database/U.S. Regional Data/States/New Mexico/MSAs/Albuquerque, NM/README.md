@@ -4,10 +4,10 @@
 | ACTLISCOU10740            | Housing Inventory: Active Listing Count in Albuquerque, NM (CBSA)                                                | 2016-07-01          | 2022-07-01        |
 | ACTLISCOUMM10740          | Housing Inventory: Active Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                               | 2017-07-01          | 2022-07-01        |
 | ACTLISCOUYY10740          | Housing Inventory: Active Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ALBU735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-06-01        |
-| ALBU735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-06-01        |
-| ALBU735BPPRIV             | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-06-01        |
-| ALBU735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-06-01        |
+| ALBU735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-07-01        |
+| ALBU735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-07-01        |
+| ALBU735BPPRIV             | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-07-01        |
+| ALBU735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-07-01        |
 | ALBU735EDUH               | All Employees: Education and Health Services in Albuquerque, NM (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | ALBU735EDUHN              | All Employees: Education and Health Services in Albuquerque, NM (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | ALBU735FIRE               | All Employees: Financial Activities in Albuquerque, NM (MSA)                                                     | 1990-01-01          | 2022-07-01        |

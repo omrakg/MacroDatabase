@@ -2,9 +2,9 @@
 |--------------------------------------------------------------------|-------------------|
 | Real Estate Services                                               |                37 |
 | Rubber and Plastic Products                                        |                94 |
-| Final Demand                                                       |                 0 |
+| Final Demand                                                       |               218 |
 | Stage of Processing                                                |                 1 |
-| Chemicals and Allied Products                                      |               247 |
+| Chemicals and Allied Products                                      |                 0 |
 | Warehousing, Storage, and Related Services                         |                 7 |
 | Fuels and Related Products and Power                               |               132 |
 | Selected Security Services                                         |                 7 |

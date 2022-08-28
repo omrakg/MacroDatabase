@@ -9,7 +9,7 @@
 | Pembina County, ND       |                89 |
 | Burke County, ND         |                87 |
 | Walsh County, ND         |                89 |
-| Divide County, ND        |                88 |
+| Divide County, ND        |                 0 |
 | Sheridan County, ND      |                86 |
 | McIntosh County, ND      |                89 |
 | Mercer County, ND        |                89 |
@@ -18,7 +18,7 @@
 | McHenry County, ND       |                89 |
 | Eddy County, ND          |                88 |
 | McKenzie County, ND      |                89 |
-| Billings County, ND      |                 0 |
+| Billings County, ND      |                86 |
 | Stark County, ND         |                89 |
 | Griggs County, ND        |                88 |
 | Dunn County, ND          |                88 |

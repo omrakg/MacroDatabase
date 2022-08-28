@@ -61,10 +61,10 @@
 | NEWLISCOUYY36100          | Housing Inventory: New Listing Count Year-Over-Year in Ocala, FL (CBSA)                                    | 2017-07-01          | 2022-07-01        |
 | NGMP36100                 | Total Gross Domestic Product for Ocala, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA36100            | Market Hotness: Nielsen Household Rank in Ocala, FL (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
-| OCAL112BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocala, FL (MSA)            | 1988-01-01          | 2022-06-01        |
-| OCAL112BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocala, FL (MSA)            | 1988-01-01          | 2022-06-01        |
-| OCAL112BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocala, FL (MSA)                               | 1988-01-01          | 2022-06-01        |
-| OCAL112BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Ocala, FL (MSA)                               | 1988-01-01          | 2022-06-01        |
+| OCAL112BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocala, FL (MSA)            | 1988-01-01          | 2022-07-01        |
+| OCAL112BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocala, FL (MSA)            | 1988-01-01          | 2022-07-01        |
+| OCAL112BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocala, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
+| OCAL112BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Ocala, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
 | OCAL112EDUH               | All Employees: Education and Health Services in Ocala, FL (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | OCAL112EDUHN              | All Employees: Education and Health Services in Ocala, FL (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | OCAL112FIRE               | All Employees: Financial Activities in Ocala, FL (MSA)                                                     | 1990-01-01          | 2022-07-01        |

@@ -48,7 +48,7 @@
 | W956RC1A027NBEA   | Capital transfers paid, by the rest of the world: Other non disaster related insurance benefits                               | 1989-01-01          | 2020-01-01        |
 | W975RC1A027NBEA   | Net capital transfers paid by private business sector                                                                         | 1955-01-01          | 2020-01-01        |
 | W976RC1A027NBEA   | Net capital transfers paid by private business sector: Corporate business                                                     | 1955-01-01          | 2021-01-01        |
-| W976RC1Q027SBEA   | National income: Corporate cash flow: Net cash flow with IVA: Capital transfers paid (net)                                    | 1955-01-01          | 2022-01-01        |
+| W976RC1Q027SBEA   | National income: Corporate cash flow: Net cash flow with IVA: Capital transfers paid (net)                                    | 1955-01-01          | 2022-04-01        |
 | W977RC1A027NBEA   | Net capital transfers paid by private business sector: Noncorporate business                                                  | 1989-01-01          | 2020-01-01        |
 | W978RC1A027NBEA   | Net capital transfers paid by government                                                                                      | 1929-01-01          | 2020-01-01        |
 | W979RC1A027NBEA   | Net capital transfers paid by government: Federal                                                                             | 1929-01-01          | 2020-01-01        |

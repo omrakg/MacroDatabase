@@ -5,7 +5,7 @@
 | Grays Harbor County, WA |               147 |
 | Kitsap County, WA       |               147 |
 | Kittitas County, WA     |                90 |
-| Benton County, WA       |                 0 |
+| Benton County, WA       |               147 |
 | Whitman County, WA      |               145 |
 | San Juan County, WA     |                90 |
 | Douglas County, WA      |                90 |

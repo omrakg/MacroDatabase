@@ -11,7 +11,7 @@
 | Burlington, NC                                |               158 |
 | Goldsboro, NC                                 |               102 |
 | Winston-Salem, NC                             |               180 |
-| Asheville, NC                                 |               157 |
+| Asheville, NC                                 |                 0 |
 | Jacksonville, NC                              |               122 |
 | Durham-Chapel Hill, NC                        |               133 |
 | Fayetteville, NC                              |               159 |

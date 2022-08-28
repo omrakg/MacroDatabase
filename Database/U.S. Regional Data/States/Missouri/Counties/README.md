@@ -33,8 +33,8 @@
 | New Madrid County, MO     |                90 |
 | Mississippi County, MO    |                90 |
 | Howard County, MO         |                90 |
-| Laclede County, MO        |                 0 |
-| Pemiscot County, MO       |                89 |
+| Laclede County, MO        |                90 |
+| Pemiscot County, MO       |                 0 |
 | Mercer County, MO         |                87 |
 | Wayne County, MO          |                88 |
 | St. Louis County, MO      |               147 |
@@ -94,7 +94,7 @@
 | Marion County, MO         |                89 |
 | Macon County, MO          |                90 |
 | Worth County, MO          |                89 |
-| Lafayette County, MO      |                90 |
+| Lafayette County, MO      |                 0 |
 | Benton County, MO         |                88 |
 | Moniteau County, MO       |                90 |
 | Ozark County, MO          |                89 |

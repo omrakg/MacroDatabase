@@ -52,8 +52,8 @@
 | Sabine Parish, LA               |                90 |
 | Caddo Parish, LA                |               147 |
 | Vernon Parish, LA               |               145 |
-| Orleans Parish, LA              |                 0 |
-| St. Martin Parish, LA           |               146 |
+| Orleans Parish, LA              |               145 |
+| St. Martin Parish, LA           |                 0 |
 | Jefferson Davis Parish, LA      |                90 |
 | West Feliciana Parish, LA       |                89 |
 | Bienville Parish, LA            |                88 |

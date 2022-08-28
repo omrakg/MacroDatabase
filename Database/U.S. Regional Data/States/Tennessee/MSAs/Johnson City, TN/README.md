@@ -26,10 +26,10 @@
 | HOSCMSA27740              | Market Hotness: Hotness Score in Johnson City, TN (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
 | IRPD27740                 | Implicit Regional Price Deflator for Johnson City, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | JKDPOP                    | Resident Population in Johnson City, TN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| JOHN747BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Johnson City, TN (MSA)            | 1988-01-01          | 2022-06-01        |
-| JOHN747BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Johnson City, TN (MSA)            | 1988-01-01          | 2022-06-01        |
-| JOHN747BPPRIV             | New Private Housing Units Authorized by Building Permits for Johnson City, TN (MSA)                               | 1988-01-01          | 2022-06-01        |
-| JOHN747BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Johnson City, TN (MSA)                               | 1988-01-01          | 2022-06-01        |
+| JOHN747BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Johnson City, TN (MSA)            | 1988-01-01          | 2022-07-01        |
+| JOHN747BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Johnson City, TN (MSA)            | 1988-01-01          | 2022-07-01        |
+| JOHN747BPPRIV             | New Private Housing Units Authorized by Building Permits for Johnson City, TN (MSA)                               | 1988-01-01          | 2022-07-01        |
+| JOHN747BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Johnson City, TN (MSA)                               | 1988-01-01          | 2022-07-01        |
 | JOHN747EDUH               | All Employees: Education and Health Services in Johnson City, TN (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | JOHN747EDUHN              | All Employees: Education and Health Services in Johnson City, TN (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | JOHN747FIRE               | All Employees: Financial Activities in Johnson City, TN (MSA)                                                     | 1990-01-01          | 2022-07-01        |

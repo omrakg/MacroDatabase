@@ -55,7 +55,7 @@
 | Choctaw County, AL    |                88 |
 | Dale County, AL       |               146 |
 | Escambia County, AL   |                89 |
-| Mobile County, AL     |                 0 |
+| Mobile County, AL     |               147 |
 | Colbert County, AL    |               146 |
 | Blount County, AL     |               146 |
 | Geneva County, AL     |                90 |

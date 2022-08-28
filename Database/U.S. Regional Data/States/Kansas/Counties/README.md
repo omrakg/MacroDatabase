@@ -52,8 +52,8 @@
 | Stanton County, KS      |                88 |
 | Washington County, KS   |                89 |
 | Cloud County, KS        |                89 |
-| Franklin County, KS     |                90 |
-| Cherokee County, KS     |                 0 |
+| Franklin County, KS     |                 0 |
+| Cherokee County, KS     |                90 |
 | Anderson County, KS     |                90 |
 | Butler County, KS       |               146 |
 | Ottawa County, KS       |                90 |

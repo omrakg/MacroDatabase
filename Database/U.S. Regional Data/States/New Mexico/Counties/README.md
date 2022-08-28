@@ -12,7 +12,7 @@
 | Union County, NM      |                87 |
 | Valencia County, NM   |               147 |
 | Sierra County, NM     |                90 |
-| Bernalillo County, NM |               147 |
+| Bernalillo County, NM |                 0 |
 | Catron County, NM     |                87 |
 | Luna County, NM       |                90 |
 | Curry County, NM      |               146 |

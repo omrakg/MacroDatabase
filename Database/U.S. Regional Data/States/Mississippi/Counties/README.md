@@ -36,7 +36,7 @@
 | Grenada County, MS         |                90 |
 | Lauderdale County, MS      |               145 |
 | Pearl River County, MS     |               146 |
-| Tippah County, MS          |                90 |
+| Tippah County, MS          |                 0 |
 | Jackson County, MS         |               147 |
 | Adams County, MS           |                89 |
 | Scott County, MS           |                88 |
@@ -45,7 +45,7 @@
 | Copiah County, MS          |                89 |
 | Marshall County, MS        |                90 |
 | Greene County, MS          |                88 |
-| Jones County, MS           |                 0 |
+| Jones County, MS           |               146 |
 | Tunica County, MS          |                88 |
 | Jasper County, MS          |                87 |
 | Yazoo County, MS           |                88 |

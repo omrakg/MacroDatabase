@@ -10,11 +10,11 @@
 | Somerset County, MD        |                90 |
 | Queen Anne's County, MD    |               146 |
 | Talbot County, MD          |                90 |
-| Charles County, MD         |                 0 |
+| Charles County, MD         |               147 |
 | Prince George's County, MD |               147 |
 | Baltimore City, MD         |               236 |
 | Calvert County, MD         |               147 |
-| St. Mary's County, MD      |               147 |
+| St. Mary's County, MD      |                 0 |
 | Washington County, MD      |               147 |
 | Dorchester County, MD      |                90 |
 | Carroll County, MD         |               147 |

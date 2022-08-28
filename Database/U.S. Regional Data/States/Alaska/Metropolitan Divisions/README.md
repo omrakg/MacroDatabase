@@ -1,6 +1,6 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Bristol Bay Division, AK             |                 4 |
+| Bristol Bay Division, AK             |                 0 |
 | Skagway-Yakutat Division, AK         |                 4 |
 | Haines Division, AK                  |                 4 |
 | Yukon-Koyukuk Division, AK           |                 4 |
@@ -8,7 +8,7 @@
 | Outer Ketchikan Division, AK         |                 4 |
 | Bethel Division, AK                  |                 4 |
 | Wrangell-Petersburg Division, AK     |                 4 |
-| Cordova-McCarthy Division, AK        |                 0 |
+| Cordova-McCarthy Division, AK        |                 4 |
 | Aleutian Islands Division, AK        |                 4 |
 | Seward Division, AK                  |                 4 |
 | Prince of Wales Division, AK         |                 4 |

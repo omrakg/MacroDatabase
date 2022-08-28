@@ -47,7 +47,7 @@
 | Macon County, NC        |                90 |
 | Rutherford County, NC   |               147 |
 | Iredell County, NC      |               147 |
-| Swain County, NC        |                88 |
+| Swain County, NC        |                 0 |
 | New Hanover County, NC  |               147 |
 | Forsyth County, NC      |               147 |
 | Buncombe County, NC     |               147 |
@@ -55,7 +55,7 @@
 | Johnston County, NC     |               147 |
 | Pasquotank County, NC   |                89 |
 | Burke County, NC        |               147 |
-| Surry County, NC        |                 0 |
+| Surry County, NC        |               147 |
 | Person County, NC       |                90 |
 | Nash County, NC         |               147 |
 | Chatham County, NC      |               146 |
