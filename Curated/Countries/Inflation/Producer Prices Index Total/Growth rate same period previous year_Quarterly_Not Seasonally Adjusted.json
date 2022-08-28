@@ -1,8 +1,8 @@
 {
   "Hungary": {
     "id": "HUNPITGVG01GYQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Producer Prices Index: Type of goods: Investments goods: Total for Hungary",
     "observation_start": "1999-01-01",
     "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
   },
   "Czech Republic": {
     "id": "CZEPITGVG01GYQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Producer Prices Index: Type of goods: Investments goods: Total for the Czech Republic",
     "observation_start": "2001-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Estonia": {
     "id": "ESTPITGVG01GYQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Producer Prices Index: Type of goods: Investments goods: Total for Estonia",
     "observation_start": "2003-01-01",
     "observation_end": "2022-04-01",

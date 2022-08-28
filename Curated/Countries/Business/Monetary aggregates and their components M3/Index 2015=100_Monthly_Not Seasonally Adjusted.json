@@ -1,8 +1,8 @@
 {
   "Costa Rica": {
     "id": "CRIMABMM301IXOBSAM",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Monetary aggregates and their components: Broad money and components: M3: M3 for Costa Rica",
     "observation_start": "2001-02-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLMABMM301IXOBSAQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Monetary aggregates and their components: Broad money and components: M3: M3 for Chile",
     "observation_start": "1986-04-01",
     "observation_end": "2018-10-01",
@@ -39,8 +39,8 @@
   },
   "Colombia": {
     "id": "COLMABMM301STSAQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Monetary aggregates and their components: Broad money and components: M3: M3 for Colombia",
     "observation_start": "1982-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Czech Republic": {
     "id": "CZEMABMM301IXOBSAQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Monetary aggregates and their components: Broad money and components: M3: M3 for the Czech Republic",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Hungary": {
     "id": "HUNMABMM301IXOBSAQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Monetary aggregates and their components: Broad money and components: M3: M3 for Hungary",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Iceland": {
     "id": "ISLMABMM301IXOBSAQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Monetary aggregates and their components: Broad money and components: M3: M3 for Iceland",
     "observation_start": "1960-04-01",
     "observation_end": "2022-04-01",
@@ -115,8 +115,8 @@
   },
   "Israel": {
     "id": "ISRMABMM301IXOBSAQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Monetary aggregates and their components: Broad money and components: M3: M3 for Israel",
     "observation_start": "1983-01-01",
     "observation_end": "2022-04-01",

@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLCPIHICAINMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Czech Republic": {
       "id": "CZECPIHICMINMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-06-01",
@@ -40,8 +40,8 @@
     },
     "Hungary": {
       "id": "HUNCPIHICMINMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-06-01",
@@ -61,8 +61,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLCPIHICMINMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-06-01",
@@ -80,8 +80,8 @@
     },
     "Czech Republic": {
       "id": "CZECPIHICMINMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-06-01",
@@ -99,8 +99,8 @@
     },
     "Hungary": {
       "id": "HUNCPIHICMINMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-06-01",

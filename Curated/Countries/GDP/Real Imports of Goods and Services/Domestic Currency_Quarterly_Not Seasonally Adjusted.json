@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NMRNSAXDCSAQ",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Real Imports of Goods and Services for Saudi Arabia",
     "observation_start": "2010-01-01",
     "observation_end": "2022-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NMRXDCARA",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Real Imports of Goods and Services for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -34,23 +34,5 @@
     "popularity": 1,
     "group_popularity": 1,
     "path": "Database/International Data/Countries/Argentina"
-  },
-  "Great Britain": {
-    "id": "NMRXDCGBA",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
-    "title": "Real Imports of Goods and Services for Great Britain",
-    "observation_start": "1995-01-01",
-    "observation_end": "2021-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Domestic Currency",
-    "units_short": "Domestic Currency",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-04-25 07:10:15-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/International Data/Countries/Great Britain"
   }
 }

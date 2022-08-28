@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPERMITAISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",
@@ -40,8 +40,8 @@
     },
     "Czech Republic": {
       "id": "CZEPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Czech Republic",
       "observation_start": "1999-01-01",
       "observation_end": "2022-01-01",
@@ -59,8 +59,8 @@
     },
     "Hungary": {
       "id": "HUNPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Hungary",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -80,8 +80,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPERMITMISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-03-01",
@@ -99,8 +99,8 @@
     },
     "Chile": {
       "id": "CHLPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",
@@ -118,8 +118,8 @@
     },
     "Czech Republic": {
       "id": "CZEPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Czech Republic",
       "observation_start": "1999-01-01",
       "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
     },
     "Hungary": {
       "id": "HUNPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Hungary",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -158,8 +158,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -177,8 +177,8 @@
     },
     "Chile": {
       "id": "CHLPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",
@@ -196,8 +196,8 @@
     },
     "Czech Republic": {
       "id": "CZEPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Czech Republic",
       "observation_start": "1999-01-01",
       "observation_end": "2022-01-01",
@@ -215,8 +215,8 @@
     },
     "Hungary": {
       "id": "HUNPERMITQISMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Permits Issued for Dwelling in Hungary",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",

@@ -1,8 +1,8 @@
 {
   "Suriname": {
     "id": "SURFCAODUHNUM",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Use of Financial Services Deposit Accounts: Household Accounts at Credit Unions and Financial Cooperatives for Suriname",
     "observation_start": "2004-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "Bangladesh": {
     "id": "BGDFCAODUHNUM",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Use of Financial Services Deposit Accounts: Household Accounts at Credit Unions and Financial Cooperatives for Bangladesh",
     "observation_start": "2004-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "Chile": {
     "id": "CHLFCAODUHNUM",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Use of Financial Services Deposit Accounts: Household Accounts at Credit Unions and Financial Cooperatives for Chile",
     "observation_start": "2004-01-01",
     "observation_end": "2020-01-01",
@@ -58,8 +58,8 @@
   },
   "Colombia": {
     "id": "COLFCAODUHNUM",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Use of Financial Services Deposit Accounts: Household Accounts at Credit Unions and Financial Cooperatives for Colombia",
     "observation_start": "2009-01-01",
     "observation_end": "2021-01-01",
@@ -77,8 +77,8 @@
   },
   "Guinea": {
     "id": "GINFCAODUHNUM",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Use of Financial Services Deposit Accounts: Household Accounts at Credit Unions and Financial Cooperatives for Guinea",
     "observation_start": "2004-01-01",
     "observation_end": "2020-01-01",
@@ -96,8 +96,8 @@
   },
   "Samoa": {
     "id": "WSMFCAODUHNUM",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Use of Financial Services Deposit Accounts: Household Accounts at Credit Unions and Financial Cooperatives for Samoa",
     "observation_start": "2012-01-01",
     "observation_end": "2020-01-01",

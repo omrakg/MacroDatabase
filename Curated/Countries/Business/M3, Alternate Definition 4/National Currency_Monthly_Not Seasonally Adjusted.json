@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "MAM3A4RUM189N",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "M3, Alternate Definition 4 for Russian Federation",
     "observation_start": "1995-06-01",
     "observation_end": "2017-05-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "MAM3A4ARM189N",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "M3, Alternate Definition 4 for Argentina",
     "observation_start": "2000-01-01",
     "observation_end": "2017-05-01",

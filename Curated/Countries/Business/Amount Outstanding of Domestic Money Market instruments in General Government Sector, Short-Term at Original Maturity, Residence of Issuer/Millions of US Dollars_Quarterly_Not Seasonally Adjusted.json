@@ -1,8 +1,8 @@
 {
   "Turkey": {
     "id": "DMMISTRIAOGGTR",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Amount Outstanding of Domestic Money Market instruments in General Government Sector, Short-Term at Original Maturity, Residence of Issuer in Turkey",
     "observation_start": "2005-01-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Colombia": {
     "id": "DMMISTRIAOGGCO",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Amount Outstanding of Domestic Money Market instruments in General Government Sector, Short-Term at Original Maturity, Residence of Issuer in Colombia",
     "observation_start": "2007-10-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "DMMISTRIAOGGHR",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Amount Outstanding of Domestic Money Market instruments in General Government Sector, Short-Term at Original Maturity, Residence of Issuer in Croatia",
     "observation_start": "1995-10-01",
     "observation_end": "2021-10-01",
@@ -58,8 +58,8 @@
   },
   "Hungary": {
     "id": "DMMISTRIAOGGHU",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Amount Outstanding of Domestic Money Market instruments in General Government Sector, Short-Term at Original Maturity, Residence of Issuer in Hungary",
     "observation_start": "2010-04-01",
     "observation_end": "2021-10-01",
@@ -77,8 +77,8 @@
   },
   "Israel": {
     "id": "DMMISTRIAOGGIL",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Amount Outstanding of Domestic Money Market instruments in General Government Sector, Short-Term at Original Maturity, Residence of Issuer in Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -96,8 +96,8 @@
   },
   "Lebanon": {
     "id": "DMMISTRIAOGGLB",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Amount Outstanding of Domestic Money Market instruments in General Government Sector, Short-Term at Original Maturity, Residence of Issuer in Lebanon",
     "observation_start": "1993-10-01",
     "observation_end": "2021-10-01",
@@ -115,8 +115,8 @@
   },
   "Pakistan": {
     "id": "DMMISTRIAOGGPK",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Amount Outstanding of Domestic Money Market instruments in General Government Sector, Short-Term at Original Maturity, Residence of Issuer in Pakistan",
     "observation_start": "2010-04-01",
     "observation_end": "2021-10-01",
@@ -134,8 +134,8 @@
   },
   "Philippines": {
     "id": "DMMISTRIAOGGPH",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Amount Outstanding of Domestic Money Market instruments in General Government Sector, Short-Term at Original Maturity, Residence of Issuer in Philippines",
     "observation_start": "2009-01-01",
     "observation_end": "2021-10-01",

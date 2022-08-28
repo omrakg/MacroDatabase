@@ -2,8 +2,8 @@
   "Chilean Pesos_Annual_Not Seasonally Adjusted": {
     "Chile": {
       "id": "CHLGFCFADSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -40,8 +40,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -59,8 +59,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -78,8 +78,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -91,7 +91,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -99,8 +99,8 @@
   "Chilean Pesos_Quarterly_Seasonally Adjusted": {
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -111,15 +111,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -156,8 +156,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -175,8 +175,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -188,7 +188,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -196,8 +196,8 @@
   "Czech Koruny_Annual_Not Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZEGFCFADSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -215,8 +215,8 @@
     },
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -227,15 +227,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -253,8 +253,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -272,8 +272,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -285,7 +285,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -293,8 +293,8 @@
   "Czech Koruny_Quarterly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -312,8 +312,8 @@
     },
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -324,15 +324,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -350,8 +350,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -369,8 +369,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -382,7 +382,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -390,8 +390,8 @@
   "Hungarian Forints_Annual_Not Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNGFCFADSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -409,8 +409,8 @@
     },
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -421,15 +421,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -447,8 +447,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -466,8 +466,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -479,7 +479,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -487,8 +487,8 @@
   "Hungarian Forints_Quarterly_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -506,8 +506,8 @@
     },
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -518,15 +518,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -544,8 +544,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -563,8 +563,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -576,7 +576,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -584,8 +584,8 @@
   "Icelandic Krona_Annual_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLGFCFADSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -603,8 +603,8 @@
     },
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -615,15 +615,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -641,8 +641,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -660,8 +660,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -673,7 +673,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -681,8 +681,8 @@
   "Icelandic Krona_Quarterly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -700,8 +700,8 @@
     },
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -712,15 +712,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -738,8 +738,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -757,8 +757,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -770,7 +770,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     }
@@ -778,8 +778,8 @@
   "Isreli New Shekels_Annual_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGFCFADSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -791,14 +791,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-05-12 10:27:38-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     },
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -809,15 +809,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -835,8 +835,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -854,8 +854,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -875,8 +875,8 @@
   "Isreli New Shekels_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -888,14 +888,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:09:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Israel"
     },
     "Chile": {
       "id": "CHLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -906,15 +906,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:48:21-05",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Chile"
     },
     "Czech Republic": {
       "id": "CZEGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -932,8 +932,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -951,8 +951,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-08-21",
-      "realtime_end": "2022-08-21",
+      "realtime_start": "2022-08-28",
+      "realtime_end": "2022-08-28",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",

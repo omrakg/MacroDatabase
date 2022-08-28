@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "PPPGDPUAA619NUPN",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Total Purchasing Power Parity Converted GDP, G-K method, at current prices for Ukraine",
     "observation_start": "1993-01-01",
     "observation_end": "2010-01-01",
@@ -20,8 +20,8 @@
   },
   "Suriname": {
     "id": "PPPGDPSRA619NUPN",
-    "realtime_start": "2022-08-21",
-    "realtime_end": "2022-08-21",
+    "realtime_start": "2022-08-28",
+    "realtime_end": "2022-08-28",
     "title": "Total Purchasing Power Parity Converted GDP, G-K method, at current prices for Suriname",
     "observation_start": "1970-01-01",
     "observation_end": "2010-01-01",
