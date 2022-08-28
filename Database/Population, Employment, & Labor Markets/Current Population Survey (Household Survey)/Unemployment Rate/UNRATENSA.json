@@ -1,7 +1,7 @@
 {
   "id": "UNRATENSA",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Unemployment Rate",
   "observation_start": "1948-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 07:43:03-05",
-  "popularity": 52,
+  "popularity": 51,
   "group_popularity": 91,
   "notes": "The unemployment rate represents the number of unemployed as a percentage of the labor force. Labor force data are restricted to people 16 years of age and older, who currently reside in 1 of the 50 states or the District of Columbia, who do not reside in institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.\n\nThis rate is also defined as the U-3 measure of labor underutilization.\n\nThe series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04000000"
 }

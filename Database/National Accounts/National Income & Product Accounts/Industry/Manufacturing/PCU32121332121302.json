@@ -1,7 +1,7 @@
 {
   "id": "PCU32121332121302",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Producer Price Index by Industry: Engineered Wood Member Manufacturing: Other Engineered Structural Wood Members, Excluding Trusses and Laminated Veneer Lumber",
   "observation_start": "2003-12-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:55:18-05",
-  "popularity": 14,
-  "group_popularity": 14
+  "popularity": 18,
+  "group_popularity": 18
 }

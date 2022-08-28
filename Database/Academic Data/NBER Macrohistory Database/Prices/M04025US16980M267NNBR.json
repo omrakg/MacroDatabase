@@ -1,7 +1,7 @@
 {
   "id": "M04025US16980M267NNBR",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Retail Price of Bacon for Chicago, IL",
   "observation_start": "1911-01-01",
   "observation_end": "1943-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:47:29-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Prices Are For The Best Grade Of Smoked Bacon Sold In Any Considerable Quantity To Families Of Wage Earners. No Fancy Bacon, Ready Sliced, In Glass Jars Or Other Small Packages Is Quoted. Bacon Quoted Is Sliced When Sold. Bacon Sold By Piece Not Included. Prices Are Of The 15Th Of The Month. 1911 And 1912 Data Were Computed By NBER And Are Not As Complete As Later Years. NBER Used An Average Of A Varying Number Of Reporting Firms. Between August, 1933 And June, 1936, The Bls Collected Several Prices Per Month. If One Of Them Applied To A Date Between The 12Th And The 18Th, The Given Price Was Used. In Cases Of Other Dates, Prices For The Month Were Averaged. Source: Bls Bulletin, Nos. 105, 113, 115, 125, 132, 136, 137, 140, 270, 300, 315, 334, 396, 418, 445, 464, And 495; United States Bureau Of Labor, Monthly Issues Of Retail Prices; For 1911-1934 Data, Except December, 1931-December, 1932, Which Are From Special Monthly Mimeographed Reports By U.S.B.L. The Data Were Not Published For Economy Reasons. 1935-1943 Data Are From \"Retail Food Prices By Cities.\"\n\nThis NBER data series m04025 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04025"
 }

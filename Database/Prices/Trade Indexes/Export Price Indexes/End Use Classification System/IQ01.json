@@ -1,7 +1,7 @@
 {
   "id": "IQ01",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Export Price Index (End Use): Nonagricultural Foods (Fish, Distilled Beverages)",
   "observation_start": "1983-09-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-12 07:37:14-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

@@ -1,7 +1,7 @@
 {
   "id": "B935RS2Q224SBEA",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Contributions to percent change in gross domestic purchases: Gross private domestic investment: Fixed investment: Nonresidential: Equipment: Information processing equipment: Computers and peripheral equipment",
   "observation_start": "1959-04-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-28 07:55:01-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B935RS\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

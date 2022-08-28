@@ -1,7 +1,7 @@
 {
   "id": "W068RCQ027SBEA",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Government total expenditures",
   "observation_start": "1960-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-07-28 07:53:03-05",
-  "popularity": 57,
-  "group_popularity": 58,
+  "last_updated": "2022-08-25 07:52:04-05",
+  "popularity": 56,
+  "group_popularity": 57,
   "notes": "BEA Account Code: W068RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

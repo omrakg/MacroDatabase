@@ -1,7 +1,7 @@
 {
   "id": "RIFSGFSW04NA",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "4-Week Treasury Bill Secondary Market Rate, Discount Basis",
   "observation_start": "2001-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 16:10:39-05",
-  "popularity": 8,
-  "group_popularity": 61,
+  "popularity": 4,
+  "group_popularity": 59,
   "notes": "Averages of daily figures.\n\nFor more information see the H.15 Statistical Release (https://www.federalreserve.gov/releases/h15/default.htm)."
 }

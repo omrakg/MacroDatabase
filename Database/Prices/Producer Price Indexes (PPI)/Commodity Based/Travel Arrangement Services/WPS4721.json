@@ -1,7 +1,7 @@
 {
   "id": "WPS4721",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Producer Price Index by Commodity: Travel Arrangement Services (Partial): Arrangement of Vehicle Rentals and Lodging",
   "observation_start": "2008-12-01",
   "observation_end": "2010-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2016-02-17 11:47:06-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

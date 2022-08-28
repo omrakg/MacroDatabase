@@ -1,7 +1,7 @@
 {
   "id": "M0490CUSM349NNBR",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Wholesale Price of Bituminous Coal, Mines for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1954-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:48:22-05",
   "popularity": 2,
-  "group_popularity": 14,
+  "group_popularity": 11,
   "notes": "Series Is Presented Here As Four Variables--(1)-- Original Data, 1906-1930 (2)--Original Data, 1923-1948 (3)-- Original Data, 1947-1954 (4)--Original Data, 1954-1956. The Price For This Type Of Coal Was Deleted From The List Of The Prices Quoted, See Issue Of May-June, 1954, P. 11. The New Price Quoted Is For\"Large Percentages Of Domestic Sizes, F.O.B. Car At Mine, To Retail Dealers\" (Bls Code # 05-12-04). The Index Does Not Appear To Have Been Made Comparable For Both Quotations, No Annual Average Has Been Published For Bituminous Coal, 1954. A New Series Has Therefore Been Started, See Next Entry. Prevailing Price On A Day Including The 15Th Of The Month:\"Run Of Mine, F.O.B. Car At Mine\" (Bls Code # 05-12-02). Source: Bls, Prices And Price Relatives For Individual Commodities In The Revised Index: 1947-50, Group 5 (Feb. 1952); Same For January- November, 1951; Monthly Releases Thereafter.\n\nThis NBER data series m04190c appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04190c"
 }

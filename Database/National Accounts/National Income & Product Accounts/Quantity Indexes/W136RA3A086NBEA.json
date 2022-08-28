@@ -1,7 +1,7 @@
 {
   "id": "W136RA3A086NBEA",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Real federal government consumption expenditures: Nondefense consumption expenditures: Own-account investment (chain-type quantity index)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 08:07:34-06",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: W136RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

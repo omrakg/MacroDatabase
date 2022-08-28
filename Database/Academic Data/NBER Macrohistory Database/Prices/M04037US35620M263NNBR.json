@@ -1,7 +1,7 @@
 {
   "id": "M04037US35620M263NNBR",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Retail Price of Bananas for New York, NY",
   "observation_start": "1920-01-01",
   "observation_end": "1942-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:47:10-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Prices Are Quoted In Most Cities By The Dozen. In Many Cities, However, Bananas Are Sold By Weight And The Prices Are Quoted By The Pound. For These Cities The Average Has Been Made On The Pound Basis, But In The Average For The U.S. Only Prices By The Dozen Have Been Included. The Prices Are Quoted On The Best Bananas In The Bunch. Between August 1933 And June 1936 The Bls Collected Several Prices Per Month. If One Price Applied To A Date Between The 12Th - 18Th, The Given Price Was Used; In Case Of Other Dates The Given Prices Were Averaged. Source: 1920-1934: Bls Bulletins And Monthly Issues Of \"Retail Prices\", No. 300, 315, 334, 396, 418, 445, 464, 495, And Currently From U.S.B.L. Monthly Issues Of \"Retail Prices\", Except 12/1931-12/1932: Unpublished Monthly Mimeographed Reports From Bls; 1935-1943: Mimeographed Releases, \"Retail Prices By Cities\"\n\nThis NBER data series m04037 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04037"
 }

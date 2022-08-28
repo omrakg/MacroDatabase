@@ -1,7 +1,7 @@
 {
   "id": "KYPOP",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Resident Population in Kentucky",
   "observation_start": "1900-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-22 12:09:11-06",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "Data for \"Resident Population\" from 1901 to present are July 1 estimates of each year."
 }

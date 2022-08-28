@@ -1,7 +1,7 @@
 {
   "id": "M0469AUSM336NNBR",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Index of Wholesale Prices of Finished Products for United States",
   "observation_start": "1913-01-01",
   "observation_end": "1951-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:38-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables-- (1)--Original Data, 1913-1951 (2)--Original Data, 1947-1968. For The List Of Commodities Entering Into This Index, See Bulletin No. 572 (1931) P. 11. Data For 1926 Are From The 1930 Bulletin. Called Manufactured Products Beginning April, 1940. See\"Wholesale Prices\", April, 1940, P. 1, Footnote: \"Formerly Finished Products With No Change In Items.\" Source: Bls Bulletin Nos. 543, Pp. 34-36 (1930), 572, Pp. 12-13 (1931), And \"Wholsesale Prices\" Through 1941; Semi-Annual Issues For 1942-1943; Annual Bulletins Nos. 718, 736, 759, 785, 870, 877, 920, 947, 973, And 1007 Thereafter Through 1949 And Mimeographed Releases For 1950-1951.\n\nThis NBER data series m04169a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04169a"
 }

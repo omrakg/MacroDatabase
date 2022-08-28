@@ -1,7 +1,7 @@
 {
   "id": "CIU2024300000000I",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Transportation and warehousing",
   "observation_start": "2001-01-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-29 07:51:21-05",
   "popularity": 1,
-  "group_popularity": 9
+  "group_popularity": 8
 }

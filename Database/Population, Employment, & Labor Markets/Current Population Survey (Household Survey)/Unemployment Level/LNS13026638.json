@@ -1,7 +1,7 @@
 {
   "id": "LNS13026638",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Unemployment Level - Permanent Job Losers",
   "observation_start": "1994-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-05 07:44:28-05",
-  "popularity": 31,
-  "group_popularity": 31,
+  "popularity": 28,
+  "group_popularity": 28,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13026638"
 }

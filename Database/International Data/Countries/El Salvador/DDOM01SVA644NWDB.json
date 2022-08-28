@@ -1,7 +1,7 @@
 {
   "id": "DDOM01SVA644NWDB",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Number of Listed Companies for El Salvador",
   "observation_start": "1996-01-01",
   "observation_end": "2012-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-09-21 11:21:48-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Number of domestically incorporated companies listed on the country's stock exchanges at the end of the year (does not include investment companies, mutual funds, or other collective investment vehicles).\n\nSource Code: GFDD.OM.01"
 }

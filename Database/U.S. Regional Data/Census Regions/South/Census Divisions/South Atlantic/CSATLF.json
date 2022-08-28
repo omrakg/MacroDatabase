@@ -1,17 +1,17 @@
 {
   "id": "CSATLF",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Civilian Labor Force in South Atlantic Census Division",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Persons",
   "units_short": "Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-07-25 09:43:15-05",
+  "last_updated": "2022-08-22 08:59:21-05",
   "popularity": 1,
-  "group_popularity": 6
+  "group_popularity": 2
 }

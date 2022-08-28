@@ -1,7 +1,7 @@
 {
   "id": "PCU311119311119B",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Producer Price Index by Industry: Other Animal Food Manufacturing: Complete Swine Feed, Supplements, Concentrates, and Premixes",
   "observation_start": "2011-12-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:56:08-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 4,
+  "group_popularity": 4
 }

@@ -1,7 +1,7 @@
 {
   "id": "IPUGN4237W010000000",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Employment for Wholesale Trade: Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers (NAICS 4237) in the United States",
   "observation_start": "1987-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-02 11:35:27-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Employment is the total number of wage and salary workers, unincorporated self-employed workers, and unpaid family workers working within business establishments. An individual who works multiple jobs at separate establishments would have each job included in the number of employees."
 }

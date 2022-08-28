@@ -1,18 +1,18 @@
 {
   "id": "UMDMVS",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Manufacturers' Value of Shipments: Durable Goods",
   "observation_start": "1992-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-03 09:03:04-05",
+  "last_updated": "2022-08-24 07:31:14-05",
   "popularity": 3,
-  "group_popularity": 23,
+  "group_popularity": 21,
   "notes": "Estimates of Shipments for the semiconductor industry are no longer shown separately, but are included in Computers and Electronic Products industry and in all other applicable aggregate totals."
 }

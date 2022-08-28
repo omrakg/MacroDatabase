@@ -1,7 +1,7 @@
 {
   "id": "PCU4883148831",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Producer Price Index by Industry: Port and Harbor Operations",
   "observation_start": "2003-12-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:54:36-05",
   "popularity": 2,
-  "group_popularity": 3
+  "group_popularity": 2
 }

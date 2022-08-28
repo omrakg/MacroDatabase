@@ -1,7 +1,7 @@
 {
   "id": "M04174USM336NNBR",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Index of Wholesale Prices of Pork Products and Lard for United States",
   "observation_start": "1913-01-01",
   "observation_end": "1940-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:10-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "This Index Comprises The Following Bls Wholesale Price Series (Weights Are 1927-29 Census Values In Exchange As Given In The 1931 Bls Bulletin): Bacon, Chicago, .35; Hams, Chicago, .35; Pork Mess, New York, .40; Pork Sides Clear, Bellies Clear, Chicago, .22; Pork Sides Rough, Bellies, Ribs, Chicago, .21; Pork Fresh, Chicago, 2.92; Lard, New York, .49. Source: Computed By NBER From Bls Data\n\nThis NBER data series m04174 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04174"
 }

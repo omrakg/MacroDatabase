@@ -1,7 +1,7 @@
 {
   "id": "COFC",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Consumption of Fixed Capital",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-07-28 07:54:15-05",
-  "popularity": 14,
-  "group_popularity": 15,
+  "last_updated": "2022-08-25 07:53:34-05",
+  "popularity": 18,
+  "group_popularity": 19,
   "notes": "BEA Account Code: A262RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

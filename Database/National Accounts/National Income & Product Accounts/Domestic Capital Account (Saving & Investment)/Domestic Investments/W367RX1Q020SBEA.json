@@ -1,7 +1,7 @@
 {
   "id": "W367RX1Q020SBEA",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Real net domestic purchases",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of Chn. 2012 $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-07-28 07:52:33-05",
+  "last_updated": "2022-08-25 07:54:26-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 3,
   "notes": "BEA Account Code: W367RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

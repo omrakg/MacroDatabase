@@ -1,7 +1,7 @@
 {
   "id": "LNU03000000",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Unemployment Level",
   "observation_start": "1948-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-05 07:43:14-05",
-  "popularity": 22,
-  "group_popularity": 65,
+  "popularity": 24,
+  "group_popularity": 64,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU03000000"
 }

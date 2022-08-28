@@ -1,7 +1,7 @@
 {
   "id": "CES4244400001",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "All Employees, Building Material and Garden Supply Stores",
   "observation_start": "1990-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-05 07:44:32-05",
   "popularity": 13,
-  "group_popularity": 13,
+  "group_popularity": 14,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES4244400001"
 }

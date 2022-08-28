@@ -1,7 +1,7 @@
 {
   "id": "WPU511",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Producer Price Index by Commodity: Health Care Services: Outpatient Care (Partial)",
   "observation_start": "2009-06-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:56:50-05",
   "popularity": 1,
-  "group_popularity": 38
+  "group_popularity": 39
 }

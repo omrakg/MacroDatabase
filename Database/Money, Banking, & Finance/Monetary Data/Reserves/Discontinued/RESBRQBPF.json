@@ -1,7 +1,7 @@
 {
   "id": "RESBRQBPF",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Reserve Balances Required; Bottom of Penalty-Free Band (DISCONTINUED)",
   "observation_start": "2013-07-01",
   "observation_end": "2020-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-09-10 15:46:20-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.\n\nA penalty-free band is a range on both sides of the reserve balance requirement within which an institution needs to maintain its average balance over the maintenance period in order to satisfy its reserve balance requirement. The penalty-free band replaces carryover and routine penalty waivers effective with the Regulation D changes on June 27, 2013. This series equals the sum of each institution's bottom of the penalty-free band. For each institution, the bottom of the penalty-free band is equal to the institution's reserve balance requirement less an amount that is the greater of 10 percent of the institution's reserve balance requirement or $50,000."
 }

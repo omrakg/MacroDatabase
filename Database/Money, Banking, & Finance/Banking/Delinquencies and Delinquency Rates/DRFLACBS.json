@@ -1,17 +1,17 @@
 {
   "id": "DRFLACBS",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Delinquency Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks",
   "observation_start": "1991-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-04-01",
   "frequency": "Quarterly, End of Period",
   "frequency_short": "Q",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-20 13:19:13-05",
-  "popularity": 9,
-  "group_popularity": 10
+  "last_updated": "2022-08-22 13:18:18-05",
+  "popularity": 7,
+  "group_popularity": 8
 }

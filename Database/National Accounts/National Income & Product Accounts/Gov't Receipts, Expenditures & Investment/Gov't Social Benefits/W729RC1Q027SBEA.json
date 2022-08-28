@@ -1,7 +1,7 @@
 {
   "id": "W729RC1Q027SBEA",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Personal current transfer receipts: Government social benefits to persons: Medicaid",
   "observation_start": "1966-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-07-28 07:52:13-05",
-  "popularity": 6,
+  "last_updated": "2022-08-25 07:52:42-05",
+  "popularity": 7,
   "group_popularity": 14,
   "notes": "BEA Account Code: W729RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

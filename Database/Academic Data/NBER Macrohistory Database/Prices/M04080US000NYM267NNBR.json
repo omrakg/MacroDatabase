@@ -1,7 +1,7 @@
 {
   "id": "M04080US000NYM267NNBR",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Wholesale Prices Sulphuric Acid, 66 Degree Tank Cars for New York",
   "observation_start": "1890-01-01",
   "observation_end": "1943-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:54:59-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "1890-1913, Prices Are From First Of Each Month; 1914-1916, First Saturday Of Each Month. Bls Make No Further Mention Of This But With Check In Oil, Paint, And Drug Reporter, Quotation Is On Saturday Thereafter. Tank Cars Not Mentioned Until Bulletin No. 473 For 1926 And Not After 1928 (Bulletin 483). Quotations Are From Oil, Paint, And Drug Reporter. Begining In 1926-1928, Series Is Called Sulphuric Acid, 66 Degree, Tank Cars (Bulletin No. 473, Which Gives A 1926 Overlap). 1926 Is Also Given In Bulletin 440 But No Mention Of \"Tank Cars\" Made. No Mention Of Tank Cars Made After 1928. Beginning In 1931, The Series Is Called Sulphuric Acid, 66 Degrees, Works. Beginning With 1940, Called Sulfuric, 66 Degrees, Commercial, Tanks, Large Lots, Per Ton, F.O.B. Eastern Works. Converted From Price Per Ton To Price Per Pound By Dividing By 2000 For 1929-1930 And 1932-1942. Bls 1931, Bulletin 572, Gives Unit \"Ton\" But Price Is Given For Pound. After July, 1935, Average Wholesale Prices Published Semi- Annually (June And December Bulletins). Source: Bls Bulletin Nos. 39 (Pp.436-437), 45, 57, 63, 69,75, 81, 87, 93, 99, 114, 149, 181, 200, 226, 269, 296, 335, 367, 415, 440, 473, 493, 521, 543, 572; 1932-June, 1935, Monthly Bulletin Of Wholesale Prices; July-December, 1935, December Issue Of Wholesale Prices.\n\nThis NBER data series m04080 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04080"
 }

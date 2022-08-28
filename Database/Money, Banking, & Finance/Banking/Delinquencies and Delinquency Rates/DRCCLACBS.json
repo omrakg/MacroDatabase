@@ -1,17 +1,17 @@
 {
   "id": "DRCCLACBS",
-  "realtime_start": "2022-08-21",
-  "realtime_end": "2022-08-21",
+  "realtime_start": "2022-08-28",
+  "realtime_end": "2022-08-28",
   "title": "Delinquency Rate on Credit Card Loans, All Commercial Banks",
   "observation_start": "1991-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-04-01",
   "frequency": "Quarterly, End of Period",
   "frequency_short": "Q",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-20 13:19:02-05",
+  "last_updated": "2022-08-22 13:18:03-05",
   "popularity": 72,
   "group_popularity": 72
 }
