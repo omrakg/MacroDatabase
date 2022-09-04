@@ -1,7 +1,7 @@
 {
   "id": "FLEREA",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Real Estate, Rental and Leasing Earnings in Florida",
   "observation_start": "1998-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-22 12:41:13-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS."
 }

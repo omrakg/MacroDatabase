@@ -1,7 +1,7 @@
 {
   "id": "M0439BUS000WAM289NNBR",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Wholesale Price of Douglas Fir Lumber for Washington",
   "observation_start": "1922-01-01",
   "observation_end": "1941-09-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:52:22-05",
   "popularity": 6,
-  "group_popularity": 16,
+  "group_popularity": 19,
   "notes": "Series Is Presented Here As Two Variables-- (1)--Original Data, 1913-1924 (2)--Original Data, 1922-1941. Data Are For No. 1 Common, 1\"X8\" F.O.B. Mill, Average Of Tuesdays' Quotations, List Price To Retail Dealers Less Cash Discount. Source: Bls Bulletins And \"Wholesale Prices\" Other Data Direct From Bls.\n\nThis NBER data series m04139b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04139b"
 }

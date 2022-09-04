@@ -1,17 +1,17 @@
 {
   "id": "JTS540099QUL",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Quits: Professional and Business Services",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Level in Thousands",
   "units_short": "Level in Thous.",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-08-02 09:06:12-05",
-  "popularity": 7,
-  "group_popularity": 18
+  "last_updated": "2022-08-30 09:05:23-05",
+  "popularity": 9,
+  "group_popularity": 24
 }

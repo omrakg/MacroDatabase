@@ -1,7 +1,7 @@
 {
   "id": "Q0416AUSQ072SNBR",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Gross National Product Implicit Price Deflator, Total for United States",
   "observation_start": "1921-01-01",
   "observation_end": "1939-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-16 14:46:46-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Seasonally Adjusted Data, 1921-1946 (2)--Seasonally Adjusted Data, 1947-1970. 1921-1938 Original NBER Series 08260 Was Divided By Series 8296. These Data Given In 1939 Dollars Are Converted To The Base 1958=100 By Multiplying That Quotient By 43.2, The 1939 Figure On The 1958 Base. Source: Barger And Klein, NBER Series No. 8260: See Note Below\n\nThis NBER data series q04216a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: q04216a"
 }

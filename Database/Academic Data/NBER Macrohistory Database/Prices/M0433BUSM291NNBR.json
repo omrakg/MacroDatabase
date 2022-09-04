@@ -1,7 +1,7 @@
 {
   "id": "M0433BUSM291NNBR",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Wholesale Price of Shoes: Men's Vici Kid Black, High, Goodyear Welt for United States",
   "observation_start": "1931-01-01",
   "observation_end": "1942-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:50:59-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables --(1)--Original Data, 1890-1931 (2)--Original Data, 1931-1942. This Series Is Presented As Two Variables Because Of A Change In Reporting Manufacturers. The Second Variable Has Been Raised To The Level Of The First By The Ratio Of The Overlapping Months, January- September, 1931 (6.00/5.85=102.6). Prices Are F.O.B. Factory. Source: 1931 Data Are Direct From Bls By Letter. 1932-1942 Data Are Are From Bls Bulletins.\n\nThis NBER data series m04133b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04133b"
 }

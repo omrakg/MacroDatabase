@@ -1,7 +1,7 @@
 {
   "id": "LAUMT064014000000003A",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Unemployment Rate in Riverside-San Bernardino-Ontario, CA (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-27 10:48:54-05",
   "popularity": 1,
-  "group_popularity": 12
+  "group_popularity": 13
 }

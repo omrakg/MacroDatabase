@@ -1,17 +1,17 @@
 {
   "id": "JTS540099JOR",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Job Openings: Professional and Business Services",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Rate",
   "units_short": "Rate",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-08-02 09:06:14-05",
-  "popularity": 10,
-  "group_popularity": 29
+  "last_updated": "2022-08-30 09:05:25-05",
+  "popularity": 9,
+  "group_popularity": 27
 }

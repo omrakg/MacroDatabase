@@ -1,7 +1,7 @@
 {
   "id": "PCU31151131151153",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Producer Price Index by Industry: Fluid Milk Manufacturing: Fat Free or Skim Milk, Packaged, Excluding Ultra-High-Temperature and Flavored",
   "observation_start": "1982-12-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:56:31-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

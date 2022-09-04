@@ -1,7 +1,7 @@
 {
   "id": "WPU10720135",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Metal Tanks and Vessels, Custom Fabricated at Factory, Field Erected",
   "observation_start": "2001-12-01",
   "observation_end": "2015-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-01-15 08:57:38-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

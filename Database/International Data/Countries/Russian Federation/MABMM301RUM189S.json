@@ -1,7 +1,7 @@
 {
   "id": "MABMM301RUM189S",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "M3 for the Russian Federation",
   "observation_start": "1995-06-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-05-12 09:17:04-05",
   "popularity": 11,
-  "group_popularity": 12,
+  "group_popularity": 13,
   "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

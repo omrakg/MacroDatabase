@@ -1,7 +1,7 @@
 {
   "id": "SMU53426446054130001",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "All Employees: Professional and Business Services: Architectural, Engineering, and Related Services in Seattle-Bellevue-Everett, WA (MD)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-20 03:45:32-05",
   "popularity": 0,
-  "group_popularity": 1
+  "group_popularity": 2
 }

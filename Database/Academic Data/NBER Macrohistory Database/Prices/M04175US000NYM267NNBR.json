@@ -1,7 +1,7 @@
 {
   "id": "M04175US000NYM267NNBR",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Wholesale Price of Poultry for New York",
   "observation_start": "1908-01-01",
   "observation_end": "1941-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:54:10-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Data Is For Fresh-Killed Dressed Fowl, Western, Dry Pack, Dry Picked, Fancy, 48-55 Pounds To The Dozen. Source: Bls Bulletins And Files At Wpa\n\nThis NBER data series m04175 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04175"
 }

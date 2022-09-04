@@ -1,7 +1,7 @@
 {
   "id": "M04128USM350NNBR",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Consumer Price Index, All Items for United States",
   "observation_start": "1913-01-01",
   "observation_end": "1970-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:47:46-05",
-  "popularity": 21,
-  "group_popularity": 21,
+  "popularity": 18,
+  "group_popularity": 18,
   "notes": "Prior To 1953, This Series Was Called The\"Index Of Cost Of Living.\" Data Have Been Converted To The Average 1957-1959 Base By Bls. Prior To September, 1940, Only Fuel And Food Components Were Monthly, All Other Components Were Priced At Intervals Of 3, 4, And 6 Months (See Survey Of Current Business, May, 1941; Also Monthly Labor Review, August, 1940, And Bls Bulletin Nos. 699 (1941) And 966 (1949) For Detailed Information). The Early Segment Of This Series Represents Monthly Interpolations By The Department Of Commerce. Beginning In 1943, The Index Shows The Results Of A Revision, Begun In 1940, Of The Rent Component (Correction Of New Unit Bias). In January, 1950, A Revision Of Population And Commodity Weights Begins To Be Incorporated In The Index (Monthly Labor Review, March, 1951); Series Is Considered To Be Continuous. A Major Revision Of The Index Took Place In January, 1953; Hereafter Called\"Consumer Price Index.\" Beginning With Indexes For January, 1966, Data For Six Additional Areas (Cincinnati, Houston, Kansas City, Milwaukee, Minneapolis-St. Paul, And San Diego) Have Been Incorporated Into The National Consumer Price Index. These Areas Were\"Linked\" Into The Consumer Price Index As Of December, 1965 And Were First Used In Calculating The December, 1965-January, 1966 Price Change. Source: Bls Release, \"Consumer Price Index--U.S.: All Items, 1913- 1960, Series A; Bcd, February, 1967 For 1961-1965; March, 1968 For 1966-February, 1968.\n\nThis NBER data series m04128 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04128"
 }

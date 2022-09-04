@@ -1,7 +1,7 @@
 {
   "id": "CUURA211SAS",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Consumer Price Index for All Urban Consumers: Services in Minneapolis-St. Paul, MN-WI (DISCONTINUED)",
   "observation_start": "1967-01-01",
   "observation_end": "1986-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-09-10 15:16:07-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "FDHBFRBN",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Federal Debt Held by Federal Reserve Banks",
   "observation_start": "1970-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-22 13:39:03-05",
-  "popularity": 66,
-  "group_popularity": 65,
+  "popularity": 64,
+  "group_popularity": 64,
   "notes": "The data is presented by the source as Public debt securities: Public issues held by Federal Reserve banks on TABLE OFS-1\u2014Distribution of Federal Securities by Class of Investors and Type of Issues.\n\nPublic issues held by the Federal Reserve banks have been revised to include Ginnie Mae and exclude the following Government-Sponsored Enterprises: Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, and the Federal Home Loan Bank System."
 }

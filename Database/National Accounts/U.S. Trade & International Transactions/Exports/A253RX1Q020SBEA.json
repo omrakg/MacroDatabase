@@ -1,7 +1,7 @@
 {
   "id": "A253RX1Q020SBEA",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Real exports of goods",
   "observation_start": "1970-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-08-25 07:53:38-05",
   "popularity": 10,
-  "group_popularity": 12,
+  "group_popularity": 14,
   "notes": "BEA Account Code: A253RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

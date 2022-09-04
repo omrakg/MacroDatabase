@@ -1,0 +1,17 @@
+{
+  "id": "WPS063803",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
+  "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Pharmaceuticals Acting on the Cardiovascular System",
+  "observation_start": "2010-01-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2001=100",
+  "units_short": "Index Jun 2001=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-08-11 07:58:49-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

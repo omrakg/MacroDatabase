@@ -1,7 +1,7 @@
 {
   "id": "CPMNACNSAB1GQES",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Gross Domestic Product for Spain",
   "observation_start": "1995-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-17 10:40:03-05",
   "popularity": 2,
-  "group_popularity": 22,
+  "group_popularity": 24,
   "notes": "Eurostat unit ID: CP_MNAC\nEurostat item ID = B1GQ\nEurostat country ID: ES\n\nFor euro area member states, the national currency series are converted into euros using the irrevocably fixed exchange rate. This preserves the same growth rates than for the previous national currency series. Both series coincide for years after accession to the euro area but differ for earlier years due to market exchange rate movements.\n\nCopyright, European Union, http://ec.europa.eu, 1995-2016.Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright"
 }

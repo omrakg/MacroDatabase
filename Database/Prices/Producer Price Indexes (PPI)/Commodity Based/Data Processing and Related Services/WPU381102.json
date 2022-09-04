@@ -1,7 +1,7 @@
 {
   "id": "WPU381102",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Producer Price Index by Commodity: Data Processing and Related Services: Business Process Management Services",
   "observation_start": "2008-12-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:57:05-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

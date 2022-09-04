@@ -1,7 +1,7 @@
 {
   "id": "SMU36000004142390001",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "All Employees: Wholesale Trade: Miscellaneous Durable Goods Merchant Wholesalers in New York",
   "observation_start": "1990-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-20 02:09:03-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 4,
+  "group_popularity": 4
 }

@@ -1,17 +1,17 @@
 {
   "id": "JTUTSR",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Total Separations: Total Nonfarm",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Rate",
   "units_short": "Rate",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-02 09:06:15-05",
-  "popularity": 5,
-  "group_popularity": 37
+  "last_updated": "2022-08-30 09:05:30-05",
+  "popularity": 4,
+  "group_popularity": 38
 }

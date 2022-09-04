@@ -1,7 +1,7 @@
 {
   "id": "IPUZNT050100000",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Value-Added Output Price Deflator for Private Nonfarm in Delaware",
   "observation_start": "2007-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 12:29:55-05",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "An output deflator is an index of the change over time in the price of value-added output relative to a base period."
 }

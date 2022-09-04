@@ -1,0 +1,17 @@
+{
+  "id": "ADPWCDPCNERSA",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
+  "title": "Nonfarm Private Employment in the Pacific Census Division",
+  "observation_start": "2010-01-02",
+  "observation_end": "2022-06-11",
+  "frequency": "Weekly",
+  "frequency_short": "W",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-09-02 14:33:31-05",
+  "popularity": 0,
+  "group_popularity": 0
+}

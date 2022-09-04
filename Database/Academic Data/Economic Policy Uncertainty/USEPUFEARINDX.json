@@ -1,7 +1,7 @@
 {
   "id": "USEPUFEARINDX",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Migration Fear Index for the United States",
   "observation_start": "1990-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Index",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-01 08:01:07-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "last_updated": "2022-09-01 08:01:08-05",
+  "popularity": 19,
+  "group_popularity": 19,
   "notes": "Please read the authors' description (https://www.policyuncertainty.com/immigration_fear.html) of this index for further explanation."
 }

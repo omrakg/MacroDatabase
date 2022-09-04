@@ -1,7 +1,7 @@
 {
   "id": "J434RC1Q027SBEA",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "National income without capital consumption adjustment: Domestic private industries: Retail trade",
   "observation_start": "1948-01-01",
   "observation_end": "1987-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2018-07-27 10:37:52-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: J434RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

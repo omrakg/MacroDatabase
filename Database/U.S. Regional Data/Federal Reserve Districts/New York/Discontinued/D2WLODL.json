@@ -1,7 +1,7 @@
 {
   "id": "D2WLODL",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Liabilities and Capital: Liabilities: Deposits: Other Deposits Held by Depository Institutions: Wednesday Level in Federal Reserve District 2: New York (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2020-03-11",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-03-12 15:46:44-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "This series has been discontinued and will no longer be updated. It has been consolidated under the following series, which will continue to be updated: H41RESPPLLDEF02NWW (https://fred.stlouisfed.org/series/H41RESPPLLDEF02NWW).\n\nFor further information about the changes to the H.4.1 Statistical Release, please see the announcements (https://www.federalreserve.gov/feeds/h41.html) provided by the source."
 }

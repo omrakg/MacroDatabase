@@ -1,18 +1,18 @@
 {
   "id": "UMXDUO",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Manufacturers' Unfilled Orders: Manufacturing Excluding Defense",
   "observation_start": "1992-01-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly, End of Period",
   "frequency_short": "M",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-03 09:02:07-05",
+  "last_updated": "2022-09-02 09:02:07-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 4,
   "notes": "Data on Unfilled Orders for the Semiconductor Industry are not available."
 }

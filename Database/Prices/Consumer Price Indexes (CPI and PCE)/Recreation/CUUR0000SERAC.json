@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SERAC",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Consumer Price Index for All Urban Consumers: Video and Audio Products in U.S. City Average",
   "observation_start": "2009-12-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-10 07:39:10-05",
   "popularity": 3,
-  "group_popularity": 7
+  "group_popularity": 5
 }

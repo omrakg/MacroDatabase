@@ -1,7 +1,7 @@
 {
   "id": "CUUSA208SEHA",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Detroit-Warren-Dearborn, MI (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2022-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-13 07:40:18-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 8
 }

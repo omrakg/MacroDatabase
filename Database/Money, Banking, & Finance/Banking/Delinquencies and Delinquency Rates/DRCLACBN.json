@@ -1,7 +1,7 @@
 {
   "id": "DRCLACBN",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-04",
+  "realtime_end": "2022-09-04",
   "title": "Delinquency Rate on Consumer Loans, All Commercial Banks",
   "observation_start": "1987-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-22 13:18:15-05",
-  "popularity": 16,
-  "group_popularity": 61
+  "popularity": 12,
+  "group_popularity": 60
 }
