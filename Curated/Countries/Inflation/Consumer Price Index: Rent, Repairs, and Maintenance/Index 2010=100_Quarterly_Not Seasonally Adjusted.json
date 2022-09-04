@@ -1,8 +1,8 @@
 {
   "Turkey": {
     "id": "CPSEHO05TRQ661N",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Turkey",
     "observation_start": "1982-01-01",
     "observation_end": "2018-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CPSEHO05CLQ661N",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Chile",
     "observation_start": "1989-04-01",
     "observation_end": "2018-01-01",
@@ -39,8 +39,8 @@
   },
   "Estonia": {
     "id": "CPSEHO05EEQ661N",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Estonia",
     "observation_start": "1998-01-01",
     "observation_end": "2018-01-01",
@@ -58,8 +58,8 @@
   },
   "Luxembourg": {
     "id": "CPSEHO05LUQ661N",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Luxembourg",
     "observation_start": "1995-01-01",
     "observation_end": "2018-01-01",
@@ -77,8 +77,8 @@
   },
   "Poland": {
     "id": "CPSEHO05PLQ661N",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Poland",
     "observation_start": "1998-01-01",
     "observation_end": "2018-01-01",
@@ -96,8 +96,8 @@
   },
   "Slovenia": {
     "id": "CPSEHO05SIQ661N",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Consumer Price Index: Rent, Repairs, and Maintenance for Slovenia",
     "observation_start": "2000-01-01",
     "observation_end": "2018-01-01",

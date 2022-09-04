@@ -2,8 +2,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULCEAPR01IXOBQ",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Labour Compensation: Earnings: Private sector: Hourly for Lithuania",
       "observation_start": "2000-01-01",
       "observation_end": "2022-01-01",
@@ -21,8 +21,8 @@
     },
     "Latvia": {
       "id": "LVALCEAPR01IXOBSAQ",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Labour Compensation: Earnings: Private sector: Hourly for Latvia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-01-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULCEAPR01IXOBSAQ",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Labour Compensation: Earnings: Private sector: Hourly for Lithuania",
       "observation_start": "2000-01-01",
       "observation_end": "2022-01-01",
@@ -61,8 +61,8 @@
     },
     "Latvia": {
       "id": "LVALCEAPR01IXOBSAQ",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Labour Compensation: Earnings: Private sector: Hourly for Latvia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-01-01",

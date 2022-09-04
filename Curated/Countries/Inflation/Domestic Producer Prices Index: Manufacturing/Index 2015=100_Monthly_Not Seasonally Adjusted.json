@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRPPDMMINMEI",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Domestic Producer Prices Index: Manufacturing for Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2022-06-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-08-11 15:38:02-05",
-    "popularity": 2,
-    "group_popularity": 3,
+    "popularity": 1,
+    "group_popularity": 2,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Israel"
   },
   "Czech Republic": {
     "id": "CZEPPDMQINMEI",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Domestic Producer Prices Index: Manufacturing for Czech Republic",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Hungary": {
     "id": "HUNPPDMQINMEI",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Domestic Producer Prices Index: Manufacturing for Hungary",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Iceland": {
     "id": "ISLPPDMQINMEI",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Domestic Producer Prices Index: Manufacturing for Iceland",
     "observation_start": "2006-01-01",
     "observation_end": "2022-04-01",

@@ -2,8 +2,8 @@
   "National Currency_Monthly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "MYAGM1SAM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -14,15 +14,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2019-04-29 07:02:11-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     },
     "Argentina": {
       "id": "MYAGM1ARM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -40,8 +40,8 @@
     },
     "Russian Federation": {
       "id": "MANMM101RUQ657S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for the Russian Federation",
       "observation_start": "1995-07-01",
       "observation_end": "2018-10-01",
@@ -61,8 +61,8 @@
   "National Currency_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MANMM101RUA189S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for the Russian Federation",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -80,8 +80,8 @@
     },
     "Argentina": {
       "id": "MYAGM1ARM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -99,8 +99,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM1SAM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -111,8 +111,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2019-04-29 07:02:11-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     }
@@ -120,8 +120,8 @@
   "Growth Rate Previous Period_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MANMM101RUA657S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -139,8 +139,8 @@
     },
     "Argentina": {
       "id": "MYAGM1ARM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -158,8 +158,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM1SAM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -170,8 +170,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2019-04-29 07:02:11-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     }
@@ -179,8 +179,8 @@
   "National Currency_Monthly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MANMM101RUM189S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for the Russian Federation",
       "observation_start": "1995-06-01",
       "observation_end": "2018-12-01",
@@ -191,15 +191,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 14:52:10-05",
-      "popularity": 3,
+      "popularity": 4,
       "group_popularity": 6,
       "notes": "OECD descriptor ID: MANMM101\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Argentina": {
       "id": "MYAGM1ARM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -217,8 +217,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM1SAM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -229,8 +229,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2019-04-29 07:02:11-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     }
@@ -238,8 +238,8 @@
   "Growth Rate Previous Period_Monthly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MANMM101RUM657S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for the Russian Federation",
       "observation_start": "1995-08-01",
       "observation_end": "2018-12-01",
@@ -257,8 +257,8 @@
     },
     "Argentina": {
       "id": "MYAGM1ARM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -276,8 +276,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM1SAM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -288,8 +288,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2019-04-29 07:02:11-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     }
@@ -297,8 +297,8 @@
   "National Currency_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MANMM101RUQ189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for the Russian Federation",
       "observation_start": "1995-04-01",
       "observation_end": "2022-01-01",
@@ -316,8 +316,8 @@
     },
     "Argentina": {
       "id": "MYAGM1ARM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -335,8 +335,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM1SAM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -347,8 +347,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2019-04-29 07:02:11-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     }
@@ -356,8 +356,8 @@
   "National Currency_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MANMM101RUQ189S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for the Russian Federation",
       "observation_start": "1995-04-01",
       "observation_end": "2018-10-01",
@@ -375,8 +375,8 @@
     },
     "Argentina": {
       "id": "MYAGM1ARM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -394,8 +394,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM1SAM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -406,8 +406,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2019-04-29 07:02:11-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     }
@@ -415,8 +415,8 @@
   "Growth Rate Previous Period_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MANMM101RUQ657S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for the Russian Federation",
       "observation_start": "1995-07-01",
       "observation_end": "2018-10-01",
@@ -434,8 +434,8 @@
     },
     "Argentina": {
       "id": "MYAGM1ARM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -453,8 +453,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM1SAM189N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "M1 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -465,8 +465,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2019-04-29 07:02:11-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     }

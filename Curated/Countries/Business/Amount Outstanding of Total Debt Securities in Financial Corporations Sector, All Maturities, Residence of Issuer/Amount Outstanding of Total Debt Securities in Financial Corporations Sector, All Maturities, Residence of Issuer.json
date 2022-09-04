@@ -1,8 +1,8 @@
 {
   "Malta": {
     "id": "TDSAMRIAOFCMT",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Malta",
     "observation_start": "2004-01-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "TDSAMRIAOFCAR",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Argentina",
     "observation_start": "2001-10-01",
     "observation_end": "2021-10-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "TDSAMRIAOFCHR",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Croatia",
     "observation_start": "1995-10-01",
     "observation_end": "2021-10-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "TDSAMRIAOFCCY",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Cyprus",
     "observation_start": "2004-01-01",
     "observation_end": "2021-10-01",

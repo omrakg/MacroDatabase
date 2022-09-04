@@ -2,8 +2,8 @@
   "Index 2010=100_Annual_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPISXHAINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2017-01-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLCPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Chile",
       "observation_start": "1999-01-01",
       "observation_end": "2018-01-01",
@@ -40,8 +40,8 @@
     },
     "Czech Republic": {
       "id": "CZECPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Czech Republic",
       "observation_start": "1994-01-01",
       "observation_end": "2018-01-01",
@@ -59,8 +59,8 @@
     },
     "Estonia": {
       "id": "CPSELR01EEQ661N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -78,8 +78,8 @@
     },
     "Iceland": {
       "id": "ISLCPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Iceland",
       "observation_start": "1993-01-01",
       "observation_end": "2018-04-01",
@@ -99,8 +99,8 @@
   "Index 2010=100_Monthly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPISXHMINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2018-05-01",
@@ -118,8 +118,8 @@
     },
     "Chile": {
       "id": "CHLCPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Chile",
       "observation_start": "1999-01-01",
       "observation_end": "2018-01-01",
@@ -137,8 +137,8 @@
     },
     "Czech Republic": {
       "id": "CZECPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Czech Republic",
       "observation_start": "1994-01-01",
       "observation_end": "2018-01-01",
@@ -156,8 +156,8 @@
     },
     "Estonia": {
       "id": "CPSELR01EEQ661N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -175,8 +175,8 @@
     },
     "Iceland": {
       "id": "ISLCPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Iceland",
       "observation_start": "1993-01-01",
       "observation_end": "2018-04-01",
@@ -196,8 +196,8 @@
   "Index 2010=100_Quarterly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2018-01-01",
@@ -215,8 +215,8 @@
     },
     "Chile": {
       "id": "CHLCPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Chile",
       "observation_start": "1999-01-01",
       "observation_end": "2018-01-01",
@@ -234,8 +234,8 @@
     },
     "Czech Republic": {
       "id": "CZECPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Czech Republic",
       "observation_start": "1994-01-01",
       "observation_end": "2018-01-01",
@@ -253,8 +253,8 @@
     },
     "Estonia": {
       "id": "CPSELR01EEQ661N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2018-01-01",
@@ -272,8 +272,8 @@
     },
     "Iceland": {
       "id": "ISLCPISXHQINMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Consumer Price Index: Services Less Housing for Iceland",
       "observation_start": "1993-01-01",
       "observation_end": "2018-04-01",

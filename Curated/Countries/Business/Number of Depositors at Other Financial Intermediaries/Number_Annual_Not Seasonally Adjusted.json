@@ -1,8 +1,8 @@
 {
   "Suriname": {
     "id": "SURFCDOFMPENUM",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Use of Financial Services: Number of Depositors at Other Financial Intermediaries for Suriname",
     "observation_start": "2015-01-01",
     "observation_end": "2016-01-01",
@@ -20,8 +20,8 @@
   },
   "Bangladesh": {
     "id": "BGDFCDOFMPENUM",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Use of Financial Services: Number of Depositors at Other Financial Intermediaries for Bangladesh",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -39,8 +39,8 @@
   },
   "Brunei Darussalam": {
     "id": "BRNFCDOFMPENUM",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Use of Financial Services: Number of Depositors at Other Financial Intermediaries for Brunei Darussalam",
     "observation_start": "2008-01-01",
     "observation_end": "2014-01-01",
@@ -58,8 +58,8 @@
   },
   "Guinea": {
     "id": "GINFCDOFMPENUM",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Use of Financial Services: Number of Depositors at Other Financial Intermediaries for Guinea",
     "observation_start": "2004-01-01",
     "observation_end": "2014-01-01",
@@ -77,8 +77,8 @@
   },
   "Kyrgyz Republic": {
     "id": "KGZFCDOFMPENUM",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Use of Financial Services: Number of Depositors at Other Financial Intermediaries for Kyrgyz Republic",
     "observation_start": "2004-01-01",
     "observation_end": "2010-01-01",
@@ -96,8 +96,8 @@
   },
   "Maldives": {
     "id": "MDVFCDOFMPENUM",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Use of Financial Services: Number of Depositors at Other Financial Intermediaries for Maldives",
     "observation_start": "2009-01-01",
     "observation_end": "2017-01-01",
@@ -115,8 +115,8 @@
   },
   "Rwanda": {
     "id": "RWAFCDOFMPENUM",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Use of Financial Services: Number of Depositors at Other Financial Intermediaries for Rwanda",
     "observation_start": "2011-01-01",
     "observation_end": "2017-01-01",
@@ -134,8 +134,8 @@
   },
   "Samoa": {
     "id": "WSMFCDOFMPENUM",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Use of Financial Services: Number of Depositors at Other Financial Intermediaries for Samoa",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",

@@ -2,8 +2,8 @@
   "Percent Change from Year Ago_Annual_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGDPRAPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Israel",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2021-10-01",
@@ -40,8 +40,8 @@
     },
     "Czech Republic": {
       "id": "CZEGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Czech Republic",
       "observation_start": "1997-01-01",
       "observation_end": "2022-04-01",
@@ -59,8 +59,8 @@
     },
     "Hungary": {
       "id": "HUNGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Hungary",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -78,8 +78,8 @@
     },
     "Iceland": {
       "id": "ISLGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Iceland",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -99,8 +99,8 @@
   "Percent Change from Year Ago_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Israel",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -118,8 +118,8 @@
     },
     "Chile": {
       "id": "CHLGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2021-10-01",
@@ -137,8 +137,8 @@
     },
     "Czech Republic": {
       "id": "CZEGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Czech Republic",
       "observation_start": "1997-01-01",
       "observation_end": "2022-04-01",
@@ -156,8 +156,8 @@
     },
     "Hungary": {
       "id": "HUNGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Hungary",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",
@@ -175,8 +175,8 @@
     },
     "Iceland": {
       "id": "ISLGDPRQPSMEI",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Constant Price Gross Domestic Product in Iceland",
       "observation_start": "1996-01-01",
       "observation_end": "2022-01-01",

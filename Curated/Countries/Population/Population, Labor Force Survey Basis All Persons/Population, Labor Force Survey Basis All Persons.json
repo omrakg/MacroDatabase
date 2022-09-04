@@ -2,8 +2,8 @@
   "Persons_Annual_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "LFPOTTTTTRA647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Turkey",
       "observation_start": "2006-01-01",
       "observation_end": "2014-01-01",
@@ -21,8 +21,8 @@
     },
     "Luxembourg": {
       "id": "LFPOTTTTLUQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Luxembourg",
       "observation_start": "1999-04-01",
       "observation_end": "2014-07-01",
@@ -40,8 +40,8 @@
     },
     "Poland": {
       "id": "LFPOTTTTPLQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Poland",
       "observation_start": "1999-01-01",
       "observation_end": "2014-07-01",
@@ -59,8 +59,8 @@
     },
     "Slovenia": {
       "id": "LFPOTTTTSIQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Slovenia",
       "observation_start": "1999-01-01",
       "observation_end": "2015-07-01",
@@ -80,8 +80,8 @@
   "Persons_Quarterly_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "LFPOTTTTTRQ647N",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Turkey",
       "observation_start": "2006-01-01",
       "observation_end": "2014-10-01",
@@ -99,8 +99,8 @@
     },
     "Luxembourg": {
       "id": "LFPOTTTTLUQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Luxembourg",
       "observation_start": "1999-04-01",
       "observation_end": "2014-07-01",
@@ -118,8 +118,8 @@
     },
     "Poland": {
       "id": "LFPOTTTTPLQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Poland",
       "observation_start": "1999-01-01",
       "observation_end": "2014-07-01",
@@ -137,8 +137,8 @@
     },
     "Slovenia": {
       "id": "LFPOTTTTSIQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Slovenia",
       "observation_start": "1999-01-01",
       "observation_end": "2015-07-01",
@@ -158,8 +158,8 @@
   "Persons_Quarterly_Seasonally Adjusted": {
     "Turkey": {
       "id": "LFPOTTTTTRQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Turkey",
       "observation_start": "2006-01-01",
       "observation_end": "2014-10-01",
@@ -177,8 +177,8 @@
     },
     "Luxembourg": {
       "id": "LFPOTTTTLUQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Luxembourg",
       "observation_start": "1999-04-01",
       "observation_end": "2014-07-01",
@@ -196,8 +196,8 @@
     },
     "Poland": {
       "id": "LFPOTTTTPLQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Poland",
       "observation_start": "1999-01-01",
       "observation_end": "2014-07-01",
@@ -215,8 +215,8 @@
     },
     "Slovenia": {
       "id": "LFPOTTTTSIQ647S",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Population, Labor Force Survey Basis: All Ages: All Persons for Slovenia",
       "observation_start": "1999-01-01",
       "observation_end": "2015-07-01",

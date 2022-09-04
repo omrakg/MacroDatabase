@@ -2,8 +2,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLSLRTCR01IXOBSAM",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Sales: Retail trade: Car registration: Total for Iceland",
       "observation_start": "1992-01-01",
       "observation_end": "2018-09-01",
@@ -23,8 +23,8 @@
   "Number_Monthly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLSLRTCR01MLM",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Sales: Retail trade: Car registration: Total for Iceland",
       "observation_start": "1992-01-01",
       "observation_end": "2022-05-01",
@@ -44,8 +44,8 @@
   "Number_Monthly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLSLRTCR01MLSAM",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "Sales: Retail trade: Car registration: Total for Iceland",
       "observation_start": "1992-01-01",
       "observation_end": "2019-12-01",
