@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Windham County, CT    |                 0 |
+| Windham County, CT    |               146 |
 | New Haven County, CT  |               146 |
 | Tolland County, CT    |               146 |
 | Fairfield County, CT  |               146 |

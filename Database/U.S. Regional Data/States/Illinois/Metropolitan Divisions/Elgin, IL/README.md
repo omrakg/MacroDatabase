@@ -1,6 +1,6 @@
 | id                     | title                                                                                                     | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS20994Q         | All-Transactions House Price Index for Elgin, IL (MSAD)                                                   | 1979-04-01          | 2022-01-01        |
+| ATNHPIUS20994Q         | All-Transactions House Price Index for Elgin, IL (MSAD)                                                   | 1979-04-01          | 2022-04-01        |
 | SMU17209940000000001   | All Employees: Total Nonfarm in Elgin, IL (MD)                                                            | 1990-01-01          | 2022-07-01        |
 | SMU17209940000000001A  | All Employees: Total Nonfarm in Elgin, IL (MD)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU17209940000000001SA | All Employees: Total Nonfarm in Elgin, IL (MD)                                                            | 1990-01-01          | 2022-07-01        |

@@ -1,12 +1,12 @@
 | id                        | title                                                                                                 | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU26300            | Housing Inventory: Active Listing Count in Hot Springs, AR (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM26300          | Housing Inventory: Active Listing Count Month-Over-Month in Hot Springs, AR (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY26300          | Housing Inventory: Active Listing Count Year-Over-Year in Hot Springs, AR (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS26300Q            | All-Transactions House Price Index for Hot Springs, AR (MSA)                                          | 1992-01-01          | 2022-01-01        |
-| AVELISPRI26300            | Housing Inventory: Average Listing Price in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM26300          | Housing Inventory: Average Listing Price Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY26300          | Housing Inventory: Average Listing Price Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU26300            | Housing Inventory: Active Listing Count in Hot Springs, AR (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM26300          | Housing Inventory: Active Listing Count Month-Over-Month in Hot Springs, AR (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY26300          | Housing Inventory: Active Listing Count Year-Over-Year in Hot Springs, AR (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS26300Q            | All-Transactions House Price Index for Hot Springs, AR (MSA)                                          | 1992-01-01          | 2022-04-01        |
+| AVELISPRI26300            | Housing Inventory: Average Listing Price in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM26300          | Housing Inventory: Average Listing Price Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY26300          | Housing Inventory: Average Listing Price Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-08-01        |
 | ENUC263030010             | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC263030010SA           | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC263040010             | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2021-10-01        |
@@ -25,47 +25,47 @@
 | HSPBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 1988-01-01          | 2022-07-01        |
 | HSPGOVT                   | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | HSPGOVTN                  | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-07-01        |
-| HSPLF                     | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| HSPLFN                    | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| HSPLF                     | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| HSPLFN                    | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | HSPNA                     | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | HSPNAN                    | All Employees: Total Nonfarm in Hot Springs, AR (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | HSPPCPI                   | Per Capita Personal Income in Hot Springs, AR (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | HSPPOP                    | Resident Population in Hot Springs, AR (MSA)                                                          | 2000-01-01          | 2021-01-01        |
-| HSPUR                     | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-06-01        |
-| HSPURN                    | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-06-01        |
+| HSPUR                     | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-07-01        |
+| HSPURN                    | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | IRPD26300                 | Implicit Regional Price Deflator for Hot Springs, AR (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT052630000000003A     | Unemployment Rate in Hot Springs, AR (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LAUMT052630000000004      | Unemployed Persons in Hot Springs, AR (MSA)                                                           | 1990-01-01          | 2022-06-01        |
+| LAUMT052630000000004      | Unemployed Persons in Hot Springs, AR (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | LAUMT052630000000004A     | Unemployed Persons in Hot Springs, AR (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT052630000000005      | Employed Persons in Hot Springs, AR (MSA)                                                             | 1990-01-01          | 2022-06-01        |
+| LAUMT052630000000005      | Employed Persons in Hot Springs, AR (MSA)                                                             | 1990-01-01          | 2022-07-01        |
 | LAUMT052630000000005A     | Employed Persons in Hot Springs, AR (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT052630000000006A     | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR26300          | Housing Inventory: Median Days on Market in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM26300        | Housing Inventory: Median Days on Market Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY26300        | Housing Inventory: Median Days on Market Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI26300            | Housing Inventory: Median Listing Price in Hot Springs, AR (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM26300          | Housing Inventory: Median Listing Price Month-Over-Month in Hot Springs, AR (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE26300   | Housing Inventory: Median Listing Price per Square Feet in Hot Springs, AR (CBSA)                     | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM26300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hot Springs, AR (CBSA)    | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY26300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hot Springs, AR (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY26300          | Housing Inventory: Median Listing Price Year-Over-Year in Hot Springs, AR (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE26300            | Housing Inventory: Median Home Size in Square Feet in Hot Springs, AR (CBSA)                          | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM26300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hot Springs, AR (CBSA)         | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY26300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hot Springs, AR (CBSA)           | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU26300            | Housing Inventory: New Listing Count in Hot Springs, AR (CBSA)                                        | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM26300          | Housing Inventory: New Listing Count Month-Over-Month in Hot Springs, AR (CBSA)                       | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY26300          | Housing Inventory: New Listing Count Year-Over-Year in Hot Springs, AR (CBSA)                         | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR26300          | Housing Inventory: Median Days on Market in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM26300        | Housing Inventory: Median Days on Market Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY26300        | Housing Inventory: Median Days on Market Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI26300            | Housing Inventory: Median Listing Price in Hot Springs, AR (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM26300          | Housing Inventory: Median Listing Price Month-Over-Month in Hot Springs, AR (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE26300   | Housing Inventory: Median Listing Price per Square Feet in Hot Springs, AR (CBSA)                     | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM26300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hot Springs, AR (CBSA)    | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY26300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hot Springs, AR (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY26300          | Housing Inventory: Median Listing Price Year-Over-Year in Hot Springs, AR (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE26300            | Housing Inventory: Median Home Size in Square Feet in Hot Springs, AR (CBSA)                          | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM26300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hot Springs, AR (CBSA)         | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY26300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hot Springs, AR (CBSA)           | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU26300            | Housing Inventory: New Listing Count in Hot Springs, AR (CBSA)                                        | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM26300          | Housing Inventory: New Listing Count Month-Over-Month in Hot Springs, AR (CBSA)                       | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY26300          | Housing Inventory: New Listing Count Year-Over-Year in Hot Springs, AR (CBSA)                         | 2017-07-01          | 2022-08-01        |
 | NGMP26300                 | Total Gross Domestic Product for Hot Springs, AR (MSA)                                                | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA126300          | U.S. Granted Utility Patents Originating in Hot Springs, AR (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU26300            | Housing Inventory: Pending Listing Count in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM26300          | Housing Inventory: Pending Listing Count Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY26300          | Housing Inventory: Pending Listing Count Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU26300            | Housing Inventory: Price Increased Count in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM26300          | Housing Inventory: Price Increased Count Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY26300          | Housing Inventory: Price Increased Count Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU26300            | Housing Inventory: Price Reduced Count in Hot Springs, AR (CBSA)                                      | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM26300          | Housing Inventory: Price Reduced Count Month-Over-Month in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY26300          | Housing Inventory: Price Reduced Count Year-Over-Year in Hot Springs, AR (CBSA)                       | 2017-07-01          | 2022-07-01        |
+| PENLISCOU26300            | Housing Inventory: Pending Listing Count in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM26300          | Housing Inventory: Pending Listing Count Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY26300          | Housing Inventory: Pending Listing Count Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU26300            | Housing Inventory: Price Increased Count in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM26300          | Housing Inventory: Price Increased Count Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY26300          | Housing Inventory: Price Increased Count Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU26300            | Housing Inventory: Price Reduced Count in Hot Springs, AR (CBSA)                                      | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM26300          | Housing Inventory: Price Reduced Count Month-Over-Month in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY26300          | Housing Inventory: Price Reduced Count Year-Over-Year in Hot Springs, AR (CBSA)                       | 2017-07-01          | 2022-08-01        |
 | QGMP26300                 | Total Quantity Indexes for Real GDP for Hot Springs, AR (MSA)                                         | 2001-01-01          | 2020-01-01        |
 | RGMP26300                 | Total Real Gross Domestic Product for Hot Springs, AR (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | RPI26300                  | Real Personal Income for Hot Springs, AR (MSA)                                                        | 2008-01-01          | 2020-01-01        |

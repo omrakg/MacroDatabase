@@ -1,12 +1,12 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU22540            | Housing Inventory: Active Listing Count in Fond Du Lac, WI (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM22540          | Housing Inventory: Active Listing Count Month-Over-Month in Fond Du Lac, WI (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY22540          | Housing Inventory: Active Listing Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS22540Q            | All-Transactions House Price Index for Fond du Lac, WI (MSA)                                                     | 1986-04-01          | 2022-01-01        |
-| AVELISPRI22540            | Housing Inventory: Average Listing Price in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM22540          | Housing Inventory: Average Listing Price Month-Over-Month in Fond Du Lac, WI (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY22540          | Housing Inventory: Average Listing Price Year-Over-Year in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU22540            | Housing Inventory: Active Listing Count in Fond Du Lac, WI (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM22540          | Housing Inventory: Active Listing Count Month-Over-Month in Fond Du Lac, WI (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY22540          | Housing Inventory: Active Listing Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS22540Q            | All-Transactions House Price Index for Fond du Lac, WI (MSA)                                                     | 1986-04-01          | 2022-04-01        |
+| AVELISPRI22540            | Housing Inventory: Average Listing Price in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM22540          | Housing Inventory: Average Listing Price Month-Over-Month in Fond Du Lac, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY22540          | Housing Inventory: Average Listing Price Year-Over-Year in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | ENUC225430010             | Total Quarterly Wages in Fond du Lac, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC225430010SA           | Total Quarterly Wages in Fond du Lac, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC225440010             | Average Weekly Wages for Employees in Total Covered Establishments in Fond du Lac, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -30,8 +30,8 @@
 | FOND555INFON              | All Employees: Information in Fond du Lac, WI (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | FOND555LEIH               | All Employees: Leisure and Hospitality in Fond du Lac, WI (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | FOND555LEIHN              | All Employees: Leisure and Hospitality in Fond du Lac, WI (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| FOND555LF                 | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| FOND555LFN                | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| FOND555LF                 | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| FOND555LFN                | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | FOND555MFG                | All Employees: Manufacturing in Fond du Lac, WI (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | FOND555MFGN               | All Employees: Manufacturing in Fond du Lac, WI (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | FOND555NA                 | All Employees: Total Nonfarm in Fond du Lac, WI (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -45,41 +45,41 @@
 | FOND555SRVON              | All Employees: Other Services in Fond du Lac, WI (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | FOND555TRAD               | All Employees: Trade, Transportation, and Utilities in Fond du Lac, WI (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | FOND555TRADN              | All Employees: Trade, Transportation, and Utilities in Fond du Lac, WI (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| FOND555UR                 | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| FOND555URN                | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| FOND555UR                 | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| FOND555URN                | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | IRPD22540                 | Implicit Regional Price Deflator for Fond du Lac, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT552254000000003A     | Unemployment Rate in Fond du Lac, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT552254000000004      | Unemployed Persons in Fond du Lac, WI (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT552254000000004      | Unemployed Persons in Fond du Lac, WI (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT552254000000004A     | Unemployed Persons in Fond du Lac, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT552254000000005      | Employed Persons in Fond du Lac, WI (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT552254000000005      | Employed Persons in Fond du Lac, WI (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT552254000000005A     | Employed Persons in Fond du Lac, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT552254000000006A     | Civilian Labor Force in Fond du Lac, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR22540          | Housing Inventory: Median Days on Market in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM22540        | Housing Inventory: Median Days on Market Month-Over-Month in Fond Du Lac, WI (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY22540        | Housing Inventory: Median Days on Market Year-Over-Year in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI22540            | Housing Inventory: Median Listing Price in Fond Du Lac, WI (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM22540          | Housing Inventory: Median Listing Price Month-Over-Month in Fond Du Lac, WI (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE22540   | Housing Inventory: Median Listing Price per Square Feet in Fond Du Lac, WI (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM22540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Fond Du Lac, WI (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY22540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Fond Du Lac, WI (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY22540          | Housing Inventory: Median Listing Price Year-Over-Year in Fond Du Lac, WI (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE22540            | Housing Inventory: Median Home Size in Square Feet in Fond Du Lac, WI (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM22540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Fond Du Lac, WI (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY22540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Fond Du Lac, WI (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU22540            | Housing Inventory: New Listing Count in Fond Du Lac, WI (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM22540          | Housing Inventory: New Listing Count Month-Over-Month in Fond Du Lac, WI (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY22540          | Housing Inventory: New Listing Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR22540          | Housing Inventory: Median Days on Market in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM22540        | Housing Inventory: Median Days on Market Month-Over-Month in Fond Du Lac, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY22540        | Housing Inventory: Median Days on Market Year-Over-Year in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI22540            | Housing Inventory: Median Listing Price in Fond Du Lac, WI (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM22540          | Housing Inventory: Median Listing Price Month-Over-Month in Fond Du Lac, WI (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE22540   | Housing Inventory: Median Listing Price per Square Feet in Fond Du Lac, WI (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM22540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Fond Du Lac, WI (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY22540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Fond Du Lac, WI (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY22540          | Housing Inventory: Median Listing Price Year-Over-Year in Fond Du Lac, WI (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE22540            | Housing Inventory: Median Home Size in Square Feet in Fond Du Lac, WI (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM22540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Fond Du Lac, WI (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY22540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Fond Du Lac, WI (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU22540            | Housing Inventory: New Listing Count in Fond Du Lac, WI (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM22540          | Housing Inventory: New Listing Count Month-Over-Month in Fond Du Lac, WI (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY22540          | Housing Inventory: New Listing Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP22540                 | Total Gross Domestic Product for Fond du Lac, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA122540          | U.S. Granted Utility Patents Originating in Fond du Lac, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU22540            | Housing Inventory: Pending Listing Count in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM22540          | Housing Inventory: Pending Listing Count Month-Over-Month in Fond Du Lac, WI (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY22540          | Housing Inventory: Pending Listing Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU22540            | Housing Inventory: Price Increased Count in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOU22540            | Housing Inventory: Pending Listing Count in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM22540          | Housing Inventory: Pending Listing Count Month-Over-Month in Fond Du Lac, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY22540          | Housing Inventory: Pending Listing Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU22540            | Housing Inventory: Price Increased Count in Fond Du Lac, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM22540          | Housing Inventory: Price Increased Count Month-Over-Month in Fond Du Lac, WI (CBSA)                              | 2017-08-01          | 2021-08-01        |
 | PRIINCCOUYY22540          | Housing Inventory: Price Increased Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                | 2017-10-01          | 2022-07-01        |
-| PRIREDCOU22540            | Housing Inventory: Price Reduced Count in Fond Du Lac, WI (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM22540          | Housing Inventory: Price Reduced Count Month-Over-Month in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY22540          | Housing Inventory: Price Reduced Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU22540            | Housing Inventory: Price Reduced Count in Fond Du Lac, WI (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM22540          | Housing Inventory: Price Reduced Count Month-Over-Month in Fond Du Lac, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY22540          | Housing Inventory: Price Reduced Count Year-Over-Year in Fond Du Lac, WI (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP22540                 | Total Quantity Indexes for Real GDP for Fond du Lac, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP22540                 | Total Real Gross Domestic Product for Fond du Lac, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI22540                  | Real Personal Income for Fond du Lac, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

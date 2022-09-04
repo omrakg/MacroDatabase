@@ -1,12 +1,12 @@
 | id                        | title                                                                                                                 | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU25260            | Housing Inventory: Active Listing Count in Hanford-Corcoran, CA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM25260          | Housing Inventory: Active Listing Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY25260          | Housing Inventory: Active Listing Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS25260Q            | All-Transactions House Price Index for Hanford-Corcoran, CA (MSA)                                                     | 1986-10-01          | 2022-01-01        |
-| AVELISPRI25260            | Housing Inventory: Average Listing Price in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM25260          | Housing Inventory: Average Listing Price Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY25260          | Housing Inventory: Average Listing Price Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU25260            | Housing Inventory: Active Listing Count in Hanford-Corcoran, CA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM25260          | Housing Inventory: Active Listing Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY25260          | Housing Inventory: Active Listing Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS25260Q            | All-Transactions House Price Index for Hanford-Corcoran, CA (MSA)                                                     | 1986-10-01          | 2022-04-01        |
+| AVELISPRI25260            | Housing Inventory: Average Listing Price in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM25260          | Housing Inventory: Average Listing Price Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY25260          | Housing Inventory: Average Listing Price Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | ENUC252630010             | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC252630010SA           | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC252640010             | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -29,8 +29,8 @@
 | HANF206INFON              | All Employees: Information in Hanford-Corcoran, CA (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | HANF206LEIH               | All Employees: Leisure and Hospitality in Hanford-Corcoran, CA (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | HANF206LEIHN              | All Employees: Leisure and Hospitality in Hanford-Corcoran, CA (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| HANF206LF                 | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| HANF206LFN                | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| HANF206LF                 | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| HANF206LFN                | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | HANF206MFG                | All Employees: Manufacturing in Hanford-Corcoran, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | HANF206MFGN               | All Employees: Manufacturing in Hanford-Corcoran, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | HANF206NA                 | All Employees: Total Nonfarm in Hanford-Corcoran, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -44,42 +44,42 @@
 | HANF206SRVON              | All Employees: Other Services in Hanford-Corcoran, CA (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | HANF206TRAD               | All Employees: Trade, Transportation, and Utilities in Hanford-Corcoran, CA (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | HANF206TRADN              | All Employees: Trade, Transportation, and Utilities in Hanford-Corcoran, CA (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| HANF206UR                 | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| HANF206URN                | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| HANF206UR                 | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| HANF206URN                | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | HNCPOP                    | Resident Population in Hanford-Corcoran, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | IRPD25260                 | Implicit Regional Price Deflator for Hanford-Corcoran, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT062526000000003A     | Unemployment Rate in Hanford-Corcoran, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT062526000000004      | Unemployed Persons in Hanford-Corcoran, CA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT062526000000004      | Unemployed Persons in Hanford-Corcoran, CA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT062526000000004A     | Unemployed Persons in Hanford-Corcoran, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT062526000000005      | Employed Persons in Hanford-Corcoran, CA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT062526000000005      | Employed Persons in Hanford-Corcoran, CA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT062526000000005A     | Employed Persons in Hanford-Corcoran, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT062526000000006A     | Civilian Labor Force in Hanford-Corcoran, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR25260          | Housing Inventory: Median Days on Market in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM25260        | Housing Inventory: Median Days on Market Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY25260        | Housing Inventory: Median Days on Market Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI25260            | Housing Inventory: Median Listing Price in Hanford-Corcoran, CA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM25260          | Housing Inventory: Median Listing Price Month-Over-Month in Hanford-Corcoran, CA (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE25260   | Housing Inventory: Median Listing Price per Square Feet in Hanford-Corcoran, CA (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM25260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hanford-Corcoran, CA (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY25260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hanford-Corcoran, CA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY25260          | Housing Inventory: Median Listing Price Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE25260            | Housing Inventory: Median Home Size in Square Feet in Hanford-Corcoran, CA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM25260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hanford-Corcoran, CA (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY25260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hanford-Corcoran, CA (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU25260            | Housing Inventory: New Listing Count in Hanford-Corcoran, CA (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM25260          | Housing Inventory: New Listing Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY25260          | Housing Inventory: New Listing Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR25260          | Housing Inventory: Median Days on Market in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM25260        | Housing Inventory: Median Days on Market Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY25260        | Housing Inventory: Median Days on Market Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI25260            | Housing Inventory: Median Listing Price in Hanford-Corcoran, CA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM25260          | Housing Inventory: Median Listing Price Month-Over-Month in Hanford-Corcoran, CA (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE25260   | Housing Inventory: Median Listing Price per Square Feet in Hanford-Corcoran, CA (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM25260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hanford-Corcoran, CA (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY25260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hanford-Corcoran, CA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY25260          | Housing Inventory: Median Listing Price Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE25260            | Housing Inventory: Median Home Size in Square Feet in Hanford-Corcoran, CA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM25260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hanford-Corcoran, CA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY25260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hanford-Corcoran, CA (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU25260            | Housing Inventory: New Listing Count in Hanford-Corcoran, CA (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM25260          | Housing Inventory: New Listing Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY25260          | Housing Inventory: New Listing Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP25260                 | Total Gross Domestic Product for Hanford-Corcoran, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA125260          | U.S. Granted Utility Patents Originating in Hanford-Corcoran, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU25260            | Housing Inventory: Pending Listing Count in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM25260          | Housing Inventory: Pending Listing Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY25260          | Housing Inventory: Pending Listing Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU25260            | Housing Inventory: Price Increased Count in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM25260          | Housing Inventory: Price Increased Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PENLISCOU25260            | Housing Inventory: Pending Listing Count in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM25260          | Housing Inventory: Pending Listing Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY25260          | Housing Inventory: Pending Listing Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU25260            | Housing Inventory: Price Increased Count in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM25260          | Housing Inventory: Price Increased Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | PRIINCCOUYY25260          | Housing Inventory: Price Increased Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU25260            | Housing Inventory: Price Reduced Count in Hanford-Corcoran, CA (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM25260          | Housing Inventory: Price Reduced Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY25260          | Housing Inventory: Price Reduced Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU25260            | Housing Inventory: Price Reduced Count in Hanford-Corcoran, CA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM25260          | Housing Inventory: Price Reduced Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY25260          | Housing Inventory: Price Reduced Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP25260                 | Total Quantity Indexes for Real GDP for Hanford-Corcoran, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP25260                 | Total Real Gross Domestic Product for Hanford-Corcoran, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI25260                  | Real Personal Income for Hanford-Corcoran, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

@@ -14,7 +14,7 @@
 | Service-Providing                    |                 3 |
 | Total Private                        |                29 |
 | Private Service-Providing            |                29 |
-| Mining and Logging                   |                41 |
+| Mining and Logging                   |                 0 |
 | Professional and Business Services   |                 0 |
 | Leisure and Hospitality              |                43 |
 | Construction                         |                 0 |

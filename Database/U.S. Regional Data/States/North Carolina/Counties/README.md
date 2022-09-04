@@ -32,7 +32,7 @@
 | Lincoln County, NC      |               147 |
 | Cabarrus County, NC     |               147 |
 | Mecklenburg County, NC  |               146 |
-| Perquimans County, NC   |                90 |
+| Perquimans County, NC   |                 0 |
 | Jones County, NC        |                90 |
 | Columbus County, NC     |                90 |
 | Graham County, NC       |                88 |
@@ -47,7 +47,7 @@
 | Macon County, NC        |                90 |
 | Rutherford County, NC   |               147 |
 | Iredell County, NC      |               147 |
-| Swain County, NC        |                 0 |
+| Swain County, NC        |                88 |
 | New Hanover County, NC  |               147 |
 | Forsyth County, NC      |               147 |
 | Buncombe County, NC     |               147 |
@@ -92,7 +92,7 @@
 | Duplin County, NC       |                90 |
 | Haywood County, NC      |               146 |
 | Carteret County, NC     |               147 |
-| Madison County, NC      |                90 |
+| Madison County, NC      |                 0 |
 | Mitchell County, NC     |                89 |
 | Cherokee County, NC     |                89 |
 | Hyde County, NC         |                87 |

@@ -27,7 +27,7 @@
 | Covington County, AL  |                89 |
 | Lee County, AL        |               147 |
 | Conecuh County, AL    |                88 |
-| Montgomery County, AL |               147 |
+| Montgomery County, AL |                 0 |
 | Shelby County, AL     |               147 |
 | Randolph County, AL   |                90 |
 | Barbour County, AL    |                89 |

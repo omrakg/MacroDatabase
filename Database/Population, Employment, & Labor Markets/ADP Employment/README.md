@@ -1,31 +1,66 @@
-| id      | title                                                                    | observation_start   | observation_end   |
-|---------|--------------------------------------------------------------------------|---------------------|-------------------|
-| NPPBUS  | Nonfarm Private Professional and Business Payroll Employment             | 2002-04-01          | 2022-05-01        |
-| NPPCON  | Nonfarm Private Construction Payroll Employment                          | 2002-04-01          | 2022-05-01        |
-| NPPFIN  | Nonfarm Private Financial Activities Payroll Employment                  | 2002-04-01          | 2022-05-01        |
-| NPPGPL  | Nonfarm Private Goods - Producing Large Payroll Employment (> 499)       | 2005-01-01          | 2022-05-01        |
-| NPPGPL1 | Nonfarm Private Goods - Producing Large Payroll Employment (500 - 999)   | 2005-01-01          | 2022-05-01        |
-| NPPGPL2 | Nonfarm Private Goods - Producing Large Payroll Employment (1000+)       | 2005-01-01          | 2022-05-01        |
-| NPPGPM  | Nonfarm Private Goods - Producing Medium Payroll Employment (50 - 499)   | 2005-01-01          | 2022-05-01        |
-| NPPGPS  | Nonfarm Private Goods - Producing Small Payroll Employment (1 - 49)      | 2005-01-01          | 2022-05-01        |
-| NPPGPS1 | Nonfarm Private Goods - Producing Small Payroll Employment (1 - 19)      | 2005-01-01          | 2022-05-01        |
-| NPPGPS2 | Nonfarm Private Goods - Producing Small Payroll Employment (20 - 49)     | 2005-01-01          | 2022-05-01        |
-| NPPGPT  | Nonfarm Private Goods - Producing Payroll Employment                     | 2002-04-01          | 2022-05-01        |
-| NPPMNF  | Nonfarm Private Manufacturing Payroll Employment                         | 2002-04-01          | 2022-05-01        |
-| NPPSPL  | Nonfarm Private Service - Providing Large Payroll Employment (> 499)     | 2005-01-01          | 2022-05-01        |
-| NPPSPL1 | Nonfarm Private Service - Providing Large Payroll Employment (500 - 999) | 2005-01-01          | 2022-05-01        |
-| NPPSPL2 | Nonfarm Private Service - Providing Large Payroll Employment (1000+)     | 2005-01-01          | 2022-05-01        |
-| NPPSPM  | Nonfarm Private Service - Providing Medium Payroll Employment (50 - 499) | 2005-01-01          | 2022-05-01        |
-| NPPSPS  | Nonfarm Private Service - Providing Small Payroll Employment (1 - 49)    | 2005-01-01          | 2022-05-01        |
-| NPPSPS1 | Nonfarm Private Service - Providing Small Payroll Employment (1 - 19)    | 2005-01-01          | 2022-05-01        |
-| NPPSPS2 | Nonfarm Private Service - Providing Small Payroll Employment (20 - 49)   | 2005-01-01          | 2022-05-01        |
-| NPPSPT  | Nonfarm Private Service - Providing Payroll Employment                   | 2002-04-01          | 2022-05-01        |
-| NPPTL   | Nonfarm Private Large Payroll Employment (> 499)                         | 2005-01-01          | 2022-05-01        |
-| NPPTL1  | Nonfarm Private Large Payroll Employment (500 - 999)                     | 2005-01-01          | 2022-05-01        |
-| NPPTL2  | Nonfarm Private Large Payroll Employment (1000+)                         | 2005-01-01          | 2022-05-01        |
-| NPPTM   | Nonfarm Private Medium Payroll Employment (50 - 499)                     | 2005-01-01          | 2022-05-01        |
-| NPPTS   | Nonfarm Private Small Payroll Employment (1 - 49)                        | 2005-01-01          | 2022-05-01        |
-| NPPTS1  | Nonfarm Private Small Payroll Employment (1 - 19)                        | 2005-01-01          | 2022-05-01        |
-| NPPTS2  | Nonfarm Private Small Payroll Employment (20 - 49)                       | 2005-01-01          | 2022-05-01        |
-| NPPTTL  | Total Nonfarm Private Payroll Employment                                 | 2002-04-01          | 2022-05-01        |
-| NPPTTU  | Nonfarm Private Trade, Transportation, and Utilities Payroll Employment  | 2002-04-01          | 2022-05-01        |
+| id                   | title                                                                         | observation_start   | observation_end   |
+|----------------------|-------------------------------------------------------------------------------|---------------------|-------------------|
+| ADPMES1T19ENERNSA    | Nonfarm Private Employment in Small Establishments with 1 to 19 Employees     | 2010-01-01          | 2022-08-01        |
+| ADPMES1T19ENERSA     | Nonfarm Private Employment in Small Establishments with 1 to 19 Employees     | 2010-01-01          | 2022-08-01        |
+| ADPMES20T49ENERNSA   | Nonfarm Private Employment in Small Establishments with 20 to 49 Employees    | 2010-01-01          | 2022-08-01        |
+| ADPMES20T49ENERSA    | Nonfarm Private Employment in Small Establishments with 20 to 49 Employees    | 2010-01-01          | 2022-08-01        |
+| ADPMES50T249ENERNSA  | Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees  | 2010-01-01          | 2022-08-01        |
+| ADPMES50T249ENERSA   | Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees  | 2010-01-01          | 2022-08-01        |
+| ADPMES250T499ENERNSA | Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees | 2010-01-01          | 2022-08-01        |
+| ADPMES250T499ENERSA  | Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees | 2010-01-01          | 2022-08-01        |
+| ADPMES500PENERNSA    | Nonfarm Private Employment in Large Establishments with 500+ Employees        | 2010-01-01          | 2022-08-01        |
+| ADPMES500PENERSA     | Nonfarm Private Employment in Large Establishments with 500+ Employees        | 2010-01-01          | 2022-08-01        |
+| ADPMINDCONNERNSA     | Nonfarm Private Payroll Employment for Construction                           | 2010-01-01          | 2022-08-01        |
+| ADPMINDCONNERSA      | Nonfarm Private Payroll Employment for Construction                           | 2010-01-01          | 2022-08-01        |
+| ADPMINDEDHLTNERNSA   | Nonfarm Private Payroll Employment for Education and Health Services          | 2010-01-01          | 2022-08-01        |
+| ADPMINDEDHLTNERSA    | Nonfarm Private Payroll Employment for Education and Health Services          | 2010-01-01          | 2022-08-01        |
+| ADPMINDFINNERNSA     | Nonfarm Private Payroll Employment for Financial Activities                   | 2010-01-01          | 2022-08-01        |
+| ADPMINDFINNERSA      | Nonfarm Private Payroll Employment for Financial Activities                   | 2010-01-01          | 2022-08-01        |
+| ADPMINDINFONERNSA    | Nonfarm Private Payroll Employment for Information                            | 2010-01-01          | 2022-08-01        |
+| ADPMINDINFONERSA     | Nonfarm Private Payroll Employment for Information                            | 2010-01-01          | 2022-08-01        |
+| ADPMINDLSHPNERNSA    | Nonfarm Private Payroll Employment for Leisure and Hospitality                | 2010-01-01          | 2022-08-01        |
+| ADPMINDLSHPNERSA     | Nonfarm Private Payroll Employment for Leisure and Hospitality                | 2010-01-01          | 2022-08-01        |
+| ADPMINDMANNERNSA     | Nonfarm Private Payroll Employment for Manufacturing                          | 2010-01-01          | 2022-08-01        |
+| ADPMINDMANNERSA      | Nonfarm Private Payroll Employment for Manufacturing                          | 2010-01-01          | 2022-08-01        |
+| ADPMINDNRMINNERNSA   | Nonfarm Private Payroll Employment for Natural Resources and Mining           | 2010-01-01          | 2022-08-01        |
+| ADPMINDNRMINNERSA    | Nonfarm Private Payroll Employment for Natural Resources and Mining           | 2010-01-01          | 2022-08-01        |
+| ADPMINDOTHSRVNERNSA  | Nonfarm Private Payroll Employment for Other Services                         | 2010-01-01          | 2022-08-01        |
+| ADPMINDOTHSRVNERSA   | Nonfarm Private Payroll Employment for Other Services                         | 2010-01-01          | 2022-08-01        |
+| ADPMINDPROBUSNERNSA  | Nonfarm Private Payroll Employment for Professional and Business Services     | 2010-01-01          | 2022-08-01        |
+| ADPMINDPROBUSNERSA   | Nonfarm Private Payroll Employment for Professional and Business Services     | 2010-01-01          | 2022-08-01        |
+| ADPMINDTTUNERNSA     | Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities   | 2010-01-01          | 2022-08-01        |
+| ADPMINDTTUNERSA      | Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities   | 2010-01-01          | 2022-08-01        |
+| ADPMNUSNERNSA        | Total Nonfarm Private Payroll Employment                                      | 2010-01-01          | 2022-08-01        |
+| ADPMNUSNERSA         | Total Nonfarm Private Payroll Employment                                      | 2010-01-01          | 2022-08-01        |
+| ADPWES1T19ENERNSA    | Nonfarm Private Employment in Small Establishments with 1 to 19 Employees     | 2010-01-02          | 2022-06-11        |
+| ADPWES1T19ENERSA     | Nonfarm Private Employment in Small Establishments with 1 to 19 Employees     | 2010-01-02          | 2022-06-11        |
+| ADPWES20T49ENERNSA   | Nonfarm Private Employment in Small Establishments with 20 to 49 Employees    | 2010-01-02          | 2022-06-11        |
+| ADPWES20T49ENERSA    | Nonfarm Private Employment in Small Establishments with 20 to 49 Employees    | 2010-01-02          | 2022-06-11        |
+| ADPWES50T249ENERNSA  | Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees  | 2010-01-02          | 2022-06-11        |
+| ADPWES50T249ENERSA   | Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees  | 2010-01-02          | 2022-06-11        |
+| ADPWES250T499ENERNSA | Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees | 2010-01-02          | 2022-06-11        |
+| ADPWES250T499ENERSA  | Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees | 2010-01-02          | 2022-06-11        |
+| ADPWES500PENERNSA    | Nonfarm Private Employment in Large Establishments with 500+ Employees        | 2010-01-02          | 2022-06-11        |
+| ADPWES500PENERSA     | Nonfarm Private Employment in Large Establishments with 500+ Employees        | 2010-01-02          | 2022-06-11        |
+| ADPWINDCONNERNSA     | Nonfarm Private Payroll Employment for Construction                           | 2010-01-02          | 2022-06-11        |
+| ADPWINDCONNERSA      | Nonfarm Private Payroll Employment for Construction                           | 2010-01-02          | 2022-06-11        |
+| ADPWINDEDHLTNERNSA   | Nonfarm Private Payroll Employment for Education and Health Services          | 2010-01-02          | 2022-06-11        |
+| ADPWINDEDHLTNERSA    | Nonfarm Private Payroll Employment for Education and Health Services          | 2010-01-02          | 2022-06-11        |
+| ADPWINDFINNERNSA     | Nonfarm Private Payroll Employment for Financial Activities                   | 2010-01-02          | 2022-06-11        |
+| ADPWINDFINNERSA      | Nonfarm Private Payroll Employment for Financial Activities                   | 2010-01-02          | 2022-06-11        |
+| ADPWINDINFONERNSA    | Nonfarm Private Payroll Employment for Information                            | 2010-01-02          | 2022-06-11        |
+| ADPWINDINFONERSA     | Nonfarm Private Payroll Employment for Information                            | 2010-01-02          | 2022-06-11        |
+| ADPWINDLSHPNERNSA    | Nonfarm Private Payroll Employment for Leisure and Hospitality                | 2010-01-02          | 2022-06-11        |
+| ADPWINDLSHPNERSA     | Nonfarm Private Payroll Employment for Leisure and Hospitality                | 2010-01-02          | 2022-06-11        |
+| ADPWINDMANNERNSA     | Nonfarm Private Payroll Employment for Manufacturing                          | 2010-01-02          | 2022-06-11        |
+| ADPWINDMANNERSA      | Nonfarm Private Payroll Employment for Manufacturing                          | 2010-01-02          | 2022-06-11        |
+| ADPWINDNRMINNERNSA   | Nonfarm Private Payroll Employment for Natural Resources and Mining           | 2010-01-02          | 2022-06-11        |
+| ADPWINDNRMINNERSA    | Nonfarm Private Payroll Employment for Natural Resources and Mining           | 2010-01-02          | 2022-06-11        |
+| ADPWINDOTHSRVNERNSA  | Nonfarm Private Payroll Employment for Other Services                         | 2010-01-02          | 2022-06-11        |
+| ADPWINDOTHSRVNERSA   | Nonfarm Private Payroll Employment for Other Services                         | 2010-01-02          | 2022-06-11        |
+| ADPWINDPROBUSNERNSA  | Nonfarm Private Payroll Employment for Professional and Business Services     | 2010-01-02          | 2022-06-11        |
+| ADPWINDPROBUSNERSA   | Nonfarm Private Payroll Employment for Professional and Business Services     | 2010-01-02          | 2022-06-11        |
+| ADPWINDTTUNERNSA     | Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities   | 2010-01-02          | 2022-06-11        |
+| ADPWINDTTUNERSA      | Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities   | 2010-01-02          | 2022-06-11        |
+| ADPWNUSNERNSA        | Total Nonfarm Private Payroll Employment                                      | 2010-01-02          | 2022-06-11        |
+| ADPWNUSNERSA         | Total Nonfarm Private Payroll Employment                                      | 2010-01-02          | 2022-06-11        |

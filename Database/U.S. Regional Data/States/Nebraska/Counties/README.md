@@ -34,14 +34,14 @@
 | Saunders County, NE     |                90 |
 | Dawes County, NE        |                88 |
 | Sioux County, NE        |                86 |
-| Sherman County, NE      |                88 |
+| Sherman County, NE      |                 0 |
 | Brown County, NE        |                88 |
 | Hall County, NE         |               145 |
 | Cherry County, NE       |                88 |
 | Morrill County, NE      |                88 |
 | Richardson County, NE   |                88 |
 | Greeley County, NE      |                86 |
-| Knox County, NE         |                 0 |
+| Knox County, NE         |                89 |
 | Cheyenne County, NE     |                89 |
 | Stanton County, NE      |                88 |
 | Platte County, NE       |                90 |

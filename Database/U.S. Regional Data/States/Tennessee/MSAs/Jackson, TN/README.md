@@ -1,12 +1,12 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU27180            | Housing Inventory: Active Listing Count in Jackson, TN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM27180          | Housing Inventory: Active Listing Count Month-Over-Month in Jackson, TN (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY27180          | Housing Inventory: Active Listing Count Year-Over-Year in Jackson, TN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS27180Q            | All-Transactions House Price Index for Jackson, TN (MSA)                                                     | 1988-10-01          | 2022-01-01        |
-| AVELISPRI27180            | Housing Inventory: Average Listing Price in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM27180          | Housing Inventory: Average Listing Price Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY27180          | Housing Inventory: Average Listing Price Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU27180            | Housing Inventory: Active Listing Count in Jackson, TN (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM27180          | Housing Inventory: Active Listing Count Month-Over-Month in Jackson, TN (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY27180          | Housing Inventory: Active Listing Count Year-Over-Year in Jackson, TN (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS27180Q            | All-Transactions House Price Index for Jackson, TN (MSA)                                                     | 1988-07-01          | 2022-04-01        |
+| AVELISPRI27180            | Housing Inventory: Average Listing Price in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM27180          | Housing Inventory: Average Listing Price Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY27180          | Housing Inventory: Average Listing Price Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | ENUC271830010             | Total Quarterly Wages in Jackson, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC271830010SA           | Total Quarterly Wages in Jackson, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC271840010             | Average Weekly Wages for Employees in Total Covered Establishments in Jackson, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -30,8 +30,8 @@
 | JACINFON                  | All Employees: Information in Jackson, TN (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | JACLEIH                   | All Employees: Leisure and Hospitality in Jackson, TN (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | JACLEIHN                  | All Employees: Leisure and Hospitality in Jackson, TN (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| JACLF                     | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| JACLFN                    | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| JACLF                     | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| JACLFN                    | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | JACMFG                    | All Employees: Manufacturing in Jackson, TN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | JACMFGN                   | All Employees: Manufacturing in Jackson, TN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | JACNA                     | All Employees: Total Nonfarm in Jackson, TN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -46,40 +46,40 @@
 | JACSRVON                  | All Employees: Other Services in Jackson, TN (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | JACTRAD                   | All Employees: Trade, Transportation, and Utilities in Jackson, TN (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | JACTRADN                  | All Employees: Trade, Transportation, and Utilities in Jackson, TN (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| JACUR                     | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| JACURN                    | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| JACUR                     | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| JACURN                    | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT472718000000003A     | Unemployment Rate in Jackson, TN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT472718000000004      | Unemployed Persons in Jackson, TN (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT472718000000004      | Unemployed Persons in Jackson, TN (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT472718000000004A     | Unemployed Persons in Jackson, TN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT472718000000005      | Employed Persons in Jackson, TN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT472718000000005      | Employed Persons in Jackson, TN (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT472718000000005A     | Employed Persons in Jackson, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT472718000000006A     | Civilian Labor Force in Jackson, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR27180          | Housing Inventory: Median Days on Market in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM27180        | Housing Inventory: Median Days on Market Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY27180        | Housing Inventory: Median Days on Market Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI27180            | Housing Inventory: Median Listing Price in Jackson, TN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM27180          | Housing Inventory: Median Listing Price Month-Over-Month in Jackson, TN (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE27180   | Housing Inventory: Median Listing Price per Square Feet in Jackson, TN (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM27180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Jackson, TN (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY27180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Jackson, TN (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY27180          | Housing Inventory: Median Listing Price Year-Over-Year in Jackson, TN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE27180            | Housing Inventory: Median Home Size in Square Feet in Jackson, TN (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM27180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Jackson, TN (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY27180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Jackson, TN (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU27180            | Housing Inventory: New Listing Count in Jackson, TN (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM27180          | Housing Inventory: New Listing Count Month-Over-Month in Jackson, TN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY27180          | Housing Inventory: New Listing Count Year-Over-Year in Jackson, TN (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR27180          | Housing Inventory: Median Days on Market in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM27180        | Housing Inventory: Median Days on Market Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY27180        | Housing Inventory: Median Days on Market Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI27180            | Housing Inventory: Median Listing Price in Jackson, TN (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM27180          | Housing Inventory: Median Listing Price Month-Over-Month in Jackson, TN (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE27180   | Housing Inventory: Median Listing Price per Square Feet in Jackson, TN (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM27180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Jackson, TN (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY27180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Jackson, TN (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY27180          | Housing Inventory: Median Listing Price Year-Over-Year in Jackson, TN (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE27180            | Housing Inventory: Median Home Size in Square Feet in Jackson, TN (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM27180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Jackson, TN (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY27180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Jackson, TN (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU27180            | Housing Inventory: New Listing Count in Jackson, TN (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM27180          | Housing Inventory: New Listing Count Month-Over-Month in Jackson, TN (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY27180          | Housing Inventory: New Listing Count Year-Over-Year in Jackson, TN (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP27180                 | Total Gross Domestic Product for Jackson, TN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA127180          | U.S. Granted Utility Patents Originating in Jackson, TN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU27180            | Housing Inventory: Pending Listing Count in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM27180          | Housing Inventory: Pending Listing Count Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY27180          | Housing Inventory: Pending Listing Count Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU27180            | Housing Inventory: Price Increased Count in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM27180          | Housing Inventory: Price Increased Count Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY27180          | Housing Inventory: Price Increased Count Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU27180            | Housing Inventory: Price Reduced Count in Jackson, TN (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM27180          | Housing Inventory: Price Reduced Count Month-Over-Month in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY27180          | Housing Inventory: Price Reduced Count Year-Over-Year in Jackson, TN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PENLISCOU27180            | Housing Inventory: Pending Listing Count in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM27180          | Housing Inventory: Pending Listing Count Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY27180          | Housing Inventory: Pending Listing Count Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU27180            | Housing Inventory: Price Increased Count in Jackson, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM27180          | Housing Inventory: Price Increased Count Month-Over-Month in Jackson, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY27180          | Housing Inventory: Price Increased Count Year-Over-Year in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU27180            | Housing Inventory: Price Reduced Count in Jackson, TN (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM27180          | Housing Inventory: Price Reduced Count Month-Over-Month in Jackson, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY27180          | Housing Inventory: Price Reduced Count Year-Over-Year in Jackson, TN (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP27180                 | Total Quantity Indexes for Real GDP for Jackson, TN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP27180                 | Total Real Gross Domestic Product for Jackson, TN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI27180                  | Real Personal Income for Jackson, TN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

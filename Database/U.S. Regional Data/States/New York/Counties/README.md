@@ -16,7 +16,7 @@
 | Orleans County, NY      |                89 |
 | Nassau County, NY       |               143 |
 | Rensselaer County, NY   |               147 |
-| Queens County, NY       |               142 |
+| Queens County, NY       |                 0 |
 | Livingston County, NY   |               146 |
 | Monroe County, NY       |               147 |
 | Richmond County, NY     |               146 |

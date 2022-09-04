@@ -10,8 +10,8 @@
 | PORT933INFON           | All Employees: Information in Portsmouth, NH-ME (NECTA)                                                              | 1990-01-01          | 2022-07-01        |
 | PORT933LEIH            | All Employees: Leisure and Hospitality in Portsmouth, NH-ME (NECTA)                                                  | 1990-01-01          | 2022-07-01        |
 | PORT933LEIHN           | All Employees: Leisure and Hospitality in Portsmouth, NH-ME (NECTA)                                                  | 1990-01-01          | 2022-07-01        |
-| PORT933LF              | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2022-06-01        |
-| PORT933LFN             | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2022-06-01        |
+| PORT933LF              | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2022-07-01        |
+| PORT933LFN             | Civilian Labor Force in Portsmouth, NH-ME (NECTA)                                                                    | 1990-01-01          | 2022-07-01        |
 | PORT933MFG             | All Employees: Manufacturing in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-07-01        |
 | PORT933MFGN            | All Employees: Manufacturing in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-07-01        |
 | PORT933NA              | All Employees: Total Nonfarm in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -24,8 +24,8 @@
 | PORT933SRVON           | All Employees: Other Services in Portsmouth, NH-ME (NECTA)                                                           | 1990-01-01          | 2022-07-01        |
 | PORT933TRAD            | All Employees: Trade, Transportation, and Utilities in Portsmouth, NH-ME (NECTA)                                     | 1990-01-01          | 2022-07-01        |
 | PORT933TRADN           | All Employees: Trade, Transportation, and Utilities in Portsmouth, NH-ME (NECTA)                                     | 1990-01-01          | 2022-07-01        |
-| PORT933UR              | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2022-06-01        |
-| PORT933URN             | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2022-06-01        |
+| PORT933UR              | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2022-07-01        |
+| PORT933URN             | Unemployment Rate in Portsmouth, NH-ME (NECTA)                                                                       | 1990-01-01          | 2022-07-01        |
 | SMS33769000000000001   | All Employees: Total Nonfarm in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2018-02-01        |
 | SMS33769000000000026   | All Employees: Total Nonfarm in Portsmouth, NH-ME (NECTA)                                                            | 1990-04-01          | 2022-07-01        |
 | SMU33769000000000001A  | All Employees: Total Nonfarm in Portsmouth, NH-ME (NECTA)                                                            | 1990-01-01          | 2021-01-01        |

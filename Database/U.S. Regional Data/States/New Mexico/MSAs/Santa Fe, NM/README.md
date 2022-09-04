@@ -1,13 +1,13 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU42140            | Housing Inventory: Active Listing Count in Santa Fe, NM (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM42140          | Housing Inventory: Active Listing Count Month-Over-Month in Santa Fe, NM (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY42140          | Housing Inventory: Active Listing Count Year-Over-Year in Santa Fe, NM (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS42140Q            | All-Transactions House Price Index for Santa Fe, NM (MSA)                                                     | 1983-10-01          | 2022-01-01        |
-| AVELISPRI42140            | Housing Inventory: Average Listing Price in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM42140          | Housing Inventory: Average Listing Price Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY42140          | Housing Inventory: Average Listing Price Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| DESCMSA42140              | Market Hotness: Demand Score in Santa Fe, NM (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| ACTLISCOU42140            | Housing Inventory: Active Listing Count in Santa Fe, NM (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM42140          | Housing Inventory: Active Listing Count Month-Over-Month in Santa Fe, NM (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY42140          | Housing Inventory: Active Listing Count Year-Over-Year in Santa Fe, NM (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS42140Q            | All-Transactions House Price Index for Santa Fe, NM (MSA)                                                     | 1983-10-01          | 2022-04-01        |
+| AVELISPRI42140            | Housing Inventory: Average Listing Price in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM42140          | Housing Inventory: Average Listing Price Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY42140          | Housing Inventory: Average Listing Price Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| DESCMSA42140              | Market Hotness: Demand Score in Santa Fe, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC421430010             | Total Quarterly Wages in Santa Fe, NM (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC421430010SA           | Total Quarterly Wages in Santa Fe, NM (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC421440010             | Average Weekly Wages for Employees in Total Covered Establishments in Santa Fe, NM (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,57 +20,57 @@
 | ENUC421440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC421440510             | Average Weekly Wages for Employees in Private Establishments in Santa Fe, NM (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC421440510SA           | Average Weekly Wages for Employees in Private Establishments in Santa Fe, NM (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA42140            | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HORAMSA42140              | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA42140            | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HOSCMSA42140              | Market Hotness: Hotness Score in Santa Fe, NM (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA42140            | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HORAMSA42140              | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA42140            | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HOSCMSA42140              | Market Hotness: Hotness Score in Santa Fe, NM (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD42140                 | Implicit Regional Price Deflator for Santa Fe, NM (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT354214000000003A     | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT354214000000004      | Unemployed Persons in Santa Fe, NM (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT354214000000004      | Unemployed Persons in Santa Fe, NM (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT354214000000004A     | Unemployed Persons in Santa Fe, NM (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT354214000000005      | Employed Persons in Santa Fe, NM (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT354214000000005      | Employed Persons in Santa Fe, NM (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT354214000000005A     | Employed Persons in Santa Fe, NM (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT354214000000006A     | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA42140          | Market Hotness: Listing Views per Property in Santa Fe, NM (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA42140        | Market Hotness: Listing Views per Property Versus the United States in Santa Fe, NM (CBSA)                    | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA42140          | Market Hotness: Listing Views per Property in Santa Fe, NM (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA42140        | Market Hotness: Median Days on Market in Santa Fe, NM (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA42140          | Market Hotness: Median Days on Market in Santa Fe, NM (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA42140        | Market Hotness: Median Days on Market in Santa Fe, NM (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR42140          | Housing Inventory: Median Days on Market in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM42140        | Housing Inventory: Median Days on Market Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY42140        | Housing Inventory: Median Days on Market Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI42140            | Housing Inventory: Median Listing Price in Santa Fe, NM (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM42140          | Housing Inventory: Median Listing Price Month-Over-Month in Santa Fe, NM (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE42140   | Housing Inventory: Median Listing Price per Square Feet in Santa Fe, NM (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM42140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Santa Fe, NM (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY42140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Santa Fe, NM (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY42140          | Housing Inventory: Median Listing Price Year-Over-Year in Santa Fe, NM (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA42140          | Market Hotness: Median Days on Market in Santa Fe, NM (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA42140          | Market Hotness: Median Days on Market Versus the United States in Santa Fe, NM (CBSA)                         | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA42140          | Market Hotness: Median Days on Market Day in Santa Fe, NM (CBSA)                                              | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE42140            | Housing Inventory: Median Home Size in Square Feet in Santa Fe, NM (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM42140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Santa Fe, NM (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY42140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Santa Fe, NM (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA42140          | Market Hotness: Median Listing Price in Santa Fe, NM (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA42140            | Market Hotness: Median Listing Price in Santa Fe, NM (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA42140        | Market Hotness: Median Listing Price Versus the United States in Santa Fe, NM (CBSA)                          | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA42140          | Market Hotness: Median Listing Price in Santa Fe, NM (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU42140            | Housing Inventory: New Listing Count in Santa Fe, NM (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM42140          | Housing Inventory: New Listing Count Month-Over-Month in Santa Fe, NM (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY42140          | Housing Inventory: New Listing Count Year-Over-Year in Santa Fe, NM (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA42140          | Market Hotness: Listing Views per Property in Santa Fe, NM (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA42140        | Market Hotness: Listing Views per Property Versus the United States in Santa Fe, NM (CBSA)                    | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA42140          | Market Hotness: Listing Views per Property in Santa Fe, NM (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA42140        | Market Hotness: Median Days on Market in Santa Fe, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA42140          | Market Hotness: Median Days on Market in Santa Fe, NM (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA42140        | Market Hotness: Median Days on Market in Santa Fe, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR42140          | Housing Inventory: Median Days on Market in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM42140        | Housing Inventory: Median Days on Market Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY42140        | Housing Inventory: Median Days on Market Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI42140            | Housing Inventory: Median Listing Price in Santa Fe, NM (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM42140          | Housing Inventory: Median Listing Price Month-Over-Month in Santa Fe, NM (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE42140   | Housing Inventory: Median Listing Price per Square Feet in Santa Fe, NM (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM42140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Santa Fe, NM (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY42140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Santa Fe, NM (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY42140          | Housing Inventory: Median Listing Price Year-Over-Year in Santa Fe, NM (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA42140          | Market Hotness: Median Days on Market in Santa Fe, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA42140          | Market Hotness: Median Days on Market Versus the United States in Santa Fe, NM (CBSA)                         | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA42140          | Market Hotness: Median Days on Market Day in Santa Fe, NM (CBSA)                                              | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE42140            | Housing Inventory: Median Home Size in Square Feet in Santa Fe, NM (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM42140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Santa Fe, NM (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY42140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Santa Fe, NM (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA42140          | Market Hotness: Median Listing Price in Santa Fe, NM (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA42140            | Market Hotness: Median Listing Price in Santa Fe, NM (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA42140        | Market Hotness: Median Listing Price Versus the United States in Santa Fe, NM (CBSA)                          | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA42140          | Market Hotness: Median Listing Price in Santa Fe, NM (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU42140            | Housing Inventory: New Listing Count in Santa Fe, NM (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM42140          | Housing Inventory: New Listing Count Month-Over-Month in Santa Fe, NM (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY42140          | Housing Inventory: New Listing Count Year-Over-Year in Santa Fe, NM (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP42140                 | Total Gross Domestic Product for Santa Fe, NM (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA42140            | Market Hotness: Nielsen Household Rank in Santa Fe, NM (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA42140            | Market Hotness: Nielsen Household Rank in Santa Fe, NM (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA142140          | U.S. Granted Utility Patents Originating in Santa Fe, NM (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU42140            | Housing Inventory: Pending Listing Count in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM42140          | Housing Inventory: Pending Listing Count Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY42140          | Housing Inventory: Pending Listing Count Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU42140            | Housing Inventory: Price Increased Count in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM42140          | Housing Inventory: Price Increased Count Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY42140          | Housing Inventory: Price Increased Count Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU42140            | Housing Inventory: Price Reduced Count in Santa Fe, NM (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM42140          | Housing Inventory: Price Reduced Count Month-Over-Month in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY42140          | Housing Inventory: Price Reduced Count Year-Over-Year in Santa Fe, NM (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PENLISCOU42140            | Housing Inventory: Pending Listing Count in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM42140          | Housing Inventory: Pending Listing Count Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY42140          | Housing Inventory: Pending Listing Count Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU42140            | Housing Inventory: Price Increased Count in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM42140          | Housing Inventory: Price Increased Count Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY42140          | Housing Inventory: Price Increased Count Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU42140            | Housing Inventory: Price Reduced Count in Santa Fe, NM (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM42140          | Housing Inventory: Price Reduced Count Month-Over-Month in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY42140          | Housing Inventory: Price Reduced Count Year-Over-Year in Santa Fe, NM (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP42140                 | Total Quantity Indexes for Real GDP for Santa Fe, NM (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP42140                 | Total Real Gross Domestic Product for Santa Fe, NM (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI42140                  | Real Personal Income for Santa Fe, NM (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -93,8 +93,8 @@
 | SANT135INFON              | All Employees: Information in Santa Fe, NM (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | SANT135LEIH               | All Employees: Leisure and Hospitality in Santa Fe, NM (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | SANT135LEIHN              | All Employees: Leisure and Hospitality in Santa Fe, NM (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| SANT135LF                 | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| SANT135LFN                | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| SANT135LF                 | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| SANT135LFN                | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | SANT135MFG                | All Employees: Manufacturing in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | SANT135MFGN               | All Employees: Manufacturing in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | SANT135NA                 | All Employees: Total Nonfarm in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -108,8 +108,8 @@
 | SANT135SRVON              | All Employees: Other Services in Santa Fe, NM (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | SANT135TRAD               | All Employees: Trade, Transportation, and Utilities in Santa Fe, NM (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | SANT135TRADN              | All Employees: Trade, Transportation, and Utilities in Santa Fe, NM (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| SANT135UR                 | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| SANT135URN                | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| SANT135UR                 | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| SANT135URN                | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | SMS35421400000000026      | All Employees: Total Nonfarm in Santa Fe, NM (MSA)                                                            | 1990-04-01          | 2022-07-01        |
 | SMU35421400000000001A     | All Employees: Total Nonfarm in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU35421400500000001      | All Employees: Total Private in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -159,4 +159,4 @@
 | SMU35421409093000001A     | All Employees: Local Government in Santa Fe, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU35421409093000001SA    | All Employees: Government: Local Government in Santa Fe, NM (MSA)                                             | 1990-01-01          | 2022-07-01        |
 | STFPOP                    | Resident Population in Santa Fe, NM (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| SUSCMSA42140              | Market Hotness: Supply Score in Santa Fe, NM (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| SUSCMSA42140              | Market Hotness: Supply Score in Santa Fe, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

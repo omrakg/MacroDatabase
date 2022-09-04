@@ -1,6 +1,6 @@
 | id                     | title                                                                                        | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS33220Q         | All-Transactions House Price Index for Midland, MI (MSA)                                     | 1986-04-01          | 2022-01-01        |
+| ATNHPIUS33220Q         | All-Transactions House Price Index for Midland, MI (MSA)                                     | 1986-04-01          | 2022-04-01        |
 | ENUC332230010          | Total Quarterly Wages in Midland, MI (MSA)                                                   | 2013-01-01          | 2021-10-01        |
 | ENUC332230010SA        | Total Quarterly Wages in Midland, MI (MSA)                                                   | 2013-01-01          | 2021-10-01        |
 | ENUC332240010          | Average Weekly Wages for Employees in Total Covered Establishments in Midland, MI (MSA)      | 2013-01-01          | 2021-10-01        |
@@ -14,13 +14,13 @@
 | ENUC332240510          | Average Weekly Wages for Employees in Private Establishments in Midland, MI (MSA)            | 2013-01-01          | 2021-10-01        |
 | ENUC332240510SA        | Average Weekly Wages for Employees in Private Establishments in Midland, MI (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD33220              | Implicit Regional Price Deflator for Midland, MI (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT263322000000003   | Unemployment Rate in Midland, MI (MSA)                                                       | 1990-01-01          | 2022-06-01        |
+| LAUMT263322000000003   | Unemployment Rate in Midland, MI (MSA)                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT263322000000003A  | Unemployment Rate in Midland, MI (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT263322000000004   | Unemployed Persons in Midland, MI (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT263322000000004   | Unemployed Persons in Midland, MI (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT263322000000004A  | Unemployed Persons in Midland, MI (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT263322000000005   | Employed Persons in Midland, MI (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT263322000000005   | Employed Persons in Midland, MI (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT263322000000005A  | Employed Persons in Midland, MI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT263322000000006   | Civilian Labor Force in Midland, MI (MSA)                                                    | 1990-01-01          | 2022-06-01        |
+| LAUMT263322000000006   | Civilian Labor Force in Midland, MI (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | LAUMT263322000000006A  | Civilian Labor Force in Midland, MI (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | MIDL926PCPI            | Per Capita Personal Income in Midland, MI (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | MIDPOP                 | Resident Population in Midland, MI (MSA)                                                     | 2010-01-01          | 2021-01-01        |

@@ -1,12 +1,12 @@
 | id                        | title                                                                                            | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU22380            | Housing Inventory: Active Listing Count in Flagstaff, AZ (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM22380          | Housing Inventory: Active Listing Count Month-Over-Month in Flagstaff, AZ (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY22380          | Housing Inventory: Active Listing Count Year-Over-Year in Flagstaff, AZ (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS22380Q            | All-Transactions House Price Index for Flagstaff, AZ (MSA)                                       | 1986-07-01          | 2022-01-01        |
-| AVELISPRI22380            | Housing Inventory: Average Listing Price in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM22380          | Housing Inventory: Average Listing Price Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY22380          | Housing Inventory: Average Listing Price Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU22380            | Housing Inventory: Active Listing Count in Flagstaff, AZ (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM22380          | Housing Inventory: Active Listing Count Month-Over-Month in Flagstaff, AZ (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY22380          | Housing Inventory: Active Listing Count Year-Over-Year in Flagstaff, AZ (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS22380Q            | All-Transactions House Price Index for Flagstaff, AZ (MSA)                                       | 1986-07-01          | 2022-04-01        |
+| AVELISPRI22380            | Housing Inventory: Average Listing Price in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM22380          | Housing Inventory: Average Listing Price Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY22380          | Housing Inventory: Average Listing Price Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | ENUC223830010             | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC223830010SA           | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC223840010             | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -29,8 +29,8 @@
 | FLAG304INFON              | All Employees: Information in Flagstaff, AZ (MSA)                                                | 1990-01-01          | 2022-07-01        |
 | FLAG304LEIH               | All Employees: Leisure and Hospitality in Flagstaff, AZ (MSA)                                    | 1990-01-01          | 2022-07-01        |
 | FLAG304LEIHN              | All Employees: Leisure and Hospitality in Flagstaff, AZ (MSA)                                    | 1990-01-01          | 2022-07-01        |
-| FLAG304LF                 | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2022-06-01        |
-| FLAG304LFN                | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| FLAG304LF                 | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| FLAG304LFN                | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | FLAG304MFG                | All Employees: Manufacturing in Flagstaff, AZ (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | FLAG304MFGN               | All Employees: Manufacturing in Flagstaff, AZ (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | FLAG304NA                 | All Employees: Total Nonfarm in Flagstaff, AZ (MSA)                                              | 1990-01-01          | 2022-07-01        |
@@ -44,42 +44,42 @@
 | FLAG304SRVON              | All Employees: Other Services in Flagstaff, AZ (MSA)                                             | 1990-01-01          | 2022-07-01        |
 | FLAG304TRAD               | All Employees: Trade, Transportation, and Utilities in Flagstaff, AZ (MSA)                       | 1990-01-01          | 2022-07-01        |
 | FLAG304TRADN              | All Employees: Trade, Transportation, and Utilities in Flagstaff, AZ (MSA)                       | 1990-01-01          | 2022-07-01        |
-| FLAG304UR                 | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| FLAG304URN                | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| FLAG304UR                 | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| FLAG304URN                | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | FLGPOP                    | Resident Population in Flagstaff, AZ (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | IRPD22380                 | Implicit Regional Price Deflator for Flagstaff, AZ (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT042238000000003A     | Unemployment Rate in Flagstaff, AZ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT042238000000004      | Unemployed Persons in Flagstaff, AZ (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT042238000000004      | Unemployed Persons in Flagstaff, AZ (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT042238000000004A     | Unemployed Persons in Flagstaff, AZ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT042238000000005      | Employed Persons in Flagstaff, AZ (MSA)                                                          | 1990-01-01          | 2022-06-01        |
+| LAUMT042238000000005      | Employed Persons in Flagstaff, AZ (MSA)                                                          | 1990-01-01          | 2022-07-01        |
 | LAUMT042238000000005A     | Employed Persons in Flagstaff, AZ (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT042238000000006A     | Civilian Labor Force in Flagstaff, AZ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR22380          | Housing Inventory: Median Days on Market in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM22380        | Housing Inventory: Median Days on Market Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY22380        | Housing Inventory: Median Days on Market Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI22380            | Housing Inventory: Median Listing Price in Flagstaff, AZ (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM22380          | Housing Inventory: Median Listing Price Month-Over-Month in Flagstaff, AZ (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE22380   | Housing Inventory: Median Listing Price per Square Feet in Flagstaff, AZ (CBSA)                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM22380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Flagstaff, AZ (CBSA) | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY22380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Flagstaff, AZ (CBSA)   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY22380          | Housing Inventory: Median Listing Price Year-Over-Year in Flagstaff, AZ (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE22380            | Housing Inventory: Median Home Size in Square Feet in Flagstaff, AZ (CBSA)                       | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM22380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Flagstaff, AZ (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY22380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Flagstaff, AZ (CBSA)        | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU22380            | Housing Inventory: New Listing Count in Flagstaff, AZ (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM22380          | Housing Inventory: New Listing Count Month-Over-Month in Flagstaff, AZ (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY22380          | Housing Inventory: New Listing Count Year-Over-Year in Flagstaff, AZ (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR22380          | Housing Inventory: Median Days on Market in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM22380        | Housing Inventory: Median Days on Market Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY22380        | Housing Inventory: Median Days on Market Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI22380            | Housing Inventory: Median Listing Price in Flagstaff, AZ (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM22380          | Housing Inventory: Median Listing Price Month-Over-Month in Flagstaff, AZ (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE22380   | Housing Inventory: Median Listing Price per Square Feet in Flagstaff, AZ (CBSA)                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM22380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Flagstaff, AZ (CBSA) | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY22380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Flagstaff, AZ (CBSA)   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY22380          | Housing Inventory: Median Listing Price Year-Over-Year in Flagstaff, AZ (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE22380            | Housing Inventory: Median Home Size in Square Feet in Flagstaff, AZ (CBSA)                       | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM22380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Flagstaff, AZ (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY22380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Flagstaff, AZ (CBSA)        | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU22380            | Housing Inventory: New Listing Count in Flagstaff, AZ (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM22380          | Housing Inventory: New Listing Count Month-Over-Month in Flagstaff, AZ (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY22380          | Housing Inventory: New Listing Count Year-Over-Year in Flagstaff, AZ (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | NGMP22380                 | Total Gross Domestic Product for Flagstaff, AZ (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA122380          | U.S. Granted Utility Patents Originating in Flagstaff, AZ (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU22380            | Housing Inventory: Pending Listing Count in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM22380          | Housing Inventory: Pending Listing Count Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY22380          | Housing Inventory: Pending Listing Count Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU22380            | Housing Inventory: Price Increased Count in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM22380          | Housing Inventory: Price Increased Count Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY22380          | Housing Inventory: Price Increased Count Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU22380            | Housing Inventory: Price Reduced Count in Flagstaff, AZ (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM22380          | Housing Inventory: Price Reduced Count Month-Over-Month in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY22380          | Housing Inventory: Price Reduced Count Year-Over-Year in Flagstaff, AZ (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| PENLISCOU22380            | Housing Inventory: Pending Listing Count in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM22380          | Housing Inventory: Pending Listing Count Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY22380          | Housing Inventory: Pending Listing Count Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU22380            | Housing Inventory: Price Increased Count in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM22380          | Housing Inventory: Price Increased Count Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY22380          | Housing Inventory: Price Increased Count Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU22380            | Housing Inventory: Price Reduced Count in Flagstaff, AZ (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM22380          | Housing Inventory: Price Reduced Count Month-Over-Month in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY22380          | Housing Inventory: Price Reduced Count Year-Over-Year in Flagstaff, AZ (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | QGMP22380                 | Total Quantity Indexes for Real GDP for Flagstaff, AZ (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP22380                 | Total Real Gross Domestic Product for Flagstaff, AZ (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI22380                  | Real Personal Income for Flagstaff, AZ (MSA)                                                     | 2008-01-01          | 2020-01-01        |

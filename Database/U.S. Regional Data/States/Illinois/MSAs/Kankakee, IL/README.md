@@ -1,12 +1,12 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU28100            | Housing Inventory: Active Listing Count in Kankakee, IL (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM28100          | Housing Inventory: Active Listing Count Month-Over-Month in Kankakee, IL (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY28100          | Housing Inventory: Active Listing Count Year-Over-Year in Kankakee, IL (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS28100Q            | All-Transactions House Price Index for Kankakee, IL (MSA)                                                     | 1987-07-01          | 2022-01-01        |
-| AVELISPRI28100            | Housing Inventory: Average Listing Price in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM28100          | Housing Inventory: Average Listing Price Month-Over-Month in Kankakee, IL (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY28100          | Housing Inventory: Average Listing Price Year-Over-Year in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU28100            | Housing Inventory: Active Listing Count in Kankakee, IL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM28100          | Housing Inventory: Active Listing Count Month-Over-Month in Kankakee, IL (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY28100          | Housing Inventory: Active Listing Count Year-Over-Year in Kankakee, IL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS28100Q            | All-Transactions House Price Index for Kankakee, IL (MSA)                                                     | 1987-07-01          | 2022-04-01        |
+| AVELISPRI28100            | Housing Inventory: Average Listing Price in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM28100          | Housing Inventory: Average Listing Price Month-Over-Month in Kankakee, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY28100          | Housing Inventory: Average Listing Price Year-Over-Year in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | ENUC281030010             | Total Quarterly Wages in Kankakee, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC281030010SA           | Total Quarterly Wages in Kankakee, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC281040010             | Average Weekly Wages for Employees in Total Covered Establishments in Kankakee-Bradley, IL (MSA)              | 1990-01-01          | 2021-10-01        |
@@ -26,8 +26,8 @@
 | KANK117INFON              | All Employees: Information in Kankakee, IL (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | KANK117LEIH               | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | KANK117LEIHN              | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| KANK117LF                 | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| KANK117LFN                | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| KANK117LF                 | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| KANK117LFN                | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | KANK117MFG                | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | KANK117MFGN               | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | KANK117NA                 | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -41,41 +41,41 @@
 | KANK117SRVON              | All Employees: Other Services in Kankakee, IL (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | KANK117TRAD               | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | KANK117TRADN              | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| KANK117UR                 | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| KANK117URN                | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| KANK117UR                 | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| KANK117URN                | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | KANPOP                    | Resident Population in Kankakee, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT172810000000003A     | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT172810000000004      | Unemployed Persons in Kankakee, IL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT172810000000004      | Unemployed Persons in Kankakee, IL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT172810000000004A     | Unemployed Persons in Kankakee, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT172810000000005      | Employed Persons in Kankakee, IL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT172810000000005      | Employed Persons in Kankakee, IL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT172810000000005A     | Employed Persons in Kankakee, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT172810000000006A     | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR28100          | Housing Inventory: Median Days on Market in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM28100        | Housing Inventory: Median Days on Market Month-Over-Month in Kankakee, IL (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY28100        | Housing Inventory: Median Days on Market Year-Over-Year in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI28100            | Housing Inventory: Median Listing Price in Kankakee, IL (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM28100          | Housing Inventory: Median Listing Price Month-Over-Month in Kankakee, IL (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE28100   | Housing Inventory: Median Listing Price per Square Feet in Kankakee, IL (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM28100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Kankakee, IL (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY28100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Kankakee, IL (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY28100          | Housing Inventory: Median Listing Price Year-Over-Year in Kankakee, IL (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE28100            | Housing Inventory: Median Home Size in Square Feet in Kankakee, IL (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM28100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Kankakee, IL (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY28100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Kankakee, IL (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU28100            | Housing Inventory: New Listing Count in Kankakee, IL (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM28100          | Housing Inventory: New Listing Count Month-Over-Month in Kankakee, IL (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY28100          | Housing Inventory: New Listing Count Year-Over-Year in Kankakee, IL (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR28100          | Housing Inventory: Median Days on Market in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM28100        | Housing Inventory: Median Days on Market Month-Over-Month in Kankakee, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY28100        | Housing Inventory: Median Days on Market Year-Over-Year in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI28100            | Housing Inventory: Median Listing Price in Kankakee, IL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM28100          | Housing Inventory: Median Listing Price Month-Over-Month in Kankakee, IL (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE28100   | Housing Inventory: Median Listing Price per Square Feet in Kankakee, IL (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM28100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Kankakee, IL (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY28100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Kankakee, IL (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY28100          | Housing Inventory: Median Listing Price Year-Over-Year in Kankakee, IL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE28100            | Housing Inventory: Median Home Size in Square Feet in Kankakee, IL (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM28100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Kankakee, IL (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY28100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Kankakee, IL (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU28100            | Housing Inventory: New Listing Count in Kankakee, IL (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM28100          | Housing Inventory: New Listing Count Month-Over-Month in Kankakee, IL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY28100          | Housing Inventory: New Listing Count Year-Over-Year in Kankakee, IL (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP28100                 | Total Gross Domestic Product for Kankakee, IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA128100          | U.S. Granted Utility Patents Originating in Kankakee-Bradley, IL (MSA)                                        | 2000-01-01          | 2015-01-01        |
-| PENLISCOU28100            | Housing Inventory: Pending Listing Count in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM28100          | Housing Inventory: Pending Listing Count Month-Over-Month in Kankakee, IL (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY28100          | Housing Inventory: Pending Listing Count Year-Over-Year in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU28100            | Housing Inventory: Price Increased Count in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOU28100            | Housing Inventory: Pending Listing Count in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM28100          | Housing Inventory: Pending Listing Count Month-Over-Month in Kankakee, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY28100          | Housing Inventory: Pending Listing Count Year-Over-Year in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU28100            | Housing Inventory: Price Increased Count in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM28100          | Housing Inventory: Price Increased Count Month-Over-Month in Kankakee, IL (CBSA)                              | 2017-07-01          | 2022-07-01        |
 | PRIINCCOUYY28100          | Housing Inventory: Price Increased Count Year-Over-Year in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU28100            | Housing Inventory: Price Reduced Count in Kankakee, IL (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM28100          | Housing Inventory: Price Reduced Count Month-Over-Month in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY28100          | Housing Inventory: Price Reduced Count Year-Over-Year in Kankakee, IL (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU28100            | Housing Inventory: Price Reduced Count in Kankakee, IL (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM28100          | Housing Inventory: Price Reduced Count Month-Over-Month in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY28100          | Housing Inventory: Price Reduced Count Year-Over-Year in Kankakee, IL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP28100                 | Total Quantity Indexes for Real GDP for Kankakee, IL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP28100                 | Total Real Gross Domestic Product for Kankakee, IL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI28100                  | Real Personal Income for Kankakee, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

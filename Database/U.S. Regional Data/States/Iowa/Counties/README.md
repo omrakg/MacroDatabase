@@ -28,7 +28,7 @@
 | Boone County, IA         |                90 |
 | Warren County, IA        |               146 |
 | Clarke County, IA        |                90 |
-| Taylor County, IA        |                89 |
+| Taylor County, IA        |                 0 |
 | Cherokee County, IA      |                90 |
 | Harrison County, IA      |                90 |
 | Greene County, IA        |                89 |
@@ -59,7 +59,7 @@
 | Jackson County, IA       |                89 |
 | Wright County, IA        |                90 |
 | Allamakee County, IA     |                90 |
-| Kossuth County, IA       |                 0 |
+| Kossuth County, IA       |                90 |
 | Calhoun County, IA       |                90 |
 | Louisa County, IA        |                90 |
 | Crawford County, IA      |                90 |
@@ -88,7 +88,7 @@
 | Emmet County, IA         |                90 |
 | Winneshiek County, IA    |                90 |
 | Ida County, IA           |                89 |
-| Story County, IA         |               147 |
+| Story County, IA         |                 0 |
 | Fremont County, IA       |                89 |
 | Floyd County, IA         |                90 |
 | Henry County, IA         |                89 |

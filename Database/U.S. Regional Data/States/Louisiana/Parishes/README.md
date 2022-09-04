@@ -46,14 +46,14 @@
 | Ouachita Parish, LA             |               146 |
 | Madison Parish, LA              |                88 |
 | St. John the Baptist Parish, LA |                90 |
-| Union Parish, LA                |                90 |
+| Union Parish, LA                |                 0 |
 | Lafayette Parish, LA            |               147 |
 | East Feliciana Parish, LA       |                90 |
 | Sabine Parish, LA               |                90 |
 | Caddo Parish, LA                |               147 |
 | Vernon Parish, LA               |               145 |
 | Orleans Parish, LA              |               145 |
-| St. Martin Parish, LA           |                 0 |
+| St. Martin Parish, LA           |               146 |
 | Jefferson Davis Parish, LA      |                90 |
 | West Feliciana Parish, LA       |                89 |
 | Bienville Parish, LA            |                88 |

@@ -8,10 +8,10 @@
 | Tyler County, WV      |                89 |
 | Marshall County, WV   |                90 |
 | Fayette County, WV    |                90 |
-| Pocahontas County, WV |                87 |
+| Pocahontas County, WV |                 0 |
 | Logan County, WV      |                90 |
 | Ritchie County, WV    |                89 |
-| Mineral County, WV    |                 0 |
+| Mineral County, WV    |                89 |
 | Jefferson County, WV  |               146 |
 | Calhoun County, WV    |                87 |
 | McDowell County, WV   |                89 |

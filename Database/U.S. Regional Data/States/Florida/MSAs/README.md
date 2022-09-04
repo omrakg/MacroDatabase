@@ -2,7 +2,7 @@
 |-----------------------------------------|-------------------|
 | Port St. Lucie, FL                      |               162 |
 | Cape Coral-Fort Myers, FL               |               169 |
-| Orlando-Kissimmee, FL                   |                 0 |
+| Orlando-Kissimmee, FL                   |               247 |
 | Deltona-Daytona Beach-Ormond Beach, FL  |               173 |
 | Jacksonville, FL                        |               215 |
 | Punta Gorda, FL                         |               162 |
@@ -10,7 +10,7 @@
 | Tallahassee, FL                         |               168 |
 | Sebring-Avon Park, FL                   |                59 |
 | Sebastian-Vero Beach, FL                |               161 |
-| North Port-Sarasota-Bradenton, FL       |               178 |
+| North Port-Sarasota-Bradenton, FL       |                 0 |
 | Palm Coast, FL                          |                 8 |
 | Naples-Marco Island, FL                 |               162 |
 | Crestview-Fort Walton Beach-Destin, FL  |               159 |

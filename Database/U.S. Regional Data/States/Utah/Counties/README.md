@@ -27,5 +27,5 @@
 | Beaver County, UT     |                89 |
 | Carbon County, UT     |                90 |
 | Wayne County, UT      |                88 |
-| Davis County, UT      |                 0 |
+| Davis County, UT      |               147 |
 | Washington County, UT |               147 |

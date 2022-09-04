@@ -30,13 +30,13 @@
 | Pike County, MS            |                89 |
 | Wayne County, MS           |                88 |
 | Tallahatchie County, MS    |                87 |
-| Smith County, MS           |                88 |
+| Smith County, MS           |                 0 |
 | Choctaw County, MS         |                88 |
 | Benton County, MS          |                88 |
 | Grenada County, MS         |                90 |
 | Lauderdale County, MS      |               145 |
 | Pearl River County, MS     |               146 |
-| Tippah County, MS          |                 0 |
+| Tippah County, MS          |                90 |
 | Jackson County, MS         |               147 |
 | Adams County, MS           |                89 |
 | Scott County, MS           |                88 |

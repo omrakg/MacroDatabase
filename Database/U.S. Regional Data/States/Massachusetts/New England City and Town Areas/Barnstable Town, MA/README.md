@@ -10,8 +10,8 @@
 | BARN925INFON           | All Employees: Information in Barnstable Town, MA (NECTA)                                                              | 1990-01-01          | 2022-07-01        |
 | BARN925LEIH            | All Employees: Leisure and Hospitality in Barnstable Town, MA (NECTA)                                                  | 1990-01-01          | 2022-07-01        |
 | BARN925LEIHN           | All Employees: Leisure and Hospitality in Barnstable Town, MA (NECTA)                                                  | 1990-01-01          | 2022-07-01        |
-| BARN925LF              | Civilian Labor Force in Barnstable Town, MA (NECTA)                                                                    | 1990-01-01          | 2022-06-01        |
-| BARN925LFN             | Civilian Labor Force in Barnstable Town, MA (NECTA)                                                                    | 1990-01-01          | 2022-06-01        |
+| BARN925LF              | Civilian Labor Force in Barnstable Town, MA (NECTA)                                                                    | 1990-01-01          | 2022-07-01        |
+| BARN925LFN             | Civilian Labor Force in Barnstable Town, MA (NECTA)                                                                    | 1990-01-01          | 2022-07-01        |
 | BARN925MFG             | All Employees: Manufacturing in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-07-01        |
 | BARN925MFGN            | All Employees: Manufacturing in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-07-01        |
 | BARN925NA              | All Employees: Total Nonfarm in Barnstable Town, MA (NECTA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -25,12 +25,12 @@
 | BARN925SRVON           | All Employees: Other Services in Barnstable Town, MA (NECTA)                                                           | 1990-01-01          | 2022-07-01        |
 | BARN925TRAD            | All Employees: Trade, Transportation, and Utilities in Barnstable Town, MA (NECTA)                                     | 1990-01-01          | 2022-07-01        |
 | BARN925TRADN           | All Employees: Trade, Transportation, and Utilities in Barnstable Town, MA (NECTA)                                     | 1990-01-01          | 2022-07-01        |
-| BARN925UR              | Unemployment Rate in Barnstable Town, MA (NECTA)                                                                       | 1990-01-01          | 2022-06-01        |
-| BARN925URN             | Unemployment Rate in Barnstable Town, MA (NECTA)                                                                       | 1990-01-01          | 2022-06-01        |
+| BARN925UR              | Unemployment Rate in Barnstable Town, MA (NECTA)                                                                       | 1990-01-01          | 2022-07-01        |
+| BARN925URN             | Unemployment Rate in Barnstable Town, MA (NECTA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT257090000000003A  | Unemployment Rate in Barnstable Town, MA (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT257090000000004   | Unemployed Persons in Barnstable Town, MA (NECTA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT257090000000004   | Unemployed Persons in Barnstable Town, MA (NECTA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT257090000000004A  | Unemployed Persons in Barnstable Town, MA (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT257090000000005   | Employed Persons in Barnstable Town, MA (NECTA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT257090000000005   | Employed Persons in Barnstable Town, MA (NECTA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT257090000000005A  | Employed Persons in Barnstable Town, MA (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT257090000000006A  | Civilian Labor Force in Barnstable Town, MA (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
 | SMS25709000000000026   | All Employees: Total Nonfarm in Barnstable Town, MA (NECTA)                                                            | 1990-04-01          | 2022-07-01        |

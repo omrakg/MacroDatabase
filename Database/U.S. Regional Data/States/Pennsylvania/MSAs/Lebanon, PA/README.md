@@ -1,13 +1,13 @@
 | id                        | title                                                                                          | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU30140            | Housing Inventory: Active Listing Count in Lebanon, PA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM30140          | Housing Inventory: Active Listing Count Month-Over-Month in Lebanon, PA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY30140          | Housing Inventory: Active Listing Count Year-Over-Year in Lebanon, PA (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS30140Q            | All-Transactions House Price Index for Lebanon, PA (MSA)                                       | 1987-04-01          | 2022-01-01        |
-| AVELISPRI30140            | Housing Inventory: Average Listing Price in Lebanon, PA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM30140          | Housing Inventory: Average Listing Price Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY30140          | Housing Inventory: Average Listing Price Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| DESCMSA30140              | Market Hotness: Demand Score in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| ACTLISCOU30140            | Housing Inventory: Active Listing Count in Lebanon, PA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM30140          | Housing Inventory: Active Listing Count Month-Over-Month in Lebanon, PA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY30140          | Housing Inventory: Active Listing Count Year-Over-Year in Lebanon, PA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS30140Q            | All-Transactions House Price Index for Lebanon, PA (MSA)                                       | 1987-04-01          | 2022-04-01        |
+| AVELISPRI30140            | Housing Inventory: Average Listing Price in Lebanon, PA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM30140          | Housing Inventory: Average Listing Price Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY30140          | Housing Inventory: Average Listing Price Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| DESCMSA30140              | Market Hotness: Demand Score in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | ENUC301430010             | Total Quarterly Wages in Lebanon, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC301430010SA           | Total Quarterly Wages in Lebanon, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC301440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lebanon, PA (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -20,26 +20,26 @@
 | ENUC301440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2021-10-01        |
 | ENUC301440510             | Average Weekly Wages for Employees in Private Establishments in Lebanon, PA (MSA)              | 1990-01-01          | 2021-10-01        |
 | ENUC301440510SA           | Average Weekly Wages for Employees in Private Establishments in Lebanon, PA (MSA)              | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA30140            | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| HORAMSA30140              | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA30140            | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| HOSCMSA30140              | Market Hotness: Hotness Score in Lebanon, PA (CBSA)                                            | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA30140            | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| HORAMSA30140              | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA30140            | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| HOSCMSA30140              | Market Hotness: Hotness Score in Lebanon, PA (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD30140                 | Implicit Regional Price Deflator for Lebanon, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT423014000000003A     | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT423014000000004      | Unemployed Persons in Lebanon, PA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT423014000000004      | Unemployed Persons in Lebanon, PA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT423014000000004A     | Unemployed Persons in Lebanon, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT423014000000005      | Employed Persons in Lebanon, PA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
+| LAUMT423014000000005      | Employed Persons in Lebanon, PA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
 | LAUMT423014000000005A     | Employed Persons in Lebanon, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT423014000000006A     | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA30140          | Market Hotness: Listing Views per Property in Lebanon, PA (CBSA)                               | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA30140        | Market Hotness: Listing Views per Property Versus the United States in Lebanon, PA (CBSA)      | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA30140          | Market Hotness: Listing Views per Property in Lebanon, PA (CBSA)                               | 2018-08-01          | 2022-07-01        |
+| LDPEPRMMMSA30140          | Market Hotness: Listing Views per Property in Lebanon, PA (CBSA)                               | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA30140        | Market Hotness: Listing Views per Property Versus the United States in Lebanon, PA (CBSA)      | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA30140          | Market Hotness: Listing Views per Property in Lebanon, PA (CBSA)                               | 2018-08-01          | 2022-08-01        |
 | LEBA142EDUH               | All Employees: Education and Health Services in Lebanon, PA (MSA)                              | 1990-01-01          | 2022-07-01        |
 | LEBA142EDUHN              | All Employees: Education and Health Services in Lebanon, PA (MSA)                              | 1990-01-01          | 2022-07-01        |
 | LEBA142GOVT               | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | LEBA142GOVTN              | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
-| LEBA142LF                 | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
-| LEBA142LFN                | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| LEBA142LF                 | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| LEBA142LFN                | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | LEBA142MFG                | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | LEBA142MFGN               | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | LEBA142NA                 | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-07-01        |
@@ -47,46 +47,46 @@
 | LEBA142PCPI               | Per Capita Personal Income in Lebanon, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | LEBA142TRAD               | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2022-07-01        |
 | LEBA142TRADN              | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2022-07-01        |
-| LEBA142UR                 | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| LEBA142URN                | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| LEBA142UR                 | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| LEBA142URN                | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | LEBPOP                    | Resident Population in Lebanon, PA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| MEDAONMAMMMSA30140        | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA30140          | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA30140        | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR30140          | Housing Inventory: Median Days on Market in Lebanon, PA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM30140        | Housing Inventory: Median Days on Market Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY30140        | Housing Inventory: Median Days on Market Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI30140            | Housing Inventory: Median Listing Price in Lebanon, PA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM30140          | Housing Inventory: Median Listing Price Month-Over-Month in Lebanon, PA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE30140   | Housing Inventory: Median Listing Price per Square Feet in Lebanon, PA (CBSA)                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM30140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lebanon, PA (CBSA) | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY30140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lebanon, PA (CBSA)   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY30140          | Housing Inventory: Median Listing Price Year-Over-Year in Lebanon, PA (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA30140          | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA30140          | Market Hotness: Median Days on Market Versus the United States in Lebanon, PA (CBSA)           | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA30140          | Market Hotness: Median Days on Market Day in Lebanon, PA (CBSA)                                | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE30140            | Housing Inventory: Median Home Size in Square Feet in Lebanon, PA (CBSA)                       | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM30140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lebanon, PA (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY30140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lebanon, PA (CBSA)        | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA30140          | Market Hotness: Median Listing Price in Lebanon, PA (CBSA)                                     | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA30140            | Market Hotness: Median Listing Price in Lebanon, PA (CBSA)                                     | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA30140        | Market Hotness: Median Listing Price Versus the United States in Lebanon, PA (CBSA)            | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA30140          | Market Hotness: Median Listing Price in Lebanon, PA (CBSA)                                     | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU30140            | Housing Inventory: New Listing Count in Lebanon, PA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM30140          | Housing Inventory: New Listing Count Month-Over-Month in Lebanon, PA (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY30140          | Housing Inventory: New Listing Count Year-Over-Year in Lebanon, PA (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MEDAONMAMMMSA30140        | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA30140          | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA30140        | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR30140          | Housing Inventory: Median Days on Market in Lebanon, PA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM30140        | Housing Inventory: Median Days on Market Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY30140        | Housing Inventory: Median Days on Market Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI30140            | Housing Inventory: Median Listing Price in Lebanon, PA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM30140          | Housing Inventory: Median Listing Price Month-Over-Month in Lebanon, PA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE30140   | Housing Inventory: Median Listing Price per Square Feet in Lebanon, PA (CBSA)                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM30140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lebanon, PA (CBSA) | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY30140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lebanon, PA (CBSA)   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY30140          | Housing Inventory: Median Listing Price Year-Over-Year in Lebanon, PA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA30140          | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA30140          | Market Hotness: Median Days on Market Versus the United States in Lebanon, PA (CBSA)           | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA30140          | Market Hotness: Median Days on Market Day in Lebanon, PA (CBSA)                                | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE30140            | Housing Inventory: Median Home Size in Square Feet in Lebanon, PA (CBSA)                       | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM30140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lebanon, PA (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY30140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lebanon, PA (CBSA)        | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA30140          | Market Hotness: Median Listing Price in Lebanon, PA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA30140            | Market Hotness: Median Listing Price in Lebanon, PA (CBSA)                                     | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA30140        | Market Hotness: Median Listing Price Versus the United States in Lebanon, PA (CBSA)            | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA30140          | Market Hotness: Median Listing Price in Lebanon, PA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU30140            | Housing Inventory: New Listing Count in Lebanon, PA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM30140          | Housing Inventory: New Listing Count Month-Over-Month in Lebanon, PA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY30140          | Housing Inventory: New Listing Count Year-Over-Year in Lebanon, PA (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | NGMP30140                 | Total Gross Domestic Product for Lebanon, PA (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA30140            | Market Hotness: Nielsen Household Rank in Lebanon, PA (CBSA)                                   | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA30140            | Market Hotness: Nielsen Household Rank in Lebanon, PA (CBSA)                                   | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA130140          | U.S. Granted Utility Patents Originating in Lebanon, PA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU30140            | Housing Inventory: Pending Listing Count in Lebanon, PA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM30140          | Housing Inventory: Pending Listing Count Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY30140          | Housing Inventory: Pending Listing Count Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU30140            | Housing Inventory: Price Increased Count in Lebanon, PA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM30140          | Housing Inventory: Price Increased Count Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY30140          | Housing Inventory: Price Increased Count Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU30140            | Housing Inventory: Price Reduced Count in Lebanon, PA (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM30140          | Housing Inventory: Price Reduced Count Month-Over-Month in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY30140          | Housing Inventory: Price Reduced Count Year-Over-Year in Lebanon, PA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| PENLISCOU30140            | Housing Inventory: Pending Listing Count in Lebanon, PA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM30140          | Housing Inventory: Pending Listing Count Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY30140          | Housing Inventory: Pending Listing Count Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU30140            | Housing Inventory: Price Increased Count in Lebanon, PA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM30140          | Housing Inventory: Price Increased Count Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY30140          | Housing Inventory: Price Increased Count Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU30140            | Housing Inventory: Price Reduced Count in Lebanon, PA (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM30140          | Housing Inventory: Price Reduced Count Month-Over-Month in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY30140          | Housing Inventory: Price Reduced Count Year-Over-Year in Lebanon, PA (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | QGMP30140                 | Total Quantity Indexes for Real GDP for Lebanon, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP30140                 | Total Real Gross Domestic Product for Lebanon, PA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI30140                  | Real Personal Income for Lebanon, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -131,4 +131,4 @@
 | SMU42301409093000001      | All Employees: Government: Local Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-07-01        |
 | SMU42301409093000001A     | All Employees: Local Government in Lebanon, PA (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU42301409093000001SA    | All Employees: Government: Local Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-07-01        |
-| SUSCMSA30140              | Market Hotness: Supply Score in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| SUSCMSA30140              | Market Hotness: Supply Score in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |

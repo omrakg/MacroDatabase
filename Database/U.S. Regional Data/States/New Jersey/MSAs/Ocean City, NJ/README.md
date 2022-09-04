@@ -1,12 +1,12 @@
 | id                        | title                                                                                                | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU36140            | Housing Inventory: Active Listing Count in Ocean City, NJ (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM36140          | Housing Inventory: Active Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY36140          | Housing Inventory: Active Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS36140Q            | All-Transactions House Price Index for Ocean City, NJ (MSA)                                          | 1985-10-01          | 2022-01-01        |
-| AVELISPRI36140            | Housing Inventory: Average Listing Price in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM36140          | Housing Inventory: Average Listing Price Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY36140          | Housing Inventory: Average Listing Price Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU36140            | Housing Inventory: Active Listing Count in Ocean City, NJ (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM36140          | Housing Inventory: Active Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY36140          | Housing Inventory: Active Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS36140Q            | All-Transactions House Price Index for Ocean City, NJ (MSA)                                          | 1985-10-01          | 2022-04-01        |
+| AVELISPRI36140            | Housing Inventory: Average Listing Price in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM36140          | Housing Inventory: Average Listing Price Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY36140          | Housing Inventory: Average Listing Price Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-08-01        |
 | ENUC361430010             | Total Quarterly Wages in Ocean City, NJ (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC361430010SA           | Total Quarterly Wages in Ocean City, NJ (MSA)                                                        | 1990-01-01          | 2021-10-01        |
 | ENUC361440010             | Average Weekly Wages for Employees in Total Covered Establishments in Ocean City, NJ (MSA)           | 1990-01-01          | 2021-10-01        |
@@ -21,26 +21,26 @@
 | ENUC361440510SA           | Average Weekly Wages for Employees in Private Establishments in Ocean City, NJ (MSA)                 | 1990-01-01          | 2021-10-01        |
 | IRPD36140                 | Implicit Regional Price Deflator for Ocean City, NJ (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT343614000000003A     | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LAUMT343614000000004      | Unemployed Persons in Ocean City, NJ (MSA)                                                           | 1990-01-01          | 2022-06-01        |
+| LAUMT343614000000004      | Unemployed Persons in Ocean City, NJ (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | LAUMT343614000000004A     | Unemployed Persons in Ocean City, NJ (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT343614000000005      | Employed Persons in Ocean City, NJ (MSA)                                                             | 1990-01-01          | 2022-06-01        |
+| LAUMT343614000000005      | Employed Persons in Ocean City, NJ (MSA)                                                             | 1990-01-01          | 2022-07-01        |
 | LAUMT343614000000005A     | Employed Persons in Ocean City, NJ (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT343614000000006A     | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR36140          | Housing Inventory: Median Days on Market in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM36140        | Housing Inventory: Median Days on Market Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY36140        | Housing Inventory: Median Days on Market Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI36140            | Housing Inventory: Median Listing Price in Ocean City, NJ (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM36140          | Housing Inventory: Median Listing Price Month-Over-Month in Ocean City, NJ (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE36140   | Housing Inventory: Median Listing Price per Square Feet in Ocean City, NJ (CBSA)                     | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM36140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Ocean City, NJ (CBSA)    | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY36140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Ocean City, NJ (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY36140          | Housing Inventory: Median Listing Price Year-Over-Year in Ocean City, NJ (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE36140            | Housing Inventory: Median Home Size in Square Feet in Ocean City, NJ (CBSA)                          | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM36140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Ocean City, NJ (CBSA)         | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY36140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Ocean City, NJ (CBSA)           | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU36140            | Housing Inventory: New Listing Count in Ocean City, NJ (CBSA)                                        | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM36140          | Housing Inventory: New Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                       | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY36140          | Housing Inventory: New Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                         | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR36140          | Housing Inventory: Median Days on Market in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM36140        | Housing Inventory: Median Days on Market Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY36140        | Housing Inventory: Median Days on Market Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI36140            | Housing Inventory: Median Listing Price in Ocean City, NJ (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM36140          | Housing Inventory: Median Listing Price Month-Over-Month in Ocean City, NJ (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE36140   | Housing Inventory: Median Listing Price per Square Feet in Ocean City, NJ (CBSA)                     | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM36140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Ocean City, NJ (CBSA)    | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY36140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Ocean City, NJ (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY36140          | Housing Inventory: Median Listing Price Year-Over-Year in Ocean City, NJ (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE36140            | Housing Inventory: Median Home Size in Square Feet in Ocean City, NJ (CBSA)                          | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM36140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Ocean City, NJ (CBSA)         | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY36140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Ocean City, NJ (CBSA)           | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU36140            | Housing Inventory: New Listing Count in Ocean City, NJ (CBSA)                                        | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM36140          | Housing Inventory: New Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                       | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY36140          | Housing Inventory: New Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                         | 2017-07-01          | 2022-08-01        |
 | NGMP36140                 | Total Gross Domestic Product for Ocean City, NJ (MSA)                                                | 2001-01-01          | 2020-01-01        |
 | OCEA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-07-01        |
 | OCEA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-07-01        |
@@ -52,26 +52,26 @@
 | OCEA134GOVTN              | All Employees: Government in Ocean City, NJ (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | OCEA134LEIH               | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2022-07-01        |
 | OCEA134LEIHN              | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2022-07-01        |
-| OCEA134LF                 | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| OCEA134LFN                | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| OCEA134LF                 | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| OCEA134LFN                | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | OCEA134NA                 | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | OCEA134NAN                | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | OCEA134PCPI               | Per Capita Personal Income in Ocean City, NJ (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | OCEA134TRAD               | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2022-07-01        |
 | OCEA134TRADN              | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2022-07-01        |
-| OCEA134UR                 | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-06-01        |
-| OCEA134URN                | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-06-01        |
+| OCEA134UR                 | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-07-01        |
+| OCEA134URN                | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | OCIPOP                    | Resident Population in Ocean City, NJ (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136140          | U.S. Granted Utility Patents Originating in Ocean City, NJ (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU36140            | Housing Inventory: Pending Listing Count in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM36140          | Housing Inventory: Pending Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY36140          | Housing Inventory: Pending Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU36140            | Housing Inventory: Price Increased Count in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM36140          | Housing Inventory: Price Increased Count Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY36140          | Housing Inventory: Price Increased Count Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU36140            | Housing Inventory: Price Reduced Count in Ocean City, NJ (CBSA)                                      | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM36140          | Housing Inventory: Price Reduced Count Month-Over-Month in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY36140          | Housing Inventory: Price Reduced Count Year-Over-Year in Ocean City, NJ (CBSA)                       | 2017-07-01          | 2022-07-01        |
+| PENLISCOU36140            | Housing Inventory: Pending Listing Count in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM36140          | Housing Inventory: Pending Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY36140          | Housing Inventory: Pending Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU36140            | Housing Inventory: Price Increased Count in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM36140          | Housing Inventory: Price Increased Count Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY36140          | Housing Inventory: Price Increased Count Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU36140            | Housing Inventory: Price Reduced Count in Ocean City, NJ (CBSA)                                      | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM36140          | Housing Inventory: Price Reduced Count Month-Over-Month in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY36140          | Housing Inventory: Price Reduced Count Year-Over-Year in Ocean City, NJ (CBSA)                       | 2017-07-01          | 2022-08-01        |
 | QGMP36140                 | Total Quantity Indexes for Real GDP for Ocean City, NJ (MSA)                                         | 2001-01-01          | 2020-01-01        |
 | RGMP36140                 | Total Real Gross Domestic Product for Ocean City, NJ (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | RPI36140                  | Real Personal Income for Ocean City, NJ (MSA)                                                        | 2008-01-01          | 2020-01-01        |

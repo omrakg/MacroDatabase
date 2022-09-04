@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU42100            | Housing Inventory: Active Listing Count in Santa Cruz-Watsonville, CA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM42100          | Housing Inventory: Active Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY42100          | Housing Inventory: Active Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS42100Q            | All-Transactions House Price Index for Santa Cruz-Watsonville, CA (MSA)                                                     | 1978-01-01          | 2022-01-01        |
-| AVELISPRI42100            | Housing Inventory: Average Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM42100          | Housing Inventory: Average Listing Price Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY42100          | Housing Inventory: Average Listing Price Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| DESCMSA42100              | Market Hotness: Demand Score in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| ACTLISCOU42100            | Housing Inventory: Active Listing Count in Santa Cruz-Watsonville, CA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM42100          | Housing Inventory: Active Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY42100          | Housing Inventory: Active Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS42100Q            | All-Transactions House Price Index for Santa Cruz-Watsonville, CA (MSA)                                                     | 1978-01-01          | 2022-04-01        |
+| AVELISPRI42100            | Housing Inventory: Average Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM42100          | Housing Inventory: Average Listing Price Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY42100          | Housing Inventory: Average Listing Price Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| DESCMSA42100              | Market Hotness: Demand Score in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC421030010             | Total Quarterly Wages in Santa Cruz-Watsonville, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC421030010SA           | Total Quarterly Wages in Santa Cruz-Watsonville, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC421040010             | Average Weekly Wages for Employees in Total Covered Establishments in Santa Cruz-Watsonville, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,57 +20,57 @@
 | ENUC421040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC421040510             | Average Weekly Wages for Employees in Private Establishments in Santa Cruz-Watsonville, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC421040510SA           | Average Weekly Wages for Employees in Private Establishments in Santa Cruz-Watsonville, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA42100            | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HORAMSA42100              | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA42100            | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HOSCMSA42100              | Market Hotness: Hotness Score in Santa Cruz-Watsonville, CA (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA42100            | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HORAMSA42100              | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA42100            | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HOSCMSA42100              | Market Hotness: Hotness Score in Santa Cruz-Watsonville, CA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD42100                 | Implicit Regional Price Deflator for Santa Cruz-Watsonville, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT064210000000003A     | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT064210000000004      | Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT064210000000004      | Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT064210000000004A     | Unemployed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT064210000000005      | Employed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT064210000000005      | Employed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT064210000000005A     | Employed Persons in Santa Cruz-Watsonville, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT064210000000006A     | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA42100          | Market Hotness: Listing Views per Property in Santa Cruz-Watsonville, CA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA42100        | Market Hotness: Listing Views per Property Versus the United States in Santa Cruz-Watsonville, CA (CBSA)                    | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA42100          | Market Hotness: Listing Views per Property in Santa Cruz-Watsonville, CA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA42100        | Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA42100          | Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA42100        | Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR42100          | Housing Inventory: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM42100        | Housing Inventory: Median Days on Market Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY42100        | Housing Inventory: Median Days on Market Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI42100            | Housing Inventory: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM42100          | Housing Inventory: Median Listing Price Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE42100   | Housing Inventory: Median Listing Price per Square Feet in Santa Cruz-Watsonville, CA (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM42100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY42100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY42100          | Housing Inventory: Median Listing Price Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA42100          | Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA42100          | Market Hotness: Median Days on Market Versus the United States in Santa Cruz-Watsonville, CA (CBSA)                         | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA42100          | Market Hotness: Median Days on Market Day in Santa Cruz-Watsonville, CA (CBSA)                                              | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE42100            | Housing Inventory: Median Home Size in Square Feet in Santa Cruz-Watsonville, CA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM42100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY42100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA42100          | Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA42100            | Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA42100        | Market Hotness: Median Listing Price Versus the United States in Santa Cruz-Watsonville, CA (CBSA)                          | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA42100          | Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU42100            | Housing Inventory: New Listing Count in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM42100          | Housing Inventory: New Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY42100          | Housing Inventory: New Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA42100          | Market Hotness: Listing Views per Property in Santa Cruz-Watsonville, CA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA42100        | Market Hotness: Listing Views per Property Versus the United States in Santa Cruz-Watsonville, CA (CBSA)                    | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA42100          | Market Hotness: Listing Views per Property in Santa Cruz-Watsonville, CA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA42100        | Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA42100          | Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA42100        | Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR42100          | Housing Inventory: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM42100        | Housing Inventory: Median Days on Market Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY42100        | Housing Inventory: Median Days on Market Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI42100            | Housing Inventory: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM42100          | Housing Inventory: Median Listing Price Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE42100   | Housing Inventory: Median Listing Price per Square Feet in Santa Cruz-Watsonville, CA (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM42100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY42100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY42100          | Housing Inventory: Median Listing Price Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA42100          | Market Hotness: Median Days on Market in Santa Cruz-Watsonville, CA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA42100          | Market Hotness: Median Days on Market Versus the United States in Santa Cruz-Watsonville, CA (CBSA)                         | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA42100          | Market Hotness: Median Days on Market Day in Santa Cruz-Watsonville, CA (CBSA)                                              | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE42100            | Housing Inventory: Median Home Size in Square Feet in Santa Cruz-Watsonville, CA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM42100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY42100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA42100          | Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA42100            | Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA42100        | Market Hotness: Median Listing Price Versus the United States in Santa Cruz-Watsonville, CA (CBSA)                          | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA42100          | Market Hotness: Median Listing Price in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU42100            | Housing Inventory: New Listing Count in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM42100          | Housing Inventory: New Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY42100          | Housing Inventory: New Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP42100                 | Total Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA42100            | Market Hotness: Nielsen Household Rank in Santa Cruz-Watsonville, CA (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA42100            | Market Hotness: Nielsen Household Rank in Santa Cruz-Watsonville, CA (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA142100          | U.S. Granted Utility Patents Originating in Santa Cruz-Watsonville, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU42100            | Housing Inventory: Pending Listing Count in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM42100          | Housing Inventory: Pending Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY42100          | Housing Inventory: Pending Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU42100            | Housing Inventory: Price Increased Count in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOU42100            | Housing Inventory: Pending Listing Count in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM42100          | Housing Inventory: Pending Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY42100          | Housing Inventory: Pending Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU42100            | Housing Inventory: Price Increased Count in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM42100          | Housing Inventory: Price Increased Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
 | PRIINCCOUYY42100          | Housing Inventory: Price Increased Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU42100            | Housing Inventory: Price Reduced Count in Santa Cruz-Watsonville, CA (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM42100          | Housing Inventory: Price Reduced Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY42100          | Housing Inventory: Price Reduced Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU42100            | Housing Inventory: Price Reduced Count in Santa Cruz-Watsonville, CA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM42100          | Housing Inventory: Price Reduced Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY42100          | Housing Inventory: Price Reduced Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP42100                 | Total Quantity Indexes for Real GDP for Santa Cruz-Watsonville, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP42100                 | Total Real Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI42100                  | Real Personal Income for Santa Cruz-Watsonville, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -89,8 +89,8 @@
 | SANT106INFON              | All Employees: Information in Santa Cruz-Watsonville, CA (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | SANT106LEIH               | All Employees: Leisure and Hospitality in Santa Cruz-Watsonville, CA (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | SANT106LEIHN              | All Employees: Leisure and Hospitality in Santa Cruz-Watsonville, CA (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| SANT106LF                 | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| SANT106LFN                | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| SANT106LF                 | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| SANT106LFN                | Civilian Labor Force in Santa Cruz-Watsonville, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | SANT106MFG                | All Employees: Manufacturing in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | SANT106MFGN               | All Employees: Manufacturing in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | SANT106NA                 | All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -104,8 +104,8 @@
 | SANT106SRVON              | All Employees: Other Services in Santa Cruz-Watsonville, CA (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | SANT106TRAD               | All Employees: Trade, Transportation, and Utilities in Santa Cruz-Watsonville, CA (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | SANT106TRADN              | All Employees: Trade, Transportation, and Utilities in Santa Cruz-Watsonville, CA (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| SANT106UR                 | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| SANT106URN                | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| SANT106UR                 | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| SANT106URN                | Unemployment Rate in Santa Cruz-Watsonville, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | SCZPOP                    | Resident Population in Santa Cruz-Watsonville, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SMS06421000000000026      | All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-04-01          | 2022-07-01        |
 | SMU06421000000000001A     | All Employees: Total Nonfarm in Santa Cruz-Watsonville, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
@@ -185,4 +185,4 @@
 | SMU06421009093200001      | All Employees: Government: Local Government Excluding Educational Services in Santa Cruz-Watsonville, CA (MSA)              | 1990-01-01          | 2022-07-01        |
 | SMU06421009093200001A     | All Employees: Local Government Excluding Educational Services in Santa Cruz-Watsonville, CA (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU06421009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Santa Cruz-Watsonville, CA (MSA)              | 1990-01-01          | 2022-07-01        |
-| SUSCMSA42100              | Market Hotness: Supply Score in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| SUSCMSA42100              | Market Hotness: Supply Score in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

@@ -1,12 +1,12 @@
 | id                        | title                                                                                                               | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU24220            | Housing Inventory: Active Listing Count in Grand Forks, ND-MN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM24220          | Housing Inventory: Active Listing Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY24220          | Housing Inventory: Active Listing Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS24220Q            | All-Transactions House Price Index for Grand Forks, ND-MN (MSA)                                                     | 1987-07-01          | 2022-01-01        |
-| AVELISPRI24220            | Housing Inventory: Average Listing Price in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM24220          | Housing Inventory: Average Listing Price Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY24220          | Housing Inventory: Average Listing Price Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU24220            | Housing Inventory: Active Listing Count in Grand Forks, ND-MN (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM24220          | Housing Inventory: Active Listing Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY24220          | Housing Inventory: Active Listing Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS24220Q            | All-Transactions House Price Index for Grand Forks, ND-MN (MSA)                                                     | 1987-07-01          | 2022-04-01        |
+| AVELISPRI24220            | Housing Inventory: Average Listing Price in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM24220          | Housing Inventory: Average Listing Price Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY24220          | Housing Inventory: Average Listing Price Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | ENUC242230010             | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC242230010SA           | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC242240010             | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -29,8 +29,8 @@
 | GRAN238INFON              | All Employees: Information in Grand Forks, ND-MN (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | GRAN238LEIH               | All Employees: Leisure and Hospitality in Grand Forks, ND-MN (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | GRAN238LEIHN              | All Employees: Leisure and Hospitality in Grand Forks, ND-MN (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| GRAN238LF                 | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| GRAN238LFN                | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| GRAN238LF                 | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| GRAN238LFN                | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | GRAN238MFG                | All Employees: Manufacturing in Grand Forks, ND-MN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | GRAN238MFGN               | All Employees: Manufacturing in Grand Forks, ND-MN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | GRAN238NA                 | All Employees: Total Nonfarm in Grand Forks, ND-MN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -44,42 +44,42 @@
 | GRAN238SRVON              | All Employees: Other Services in Grand Forks, ND-MN (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | GRAN238TRAD               | All Employees: Trade, Transportation, and Utilities in Grand Forks, ND-MN (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | GRAN238TRADN              | All Employees: Trade, Transportation, and Utilities in Grand Forks, ND-MN (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| GRAN238UR                 | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| GRAN238URN                | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| GRAN238UR                 | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| GRAN238URN                | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | GRFPOP                    | Resident Population in Grand Forks, ND-MN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | IRPD24220                 | Implicit Regional Price Deflator for Grand Forks, ND-MN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT382422000000003A     | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT382422000000004      | Unemployed Persons in Grand Forks, ND-MN (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT382422000000004      | Unemployed Persons in Grand Forks, ND-MN (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT382422000000004A     | Unemployed Persons in Grand Forks, ND-MN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT382422000000005      | Employed Persons in Grand Forks, ND-MN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT382422000000005      | Employed Persons in Grand Forks, ND-MN (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT382422000000005A     | Employed Persons in Grand Forks, ND-MN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT382422000000006A     | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR24220          | Housing Inventory: Median Days on Market in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM24220        | Housing Inventory: Median Days on Market Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY24220        | Housing Inventory: Median Days on Market Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI24220            | Housing Inventory: Median Listing Price in Grand Forks, ND-MN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM24220          | Housing Inventory: Median Listing Price Month-Over-Month in Grand Forks, ND-MN (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE24220   | Housing Inventory: Median Listing Price per Square Feet in Grand Forks, ND-MN (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM24220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Grand Forks, ND-MN (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY24220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Grand Forks, ND-MN (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY24220          | Housing Inventory: Median Listing Price Year-Over-Year in Grand Forks, ND-MN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE24220            | Housing Inventory: Median Home Size in Square Feet in Grand Forks, ND-MN (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM24220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Grand Forks, ND-MN (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY24220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Grand Forks, ND-MN (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU24220            | Housing Inventory: New Listing Count in Grand Forks, ND-MN (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM24220          | Housing Inventory: New Listing Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY24220          | Housing Inventory: New Listing Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR24220          | Housing Inventory: Median Days on Market in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM24220        | Housing Inventory: Median Days on Market Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY24220        | Housing Inventory: Median Days on Market Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI24220            | Housing Inventory: Median Listing Price in Grand Forks, ND-MN (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM24220          | Housing Inventory: Median Listing Price Month-Over-Month in Grand Forks, ND-MN (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE24220   | Housing Inventory: Median Listing Price per Square Feet in Grand Forks, ND-MN (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM24220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Grand Forks, ND-MN (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY24220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Grand Forks, ND-MN (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY24220          | Housing Inventory: Median Listing Price Year-Over-Year in Grand Forks, ND-MN (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE24220            | Housing Inventory: Median Home Size in Square Feet in Grand Forks, ND-MN (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM24220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Grand Forks, ND-MN (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY24220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Grand Forks, ND-MN (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU24220            | Housing Inventory: New Listing Count in Grand Forks, ND-MN (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM24220          | Housing Inventory: New Listing Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY24220          | Housing Inventory: New Listing Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP24220                 | Total Gross Domestic Product for Grand Forks, ND-MN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA124220          | U.S. Granted Utility Patents Originating in Grand Forks, ND-MN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU24220            | Housing Inventory: Pending Listing Count in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM24220          | Housing Inventory: Pending Listing Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY24220          | Housing Inventory: Pending Listing Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU24220            | Housing Inventory: Price Increased Count in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOU24220            | Housing Inventory: Pending Listing Count in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM24220          | Housing Inventory: Pending Listing Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY24220          | Housing Inventory: Pending Listing Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU24220            | Housing Inventory: Price Increased Count in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM24220          | Housing Inventory: Price Increased Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-08-01          | 2022-07-01        |
-| PRIINCCOUYY24220          | Housing Inventory: Price Increased Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-08-01          | 2022-07-01        |
-| PRIREDCOU24220            | Housing Inventory: Price Reduced Count in Grand Forks, ND-MN (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM24220          | Housing Inventory: Price Reduced Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY24220          | Housing Inventory: Price Reduced Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY24220          | Housing Inventory: Price Increased Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-08-01          | 2022-08-01        |
+| PRIREDCOU24220            | Housing Inventory: Price Reduced Count in Grand Forks, ND-MN (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM24220          | Housing Inventory: Price Reduced Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY24220          | Housing Inventory: Price Reduced Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP24220                 | Total Quantity Indexes for Real GDP for Grand Forks, ND-MN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP24220                 | Total Real Gross Domestic Product for Grand Forks, ND-MN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI24220                  | Real Personal Income for Grand Forks, ND-MN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

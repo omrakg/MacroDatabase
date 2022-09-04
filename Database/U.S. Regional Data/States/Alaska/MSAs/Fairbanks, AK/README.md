@@ -1,12 +1,12 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU21820            | Housing Inventory: Active Listing Count in Fairbanks, AK (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM21820          | Housing Inventory: Active Listing Count Month-Over-Month in Fairbanks, AK (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY21820          | Housing Inventory: Active Listing Count Year-Over-Year in Fairbanks, AK (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS21820Q            | All-Transactions House Price Index for Fairbanks, AK (MSA)                                                     | 1986-10-01          | 2022-01-01        |
-| AVELISPRI21820            | Housing Inventory: Average Listing Price in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM21820          | Housing Inventory: Average Listing Price Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY21820          | Housing Inventory: Average Listing Price Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU21820            | Housing Inventory: Active Listing Count in Fairbanks, AK (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM21820          | Housing Inventory: Active Listing Count Month-Over-Month in Fairbanks, AK (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY21820          | Housing Inventory: Active Listing Count Year-Over-Year in Fairbanks, AK (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS21820Q            | All-Transactions House Price Index for Fairbanks, AK (MSA)                                                     | 1986-10-01          | 2022-04-01        |
+| AVELISPRI21820            | Housing Inventory: Average Listing Price in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM21820          | Housing Inventory: Average Listing Price Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY21820          | Housing Inventory: Average Listing Price Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | ENUC218230010             | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC218230010SA           | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC218240010             | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -33,8 +33,8 @@
 | FAIR802INFON              | All Employees: Information in Fairbanks, AK (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | FAIR802LEIH               | All Employees: Leisure and Hospitality in Fairbanks, AK (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | FAIR802LEIHN              | All Employees: Leisure and Hospitality in Fairbanks, AK (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| FAIR802LF                 | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| FAIR802LFN                | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| FAIR802LF                 | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| FAIR802LFN                | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | FAIR802MFG                | All Employees: Manufacturing in Fairbanks, AK (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | FAIR802MFGN               | All Employees: Manufacturing in Fairbanks, AK (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | FAIR802NA                 | All Employees: Total Nonfarm in Fairbanks, AK (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -46,42 +46,42 @@
 | FAIR802SRVON              | All Employees: Other Services in Fairbanks, AK (MSA)                                                           | 2003-01-01          | 2022-07-01        |
 | FAIR802TRAD               | All Employees: Trade, Transportation, and Utilities in Fairbanks, AK (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | FAIR802TRADN              | All Employees: Trade, Transportation, and Utilities in Fairbanks, AK (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| FAIR802UR                 | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| FAIR802URN                | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| FAIR802UR                 | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| FAIR802URN                | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | FBKPOP                    | Resident Population in Fairbanks, AK (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | IRPD21820                 | Implicit Regional Price Deflator for Fairbanks, AK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT022182000000003A     | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT022182000000004      | Unemployed Persons in Fairbanks, AK (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT022182000000004      | Unemployed Persons in Fairbanks, AK (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT022182000000004A     | Unemployed Persons in Fairbanks, AK (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT022182000000005      | Employed Persons in Fairbanks, AK (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT022182000000005      | Employed Persons in Fairbanks, AK (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT022182000000005A     | Employed Persons in Fairbanks, AK (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT022182000000006A     | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR21820          | Housing Inventory: Median Days on Market in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM21820        | Housing Inventory: Median Days on Market Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY21820        | Housing Inventory: Median Days on Market Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI21820            | Housing Inventory: Median Listing Price in Fairbanks, AK (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM21820          | Housing Inventory: Median Listing Price Month-Over-Month in Fairbanks, AK (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE21820   | Housing Inventory: Median Listing Price per Square Feet in Fairbanks, AK (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM21820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Fairbanks, AK (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY21820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Fairbanks, AK (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY21820          | Housing Inventory: Median Listing Price Year-Over-Year in Fairbanks, AK (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE21820            | Housing Inventory: Median Home Size in Square Feet in Fairbanks, AK (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM21820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Fairbanks, AK (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY21820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Fairbanks, AK (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU21820            | Housing Inventory: New Listing Count in Fairbanks, AK (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM21820          | Housing Inventory: New Listing Count Month-Over-Month in Fairbanks, AK (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY21820          | Housing Inventory: New Listing Count Year-Over-Year in Fairbanks, AK (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR21820          | Housing Inventory: Median Days on Market in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM21820        | Housing Inventory: Median Days on Market Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY21820        | Housing Inventory: Median Days on Market Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI21820            | Housing Inventory: Median Listing Price in Fairbanks, AK (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM21820          | Housing Inventory: Median Listing Price Month-Over-Month in Fairbanks, AK (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE21820   | Housing Inventory: Median Listing Price per Square Feet in Fairbanks, AK (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM21820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Fairbanks, AK (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY21820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Fairbanks, AK (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY21820          | Housing Inventory: Median Listing Price Year-Over-Year in Fairbanks, AK (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE21820            | Housing Inventory: Median Home Size in Square Feet in Fairbanks, AK (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM21820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Fairbanks, AK (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY21820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Fairbanks, AK (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU21820            | Housing Inventory: New Listing Count in Fairbanks, AK (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM21820          | Housing Inventory: New Listing Count Month-Over-Month in Fairbanks, AK (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY21820          | Housing Inventory: New Listing Count Year-Over-Year in Fairbanks, AK (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP21820                 | Total Gross Domestic Product for Fairbanks, AK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA121820          | U.S. Granted Utility Patents Originating in Fairbanks, AK (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU21820            | Housing Inventory: Pending Listing Count in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM21820          | Housing Inventory: Pending Listing Count Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-10-01          | 2022-07-01        |
-| PENLISCOUYY21820          | Housing Inventory: Pending Listing Count Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-09-01          | 2022-07-01        |
-| PRIINCCOU21820            | Housing Inventory: Price Increased Count in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOU21820            | Housing Inventory: Pending Listing Count in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM21820          | Housing Inventory: Pending Listing Count Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-10-01          | 2022-08-01        |
+| PENLISCOUYY21820          | Housing Inventory: Pending Listing Count Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-09-01          | 2022-08-01        |
+| PRIINCCOU21820            | Housing Inventory: Price Increased Count in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM21820          | Housing Inventory: Price Increased Count Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY21820          | Housing Inventory: Price Increased Count Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-08-01          | 2022-07-01        |
-| PRIREDCOU21820            | Housing Inventory: Price Reduced Count in Fairbanks, AK (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM21820          | Housing Inventory: Price Reduced Count Month-Over-Month in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY21820          | Housing Inventory: Price Reduced Count Year-Over-Year in Fairbanks, AK (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY21820          | Housing Inventory: Price Increased Count Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-08-01          | 2022-08-01        |
+| PRIREDCOU21820            | Housing Inventory: Price Reduced Count in Fairbanks, AK (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM21820          | Housing Inventory: Price Reduced Count Month-Over-Month in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY21820          | Housing Inventory: Price Reduced Count Year-Over-Year in Fairbanks, AK (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP21820                 | Total Quantity Indexes for Real GDP for Fairbanks, AK (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP21820                 | Total Real Gross Domestic Product for Fairbanks, AK (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI21820                  | Real Personal Income for Fairbanks, AK (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

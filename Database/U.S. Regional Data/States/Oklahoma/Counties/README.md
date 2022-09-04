@@ -52,8 +52,8 @@
 | Jackson County, OK      |                90 |
 | Bryan County, OK        |                90 |
 | Johnston County, OK     |                89 |
-| Cotton County, OK       |                88 |
-| Pontotoc County, OK     |                 0 |
+| Cotton County, OK       |                 0 |
+| Pontotoc County, OK     |                90 |
 | Custer County, OK       |                90 |
 | Atoka County, OK        |                88 |
 | Pottawatomie County, OK |               147 |

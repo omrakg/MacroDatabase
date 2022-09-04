@@ -58,8 +58,8 @@
 | Clinton County, MI        |               147 |
 | Calhoun County, MI        |               147 |
 | Delta County, MI          |                90 |
-| Iosco County, MI          |                89 |
-| Tuscola County, MI        |                 0 |
+| Iosco County, MI          |                 0 |
+| Tuscola County, MI        |                90 |
 | Alger County, MI          |                89 |
 | Crawford County, MI       |                90 |
 | Alpena County, MI         |                90 |

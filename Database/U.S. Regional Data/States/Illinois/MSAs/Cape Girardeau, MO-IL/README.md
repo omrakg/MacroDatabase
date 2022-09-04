@@ -1,11 +1,11 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU16020            | Housing Inventory: Active Listing Count in Cape Girardeau, MO-IL (CBSA)                                        | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM16020          | Housing Inventory: Active Listing Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                       | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY16020          | Housing Inventory: Active Listing Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                         | 2017-07-01          | 2022-07-01        |
-| AVELISPRI16020            | Housing Inventory: Average Listing Price in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM16020          | Housing Inventory: Average Listing Price Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY16020          | Housing Inventory: Average Listing Price Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU16020            | Housing Inventory: Active Listing Count in Cape Girardeau, MO-IL (CBSA)                                        | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM16020          | Housing Inventory: Active Listing Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                       | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY16020          | Housing Inventory: Active Listing Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                         | 2017-07-01          | 2022-08-01        |
+| AVELISPRI16020            | Housing Inventory: Average Listing Price in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM16020          | Housing Inventory: Average Listing Price Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY16020          | Housing Inventory: Average Listing Price Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-08-01        |
 | CGJPOP                    | Resident Population in Cape Girardeau, MO-IL (MSA)                                                             | 2000-01-01          | 2021-01-01        |
 | ENUC160230010             | Total Quarterly Wages in Cape Girardeau, MO-IL (MSA)                                                           | 2013-01-01          | 2021-10-01        |
 | ENUC160230010SA           | Total Quarterly Wages in Cape Girardeau, MO-IL (MSA)                                                           | 2013-01-01          | 2021-10-01        |
@@ -20,40 +20,40 @@
 | ENUC160240510             | Average Weekly Wages for Employees in Private Establishments in Cape Girardeau-Jackson, MO-IL (MSA)            | 2013-01-01          | 2021-10-01        |
 | ENUC160240510SA           | Average Weekly Wages for Employees in Private Establishments in Cape Girardeau-Jackson, MO-IL (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD16020                 | Implicit Regional Price Deflator for Cape Girardeau, MO-IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| LAUMT291602000000003      | Unemployment Rate in Cape Girardeau, MO-IL (MSA)                                                               | 1990-01-01          | 2022-06-01        |
+| LAUMT291602000000003      | Unemployment Rate in Cape Girardeau, MO-IL (MSA)                                                               | 1990-01-01          | 2022-07-01        |
 | LAUMT291602000000003A     | Unemployment Rate in Cape Girardeau, MO-IL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| LAUMT291602000000004      | Unemployed Persons in Cape Girardeau, MO-IL (MSA)                                                              | 1990-01-01          | 2022-06-01        |
+| LAUMT291602000000004      | Unemployed Persons in Cape Girardeau, MO-IL (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | LAUMT291602000000004A     | Unemployed Persons in Cape Girardeau, MO-IL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| LAUMT291602000000005      | Employed Persons in Cape Girardeau, MO-IL (MSA)                                                                | 1990-01-01          | 2022-06-01        |
+| LAUMT291602000000005      | Employed Persons in Cape Girardeau, MO-IL (MSA)                                                                | 1990-01-01          | 2022-07-01        |
 | LAUMT291602000000005A     | Employed Persons in Cape Girardeau, MO-IL (MSA)                                                                | 1990-01-01          | 2021-01-01        |
-| LAUMT291602000000006      | Civilian Labor Force in Cape Girardeau, MO-IL (MSA)                                                            | 1990-01-01          | 2022-06-01        |
+| LAUMT291602000000006      | Civilian Labor Force in Cape Girardeau, MO-IL (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | LAUMT291602000000006A     | Civilian Labor Force in Cape Girardeau, MO-IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR16020          | Housing Inventory: Median Days on Market in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM16020        | Housing Inventory: Median Days on Market Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY16020        | Housing Inventory: Median Days on Market Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI16020            | Housing Inventory: Median Listing Price in Cape Girardeau, MO-IL (CBSA)                                        | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM16020          | Housing Inventory: Median Listing Price Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                       | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE16020   | Housing Inventory: Median Listing Price per Square Feet in Cape Girardeau, MO-IL (CBSA)                        | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM16020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Cape Girardeau, MO-IL (CBSA)       | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY16020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Cape Girardeau, MO-IL (CBSA)         | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY16020          | Housing Inventory: Median Listing Price Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                         | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE16020            | Housing Inventory: Median Home Size in Square Feet in Cape Girardeau, MO-IL (CBSA)                             | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM16020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Cape Girardeau, MO-IL (CBSA)            | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY16020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Cape Girardeau, MO-IL (CBSA)              | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU16020            | Housing Inventory: New Listing Count in Cape Girardeau, MO-IL (CBSA)                                           | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM16020          | Housing Inventory: New Listing Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                          | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY16020          | Housing Inventory: New Listing Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                            | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR16020          | Housing Inventory: Median Days on Market in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM16020        | Housing Inventory: Median Days on Market Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY16020        | Housing Inventory: Median Days on Market Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI16020            | Housing Inventory: Median Listing Price in Cape Girardeau, MO-IL (CBSA)                                        | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM16020          | Housing Inventory: Median Listing Price Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                       | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE16020   | Housing Inventory: Median Listing Price per Square Feet in Cape Girardeau, MO-IL (CBSA)                        | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM16020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Cape Girardeau, MO-IL (CBSA)       | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY16020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Cape Girardeau, MO-IL (CBSA)         | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY16020          | Housing Inventory: Median Listing Price Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                         | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE16020            | Housing Inventory: Median Home Size in Square Feet in Cape Girardeau, MO-IL (CBSA)                             | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM16020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Cape Girardeau, MO-IL (CBSA)            | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY16020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Cape Girardeau, MO-IL (CBSA)              | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU16020            | Housing Inventory: New Listing Count in Cape Girardeau, MO-IL (CBSA)                                           | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM16020          | Housing Inventory: New Listing Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                          | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY16020          | Housing Inventory: New Listing Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                            | 2017-07-01          | 2022-08-01        |
 | NGMP16020                 | Total Gross Domestic Product for Cape Girardeau, MO-IL (MSA)                                                   | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA116020          | U.S. Granted Utility Patents Originating in Cape Girardeau-Jackson, MO-IL (MSA)                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU16020            | Housing Inventory: Pending Listing Count in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM16020          | Housing Inventory: Pending Listing Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY16020          | Housing Inventory: Pending Listing Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU16020            | Housing Inventory: Price Increased Count in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-07-01        |
+| PENLISCOU16020            | Housing Inventory: Pending Listing Count in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM16020          | Housing Inventory: Pending Listing Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY16020          | Housing Inventory: Pending Listing Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU16020            | Housing Inventory: Price Increased Count in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM16020          | Housing Inventory: Price Increased Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-04-01        |
 | PRIINCCOUYY16020          | Housing Inventory: Price Increased Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                        | 2017-08-01          | 2022-06-01        |
-| PRIREDCOU16020            | Housing Inventory: Price Reduced Count in Cape Girardeau, MO-IL (CBSA)                                         | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM16020          | Housing Inventory: Price Reduced Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY16020          | Housing Inventory: Price Reduced Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                          | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU16020            | Housing Inventory: Price Reduced Count in Cape Girardeau, MO-IL (CBSA)                                         | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM16020          | Housing Inventory: Price Reduced Count Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                        | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY16020          | Housing Inventory: Price Reduced Count Year-Over-Year in Cape Girardeau, MO-IL (CBSA)                          | 2017-07-01          | 2022-08-01        |
 | QGMP16020                 | Total Quantity Indexes for Real GDP for Cape Girardeau, MO-IL (MSA)                                            | 2001-01-01          | 2020-01-01        |
 | RGMP16020                 | Total Real Gross Domestic Product for Cape Girardeau, MO-IL (MSA)                                              | 2001-01-01          | 2020-01-01        |
 | RPI16020                  | Real Personal Income for Cape Girardeau, MO-IL (MSA)                                                           | 2008-01-01          | 2020-01-01        |

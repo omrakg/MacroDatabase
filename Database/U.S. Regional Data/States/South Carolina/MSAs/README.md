@@ -7,7 +7,7 @@
 | Spartanburg, SC                               |               165 |
 | Columbia, SC                                  |               172 |
 | Augusta-Richmond County, GA-SC                |               159 |
-| Florence, SC                                  |               125 |
+| Florence, SC                                  |                 0 |
 | Anderson, SC                                  |                 3 |
 | Hilton Head Island-Bluffton, SC               |                59 |
 | Greenville-Anderson, SC                       |               174 |

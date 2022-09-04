@@ -20,14 +20,14 @@
 | Claiborne County, TN  |                89 |
 | Bedford County, TN    |                90 |
 | Blount County, TN     |               147 |
-| Cocke County, TN      |                90 |
+| Cocke County, TN      |                 0 |
 | Sullivan County, TN   |               147 |
 | Greene County, TN     |               147 |
 | Jackson County, TN    |                90 |
 | Monroe County, TN     |                90 |
 | Shelby County, TN     |               147 |
 | Fayette County, TN    |                90 |
-| Anderson County, TN   |                 0 |
+| Anderson County, TN   |               147 |
 | Warren County, TN     |                90 |
 | De Kalb County, TN    |                90 |
 | Grainger County, TN   |                88 |
@@ -80,14 +80,14 @@
 | Smith County, TN      |                90 |
 | Wayne County, TN      |                89 |
 | Henry County, TN      |                89 |
-| Bradley County, TN    |               147 |
+| Bradley County, TN    |                 0 |
 | Franklin County, TN   |                90 |
 | Trousdale County, TN  |                90 |
 | Polk County, TN       |                89 |
 | White County, TN      |                90 |
 | Cannon County, TN     |                90 |
 | Hancock County, TN    |                87 |
-| Unicoi County, TN     |                 0 |
+| Unicoi County, TN     |                90 |
 | Knox County, TN       |               147 |
 | Carter County, TN     |               146 |
 | Lawrence County, TN   |                89 |

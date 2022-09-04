@@ -1,12 +1,12 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU20940            | Housing Inventory: Active Listing Count in El Centro, CA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM20940          | Housing Inventory: Active Listing Count Month-Over-Month in El Centro, CA (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY20940          | Housing Inventory: Active Listing Count Year-Over-Year in El Centro, CA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS20940Q            | All-Transactions House Price Index for El Centro, CA (MSA)                                                     | 1989-07-01          | 2022-01-01        |
-| AVELISPRI20940            | Housing Inventory: Average Listing Price in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM20940          | Housing Inventory: Average Listing Price Month-Over-Month in El Centro, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY20940          | Housing Inventory: Average Listing Price Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU20940            | Housing Inventory: Active Listing Count in El Centro, CA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM20940          | Housing Inventory: Active Listing Count Month-Over-Month in El Centro, CA (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY20940          | Housing Inventory: Active Listing Count Year-Over-Year in El Centro, CA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS20940Q            | All-Transactions House Price Index for El Centro, CA (MSA)                                                     | 1989-07-01          | 2022-04-01        |
+| AVELISPRI20940            | Housing Inventory: Average Listing Price in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM20940          | Housing Inventory: Average Listing Price Month-Over-Month in El Centro, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY20940          | Housing Inventory: Average Listing Price Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | ELCE906EDUH               | All Employees: Education and Health Services in El Centro, CA (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | ELCE906EDUHN              | All Employees: Education and Health Services in El Centro, CA (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | ELCE906FIRE               | All Employees: Financial Activities in El Centro, CA (MSA)                                                     | 1990-01-01          | 2022-07-01        |
@@ -17,8 +17,8 @@
 | ELCE906INFON              | All Employees: Information in El Centro, CA (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | ELCE906LEIH               | All Employees: Leisure and Hospitality in El Centro, CA (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | ELCE906LEIHN              | All Employees: Leisure and Hospitality in El Centro, CA (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| ELCE906LF                 | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| ELCE906LFN                | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| ELCE906LF                 | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| ELCE906LFN                | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | ELCE906MFG                | All Employees: Manufacturing in El Centro, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | ELCE906MFGN               | All Employees: Manufacturing in El Centro, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | ELCE906NA                 | All Employees: Total Nonfarm in El Centro, CA (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -32,8 +32,8 @@
 | ELCE906SRVON              | All Employees: Other Services in El Centro, CA (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | ELCE906TRAD               | All Employees: Trade, Transportation, and Utilities in El Centro, CA (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | ELCE906TRADN              | All Employees: Trade, Transportation, and Utilities in El Centro, CA (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| ELCE906UR                 | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| ELCE906URN                | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| ELCE906UR                 | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| ELCE906URN                | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | ELCPOP                    | Resident Population in El Centro, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC209430010             | Total Quarterly Wages in El Centro, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC209430010SA           | Total Quarterly Wages in El Centro, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
@@ -49,37 +49,37 @@
 | ENUC209440510SA           | Average Weekly Wages for Employees in Private Establishments in El Centro, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD20940                 | Implicit Regional Price Deflator for El Centro, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT062094000000003A     | Unemployment Rate in El Centro, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT062094000000004      | Unemployed Persons in El Centro, CA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT062094000000004      | Unemployed Persons in El Centro, CA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT062094000000004A     | Unemployed Persons in El Centro, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT062094000000005      | Employed Persons in El Centro, CA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT062094000000005      | Employed Persons in El Centro, CA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT062094000000005A     | Employed Persons in El Centro, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT062094000000006A     | Civilian Labor Force in El Centro, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR20940          | Housing Inventory: Median Days on Market in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM20940        | Housing Inventory: Median Days on Market Month-Over-Month in El Centro, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY20940        | Housing Inventory: Median Days on Market Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI20940            | Housing Inventory: Median Listing Price in El Centro, CA (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM20940          | Housing Inventory: Median Listing Price Month-Over-Month in El Centro, CA (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE20940   | Housing Inventory: Median Listing Price per Square Feet in El Centro, CA (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM20940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in El Centro, CA (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY20940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in El Centro, CA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY20940          | Housing Inventory: Median Listing Price Year-Over-Year in El Centro, CA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE20940            | Housing Inventory: Median Home Size in Square Feet in El Centro, CA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM20940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in El Centro, CA (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY20940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in El Centro, CA (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU20940            | Housing Inventory: New Listing Count in El Centro, CA (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM20940          | Housing Inventory: New Listing Count Month-Over-Month in El Centro, CA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY20940          | Housing Inventory: New Listing Count Year-Over-Year in El Centro, CA (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR20940          | Housing Inventory: Median Days on Market in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM20940        | Housing Inventory: Median Days on Market Month-Over-Month in El Centro, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY20940        | Housing Inventory: Median Days on Market Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI20940            | Housing Inventory: Median Listing Price in El Centro, CA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM20940          | Housing Inventory: Median Listing Price Month-Over-Month in El Centro, CA (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE20940   | Housing Inventory: Median Listing Price per Square Feet in El Centro, CA (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM20940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in El Centro, CA (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY20940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in El Centro, CA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY20940          | Housing Inventory: Median Listing Price Year-Over-Year in El Centro, CA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE20940            | Housing Inventory: Median Home Size in Square Feet in El Centro, CA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM20940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in El Centro, CA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY20940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in El Centro, CA (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU20940            | Housing Inventory: New Listing Count in El Centro, CA (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM20940          | Housing Inventory: New Listing Count Month-Over-Month in El Centro, CA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY20940          | Housing Inventory: New Listing Count Year-Over-Year in El Centro, CA (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP20940                 | Total Gross Domestic Product for El Centro, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA120940          | U.S. Granted Utility Patents Originating in El Centro, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU20940            | Housing Inventory: Pending Listing Count in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM20940          | Housing Inventory: Pending Listing Count Month-Over-Month in El Centro, CA (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY20940          | Housing Inventory: Pending Listing Count Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU20940            | Housing Inventory: Price Increased Count in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOU20940            | Housing Inventory: Pending Listing Count in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM20940          | Housing Inventory: Pending Listing Count Month-Over-Month in El Centro, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY20940          | Housing Inventory: Pending Listing Count Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU20940            | Housing Inventory: Price Increased Count in El Centro, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM20940          | Housing Inventory: Price Increased Count Month-Over-Month in El Centro, CA (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY20940          | Housing Inventory: Price Increased Count Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU20940            | Housing Inventory: Price Reduced Count in El Centro, CA (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM20940          | Housing Inventory: Price Reduced Count Month-Over-Month in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY20940          | Housing Inventory: Price Reduced Count Year-Over-Year in El Centro, CA (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY20940          | Housing Inventory: Price Increased Count Year-Over-Year in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU20940            | Housing Inventory: Price Reduced Count in El Centro, CA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM20940          | Housing Inventory: Price Reduced Count Month-Over-Month in El Centro, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY20940          | Housing Inventory: Price Reduced Count Year-Over-Year in El Centro, CA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP20940                 | Total Quantity Indexes for Real GDP for El Centro, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP20940                 | Total Real Gross Domestic Product for El Centro, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI20940                  | Real Personal Income for El Centro, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

@@ -38,7 +38,7 @@
 | Blackford County, IN   |                89 |
 | Floyd County, IN       |               147 |
 | Warren County, IN      |                89 |
-| Decatur County, IN     |                89 |
+| Decatur County, IN     |                 0 |
 | Warrick County, IN     |               146 |
 | Orange County, IN      |                89 |
 | Hamilton County, IN    |               146 |

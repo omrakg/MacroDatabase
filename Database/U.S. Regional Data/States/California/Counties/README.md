@@ -14,8 +14,8 @@
 | Mono County, CA                 |                90 |
 | Santa Barbara County, CA        |               147 |
 | Monterey County, CA             |               147 |
-| San Bernardino County, CA       |                 0 |
-| Yuba County, CA                 |               147 |
+| San Bernardino County, CA       |               146 |
+| Yuba County, CA                 |                 0 |
 | Mendocino County, CA            |               147 |
 | Tehama County, CA               |               146 |
 | San Luis Obispo County, CA      |               146 |

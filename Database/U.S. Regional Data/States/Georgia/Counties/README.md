@@ -25,7 +25,7 @@
 | Irwin County, GA         |                90 |
 | Pulaski County, GA       |                89 |
 | Turner County, GA        |                90 |
-| Lee County, GA           |                 0 |
+| Lee County, GA           |                90 |
 | Jasper County, GA        |                90 |
 | Douglas County, GA       |               147 |
 | Whitfield County, GA     |               147 |
@@ -33,7 +33,7 @@
 | Barrow County, GA        |               147 |
 | Fannin County, GA        |                90 |
 | Ware County, GA          |                89 |
-| Marion County, GA        |                88 |
+| Marion County, GA        |                 0 |
 | Walton County, GA        |               147 |
 | Worth County, GA         |                90 |
 | Dawson County, GA        |                90 |
@@ -93,7 +93,7 @@
 | Forsyth County, GA       |               147 |
 | Floyd County, GA         |               147 |
 | Baldwin County, GA       |                90 |
-| Warren County, GA        |                88 |
+| Warren County, GA        |                 0 |
 | Atkinson County, GA      |                88 |
 | Morgan County, GA        |                89 |
 | Wheeler County, GA       |                87 |
@@ -140,7 +140,7 @@
 | Schley County, GA        |                88 |
 | Taliaferro County, GA    |                87 |
 | Ben Hill County, GA      |                90 |
-| Burke County, GA         |                 0 |
+| Burke County, GA         |                90 |
 | Houston County, GA       |               147 |
 | Putnam County, GA        |                90 |
 | Catoosa County, GA       |               146 |
@@ -153,6 +153,6 @@
 | Cook County, GA          |                89 |
 | Butts County, GA         |                90 |
 | Twiggs County, GA        |                88 |
-| Union County, GA         |                90 |
+| Union County, GA         |                 0 |
 | Peach County, GA         |                90 |
 | Bryan County, GA         |                90 |

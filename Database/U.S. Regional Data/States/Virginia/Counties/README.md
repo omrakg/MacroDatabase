@@ -3,7 +3,7 @@
 | Albemarle County + Charlottesville City, VA         |                12 |
 | Falls Church City, VA                               |                79 |
 | Greene County, VA                                   |                89 |
-| Wythe County, VA                                    |                89 |
+| Wythe County, VA                                    |                 0 |
 | Franklin County, VA                                 |               146 |
 | Frederick County, VA                                |               137 |
 | Spotsylvania County + Fredericksburg City, VA       |                12 |
@@ -36,7 +36,7 @@
 | Northumberland County, VA                           |                90 |
 | King George County, VA                              |                90 |
 | Harrisonburg City, VA                               |                79 |
-| Radford City, VA                                    |                 0 |
+| Radford City, VA                                    |                79 |
 | Augusta County, VA                                  |               137 |
 | Newport News City, VA                               |               146 |
 | Smyth County, VA                                    |                89 |
@@ -81,7 +81,7 @@
 | Rockingham County, VA                               |               137 |
 | Virginia Beach City, VA                             |               145 |
 | Fairfax County, VA                                  |               137 |
-| Roanoke County, VA                                  |               137 |
+| Roanoke County, VA                                  |                 0 |
 | Clarke County, VA                                   |                90 |
 | New Kent County, VA                                 |                90 |
 | Fairfax, Fairfax City + Falls Church County, VA     |                10 |
@@ -96,7 +96,7 @@
 | Fluvanna County, VA                                 |                90 |
 | Poquoson City, VA                                   |                78 |
 | Gloucester County, VA                               |                89 |
-| Surry County, VA                                    |                 0 |
+| Surry County, VA                                    |                90 |
 | Greensville County + Emporia City, VA               |                12 |
 | Fredericksburg City, VA                             |                79 |
 | Prince William County, VA                           |               137 |
@@ -141,7 +141,7 @@
 | Lexington City, VA                                  |                78 |
 | Brunswick County, VA                                |                90 |
 | Hanover County, VA                                  |               147 |
-| Greensville County, VA                              |                79 |
+| Greensville County, VA                              |                 0 |
 | Portsmouth City, VA                                 |               146 |
 | Scott County, VA                                    |                88 |
 | Albemarle County, VA                                |               137 |
@@ -156,5 +156,5 @@
 | Galax City, VA                                      |                79 |
 | Tazewell County, VA                                 |                90 |
 | Culpeper County, VA                                 |                90 |
-| Pulaski County, VA                                  |                 0 |
+| Pulaski County, VA                                  |                90 |
 | Highland County, VA                                 |                88 |

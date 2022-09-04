@@ -1,14 +1,14 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU12020            | Housing Inventory: Active Listing Count in Athens-Clarke County, GA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM12020          | Housing Inventory: Active Listing Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY12020          | Housing Inventory: Active Listing Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU12020            | Housing Inventory: Active Listing Count in Athens-Clarke County, GA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM12020          | Housing Inventory: Active Listing Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY12020          | Housing Inventory: Active Listing Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                   | 2017-07-01          | 2022-08-01        |
 | ATHE013GOVT               | All Employees: Government in Athens-Clarke County, GA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | ATHE013GOVTN              | All Employees: Government in Athens-Clarke County, GA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | ATHE013LEIH               | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2022-07-01        |
 | ATHE013LEIHN              | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2022-07-01        |
-| ATHE013LF                 | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
-| ATHE013LFN                | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| ATHE013LF                 | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| ATHE013LFN                | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | ATHE013NA                 | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | ATHE013NAN                | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | ATHE013PBSV               | All Employees: Professional and Business Services in Athens-Clarke County, GA (MSA)                         | 1990-01-01          | 2022-07-01        |
@@ -16,14 +16,14 @@
 | ATHE013PCPI               | Per Capita Personal Income in Athens-Clarke County, GA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | ATHE013TRAD               | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2022-07-01        |
 | ATHE013TRADN              | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2022-07-01        |
-| ATHE013UR                 | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| ATHE013URN                | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| ATHE013UR                 | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| ATHE013URN                | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | ATHPOP                    | Resident Population in Athens-Clarke County, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| ATNHPIUS12020Q            | All-Transactions House Price Index for Athens-Clarke County, GA (MSA)                                       | 1985-04-01          | 2022-01-01        |
-| AVELISPRI12020            | Housing Inventory: Average Listing Price in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM12020          | Housing Inventory: Average Listing Price Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY12020          | Housing Inventory: Average Listing Price Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| DESCMSA12020              | Market Hotness: Demand Score in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| ATNHPIUS12020Q            | All-Transactions House Price Index for Athens-Clarke County, GA (MSA)                                       | 1985-04-01          | 2022-04-01        |
+| AVELISPRI12020            | Housing Inventory: Average Listing Price in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM12020          | Housing Inventory: Average Listing Price Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY12020          | Housing Inventory: Average Listing Price Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| DESCMSA12020              | Market Hotness: Demand Score in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | ENUC120230010             | Total Quarterly Wages in Athens-Clarke County, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC120230010SA           | Total Quarterly Wages in Athens-Clarke County, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC120240010             | Average Weekly Wages for Employees in Total Covered Establishments in Athens-Clarke County, GA (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -36,57 +36,57 @@
 | ENUC120240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2021-10-01        |
 | ENUC120240510             | Average Weekly Wages for Employees in Private Establishments in Athens-Clarke County, GA (MSA)              | 1990-01-01          | 2021-10-01        |
 | ENUC120240510SA           | Average Weekly Wages for Employees in Private Establishments in Athens-Clarke County, GA (MSA)              | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA12020            | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| HORAMSA12020              | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA12020            | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| HOSCMSA12020              | Market Hotness: Hotness Score in Athens-Clarke County, GA (CBSA)                                            | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA12020            | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| HORAMSA12020              | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA12020            | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| HOSCMSA12020              | Market Hotness: Hotness Score in Athens-Clarke County, GA (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD12020                 | Implicit Regional Price Deflator for Athens-Clarke County, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT131202000000003A     | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT131202000000004      | Unemployed Persons in Athens-Clarke County, GA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT131202000000004      | Unemployed Persons in Athens-Clarke County, GA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT131202000000004A     | Unemployed Persons in Athens-Clarke County, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT131202000000005      | Employed Persons in Athens-Clarke County, GA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
+| LAUMT131202000000005      | Employed Persons in Athens-Clarke County, GA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
 | LAUMT131202000000005A     | Employed Persons in Athens-Clarke County, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT131202000000006A     | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA12020          | Market Hotness: Listing Views per Property in Athens-Clarke County, GA (CBSA)                               | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA12020        | Market Hotness: Listing Views per Property Versus the United States in Athens-Clarke County, GA (CBSA)      | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA12020          | Market Hotness: Listing Views per Property in Athens-Clarke County, GA (CBSA)                               | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA12020        | Market Hotness: Median Days on Market in Athens-Clarke County, GA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA12020          | Market Hotness: Median Days on Market in Athens-Clarke County, GA (CBSA)                                    | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA12020        | Market Hotness: Median Days on Market in Athens-Clarke County, GA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR12020          | Housing Inventory: Median Days on Market in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM12020        | Housing Inventory: Median Days on Market Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY12020        | Housing Inventory: Median Days on Market Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI12020            | Housing Inventory: Median Listing Price in Athens-Clarke County, GA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM12020          | Housing Inventory: Median Listing Price Month-Over-Month in Athens-Clarke County, GA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE12020   | Housing Inventory: Median Listing Price per Square Feet in Athens-Clarke County, GA (CBSA)                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM12020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Athens-Clarke County, GA (CBSA) | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY12020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Athens-Clarke County, GA (CBSA)   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY12020          | Housing Inventory: Median Listing Price Year-Over-Year in Athens-Clarke County, GA (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA12020          | Market Hotness: Median Days on Market in Athens-Clarke County, GA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA12020          | Market Hotness: Median Days on Market Versus the United States in Athens-Clarke County, GA (CBSA)           | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA12020          | Market Hotness: Median Days on Market Day in Athens-Clarke County, GA (CBSA)                                | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE12020            | Housing Inventory: Median Home Size in Square Feet in Athens-Clarke County, GA (CBSA)                       | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM12020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Athens-Clarke County, GA (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY12020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Athens-Clarke County, GA (CBSA)        | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA12020          | Market Hotness: Median Listing Price in Athens-Clarke County, GA (CBSA)                                     | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA12020            | Market Hotness: Median Listing Price in Athens-Clarke County, GA (CBSA)                                     | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA12020        | Market Hotness: Median Listing Price Versus the United States in Athens-Clarke County, GA (CBSA)            | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA12020          | Market Hotness: Median Listing Price in Athens-Clarke County, GA (CBSA)                                     | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU12020            | Housing Inventory: New Listing Count in Athens-Clarke County, GA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM12020          | Housing Inventory: New Listing Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY12020          | Housing Inventory: New Listing Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA12020          | Market Hotness: Listing Views per Property in Athens-Clarke County, GA (CBSA)                               | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA12020        | Market Hotness: Listing Views per Property Versus the United States in Athens-Clarke County, GA (CBSA)      | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA12020          | Market Hotness: Listing Views per Property in Athens-Clarke County, GA (CBSA)                               | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA12020        | Market Hotness: Median Days on Market in Athens-Clarke County, GA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA12020          | Market Hotness: Median Days on Market in Athens-Clarke County, GA (CBSA)                                    | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA12020        | Market Hotness: Median Days on Market in Athens-Clarke County, GA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR12020          | Housing Inventory: Median Days on Market in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM12020        | Housing Inventory: Median Days on Market Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY12020        | Housing Inventory: Median Days on Market Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI12020            | Housing Inventory: Median Listing Price in Athens-Clarke County, GA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM12020          | Housing Inventory: Median Listing Price Month-Over-Month in Athens-Clarke County, GA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE12020   | Housing Inventory: Median Listing Price per Square Feet in Athens-Clarke County, GA (CBSA)                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM12020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Athens-Clarke County, GA (CBSA) | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY12020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Athens-Clarke County, GA (CBSA)   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY12020          | Housing Inventory: Median Listing Price Year-Over-Year in Athens-Clarke County, GA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA12020          | Market Hotness: Median Days on Market in Athens-Clarke County, GA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA12020          | Market Hotness: Median Days on Market Versus the United States in Athens-Clarke County, GA (CBSA)           | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA12020          | Market Hotness: Median Days on Market Day in Athens-Clarke County, GA (CBSA)                                | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE12020            | Housing Inventory: Median Home Size in Square Feet in Athens-Clarke County, GA (CBSA)                       | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM12020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Athens-Clarke County, GA (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY12020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Athens-Clarke County, GA (CBSA)        | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA12020          | Market Hotness: Median Listing Price in Athens-Clarke County, GA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA12020            | Market Hotness: Median Listing Price in Athens-Clarke County, GA (CBSA)                                     | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA12020        | Market Hotness: Median Listing Price Versus the United States in Athens-Clarke County, GA (CBSA)            | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA12020          | Market Hotness: Median Listing Price in Athens-Clarke County, GA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU12020            | Housing Inventory: New Listing Count in Athens-Clarke County, GA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM12020          | Housing Inventory: New Listing Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY12020          | Housing Inventory: New Listing Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | NGMP12020                 | Total Gross Domestic Product for Athens-Clarke County, GA (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA12020            | Market Hotness: Nielsen Household Rank in Athens-Clarke County, GA (CBSA)                                   | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA12020            | Market Hotness: Nielsen Household Rank in Athens-Clarke County, GA (CBSA)                                   | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA112020          | U.S. Granted Utility Patents Originating in Athens-Clarke County, GA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU12020            | Housing Inventory: Pending Listing Count in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM12020          | Housing Inventory: Pending Listing Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY12020          | Housing Inventory: Pending Listing Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU12020            | Housing Inventory: Price Increased Count in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM12020          | Housing Inventory: Price Increased Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY12020          | Housing Inventory: Price Increased Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU12020            | Housing Inventory: Price Reduced Count in Athens-Clarke County, GA (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM12020          | Housing Inventory: Price Reduced Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY12020          | Housing Inventory: Price Reduced Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| PENLISCOU12020            | Housing Inventory: Pending Listing Count in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM12020          | Housing Inventory: Pending Listing Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY12020          | Housing Inventory: Pending Listing Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU12020            | Housing Inventory: Price Increased Count in Athens-Clarke County, GA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM12020          | Housing Inventory: Price Increased Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY12020          | Housing Inventory: Price Increased Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU12020            | Housing Inventory: Price Reduced Count in Athens-Clarke County, GA (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM12020          | Housing Inventory: Price Reduced Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY12020          | Housing Inventory: Price Reduced Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | QGMP12020                 | Total Quantity Indexes for Real GDP for Athens-Clarke County, GA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP12020                 | Total Real Gross Domestic Product for Athens-Clarke County, GA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI12020                  | Real Personal Income for Athens-Clarke County, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -131,4 +131,4 @@
 | SMU13120209093000001      | All Employees: Government: Local Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-07-01        |
 | SMU13120209093000001A     | All Employees: Local Government in Athens-Clarke County, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU13120209093000001SA    | All Employees: Government: Local Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-07-01        |
-| SUSCMSA12020              | Market Hotness: Supply Score in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| SUSCMSA12020              | Market Hotness: Supply Score in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |

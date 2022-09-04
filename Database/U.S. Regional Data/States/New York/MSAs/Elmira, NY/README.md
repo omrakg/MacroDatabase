@@ -1,12 +1,12 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU21300            | Housing Inventory: Active Listing Count in Elmira, NY (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM21300          | Housing Inventory: Active Listing Count Month-Over-Month in Elmira, NY (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY21300          | Housing Inventory: Active Listing Count Year-Over-Year in Elmira, NY (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS21300Q            | All-Transactions House Price Index for Elmira, NY (MSA)                                                     | 1990-10-01          | 2022-01-01        |
-| AVELISPRI21300            | Housing Inventory: Average Listing Price in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM21300          | Housing Inventory: Average Listing Price Month-Over-Month in Elmira, NY (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY21300          | Housing Inventory: Average Listing Price Year-Over-Year in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU21300            | Housing Inventory: Active Listing Count in Elmira, NY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM21300          | Housing Inventory: Active Listing Count Month-Over-Month in Elmira, NY (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY21300          | Housing Inventory: Active Listing Count Year-Over-Year in Elmira, NY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS21300Q            | All-Transactions House Price Index for Elmira, NY (MSA)                                                     | 1990-10-01          | 2022-04-01        |
+| AVELISPRI21300            | Housing Inventory: Average Listing Price in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM21300          | Housing Inventory: Average Listing Price Month-Over-Month in Elmira, NY (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY21300          | Housing Inventory: Average Listing Price Year-Over-Year in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | ELMI336EDUH               | All Employees: Education and Health Services in Elmira, NY (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | ELMI336EDUHN              | All Employees: Education and Health Services in Elmira, NY (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | ELMI336FIRE               | All Employees: Financial Activities in Elmira, NY (MSA)                                                     | 1990-01-01          | 2022-07-01        |
@@ -17,8 +17,8 @@
 | ELMI336INFON              | All Employees: Information in Elmira, NY (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | ELMI336LEIH               | All Employees: Leisure and Hospitality in Elmira, NY (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | ELMI336LEIHN              | All Employees: Leisure and Hospitality in Elmira, NY (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| ELMI336LF                 | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| ELMI336LFN                | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| ELMI336LF                 | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| ELMI336LFN                | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | ELMI336MFG                | All Employees: Manufacturing in Elmira, NY (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | ELMI336MFGN               | All Employees: Manufacturing in Elmira, NY (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | ELMI336NA                 | All Employees: Total Nonfarm in Elmira, NY (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -32,8 +32,8 @@
 | ELMI336SRVON              | All Employees: Other Services in Elmira, NY (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | ELMI336TRAD               | All Employees: Trade, Transportation, and Utilities in Elmira, NY (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | ELMI336TRADN              | All Employees: Trade, Transportation, and Utilities in Elmira, NY (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| ELMI336UR                 | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| ELMI336URN                | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| ELMI336UR                 | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| ELMI336URN                | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | ELMPOP                    | Resident Population in Elmira, NY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC213030010             | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC213030010SA           | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
@@ -49,37 +49,37 @@
 | ENUC213040510SA           | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2021-10-01        |
 | IRPD21300                 | Implicit Regional Price Deflator for Elmira, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT362130000000003A     | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT362130000000004      | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT362130000000004      | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT362130000000004A     | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT362130000000005      | Employed Persons in Elmira, NY (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT362130000000005      | Employed Persons in Elmira, NY (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT362130000000005A     | Employed Persons in Elmira, NY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT362130000000006A     | Civilian Labor Force in Elmira, NY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR21300          | Housing Inventory: Median Days on Market in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM21300        | Housing Inventory: Median Days on Market Month-Over-Month in Elmira, NY (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY21300        | Housing Inventory: Median Days on Market Year-Over-Year in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI21300            | Housing Inventory: Median Listing Price in Elmira, NY (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM21300          | Housing Inventory: Median Listing Price Month-Over-Month in Elmira, NY (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE21300   | Housing Inventory: Median Listing Price per Square Feet in Elmira, NY (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM21300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Elmira, NY (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY21300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Elmira, NY (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY21300          | Housing Inventory: Median Listing Price Year-Over-Year in Elmira, NY (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE21300            | Housing Inventory: Median Home Size in Square Feet in Elmira, NY (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM21300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Elmira, NY (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY21300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Elmira, NY (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU21300            | Housing Inventory: New Listing Count in Elmira, NY (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM21300          | Housing Inventory: New Listing Count Month-Over-Month in Elmira, NY (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY21300          | Housing Inventory: New Listing Count Year-Over-Year in Elmira, NY (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR21300          | Housing Inventory: Median Days on Market in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM21300        | Housing Inventory: Median Days on Market Month-Over-Month in Elmira, NY (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY21300        | Housing Inventory: Median Days on Market Year-Over-Year in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI21300            | Housing Inventory: Median Listing Price in Elmira, NY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM21300          | Housing Inventory: Median Listing Price Month-Over-Month in Elmira, NY (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE21300   | Housing Inventory: Median Listing Price per Square Feet in Elmira, NY (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM21300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Elmira, NY (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY21300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Elmira, NY (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY21300          | Housing Inventory: Median Listing Price Year-Over-Year in Elmira, NY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE21300            | Housing Inventory: Median Home Size in Square Feet in Elmira, NY (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM21300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Elmira, NY (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY21300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Elmira, NY (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU21300            | Housing Inventory: New Listing Count in Elmira, NY (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM21300          | Housing Inventory: New Listing Count Month-Over-Month in Elmira, NY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY21300          | Housing Inventory: New Listing Count Year-Over-Year in Elmira, NY (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP21300                 | Total Gross Domestic Product for Elmira, NY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA121300          | U.S. Granted Utility Patents Originating in Elmira, NY (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU21300            | Housing Inventory: Pending Listing Count in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM21300          | Housing Inventory: Pending Listing Count Month-Over-Month in Elmira, NY (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY21300          | Housing Inventory: Pending Listing Count Year-Over-Year in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU21300            | Housing Inventory: Price Increased Count in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOU21300            | Housing Inventory: Pending Listing Count in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM21300          | Housing Inventory: Pending Listing Count Month-Over-Month in Elmira, NY (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY21300          | Housing Inventory: Pending Listing Count Year-Over-Year in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU21300            | Housing Inventory: Price Increased Count in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM21300          | Housing Inventory: Price Increased Count Month-Over-Month in Elmira, NY (CBSA)                              | 2018-06-01          | 2021-06-01        |
 | PRIINCCOUYY21300          | Housing Inventory: Price Increased Count Year-Over-Year in Elmira, NY (CBSA)                                | 2019-05-01          | 2022-05-01        |
-| PRIREDCOU21300            | Housing Inventory: Price Reduced Count in Elmira, NY (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM21300          | Housing Inventory: Price Reduced Count Month-Over-Month in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY21300          | Housing Inventory: Price Reduced Count Year-Over-Year in Elmira, NY (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU21300            | Housing Inventory: Price Reduced Count in Elmira, NY (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM21300          | Housing Inventory: Price Reduced Count Month-Over-Month in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY21300          | Housing Inventory: Price Reduced Count Year-Over-Year in Elmira, NY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP21300                 | Total Quantity Indexes for Real GDP for Elmira, NY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP21300                 | Total Real Gross Domestic Product for Elmira, NY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI21300                  | Real Personal Income for Elmira, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

@@ -5,7 +5,7 @@
 | Camden County, NJ     |               147 |
 | Essex County, NJ      |               143 |
 | Atlantic County, NJ   |               147 |
-| Cape May County, NJ   |               147 |
+| Cape May County, NJ   |                 0 |
 | Ocean County, NJ      |               147 |
 | Hunterdon County, NJ  |               145 |
 | Morris County, NJ     |               143 |

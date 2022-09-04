@@ -4,7 +4,7 @@
 | Rubber and Plastic Products                                        |                94 |
 | Final Demand                                                       |               218 |
 | Stage of Processing                                                |                 1 |
-| Chemicals and Allied Products                                      |                 0 |
+| Chemicals and Allied Products                                      |               247 |
 | Warehousing, Storage, and Related Services                         |                 7 |
 | Fuels and Related Products and Power                               |               132 |
 | Selected Security Services                                         |                 7 |
@@ -31,7 +31,7 @@
 | Metals and Metal Products                                          |               374 |
 | Data Processing and Related Services                               |                11 |
 | Publishing Sales, Excluding Software                               |                38 |
-| Nonmetallic Mineral Products                                       |               183 |
+| Nonmetallic Mineral Products                                       |                 0 |
 | Travel Arrangement Services                                        |                25 |
 | Hides, Skins, Leather, and Related Products                        |                45 |
 | Special Indexes                                                    |               176 |

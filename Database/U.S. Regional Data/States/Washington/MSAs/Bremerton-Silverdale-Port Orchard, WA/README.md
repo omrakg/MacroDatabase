@@ -1,18 +1,18 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU14740            | Housing Inventory: Active Listing Count in Bremerton-Silverdale, WA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM14740          | Housing Inventory: Active Listing Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY14740          | Housing Inventory: Active Listing Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS14740Q            | All-Transactions House Price Index for Bremerton-Silverdale-Port Orchard, WA (MSA)                          | 1979-07-01          | 2022-01-01        |
-| AVELISPRI14740            | Housing Inventory: Average Listing Price in Bremerton-Silverdale, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM14740          | Housing Inventory: Average Listing Price Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY14740          | Housing Inventory: Average Listing Price Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU14740            | Housing Inventory: Active Listing Count in Bremerton-Silverdale, WA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM14740          | Housing Inventory: Active Listing Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY14740          | Housing Inventory: Active Listing Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS14740Q            | All-Transactions House Price Index for Bremerton-Silverdale-Port Orchard, WA (MSA)                          | 1979-07-01          | 2022-04-01        |
+| AVELISPRI14740            | Housing Inventory: Average Listing Price in Bremerton-Silverdale, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM14740          | Housing Inventory: Average Listing Price Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY14740          | Housing Inventory: Average Listing Price Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | BREM753GOVT               | All Employees: Government in Bremerton-Silverdale, WA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | BREM753GOVTN              | All Employees: Government in Bremerton-Silverdale, WA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | BREM753LEIH               | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2022-07-01        |
 | BREM753LEIHN              | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2022-07-01        |
-| BREM753LF                 | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
-| BREM753LFN                | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| BREM753LF                 | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| BREM753LFN                | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | BREM753MFG                | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | BREM753MFGN               | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | BREM753NA                 | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-07-01        |
@@ -24,10 +24,10 @@
 | BREM753PCPI               | Per Capita Personal Income in Bremerton-Silverdale, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | BREM753TRAD               | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2022-07-01        |
 | BREM753TRADN              | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2022-07-01        |
-| BREM753UR                 | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| BREM753URN                | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| BREM753UR                 | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| BREM753URN                | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | BRMPOP                    | Resident Population in Bremerton-Silverdale, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| DESCMSA14740              | Market Hotness: Demand Score in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| DESCMSA14740              | Market Hotness: Demand Score in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | ENUC147430010             | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC147430010SA           | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC147440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -40,57 +40,57 @@
 | ENUC147440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2021-10-01        |
 | ENUC147440510             | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2021-10-01        |
 | ENUC147440510SA           | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA14740            | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| HORAMSA14740              | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA14740            | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| HOSCMSA14740              | Market Hotness: Hotness Score in Bremerton-Silverdale, WA (CBSA)                                            | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA14740            | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| HORAMSA14740              | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA14740            | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| HOSCMSA14740              | Market Hotness: Hotness Score in Bremerton-Silverdale, WA (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD14740                 | Implicit Regional Price Deflator for Bremerton-Silverdale, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT531474000000003A     | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT531474000000004      | Unemployed Persons in Bremerton-Silverdale, WA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT531474000000004      | Unemployed Persons in Bremerton-Silverdale, WA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT531474000000004A     | Unemployed Persons in Bremerton-Silverdale, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT531474000000005      | Employed Persons in Bremerton-Silverdale, WA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
+| LAUMT531474000000005      | Employed Persons in Bremerton-Silverdale, WA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
 | LAUMT531474000000005A     | Employed Persons in Bremerton-Silverdale, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT531474000000006A     | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA14740          | Market Hotness: Listing Views per Property in Bremerton-Silverdale, WA (CBSA)                               | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA14740        | Market Hotness: Listing Views per Property Versus the United States in Bremerton-Silverdale, WA (CBSA)      | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA14740          | Market Hotness: Listing Views per Property in Bremerton-Silverdale, WA (CBSA)                               | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA14740        | Market Hotness: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA14740          | Market Hotness: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                    | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA14740        | Market Hotness: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR14740          | Housing Inventory: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM14740        | Housing Inventory: Median Days on Market Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY14740        | Housing Inventory: Median Days on Market Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI14740            | Housing Inventory: Median Listing Price in Bremerton-Silverdale, WA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM14740          | Housing Inventory: Median Listing Price Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE14740   | Housing Inventory: Median Listing Price per Square Feet in Bremerton-Silverdale, WA (CBSA)                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM14740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bremerton-Silverdale, WA (CBSA) | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY14740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bremerton-Silverdale, WA (CBSA)   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY14740          | Housing Inventory: Median Listing Price Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA14740          | Market Hotness: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                    | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA14740          | Market Hotness: Median Days on Market Versus the United States in Bremerton-Silverdale, WA (CBSA)           | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA14740          | Market Hotness: Median Days on Market Day in Bremerton-Silverdale, WA (CBSA)                                | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE14740            | Housing Inventory: Median Home Size in Square Feet in Bremerton-Silverdale, WA (CBSA)                       | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM14740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bremerton-Silverdale, WA (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY14740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bremerton-Silverdale, WA (CBSA)        | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA14740          | Market Hotness: Median Listing Price in Bremerton-Silverdale, WA (CBSA)                                     | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA14740            | Market Hotness: Median Listing Price in Bremerton-Silverdale, WA (CBSA)                                     | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA14740        | Market Hotness: Median Listing Price Versus the United States in Bremerton-Silverdale, WA (CBSA)            | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA14740          | Market Hotness: Median Listing Price in Bremerton-Silverdale, WA (CBSA)                                     | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU14740            | Housing Inventory: New Listing Count in Bremerton-Silverdale, WA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM14740          | Housing Inventory: New Listing Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY14740          | Housing Inventory: New Listing Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA14740          | Market Hotness: Listing Views per Property in Bremerton-Silverdale, WA (CBSA)                               | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA14740        | Market Hotness: Listing Views per Property Versus the United States in Bremerton-Silverdale, WA (CBSA)      | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA14740          | Market Hotness: Listing Views per Property in Bremerton-Silverdale, WA (CBSA)                               | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA14740        | Market Hotness: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA14740          | Market Hotness: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                    | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA14740        | Market Hotness: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR14740          | Housing Inventory: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM14740        | Housing Inventory: Median Days on Market Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY14740        | Housing Inventory: Median Days on Market Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI14740            | Housing Inventory: Median Listing Price in Bremerton-Silverdale, WA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM14740          | Housing Inventory: Median Listing Price Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE14740   | Housing Inventory: Median Listing Price per Square Feet in Bremerton-Silverdale, WA (CBSA)                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM14740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bremerton-Silverdale, WA (CBSA) | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY14740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bremerton-Silverdale, WA (CBSA)   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY14740          | Housing Inventory: Median Listing Price Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA14740          | Market Hotness: Median Days on Market in Bremerton-Silverdale, WA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA14740          | Market Hotness: Median Days on Market Versus the United States in Bremerton-Silverdale, WA (CBSA)           | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA14740          | Market Hotness: Median Days on Market Day in Bremerton-Silverdale, WA (CBSA)                                | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE14740            | Housing Inventory: Median Home Size in Square Feet in Bremerton-Silverdale, WA (CBSA)                       | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM14740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bremerton-Silverdale, WA (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY14740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bremerton-Silverdale, WA (CBSA)        | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA14740          | Market Hotness: Median Listing Price in Bremerton-Silverdale, WA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA14740            | Market Hotness: Median Listing Price in Bremerton-Silverdale, WA (CBSA)                                     | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA14740        | Market Hotness: Median Listing Price Versus the United States in Bremerton-Silverdale, WA (CBSA)            | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA14740          | Market Hotness: Median Listing Price in Bremerton-Silverdale, WA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU14740            | Housing Inventory: New Listing Count in Bremerton-Silverdale, WA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM14740          | Housing Inventory: New Listing Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY14740          | Housing Inventory: New Listing Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | NGMP14740                 | Total Gross Domestic Product for Bremerton-Silverdale, WA (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA14740            | Market Hotness: Nielsen Household Rank in Bremerton-Silverdale, WA (CBSA)                                   | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA14740            | Market Hotness: Nielsen Household Rank in Bremerton-Silverdale, WA (CBSA)                                   | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA114740          | U.S. Granted Utility Patents Originating in Bremerton-Silverdale, WA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU14740            | Housing Inventory: Pending Listing Count in Bremerton-Silverdale, WA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| PENLISCOUMM14740          | Housing Inventory: Pending Listing Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-08-01          | 2022-07-01        |
-| PENLISCOUYY14740          | Housing Inventory: Pending Listing Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2018-07-01          | 2022-07-01        |
-| PRIINCCOU14740            | Housing Inventory: Price Increased Count in Bremerton-Silverdale, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM14740          | Housing Inventory: Price Increased Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY14740          | Housing Inventory: Price Increased Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU14740            | Housing Inventory: Price Reduced Count in Bremerton-Silverdale, WA (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM14740          | Housing Inventory: Price Reduced Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY14740          | Housing Inventory: Price Reduced Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| PENLISCOU14740            | Housing Inventory: Pending Listing Count in Bremerton-Silverdale, WA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| PENLISCOUMM14740          | Housing Inventory: Pending Listing Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-08-01          | 2022-08-01        |
+| PENLISCOUYY14740          | Housing Inventory: Pending Listing Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2018-07-01          | 2022-08-01        |
+| PRIINCCOU14740            | Housing Inventory: Price Increased Count in Bremerton-Silverdale, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM14740          | Housing Inventory: Price Increased Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY14740          | Housing Inventory: Price Increased Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU14740            | Housing Inventory: Price Reduced Count in Bremerton-Silverdale, WA (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM14740          | Housing Inventory: Price Reduced Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY14740          | Housing Inventory: Price Reduced Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | QGMP14740                 | Total Quantity Indexes for Real GDP for Bremerton-Silverdale, WA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP14740                 | Total Real Gross Domestic Product for Bremerton-Silverdale, WA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI14740                  | Real Personal Income for Bremerton-Silverdale, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -137,4 +137,4 @@
 | SMU53147409093000001      | All Employees: Government: Local Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-07-01        |
 | SMU53147409093000001A     | All Employees: Local Government in Bremerton-Silverdale, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU53147409093000001SA    | All Employees: Government: Local Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-07-01        |
-| SUSCMSA14740              | Market Hotness: Supply Score in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-07-01        |
+| SUSCMSA14740              | Market Hotness: Supply Score in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-08-01        |

@@ -9,10 +9,10 @@
 | Sandoval County, NM   |               147 |
 | Harding County, NM    |                84 |
 | Guadalupe County, NM  |                87 |
-| Union County, NM      |                87 |
+| Union County, NM      |                 0 |
 | Valencia County, NM   |               147 |
 | Sierra County, NM     |                90 |
-| Bernalillo County, NM |                 0 |
+| Bernalillo County, NM |               147 |
 | Catron County, NM     |                87 |
 | Luna County, NM       |                90 |
 | Curry County, NM      |               146 |

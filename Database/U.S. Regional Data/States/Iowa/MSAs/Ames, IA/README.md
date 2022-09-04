@@ -1,22 +1,22 @@
 | id                        | title                                                                                       | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU11180            | Housing Inventory: Active Listing Count in Ames, IA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM11180          | Housing Inventory: Active Listing Count Month-Over-Month in Ames, IA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY11180          | Housing Inventory: Active Listing Count Year-Over-Year in Ames, IA (CBSA)                   | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU11180            | Housing Inventory: Active Listing Count in Ames, IA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM11180          | Housing Inventory: Active Listing Count Month-Over-Month in Ames, IA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY11180          | Housing Inventory: Active Listing Count Year-Over-Year in Ames, IA (CBSA)                   | 2017-07-01          | 2022-08-01        |
 | AMEPOP                    | Resident Population in Ames, IA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | AMES119GOVT               | All Employees: Government in Ames, IA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | AMES119GOVTN              | All Employees: Government in Ames, IA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
-| AMES119LF                 | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
-| AMES119LFN                | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| AMES119LF                 | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| AMES119LFN                | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | AMES119NA                 | All Employees: Total Nonfarm in Ames, IA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | AMES119NAN                | All Employees: Total Nonfarm in Ames, IA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | AMES119PCPI               | Per Capita Personal Income in Ames, IA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| AMES119UR                 | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| AMES119URN                | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| ATNHPIUS11180Q            | All-Transactions House Price Index for Ames, IA (MSA)                                       | 1986-10-01          | 2022-01-01        |
-| AVELISPRI11180            | Housing Inventory: Average Listing Price in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM11180          | Housing Inventory: Average Listing Price Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY11180          | Housing Inventory: Average Listing Price Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| AMES119UR                 | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| AMES119URN                | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| ATNHPIUS11180Q            | All-Transactions House Price Index for Ames, IA (MSA)                                       | 1986-10-01          | 2022-04-01        |
+| AVELISPRI11180            | Housing Inventory: Average Listing Price in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM11180          | Housing Inventory: Average Listing Price Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY11180          | Housing Inventory: Average Listing Price Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | ENUC111830010             | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC111830010SA           | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC111840010             | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -27,37 +27,37 @@
 | ENUC111840510SA           | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD11180                 | Implicit Regional Price Deflator for Ames, IA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT191118000000003A     | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT191118000000004      | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT191118000000004      | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT191118000000004A     | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT191118000000005      | Employed Persons in Ames, IA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
+| LAUMT191118000000005      | Employed Persons in Ames, IA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
 | LAUMT191118000000005A     | Employed Persons in Ames, IA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT191118000000006A     | Civilian Labor Force in Ames, IA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR11180          | Housing Inventory: Median Days on Market in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM11180        | Housing Inventory: Median Days on Market Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY11180        | Housing Inventory: Median Days on Market Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI11180            | Housing Inventory: Median Listing Price in Ames, IA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM11180          | Housing Inventory: Median Listing Price Month-Over-Month in Ames, IA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE11180   | Housing Inventory: Median Listing Price per Square Feet in Ames, IA (CBSA)                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM11180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Ames, IA (CBSA) | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY11180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Ames, IA (CBSA)   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY11180          | Housing Inventory: Median Listing Price Year-Over-Year in Ames, IA (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE11180            | Housing Inventory: Median Home Size in Square Feet in Ames, IA (CBSA)                       | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM11180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Ames, IA (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY11180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Ames, IA (CBSA)        | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU11180            | Housing Inventory: New Listing Count in Ames, IA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM11180          | Housing Inventory: New Listing Count Month-Over-Month in Ames, IA (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY11180          | Housing Inventory: New Listing Count Year-Over-Year in Ames, IA (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR11180          | Housing Inventory: Median Days on Market in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM11180        | Housing Inventory: Median Days on Market Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY11180        | Housing Inventory: Median Days on Market Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI11180            | Housing Inventory: Median Listing Price in Ames, IA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM11180          | Housing Inventory: Median Listing Price Month-Over-Month in Ames, IA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE11180   | Housing Inventory: Median Listing Price per Square Feet in Ames, IA (CBSA)                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM11180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Ames, IA (CBSA) | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY11180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Ames, IA (CBSA)   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY11180          | Housing Inventory: Median Listing Price Year-Over-Year in Ames, IA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE11180            | Housing Inventory: Median Home Size in Square Feet in Ames, IA (CBSA)                       | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM11180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Ames, IA (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY11180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Ames, IA (CBSA)        | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU11180            | Housing Inventory: New Listing Count in Ames, IA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM11180          | Housing Inventory: New Listing Count Month-Over-Month in Ames, IA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY11180          | Housing Inventory: New Listing Count Year-Over-Year in Ames, IA (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | NGMP11180                 | Total Gross Domestic Product for Ames, IA (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA111180          | U.S. Granted Utility Patents Originating in Ames, IA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU11180            | Housing Inventory: Pending Listing Count in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM11180          | Housing Inventory: Pending Listing Count Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY11180          | Housing Inventory: Pending Listing Count Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU11180            | Housing Inventory: Price Increased Count in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM11180          | Housing Inventory: Price Increased Count Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY11180          | Housing Inventory: Price Increased Count Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU11180            | Housing Inventory: Price Reduced Count in Ames, IA (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM11180          | Housing Inventory: Price Reduced Count Month-Over-Month in Ames, IA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY11180          | Housing Inventory: Price Reduced Count Year-Over-Year in Ames, IA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| PENLISCOU11180            | Housing Inventory: Pending Listing Count in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM11180          | Housing Inventory: Pending Listing Count Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY11180          | Housing Inventory: Pending Listing Count Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU11180            | Housing Inventory: Price Increased Count in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM11180          | Housing Inventory: Price Increased Count Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY11180          | Housing Inventory: Price Increased Count Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU11180            | Housing Inventory: Price Reduced Count in Ames, IA (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM11180          | Housing Inventory: Price Reduced Count Month-Over-Month in Ames, IA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY11180          | Housing Inventory: Price Reduced Count Year-Over-Year in Ames, IA (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | QGMP11180                 | Total Quantity Indexes for Real GDP for Ames, IA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP11180                 | Total Real Gross Domestic Product for Ames, IA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI11180                  | Real Personal Income for Ames, IA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

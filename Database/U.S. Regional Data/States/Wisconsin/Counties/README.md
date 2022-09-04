@@ -39,7 +39,7 @@
 | Price County, WI                        |                89 |
 | Clark County, WI                        |                90 |
 | Iron County, WI                         |                88 |
-| Adams County, WI                        |                90 |
+| Adams County, WI                        |                 0 |
 | Lafayette County, WI                    |                90 |
 | Polk County, WI                         |                90 |
 | Grant County, WI                        |               144 |
@@ -58,7 +58,7 @@
 | Rock County, WI                         |               147 |
 | Winnebago County, WI                    |               147 |
 | St. Croix County, WI                    |               147 |
-| Burnett County, WI                      |                 0 |
+| Burnett County, WI                      |                90 |
 | Waushara County, WI                     |                90 |
 | Sheboygan County, WI                    |               147 |
 | Pepin County, WI                        |                89 |

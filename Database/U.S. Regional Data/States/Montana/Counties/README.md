@@ -18,7 +18,7 @@
 | Mineral County, MT         |                89 |
 | Teton County, MT           |                89 |
 | Chouteau County, MT        |                89 |
-| Cascade County, MT         |                 0 |
+| Cascade County, MT         |               147 |
 | Judith Basin County, MT    |                86 |
 | Petroleum County, MT       |                82 |
 | Sanders County, MT         |                90 |
@@ -31,7 +31,7 @@
 | Phillips County, MT        |                88 |
 | Musselshell County, MT     |                89 |
 | Lewis and Clark County, MT |               147 |
-| Yellowstone County, MT     |               147 |
+| Yellowstone County, MT     |                 0 |
 | Flathead County, MT        |               147 |
 | Park County, MT            |                90 |
 | Big Horn County, MT        |                88 |

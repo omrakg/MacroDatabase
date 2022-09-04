@@ -43,7 +43,7 @@
 | Spink County, SD         |                89 |
 | Brookings County, SD     |                90 |
 | Brown County, SD         |                90 |
-| McCook County, SD        |                89 |
+| McCook County, SD        |                 0 |
 | Meade County, SD         |                90 |
 | Marshall County, SD      |                89 |
 | Roberts County, SD       |                89 |
@@ -62,7 +62,7 @@
 | Jerauld County, SD       |                88 |
 | Potter County, SD        |                87 |
 | Todd County, SD          |                88 |
-| Douglas County, SD       |                 0 |
+| Douglas County, SD       |                88 |
 | Charles Mix County, SD   |                89 |
 | Brule County, SD         |                89 |
 | Turner County, SD        |                89 |

@@ -72,8 +72,8 @@
 | SMU39482609093161101   | All Employees: Government: Local Government Educational Services in Weirton-Steubenville, WV-OH (MSA)                        | 1990-01-01          | 2022-07-01        |
 | SMU39482609093161101A  | All Employees: Government: Local Government Educational Services in Weirton-Steubenville, WV-OH (MSA)                        | 1990-01-01          | 2021-01-01        |
 | SMU39482609093161101SA | All Employees: Government: Local Government Educational Services in Weirton-Steubenville, WV-OH (MSA)                        | 1990-01-01          | 2022-07-01        |
-| WEIR239LF              | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| WEIR239LFN             | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| WEIR239UR              | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| WEIR239URN             | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| WEIR239LF              | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| WEIR239LFN             | Civilian Labor Force in Weirton-Steubenville, WV-OH (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| WEIR239UR              | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| WEIR239URN             | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | WEUPOP                 | Resident Population in Weirton-Steubenville, WV-OH (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

@@ -37,7 +37,7 @@
 | Chaffee County, CO           |                89 |
 | Mesa County, CO              |               146 |
 | La Plata County, CO          |               146 |
-| Rio Grande County, CO        |                 0 |
+| Rio Grande County, CO        |                89 |
 | Costilla County, CO          |                88 |
 | Yuma County, CO              |                89 |
 | Kit Carson County, CO        |                89 |
@@ -45,7 +45,7 @@
 | Fremont County, CO           |                90 |
 | Pueblo County, CO            |               147 |
 | Jefferson County, CO         |               147 |
-| Phillips County, CO          |                89 |
+| Phillips County, CO          |                 0 |
 | Bent County, CO              |                89 |
 | Weld County, CO              |               147 |
 | Kiowa County, CO             |                88 |

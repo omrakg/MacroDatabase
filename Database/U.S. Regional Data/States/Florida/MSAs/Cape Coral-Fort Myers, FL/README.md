@@ -1,12 +1,12 @@
 | id                        | title                                                                                                                      | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU15980            | Housing Inventory: Active Listing Count in Cape Coral-Fort Myers, FL (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM15980          | Housing Inventory: Active Listing Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY15980          | Housing Inventory: Active Listing Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS15980Q            | All-Transactions House Price Index for Cape Coral-Fort Myers, FL (MSA)                                                     | 1981-07-01          | 2022-01-01        |
-| AVELISPRI15980            | Housing Inventory: Average Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM15980          | Housing Inventory: Average Listing Price Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY15980          | Housing Inventory: Average Listing Price Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU15980            | Housing Inventory: Active Listing Count in Cape Coral-Fort Myers, FL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM15980          | Housing Inventory: Active Listing Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY15980          | Housing Inventory: Active Listing Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS15980Q            | All-Transactions House Price Index for Cape Coral-Fort Myers, FL (MSA)                                                     | 1981-07-01          | 2022-04-01        |
+| AVELISPRI15980            | Housing Inventory: Average Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM15980          | Housing Inventory: Average Listing Price Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY15980          | Housing Inventory: Average Listing Price Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | CAPE912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-07-01        |
 | CAPE912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-07-01        |
 | CAPE912BPPRIV             | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
@@ -21,8 +21,8 @@
 | CAPE912INFON              | All Employees: Information in Cape Coral-Fort Myers, FL (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | CAPE912LEIH               | All Employees: Leisure and Hospitality in Cape Coral-Fort Myers, FL (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | CAPE912LEIHN              | All Employees: Leisure and Hospitality in Cape Coral-Fort Myers, FL (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| CAPE912LF                 | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| CAPE912LFN                | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| CAPE912LF                 | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| CAPE912LFN                | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | CAPE912MFG                | All Employees: Manufacturing in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | CAPE912MFGN               | All Employees: Manufacturing in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | CAPE912NA                 | All Employees: Total Nonfarm in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -36,9 +36,9 @@
 | CAPE912SRVON              | All Employees: Other Services in Cape Coral-Fort Myers, FL (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | CAPE912TRAD               | All Employees: Trade, Transportation, and Utilities in Cape Coral-Fort Myers, FL (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | CAPE912TRADN              | All Employees: Trade, Transportation, and Utilities in Cape Coral-Fort Myers, FL (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| CAPE912UR                 | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| CAPE912URN                | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| DESCMSA15980              | Market Hotness: Demand Score in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| CAPE912UR                 | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| CAPE912URN                | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| DESCMSA15980              | Market Hotness: Demand Score in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC159830010             | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC159830010SA           | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC159840010             | Average Weekly Wages for Employees in Total Covered Establishments in Cape Coral-Fort Myers, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -52,58 +52,58 @@
 | ENUC159840510             | Average Weekly Wages for Employees in Private Establishments in Cape Coral-Fort Myers, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC159840510SA           | Average Weekly Wages for Employees in Private Establishments in Cape Coral-Fort Myers, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
 | FTMPOP                    | Resident Population in Cape Coral-Fort Myers, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA15980            | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HORAMSA15980              | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA15980            | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HOSCMSA15980              | Market Hotness: Hotness Score in Cape Coral-Fort Myers, FL (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA15980            | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HORAMSA15980              | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA15980            | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HOSCMSA15980              | Market Hotness: Hotness Score in Cape Coral-Fort Myers, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IHLCHG15980               | Job Postings on Indeed in Cape Coral-Fort Myers, FL (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
 | IRPD15980                 | Implicit Regional Price Deflator for Cape Coral-Fort Myers, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT121598000000003A     | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT121598000000004      | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT121598000000004      | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT121598000000004A     | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT121598000000005      | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT121598000000005      | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT121598000000005A     | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT121598000000006A     | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA15980          | Market Hotness: Listing Views per Property in Cape Coral-Fort Myers, FL (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA15980        | Market Hotness: Listing Views per Property Versus the United States in Cape Coral-Fort Myers, FL (CBSA)                    | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA15980          | Market Hotness: Listing Views per Property in Cape Coral-Fort Myers, FL (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA15980        | Market Hotness: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA15980          | Market Hotness: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA15980        | Market Hotness: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR15980          | Housing Inventory: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM15980        | Housing Inventory: Median Days on Market Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY15980        | Housing Inventory: Median Days on Market Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI15980            | Housing Inventory: Median Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM15980          | Housing Inventory: Median Listing Price Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE15980   | Housing Inventory: Median Listing Price per Square Feet in Cape Coral-Fort Myers, FL (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM15980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY15980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY15980          | Housing Inventory: Median Listing Price Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA15980          | Market Hotness: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA15980          | Market Hotness: Median Days on Market Versus the United States in Cape Coral-Fort Myers, FL (CBSA)                         | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA15980          | Market Hotness: Median Days on Market Day in Cape Coral-Fort Myers, FL (CBSA)                                              | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE15980            | Housing Inventory: Median Home Size in Square Feet in Cape Coral-Fort Myers, FL (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM15980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY15980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA15980          | Market Hotness: Median Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA15980            | Market Hotness: Median Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA15980        | Market Hotness: Median Listing Price Versus the United States in Cape Coral-Fort Myers, FL (CBSA)                          | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA15980          | Market Hotness: Median Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU15980            | Housing Inventory: New Listing Count in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM15980          | Housing Inventory: New Listing Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY15980          | Housing Inventory: New Listing Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA15980          | Market Hotness: Listing Views per Property in Cape Coral-Fort Myers, FL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA15980        | Market Hotness: Listing Views per Property Versus the United States in Cape Coral-Fort Myers, FL (CBSA)                    | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA15980          | Market Hotness: Listing Views per Property in Cape Coral-Fort Myers, FL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA15980        | Market Hotness: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA15980          | Market Hotness: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA15980        | Market Hotness: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR15980          | Housing Inventory: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM15980        | Housing Inventory: Median Days on Market Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY15980        | Housing Inventory: Median Days on Market Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI15980            | Housing Inventory: Median Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM15980          | Housing Inventory: Median Listing Price Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE15980   | Housing Inventory: Median Listing Price per Square Feet in Cape Coral-Fort Myers, FL (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM15980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY15980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY15980          | Housing Inventory: Median Listing Price Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA15980          | Market Hotness: Median Days on Market in Cape Coral-Fort Myers, FL (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA15980          | Market Hotness: Median Days on Market Versus the United States in Cape Coral-Fort Myers, FL (CBSA)                         | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA15980          | Market Hotness: Median Days on Market Day in Cape Coral-Fort Myers, FL (CBSA)                                              | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE15980            | Housing Inventory: Median Home Size in Square Feet in Cape Coral-Fort Myers, FL (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM15980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY15980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA15980          | Market Hotness: Median Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA15980            | Market Hotness: Median Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA15980        | Market Hotness: Median Listing Price Versus the United States in Cape Coral-Fort Myers, FL (CBSA)                          | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA15980          | Market Hotness: Median Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU15980            | Housing Inventory: New Listing Count in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM15980          | Housing Inventory: New Listing Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY15980          | Housing Inventory: New Listing Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP15980                 | Total Gross Domestic Product for Cape Coral-Fort Myers, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA15980            | Market Hotness: Nielsen Household Rank in Cape Coral-Fort Myers, FL (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA15980            | Market Hotness: Nielsen Household Rank in Cape Coral-Fort Myers, FL (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA115980          | U.S. Granted Utility Patents Originating in Cape Coral-Fort Myers, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU15980            | Housing Inventory: Pending Listing Count in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM15980          | Housing Inventory: Pending Listing Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY15980          | Housing Inventory: Pending Listing Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU15980            | Housing Inventory: Price Increased Count in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM15980          | Housing Inventory: Price Increased Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY15980          | Housing Inventory: Price Increased Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU15980            | Housing Inventory: Price Reduced Count in Cape Coral-Fort Myers, FL (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM15980          | Housing Inventory: Price Reduced Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY15980          | Housing Inventory: Price Reduced Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PENLISCOU15980            | Housing Inventory: Pending Listing Count in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM15980          | Housing Inventory: Pending Listing Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY15980          | Housing Inventory: Pending Listing Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU15980            | Housing Inventory: Price Increased Count in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM15980          | Housing Inventory: Price Increased Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY15980          | Housing Inventory: Price Increased Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU15980            | Housing Inventory: Price Reduced Count in Cape Coral-Fort Myers, FL (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM15980          | Housing Inventory: Price Reduced Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY15980          | Housing Inventory: Price Reduced Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP15980                 | Total Quantity Indexes for Real GDP for Cape Coral-Fort Myers, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP15980                 | Total Real Gross Domestic Product for Cape Coral-Fort Myers, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI15980                  | Real Personal Income for Cape Coral-Fort Myers, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -166,4 +166,4 @@
 | SMU12159809093000001      | All Employees: Government: Local Government in Cape Coral-Fort Myers, FL (MSA)                                             | 1990-01-01          | 2022-07-01        |
 | SMU12159809093000001A     | All Employees: Local Government in Cape Coral-Fort Myers, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU12159809093000001SA    | All Employees: Government: Local Government in Cape Coral-Fort Myers, FL (MSA)                                             | 1990-01-01          | 2022-07-01        |
-| SUSCMSA15980              | Market Hotness: Supply Score in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| SUSCMSA15980              | Market Hotness: Supply Score in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

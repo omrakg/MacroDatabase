@@ -22,7 +22,7 @@
 | European Union                                                     |               848 |
 | NAFTA                                                              |                21 |
 | Bureau of Labor Statistics Asian Newly Industrialized Countries    |                10 |
-| OECD Total                                                         |               136 |
+| OECD Total                                                         |                 0 |
 | International Organizations                                        |                 9 |
 | Emerging Markets                                                   |                 6 |
 | Unidentified Countries                                             |                21 |

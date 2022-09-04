@@ -27,14 +27,14 @@
 | Texas County, MO          |                89 |
 | Osage County, MO          |                90 |
 | Butler County, MO         |                89 |
-| McDonald County, MO       |                89 |
+| McDonald County, MO       |                 0 |
 | Livingston County, MO     |                90 |
 | Saline County, MO         |                90 |
 | New Madrid County, MO     |                90 |
 | Mississippi County, MO    |                90 |
 | Howard County, MO         |                90 |
 | Laclede County, MO        |                90 |
-| Pemiscot County, MO       |                 0 |
+| Pemiscot County, MO       |                89 |
 | Mercer County, MO         |                87 |
 | Wayne County, MO          |                88 |
 | St. Louis County, MO      |               147 |
@@ -94,7 +94,7 @@
 | Marion County, MO         |                89 |
 | Macon County, MO          |                90 |
 | Worth County, MO          |                89 |
-| Lafayette County, MO      |                 0 |
+| Lafayette County, MO      |                90 |
 | Benton County, MO         |                88 |
 | Moniteau County, MO       |                90 |
 | Ozark County, MO          |                89 |

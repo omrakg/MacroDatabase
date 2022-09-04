@@ -17,7 +17,7 @@
 | Bay County, FL          |               147 |
 | Collier County, FL      |               147 |
 | Hillsborough County, FL |               147 |
-| Broward County, FL      |               147 |
+| Broward County, FL      |                 0 |
 | Martin County, FL       |               147 |
 | Pinellas County, FL     |               147 |
 | Marion County, FL       |               147 |

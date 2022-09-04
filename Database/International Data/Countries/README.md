@@ -178,13 +178,13 @@
 | Saint Martin, Collectivity of                        |                 6 |
 | Czech Republic                                       |               797 |
 | Côte d’Ivoire                                        |               224 |
-| Syrian Arab Republic                                 |               205 |
+| Syrian Arab Republic                                 |                 0 |
 | Switzerland                                          |                 0 |
 | Cambodia                                             |               211 |
 | Botswana                                             |               293 |
 | Barbados                                             |               215 |
 | Togo                                                 |               226 |
-| Great Britain                                        |                 0 |
+| Great Britain                                        |                61 |
 | Gibraltar                                            |                85 |
 | Iceland                                              |               833 |
 | Liechtenstein                                        |               102 |

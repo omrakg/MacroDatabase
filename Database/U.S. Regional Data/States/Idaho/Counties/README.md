@@ -6,13 +6,13 @@
 | Twin Falls County, ID |               147 |
 | Fremont County, ID    |                 2 |
 | Power County, ID      |                89 |
-| Boise County, ID      |                90 |
+| Boise County, ID      |                 0 |
 | Madison County, ID    |                90 |
 | Lewis County, ID      |                89 |
 | Boundary County, ID   |                89 |
 | Gem County, ID        |                90 |
 | Custer County, ID     |                89 |
-| Washington County, ID |                 0 |
+| Washington County, ID |                90 |
 | Lincoln County, ID    |                89 |
 | Bannock County, ID    |               147 |
 | Nez Perce County, ID  |                90 |

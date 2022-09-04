@@ -9,7 +9,7 @@
 | Lee County, KY          |                88 |
 | Magoffin County, KY     |                87 |
 | Taylor County, KY       |                90 |
-| Hickman County, KY      |                 0 |
+| Hickman County, KY      |                87 |
 | Martin County, KY       |                88 |
 | Larue County, KY        |                89 |
 | Hardin County, KY       |               147 |
@@ -49,7 +49,7 @@
 | Bourbon County, KY      |                90 |
 | Morgan County, KY       |                88 |
 | Henderson County, KY    |               144 |
-| Elliott County, KY      |                88 |
+| Elliott County, KY      |                 0 |
 | Metcalfe County, KY     |                88 |
 | Lincoln County, KY      |                90 |
 | Crittenden County, KY   |                89 |
@@ -108,8 +108,8 @@
 | Christian County, KY    |               147 |
 | Green County, KY        |                90 |
 | Nicholas County, KY     |                89 |
-| Montgomery County, KY   |                 0 |
-| Gallatin County, KY     |                87 |
+| Montgomery County, KY   |                90 |
+| Gallatin County, KY     |                 0 |
 | Boone County, KY        |               145 |
 | Estill County, KY       |                89 |
 | Leslie County, KY       |                88 |

@@ -18,7 +18,7 @@
 | Benton County, OR     |               147 |
 | Coos County, OR       |               146 |
 | Deschutes County, OR  |               147 |
-| Columbia County, OR   |                 0 |
+| Columbia County, OR   |               146 |
 | Lane County, OR       |               147 |
 | Curry County, OR      |                90 |
 | Klamath County, OR    |               147 |

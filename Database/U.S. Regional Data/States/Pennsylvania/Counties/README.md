@@ -32,7 +32,7 @@
 | Crawford County, PA            |               146 |
 | McKean County, PA              |                87 |
 | Luzerne County, PA             |               146 |
-| Erie County, PA                |               147 |
+| Erie County, PA                |                 0 |
 | Cambria County, PA             |               146 |
 | Wayne County, PA               |                90 |
 | Susquehanna County, PA         |                89 |
@@ -61,7 +61,7 @@
 | Cumberland County, PA          |               147 |
 | Lancaster County, PA           |               146 |
 | Fulton County, PA              |                88 |
-| Montour County, PA             |                 0 |
+| Montour County, PA             |                89 |
 | Northumberland County, PA      |               146 |
 | Clinton County, PA             |                89 |
 | Forest County, PA              |                88 |

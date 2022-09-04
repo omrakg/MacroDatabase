@@ -48,7 +48,7 @@
 | Cook County, MN              |                90 |
 | Olmsted County, MN           |               147 |
 | Lake County, MN              |                89 |
-| Morrison County, MN          |                 0 |
+| Morrison County, MN          |                90 |
 | Lyon County, MN              |                90 |
 | Stevens County, MN           |                89 |
 | Le Sueur County, MN          |                89 |
@@ -56,7 +56,7 @@
 | McLeod County, MN            |                90 |
 | Grant County, MN             |                89 |
 | Cottonwood County, MN        |                89 |
-| Roseau County, MN            |                90 |
+| Roseau County, MN            |                 0 |
 | Ramsey County, MN            |               147 |
 | Pope County, MN              |                90 |
 | Nobles County, MN            |                89 |

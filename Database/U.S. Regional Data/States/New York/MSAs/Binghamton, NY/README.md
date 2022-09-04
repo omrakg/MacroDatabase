@@ -1,12 +1,12 @@
 | id                        | title                                                                                                              | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU13780            | Housing Inventory: Active Listing Count in Binghamton, NY (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM13780          | Housing Inventory: Active Listing Count Month-Over-Month in Binghamton, NY (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY13780          | Housing Inventory: Active Listing Count Year-Over-Year in Binghamton, NY (CBSA)                                    | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS13780Q            | All-Transactions House Price Index for Binghamton, NY (MSA)                                                        | 1983-07-01          | 2022-01-01        |
-| AVELISPRI13780            | Housing Inventory: Average Listing Price in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM13780          | Housing Inventory: Average Listing Price Month-Over-Month in Binghamton, NY (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY13780          | Housing Inventory: Average Listing Price Year-Over-Year in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU13780            | Housing Inventory: Active Listing Count in Binghamton, NY (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM13780          | Housing Inventory: Active Listing Count Month-Over-Month in Binghamton, NY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY13780          | Housing Inventory: Active Listing Count Year-Over-Year in Binghamton, NY (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS13780Q            | All-Transactions House Price Index for Binghamton, NY (MSA)                                                        | 1983-07-01          | 2022-04-01        |
+| AVELISPRI13780            | Housing Inventory: Average Listing Price in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM13780          | Housing Inventory: Average Listing Price Month-Over-Month in Binghamton, NY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY13780          | Housing Inventory: Average Listing Price Year-Over-Year in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-08-01        |
 | BING736EDUH               | All Employees: Education and Health Services in Binghamton, NY (MSA)                                               | 1990-01-01          | 2022-07-01        |
 | BING736EDUHN              | All Employees: Education and Health Services in Binghamton, NY (MSA)                                               | 1990-01-01          | 2022-07-01        |
 | BING736FIRE               | All Employees: Financial Activities in Binghamton, NY (MSA)                                                        | 1990-01-01          | 2022-07-01        |
@@ -17,8 +17,8 @@
 | BING736INFON              | All Employees: Information in Binghamton, NY (MSA)                                                                 | 1990-01-01          | 2022-07-01        |
 | BING736LEIH               | All Employees: Leisure and Hospitality in Binghamton, NY (MSA)                                                     | 1990-01-01          | 2022-07-01        |
 | BING736LEIHN              | All Employees: Leisure and Hospitality in Binghamton, NY (MSA)                                                     | 1990-01-01          | 2022-07-01        |
-| BING736LF                 | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| BING736LFN                | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| BING736LF                 | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| BING736LFN                | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | BING736MFG                | All Employees: Manufacturing in Binghamton, NY (MSA)                                                               | 1990-01-01          | 2022-07-01        |
 | BING736MFGN               | All Employees: Manufacturing in Binghamton, NY (MSA)                                                               | 1990-01-01          | 2022-07-01        |
 | BING736NA                 | All Employees: Total Nonfarm in Binghamton, NY (MSA)                                                               | 1990-01-01          | 2022-07-01        |
@@ -32,10 +32,10 @@
 | BING736SRVON              | All Employees: Other Services in Binghamton, NY (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | BING736TRAD               | All Employees: Trade, Transportation, and Utilities in Binghamton, NY (MSA)                                        | 1990-01-01          | 2022-07-01        |
 | BING736TRADN              | All Employees: Trade, Transportation, and Utilities in Binghamton, NY (MSA)                                        | 1990-01-01          | 2022-07-01        |
-| BING736UR                 | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-06-01        |
-| BING736URN                | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-06-01        |
+| BING736UR                 | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-07-01        |
+| BING736URN                | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-07-01        |
 | BINPOP                    | Resident Population in Binghamton, NY (MSA)                                                                        | 2000-01-01          | 2021-01-01        |
-| DESCMSA13780              | Market Hotness: Demand Score in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-07-01        |
+| DESCMSA13780              | Market Hotness: Demand Score in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-08-01        |
 | ENUC137830010             | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2021-10-01        |
 | ENUC137830010SA           | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2021-10-01        |
 | ENUC137840010             | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2021-10-01        |
@@ -48,57 +48,57 @@
 | ENUC137840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2021-10-01        |
 | ENUC137840510             | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2021-10-01        |
 | ENUC137840510SA           | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2018-08-01          | 2022-07-01        |
-| HORAMSA13780              | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2018-08-01          | 2022-07-01        |
-| HOSCMSA13780              | Market Hotness: Hotness Score in Binghamton, NY (CBSA)                                                             | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2018-08-01          | 2022-08-01        |
+| HORAMSA13780              | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2018-08-01          | 2022-08-01        |
+| HOSCMSA13780              | Market Hotness: Hotness Score in Binghamton, NY (CBSA)                                                             | 2017-08-01          | 2022-08-01        |
 | IRPD13780                 | Implicit Regional Price Deflator for Binghamton, NY (MSA)                                                          | 2008-01-01          | 2020-01-01        |
 | LAUMT361378000000003A     | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT361378000000004      | Unemployed Persons in Binghamton, NY (MSA)                                                                         | 1990-01-01          | 2022-06-01        |
+| LAUMT361378000000004      | Unemployed Persons in Binghamton, NY (MSA)                                                                         | 1990-01-01          | 2022-07-01        |
 | LAUMT361378000000004A     | Unemployed Persons in Binghamton, NY (MSA)                                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT361378000000005      | Employed Persons in Binghamton, NY (MSA)                                                                           | 1990-01-01          | 2022-06-01        |
+| LAUMT361378000000005      | Employed Persons in Binghamton, NY (MSA)                                                                           | 1990-01-01          | 2022-07-01        |
 | LAUMT361378000000005A     | Employed Persons in Binghamton, NY (MSA)                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT361378000000006A     | Civilian Labor Force in Binghamton, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA13780          | Market Hotness: Listing Views per Property in Binghamton, NY (CBSA)                                                | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA13780        | Market Hotness: Listing Views per Property Versus the United States in Binghamton, NY (CBSA)                       | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA13780          | Market Hotness: Listing Views per Property in Binghamton, NY (CBSA)                                                | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA13780        | Market Hotness: Median Days on Market in Binghamton, NY (CBSA)                                                     | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA13780          | Market Hotness: Median Days on Market in Binghamton, NY (CBSA)                                                     | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA13780        | Market Hotness: Median Days on Market in Binghamton, NY (CBSA)                                                     | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR13780          | Housing Inventory: Median Days on Market in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM13780        | Housing Inventory: Median Days on Market Month-Over-Month in Binghamton, NY (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY13780        | Housing Inventory: Median Days on Market Year-Over-Year in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI13780            | Housing Inventory: Median Listing Price in Binghamton, NY (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM13780          | Housing Inventory: Median Listing Price Month-Over-Month in Binghamton, NY (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE13780   | Housing Inventory: Median Listing Price per Square Feet in Binghamton, NY (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM13780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Binghamton, NY (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY13780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Binghamton, NY (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY13780          | Housing Inventory: Median Listing Price Year-Over-Year in Binghamton, NY (CBSA)                                    | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA13780          | Market Hotness: Median Days on Market in Binghamton, NY (CBSA)                                                     | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA13780          | Market Hotness: Median Days on Market Versus the United States in Binghamton, NY (CBSA)                            | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA13780          | Market Hotness: Median Days on Market Day in Binghamton, NY (CBSA)                                                 | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE13780            | Housing Inventory: Median Home Size in Square Feet in Binghamton, NY (CBSA)                                        | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM13780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Binghamton, NY (CBSA)                       | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY13780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Binghamton, NY (CBSA)                         | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA13780          | Market Hotness: Median Listing Price in Binghamton, NY (CBSA)                                                      | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA13780            | Market Hotness: Median Listing Price in Binghamton, NY (CBSA)                                                      | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA13780        | Market Hotness: Median Listing Price Versus the United States in Binghamton, NY (CBSA)                             | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA13780          | Market Hotness: Median Listing Price in Binghamton, NY (CBSA)                                                      | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU13780            | Housing Inventory: New Listing Count in Binghamton, NY (CBSA)                                                      | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM13780          | Housing Inventory: New Listing Count Month-Over-Month in Binghamton, NY (CBSA)                                     | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY13780          | Housing Inventory: New Listing Count Year-Over-Year in Binghamton, NY (CBSA)                                       | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA13780          | Market Hotness: Listing Views per Property in Binghamton, NY (CBSA)                                                | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA13780        | Market Hotness: Listing Views per Property Versus the United States in Binghamton, NY (CBSA)                       | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA13780          | Market Hotness: Listing Views per Property in Binghamton, NY (CBSA)                                                | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA13780        | Market Hotness: Median Days on Market in Binghamton, NY (CBSA)                                                     | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA13780          | Market Hotness: Median Days on Market in Binghamton, NY (CBSA)                                                     | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA13780        | Market Hotness: Median Days on Market in Binghamton, NY (CBSA)                                                     | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR13780          | Housing Inventory: Median Days on Market in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM13780        | Housing Inventory: Median Days on Market Month-Over-Month in Binghamton, NY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY13780        | Housing Inventory: Median Days on Market Year-Over-Year in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI13780            | Housing Inventory: Median Listing Price in Binghamton, NY (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM13780          | Housing Inventory: Median Listing Price Month-Over-Month in Binghamton, NY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE13780   | Housing Inventory: Median Listing Price per Square Feet in Binghamton, NY (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM13780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Binghamton, NY (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY13780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Binghamton, NY (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY13780          | Housing Inventory: Median Listing Price Year-Over-Year in Binghamton, NY (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA13780          | Market Hotness: Median Days on Market in Binghamton, NY (CBSA)                                                     | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA13780          | Market Hotness: Median Days on Market Versus the United States in Binghamton, NY (CBSA)                            | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA13780          | Market Hotness: Median Days on Market Day in Binghamton, NY (CBSA)                                                 | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE13780            | Housing Inventory: Median Home Size in Square Feet in Binghamton, NY (CBSA)                                        | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM13780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Binghamton, NY (CBSA)                       | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY13780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Binghamton, NY (CBSA)                         | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA13780          | Market Hotness: Median Listing Price in Binghamton, NY (CBSA)                                                      | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA13780            | Market Hotness: Median Listing Price in Binghamton, NY (CBSA)                                                      | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA13780        | Market Hotness: Median Listing Price Versus the United States in Binghamton, NY (CBSA)                             | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA13780          | Market Hotness: Median Listing Price in Binghamton, NY (CBSA)                                                      | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU13780            | Housing Inventory: New Listing Count in Binghamton, NY (CBSA)                                                      | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM13780          | Housing Inventory: New Listing Count Month-Over-Month in Binghamton, NY (CBSA)                                     | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY13780          | Housing Inventory: New Listing Count Year-Over-Year in Binghamton, NY (CBSA)                                       | 2017-07-01          | 2022-08-01        |
 | NGMP13780                 | Total Gross Domestic Product for Binghamton, NY (MSA)                                                              | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA13780            | Market Hotness: Nielsen Household Rank in Binghamton, NY (CBSA)                                                    | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA13780            | Market Hotness: Nielsen Household Rank in Binghamton, NY (CBSA)                                                    | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA113780          | U.S. Granted Utility Patents Originating in Binghamton, NY (MSA)                                                   | 2000-01-01          | 2015-01-01        |
-| PENLISCOU13780            | Housing Inventory: Pending Listing Count in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM13780          | Housing Inventory: Pending Listing Count Month-Over-Month in Binghamton, NY (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY13780          | Housing Inventory: Pending Listing Count Year-Over-Year in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU13780            | Housing Inventory: Price Increased Count in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM13780          | Housing Inventory: Price Increased Count Month-Over-Month in Binghamton, NY (CBSA)                                 | 2017-07-01          | 2022-07-01        |
+| PENLISCOU13780            | Housing Inventory: Pending Listing Count in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM13780          | Housing Inventory: Pending Listing Count Month-Over-Month in Binghamton, NY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY13780          | Housing Inventory: Pending Listing Count Year-Over-Year in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU13780            | Housing Inventory: Price Increased Count in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM13780          | Housing Inventory: Price Increased Count Month-Over-Month in Binghamton, NY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
 | PRIINCCOUYY13780          | Housing Inventory: Price Increased Count Year-Over-Year in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU13780            | Housing Inventory: Price Reduced Count in Binghamton, NY (CBSA)                                                    | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM13780          | Housing Inventory: Price Reduced Count Month-Over-Month in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY13780          | Housing Inventory: Price Reduced Count Year-Over-Year in Binghamton, NY (CBSA)                                     | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU13780            | Housing Inventory: Price Reduced Count in Binghamton, NY (CBSA)                                                    | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM13780          | Housing Inventory: Price Reduced Count Month-Over-Month in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY13780          | Housing Inventory: Price Reduced Count Year-Over-Year in Binghamton, NY (CBSA)                                     | 2017-07-01          | 2022-08-01        |
 | QGMP13780                 | Total Quantity Indexes for Real GDP for Binghamton, NY (MSA)                                                       | 2001-01-01          | 2020-01-01        |
 | RGMP13780                 | Total Real Gross Domestic Product for Binghamton, NY (MSA)                                                         | 2001-01-01          | 2020-01-01        |
 | RPI13780                  | Real Personal Income for Binghamton, NY (MSA)                                                                      | 2008-01-01          | 2020-01-01        |
@@ -167,4 +167,4 @@
 | SMU36137809093161101      | All Employees: Government: Local Government Educational Services in Binghamton, NY (MSA)                           | 1990-01-01          | 2022-07-01        |
 | SMU36137809093161101A     | All Employees: Local Government Educational Services in Binghamton, NY (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU36137809093161101SA    | All Employees: Government: Local Government Educational Services in Binghamton, NY (MSA)                           | 1990-01-01          | 2022-07-01        |
-| SUSCMSA13780              | Market Hotness: Supply Score in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-07-01        |
+| SUSCMSA13780              | Market Hotness: Supply Score in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-08-01        |

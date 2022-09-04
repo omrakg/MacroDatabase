@@ -1,12 +1,12 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU34580            | Housing Inventory: Active Listing Count in Mount Vernon-Anacortes, WA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM34580          | Housing Inventory: Active Listing Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY34580          | Housing Inventory: Active Listing Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS34580Q            | All-Transactions House Price Index for Mount Vernon-Anacortes, WA (MSA)                                       | 1985-07-01          | 2022-01-01        |
-| AVELISPRI34580            | Housing Inventory: Average Listing Price in Mount Vernon-Anacortes, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM34580          | Housing Inventory: Average Listing Price Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY34580          | Housing Inventory: Average Listing Price Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU34580            | Housing Inventory: Active Listing Count in Mount Vernon-Anacortes, WA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM34580          | Housing Inventory: Active Listing Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY34580          | Housing Inventory: Active Listing Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS34580Q            | All-Transactions House Price Index for Mount Vernon-Anacortes, WA (MSA)                                       | 1985-07-01          | 2022-04-01        |
+| AVELISPRI34580            | Housing Inventory: Average Listing Price in Mount Vernon-Anacortes, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM34580          | Housing Inventory: Average Listing Price Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY34580          | Housing Inventory: Average Listing Price Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | ENUC345830010             | Total Quarterly Wages in Mount Vernon-Anacortes, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC345830010SA           | Total Quarterly Wages in Mount Vernon-Anacortes, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC345840010             | Average Weekly Wages for Employees in Total Covered Establishments in Mount Vernon-Anacortes, WA (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -21,29 +21,29 @@
 | ENUC345840510SA           | Average Weekly Wages for Employees in Private Establishments in Mount Vernon-Anacortes, WA (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD34580                 | Implicit Regional Price Deflator for Mount Vernon-Anacortes, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT533458000000003A     | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT533458000000004      | Unemployed Persons in Mount Vernon-Anacortes, WA (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT533458000000004      | Unemployed Persons in Mount Vernon-Anacortes, WA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT533458000000004A     | Unemployed Persons in Mount Vernon-Anacortes, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT533458000000005      | Employed Persons in Mount Vernon-Anacortes, WA (MSA)                                                          | 1990-01-01          | 2022-06-01        |
+| LAUMT533458000000005      | Employed Persons in Mount Vernon-Anacortes, WA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
 | LAUMT533458000000005A     | Employed Persons in Mount Vernon-Anacortes, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT533458000000006A     | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR34580          | Housing Inventory: Median Days on Market in Mount Vernon-Anacortes, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM34580        | Housing Inventory: Median Days on Market Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY34580        | Housing Inventory: Median Days on Market Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI34580            | Housing Inventory: Median Listing Price in Mount Vernon-Anacortes, WA (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM34580          | Housing Inventory: Median Listing Price Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE34580   | Housing Inventory: Median Listing Price per Square Feet in Mount Vernon-Anacortes, WA (CBSA)                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM34580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA) | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY34580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY34580          | Housing Inventory: Median Listing Price Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE34580            | Housing Inventory: Median Home Size in Square Feet in Mount Vernon-Anacortes, WA (CBSA)                       | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM34580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY34580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)        | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR34580          | Housing Inventory: Median Days on Market in Mount Vernon-Anacortes, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM34580        | Housing Inventory: Median Days on Market Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY34580        | Housing Inventory: Median Days on Market Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI34580            | Housing Inventory: Median Listing Price in Mount Vernon-Anacortes, WA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM34580          | Housing Inventory: Median Listing Price Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE34580   | Housing Inventory: Median Listing Price per Square Feet in Mount Vernon-Anacortes, WA (CBSA)                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM34580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA) | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY34580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY34580          | Housing Inventory: Median Listing Price Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE34580            | Housing Inventory: Median Home Size in Square Feet in Mount Vernon-Anacortes, WA (CBSA)                       | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM34580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY34580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)        | 2017-07-01          | 2022-08-01        |
 | MOUN553GOVT               | All Employees: Government in Mount Vernon-Anacortes, WA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | MOUN553GOVTN              | All Employees: Government in Mount Vernon-Anacortes, WA (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | MOUN553LEIH               | All Employees: Leisure and Hospitality in Mount Vernon-Anacortes, WA (MSA)                                    | 1990-01-01          | 2022-07-01        |
 | MOUN553LEIHN              | All Employees: Leisure and Hospitality in Mount Vernon-Anacortes, WA (MSA)                                    | 1990-01-01          | 2022-07-01        |
-| MOUN553LF                 | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
-| MOUN553LFN                | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| MOUN553LF                 | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| MOUN553LFN                | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | MOUN553MFG                | All Employees: Manufacturing in Mount Vernon-Anacortes, WA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | MOUN553MFGN               | All Employees: Manufacturing in Mount Vernon-Anacortes, WA (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | MOUN553NA                 | All Employees: Total Nonfarm in Mount Vernon-Anacortes, WA (MSA)                                              | 1990-01-01          | 2022-07-01        |
@@ -53,23 +53,23 @@
 | MOUN553PCPI               | Per Capita Personal Income in Mount Vernon-Anacortes, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | MOUN553TRAD               | All Employees: Trade, Transportation, and Utilities in Mount Vernon-Anacortes, WA (MSA)                       | 1990-01-01          | 2022-07-01        |
 | MOUN553TRADN              | All Employees: Trade, Transportation, and Utilities in Mount Vernon-Anacortes, WA (MSA)                       | 1990-01-01          | 2022-07-01        |
-| MOUN553UR                 | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| MOUN553URN                | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| MOUN553UR                 | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| MOUN553URN                | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | MVAPOP                    | Resident Population in Mount Vernon-Anacortes, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| NEWLISCOU34580            | Housing Inventory: New Listing Count in Mount Vernon-Anacortes, WA (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM34580          | Housing Inventory: New Listing Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY34580          | Housing Inventory: New Listing Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU34580            | Housing Inventory: New Listing Count in Mount Vernon-Anacortes, WA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM34580          | Housing Inventory: New Listing Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY34580          | Housing Inventory: New Listing Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | NGMP34580                 | Total Gross Domestic Product for Mount Vernon-Anacortes, WA (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA134580          | U.S. Granted Utility Patents Originating in Mount Vernon-Anacortes, WA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU34580            | Housing Inventory: Pending Listing Count in Mount Vernon-Anacortes, WA (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| PENLISCOUMM34580          | Housing Inventory: Pending Listing Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                | 2017-08-01          | 2022-07-01        |
-| PENLISCOUYY34580          | Housing Inventory: Pending Listing Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2018-07-01          | 2022-07-01        |
-| PRIINCCOU34580            | Housing Inventory: Price Increased Count in Mount Vernon-Anacortes, WA (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PENLISCOU34580            | Housing Inventory: Pending Listing Count in Mount Vernon-Anacortes, WA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| PENLISCOUMM34580          | Housing Inventory: Pending Listing Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                | 2017-08-01          | 2022-08-01        |
+| PENLISCOUYY34580          | Housing Inventory: Pending Listing Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2018-07-01          | 2022-08-01        |
+| PRIINCCOU34580            | Housing Inventory: Price Increased Count in Mount Vernon-Anacortes, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM34580          | Housing Inventory: Price Increased Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY34580          | Housing Inventory: Price Increased Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU34580            | Housing Inventory: Price Reduced Count in Mount Vernon-Anacortes, WA (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM34580          | Housing Inventory: Price Reduced Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY34580          | Housing Inventory: Price Reduced Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY34580          | Housing Inventory: Price Increased Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU34580            | Housing Inventory: Price Reduced Count in Mount Vernon-Anacortes, WA (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM34580          | Housing Inventory: Price Reduced Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY34580          | Housing Inventory: Price Reduced Count Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | QGMP34580                 | Total Quantity Indexes for Real GDP for Mount Vernon-Anacortes, WA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP34580                 | Total Real Gross Domestic Product for Mount Vernon-Anacortes, WA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI34580                  | Real Personal Income for Mount Vernon-Anacortes, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

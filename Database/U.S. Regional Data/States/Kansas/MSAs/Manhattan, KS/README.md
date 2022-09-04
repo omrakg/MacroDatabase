@@ -1,12 +1,12 @@
 | id                        | title                                                                                            | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU31740            | Housing Inventory: Active Listing Count in Manhattan, KS (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM31740          | Housing Inventory: Active Listing Count Month-Over-Month in Manhattan, KS (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY31740          | Housing Inventory: Active Listing Count Year-Over-Year in Manhattan, KS (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS31740Q            | All-Transactions House Price Index for Manhattan, KS (MSA)                                       | 1986-07-01          | 2022-01-01        |
-| AVELISPRI31740            | Housing Inventory: Average Listing Price in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM31740          | Housing Inventory: Average Listing Price Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY31740          | Housing Inventory: Average Listing Price Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU31740            | Housing Inventory: Active Listing Count in Manhattan, KS (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM31740          | Housing Inventory: Active Listing Count Month-Over-Month in Manhattan, KS (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY31740          | Housing Inventory: Active Listing Count Year-Over-Year in Manhattan, KS (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS31740Q            | All-Transactions House Price Index for Manhattan, KS (MSA)                                       | 1986-07-01          | 2022-04-01        |
+| AVELISPRI31740            | Housing Inventory: Average Listing Price in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM31740          | Housing Inventory: Average Listing Price Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY31740          | Housing Inventory: Average Listing Price Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | ENUC317430010             | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2021-10-01        |
 | ENUC317430010SA           | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2021-10-01        |
 | ENUC317440010             | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2021-10-01        |
@@ -18,41 +18,41 @@
 | ENUC317440510             | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2021-10-01        |
 | ENUC317440510SA           | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2021-10-01        |
 | IRPD31740                 | Implicit Regional Price Deflator for Manhattan, KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT203174000000003      | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2022-06-01        |
+| LAUMT203174000000003      | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | LAUMT203174000000003A     | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT203174000000004      | Unemployed Persons in Manhattan, KS (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT203174000000004      | Unemployed Persons in Manhattan, KS (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT203174000000004A     | Unemployed Persons in Manhattan, KS (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT203174000000005      | Employed Persons in Manhattan, KS (MSA)                                                          | 1990-01-01          | 2022-06-01        |
+| LAUMT203174000000005      | Employed Persons in Manhattan, KS (MSA)                                                          | 1990-01-01          | 2022-07-01        |
 | LAUMT203174000000005A     | Employed Persons in Manhattan, KS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT203174000000006      | Civilian Labor Force in Manhattan, KS (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT203174000000006      | Civilian Labor Force in Manhattan, KS (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT203174000000006A     | Civilian Labor Force in Manhattan, KS (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR31740          | Housing Inventory: Median Days on Market in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM31740        | Housing Inventory: Median Days on Market Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY31740        | Housing Inventory: Median Days on Market Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI31740            | Housing Inventory: Median Listing Price in Manhattan, KS (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM31740          | Housing Inventory: Median Listing Price Month-Over-Month in Manhattan, KS (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE31740   | Housing Inventory: Median Listing Price per Square Feet in Manhattan, KS (CBSA)                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM31740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Manhattan, KS (CBSA) | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY31740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Manhattan, KS (CBSA)   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY31740          | Housing Inventory: Median Listing Price Year-Over-Year in Manhattan, KS (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE31740            | Housing Inventory: Median Home Size in Square Feet in Manhattan, KS (CBSA)                       | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM31740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Manhattan, KS (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY31740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Manhattan, KS (CBSA)        | 2017-07-01          | 2022-07-01        |
+| MEDDAYONMAR31740          | Housing Inventory: Median Days on Market in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM31740        | Housing Inventory: Median Days on Market Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY31740        | Housing Inventory: Median Days on Market Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI31740            | Housing Inventory: Median Listing Price in Manhattan, KS (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM31740          | Housing Inventory: Median Listing Price Month-Over-Month in Manhattan, KS (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE31740   | Housing Inventory: Median Listing Price per Square Feet in Manhattan, KS (CBSA)                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM31740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Manhattan, KS (CBSA) | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY31740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Manhattan, KS (CBSA)   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY31740          | Housing Inventory: Median Listing Price Year-Over-Year in Manhattan, KS (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE31740            | Housing Inventory: Median Home Size in Square Feet in Manhattan, KS (CBSA)                       | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM31740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Manhattan, KS (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY31740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Manhattan, KS (CBSA)        | 2017-07-01          | 2022-08-01        |
 | MHTPOP                    | Resident Population in Manhattan, KS (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| NEWLISCOU31740            | Housing Inventory: New Listing Count in Manhattan, KS (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM31740          | Housing Inventory: New Listing Count Month-Over-Month in Manhattan, KS (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY31740          | Housing Inventory: New Listing Count Year-Over-Year in Manhattan, KS (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| NEWLISCOU31740            | Housing Inventory: New Listing Count in Manhattan, KS (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM31740          | Housing Inventory: New Listing Count Month-Over-Month in Manhattan, KS (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY31740          | Housing Inventory: New Listing Count Year-Over-Year in Manhattan, KS (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | NGMP31740                 | Total Gross Domestic Product for Manhattan, KS (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA131740          | U.S. Granted Utility Patents Originating in Manhattan, KS (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU31740            | Housing Inventory: Pending Listing Count in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM31740          | Housing Inventory: Pending Listing Count Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY31740          | Housing Inventory: Pending Listing Count Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU31740            | Housing Inventory: Price Increased Count in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PENLISCOU31740            | Housing Inventory: Pending Listing Count in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM31740          | Housing Inventory: Pending Listing Count Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY31740          | Housing Inventory: Pending Listing Count Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU31740            | Housing Inventory: Price Increased Count in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM31740          | Housing Inventory: Price Increased Count Month-Over-Month in Manhattan, KS (CBSA)                | 2017-08-01          | 2022-05-01        |
-| PRIINCCOUYY31740          | Housing Inventory: Price Increased Count Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-05-01        |
-| PRIREDCOU31740            | Housing Inventory: Price Reduced Count in Manhattan, KS (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM31740          | Housing Inventory: Price Reduced Count Month-Over-Month in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY31740          | Housing Inventory: Price Reduced Count Year-Over-Year in Manhattan, KS (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY31740          | Housing Inventory: Price Increased Count Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU31740            | Housing Inventory: Price Reduced Count in Manhattan, KS (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM31740          | Housing Inventory: Price Reduced Count Month-Over-Month in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY31740          | Housing Inventory: Price Reduced Count Year-Over-Year in Manhattan, KS (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | QGMP31740                 | Total Quantity Indexes for Real GDP for Manhattan, KS (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP31740                 | Total Real Gross Domestic Product for Manhattan, KS (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI31740                  | Real Personal Income for Manhattan, KS (MSA)                                                     | 2008-01-01          | 2020-01-01        |

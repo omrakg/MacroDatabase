@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                      | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU29100            | Housing Inventory: Active Listing Count in La Crosse-Onalaska, WI-MN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM29100          | Housing Inventory: Active Listing Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY29100          | Housing Inventory: Active Listing Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS29100Q            | All-Transactions House Price Index for La Crosse-Onalaska, WI-MN (MSA)                                                     | 1984-04-01          | 2022-01-01        |
-| AVELISPRI29100            | Housing Inventory: Average Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM29100          | Housing Inventory: Average Listing Price Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY29100          | Housing Inventory: Average Listing Price Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| DESCMSA29100              | Market Hotness: Demand Score in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| ACTLISCOU29100            | Housing Inventory: Active Listing Count in La Crosse-Onalaska, WI-MN (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM29100          | Housing Inventory: Active Listing Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY29100          | Housing Inventory: Active Listing Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS29100Q            | All-Transactions House Price Index for La Crosse-Onalaska, WI-MN (MSA)                                                     | 1984-04-01          | 2022-04-01        |
+| AVELISPRI29100            | Housing Inventory: Average Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM29100          | Housing Inventory: Average Listing Price Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY29100          | Housing Inventory: Average Listing Price Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| DESCMSA29100              | Market Hotness: Demand Score in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC291030010             | Total Quarterly Wages in La Crosse-Onalaska, WI-MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC291030010SA           | Total Quarterly Wages in La Crosse-Onalaska, WI-MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC291040010             | Average Weekly Wages for Employees in Total Covered Establishments in La Crosse, WI-MN (MSA)                               | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC291040310SA           | Average Weekly Wages for Employees in Local Government Establishments in La Crosse, WI-MN (MSA)                            | 2001-01-01          | 2021-10-01        |
 | ENUC291040510             | Average Weekly Wages for Employees in Private Establishments in La Crosse, WI-MN (MSA)                                     | 1990-01-01          | 2021-10-01        |
 | ENUC291040510SA           | Average Weekly Wages for Employees in Private Establishments in La Crosse, WI-MN (MSA)                                     | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA29100            | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HORAMSA29100              | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA29100            | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HOSCMSA29100              | Market Hotness: Hotness Score in La Crosse-Onalaska, WI-MN (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA29100            | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HORAMSA29100              | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA29100            | Market Hotness: Hotness Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HOSCMSA29100              | Market Hotness: Hotness Score in La Crosse-Onalaska, WI-MN (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD29100                 | Implicit Regional Price Deflator for La Crosse-Onalaska, WI-MN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LACR155EDUH               | All Employees: Education and Health Services in La Crosse-Onalaska, WI-MN (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | LACR155EDUHN              | All Employees: Education and Health Services in La Crosse-Onalaska, WI-MN (MSA)                                            | 1990-01-01          | 2022-07-01        |
@@ -35,8 +35,8 @@
 | LACR155INFON              | All Employees: Information in La Crosse-Onalaska, WI-MN (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | LACR155LEIH               | All Employees: Leisure and Hospitality in La Crosse-Onalaska, WI-MN (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | LACR155LEIHN              | All Employees: Leisure and Hospitality in La Crosse-Onalaska, WI-MN (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| LACR155LF                 | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| LACR155LFN                | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| LACR155LF                 | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| LACR155LFN                | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | LACR155MFG                | All Employees: Manufacturing in La Crosse-Onalaska, WI-MN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | LACR155MFGN               | All Employees: Manufacturing in La Crosse-Onalaska, WI-MN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | LACR155NA                 | All Employees: Total Nonfarm in La Crosse-Onalaska, WI-MN (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -50,55 +50,55 @@
 | LACR155SRVON              | All Employees: Other Services in La Crosse-Onalaska, WI-MN (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | LACR155TRAD               | All Employees: Trade, Transportation, and Utilities in La Crosse-Onalaska, WI-MN (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | LACR155TRADN              | All Employees: Trade, Transportation, and Utilities in La Crosse-Onalaska, WI-MN (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| LACR155UR                 | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| LACR155URN                | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| LACR155UR                 | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| LACR155URN                | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT552910000000003A     | Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT552910000000004      | Unemployed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT552910000000004      | Unemployed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT552910000000004A     | Unemployed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT552910000000005      | Employed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT552910000000005      | Employed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT552910000000005A     | Employed Persons in La Crosse-Onalaska, WI-MN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT552910000000006A     | Civilian Labor Force in La Crosse-Onalaska, WI-MN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LCRPOP                    | Resident Population in La Crosse-Onalaska, WI-MN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| LDPEPRMMMSA29100          | Market Hotness: Listing Views per Property in La Crosse-Onalaska, WI-MN (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA29100        | Market Hotness: Listing Views per Property Versus the United States in La Crosse-Onalaska, WI-MN (CBSA)                    | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA29100          | Market Hotness: Listing Views per Property in La Crosse-Onalaska, WI-MN (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA29100        | Market Hotness: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA29100          | Market Hotness: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA29100        | Market Hotness: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR29100          | Housing Inventory: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM29100        | Housing Inventory: Median Days on Market Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY29100        | Housing Inventory: Median Days on Market Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI29100            | Housing Inventory: Median Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM29100          | Housing Inventory: Median Listing Price Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE29100   | Housing Inventory: Median Listing Price per Square Feet in La Crosse-Onalaska, WI-MN (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM29100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY29100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY29100          | Housing Inventory: Median Listing Price Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA29100          | Market Hotness: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA29100          | Market Hotness: Median Days on Market Versus the United States in La Crosse-Onalaska, WI-MN (CBSA)                         | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA29100          | Market Hotness: Median Days on Market Day in La Crosse-Onalaska, WI-MN (CBSA)                                              | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE29100            | Housing Inventory: Median Home Size in Square Feet in La Crosse-Onalaska, WI-MN (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM29100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY29100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA29100          | Market Hotness: Median Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA29100            | Market Hotness: Median Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA29100        | Market Hotness: Median Listing Price Versus the United States in La Crosse-Onalaska, WI-MN (CBSA)                          | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA29100          | Market Hotness: Median Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU29100            | Housing Inventory: New Listing Count in La Crosse-Onalaska, WI-MN (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM29100          | Housing Inventory: New Listing Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY29100          | Housing Inventory: New Listing Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA29100          | Market Hotness: Listing Views per Property in La Crosse-Onalaska, WI-MN (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA29100        | Market Hotness: Listing Views per Property Versus the United States in La Crosse-Onalaska, WI-MN (CBSA)                    | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA29100          | Market Hotness: Listing Views per Property in La Crosse-Onalaska, WI-MN (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA29100        | Market Hotness: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA29100          | Market Hotness: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA29100        | Market Hotness: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR29100          | Housing Inventory: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM29100        | Housing Inventory: Median Days on Market Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY29100        | Housing Inventory: Median Days on Market Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI29100            | Housing Inventory: Median Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM29100          | Housing Inventory: Median Listing Price Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE29100   | Housing Inventory: Median Listing Price per Square Feet in La Crosse-Onalaska, WI-MN (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM29100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY29100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY29100          | Housing Inventory: Median Listing Price Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA29100          | Market Hotness: Median Days on Market in La Crosse-Onalaska, WI-MN (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA29100          | Market Hotness: Median Days on Market Versus the United States in La Crosse-Onalaska, WI-MN (CBSA)                         | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA29100          | Market Hotness: Median Days on Market Day in La Crosse-Onalaska, WI-MN (CBSA)                                              | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE29100            | Housing Inventory: Median Home Size in Square Feet in La Crosse-Onalaska, WI-MN (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM29100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY29100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA29100          | Market Hotness: Median Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA29100            | Market Hotness: Median Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA29100        | Market Hotness: Median Listing Price Versus the United States in La Crosse-Onalaska, WI-MN (CBSA)                          | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA29100          | Market Hotness: Median Listing Price in La Crosse-Onalaska, WI-MN (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU29100            | Housing Inventory: New Listing Count in La Crosse-Onalaska, WI-MN (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM29100          | Housing Inventory: New Listing Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY29100          | Housing Inventory: New Listing Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP29100                 | Total Gross Domestic Product for La Crosse-Onalaska, WI-MN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA29100            | Market Hotness: Nielsen Household Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA29100            | Market Hotness: Nielsen Household Rank in La Crosse-Onalaska, WI-MN (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA129100          | U.S. Granted Utility Patents Originating in La Crosse, WI-MN (MSA)                                                         | 2000-01-01          | 2015-01-01        |
-| PENLISCOU29100            | Housing Inventory: Pending Listing Count in La Crosse-Onalaska, WI-MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM29100          | Housing Inventory: Pending Listing Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY29100          | Housing Inventory: Pending Listing Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU29100            | Housing Inventory: Price Increased Count in La Crosse-Onalaska, WI-MN (CBSA)                                               | 2016-07-01          | 2022-07-01        |
+| PENLISCOU29100            | Housing Inventory: Pending Listing Count in La Crosse-Onalaska, WI-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM29100          | Housing Inventory: Pending Listing Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY29100          | Housing Inventory: Pending Listing Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU29100            | Housing Inventory: Price Increased Count in La Crosse-Onalaska, WI-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM29100          | Housing Inventory: Price Increased Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                              | 2017-08-01          | 2022-06-01        |
 | PRIINCCOUYY29100          | Housing Inventory: Price Increased Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-03-01        |
-| PRIREDCOU29100            | Housing Inventory: Price Reduced Count in La Crosse-Onalaska, WI-MN (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM29100          | Housing Inventory: Price Reduced Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY29100          | Housing Inventory: Price Reduced Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PRIREDCOU29100            | Housing Inventory: Price Reduced Count in La Crosse-Onalaska, WI-MN (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM29100          | Housing Inventory: Price Reduced Count Month-Over-Month in La Crosse-Onalaska, WI-MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY29100          | Housing Inventory: Price Reduced Count Year-Over-Year in La Crosse-Onalaska, WI-MN (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP29100                 | Total Quantity Indexes for Real GDP for La Crosse-Onalaska, WI-MN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP29100                 | Total Real Gross Domestic Product for La Crosse-Onalaska, WI-MN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI29100                  | Real Personal Income for La Crosse-Onalaska, WI-MN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -158,4 +158,4 @@
 | SMU55291009093000001      | All Employees: Government: Local Government in La Crosse-Onalaska, WI-MN (MSA)                                             | 2001-01-01          | 2022-07-01        |
 | SMU55291009093000001A     | All Employees: Local Government in La Crosse-Onalaska, WI-MN (MSA)                                                         | 2001-01-01          | 2021-01-01        |
 | SMU55291009093000001SA    | All Employees: Government: Local Government in La Crosse-Onalaska, WI-MN (MSA)                                             | 2001-01-01          | 2022-07-01        |
-| SUSCMSA29100              | Market Hotness: Supply Score in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| SUSCMSA29100              | Market Hotness: Supply Score in La Crosse-Onalaska, WI-MN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

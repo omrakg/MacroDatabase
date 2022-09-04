@@ -1,12 +1,12 @@
 | id                        | title                                                                                                               | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU17300            | Housing Inventory: Active Listing Count in Clarksville, TN-KY (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM17300          | Housing Inventory: Active Listing Count Month-Over-Month in Clarksville, TN-KY (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY17300          | Housing Inventory: Active Listing Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS17300Q            | All-Transactions House Price Index for Clarksville, TN-KY (MSA)                                                     | 1992-07-01          | 2022-01-01        |
-| AVELISPRI17300            | Housing Inventory: Average Listing Price in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM17300          | Housing Inventory: Average Listing Price Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY17300          | Housing Inventory: Average Listing Price Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU17300            | Housing Inventory: Active Listing Count in Clarksville, TN-KY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM17300          | Housing Inventory: Active Listing Count Month-Over-Month in Clarksville, TN-KY (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY17300          | Housing Inventory: Active Listing Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS17300Q            | All-Transactions House Price Index for Clarksville, TN-KY (MSA)                                                     | 1992-07-01          | 2022-04-01        |
+| AVELISPRI17300            | Housing Inventory: Average Listing Price in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM17300          | Housing Inventory: Average Listing Price Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY17300          | Housing Inventory: Average Listing Price Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | CLHEDUH                   | All Employees: Education and Health Services in Clarksville, TN-KY (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | CLHEDUHN                  | All Employees: Education and Health Services in Clarksville, TN-KY (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | CLHFIRE                   | All Employees: Financial Activities in Clarksville, TN-KY (MSA)                                                     | 1990-01-01          | 2022-07-01        |
@@ -17,8 +17,8 @@
 | CLHINFON                  | All Employees: Information in Clarksville, TN-KY (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | CLHLEIH                   | All Employees: Leisure and Hospitality in Clarksville, TN-KY (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | CLHLEIHN                  | All Employees: Leisure and Hospitality in Clarksville, TN-KY (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| CLHLF                     | Civilian Labor Force in Clarksville, TN-KY (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| CLHLFN                    | Civilian Labor Force in Clarksville, TN-KY (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| CLHLF                     | Civilian Labor Force in Clarksville, TN-KY (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| CLHLFN                    | Civilian Labor Force in Clarksville, TN-KY (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | CLHMFG                    | All Employees: Manufacturing in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | CLHMFGN                   | All Employees: Manufacturing in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | CLHNA                     | All Employees: Total Nonfarm in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -33,9 +33,9 @@
 | CLHSRVON                  | All Employees: Other Services in Clarksville, TN-KY (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | CLHTRAD                   | All Employees: Trade, Transportation, and Utilities in Clarksville, TN-KY (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | CLHTRADN                  | All Employees: Trade, Transportation, and Utilities in Clarksville, TN-KY (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| CLHUR                     | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| CLHURN                    | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| DESCMSA17300              | Market Hotness: Demand Score in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| CLHUR                     | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| CLHURN                    | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| DESCMSA17300              | Market Hotness: Demand Score in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC173030010             | Total Quarterly Wages in Clarksville, TN-KY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC173030010SA           | Total Quarterly Wages in Clarksville, TN-KY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC173040010             | Average Weekly Wages for Employees in Total Covered Establishments in Clarksville, TN-KY (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -48,57 +48,57 @@
 | ENUC173040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC173040510             | Average Weekly Wages for Employees in Private Establishments in Clarksville, TN-KY (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC173040510SA           | Average Weekly Wages for Employees in Private Establishments in Clarksville, TN-KY (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA17300            | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HORAMSA17300              | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA17300            | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HOSCMSA17300              | Market Hotness: Hotness Score in Clarksville, TN-KY (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA17300            | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HORAMSA17300              | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA17300            | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HOSCMSA17300              | Market Hotness: Hotness Score in Clarksville, TN-KY (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD17300                 | Implicit Regional Price Deflator for Clarksville, TN-KY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT471730000000003A     | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT471730000000004      | Unemployed Persons in Clarksville, TN-KY (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT471730000000004      | Unemployed Persons in Clarksville, TN-KY (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT471730000000004A     | Unemployed Persons in Clarksville, TN-KY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT471730000000005      | Employed Persons in Clarksville, TN-KY (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT471730000000005      | Employed Persons in Clarksville, TN-KY (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT471730000000005A     | Employed Persons in Clarksville, TN-KY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT471730000000006A     | Civilian Labor Force in Clarksville, TN-KY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA17300          | Market Hotness: Listing Views per Property in Clarksville, TN-KY (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA17300        | Market Hotness: Listing Views per Property Versus the United States in Clarksville, TN-KY (CBSA)                    | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA17300          | Market Hotness: Listing Views per Property in Clarksville, TN-KY (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA17300        | Market Hotness: Median Days on Market in Clarksville, TN-KY (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA17300          | Market Hotness: Median Days on Market in Clarksville, TN-KY (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA17300        | Market Hotness: Median Days on Market in Clarksville, TN-KY (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR17300          | Housing Inventory: Median Days on Market in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM17300        | Housing Inventory: Median Days on Market Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY17300        | Housing Inventory: Median Days on Market Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI17300            | Housing Inventory: Median Listing Price in Clarksville, TN-KY (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM17300          | Housing Inventory: Median Listing Price Month-Over-Month in Clarksville, TN-KY (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE17300   | Housing Inventory: Median Listing Price per Square Feet in Clarksville, TN-KY (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM17300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Clarksville, TN-KY (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY17300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Clarksville, TN-KY (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY17300          | Housing Inventory: Median Listing Price Year-Over-Year in Clarksville, TN-KY (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA17300          | Market Hotness: Median Days on Market in Clarksville, TN-KY (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA17300          | Market Hotness: Median Days on Market Versus the United States in Clarksville, TN-KY (CBSA)                         | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA17300          | Market Hotness: Median Days on Market Day in Clarksville, TN-KY (CBSA)                                              | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE17300            | Housing Inventory: Median Home Size in Square Feet in Clarksville, TN-KY (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM17300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Clarksville, TN-KY (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY17300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Clarksville, TN-KY (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA17300          | Market Hotness: Median Listing Price in Clarksville, TN-KY (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA17300            | Market Hotness: Median Listing Price in Clarksville, TN-KY (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA17300        | Market Hotness: Median Listing Price Versus the United States in Clarksville, TN-KY (CBSA)                          | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA17300          | Market Hotness: Median Listing Price in Clarksville, TN-KY (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU17300            | Housing Inventory: New Listing Count in Clarksville, TN-KY (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM17300          | Housing Inventory: New Listing Count Month-Over-Month in Clarksville, TN-KY (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY17300          | Housing Inventory: New Listing Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA17300          | Market Hotness: Listing Views per Property in Clarksville, TN-KY (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA17300        | Market Hotness: Listing Views per Property Versus the United States in Clarksville, TN-KY (CBSA)                    | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA17300          | Market Hotness: Listing Views per Property in Clarksville, TN-KY (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA17300        | Market Hotness: Median Days on Market in Clarksville, TN-KY (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA17300          | Market Hotness: Median Days on Market in Clarksville, TN-KY (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA17300        | Market Hotness: Median Days on Market in Clarksville, TN-KY (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR17300          | Housing Inventory: Median Days on Market in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM17300        | Housing Inventory: Median Days on Market Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY17300        | Housing Inventory: Median Days on Market Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI17300            | Housing Inventory: Median Listing Price in Clarksville, TN-KY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM17300          | Housing Inventory: Median Listing Price Month-Over-Month in Clarksville, TN-KY (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE17300   | Housing Inventory: Median Listing Price per Square Feet in Clarksville, TN-KY (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM17300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Clarksville, TN-KY (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY17300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Clarksville, TN-KY (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY17300          | Housing Inventory: Median Listing Price Year-Over-Year in Clarksville, TN-KY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA17300          | Market Hotness: Median Days on Market in Clarksville, TN-KY (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA17300          | Market Hotness: Median Days on Market Versus the United States in Clarksville, TN-KY (CBSA)                         | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA17300          | Market Hotness: Median Days on Market Day in Clarksville, TN-KY (CBSA)                                              | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE17300            | Housing Inventory: Median Home Size in Square Feet in Clarksville, TN-KY (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM17300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Clarksville, TN-KY (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY17300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Clarksville, TN-KY (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA17300          | Market Hotness: Median Listing Price in Clarksville, TN-KY (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA17300            | Market Hotness: Median Listing Price in Clarksville, TN-KY (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA17300        | Market Hotness: Median Listing Price Versus the United States in Clarksville, TN-KY (CBSA)                          | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA17300          | Market Hotness: Median Listing Price in Clarksville, TN-KY (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU17300            | Housing Inventory: New Listing Count in Clarksville, TN-KY (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM17300          | Housing Inventory: New Listing Count Month-Over-Month in Clarksville, TN-KY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY17300          | Housing Inventory: New Listing Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP17300                 | Total Gross Domestic Product for Clarksville, TN-KY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA17300            | Market Hotness: Nielsen Household Rank in Clarksville, TN-KY (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA17300            | Market Hotness: Nielsen Household Rank in Clarksville, TN-KY (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA117300          | U.S. Granted Utility Patents Originating in Clarksville, TN-KY (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU17300            | Housing Inventory: Pending Listing Count in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM17300          | Housing Inventory: Pending Listing Count Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY17300          | Housing Inventory: Pending Listing Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU17300            | Housing Inventory: Price Increased Count in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM17300          | Housing Inventory: Price Increased Count Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY17300          | Housing Inventory: Price Increased Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU17300            | Housing Inventory: Price Reduced Count in Clarksville, TN-KY (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM17300          | Housing Inventory: Price Reduced Count Month-Over-Month in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY17300          | Housing Inventory: Price Reduced Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PENLISCOU17300            | Housing Inventory: Pending Listing Count in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM17300          | Housing Inventory: Pending Listing Count Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY17300          | Housing Inventory: Pending Listing Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU17300            | Housing Inventory: Price Increased Count in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM17300          | Housing Inventory: Price Increased Count Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY17300          | Housing Inventory: Price Increased Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU17300            | Housing Inventory: Price Reduced Count in Clarksville, TN-KY (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM17300          | Housing Inventory: Price Reduced Count Month-Over-Month in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY17300          | Housing Inventory: Price Reduced Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP17300                 | Total Quantity Indexes for Real GDP for Clarksville, TN-KY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP17300                 | Total Real Gross Domestic Product for Clarksville, TN-KY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI17300                  | Real Personal Income for Clarksville, TN-KY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -152,4 +152,4 @@
 | SMU47173009093000001      | All Employees: Government: Local Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-07-01        |
 | SMU47173009093000001A     | All Employees: Local Government in Clarksville, TN-KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU47173009093000001SA    | All Employees: Government: Local Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-07-01        |
-| SUSCMSA17300              | Market Hotness: Supply Score in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| SUSCMSA17300              | Market Hotness: Supply Score in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

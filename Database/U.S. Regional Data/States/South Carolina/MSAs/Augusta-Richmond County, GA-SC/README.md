@@ -1,9 +1,9 @@
 | id                        | title                                                                                                                           | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU12260            | Housing Inventory: Active Listing Count in Augusta-Richmond County, GA-SC (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM12260          | Housing Inventory: Active Listing Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY12260          | Housing Inventory: Active Listing Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS12260Q            | All-Transactions House Price Index for Augusta-Richmond County, GA-SC (MSA)                                                     | 1979-07-01          | 2022-01-01        |
+| ACTLISCOU12260            | Housing Inventory: Active Listing Count in Augusta-Richmond County, GA-SC (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM12260          | Housing Inventory: Active Listing Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY12260          | Housing Inventory: Active Listing Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS12260Q            | All-Transactions House Price Index for Augusta-Richmond County, GA-SC (MSA)                                                     | 1979-07-01          | 2022-04-01        |
 | AUGPOP                    | Resident Population in Augusta-Richmond County, GA-SC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | AUGU213EDUH               | All Employees: Education and Health Services in Augusta-Richmond County, GA-SC (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | AUGU213EDUHN              | All Employees: Education and Health Services in Augusta-Richmond County, GA-SC (MSA)                                            | 1990-01-01          | 2022-07-01        |
@@ -15,8 +15,8 @@
 | AUGU213INFON              | All Employees: Information in Augusta-Richmond County, GA-SC (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | AUGU213LEIH               | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | AUGU213LEIHN              | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| AUGU213LF                 | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| AUGU213LFN                | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| AUGU213LF                 | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| AUGU213LFN                | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | AUGU213MFG                | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | AUGU213MFGN               | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | AUGU213NA                 | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -30,12 +30,12 @@
 | AUGU213SRVON              | All Employees: Other Services in Augusta-Richmond County, GA-SC (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | AUGU213TRAD               | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | AUGU213TRADN              | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| AUGU213UR                 | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| AUGU213URN                | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| AVELISPRI12260            | Housing Inventory: Average Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM12260          | Housing Inventory: Average Listing Price Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY12260          | Housing Inventory: Average Listing Price Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| DESCMSA12260              | Market Hotness: Demand Score in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| AUGU213UR                 | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| AUGU213URN                | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| AVELISPRI12260            | Housing Inventory: Average Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM12260          | Housing Inventory: Average Listing Price Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY12260          | Housing Inventory: Average Listing Price Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| DESCMSA12260              | Market Hotness: Demand Score in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC122630010             | Total Quarterly Wages in Augusta-Richmond County, GA-SC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC122630010SA           | Total Quarterly Wages in Augusta-Richmond County, GA-SC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC122640010             | Average Weekly Wages for Employees in Total Covered Establishments in Augusta-Richmond County, GA-SC (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -48,58 +48,58 @@
 | ENUC122640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC122640510             | Average Weekly Wages for Employees in Private Establishments in Augusta-Richmond County, GA-SC (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC122640510SA           | Average Weekly Wages for Employees in Private Establishments in Augusta-Richmond County, GA-SC (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA12260            | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HORAMSA12260              | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA12260            | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HOSCMSA12260              | Market Hotness: Hotness Score in Augusta-Richmond County, GA-SC (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA12260            | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HORAMSA12260              | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA12260            | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HOSCMSA12260              | Market Hotness: Hotness Score in Augusta-Richmond County, GA-SC (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IHLCHG12260               | Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
 | IRPD12260                 | Implicit Regional Price Deflator for Augusta-Richmond County, GA-SC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT131226000000003A     | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT131226000000004      | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT131226000000004      | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT131226000000004A     | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT131226000000005      | Employed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT131226000000005      | Employed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT131226000000005A     | Employed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT131226000000006A     | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA12260          | Market Hotness: Listing Views per Property in Augusta-Richmond County, GA-SC (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA12260        | Market Hotness: Listing Views per Property Versus the United States in Augusta-Richmond County, GA-SC (CBSA)                    | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA12260          | Market Hotness: Listing Views per Property in Augusta-Richmond County, GA-SC (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMMMSA12260        | Market Hotness: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA12260          | Market Hotness: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA12260        | Market Hotness: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR12260          | Housing Inventory: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM12260        | Housing Inventory: Median Days on Market Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY12260        | Housing Inventory: Median Days on Market Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI12260            | Housing Inventory: Median Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM12260          | Housing Inventory: Median Listing Price Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE12260   | Housing Inventory: Median Listing Price per Square Feet in Augusta-Richmond County, GA-SC (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM12260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY12260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY12260          | Housing Inventory: Median Listing Price Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA12260          | Market Hotness: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA12260          | Market Hotness: Median Days on Market Versus the United States in Augusta-Richmond County, GA-SC (CBSA)                         | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA12260          | Market Hotness: Median Days on Market Day in Augusta-Richmond County, GA-SC (CBSA)                                              | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE12260            | Housing Inventory: Median Home Size in Square Feet in Augusta-Richmond County, GA-SC (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM12260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY12260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA12260          | Market Hotness: Median Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA12260            | Market Hotness: Median Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA12260        | Market Hotness: Median Listing Price Versus the United States in Augusta-Richmond County, GA-SC (CBSA)                          | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA12260          | Market Hotness: Median Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU12260            | Housing Inventory: New Listing Count in Augusta-Richmond County, GA-SC (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM12260          | Housing Inventory: New Listing Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY12260          | Housing Inventory: New Listing Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| LDPEPRMMMSA12260          | Market Hotness: Listing Views per Property in Augusta-Richmond County, GA-SC (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA12260        | Market Hotness: Listing Views per Property Versus the United States in Augusta-Richmond County, GA-SC (CBSA)                    | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA12260          | Market Hotness: Listing Views per Property in Augusta-Richmond County, GA-SC (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA12260        | Market Hotness: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA12260          | Market Hotness: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA12260        | Market Hotness: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR12260          | Housing Inventory: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM12260        | Housing Inventory: Median Days on Market Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY12260        | Housing Inventory: Median Days on Market Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI12260            | Housing Inventory: Median Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM12260          | Housing Inventory: Median Listing Price Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE12260   | Housing Inventory: Median Listing Price per Square Feet in Augusta-Richmond County, GA-SC (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM12260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY12260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY12260          | Housing Inventory: Median Listing Price Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA12260          | Market Hotness: Median Days on Market in Augusta-Richmond County, GA-SC (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA12260          | Market Hotness: Median Days on Market Versus the United States in Augusta-Richmond County, GA-SC (CBSA)                         | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA12260          | Market Hotness: Median Days on Market Day in Augusta-Richmond County, GA-SC (CBSA)                                              | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE12260            | Housing Inventory: Median Home Size in Square Feet in Augusta-Richmond County, GA-SC (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM12260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY12260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA12260          | Market Hotness: Median Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA12260            | Market Hotness: Median Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA12260        | Market Hotness: Median Listing Price Versus the United States in Augusta-Richmond County, GA-SC (CBSA)                          | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA12260          | Market Hotness: Median Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU12260            | Housing Inventory: New Listing Count in Augusta-Richmond County, GA-SC (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM12260          | Housing Inventory: New Listing Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY12260          | Housing Inventory: New Listing Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP12260                 | Total Gross Domestic Product for Augusta-Richmond County, GA-SC (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA12260            | Market Hotness: Nielsen Household Rank in Augusta-Richmond County, GA-SC (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA12260            | Market Hotness: Nielsen Household Rank in Augusta-Richmond County, GA-SC (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA112260          | U.S. Granted Utility Patents Originating in Augusta-Richmond County, GA-SC (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU12260            | Housing Inventory: Pending Listing Count in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM12260          | Housing Inventory: Pending Listing Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY12260          | Housing Inventory: Pending Listing Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU12260            | Housing Inventory: Price Increased Count in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM12260          | Housing Inventory: Price Increased Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY12260          | Housing Inventory: Price Increased Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU12260            | Housing Inventory: Price Reduced Count in Augusta-Richmond County, GA-SC (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM12260          | Housing Inventory: Price Reduced Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY12260          | Housing Inventory: Price Reduced Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PENLISCOU12260            | Housing Inventory: Pending Listing Count in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM12260          | Housing Inventory: Pending Listing Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY12260          | Housing Inventory: Pending Listing Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU12260            | Housing Inventory: Price Increased Count in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM12260          | Housing Inventory: Price Increased Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY12260          | Housing Inventory: Price Increased Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU12260            | Housing Inventory: Price Reduced Count in Augusta-Richmond County, GA-SC (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM12260          | Housing Inventory: Price Reduced Count Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY12260          | Housing Inventory: Price Reduced Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP12260                 | Total Quantity Indexes for Real GDP for Augusta-Richmond County, GA-SC (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP12260                 | Total Real Gross Domestic Product for Augusta-Richmond County, GA-SC (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI12260                  | Real Personal Income for Augusta-Richmond County, GA-SC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -156,4 +156,4 @@
 | SMU13122609093000001      | All Employees: Government: Local Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-07-01        |
 | SMU13122609093000001A     | All Employees: Local Government in Augusta-Richmond County, GA-SC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU13122609093000001SA    | All Employees: Government: Local Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-07-01        |
-| SUSCMSA12260              | Market Hotness: Supply Score in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| SUSCMSA12260              | Market Hotness: Supply Score in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

@@ -32,4 +32,4 @@
 | Anchorage Borough - municipality, AK            |                 0 |
 | Wrangell Borough - City, AK                     |                 0 |
 | Fairbanks North Star Borough, AK                |               146 |
-| Matanuska-Susitna Borough, AK                   |               144 |
+| Matanuska-Susitna Borough, AK                   |                 0 |

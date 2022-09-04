@@ -1,9 +1,9 @@
 | Category                                | Sub-Category                                                    | Files   |
 |-----------------------------------------|-----------------------------------------------------------------|---------|
-| International Data                      | Countries                                                       | 55,262  |
-|                                         | Geography                                                       | 218     |
-|                                         | Indicators                                                      | 21,357  |
-|                                         | Institutions                                                    | 4,837   |
+| International Data                      | Countries                                                       | 55,118  |
+|                                         | Geography                                                       | 214     |
+|                                         | Indicators                                                      | 21,938  |
+|                                         | Institutions                                                    | 3,834   |
 | Prices                                  | M0468AUSM336NNBR.json                                           | 0       |
 |                                         | M0433AUSM291NNBR.json                                           | 0       |
 |                                         | M04113GBM318NNBR.json                                           | 0       |
@@ -286,7 +286,7 @@
 |                                         | M04116DE00BERM372NNBR.json                                      | 0       |
 |                                         | M04175US000NYM267NNBR.json                                      | 0       |
 |                                         | M0451AUSM292NNBR.json                                           | 0       |
-|                                         | Producer Price Indexes (PPI)                                    | 5,739   |
+|                                         | Producer Price Indexes (PPI)                                    | 5,819   |
 |                                         | M0469BUSM350NNBR.json                                           | 0       |
 |                                         | M04017US000NYM267NNBR.json                                      | 0       |
 |                                         | M0480AUSM336NNBR.json                                           | 0       |
@@ -393,18 +393,18 @@
 |                                         | M04178US000NYM267NNBR.json                                      | 0       |
 |                                         | M04022US35620M267NNBR.json                                      | 0       |
 | U.S. Regional Data                      | BEA Regions                                                     | 2,040   |
-|                                         | Census Regions                                                  | 843     |
+|                                         | Census Regions                                                  | 818     |
 |                                         | BLS Regions                                                     | 204     |
 |                                         | Freddie Mac Regions                                             | 852     |
-|                                         | States                                                          | 410,814 |
+|                                         | States                                                          | 409,891 |
 |                                         | Federal Reserve Districts                                       | 1,036   |
 | Population, Employment, & Labor Markets | _Population, Employment, & Labor Markets.json                   | 0       |
 |                                         | Population                                                      | 2,006   |
 |                                         | Weekly Initial Claims                                           | 25      |
 |                                         | Current Population Survey (Household Survey)                    | 3,631   |
 |                                         | Education                                                       | 45      |
-|                                         | Current Employment Statistics (Establishment Survey)            | 352     |
-|                                         | Minimum Wage                                                    | 0       |
+|                                         | Current Employment Statistics (Establishment Survey)            | 311     |
+|                                         | Minimum Wage                                                    | 53      |
 |                                         | Productivity & Costs                                            | 2,477   |
 |                                         | NROU.json                                                       | 0       |
 |                                         | Labor Market Conditions                                         | 454     |
@@ -413,7 +413,7 @@
 |                                         | Discontinued                                                    | 2       |
 |                                         | Job Openings and Labor Turnover (JOLTS)                         | 467     |
 |                                         | _Population, Employment, & Labor Markets_Incl_Discontinued.json | 0       |
-|                                         | ADP Employment                                                  | 31      |
+|                                         | ADP Employment                                                  | 96      |
 | Production & Business Activity          | BACBATOTALSANJ.json                                             | 0       |
 |                                         | NLDSACRAISMEI.json                                              | 0       |
 |                                         | NZLPERMITQISMEI.json                                            | 0       |
@@ -1783,7 +1783,7 @@
 | Academic Data                           | _Academic Data.json                                             | 0       |
 |                                         | NBER Macrohistory Database                                      | 2,605   |
 |                                         | Daily Federal Funds Rate, 1928-54                               | 6       |
-|                                         | Penn World Table 9.0                                            | 3,965   |
+|                                         | Penn World Table 9.0                                            | 4,583   |
 |                                         | Recession Probabilities                                         | 10      |
 |                                         | The Effects of the 1930s HOLC "Redlining" Maps                  | 22      |
 |                                         | LODINIM066N.json                                                | 0       |
@@ -1808,7 +1808,7 @@
 |                                         | TUVGGXWDGG01GDPPT.json                                          | 0       |
 |                                         | Federal Government Debt                                         | 44      |
 |                                         | RGCGASUKQ.json                                                  | 0       |
-|                                         | National Income & Product Accounts                              | 11,286  |
+|                                         | National Income & Product Accounts                              | 11,549  |
 |                                         | TUVNGDPRPCPPPT.json                                             | 0       |
 |                                         | _National Accounts.json                                         | 0       |
 |                                         | RGDPMPUKA.json                                                  | 0       |
@@ -1834,16 +1834,16 @@
 |                                         | RGCGASUKA.json                                                  | 0       |
 |                                         | U.S. Trade & International Transactions                         | 2,391   |
 |                                         | TVEXPUKA.json                                                   | 0       |
-|                                         | Flow of Funds                                                   | 2,409   |
+|                                         | Flow of Funds                                                   | 2,367   |
 | Money, Banking, & Finance               | Foreign Exchange Intervention                                   | 24      |
 |                                         | _Money, Banking, & Finance_Incl_Discontinued.json               | 0       |
-|                                         | Monetary Data                                                   | 1,621   |
+|                                         | Monetary Data                                                   | 1,634   |
 |                                         | ECBASSETSW.json                                                 | 0       |
 |                                         | Business Lending                                                | 918     |
 |                                         | _Money, Banking, & Finance.json                                 | 0       |
 |                                         | Financial Indicators                                            | 1,262   |
-|                                         | Exchange Rates                                                  | 13,225  |
-|                                         | Interest Rates                                                  | 1,221   |
-|                                         | Banking                                                         | 7,354   |
+|                                         | Exchange Rates                                                  | 14,228  |
+|                                         | Interest Rates                                                  | 1,214   |
+|                                         | Banking                                                         | 7,714   |
 |                                         | JPNASSETS.json                                                  | 0       |
 |                                         | Discontinued                                                    | 0       |

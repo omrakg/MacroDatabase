@@ -1,13 +1,13 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU29740            | Housing Inventory: Active Listing Count in Las Cruces, NM (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM29740          | Housing Inventory: Active Listing Count Month-Over-Month in Las Cruces, NM (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY29740          | Housing Inventory: Active Listing Count Year-Over-Year in Las Cruces, NM (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS29740Q            | All-Transactions House Price Index for Las Cruces, NM (MSA)                                                     | 1984-10-01          | 2022-01-01        |
-| AVELISPRI29740            | Housing Inventory: Average Listing Price in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM29740          | Housing Inventory: Average Listing Price Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY29740          | Housing Inventory: Average Listing Price Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| DESCMSA29740              | Market Hotness: Demand Score in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| ACTLISCOU29740            | Housing Inventory: Active Listing Count in Las Cruces, NM (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM29740          | Housing Inventory: Active Listing Count Month-Over-Month in Las Cruces, NM (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY29740          | Housing Inventory: Active Listing Count Year-Over-Year in Las Cruces, NM (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS29740Q            | All-Transactions House Price Index for Las Cruces, NM (MSA)                                                     | 1984-10-01          | 2022-04-01        |
+| AVELISPRI29740            | Housing Inventory: Average Listing Price in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM29740          | Housing Inventory: Average Listing Price Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY29740          | Housing Inventory: Average Listing Price Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| DESCMSA29740              | Market Hotness: Demand Score in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC297430010             | Total Quarterly Wages in Las Cruces, NM (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC297430010SA           | Total Quarterly Wages in Las Cruces, NM (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
 | ENUC297440010             | Average Weekly Wages for Employees in Total Covered Establishments in Las Cruces, NM (MSA)                      | 1990-01-01          | 2021-10-01        |
@@ -20,10 +20,10 @@
 | ENUC297440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2021-10-01        |
 | ENUC297440510             | Average Weekly Wages for Employees in Private Establishments in Las Cruces, NM (MSA)                            | 1990-01-01          | 2021-10-01        |
 | ENUC297440510SA           | Average Weekly Wages for Employees in Private Establishments in Las Cruces, NM (MSA)                            | 1990-01-01          | 2021-10-01        |
-| HORAMMMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HORAMSA29740              | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
-| HORAYYMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2018-08-01          | 2022-07-01        |
-| HOSCMSA29740              | Market Hotness: Hotness Score in Las Cruces, NM (CBSA)                                                          | 2017-08-01          | 2022-07-01        |
+| HORAMMMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HORAMSA29740              | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| HORAYYMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
+| HOSCMSA29740              | Market Hotness: Hotness Score in Las Cruces, NM (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD29740                 | Implicit Regional Price Deflator for Las Cruces, NM (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LASC735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-07-01        |
 | LASC735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-07-01        |
@@ -39,8 +39,8 @@
 | LASC735INFON              | All Employees: Information in Las Cruces, NM (MSA)                                                              | 1990-01-01          | 2022-07-01        |
 | LASC735LEIH               | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2022-07-01        |
 | LASC735LEIHN              | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| LASC735LF                 | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
-| LASC735LFN                | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| LASC735LF                 | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| LASC735LFN                | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | LASC735MFG                | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | LASC735MFGN               | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | LASC735NA                 | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-07-01        |
@@ -54,55 +54,55 @@
 | LASC735SRVON              | All Employees: Other Services in Las Cruces, NM (MSA)                                                           | 1990-01-01          | 2022-07-01        |
 | LASC735TRAD               | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | LASC735TRADN              | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| LASC735UR                 | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
-| LASC735URN                | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| LASC735UR                 | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| LASC735URN                | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT352974000000003A     | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT352974000000004      | Unemployed Persons in Las Cruces, NM (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT352974000000004      | Unemployed Persons in Las Cruces, NM (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT352974000000004A     | Unemployed Persons in Las Cruces, NM (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT352974000000005      | Employed Persons in Las Cruces, NM (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT352974000000005      | Employed Persons in Las Cruces, NM (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT352974000000005A     | Employed Persons in Las Cruces, NM (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT352974000000006A     | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA29740          | Market Hotness: Listing Views per Property in Las Cruces, NM (CBSA)                                             | 2018-08-01          | 2022-07-01        |
-| LDPEPRVSUSMSA29740        | Market Hotness: Listing Views per Property Versus the United States in Las Cruces, NM (CBSA)                    | 2017-08-01          | 2022-07-01        |
-| LDPEPRYYMSA29740          | Market Hotness: Listing Views per Property in Las Cruces, NM (CBSA)                                             | 2018-08-01          | 2022-07-01        |
+| LDPEPRMMMSA29740          | Market Hotness: Listing Views per Property in Las Cruces, NM (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRVSUSMSA29740        | Market Hotness: Listing Views per Property Versus the United States in Las Cruces, NM (CBSA)                    | 2017-08-01          | 2022-08-01        |
+| LDPEPRYYMSA29740          | Market Hotness: Listing Views per Property in Las Cruces, NM (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | LSCPOP                    | Resident Population in Las Cruces, NM (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| MEDAONMAMMMSA29740        | Market Hotness: Median Days on Market in Las Cruces, NM (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDAONMAMSA29740          | Market Hotness: Median Days on Market in Las Cruces, NM (CBSA)                                                  | 2017-08-01          | 2022-07-01        |
-| MEDAONMAYYMSA29740        | Market Hotness: Median Days on Market in Las Cruces, NM (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDDAYONMAR29740          | Housing Inventory: Median Days on Market in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM29740        | Housing Inventory: Median Days on Market Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY29740        | Housing Inventory: Median Days on Market Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI29740            | Housing Inventory: Median Listing Price in Las Cruces, NM (CBSA)                                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM29740          | Housing Inventory: Median Listing Price Month-Over-Month in Las Cruces, NM (CBSA)                               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE29740   | Housing Inventory: Median Listing Price per Square Feet in Las Cruces, NM (CBSA)                                | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM29740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Las Cruces, NM (CBSA)               | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY29740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Las Cruces, NM (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY29740          | Housing Inventory: Median Listing Price Year-Over-Year in Las Cruces, NM (CBSA)                                 | 2017-07-01          | 2022-07-01        |
-| MEDOMMDAMSA29740          | Market Hotness: Median Days on Market in Las Cruces, NM (CBSA)                                                  | 2018-08-01          | 2022-07-01        |
-| MEDOVSUSMSA29740          | Market Hotness: Median Days on Market Versus the United States in Las Cruces, NM (CBSA)                         | 2017-08-01          | 2022-07-01        |
-| MEDOYYDAMSA29740          | Market Hotness: Median Days on Market Day in Las Cruces, NM (CBSA)                                              | 2018-08-01          | 2022-07-01        |
-| MEDSQUFEE29740            | Housing Inventory: Median Home Size in Square Feet in Las Cruces, NM (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM29740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Las Cruces, NM (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY29740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Las Cruces, NM (CBSA)                      | 2017-07-01          | 2022-07-01        |
-| MELIPRMMMSA29740          | Market Hotness: Median Listing Price in Las Cruces, NM (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| MELIPRMSA29740            | Market Hotness: Median Listing Price in Las Cruces, NM (CBSA)                                                   | 2017-08-01          | 2022-07-01        |
-| MELIPRVSUSMSA29740        | Market Hotness: Median Listing Price Versus the United States in Las Cruces, NM (CBSA)                          | 2017-08-01          | 2022-07-01        |
-| MELIPRYYMSA29740          | Market Hotness: Median Listing Price in Las Cruces, NM (CBSA)                                                   | 2018-08-01          | 2022-07-01        |
-| NEWLISCOU29740            | Housing Inventory: New Listing Count in Las Cruces, NM (CBSA)                                                   | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM29740          | Housing Inventory: New Listing Count Month-Over-Month in Las Cruces, NM (CBSA)                                  | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY29740          | Housing Inventory: New Listing Count Year-Over-Year in Las Cruces, NM (CBSA)                                    | 2017-07-01          | 2022-07-01        |
+| MEDAONMAMMMSA29740        | Market Hotness: Median Days on Market in Las Cruces, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMSA29740          | Market Hotness: Median Days on Market in Las Cruces, NM (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
+| MEDAONMAYYMSA29740        | Market Hotness: Median Days on Market in Las Cruces, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDDAYONMAR29740          | Housing Inventory: Median Days on Market in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM29740        | Housing Inventory: Median Days on Market Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY29740        | Housing Inventory: Median Days on Market Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI29740            | Housing Inventory: Median Listing Price in Las Cruces, NM (CBSA)                                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM29740          | Housing Inventory: Median Listing Price Month-Over-Month in Las Cruces, NM (CBSA)                               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE29740   | Housing Inventory: Median Listing Price per Square Feet in Las Cruces, NM (CBSA)                                | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM29740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Las Cruces, NM (CBSA)               | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY29740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Las Cruces, NM (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY29740          | Housing Inventory: Median Listing Price Year-Over-Year in Las Cruces, NM (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDOMMDAMSA29740          | Market Hotness: Median Days on Market in Las Cruces, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
+| MEDOVSUSMSA29740          | Market Hotness: Median Days on Market Versus the United States in Las Cruces, NM (CBSA)                         | 2017-08-01          | 2022-08-01        |
+| MEDOYYDAMSA29740          | Market Hotness: Median Days on Market Day in Las Cruces, NM (CBSA)                                              | 2018-08-01          | 2022-08-01        |
+| MEDSQUFEE29740            | Housing Inventory: Median Home Size in Square Feet in Las Cruces, NM (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM29740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Las Cruces, NM (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY29740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Las Cruces, NM (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MELIPRMMMSA29740          | Market Hotness: Median Listing Price in Las Cruces, NM (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| MELIPRMSA29740            | Market Hotness: Median Listing Price in Las Cruces, NM (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| MELIPRVSUSMSA29740        | Market Hotness: Median Listing Price Versus the United States in Las Cruces, NM (CBSA)                          | 2017-08-01          | 2022-08-01        |
+| MELIPRYYMSA29740          | Market Hotness: Median Listing Price in Las Cruces, NM (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| NEWLISCOU29740            | Housing Inventory: New Listing Count in Las Cruces, NM (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM29740          | Housing Inventory: New Listing Count Month-Over-Month in Las Cruces, NM (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY29740          | Housing Inventory: New Listing Count Year-Over-Year in Las Cruces, NM (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP29740                 | Total Gross Domestic Product for Las Cruces, NM (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA29740            | Market Hotness: Nielsen Household Rank in Las Cruces, NM (CBSA)                                                 | 2017-08-01          | 2022-07-01        |
+| NIHHRAMSA29740            | Market Hotness: Nielsen Household Rank in Las Cruces, NM (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA129740          | U.S. Granted Utility Patents Originating in Las Cruces, NM (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU29740            | Housing Inventory: Pending Listing Count in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM29740          | Housing Inventory: Pending Listing Count Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY29740          | Housing Inventory: Pending Listing Count Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU29740            | Housing Inventory: Price Increased Count in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-07-01        |
-| PRIINCCOUMM29740          | Housing Inventory: Price Increased Count Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-07-01        |
-| PRIINCCOUYY29740          | Housing Inventory: Price Increased Count Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU29740            | Housing Inventory: Price Reduced Count in Las Cruces, NM (CBSA)                                                 | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM29740          | Housing Inventory: Price Reduced Count Month-Over-Month in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY29740          | Housing Inventory: Price Reduced Count Year-Over-Year in Las Cruces, NM (CBSA)                                  | 2017-07-01          | 2022-07-01        |
+| PENLISCOU29740            | Housing Inventory: Pending Listing Count in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM29740          | Housing Inventory: Pending Listing Count Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY29740          | Housing Inventory: Pending Listing Count Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU29740            | Housing Inventory: Price Increased Count in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PRIINCCOUMM29740          | Housing Inventory: Price Increased Count Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY29740          | Housing Inventory: Price Increased Count Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU29740            | Housing Inventory: Price Reduced Count in Las Cruces, NM (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM29740          | Housing Inventory: Price Reduced Count Month-Over-Month in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY29740          | Housing Inventory: Price Reduced Count Year-Over-Year in Las Cruces, NM (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | QGMP29740                 | Total Quantity Indexes for Real GDP for Las Cruces, NM (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP29740                 | Total Real Gross Domestic Product for Las Cruces, NM (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI29740                  | Real Personal Income for Las Cruces, NM (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -159,4 +159,4 @@
 | SMU35297409093000001      | All Employees: Government: Local Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-07-01        |
 | SMU35297409093000001A     | All Employees: Local Government in Las Cruces, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU35297409093000001SA    | All Employees: Government: Local Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-07-01        |
-| SUSCMSA29740              | Market Hotness: Supply Score in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-07-01        |
+| SUSCMSA29740              | Market Hotness: Supply Score in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

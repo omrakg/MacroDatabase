@@ -1,6 +1,6 @@
 | id                     | title                                                                                                    | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS48060Q         | All-Transactions House Price Index for Watertown-Fort Drum, NY (MSA)                                     | 1993-10-01          | 2022-01-01        |
+| ATNHPIUS48060Q         | All-Transactions House Price Index for Watertown-Fort Drum, NY (MSA)                                     | 1993-10-01          | 2022-04-01        |
 | ENUC480630010          | Total Quarterly Wages in Watertown-Fort Drum, NY (MSA)                                                   | 2013-01-01          | 2021-10-01        |
 | ENUC480630010SA        | Total Quarterly Wages in Watertown-Fort Drum, NY (MSA)                                                   | 2013-01-01          | 2021-10-01        |
 | ENUC480640010          | Average Weekly Wages for Employees in Total Covered Establishments in Watertown-Fort Drum, NY (MSA)      | 2013-01-01          | 2021-10-01        |
@@ -14,13 +14,13 @@
 | ENUC480640510          | Average Weekly Wages for Employees in Private Establishments in Watertown-Fort Drum, NY (MSA)            | 2013-01-01          | 2021-10-01        |
 | ENUC480640510SA        | Average Weekly Wages for Employees in Private Establishments in Watertown-Fort Drum, NY (MSA)            | 2013-01-01          | 2021-10-01        |
 | IRPD48060              | Implicit Regional Price Deflator for Watertown-Fort Drum, NY (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT364806000000003   | Unemployment Rate in Watertown-Fort Drum, NY (MSA)                                                       | 1990-01-01          | 2022-06-01        |
+| LAUMT364806000000003   | Unemployment Rate in Watertown-Fort Drum, NY (MSA)                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT364806000000003A  | Unemployment Rate in Watertown-Fort Drum, NY (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT364806000000004   | Unemployed Persons in Watertown-Fort Drum, NY (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT364806000000004   | Unemployed Persons in Watertown-Fort Drum, NY (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT364806000000004A  | Unemployed Persons in Watertown-Fort Drum, NY (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT364806000000005   | Employed Persons in Watertown-Fort Drum, NY (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT364806000000005   | Employed Persons in Watertown-Fort Drum, NY (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT364806000000005A  | Employed Persons in Watertown-Fort Drum, NY (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT364806000000006   | Civilian Labor Force in Watertown-Fort Drum, NY (MSA)                                                    | 1990-01-01          | 2022-06-01        |
+| LAUMT364806000000006   | Civilian Labor Force in Watertown-Fort Drum, NY (MSA)                                                    | 1990-01-01          | 2022-07-01        |
 | LAUMT364806000000006A  | Civilian Labor Force in Watertown-Fort Drum, NY (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP48060              | Total Gross Domestic Product for Watertown-Fort Drum, NY (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP48060              | Total Quantity Indexes for Real GDP for Watertown-Fort Drum, NY (MSA)                                    | 2001-01-01          | 2020-01-01        |

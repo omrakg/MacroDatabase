@@ -6,7 +6,7 @@
 | Madison, WI                             |               182 |
 | Green Bay, WI                           |               167 |
 | Milwaukee-Waukesha, WI                  |               252 |
-| Chicago-Naperville-Elgin, IL-IN-WI      |               173 |
+| Chicago-Naperville-Elgin, IL-IN-WI      |                 0 |
 | Oshkosh-Neenah, WI                      |               167 |
 | Minneapolis-St. Paul-Bloomington, MN-WI |               270 |
 | Wausau-Weston, WI                       |               158 |

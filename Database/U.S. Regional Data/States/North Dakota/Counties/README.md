@@ -3,13 +3,13 @@
 | Pierce County, ND        |                88 |
 | La Moure County, ND      |                88 |
 | Dickey County, ND        |                89 |
-| Bowman County, ND        |                89 |
+| Bowman County, ND        |                 0 |
 | Sargent County, ND       |                89 |
 | Morton County, ND        |                89 |
 | Pembina County, ND       |                89 |
 | Burke County, ND         |                87 |
 | Walsh County, ND         |                89 |
-| Divide County, ND        |                 0 |
+| Divide County, ND        |                88 |
 | Sheridan County, ND      |                86 |
 | McIntosh County, ND      |                89 |
 | Mercer County, ND        |                89 |

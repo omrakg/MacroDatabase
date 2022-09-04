@@ -1,6 +1,6 @@
 | id                     | title                                                                                                            | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS47460Q         | All-Transactions House Price Index for Walla Walla, WA (MSA)                                                     | 1989-10-01          | 2022-01-01        |
+| ATNHPIUS47460Q         | All-Transactions House Price Index for Walla Walla, WA (MSA)                                                     | 1989-07-01          | 2022-04-01        |
 | ENUC474630010          | Total Quarterly Wages in Walla Walla, WA (MSA)                                                                   | 2013-01-01          | 2021-10-01        |
 | ENUC474630010SA        | Total Quarterly Wages in Walla Walla, WA (MSA)                                                                   | 2013-01-01          | 2021-10-01        |
 | ENUC474640010          | Average Weekly Wages for Employees in Total Covered Establishments in Walla Walla, WA (MSA)                      | 2013-01-01          | 2021-10-01        |
@@ -14,13 +14,13 @@
 | ENUC474640510          | Average Weekly Wages for Employees in Private Establishments in Walla Walla, WA (MSA)                            | 2013-01-01          | 2021-10-01        |
 | ENUC474640510SA        | Average Weekly Wages for Employees in Private Establishments in Walla Walla, WA (MSA)                            | 2013-01-01          | 2021-10-01        |
 | IRPD47460              | Implicit Regional Price Deflator for Walla Walla, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT534746000000003   | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2022-06-01        |
+| LAUMT534746000000003   | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT534746000000003A  | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT534746000000004   | Unemployed Persons in Walla Walla, WA (MSA)                                                                      | 1990-01-01          | 2022-06-01        |
+| LAUMT534746000000004   | Unemployed Persons in Walla Walla, WA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
 | LAUMT534746000000004A  | Unemployed Persons in Walla Walla, WA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT534746000000005   | Employed Persons in Walla Walla, WA (MSA)                                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT534746000000005   | Employed Persons in Walla Walla, WA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT534746000000005A  | Employed Persons in Walla Walla, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT534746000000006   | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2022-06-01        |
+| LAUMT534746000000006   | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | LAUMT534746000000006A  | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP47460              | Total Gross Domestic Product for Walla Walla, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | QGMP47460              | Total Quantity Indexes for Real GDP for Walla Walla, WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |

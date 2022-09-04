@@ -1,12 +1,12 @@
 | id                        | title                                                                                            | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU31900            | Housing Inventory: Active Listing Count in Mansfield, OH (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| ACTLISCOUMM31900          | Housing Inventory: Active Listing Count Month-Over-Month in Mansfield, OH (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| ACTLISCOUYY31900          | Housing Inventory: Active Listing Count Year-Over-Year in Mansfield, OH (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| ATNHPIUS31900Q            | All-Transactions House Price Index for Mansfield, OH (MSA)                                       | 1984-01-01          | 2022-01-01        |
-| AVELISPRI31900            | Housing Inventory: Average Listing Price in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| AVELISPRIMM31900          | Housing Inventory: Average Listing Price Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-07-01        |
-| AVELISPRIYY31900          | Housing Inventory: Average Listing Price Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-07-01        |
+| ACTLISCOU31900            | Housing Inventory: Active Listing Count in Mansfield, OH (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| ACTLISCOUMM31900          | Housing Inventory: Active Listing Count Month-Over-Month in Mansfield, OH (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOUYY31900          | Housing Inventory: Active Listing Count Year-Over-Year in Mansfield, OH (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ATNHPIUS31900Q            | All-Transactions House Price Index for Mansfield, OH (MSA)                                       | 1984-01-01          | 2022-04-01        |
+| AVELISPRI31900            | Housing Inventory: Average Listing Price in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| AVELISPRIMM31900          | Housing Inventory: Average Listing Price Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-08-01        |
+| AVELISPRIYY31900          | Housing Inventory: Average Listing Price Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | ENUC319030010             | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC319030010SA           | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2021-10-01        |
 | ENUC319040010             | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2021-10-01        |
@@ -21,9 +21,9 @@
 | ENUC319040510SA           | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2021-10-01        |
 | IRPD31900                 | Implicit Regional Price Deflator for Mansfield, OH (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT393190000000003A     | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT393190000000004      | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2022-06-01        |
+| LAUMT393190000000004      | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2022-07-01        |
 | LAUMT393190000000004A     | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT393190000000005      | Employed Persons in Mansfield, OH (MSA)                                                          | 1990-01-01          | 2022-06-01        |
+| LAUMT393190000000005      | Employed Persons in Mansfield, OH (MSA)                                                          | 1990-01-01          | 2022-07-01        |
 | LAUMT393190000000005A     | Employed Persons in Mansfield, OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT393190000000006A     | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MANPOP                    | Resident Population in Mansfield, OH (MSA)                                                       | 2000-01-01          | 2021-01-01        |
@@ -35,8 +35,8 @@
 | MANS939GOVTN              | All Employees: Government in Mansfield, OH (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | MANS939LEIH               | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2022-07-01        |
 | MANS939LEIHN              | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2022-07-01        |
-| MANS939LF                 | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-06-01        |
-| MANS939LFN                | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-06-01        |
+| MANS939LF                 | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| MANS939LFN                | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | MANS939MFG                | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | MANS939MFGN               | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-07-01        |
 | MANS939NA                 | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-07-01        |
@@ -50,34 +50,34 @@
 | MANS939SRVON              | All Employees: Other Services in Mansfield, OH (MSA)                                             | 1990-01-01          | 2022-07-01        |
 | MANS939TRAD               | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2022-07-01        |
 | MANS939TRADN              | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2022-07-01        |
-| MANS939UR                 | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| MANS939URN                | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-06-01        |
-| MEDDAYONMAR31900          | Housing Inventory: Median Days on Market in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| MEDDAYONMARMM31900        | Housing Inventory: Median Days on Market Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-07-01        |
-| MEDDAYONMARYY31900        | Housing Inventory: Median Days on Market Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| MEDLISPRI31900            | Housing Inventory: Median Listing Price in Mansfield, OH (CBSA)                                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIMM31900          | Housing Inventory: Median Listing Price Month-Over-Month in Mansfield, OH (CBSA)                 | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEE31900   | Housing Inventory: Median Listing Price per Square Feet in Mansfield, OH (CBSA)                  | 2016-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEMM31900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mansfield, OH (CBSA) | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIPERSQUFEEYY31900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mansfield, OH (CBSA)   | 2017-07-01          | 2022-07-01        |
-| MEDLISPRIYY31900          | Housing Inventory: Median Listing Price Year-Over-Year in Mansfield, OH (CBSA)                   | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEE31900            | Housing Inventory: Median Home Size in Square Feet in Mansfield, OH (CBSA)                       | 2016-07-01          | 2022-07-01        |
-| MEDSQUFEEMM31900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mansfield, OH (CBSA)      | 2017-07-01          | 2022-07-01        |
-| MEDSQUFEEYY31900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mansfield, OH (CBSA)        | 2017-07-01          | 2022-07-01        |
-| NEWLISCOU31900            | Housing Inventory: New Listing Count in Mansfield, OH (CBSA)                                     | 2016-07-01          | 2022-07-01        |
-| NEWLISCOUMM31900          | Housing Inventory: New Listing Count Month-Over-Month in Mansfield, OH (CBSA)                    | 2017-07-01          | 2022-07-01        |
-| NEWLISCOUYY31900          | Housing Inventory: New Listing Count Year-Over-Year in Mansfield, OH (CBSA)                      | 2017-07-01          | 2022-07-01        |
+| MANS939UR                 | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| MANS939URN                | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| MEDDAYONMAR31900          | Housing Inventory: Median Days on Market in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| MEDDAYONMARMM31900        | Housing Inventory: Median Days on Market Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMARYY31900        | Housing Inventory: Median Days on Market Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| MEDLISPRI31900            | Housing Inventory: Median Listing Price in Mansfield, OH (CBSA)                                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIMM31900          | Housing Inventory: Median Listing Price Month-Over-Month in Mansfield, OH (CBSA)                 | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEE31900   | Housing Inventory: Median Listing Price per Square Feet in Mansfield, OH (CBSA)                  | 2016-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEMM31900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mansfield, OH (CBSA) | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIPERSQUFEEYY31900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mansfield, OH (CBSA)   | 2017-07-01          | 2022-08-01        |
+| MEDLISPRIYY31900          | Housing Inventory: Median Listing Price Year-Over-Year in Mansfield, OH (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE31900            | Housing Inventory: Median Home Size in Square Feet in Mansfield, OH (CBSA)                       | 2016-07-01          | 2022-08-01        |
+| MEDSQUFEEMM31900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mansfield, OH (CBSA)      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEEYY31900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mansfield, OH (CBSA)        | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU31900            | Housing Inventory: New Listing Count in Mansfield, OH (CBSA)                                     | 2016-07-01          | 2022-08-01        |
+| NEWLISCOUMM31900          | Housing Inventory: New Listing Count Month-Over-Month in Mansfield, OH (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOUYY31900          | Housing Inventory: New Listing Count Year-Over-Year in Mansfield, OH (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | NGMP31900                 | Total Gross Domestic Product for Mansfield, OH (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA131900          | U.S. Granted Utility Patents Originating in Mansfield, OH (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU31900            | Housing Inventory: Pending Listing Count in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-07-01        |
-| PENLISCOUMM31900          | Housing Inventory: Pending Listing Count Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-07-01        |
-| PENLISCOUYY31900          | Housing Inventory: Pending Listing Count Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIINCCOU31900            | Housing Inventory: Price Increased Count in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-07-01        |
+| PENLISCOU31900            | Housing Inventory: Pending Listing Count in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PENLISCOUMM31900          | Housing Inventory: Pending Listing Count Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-08-01        |
+| PENLISCOUYY31900          | Housing Inventory: Pending Listing Count Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU31900            | Housing Inventory: Price Increased Count in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | PRIINCCOUMM31900          | Housing Inventory: Price Increased Count Month-Over-Month in Mansfield, OH (CBSA)                | 2017-09-01          | 2022-05-01        |
-| PRIINCCOUYY31900          | Housing Inventory: Price Increased Count Year-Over-Year in Mansfield, OH (CBSA)                  | 2018-04-01          | 2022-06-01        |
-| PRIREDCOU31900            | Housing Inventory: Price Reduced Count in Mansfield, OH (CBSA)                                   | 2016-07-01          | 2022-07-01        |
-| PRIREDCOUMM31900          | Housing Inventory: Price Reduced Count Month-Over-Month in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOUYY31900          | Housing Inventory: Price Reduced Count Year-Over-Year in Mansfield, OH (CBSA)                    | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY31900          | Housing Inventory: Price Increased Count Year-Over-Year in Mansfield, OH (CBSA)                  | 2018-04-01          | 2022-08-01        |
+| PRIREDCOU31900            | Housing Inventory: Price Reduced Count in Mansfield, OH (CBSA)                                   | 2016-07-01          | 2022-08-01        |
+| PRIREDCOUMM31900          | Housing Inventory: Price Reduced Count Month-Over-Month in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOUYY31900          | Housing Inventory: Price Reduced Count Year-Over-Year in Mansfield, OH (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | QGMP31900                 | Total Quantity Indexes for Real GDP for Mansfield, OH (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP31900                 | Total Real Gross Domestic Product for Mansfield, OH (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI31900                  | Real Personal Income for Mansfield, OH (MSA)                                                     | 2008-01-01          | 2020-01-01        |
