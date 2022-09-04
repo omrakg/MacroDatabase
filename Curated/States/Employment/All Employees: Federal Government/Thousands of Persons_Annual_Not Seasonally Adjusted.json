@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000009091000001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Federal Government in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Utah": {
     "id": "SMU49000009091000001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Federal Government in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Vermont": {
     "id": "SMU50000009091000001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Federal Government in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Virginia": {
     "id": "SMU51000009091000001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Federal Government in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -109,8 +109,8 @@
   },
   "Washington": {
     "id": "SMU53000009091000001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Federal Government in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -127,8 +127,8 @@
   },
   "West Virginia": {
     "id": "SMU54000009091000001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Federal Government in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -145,8 +145,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000009091000001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Federal Government in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

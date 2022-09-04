@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWTOT",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Total Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -19,8 +19,8 @@
   },
   "Alabama": {
     "id": "ALWTOT",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Total Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -31,14 +31,14 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-06-22 12:41:14-05",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 2,
+    "group_popularity": 2,
     "path": "Database/U.S. Regional Data/States/Alabama"
   },
   "Alaska": {
     "id": "AKWTOT",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Total Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -73,8 +73,8 @@
   },
   "Delaware": {
     "id": "DEWTOT",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "Total Wages and Salaries in Delaware",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",

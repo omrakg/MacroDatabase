@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000002023600001",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -58,8 +58,8 @@
     },
     "Texas": {
       "id": "SMU48000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -77,8 +77,8 @@
     },
     "Utah": {
       "id": "SMU49000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -96,8 +96,8 @@
     },
     "Virginia": {
       "id": "SMU51000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -115,8 +115,8 @@
     },
     "Washington": {
       "id": "SMU53000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -134,8 +134,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -155,8 +155,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000002023600001A",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -211,8 +211,8 @@
     },
     "Texas": {
       "id": "SMU48000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -230,8 +230,8 @@
     },
     "Utah": {
       "id": "SMU49000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -249,8 +249,8 @@
     },
     "Virginia": {
       "id": "SMU51000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -268,8 +268,8 @@
     },
     "Washington": {
       "id": "SMU53000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -287,8 +287,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -308,8 +308,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -365,8 +365,8 @@
     },
     "Texas": {
       "id": "SMU48000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -384,8 +384,8 @@
     },
     "Utah": {
       "id": "SMU49000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -403,8 +403,8 @@
     },
     "Virginia": {
       "id": "SMU51000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -422,8 +422,8 @@
     },
     "Washington": {
       "id": "SMU53000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -441,8 +441,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000002023600001SA",
-      "realtime_start": "2022-08-28",
-      "realtime_end": "2022-08-28",
+      "realtime_start": "2022-09-04",
+      "realtime_end": "2022-09-04",
       "title": "All Employees: Construction: Construction of Buildings in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",

@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000003133500001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Durable Goods: Electrical Equipment, Appliance, and Component Manufacturing in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Texas": {
     "id": "SMU48000003133500001A",
-    "realtime_start": "2022-08-28",
-    "realtime_end": "2022-08-28",
+    "realtime_start": "2022-09-04",
+    "realtime_end": "2022-09-04",
     "title": "All Employees: Durable Goods: Electrical Equipment, Appliance, and Component Manufacturing in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
