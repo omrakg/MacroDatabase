@@ -1,7 +1,7 @@
 {
   "id": "M04127USM319NNBR",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Index of Prices Paid by Farmers for Commodities Used in Both Living and Production for United States",
   "observation_start": "1925-01-01",
   "observation_end": "1967-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:23-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Prices Are As Of The 15Th Of Each Month Source: Bureau Of Agricultural Economics, For 1925-1963, Agricultural Prices, September 15, 1964; And Monthly Issues Of The Same Source Thereafter.\n\nThis NBER data series m04127 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04127"
 }

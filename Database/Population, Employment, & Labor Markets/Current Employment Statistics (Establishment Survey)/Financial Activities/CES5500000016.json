@@ -1,7 +1,7 @@
 {
   "id": "CES5500000016",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Indexes of Aggregate Weekly Hours of All Employees, Financial Activities",
   "observation_start": "2006-03-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-02 07:46:19-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES5500000016"
 }

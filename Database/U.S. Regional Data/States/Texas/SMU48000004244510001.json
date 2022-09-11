@@ -1,7 +1,7 @@
 {
   "id": "SMU48000004244510001",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "All Employees: Retail Trade: Grocery Stores in Texas",
   "observation_start": "1990-01-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-20 02:10:29-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

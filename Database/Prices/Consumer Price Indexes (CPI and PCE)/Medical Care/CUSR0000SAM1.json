@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SAM1",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Consumer Price Index for All Urban Consumers: Medical Care Commodities in U.S. City Average",
   "observation_start": "1967-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-10 07:37:11-05",
-  "popularity": 45,
+  "popularity": 46,
   "group_popularity": 49
 }

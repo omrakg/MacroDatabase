@@ -1,7 +1,7 @@
 {
   "id": "CP0911GRM086NEST",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Harmonized Index of Consumer Prices: Equipment for the Reception, Recording, and Reproduction of sound and Pictures for Greece",
   "observation_start": "1996-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-18 07:14:58-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The Harmonized Index of Consumer Prices category \"Equipment for the Reception, Recording, and Reproduction of Sound and Pictures (09.1.1)\" is a classification of durable goods that includes television sets, video-cassette players and recorders, television aerials of all types; radio sets, car radios, radio clocks, two-way radios, and amateur radio receivers and transmitters; and gramophones, tape players and recorders, cassette players and recorders, CD-players, personal stereos, stereo systems and their constituent units (turntables, tuners, amplifiers, speakers, etc.), microphones, and earphones.\n\nEquipment for the Reception, Recording, and Reproduction of Sound and Pictures (09.1.1) excludes video cameras, camcorders, and sound-recording cameras (09.1.2).\n\nThe category, Equipment for the Reception, Recording, and Reproduction of Sound and Pictures (09.1.1), is a subcategory of the Recreation and Culture (09) and of Audio-Visual, Photographic, and Information Processing Equipment (09.1) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
 }

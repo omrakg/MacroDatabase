@@ -1,7 +1,7 @@
 {
   "id": "CPITRNNS",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average",
   "observation_start": "1935-03-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-10 07:39:07-05",
-  "popularity": 5,
-  "group_popularity": 45
+  "popularity": 6,
+  "group_popularity": 40
 }

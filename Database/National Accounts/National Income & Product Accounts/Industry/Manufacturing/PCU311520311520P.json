@@ -1,7 +1,7 @@
 {
   "id": "PCU311520311520P",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Producer Price Index by Industry: Ice Cream and Frozen Dessert Manufacturing: Primary Products",
   "observation_start": "1983-06-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 07:56:05-05",
-  "popularity": 9,
-  "group_popularity": 9
+  "popularity": 6,
+  "group_popularity": 6
 }

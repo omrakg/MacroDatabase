@@ -1,7 +1,7 @@
 {
   "id": "BACDINA066MNFRBNY",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Current Business Activity; Diffusion Index for FRB - New York District",
   "observation_start": "2004-09-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-17 07:31:02-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Current General Business Activity reports the change in general business activity for the service sector over the previous month for the state of New York, Northern New Jersey, and Fairfield County, Connecticut. The General Business Activity series is the main index of the Business Leaders Survey and is a distinct question posed on the survey. For more information regarding the Business Leaders Survey release from the Federal Reserve Bank of New York visit: http://www.newyorkfed.org/survey/business_leaders/bls_overview.html."
 }

@@ -1,17 +1,17 @@
 {
   "id": "TWEXEMEGSMTH",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Nominal Emerging Market Economies U.S. Dollar Index",
   "observation_start": "2006-01-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Jan 2006=100",
   "units_short": "Index Jan 2006=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-01 15:19:09-05",
-  "popularity": 26,
-  "group_popularity": 52
+  "last_updated": "2022-09-06 15:20:17-05",
+  "popularity": 32,
+  "group_popularity": 55
 }

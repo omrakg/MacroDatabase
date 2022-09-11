@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SACL1",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Consumer Price Index for All Urban Consumers: Commodities Less Food in U.S. City Average",
   "observation_start": "1956-01-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-10 07:37:42-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

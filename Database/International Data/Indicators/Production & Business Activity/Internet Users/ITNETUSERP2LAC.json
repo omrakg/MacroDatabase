@@ -1,7 +1,7 @@
 {
   "id": "ITNETUSERP2LAC",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Internet users for Developing Countries in Latin America and Caribbean",
   "observation_start": "1990-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-05 14:26:47-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Internet users are people with access to the worldwide network.\n\nNations that are included in this data series are listed at http://data.worldbank.org/about/country-and-lending-groups. A developing nation is defined as one which falls within the lower or middle income bracket.\n\nSource Indicator: IT.NET.USER.P2"
 }

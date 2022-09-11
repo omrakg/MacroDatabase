@@ -1,7 +1,7 @@
 {
   "id": "M04212USM350NNBR",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Index of Wholesale Prices of Finished Goods, Consumer Durables for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1966-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:49:43-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "For A Description Of Wholesale Price Indexes By Stage Of Processing, And The Weights Allocated To Finished Consumer Durable Goods, See Bls, Wholesale Prices And Price Indexes, January 1967 Final And February 1967 Final, Pp. 116-117, And Pp. 127-128. As Of June 1966, Bls Bulletin No. 1513 Shows Monthly Data For 1963. Seasonal Indexes Are Projected For 1966. Source: 01/1947-11/1961: Bls. Mimeographed Table, \"Consumer Durable Goods, Wholesale Price Index, \" March, 1962; 12/1961-12/1962: Bls Bulletin #1411; 01/1961-12/1966: Bls Bulletin, \"Wholesale Prices And Price Indexes\"\n\nThis NBER data series m04212 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04212"
 }

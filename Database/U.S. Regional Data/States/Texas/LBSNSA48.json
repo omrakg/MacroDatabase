@@ -1,7 +1,7 @@
 {
   "id": "LBSNSA48",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Labor Force Participation Rate for Texas",
   "observation_start": "1976-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-19 09:01:13-05",
-  "popularity": 4,
-  "group_popularity": 23,
+  "popularity": 5,
+  "group_popularity": 22,
   "notes": "A state's labor-force participation rate is the number of all employed and unemployed workers divided against the state's civilian population.\n\nDifferences between monthly seasonally-adjusted and not-seasonally-adjusted labor force participation rates are determined by the seasonal components of the LAUS labor force levels.\n\nThe seasonally adjusted version of this time series is LBSSA48"
 }

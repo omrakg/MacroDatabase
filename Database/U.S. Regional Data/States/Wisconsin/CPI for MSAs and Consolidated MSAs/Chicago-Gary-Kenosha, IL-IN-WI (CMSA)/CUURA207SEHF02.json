@@ -1,7 +1,7 @@
 {
   "id": "CUURA207SEHF02",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)",
   "observation_start": "1971-05-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-10 07:37:25-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 4,
+  "group_popularity": 4
 }

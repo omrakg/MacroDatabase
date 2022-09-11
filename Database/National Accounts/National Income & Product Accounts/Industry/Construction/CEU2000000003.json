@@ -1,7 +1,7 @@
 {
   "id": "CEU2000000003",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Average Hourly Earnings of All Employees, Construction",
   "observation_start": "2006-03-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-02 07:44:37-05",
-  "popularity": 10,
-  "group_popularity": 52,
+  "popularity": 7,
+  "group_popularity": 54,
   "notes": "Construction employees in the construction sector include: Working supervisors, qualified craft workers, mechanics, apprentices, helpers, laborers, and so forth, engaged in new work, alterations, demolition, repair, maintenance, and the like, whether working at the site of construction or in shops or yards at jobs (such as precutting and preassembling) ordinarily performed by members of the construction trades.\n\nThe series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU2000000003"
 }

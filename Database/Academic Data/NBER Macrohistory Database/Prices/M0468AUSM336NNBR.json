@@ -1,7 +1,7 @@
 {
   "id": "M0468AUSM336NNBR",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Index of Wholesale Prices of Building Materials for United States",
   "observation_start": "1890-01-01",
   "observation_end": "1951-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:36-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1890-1951 (2)--Original Data, 1947-1962. An NBER Note On The Manuscript Source Refers The User To Bls Bulletin No. 572 For Information Regarding A Revision Of This Series. NBER Mentions An Increase In The Number Of Items Included In The Series From 57 To 86, With Revised Data Coming From Bls Bulletin No. 572, Pp.8-9, For 1926-1931;\"Wholesale Prices\" For The Period 1932-1941; Bulletin Nos. 736, 759, 785, 870, 877, 920, 947, 973, 1007, 1083, For Succeeding Years Through 1950; And Monthly Labor Review, 1952 Issues For 1951 Data. Unrevised Data For 57 Items Are From Bls Bulletin No. 543, Pp.3-11 For The Period 1890-1930; And Survey Of Current Business, January, 1932 For 01/1931-11/1931. Revision Includes The Rearrangement Of Items In The Group With Some Additions. The Base Period Remained The Same (See Bls Bulletin No. 572, P. 1. The Old Grouping Included Lumber, Brick, Cement, Structural Steel, Paint Materials, And Other Building Materials. The New Grouping Added Tiles And Plumbing And Heating Materials. This Series Was Discontinued On This Base. The Next Variable Continues On Another Base. Source: Bls Bulletins.\n\nThis NBER data series m04068a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04068a"
 }

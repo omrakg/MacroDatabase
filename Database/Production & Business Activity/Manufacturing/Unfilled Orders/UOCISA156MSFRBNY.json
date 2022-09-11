@@ -1,7 +1,7 @@
 {
   "id": "UOCISA156MSFRBNY",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Current Unfilled Orders; Percent Reporting Increases for New York",
   "observation_start": "2001-07-01",
   "observation_end": "2022-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-15 07:31:37-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Current Unfilled Orders reports the change in unfilled orders over the previous month for the state of New York. For more information regarding the Empire State Manufacturing Survey release from the Federal Reserve Bank of New York visit: http://www.newyorkfed.org/survey/empire/empiresurvey_overview.html."
 }

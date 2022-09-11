@@ -1,7 +1,7 @@
 {
   "id": "WCD3M",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTINUED)",
   "observation_start": "1964-06-12",
   "observation_end": "2013-06-28",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-07-01 15:02:29-05",
-  "popularity": 2,
-  "group_popularity": 11,
+  "popularity": 4,
+  "group_popularity": 15,
   "notes": "Averages of Business Days.\n\nThe Federal Reserve Board of Governors does not report responses to CD Bids when the number of respondents is too few to be representative."
 }

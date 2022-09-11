@@ -1,7 +1,7 @@
 {
   "id": "RIFLGFLXIINA",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Treasury Long-Term Average (Over 10 Years), Inflation-Indexed",
   "observation_start": "2000-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 16:10:39-05",
-  "popularity": 4,
-  "group_popularity": 52,
+  "popularity": 5,
+  "group_popularity": 50,
   "notes": "Averages of daily figures.\n\nFor more information see the H.15 Statistical Release (https://www.federalreserve.gov/releases/h15/default.htm)."
 }

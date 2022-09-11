@@ -1,7 +1,7 @@
 {
   "id": "CGMD1819M",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Unemployment Rate: College Graduates: Master's Degree, 18 to 19 years, Men",
   "observation_start": "2014-08-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-04 11:07:16-06",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The unemployment rate is the number unemployed as a percent of the labor force."
 }

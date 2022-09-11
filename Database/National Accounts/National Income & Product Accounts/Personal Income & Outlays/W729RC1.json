@@ -1,7 +1,7 @@
 {
   "id": "W729RC1",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Personal current transfer receipts: Government social benefits to persons: Medicaid",
   "observation_start": "1966-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-08-26 07:43:36-05",
-  "popularity": 8,
-  "group_popularity": 14,
+  "popularity": 11,
+  "group_popularity": 16,
   "notes": "BEA Account Code: W729RC\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

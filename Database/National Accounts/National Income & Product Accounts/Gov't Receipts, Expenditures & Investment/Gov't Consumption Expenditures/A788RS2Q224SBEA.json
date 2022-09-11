@@ -1,7 +1,7 @@
 {
   "id": "A788RS2Q224SBEA",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Contributions to percent change in gross domestic purchases: Government consumption expenditures and gross investment: Federal: National defense: Gross investment",
   "observation_start": "1947-04-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-07-28 07:55:29-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: A788RS\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

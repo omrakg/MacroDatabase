@@ -1,7 +1,7 @@
 {
   "id": "DRTSSP",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Net Percentage of Domestic Banks Tightening Standards for Subprime Mortgage Loans",
   "observation_start": "2007-04-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-01 13:18:05-05",
-  "popularity": 36,
-  "group_popularity": 36,
+  "popularity": 33,
+  "group_popularity": 33,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices release, online at http://www.federalreserve.gov/boarddocs/SnLoanSurvey/."
 }

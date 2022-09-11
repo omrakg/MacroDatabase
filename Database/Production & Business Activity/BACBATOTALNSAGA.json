@@ -1,7 +1,7 @@
 {
   "id": "BACBATOTALNSAGA",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Business Applications from Corporations: Total for All NAICS in Georgia",
   "observation_start": "2004-07-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 11:04:30-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "High-Propensity Business Applications (HBA) from a corporation or personal service corporation, based on the legal form of organization stated in the IRS Form SS-4.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
 }

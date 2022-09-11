@@ -1,7 +1,7 @@
 {
   "id": "H0RIFSGFPIM06NA",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "6-Month Auction High Bill Rate by Issue Date (DISCONTINUED)",
   "observation_start": "1960-01-01",
   "observation_end": "2000-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-03 16:09:21-05",
-  "popularity": 1,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 8,
   "notes": "Averages of daily figures.\n\nThe Federal Reserve Board has discontinued this series. For more information see the H.15 Statistical Release (https://www.federalreserve.gov/releases/h15/default.htm)."
 }

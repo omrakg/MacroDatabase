@@ -1,7 +1,7 @@
 {
   "id": "A033RC1A027NBEA",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "National income: Compensation of employees",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-26 07:52:09-05",
-  "popularity": 26,
-  "group_popularity": 26,
+  "popularity": 28,
+  "group_popularity": 28,
   "notes": "BEA Account Code: A033RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

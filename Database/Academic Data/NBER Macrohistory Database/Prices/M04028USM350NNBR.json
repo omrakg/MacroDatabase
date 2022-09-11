@@ -1,7 +1,7 @@
 {
   "id": "M04028USM350NNBR",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Consumer Price Index, All Commodities Less Food for United States",
   "observation_start": "1935-01-01",
   "observation_end": "1970-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:47:31-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "This Is A Revised Series. Prior To 1964, Home Purchase Was Classified As A Service And Now As A Durable Commodity. Source: Bls Release, Mimeographed, Undated, On Consumer Price Index, Historical Series K-1: \"All Commodities Less Food, \" 1935-April, 1966; Thereafter, The Monthly Publication, Consumer Price Index (Also In Survey Of Current Business).\n\nThis NBER data series m04028 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04028"
 }

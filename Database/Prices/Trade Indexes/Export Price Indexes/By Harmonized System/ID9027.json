@@ -1,7 +1,7 @@
 {
   "id": "ID9027",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Export Price Index (Harmonized System): Instruments for Physical or Chemical Analysis; Measuring Viscosity, Porosity, Expansion, Surface Tension; Measuring Quantities of Heat, Sound or Light; Microtomes; Parts Thereof",
   "observation_start": "1992-12-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-12 07:38:06-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

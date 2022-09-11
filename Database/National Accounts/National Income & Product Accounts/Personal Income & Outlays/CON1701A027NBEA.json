@@ -1,7 +1,7 @@
 {
   "id": "CON1701A027NBEA",
-  "realtime_start": "2022-08-28",
-  "realtime_end": "2022-08-28",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Supplements to wages and salaries: Pension, profit-sharing, and other retirement benefit plans: Railroad retirement",
   "observation_start": "1937-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:39:23-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: CON170\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

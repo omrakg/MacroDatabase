@@ -1,7 +1,7 @@
 {
   "id": "LNS13025699",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Unemployment Level - Job Losers Not on Layoff",
   "observation_start": "1967-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-02 07:44:32-05",
-  "popularity": 18,
-  "group_popularity": 18,
+  "popularity": 17,
+  "group_popularity": 17,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13025699"
 }

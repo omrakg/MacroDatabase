@@ -1,7 +1,7 @@
 {
   "id": "M04I1ADE00ESSM372NNBR",
-  "realtime_start": "2022-09-04",
-  "realtime_end": "2022-09-04",
+  "realtime_start": "2022-09-11",
+  "realtime_end": "2022-09-11",
   "title": "Wholesale Price of Coal for Essen, Germany",
   "observation_start": "1879-01-01",
   "observation_end": "1919-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:52-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "Series Is Presented Here As Two Variables --(1)-- Original Data, 1879-1919 (2)--Original Data, 1913-1936. Data Are Monthly Averages For \"Ruhr Fettkohle\" (Bituminous Or Household Coal). For The Years 1879-1919, They Are The Wholesale Prices Of Ruhr Coal At Essen. For The Years 1913-1935, They Are The Wholesale Prices Of Rhine Westphalia Coal At Mine, Essen. Data For 1913-1919 Are Given In Paper Marks. No Prices Are Available For May-August, 1889 Because Ruhr Miners Were On Strike. No Mention Made Of Coal Tax Imposed 08/1917. Source: Monatshefte Statistik Des Deutschen Reichs, December 1879 (Altes Folge #37) P. 119 And Annually Thereafter Through 1891; Veirhljahrshefle Zur Statistiks, 1893 And Thereafter, For Data 1892-1919; 1924- 1935. 1913-1923 Data Are From Wirtschift Und Stat. 1925 \"Tablen Zur Geldent Wertung\" P. 26"
 }
