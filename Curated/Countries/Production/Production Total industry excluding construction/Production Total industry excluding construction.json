@@ -2,8 +2,8 @@
   "Growth rate previous period_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPRINTO01GPSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Israel",
       "observation_start": "1990-02-01",
       "observation_end": "2022-05-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -40,8 +40,8 @@
     },
     "Colombia": {
       "id": "COLPRINTO01IXOBSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Colombia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -59,8 +59,8 @@
     },
     "Czech Republic": {
       "id": "CZEPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for the Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2019-01-01",
@@ -78,8 +78,8 @@
     },
     "Estonia": {
       "id": "ESTPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-05-01",
@@ -97,8 +97,8 @@
     },
     "Iceland": {
       "id": "ISLPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-02-01",
@@ -110,7 +110,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:40:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXOBSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Iceland"
     }
@@ -118,8 +118,8 @@
   "Growth rate same period previous year_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPRINTO01GYSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Israel",
       "observation_start": "1991-01-01",
       "observation_end": "2022-05-01",
@@ -137,8 +137,8 @@
     },
     "Chile": {
       "id": "CHLPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -156,8 +156,8 @@
     },
     "Colombia": {
       "id": "COLPRINTO01IXOBSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Colombia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -175,8 +175,8 @@
     },
     "Czech Republic": {
       "id": "CZEPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for the Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2019-01-01",
@@ -194,8 +194,8 @@
     },
     "Estonia": {
       "id": "ESTPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-05-01",
@@ -213,8 +213,8 @@
     },
     "Iceland": {
       "id": "ISLPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-02-01",
@@ -226,7 +226,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:40:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXOBSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Iceland"
     }
@@ -234,8 +234,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -253,8 +253,8 @@
     },
     "Chile": {
       "id": "CHLPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -272,8 +272,8 @@
     },
     "Colombia": {
       "id": "COLPRINTO01IXOBSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Colombia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -291,8 +291,8 @@
     },
     "Czech Republic": {
       "id": "CZEPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for the Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2019-01-01",
@@ -310,8 +310,8 @@
     },
     "Estonia": {
       "id": "ESTPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-05-01",
@@ -329,8 +329,8 @@
     },
     "Iceland": {
       "id": "ISLPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-02-01",
@@ -342,7 +342,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:40:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXOBSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Iceland"
     }
@@ -350,8 +350,8 @@
   "Growth rate previous period_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLPRINTO01GPSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Colombia",
       "observation_start": "1990-04-01",
       "observation_end": "2021-10-01",
@@ -369,8 +369,8 @@
     },
     "Chile": {
       "id": "CHLPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -388,8 +388,8 @@
     },
     "Czech Republic": {
       "id": "CZEPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for the Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2019-01-01",
@@ -407,8 +407,8 @@
     },
     "Estonia": {
       "id": "ESTPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-05-01",
@@ -426,8 +426,8 @@
     },
     "Iceland": {
       "id": "ISLPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-02-01",
@@ -439,14 +439,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:40:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXOBSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Israel": {
       "id": "ISRPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -466,8 +466,8 @@
   "Growth rate same period previous year_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLPRINTO01GYSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Colombia",
       "observation_start": "1991-01-01",
       "observation_end": "2021-10-01",
@@ -485,8 +485,8 @@
     },
     "Chile": {
       "id": "CHLPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -504,8 +504,8 @@
     },
     "Czech Republic": {
       "id": "CZEPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for the Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2019-01-01",
@@ -523,8 +523,8 @@
     },
     "Estonia": {
       "id": "ESTPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-05-01",
@@ -542,8 +542,8 @@
     },
     "Iceland": {
       "id": "ISLPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-02-01",
@@ -555,14 +555,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:40:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXOBSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Israel": {
       "id": "ISRPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -582,8 +582,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-02-01",
@@ -595,14 +595,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:40:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXOBSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Chile": {
       "id": "CHLPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -620,8 +620,8 @@
     },
     "Colombia": {
       "id": "COLPRINTO01IXOBSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Colombia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -639,8 +639,8 @@
     },
     "Czech Republic": {
       "id": "CZEPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for the Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2019-01-01",
@@ -658,8 +658,8 @@
     },
     "Estonia": {
       "id": "ESTPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-05-01",
@@ -677,8 +677,8 @@
     },
     "Israel": {
       "id": "ISRPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -698,8 +698,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLPRINTO01IXOBSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Colombia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -717,8 +717,8 @@
     },
     "Chile": {
       "id": "CHLPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -736,8 +736,8 @@
     },
     "Czech Republic": {
       "id": "CZEPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for the Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2019-01-01",
@@ -755,8 +755,8 @@
     },
     "Estonia": {
       "id": "ESTPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-05-01",
@@ -774,8 +774,8 @@
     },
     "Iceland": {
       "id": "ISLPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-02-01",
@@ -787,14 +787,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:40:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXOBSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Israel": {
       "id": "ISRPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",
@@ -814,8 +814,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "ESTPRINTO01IXEBQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Estonia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -833,8 +833,8 @@
     },
     "Chile": {
       "id": "CHLPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -852,8 +852,8 @@
     },
     "Colombia": {
       "id": "COLPRINTO01IXOBSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Colombia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-10-01",
@@ -871,8 +871,8 @@
     },
     "Czech Republic": {
       "id": "CZEPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for the Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2019-01-01",
@@ -890,8 +890,8 @@
     },
     "Iceland": {
       "id": "ISLPRINTO01IXOBSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2018-02-01",
@@ -903,14 +903,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-08-11 15:40:03-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXOBSA OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Israel": {
       "id": "ISRPRINTO01IXOBM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Production: Industry: Total industry: Total industry excluding construction for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-05-01",

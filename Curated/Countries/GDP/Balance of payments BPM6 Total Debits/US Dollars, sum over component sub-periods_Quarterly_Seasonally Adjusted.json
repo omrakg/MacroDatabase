@@ -1,8 +1,8 @@
 {
   "Colombia": {
     "id": "COLB6DBTT01CXCUSAQ",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for Colombia",
     "observation_start": "2000-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLB6DBTT01CXCUSAQ",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for Chile",
     "observation_start": "2003-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Czech Republic": {
     "id": "CZEB6DBTT01CXCUSAQ",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Balance of payments BPM6: Current account Debits: Total: Total Debits for the Czech Republic",
     "observation_start": "1993-01-01",
     "observation_end": "2022-01-01",

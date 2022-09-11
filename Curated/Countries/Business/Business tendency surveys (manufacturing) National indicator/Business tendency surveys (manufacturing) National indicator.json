@@ -1,8 +1,8 @@
 {
   "Lithuania": {
     "id": "LTUBSXRLV02STSAM",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Business tendency surveys (manufacturing): Export order books or demand: Level: National indicator for Lithuania",
     "observation_start": "1993-05-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Latvia": {
     "id": "LVABSXRLV02STSAM",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Business tendency surveys (manufacturing): Export order books or demand: Level: National indicator for Latvia",
     "observation_start": "1993-04-01",
     "observation_end": "2022-07-01",

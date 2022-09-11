@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRPROMANQISMEI",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Production in Total Manufacturing for Israel",
     "observation_start": "1990-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLPROMANQISMEI",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Production in Total Manufacturing for Chile",
     "observation_start": "1991-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Czech Republic": {
     "id": "CZEPROMANQISMEI",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Production in Total Manufacturing for Czech Republic",
     "observation_start": "1991-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Iceland": {
     "id": "ISLPROMANQISMEI",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Production in Total Manufacturing for Iceland",
     "observation_start": "1998-01-01",
     "observation_end": "2017-10-01",

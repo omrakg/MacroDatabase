@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPPDMAINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Czech Republic": {
       "id": "CZEPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -40,8 +40,8 @@
     },
     "Hungary": {
       "id": "HUNPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -59,8 +59,8 @@
     },
     "Iceland": {
       "id": "ISLPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Iceland",
       "observation_start": "2006-01-01",
       "observation_end": "2022-04-01",
@@ -80,8 +80,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPPDMMINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-06-01",
@@ -99,8 +99,8 @@
     },
     "Czech Republic": {
       "id": "CZEPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -118,8 +118,8 @@
     },
     "Hungary": {
       "id": "HUNPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -137,8 +137,8 @@
     },
     "Iceland": {
       "id": "ISLPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Iceland",
       "observation_start": "2006-01-01",
       "observation_end": "2022-04-01",
@@ -158,8 +158,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -177,8 +177,8 @@
     },
     "Czech Republic": {
       "id": "CZEPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Czech Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -196,8 +196,8 @@
     },
     "Hungary": {
       "id": "HUNPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -215,8 +215,8 @@
     },
     "Iceland": {
       "id": "ISLPPDMQINMEI",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Domestic Producer Prices Index: Manufacturing for Iceland",
       "observation_start": "2006-01-01",
       "observation_end": "2022-04-01",

@@ -2,8 +2,8 @@
   "National Currency_Annual_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEAMN03SKA189N",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
       "observation_start": "1992-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Poland": {
       "id": "LCEAMN03PLQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEAMN03SKA661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
       "observation_start": "1992-01-01",
       "observation_end": "2021-01-01",
@@ -61,8 +61,8 @@
     },
     "Poland": {
       "id": "LCEAMN03PLQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -82,8 +82,8 @@
   "National Currency_Monthly_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEAMN03SKM189N",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
       "observation_start": "1992-01-01",
       "observation_end": "2022-05-01",
@@ -101,8 +101,8 @@
     },
     "Poland": {
       "id": "LCEAMN03PLQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -122,8 +122,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEAMN03SKM661N",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
       "observation_start": "1992-01-01",
       "observation_end": "2022-05-01",
@@ -141,8 +141,8 @@
     },
     "Poland": {
       "id": "LCEAMN03PLQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -162,8 +162,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEAMN03SKM661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
       "observation_start": "1992-01-01",
       "observation_end": "2022-05-01",
@@ -181,8 +181,8 @@
     },
     "Poland": {
       "id": "LCEAMN03PLQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -202,8 +202,8 @@
   "National Currency_Quarterly_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEAMN03SKQ189N",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
       "observation_start": "1992-01-01",
       "observation_end": "2022-01-01",
@@ -221,8 +221,8 @@
     },
     "Poland": {
       "id": "LCEAMN03PLQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -242,8 +242,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEAMN03SKQ661N",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
       "observation_start": "1992-01-01",
       "observation_end": "2022-01-01",
@@ -261,8 +261,8 @@
     },
     "Poland": {
       "id": "LCEAMN03PLQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -282,8 +282,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEAMN03SKQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
       "observation_start": "1992-01-01",
       "observation_end": "2022-01-01",
@@ -301,8 +301,8 @@
     },
     "Poland": {
       "id": "LCEAMN03PLQ661S",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Monthly Earnings: Manufacturing for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",

@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NNXGSNSAXDCSAQ",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Nominal External Balance of Goods and Services for Saudi Arabia",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NNXGSXDCARA",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Nominal External Balance of Goods and Services for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Great Britain": {
     "id": "NNXGSXDCGBA",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Nominal External Balance of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",

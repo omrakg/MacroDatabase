@@ -2,8 +2,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULRHUADTTSTM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Labour Force Survey -Quarterly rates: Harmonised unemployment -Monthly rates: Aged 25 and over: All persons for Lithuania",
       "observation_start": "1998-04-01",
       "observation_end": "2022-06-01",
@@ -23,8 +23,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULRHUADTTSTQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Labour Force Survey -Quarterly rates: Harmonised unemployment -Monthly rates: Aged 25 and over: All persons for Lithuania",
       "observation_start": "1998-04-01",
       "observation_end": "2022-04-01",
@@ -44,8 +44,8 @@
   "Percent_Monthly_Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULRHUADTTSTSAM",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Labour Force Survey -Quarterly rates: Harmonised unemployment -Monthly rates: Aged 25 and over: All persons for Lithuania",
       "observation_start": "1998-04-01",
       "observation_end": "2022-06-01",
@@ -65,8 +65,8 @@
   "Percent_Quarterly_Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULRHUADTTSTSAQ",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Labour Force Survey -Quarterly rates: Harmonised unemployment -Monthly rates: Aged 25 and over: All persons for Lithuania",
       "observation_start": "1998-04-01",
       "observation_end": "2022-04-01",

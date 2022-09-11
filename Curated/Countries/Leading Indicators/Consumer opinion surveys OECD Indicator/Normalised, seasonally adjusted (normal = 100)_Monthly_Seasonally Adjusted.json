@@ -1,8 +1,8 @@
 {
   "Latvia": {
     "id": "LVACSCICP03IXNSAM",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Consumer opinion surveys: Confidence indicators: Composite indicators: OECD Indicator for Latvia",
     "observation_start": "2001-05-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Israel": {
     "id": "ISRCSCICP03IXNSAM",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Consumer opinion surveys: Confidence indicators: Composite indicators: OECD Indicator for Israel",
     "observation_start": "2011-03-01",
     "observation_end": "2022-06-01",

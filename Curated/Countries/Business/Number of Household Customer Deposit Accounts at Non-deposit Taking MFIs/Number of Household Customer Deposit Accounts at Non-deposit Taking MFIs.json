@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "UKRFCAOFMFNHNUM",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Use of Financial Services: Number of Household Customer Deposit Accounts at Non-deposit Taking MFIs for Ukraine",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "Myanmar": {
     "id": "MMRFCAOFMFNHNUM",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Use of Financial Services: Number of Household Customer Deposit Accounts at Non-deposit Taking MFIs for Myanmar",
     "observation_start": "2012-01-01",
     "observation_end": "2017-01-01",
