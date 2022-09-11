@@ -7,13 +7,13 @@
 | COFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Colorado             | 2008-01-01          | 2016-01-01        |
 | CTFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Connecticut          | 2002-01-01          | 2011-01-01        |
 | DCFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from District of Columbia | 2008-01-01          | 2009-01-01        |
-| EXP3720       | U.S. Exports of Goods by F.A.S. Basis to Falkland Islands                               | 1992-01-01          | 2022-06-01        |
+| EXP3720       | U.S. Exports of Goods by F.A.S. Basis to Falkland Islands                               | 1992-01-01          | 2022-07-01        |
 | FLFLKA052SCEN | Value of Exports to Falkland Islands (Malvinas) from Florida                            | 2007-01-01          | 2016-01-01        |
 | FLFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Florida              | 1997-01-01          | 2016-01-01        |
 | GAFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Georgia              | 2002-01-01          | 2015-01-01        |
 | IDFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Idaho                | 2010-01-01          | 2014-01-01        |
 | ILFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Illinois             | 2002-01-01          | 2014-01-01        |
-| IMP3720       | U.S. Imports of Goods by Customs Basis from Falkland Islands                            | 1992-01-01          | 2022-06-01        |
+| IMP3720       | U.S. Imports of Goods by Customs Basis from Falkland Islands                            | 1992-01-01          | 2022-07-01        |
 | INFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Indiana              | 2003-01-01          | 2014-01-01        |
 | KSFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Kansas               | 2011-01-01          | 2015-01-01        |
 | LAFLKA475SCEN | Number of Identified Exporters to Falkland Islands (Malvinas) from Louisiana            | 2006-01-01          | 2015-01-01        |

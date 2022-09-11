@@ -13,7 +13,7 @@
 | Kusilvak Census Area, AK                        |                52 |
 | Kodiak Island Borough, AK                       |                88 |
 | Bethel Census Area, AK                          |                88 |
-| Skagway-Hoonah-Angoon Census Area, AK           |                 7 |
+| Skagway-Hoonah-Angoon Census Area, AK           |                 0 |
 | Aleutians West Census Area, AK                  |                86 |
 | Prince of Wales-Hyder Census Area, AK           |                83 |
 | Nome Census Area, AK                            |                87 |
@@ -32,4 +32,4 @@
 | Anchorage Borough - municipality, AK            |                 0 |
 | Wrangell Borough - City, AK                     |                 0 |
 | Fairbanks North Star Borough, AK                |               146 |
-| Matanuska-Susitna Borough, AK                   |                 0 |
+| Matanuska-Susitna Borough, AK                   |               144 |

@@ -2,7 +2,7 @@
 |--------------------------|-------------------|
 | Webster County, IA       |                90 |
 | Hardin County, IA        |                90 |
-| Sioux County, IA         |                90 |
+| Sioux County, IA         |                 0 |
 | Johnson County, IA       |               147 |
 | Carroll County, IA       |                90 |
 | Iowa County, IA          |                90 |
@@ -28,7 +28,7 @@
 | Boone County, IA         |                90 |
 | Warren County, IA        |               146 |
 | Clarke County, IA        |                90 |
-| Taylor County, IA        |                 0 |
+| Taylor County, IA        |                89 |
 | Cherokee County, IA      |                90 |
 | Harrison County, IA      |                90 |
 | Greene County, IA        |                89 |
@@ -62,7 +62,7 @@
 | Kossuth County, IA       |                90 |
 | Calhoun County, IA       |                90 |
 | Louisa County, IA        |                90 |
-| Crawford County, IA      |                90 |
+| Crawford County, IA      |                 0 |
 | Fayette County, IA       |                90 |
 | Mitchell County, IA      |                90 |
 | Worth County, IA         |                89 |
@@ -88,7 +88,7 @@
 | Emmet County, IA         |                90 |
 | Winneshiek County, IA    |                90 |
 | Ida County, IA           |                89 |
-| Story County, IA         |                 0 |
+| Story County, IA         |               147 |
 | Fremont County, IA       |                89 |
 | Floyd County, IA         |                90 |
 | Henry County, IA         |                89 |

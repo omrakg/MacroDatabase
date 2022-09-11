@@ -24,18 +24,18 @@
 | CLMUR                     | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | CLMURN                    | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | DESCMSA17860              | Market Hotness: Demand Score in Columbia, MO (CBSA)                                                | 2017-08-01          | 2022-08-01        |
-| ENUC178630010             | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC178630010SA           | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC178640010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbia, MO (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC178640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Columbia, MO (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC178640110             | Average Weekly Wages for Employees in Federal Government Establishments in Columbia, MO (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC178640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Columbia, MO (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC178640210             | Average Weekly Wages for Employees in State Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2021-10-01        |
-| ENUC178640210SA           | Average Weekly Wages for Employees in State Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2021-10-01        |
-| ENUC178640310             | Average Weekly Wages for Employees in Local Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2021-10-01        |
-| ENUC178640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2021-10-01        |
-| ENUC178640510             | Average Weekly Wages for Employees in Private Establishments in Columbia, MO (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC178640510SA           | Average Weekly Wages for Employees in Private Establishments in Columbia, MO (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC178630010             | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC178630010SA           | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC178640010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbia, MO (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC178640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Columbia, MO (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC178640110             | Average Weekly Wages for Employees in Federal Government Establishments in Columbia, MO (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC178640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Columbia, MO (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC178640210             | Average Weekly Wages for Employees in State Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-01-01        |
+| ENUC178640210SA           | Average Weekly Wages for Employees in State Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-01-01        |
+| ENUC178640310             | Average Weekly Wages for Employees in Local Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-01-01        |
+| ENUC178640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-01-01        |
+| ENUC178640510             | Average Weekly Wages for Employees in Private Establishments in Columbia, MO (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC178640510SA           | Average Weekly Wages for Employees in Private Establishments in Columbia, MO (MSA)                 | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA17860            | Market Hotness: Hotness Rank in Columbia, MO (CBSA)                                                | 2018-08-01          | 2022-08-01        |
 | HORAMSA17860              | Market Hotness: Hotness Rank in Columbia, MO (CBSA)                                                | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA17860            | Market Hotness: Hotness Rank in Columbia, MO (CBSA)                                                | 2018-08-01          | 2022-08-01        |

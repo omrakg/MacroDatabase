@@ -16,4 +16,4 @@
 | Pershing County, NV   |                89 |
 | Lander County, NV     |                89 |
 | Lyon County, NV       |               146 |
-| Storey County, NV     |                 0 |
+| Storey County, NV     |                89 |

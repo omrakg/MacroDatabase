@@ -8,18 +8,18 @@
 | AVELISPRIMM39140          | Housing Inventory: Average Listing Price Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY39140          | Housing Inventory: Average Listing Price Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA39140              | Market Hotness: Demand Score in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC391430010             | Total Quarterly Wages in Prescott, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC391430010SA           | Total Quarterly Wages in Prescott, AZ (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC391440010             | Average Weekly Wages for Employees in Total Covered Establishments in Prescott, AZ (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC391440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Prescott, AZ (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC391440110             | Average Weekly Wages for Employees in Federal Government Establishments in Prescott, AZ (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC391440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Prescott, AZ (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC391440210             | Average Weekly Wages for Employees in State Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
-| ENUC391440210SA           | Average Weekly Wages for Employees in State Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
-| ENUC391440310             | Average Weekly Wages for Employees in Local Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
-| ENUC391440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2021-10-01        |
-| ENUC391440510             | Average Weekly Wages for Employees in Private Establishments in Prescott, AZ (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC391440510SA           | Average Weekly Wages for Employees in Private Establishments in Prescott, AZ (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC391430010             | Total Quarterly Wages in Prescott, AZ (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC391430010SA           | Total Quarterly Wages in Prescott, AZ (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC391440010             | Average Weekly Wages for Employees in Total Covered Establishments in Prescott, AZ (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC391440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Prescott, AZ (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC391440110             | Average Weekly Wages for Employees in Federal Government Establishments in Prescott, AZ (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC391440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Prescott, AZ (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC391440210             | Average Weekly Wages for Employees in State Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
+| ENUC391440210SA           | Average Weekly Wages for Employees in State Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
+| ENUC391440310             | Average Weekly Wages for Employees in Local Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
+| ENUC391440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Prescott, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
+| ENUC391440510             | Average Weekly Wages for Employees in Private Establishments in Prescott, AZ (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC391440510SA           | Average Weekly Wages for Employees in Private Establishments in Prescott, AZ (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA39140            | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA39140              | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA39140            | Market Hotness: Hotness Rank in Prescott, AZ (CBSA)                                             | 2018-08-01          | 2022-08-01        |

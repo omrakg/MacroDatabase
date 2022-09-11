@@ -7,18 +7,18 @@
 | AVELISPRI30300            | Housing Inventory: Average Listing Price in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM30300          | Housing Inventory: Average Listing Price Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY30300          | Housing Inventory: Average Listing Price Year-Over-Year in Lewiston, ID-WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| ENUC303030010             | Total Quarterly Wages in Lewiston, ID-WA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC303030010SA           | Total Quarterly Wages in Lewiston, ID-WA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC303040010             | Average Weekly Wages for Employees in Total Covered Establishments in Lewiston, ID-WA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC303040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lewiston, ID-WA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC303040110             | Average Weekly Wages for Employees in Federal Government Establishments in Lewiston, ID-WA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC303040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lewiston, ID-WA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC303040210             | Average Weekly Wages for Employees in State Government Establishments in Lewiston, ID-WA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC303040210SA           | Average Weekly Wages for Employees in State Government Establishments in Lewiston, ID-WA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC303040310             | Average Weekly Wages for Employees in Local Government Establishments in Lewiston, ID-WA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC303040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lewiston, ID-WA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC303040510             | Average Weekly Wages for Employees in Private Establishments in Lewiston, ID-WA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC303040510SA           | Average Weekly Wages for Employees in Private Establishments in Lewiston, ID-WA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC303030010             | Total Quarterly Wages in Lewiston, ID-WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC303030010SA           | Total Quarterly Wages in Lewiston, ID-WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC303040010             | Average Weekly Wages for Employees in Total Covered Establishments in Lewiston, ID-WA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC303040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lewiston, ID-WA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC303040110             | Average Weekly Wages for Employees in Federal Government Establishments in Lewiston, ID-WA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC303040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lewiston, ID-WA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC303040210             | Average Weekly Wages for Employees in State Government Establishments in Lewiston, ID-WA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC303040210SA           | Average Weekly Wages for Employees in State Government Establishments in Lewiston, ID-WA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC303040310             | Average Weekly Wages for Employees in Local Government Establishments in Lewiston, ID-WA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC303040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lewiston, ID-WA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC303040510             | Average Weekly Wages for Employees in Private Establishments in Lewiston, ID-WA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC303040510SA           | Average Weekly Wages for Employees in Private Establishments in Lewiston, ID-WA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD30300                 | Implicit Regional Price Deflator for Lewiston, ID-WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT163030000000003A     | Unemployment Rate in Lewiston, ID-WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT163030000000004      | Unemployed Persons in Lewiston, ID-WA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

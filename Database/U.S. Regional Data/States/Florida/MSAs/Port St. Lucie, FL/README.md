@@ -8,18 +8,18 @@
 | AVELISPRIMM38940          | Housing Inventory: Average Listing Price Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY38940          | Housing Inventory: Average Listing Price Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA38940              | Market Hotness: Demand Score in Port St. Lucie, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC389430010             | Total Quarterly Wages in Port St. Lucie, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC389430010SA           | Total Quarterly Wages in Port St. Lucie, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC389440010             | Average Weekly Wages for Employees in Total Covered Establishments in Port St. Lucie, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC389440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Port St. Lucie, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC389440110             | Average Weekly Wages for Employees in Federal Government Establishments in Port St. Lucie, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC389440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Port St. Lucie, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC389440210             | Average Weekly Wages for Employees in State Government Establishments in Port St. Lucie, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC389440210SA           | Average Weekly Wages for Employees in State Government Establishments in Port St. Lucie, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC389440310             | Average Weekly Wages for Employees in Local Government Establishments in Port St. Lucie, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC389440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Port St. Lucie, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC389440510             | Average Weekly Wages for Employees in Private Establishments in Port St. Lucie, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC389440510SA           | Average Weekly Wages for Employees in Private Establishments in Port St. Lucie, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC389430010             | Total Quarterly Wages in Port St. Lucie, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC389430010SA           | Total Quarterly Wages in Port St. Lucie, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC389440010             | Average Weekly Wages for Employees in Total Covered Establishments in Port St. Lucie, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC389440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Port St. Lucie, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC389440110             | Average Weekly Wages for Employees in Federal Government Establishments in Port St. Lucie, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC389440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Port St. Lucie, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC389440210             | Average Weekly Wages for Employees in State Government Establishments in Port St. Lucie, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC389440210SA           | Average Weekly Wages for Employees in State Government Establishments in Port St. Lucie, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC389440310             | Average Weekly Wages for Employees in Local Government Establishments in Port St. Lucie, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC389440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Port St. Lucie, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC389440510             | Average Weekly Wages for Employees in Private Establishments in Port St. Lucie, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC389440510SA           | Average Weekly Wages for Employees in Private Establishments in Port St. Lucie, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | FPRPOP                    | Resident Population in Port St. Lucie, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA38940            | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA38940              | Market Hotness: Hotness Rank in Port St. Lucie, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

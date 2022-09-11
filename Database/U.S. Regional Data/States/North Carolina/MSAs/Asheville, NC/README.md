@@ -36,18 +36,18 @@
 | AVELISPRIMM11700          | Housing Inventory: Average Listing Price Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY11700          | Housing Inventory: Average Listing Price Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA11700              | Market Hotness: Demand Score in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC117030010             | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC117030010SA           | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC117040010             | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC117040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC117040110             | Average Weekly Wages for Employees in Federal Government Establishments in Asheville, NC (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC117040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Asheville, NC (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC117040210             | Average Weekly Wages for Employees in State Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC117040210SA           | Average Weekly Wages for Employees in State Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC117040310             | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC117040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC117040510             | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC117040510SA           | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC117030010             | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC117030010SA           | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC117040010             | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC117040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC117040110             | Average Weekly Wages for Employees in Federal Government Establishments in Asheville, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC117040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Asheville, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC117040210             | Average Weekly Wages for Employees in State Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC117040210SA           | Average Weekly Wages for Employees in State Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC117040310             | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC117040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC117040510             | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC117040510SA           | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA11700            | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA11700              | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA11700            | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

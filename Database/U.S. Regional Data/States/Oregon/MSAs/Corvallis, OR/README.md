@@ -35,18 +35,18 @@
 | CORV741UR                 | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-07-01        |
 | CORV741URN                | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-07-01        |
 | CRVPOP                    | Resident Population in Corvallis, OR (MSA)                                                             | 2000-01-01          | 2021-01-01        |
-| ENUC187030010             | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2021-10-01        |
-| ENUC187030010SA           | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2021-10-01        |
-| ENUC187040010             | Average Weekly Wages for Employees in Total Covered Establishments in Corvallis, OR (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC187040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Corvallis, OR (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC187040110             | Average Weekly Wages for Employees in Federal Government Establishments in Corvallis, OR (MSA)         | 1990-01-01          | 2021-10-01        |
-| ENUC187040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Corvallis, OR (MSA)         | 1990-01-01          | 2021-10-01        |
-| ENUC187040210             | Average Weekly Wages for Employees in State Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2021-10-01        |
-| ENUC187040210SA           | Average Weekly Wages for Employees in State Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2021-10-01        |
-| ENUC187040310             | Average Weekly Wages for Employees in Local Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2021-10-01        |
-| ENUC187040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2021-10-01        |
-| ENUC187040510             | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2021-10-01        |
-| ENUC187040510SA           | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2021-10-01        |
+| ENUC187030010             | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| ENUC187030010SA           | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| ENUC187040010             | Average Weekly Wages for Employees in Total Covered Establishments in Corvallis, OR (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC187040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Corvallis, OR (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC187040110             | Average Weekly Wages for Employees in Federal Government Establishments in Corvallis, OR (MSA)         | 1990-01-01          | 2022-01-01        |
+| ENUC187040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Corvallis, OR (MSA)         | 1990-01-01          | 2022-01-01        |
+| ENUC187040210             | Average Weekly Wages for Employees in State Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-01-01        |
+| ENUC187040210SA           | Average Weekly Wages for Employees in State Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-01-01        |
+| ENUC187040310             | Average Weekly Wages for Employees in Local Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-01-01        |
+| ENUC187040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-01-01        |
+| ENUC187040510             | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC187040510SA           | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2022-01-01        |
 | IRPD18700                 | Implicit Regional Price Deflator for Corvallis, OR (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | LAUMT411870000000003A     | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2021-01-01        |
 | LAUMT411870000000004      | Unemployed Persons in Corvallis, OR (MSA)                                                              | 1990-01-01          | 2022-07-01        |

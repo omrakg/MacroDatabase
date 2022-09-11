@@ -8,18 +8,18 @@
 | AVELISPRIMM21660          | Housing Inventory: Average Listing Price Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY21660          | Housing Inventory: Average Listing Price Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-08-01        |
 | DESCMSA21660              | Market Hotness: Demand Score in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-08-01        |
-| ENUC216630010             | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
-| ENUC216630010SA           | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
-| ENUC216640010             | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC216640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC216640110             | Average Weekly Wages for Employees in Federal Government Establishments in Eugene-Springfield, OR (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC216640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Eugene-Springfield, OR (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC216640210             | Average Weekly Wages for Employees in State Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC216640210SA           | Average Weekly Wages for Employees in State Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC216640310             | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC216640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC216640510             | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC216640510SA           | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC216630010             | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
+| ENUC216630010SA           | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
+| ENUC216640010             | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC216640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC216640110             | Average Weekly Wages for Employees in Federal Government Establishments in Eugene-Springfield, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC216640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Eugene-Springfield, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC216640210             | Average Weekly Wages for Employees in State Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC216640210SA           | Average Weekly Wages for Employees in State Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC216640310             | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC216640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC216640510             | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC216640510SA           | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
 | EUGE641BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-07-01        |
 | EUGE641BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-07-01        |
 | EUGE641BPPRIV             | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-07-01        |

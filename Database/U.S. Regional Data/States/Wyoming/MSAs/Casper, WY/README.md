@@ -33,18 +33,18 @@
 | CASP256UR                 | Unemployment Rate in Casper, WY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | CASP256URN                | Unemployment Rate in Casper, WY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | CSPPOP                    | Resident Population in Casper, WY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC162230010             | Total Quarterly Wages in Casper, WY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC162230010SA           | Total Quarterly Wages in Casper, WY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC162240010             | Average Weekly Wages for Employees in Total Covered Establishments in Casper, WY (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC162240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Casper, WY (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC162240110             | Average Weekly Wages for Employees in Federal Government Establishments in Casper, WY (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC162240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Casper, WY (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC162240210             | Average Weekly Wages for Employees in State Government Establishments in Casper, WY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC162240210SA           | Average Weekly Wages for Employees in State Government Establishments in Casper, WY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC162240310             | Average Weekly Wages for Employees in Local Government Establishments in Casper, WY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC162240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Casper, WY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC162240510             | Average Weekly Wages for Employees in Private Establishments in Casper, WY (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC162240510SA           | Average Weekly Wages for Employees in Private Establishments in Casper, WY (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC162230010             | Total Quarterly Wages in Casper, WY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC162230010SA           | Total Quarterly Wages in Casper, WY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC162240010             | Average Weekly Wages for Employees in Total Covered Establishments in Casper, WY (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC162240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Casper, WY (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC162240110             | Average Weekly Wages for Employees in Federal Government Establishments in Casper, WY (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC162240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Casper, WY (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC162240210             | Average Weekly Wages for Employees in State Government Establishments in Casper, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC162240210SA           | Average Weekly Wages for Employees in State Government Establishments in Casper, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC162240310             | Average Weekly Wages for Employees in Local Government Establishments in Casper, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC162240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Casper, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC162240510             | Average Weekly Wages for Employees in Private Establishments in Casper, WY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC162240510SA           | Average Weekly Wages for Employees in Private Establishments in Casper, WY (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD16220                 | Implicit Regional Price Deflator for Casper, WY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT561622000000003A     | Unemployment Rate in Casper, WY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT561622000000004      | Unemployed Persons in Casper, WY (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

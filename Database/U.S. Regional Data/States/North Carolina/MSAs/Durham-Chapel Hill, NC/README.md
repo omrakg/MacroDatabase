@@ -32,14 +32,14 @@
 | DURH537TRADN           | All Employees: Trade, Transportation, and Utilities in Durham-Chapel Hill, NC (MSA)                                                 | 1990-01-01          | 2022-07-01        |
 | DURH537UR              | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2022-07-01        |
 | DURH537URN             | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2022-07-01        |
-| ENUC205030010          | Total Quarterly Wages in Durham-Chapel Hill, NC (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
-| ENUC205030010SA        | Total Quarterly Wages in Durham-Chapel Hill, NC (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
-| ENUC205040010          | Average Weekly Wages for Employees in Total Covered Establishments in Durham, NC (MSA)                                              | 1990-01-01          | 2021-10-01        |
-| ENUC205040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Durham, NC (MSA)                                              | 1990-01-01          | 2021-10-01        |
-| ENUC205040110          | Average Weekly Wages for Employees in Federal Government Establishments in Durham, NC (MSA)                                         | 1990-01-01          | 2021-10-01        |
-| ENUC205040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Durham, NC (MSA)                                         | 1990-01-01          | 2021-10-01        |
-| ENUC205040510          | Average Weekly Wages for Employees in Private Establishments in Durham, NC (MSA)                                                    | 1990-01-01          | 2021-10-01        |
-| ENUC205040510SA        | Average Weekly Wages for Employees in Private Establishments in Durham, NC (MSA)                                                    | 1990-01-01          | 2021-10-01        |
+| ENUC205030010          | Total Quarterly Wages in Durham-Chapel Hill, NC (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
+| ENUC205030010SA        | Total Quarterly Wages in Durham-Chapel Hill, NC (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
+| ENUC205040010          | Average Weekly Wages for Employees in Total Covered Establishments in Durham, NC (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| ENUC205040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Durham, NC (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| ENUC205040110          | Average Weekly Wages for Employees in Federal Government Establishments in Durham, NC (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| ENUC205040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Durham, NC (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| ENUC205040510          | Average Weekly Wages for Employees in Private Establishments in Durham, NC (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| ENUC205040510SA        | Average Weekly Wages for Employees in Private Establishments in Durham, NC (MSA)                                                    | 1990-01-01          | 2022-01-01        |
 | IRPD20500              | Implicit Regional Price Deflator for Durham-Chapel Hill, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT372050000000003A  | Unemployment Rate in Durham-Chapel Hill, NC (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
 | LAUMT372050000000004   | Unemployed Persons in Durham-Chapel Hill, NC (MSA)                                                                                  | 1990-01-01          | 2022-07-01        |

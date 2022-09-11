@@ -8,23 +8,23 @@
 | AVELISPRIMM39340          | Housing Inventory: Average Listing Price Month-Over-Month in Provo-Orem, UT (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY39340          | Housing Inventory: Average Listing Price Year-Over-Year in Provo-Orem, UT (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA39340              | Market Hotness: Demand Score in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC393430010             | Total Quarterly Wages in Provo-Orem, UT (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC393430010SA           | Total Quarterly Wages in Provo-Orem, UT (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC393440010             | Average Weekly Wages for Employees in Total Covered Establishments in Provo-Orem, UT (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC393440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Provo-Orem, UT (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC393440110             | Average Weekly Wages for Employees in Federal Government Establishments in Provo-Orem, UT (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC393440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Provo-Orem, UT (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC393440210             | Average Weekly Wages for Employees in State Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC393440210SA           | Average Weekly Wages for Employees in State Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC393440310             | Average Weekly Wages for Employees in Local Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC393440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC393440510             | Average Weekly Wages for Employees in Private Establishments in Provo-Orem, UT (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC393440510SA           | Average Weekly Wages for Employees in Private Establishments in Provo-Orem, UT (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC393430010             | Total Quarterly Wages in Provo-Orem, UT (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC393430010SA           | Total Quarterly Wages in Provo-Orem, UT (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC393440010             | Average Weekly Wages for Employees in Total Covered Establishments in Provo-Orem, UT (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC393440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Provo-Orem, UT (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC393440110             | Average Weekly Wages for Employees in Federal Government Establishments in Provo-Orem, UT (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC393440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Provo-Orem, UT (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC393440210             | Average Weekly Wages for Employees in State Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC393440210SA           | Average Weekly Wages for Employees in State Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC393440310             | Average Weekly Wages for Employees in Local Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC393440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Provo-Orem, UT (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC393440510             | Average Weekly Wages for Employees in Private Establishments in Provo-Orem, UT (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC393440510SA           | Average Weekly Wages for Employees in Private Establishments in Provo-Orem, UT (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA39340            | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA39340              | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA39340            | Market Hotness: Hotness Rank in Provo-Orem, UT (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA39340              | Market Hotness: Hotness Score in Provo-Orem, UT (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG39340               | Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
+| IHLCHG39340               | Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                  | 2020-02-01          | 2022-08-26        |
 | IRPD39340                 | Implicit Regional Price Deflator for Provo-Orem, UT (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT493934000000003A     | Unemployment Rate in Provo-Orem, UT (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT493934000000004      | Unemployed Persons in Provo-Orem, UT (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

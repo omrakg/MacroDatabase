@@ -14,7 +14,7 @@
 | Richland County, MT        |                89 |
 | Meagher County, MT         |                87 |
 | Treasure County, MT        |                85 |
-| Fallon County, MT          |                88 |
+| Fallon County, MT          |                 0 |
 | Mineral County, MT         |                89 |
 | Teton County, MT           |                89 |
 | Chouteau County, MT        |                89 |
@@ -31,7 +31,7 @@
 | Phillips County, MT        |                88 |
 | Musselshell County, MT     |                89 |
 | Lewis and Clark County, MT |               147 |
-| Yellowstone County, MT     |                 0 |
+| Yellowstone County, MT     |               147 |
 | Flathead County, MT        |               147 |
 | Park County, MT            |                90 |
 | Big Horn County, MT        |                88 |

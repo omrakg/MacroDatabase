@@ -1,18 +1,18 @@
 | id                    | title                                                                                              | observation_start   | observation_end   |
 |-----------------------|----------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS46520Q        | All-Transactions House Price Index for Urban Honolulu, HI (MSA)                                    | 1977-01-01          | 2022-04-01        |
-| ENUC465230010         | Total Quarterly Wages in Urban Honolulu, HI (MSA)                                                  | 2013-01-01          | 2021-10-01        |
-| ENUC465230010SA       | Total Quarterly Wages in Urban Honolulu, HI (MSA)                                                  | 2013-01-01          | 2021-10-01        |
-| ENUC465240010         | Average Weekly Wages for Employees in Total Covered Establishments in Honolulu, HI (MSA)           | 2013-01-01          | 2021-10-01        |
-| ENUC465240010SA       | Average Weekly Wages for Employees in Total Covered Establishments in Honolulu, HI (MSA)           | 2013-01-01          | 2021-10-01        |
-| ENUC465240110         | Average Weekly Wages for Employees in Federal Government Establishments in Honolulu, HI (MSA)      | 2013-01-01          | 2021-10-01        |
-| ENUC465240110SA       | Average Weekly Wages for Employees in Federal Government Establishments in Honolulu, HI (MSA)      | 2013-01-01          | 2021-10-01        |
-| ENUC465240210         | Average Weekly Wages for Employees in State Government Establishments in Honolulu, HI (MSA)        | 2013-01-01          | 2021-10-01        |
-| ENUC465240210SA       | Average Weekly Wages for Employees in State Government Establishments in Honolulu, HI (MSA)        | 2013-01-01          | 2021-10-01        |
-| ENUC465240310         | Average Weekly Wages for Employees in Local Government Establishments in Honolulu, HI (MSA)        | 2013-01-01          | 2021-10-01        |
-| ENUC465240310SA       | Average Weekly Wages for Employees in Local Government Establishments in Honolulu, HI (MSA)        | 2013-01-01          | 2021-10-01        |
-| ENUC465240510         | Average Weekly Wages for Employees in Private Establishments in Honolulu, HI (MSA)                 | 2013-01-01          | 2021-10-01        |
-| ENUC465240510SA       | Average Weekly Wages for Employees in Private Establishments in Honolulu, HI (MSA)                 | 2013-01-01          | 2021-10-01        |
+| ENUC465230010         | Total Quarterly Wages in Urban Honolulu, HI (MSA)                                                  | 2013-01-01          | 2022-01-01        |
+| ENUC465230010SA       | Total Quarterly Wages in Urban Honolulu, HI (MSA)                                                  | 2013-01-01          | 2022-01-01        |
+| ENUC465240010         | Average Weekly Wages for Employees in Total Covered Establishments in Honolulu, HI (MSA)           | 2013-01-01          | 2022-01-01        |
+| ENUC465240010SA       | Average Weekly Wages for Employees in Total Covered Establishments in Honolulu, HI (MSA)           | 2013-01-01          | 2022-01-01        |
+| ENUC465240110         | Average Weekly Wages for Employees in Federal Government Establishments in Honolulu, HI (MSA)      | 2013-01-01          | 2022-01-01        |
+| ENUC465240110SA       | Average Weekly Wages for Employees in Federal Government Establishments in Honolulu, HI (MSA)      | 2013-01-01          | 2022-01-01        |
+| ENUC465240210         | Average Weekly Wages for Employees in State Government Establishments in Honolulu, HI (MSA)        | 2013-01-01          | 2022-01-01        |
+| ENUC465240210SA       | Average Weekly Wages for Employees in State Government Establishments in Honolulu, HI (MSA)        | 2013-01-01          | 2022-01-01        |
+| ENUC465240310         | Average Weekly Wages for Employees in Local Government Establishments in Honolulu, HI (MSA)        | 2013-01-01          | 2022-01-01        |
+| ENUC465240310SA       | Average Weekly Wages for Employees in Local Government Establishments in Honolulu, HI (MSA)        | 2013-01-01          | 2022-01-01        |
+| ENUC465240510         | Average Weekly Wages for Employees in Private Establishments in Honolulu, HI (MSA)                 | 2013-01-01          | 2022-01-01        |
+| ENUC465240510SA       | Average Weekly Wages for Employees in Private Establishments in Honolulu, HI (MSA)                 | 2013-01-01          | 2022-01-01        |
 | HONO115BP1FH          | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Honolulu, HI (MSA) | 1988-01-01          | 2013-12-01        |
 | HONO115BPPRIV         | New Private Housing Units Authorized by Building Permits for Honolulu, HI (MSA)                    | 1988-01-01          | 2013-12-01        |
 | HONO115LF             | Civilian Labor Force in Urban Honolulu, HI (MSA)                                                   | 2000-01-01          | 2014-12-01        |

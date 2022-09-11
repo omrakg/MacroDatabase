@@ -238,7 +238,7 @@
 | Bermuda                                              |               143 |
 | Papua New Guinea                                     |               229 |
 | Yemen, Republic of                                   |               201 |
-| Benin                                                |               253 |
+| Benin                                                |                 0 |
 | Somalia                                              |                80 |
 | Bolivia, Plurinational State of                      |               239 |
 | Virgin Islands, British                              |               106 |

@@ -36,18 +36,18 @@
 | CHIC006UR                 | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | CHIC006URN                | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | DESCMSA17020              | Market Hotness: Demand Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC170230010             | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC170230010SA           | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC170240010             | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC170240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC170240110             | Average Weekly Wages for Employees in Federal Government Establishments in Chico, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC170240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chico, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC170240210             | Average Weekly Wages for Employees in State Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC170240210SA           | Average Weekly Wages for Employees in State Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC170240310             | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC170240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC170240510             | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC170240510SA           | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC170230010             | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC170230010SA           | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC170240010             | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC170240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC170240110             | Average Weekly Wages for Employees in Federal Government Establishments in Chico, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC170240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chico, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC170240210             | Average Weekly Wages for Employees in State Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC170240210SA           | Average Weekly Wages for Employees in State Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC170240310             | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC170240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC170240510             | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC170240510SA           | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA17020            | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA17020              | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA17020            | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

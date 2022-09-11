@@ -7,18 +7,18 @@
 | AVELISPRI34580            | Housing Inventory: Average Listing Price in Mount Vernon-Anacortes, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM34580          | Housing Inventory: Average Listing Price Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY34580          | Housing Inventory: Average Listing Price Year-Over-Year in Mount Vernon-Anacortes, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| ENUC345830010             | Total Quarterly Wages in Mount Vernon-Anacortes, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC345830010SA           | Total Quarterly Wages in Mount Vernon-Anacortes, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC345840010             | Average Weekly Wages for Employees in Total Covered Establishments in Mount Vernon-Anacortes, WA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC345840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mount Vernon-Anacortes, WA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC345840110             | Average Weekly Wages for Employees in Federal Government Establishments in Mount Vernon-Anacortes, WA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC345840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mount Vernon-Anacortes, WA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC345840210             | Average Weekly Wages for Employees in State Government Establishments in Mount Vernon-Anacortes, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC345840210SA           | Average Weekly Wages for Employees in State Government Establishments in Mount Vernon-Anacortes, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC345840310             | Average Weekly Wages for Employees in Local Government Establishments in Mount Vernon-Anacortes, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC345840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mount Vernon-Anacortes, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC345840510             | Average Weekly Wages for Employees in Private Establishments in Mount Vernon-Anacortes, WA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC345840510SA           | Average Weekly Wages for Employees in Private Establishments in Mount Vernon-Anacortes, WA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC345830010             | Total Quarterly Wages in Mount Vernon-Anacortes, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC345830010SA           | Total Quarterly Wages in Mount Vernon-Anacortes, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC345840010             | Average Weekly Wages for Employees in Total Covered Establishments in Mount Vernon-Anacortes, WA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC345840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mount Vernon-Anacortes, WA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC345840110             | Average Weekly Wages for Employees in Federal Government Establishments in Mount Vernon-Anacortes, WA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC345840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mount Vernon-Anacortes, WA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC345840210             | Average Weekly Wages for Employees in State Government Establishments in Mount Vernon-Anacortes, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC345840210SA           | Average Weekly Wages for Employees in State Government Establishments in Mount Vernon-Anacortes, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC345840310             | Average Weekly Wages for Employees in Local Government Establishments in Mount Vernon-Anacortes, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC345840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mount Vernon-Anacortes, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC345840510             | Average Weekly Wages for Employees in Private Establishments in Mount Vernon-Anacortes, WA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC345840510SA           | Average Weekly Wages for Employees in Private Establishments in Mount Vernon-Anacortes, WA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD34580                 | Implicit Regional Price Deflator for Mount Vernon-Anacortes, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT533458000000003A     | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT533458000000004      | Unemployed Persons in Mount Vernon-Anacortes, WA (MSA)                                                        | 1990-01-01          | 2022-07-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM39540          | Housing Inventory: Average Listing Price Month-Over-Month in Racine, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY39540          | Housing Inventory: Average Listing Price Year-Over-Year in Racine, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA39540              | Market Hotness: Demand Score in Racine, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC395430010             | Total Quarterly Wages in Racine, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC395430010SA           | Total Quarterly Wages in Racine, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC395440010             | Average Weekly Wages for Employees in Total Covered Establishments in Racine, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC395440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Racine, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC395440110             | Average Weekly Wages for Employees in Federal Government Establishments in Racine, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC395440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Racine, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC395440210             | Average Weekly Wages for Employees in State Government Establishments in Racine, WI (MSA)                   | 1991-01-01          | 2021-10-01        |
-| ENUC395440210SA           | Average Weekly Wages for Employees in State Government Establishments in Racine, WI (MSA)                   | 1991-01-01          | 2021-10-01        |
-| ENUC395440310             | Average Weekly Wages for Employees in Local Government Establishments in Racine, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC395440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Racine, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC395440510             | Average Weekly Wages for Employees in Private Establishments in Racine, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC395440510SA           | Average Weekly Wages for Employees in Private Establishments in Racine, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC395430010             | Total Quarterly Wages in Racine, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC395430010SA           | Total Quarterly Wages in Racine, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC395440010             | Average Weekly Wages for Employees in Total Covered Establishments in Racine, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC395440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Racine, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC395440110             | Average Weekly Wages for Employees in Federal Government Establishments in Racine, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC395440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Racine, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC395440210             | Average Weekly Wages for Employees in State Government Establishments in Racine, WI (MSA)                   | 1991-01-01          | 2022-01-01        |
+| ENUC395440210SA           | Average Weekly Wages for Employees in State Government Establishments in Racine, WI (MSA)                   | 1991-01-01          | 2022-01-01        |
+| ENUC395440310             | Average Weekly Wages for Employees in Local Government Establishments in Racine, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC395440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Racine, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC395440510             | Average Weekly Wages for Employees in Private Establishments in Racine, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC395440510SA           | Average Weekly Wages for Employees in Private Establishments in Racine, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA39540            | Market Hotness: Hotness Rank in Racine, WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA39540              | Market Hotness: Hotness Rank in Racine, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA39540            | Market Hotness: Hotness Rank in Racine, WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

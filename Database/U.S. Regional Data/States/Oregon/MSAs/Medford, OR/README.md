@@ -8,18 +8,18 @@
 | AVELISPRIMM32780          | Housing Inventory: Average Listing Price Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY32780          | Housing Inventory: Average Listing Price Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA32780              | Market Hotness: Demand Score in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC327830010             | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC327830010SA           | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC327840010             | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC327840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC327840110             | Average Weekly Wages for Employees in Federal Government Establishments in Medford, OR (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC327840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Medford, OR (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC327840210             | Average Weekly Wages for Employees in State Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC327840210SA           | Average Weekly Wages for Employees in State Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC327840310             | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC327840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC327840510             | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC327840510SA           | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC327830010             | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC327830010SA           | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC327840010             | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC327840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC327840110             | Average Weekly Wages for Employees in Federal Government Establishments in Medford, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC327840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Medford, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC327840210             | Average Weekly Wages for Employees in State Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC327840210SA           | Average Weekly Wages for Employees in State Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC327840310             | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC327840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC327840510             | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC327840510SA           | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA32780              | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

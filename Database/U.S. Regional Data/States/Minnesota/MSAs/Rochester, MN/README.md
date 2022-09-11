@@ -8,18 +8,18 @@
 | AVELISPRIMM40340          | Housing Inventory: Average Listing Price Month-Over-Month in Rochester, MN (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY40340          | Housing Inventory: Average Listing Price Year-Over-Year in Rochester, MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA40340              | Market Hotness: Demand Score in Rochester, MN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC403430010             | Total Quarterly Wages in Rochester, MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC403430010SA           | Total Quarterly Wages in Rochester, MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC403440010             | Average Weekly Wages for Employees in Total Covered Establishments in Rochester, MN (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC403440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rochester, MN (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC403440110             | Average Weekly Wages for Employees in Federal Government Establishments in Rochester, MN (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC403440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rochester, MN (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC403440210             | Average Weekly Wages for Employees in State Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC403440210SA           | Average Weekly Wages for Employees in State Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC403440310             | Average Weekly Wages for Employees in Local Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC403440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC403440510             | Average Weekly Wages for Employees in Private Establishments in Rochester, MN (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC403440510SA           | Average Weekly Wages for Employees in Private Establishments in Rochester, MN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC403430010             | Total Quarterly Wages in Rochester, MN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC403430010SA           | Total Quarterly Wages in Rochester, MN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC403440010             | Average Weekly Wages for Employees in Total Covered Establishments in Rochester, MN (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC403440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rochester, MN (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC403440110             | Average Weekly Wages for Employees in Federal Government Establishments in Rochester, MN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC403440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rochester, MN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC403440210             | Average Weekly Wages for Employees in State Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC403440210SA           | Average Weekly Wages for Employees in State Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC403440310             | Average Weekly Wages for Employees in Local Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC403440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rochester, MN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC403440510             | Average Weekly Wages for Employees in Private Establishments in Rochester, MN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC403440510SA           | Average Weekly Wages for Employees in Private Establishments in Rochester, MN (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA40340            | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA40340              | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA40340            | Market Hotness: Hotness Rank in Rochester, MN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

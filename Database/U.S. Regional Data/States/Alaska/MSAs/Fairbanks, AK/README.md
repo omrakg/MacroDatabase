@@ -7,18 +7,18 @@
 | AVELISPRI21820            | Housing Inventory: Average Listing Price in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM21820          | Housing Inventory: Average Listing Price Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY21820          | Housing Inventory: Average Listing Price Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| ENUC218230010             | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC218230010SA           | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC218240010             | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC218240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC218240110             | Average Weekly Wages for Employees in Federal Government Establishments in Fairbanks, AK (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC218240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fairbanks, AK (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC218240210             | Average Weekly Wages for Employees in State Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC218240210SA           | Average Weekly Wages for Employees in State Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC218240310             | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC218240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC218240510             | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC218240510SA           | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC218230010             | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC218230010SA           | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC218240010             | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC218240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC218240110             | Average Weekly Wages for Employees in Federal Government Establishments in Fairbanks, AK (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC218240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fairbanks, AK (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC218240210             | Average Weekly Wages for Employees in State Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC218240210SA           | Average Weekly Wages for Employees in State Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC218240310             | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC218240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC218240510             | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC218240510SA           | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2022-01-01        |
 | FAIR802BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fairbanks, AK (MSA)            | 2004-01-01          | 2022-07-01        |
 | FAIR802BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fairbanks, AK (MSA)            | 2004-01-01          | 2022-07-01        |
 | FAIR802BPPRIV             | New Private Housing Units Authorized by Building Permits for Fairbanks, AK (MSA)                               | 2004-01-01          | 2022-07-01        |

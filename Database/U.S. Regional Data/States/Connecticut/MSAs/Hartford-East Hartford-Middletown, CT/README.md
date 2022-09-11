@@ -8,24 +8,24 @@
 | AVELISPRIMM25540          | Housing Inventory: Average Listing Price Month-Over-Month in Hartford-West Hartford-East Hartford, CT (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY25540          | Housing Inventory: Average Listing Price Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA25540              | Market Hotness: Demand Score in Hartford-West Hartford-East Hartford, CT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC255430010             | Total Quarterly Wages in Hartford-West Hartford-East Hartford, CT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC255430010SA           | Total Quarterly Wages in Hartford-West Hartford-East Hartford, CT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC255440010             | Average Weekly Wages for Employees in Total Covered Establishments in Hartford-West Hartford-East Hartford, CT (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC255440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hartford-West Hartford-East Hartford, CT (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC255440110             | Average Weekly Wages for Employees in Federal Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC255440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC255430010             | Total Quarterly Wages in Hartford-West Hartford-East Hartford, CT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC255430010SA           | Total Quarterly Wages in Hartford-West Hartford-East Hartford, CT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC255440010             | Average Weekly Wages for Employees in Total Covered Establishments in Hartford-West Hartford-East Hartford, CT (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC255440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hartford-West Hartford-East Hartford, CT (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC255440110             | Average Weekly Wages for Employees in Federal Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC255440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)   | 1990-01-01          | 2022-01-01        |
 | ENUC255440210             | Average Weekly Wages for Employees in State Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)     | 1990-01-01          | 2021-07-01        |
 | ENUC255440210SA           | Average Weekly Wages for Employees in State Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)     | 1990-01-01          | 2021-07-01        |
 | ENUC255440310             | Average Weekly Wages for Employees in Local Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)     | 1990-01-01          | 2021-07-01        |
 | ENUC255440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hartford-West Hartford-East Hartford, CT (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC255440510             | Average Weekly Wages for Employees in Private Establishments in Hartford-West Hartford-East Hartford, CT (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC255440510SA           | Average Weekly Wages for Employees in Private Establishments in Hartford-West Hartford-East Hartford, CT (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC255440510             | Average Weekly Wages for Employees in Private Establishments in Hartford-West Hartford-East Hartford, CT (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC255440510SA           | Average Weekly Wages for Employees in Private Establishments in Hartford-West Hartford-East Hartford, CT (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA25540            | Market Hotness: Hotness Rank in Hartford-West Hartford-East Hartford, CT (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA25540              | Market Hotness: Hotness Rank in Hartford-West Hartford-East Hartford, CT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA25540            | Market Hotness: Hotness Rank in Hartford-West Hartford-East Hartford, CT (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HOSCMSA25540              | Market Hotness: Hotness Score in Hartford-West Hartford-East Hartford, CT (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | HTFPOP                    | Resident Population in Hartford-West Hartford-East Hartford, CT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| IHLCHG25540               | Job Postings on Indeed in Hartford-East Hartford-Middletown, CT (MSA)                                                       | 2020-02-01          | 2022-07-29        |
+| IHLCHG25540               | Job Postings on Indeed in Hartford-East Hartford-Middletown, CT (MSA)                                                       | 2020-02-01          | 2022-08-26        |
 | IRPD25540                 | Implicit Regional Price Deflator for Hartford-West Hartford-East Hartford, CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA25540          | Market Hotness: Listing Views per Property in Hartford-West Hartford-East Hartford, CT (CBSA)                               | 2018-08-01          | 2022-08-01        |
 | LDPEPRVSUSMSA25540        | Market Hotness: Listing Views per Property Versus the United States in Hartford-West Hartford-East Hartford, CT (CBSA)      | 2017-08-01          | 2022-08-01        |

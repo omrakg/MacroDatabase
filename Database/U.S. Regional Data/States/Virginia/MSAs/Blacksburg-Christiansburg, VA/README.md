@@ -18,18 +18,18 @@
 | BLAC951UR                 | Unemployment Rate in Blacksburg-Christiansburg-Radford, VA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | BLAC951URN                | Unemployment Rate in Blacksburg-Christiansburg-Radford, VA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | DESCMSA13980              | Market Hotness: Demand Score in Blacksburg-Christiansburg-Radford, VA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC139830010             | Total Quarterly Wages in Blacksburg-Christiansburg-Radford, VA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC139830010SA           | Total Quarterly Wages in Blacksburg-Christiansburg-Radford, VA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC139840010             | Average Weekly Wages for Employees in Total Covered Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC139840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC139840110             | Average Weekly Wages for Employees in Federal Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC139840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC139840210             | Average Weekly Wages for Employees in State Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC139840210SA           | Average Weekly Wages for Employees in State Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC139840310             | Average Weekly Wages for Employees in Local Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC139840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC139840510             | Average Weekly Wages for Employees in Private Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC139840510SA           | Average Weekly Wages for Employees in Private Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC139830010             | Total Quarterly Wages in Blacksburg-Christiansburg-Radford, VA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC139830010SA           | Total Quarterly Wages in Blacksburg-Christiansburg-Radford, VA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC139840010             | Average Weekly Wages for Employees in Total Covered Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC139840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC139840110             | Average Weekly Wages for Employees in Federal Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC139840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC139840210             | Average Weekly Wages for Employees in State Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC139840210SA           | Average Weekly Wages for Employees in State Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC139840310             | Average Weekly Wages for Employees in Local Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC139840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC139840510             | Average Weekly Wages for Employees in Private Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC139840510SA           | Average Weekly Wages for Employees in Private Establishments in Blacksburg-Christiansburg-Radford, VA (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA13980            | Market Hotness: Hotness Rank in Blacksburg-Christiansburg-Radford, VA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA13980              | Market Hotness: Hotness Rank in Blacksburg-Christiansburg-Radford, VA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA13980            | Market Hotness: Hotness Rank in Blacksburg-Christiansburg-Radford, VA (CBSA)                                             | 2018-08-01          | 2022-08-01        |

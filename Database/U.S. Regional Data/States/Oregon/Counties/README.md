@@ -14,7 +14,7 @@
 | Marion County, OR     |               147 |
 | Multnomah County, OR  |               147 |
 | Baker County, OR      |                90 |
-| Hood River County, OR |                90 |
+| Hood River County, OR |                 0 |
 | Benton County, OR     |               147 |
 | Coos County, OR       |               146 |
 | Deschutes County, OR  |               147 |

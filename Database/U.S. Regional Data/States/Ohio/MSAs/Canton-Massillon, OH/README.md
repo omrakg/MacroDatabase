@@ -36,18 +36,18 @@
 | CANT939UR                 | Unemployment Rate in Canton-Massillon, OH (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | CANT939URN                | Unemployment Rate in Canton-Massillon, OH (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | DESCMSA15940              | Market Hotness: Demand Score in Canton-Massillon, OH (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC159430010             | Total Quarterly Wages in Canton-Massillon, OH (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC159430010SA           | Total Quarterly Wages in Canton-Massillon, OH (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC159440010             | Average Weekly Wages for Employees in Total Covered Establishments in Canton-Massillon, OH (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC159440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Canton-Massillon, OH (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC159440110             | Average Weekly Wages for Employees in Federal Government Establishments in Canton-Massillon, OH (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC159440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Canton-Massillon, OH (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC159440210             | Average Weekly Wages for Employees in State Government Establishments in Canton-Massillon, OH (MSA)                   | 1990-01-01          | 2021-04-01        |
-| ENUC159440210SA           | Average Weekly Wages for Employees in State Government Establishments in Canton-Massillon, OH (MSA)                   | 1990-01-01          | 2021-04-01        |
-| ENUC159440310             | Average Weekly Wages for Employees in Local Government Establishments in Canton-Massillon, OH (MSA)                   | 1990-01-01          | 2021-04-01        |
-| ENUC159440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Canton-Massillon, OH (MSA)                   | 1990-01-01          | 2021-04-01        |
-| ENUC159440510             | Average Weekly Wages for Employees in Private Establishments in Canton-Massillon, OH (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC159440510SA           | Average Weekly Wages for Employees in Private Establishments in Canton-Massillon, OH (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC159430010             | Total Quarterly Wages in Canton-Massillon, OH (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC159430010SA           | Total Quarterly Wages in Canton-Massillon, OH (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC159440010             | Average Weekly Wages for Employees in Total Covered Establishments in Canton-Massillon, OH (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC159440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Canton-Massillon, OH (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC159440110             | Average Weekly Wages for Employees in Federal Government Establishments in Canton-Massillon, OH (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC159440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Canton-Massillon, OH (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC159440210             | Average Weekly Wages for Employees in State Government Establishments in Canton-Massillon, OH (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC159440210SA           | Average Weekly Wages for Employees in State Government Establishments in Canton-Massillon, OH (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC159440310             | Average Weekly Wages for Employees in Local Government Establishments in Canton-Massillon, OH (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC159440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Canton-Massillon, OH (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC159440510             | Average Weekly Wages for Employees in Private Establishments in Canton-Massillon, OH (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC159440510SA           | Average Weekly Wages for Employees in Private Establishments in Canton-Massillon, OH (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA15940            | Market Hotness: Hotness Rank in Canton-Massillon, OH (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA15940              | Market Hotness: Hotness Rank in Canton-Massillon, OH (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA15940            | Market Hotness: Hotness Rank in Canton-Massillon, OH (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

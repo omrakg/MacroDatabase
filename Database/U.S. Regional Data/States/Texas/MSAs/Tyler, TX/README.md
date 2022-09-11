@@ -8,18 +8,18 @@
 | AVELISPRIMM46340          | Housing Inventory: Average Listing Price Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY46340          | Housing Inventory: Average Listing Price Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA46340              | Market Hotness: Demand Score in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC463430010             | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC463430010SA           | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC463440010             | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC463440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC463440110             | Average Weekly Wages for Employees in Federal Government Establishments in Tyler, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC463440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Tyler, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC463440210             | Average Weekly Wages for Employees in State Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC463440210SA           | Average Weekly Wages for Employees in State Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC463440310             | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC463440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC463440510             | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC463440510SA           | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC463430010             | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC463430010SA           | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC463440010             | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC463440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC463440110             | Average Weekly Wages for Employees in Federal Government Establishments in Tyler, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC463440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Tyler, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC463440210             | Average Weekly Wages for Employees in State Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC463440210SA           | Average Weekly Wages for Employees in State Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC463440310             | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC463440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC463440510             | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC463440510SA           | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA46340            | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA46340              | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA46340            | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

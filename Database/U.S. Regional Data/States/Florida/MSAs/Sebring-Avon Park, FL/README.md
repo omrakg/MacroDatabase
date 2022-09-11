@@ -1,18 +1,18 @@
 | id                     | title                                                                                        | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS42700Q         | All-Transactions House Price Index for Sebring-Avon Park, FL (MSA)                           | 1993-10-01          | 2022-04-01        |
-| ENUC427030010          | Total Quarterly Wages in Sebring, FL (MSA)                                                   | 2013-01-01          | 2021-10-01        |
-| ENUC427030010SA        | Total Quarterly Wages in Sebring, FL (MSA)                                                   | 2013-01-01          | 2021-10-01        |
-| ENUC427040010          | Average Weekly Wages for Employees in Total Covered Establishments in Sebring, FL (MSA)      | 2013-01-01          | 2021-10-01        |
-| ENUC427040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Sebring, FL (MSA)      | 2013-01-01          | 2021-10-01        |
-| ENUC427040110          | Average Weekly Wages for Employees in Federal Government Establishments in Sebring, FL (MSA) | 2013-01-01          | 2021-10-01        |
-| ENUC427040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Sebring, FL (MSA) | 2013-01-01          | 2021-10-01        |
-| ENUC427040210          | Average Weekly Wages for Employees in State Government Establishments in Sebring, FL (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC427040210SA        | Average Weekly Wages for Employees in State Government Establishments in Sebring, FL (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC427040310          | Average Weekly Wages for Employees in Local Government Establishments in Sebring, FL (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC427040310SA        | Average Weekly Wages for Employees in Local Government Establishments in Sebring, FL (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC427040510          | Average Weekly Wages for Employees in Private Establishments in Sebring, FL (MSA)            | 2013-01-01          | 2021-10-01        |
-| ENUC427040510SA        | Average Weekly Wages for Employees in Private Establishments in Sebring, FL (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC427030010          | Total Quarterly Wages in Sebring, FL (MSA)                                                   | 2013-01-01          | 2022-01-01        |
+| ENUC427030010SA        | Total Quarterly Wages in Sebring, FL (MSA)                                                   | 2013-01-01          | 2022-01-01        |
+| ENUC427040010          | Average Weekly Wages for Employees in Total Covered Establishments in Sebring, FL (MSA)      | 2013-01-01          | 2022-01-01        |
+| ENUC427040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Sebring, FL (MSA)      | 2013-01-01          | 2022-01-01        |
+| ENUC427040110          | Average Weekly Wages for Employees in Federal Government Establishments in Sebring, FL (MSA) | 2013-01-01          | 2022-01-01        |
+| ENUC427040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Sebring, FL (MSA) | 2013-01-01          | 2022-01-01        |
+| ENUC427040210          | Average Weekly Wages for Employees in State Government Establishments in Sebring, FL (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC427040210SA        | Average Weekly Wages for Employees in State Government Establishments in Sebring, FL (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC427040310          | Average Weekly Wages for Employees in Local Government Establishments in Sebring, FL (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC427040310SA        | Average Weekly Wages for Employees in Local Government Establishments in Sebring, FL (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC427040510          | Average Weekly Wages for Employees in Private Establishments in Sebring, FL (MSA)            | 2013-01-01          | 2022-01-01        |
+| ENUC427040510SA        | Average Weekly Wages for Employees in Private Establishments in Sebring, FL (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD42700              | Implicit Regional Price Deflator for Sebring, FL (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT124270000000003   | Unemployment Rate in Sebring, FL (MSA)                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT124270000000003A  | Unemployment Rate in Sebring, FL (MSA)                                                       | 1990-01-01          | 2021-01-01        |

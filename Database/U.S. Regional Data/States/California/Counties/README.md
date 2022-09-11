@@ -15,7 +15,7 @@
 | Santa Barbara County, CA        |               147 |
 | Monterey County, CA             |               147 |
 | San Bernardino County, CA       |               146 |
-| Yuba County, CA                 |                 0 |
+| Yuba County, CA                 |               147 |
 | Mendocino County, CA            |               147 |
 | Tehama County, CA               |               146 |
 | San Luis Obispo County, CA      |               146 |
@@ -37,7 +37,7 @@
 | Lake County, CA                 |               147 |
 | Santa Cruz County, CA           |               147 |
 | Kern County, CA                 |               147 |
-| Modoc County, CA                |                90 |
+| Modoc County, CA                |                 0 |
 | Yolo County, CA                 |               146 |
 | Nevada County, CA               |               147 |
 | Calaveras County, CA            |                90 |

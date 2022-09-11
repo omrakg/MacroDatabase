@@ -70,7 +70,7 @@
 | DDSI07KGA156NWDB    | Provisions to Non-Performing Loans for Kyrgyzstan                                                                                              | 2006-01-01          | 2015-01-01        |
 | DEBTTLKGA188A       | Central government debt, total (% of GDP) for the Kyrgyz Republic                                                                              | 2014-01-01          | 2016-01-01        |
 | DEKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Delaware                                                                                     | 2002-01-01          | 2016-01-01        |
-| EXP4635             | U.S. Exports of Goods by F.A.S. Basis to Kyrgyzstan                                                                                            | 1992-01-01          | 2022-06-01        |
+| EXP4635             | U.S. Exports of Goods by F.A.S. Basis to Kyrgyzstan                                                                                            | 1992-01-01          | 2022-07-01        |
 | FLKGZA052SCEN       | Value of Exports to Kyrgyzstan from Florida                                                                                                    | 1997-01-01          | 2017-01-01        |
 | FLKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Florida                                                                                      | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGKGZ      | Inflation, consumer prices for the Kyrgyz Republic                                                                                             | 1996-01-01          | 2021-01-01        |
@@ -82,7 +82,7 @@
 | IDKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Idaho                                                                                        | 1997-01-01          | 2016-01-01        |
 | ILKGZA052SCEN       | Value of Exports to Kyrgyzstan from Illinois                                                                                                   | 2004-01-01          | 2017-01-01        |
 | ILKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Illinois                                                                                     | 1997-01-01          | 2017-01-01        |
-| IMP4635             | U.S. Imports of Goods by Customs Basis from Kyrgyzstan                                                                                         | 1992-01-01          | 2022-06-01        |
+| IMP4635             | U.S. Imports of Goods by Customs Basis from Kyrgyzstan                                                                                         | 1992-01-01          | 2022-07-01        |
 | INKGZA052SCEN       | Value of Exports to Kyrgyzstan from Indiana                                                                                                    | 2002-01-01          | 2009-01-01        |
 | INKGZA475SCEN       | Number of Identified Exporters to Kyrgyzstan from Indiana                                                                                      | 2002-01-01          | 2014-01-01        |
 | ITNETUSERP2KGZ      | Internet users for the Kyrgyz Republic                                                                                                         | 1990-01-01          | 2019-01-01        |

@@ -24,18 +24,18 @@
 | AVELISPRIMM12020          | Housing Inventory: Average Listing Price Month-Over-Month in Athens-Clarke County, GA (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY12020          | Housing Inventory: Average Listing Price Year-Over-Year in Athens-Clarke County, GA (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA12020              | Market Hotness: Demand Score in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC120230010             | Total Quarterly Wages in Athens-Clarke County, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC120230010SA           | Total Quarterly Wages in Athens-Clarke County, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC120240010             | Average Weekly Wages for Employees in Total Covered Establishments in Athens-Clarke County, GA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC120240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Athens-Clarke County, GA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC120240110             | Average Weekly Wages for Employees in Federal Government Establishments in Athens-Clarke County, GA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC120240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Athens-Clarke County, GA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC120240210             | Average Weekly Wages for Employees in State Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC120240210SA           | Average Weekly Wages for Employees in State Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC120240310             | Average Weekly Wages for Employees in Local Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC120240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC120240510             | Average Weekly Wages for Employees in Private Establishments in Athens-Clarke County, GA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC120240510SA           | Average Weekly Wages for Employees in Private Establishments in Athens-Clarke County, GA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC120230010             | Total Quarterly Wages in Athens-Clarke County, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC120230010SA           | Total Quarterly Wages in Athens-Clarke County, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC120240010             | Average Weekly Wages for Employees in Total Covered Establishments in Athens-Clarke County, GA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC120240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Athens-Clarke County, GA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC120240110             | Average Weekly Wages for Employees in Federal Government Establishments in Athens-Clarke County, GA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC120240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Athens-Clarke County, GA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC120240210             | Average Weekly Wages for Employees in State Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC120240210SA           | Average Weekly Wages for Employees in State Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC120240310             | Average Weekly Wages for Employees in Local Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC120240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Athens-Clarke County, GA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC120240510             | Average Weekly Wages for Employees in Private Establishments in Athens-Clarke County, GA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC120240510SA           | Average Weekly Wages for Employees in Private Establishments in Athens-Clarke County, GA (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA12020            | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA12020              | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA12020            | Market Hotness: Hotness Rank in Athens-Clarke County, GA (CBSA)                                             | 2018-08-01          | 2022-08-01        |

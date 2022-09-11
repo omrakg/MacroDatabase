@@ -7,18 +7,18 @@
 | AVELISPRI31020            | Housing Inventory: Average Listing Price in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM31020          | Housing Inventory: Average Listing Price Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY31020          | Housing Inventory: Average Listing Price Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| ENUC310230010             | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC310230010SA           | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC310240010             | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC310240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC310240110             | Average Weekly Wages for Employees in Federal Government Establishments in Longview, WA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC310240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Longview, WA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC310240210             | Average Weekly Wages for Employees in State Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC310240210SA           | Average Weekly Wages for Employees in State Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC310240310             | Average Weekly Wages for Employees in Local Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC310240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC310240510             | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC310240510SA           | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC310230010             | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC310230010SA           | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC310240010             | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC310240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC310240110             | Average Weekly Wages for Employees in Federal Government Establishments in Longview, WA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC310240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Longview, WA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC310240210             | Average Weekly Wages for Employees in State Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC310240210SA           | Average Weekly Wages for Employees in State Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC310240310             | Average Weekly Wages for Employees in Local Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC310240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC310240510             | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC310240510SA           | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD31020                 | Implicit Regional Price Deflator for Longview, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT533102000000003A     | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT533102000000004      | Unemployed Persons in Longview, WA (MSA)                                                        | 1990-01-01          | 2022-07-01        |

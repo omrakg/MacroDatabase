@@ -35,18 +35,18 @@
 | COLU018TRADN              | All Employees: Trade, Transportation, and Utilities in Columbus, IN (MSA)                       | 1990-01-01          | 2022-07-01        |
 | COLU018UR                 | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | COLU018URN                | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| ENUC180230010             | Total Quarterly Wages in Columbus, IN (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC180230010SA           | Total Quarterly Wages in Columbus, IN (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC180240010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, IN (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC180240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, IN (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC180240110             | Average Weekly Wages for Employees in Federal Government Establishments in Columbus, IN (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC180240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Columbus, IN (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC180240210             | Average Weekly Wages for Employees in State Government Establishments in Columbus, IN (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC180240210SA           | Average Weekly Wages for Employees in State Government Establishments in Columbus, IN (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC180240310             | Average Weekly Wages for Employees in Local Government Establishments in Columbus, IN (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC180240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Columbus, IN (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC180240510             | Average Weekly Wages for Employees in Private Establishments in Columbus, IN (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC180240510SA           | Average Weekly Wages for Employees in Private Establishments in Columbus, IN (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC180230010             | Total Quarterly Wages in Columbus, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC180230010SA           | Total Quarterly Wages in Columbus, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC180240010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, IN (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC180240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Columbus, IN (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC180240110             | Average Weekly Wages for Employees in Federal Government Establishments in Columbus, IN (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC180240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Columbus, IN (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC180240210             | Average Weekly Wages for Employees in State Government Establishments in Columbus, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC180240210SA           | Average Weekly Wages for Employees in State Government Establishments in Columbus, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC180240310             | Average Weekly Wages for Employees in Local Government Establishments in Columbus, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC180240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Columbus, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC180240510             | Average Weekly Wages for Employees in Private Establishments in Columbus, IN (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC180240510SA           | Average Weekly Wages for Employees in Private Establishments in Columbus, IN (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD18020                 | Implicit Regional Price Deflator for Columbus, IN (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT181802000000003A     | Unemployment Rate in Columbus, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT181802000000004      | Unemployed Persons in Columbus, IN (MSA)                                                        | 1990-01-01          | 2022-07-01        |

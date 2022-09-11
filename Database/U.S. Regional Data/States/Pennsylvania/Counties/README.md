@@ -16,7 +16,7 @@
 | Washington County, PA          |               145 |
 | Venango County, PA             |               145 |
 | Delaware County, PA            |               104 |
-| Chester County, PA             |               146 |
+| Chester County, PA             |                 0 |
 | Sullivan County, PA            |                88 |
 | Somerset County, PA            |               144 |
 | Lackawanna County, PA          |               146 |
@@ -32,7 +32,7 @@
 | Crawford County, PA            |               146 |
 | McKean County, PA              |                87 |
 | Luzerne County, PA             |               146 |
-| Erie County, PA                |                 0 |
+| Erie County, PA                |               147 |
 | Cambria County, PA             |               146 |
 | Wayne County, PA               |                90 |
 | Susquehanna County, PA         |                89 |

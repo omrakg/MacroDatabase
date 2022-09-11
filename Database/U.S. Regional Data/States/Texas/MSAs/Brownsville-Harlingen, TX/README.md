@@ -92,18 +92,18 @@
 | BROW148URN                | Unemployment Rate in Brownsville-Harlingen, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | BVLPOP                    | Resident Population in Brownsville-Harlingen, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA15180              | Market Hotness: Demand Score in Brownsville-Harlingen, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC151830010             | Total Quarterly Wages in Brownsville-Harlingen, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC151830010SA           | Total Quarterly Wages in Brownsville-Harlingen, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC151840010             | Average Weekly Wages for Employees in Total Covered Establishments in Brownsville-Harlingen, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC151840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Brownsville-Harlingen, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC151840110             | Average Weekly Wages for Employees in Federal Government Establishments in Brownsville-Harlingen, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC151840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Brownsville-Harlingen, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC151840210             | Average Weekly Wages for Employees in State Government Establishments in Brownsville-Harlingen, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC151840210SA           | Average Weekly Wages for Employees in State Government Establishments in Brownsville-Harlingen, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC151840310             | Average Weekly Wages for Employees in Local Government Establishments in Brownsville-Harlingen, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC151840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Brownsville-Harlingen, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC151840510             | Average Weekly Wages for Employees in Private Establishments in Brownsville-Harlingen, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC151840510SA           | Average Weekly Wages for Employees in Private Establishments in Brownsville-Harlingen, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC151830010             | Total Quarterly Wages in Brownsville-Harlingen, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC151830010SA           | Total Quarterly Wages in Brownsville-Harlingen, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC151840010             | Average Weekly Wages for Employees in Total Covered Establishments in Brownsville-Harlingen, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC151840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Brownsville-Harlingen, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC151840110             | Average Weekly Wages for Employees in Federal Government Establishments in Brownsville-Harlingen, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC151840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Brownsville-Harlingen, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC151840210             | Average Weekly Wages for Employees in State Government Establishments in Brownsville-Harlingen, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC151840210SA           | Average Weekly Wages for Employees in State Government Establishments in Brownsville-Harlingen, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC151840310             | Average Weekly Wages for Employees in Local Government Establishments in Brownsville-Harlingen, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC151840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Brownsville-Harlingen, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC151840510             | Average Weekly Wages for Employees in Private Establishments in Brownsville-Harlingen, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC151840510SA           | Average Weekly Wages for Employees in Private Establishments in Brownsville-Harlingen, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA15180            | Market Hotness: Hotness Rank in Brownsville-Harlingen, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA15180              | Market Hotness: Hotness Rank in Brownsville-Harlingen, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA15180            | Market Hotness: Hotness Rank in Brownsville-Harlingen, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM40580          | Housing Inventory: Average Listing Price Month-Over-Month in Rocky Mount, NC (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY40580          | Housing Inventory: Average Listing Price Year-Over-Year in Rocky Mount, NC (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA40580              | Market Hotness: Demand Score in Rocky Mount, NC (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC405830010             | Total Quarterly Wages in Rocky Mount, NC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC405830010SA           | Total Quarterly Wages in Rocky Mount, NC (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC405840010             | Average Weekly Wages for Employees in Total Covered Establishments in Rocky Mount, NC (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC405840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rocky Mount, NC (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC405840110             | Average Weekly Wages for Employees in Federal Government Establishments in Rocky Mount, NC (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC405840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rocky Mount, NC (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC405840210             | Average Weekly Wages for Employees in State Government Establishments in Rocky Mount, NC (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC405840210SA           | Average Weekly Wages for Employees in State Government Establishments in Rocky Mount, NC (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC405840310             | Average Weekly Wages for Employees in Local Government Establishments in Rocky Mount, NC (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC405840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rocky Mount, NC (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC405840510             | Average Weekly Wages for Employees in Private Establishments in Rocky Mount, NC (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC405840510SA           | Average Weekly Wages for Employees in Private Establishments in Rocky Mount, NC (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC405830010             | Total Quarterly Wages in Rocky Mount, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC405830010SA           | Total Quarterly Wages in Rocky Mount, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC405840010             | Average Weekly Wages for Employees in Total Covered Establishments in Rocky Mount, NC (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC405840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rocky Mount, NC (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC405840110             | Average Weekly Wages for Employees in Federal Government Establishments in Rocky Mount, NC (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC405840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rocky Mount, NC (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC405840210             | Average Weekly Wages for Employees in State Government Establishments in Rocky Mount, NC (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC405840210SA           | Average Weekly Wages for Employees in State Government Establishments in Rocky Mount, NC (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC405840310             | Average Weekly Wages for Employees in Local Government Establishments in Rocky Mount, NC (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC405840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rocky Mount, NC (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC405840510             | Average Weekly Wages for Employees in Private Establishments in Rocky Mount, NC (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC405840510SA           | Average Weekly Wages for Employees in Private Establishments in Rocky Mount, NC (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA40580            | Market Hotness: Hotness Rank in Rocky Mount, NC (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA40580              | Market Hotness: Hotness Rank in Rocky Mount, NC (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA40580            | Market Hotness: Hotness Rank in Rocky Mount, NC (CBSA)                                             | 2018-08-01          | 2022-08-01        |

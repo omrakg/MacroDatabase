@@ -8,18 +8,18 @@
 | AVELISPRIMM45820          | Housing Inventory: Average Listing Price Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY45820          | Housing Inventory: Average Listing Price Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA45820              | Market Hotness: Demand Score in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC458230010             | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC458230010SA           | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC458240010             | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC458240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC458240110             | Average Weekly Wages for Employees in Federal Government Establishments in Topeka, KS (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC458240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Topeka, KS (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC458240210             | Average Weekly Wages for Employees in State Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC458240210SA           | Average Weekly Wages for Employees in State Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC458240310             | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC458240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC458240510             | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC458240510SA           | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC458230010             | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC458230010SA           | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC458240010             | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC458240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC458240110             | Average Weekly Wages for Employees in Federal Government Establishments in Topeka, KS (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC458240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Topeka, KS (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC458240210             | Average Weekly Wages for Employees in State Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC458240210SA           | Average Weekly Wages for Employees in State Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC458240310             | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC458240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC458240510             | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC458240510SA           | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA45820              | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

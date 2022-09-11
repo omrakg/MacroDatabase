@@ -22,7 +22,7 @@
 | Kandiyohi County, MN         |                90 |
 | Clearwater County, MN        |                89 |
 | Pine County, MN              |                90 |
-| Washington County, MN        |               147 |
+| Washington County, MN        |                 0 |
 | Chippewa County, MN          |                90 |
 | Mower County, MN             |                90 |
 | Carlton County, MN           |                90 |
@@ -56,7 +56,7 @@
 | McLeod County, MN            |                90 |
 | Grant County, MN             |                89 |
 | Cottonwood County, MN        |                89 |
-| Roseau County, MN            |                 0 |
+| Roseau County, MN            |                90 |
 | Ramsey County, MN            |               147 |
 | Pope County, MN              |                90 |
 | Nobles County, MN            |                89 |
@@ -82,7 +82,7 @@
 | Martin County, MN            |                90 |
 | Yellow Medicine County, MN   |                89 |
 | Stearns County, MN           |               147 |
-| Pipestone County, MN         |                90 |
+| Pipestone County, MN         |                 0 |
 | Cass County, MN              |                90 |
 | Nicollet County, MN          |                90 |
 | Hubbard County, MN           |                90 |

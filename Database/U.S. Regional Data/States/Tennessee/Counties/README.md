@@ -20,7 +20,7 @@
 | Claiborne County, TN  |                89 |
 | Bedford County, TN    |                90 |
 | Blount County, TN     |               147 |
-| Cocke County, TN      |                 0 |
+| Cocke County, TN      |                90 |
 | Sullivan County, TN   |               147 |
 | Greene County, TN     |               147 |
 | Jackson County, TN    |                90 |
@@ -32,7 +32,7 @@
 | De Kalb County, TN    |                90 |
 | Grainger County, TN   |                88 |
 | Macon County, TN      |                89 |
-| Hickman County, TN    |                90 |
+| Hickman County, TN    |                 0 |
 | Davidson County, TN   |               146 |
 | Gibson County, TN     |                90 |
 | Wilson County, TN     |               147 |
@@ -80,7 +80,7 @@
 | Smith County, TN      |                90 |
 | Wayne County, TN      |                89 |
 | Henry County, TN      |                89 |
-| Bradley County, TN    |                 0 |
+| Bradley County, TN    |               147 |
 | Franklin County, TN   |                90 |
 | Trousdale County, TN  |                90 |
 | Polk County, TN       |                89 |
@@ -92,6 +92,6 @@
 | Carter County, TN     |               146 |
 | Lawrence County, TN   |                89 |
 | Stewart County, TN    |                90 |
-| Hardin County, TN     |                89 |
+| Hardin County, TN     |                 0 |
 | Lauderdale County, TN |                90 |
 | Rhea County, TN       |                90 |

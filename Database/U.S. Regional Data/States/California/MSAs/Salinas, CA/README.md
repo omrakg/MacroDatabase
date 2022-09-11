@@ -8,18 +8,18 @@
 | AVELISPRIMM41500          | Housing Inventory: Average Listing Price Month-Over-Month in Salinas, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY41500          | Housing Inventory: Average Listing Price Year-Over-Year in Salinas, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA41500              | Market Hotness: Demand Score in Salinas, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC415030010             | Total Quarterly Wages in Salinas, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC415030010SA           | Total Quarterly Wages in Salinas, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC415040010             | Average Weekly Wages for Employees in Total Covered Establishments in Salinas, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC415040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salinas, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC415040110             | Average Weekly Wages for Employees in Federal Government Establishments in Salinas, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC415040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salinas, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC415040210             | Average Weekly Wages for Employees in State Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC415040210SA           | Average Weekly Wages for Employees in State Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC415040310             | Average Weekly Wages for Employees in Local Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC415040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC415040510             | Average Weekly Wages for Employees in Private Establishments in Salinas, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC415040510SA           | Average Weekly Wages for Employees in Private Establishments in Salinas, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC415030010             | Total Quarterly Wages in Salinas, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC415030010SA           | Total Quarterly Wages in Salinas, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC415040010             | Average Weekly Wages for Employees in Total Covered Establishments in Salinas, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC415040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salinas, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC415040110             | Average Weekly Wages for Employees in Federal Government Establishments in Salinas, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC415040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salinas, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC415040210             | Average Weekly Wages for Employees in State Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC415040210SA           | Average Weekly Wages for Employees in State Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC415040310             | Average Weekly Wages for Employees in Local Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC415040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC415040510             | Average Weekly Wages for Employees in Private Establishments in Salinas, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC415040510SA           | Average Weekly Wages for Employees in Private Establishments in Salinas, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA41500            | Market Hotness: Hotness Rank in Salinas, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA41500              | Market Hotness: Hotness Rank in Salinas, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA41500            | Market Hotness: Hotness Rank in Salinas, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

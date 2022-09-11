@@ -47,7 +47,7 @@
 | DEBTTLVCA188A     | Central government debt, total (% of GDP) for St. Vincent and the Grenadines                                                                   | 1990-01-01          | 2014-01-01        |
 | DEVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Delaware                                                                             | 2002-01-01          | 2013-01-01        |
 | DEVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Delaware                                                               | 2002-01-01          | 2016-01-01        |
-| EXP2488           | U.S. Exports of Goods by F.A.S. Basis to Saint Vincent and the Grenadines                                                                      | 1992-01-01          | 2022-06-01        |
+| EXP2488           | U.S. Exports of Goods by F.A.S. Basis to Saint Vincent and the Grenadines                                                                      | 1992-01-01          | 2022-07-01        |
 | FLVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Florida                                                                              | 1992-01-01          | 2016-01-01        |
 | FLVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Florida                                                                | 1992-01-01          | 2016-01-01        |
 | FPCPITOTLZGVCT    | Inflation, consumer prices for Saint Vincent and the Grenadines                                                                                | 1975-01-01          | 2021-01-01        |
@@ -60,7 +60,7 @@
 | IDVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Idaho                                                                  | 1997-01-01          | 2014-01-01        |
 | ILVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Illinois                                                                             | 2004-01-01          | 2016-01-01        |
 | ILVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Illinois                                                               | 1992-01-01          | 2016-01-01        |
-| IMP2488           | U.S. Imports of Goods by Customs Basis from Saint Vincent and the Grenadines                                                                   | 1992-01-01          | 2022-06-01        |
+| IMP2488           | U.S. Imports of Goods by Customs Basis from Saint Vincent and the Grenadines                                                                   | 1992-01-01          | 2022-07-01        |
 | INVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Indiana                                                                              | 1992-01-01          | 2016-01-01        |
 | INVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Indiana                                                                | 1992-01-01          | 2016-01-01        |
 | ITNETUSERP2VCT    | Internet users for Saint Vincent and the Grenadines                                                                                            | 1990-01-01          | 2018-01-01        |

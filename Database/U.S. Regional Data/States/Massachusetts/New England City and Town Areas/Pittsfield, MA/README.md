@@ -8,18 +8,18 @@
 | AVELISPRIMM38340          | Housing Inventory: Average Listing Price Month-Over-Month in Pittsfield, MA (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY38340          | Housing Inventory: Average Listing Price Year-Over-Year in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA38340              | Market Hotness: Demand Score in Pittsfield, MA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC383430010             | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC383430010SA           | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC383440010             | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC383440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC383440110             | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC383440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC383440210             | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC383440210SA           | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC383440310             | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC383440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC383440510             | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC383440510SA           | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC383430010             | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC383430010SA           | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC383440010             | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC383440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC383440110             | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC383440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC383440210             | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC383440210SA           | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC383440310             | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC383440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC383440510             | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC383440510SA           | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA38340            | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA38340              | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA38340            | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2018-08-01          | 2022-08-01        |

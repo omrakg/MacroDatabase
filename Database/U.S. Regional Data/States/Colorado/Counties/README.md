@@ -45,7 +45,7 @@
 | Fremont County, CO           |                90 |
 | Pueblo County, CO            |               147 |
 | Jefferson County, CO         |               147 |
-| Phillips County, CO          |                 0 |
+| Phillips County, CO          |                89 |
 | Bent County, CO              |                89 |
 | Weld County, CO              |               147 |
 | Kiowa County, CO             |                88 |
@@ -54,7 +54,7 @@
 | Montrose County, CO          |                90 |
 | Cheyenne County, CO          |                89 |
 | Logan County, CO             |                89 |
-| Jackson County, CO           |                86 |
+| Jackson County, CO           |                 0 |
 | Baca County, CO              |                89 |
 | Larimer County, CO           |               147 |
 | Adams County, CO             |               147 |

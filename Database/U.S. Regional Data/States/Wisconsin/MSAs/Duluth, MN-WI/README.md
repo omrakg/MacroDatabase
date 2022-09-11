@@ -36,18 +36,18 @@
 | DULU227TRADN              | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | DULU227UR                 | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | DULU227URN                | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| ENUC202630010             | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC202630010SA           | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC202640010             | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC202640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC202640110             | Average Weekly Wages for Employees in Federal Government Establishments in Duluth, MN-WI (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC202640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Duluth, MN-WI (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC202640210             | Average Weekly Wages for Employees in State Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC202640210SA           | Average Weekly Wages for Employees in State Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC202640310             | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC202640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC202640510             | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC202640510SA           | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC202630010             | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC202630010SA           | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC202640010             | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC202640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC202640110             | Average Weekly Wages for Employees in Federal Government Establishments in Duluth, MN-WI (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC202640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Duluth, MN-WI (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC202640210             | Average Weekly Wages for Employees in State Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC202640210SA           | Average Weekly Wages for Employees in State Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC202640310             | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC202640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC202640510             | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC202640510SA           | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA20260            | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA20260              | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA20260            | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

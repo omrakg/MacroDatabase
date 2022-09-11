@@ -1,8 +1,8 @@
 | id                 | title                                                      | observation_start   | observation_end   |
 |--------------------|------------------------------------------------------------|---------------------|-------------------|
-| DTWEXAFEGS         | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-02          | 2022-08-26        |
-| DTWEXBGS           | Nominal Broad U.S. Dollar Index                            | 2006-01-02          | 2022-08-26        |
-| DTWEXEMEGS         | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-02          | 2022-08-26        |
+| DTWEXAFEGS         | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-02          | 2022-09-02        |
+| DTWEXBGS           | Nominal Broad U.S. Dollar Index                            | 2006-01-02          | 2022-09-02        |
+| DTWEXEMEGS         | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-02          | 2022-09-02        |
 | RTWEXAFEGS         | Real Advanced Foreign Economies Dollar Index               | 2006-01-01          | 2022-08-01        |
 | RTWEXBGS           | Real Broad Dollar Index                                    | 2006-01-01          | 2022-08-01        |
 | RTWEXEMEGS         | Real Emerging Market Economies Dollar Index                | 2006-01-01          | 2022-08-01        |
@@ -57,8 +57,8 @@
 | RTWVDWV684NMFRBDAL | Real Trade-Weighted Value of the dollar for West Virginia  | 1988-01-01          | 2022-06-01        |
 | RTWVDWY684NMFRBDAL | Real Trade-Weighted Value of the dollar for Wyoming        | 1988-01-01          | 2022-06-01        |
 | TWEXAFEGSANL       | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-01          | 2021-01-01        |
-| TWEXAFEGSMTH       | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-01          | 2022-07-01        |
+| TWEXAFEGSMTH       | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-01          | 2022-08-01        |
 | TWEXBGSANL         | Nominal Broad U.S. Dollar Index                            | 2006-01-01          | 2021-01-01        |
-| TWEXBGSMTH         | Nominal Broad U.S. Dollar Index                            | 2006-01-01          | 2022-07-01        |
+| TWEXBGSMTH         | Nominal Broad U.S. Dollar Index                            | 2006-01-01          | 2022-08-01        |
 | TWEXEMEGSANL       | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-01          | 2021-01-01        |
-| TWEXEMEGSMTH       | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-01          | 2022-07-01        |
+| TWEXEMEGSMTH       | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-01          | 2022-08-01        |

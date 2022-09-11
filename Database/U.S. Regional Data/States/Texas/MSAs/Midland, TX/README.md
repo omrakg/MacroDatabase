@@ -8,18 +8,18 @@
 | AVELISPRIMM33260          | Housing Inventory: Average Listing Price Month-Over-Month in Midland, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY33260          | Housing Inventory: Average Listing Price Year-Over-Year in Midland, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA33260              | Market Hotness: Demand Score in Midland, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC332630010             | Total Quarterly Wages in Midland, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC332630010SA           | Total Quarterly Wages in Midland, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC332640010             | Average Weekly Wages for Employees in Total Covered Establishments in Midland, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC332640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Midland, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC332640110             | Average Weekly Wages for Employees in Federal Government Establishments in Midland, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC332640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Midland, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC332640210             | Average Weekly Wages for Employees in State Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC332640210SA           | Average Weekly Wages for Employees in State Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC332640310             | Average Weekly Wages for Employees in Local Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC332640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC332640510             | Average Weekly Wages for Employees in Private Establishments in Midland, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC332640510SA           | Average Weekly Wages for Employees in Private Establishments in Midland, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC332630010             | Total Quarterly Wages in Midland, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC332630010SA           | Total Quarterly Wages in Midland, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC332640010             | Average Weekly Wages for Employees in Total Covered Establishments in Midland, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC332640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Midland, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC332640110             | Average Weekly Wages for Employees in Federal Government Establishments in Midland, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC332640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Midland, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC332640210             | Average Weekly Wages for Employees in State Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC332640210SA           | Average Weekly Wages for Employees in State Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC332640310             | Average Weekly Wages for Employees in Local Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC332640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC332640510             | Average Weekly Wages for Employees in Private Establishments in Midland, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC332640510SA           | Average Weekly Wages for Employees in Private Establishments in Midland, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA33260            | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA33260              | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA33260            | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

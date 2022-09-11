@@ -6,7 +6,7 @@
 | Twin Falls County, ID |               147 |
 | Fremont County, ID    |                 2 |
 | Power County, ID      |                89 |
-| Boise County, ID      |                 0 |
+| Boise County, ID      |                90 |
 | Madison County, ID    |                90 |
 | Lewis County, ID      |                89 |
 | Boundary County, ID   |                89 |

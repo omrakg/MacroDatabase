@@ -40,18 +40,18 @@
 | AVELISPRIMM11100          | Housing Inventory: Average Listing Price Month-Over-Month in Amarillo, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY11100          | Housing Inventory: Average Listing Price Year-Over-Year in Amarillo, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA11100              | Market Hotness: Demand Score in Amarillo, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC111030010             | Total Quarterly Wages in Amarillo, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC111030010SA           | Total Quarterly Wages in Amarillo, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC111040010             | Average Weekly Wages for Employees in Total Covered Establishments in Amarillo, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC111040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Amarillo, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC111040110             | Average Weekly Wages for Employees in Federal Government Establishments in Amarillo, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC111040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Amarillo, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC111040210             | Average Weekly Wages for Employees in State Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC111040210SA           | Average Weekly Wages for Employees in State Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC111040310             | Average Weekly Wages for Employees in Local Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC111040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC111040510             | Average Weekly Wages for Employees in Private Establishments in Amarillo, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC111040510SA           | Average Weekly Wages for Employees in Private Establishments in Amarillo, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC111030010             | Total Quarterly Wages in Amarillo, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC111030010SA           | Total Quarterly Wages in Amarillo, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC111040010             | Average Weekly Wages for Employees in Total Covered Establishments in Amarillo, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC111040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Amarillo, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC111040110             | Average Weekly Wages for Employees in Federal Government Establishments in Amarillo, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC111040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Amarillo, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC111040210             | Average Weekly Wages for Employees in State Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2022-01-01        |
+| ENUC111040210SA           | Average Weekly Wages for Employees in State Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2022-01-01        |
+| ENUC111040310             | Average Weekly Wages for Employees in Local Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2022-01-01        |
+| ENUC111040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Amarillo, TX (MSA)                   | 2001-01-01          | 2022-01-01        |
+| ENUC111040510             | Average Weekly Wages for Employees in Private Establishments in Amarillo, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC111040510SA           | Average Weekly Wages for Employees in Private Establishments in Amarillo, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA11100            | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA11100              | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA11100            | Market Hotness: Hotness Rank in Amarillo, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

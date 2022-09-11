@@ -14,7 +14,7 @@
 | Searcy County, AR       |                88 |
 | Boone County, AR        |                90 |
 | Izard County, AR        |                89 |
-| Jefferson County, AR    |                 0 |
+| Jefferson County, AR    |               147 |
 | Union County, AR        |                90 |
 | Drew County, AR         |                90 |
 | Lonoke County, AR       |               147 |
@@ -22,7 +22,7 @@
 | Polk County, AR         |                90 |
 | Clark County, AR        |                90 |
 | Stone County, AR        |                89 |
-| Prairie County, AR      |                89 |
+| Prairie County, AR      |                 0 |
 | Crittenden County, AR   |               146 |
 | Van Buren County, AR    |                89 |
 | Logan County, AR        |                89 |

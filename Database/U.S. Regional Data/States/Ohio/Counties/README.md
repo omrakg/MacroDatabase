@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Montgomery County, OH |               147 |
+| Montgomery County, OH |                 0 |
 | Auglaize County, OH   |                90 |
 | Tuscarawas County, OH |               145 |
 | Harrison County, OH   |                90 |
@@ -38,7 +38,7 @@
 | Columbiana County, OH |               147 |
 | Hancock County, OH    |               147 |
 | Vinton County, OH     |                90 |
-| Wyandot County, OH    |                 0 |
+| Wyandot County, OH    |                89 |
 | Guernsey County, OH   |                89 |
 | Miami County, OH      |               147 |
 | Darke County, OH      |               146 |
@@ -60,7 +60,7 @@
 | Lucas County, OH      |               147 |
 | Noble County, OH      |                90 |
 | Butler County, OH     |               147 |
-| Erie County, OH       |               147 |
+| Erie County, OH       |                 0 |
 | Franklin County, OH   |               147 |
 | Marion County, OH     |               147 |
 | Greene County, OH     |               147 |

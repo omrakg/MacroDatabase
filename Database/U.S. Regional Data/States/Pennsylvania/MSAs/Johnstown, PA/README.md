@@ -8,18 +8,18 @@
 | AVELISPRIMM27780          | Housing Inventory: Average Listing Price Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY27780          | Housing Inventory: Average Listing Price Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA27780              | Market Hotness: Demand Score in Johnstown, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC277830010             | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC277830010SA           | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC277840010             | Average Weekly Wages for Employees in Total Covered Establishments in Johnstown, PA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC277840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Johnstown, PA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC277840110             | Average Weekly Wages for Employees in Federal Government Establishments in Johnstown, PA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC277840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Johnstown, PA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC277840210             | Average Weekly Wages for Employees in State Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC277840210SA           | Average Weekly Wages for Employees in State Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC277840310             | Average Weekly Wages for Employees in Local Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC277840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC277840510             | Average Weekly Wages for Employees in Private Establishments in Johnstown, PA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC277840510SA           | Average Weekly Wages for Employees in Private Establishments in Johnstown, PA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC277830010             | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC277830010SA           | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC277840010             | Average Weekly Wages for Employees in Total Covered Establishments in Johnstown, PA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC277840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Johnstown, PA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC277840110             | Average Weekly Wages for Employees in Federal Government Establishments in Johnstown, PA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC277840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Johnstown, PA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC277840210             | Average Weekly Wages for Employees in State Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC277840210SA           | Average Weekly Wages for Employees in State Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC277840310             | Average Weekly Wages for Employees in Local Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC277840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC277840510             | Average Weekly Wages for Employees in Private Establishments in Johnstown, PA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC277840510SA           | Average Weekly Wages for Employees in Private Establishments in Johnstown, PA (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA27780            | Market Hotness: Hotness Rank in Johnstown, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA27780              | Market Hotness: Hotness Rank in Johnstown, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA27780            | Market Hotness: Hotness Rank in Johnstown, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |

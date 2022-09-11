@@ -8,16 +8,16 @@
 | AVELISPRIMM37900          | Housing Inventory: Average Listing Price Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY37900          | Housing Inventory: Average Listing Price Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA37900              | Market Hotness: Demand Score in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC379030010             | Total Quarterly Wages in Peoria, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC379030010SA           | Total Quarterly Wages in Peoria, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC379040010             | Average Weekly Wages for Employees in Total Covered Establishments in Peoria, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC379040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Peoria, IL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC379040110             | Average Weekly Wages for Employees in Federal Government Establishments in Peoria, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC379040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Peoria, IL (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC379030010             | Total Quarterly Wages in Peoria, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC379030010SA           | Total Quarterly Wages in Peoria, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC379040010             | Average Weekly Wages for Employees in Total Covered Establishments in Peoria, IL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC379040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Peoria, IL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC379040110             | Average Weekly Wages for Employees in Federal Government Establishments in Peoria, IL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC379040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Peoria, IL (MSA)                 | 1990-01-01          | 2022-01-01        |
 | ENUC379040210             | Average Weekly Wages for Employees in State Government Establishments in Peoria, IL (MSA)                   | 2009-07-01          | 2012-04-01        |
 | ENUC379040310             | Average Weekly Wages for Employees in Local Government Establishments in Peoria, IL (MSA)                   | 2009-07-01          | 2012-04-01        |
-| ENUC379040510             | Average Weekly Wages for Employees in Private Establishments in Peoria, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC379040510SA           | Average Weekly Wages for Employees in Private Establishments in Peoria, IL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC379040510             | Average Weekly Wages for Employees in Private Establishments in Peoria, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC379040510SA           | Average Weekly Wages for Employees in Private Establishments in Peoria, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA37900            | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA37900              | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA37900            | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

@@ -11,7 +11,7 @@
 | Taylor County, KY       |                90 |
 | Hickman County, KY      |                87 |
 | Martin County, KY       |                88 |
-| Larue County, KY        |                89 |
+| Larue County, KY        |                 0 |
 | Hardin County, KY       |               147 |
 | Clay County, KY         |                88 |
 | Graves County, KY       |                90 |
@@ -49,7 +49,7 @@
 | Bourbon County, KY      |                90 |
 | Morgan County, KY       |                88 |
 | Henderson County, KY    |               144 |
-| Elliott County, KY      |                 0 |
+| Elliott County, KY      |                88 |
 | Metcalfe County, KY     |                88 |
 | Lincoln County, KY      |                90 |
 | Crittenden County, KY   |                89 |
@@ -71,7 +71,7 @@
 | Trimble County, KY      |                88 |
 | Caldwell County, KY     |                90 |
 | Perry County, KY        |                89 |
-| Bell County, KY         |                89 |
+| Bell County, KY         |                 0 |
 | Warren County, KY       |               147 |
 | McCreary County, KY     |                89 |
 | Grant County, KY        |                90 |
@@ -109,7 +109,7 @@
 | Green County, KY        |                90 |
 | Nicholas County, KY     |                89 |
 | Montgomery County, KY   |                90 |
-| Gallatin County, KY     |                 0 |
+| Gallatin County, KY     |                87 |
 | Boone County, KY        |               145 |
 | Estill County, KY       |                89 |
 | Leslie County, KY       |                88 |

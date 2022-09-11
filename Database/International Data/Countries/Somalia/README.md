@@ -14,7 +14,7 @@
 | DDAI06SOA156NWDB  | People 15 Years and Over Saving at a Financial Institution in the Past Year for Somalia      | 2014-01-01          | 2014-01-01        |
 | DDAI07SOA156NWDB  | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Somalia | 2014-01-01          | 2014-01-01        |
 | DDOI11SOA156NWDB  | Remittance Inflows to GDP for Somalia                                                        | 1979-01-01          | 2020-01-01        |
-| EXP7700           | U.S. Exports of Goods by F.A.S. Basis to Somalia                                             | 1992-01-01          | 2022-06-01        |
+| EXP7700           | U.S. Exports of Goods by F.A.S. Basis to Somalia                                             | 1992-01-01          | 2022-07-01        |
 | FLSOMA052SCEN     | Value of Exports to Somalia from Florida                                                     | 2003-01-01          | 2016-01-01        |
 | FLSOMA475SCEN     | Number of Identified Exporters to Somalia from Florida                                       | 1997-01-01          | 2016-01-01        |
 | GASOMA475SCEN     | Number of Identified Exporters to Somalia from Georgia                                       | 2005-01-01          | 2017-01-01        |
@@ -23,7 +23,7 @@
 | IDSOMA475SCEN     | Number of Identified Exporters to Somalia from Idaho                                         | 2005-01-01          | 2009-01-01        |
 | ILSOMA052SCEN     | Value of Exports to Somalia from Illinois                                                    | 2006-01-01          | 2016-01-01        |
 | ILSOMA475SCEN     | Number of Identified Exporters to Somalia from Illinois                                      | 1997-01-01          | 2017-01-01        |
-| IMP7700           | U.S. Imports of Goods by Customs Basis from Somalia                                          | 1992-01-01          | 2022-06-01        |
+| IMP7700           | U.S. Imports of Goods by Customs Basis from Somalia                                          | 1992-01-01          | 2022-07-01        |
 | INSOMA475SCEN     | Number of Identified Exporters to Somalia from Indiana                                       | 2007-01-01          | 2015-01-01        |
 | ITNETUSERP2SOM    | Internet users for Somalia                                                                   | 1990-01-01          | 2017-01-01        |
 | KSSOMA475SCEN     | Number of Identified Exporters to Somalia from Kansas                                        | 2002-01-01          | 2012-01-01        |

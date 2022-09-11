@@ -7,18 +7,18 @@
 | AVELISPRI23460            | Housing Inventory: Average Listing Price in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM23460          | Housing Inventory: Average Listing Price Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY23460          | Housing Inventory: Average Listing Price Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| ENUC234630010             | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC234630010SA           | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC234640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC234640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC234640110             | Average Weekly Wages for Employees in Federal Government Establishments in Gadsden, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC234640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gadsden, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC234640210             | Average Weekly Wages for Employees in State Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC234640210SA           | Average Weekly Wages for Employees in State Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC234640310             | Average Weekly Wages for Employees in Local Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC234640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC234640510             | Average Weekly Wages for Employees in Private Establishments in Gadsden, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC234640510SA           | Average Weekly Wages for Employees in Private Establishments in Gadsden, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC234630010             | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC234630010SA           | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC234640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC234640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC234640110             | Average Weekly Wages for Employees in Federal Government Establishments in Gadsden, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC234640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gadsden, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC234640210             | Average Weekly Wages for Employees in State Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC234640210SA           | Average Weekly Wages for Employees in State Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC234640310             | Average Weekly Wages for Employees in Local Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC234640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC234640510             | Average Weekly Wages for Employees in Private Establishments in Gadsden, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC234640510SA           | Average Weekly Wages for Employees in Private Establishments in Gadsden, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | GADPOP                    | Resident Population in Gadsden, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | GADS401EDUH               | All Employees: Education and Health Services in Gadsden, AL (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | GADS401EDUHN              | All Employees: Education and Health Services in Gadsden, AL (MSA)                                            | 1990-01-01          | 2022-07-01        |

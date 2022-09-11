@@ -20,7 +20,7 @@
 | Pierce County, WA       |               147 |
 | Asotin County, WA       |                89 |
 | Clark County, WA        |               147 |
-| Clallam County, WA      |                 0 |
+| Clallam County, WA      |               147 |
 | Columbia County, WA     |                89 |
 | Grant County, WA        |               147 |
 | Spokane County, WA      |               147 |

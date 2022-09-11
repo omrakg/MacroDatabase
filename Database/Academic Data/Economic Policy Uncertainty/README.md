@@ -3,54 +3,54 @@
 | CANEPUINDXM        | Economic Policy Uncertainty Index for Canada                                                        | 1985-01-01          | 2022-08-01        |
 | CATEPUINDXM        | Economic Policy Uncertainty Index: Categorical Index: Overall                                       | 1985-01-01          | 2022-07-01        |
 | CHIEPUINDXM        | Economic Policy Uncertainty Index for China                                                         | 1995-01-01          | 2019-04-01        |
-| CHNMAINLANDEPU     | Economic Policy Uncertainty Index: Mainland Papers for China                                        | 1949-10-01          | 2022-07-01        |
-| CHNMAINLANDTPU     | Trade Policy Uncertainty Index: Mainland Papers for China                                           | 2000-01-01          | 2022-07-01        |
+| CHNMAINLANDEPU     | Economic Policy Uncertainty Index: Mainland Papers for China                                        | 1949-10-01          | 2022-08-01        |
+| CHNMAINLANDTPU     | Trade Policy Uncertainty Index: Mainland Papers for China                                           | 2000-01-01          | 2022-08-01        |
 | DEEPUFEARINDX      | Migration Fear Index for Germany                                                                    | 1990-01-01          | 2022-07-01        |
 | DEEPUINDXM         | Economic Policy Uncertainty Index for Germany                                                       | 1993-01-01          | 2022-08-01        |
 | DEEPUMIGINDX       | Migration Policy Uncertainty Index for Germany                                                      | 1990-01-01          | 2022-07-01        |
-| EMNLABORREG        | Equity Market Volatility Tracker: Labor Regulations                                                 | 1985-01-01          | 2022-07-01        |
-| EMVAGRPOLICY       | Equity Market Volatility Tracker: Agricultural Policy                                               | 1985-01-01          | 2022-07-01        |
-| EMVCOMMMKT         | Equity Market Volatility Tracker: Commodity Markets                                                 | 1985-01-01          | 2022-07-01        |
-| EMVCOMPMAT         | Equity Market Volatility Tracker: Competition Matters                                               | 1985-01-01          | 2022-07-01        |
-| EMVCOMPPOL         | Equity Market Volatility Tracker: Competition Policy                                                | 1985-01-01          | 2022-07-01        |
-| EMVELECTGOVRN      | Equity Market Volatility Tracker: Elections And Political Governance                                | 1985-01-01          | 2022-07-01        |
-| EMVENRGYENVREG     | Equity Market Volatility Tracker: Energy And Environmental Regulation                               | 1985-01-01          | 2022-07-01        |
-| EMVEXRATES         | Equity Market Volatility Tracker: Exchange Rates                                                    | 1985-01-01          | 2022-07-01        |
-| EMVFINCRISES       | Equity Market Volatility Tracker: Financial Crises                                                  | 1985-01-01          | 2022-07-01        |
-| EMVFINREG          | Equity Market Volatility Tracker: Financial Regulation                                              | 1985-01-01          | 2022-07-01        |
-| EMVFISCALPOL       | Equity Market Volatility Tracker: Fiscal Policy                                                     | 1985-01-01          | 2022-07-01        |
-| EMVFOODDRUG        | Equity Market Volatility Tracker: Food And Drug Policy                                              | 1985-01-01          | 2022-07-01        |
-| EMVGOVTSPEND       | Equity Market Volatility Tracker: Government Spending Deficits And Debt                             | 1985-01-01          | 2022-07-01        |
-| EMVGOVTSPENT       | Equity Market Volatility Tracker: Government Sponsored Enterprises                                  | 1985-01-01          | 2022-07-01        |
-| EMVHEALTHCAREMAT   | Equity Market Volatility Tracker: Healthcare Matters                                                | 1985-01-01          | 2022-07-01        |
-| EMVHEALTHCAREPOL   | Equity Market Volatility Tracker: Healthcare Policy                                                 | 1985-01-01          | 2022-07-01        |
-| EMVHOUSELANDMGMT   | Equity Market Volatility Tracker: Housing And Land Management                                       | 1985-01-01          | 2022-07-01        |
-| EMVIMMIGRATION     | Equity Market Volatility Tracker: Immigration                                                       | 1985-01-01          | 2022-07-01        |
-| EMVIPMAT           | Equity Market Volatility Tracker: Intellectual Property Matters                                     | 1985-01-01          | 2022-07-01        |
-| EMVIPPOL           | Equity Market Volatility Tracker: Intellectual Property Policy                                      | 1985-01-01          | 2022-07-01        |
-| EMVLABORDISPUTES   | Equity Market Volatility Tracker: Labor Disputes                                                    | 1985-01-01          | 2022-07-01        |
-| EMVLAWTORT         | Equity Market Volatility Tracker: Lawsuit And Tort Reform Supreme Court Decisions                   | 1985-01-01          | 2022-07-01        |
-| EMVLITGMAT         | Equity Market Volatility Tracker: Litigation Matters                                                | 1985-01-01          | 2022-07-01        |
-| EMVMACROBROAD      | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Broad Quantity Indicators         | 1985-01-01          | 2022-07-01        |
-| EMVMACROBUS        | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Business Investment And Sentiment | 1985-01-01          | 2022-07-01        |
-| EMVMACROCONSUME    | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Consumer Spending And Sentiment   | 1985-01-01          | 2022-07-01        |
-| EMVMACROFININD     | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Other Financial Indicators        | 1985-01-01          | 2022-07-01        |
-| EMVMACROINFLATION  | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Inflation                         | 1985-01-01          | 2022-07-01        |
-| EMVMACROINTEREST   | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Interest Rates                    | 1985-01-01          | 2022-07-01        |
-| EMVMACROLABORMKT   | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Labor Markets                     | 1985-01-01          | 2022-07-01        |
-| EMVMACRONEWS       | Equity Market Volatility Tracker: Macroeconomic News And Outlook                                    | 1985-01-01          | 2022-07-01        |
-| EMVMACRORE         | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Real Estate Markets               | 1985-01-01          | 2022-07-01        |
-| EMVMACROTRADE      | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Trade                             | 1985-01-01          | 2022-07-01        |
-| EMVMONETARYPOL     | Equity Market Volatility Tracker: Monetary Policy                                                   | 1985-01-01          | 2022-07-01        |
-| EMVNATSEC          | Equity Market Volatility Tracker: National Security Policy                                          | 1985-01-01          | 2022-07-01        |
-| EMVOTHERREG        | Equity Market Volatility Tracker: Other Regulation                                                  | 1985-01-01          | 2022-07-01        |
-| EMVOVERALLEMV      | Equity Market Volatility Tracker: Overall                                                           | 1985-01-01          | 2022-07-01        |
-| EMVPOLRLTDEMV      | Equity Market Volatility Tracker: Policy Related                                                    | 1985-01-01          | 2022-07-01        |
-| EMVREGEMV          | Equity Market Volatility Tracker: Regulation                                                        | 1985-01-01          | 2022-07-01        |
-| EMVTAXESEMV        | Equity Market Volatility Tracker: Taxes                                                             | 1985-01-01          | 2022-07-01        |
-| EMVTRADEPOLEMV     | Equity Market Volatility Tracker: Trade Policy                                                      | 1985-01-01          | 2022-07-01        |
-| EMVTRADEPUBUTEMV   | Equity Market Volatility Tracker: Transportation, Infrastructure, and Public Utilities              | 1985-01-01          | 2022-07-01        |
-| EMVWELFARE         | Equity Market Volatility Tracker: Entitlement And Welfare Programs                                  | 1985-01-01          | 2022-07-01        |
+| EMNLABORREG        | Equity Market Volatility Tracker: Labor Regulations                                                 | 1985-01-01          | 2022-08-01        |
+| EMVAGRPOLICY       | Equity Market Volatility Tracker: Agricultural Policy                                               | 1985-01-01          | 2022-08-01        |
+| EMVCOMMMKT         | Equity Market Volatility Tracker: Commodity Markets                                                 | 1985-01-01          | 2022-08-01        |
+| EMVCOMPMAT         | Equity Market Volatility Tracker: Competition Matters                                               | 1985-01-01          | 2022-08-01        |
+| EMVCOMPPOL         | Equity Market Volatility Tracker: Competition Policy                                                | 1985-01-01          | 2022-08-01        |
+| EMVELECTGOVRN      | Equity Market Volatility Tracker: Elections And Political Governance                                | 1985-01-01          | 2022-08-01        |
+| EMVENRGYENVREG     | Equity Market Volatility Tracker: Energy And Environmental Regulation                               | 1985-01-01          | 2022-08-01        |
+| EMVEXRATES         | Equity Market Volatility Tracker: Exchange Rates                                                    | 1985-01-01          | 2022-08-01        |
+| EMVFINCRISES       | Equity Market Volatility Tracker: Financial Crises                                                  | 1985-01-01          | 2022-08-01        |
+| EMVFINREG          | Equity Market Volatility Tracker: Financial Regulation                                              | 1985-01-01          | 2022-08-01        |
+| EMVFISCALPOL       | Equity Market Volatility Tracker: Fiscal Policy                                                     | 1985-01-01          | 2022-08-01        |
+| EMVFOODDRUG        | Equity Market Volatility Tracker: Food And Drug Policy                                              | 1985-01-01          | 2022-08-01        |
+| EMVGOVTSPEND       | Equity Market Volatility Tracker: Government Spending Deficits And Debt                             | 1985-01-01          | 2022-08-01        |
+| EMVGOVTSPENT       | Equity Market Volatility Tracker: Government Sponsored Enterprises                                  | 1985-01-01          | 2022-08-01        |
+| EMVHEALTHCAREMAT   | Equity Market Volatility Tracker: Healthcare Matters                                                | 1985-01-01          | 2022-08-01        |
+| EMVHEALTHCAREPOL   | Equity Market Volatility Tracker: Healthcare Policy                                                 | 1985-01-01          | 2022-08-01        |
+| EMVHOUSELANDMGMT   | Equity Market Volatility Tracker: Housing And Land Management                                       | 1985-01-01          | 2022-08-01        |
+| EMVIMMIGRATION     | Equity Market Volatility Tracker: Immigration                                                       | 1985-01-01          | 2022-08-01        |
+| EMVIPMAT           | Equity Market Volatility Tracker: Intellectual Property Matters                                     | 1985-01-01          | 2022-08-01        |
+| EMVIPPOL           | Equity Market Volatility Tracker: Intellectual Property Policy                                      | 1985-01-01          | 2022-08-01        |
+| EMVLABORDISPUTES   | Equity Market Volatility Tracker: Labor Disputes                                                    | 1985-01-01          | 2022-08-01        |
+| EMVLAWTORT         | Equity Market Volatility Tracker: Lawsuit And Tort Reform Supreme Court Decisions                   | 1985-01-01          | 2022-08-01        |
+| EMVLITGMAT         | Equity Market Volatility Tracker: Litigation Matters                                                | 1985-01-01          | 2022-08-01        |
+| EMVMACROBROAD      | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Broad Quantity Indicators         | 1985-01-01          | 2022-08-01        |
+| EMVMACROBUS        | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Business Investment And Sentiment | 1985-01-01          | 2022-08-01        |
+| EMVMACROCONSUME    | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Consumer Spending And Sentiment   | 1985-01-01          | 2022-08-01        |
+| EMVMACROFININD     | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Other Financial Indicators        | 1985-01-01          | 2022-08-01        |
+| EMVMACROINFLATION  | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Inflation                         | 1985-01-01          | 2022-08-01        |
+| EMVMACROINTEREST   | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Interest Rates                    | 1985-01-01          | 2022-08-01        |
+| EMVMACROLABORMKT   | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Labor Markets                     | 1985-01-01          | 2022-08-01        |
+| EMVMACRONEWS       | Equity Market Volatility Tracker: Macroeconomic News And Outlook                                    | 1985-01-01          | 2022-08-01        |
+| EMVMACRORE         | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Real Estate Markets               | 1985-01-01          | 2022-08-01        |
+| EMVMACROTRADE      | Equity Market Volatility Tracker: Macroeconomic News and Outlook: Trade                             | 1985-01-01          | 2022-08-01        |
+| EMVMONETARYPOL     | Equity Market Volatility Tracker: Monetary Policy                                                   | 1985-01-01          | 2022-08-01        |
+| EMVNATSEC          | Equity Market Volatility Tracker: National Security Policy                                          | 1985-01-01          | 2022-08-01        |
+| EMVOTHERREG        | Equity Market Volatility Tracker: Other Regulation                                                  | 1985-01-01          | 2022-08-01        |
+| EMVOVERALLEMV      | Equity Market Volatility Tracker: Overall                                                           | 1985-01-01          | 2022-08-01        |
+| EMVPOLRLTDEMV      | Equity Market Volatility Tracker: Policy Related                                                    | 1985-01-01          | 2022-08-01        |
+| EMVREGEMV          | Equity Market Volatility Tracker: Regulation                                                        | 1985-01-01          | 2022-08-01        |
+| EMVTAXESEMV        | Equity Market Volatility Tracker: Taxes                                                             | 1985-01-01          | 2022-08-01        |
+| EMVTRADEPOLEMV     | Equity Market Volatility Tracker: Trade Policy                                                      | 1985-01-01          | 2022-08-01        |
+| EMVTRADEPUBUTEMV   | Equity Market Volatility Tracker: Transportation, Infrastructure, and Public Utilities              | 1985-01-01          | 2022-08-01        |
+| EMVWELFARE         | Equity Market Volatility Tracker: Entitlement And Welfare Programs                                  | 1985-01-01          | 2022-08-01        |
 | EPUENTITLE         | Economic Policy Uncertainty Index: Categorical Index: Entitlement programs                          | 1985-01-01          | 2022-07-01        |
 | EPUFINREG          | Economic Policy Uncertainty Index: Categorical Index: Financial Regulation                          | 1985-01-01          | 2022-07-01        |
 | EPUFISCAL          | Economic Policy Uncertainty Index: Categorical Index: Fiscal Policy (Taxes OR Spending)             | 1985-01-01          | 2022-07-01        |
@@ -66,11 +66,11 @@
 | FREEPUFEARINDX     | Migration Fear Index for France                                                                     | 1990-01-01          | 2019-10-01        |
 | FREEPUMIGINDX      | Migration Policy Uncertainty Index for France                                                       | 1990-01-01          | 2019-10-01        |
 | FREUINDXM          | Economic Policy Uncertainty Index for France                                                        | 1987-01-01          | 2022-08-01        |
-| GEPUCURRENT        | Global Economic Policy Uncertainty Index: Current Price Adjusted GDP                                | 1997-01-01          | 2022-07-01        |
-| GEPUPPP            | Global Economic Policy Uncertainty Index: PPP-Adjusted GDP                                          | 1997-01-01          | 2022-07-01        |
+| GEPUCURRENT        | Global Economic Policy Uncertainty Index: Current Price Adjusted GDP                                | 1997-01-01          | 2022-08-01        |
+| GEPUPPP            | Global Economic Policy Uncertainty Index: PPP-Adjusted GDP                                          | 1997-01-01          | 2022-08-01        |
 | INDEPUINDXM        | Economic Policy Uncertainty Index for India                                                         | 2003-01-01          | 2022-08-01        |
-| INFECTDISEMVTRACK  | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-07-01        |
-| INFECTDISEMVTRACKD | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-09-01        |
+| INFECTDISEMVTRACK  | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-08-01        |
+| INFECTDISEMVTRACKD | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-09-08        |
 | ITEPUINDXM         | Economic Policy Uncertainty Index for Italy                                                         | 1997-01-01          | 2022-08-01        |
 | KOREAEPUINDXM      | Economic Policy Uncertainty Index for South Korea                                                   | 1990-01-01          | 2020-12-01        |
 | SPEPUINDXM         | Economic Policy Uncertainty Index for Spain                                                         | 2001-01-01          | 2022-08-01        |
@@ -78,11 +78,11 @@
 | UKEPUINDXM         | Economic Policy Uncertainty Index for United Kingdom                                                | 1997-01-01          | 2022-08-01        |
 | UKEPUMIGINDX       | Migration Policy Uncertainty Index for the United Kingdom                                           | 1990-01-01          | 2022-07-01        |
 | USEPUFEARINDX      | Migration Fear Index for the United States                                                          | 1990-01-01          | 2022-07-01        |
-| USEPUINDXD         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-09-01        |
+| USEPUINDXD         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-09-08        |
 | USEPUINDXM         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-08-01        |
 | USEPUMIGINDX       | Migration Policy Uncertainty Index for the United States                                            | 1990-01-01          | 2022-07-01        |
 | USEPUNEWSINDXM     | Economic Policy Uncertainty Index: News-Based Index for the United States                           | 1985-01-01          | 2022-08-01        |
-| WLEMUINDXD         | Equity Market-related Economic Uncertainty Index                                                    | 1985-01-01          | 2022-09-01        |
+| WLEMUINDXD         | Equity Market-related Economic Uncertainty Index                                                    | 1985-01-01          | 2022-09-08        |
 | WPDI               | World Discussion About Pandemics Index                                                              | 1996-01-01          | 2022-04-01        |
 | WPDIAFG            | Discussion About Pandemics Index for Afghanistan                                                    | 1996-01-01          | 2022-04-01        |
 | WPDIAGO            | Discussion About Pandemics Index for Angola                                                         | 1996-01-01          | 2022-04-01        |

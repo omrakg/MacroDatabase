@@ -17,7 +17,7 @@
 | Robeson County, NC      |               147 |
 | Martin County, NC       |                90 |
 | Greene County, NC       |                89 |
-| Hertford County, NC     |                89 |
+| Hertford County, NC     |                 0 |
 | Avery County, NC        |                90 |
 | Davie County, NC        |                90 |
 | Wilkes County, NC       |               147 |
@@ -32,7 +32,7 @@
 | Lincoln County, NC      |               147 |
 | Cabarrus County, NC     |               147 |
 | Mecklenburg County, NC  |               146 |
-| Perquimans County, NC   |                 0 |
+| Perquimans County, NC   |                90 |
 | Jones County, NC        |                90 |
 | Columbus County, NC     |                90 |
 | Graham County, NC       |                88 |
@@ -77,7 +77,7 @@
 | Ashe County, NC         |                89 |
 | Moore County, NC        |               147 |
 | Wilson County, NC       |               147 |
-| Camden County, NC       |                89 |
+| Camden County, NC       |                 0 |
 | Alexander County, NC    |                90 |
 | Scotland County, NC     |                90 |
 | Bladen County, NC       |                90 |
@@ -92,7 +92,7 @@
 | Duplin County, NC       |                90 |
 | Haywood County, NC      |               146 |
 | Carteret County, NC     |               147 |
-| Madison County, NC      |                 0 |
+| Madison County, NC      |                90 |
 | Mitchell County, NC     |                89 |
 | Cherokee County, NC     |                89 |
 | Hyde County, NC         |                87 |

@@ -36,23 +36,23 @@
 | AVELISPRIMM12260          | Housing Inventory: Average Listing Price Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY12260          | Housing Inventory: Average Listing Price Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA12260              | Market Hotness: Demand Score in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC122630010             | Total Quarterly Wages in Augusta-Richmond County, GA-SC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC122630010SA           | Total Quarterly Wages in Augusta-Richmond County, GA-SC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC122640010             | Average Weekly Wages for Employees in Total Covered Establishments in Augusta-Richmond County, GA-SC (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC122640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Augusta-Richmond County, GA-SC (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC122640110             | Average Weekly Wages for Employees in Federal Government Establishments in Augusta-Richmond County, GA-SC (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC122640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Augusta-Richmond County, GA-SC (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC122640210             | Average Weekly Wages for Employees in State Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC122640210SA           | Average Weekly Wages for Employees in State Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC122640310             | Average Weekly Wages for Employees in Local Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC122640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC122640510             | Average Weekly Wages for Employees in Private Establishments in Augusta-Richmond County, GA-SC (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC122640510SA           | Average Weekly Wages for Employees in Private Establishments in Augusta-Richmond County, GA-SC (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC122630010             | Total Quarterly Wages in Augusta-Richmond County, GA-SC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC122630010SA           | Total Quarterly Wages in Augusta-Richmond County, GA-SC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC122640010             | Average Weekly Wages for Employees in Total Covered Establishments in Augusta-Richmond County, GA-SC (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC122640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Augusta-Richmond County, GA-SC (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC122640110             | Average Weekly Wages for Employees in Federal Government Establishments in Augusta-Richmond County, GA-SC (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC122640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Augusta-Richmond County, GA-SC (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC122640210             | Average Weekly Wages for Employees in State Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC122640210SA           | Average Weekly Wages for Employees in State Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC122640310             | Average Weekly Wages for Employees in Local Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC122640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Augusta-Richmond County, GA-SC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC122640510             | Average Weekly Wages for Employees in Private Establishments in Augusta-Richmond County, GA-SC (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC122640510SA           | Average Weekly Wages for Employees in Private Establishments in Augusta-Richmond County, GA-SC (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA12260            | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA12260              | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA12260            | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA12260              | Market Hotness: Hotness Score in Augusta-Richmond County, GA-SC (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG12260               | Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
+| IHLCHG12260               | Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                                  | 2020-02-01          | 2022-08-26        |
 | IRPD12260                 | Implicit Regional Price Deflator for Augusta-Richmond County, GA-SC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT131226000000003A     | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT131226000000004      | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

@@ -15,4 +15,4 @@
 | Washington County, ME   |                90 |
 | Androscoggin County, ME |               147 |
 | Oxford County, ME       |                90 |
-| Hancock County, ME      |                 0 |
+| Hancock County, ME      |                90 |

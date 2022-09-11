@@ -9,7 +9,7 @@
 | St. Louis, MO-IL                    |               343 |
 | Decatur, IL                         |               145 |
 | Carbondale-Marion, IL               |                55 |
-| Danville, IL                        |                 0 |
+| Danville, IL                        |               136 |
 | Rockford, IL                        |               164 |
 | Davenport-Moline-Rock Island, IA-IL |                 0 |
 | Cape Girardeau, MO-IL               |                89 |

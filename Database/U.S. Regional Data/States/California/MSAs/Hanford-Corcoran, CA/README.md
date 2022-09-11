@@ -7,18 +7,18 @@
 | AVELISPRI25260            | Housing Inventory: Average Listing Price in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM25260          | Housing Inventory: Average Listing Price Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY25260          | Housing Inventory: Average Listing Price Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| ENUC252630010             | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC252630010SA           | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC252640010             | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC252640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC252640110             | Average Weekly Wages for Employees in Federal Government Establishments in Hanford-Corcoran, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC252640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hanford-Corcoran, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC252640210             | Average Weekly Wages for Employees in State Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC252640210SA           | Average Weekly Wages for Employees in State Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC252640310             | Average Weekly Wages for Employees in Local Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC252640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC252640510             | Average Weekly Wages for Employees in Private Establishments in Hanford-Corcoran, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC252640510SA           | Average Weekly Wages for Employees in Private Establishments in Hanford-Corcoran, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC252630010             | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC252630010SA           | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC252640010             | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC252640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC252640110             | Average Weekly Wages for Employees in Federal Government Establishments in Hanford-Corcoran, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC252640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hanford-Corcoran, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC252640210             | Average Weekly Wages for Employees in State Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC252640210SA           | Average Weekly Wages for Employees in State Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC252640310             | Average Weekly Wages for Employees in Local Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC252640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC252640510             | Average Weekly Wages for Employees in Private Establishments in Hanford-Corcoran, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC252640510SA           | Average Weekly Wages for Employees in Private Establishments in Hanford-Corcoran, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HANF206EDUH               | All Employees: Education and Health Services in Hanford-Corcoran, CA (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | HANF206EDUHN              | All Employees: Education and Health Services in Hanford-Corcoran, CA (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | HANF206FIRE               | All Employees: Financial Activities in Hanford-Corcoran, CA (MSA)                                                     | 1990-01-01          | 2022-07-01        |

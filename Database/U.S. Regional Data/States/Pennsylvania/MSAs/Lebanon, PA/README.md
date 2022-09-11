@@ -8,18 +8,18 @@
 | AVELISPRIMM30140          | Housing Inventory: Average Listing Price Month-Over-Month in Lebanon, PA (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY30140          | Housing Inventory: Average Listing Price Year-Over-Year in Lebanon, PA (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA30140              | Market Hotness: Demand Score in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC301430010             | Total Quarterly Wages in Lebanon, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC301430010SA           | Total Quarterly Wages in Lebanon, PA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC301440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lebanon, PA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC301440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lebanon, PA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC301440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lebanon, PA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC301440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lebanon, PA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC301440210             | Average Weekly Wages for Employees in State Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC301440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC301440310             | Average Weekly Wages for Employees in Local Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC301440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC301440510             | Average Weekly Wages for Employees in Private Establishments in Lebanon, PA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC301440510SA           | Average Weekly Wages for Employees in Private Establishments in Lebanon, PA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC301430010             | Total Quarterly Wages in Lebanon, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC301430010SA           | Total Quarterly Wages in Lebanon, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC301440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lebanon, PA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC301440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lebanon, PA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC301440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lebanon, PA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC301440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lebanon, PA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC301440210             | Average Weekly Wages for Employees in State Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC301440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC301440310             | Average Weekly Wages for Employees in Local Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC301440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lebanon, PA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC301440510             | Average Weekly Wages for Employees in Private Establishments in Lebanon, PA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC301440510SA           | Average Weekly Wages for Employees in Private Establishments in Lebanon, PA (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA30140            | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA30140              | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA30140            | Market Hotness: Hotness Rank in Lebanon, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |

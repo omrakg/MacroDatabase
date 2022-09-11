@@ -7,18 +7,18 @@
 | AVELISPRI22140            | Housing Inventory: Average Listing Price in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM22140          | Housing Inventory: Average Listing Price Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY22140          | Housing Inventory: Average Listing Price Year-Over-Year in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-08-01        |
-| ENUC221430010             | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC221430010SA           | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC221440010             | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC221440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC221440110             | Average Weekly Wages for Employees in Federal Government Establishments in Farmington, NM (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC221440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Farmington, NM (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC221440210             | Average Weekly Wages for Employees in State Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC221440210SA           | Average Weekly Wages for Employees in State Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC221440310             | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC221440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC221440510             | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC221440510SA           | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC221430010             | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC221430010SA           | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC221440010             | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC221440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC221440110             | Average Weekly Wages for Employees in Federal Government Establishments in Farmington, NM (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC221440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Farmington, NM (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC221440210             | Average Weekly Wages for Employees in State Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC221440210SA           | Average Weekly Wages for Employees in State Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC221440310             | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC221440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC221440510             | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC221440510SA           | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
 | FARM135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-07-01        |
 | FARM135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-07-01        |
 | FARM135BPPRIV             | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-07-01        |

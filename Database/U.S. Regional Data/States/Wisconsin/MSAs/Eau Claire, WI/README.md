@@ -35,18 +35,18 @@
 | EAUC755TRADN              | All Employees: Trade, Transportation, and Utilities in Eau Claire, WI (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | EAUC755UR                 | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | EAUC755URN                | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| ENUC207430010             | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC207430010SA           | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC207440010             | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC207440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC207440110             | Average Weekly Wages for Employees in Federal Government Establishments in Eau Claire, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC207440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Eau Claire, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC207440210             | Average Weekly Wages for Employees in State Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2021-10-01        |
-| ENUC207440210SA           | Average Weekly Wages for Employees in State Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2021-10-01        |
-| ENUC207440310             | Average Weekly Wages for Employees in Local Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2021-10-01        |
-| ENUC207440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2021-10-01        |
-| ENUC207440510             | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC207440510SA           | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC207430010             | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC207430010SA           | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC207440010             | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC207440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC207440110             | Average Weekly Wages for Employees in Federal Government Establishments in Eau Claire, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC207440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Eau Claire, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC207440210             | Average Weekly Wages for Employees in State Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-01-01        |
+| ENUC207440210SA           | Average Weekly Wages for Employees in State Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-01-01        |
+| ENUC207440310             | Average Weekly Wages for Employees in Local Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-01-01        |
+| ENUC207440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-01-01        |
+| ENUC207440510             | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC207440510SA           | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
 | EVCPOP                    | Resident Population in Eau Claire, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA20740            | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA20740              | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

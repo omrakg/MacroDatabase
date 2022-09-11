@@ -54,10 +54,10 @@
 | Cloud County, KS        |                89 |
 | Franklin County, KS     |                90 |
 | Cherokee County, KS     |                90 |
-| Anderson County, KS     |                 0 |
+| Anderson County, KS     |                90 |
 | Butler County, KS       |               146 |
 | Ottawa County, KS       |                90 |
-| Ellsworth County, KS    |                89 |
+| Ellsworth County, KS    |                 0 |
 | Clay County, KS         |                90 |
 | Phillips County, KS     |                88 |
 | Greeley County, KS      |                87 |

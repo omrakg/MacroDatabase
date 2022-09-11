@@ -7,18 +7,18 @@
 | AVELISPRI31860            | Housing Inventory: Average Listing Price in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM31860          | Housing Inventory: Average Listing Price Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY31860          | Housing Inventory: Average Listing Price Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| ENUC318630010             | Total Quarterly Wages in Mankato-North Mankato, MN (MSA)                                                     | 2013-01-01          | 2021-10-01        |
-| ENUC318630010SA           | Total Quarterly Wages in Mankato-North Mankato, MN (MSA)                                                     | 2013-01-01          | 2021-10-01        |
-| ENUC318640010             | Average Weekly Wages for Employees in Total Covered Establishments in Mankato-North Mankato, MN (MSA)        | 2013-01-01          | 2021-10-01        |
-| ENUC318640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mankato-North Mankato, MN (MSA)        | 2013-01-01          | 2021-10-01        |
-| ENUC318640110             | Average Weekly Wages for Employees in Federal Government Establishments in Mankato-North Mankato, MN (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC318640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mankato-North Mankato, MN (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC318640210             | Average Weekly Wages for Employees in State Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2021-10-01        |
-| ENUC318640210SA           | Average Weekly Wages for Employees in State Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2021-10-01        |
-| ENUC318640310             | Average Weekly Wages for Employees in Local Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2021-10-01        |
-| ENUC318640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2021-10-01        |
-| ENUC318640510             | Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)              | 2013-01-01          | 2021-10-01        |
-| ENUC318640510SA           | Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)              | 2013-01-01          | 2021-10-01        |
+| ENUC318630010             | Total Quarterly Wages in Mankato-North Mankato, MN (MSA)                                                     | 2013-01-01          | 2022-01-01        |
+| ENUC318630010SA           | Total Quarterly Wages in Mankato-North Mankato, MN (MSA)                                                     | 2013-01-01          | 2022-01-01        |
+| ENUC318640010             | Average Weekly Wages for Employees in Total Covered Establishments in Mankato-North Mankato, MN (MSA)        | 2013-01-01          | 2022-01-01        |
+| ENUC318640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mankato-North Mankato, MN (MSA)        | 2013-01-01          | 2022-01-01        |
+| ENUC318640110             | Average Weekly Wages for Employees in Federal Government Establishments in Mankato-North Mankato, MN (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC318640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mankato-North Mankato, MN (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC318640210             | Average Weekly Wages for Employees in State Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2022-01-01        |
+| ENUC318640210SA           | Average Weekly Wages for Employees in State Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2022-01-01        |
+| ENUC318640310             | Average Weekly Wages for Employees in Local Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2022-01-01        |
+| ENUC318640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2022-01-01        |
+| ENUC318640510             | Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)              | 2013-01-01          | 2022-01-01        |
+| ENUC318640510SA           | Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)              | 2013-01-01          | 2022-01-01        |
 | IRPD31860                 | Implicit Regional Price Deflator for Mankato-North Mankato, MN (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT273186000000003      | Unemployment Rate in Mankato-North Mankato, MN (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | LAUMT273186000000003A     | Unemployment Rate in Mankato-North Mankato, MN (MSA)                                                         | 1990-01-01          | 2021-01-01        |

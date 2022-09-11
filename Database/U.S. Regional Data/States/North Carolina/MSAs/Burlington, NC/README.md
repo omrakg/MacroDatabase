@@ -36,18 +36,18 @@
 | BURL537URN                | Unemployment Rate in Burlington, NC (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | BURPOP                    | Resident Population in Burlington, NC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA15500              | Market Hotness: Demand Score in Burlington, NC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC155030010             | Total Quarterly Wages in Burlington, NC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC155030010SA           | Total Quarterly Wages in Burlington, NC (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC155040010             | Average Weekly Wages for Employees in Total Covered Establishments in Burlington, NC (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC155040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Burlington, NC (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC155040110             | Average Weekly Wages for Employees in Federal Government Establishments in Burlington, NC (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC155040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Burlington, NC (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC155040210             | Average Weekly Wages for Employees in State Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC155040210SA           | Average Weekly Wages for Employees in State Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC155040310             | Average Weekly Wages for Employees in Local Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC155040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC155040510             | Average Weekly Wages for Employees in Private Establishments in Burlington, NC (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC155040510SA           | Average Weekly Wages for Employees in Private Establishments in Burlington, NC (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC155030010             | Total Quarterly Wages in Burlington, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC155030010SA           | Total Quarterly Wages in Burlington, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC155040010             | Average Weekly Wages for Employees in Total Covered Establishments in Burlington, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC155040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Burlington, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC155040110             | Average Weekly Wages for Employees in Federal Government Establishments in Burlington, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC155040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Burlington, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC155040210             | Average Weekly Wages for Employees in State Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC155040210SA           | Average Weekly Wages for Employees in State Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC155040310             | Average Weekly Wages for Employees in Local Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC155040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC155040510             | Average Weekly Wages for Employees in Private Establishments in Burlington, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC155040510SA           | Average Weekly Wages for Employees in Private Establishments in Burlington, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA15500            | Market Hotness: Hotness Rank in Burlington, NC (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA15500              | Market Hotness: Hotness Rank in Burlington, NC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA15500            | Market Hotness: Hotness Rank in Burlington, NC (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

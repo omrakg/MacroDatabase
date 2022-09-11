@@ -7,18 +7,18 @@
 | AVELISPRI34100            | Housing Inventory: Average Listing Price in Morristown, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM34100          | Housing Inventory: Average Listing Price Month-Over-Month in Morristown, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY34100          | Housing Inventory: Average Listing Price Year-Over-Year in Morristown, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| ENUC341030010             | Total Quarterly Wages in Morristown, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC341030010SA           | Total Quarterly Wages in Morristown, TN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC341040010             | Average Weekly Wages for Employees in Total Covered Establishments in Morristown, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC341040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Morristown, TN (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC341040110             | Average Weekly Wages for Employees in Federal Government Establishments in Morristown, TN (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC341040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Morristown, TN (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC341040210             | Average Weekly Wages for Employees in State Government Establishments in Morristown, TN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC341040210SA           | Average Weekly Wages for Employees in State Government Establishments in Morristown, TN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC341040310             | Average Weekly Wages for Employees in Local Government Establishments in Morristown, TN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC341040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Morristown, TN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC341040510             | Average Weekly Wages for Employees in Private Establishments in Morristown, TN (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC341040510SA           | Average Weekly Wages for Employees in Private Establishments in Morristown, TN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC341030010             | Total Quarterly Wages in Morristown, TN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC341030010SA           | Total Quarterly Wages in Morristown, TN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC341040010             | Average Weekly Wages for Employees in Total Covered Establishments in Morristown, TN (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC341040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Morristown, TN (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC341040110             | Average Weekly Wages for Employees in Federal Government Establishments in Morristown, TN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC341040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Morristown, TN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC341040210             | Average Weekly Wages for Employees in State Government Establishments in Morristown, TN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC341040210SA           | Average Weekly Wages for Employees in State Government Establishments in Morristown, TN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC341040310             | Average Weekly Wages for Employees in Local Government Establishments in Morristown, TN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC341040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Morristown, TN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC341040510             | Average Weekly Wages for Employees in Private Establishments in Morristown, TN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC341040510SA           | Average Weekly Wages for Employees in Private Establishments in Morristown, TN (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD34100                 | Implicit Regional Price Deflator for Morristown, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT473410000000003A     | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT473410000000004      | Unemployed Persons in Morristown, TN (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

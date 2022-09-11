@@ -7,14 +7,14 @@
 | AVELISPRI46660            | Housing Inventory: Average Listing Price in Valdosta, GA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM46660          | Housing Inventory: Average Listing Price Month-Over-Month in Valdosta, GA (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY46660          | Housing Inventory: Average Listing Price Year-Over-Year in Valdosta, GA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| ENUC466630010             | Total Quarterly Wages in Valdosta, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC466630010SA           | Total Quarterly Wages in Valdosta, GA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC466640010             | Average Weekly Wages for Employees in Total Covered Establishments in Valdosta, GA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC466640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Valdosta, GA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC466640110             | Average Weekly Wages for Employees in Federal Government Establishments in Valdosta, GA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC466640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Valdosta, GA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC466640510             | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC466640510SA           | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC466630010             | Total Quarterly Wages in Valdosta, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC466630010SA           | Total Quarterly Wages in Valdosta, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC466640010             | Average Weekly Wages for Employees in Total Covered Establishments in Valdosta, GA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC466640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Valdosta, GA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC466640110             | Average Weekly Wages for Employees in Federal Government Establishments in Valdosta, GA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC466640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Valdosta, GA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC466640510             | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC466640510SA           | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD46660                 | Implicit Regional Price Deflator for Valdosta, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT134666000000003A     | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT134666000000004      | Unemployed Persons in Valdosta, GA (MSA)                                                        | 1990-01-01          | 2022-07-01        |

@@ -36,7 +36,7 @@
 | Cleveland County, OK    |               147 |
 | Kiowa County, OK        |                88 |
 | Garfield County, OK     |               144 |
-| Muskogee County, OK     |               147 |
+| Muskogee County, OK     |                 0 |
 | Jefferson County, OK    |                87 |
 | Delaware County, OK     |                90 |
 | Harmon County, OK       |                87 |
@@ -52,7 +52,7 @@
 | Jackson County, OK      |                90 |
 | Bryan County, OK        |                90 |
 | Johnston County, OK     |                89 |
-| Cotton County, OK       |                 0 |
+| Cotton County, OK       |                88 |
 | Pontotoc County, OK     |                90 |
 | Custer County, OK       |                90 |
 | Atoka County, OK        |                88 |

@@ -16,7 +16,7 @@
 | DCVGBA052SCEN | Value of Exports to British Virgin Islands from District of Columbia                   | 1997-01-01          | 2015-01-01        |
 | DCVGBA475SCEN | Number of Identified Exporters to British Virgin Islands from District of Columbia     | 1997-01-01          | 2016-01-01        |
 | DEVGBA475SCEN | Number of Identified Exporters to British Virgin Islands from Delaware                 | 2002-01-01          | 2017-01-01        |
-| EXP2482       | U.S. Exports of Goods by F.A.S. Basis to British Virgin Islands                        | 1992-01-01          | 2022-06-01        |
+| EXP2482       | U.S. Exports of Goods by F.A.S. Basis to British Virgin Islands                        | 1992-01-01          | 2022-07-01        |
 | FLVGBA052SCEN | Value of Exports to British Virgin Islands from Florida                                | 1992-01-01          | 2017-01-01        |
 | FLVGBA475SCEN | Number of Identified Exporters to British Virgin Islands from Florida                  | 1992-01-01          | 2017-01-01        |
 | GAVGBA052SCEN | Value of Exports to British Virgin Islands from Georgia                                | 1992-01-01          | 2017-01-01        |
@@ -29,7 +29,7 @@
 | IDVGBA475SCEN | Number of Identified Exporters to British Virgin Islands from Idaho                    | 1992-01-01          | 2016-01-01        |
 | ILVGBA052SCEN | Value of Exports to British Virgin Islands from Illinois                               | 1992-01-01          | 2017-01-01        |
 | ILVGBA475SCEN | Number of Identified Exporters to British Virgin Islands from Illinois                 | 1992-01-01          | 2017-01-01        |
-| IMP2482       | U.S. Imports of Goods by Customs Basis from British Virgin Islands                     | 1992-01-01          | 2022-06-01        |
+| IMP2482       | U.S. Imports of Goods by Customs Basis from British Virgin Islands                     | 1992-01-01          | 2022-07-01        |
 | INVGBA052SCEN | Value of Exports to British Virgin Islands from Indiana                                | 1992-01-01          | 2017-01-01        |
 | INVGBA475SCEN | Number of Identified Exporters to British Virgin Islands from Indiana                  | 1992-01-01          | 2017-01-01        |
 | KSVGBA052SCEN | Value of Exports to British Virgin Islands from Kansas                                 | 1997-01-01          | 2017-01-01        |

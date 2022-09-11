@@ -23,18 +23,18 @@
 | DALT113TRADN              | All Employees: Trade, Transportation, and Utilities in Dalton, GA (MSA)                                     | 1990-01-01          | 2022-07-01        |
 | DALT113UR                 | Unemployment Rate in Dalton, GA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | DALT113URN                | Unemployment Rate in Dalton, GA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| ENUC191430010             | Total Quarterly Wages in Dalton, GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC191430010SA           | Total Quarterly Wages in Dalton, GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC191440010             | Average Weekly Wages for Employees in Total Covered Establishments in Dalton, GA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC191440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dalton, GA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC191440110             | Average Weekly Wages for Employees in Federal Government Establishments in Dalton, GA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC191440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dalton, GA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC191440210             | Average Weekly Wages for Employees in State Government Establishments in Dalton, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC191440210SA           | Average Weekly Wages for Employees in State Government Establishments in Dalton, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC191440310             | Average Weekly Wages for Employees in Local Government Establishments in Dalton, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC191440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dalton, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC191440510             | Average Weekly Wages for Employees in Private Establishments in Dalton, GA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC191440510SA           | Average Weekly Wages for Employees in Private Establishments in Dalton, GA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC191430010             | Total Quarterly Wages in Dalton, GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC191430010SA           | Total Quarterly Wages in Dalton, GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC191440010             | Average Weekly Wages for Employees in Total Covered Establishments in Dalton, GA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC191440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dalton, GA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC191440110             | Average Weekly Wages for Employees in Federal Government Establishments in Dalton, GA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC191440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dalton, GA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC191440210             | Average Weekly Wages for Employees in State Government Establishments in Dalton, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC191440210SA           | Average Weekly Wages for Employees in State Government Establishments in Dalton, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC191440310             | Average Weekly Wages for Employees in Local Government Establishments in Dalton, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC191440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dalton, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC191440510             | Average Weekly Wages for Employees in Private Establishments in Dalton, GA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC191440510SA           | Average Weekly Wages for Employees in Private Establishments in Dalton, GA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD19140                 | Implicit Regional Price Deflator for Dalton, GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT131914000000003A     | Unemployment Rate in Dalton, GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT131914000000004      | Unemployed Persons in Dalton, GA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

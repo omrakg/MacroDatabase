@@ -7,18 +7,18 @@
 | AVELISPRI33140            | Housing Inventory: Average Listing Price in Michigan City-LA Porte, IN (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM33140          | Housing Inventory: Average Listing Price Month-Over-Month in Michigan City-LA Porte, IN (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY33140          | Housing Inventory: Average Listing Price Year-Over-Year in Michigan City-LA Porte, IN (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| ENUC331430010             | Total Quarterly Wages in Michigan City-La Porte, IN (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC331430010SA           | Total Quarterly Wages in Michigan City-La Porte, IN (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC331440010             | Average Weekly Wages for Employees in Total Covered Establishments in Michigan City-La Porte, IN (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC331440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Michigan City-La Porte, IN (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC331440110             | Average Weekly Wages for Employees in Federal Government Establishments in Michigan City-La Porte, IN (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC331440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Michigan City-La Porte, IN (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC331440210             | Average Weekly Wages for Employees in State Government Establishments in Michigan City-La Porte, IN (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC331440210SA           | Average Weekly Wages for Employees in State Government Establishments in Michigan City-La Porte, IN (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC331440310             | Average Weekly Wages for Employees in Local Government Establishments in Michigan City-La Porte, IN (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC331440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Michigan City-La Porte, IN (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC331440510             | Average Weekly Wages for Employees in Private Establishments in Michigan City-La Porte, IN (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC331440510SA           | Average Weekly Wages for Employees in Private Establishments in Michigan City-La Porte, IN (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC331430010             | Total Quarterly Wages in Michigan City-La Porte, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC331430010SA           | Total Quarterly Wages in Michigan City-La Porte, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC331440010             | Average Weekly Wages for Employees in Total Covered Establishments in Michigan City-La Porte, IN (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC331440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Michigan City-La Porte, IN (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC331440110             | Average Weekly Wages for Employees in Federal Government Establishments in Michigan City-La Porte, IN (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC331440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Michigan City-La Porte, IN (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC331440210             | Average Weekly Wages for Employees in State Government Establishments in Michigan City-La Porte, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC331440210SA           | Average Weekly Wages for Employees in State Government Establishments in Michigan City-La Porte, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC331440310             | Average Weekly Wages for Employees in Local Government Establishments in Michigan City-La Porte, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC331440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Michigan City-La Porte, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC331440510             | Average Weekly Wages for Employees in Private Establishments in Michigan City-La Porte, IN (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC331440510SA           | Average Weekly Wages for Employees in Private Establishments in Michigan City-La Porte, IN (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD33140                 | Implicit Regional Price Deflator for Michigan City-La Porte, IN (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT183314000000003A     | Unemployment Rate in Michigan City-La Porte, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT183314000000004      | Unemployed Persons in Michigan City-La Porte, IN (MSA)                                                        | 1990-01-01          | 2022-07-01        |

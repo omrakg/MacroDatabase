@@ -21,7 +21,7 @@
 | Furniture and Household Durables                                   |               151 |
 | Professional Services                                              |                56 |
 | Intermediate Demand By Commodity Type                              |               116 |
-| Textile Products and Apparel                                       |               161 |
+| Textile Products and Apparel                                       |                 0 |
 | Repair and Maintenance Services                                    |                28 |
 | Educational Services                                               |                 0 |
 | Intermediate Demand By Production Flow                             |               306 |
@@ -31,7 +31,7 @@
 | Metals and Metal Products                                          |               374 |
 | Data Processing and Related Services                               |                11 |
 | Publishing Sales, Excluding Software                               |                38 |
-| Nonmetallic Mineral Products                                       |                 0 |
+| Nonmetallic Mineral Products                                       |               183 |
 | Travel Arrangement Services                                        |                25 |
 | Hides, Skins, Leather, and Related Products                        |                45 |
 | Special Indexes                                                    |               176 |

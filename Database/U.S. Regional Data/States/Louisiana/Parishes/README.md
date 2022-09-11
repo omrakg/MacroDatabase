@@ -36,7 +36,7 @@
 | Grant Parish, LA                |                90 |
 | Evangeline Parish, LA           |                90 |
 | Richland Parish, LA             |                89 |
-| West Baton Rouge Parish, LA     |                89 |
+| West Baton Rouge Parish, LA     |                 0 |
 | Bossier Parish, LA              |               147 |
 | St. Landry Parish, LA           |               146 |
 | East Carroll Parish, LA         |                88 |
@@ -46,7 +46,7 @@
 | Ouachita Parish, LA             |               146 |
 | Madison Parish, LA              |                88 |
 | St. John the Baptist Parish, LA |                90 |
-| Union Parish, LA                |                 0 |
+| Union Parish, LA                |                90 |
 | Lafayette Parish, LA            |               147 |
 | East Feliciana Parish, LA       |                90 |
 | Sabine Parish, LA               |                90 |

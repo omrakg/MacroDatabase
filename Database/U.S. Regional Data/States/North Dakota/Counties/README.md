@@ -3,7 +3,7 @@
 | Pierce County, ND        |                88 |
 | La Moure County, ND      |                88 |
 | Dickey County, ND        |                89 |
-| Bowman County, ND        |                 0 |
+| Bowman County, ND        |                89 |
 | Sargent County, ND       |                89 |
 | Morton County, ND        |                89 |
 | Pembina County, ND       |                89 |
@@ -24,7 +24,7 @@
 | Dunn County, ND          |                88 |
 | Ransom County, ND        |                89 |
 | Stutsman County, ND      |                90 |
-| McLean County, ND        |                89 |
+| McLean County, ND        |                 0 |
 | Ramsey County, ND        |                89 |
 | Ward County, ND          |               147 |
 | Golden Valley County, ND |                88 |

@@ -7,18 +7,18 @@
 | AVELISPRI31900            | Housing Inventory: Average Listing Price in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM31900          | Housing Inventory: Average Listing Price Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY31900          | Housing Inventory: Average Listing Price Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| ENUC319030010             | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC319030010SA           | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC319040010             | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC319040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC319040110             | Average Weekly Wages for Employees in Federal Government Establishments in Mansfield, OH (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC319040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mansfield, OH (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC319040210             | Average Weekly Wages for Employees in State Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC319040210SA           | Average Weekly Wages for Employees in State Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC319040310             | Average Weekly Wages for Employees in Local Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC319040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC319040510             | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC319040510SA           | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC319030010             | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC319030010SA           | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC319040010             | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC319040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC319040110             | Average Weekly Wages for Employees in Federal Government Establishments in Mansfield, OH (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC319040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mansfield, OH (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC319040210             | Average Weekly Wages for Employees in State Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC319040210SA           | Average Weekly Wages for Employees in State Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC319040310             | Average Weekly Wages for Employees in Local Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC319040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC319040510             | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC319040510SA           | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD31900                 | Implicit Regional Price Deflator for Mansfield, OH (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT393190000000003A     | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT393190000000004      | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2022-07-01        |

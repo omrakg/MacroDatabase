@@ -1,6 +1,6 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Bay City, MI                |               123 |
+| Bay City, MI                |                 0 |
 | Jackson, MI                 |               157 |
 | Muskegon, MI                |               146 |
 | Battle Creek, MI            |               149 |

@@ -16,7 +16,7 @@
 | Orleans County, NY      |                89 |
 | Nassau County, NY       |               143 |
 | Rensselaer County, NY   |               147 |
-| Queens County, NY       |                 0 |
+| Queens County, NY       |               142 |
 | Livingston County, NY   |               146 |
 | Monroe County, NY       |               147 |
 | Richmond County, NY     |               146 |
@@ -41,7 +41,7 @@
 | Hamilton County, NY     |                89 |
 | Cattaraugus County, NY  |               147 |
 | Franklin County, NY     |               146 |
-| Lewis County, NY        |                89 |
+| Lewis County, NY        |                 0 |
 | Wyoming County, NY      |                90 |
 | Suffolk County, NY      |               147 |
 | Cortland County, NY     |               146 |

@@ -23,7 +23,7 @@
 | Manistee County, MI       |                89 |
 | Cheboygan County, MI      |                90 |
 | Jackson County, MI        |               146 |
-| Saginaw County, MI        |               147 |
+| Saginaw County, MI        |                 0 |
 | Muskegon County, MI       |               147 |
 | Keweenaw County, MI       |                89 |
 | Wayne County, MI          |               147 |
@@ -58,7 +58,7 @@
 | Clinton County, MI        |               147 |
 | Calhoun County, MI        |               147 |
 | Delta County, MI          |                90 |
-| Iosco County, MI          |                 0 |
+| Iosco County, MI          |                89 |
 | Tuscola County, MI        |                90 |
 | Alger County, MI          |                89 |
 | Crawford County, MI       |                90 |

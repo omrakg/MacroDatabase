@@ -8,23 +8,23 @@
 | AVELISPRIMM38860          | Housing Inventory: Average Listing Price Month-Over-Month in Portland-South Portland, ME (CBSA)                        | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY38860          | Housing Inventory: Average Listing Price Year-Over-Year in Portland-South Portland, ME (CBSA)                          | 2017-07-01          | 2022-08-01        |
 | DESCMSA38860              | Market Hotness: Demand Score in Portland-South Portland, ME (CBSA)                                                     | 2017-08-01          | 2022-08-01        |
-| ENUC388630010             | Total Quarterly Wages in Portland-South Portland, ME (MSA)                                                             | 1990-01-01          | 2021-10-01        |
-| ENUC388630010SA           | Total Quarterly Wages in Portland-South Portland, ME (MSA)                                                             | 1990-01-01          | 2021-10-01        |
-| ENUC388640010             | Average Weekly Wages for Employees in Total Covered Establishments in Portland-South Portland-Biddeford, ME (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC388640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Portland-South Portland-Biddeford, ME (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC388640110             | Average Weekly Wages for Employees in Federal Government Establishments in Portland-South Portland-Biddeford, ME (MSA) | 1990-01-01          | 2021-10-01        |
-| ENUC388640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Portland-South Portland-Biddeford, ME (MSA) | 1990-01-01          | 2021-10-01        |
+| ENUC388630010             | Total Quarterly Wages in Portland-South Portland, ME (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| ENUC388630010SA           | Total Quarterly Wages in Portland-South Portland, ME (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| ENUC388640010             | Average Weekly Wages for Employees in Total Covered Establishments in Portland-South Portland-Biddeford, ME (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC388640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Portland-South Portland-Biddeford, ME (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC388640110             | Average Weekly Wages for Employees in Federal Government Establishments in Portland-South Portland-Biddeford, ME (MSA) | 1990-01-01          | 2022-01-01        |
+| ENUC388640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Portland-South Portland-Biddeford, ME (MSA) | 1990-01-01          | 2022-01-01        |
 | ENUC388640210             | Average Weekly Wages for Employees in State Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2019-07-01        |
 | ENUC388640210SA           | Average Weekly Wages for Employees in State Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2019-07-01        |
 | ENUC388640310             | Average Weekly Wages for Employees in Local Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2019-07-01        |
 | ENUC388640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2019-07-01        |
-| ENUC388640510             | Average Weekly Wages for Employees in Private Establishments in Portland-South Portland-Biddeford, ME (MSA)            | 1990-01-01          | 2021-10-01        |
-| ENUC388640510SA           | Average Weekly Wages for Employees in Private Establishments in Portland-South Portland-Biddeford, ME (MSA)            | 1990-01-01          | 2021-10-01        |
+| ENUC388640510             | Average Weekly Wages for Employees in Private Establishments in Portland-South Portland-Biddeford, ME (MSA)            | 1990-01-01          | 2022-01-01        |
+| ENUC388640510SA           | Average Weekly Wages for Employees in Private Establishments in Portland-South Portland-Biddeford, ME (MSA)            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA38860            | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2018-08-01          | 2022-08-01        |
 | HORAMSA38860              | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA38860            | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2018-08-01          | 2022-08-01        |
 | HOSCMSA38860              | Market Hotness: Hotness Score in Portland-South Portland, ME (CBSA)                                                    | 2017-08-01          | 2022-08-01        |
-| IHLCHG38860               | Job Postings on Indeed in Portland-South Portland, ME (MSA)                                                            | 2020-02-01          | 2022-07-29        |
+| IHLCHG38860               | Job Postings on Indeed in Portland-South Portland, ME (MSA)                                                            | 2020-02-01          | 2022-08-26        |
 | IRPD38860                 | Implicit Regional Price Deflator for Portland-South Portland, ME (MSA)                                                 | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA38860          | Market Hotness: Listing Views per Property in Portland-South Portland, ME (CBSA)                                       | 2018-08-01          | 2022-08-01        |
 | LDPEPRVSUSMSA38860        | Market Hotness: Listing Views per Property Versus the United States in Portland-South Portland, ME (CBSA)              | 2017-08-01          | 2022-08-01        |

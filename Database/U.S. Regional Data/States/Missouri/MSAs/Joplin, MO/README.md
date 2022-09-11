@@ -8,18 +8,18 @@
 | AVELISPRIMM27900          | Housing Inventory: Average Listing Price Month-Over-Month in Joplin, MO (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY27900          | Housing Inventory: Average Listing Price Year-Over-Year in Joplin, MO (CBSA)                        | 2017-07-01          | 2022-08-01        |
 | DESCMSA27900              | Market Hotness: Demand Score in Joplin, MO (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| ENUC279030010             | Total Quarterly Wages in Joplin, MO (MSA)                                                           | 1990-01-01          | 2021-10-01        |
-| ENUC279030010SA           | Total Quarterly Wages in Joplin, MO (MSA)                                                           | 1990-01-01          | 2021-10-01        |
-| ENUC279040010             | Average Weekly Wages for Employees in Total Covered Establishments in Joplin, MO (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC279040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Joplin, MO (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC279040110             | Average Weekly Wages for Employees in Federal Government Establishments in Joplin, MO (MSA)         | 1990-01-01          | 2021-10-01        |
-| ENUC279040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Joplin, MO (MSA)         | 1990-01-01          | 2021-10-01        |
-| ENUC279040210             | Average Weekly Wages for Employees in State Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC279040210SA           | Average Weekly Wages for Employees in State Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC279040310             | Average Weekly Wages for Employees in Local Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC279040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC279040510             | Average Weekly Wages for Employees in Private Establishments in Joplin, MO (MSA)                    | 1990-01-01          | 2021-10-01        |
-| ENUC279040510SA           | Average Weekly Wages for Employees in Private Establishments in Joplin, MO (MSA)                    | 1990-01-01          | 2021-10-01        |
+| ENUC279030010             | Total Quarterly Wages in Joplin, MO (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| ENUC279030010SA           | Total Quarterly Wages in Joplin, MO (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| ENUC279040010             | Average Weekly Wages for Employees in Total Covered Establishments in Joplin, MO (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC279040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Joplin, MO (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC279040110             | Average Weekly Wages for Employees in Federal Government Establishments in Joplin, MO (MSA)         | 1990-01-01          | 2022-01-01        |
+| ENUC279040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Joplin, MO (MSA)         | 1990-01-01          | 2022-01-01        |
+| ENUC279040210             | Average Weekly Wages for Employees in State Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC279040210SA           | Average Weekly Wages for Employees in State Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC279040310             | Average Weekly Wages for Employees in Local Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC279040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC279040510             | Average Weekly Wages for Employees in Private Establishments in Joplin, MO (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC279040510SA           | Average Weekly Wages for Employees in Private Establishments in Joplin, MO (MSA)                    | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA27900            | Market Hotness: Hotness Rank in Joplin, MO (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
 | HORAMSA27900              | Market Hotness: Hotness Rank in Joplin, MO (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA27900            | Market Hotness: Hotness Rank in Joplin, MO (CBSA)                                                   | 2018-08-01          | 2022-08-01        |

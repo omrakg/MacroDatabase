@@ -7,14 +7,14 @@
 | AVELISPRI25500            | Housing Inventory: Average Listing Price in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM25500          | Housing Inventory: Average Listing Price Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY25500          | Housing Inventory: Average Listing Price Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-08-01        |
-| ENUC255030010             | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC255030010SA           | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC255040010             | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC255040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC255040110             | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC255040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC255040510             | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC255040510SA           | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC255030010             | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC255030010SA           | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC255040010             | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC255040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC255040110             | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC255040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC255040510             | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC255040510SA           | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
 | HARR551BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-07-01        |
 | HARR551BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-07-01        |
 | HARR551BPPRIV             | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-07-01        |

@@ -11,14 +11,14 @@
 | DCFROA475SCEN     | Number of Identified Exporters to Faroe Islands from District of Columbia | 2008-01-01          | 2008-01-01        |
 | DDOI11FOA156NWDB  | Remittance Inflows to GDP for Faroe Islands                               | 1998-01-01          | 2019-01-01        |
 | DEFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Delaware             | 2012-01-01          | 2012-01-01        |
-| EXP4091           | U.S. Exports of Goods by F.A.S. Basis to Faroe Islands                    | 1992-01-01          | 2022-06-01        |
+| EXP4091           | U.S. Exports of Goods by F.A.S. Basis to Faroe Islands                    | 1992-01-01          | 2022-07-01        |
 | FLFROA052SCEN     | Value of Exports to Faroe Islands from Florida                            | 2007-01-01          | 2016-01-01        |
 | FLFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Florida              | 2002-01-01          | 2016-01-01        |
 | GAFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Georgia              | 2004-01-01          | 2015-01-01        |
 | IAFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Iowa                 | 1992-01-01          | 2008-01-01        |
 | ILFROA052SCEN     | Value of Exports to Faroe Islands from Illinois                           | 2012-01-01          | 2015-01-01        |
 | ILFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Illinois             | 1997-01-01          | 2016-01-01        |
-| IMP4091           | U.S. Imports of Goods by Customs Basis from Faroe Islands                 | 1992-01-01          | 2022-06-01        |
+| IMP4091           | U.S. Imports of Goods by Customs Basis from Faroe Islands                 | 1992-01-01          | 2022-07-01        |
 | INFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Indiana              | 2006-01-01          | 2015-01-01        |
 | ITNETUSERP2FRO    | Internet users for the Faroe Islands                                      | 1990-01-01          | 2017-01-01        |
 | KSFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Kansas               | 2008-01-01          | 2008-01-01        |

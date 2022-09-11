@@ -7,18 +7,18 @@
 | AVELISPRI47020            | Housing Inventory: Average Listing Price in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM47020          | Housing Inventory: Average Listing Price Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY47020          | Housing Inventory: Average Listing Price Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| ENUC470230010             | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC470230010SA           | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC470240010             | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC470240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC470240110             | Average Weekly Wages for Employees in Federal Government Establishments in Victoria, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC470240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Victoria, TX (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC470240210             | Average Weekly Wages for Employees in State Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC470240210SA           | Average Weekly Wages for Employees in State Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC470240310             | Average Weekly Wages for Employees in Local Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC470240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC470240510             | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC470240510SA           | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC470230010             | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC470230010SA           | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC470240010             | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC470240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC470240110             | Average Weekly Wages for Employees in Federal Government Establishments in Victoria, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC470240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Victoria, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC470240210             | Average Weekly Wages for Employees in State Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC470240210SA           | Average Weekly Wages for Employees in State Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC470240310             | Average Weekly Wages for Employees in Local Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC470240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC470240510             | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC470240510SA           | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD47020                 | Implicit Regional Price Deflator for Victoria, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484702000000003A     | Unemployment Rate in Victoria, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT484702000000004      | Unemployed Persons in Victoria, TX (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

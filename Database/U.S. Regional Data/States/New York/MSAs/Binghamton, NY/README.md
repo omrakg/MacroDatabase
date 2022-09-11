@@ -36,18 +36,18 @@
 | BING736URN                | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-07-01        |
 | BINPOP                    | Resident Population in Binghamton, NY (MSA)                                                                        | 2000-01-01          | 2021-01-01        |
 | DESCMSA13780              | Market Hotness: Demand Score in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-08-01        |
-| ENUC137830010             | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2021-10-01        |
-| ENUC137830010SA           | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2021-10-01        |
-| ENUC137840010             | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2021-10-01        |
-| ENUC137840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2021-10-01        |
-| ENUC137840110             | Average Weekly Wages for Employees in Federal Government Establishments in Binghamton, NY (MSA)                    | 1990-01-01          | 2021-10-01        |
-| ENUC137840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Binghamton, NY (MSA)                    | 1990-01-01          | 2021-10-01        |
-| ENUC137840210             | Average Weekly Wages for Employees in State Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2021-10-01        |
-| ENUC137840210SA           | Average Weekly Wages for Employees in State Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2021-10-01        |
-| ENUC137840310             | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2021-10-01        |
-| ENUC137840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2021-10-01        |
-| ENUC137840510             | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2021-10-01        |
-| ENUC137840510SA           | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC137830010             | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
+| ENUC137830010SA           | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
+| ENUC137840010             | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2022-01-01        |
+| ENUC137840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2022-01-01        |
+| ENUC137840110             | Average Weekly Wages for Employees in Federal Government Establishments in Binghamton, NY (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC137840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Binghamton, NY (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC137840210             | Average Weekly Wages for Employees in State Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-01-01        |
+| ENUC137840210SA           | Average Weekly Wages for Employees in State Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-01-01        |
+| ENUC137840310             | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-01-01        |
+| ENUC137840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-01-01        |
+| ENUC137840510             | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2022-01-01        |
+| ENUC137840510SA           | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2018-08-01          | 2022-08-01        |
 | HORAMSA13780              | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2018-08-01          | 2022-08-01        |

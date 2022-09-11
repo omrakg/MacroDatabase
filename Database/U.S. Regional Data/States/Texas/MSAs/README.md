@@ -6,7 +6,7 @@
 | Abilene, TX                          |               162 |
 | Wichita Falls, TX                    |               162 |
 | Victoria, TX                         |               139 |
-| McAllen-Edinburg-Mission, TX         |                 0 |
+| McAllen-Edinburg-Mission, TX         |               222 |
 | Waco, TX                             |               162 |
 | Austin-Round Rock-Georgetown, TX     |               305 |
 | San Antonio, TX                      |               312 |

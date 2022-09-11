@@ -7,18 +7,18 @@
 | AVELISPRI44940            | Housing Inventory: Average Listing Price in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM44940          | Housing Inventory: Average Listing Price Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY44940          | Housing Inventory: Average Listing Price Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-08-01        |
-| ENUC449430010             | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC449430010SA           | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC449440010             | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC449440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC449440110             | Average Weekly Wages for Employees in Federal Government Establishments in Sumter, SC (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC449440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sumter, SC (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC449440210             | Average Weekly Wages for Employees in State Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC449440210SA           | Average Weekly Wages for Employees in State Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC449440310             | Average Weekly Wages for Employees in Local Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC449440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC449440510             | Average Weekly Wages for Employees in Private Establishments in Sumter, SC (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC449440510SA           | Average Weekly Wages for Employees in Private Establishments in Sumter, SC (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC449430010             | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC449430010SA           | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC449440010             | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC449440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC449440110             | Average Weekly Wages for Employees in Federal Government Establishments in Sumter, SC (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC449440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sumter, SC (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC449440210             | Average Weekly Wages for Employees in State Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC449440210SA           | Average Weekly Wages for Employees in State Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC449440310             | Average Weekly Wages for Employees in Local Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC449440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC449440510             | Average Weekly Wages for Employees in Private Establishments in Sumter, SC (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC449440510SA           | Average Weekly Wages for Employees in Private Establishments in Sumter, SC (MSA)                 | 1990-01-01          | 2022-01-01        |
 | IRPD44940                 | Implicit Regional Price Deflator for Sumter, SC (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT454494000000003A     | Unemployment Rate in Sumter, SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT454494000000004      | Unemployed Persons in Sumter, SC (MSA)                                                           | 1990-01-01          | 2022-07-01        |

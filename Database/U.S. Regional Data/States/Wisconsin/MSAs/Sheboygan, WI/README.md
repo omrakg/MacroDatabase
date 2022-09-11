@@ -7,18 +7,18 @@
 | AVELISPRI43100            | Housing Inventory: Average Listing Price in Sheboygan, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM43100          | Housing Inventory: Average Listing Price Month-Over-Month in Sheboygan, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY43100          | Housing Inventory: Average Listing Price Year-Over-Year in Sheboygan, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| ENUC431030010             | Total Quarterly Wages in Sheboygan, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC431030010SA           | Total Quarterly Wages in Sheboygan, WI (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC431040010             | Average Weekly Wages for Employees in Total Covered Establishments in Sheboygan, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC431040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sheboygan, WI (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC431040110             | Average Weekly Wages for Employees in Federal Government Establishments in Sheboygan, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC431040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sheboygan, WI (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC431040210             | Average Weekly Wages for Employees in State Government Establishments in Sheboygan, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC431040210SA           | Average Weekly Wages for Employees in State Government Establishments in Sheboygan, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC431040310             | Average Weekly Wages for Employees in Local Government Establishments in Sheboygan, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC431040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sheboygan, WI (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC431040510             | Average Weekly Wages for Employees in Private Establishments in Sheboygan, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC431040510SA           | Average Weekly Wages for Employees in Private Establishments in Sheboygan, WI (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC431030010             | Total Quarterly Wages in Sheboygan, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC431030010SA           | Total Quarterly Wages in Sheboygan, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC431040010             | Average Weekly Wages for Employees in Total Covered Establishments in Sheboygan, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC431040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sheboygan, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC431040110             | Average Weekly Wages for Employees in Federal Government Establishments in Sheboygan, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC431040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sheboygan, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC431040210             | Average Weekly Wages for Employees in State Government Establishments in Sheboygan, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC431040210SA           | Average Weekly Wages for Employees in State Government Establishments in Sheboygan, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC431040310             | Average Weekly Wages for Employees in Local Government Establishments in Sheboygan, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC431040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sheboygan, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC431040510             | Average Weekly Wages for Employees in Private Establishments in Sheboygan, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC431040510SA           | Average Weekly Wages for Employees in Private Establishments in Sheboygan, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD43100                 | Implicit Regional Price Deflator for Sheboygan, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT554310000000003A     | Unemployment Rate in Sheboygan, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT554310000000004      | Unemployed Persons in Sheboygan, WI (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

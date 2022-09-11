@@ -1,17 +1,17 @@
 | id                     | title                                                                                                     | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ENUC419030010          | Total Quarterly Wages in San German, PR (MSA)                                                             | 1990-01-01          | 2021-10-01        |
-| ENUC419030010SA        | Total Quarterly Wages in San German, PR (MSA)                                                             | 1990-01-01          | 2021-10-01        |
-| ENUC419040010          | Average Weekly Wages for Employees in Total Covered Establishments in San Germán-Cabo Rojo, PR (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC419040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in San Germán-Cabo Rojo, PR (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC419040110          | Average Weekly Wages for Employees in Federal Government Establishments in San Germán-Cabo Rojo, PR (MSA) | 1990-01-01          | 2021-10-01        |
-| ENUC419040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in San Germán-Cabo Rojo, PR (MSA) | 1990-01-01          | 2021-10-01        |
-| ENUC419040210          | Average Weekly Wages for Employees in State Government Establishments in San Germán-Cabo Rojo, PR (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC419040210SA        | Average Weekly Wages for Employees in State Government Establishments in San Germán-Cabo Rojo, PR (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC419040310          | Average Weekly Wages for Employees in Local Government Establishments in San Germán-Cabo Rojo, PR (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC419040310SA        | Average Weekly Wages for Employees in Local Government Establishments in San Germán-Cabo Rojo, PR (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC419040510          | Average Weekly Wages for Employees in Private Establishments in San Germán-Cabo Rojo, PR (MSA)            | 1990-01-01          | 2021-10-01        |
-| ENUC419040510SA        | Average Weekly Wages for Employees in Private Establishments in San Germán-Cabo Rojo, PR (MSA)            | 1990-01-01          | 2021-10-01        |
+| ENUC419030010          | Total Quarterly Wages in San German, PR (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| ENUC419030010SA        | Total Quarterly Wages in San German, PR (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| ENUC419040010          | Average Weekly Wages for Employees in Total Covered Establishments in San Germán-Cabo Rojo, PR (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC419040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in San Germán-Cabo Rojo, PR (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC419040110          | Average Weekly Wages for Employees in Federal Government Establishments in San Germán-Cabo Rojo, PR (MSA) | 1990-01-01          | 2022-01-01        |
+| ENUC419040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in San Germán-Cabo Rojo, PR (MSA) | 1990-01-01          | 2022-01-01        |
+| ENUC419040210          | Average Weekly Wages for Employees in State Government Establishments in San Germán-Cabo Rojo, PR (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC419040210SA        | Average Weekly Wages for Employees in State Government Establishments in San Germán-Cabo Rojo, PR (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC419040310          | Average Weekly Wages for Employees in Local Government Establishments in San Germán-Cabo Rojo, PR (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC419040310SA        | Average Weekly Wages for Employees in Local Government Establishments in San Germán-Cabo Rojo, PR (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC419040510          | Average Weekly Wages for Employees in Private Establishments in San Germán-Cabo Rojo, PR (MSA)            | 1990-01-01          | 2022-01-01        |
+| ENUC419040510SA        | Average Weekly Wages for Employees in Private Establishments in San Germán-Cabo Rojo, PR (MSA)            | 1990-01-01          | 2022-01-01        |
 | SMS72419000000000001   | All Employees: Total Nonfarm in San German, PR (MSA)                                                      | 1990-01-01          | 2022-07-01        |
 | SMS72419000000000026   | All Employees: Total Nonfarm in San German, PR (MSA)                                                      | 1990-04-01          | 2022-07-01        |
 | SMU72419000000000001   | All Employees: Total Nonfarm in San German, PR (MSA)                                                      | 1990-01-01          | 2022-07-01        |

@@ -107,7 +107,7 @@
 | DDSI06BZA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Belize                                                                                 | 2001-01-01          | 2019-01-01        |
 | DEBLZA475SCEN       | Number of Identified Exporters to Belize from Delaware                                                                                      | 2003-01-01          | 2016-01-01        |
 | DEBTTLBZA188A       | Central government debt, total (% of GDP) for Belize                                                                                        | 1990-01-01          | 2014-01-01        |
-| EXP2080             | U.S. Exports of Goods by F.A.S. Basis to Belize                                                                                             | 1992-01-01          | 2022-06-01        |
+| EXP2080             | U.S. Exports of Goods by F.A.S. Basis to Belize                                                                                             | 1992-01-01          | 2022-07-01        |
 | FLBLZA052SCEN       | Value of Exports to Belize from Florida                                                                                                     | 1992-01-01          | 2016-01-01        |
 | FLBLZA475SCEN       | Number of Identified Exporters to Belize from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGBLZ      | Inflation, consumer prices for Belize                                                                                                       | 1981-01-01          | 2017-01-01        |
@@ -130,7 +130,7 @@
 | IDSGAMRINIBZ        | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Belize         | 2002-07-01          | 2021-10-01        |
 | ILBLZA052SCEN       | Value of Exports to Belize from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILBLZA475SCEN       | Number of Identified Exporters to Belize from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP2080             | U.S. Imports of Goods by Customs Basis from Belize                                                                                          | 1992-01-01          | 2022-06-01        |
+| IMP2080             | U.S. Imports of Goods by Customs Basis from Belize                                                                                          | 1992-01-01          | 2022-07-01        |
 | INBLZA052SCEN       | Value of Exports to Belize from Indiana                                                                                                     | 1997-01-01          | 2017-01-01        |
 | INBLZA475SCEN       | Number of Identified Exporters to Belize from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2BLZ      | Internet users for Belize                                                                                                                   | 1990-01-01          | 2019-01-01        |

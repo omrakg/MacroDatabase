@@ -8,16 +8,16 @@
 | AVELISPRIMM27620          | Housing Inventory: Average Listing Price Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY27620          | Housing Inventory: Average Listing Price Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA27620              | Market Hotness: Demand Score in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC276230010             | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC276230010SA           | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC276240010             | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC276240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC276240110             | Average Weekly Wages for Employees in Federal Government Establishments in Jefferson City, MO (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC276240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jefferson City, MO (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC276230010             | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC276230010SA           | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC276240010             | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC276240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC276240110             | Average Weekly Wages for Employees in Federal Government Establishments in Jefferson City, MO (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC276240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jefferson City, MO (MSA)   | 1990-01-01          | 2022-01-01        |
 | ENUC276240210             | Average Weekly Wages for Employees in State Government Establishments in Jefferson City, MO (MSA)     | 1990-01-01          | 2018-07-01        |
 | ENUC276240310             | Average Weekly Wages for Employees in Local Government Establishments in Jefferson City, MO (MSA)     | 1990-01-01          | 2018-07-01        |
-| ENUC276240510             | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC276240510SA           | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC276240510             | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC276240510SA           | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA27620              | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2018-08-01          | 2022-08-01        |

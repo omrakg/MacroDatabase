@@ -38,16 +38,16 @@
 | AVELISPRIMM11260          | Housing Inventory: Average Listing Price Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY11260          | Housing Inventory: Average Listing Price Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA11260              | Market Hotness: Demand Score in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC112630010             | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC112630010SA           | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC112640010             | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC112640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC112640110             | Average Weekly Wages for Employees in Federal Government Establishments in Anchorage, AK (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC112640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Anchorage, AK (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC112630010             | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC112630010SA           | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC112640010             | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC112640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC112640110             | Average Weekly Wages for Employees in Federal Government Establishments in Anchorage, AK (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC112640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Anchorage, AK (MSA)                 | 1990-01-01          | 2022-01-01        |
 | ENUC112640210             | Average Weekly Wages for Employees in State Government Establishments in Anchorage, AK (MSA)                   | 2004-04-01          | 2005-04-01        |
 | ENUC112640310             | Average Weekly Wages for Employees in Local Government Establishments in Anchorage, AK (MSA)                   | 2004-04-01          | 2005-04-01        |
-| ENUC112640510             | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC112640510SA           | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC112640510             | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC112640510SA           | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA11260            | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA11260              | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA11260            | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

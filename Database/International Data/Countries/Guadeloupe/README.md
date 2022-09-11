@@ -13,7 +13,7 @@
 | CTGLPA475SCEN | Number of Identified Exporters to Guadeloupe from Connecticut          | 1992-01-01          | 2017-01-01        |
 | DCGLPA475SCEN | Number of Identified Exporters to Guadeloupe from District of Columbia | 1992-01-01          | 2015-01-01        |
 | DEGLPA475SCEN | Number of Identified Exporters to Guadeloupe from Delaware             | 1992-01-01          | 2013-01-01        |
-| EXP2831       | U.S. Exports of Goods by F.A.S. Basis to Guadeloupe                    | 1992-01-01          | 2022-06-01        |
+| EXP2831       | U.S. Exports of Goods by F.A.S. Basis to Guadeloupe                    | 1992-01-01          | 2022-07-01        |
 | FLGLPA052SCEN | Value of Exports to Guadeloupe from Florida                            | 1992-01-01          | 2017-01-01        |
 | FLGLPA475SCEN | Number of Identified Exporters to Guadeloupe from Florida              | 1992-01-01          | 2017-01-01        |
 | GAGLPA052SCEN | Value of Exports to Guadeloupe from Georgia                            | 1992-01-01          | 2017-01-01        |
@@ -25,7 +25,7 @@
 | IDGLPA475SCEN | Number of Identified Exporters to Guadeloupe from Idaho                | 2002-01-01          | 2016-01-01        |
 | ILGLPA052SCEN | Value of Exports to Guadeloupe from Illinois                           | 1992-01-01          | 2017-01-01        |
 | ILGLPA475SCEN | Number of Identified Exporters to Guadeloupe from Illinois             | 1992-01-01          | 2017-01-01        |
-| IMP2831       | U.S. Imports of Goods by Customs Basis from Guadeloupe                 | 1992-01-01          | 2022-06-01        |
+| IMP2831       | U.S. Imports of Goods by Customs Basis from Guadeloupe                 | 1992-01-01          | 2022-07-01        |
 | INGLPA052SCEN | Value of Exports to Guadeloupe from Indiana                            | 2010-01-01          | 2015-01-01        |
 | INGLPA475SCEN | Number of Identified Exporters to Guadeloupe from Indiana              | 1992-01-01          | 2016-01-01        |
 | KSGLPA052SCEN | Value of Exports to Guadeloupe from Kansas                             | 1997-01-01          | 2017-01-01        |

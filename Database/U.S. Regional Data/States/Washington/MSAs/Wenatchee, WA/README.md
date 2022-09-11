@@ -7,18 +7,18 @@
 | AVELISPRI48300            | Housing Inventory: Average Listing Price in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM48300          | Housing Inventory: Average Listing Price Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY48300          | Housing Inventory: Average Listing Price Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| ENUC483030010             | Total Quarterly Wages in Wenatchee, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC483030010SA           | Total Quarterly Wages in Wenatchee, WA (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC483040010             | Average Weekly Wages for Employees in Total Covered Establishments in Wenatchee, WA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC483040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wenatchee, WA (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC483040110             | Average Weekly Wages for Employees in Federal Government Establishments in Wenatchee, WA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC483040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wenatchee, WA (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC483040210             | Average Weekly Wages for Employees in State Government Establishments in Wenatchee, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC483040210SA           | Average Weekly Wages for Employees in State Government Establishments in Wenatchee, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC483040310             | Average Weekly Wages for Employees in Local Government Establishments in Wenatchee, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC483040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wenatchee, WA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC483040510             | Average Weekly Wages for Employees in Private Establishments in Wenatchee, WA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC483040510SA           | Average Weekly Wages for Employees in Private Establishments in Wenatchee, WA (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC483030010             | Total Quarterly Wages in Wenatchee, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC483030010SA           | Total Quarterly Wages in Wenatchee, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC483040010             | Average Weekly Wages for Employees in Total Covered Establishments in Wenatchee, WA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC483040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wenatchee, WA (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC483040110             | Average Weekly Wages for Employees in Federal Government Establishments in Wenatchee, WA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC483040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wenatchee, WA (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC483040210             | Average Weekly Wages for Employees in State Government Establishments in Wenatchee, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC483040210SA           | Average Weekly Wages for Employees in State Government Establishments in Wenatchee, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC483040310             | Average Weekly Wages for Employees in Local Government Establishments in Wenatchee, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC483040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wenatchee, WA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC483040510             | Average Weekly Wages for Employees in Private Establishments in Wenatchee, WA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC483040510SA           | Average Weekly Wages for Employees in Private Establishments in Wenatchee, WA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD48300                 | Implicit Regional Price Deflator for Wenatchee, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT534830000000003A     | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT534830000000004      | Unemployed Persons in Wenatchee, WA (MSA)                                                        | 1990-01-01          | 2022-07-01        |

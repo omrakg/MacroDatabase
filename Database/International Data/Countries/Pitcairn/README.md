@@ -7,13 +7,13 @@
 | CAPCNA475SCEN | Number of Identified Exporters to Pitcairn from California           | 2002-01-01          | 2011-01-01        |
 | CTPCNA475SCEN | Number of Identified Exporters to Pitcairn from Connecticut          | 2002-01-01          | 2008-01-01        |
 | DCPCNA475SCEN | Number of Identified Exporters to Pitcairn from District of Columbia | 2002-01-01          | 2002-01-01        |
-| EXP6225       | U.S. Exports of Goods by F.A.S. Basis to Pitcairn Islands            | 1992-01-01          | 2022-06-01        |
+| EXP6225       | U.S. Exports of Goods by F.A.S. Basis to Pitcairn Islands            | 1992-01-01          | 2022-07-01        |
 | FLPCNA052SCEN | Value of Exports to Pitcairn from Florida                            | 2002-01-01          | 2008-01-01        |
 | FLPCNA475SCEN | Number of Identified Exporters to Pitcairn from Florida              | 2002-01-01          | 2009-01-01        |
 | GAPCNA475SCEN | Number of Identified Exporters to Pitcairn from Georgia              | 2002-01-01          | 2008-01-01        |
 | ILPCNA052SCEN | Value of Exports to Pitcairn from Illinois                           | 2007-01-01          | 2008-01-01        |
 | ILPCNA475SCEN | Number of Identified Exporters to Pitcairn from Illinois             | 2002-01-01          | 2008-01-01        |
-| IMP6225       | U.S. Imports of Goods by Customs Basis from Pitcairn Islands         | 1992-01-01          | 2022-06-01        |
+| IMP6225       | U.S. Imports of Goods by Customs Basis from Pitcairn Islands         | 1992-01-01          | 2022-07-01        |
 | INPCNA475SCEN | Number of Identified Exporters to Pitcairn from Indiana              | 2006-01-01          | 2006-01-01        |
 | KYPCNA475SCEN | Number of Identified Exporters to Pitcairn from Kentucky             | 2006-01-01          | 2006-01-01        |
 | LAPCNA475SCEN | Number of Identified Exporters to Pitcairn from Louisiana            | 2006-01-01          | 2006-01-01        |

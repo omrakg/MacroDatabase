@@ -14,7 +14,7 @@
 | Dillon County, SC       |                89 |
 | Pickens County, SC      |               142 |
 | Lancaster County, SC    |               147 |
-| Greenwood County, SC    |               143 |
+| Greenwood County, SC    |                 0 |
 | Orangeburg County, SC   |               146 |
 | Georgetown County, SC   |               146 |
 | Williamsburg County, SC |                89 |

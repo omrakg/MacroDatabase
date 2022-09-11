@@ -8,18 +8,18 @@
 | AVELISPRIMM47300          | Housing Inventory: Average Listing Price Month-Over-Month in Visalia-Porterville, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY47300          | Housing Inventory: Average Listing Price Year-Over-Year in Visalia-Porterville, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA47300              | Market Hotness: Demand Score in Visalia-Porterville, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC473030010             | Total Quarterly Wages in Visalia-Porterville, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC473030010SA           | Total Quarterly Wages in Visalia-Porterville, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC473040010             | Average Weekly Wages for Employees in Total Covered Establishments in Visalia-Porterville, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC473040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Visalia-Porterville, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC473040110             | Average Weekly Wages for Employees in Federal Government Establishments in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC473040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC473040210             | Average Weekly Wages for Employees in State Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC473040210SA           | Average Weekly Wages for Employees in State Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC473040310             | Average Weekly Wages for Employees in Local Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC473040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC473040510             | Average Weekly Wages for Employees in Private Establishments in Visalia-Porterville, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC473040510SA           | Average Weekly Wages for Employees in Private Establishments in Visalia-Porterville, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC473030010             | Total Quarterly Wages in Visalia-Porterville, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC473030010SA           | Total Quarterly Wages in Visalia-Porterville, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC473040010             | Average Weekly Wages for Employees in Total Covered Establishments in Visalia-Porterville, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC473040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Visalia-Porterville, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC473040110             | Average Weekly Wages for Employees in Federal Government Establishments in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC473040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC473040210             | Average Weekly Wages for Employees in State Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC473040210SA           | Average Weekly Wages for Employees in State Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC473040310             | Average Weekly Wages for Employees in Local Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC473040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC473040510             | Average Weekly Wages for Employees in Private Establishments in Visalia-Porterville, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC473040510SA           | Average Weekly Wages for Employees in Private Establishments in Visalia-Porterville, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA47300            | Market Hotness: Hotness Rank in Visalia-Porterville, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA47300              | Market Hotness: Hotness Rank in Visalia-Porterville, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA47300            | Market Hotness: Hotness Rank in Visalia-Porterville, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

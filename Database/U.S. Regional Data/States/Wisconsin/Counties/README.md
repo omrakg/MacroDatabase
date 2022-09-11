@@ -22,7 +22,7 @@
 | Marathon County, WI                     |               146 |
 | Jackson County, WI                      |                89 |
 | Ozaukee County, WI                      |               147 |
-| Kewaunee County, WI                     |                90 |
+| Kewaunee County, WI                     |                 0 |
 | Outagamie County, WI                    |               147 |
 | Sawyer County, WI                       |                90 |
 | Vilas County, WI                        |                90 |
@@ -39,7 +39,7 @@
 | Price County, WI                        |                89 |
 | Clark County, WI                        |                90 |
 | Iron County, WI                         |                88 |
-| Adams County, WI                        |                 0 |
+| Adams County, WI                        |                90 |
 | Lafayette County, WI                    |                90 |
 | Polk County, WI                         |                90 |
 | Grant County, WI                        |               144 |

@@ -8,18 +8,18 @@
 | AVELISPRIMM35980          | Housing Inventory: Average Listing Price Month-Over-Month in Norwich-New London, CT (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY35980          | Housing Inventory: Average Listing Price Year-Over-Year in Norwich-New London, CT (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA35980              | Market Hotness: Demand Score in Norwich-New London, CT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC359830010             | Total Quarterly Wages in Norwich-New London, CT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC359830010SA           | Total Quarterly Wages in Norwich-New London, CT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC359840010             | Average Weekly Wages for Employees in Total Covered Establishments in Norwich-New London, CT (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC359840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Norwich-New London, CT (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC359840110             | Average Weekly Wages for Employees in Federal Government Establishments in Norwich-New London, CT (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC359840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Norwich-New London, CT (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC359840210             | Average Weekly Wages for Employees in State Government Establishments in Norwich-New London, CT (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC359840210SA           | Average Weekly Wages for Employees in State Government Establishments in Norwich-New London, CT (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC359840310             | Average Weekly Wages for Employees in Local Government Establishments in Norwich-New London, CT (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC359840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Norwich-New London, CT (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC359840510             | Average Weekly Wages for Employees in Private Establishments in Norwich-New London, CT (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC359840510SA           | Average Weekly Wages for Employees in Private Establishments in Norwich-New London, CT (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC359830010             | Total Quarterly Wages in Norwich-New London, CT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC359830010SA           | Total Quarterly Wages in Norwich-New London, CT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC359840010             | Average Weekly Wages for Employees in Total Covered Establishments in Norwich-New London, CT (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC359840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Norwich-New London, CT (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC359840110             | Average Weekly Wages for Employees in Federal Government Establishments in Norwich-New London, CT (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC359840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Norwich-New London, CT (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC359840210             | Average Weekly Wages for Employees in State Government Establishments in Norwich-New London, CT (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC359840210SA           | Average Weekly Wages for Employees in State Government Establishments in Norwich-New London, CT (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC359840310             | Average Weekly Wages for Employees in Local Government Establishments in Norwich-New London, CT (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC359840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Norwich-New London, CT (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC359840510             | Average Weekly Wages for Employees in Private Establishments in Norwich-New London, CT (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC359840510SA           | Average Weekly Wages for Employees in Private Establishments in Norwich-New London, CT (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA35980            | Market Hotness: Hotness Rank in Norwich-New London, CT (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA35980              | Market Hotness: Hotness Rank in Norwich-New London, CT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA35980            | Market Hotness: Hotness Rank in Norwich-New London, CT (CBSA)                                             | 2018-08-01          | 2022-08-01        |

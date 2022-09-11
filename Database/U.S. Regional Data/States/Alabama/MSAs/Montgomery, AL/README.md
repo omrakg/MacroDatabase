@@ -8,18 +8,18 @@
 | AVELISPRIMM33860          | Housing Inventory: Average Listing Price Month-Over-Month in Montgomery, AL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY33860          | Housing Inventory: Average Listing Price Year-Over-Year in Montgomery, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA33860              | Market Hotness: Demand Score in Montgomery, AL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC338630010             | Total Quarterly Wages in Montgomery, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC338630010SA           | Total Quarterly Wages in Montgomery, AL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC338640010             | Average Weekly Wages for Employees in Total Covered Establishments in Montgomery, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC338640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Montgomery, AL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC338640110             | Average Weekly Wages for Employees in Federal Government Establishments in Montgomery, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC338640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Montgomery, AL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC338640210             | Average Weekly Wages for Employees in State Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC338640210SA           | Average Weekly Wages for Employees in State Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC338640310             | Average Weekly Wages for Employees in Local Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC338640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC338640510             | Average Weekly Wages for Employees in Private Establishments in Montgomery, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC338640510SA           | Average Weekly Wages for Employees in Private Establishments in Montgomery, AL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC338630010             | Total Quarterly Wages in Montgomery, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC338630010SA           | Total Quarterly Wages in Montgomery, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC338640010             | Average Weekly Wages for Employees in Total Covered Establishments in Montgomery, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC338640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Montgomery, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC338640110             | Average Weekly Wages for Employees in Federal Government Establishments in Montgomery, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC338640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Montgomery, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC338640210             | Average Weekly Wages for Employees in State Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC338640210SA           | Average Weekly Wages for Employees in State Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC338640310             | Average Weekly Wages for Employees in Local Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC338640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Montgomery, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC338640510             | Average Weekly Wages for Employees in Private Establishments in Montgomery, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC338640510SA           | Average Weekly Wages for Employees in Private Establishments in Montgomery, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA33860            | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA33860              | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA33860            | Market Hotness: Hotness Rank in Montgomery, AL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

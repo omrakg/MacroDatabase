@@ -12,7 +12,7 @@
 | United Nations                                                     |                 0 |
 | Advance Technology Products                                        |                 4 |
 | Euro Area                                                          |               659 |
-| Group of Seven (G7)                                                |               465 |
+| Group of Seven (G7)                                                |                 0 |
 | Bureau of Labor Statistics Pacific Rim                             |                42 |
 | Bureau of Labor Statistics Industrialized Countries                |                40 |
 | Advanced Economies                                                 |                 6 |
@@ -22,7 +22,7 @@
 | European Union                                                     |               848 |
 | NAFTA                                                              |                21 |
 | Bureau of Labor Statistics Asian Newly Industrialized Countries    |                10 |
-| OECD Total                                                         |                 0 |
+| OECD Total                                                         |               136 |
 | International Organizations                                        |                 9 |
 | Emerging Markets                                                   |                 6 |
 | Unidentified Countries                                             |                21 |

@@ -3,18 +3,18 @@
 | ABBPOP                 | Resident Population in Albany, OR (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | ALBA941PCPI            | Per Capita Personal Income in Albany, OR (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | ATNHPIUS10540Q         | All-Transactions House Price Index for Albany-Lebanon, OR (MSA)                                             | 1987-01-01          | 2022-04-01        |
-| ENUC105430010          | Total Quarterly Wages in Albany, OR (MSA)                                                                   | 2013-01-01          | 2021-10-01        |
-| ENUC105430010SA        | Total Quarterly Wages in Albany, OR (MSA)                                                                   | 2013-01-01          | 2021-10-01        |
-| ENUC105440010          | Average Weekly Wages for Employees in Total Covered Establishments in Albany, OR (MSA)                      | 2013-01-01          | 2021-10-01        |
-| ENUC105440010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Albany, OR (MSA)                      | 2013-01-01          | 2021-10-01        |
-| ENUC105440110          | Average Weekly Wages for Employees in Federal Government Establishments in Albany, OR (MSA)                 | 2013-01-01          | 2021-10-01        |
-| ENUC105440110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Albany, OR (MSA)                 | 2013-01-01          | 2021-10-01        |
-| ENUC105440210          | Average Weekly Wages for Employees in State Government Establishments in Albany, OR (MSA)                   | 2013-01-01          | 2021-10-01        |
-| ENUC105440210SA        | Average Weekly Wages for Employees in State Government Establishments in Albany, OR (MSA)                   | 2013-01-01          | 2021-10-01        |
-| ENUC105440310          | Average Weekly Wages for Employees in Local Government Establishments in Albany, OR (MSA)                   | 2013-01-01          | 2021-10-01        |
-| ENUC105440310SA        | Average Weekly Wages for Employees in Local Government Establishments in Albany, OR (MSA)                   | 2013-01-01          | 2021-10-01        |
-| ENUC105440510          | Average Weekly Wages for Employees in Private Establishments in Albany, OR (MSA)                            | 2013-01-01          | 2021-10-01        |
-| ENUC105440510SA        | Average Weekly Wages for Employees in Private Establishments in Albany, OR (MSA)                            | 2013-01-01          | 2021-10-01        |
+| ENUC105430010          | Total Quarterly Wages in Albany, OR (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
+| ENUC105430010SA        | Total Quarterly Wages in Albany, OR (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
+| ENUC105440010          | Average Weekly Wages for Employees in Total Covered Establishments in Albany, OR (MSA)                      | 2013-01-01          | 2022-01-01        |
+| ENUC105440010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Albany, OR (MSA)                      | 2013-01-01          | 2022-01-01        |
+| ENUC105440110          | Average Weekly Wages for Employees in Federal Government Establishments in Albany, OR (MSA)                 | 2013-01-01          | 2022-01-01        |
+| ENUC105440110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Albany, OR (MSA)                 | 2013-01-01          | 2022-01-01        |
+| ENUC105440210          | Average Weekly Wages for Employees in State Government Establishments in Albany, OR (MSA)                   | 2013-01-01          | 2022-01-01        |
+| ENUC105440210SA        | Average Weekly Wages for Employees in State Government Establishments in Albany, OR (MSA)                   | 2013-01-01          | 2022-01-01        |
+| ENUC105440310          | Average Weekly Wages for Employees in Local Government Establishments in Albany, OR (MSA)                   | 2013-01-01          | 2022-01-01        |
+| ENUC105440310SA        | Average Weekly Wages for Employees in Local Government Establishments in Albany, OR (MSA)                   | 2013-01-01          | 2022-01-01        |
+| ENUC105440510          | Average Weekly Wages for Employees in Private Establishments in Albany, OR (MSA)                            | 2013-01-01          | 2022-01-01        |
+| ENUC105440510SA        | Average Weekly Wages for Employees in Private Establishments in Albany, OR (MSA)                            | 2013-01-01          | 2022-01-01        |
 | IRPD10540              | Implicit Regional Price Deflator for Albany, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT411054000000003   | Unemployment Rate in Albany, OR (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT411054000000003A  | Unemployment Rate in Albany, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |

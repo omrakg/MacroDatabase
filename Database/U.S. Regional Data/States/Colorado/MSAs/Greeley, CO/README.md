@@ -8,18 +8,18 @@
 | AVELISPRIMM24540          | Housing Inventory: Average Listing Price Month-Over-Month in Greeley, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY24540          | Housing Inventory: Average Listing Price Year-Over-Year in Greeley, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA24540              | Market Hotness: Demand Score in Greeley, CO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC245430010             | Total Quarterly Wages in Greeley, CO (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC245430010SA           | Total Quarterly Wages in Greeley, CO (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC245440010             | Average Weekly Wages for Employees in Total Covered Establishments in Greeley, CO (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC245440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Greeley, CO (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC245440110             | Average Weekly Wages for Employees in Federal Government Establishments in Greeley, CO (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC245440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Greeley, CO (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC245440210             | Average Weekly Wages for Employees in State Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC245440210SA           | Average Weekly Wages for Employees in State Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC245440310             | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC245440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC245440510             | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC245440510SA           | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC245430010             | Total Quarterly Wages in Greeley, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC245430010SA           | Total Quarterly Wages in Greeley, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC245440010             | Average Weekly Wages for Employees in Total Covered Establishments in Greeley, CO (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC245440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Greeley, CO (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC245440110             | Average Weekly Wages for Employees in Federal Government Establishments in Greeley, CO (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC245440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Greeley, CO (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC245440210             | Average Weekly Wages for Employees in State Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC245440210SA           | Average Weekly Wages for Employees in State Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC245440310             | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC245440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC245440510             | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC245440510SA           | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
 | GREE508BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-07-01        |
 | GREE508BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-07-01        |
 | GREE508BPPRIV             | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-07-01        |

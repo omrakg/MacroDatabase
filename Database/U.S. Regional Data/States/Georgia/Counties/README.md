@@ -33,7 +33,7 @@
 | Barrow County, GA        |               147 |
 | Fannin County, GA        |                90 |
 | Ware County, GA          |                89 |
-| Marion County, GA        |                 0 |
+| Marion County, GA        |                88 |
 | Walton County, GA        |               147 |
 | Worth County, GA         |                90 |
 | Dawson County, GA        |                90 |
@@ -42,7 +42,7 @@
 | Talbot County, GA        |                88 |
 | Hancock County, GA       |                88 |
 | Treutlen County, GA      |                88 |
-| Polk County, GA          |                90 |
+| Polk County, GA          |                 0 |
 | Taylor County, GA        |                88 |
 | Charlton County, GA      |                87 |
 | Laurens County, GA       |               146 |
@@ -93,7 +93,7 @@
 | Forsyth County, GA       |               147 |
 | Floyd County, GA         |               147 |
 | Baldwin County, GA       |                90 |
-| Warren County, GA        |                 0 |
+| Warren County, GA        |                88 |
 | Atkinson County, GA      |                88 |
 | Morgan County, GA        |                89 |
 | Wheeler County, GA       |                87 |
@@ -136,7 +136,7 @@
 | Lanier County, GA        |                88 |
 | Richmond County, GA      |               146 |
 | Harris County, GA        |                90 |
-| Decatur County, GA       |                89 |
+| Decatur County, GA       |                 0 |
 | Schley County, GA        |                88 |
 | Taliaferro County, GA    |                87 |
 | Ben Hill County, GA      |                90 |
@@ -153,6 +153,6 @@
 | Cook County, GA          |                89 |
 | Butts County, GA         |                90 |
 | Twiggs County, GA        |                88 |
-| Union County, GA         |                 0 |
+| Union County, GA         |                90 |
 | Peach County, GA         |                90 |
 | Bryan County, GA         |                90 |

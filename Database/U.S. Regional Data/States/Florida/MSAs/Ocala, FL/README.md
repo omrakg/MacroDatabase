@@ -8,18 +8,18 @@
 | AVELISPRIMM36100          | Housing Inventory: Average Listing Price Month-Over-Month in Ocala, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY36100          | Housing Inventory: Average Listing Price Year-Over-Year in Ocala, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA36100              | Market Hotness: Demand Score in Ocala, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC361030010             | Total Quarterly Wages in Ocala, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC361030010SA           | Total Quarterly Wages in Ocala, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC361040010             | Average Weekly Wages for Employees in Total Covered Establishments in Ocala, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC361040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ocala, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC361040110             | Average Weekly Wages for Employees in Federal Government Establishments in Ocala, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC361040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ocala, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC361040210             | Average Weekly Wages for Employees in State Government Establishments in Ocala, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC361040210SA           | Average Weekly Wages for Employees in State Government Establishments in Ocala, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC361040310             | Average Weekly Wages for Employees in Local Government Establishments in Ocala, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC361040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Ocala, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC361040510             | Average Weekly Wages for Employees in Private Establishments in Ocala, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC361040510SA           | Average Weekly Wages for Employees in Private Establishments in Ocala, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC361030010             | Total Quarterly Wages in Ocala, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC361030010SA           | Total Quarterly Wages in Ocala, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC361040010             | Average Weekly Wages for Employees in Total Covered Establishments in Ocala, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC361040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ocala, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC361040110             | Average Weekly Wages for Employees in Federal Government Establishments in Ocala, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC361040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ocala, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC361040210             | Average Weekly Wages for Employees in State Government Establishments in Ocala, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC361040210SA           | Average Weekly Wages for Employees in State Government Establishments in Ocala, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC361040310             | Average Weekly Wages for Employees in Local Government Establishments in Ocala, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC361040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Ocala, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC361040510             | Average Weekly Wages for Employees in Private Establishments in Ocala, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC361040510SA           | Average Weekly Wages for Employees in Private Establishments in Ocala, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA36100            | Market Hotness: Hotness Rank in Ocala, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA36100              | Market Hotness: Hotness Rank in Ocala, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA36100            | Market Hotness: Hotness Rank in Ocala, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

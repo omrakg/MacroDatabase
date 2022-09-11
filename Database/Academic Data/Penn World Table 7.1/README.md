@@ -6,7 +6,7 @@
 | Real GDP per Worker                                              |               370 |
 | Openness                                                         |               382 |
 | Real GDP per Person Engaged                                      |                31 |
-| Component Shares of GDP per Capita (Current Prices)              |               572 |
+| Component Shares of GDP per Capita (Current Prices)              |                 0 |
 | Component Shares of GDP per Capita (Constant Prices)             |               572 |
 | GDP per Capita (Current Prices)                                  |               572 |
 | Gross Domestic Income, Adjustments for Changes in Terms of Trade |               192 |

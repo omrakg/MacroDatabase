@@ -8,23 +8,23 @@
 | AVELISPRIMM44060          | Housing Inventory: Average Listing Price Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY44060          | Housing Inventory: Average Listing Price Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA44060              | Market Hotness: Demand Score in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC440630010             | Total Quarterly Wages in Spokane-Spokane Valley, WA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC440630010SA           | Total Quarterly Wages in Spokane-Spokane Valley, WA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC440640010             | Average Weekly Wages for Employees in Total Covered Establishments in Spokane, WA (MSA)                                     | 1990-01-01          | 2021-10-01        |
-| ENUC440640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Spokane, WA (MSA)                                     | 1990-01-01          | 2021-10-01        |
-| ENUC440640110             | Average Weekly Wages for Employees in Federal Government Establishments in Spokane, WA (MSA)                                | 1990-01-01          | 2021-10-01        |
-| ENUC440640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Spokane, WA (MSA)                                | 1990-01-01          | 2021-10-01        |
-| ENUC440640210             | Average Weekly Wages for Employees in State Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2021-10-01        |
-| ENUC440640210SA           | Average Weekly Wages for Employees in State Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2021-10-01        |
-| ENUC440640310             | Average Weekly Wages for Employees in Local Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2021-10-01        |
-| ENUC440640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2021-10-01        |
-| ENUC440640510             | Average Weekly Wages for Employees in Private Establishments in Spokane, WA (MSA)                                           | 1990-01-01          | 2021-10-01        |
-| ENUC440640510SA           | Average Weekly Wages for Employees in Private Establishments in Spokane, WA (MSA)                                           | 1990-01-01          | 2021-10-01        |
+| ENUC440630010             | Total Quarterly Wages in Spokane-Spokane Valley, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC440630010SA           | Total Quarterly Wages in Spokane-Spokane Valley, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC440640010             | Average Weekly Wages for Employees in Total Covered Establishments in Spokane, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| ENUC440640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Spokane, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| ENUC440640110             | Average Weekly Wages for Employees in Federal Government Establishments in Spokane, WA (MSA)                                | 1990-01-01          | 2022-01-01        |
+| ENUC440640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Spokane, WA (MSA)                                | 1990-01-01          | 2022-01-01        |
+| ENUC440640210             | Average Weekly Wages for Employees in State Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| ENUC440640210SA           | Average Weekly Wages for Employees in State Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| ENUC440640310             | Average Weekly Wages for Employees in Local Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| ENUC440640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| ENUC440640510             | Average Weekly Wages for Employees in Private Establishments in Spokane, WA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| ENUC440640510SA           | Average Weekly Wages for Employees in Private Establishments in Spokane, WA (MSA)                                           | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA44060            | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA44060              | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA44060            | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA44060              | Market Hotness: Hotness Score in Spokane-Spokane Valley, WA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
+| IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-08-26        |
 | IRPD44060                 | Implicit Regional Price Deflator for Spokane-Spokane Valley, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT534406000000003A     | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT534406000000004      | Unemployed Persons in Spokane-Spokane Valley, WA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

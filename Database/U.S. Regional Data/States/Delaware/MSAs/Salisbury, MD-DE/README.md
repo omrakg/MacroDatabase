@@ -8,16 +8,16 @@
 | AVELISPRIMM41540          | Housing Inventory: Average Listing Price Month-Over-Month in Salisbury, MD-DE (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY41540          | Housing Inventory: Average Listing Price Year-Over-Year in Salisbury, MD-DE (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA41540              | Market Hotness: Demand Score in Salisbury, MD-DE (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC415430010             | Total Quarterly Wages in Salisbury, MD-DE (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC415430010SA           | Total Quarterly Wages in Salisbury, MD-DE (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC415440010             | Average Weekly Wages for Employees in Total Covered Establishments in Salisbury, MD (MSA)                         | 1990-01-01          | 2021-10-01        |
-| ENUC415440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salisbury, MD (MSA)                         | 1990-01-01          | 2021-10-01        |
-| ENUC415440110             | Average Weekly Wages for Employees in Federal Government Establishments in Salisbury, MD (MSA)                    | 1990-01-01          | 2021-10-01        |
-| ENUC415440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salisbury, MD (MSA)                    | 1990-01-01          | 2021-10-01        |
-| ENUC415440210             | Average Weekly Wages for Employees in State Government Establishments in Salisbury, MD (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC415440310             | Average Weekly Wages for Employees in Local Government Establishments in Salisbury, MD (MSA)                      | 1990-01-01          | 2021-07-01        |
-| ENUC415440510             | Average Weekly Wages for Employees in Private Establishments in Salisbury, MD (MSA)                               | 1990-01-01          | 2021-10-01        |
-| ENUC415440510SA           | Average Weekly Wages for Employees in Private Establishments in Salisbury, MD (MSA)                               | 1990-01-01          | 2021-10-01        |
+| ENUC415430010             | Total Quarterly Wages in Salisbury, MD-DE (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC415430010SA           | Total Quarterly Wages in Salisbury, MD-DE (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC415440010             | Average Weekly Wages for Employees in Total Covered Establishments in Salisbury, MD (MSA)                         | 1990-01-01          | 2022-01-01        |
+| ENUC415440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salisbury, MD (MSA)                         | 1990-01-01          | 2022-01-01        |
+| ENUC415440110             | Average Weekly Wages for Employees in Federal Government Establishments in Salisbury, MD (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC415440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salisbury, MD (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC415440210             | Average Weekly Wages for Employees in State Government Establishments in Salisbury, MD (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC415440310             | Average Weekly Wages for Employees in Local Government Establishments in Salisbury, MD (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC415440510             | Average Weekly Wages for Employees in Private Establishments in Salisbury, MD (MSA)                               | 1990-01-01          | 2022-01-01        |
+| ENUC415440510SA           | Average Weekly Wages for Employees in Private Establishments in Salisbury, MD (MSA)                               | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA41540            | Market Hotness: Hotness Rank in Salisbury, MD-DE (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA41540              | Market Hotness: Hotness Rank in Salisbury, MD-DE (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA41540            | Market Hotness: Hotness Rank in Salisbury, MD-DE (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM47940          | Housing Inventory: Average Listing Price Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY47940          | Housing Inventory: Average Listing Price Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-08-01        |
 | DESCMSA47940              | Market Hotness: Demand Score in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| ENUC479430010             | Total Quarterly Wages in Waterloo-Cedar Falls, IA (MSA)                                                           | 1990-01-01          | 2021-10-01        |
-| ENUC479430010SA           | Total Quarterly Wages in Waterloo-Cedar Falls, IA (MSA)                                                           | 1990-01-01          | 2021-10-01        |
-| ENUC479440010             | Average Weekly Wages for Employees in Total Covered Establishments in Waterloo-Cedar Falls, IA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC479440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Waterloo-Cedar Falls, IA (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC479440110             | Average Weekly Wages for Employees in Federal Government Establishments in Waterloo-Cedar Falls, IA (MSA)         | 1990-01-01          | 2021-10-01        |
-| ENUC479440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Waterloo-Cedar Falls, IA (MSA)         | 1990-01-01          | 2021-10-01        |
-| ENUC479440210             | Average Weekly Wages for Employees in State Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2021-10-01        |
-| ENUC479440210SA           | Average Weekly Wages for Employees in State Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2021-10-01        |
-| ENUC479440310             | Average Weekly Wages for Employees in Local Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2021-10-01        |
-| ENUC479440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2021-10-01        |
-| ENUC479440510             | Average Weekly Wages for Employees in Private Establishments in Waterloo-Cedar Falls, IA (MSA)                    | 1990-01-01          | 2021-10-01        |
-| ENUC479440510SA           | Average Weekly Wages for Employees in Private Establishments in Waterloo-Cedar Falls, IA (MSA)                    | 1990-01-01          | 2021-10-01        |
+| ENUC479430010             | Total Quarterly Wages in Waterloo-Cedar Falls, IA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| ENUC479430010SA           | Total Quarterly Wages in Waterloo-Cedar Falls, IA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| ENUC479440010             | Average Weekly Wages for Employees in Total Covered Establishments in Waterloo-Cedar Falls, IA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC479440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Waterloo-Cedar Falls, IA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC479440110             | Average Weekly Wages for Employees in Federal Government Establishments in Waterloo-Cedar Falls, IA (MSA)         | 1990-01-01          | 2022-01-01        |
+| ENUC479440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Waterloo-Cedar Falls, IA (MSA)         | 1990-01-01          | 2022-01-01        |
+| ENUC479440210             | Average Weekly Wages for Employees in State Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2022-01-01        |
+| ENUC479440210SA           | Average Weekly Wages for Employees in State Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2022-01-01        |
+| ENUC479440310             | Average Weekly Wages for Employees in Local Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2022-01-01        |
+| ENUC479440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2022-01-01        |
+| ENUC479440510             | Average Weekly Wages for Employees in Private Establishments in Waterloo-Cedar Falls, IA (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC479440510SA           | Average Weekly Wages for Employees in Private Establishments in Waterloo-Cedar Falls, IA (MSA)                    | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA47940            | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
 | HORAMSA47940              | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA47940            | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |

@@ -27,9 +27,9 @@
 | Winnebago County, IL   |               147 |
 | Peoria County, IL      |               147 |
 | Mason County, IL       |                90 |
-| Perry County, IL       |                 0 |
+| Perry County, IL       |                90 |
 | Saline County, IL      |                90 |
-| Henry County, IL       |               143 |
+| Henry County, IL       |                 0 |
 | Morgan County, IL      |                90 |
 | Livingston County, IL  |                90 |
 | Vermilion County, IL   |               147 |

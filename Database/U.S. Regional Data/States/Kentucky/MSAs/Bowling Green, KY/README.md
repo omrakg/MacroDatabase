@@ -30,18 +30,18 @@
 | BOWUR                     | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | BOWURN                    | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | DESCMSA14540              | Market Hotness: Demand Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC145430010             | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC145430010SA           | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC145440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC145440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC145440110             | Average Weekly Wages for Employees in Federal Government Establishments in Bowling Green, KY (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC145440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bowling Green, KY (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC145440210             | Average Weekly Wages for Employees in State Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC145440210SA           | Average Weekly Wages for Employees in State Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC145440310             | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC145440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC145440510             | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC145440510SA           | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC145430010             | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC145430010SA           | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC145440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC145440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC145440110             | Average Weekly Wages for Employees in Federal Government Establishments in Bowling Green, KY (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC145440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bowling Green, KY (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC145440210             | Average Weekly Wages for Employees in State Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC145440210SA           | Average Weekly Wages for Employees in State Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC145440310             | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC145440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC145440510             | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC145440510SA           | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA14540            | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA14540              | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA14540            | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2018-08-01          | 2022-08-01        |

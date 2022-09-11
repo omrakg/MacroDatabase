@@ -8,18 +8,18 @@
 | AVELISPRIMM42340          | Housing Inventory: Average Listing Price Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY42340          | Housing Inventory: Average Listing Price Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA42340              | Market Hotness: Demand Score in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC423430010             | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC423430010SA           | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC423440010             | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC423440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC423440110             | Average Weekly Wages for Employees in Federal Government Establishments in Savannah, GA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC423440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Savannah, GA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC423440210             | Average Weekly Wages for Employees in State Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC423440210SA           | Average Weekly Wages for Employees in State Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC423440310             | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC423440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC423440510             | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC423440510SA           | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC423430010             | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC423430010SA           | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC423440010             | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC423440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC423440110             | Average Weekly Wages for Employees in Federal Government Establishments in Savannah, GA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC423440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Savannah, GA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC423440210             | Average Weekly Wages for Employees in State Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC423440210SA           | Average Weekly Wages for Employees in State Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC423440310             | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC423440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC423440510             | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC423440510SA           | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA42340              | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM29180          | Housing Inventory: Average Listing Price Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY29180          | Housing Inventory: Average Listing Price Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-08-01        |
 | DESCMSA29180              | Market Hotness: Demand Score in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-08-01        |
-| ENUC291830010             | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
-| ENUC291830010SA           | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2021-10-01        |
-| ENUC291840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2021-10-01        |
-| ENUC291840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2021-10-01        |
-| ENUC291840110             | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, LA (MSA)                             | 1990-01-01          | 2021-10-01        |
-| ENUC291840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, LA (MSA)                             | 1990-01-01          | 2021-10-01        |
-| ENUC291840210             | Average Weekly Wages for Employees in State Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2021-10-01        |
-| ENUC291840210SA           | Average Weekly Wages for Employees in State Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2021-10-01        |
-| ENUC291840310             | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2021-10-01        |
-| ENUC291840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2021-10-01        |
-| ENUC291840510             | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2021-10-01        |
-| ENUC291840510SA           | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2021-10-01        |
+| ENUC291830010             | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
+| ENUC291830010SA           | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
+| ENUC291840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| ENUC291840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| ENUC291840110             | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| ENUC291840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| ENUC291840210             | Average Weekly Wages for Employees in State Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| ENUC291840210SA           | Average Weekly Wages for Employees in State Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| ENUC291840310             | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| ENUC291840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| ENUC291840510             | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| ENUC291840510SA           | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2018-08-01          | 2022-08-01        |
 | HORAMSA29180              | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2018-08-01          | 2022-08-01        |

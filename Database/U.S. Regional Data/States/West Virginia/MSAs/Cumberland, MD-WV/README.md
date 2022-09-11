@@ -17,18 +17,18 @@
 | CUMB024PCPI               | Per Capita Personal Income in Cumberland, MD-WV (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | CUMB024UR                 | Unemployment Rate in Cumberland, MD-WV (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | CUMB024URN                | Unemployment Rate in Cumberland, MD-WV (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| ENUC190630010             | Total Quarterly Wages in Cumberland, MD-WV (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC190630010SA           | Total Quarterly Wages in Cumberland, MD-WV (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC190640010             | Average Weekly Wages for Employees in Total Covered Establishments in Cumberland, MD-WV (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC190640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cumberland, MD-WV (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC190640110             | Average Weekly Wages for Employees in Federal Government Establishments in Cumberland, MD-WV (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC190640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cumberland, MD-WV (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC190640210             | Average Weekly Wages for Employees in State Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC190640210SA           | Average Weekly Wages for Employees in State Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC190640310             | Average Weekly Wages for Employees in Local Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC190640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC190640510             | Average Weekly Wages for Employees in Private Establishments in Cumberland, MD-WV (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC190640510SA           | Average Weekly Wages for Employees in Private Establishments in Cumberland, MD-WV (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC190630010             | Total Quarterly Wages in Cumberland, MD-WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC190630010SA           | Total Quarterly Wages in Cumberland, MD-WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC190640010             | Average Weekly Wages for Employees in Total Covered Establishments in Cumberland, MD-WV (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC190640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cumberland, MD-WV (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC190640110             | Average Weekly Wages for Employees in Federal Government Establishments in Cumberland, MD-WV (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC190640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cumberland, MD-WV (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC190640210             | Average Weekly Wages for Employees in State Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC190640210SA           | Average Weekly Wages for Employees in State Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC190640310             | Average Weekly Wages for Employees in Local Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC190640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC190640510             | Average Weekly Wages for Employees in Private Establishments in Cumberland, MD-WV (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC190640510SA           | Average Weekly Wages for Employees in Private Establishments in Cumberland, MD-WV (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD19060                 | Implicit Regional Price Deflator for Cumberland, MD-WV (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT241906000000003A     | Unemployment Rate in Cumberland, MD-WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT241906000000004      | Unemployed Persons in Cumberland, MD-WV (MSA)                                                        | 1990-01-01          | 2022-07-01        |

@@ -38,7 +38,7 @@
 | Blackford County, IN   |                89 |
 | Floyd County, IN       |               147 |
 | Warren County, IN      |                89 |
-| Decatur County, IN     |                 0 |
+| Decatur County, IN     |                89 |
 | Warrick County, IN     |               146 |
 | Orange County, IN      |                89 |
 | Hamilton County, IN    |               146 |
@@ -82,7 +82,7 @@
 | White County, IN       |                90 |
 | Hancock County, IN     |               147 |
 | Fountain County, IN    |                89 |
-| Scott County, IN       |                90 |
+| Scott County, IN       |                 0 |
 | Spencer County, IN     |                89 |
 | St. Joseph County, IN  |               147 |
 | Monroe County, IN      |               147 |

@@ -8,23 +8,23 @@
 | AVELISPRIMM29540          | Housing Inventory: Average Listing Price Month-Over-Month in Lancaster, PA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY29540          | Housing Inventory: Average Listing Price Year-Over-Year in Lancaster, PA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA29540              | Market Hotness: Demand Score in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC295430010             | Total Quarterly Wages in Lancaster, PA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC295430010SA           | Total Quarterly Wages in Lancaster, PA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC295440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lancaster, PA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC295440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lancaster, PA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC295440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lancaster, PA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC295440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lancaster, PA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC295440210             | Average Weekly Wages for Employees in State Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC295440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC295440310             | Average Weekly Wages for Employees in Local Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC295440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC295440510             | Average Weekly Wages for Employees in Private Establishments in Lancaster, PA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC295440510SA           | Average Weekly Wages for Employees in Private Establishments in Lancaster, PA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC295430010             | Total Quarterly Wages in Lancaster, PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC295430010SA           | Total Quarterly Wages in Lancaster, PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC295440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lancaster, PA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC295440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lancaster, PA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC295440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lancaster, PA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC295440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lancaster, PA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC295440210             | Average Weekly Wages for Employees in State Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC295440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC295440310             | Average Weekly Wages for Employees in Local Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC295440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lancaster, PA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC295440510             | Average Weekly Wages for Employees in Private Establishments in Lancaster, PA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC295440510SA           | Average Weekly Wages for Employees in Private Establishments in Lancaster, PA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA29540              | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA29540              | Market Hotness: Hotness Score in Lancaster, PA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
+| IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-08-26        |
 | IRPD29540                 | Implicit Regional Price Deflator for Lancaster, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LACPOP                    | Resident Population in Lancaster, PA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LANC542EDUH               | All Employees: Education and Health Services in Lancaster, PA (MSA)                                            | 1990-01-01          | 2022-07-01        |

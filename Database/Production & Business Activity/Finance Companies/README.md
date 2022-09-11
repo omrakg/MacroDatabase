@@ -108,9 +108,9 @@
 | DTCTLNVHFXDFBANM | Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                             | 1989-02-01          | 2022-06-01        |
 | DTCTLRHFNM       | Revolving Consumer Credit Owned and Securitized by Finance Companies, Level                                               | 1984-12-01          | 2022-06-01        |
 | DTCTLRHFXDFBANM  | Revolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                                | 1985-01-01          | 2022-06-01        |
-| DTCTLVENANM      | Average Amount Financed for New Car Loans at Finance Companies                                                            | 2008-03-01          | 2022-03-01        |
+| DTCTLVENANM      | Average Amount Financed for New Car Loans at Finance Companies                                                            | 2008-03-01          | 2022-06-01        |
 | DTCTLVENANQ      | Average Amount Financed for New Car Loans at Finance Companies                                                            | 2008-01-01          | 2022-01-01        |
-| DTCTLVENMNM      | Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                        | 2008-03-01          | 2022-03-01        |
+| DTCTLVENMNM      | Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                        | 2008-03-01          | 2022-06-01        |
 | DTCTLVENMNQ      | Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                        | 2008-01-01          | 2022-01-01        |
 | DTCTLVEUANQ      | Average Amount Financed for Used Car Loans at Finance Companies                                                           | 2008-01-01          | 2022-01-01        |
 | DTCTLVEUMNQ      | Average Maturity of Used Car Loans at Finance Companies, Amount of Finance Weighted                                       | 2008-01-01          | 2022-01-01        |
@@ -146,7 +146,7 @@
 | DTTHFXDFBAM      | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1970-07-01          | 2022-06-01        |
 | DTTHFXDFBANA     | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1943-02-01          | 2022-06-01        |
 | DTTHFXDFBANM     | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1943-02-01          | 2022-06-01        |
-| RIELPCFANNM      | Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                    | 2008-03-01          | 2022-03-01        |
+| RIELPCFANNM      | Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                    | 2008-03-01          | 2022-06-01        |
 | RIELPCFANNQ      | Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                    | 2008-01-01          | 2022-01-01        |
 | RIELPCFAUNQ      | Average Finance Rate of Used Car Loans at Finance Companies, Amount of Finance Weighted                                   | 2008-01-01          | 2022-01-01        |
 | STFAFCNQ         | Domestic Finance Companies, Cash and Cash Equivalents, Level                                                              | 2010-10-01          | 2022-01-01        |

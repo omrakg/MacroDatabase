@@ -8,18 +8,18 @@
 | AVELISPRIMM34940          | Housing Inventory: Average Listing Price Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY34940          | Housing Inventory: Average Listing Price Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA34940              | Market Hotness: Demand Score in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC349430010             | Total Quarterly Wages in Naples-Immokalee-Marco Island, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC349430010SA           | Total Quarterly Wages in Naples-Immokalee-Marco Island, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC349440010             | Average Weekly Wages for Employees in Total Covered Establishments in Naples-Marco Island, FL (MSA)                                | 1990-01-01          | 2021-10-01        |
-| ENUC349440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Naples-Marco Island, FL (MSA)                                | 1990-01-01          | 2021-10-01        |
-| ENUC349440110             | Average Weekly Wages for Employees in Federal Government Establishments in Naples-Marco Island, FL (MSA)                           | 1990-01-01          | 2021-10-01        |
-| ENUC349440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Naples-Marco Island, FL (MSA)                           | 1990-01-01          | 2021-10-01        |
-| ENUC349440210             | Average Weekly Wages for Employees in State Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2021-10-01        |
-| ENUC349440210SA           | Average Weekly Wages for Employees in State Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2021-10-01        |
-| ENUC349440310             | Average Weekly Wages for Employees in Local Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2021-10-01        |
-| ENUC349440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2021-10-01        |
-| ENUC349440510             | Average Weekly Wages for Employees in Private Establishments in Naples-Marco Island, FL (MSA)                                      | 1990-01-01          | 2021-10-01        |
-| ENUC349440510SA           | Average Weekly Wages for Employees in Private Establishments in Naples-Marco Island, FL (MSA)                                      | 1990-01-01          | 2021-10-01        |
+| ENUC349430010             | Total Quarterly Wages in Naples-Immokalee-Marco Island, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC349430010SA           | Total Quarterly Wages in Naples-Immokalee-Marco Island, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC349440010             | Average Weekly Wages for Employees in Total Covered Establishments in Naples-Marco Island, FL (MSA)                                | 1990-01-01          | 2022-01-01        |
+| ENUC349440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Naples-Marco Island, FL (MSA)                                | 1990-01-01          | 2022-01-01        |
+| ENUC349440110             | Average Weekly Wages for Employees in Federal Government Establishments in Naples-Marco Island, FL (MSA)                           | 1990-01-01          | 2022-01-01        |
+| ENUC349440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Naples-Marco Island, FL (MSA)                           | 1990-01-01          | 2022-01-01        |
+| ENUC349440210             | Average Weekly Wages for Employees in State Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2022-01-01        |
+| ENUC349440210SA           | Average Weekly Wages for Employees in State Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2022-01-01        |
+| ENUC349440310             | Average Weekly Wages for Employees in Local Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2022-01-01        |
+| ENUC349440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Naples-Marco Island, FL (MSA)                             | 1990-01-01          | 2022-01-01        |
+| ENUC349440510             | Average Weekly Wages for Employees in Private Establishments in Naples-Marco Island, FL (MSA)                                      | 1990-01-01          | 2022-01-01        |
+| ENUC349440510SA           | Average Weekly Wages for Employees in Private Establishments in Naples-Marco Island, FL (MSA)                                      | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA34940            | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA34940              | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA34940            | Market Hotness: Hotness Rank in Naples-Immokalee-Marco Island, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

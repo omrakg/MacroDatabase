@@ -8,18 +8,18 @@
 | AVELISPRIMM28700          | Housing Inventory: Average Listing Price Month-Over-Month in Kingsport-Bristol-Bristol, TN-VA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY28700          | Housing Inventory: Average Listing Price Year-Over-Year in Kingsport-Bristol-Bristol, TN-VA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA28700              | Market Hotness: Demand Score in Kingsport-Bristol-Bristol, TN-VA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC287030010             | Total Quarterly Wages in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC287030010SA           | Total Quarterly Wages in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC287040010             | Average Weekly Wages for Employees in Total Covered Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC287040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC287040110             | Average Weekly Wages for Employees in Federal Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC287040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC287040210             | Average Weekly Wages for Employees in State Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC287040210SA           | Average Weekly Wages for Employees in State Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC287040310             | Average Weekly Wages for Employees in Local Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC287040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC287040510             | Average Weekly Wages for Employees in Private Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC287040510SA           | Average Weekly Wages for Employees in Private Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC287030010             | Total Quarterly Wages in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC287030010SA           | Total Quarterly Wages in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC287040010             | Average Weekly Wages for Employees in Total Covered Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC287040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC287040110             | Average Weekly Wages for Employees in Federal Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC287040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC287040210             | Average Weekly Wages for Employees in State Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                   | 2001-01-01          | 2022-01-01        |
+| ENUC287040210SA           | Average Weekly Wages for Employees in State Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                   | 2001-01-01          | 2022-01-01        |
+| ENUC287040310             | Average Weekly Wages for Employees in Local Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                   | 2001-01-01          | 2022-01-01        |
+| ENUC287040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                   | 2001-01-01          | 2022-01-01        |
+| ENUC287040510             | Average Weekly Wages for Employees in Private Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC287040510SA           | Average Weekly Wages for Employees in Private Establishments in Kingsport-Bristol-Bristol, TN-VA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA28700            | Market Hotness: Hotness Rank in Kingsport-Bristol-Bristol, TN-VA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA28700              | Market Hotness: Hotness Rank in Kingsport-Bristol-Bristol, TN-VA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA28700            | Market Hotness: Hotness Rank in Kingsport-Bristol-Bristol, TN-VA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

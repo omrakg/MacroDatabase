@@ -39,18 +39,18 @@
 | CHEY956UR                 | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | CHEY956URN                | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | CHYPOP                    | Resident Population in Cheyenne, WY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC169430010             | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC169430010SA           | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC169440010             | Average Weekly Wages for Employees in Total Covered Establishments in Cheyenne, WY (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC169440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cheyenne, WY (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC169440110             | Average Weekly Wages for Employees in Federal Government Establishments in Cheyenne, WY (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC169440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cheyenne, WY (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC169440210             | Average Weekly Wages for Employees in State Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC169440210SA           | Average Weekly Wages for Employees in State Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC169440310             | Average Weekly Wages for Employees in Local Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC169440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC169440510             | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC169440510SA           | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC169430010             | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC169430010SA           | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC169440010             | Average Weekly Wages for Employees in Total Covered Establishments in Cheyenne, WY (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC169440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cheyenne, WY (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC169440110             | Average Weekly Wages for Employees in Federal Government Establishments in Cheyenne, WY (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC169440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cheyenne, WY (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC169440210             | Average Weekly Wages for Employees in State Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC169440210SA           | Average Weekly Wages for Employees in State Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC169440310             | Average Weekly Wages for Employees in Local Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC169440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC169440510             | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC169440510SA           | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD16940                 | Implicit Regional Price Deflator for Cheyenne, WY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT561694000000003A     | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT561694000000004      | Unemployed Persons in Cheyenne, WY (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

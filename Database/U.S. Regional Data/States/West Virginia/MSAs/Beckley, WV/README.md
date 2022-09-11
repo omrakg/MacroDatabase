@@ -3,18 +3,18 @@
 | ATNHPIUS13220Q         | All-Transactions House Price Index for Beckley, WV (MSA)                                     | 1997-01-01          | 2022-04-01        |
 | BCKPOP                 | Resident Population in Beckley, WV (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | BECK954PCPI            | Per Capita Personal Income in Beckley, WV (MSA)                                              | 1969-01-01          | 2020-01-01        |
-| ENUC132230010          | Total Quarterly Wages in Beckley, WV (MSA)                                                   | 2013-01-01          | 2021-10-01        |
-| ENUC132230010SA        | Total Quarterly Wages in Beckley, WV (MSA)                                                   | 2013-01-01          | 2021-10-01        |
-| ENUC132240010          | Average Weekly Wages for Employees in Total Covered Establishments in Beckley, WV (MSA)      | 2013-01-01          | 2021-10-01        |
-| ENUC132240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Beckley, WV (MSA)      | 2013-01-01          | 2021-10-01        |
-| ENUC132240110          | Average Weekly Wages for Employees in Federal Government Establishments in Beckley, WV (MSA) | 2013-01-01          | 2021-10-01        |
-| ENUC132240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Beckley, WV (MSA) | 2013-01-01          | 2021-10-01        |
-| ENUC132240210          | Average Weekly Wages for Employees in State Government Establishments in Beckley, WV (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC132240210SA        | Average Weekly Wages for Employees in State Government Establishments in Beckley, WV (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC132240310          | Average Weekly Wages for Employees in Local Government Establishments in Beckley, WV (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC132240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Beckley, WV (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC132240510          | Average Weekly Wages for Employees in Private Establishments in Beckley, WV (MSA)            | 2013-01-01          | 2021-10-01        |
-| ENUC132240510SA        | Average Weekly Wages for Employees in Private Establishments in Beckley, WV (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC132230010          | Total Quarterly Wages in Beckley, WV (MSA)                                                   | 2013-01-01          | 2022-01-01        |
+| ENUC132230010SA        | Total Quarterly Wages in Beckley, WV (MSA)                                                   | 2013-01-01          | 2022-01-01        |
+| ENUC132240010          | Average Weekly Wages for Employees in Total Covered Establishments in Beckley, WV (MSA)      | 2013-01-01          | 2022-01-01        |
+| ENUC132240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Beckley, WV (MSA)      | 2013-01-01          | 2022-01-01        |
+| ENUC132240110          | Average Weekly Wages for Employees in Federal Government Establishments in Beckley, WV (MSA) | 2013-01-01          | 2022-01-01        |
+| ENUC132240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Beckley, WV (MSA) | 2013-01-01          | 2022-01-01        |
+| ENUC132240210          | Average Weekly Wages for Employees in State Government Establishments in Beckley, WV (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC132240210SA        | Average Weekly Wages for Employees in State Government Establishments in Beckley, WV (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC132240310          | Average Weekly Wages for Employees in Local Government Establishments in Beckley, WV (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC132240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Beckley, WV (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC132240510          | Average Weekly Wages for Employees in Private Establishments in Beckley, WV (MSA)            | 2013-01-01          | 2022-01-01        |
+| ENUC132240510SA        | Average Weekly Wages for Employees in Private Establishments in Beckley, WV (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD13220              | Implicit Regional Price Deflator for Beckley, WV (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT541322000000003   | Unemployment Rate in Beckley, WV (MSA)                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT541322000000003A  | Unemployment Rate in Beckley, WV (MSA)                                                       | 1990-01-01          | 2021-01-01        |

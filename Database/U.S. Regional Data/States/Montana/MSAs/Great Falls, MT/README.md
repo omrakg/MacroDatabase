@@ -7,18 +7,18 @@
 | AVELISPRI24500            | Housing Inventory: Average Listing Price in Great Falls, MT (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM24500          | Housing Inventory: Average Listing Price Month-Over-Month in Great Falls, MT (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY24500          | Housing Inventory: Average Listing Price Year-Over-Year in Great Falls, MT (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| ENUC245030010             | Total Quarterly Wages in Great Falls, MT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC245030010SA           | Total Quarterly Wages in Great Falls, MT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC245040010             | Average Weekly Wages for Employees in Total Covered Establishments in Great Falls, MT (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC245040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Great Falls, MT (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC245040110             | Average Weekly Wages for Employees in Federal Government Establishments in Great Falls, MT (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC245040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Great Falls, MT (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC245040210             | Average Weekly Wages for Employees in State Government Establishments in Great Falls, MT (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC245040210SA           | Average Weekly Wages for Employees in State Government Establishments in Great Falls, MT (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC245040310             | Average Weekly Wages for Employees in Local Government Establishments in Great Falls, MT (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC245040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Great Falls, MT (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC245040510             | Average Weekly Wages for Employees in Private Establishments in Great Falls, MT (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC245040510SA           | Average Weekly Wages for Employees in Private Establishments in Great Falls, MT (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC245030010             | Total Quarterly Wages in Great Falls, MT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC245030010SA           | Total Quarterly Wages in Great Falls, MT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC245040010             | Average Weekly Wages for Employees in Total Covered Establishments in Great Falls, MT (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC245040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Great Falls, MT (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC245040110             | Average Weekly Wages for Employees in Federal Government Establishments in Great Falls, MT (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC245040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Great Falls, MT (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC245040210             | Average Weekly Wages for Employees in State Government Establishments in Great Falls, MT (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC245040210SA           | Average Weekly Wages for Employees in State Government Establishments in Great Falls, MT (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC245040310             | Average Weekly Wages for Employees in Local Government Establishments in Great Falls, MT (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC245040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Great Falls, MT (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC245040510             | Average Weekly Wages for Employees in Private Establishments in Great Falls, MT (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC245040510SA           | Average Weekly Wages for Employees in Private Establishments in Great Falls, MT (MSA)              | 1990-01-01          | 2022-01-01        |
 | GFLPOP                    | Resident Population in Great Falls, MT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | GREA530EDUH               | All Employees: Education and Health Services in Great Falls, MT (MSA)                              | 1990-01-01          | 2022-07-01        |
 | GREA530EDUHN              | All Employees: Education and Health Services in Great Falls, MT (MSA)                              | 1990-01-01          | 2022-07-01        |

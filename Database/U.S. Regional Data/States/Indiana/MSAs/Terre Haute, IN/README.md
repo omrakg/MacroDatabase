@@ -8,18 +8,18 @@
 | AVELISPRIMM45460          | Housing Inventory: Average Listing Price Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY45460          | Housing Inventory: Average Listing Price Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA45460              | Market Hotness: Demand Score in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC454630010             | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC454630010SA           | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC454640010             | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC454640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC454640110             | Average Weekly Wages for Employees in Federal Government Establishments in Terre Haute, IN (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC454640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Terre Haute, IN (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC454640210             | Average Weekly Wages for Employees in State Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC454640210SA           | Average Weekly Wages for Employees in State Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC454640310             | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC454640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC454640510             | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC454640510SA           | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC454630010             | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC454630010SA           | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC454640010             | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC454640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC454640110             | Average Weekly Wages for Employees in Federal Government Establishments in Terre Haute, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC454640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Terre Haute, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC454640210             | Average Weekly Wages for Employees in State Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC454640210SA           | Average Weekly Wages for Employees in State Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC454640310             | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC454640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC454640510             | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC454640510SA           | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA45460            | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA45460              | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA45460            | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

@@ -21,23 +21,23 @@
 | BOXRMTSA                  | Home Price Index (Middle Tier) for Boston, Massachusetts                                                             | 1987-01-01          | 2022-06-01        |
 | BOXRPSNSA                 | Home Price Sales Pair Counts for Boston, Massachusetts                                                               | 1987-01-01          | 2022-06-01        |
 | DESCMSA14460              | Market Hotness: Demand Score in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-08-01          | 2022-08-01        |
-| ENUC144630010             | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC144630010SA           | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2021-10-01        |
-| ENUC144640010             | Average Weekly Wages for Employees in Total Covered Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC144640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)           | 1990-01-01          | 2021-10-01        |
-| ENUC144640110             | Average Weekly Wages for Employees in Federal Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC144640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)      | 1990-01-01          | 2021-10-01        |
-| ENUC144640210             | Average Weekly Wages for Employees in State Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC144640210SA           | Average Weekly Wages for Employees in State Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC144640310             | Average Weekly Wages for Employees in Local Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC144640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC144640510             | Average Weekly Wages for Employees in Private Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC144640510SA           | Average Weekly Wages for Employees in Private Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)                 | 1990-01-01          | 2021-10-01        |
+| ENUC144630010             | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC144630010SA           | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| ENUC144640010             | Average Weekly Wages for Employees in Total Covered Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC144640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC144640110             | Average Weekly Wages for Employees in Federal Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC144640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)      | 1990-01-01          | 2022-01-01        |
+| ENUC144640210             | Average Weekly Wages for Employees in State Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC144640210SA           | Average Weekly Wages for Employees in State Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC144640310             | Average Weekly Wages for Employees in Local Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC144640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC144640510             | Average Weekly Wages for Employees in Private Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC144640510SA           | Average Weekly Wages for Employees in Private Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)                 | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA14460            | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2018-08-01          | 2022-08-01        |
 | HORAMSA14460              | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA14460            | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2018-08-01          | 2022-08-01        |
 | HOSCMSA14460              | Market Hotness: Hotness Score in Boston-Cambridge-Newton, MA-NH (CBSA)                                               | 2017-08-01          | 2022-08-01        |
-| IHLCHG14460               | Job Postings on Indeed in Boston-Cambridge-Newton, MA-NH (MSA)                                                       | 2020-02-01          | 2022-07-29        |
+| IHLCHG14460               | Job Postings on Indeed in Boston-Cambridge-Newton, MA-NH (MSA)                                                       | 2020-02-01          | 2022-08-26        |
 | IRPD14460                 | Implicit Regional Price Deflator for Boston-Cambridge-Newton, MA-NH (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA14460          | Market Hotness: Listing Views per Property in Boston-Cambridge-Newton, MA-NH (CBSA)                                  | 2018-08-01          | 2022-08-01        |
 | LDPEPRVSUSMSA14460        | Market Hotness: Listing Views per Property Versus the United States in Boston-Cambridge-Newton, MA-NH (CBSA)         | 2017-08-01          | 2022-08-01        |

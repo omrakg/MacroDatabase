@@ -1,18 +1,18 @@
 | id                     | title                                                                                                    | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS44420Q         | All-Transactions House Price Index for Staunton, VA (MSA)                                                | 1989-04-01          | 2022-04-01        |
-| ENUC444230010          | Total Quarterly Wages in Staunton-Waynesboro, VA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
-| ENUC444230010SA        | Total Quarterly Wages in Staunton-Waynesboro, VA (MSA)                                                   | 2013-01-01          | 2021-10-01        |
-| ENUC444240010          | Average Weekly Wages for Employees in Total Covered Establishments in Staunton-Waynesboro, VA (MSA)      | 2013-01-01          | 2021-10-01        |
-| ENUC444240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Staunton-Waynesboro, VA (MSA)      | 2013-01-01          | 2021-10-01        |
-| ENUC444240110          | Average Weekly Wages for Employees in Federal Government Establishments in Staunton-Waynesboro, VA (MSA) | 2013-01-01          | 2021-10-01        |
-| ENUC444240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Staunton-Waynesboro, VA (MSA) | 2013-01-01          | 2021-10-01        |
-| ENUC444240210          | Average Weekly Wages for Employees in State Government Establishments in Staunton-Waynesboro, VA (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC444240210SA        | Average Weekly Wages for Employees in State Government Establishments in Staunton-Waynesboro, VA (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC444240310          | Average Weekly Wages for Employees in Local Government Establishments in Staunton-Waynesboro, VA (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC444240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Staunton-Waynesboro, VA (MSA)   | 2013-01-01          | 2021-10-01        |
-| ENUC444240510          | Average Weekly Wages for Employees in Private Establishments in Staunton-Waynesboro, VA (MSA)            | 2013-01-01          | 2021-10-01        |
-| ENUC444240510SA        | Average Weekly Wages for Employees in Private Establishments in Staunton-Waynesboro, VA (MSA)            | 2013-01-01          | 2021-10-01        |
+| ENUC444230010          | Total Quarterly Wages in Staunton-Waynesboro, VA (MSA)                                                   | 2013-01-01          | 2022-01-01        |
+| ENUC444230010SA        | Total Quarterly Wages in Staunton-Waynesboro, VA (MSA)                                                   | 2013-01-01          | 2022-01-01        |
+| ENUC444240010          | Average Weekly Wages for Employees in Total Covered Establishments in Staunton-Waynesboro, VA (MSA)      | 2013-01-01          | 2022-01-01        |
+| ENUC444240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Staunton-Waynesboro, VA (MSA)      | 2013-01-01          | 2022-01-01        |
+| ENUC444240110          | Average Weekly Wages for Employees in Federal Government Establishments in Staunton-Waynesboro, VA (MSA) | 2013-01-01          | 2022-01-01        |
+| ENUC444240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Staunton-Waynesboro, VA (MSA) | 2013-01-01          | 2022-01-01        |
+| ENUC444240210          | Average Weekly Wages for Employees in State Government Establishments in Staunton-Waynesboro, VA (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC444240210SA        | Average Weekly Wages for Employees in State Government Establishments in Staunton-Waynesboro, VA (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC444240310          | Average Weekly Wages for Employees in Local Government Establishments in Staunton-Waynesboro, VA (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC444240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Staunton-Waynesboro, VA (MSA)   | 2013-01-01          | 2022-01-01        |
+| ENUC444240510          | Average Weekly Wages for Employees in Private Establishments in Staunton-Waynesboro, VA (MSA)            | 2013-01-01          | 2022-01-01        |
+| ENUC444240510SA        | Average Weekly Wages for Employees in Private Establishments in Staunton-Waynesboro, VA (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD44420              | Implicit Regional Price Deflator for Staunton-Waynesboro, VA (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT514442000000003   | Unemployment Rate in Staunton-Waynesboro, VA (MSA)                                                       | 1990-01-01          | 2022-07-01        |
 | LAUMT514442000000003A  | Unemployment Rate in Staunton-Waynesboro, VA (MSA)                                                       | 1990-01-01          | 2021-01-01        |

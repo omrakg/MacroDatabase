@@ -8,18 +8,18 @@
 | AVELISPRIMM31700          | Housing Inventory: Average Listing Price Month-Over-Month in Manchester-Nashua, NH (CBSA)                | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY31700          | Housing Inventory: Average Listing Price Year-Over-Year in Manchester-Nashua, NH (CBSA)                  | 2017-07-01          | 2022-08-01        |
 | DESCMSA31700              | Market Hotness: Demand Score in Manchester-Nashua, NH (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC317030010             | Total Quarterly Wages in Manchester-Nashua, NH (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC317030010SA           | Total Quarterly Wages in Manchester-Nashua, NH (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC317040010             | Average Weekly Wages for Employees in Total Covered Establishments in Manchester-Nashua, NH (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC317040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Manchester-Nashua, NH (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC317040110             | Average Weekly Wages for Employees in Federal Government Establishments in Manchester-Nashua, NH (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC317040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Manchester-Nashua, NH (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC317040210             | Average Weekly Wages for Employees in State Government Establishments in Manchester-Nashua, NH (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC317040210SA           | Average Weekly Wages for Employees in State Government Establishments in Manchester-Nashua, NH (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC317040310             | Average Weekly Wages for Employees in Local Government Establishments in Manchester-Nashua, NH (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC317040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Manchester-Nashua, NH (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC317040510             | Average Weekly Wages for Employees in Private Establishments in Manchester-Nashua, NH (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC317040510SA           | Average Weekly Wages for Employees in Private Establishments in Manchester-Nashua, NH (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC317030010             | Total Quarterly Wages in Manchester-Nashua, NH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC317030010SA           | Total Quarterly Wages in Manchester-Nashua, NH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC317040010             | Average Weekly Wages for Employees in Total Covered Establishments in Manchester-Nashua, NH (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC317040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Manchester-Nashua, NH (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC317040110             | Average Weekly Wages for Employees in Federal Government Establishments in Manchester-Nashua, NH (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC317040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Manchester-Nashua, NH (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC317040210             | Average Weekly Wages for Employees in State Government Establishments in Manchester-Nashua, NH (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC317040210SA           | Average Weekly Wages for Employees in State Government Establishments in Manchester-Nashua, NH (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC317040310             | Average Weekly Wages for Employees in Local Government Establishments in Manchester-Nashua, NH (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC317040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Manchester-Nashua, NH (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC317040510             | Average Weekly Wages for Employees in Private Establishments in Manchester-Nashua, NH (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC317040510SA           | Average Weekly Wages for Employees in Private Establishments in Manchester-Nashua, NH (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA31700            | Market Hotness: Hotness Rank in Manchester-Nashua, NH (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA31700              | Market Hotness: Hotness Rank in Manchester-Nashua, NH (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA31700            | Market Hotness: Hotness Rank in Manchester-Nashua, NH (CBSA)                                             | 2018-08-01          | 2022-08-01        |

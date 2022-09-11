@@ -8,18 +8,18 @@
 | AVELISPRIMM41060          | Housing Inventory: Average Listing Price Month-Over-Month in St. Cloud, MN (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY41060          | Housing Inventory: Average Listing Price Year-Over-Year in St. Cloud, MN (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA41060              | Market Hotness: Demand Score in St. Cloud, MN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC410630010             | Total Quarterly Wages in St. Cloud, MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC410630010SA           | Total Quarterly Wages in St. Cloud, MN (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC410640010             | Average Weekly Wages for Employees in Total Covered Establishments in St. Cloud, MN (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC410640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in St. Cloud, MN (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC410640110             | Average Weekly Wages for Employees in Federal Government Establishments in St. Cloud, MN (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC410640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in St. Cloud, MN (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC410640210             | Average Weekly Wages for Employees in State Government Establishments in St. Cloud, MN (MSA)                   | 2004-04-01          | 2021-10-01        |
-| ENUC410640210SA           | Average Weekly Wages for Employees in State Government Establishments in St. Cloud, MN (MSA)                   | 2004-04-01          | 2021-10-01        |
-| ENUC410640310             | Average Weekly Wages for Employees in Local Government Establishments in St. Cloud, MN (MSA)                   | 2004-04-01          | 2021-10-01        |
-| ENUC410640310SA           | Average Weekly Wages for Employees in Local Government Establishments in St. Cloud, MN (MSA)                   | 2004-04-01          | 2021-10-01        |
-| ENUC410640510             | Average Weekly Wages for Employees in Private Establishments in St. Cloud, MN (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC410640510SA           | Average Weekly Wages for Employees in Private Establishments in St. Cloud, MN (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC410630010             | Total Quarterly Wages in St. Cloud, MN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC410630010SA           | Total Quarterly Wages in St. Cloud, MN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC410640010             | Average Weekly Wages for Employees in Total Covered Establishments in St. Cloud, MN (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC410640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in St. Cloud, MN (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC410640110             | Average Weekly Wages for Employees in Federal Government Establishments in St. Cloud, MN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC410640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in St. Cloud, MN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC410640210             | Average Weekly Wages for Employees in State Government Establishments in St. Cloud, MN (MSA)                   | 2004-04-01          | 2022-01-01        |
+| ENUC410640210SA           | Average Weekly Wages for Employees in State Government Establishments in St. Cloud, MN (MSA)                   | 2004-04-01          | 2022-01-01        |
+| ENUC410640310             | Average Weekly Wages for Employees in Local Government Establishments in St. Cloud, MN (MSA)                   | 2004-04-01          | 2022-01-01        |
+| ENUC410640310SA           | Average Weekly Wages for Employees in Local Government Establishments in St. Cloud, MN (MSA)                   | 2004-04-01          | 2022-01-01        |
+| ENUC410640510             | Average Weekly Wages for Employees in Private Establishments in St. Cloud, MN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC410640510SA           | Average Weekly Wages for Employees in Private Establishments in St. Cloud, MN (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA41060            | Market Hotness: Hotness Rank in St. Cloud, MN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA41060              | Market Hotness: Hotness Rank in St. Cloud, MN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA41060            | Market Hotness: Hotness Rank in St. Cloud, MN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

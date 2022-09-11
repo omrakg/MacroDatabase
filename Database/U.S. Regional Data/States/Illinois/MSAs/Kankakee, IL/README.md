@@ -7,14 +7,14 @@
 | AVELISPRI28100            | Housing Inventory: Average Listing Price in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM28100          | Housing Inventory: Average Listing Price Month-Over-Month in Kankakee, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY28100          | Housing Inventory: Average Listing Price Year-Over-Year in Kankakee, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| ENUC281030010             | Total Quarterly Wages in Kankakee, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC281030010SA           | Total Quarterly Wages in Kankakee, IL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC281040010             | Average Weekly Wages for Employees in Total Covered Establishments in Kankakee-Bradley, IL (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC281040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kankakee-Bradley, IL (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC281040110             | Average Weekly Wages for Employees in Federal Government Establishments in Kankakee-Bradley, IL (MSA)         | 1990-01-01          | 2021-10-01        |
-| ENUC281040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kankakee-Bradley, IL (MSA)         | 1990-01-01          | 2021-10-01        |
-| ENUC281040510             | Average Weekly Wages for Employees in Private Establishments in Kankakee-Bradley, IL (MSA)                    | 1990-01-01          | 2021-10-01        |
-| ENUC281040510SA           | Average Weekly Wages for Employees in Private Establishments in Kankakee-Bradley, IL (MSA)                    | 1990-01-01          | 2021-10-01        |
+| ENUC281030010             | Total Quarterly Wages in Kankakee, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC281030010SA           | Total Quarterly Wages in Kankakee, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC281040010             | Average Weekly Wages for Employees in Total Covered Establishments in Kankakee-Bradley, IL (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC281040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kankakee-Bradley, IL (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC281040110             | Average Weekly Wages for Employees in Federal Government Establishments in Kankakee-Bradley, IL (MSA)         | 1990-01-01          | 2022-01-01        |
+| ENUC281040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kankakee-Bradley, IL (MSA)         | 1990-01-01          | 2022-01-01        |
+| ENUC281040510             | Average Weekly Wages for Employees in Private Establishments in Kankakee-Bradley, IL (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC281040510SA           | Average Weekly Wages for Employees in Private Establishments in Kankakee-Bradley, IL (MSA)                    | 1990-01-01          | 2022-01-01        |
 | IRPD28100                 | Implicit Regional Price Deflator for Kankakee, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | KANK117EDUH               | All Employees: Education and Health Services in Kankakee, IL (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | KANK117EDUHN              | All Employees: Education and Health Services in Kankakee, IL (MSA)                                            | 1990-01-01          | 2022-07-01        |

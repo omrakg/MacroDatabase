@@ -8,18 +8,18 @@
 | AVELISPRIMM21780          | Housing Inventory: Average Listing Price Month-Over-Month in Evansville, IN-KY (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY21780          | Housing Inventory: Average Listing Price Year-Over-Year in Evansville, IN-KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA21780              | Market Hotness: Demand Score in Evansville, IN-KY (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC217830010             | Total Quarterly Wages in Evansville, IN-KY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC217830010SA           | Total Quarterly Wages in Evansville, IN-KY (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC217840010             | Average Weekly Wages for Employees in Total Covered Establishments in Evansville, IN-KY (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC217840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Evansville, IN-KY (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC217840110             | Average Weekly Wages for Employees in Federal Government Establishments in Evansville, IN-KY (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC217840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Evansville, IN-KY (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC217840210             | Average Weekly Wages for Employees in State Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC217840210SA           | Average Weekly Wages for Employees in State Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC217840310             | Average Weekly Wages for Employees in Local Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC217840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC217840510             | Average Weekly Wages for Employees in Private Establishments in Evansville, IN-KY (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC217840510SA           | Average Weekly Wages for Employees in Private Establishments in Evansville, IN-KY (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC217830010             | Total Quarterly Wages in Evansville, IN-KY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC217830010SA           | Total Quarterly Wages in Evansville, IN-KY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC217840010             | Average Weekly Wages for Employees in Total Covered Establishments in Evansville, IN-KY (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC217840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Evansville, IN-KY (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC217840110             | Average Weekly Wages for Employees in Federal Government Establishments in Evansville, IN-KY (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC217840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Evansville, IN-KY (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC217840210             | Average Weekly Wages for Employees in State Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC217840210SA           | Average Weekly Wages for Employees in State Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC217840310             | Average Weekly Wages for Employees in Local Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC217840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC217840510             | Average Weekly Wages for Employees in Private Establishments in Evansville, IN-KY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC217840510SA           | Average Weekly Wages for Employees in Private Establishments in Evansville, IN-KY (MSA)                            | 1990-01-01          | 2022-01-01        |
 | EVNEDUH                   | All Employees: Education and Health Services in Evansville, IN-KY (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | EVNEDUHN                  | All Employees: Education and Health Services in Evansville, IN-KY (MSA)                                            | 1990-01-01          | 2022-07-01        |
 | EVNFIRE                   | All Employees: Financial Activities in Evansville, IN-KY (MSA)                                                     | 1990-01-01          | 2022-07-01        |

@@ -55,7 +55,7 @@
 | ERIPCPIEOPPCPPPT    | Consumer Prices at End of Period for Eritrea                                                          | 2004-01-01          | 2023-01-01        |
 | ERIPCPIPCPPPT       | Consumer Prices: All Items for Eritrea                                                                | 2004-01-01          | 2023-01-01        |
 | ERITTTIX            | Terms of Trade for Goods for Eritrea                                                                  | 2004-01-01          | 2023-01-01        |
-| EXP7741             | U.S. Exports of Goods by F.A.S. Basis to Eritrea                                                      | 1993-01-01          | 2022-06-01        |
+| EXP7741             | U.S. Exports of Goods by F.A.S. Basis to Eritrea                                                      | 1993-01-01          | 2022-07-01        |
 | FLERIA052SCEN       | Value of Exports to Eritrea from Florida                                                              | 2002-01-01          | 2017-01-01        |
 | FLERIA475SCEN       | Number of Identified Exporters to Eritrea from Florida                                                | 1997-01-01          | 2017-01-01        |
 | GAERIA052SCEN       | Value of Exports to Eritrea from Georgia                                                              | 2002-01-01          | 2014-01-01        |
@@ -66,7 +66,7 @@
 | IDERIA475SCEN       | Number of Identified Exporters to Eritrea from Idaho                                                  | 2004-01-01          | 2005-01-01        |
 | ILERIA052SCEN       | Value of Exports to Eritrea from Illinois                                                             | 1997-01-01          | 2015-01-01        |
 | ILERIA475SCEN       | Number of Identified Exporters to Eritrea from Illinois                                               | 1997-01-01          | 2016-01-01        |
-| IMP7741             | U.S. Imports of Goods by Customs Basis from Eritrea                                                   | 1993-01-01          | 2022-06-01        |
+| IMP7741             | U.S. Imports of Goods by Customs Basis from Eritrea                                                   | 1993-01-01          | 2022-07-01        |
 | INERIA052SCEN       | Value of Exports to Eritrea from Indiana                                                              | 1997-01-01          | 2010-01-01        |
 | INERIA475SCEN       | Number of Identified Exporters to Eritrea from Indiana                                                | 1997-01-01          | 2016-01-01        |
 | ITNETUSERP2ERI      | Internet users for Eritrea                                                                            | 1990-01-01          | 2017-01-01        |

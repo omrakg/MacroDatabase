@@ -34,7 +34,7 @@
 | Saunders County, NE     |                90 |
 | Dawes County, NE        |                88 |
 | Sioux County, NE        |                86 |
-| Sherman County, NE      |                 0 |
+| Sherman County, NE      |                88 |
 | Brown County, NE        |                88 |
 | Hall County, NE         |               145 |
 | Cherry County, NE       |                88 |
@@ -46,7 +46,7 @@
 | Stanton County, NE      |                88 |
 | Platte County, NE       |                90 |
 | Kearney County, NE      |                90 |
-| Blaine County, NE       |                82 |
+| Blaine County, NE       |                 0 |
 | Kimball County, NE      |                89 |
 | Furnas County, NE       |                88 |
 | Thayer County, NE       |                88 |

@@ -8,18 +8,18 @@
 | AVELISPRIMM26380          | Housing Inventory: Average Listing Price Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY26380          | Housing Inventory: Average Listing Price Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-08-01        |
 | DESCMSA26380              | Market Hotness: Demand Score in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| ENUC263830010             | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2021-10-01        |
-| ENUC263830010SA           | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2021-10-01        |
-| ENUC263840010             | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2021-10-01        |
-| ENUC263840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2021-10-01        |
-| ENUC263840110             | Average Weekly Wages for Employees in Federal Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC263840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)     | 1990-01-01          | 2021-10-01        |
-| ENUC263840210             | Average Weekly Wages for Employees in State Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2021-10-01        |
-| ENUC263840210SA           | Average Weekly Wages for Employees in State Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2021-10-01        |
-| ENUC263840310             | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2021-10-01        |
-| ENUC263840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2021-10-01        |
-| ENUC263840510             | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2021-10-01        |
-| ENUC263840510SA           | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2021-10-01        |
+| ENUC263830010             | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2022-01-01        |
+| ENUC263830010SA           | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2022-01-01        |
+| ENUC263840010             | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2022-01-01        |
+| ENUC263840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2022-01-01        |
+| ENUC263840110             | Average Weekly Wages for Employees in Federal Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC263840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC263840210             | Average Weekly Wages for Employees in State Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
+| ENUC263840210SA           | Average Weekly Wages for Employees in State Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
+| ENUC263840310             | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
+| ENUC263840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
+| ENUC263840510             | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2022-01-01        |
+| ENUC263840510SA           | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2018-08-01          | 2022-08-01        |
 | HORAMSA26380              | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2018-08-01          | 2022-08-01        |

@@ -17,7 +17,7 @@
 | Vernon County, MO         |                90 |
 | Randolph County, MO       |                90 |
 | Miller County, MO         |                90 |
-| Stoddard County, MO       |                90 |
+| Stoddard County, MO       |                 0 |
 | Reynolds County, MO       |                88 |
 | Caldwell County, MO       |                89 |
 | Bollinger County, MO      |                89 |
@@ -27,7 +27,7 @@
 | Texas County, MO          |                89 |
 | Osage County, MO          |                90 |
 | Butler County, MO         |                89 |
-| McDonald County, MO       |                 0 |
+| McDonald County, MO       |                89 |
 | Livingston County, MO     |                90 |
 | Saline County, MO         |                90 |
 | New Madrid County, MO     |                90 |
@@ -77,7 +77,7 @@
 | Pulaski County, MO        |                90 |
 | Clay County, MO           |               147 |
 | Oregon County, MO         |                89 |
-| Dallas County, MO         |                90 |
+| Dallas County, MO         |                 0 |
 | St. Clair County, MO      |                89 |
 | Bates County, MO          |                89 |
 | Carter County, MO         |                88 |

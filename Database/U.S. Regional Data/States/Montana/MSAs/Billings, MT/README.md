@@ -26,18 +26,18 @@
 | BILL730URN                | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | BILPOP                    | Resident Population in Billings, MT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA13740              | Market Hotness: Demand Score in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC137430010             | Total Quarterly Wages in Billings, MT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC137430010SA           | Total Quarterly Wages in Billings, MT (MSA)                                                     | 1990-01-01          | 2021-10-01        |
-| ENUC137440010             | Average Weekly Wages for Employees in Total Covered Establishments in Billings, MT (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC137440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Billings, MT (MSA)        | 1990-01-01          | 2021-10-01        |
-| ENUC137440110             | Average Weekly Wages for Employees in Federal Government Establishments in Billings, MT (MSA)   | 1990-01-01          | 2021-10-01        |
-| ENUC137440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Billings, MT (MSA)   | 1990-01-01          | 2021-10-01        |
+| ENUC137430010             | Total Quarterly Wages in Billings, MT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC137430010SA           | Total Quarterly Wages in Billings, MT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC137440010             | Average Weekly Wages for Employees in Total Covered Establishments in Billings, MT (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC137440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Billings, MT (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC137440110             | Average Weekly Wages for Employees in Federal Government Establishments in Billings, MT (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC137440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Billings, MT (MSA)   | 1990-01-01          | 2022-01-01        |
 | ENUC137440210             | Average Weekly Wages for Employees in State Government Establishments in Billings, MT (MSA)     | 1990-01-01          | 2012-10-01        |
 | ENUC137440210SA           | Average Weekly Wages for Employees in State Government Establishments in Billings, MT (MSA)     | 1990-01-01          | 2012-10-01        |
 | ENUC137440310             | Average Weekly Wages for Employees in Local Government Establishments in Billings, MT (MSA)     | 1990-01-01          | 2012-10-01        |
 | ENUC137440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Billings, MT (MSA)     | 1990-01-01          | 2012-10-01        |
-| ENUC137440510             | Average Weekly Wages for Employees in Private Establishments in Billings, MT (MSA)              | 1990-01-01          | 2021-10-01        |
-| ENUC137440510SA           | Average Weekly Wages for Employees in Private Establishments in Billings, MT (MSA)              | 1990-01-01          | 2021-10-01        |
+| ENUC137440510             | Average Weekly Wages for Employees in Private Establishments in Billings, MT (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC137440510SA           | Average Weekly Wages for Employees in Private Establishments in Billings, MT (MSA)              | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA13740            | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA13740              | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA13740            | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2018-08-01          | 2022-08-01        |

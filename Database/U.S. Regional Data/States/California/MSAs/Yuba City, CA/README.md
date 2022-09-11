@@ -8,18 +8,18 @@
 | AVELISPRIMM49700          | Housing Inventory: Average Listing Price Month-Over-Month in Yuba City, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY49700          | Housing Inventory: Average Listing Price Year-Over-Year in Yuba City, CA (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA49700              | Market Hotness: Demand Score in Yuba City, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC497030010             | Total Quarterly Wages in Yuba City, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC497030010SA           | Total Quarterly Wages in Yuba City, CA (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC497040010             | Average Weekly Wages for Employees in Total Covered Establishments in Yuba City, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC497040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yuba City, CA (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC497040110             | Average Weekly Wages for Employees in Federal Government Establishments in Yuba City, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC497040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yuba City, CA (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC497040210             | Average Weekly Wages for Employees in State Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC497040210SA           | Average Weekly Wages for Employees in State Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC497040310             | Average Weekly Wages for Employees in Local Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC497040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC497040510             | Average Weekly Wages for Employees in Private Establishments in Yuba City, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC497040510SA           | Average Weekly Wages for Employees in Private Establishments in Yuba City, CA (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC497030010             | Total Quarterly Wages in Yuba City, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC497030010SA           | Total Quarterly Wages in Yuba City, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC497040010             | Average Weekly Wages for Employees in Total Covered Establishments in Yuba City, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC497040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yuba City, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC497040110             | Average Weekly Wages for Employees in Federal Government Establishments in Yuba City, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC497040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yuba City, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC497040210             | Average Weekly Wages for Employees in State Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC497040210SA           | Average Weekly Wages for Employees in State Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC497040310             | Average Weekly Wages for Employees in Local Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC497040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC497040510             | Average Weekly Wages for Employees in Private Establishments in Yuba City, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC497040510SA           | Average Weekly Wages for Employees in Private Establishments in Yuba City, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA49700            | Market Hotness: Hotness Rank in Yuba City, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA49700              | Market Hotness: Hotness Rank in Yuba City, CA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA49700            | Market Hotness: Hotness Rank in Yuba City, CA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |

@@ -30,7 +30,7 @@
 | Pike County, MS            |                89 |
 | Wayne County, MS           |                88 |
 | Tallahatchie County, MS    |                87 |
-| Smith County, MS           |                 0 |
+| Smith County, MS           |                88 |
 | Choctaw County, MS         |                88 |
 | Benton County, MS          |                88 |
 | Grenada County, MS         |                90 |
@@ -51,7 +51,7 @@
 | Yazoo County, MS           |                88 |
 | Union County, MS           |                89 |
 | Lamar County, MS           |               145 |
-| Bolivar County, MS         |                90 |
+| Bolivar County, MS         |                 0 |
 | Montgomery County, MS      |                87 |
 | Wilkinson County, MS       |                88 |
 | Newton County, MS          |                87 |

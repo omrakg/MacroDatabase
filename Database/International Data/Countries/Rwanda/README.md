@@ -63,7 +63,7 @@
 | DDSI07RWA156NWDB    | Provisions to Non-Performing Loans for Rwanda                                                                                                         | 2003-01-01          | 2019-01-01        |
 | DEBTTLRWA188A       | Central government debt, total (% of GDP) for Rwanda                                                                                                  | 1990-01-01          | 1992-01-01        |
 | DERWAA475SCEN       | Number of Identified Exporters to Rwanda from Delaware                                                                                                | 1997-01-01          | 2015-01-01        |
-| EXP7690             | U.S. Exports of Goods by F.A.S. Basis to Rwanda                                                                                                       | 1992-01-01          | 2022-06-01        |
+| EXP7690             | U.S. Exports of Goods by F.A.S. Basis to Rwanda                                                                                                       | 1992-01-01          | 2022-07-01        |
 | FLRWAA052SCEN       | Value of Exports to Rwanda from Florida                                                                                                               | 1997-01-01          | 2017-01-01        |
 | FLRWAA475SCEN       | Number of Identified Exporters to Rwanda from Florida                                                                                                 | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGRWA      | Inflation, consumer prices for Rwanda                                                                                                                 | 1967-01-01          | 2021-01-01        |
@@ -75,7 +75,7 @@
 | IDRWAA475SCEN       | Number of Identified Exporters to Rwanda from Idaho                                                                                                   | 1997-01-01          | 2016-01-01        |
 | ILRWAA052SCEN       | Value of Exports to Rwanda from Illinois                                                                                                              | 2007-01-01          | 2017-01-01        |
 | ILRWAA475SCEN       | Number of Identified Exporters to Rwanda from Illinois                                                                                                | 1997-01-01          | 2017-01-01        |
-| IMP7690             | U.S. Imports of Goods by Customs Basis from Rwanda                                                                                                    | 1992-01-01          | 2022-06-01        |
+| IMP7690             | U.S. Imports of Goods by Customs Basis from Rwanda                                                                                                    | 1992-01-01          | 2022-07-01        |
 | INRWAA052SCEN       | Value of Exports to Rwanda from Indiana                                                                                                               | 2004-01-01          | 2017-01-01        |
 | INRWAA475SCEN       | Number of Identified Exporters to Rwanda from Indiana                                                                                                 | 2002-01-01          | 2017-01-01        |
 | ITNETUSERP2RWA      | Internet users for Rwanda                                                                                                                             | 1990-01-01          | 2020-01-01        |

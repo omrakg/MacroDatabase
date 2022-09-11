@@ -26,7 +26,7 @@
 | Beadle County, SD        |                89 |
 | Codington County, SD     |                90 |
 | Faulk County, SD         |                88 |
-| Bon Homme County, SD     |                89 |
+| Bon Homme County, SD     |                 0 |
 | Fall River County, SD    |                88 |
 | Lawrence County, SD      |                90 |
 | Lyman County, SD         |                88 |
@@ -43,7 +43,7 @@
 | Spink County, SD         |                89 |
 | Brookings County, SD     |                90 |
 | Brown County, SD         |                90 |
-| McCook County, SD        |                 0 |
+| McCook County, SD        |                89 |
 | Meade County, SD         |                90 |
 | Marshall County, SD      |                89 |
 | Roberts County, SD       |                89 |

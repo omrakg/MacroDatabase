@@ -8,23 +8,23 @@
 | AVELISPRIMM29460          | Housing Inventory: Average Listing Price Month-Over-Month in Lakeland-Winter Haven, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY29460          | Housing Inventory: Average Listing Price Year-Over-Year in Lakeland-Winter Haven, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA29460              | Market Hotness: Demand Score in Lakeland-Winter Haven, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC294630010             | Total Quarterly Wages in Lakeland-Winter Haven, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC294630010SA           | Total Quarterly Wages in Lakeland-Winter Haven, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC294640010             | Average Weekly Wages for Employees in Total Covered Establishments in Lakeland-Winter Haven, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC294640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lakeland-Winter Haven, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC294640110             | Average Weekly Wages for Employees in Federal Government Establishments in Lakeland-Winter Haven, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC294640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lakeland-Winter Haven, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC294640210             | Average Weekly Wages for Employees in State Government Establishments in Lakeland-Winter Haven, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC294640210SA           | Average Weekly Wages for Employees in State Government Establishments in Lakeland-Winter Haven, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC294640310             | Average Weekly Wages for Employees in Local Government Establishments in Lakeland-Winter Haven, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC294640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lakeland-Winter Haven, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC294640510             | Average Weekly Wages for Employees in Private Establishments in Lakeland-Winter Haven, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC294640510SA           | Average Weekly Wages for Employees in Private Establishments in Lakeland-Winter Haven, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC294630010             | Total Quarterly Wages in Lakeland-Winter Haven, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC294630010SA           | Total Quarterly Wages in Lakeland-Winter Haven, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC294640010             | Average Weekly Wages for Employees in Total Covered Establishments in Lakeland-Winter Haven, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC294640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lakeland-Winter Haven, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC294640110             | Average Weekly Wages for Employees in Federal Government Establishments in Lakeland-Winter Haven, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC294640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lakeland-Winter Haven, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC294640210             | Average Weekly Wages for Employees in State Government Establishments in Lakeland-Winter Haven, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC294640210SA           | Average Weekly Wages for Employees in State Government Establishments in Lakeland-Winter Haven, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC294640310             | Average Weekly Wages for Employees in Local Government Establishments in Lakeland-Winter Haven, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC294640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lakeland-Winter Haven, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC294640510             | Average Weekly Wages for Employees in Private Establishments in Lakeland-Winter Haven, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC294640510SA           | Average Weekly Wages for Employees in Private Establishments in Lakeland-Winter Haven, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA29460            | Market Hotness: Hotness Rank in Lakeland-Winter Haven, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA29460              | Market Hotness: Hotness Rank in Lakeland-Winter Haven, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA29460            | Market Hotness: Hotness Rank in Lakeland-Winter Haven, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA29460              | Market Hotness: Hotness Score in Lakeland-Winter Haven, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG29460               | Job Postings on Indeed in Lakeland-Winter Haven, FL (MSA)                                                                  | 2020-02-01          | 2022-07-29        |
+| IHLCHG29460               | Job Postings on Indeed in Lakeland-Winter Haven, FL (MSA)                                                                  | 2020-02-01          | 2022-08-26        |
 | IRPD29460                 | Implicit Regional Price Deflator for Lakeland-Winter Haven, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAKE412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Lakeland-Winter Haven, FL (MSA)            | 1988-01-01          | 2022-07-01        |
 | LAKE412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Lakeland-Winter Haven, FL (MSA)            | 1988-01-01          | 2022-07-01        |

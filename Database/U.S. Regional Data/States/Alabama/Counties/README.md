@@ -10,7 +10,7 @@
 | Perry County, AL      |                89 |
 | Pike County, AL       |                90 |
 | Talladega County, AL  |               146 |
-| Clarke County, AL     |                89 |
+| Clarke County, AL     |                 0 |
 | Franklin County, AL   |                90 |
 | Limestone County, AL  |               147 |
 | Houston County, AL    |               147 |
@@ -27,7 +27,7 @@
 | Covington County, AL  |                89 |
 | Lee County, AL        |               147 |
 | Conecuh County, AL    |                88 |
-| Montgomery County, AL |                 0 |
+| Montgomery County, AL |               147 |
 | Shelby County, AL     |               147 |
 | Randolph County, AL   |                90 |
 | Barbour County, AL    |                89 |

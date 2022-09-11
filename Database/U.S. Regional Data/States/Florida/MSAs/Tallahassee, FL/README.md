@@ -8,18 +8,18 @@
 | AVELISPRIMM45220          | Housing Inventory: Average Listing Price Month-Over-Month in Tallahassee, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY45220          | Housing Inventory: Average Listing Price Year-Over-Year in Tallahassee, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DESCMSA45220              | Market Hotness: Demand Score in Tallahassee, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| ENUC452230010             | Total Quarterly Wages in Tallahassee, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC452230010SA           | Total Quarterly Wages in Tallahassee, FL (MSA)                                                                   | 1990-01-01          | 2021-10-01        |
-| ENUC452240010             | Average Weekly Wages for Employees in Total Covered Establishments in Tallahassee, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC452240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Tallahassee, FL (MSA)                      | 1990-01-01          | 2021-10-01        |
-| ENUC452240110             | Average Weekly Wages for Employees in Federal Government Establishments in Tallahassee, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC452240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Tallahassee, FL (MSA)                 | 1990-01-01          | 2021-10-01        |
-| ENUC452240210             | Average Weekly Wages for Employees in State Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC452240210SA           | Average Weekly Wages for Employees in State Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC452240310             | Average Weekly Wages for Employees in Local Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC452240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2021-10-01        |
-| ENUC452240510             | Average Weekly Wages for Employees in Private Establishments in Tallahassee, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
-| ENUC452240510SA           | Average Weekly Wages for Employees in Private Establishments in Tallahassee, FL (MSA)                            | 1990-01-01          | 2021-10-01        |
+| ENUC452230010             | Total Quarterly Wages in Tallahassee, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC452230010SA           | Total Quarterly Wages in Tallahassee, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
+| ENUC452240010             | Average Weekly Wages for Employees in Total Covered Establishments in Tallahassee, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC452240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Tallahassee, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
+| ENUC452240110             | Average Weekly Wages for Employees in Federal Government Establishments in Tallahassee, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC452240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Tallahassee, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC452240210             | Average Weekly Wages for Employees in State Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC452240210SA           | Average Weekly Wages for Employees in State Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC452240310             | Average Weekly Wages for Employees in Local Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC452240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
+| ENUC452240510             | Average Weekly Wages for Employees in Private Establishments in Tallahassee, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC452240510SA           | Average Weekly Wages for Employees in Private Establishments in Tallahassee, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA45220            | Market Hotness: Hotness Rank in Tallahassee, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA45220              | Market Hotness: Hotness Rank in Tallahassee, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA45220            | Market Hotness: Hotness Rank in Tallahassee, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
