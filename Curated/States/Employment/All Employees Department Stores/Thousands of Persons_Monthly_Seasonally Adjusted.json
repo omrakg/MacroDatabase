@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000004245210001SA",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "All Employees: Retail Trade: Department Stores in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2017-12-01",
@@ -20,8 +20,8 @@
   },
   "Texas": {
     "id": "SMU48000004245210001SA",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "All Employees: Retail Trade: Department Stores in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2017-12-01",

@@ -2,8 +2,8 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000005051700007",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Average Weekly Hours of Production Employees: Information: Telecommunications in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",
@@ -22,8 +22,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000005051700007A",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Average Weekly Hours of Production Employees: Information: Telecommunications in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2016-01-01",

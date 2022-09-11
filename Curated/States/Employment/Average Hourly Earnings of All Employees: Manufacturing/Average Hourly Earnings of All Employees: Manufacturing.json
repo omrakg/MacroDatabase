@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003000000003",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Average Hourly Earnings of All Employees: Manufacturing in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2022-07-01",
@@ -155,8 +155,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003000000003A",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "Average Hourly Earnings of All Employees: Manufacturing in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

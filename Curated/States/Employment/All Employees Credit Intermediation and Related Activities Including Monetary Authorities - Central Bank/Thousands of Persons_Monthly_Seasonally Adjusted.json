@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000005552200001SA",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Texas": {
     "id": "SMU48000005552200001SA",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-07-01",
@@ -39,8 +39,8 @@
   },
   "Utah": {
     "id": "SMU49000005552200001SA",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-07-01",
@@ -58,8 +58,8 @@
   },
   "Washington": {
     "id": "SMU53000005552200001SA",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "All Employees: Financial Activities: Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-07-01",

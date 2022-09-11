@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004348800001",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "All Employees: Transportation and Utilities: Support Activities for Transportation in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000004348800001SA",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "All Employees: Transportation and Utilities: Support Activities for Transportation in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -41,8 +41,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004348800001SA",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "All Employees: Transportation and Utilities: Support Activities for Transportation in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -60,8 +60,8 @@
     },
     "Texas": {
       "id": "SMU48000004348800001SA",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "All Employees: Transportation and Utilities: Support Activities for Transportation in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",

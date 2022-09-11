@@ -1,8 +1,8 @@
 {
   "Texas": {
     "id": "SMU48000001021000008",
-    "realtime_start": "2022-09-04",
-    "realtime_end": "2022-09-04",
+    "realtime_start": "2022-09-11",
+    "realtime_end": "2022-09-11",
     "title": "Average Hourly Earnings of Production Employees: Mining and Logging: Mining, Quarrying, and Oil and Gas Extraction in Texas",
     "observation_start": "2001-01-01",
     "observation_end": "2022-07-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-08-20 02:05:02-05",
-    "popularity": 6,
-    "group_popularity": 6,
+    "popularity": 4,
+    "group_popularity": 4,
     "path": "Database/U.S. Regional Data/States/Texas"
   }
 }

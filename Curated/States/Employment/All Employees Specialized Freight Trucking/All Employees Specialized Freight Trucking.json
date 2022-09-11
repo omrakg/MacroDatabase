@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004348420001",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "All Employees: Transportation and Utilities: Specialized Freight Trucking in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004348420001SA",
-      "realtime_start": "2022-09-04",
-      "realtime_end": "2022-09-04",
+      "realtime_start": "2022-09-11",
+      "realtime_end": "2022-09-11",
       "title": "All Employees: Transportation and Utilities: Specialized Freight Trucking in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-07-01",
