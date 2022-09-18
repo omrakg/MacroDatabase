@@ -2,8 +2,8 @@
   "Index 2010=100_Annual_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPIFODAINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2017-01-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -40,8 +40,8 @@
     },
     "Czech Republic": {
       "id": "CZECPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Czech Republic",
       "observation_start": "1994-01-01",
       "observation_end": "2018-01-01",
@@ -59,8 +59,8 @@
     },
     "Hungary": {
       "id": "HUNCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Hungary",
       "observation_start": "1980-01-01",
       "observation_end": "2018-01-01",
@@ -78,8 +78,8 @@
     },
     "Iceland": {
       "id": "ISLCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Iceland",
       "observation_start": "1960-01-01",
       "observation_end": "2018-04-01",
@@ -99,8 +99,8 @@
   "Index 2010=100_Monthly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPIFODMINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2018-05-01",
@@ -118,8 +118,8 @@
     },
     "Chile": {
       "id": "CHLCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -137,8 +137,8 @@
     },
     "Czech Republic": {
       "id": "CZECPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Czech Republic",
       "observation_start": "1994-01-01",
       "observation_end": "2018-01-01",
@@ -156,8 +156,8 @@
     },
     "Hungary": {
       "id": "HUNCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Hungary",
       "observation_start": "1980-01-01",
       "observation_end": "2018-01-01",
@@ -175,8 +175,8 @@
     },
     "Iceland": {
       "id": "ISLCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Iceland",
       "observation_start": "1960-01-01",
       "observation_end": "2018-04-01",
@@ -196,8 +196,8 @@
   "Index 2010=100_Quarterly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "ISRCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Israel",
       "observation_start": "1970-01-01",
       "observation_end": "2018-01-01",
@@ -215,8 +215,8 @@
     },
     "Chile": {
       "id": "CHLCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Chile",
       "observation_start": "1989-04-01",
       "observation_end": "2018-01-01",
@@ -234,8 +234,8 @@
     },
     "Czech Republic": {
       "id": "CZECPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Czech Republic",
       "observation_start": "1994-01-01",
       "observation_end": "2018-01-01",
@@ -253,8 +253,8 @@
     },
     "Hungary": {
       "id": "HUNCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Hungary",
       "observation_start": "1980-01-01",
       "observation_end": "2018-01-01",
@@ -272,8 +272,8 @@
     },
     "Iceland": {
       "id": "ISLCPIFODQINMEI",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Consumer Price Index: Food for Iceland",
       "observation_start": "1960-01-01",
       "observation_end": "2018-04-01",

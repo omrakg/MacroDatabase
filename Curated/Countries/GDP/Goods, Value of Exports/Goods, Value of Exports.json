@@ -2,8 +2,8 @@
   "Dollars_Monthly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "VALEXPSAM052N",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Goods, Value of Exports for Saudi Arabia",
       "observation_start": "2015-01-01",
       "observation_end": "2022-04-01",
@@ -21,8 +21,8 @@
     },
     "Argentina": {
       "id": "VALEXPARQ052N",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Goods, Value of Exports for Argentina",
       "observation_start": "2005-01-01",
       "observation_end": "2021-07-01",
@@ -42,8 +42,8 @@
   "Dollars_Quarterly_Not Seasonally Adjusted": {
     "Argentina": {
       "id": "VALEXPARQ052N",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Goods, Value of Exports for Argentina",
       "observation_start": "2005-01-01",
       "observation_end": "2021-07-01",
@@ -61,8 +61,8 @@
     },
     "Saudi Arabia": {
       "id": "VALEXPSAM052N",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Goods, Value of Exports for Saudi Arabia",
       "observation_start": "2015-01-01",
       "observation_end": "2022-04-01",

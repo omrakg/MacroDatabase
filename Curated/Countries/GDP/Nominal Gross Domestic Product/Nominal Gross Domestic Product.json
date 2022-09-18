@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NGDPNSAXDCSAQ",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -14,14 +14,14 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-20 07:09:09-05",
-      "popularity": 8,
-      "group_popularity": 8,
+      "popularity": 7,
+      "group_popularity": 7,
       "path": "Database/International Data/Countries/Saudi Arabia"
     },
     "Argentina": {
       "id": "NGDPXDCARA",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -33,13 +33,13 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-07-11 07:09:14-05",
       "popularity": 1,
-      "group_popularity": 9,
+      "group_popularity": 8,
       "path": "Database/International Data/Countries/Argentina"
     },
     "Great Britain": {
       "id": "NGDPXDCGBA",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   "Domestic Currency_Quarterly_Seasonally Adjusted": {
     "Great Britain": {
       "id": "NGDPSAXDCGBQ",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Great Britain",
       "observation_start": "1955-01-01",
       "observation_end": "2022-04-01",
@@ -70,14 +70,14 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-05 07:10:04-05",
-      "popularity": 12,
+      "popularity": 13,
       "group_popularity": 14,
       "path": "Database/International Data/Countries/Great Britain"
     },
     "Argentina": {
       "id": "NGDPXDCARA",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -89,13 +89,13 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-07-11 07:09:14-05",
       "popularity": 1,
-      "group_popularity": 9,
+      "group_popularity": 8,
       "path": "Database/International Data/Countries/Argentina"
     },
     "Saudi Arabia": {
       "id": "NGDPXDCSAA",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -107,15 +107,15 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-20 07:10:15-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 7,
       "path": "Database/International Data/Countries/Saudi Arabia"
     }
   },
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NGDPXDCSAA",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -127,13 +127,13 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-06-20 07:10:15-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 7,
       "path": "Database/International Data/Countries/Saudi Arabia"
     },
     "Argentina": {
       "id": "NGDPXDCARA",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -145,13 +145,13 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-07-11 07:09:14-05",
       "popularity": 1,
-      "group_popularity": 9,
+      "group_popularity": 8,
       "path": "Database/International Data/Countries/Argentina"
     },
     "Great Britain": {
       "id": "NGDPXDCGBA",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Nominal Gross Domestic Product for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",

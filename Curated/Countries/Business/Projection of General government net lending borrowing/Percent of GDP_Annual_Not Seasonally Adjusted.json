@@ -1,8 +1,8 @@
 {
   "Turkey": {
     "id": "GGNLBPTRA188N",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Projection of General government net lending/borrowing for Turkey",
     "observation_start": "2022-01-01",
     "observation_end": "2027-01-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "GGNLBPARA188N",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Projection of General government net lending/borrowing for Argentina",
     "observation_start": "2022-01-01",
     "observation_end": "2027-01-01",
@@ -39,8 +39,8 @@
   },
   "Poland": {
     "id": "GGNLBPPLA188N",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Projection of General government net lending/borrowing for Poland",
     "observation_start": "2021-01-01",
     "observation_end": "2027-01-01",
@@ -58,8 +58,8 @@
   },
   "Saudi Arabia": {
     "id": "GGNLBPSAA188N",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Projection of General government net lending/borrowing for Saudi Arabia",
     "observation_start": "2022-01-01",
     "observation_end": "2027-01-01",

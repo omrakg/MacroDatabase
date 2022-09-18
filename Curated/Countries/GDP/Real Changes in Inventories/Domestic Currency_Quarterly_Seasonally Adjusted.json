@@ -1,8 +1,8 @@
 {
   "Great Britain": {
     "id": "NINVRSAXDCGBQ",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Real Changes in Inventories for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -14,13 +14,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-09-05 07:10:22-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 2,
     "path": "Database/International Data/Countries/Great Britain"
   },
   "Argentina": {
     "id": "NINVRXDCARA",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Real Changes in Inventories for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Saudi Arabia": {
     "id": "NINVRXDCSAA",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Real Changes in Inventories for Saudi Arabia",
     "observation_start": "2010-01-01",
     "observation_end": "2021-01-01",

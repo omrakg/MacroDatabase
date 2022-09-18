@@ -2,8 +2,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Latvia": {
       "id": "LVALRAC55FESTQ",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Labour Force Survey - quarterly rates: Activity rate: Aged 55-64: Females for Latvia",
       "observation_start": "1998-04-01",
       "observation_end": "2022-01-01",
@@ -23,8 +23,8 @@
   "Percent_Quarterly_Seasonally Adjusted": {
     "Latvia": {
       "id": "LVALRAC55FESTSAQ",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Labour Force Survey - quarterly rates: Activity rate: Aged 55-64: Females for Latvia",
       "observation_start": "2002-01-01",
       "observation_end": "2022-01-01",
@@ -34,7 +34,7 @@
       "units_short": "%",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-08-11 16:09:54-05",
+      "last_updated": "2022-09-14 15:52:34-05",
       "popularity": 0,
       "group_popularity": 0,
       "notes": "OECD descriptor ID: LRAC55FE OECD unit ID: STSA OECD country ID: LVA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
