@@ -2,28 +2,28 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004244500008",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Average Hourly Earnings of Production Employees: Retail Trade: Food and Beverage Stores in Texas",
       "observation_start": "2001-01-01",
-      "observation_end": "2022-07-01",
+      "observation_end": "2022-08-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Dollars per Hour",
       "units_short": "$ per Hour",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-08-20 02:10:29-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "last_updated": "2022-09-17 02:07:33-05",
+      "popularity": 3,
+      "group_popularity": 3,
       "path": "Database/U.S. Regional Data/States/Texas"
     }
   },
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004244500008A",
-      "realtime_start": "2022-09-11",
-      "realtime_end": "2022-09-11",
+      "realtime_start": "2022-09-18",
+      "realtime_end": "2022-09-18",
       "title": "Average Hourly Earnings of Production Employees: Retail Trade: Food and Beverage Stores in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",
@@ -35,7 +35,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:24:56-05",
       "popularity": 0,
-      "group_popularity": 1,
+      "group_popularity": 3,
       "path": "Database/U.S. Regional Data/States/Texas"
     }
   },

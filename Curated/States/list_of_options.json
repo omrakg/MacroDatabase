@@ -30212,7 +30212,7 @@
         "West Virginia",
         "Wisconsin"
       ],
-      "2020 CPI-U-RS Adjusted Dollars_Annual_Not Seasonally Adjusted": [
+      "2021 CPI-U-RS Adjusted Dollars_Annual_Not Seasonally Adjusted": [
         "Wyoming",
         "Maine",
         "Michigan",
@@ -30243,6 +30243,38 @@
         "Washington",
         "West Virginia",
         "Wisconsin"
+      ],
+      "2020 CPI-U-RS Adjusted Dollars_Annual_Not Seasonally Adjusted": [
+        "Tennessee",
+        "Maine",
+        "Michigan",
+        "Minnesota",
+        "Mississippi",
+        "Missouri",
+        "Montana",
+        "Nebraska",
+        "Nevada",
+        "New Hampshire",
+        "New Jersey",
+        "New Mexico",
+        "New York",
+        "North Carolina",
+        "North Dakota",
+        "Ohio",
+        "Oklahoma",
+        "Oregon",
+        "Pennsylvania",
+        "Rhode Island",
+        "South Carolina",
+        "South Dakota",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin",
+        "Wyoming"
       ]
     },
     "90% Confidence Interval Lower Bound of Estimate of Median Household Income": {

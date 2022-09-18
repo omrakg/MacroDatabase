@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "UNEMPLOYWY",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Unemployment Level for Wyoming",
     "observation_start": "2003-10-01",
     "observation_end": "2022-04-01",
@@ -19,8 +19,8 @@
   },
   "Utah": {
     "id": "UNEMPLOYUT",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Unemployment Level for Utah",
     "observation_start": "2003-10-01",
     "observation_end": "2022-04-01",
@@ -37,8 +37,8 @@
   },
   "Vermont": {
     "id": "UNEMPLOYVT",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Unemployment Level for Vermont",
     "observation_start": "2003-10-01",
     "observation_end": "2022-04-01",
@@ -55,8 +55,8 @@
   },
   "Virginia": {
     "id": "UNEMPLOYVA",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Unemployment Level for Virginia",
     "observation_start": "2003-10-01",
     "observation_end": "2022-04-01",
@@ -73,8 +73,8 @@
   },
   "Washington": {
     "id": "UNEMPLOYWA",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Unemployment Level for Washington",
     "observation_start": "2003-10-01",
     "observation_end": "2022-04-01",
@@ -91,8 +91,8 @@
   },
   "West Virginia": {
     "id": "UNEMPLOYWV",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Unemployment Level for West Virginia",
     "observation_start": "2003-10-01",
     "observation_end": "2022-04-01",
@@ -109,8 +109,8 @@
   },
   "Wisconsin": {
     "id": "UNEMPLOYWI",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Unemployment Level for Wisconsin",
     "observation_start": "2003-10-01",
     "observation_end": "2022-04-01",

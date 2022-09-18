@@ -1,18 +1,18 @@
 {
   "Wyoming": {
     "id": "SMU56000006500000011",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Average Weekly Earnings of All Employees: Education and Health Services in Wyoming",
     "observation_start": "2007-01-01",
-    "observation_end": "2022-07-01",
+    "observation_end": "2022-08-01",
     "frequency": "Monthly",
     "frequency_short": "M",
     "units": "Dollars per Week",
     "units_short": "$ per Week",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-08-20 02:05:33-05",
+    "last_updated": "2022-09-17 02:02:34-05",
     "popularity": 1,
     "group_popularity": 1,
     "path": "Database/U.S. Regional Data/States/Wyoming"
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000006500000011A",
-    "realtime_start": "2022-09-11",
-    "realtime_end": "2022-09-11",
+    "realtime_start": "2022-09-18",
+    "realtime_end": "2022-09-18",
     "title": "Average Weekly Earnings of All Employees: Education and Health Services in Texas",
     "observation_start": "2007-01-01",
     "observation_end": "2021-01-01",
