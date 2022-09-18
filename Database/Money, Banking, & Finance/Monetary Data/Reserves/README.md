@@ -18,4 +18,4 @@
 | TOTRESNS  | Reserves of Depository Institutions: Total                                                                                  | 1959-01-01          | 2022-07-01        |
 | WPNYGBV   | Book Value of U.S. Mint Held Gold Deep Storage: West Point, NY                                                              | 2012-01-01          | 2022-08-01        |
 | WPNYGTA   | U.S. Mint Held Gold Deep Storage: West Point, NY                                                                            | 2012-01-01          | 2022-08-01        |
-| WRESBAL   | Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average | 1984-01-04          | 2022-09-07        |
+| WRESBAL   | Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average | 1984-01-04          | 2022-09-14        |

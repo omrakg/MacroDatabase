@@ -37,7 +37,7 @@
 | HORAMSA14460              | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA14460            | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2018-08-01          | 2022-08-01        |
 | HOSCMSA14460              | Market Hotness: Hotness Score in Boston-Cambridge-Newton, MA-NH (CBSA)                                               | 2017-08-01          | 2022-08-01        |
-| IHLCHG14460               | Job Postings on Indeed in Boston-Cambridge-Newton, MA-NH (MSA)                                                       | 2020-02-01          | 2022-08-26        |
+| IHLCHG14460               | Job Postings on Indeed in Boston-Cambridge-Newton, MA-NH (MSA)                                                       | 2020-02-01          | 2022-09-09        |
 | IRPD14460                 | Implicit Regional Price Deflator for Boston-Cambridge-Newton, MA-NH (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA14460          | Market Hotness: Listing Views per Property in Boston-Cambridge-Newton, MA-NH (CBSA)                                  | 2018-08-01          | 2022-08-01        |
 | LDPEPRVSUSMSA14460        | Market Hotness: Listing Views per Property Versus the United States in Boston-Cambridge-Newton, MA-NH (CBSA)         | 2017-08-01          | 2022-08-01        |

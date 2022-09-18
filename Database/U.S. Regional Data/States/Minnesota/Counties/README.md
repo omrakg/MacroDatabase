@@ -4,7 +4,7 @@
 | Waseca County, MN            |                90 |
 | Meeker County, MN            |                90 |
 | Benton County, MN            |                90 |
-| Itasca County, MN            |                90 |
+| Itasca County, MN            |                 0 |
 | Red Lake County, MN          |                88 |
 | Polk County, MN              |                89 |
 | Dakota County, MN            |               147 |
@@ -22,7 +22,7 @@
 | Kandiyohi County, MN         |                90 |
 | Clearwater County, MN        |                89 |
 | Pine County, MN              |                90 |
-| Washington County, MN        |                 0 |
+| Washington County, MN        |               147 |
 | Chippewa County, MN          |                90 |
 | Mower County, MN             |                90 |
 | Carlton County, MN           |                90 |
@@ -82,7 +82,7 @@
 | Martin County, MN            |                90 |
 | Yellow Medicine County, MN   |                89 |
 | Stearns County, MN           |               147 |
-| Pipestone County, MN         |                 0 |
+| Pipestone County, MN         |                90 |
 | Cass County, MN              |                90 |
 | Nicollet County, MN          |                90 |
 | Hubbard County, MN           |                90 |

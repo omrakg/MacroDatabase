@@ -63,31 +63,31 @@
 | BROTTULA175MCFRBDAL       | Change in Trade, Transportation, and Utilities Payroll Employment for Brownsville-Harlingen, TX (MSA)                      | 1990-02-01          | 2022-07-01        |
 | BROTTULA175MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Brownsville-Harlingen, TX (MSA)                                | 1990-01-01          | 2022-07-01        |
 | BROTTULA674AFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Brownsville-Harlingen, TX (MSA)                                | 1991-01-01          | 2021-01-01        |
-| BROW148EDUH               | All Employees: Education and Health Services in Brownsville-Harlingen, TX (MSA)                                            | 1990-01-01          | 2022-07-01        |
-| BROW148EDUHN              | All Employees: Education and Health Services in Brownsville-Harlingen, TX (MSA)                                            | 1990-01-01          | 2022-07-01        |
-| BROW148FIRE               | All Employees: Financial Activities in Brownsville-Harlingen, TX (MSA)                                                     | 1990-01-01          | 2022-07-01        |
-| BROW148FIREN              | All Employees: Financial Activities in Brownsville-Harlingen, TX (MSA)                                                     | 1990-01-01          | 2022-07-01        |
-| BROW148GOVT               | All Employees: Government in Brownsville-Harlingen, TX (MSA)                                                               | 1990-01-01          | 2022-07-01        |
-| BROW148GOVTN              | All Employees: Government in Brownsville-Harlingen, TX (MSA)                                                               | 1990-01-01          | 2022-07-01        |
-| BROW148INFO               | All Employees: Information in Brownsville-Harlingen, TX (MSA)                                                              | 1990-01-01          | 2022-07-01        |
-| BROW148INFON              | All Employees: Information in Brownsville-Harlingen, TX (MSA)                                                              | 1990-01-01          | 2022-07-01        |
-| BROW148LEIH               | All Employees: Leisure and Hospitality in Brownsville-Harlingen, TX (MSA)                                                  | 1990-01-01          | 2022-07-01        |
-| BROW148LEIHN              | All Employees: Leisure and Hospitality in Brownsville-Harlingen, TX (MSA)                                                  | 1990-01-01          | 2022-07-01        |
+| BROW148EDUH               | All Employees: Education and Health Services in Brownsville-Harlingen, TX (MSA)                                            | 1990-01-01          | 2022-08-01        |
+| BROW148EDUHN              | All Employees: Education and Health Services in Brownsville-Harlingen, TX (MSA)                                            | 1990-01-01          | 2022-08-01        |
+| BROW148FIRE               | All Employees: Financial Activities in Brownsville-Harlingen, TX (MSA)                                                     | 1990-01-01          | 2022-08-01        |
+| BROW148FIREN              | All Employees: Financial Activities in Brownsville-Harlingen, TX (MSA)                                                     | 1990-01-01          | 2022-08-01        |
+| BROW148GOVT               | All Employees: Government in Brownsville-Harlingen, TX (MSA)                                                               | 1990-01-01          | 2022-08-01        |
+| BROW148GOVTN              | All Employees: Government in Brownsville-Harlingen, TX (MSA)                                                               | 1990-01-01          | 2022-08-01        |
+| BROW148INFO               | All Employees: Information in Brownsville-Harlingen, TX (MSA)                                                              | 1990-01-01          | 2022-08-01        |
+| BROW148INFON              | All Employees: Information in Brownsville-Harlingen, TX (MSA)                                                              | 1990-01-01          | 2022-08-01        |
+| BROW148LEIH               | All Employees: Leisure and Hospitality in Brownsville-Harlingen, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
+| BROW148LEIHN              | All Employees: Leisure and Hospitality in Brownsville-Harlingen, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | BROW148LF                 | Civilian Labor Force in Brownsville-Harlingen, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
 | BROW148LFN                | Civilian Labor Force in Brownsville-Harlingen, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| BROW148MFG                | All Employees: Manufacturing in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-07-01        |
-| BROW148MFGN               | All Employees: Manufacturing in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-07-01        |
-| BROW148NA                 | All Employees: Total Nonfarm in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-07-01        |
-| BROW148NAN                | All Employees: Total Nonfarm in Brownsville-Harlingen, TX (MSA)                                                            | 1980-01-01          | 2022-07-01        |
-| BROW148NRMN               | All Employees: Mining, Logging, and Construction in Brownsville-Harlingen, TX (MSA)                                        | 1990-01-01          | 2022-07-01        |
-| BROW148NRMNN              | All Employees: Mining, Logging, and Construction in Brownsville-Harlingen, TX (MSA)                                        | 1990-01-01          | 2022-07-01        |
-| BROW148PBSV               | All Employees: Professional and Business Services in Brownsville-Harlingen, TX (MSA)                                       | 1990-01-01          | 2022-07-01        |
-| BROW148PBSVN              | All Employees: Professional and Business Services in Brownsville-Harlingen, TX (MSA)                                       | 1990-01-01          | 2022-07-01        |
+| BROW148MFG                | All Employees: Manufacturing in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
+| BROW148MFGN               | All Employees: Manufacturing in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
+| BROW148NA                 | All Employees: Total Nonfarm in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
+| BROW148NAN                | All Employees: Total Nonfarm in Brownsville-Harlingen, TX (MSA)                                                            | 1980-01-01          | 2022-08-01        |
+| BROW148NRMN               | All Employees: Mining, Logging, and Construction in Brownsville-Harlingen, TX (MSA)                                        | 1990-01-01          | 2022-08-01        |
+| BROW148NRMNN              | All Employees: Mining, Logging, and Construction in Brownsville-Harlingen, TX (MSA)                                        | 1990-01-01          | 2022-08-01        |
+| BROW148PBSV               | All Employees: Professional and Business Services in Brownsville-Harlingen, TX (MSA)                                       | 1990-01-01          | 2022-08-01        |
+| BROW148PBSVN              | All Employees: Professional and Business Services in Brownsville-Harlingen, TX (MSA)                                       | 1990-01-01          | 2022-08-01        |
 | BROW148PCPI               | Per Capita Personal Income in Brownsville-Harlingen, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| BROW148SRVO               | All Employees: Other Services in Brownsville-Harlingen, TX (MSA)                                                           | 1990-01-01          | 2022-07-01        |
-| BROW148SRVON              | All Employees: Other Services in Brownsville-Harlingen, TX (MSA)                                                           | 1990-01-01          | 2022-07-01        |
-| BROW148TRAD               | All Employees: Trade, Transportation, and Utilities in Brownsville-Harlingen, TX (MSA)                                     | 1990-01-01          | 2022-07-01        |
-| BROW148TRADN              | All Employees: Trade, Transportation, and Utilities in Brownsville-Harlingen, TX (MSA)                                     | 1990-01-01          | 2022-07-01        |
+| BROW148SRVO               | All Employees: Other Services in Brownsville-Harlingen, TX (MSA)                                                           | 1990-01-01          | 2022-08-01        |
+| BROW148SRVON              | All Employees: Other Services in Brownsville-Harlingen, TX (MSA)                                                           | 1990-01-01          | 2022-08-01        |
+| BROW148TRAD               | All Employees: Trade, Transportation, and Utilities in Brownsville-Harlingen, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
+| BROW148TRADN              | All Employees: Trade, Transportation, and Utilities in Brownsville-Harlingen, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | BROW148UR                 | Unemployment Rate in Brownsville-Harlingen, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | BROW148URN                | Unemployment Rate in Brownsville-Harlingen, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | BVLPOP                    | Resident Population in Brownsville-Harlingen, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
@@ -163,41 +163,41 @@
 | RPPGOOD15180              | Regional Price Parities: Goods for Brownsville-Harlingen, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH15180          | Regional Price Parities: Services: Other for Brownsville-Harlingen, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT15180         | Regional Price Parities: Services: Rents for Brownsville-Harlingen, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48151800000000026      | All Employees: Total Nonfarm in Brownsville-Harlingen, TX (MSA)                                                            | 1990-04-01          | 2022-07-01        |
+| SMS48151800000000026      | All Employees: Total Nonfarm in Brownsville-Harlingen, TX (MSA)                                                            | 1990-04-01          | 2022-08-01        |
 | SMU48151800000000001A     | All Employees: Total Nonfarm in Brownsville-Harlingen, TX (MSA)                                                            | 1980-01-01          | 2021-01-01        |
-| SMU48151800500000001      | All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-07-01        |
+| SMU48151800500000001      | All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SMU48151800500000001A     | All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48151800500000001SA    | All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-07-01        |
-| SMU48151800500000002      | Average Weekly Hours of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                    | 2007-01-01          | 2022-07-01        |
+| SMU48151800500000001SA    | All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
+| SMU48151800500000002      | Average Weekly Hours of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                    | 2007-01-01          | 2022-08-01        |
 | SMU48151800500000002A     | Average Weekly Hours of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48151800500000003      | Average Hourly Earnings of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                 | 2007-01-01          | 2022-07-01        |
+| SMU48151800500000003      | Average Hourly Earnings of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                 | 2007-01-01          | 2022-08-01        |
 | SMU48151800500000003A     | Average Hourly Earnings of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48151800500000011      | Average Weekly Earnings of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                 | 2007-01-01          | 2022-07-01        |
+| SMU48151800500000011      | Average Weekly Earnings of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                 | 2007-01-01          | 2022-08-01        |
 | SMU48151800500000011A     | Average Weekly Earnings of All Employees: Total Private in Brownsville-Harlingen, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48151800600000001      | All Employees: Goods Producing in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| SMU48151800600000001      | All Employees: Goods Producing in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | SMU48151800600000001A     | All Employees: Goods Producing in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48151800600000001SA    | All Employees: Goods Producing in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2022-07-01        |
-| SMU48151800700000001      | All Employees: Service-Providing in Brownsville-Harlingen, TX (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| SMU48151800600000001SA    | All Employees: Goods Producing in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| SMU48151800700000001      | All Employees: Service-Providing in Brownsville-Harlingen, TX (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | SMU48151800700000001A     | All Employees: Service-Providing in Brownsville-Harlingen, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48151800700000001SA    | All Employees: Service-Providing in Brownsville-Harlingen, TX (MSA)                                                        | 1990-01-01          | 2022-07-01        |
-| SMU48151800800000001      | All Employees: Private Service Providing in Brownsville-Harlingen, TX (MSA)                                                | 1990-01-01          | 2022-07-01        |
+| SMU48151800700000001SA    | All Employees: Service-Providing in Brownsville-Harlingen, TX (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| SMU48151800800000001      | All Employees: Private Service Providing in Brownsville-Harlingen, TX (MSA)                                                | 1990-01-01          | 2022-08-01        |
 | SMU48151800800000001A     | All Employees: Private Service Providing in Brownsville-Harlingen, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48151800800000001SA    | All Employees: Private Service Providing in Brownsville-Harlingen, TX (MSA)                                                | 1990-01-01          | 2022-07-01        |
+| SMU48151800800000001SA    | All Employees: Private Service Providing in Brownsville-Harlingen, TX (MSA)                                                | 1990-01-01          | 2022-08-01        |
 | SMU48151801500000001A     | All Employees: Mining, Logging, and Construction in Brownsville-Harlingen, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48151803000000001A     | All Employees: Manufacturing in Brownsville-Harlingen, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48151804000000001A     | All Employees: Trade, Transportation, and Utilities in Brownsville-Harlingen, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48151804100000001      | All Employees: Wholesale Trade in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| SMU48151804100000001      | All Employees: Wholesale Trade in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | SMU48151804100000001A     | All Employees: Wholesale Trade in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48151804100000001SA    | All Employees: Wholesale Trade in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2022-07-01        |
-| SMU48151804200000001      | All Employees: Retail Trade in Brownsville-Harlingen, TX (MSA)                                                             | 1990-01-01          | 2022-07-01        |
+| SMU48151804100000001SA    | All Employees: Wholesale Trade in Brownsville-Harlingen, TX (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| SMU48151804200000001      | All Employees: Retail Trade in Brownsville-Harlingen, TX (MSA)                                                             | 1990-01-01          | 2022-08-01        |
 | SMU48151804200000001A     | All Employees: Retail Trade in Brownsville-Harlingen, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48151804200000001SA    | All Employees: Retail Trade in Brownsville-Harlingen, TX (MSA)                                                             | 1990-01-01          | 2022-07-01        |
-| SMU48151804245200001      | All Employees: Retail Trade: General Merchandise Stores in Brownsville-Harlingen, TX (MSA)                                 | 1990-01-01          | 2022-07-01        |
+| SMU48151804200000001SA    | All Employees: Retail Trade in Brownsville-Harlingen, TX (MSA)                                                             | 1990-01-01          | 2022-08-01        |
+| SMU48151804245200001      | All Employees: Retail Trade: General Merchandise Stores in Brownsville-Harlingen, TX (MSA)                                 | 1990-01-01          | 2022-08-01        |
 | SMU48151804245200001A     | All Employees: Retail Trade: General Merchandise Stores in Brownsville-Harlingen, TX (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU48151804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Brownsville-Harlingen, TX (MSA)                                 | 1990-01-01          | 2022-07-01        |
-| SMU48151804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Brownsville-Harlingen, TX (MSA) | 1990-01-01          | 2022-07-01        |
+| SMU48151804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Brownsville-Harlingen, TX (MSA)                                 | 1990-01-01          | 2022-08-01        |
+| SMU48151804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Brownsville-Harlingen, TX (MSA) | 1990-01-01          | 2022-08-01        |
 | SMU48151804300000001A     | All Employees: Transportation and Utilities in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48151804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Brownsville-Harlingen, TX (MSA) | 1990-01-01          | 2022-07-01        |
+| SMU48151804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Brownsville-Harlingen, TX (MSA) | 1990-01-01          | 2022-08-01        |
 | SMU48151805000000001A     | All Employees: Information in Brownsville-Harlingen, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48151805500000001A     | All Employees: Financial Activities in Brownsville-Harlingen, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48151806000000001A     | All Employees: Professional and Business Services in Brownsville-Harlingen, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -205,13 +205,13 @@
 | SMU48151807000000001A     | All Employees: Leisure and Hospitality in Brownsville-Harlingen, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48151808000000001A     | All Employees: Other Services in Brownsville-Harlingen, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48151809000000001A     | All Employees: Government in Brownsville-Harlingen, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48151809091000001      | All Employees: Government: Federal Government in Brownsville-Harlingen, TX (MSA)                                           | 1990-01-01          | 2022-07-01        |
+| SMU48151809091000001      | All Employees: Government: Federal Government in Brownsville-Harlingen, TX (MSA)                                           | 1990-01-01          | 2022-08-01        |
 | SMU48151809091000001A     | All Employees: Federal Government in Brownsville-Harlingen, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48151809091000001SA    | All Employees: Government: Federal Government in Brownsville-Harlingen, TX (MSA)                                           | 1990-01-01          | 2022-07-01        |
-| SMU48151809092000001      | All Employees: Government: State Government in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2022-07-01        |
+| SMU48151809091000001SA    | All Employees: Government: Federal Government in Brownsville-Harlingen, TX (MSA)                                           | 1990-01-01          | 2022-08-01        |
+| SMU48151809092000001      | All Employees: Government: State Government in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU48151809092000001A     | All Employees: State Government in Brownsville-Harlingen, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48151809092000001SA    | All Employees: Government: State Government in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2022-07-01        |
-| SMU48151809093000001      | All Employees: Government: Local Government in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2022-07-01        |
+| SMU48151809092000001SA    | All Employees: Government: State Government in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
+| SMU48151809093000001      | All Employees: Government: Local Government in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU48151809093000001A     | All Employees: Local Government in Brownsville-Harlingen, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48151809093000001SA    | All Employees: Government: Local Government in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2022-07-01        |
+| SMU48151809093000001SA    | All Employees: Government: Local Government in Brownsville-Harlingen, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SUSCMSA15180              | Market Hotness: Supply Score in Brownsville-Harlingen, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

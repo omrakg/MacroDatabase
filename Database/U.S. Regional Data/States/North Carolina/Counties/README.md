@@ -17,7 +17,7 @@
 | Robeson County, NC      |               147 |
 | Martin County, NC       |                90 |
 | Greene County, NC       |                89 |
-| Hertford County, NC     |                 0 |
+| Hertford County, NC     |                89 |
 | Avery County, NC        |                90 |
 | Davie County, NC        |                90 |
 | Wilkes County, NC       |               147 |
@@ -39,7 +39,7 @@
 | Lenoir County, NC       |               146 |
 | Union County, NC        |               147 |
 | Orange County, NC       |               147 |
-| Wayne County, NC        |               147 |
+| Wayne County, NC        |                 0 |
 | Onslow County, NC       |               147 |
 | Watauga County, NC      |               146 |
 | Washington County, NC   |                90 |
@@ -77,7 +77,7 @@
 | Ashe County, NC         |                89 |
 | Moore County, NC        |               147 |
 | Wilson County, NC       |               147 |
-| Camden County, NC       |                 0 |
+| Camden County, NC       |                89 |
 | Alexander County, NC    |                90 |
 | Scotland County, NC     |                90 |
 | Bladen County, NC       |                90 |

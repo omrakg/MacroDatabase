@@ -16,7 +16,7 @@
 | Washington County, PA          |               145 |
 | Venango County, PA             |               145 |
 | Delaware County, PA            |               104 |
-| Chester County, PA             |                 0 |
+| Chester County, PA             |               146 |
 | Sullivan County, PA            |                88 |
 | Somerset County, PA            |               144 |
 | Lackawanna County, PA          |               146 |
@@ -39,7 +39,7 @@
 | Elk County, PA                 |                90 |
 | Snyder County, PA              |                90 |
 | Bucks County, PA               |               147 |
-| Allegheny County, PA           |               145 |
+| Allegheny County, PA           |                 0 |
 | Wyoming County, PA             |                90 |
 | York County, PA                |               147 |
 | Lebanon County, PA             |               145 |

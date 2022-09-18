@@ -4,7 +4,7 @@
 | Amador County, CA               |                90 |
 | Kings County, CA                |               147 |
 | Sacramento County, CA           |               147 |
-| Imperial County, CA             |               147 |
+| Imperial County, CA             |                 0 |
 | Madera County, CA               |               147 |
 | Alpine County, CA               |                86 |
 | Shasta County, CA               |               147 |
@@ -37,7 +37,7 @@
 | Lake County, CA                 |               147 |
 | Santa Cruz County, CA           |               147 |
 | Kern County, CA                 |               147 |
-| Modoc County, CA                |                 0 |
+| Modoc County, CA                |                90 |
 | Yolo County, CA                 |               146 |
 | Nevada County, CA               |               147 |
 | Calaveras County, CA            |                90 |

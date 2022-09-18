@@ -22,7 +22,7 @@
 | Marathon County, WI                     |               146 |
 | Jackson County, WI                      |                89 |
 | Ozaukee County, WI                      |               147 |
-| Kewaunee County, WI                     |                 0 |
+| Kewaunee County, WI                     |                90 |
 | Outagamie County, WI                    |               147 |
 | Sawyer County, WI                       |                90 |
 | Vilas County, WI                        |                90 |
@@ -57,7 +57,7 @@
 | Lincoln County, WI                      |                90 |
 | Rock County, WI                         |               147 |
 | Winnebago County, WI                    |               147 |
-| St. Croix County, WI                    |               147 |
+| St. Croix County, WI                    |                 0 |
 | Burnett County, WI                      |                90 |
 | Waushara County, WI                     |                90 |
 | Sheboygan County, WI                    |               147 |

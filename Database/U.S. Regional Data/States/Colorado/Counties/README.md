@@ -38,7 +38,7 @@
 | Mesa County, CO              |               146 |
 | La Plata County, CO          |               146 |
 | Rio Grande County, CO        |                89 |
-| Costilla County, CO          |                88 |
+| Costilla County, CO          |                 0 |
 | Yuma County, CO              |                89 |
 | Kit Carson County, CO        |                89 |
 | Custer County, CO            |                90 |
@@ -54,7 +54,7 @@
 | Montrose County, CO          |                90 |
 | Cheyenne County, CO          |                89 |
 | Logan County, CO             |                89 |
-| Jackson County, CO           |                 0 |
+| Jackson County, CO           |                86 |
 | Baca County, CO              |                89 |
 | Larimer County, CO           |               147 |
 | Adams County, CO             |               147 |

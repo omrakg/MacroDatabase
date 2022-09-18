@@ -6,7 +6,7 @@
 | Colleton County, SC     |                90 |
 | Anderson County, SC     |               143 |
 | Bamberg County, SC      |                89 |
-| Marion County, SC       |                89 |
+| Marion County, SC       |                 0 |
 | Fairfield County, SC    |                90 |
 | Union County, SC        |                89 |
 | Newberry County, SC     |                89 |
@@ -14,7 +14,7 @@
 | Dillon County, SC       |                89 |
 | Pickens County, SC      |               142 |
 | Lancaster County, SC    |               147 |
-| Greenwood County, SC    |                 0 |
+| Greenwood County, SC    |               143 |
 | Orangeburg County, SC   |               146 |
 | Georgetown County, SC   |               146 |
 | Williamsburg County, SC |                89 |

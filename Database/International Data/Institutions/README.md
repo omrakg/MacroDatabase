@@ -12,7 +12,7 @@
 | United Nations                                                     |                 0 |
 | Advance Technology Products                                        |                 4 |
 | Euro Area                                                          |               659 |
-| Group of Seven (G7)                                                |                 0 |
+| Group of Seven (G7)                                                |               465 |
 | Bureau of Labor Statistics Pacific Rim                             |                42 |
 | Bureau of Labor Statistics Industrialized Countries                |                40 |
 | Advanced Economies                                                 |                 6 |

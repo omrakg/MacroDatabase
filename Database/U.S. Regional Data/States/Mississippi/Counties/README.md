@@ -18,7 +18,7 @@
 | De Soto County, MS         |               147 |
 | Winston County, MS         |                90 |
 | Jefferson Davis County, MS |                87 |
-| Yalobusha County, MS       |                87 |
+| Yalobusha County, MS       |                 0 |
 | Issaquena County, MS       |                88 |
 | Kemper County, MS          |                87 |
 | Pontotoc County, MS        |                90 |
@@ -51,7 +51,7 @@
 | Yazoo County, MS           |                88 |
 | Union County, MS           |                89 |
 | Lamar County, MS           |               145 |
-| Bolivar County, MS         |                 0 |
+| Bolivar County, MS         |                90 |
 | Montgomery County, MS      |                87 |
 | Wilkinson County, MS       |                88 |
 | Newton County, MS          |                87 |
@@ -78,7 +78,7 @@
 | Humphreys County, MS       |                86 |
 | Noxubee County, MS         |                87 |
 | Panola County, MS          |                90 |
-| Carroll County, MS         |                88 |
+| Carroll County, MS         |                 0 |
 | Leflore County, MS         |                90 |
 | Perry County, MS           |                89 |
 | Covington County, MS       |                89 |

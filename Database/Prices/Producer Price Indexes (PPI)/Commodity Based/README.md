@@ -21,13 +21,13 @@
 | Furniture and Household Durables                                   |               151 |
 | Professional Services                                              |                56 |
 | Intermediate Demand By Commodity Type                              |               116 |
-| Textile Products and Apparel                                       |                 0 |
+| Textile Products and Apparel                                       |               161 |
 | Repair and Maintenance Services                                    |                28 |
 | Educational Services                                               |                 0 |
 | Intermediate Demand By Production Flow                             |               306 |
 | Network Compensation from Broadcast and Cable Television and Radio |                11 |
 | Food and Beverage for Immediate Consumption Services               |                13 |
-| Telecommunication, Cable, and Internet User Services               |                48 |
+| Telecommunication, Cable, and Internet User Services               |                49 |
 | Metals and Metal Products                                          |               374 |
 | Data Processing and Related Services                               |                11 |
 | Publishing Sales, Excluding Software                               |                38 |
@@ -42,7 +42,7 @@
 | Rental and Leasing of Goods                                        |                20 |
 | Miscellaneous Products                                             |               175 |
 | Wholesale Trade Services                                           |                43 |
-| Metal Treatment Services                                           |                12 |
+| Metal Treatment Services                                           |                 0 |
 | Construction                                                       |                 0 |
 | Industrial Commodities                                             |                 0 |
 | Advertising Space and Time Sales                                   |                36 |

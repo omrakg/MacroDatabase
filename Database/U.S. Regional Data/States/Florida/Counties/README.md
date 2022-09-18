@@ -10,7 +10,7 @@
 | Brevard County, FL      |               147 |
 | Holmes County, FL       |                88 |
 | Liberty County, FL      |                88 |
-| Highlands County, FL    |               147 |
+| Highlands County, FL    |                 0 |
 | Washington County, FL   |                90 |
 | Bradford County, FL     |                90 |
 | Columbia County, FL     |               146 |

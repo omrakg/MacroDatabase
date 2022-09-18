@@ -24,7 +24,7 @@
 | HORAMSA38860              | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA38860            | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2018-08-01          | 2022-08-01        |
 | HOSCMSA38860              | Market Hotness: Hotness Score in Portland-South Portland, ME (CBSA)                                                    | 2017-08-01          | 2022-08-01        |
-| IHLCHG38860               | Job Postings on Indeed in Portland-South Portland, ME (MSA)                                                            | 2020-02-01          | 2022-08-26        |
+| IHLCHG38860               | Job Postings on Indeed in Portland-South Portland, ME (MSA)                                                            | 2020-02-01          | 2022-09-09        |
 | IRPD38860                 | Implicit Regional Price Deflator for Portland-South Portland, ME (MSA)                                                 | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA38860          | Market Hotness: Listing Views per Property in Portland-South Portland, ME (CBSA)                                       | 2018-08-01          | 2022-08-01        |
 | LDPEPRVSUSMSA38860        | Market Hotness: Listing Views per Property Versus the United States in Portland-South Portland, ME (CBSA)              | 2017-08-01          | 2022-08-01        |

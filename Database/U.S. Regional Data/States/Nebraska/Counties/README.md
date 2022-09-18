@@ -16,7 +16,7 @@
 | Valley County, NE       |                88 |
 | Keya Paha County, NE    |                85 |
 | Clay County, NE         |                88 |
-| Keith County, NE        |                89 |
+| Keith County, NE        |                 0 |
 | Howard County, NE       |                90 |
 | Nuckolls County, NE     |                87 |
 | Cuming County, NE       |                90 |
@@ -46,7 +46,7 @@
 | Stanton County, NE      |                88 |
 | Platte County, NE       |                90 |
 | Kearney County, NE      |                90 |
-| Blaine County, NE       |                 0 |
+| Blaine County, NE       |                82 |
 | Kimball County, NE      |                89 |
 | Furnas County, NE       |                88 |
 | Thayer County, NE       |                88 |
@@ -76,7 +76,7 @@
 | Red Willow County, NE   |                90 |
 | Saline County, NE       |                89 |
 | Thomas County, NE       |                85 |
-| Custer County, NE       |                90 |
+| Custer County, NE       |                 0 |
 | Gosper County, NE       |                87 |
 | Sheridan County, NE     |                87 |
 | Washington County, NE   |                90 |

@@ -17,7 +17,7 @@
 | Vernon County, MO         |                90 |
 | Randolph County, MO       |                90 |
 | Miller County, MO         |                90 |
-| Stoddard County, MO       |                 0 |
+| Stoddard County, MO       |                90 |
 | Reynolds County, MO       |                88 |
 | Caldwell County, MO       |                89 |
 | Bollinger County, MO      |                89 |
@@ -37,7 +37,7 @@
 | Pemiscot County, MO       |                89 |
 | Mercer County, MO         |                87 |
 | Wayne County, MO          |                88 |
-| St. Louis County, MO      |               147 |
+| St. Louis County, MO      |                 0 |
 | Henry County, MO          |                89 |
 | Ralls County, MO          |                89 |
 | Cooper County, MO         |                89 |
@@ -77,7 +77,7 @@
 | Pulaski County, MO        |                90 |
 | Clay County, MO           |               147 |
 | Oregon County, MO         |                89 |
-| Dallas County, MO         |                 0 |
+| Dallas County, MO         |                90 |
 | St. Clair County, MO      |                89 |
 | Bates County, MO          |                89 |
 | Carter County, MO         |                88 |
@@ -97,7 +97,7 @@
 | Lafayette County, MO      |                90 |
 | Benton County, MO         |                88 |
 | Moniteau County, MO       |                90 |
-| Ozark County, MO          |                89 |
+| Ozark County, MO          |                 0 |
 | Atchison County, MO       |                88 |
 | Putnam County, MO         |                88 |
 | Morgan County, MO         |                90 |

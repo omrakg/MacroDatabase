@@ -9,7 +9,7 @@
 | Stephenson County, IL  |               146 |
 | Whiteside County, IL   |               146 |
 | Clay County, IL        |                88 |
-| Effingham County, IL   |                90 |
+| Effingham County, IL   |                 0 |
 | Pope County, IL        |                88 |
 | Rock Island County, IL |               147 |
 | Alexander County, IL   |                88 |
@@ -29,7 +29,7 @@
 | Mason County, IL       |                90 |
 | Perry County, IL       |                90 |
 | Saline County, IL      |                90 |
-| Henry County, IL       |                 0 |
+| Henry County, IL       |               143 |
 | Morgan County, IL      |                90 |
 | Livingston County, IL  |                90 |
 | Vermilion County, IL   |               147 |
@@ -69,7 +69,7 @@
 | Macoupin County, IL    |               144 |
 | Shelby County, IL      |                90 |
 | Champaign County, IL   |               147 |
-| Washington County, IL  |                89 |
+| Washington County, IL  |                 0 |
 | Stark County, IL       |                90 |
 | Clark County, IL       |                90 |
 | White County, IL       |                90 |

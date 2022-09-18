@@ -4,5 +4,5 @@
 | CCUSMA02IFM618N | National Currency to US Dollar Exchange Rate: Average of Daily Rates for the International Monetary Fund | 1960-01-01          | 2019-04-01        |
 | CCUSMA02IFQ618N | National Currency to US Dollar Exchange Rate: Average of Daily Rates for the International Monetary Fund | 1960-01-01          | 2019-01-01        |
 | CCUSSP01IFA650N | US Dollar to National Currency Spot Exchange Rate for the International Monetary Fund                    | 1975-01-01          | 2021-01-01        |
-| CCUSSP01IFM650N | US Dollar to National Currency Spot Exchange Rate for the International Monetary Fund                    | 1975-01-01          | 2022-06-01        |
+| CCUSSP01IFM650N | US Dollar to National Currency Spot Exchange Rate for the International Monetary Fund                    | 1975-01-01          | 2022-07-01        |
 | CCUSSP01IFQ650N | US Dollar to National Currency Spot Exchange Rate for the International Monetary Fund                    | 1975-01-01          | 2022-04-01        |

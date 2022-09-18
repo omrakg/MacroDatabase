@@ -1,63 +1,92 @@
 | id              | title                                                                                                              | observation_start   | observation_end   |
 |-----------------|--------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| GINIAAF         | Income Gini Ratio of Families by Race of Householder, Asian Alone                                                  | 2002-01-01          | 2020-01-01        |
-| GINIAAH         | Income Gini Ratio for Households by Race of Householder, Asian Alone                                               | 2002-01-01          | 2020-01-01        |
-| GINIAAOICF      | Income Gini Ratio of Families by Race of Householder, Asian Alone or in Combination                                | 2002-01-01          | 2020-01-01        |
-| GINIAAOICH      | Income Gini Ratio for Households by Race of Householder, Asian Alone or in Combination                             | 2002-01-01          | 2020-01-01        |
-| GINIALLRF       | Income Gini Ratio of Families by Race of Householder, All Races                                                    | 1947-01-01          | 2020-01-01        |
-| GINIALLRH       | Income Gini Ratio for Households by Race of Householder, All Races                                                 | 1967-01-01          | 2020-01-01        |
-| GINIBAF         | Income Gini Ratio of Families by Race of Householder, Black Alone                                                  | 2002-01-01          | 2020-01-01        |
-| GINIBAH         | Income Gini Ratio for Households by Race of Householder, Black Alone                                               | 2002-01-01          | 2020-01-01        |
-| GINIBAOICF      | Income Gini Ratio of Families by Race of Householder, Black Alone or in Combination                                | 2002-01-01          | 2020-01-01        |
-| GINIBAOICH      | Income Gini Ratio for Households by Race of Householder, Black Alone or in Combination                             | 2002-01-01          | 2020-01-01        |
-| GINIHARF        | Income Gini Ratio of Families by Race of Householder, Hispanic Origin (Any Race)                                   | 1972-01-01          | 2020-01-01        |
-| GINIHARH        | Income Gini Ratio for Households by Race of Householder, Hispanic Origin (Any Race)                                | 1972-01-01          | 2020-01-01        |
-| GINIWAF         | Income Gini Ratio of Families by Race of Householder, White Alone                                                  | 2002-01-01          | 2020-01-01        |
-| GINIWAH         | Income Gini Ratio for Households by Race of Householder, White Alone                                               | 2002-01-01          | 2020-01-01        |
-| GINIWANHF       | Income Gini Ratio of Families by Race of Householder, White Alone Not Hispanic                                     | 2002-01-01          | 2020-01-01        |
-| GINIWANHH       | Income Gini Ratio for Households by Race of Householder, White Alone Not Hispanic                                  | 2002-01-01          | 2020-01-01        |
-| MAFAINUSA646N   | Mean Family Income in the United States                                                                            | 1953-01-01          | 2020-01-01        |
-| MAFAINUSA672N   | Real Mean Family Income in the United States                                                                       | 1953-01-01          | 2020-01-01        |
-| MAFAINUSMWA646N | Mean Family Income in Midwest Census Region                                                                        | 1967-01-01          | 2020-01-01        |
-| MAFAINUSMWA672N | Real Mean Family Income in Midwest Census Region                                                                   | 1967-01-01          | 2020-01-01        |
-| MAFAINUSNEA646N | Mean Family Income in Northeast Census Region                                                                      | 1967-01-01          | 2020-01-01        |
-| MAFAINUSNEA672N | Real Mean Family Income in Northeast Census Region                                                                 | 1967-01-01          | 2020-01-01        |
-| MAFAINUSSOA646N | Mean Family Income in South Census Region                                                                          | 1967-01-01          | 2020-01-01        |
-| MAFAINUSSOA672N | Real Mean Family Income in South Census Region                                                                     | 1967-01-01          | 2020-01-01        |
-| MAFAINUSWEA646N | Mean Family Income in West Census Region                                                                           | 1967-01-01          | 2020-01-01        |
-| MAFAINUSWEA672N | Real Mean Family Income in West Census Region                                                                      | 1967-01-01          | 2020-01-01        |
-| MAPAINUSA646N   | Mean Personal Income in the United States                                                                          | 1974-01-01          | 2020-01-01        |
-| MAPAINUSA672N   | Real Mean Personal Income in the United States                                                                     | 1974-01-01          | 2020-01-01        |
-| MAPAINUSMWA646N | Mean Personal Income in Midwest Census Region                                                                      | 1974-01-01          | 2020-01-01        |
-| MAPAINUSMWA672N | Real Mean Personal Income in Midwest Census Region                                                                 | 1974-01-01          | 2020-01-01        |
-| MAPAINUSNEA646N | Mean Personal Income in Northeast Census Region                                                                    | 1974-01-01          | 2020-01-01        |
-| MAPAINUSNEA672N | Real Mean Personal Income in Northeast Census Region                                                               | 1974-01-01          | 2020-01-01        |
-| MAPAINUSSOA646N | Mean Personal Income in South Census Region                                                                        | 1974-01-01          | 2020-01-01        |
-| MAPAINUSSOA672N | Real Mean Personal Income in South Census Region                                                                   | 1974-01-01          | 2020-01-01        |
-| MAPAINUSWEA646N | Mean Personal Income in West Census Region                                                                         | 1974-01-01          | 2020-01-01        |
-| MAPAINUSWEA672N | Real Mean Personal Income in West Census Region                                                                    | 1974-01-01          | 2020-01-01        |
-| MEFAINUSA646N   | Median Family Income in the United States                                                                          | 1953-01-01          | 2020-01-01        |
-| MEFAINUSA672N   | Real Median Family Income in the United States                                                                     | 1953-01-01          | 2020-01-01        |
-| MEFAINUSMWA646N | Median Family Income in Midwest Census Region                                                                      | 1953-01-01          | 2020-01-01        |
-| MEFAINUSMWA672N | Real Median Family Income in Midwest Census Region                                                                 | 1953-01-01          | 2020-01-01        |
-| MEFAINUSNEA646N | Median Family Income in Northeast Census Region                                                                    | 1953-01-01          | 2020-01-01        |
-| MEFAINUSNEA672N | Real Median Family Income in Northeast Census Region                                                               | 1953-01-01          | 2020-01-01        |
-| MEFAINUSSOA646N | Median Family Income in South Census Region                                                                        | 1953-01-01          | 2020-01-01        |
-| MEFAINUSSOA672N | Real Median Family Income in South Census Region                                                                   | 1953-01-01          | 2020-01-01        |
-| MEFAINUSWEA646N | Median Family Income in West Census Region                                                                         | 1953-01-01          | 2020-01-01        |
-| MEFAINUSWEA672N | Real Median Family Income in West Census Region                                                                    | 1953-01-01          | 2020-01-01        |
-| MEHOINUSA646N   | Median Household Income in the United States                                                                       | 1984-01-01          | 2020-01-01        |
-| MEHOINUSA672N   | Real Median Household Income in the United States                                                                  | 1984-01-01          | 2020-01-01        |
-| MEPAINUSA646N   | Median Personal Income in the United States                                                                        | 1974-01-01          | 2020-01-01        |
-| MEPAINUSA672N   | Real Median Personal Income in the United States                                                                   | 1974-01-01          | 2020-01-01        |
-| MEPAINUSMWA646N | Median Personal Income in Midwest Census Region                                                                    | 1974-01-01          | 2020-01-01        |
-| MEPAINUSMWA672N | Real Median Personal Income in Midwest Census Region                                                               | 1974-01-01          | 2020-01-01        |
-| MEPAINUSNEA646N | Median Personal Income in Northeast Census Region                                                                  | 1974-01-01          | 2020-01-01        |
-| MEPAINUSNEA672N | Real Median Personal Income in Northeast Census Region                                                             | 1974-01-01          | 2020-01-01        |
-| MEPAINUSSOA646N | Median Personal Income in South Census Region                                                                      | 1974-01-01          | 2020-01-01        |
-| MEPAINUSSOA672N | Real Median Personal Income in South Census Region                                                                 | 1974-01-01          | 2020-01-01        |
-| MEPAINUSWEA646N | Median Personal Income in West Census Region                                                                       | 1974-01-01          | 2020-01-01        |
-| MEPAINUSWEA672N | Real Median Personal Income in West Census Region                                                                  | 1974-01-01          | 2020-01-01        |
+| GINIAAF         | Income Gini Ratio of Families by Race of Householder, Asian Alone                                                  | 2002-01-01          | 2021-01-01        |
+| GINIAAH         | Income Gini Ratio for Households by Race of Householder, Asian Alone                                               | 2002-01-01          | 2021-01-01        |
+| GINIAAOICF      | Income Gini Ratio of Families by Race of Householder, Asian Alone or in Combination                                | 2002-01-01          | 2021-01-01        |
+| GINIAAOICH      | Income Gini Ratio for Households by Race of Householder, Asian Alone or in Combination                             | 2002-01-01          | 2021-01-01        |
+| GINIALLRF       | Income Gini Ratio of Families by Race of Householder, All Races                                                    | 1947-01-01          | 2021-01-01        |
+| GINIALLRH       | Income Gini Ratio for Households by Race of Householder, All Races                                                 | 1967-01-01          | 2021-01-01        |
+| GINIBAF         | Income Gini Ratio of Families by Race of Householder, Black Alone                                                  | 2002-01-01          | 2021-01-01        |
+| GINIBAH         | Income Gini Ratio for Households by Race of Householder, Black Alone                                               | 2002-01-01          | 2021-01-01        |
+| GINIBAOICF      | Income Gini Ratio of Families by Race of Householder, Black Alone or in Combination                                | 2002-01-01          | 2021-01-01        |
+| GINIBAOICH      | Income Gini Ratio for Households by Race of Householder, Black Alone or in Combination                             | 2002-01-01          | 2021-01-01        |
+| GINIHARF        | Income Gini Ratio of Families by Race of Householder, Hispanic Origin (Any Race)                                   | 1972-01-01          | 2021-01-01        |
+| GINIHARH        | Income Gini Ratio for Households by Race of Householder, Hispanic Origin (Any Race)                                | 1972-01-01          | 2021-01-01        |
+| GINIWAF         | Income Gini Ratio of Families by Race of Householder, White Alone                                                  | 2002-01-01          | 2021-01-01        |
+| GINIWAH         | Income Gini Ratio for Households by Race of Householder, White Alone                                               | 2002-01-01          | 2021-01-01        |
+| GINIWANHF       | Income Gini Ratio of Families by Race of Householder, White Alone Not Hispanic                                     | 2002-01-01          | 2021-01-01        |
+| GINIWANHH       | Income Gini Ratio for Households by Race of Householder, White Alone Not Hispanic                                  | 2002-01-01          | 2021-01-01        |
+| MAFAINUSA646N   | Mean Family Income in the United States                                                                            | 1953-01-01          | 2021-01-01        |
+| MAFAINUSA672N   | Real Mean Family Income in the United States                                                                       | 1953-01-01          | 2021-01-01        |
+| MAFAINUSMWA646N | Mean Family Income in Midwest Census Region                                                                        | 1967-01-01          | 2021-01-01        |
+| MAFAINUSMWA672N | Real Mean Family Income in Midwest Census Region                                                                   | 1967-01-01          | 2021-01-01        |
+| MAFAINUSNEA646N | Mean Family Income in Northeast Census Region                                                                      | 1967-01-01          | 2021-01-01        |
+| MAFAINUSNEA672N | Real Mean Family Income in Northeast Census Region                                                                 | 1967-01-01          | 2021-01-01        |
+| MAFAINUSSOA646N | Mean Family Income in South Census Region                                                                          | 1967-01-01          | 2021-01-01        |
+| MAFAINUSSOA672N | Real Mean Family Income in South Census Region                                                                     | 1967-01-01          | 2021-01-01        |
+| MAFAINUSWEA646N | Mean Family Income in West Census Region                                                                           | 1967-01-01          | 2021-01-01        |
+| MAFAINUSWEA672N | Real Mean Family Income in West Census Region                                                                      | 1967-01-01          | 2021-01-01        |
+| MAPAINUSA646N   | Mean Personal Income in the United States                                                                          | 1974-01-01          | 2021-01-01        |
+| MAPAINUSA672N   | Real Mean Personal Income in the United States                                                                     | 1974-01-01          | 2021-01-01        |
+| MAPAINUSMWA646N | Mean Personal Income in Midwest Census Region                                                                      | 1974-01-01          | 2021-01-01        |
+| MAPAINUSMWA672N | Real Mean Personal Income in Midwest Census Region                                                                 | 1974-01-01          | 2021-01-01        |
+| MAPAINUSNEA646N | Mean Personal Income in Northeast Census Region                                                                    | 1974-01-01          | 2021-01-01        |
+| MAPAINUSNEA672N | Real Mean Personal Income in Northeast Census Region                                                               | 1974-01-01          | 2021-01-01        |
+| MAPAINUSSOA646N | Mean Personal Income in South Census Region                                                                        | 1974-01-01          | 2021-01-01        |
+| MAPAINUSSOA672N | Real Mean Personal Income in South Census Region                                                                   | 1974-01-01          | 2021-01-01        |
+| MAPAINUSWEA646N | Mean Personal Income in West Census Region                                                                         | 1974-01-01          | 2021-01-01        |
+| MAPAINUSWEA672N | Real Mean Personal Income in West Census Region                                                                    | 1974-01-01          | 2021-01-01        |
+| MEFAINUSA646N   | Median Family Income in the United States                                                                          | 1953-01-01          | 2021-01-01        |
+| MEFAINUSA672N   | Real Median Family Income in the United States                                                                     | 1953-01-01          | 2021-01-01        |
+| MEFAINUSMWA646N | Median Family Income in Midwest Census Region                                                                      | 1953-01-01          | 2021-01-01        |
+| MEFAINUSMWA672N | Real Median Family Income in Midwest Census Region                                                                 | 1953-01-01          | 2021-01-01        |
+| MEFAINUSNEA646N | Median Family Income in Northeast Census Region                                                                    | 1953-01-01          | 2021-01-01        |
+| MEFAINUSNEA672N | Real Median Family Income in Northeast Census Region                                                               | 1953-01-01          | 2021-01-01        |
+| MEFAINUSSOA646N | Median Family Income in South Census Region                                                                        | 1953-01-01          | 2021-01-01        |
+| MEFAINUSSOA672N | Real Median Family Income in South Census Region                                                                   | 1953-01-01          | 2021-01-01        |
+| MEFAINUSWEA646N | Median Family Income in West Census Region                                                                         | 1953-01-01          | 2021-01-01        |
+| MEFAINUSWEA672N | Real Median Family Income in West Census Region                                                                    | 1953-01-01          | 2021-01-01        |
+| MEHOINUSA646N   | Median Household Income in the United States                                                                       | 1984-01-01          | 2021-01-01        |
+| MEHOINUSA672N   | Real Median Household Income in the United States                                                                  | 1984-01-01          | 2021-01-01        |
+| MEPAINUSA646N   | Median Personal Income in the United States                                                                        | 1974-01-01          | 2021-01-01        |
+| MEPAINUSA672N   | Real Median Personal Income in the United States                                                                   | 1974-01-01          | 2021-01-01        |
+| MEPAINUSMWA646N | Median Personal Income in Midwest Census Region                                                                    | 1974-01-01          | 2021-01-01        |
+| MEPAINUSMWA672N | Real Median Personal Income in Midwest Census Region                                                               | 1974-01-01          | 2021-01-01        |
+| MEPAINUSNEA646N | Median Personal Income in Northeast Census Region                                                                  | 1974-01-01          | 2021-01-01        |
+| MEPAINUSNEA672N | Real Median Personal Income in Northeast Census Region                                                             | 1974-01-01          | 2021-01-01        |
+| MEPAINUSSOA646N | Median Personal Income in South Census Region                                                                      | 1974-01-01          | 2021-01-01        |
+| MEPAINUSSOA672N | Real Median Personal Income in South Census Region                                                                 | 1974-01-01          | 2021-01-01        |
+| MEPAINUSWEA646N | Median Personal Income in West Census Region                                                                       | 1974-01-01          | 2021-01-01        |
+| MEPAINUSWEA672N | Real Median Personal Income in West Census Region                                                                  | 1974-01-01          | 2021-01-01        |
+| WFRBL99T999200  | Assets Held by the 99th to 99.9th Wealth Percentiles                                                               | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999201  | Checkable Deposits And Currency Held by the 99th to 99.9th Wealth Percentiles                                      | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999202  | Consumer Credit Held by the 99th to 99.9th Wealth Percentiles                                                      | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999203  | Consumer Durables Held by the 99th to 99.9th Wealth Percentiles                                                    | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999204  | Corporate And Foreign Bonds Held by the 99th to 99.9th Wealth Percentiles                                          | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999205  | Corporate Equities And Mutual Fund Shares Held by the 99th to 99.9th Wealth Percentiles                            | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999206  | Debt Securities Held by the 99th to 99.9th Wealth Percentiles                                                      | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999207  | Deferred And Unpaid Life Insurance Premiums Held by the 99th to 99.9th Wealth Percentiles                          | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999208  | Depository Institutions Loans N.E.C. Held by the 99th to 99.9th Wealth Percentiles                                 | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999209  | Equity In Noncorporate Business Held by the 99th to 99.9th Wealth Percentiles                                      | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999210  | Financial Assets Held by the 99th to 99.9th Wealth Percentiles                                                     | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999211  | Home Mortgages Held by the 99th to 99.9th Wealth Percentiles                                                       | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999212  | Liabilities Held by the 99th to 99.9th Wealth Percentiles                                                          | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999213  | Life Insurance Reserves Held by the 99th to 99.9th Wealth Percentiles                                              | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999214  | Loans (Assets) Held by the 99th to 99.9th Wealth Percentiles                                                       | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999215  | Loans (Liabilities) Held by the 99th to 99.9th Wealth Percentiles                                                  | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999216  | Miscellaneous Assets Held by the 99th to 99.9th Wealth Percentiles                                                 | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999217  | Money Market Fund Shares Held by the 99th to 99.9th Wealth Percentiles                                             | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999218  | Mortgages Held by the 99th to 99.9th Wealth Percentiles                                                            | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999219  | Net Worth Held by the 99th to 99.9th Wealth Percentiles                                                            | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999220  | Nonfinancial Assets Held by the 99th to 99.9th Wealth Percentiles                                                  | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999221  | Other Loans And Advances (Assets) Held by the 99th to 99.9th Wealth Percentiles                                    | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999222  | Other Loans And Advances (Liabilities) Held by the 99th to 99.9th Wealth Percentiles                               | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999223  | Pension Entitlements Held by the 99th to 99.9th Wealth Percentiles                                                 | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999224  | Real Estate Held by the 99th to 99.9th Wealth Percentiles                                                          | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999225  | Time Deposits And Short-Term Investments Held by the 99th to 99.9th Wealth Percentiles                             | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999226  | U.S. Government And Municipal Securities Held by the 99th to 99.9th Wealth Percentiles                             | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999308  | Household Count in the 99th to 99.9th Wealth Percentiles                                                           | 1989-07-01          | 2022-01-01        |
+| WFRBL99T999309  | Minimum Wealth Cutoff Held by the 99th to 99.9th Wealth Percentiles                                                | 1989-07-01          | 2019-07-01        |
 | WFRBLB50081     | Total Assets Held by the Bottom 50% (1st to 50th Wealth Percentiles)                                               | 1989-07-01          | 2022-01-01        |
 | WFRBLB50082     | Nonfinancial Assets Held by the Bottom 50% (1st to 50th Wealth Percentiles)                                        | 1989-07-01          | 2022-01-01        |
 | WFRBLB50083     | Real Estate Held by the Bottom 50% (1st to 50th Wealth Percentiles)                                                | 1989-07-01          | 2022-01-01        |
@@ -85,6 +114,7 @@
 | WFRBLB50105     | Other Loans and Advances (Liabilities) Held by the Bottom 50% (1st to 50th Wealth Percentiles)                     | 1989-07-01          | 2022-01-01        |
 | WFRBLB50106     | Deferred and Unpaid Life Insurance Premiums Held by the Bottom 50% (1st to 50th Wealth Percentiles)                | 1989-07-01          | 2022-01-01        |
 | WFRBLB50107     | Total Net Worth Held by the Bottom 50% (1st to 50th Wealth Percentiles)                                            | 1989-07-01          | 2022-01-01        |
+| WFRBLB50300     | Household Count in the Bottom 50% (1st to 50th Wealth Percentiles)                                                 | 1989-07-01          | 2022-01-01        |
 | WFRBLN09027     | Total Assets Held by the 90th to 99th Wealth Percentiles                                                           | 1989-07-01          | 2022-01-01        |
 | WFRBLN09028     | Nonfinancial Assets Held by the 90th to 99th Wealth Percentiles                                                    | 1989-07-01          | 2022-01-01        |
 | WFRBLN09029     | Real Estate Held by the 90th to 99th Wealth Percentiles                                                            | 1989-07-01          | 2022-01-01        |
@@ -112,6 +142,8 @@
 | WFRBLN09051     | Other Loans and Advances (Liabilities) Held by the 90th to 99th Wealth Percentiles                                 | 1989-07-01          | 2022-01-01        |
 | WFRBLN09052     | Deferred and Unpaid Life Insurance Premiums Held by the 90th to 99th Wealth Percentiles                            | 1989-07-01          | 2022-01-01        |
 | WFRBLN09053     | Total Net Worth Held by the 90th to 99th Wealth Percentiles                                                        | 1989-07-01          | 2022-01-01        |
+| WFRBLN09303     | Household Count in the 90th to 99th Wealth Percentiles                                                             | 1989-07-01          | 2022-01-01        |
+| WFRBLN09304     | Minimum Wealth Cutoff Held by the 90th to 99th Wealth Percentiles                                                  | 1989-07-01          | 2019-07-01        |
 | WFRBLN40054     | Total Assets Held by the 50th to 90th Wealth Percentiles                                                           | 1989-07-01          | 2022-01-01        |
 | WFRBLN40055     | Nonfinancial Assets Held by the 50th to 90th Wealth Percentiles                                                    | 1989-07-01          | 2022-01-01        |
 | WFRBLN40056     | Real Estate Held by the 50th to 90th Wealth Percentiles                                                            | 1989-07-01          | 2022-01-01        |
@@ -139,6 +171,8 @@
 | WFRBLN40078     | Other Loans and Advances (Liabilities) Held by the 50th to 90th Wealth Percentiles                                 | 1989-07-01          | 2022-01-01        |
 | WFRBLN40079     | Deferred and Unpaid Life Insurance Premiums Held by the 50th to 90th Wealth Percentiles                            | 1989-07-01          | 2022-01-01        |
 | WFRBLN40080     | Total Net Worth Held by the 50th to 90th Wealth Percentiles                                                        | 1989-07-01          | 2022-01-01        |
+| WFRBLN40301     | Household Count in the 50th to 90th Wealth Percentiles                                                             | 1989-07-01          | 2022-01-01        |
+| WFRBLN40302     | Minimum Wealth Cutoff Held by the 50th to 90th Wealth Percentiles                                                  | 1989-07-01          | 2019-07-01        |
 | WFRBLT01000     | Total Assets Held by the Top 1% (99th to 100th Wealth Percentiles)                                                 | 1989-07-01          | 2022-01-01        |
 | WFRBLT01001     | Nonfinancial Assets Held by the Top 1% (99th to 100th Wealth Percentiles)                                          | 1989-07-01          | 2022-01-01        |
 | WFRBLT01002     | Real Estate Held by the Top 1% (99th to 100th Wealth Percentiles)                                                  | 1989-07-01          | 2022-01-01        |
@@ -166,6 +200,62 @@
 | WFRBLT01024     | Other Loans and Advances (Liabilities) Held by the Top 1% (99th to 100th Wealth Percentiles)                       | 1989-07-01          | 2022-01-01        |
 | WFRBLT01025     | Deferred and Unpaid Life Insurance Premiums Held by the Top 1% (99th to 100th Wealth Percentiles)                  | 1989-07-01          | 2022-01-01        |
 | WFRBLT01026     | Total Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles)                                              | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1227     | Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                                   | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1228     | Checkable Deposits And Currency Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                          | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1229     | Consumer Credit Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                          | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1230     | Consumer Durables Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                        | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1231     | Corporate And Foreign Bonds Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                              | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1232     | Corporate Equities And Mutual Fund Shares Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1233     | Debt Securities Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                          | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1234     | Deferred And Unpaid Life Insurance Premiums Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)              | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1235     | Depository Institutions Loans N.E.C. Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                     | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1236     | Equity In Noncorporate Business Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                          | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1237     | Financial Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                         | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1238     | Home Mortgages Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                           | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1239     | Liabilities Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                              | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1240     | Life Insurance Reserves Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                  | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1241     | Loans (Assets) Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                           | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1242     | Loans (Liabilities) Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                      | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1243     | Miscellaneous Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                     | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1244     | Money Market Fund Shares Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                 | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1245     | Mortgages Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                                | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1246     | Net Worth Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                                | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1247     | Nonfinancial Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                      | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1248     | Other Loans And Advances (Assets) Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                        | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1249     | Other Loans And Advances (Liabilities) Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                   | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1250     | Pension Entitlements Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                     | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1251     | Real Estate Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                              | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1252     | Time Deposits And Short-Term Investments Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                 | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1253     | U.S. Government And Municipal Securities Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                 | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1310     | Household Count in the Top 0.1% (99.9th to 100th Wealth Percentiles)                                               | 1989-07-01          | 2022-01-01        |
+| WFRBLTP1311     | Minimum Wealth Cutoff Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                    | 1989-07-01          | 2019-07-01        |
+| WFRBS99T999254  | Share of Assets Held by the 99th to 99.9th Wealth Percentiles                                                      | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999255  | Share of Checkable Deposits And Currency Held by the 99th to 99.9th Wealth Percentiles                             | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999256  | Share of Consumer Credit Held by the 99th to 99.9th Wealth Percentiles                                             | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999257  | Share of Consumer Durables Held by the 99th to 99.9th Wealth Percentiles                                           | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999258  | Share of Corporate And Foreign Bonds Held by the 99th to 99.9th Wealth Percentiles                                 | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999259  | Share of Corporate Equities And Mutual Fund Shares Held by the 99th to 99.9th Wealth Percentiles                   | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999260  | Share of Debt Securities Held by the 99th to 99.9th Wealth Percentiles                                             | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999261  | Share of Deferred And Unpaid Life Insurance Premiums Held by the 99th to 99.9th Wealth Percentiles                 | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999262  | Share of Depository Institutions Loans N.E.C. Held by the 99th to 99.9th Wealth Percentiles                        | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999263  | Share of Equity In Noncorporate Business Held by the 99th to 99.9th Wealth Percentiles                             | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999264  | Share of Financial Assets Held by the 99th to 99.9th Wealth Percentiles                                            | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999265  | Share of Home Mortgages Held by the 99th to 99.9th Wealth Percentiles                                              | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999266  | Share of Liabilities Held by the 99th to 99.9th Wealth Percentiles                                                 | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999267  | Share of Life Insurance Reserves Held by the 99th to 99.9th Wealth Percentiles                                     | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999268  | Share of Loans (Assets) Held by the 99th to 99.9th Wealth Percentiles                                              | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999269  | Share of Loans (Liabilities) Held by the 99th to 99.9th Wealth Percentiles                                         | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999270  | Share of Miscellaneous Assets Held by the 99th to 99.9th Wealth Percentiles                                        | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999271  | Share of Money Market Fund Shares Held by the 99th to 99.9th Wealth Percentiles                                    | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999272  | Share of Mortgages Held by the 99th to 99.9th Wealth Percentiles                                                   | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999273  | Share of Net Worth Held by the 99th to 99.9th Wealth Percentiles                                                   | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999274  | Share of Nonfinancial Assets Held by the 99th to 99.9th Wealth Percentiles                                         | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999275  | Share of Other Loans And Advances (Assets) Held by the 99th to 99.9th Wealth Percentiles                           | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999276  | Share of Other Loans And Advances (Liabilities) Held by the 99th to 99.9th Wealth Percentiles                      | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999277  | Share of Pension Entitlements Held by the 99th to 99.9th Wealth Percentiles                                        | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999278  | Share of Real Estate Held by the 99th to 99.9th Wealth Percentiles                                                 | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999279  | Share of Time Deposits And Short-Term Investments Held by the 99th to 99.9th Wealth Percentiles                    | 1989-07-01          | 2022-01-01        |
+| WFRBS99T999280  | Share of U.S. Government And Municipal Securities Held by the 99th to 99.9th Wealth Percentiles                    | 1989-07-01          | 2022-01-01        |
 | WFRBSB50189     | Share of Total Assets Held by the Bottom 50% (1st to 50th Wealth Percentiles)                                      | 1989-07-01          | 2022-01-01        |
 | WFRBSB50190     | Share of Nonfinancial Assets Held by the Bottom 50% (1st to 50th Wealth Percentiles)                               | 1989-07-01          | 2022-01-01        |
 | WFRBSB50191     | Share of Real Estate Held by the Bottom 50% (1st to 50th Wealth Percentiles)                                       | 1989-07-01          | 2022-01-01        |
@@ -274,3 +364,30 @@
 | WFRBST01132     | Share of Other Loans and Advances (Liabilities) Held by the Top 1% (99th to 100th Wealth Percentiles)              | 1989-07-01          | 2022-01-01        |
 | WFRBST01133     | Share of Deferred and Unpaid Life Insurance Premiums Held by the Top 1% (99th to 100th Wealth Percentiles)         | 1989-07-01          | 2022-01-01        |
 | WFRBST01134     | Share of Total Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles)                                     | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1281     | Share of Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                          | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1282     | Share of Checkable Deposits And Currency Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                 | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1283     | Share of Consumer Credit Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                 | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1284     | Share of Consumer Durables Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                               | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1285     | Share of Corporate And Foreign Bonds Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                     | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1286     | Share of Corporate Equities And Mutual Fund Shares Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)       | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1287     | Share of Debt Securities Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                 | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1288     | Share of Deferred And Unpaid Life Insurance Premiums Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)     | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1289     | Share of Depository Institutions Loans N.E.C. Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)            | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1290     | Share of Equity In Noncorporate Business Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                 | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1291     | Share of Financial Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1292     | Share of Home Mortgages Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                  | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1293     | Share of Liabilities Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                     | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1294     | Share of Life Insurance Reserves Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                         | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1295     | Share of Loans (Assets) Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                  | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1296     | Share of Loans (Liabilities) Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                             | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1297     | Share of Miscellaneous Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                            | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1298     | Share of Money Market Fund Shares Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                        | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1299     | Share of Mortgages Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                       | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1300     | Share of Net Worth Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                       | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1301     | Share of Nonfinancial Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                             | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1302     | Share of Other Loans And Advances (Assets) Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)               | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1303     | Share of Other Loans And Advances (Liabilities) Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)          | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1304     | Share of Pension Entitlements Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                            | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1305     | Share of Real Estate Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)                                     | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1306     | Share of Time Deposits And Short-Term Investments Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)        | 1989-07-01          | 2022-01-01        |
+| WFRBSTP1307     | Share of U.S. Government And Municipal Securities Held by the Top 0.1% (99.9th to 100th Wealth Percentiles)        | 1989-07-01          | 2022-01-01        |

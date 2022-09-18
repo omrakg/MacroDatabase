@@ -6,7 +6,7 @@
 | La Paz County, AZ     |                89 |
 | Mohave County, AZ     |               147 |
 | Graham County, AZ     |                90 |
-| Maricopa County, AZ   |                 0 |
+| Maricopa County, AZ   |               147 |
 | Cochise County, AZ    |               147 |
 | Pinal County, AZ      |               147 |
 | Yuma County, AZ       |               147 |

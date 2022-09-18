@@ -25,614 +25,614 @@
 | AUTSARTAISMEI       | Total Retail Trade in Austria                                                                     | 1973-01-01          | 2021-01-01        |
 | AUTSARTMISMEI       | Total Retail Trade in Austria                                                                     | 1973-01-01          | 2022-05-01        |
 | AUTSARTQISMEI       | Total Retail Trade in Austria                                                                     | 1973-01-01          | 2022-01-01        |
-| BABANAICS11NSAUS    | Business Applications: Agriculture in the United States                                           | 2004-07-01          | 2022-07-01        |
-| BABANAICS11SAUS     | Business Applications: Agriculture in the United States                                           | 2004-07-01          | 2022-07-01        |
-| BABANAICS21NSAUS    | Business Applications: Mining in the United States                                                | 2004-07-01          | 2022-07-01        |
-| BABANAICS21SAUS     | Business Applications: Mining in the United States                                                | 2004-07-01          | 2022-07-01        |
-| BABANAICS22NSAUS    | Business Applications: Utilities in the United States                                             | 2004-07-01          | 2022-07-01        |
-| BABANAICS22SAUS     | Business Applications: Utilities in the United States                                             | 2004-07-01          | 2022-07-01        |
-| BABANAICS23NSAUS    | Business Applications: Construction in the United States                                          | 2004-07-01          | 2022-07-01        |
-| BABANAICS23SAUS     | Business Applications: Construction in the United States                                          | 2004-07-01          | 2022-07-01        |
-| BABANAICS42NSAUS    | Business Applications: Wholesale Trade in the United States                                       | 2004-07-01          | 2022-07-01        |
-| BABANAICS42SAUS     | Business Applications: Wholesale Trade in the United States                                       | 2004-07-01          | 2022-07-01        |
-| BABANAICS51NSAUS    | Business Applications: Information in the United States                                           | 2004-07-01          | 2022-07-01        |
-| BABANAICS51SAUS     | Business Applications: Information in the United States                                           | 2004-07-01          | 2022-07-01        |
-| BABANAICS52NSAUS    | Business Applications: Finance and Insurance in the United States                                 | 2004-07-01          | 2022-07-01        |
-| BABANAICS52SAUS     | Business Applications: Finance and Insurance in the United States                                 | 2004-07-01          | 2022-07-01        |
-| BABANAICS53NSAUS    | Business Applications: Real Estate in the United States                                           | 2004-07-01          | 2022-07-01        |
-| BABANAICS53SAUS     | Business Applications: Real Estate in the United States                                           | 2004-07-01          | 2022-07-01        |
-| BABANAICS54NSAUS    | Business Applications: Professional Services in the United States                                 | 2004-07-01          | 2022-07-01        |
-| BABANAICS54SAUS     | Business Applications: Professional Services in the United States                                 | 2004-07-01          | 2022-07-01        |
-| BABANAICS55NSAUS    | Business Applications: Management of Companies in the United States                               | 2004-07-01          | 2022-07-01        |
-| BABANAICS55SAUS     | Business Applications: Management of Companies in the United States                               | 2004-07-01          | 2022-07-01        |
-| BABANAICS56NSAUS    | Business Applications: Administrative and Support in the United States                            | 2004-07-01          | 2022-07-01        |
-| BABANAICS56SAUS     | Business Applications: Administrative and Support in the United States                            | 2004-07-01          | 2022-07-01        |
-| BABANAICS61NSAUS    | Business Applications: Educational Services in the United States                                  | 2004-07-01          | 2022-07-01        |
-| BABANAICS61SAUS     | Business Applications: Educational Services in the United States                                  | 2004-07-01          | 2022-07-01        |
-| BABANAICS62NSAUS    | Business Applications: Health Care and Social Assistance in the United States                     | 2004-07-01          | 2022-07-01        |
-| BABANAICS62SAUS     | Business Applications: Health Care and Social Assistance in the United States                     | 2004-07-01          | 2022-07-01        |
-| BABANAICS71NSAUS    | Business Applications: Arts and Entertainment in the United States                                | 2004-07-01          | 2022-07-01        |
-| BABANAICS71SAUS     | Business Applications: Arts and Entertainment in the United States                                | 2004-07-01          | 2022-07-01        |
-| BABANAICS72NSAUS    | Business Applications: Accommodation and Food Services in the United States                       | 2004-07-01          | 2022-07-01        |
-| BABANAICS72SAUS     | Business Applications: Accommodation and Food Services in the United States                       | 2004-07-01          | 2022-07-01        |
-| BABANAICS81NSAUS    | Business Applications: Other Services in the United States                                        | 2004-07-01          | 2022-07-01        |
-| BABANAICS81SAUS     | Business Applications: Other Services in the United States                                        | 2004-07-01          | 2022-07-01        |
-| BABANAICSMNFNSAUS   | Business Applications: Manufacturing in the United States                                         | 2004-07-01          | 2022-07-01        |
-| BABANAICSMNFSAUS    | Business Applications: Manufacturing in the United States                                         | 2004-07-01          | 2022-07-01        |
-| BABANAICSRETNSAUS   | Business Applications: Retail Trade in the United States                                          | 2004-07-01          | 2022-07-01        |
-| BABANAICSRETSAUS    | Business Applications: Retail Trade in the United States                                          | 2004-07-01          | 2022-07-01        |
-| BABANAICSTWNSAUS    | Business Applications: Transportation and Warehousing in the United States                        | 2004-07-01          | 2022-07-01        |
-| BABANAICSTWSAUS     | Business Applications: Transportation and Warehousing in the United States                        | 2004-07-01          | 2022-07-01        |
-| BABANONAICSNSAUS    | Business Applications: No NAICS Assigned in the United States                                     | 2004-07-01          | 2022-07-01        |
-| BABANONAICSSAUS     | Business Applications: No NAICS Assigned in the United States                                     | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAAK      | Business Applications: Total for All NAICS in Alaska                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAAL      | Business Applications: Total for All NAICS in Alabama                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAAR      | Business Applications: Total for All NAICS in Arkansas                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAAZ      | Business Applications: Total for All NAICS in Arizona                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSACA      | Business Applications: Total for All NAICS in California                                          | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSACO      | Business Applications: Total for All NAICS in Colorado                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSACT      | Business Applications: Total for All NAICS in Connecticut                                         | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSADC      | Business Applications: Total for All NAICS in District of Columbia                                | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSADE      | Business Applications: Total for All NAICS in Delaware                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAFL      | Business Applications: Total for All NAICS in Florida                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAGA      | Business Applications: Total for All NAICS in Georgia                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAHI      | Business Applications: Total for All NAICS in Hawaii                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAIA      | Business Applications: Total for All NAICS in Iowa                                                | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAID      | Business Applications: Total for All NAICS in Idaho                                               | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAIL      | Business Applications: Total for All NAICS in Illinois                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAIN      | Business Applications: Total for All NAICS in Indiana                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAKS      | Business Applications: Total for All NAICS in Kansas                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAKY      | Business Applications: Total for All NAICS in Kentucky                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSALA      | Business Applications: Total for All NAICS in Louisiana                                           | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAMA      | Business Applications: Total for All NAICS in Massachusetts                                       | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAMD      | Business Applications: Total for All NAICS in Maryland                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAME      | Business Applications: Total for All NAICS in Maine                                               | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAMI      | Business Applications: Total for All NAICS in Michigan                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAMN      | Business Applications: Total for All NAICS in Minnesota                                           | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAMO      | Business Applications: Total for All NAICS in Missouri                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAMS      | Business Applications: Total for All NAICS in Mississippi                                         | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAMT      | Business Applications: Total for All NAICS in Montana                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAMW      | Business Applications: Total for All NAICS in Midwest Census Region                               | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSANC      | Business Applications: Total for All NAICS in North Carolina                                      | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAND      | Business Applications: Total for All NAICS in North Dakota                                        | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSANE      | Business Applications: Total for All NAICS in Nebraska                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSANH      | Business Applications: Total for All NAICS in New Hampshire                                       | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSANJ      | Business Applications: Total for All NAICS in New Jersey                                          | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSANM      | Business Applications: Total for All NAICS in New Mexico                                          | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSANO      | Business Applications: Total for All NAICS in Northeast Census Region                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSANV      | Business Applications: Total for All NAICS in Nevada                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSANY      | Business Applications: Total for All NAICS in New York                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAOH      | Business Applications: Total for All NAICS in Ohio                                                | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAOK      | Business Applications: Total for All NAICS in Oklahoma                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAOR      | Business Applications: Total for All NAICS in Oregon                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAPA      | Business Applications: Total for All NAICS in Pennsylvania                                        | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSARI      | Business Applications: Total for All NAICS in Rhode Island                                        | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSASC      | Business Applications: Total for All NAICS in South Carolina                                      | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSASD      | Business Applications: Total for All NAICS in South Dakota                                        | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSASO      | Business Applications: Total for All NAICS in South Census Region                                 | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSATN      | Business Applications: Total for All NAICS in Tennessee                                           | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSATX      | Business Applications: Total for All NAICS in Texas                                               | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAUS      | Business Applications: Total for All NAICS in the United States                                   | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAUT      | Business Applications: Total for All NAICS in Utah                                                | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAVA      | Business Applications: Total for All NAICS in Virginia                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAVT      | Business Applications: Total for All NAICS in Vermont                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAWA      | Business Applications: Total for All NAICS in Washington                                          | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAWE      | Business Applications: Total for All NAICS in West Census Region                                  | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAWI      | Business Applications: Total for All NAICS in Wisconsin                                           | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAWV      | Business Applications: Total for All NAICS in West Virginia                                       | 2004-07-01          | 2022-07-01        |
-| BABATOTALNSAWY      | Business Applications: Total for All NAICS in Wyoming                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAAK       | Business Applications: Total for All NAICS in Alaska                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAAL       | Business Applications: Total for All NAICS in Alabama                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAAR       | Business Applications: Total for All NAICS in Arkansas                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAAZ       | Business Applications: Total for All NAICS in Arizona                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSACA       | Business Applications: Total for All NAICS in California                                          | 2004-07-01          | 2022-07-01        |
-| BABATOTALSACO       | Business Applications: Total for All NAICS in Colorado                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSACT       | Business Applications: Total for All NAICS in Connecticut                                         | 2004-07-01          | 2022-07-01        |
-| BABATOTALSADC       | Business Applications: Total for All NAICS in District of Columbia                                | 2004-07-01          | 2022-07-01        |
-| BABATOTALSADE       | Business Applications: Total for All NAICS in Delaware                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAFL       | Business Applications: Total for All NAICS in Florida                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAGA       | Business Applications: Total for All NAICS in Georgia                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAHI       | Business Applications: Total for All NAICS in Hawaii                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAIA       | Business Applications: Total for All NAICS in Iowa                                                | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAID       | Business Applications: Total for All NAICS in Idaho                                               | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAIL       | Business Applications: Total for All NAICS in Illinois                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAIN       | Business Applications: Total for All NAICS in Indiana                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAKS       | Business Applications: Total for All NAICS in Kansas                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAKY       | Business Applications: Total for All NAICS in Kentucky                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSALA       | Business Applications: Total for All NAICS in Louisiana                                           | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAMA       | Business Applications: Total for All NAICS in Massachusetts                                       | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAMD       | Business Applications: Total for All NAICS in Maryland                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAME       | Business Applications: Total for All NAICS in Maine                                               | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAMI       | Business Applications: Total for All NAICS in Michigan                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAMN       | Business Applications: Total for All NAICS in Minnesota                                           | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAMO       | Business Applications: Total for All NAICS in Missouri                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAMS       | Business Applications: Total for All NAICS in Mississippi                                         | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAMT       | Business Applications: Total for All NAICS in Montana                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAMW       | Business Applications: Total for All NAICS in Midwest Census Region                               | 2004-07-01          | 2022-07-01        |
-| BABATOTALSANC       | Business Applications: Total for All NAICS in North Carolina                                      | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAND       | Business Applications: Total for All NAICS in North Dakota                                        | 2004-07-01          | 2022-07-01        |
-| BABATOTALSANE       | Business Applications: Total for All NAICS in Nebraska                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSANH       | Business Applications: Total for All NAICS in New Hampshire                                       | 2004-07-01          | 2022-07-01        |
-| BABATOTALSANJ       | Business Applications: Total for All NAICS in New Jersey                                          | 2004-07-01          | 2022-07-01        |
-| BABATOTALSANM       | Business Applications: Total for All NAICS in New Mexico                                          | 2004-07-01          | 2022-07-01        |
-| BABATOTALSANO       | Business Applications: Total for All NAICS in Northeast Census Region                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSANV       | Business Applications: Total for All NAICS in Nevada                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALSANY       | Business Applications: Total for All NAICS in New York                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAOH       | Business Applications: Total for All NAICS in Ohio                                                | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAOK       | Business Applications: Total for All NAICS in Oklahoma                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAOR       | Business Applications: Total for All NAICS in Oregon                                              | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAPA       | Business Applications: Total for All NAICS in Pennsylvania                                        | 2004-07-01          | 2022-07-01        |
-| BABATOTALSARI       | Business Applications: Total for All NAICS in Rhode Island                                        | 2004-07-01          | 2022-07-01        |
-| BABATOTALSASC       | Business Applications: Total for All NAICS in South Carolina                                      | 2004-07-01          | 2022-07-01        |
-| BABATOTALSASD       | Business Applications: Total for All NAICS in South Dakota                                        | 2004-07-01          | 2022-07-01        |
-| BABATOTALSASO       | Business Applications: Total for All NAICS in South Census Region                                 | 2004-07-01          | 2022-07-01        |
-| BABATOTALSATN       | Business Applications: Total for All NAICS in Tennessee                                           | 2004-07-01          | 2022-07-01        |
-| BABATOTALSATX       | Business Applications: Total for All NAICS in Texas                                               | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAUS       | Business Applications: Total for All NAICS in the United States                                   | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAUT       | Business Applications: Total for All NAICS in Utah                                                | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAVA       | Business Applications: Total for All NAICS in Virginia                                            | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAVT       | Business Applications: Total for All NAICS in Vermont                                             | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAWA       | Business Applications: Total for All NAICS in Washington                                          | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAWE       | Business Applications: Total for All NAICS in West Census Region                                  | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAWI       | Business Applications: Total for All NAICS in Wisconsin                                           | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAWV       | Business Applications: Total for All NAICS in West Virginia                                       | 2004-07-01          | 2022-07-01        |
-| BABATOTALSAWY       | Business Applications: Total for All NAICS in Wyoming                                             | 2004-07-01          | 2022-07-01        |
-| BACBANAICS11NSAUS   | Business Applications from Corporations: Agriculture in the United States                         | 2004-07-01          | 2022-07-01        |
-| BACBANAICS11SAUS    | Business Applications from Corporations: Agriculture in the United States                         | 2004-07-01          | 2022-07-01        |
-| BACBANAICS21NSAUS   | Business Applications from Corporations: Mining in the United States                              | 2004-07-01          | 2022-07-01        |
-| BACBANAICS21SAUS    | Business Applications from Corporations: Mining in the United States                              | 2004-07-01          | 2022-07-01        |
-| BACBANAICS22NSAUS   | Business Applications from Corporations: Utilities in the United States                           | 2004-07-01          | 2022-07-01        |
-| BACBANAICS22SAUS    | Business Applications from Corporations: Utilities in the United States                           | 2004-07-01          | 2022-07-01        |
-| BACBANAICS23NSAUS   | Business Applications from Corporations: Construction in the United States                        | 2004-07-01          | 2022-07-01        |
-| BACBANAICS23SAUS    | Business Applications from Corporations: Construction in the United States                        | 2004-07-01          | 2022-07-01        |
-| BACBANAICS42NSAUS   | Business Applications from Corporations: Wholesale Trade in the United States                     | 2004-07-01          | 2022-07-01        |
-| BACBANAICS42SAUS    | Business Applications from Corporations: Wholesale Trade in the United States                     | 2004-07-01          | 2022-07-01        |
-| BACBANAICS51NSAUS   | Business Applications from Corporations: Information in the United States                         | 2004-07-01          | 2022-07-01        |
-| BACBANAICS51SAUS    | Business Applications from Corporations: Information in the United States                         | 2004-07-01          | 2022-07-01        |
-| BACBANAICS52NSAUS   | Business Applications from Corporations: Finance and Insurance in the United States               | 2004-07-01          | 2022-07-01        |
-| BACBANAICS52SAUS    | Business Applications from Corporations: Finance and Insurance in the United States               | 2004-07-01          | 2022-07-01        |
-| BACBANAICS53NSAUS   | Business Applications from Corporations: Real Estate in the United States                         | 2004-07-01          | 2022-07-01        |
-| BACBANAICS53SAUS    | Business Applications from Corporations: Real Estate in the United States                         | 2004-07-01          | 2022-07-01        |
-| BACBANAICS54NSAUS   | Business Applications from Corporations: Professional Services in the United States               | 2004-07-01          | 2022-07-01        |
-| BACBANAICS54SAUS    | Business Applications from Corporations: Professional Services in the United States               | 2004-07-01          | 2022-07-01        |
-| BACBANAICS55NSAUS   | Business Applications from Corporations: Management of Companies in the United States             | 2004-07-01          | 2022-07-01        |
-| BACBANAICS55SAUS    | Business Applications from Corporations: Management of Companies in the United States             | 2004-07-01          | 2022-07-01        |
-| BACBANAICS56NSAUS   | Business Applications from Corporations: Administrative and Support in the United States          | 2004-07-01          | 2022-07-01        |
-| BACBANAICS56SAUS    | Business Applications from Corporations: Administrative and Support in the United States          | 2004-07-01          | 2022-07-01        |
-| BACBANAICS61NSAUS   | Business Applications from Corporations: Educational Services in the United States                | 2004-07-01          | 2022-07-01        |
-| BACBANAICS61SAUS    | Business Applications from Corporations: Educational Services in the United States                | 2004-07-01          | 2022-07-01        |
-| BACBANAICS62NSAUS   | Business Applications from Corporations: Health Care and Social Assistance in the United States   | 2004-07-01          | 2022-07-01        |
-| BACBANAICS62SAUS    | Business Applications from Corporations: Health Care and Social Assistance in the United States   | 2004-07-01          | 2022-07-01        |
-| BACBANAICS71NSAUS   | Business Applications from Corporations: Arts and Entertainment in the United States              | 2004-07-01          | 2022-07-01        |
-| BACBANAICS71SAUS    | Business Applications from Corporations: Arts and Entertainment in the United States              | 2004-07-01          | 2022-07-01        |
-| BACBANAICS72NSAUS   | Business Applications from Corporations: Accommodation and Food Services in the United States     | 2004-07-01          | 2022-07-01        |
-| BACBANAICS72SAUS    | Business Applications from Corporations: Accommodation and Food Services in the United States     | 2004-07-01          | 2022-07-01        |
-| BACBANAICS81NSAUS   | Business Applications from Corporations: Other Services in the United States                      | 2004-07-01          | 2022-07-01        |
-| BACBANAICS81SAUS    | Business Applications from Corporations: Other Services in the United States                      | 2004-07-01          | 2022-07-01        |
-| BACBANAICSMNFNSAUS  | Business Applications from Corporations: Manufacturing in the United States                       | 2004-07-01          | 2022-07-01        |
-| BACBANAICSMNFSAUS   | Business Applications from Corporations: Manufacturing in the United States                       | 2004-07-01          | 2022-07-01        |
-| BACBANAICSRETNSAUS  | Business Applications from Corporations: Retail Trade in the United States                        | 2004-07-01          | 2022-07-01        |
-| BACBANAICSRETSAUS   | Business Applications from Corporations: Retail Trade in the United States                        | 2004-07-01          | 2022-07-01        |
-| BACBANAICSTWNSAUS   | Business Applications from Corporations: Transportation and Warehousing in the United States      | 2004-07-01          | 2022-07-01        |
-| BACBANAICSTWSAUS    | Business Applications from Corporations: Transportation and Warehousing in the United States      | 2004-07-01          | 2022-07-01        |
-| BACBANONAICSNSAUS   | Business Applications from Corporations: No NAICS Assigned in the United States                   | 2004-07-01          | 2022-07-01        |
-| BACBANONAICSSAUS    | Business Applications from Corporations: No NAICS Assigned in the United States                   | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAAK     | Business Applications from Corporations: Total for All NAICS in Alaska                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAAL     | Business Applications from Corporations: Total for All NAICS in Alabama                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAAR     | Business Applications from Corporations: Total for All NAICS in Arkansas                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAAZ     | Business Applications from Corporations: Total for All NAICS in Arizona                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSACA     | Business Applications from Corporations: Total for All NAICS in California                        | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSACO     | Business Applications from Corporations: Total for All NAICS in Colorado                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSACT     | Business Applications from Corporations: Total for All NAICS in Connecticut                       | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSADC     | Business Applications from Corporations: Total for All NAICS in District of Columbia              | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSADE     | Business Applications from Corporations: Total for All NAICS in Delaware                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAFL     | Business Applications from Corporations: Total for All NAICS in Florida                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAGA     | Business Applications from Corporations: Total for All NAICS in Georgia                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAHI     | Business Applications from Corporations: Total for All NAICS in Hawaii                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAIA     | Business Applications from Corporations: Total for All NAICS in Iowa                              | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAID     | Business Applications from Corporations: Total for All NAICS in Idaho                             | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAIL     | Business Applications from Corporations: Total for All NAICS in Illinois                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAIN     | Business Applications from Corporations: Total for All NAICS in Indiana                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAKS     | Business Applications from Corporations: Total for All NAICS in Kansas                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAKY     | Business Applications from Corporations: Total for All NAICS in Kentucky                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSALA     | Business Applications from Corporations: Total for All NAICS in Louisiana                         | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAMA     | Business Applications from Corporations: Total for All NAICS in Massachusetts                     | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAMD     | Business Applications from Corporations: Total for All NAICS in Maryland                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAME     | Business Applications from Corporations: Total for All NAICS in Maine                             | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAMI     | Business Applications from Corporations: Total for All NAICS in Michigan                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAMN     | Business Applications from Corporations: Total for All NAICS in Minnesota                         | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAMO     | Business Applications from Corporations: Total for All NAICS in Missouri                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAMS     | Business Applications from Corporations: Total for All NAICS in Mississippi                       | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAMT     | Business Applications from Corporations: Total for All NAICS in Montana                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAMW     | Business Applications from Corporations: Total for All NAICS in Midwest Census Region             | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSANC     | Business Applications from Corporations: Total for All NAICS in North Carolina                    | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAND     | Business Applications from Corporations: Total for All NAICS in North Dakota                      | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSANE     | Business Applications from Corporations: Total for All NAICS in Nebraska                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSANH     | Business Applications from Corporations: Total for All NAICS in New Hampshire                     | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSANJ     | Business Applications from Corporations: Total for All NAICS in New Jersey                        | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSANM     | Business Applications from Corporations: Total for All NAICS in New Mexico                        | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSANO     | Business Applications from Corporations: Total for All NAICS in Northeast Census Region           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSANV     | Business Applications from Corporations: Total for All NAICS in Nevada                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSANY     | Business Applications from Corporations: Total for All NAICS in New York                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAOH     | Business Applications from Corporations: Total for All NAICS in Ohio                              | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAOK     | Business Applications from Corporations: Total for All NAICS in Oklahoma                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAOR     | Business Applications from Corporations: Total for All NAICS in Oregon                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAPA     | Business Applications from Corporations: Total for All NAICS in Pennsylvania                      | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSARI     | Business Applications from Corporations: Total for All NAICS in Rhode Island                      | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSASC     | Business Applications from Corporations: Total for All NAICS in South Carolina                    | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSASD     | Business Applications from Corporations: Total for All NAICS in South Dakota                      | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSASO     | Business Applications from Corporations: Total for All NAICS in South Census Region               | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSATN     | Business Applications from Corporations: Total for All NAICS in Tennessee                         | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSATX     | Business Applications from Corporations: Total for All NAICS in Texas                             | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAUS     | Business Applications from Corporations: Total for All NAICS in the United States                 | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAUT     | Business Applications from Corporations: Total for All NAICS in Utah                              | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAVA     | Business Applications from Corporations: Total for All NAICS in Virginia                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAVT     | Business Applications from Corporations: Total for All NAICS in Vermont                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAWA     | Business Applications from Corporations: Total for All NAICS in Washington                        | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAWE     | Business Applications from Corporations: Total for All NAICS in West Census Region                | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAWI     | Business Applications from Corporations: Total for All NAICS in Wisconsin                         | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAWV     | Business Applications from Corporations: Total for All NAICS in West Virginia                     | 2004-07-01          | 2022-07-01        |
-| BACBATOTALNSAWY     | Business Applications from Corporations: Total for All NAICS in Wyoming                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAAK      | Business Applications from Corporations: Total for All NAICS in Alaska                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAAL      | Business Applications from Corporations: Total for All NAICS in Alabama                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAAR      | Business Applications from Corporations: Total for All NAICS in Arkansas                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAAZ      | Business Applications from Corporations: Total for All NAICS in Arizona                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSACA      | Business Applications from Corporations: Total for All NAICS in California                        | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSACO      | Business Applications from Corporations: Total for All NAICS in Colorado                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSACT      | Business Applications from Corporations: Total for All NAICS in Connecticut                       | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSADC      | Business Applications from Corporations: Total for All NAICS in District of Columbia              | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSADE      | Business Applications from Corporations: Total for All NAICS in Delaware                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAFL      | Business Applications from Corporations: Total for All NAICS in Florida                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAGA      | Business Applications from Corporations: Total for All NAICS in Georgia                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAHI      | Business Applications from Corporations: Total for All NAICS in Hawaii                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAIA      | Business Applications from Corporations: Total for All NAICS in Iowa                              | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAID      | Business Applications from Corporations: Total for All NAICS in Idaho                             | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAIL      | Business Applications from Corporations: Total for All NAICS in Illinois                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAIN      | Business Applications from Corporations: Total for All NAICS in Indiana                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAKS      | Business Applications from Corporations: Total for All NAICS in Kansas                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAKY      | Business Applications from Corporations: Total for All NAICS in Kentucky                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSALA      | Business Applications from Corporations: Total for All NAICS in Louisiana                         | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAMA      | Business Applications from Corporations: Total for All NAICS in Massachusetts                     | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAMD      | Business Applications from Corporations: Total for All NAICS in Maryland                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAME      | Business Applications from Corporations: Total for All NAICS in Maine                             | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAMI      | Business Applications from Corporations: Total for All NAICS in Michigan                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAMN      | Business Applications from Corporations: Total for All NAICS in Minnesota                         | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAMO      | Business Applications from Corporations: Total for All NAICS in Missouri                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAMS      | Business Applications from Corporations: Total for All NAICS in Mississippi                       | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAMT      | Business Applications from Corporations: Total for All NAICS in Montana                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAMW      | Business Applications from Corporations: Total for All NAICS in Midwest Census Region             | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSANC      | Business Applications from Corporations: Total for All NAICS in North Carolina                    | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAND      | Business Applications from Corporations: Total for All NAICS in North Dakota                      | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSANE      | Business Applications from Corporations: Total for All NAICS in Nebraska                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSANH      | Business Applications from Corporations: Total for All NAICS in New Hampshire                     | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSANJ      | Business Applications from Corporations: Total for All NAICS in New Jersey                        | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSANM      | Business Applications from Corporations: Total for All NAICS in New Mexico                        | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSANO      | Business Applications from Corporations: Total for All NAICS in Northeast Census Region           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSANV      | Business Applications from Corporations: Total for All NAICS in Nevada                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSANY      | Business Applications from Corporations: Total for All NAICS in New York                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAOH      | Business Applications from Corporations: Total for All NAICS in Ohio                              | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAOK      | Business Applications from Corporations: Total for All NAICS in Oklahoma                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAOR      | Business Applications from Corporations: Total for All NAICS in Oregon                            | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAPA      | Business Applications from Corporations: Total for All NAICS in Pennsylvania                      | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSARI      | Business Applications from Corporations: Total for All NAICS in Rhode Island                      | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSASC      | Business Applications from Corporations: Total for All NAICS in South Carolina                    | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSASD      | Business Applications from Corporations: Total for All NAICS in South Dakota                      | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSASO      | Business Applications from Corporations: Total for All NAICS in South Census Region               | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSATN      | Business Applications from Corporations: Total for All NAICS in Tennessee                         | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSATX      | Business Applications from Corporations: Total for All NAICS in Texas                             | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAUS      | Business Applications from Corporations: Total for All NAICS in the United States                 | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAUT      | Business Applications from Corporations: Total for All NAICS in Utah                              | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAVA      | Business Applications from Corporations: Total for All NAICS in Virginia                          | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAVT      | Business Applications from Corporations: Total for All NAICS in Vermont                           | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAWA      | Business Applications from Corporations: Total for All NAICS in Washington                        | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAWE      | Business Applications from Corporations: Total for All NAICS in West Census Region                | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAWI      | Business Applications from Corporations: Total for All NAICS in Wisconsin                         | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAWV      | Business Applications from Corporations: Total for All NAICS in West Virginia                     | 2004-07-01          | 2022-07-01        |
-| BACBATOTALSAWY      | Business Applications from Corporations: Total for All NAICS in Wyoming                           | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS11NSAUS   | High-Propensity Business Applications: Agriculture in the United States                           | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS11SAUS    | High-Propensity Business Applications: Agriculture in the United States                           | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS21NSAUS   | High-Propensity Business Applications: Mining in the United States                                | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS21SAUS    | High-Propensity Business Applications: Mining in the United States                                | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS22NSAUS   | High-Propensity Business Applications: Utilities in the United States                             | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS22SAUS    | High-Propensity Business Applications: Utilities in the United States                             | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS23NSAUS   | High-Propensity Business Applications: Construction in the United States                          | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS23SAUS    | High-Propensity Business Applications: Construction in the United States                          | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS42NSAUS   | High-Propensity Business Applications: Wholesale Trade in the United States                       | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS42SAUS    | High-Propensity Business Applications: Wholesale Trade in the United States                       | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS51NSAUS   | High-Propensity Business Applications: Information in the United States                           | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS51SAUS    | High-Propensity Business Applications: Information in the United States                           | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS52NSAUS   | High-Propensity Business Applications: Finance and Insurance in the United States                 | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS52SAUS    | High-Propensity Business Applications: Finance and Insurance in the United States                 | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS53NSAUS   | High-Propensity Business Applications: Real Estate in the United States                           | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS53SAUS    | High-Propensity Business Applications: Real Estate in the United States                           | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS54NSAUS   | High-Propensity Business Applications: Professional Services in the United States                 | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS54SAUS    | High-Propensity Business Applications: Professional Services in the United States                 | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS55NSAUS   | High-Propensity Business Applications: Management of Companies in the United States               | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS55SAUS    | High-Propensity Business Applications: Management of Companies in the United States               | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS56NSAUS   | High-Propensity Business Applications: Administrative and Support in the United States            | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS56SAUS    | High-Propensity Business Applications: Administrative and Support in the United States            | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS61NSAUS   | High-Propensity Business Applications: Educational Services in the United States                  | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS61SAUS    | High-Propensity Business Applications: Educational Services in the United States                  | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS62NSAUS   | High-Propensity Business Applications: Health Care and Social Assistance in the United States     | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS62SAUS    | High-Propensity Business Applications: Health Care and Social Assistance in the United States     | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS71NSAUS   | High-Propensity Business Applications: Arts and Entertainment in the United States                | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS71SAUS    | High-Propensity Business Applications: Arts and Entertainment in the United States                | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS72NSAUS   | High-Propensity Business Applications: Accommodation and Food Services in the United States       | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS72SAUS    | High-Propensity Business Applications: Accommodation and Food Services in the United States       | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS81NSAUS   | High-Propensity Business Applications: Other Services in the United States                        | 2004-07-01          | 2022-07-01        |
-| BAHBANAICS81SAUS    | High-Propensity Business Applications: Other Services in the United States                        | 2004-07-01          | 2022-07-01        |
-| BAHBANAICSMNFNSAUS  | High-Propensity Business Applications: Manufacturing in the United States                         | 2004-07-01          | 2022-07-01        |
-| BAHBANAICSMNFSAUS   | High-Propensity Business Applications: Manufacturing in the United States                         | 2004-07-01          | 2022-07-01        |
-| BAHBANAICSRETNSAUS  | High-Propensity Business Applications: Retail Trade in the United States                          | 2004-07-01          | 2022-07-01        |
-| BAHBANAICSRETSAUS   | High-Propensity Business Applications: Retail Trade in the United States                          | 2004-07-01          | 2022-07-01        |
-| BAHBANAICSTWNSAUS   | High-Propensity Business Applications: Transportation and Warehousing in the United States        | 2004-07-01          | 2022-07-01        |
-| BAHBANAICSTWSAUS    | High-Propensity Business Applications: Transportation and Warehousing in the United States        | 2004-07-01          | 2022-07-01        |
-| BAHBANONAICSNSAUS   | High-Propensity Business Applications: No NAICS Assigned in the United States                     | 2004-07-01          | 2022-07-01        |
-| BAHBANONAICSSAUS    | High-Propensity Business Applications: No NAICS Assigned in the United States                     | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAAK     | High-Propensity Business Applications: Total for All NAICS in Alaska                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAAL     | High-Propensity Business Applications: Total for All NAICS in Alabama                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAAR     | High-Propensity Business Applications: Total for All NAICS in Arkansas                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAAZ     | High-Propensity Business Applications: Total for All NAICS in Arizona                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSACA     | High-Propensity Business Applications: Total for All NAICS in California                          | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSACO     | High-Propensity Business Applications: Total for All NAICS in Colorado                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSACT     | High-Propensity Business Applications: Total for All NAICS in Connecticut                         | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSADC     | High-Propensity Business Applications: Total for All NAICS in District of Columbia                | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSADE     | High-Propensity Business Applications: Total for All NAICS in Delaware                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAFL     | High-Propensity Business Applications: Total for All NAICS in Florida                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAGA     | High-Propensity Business Applications: Total for All NAICS in Georgia                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAHI     | High-Propensity Business Applications: Total for All NAICS in Hawaii                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAIA     | High-Propensity Business Applications: Total for All NAICS in Iowa                                | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAID     | High-Propensity Business Applications: Total for All NAICS in Idaho                               | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAIL     | High-Propensity Business Applications: Total for All NAICS in Illinois                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAIN     | High-Propensity Business Applications: Total for All NAICS in Indiana                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAKS     | High-Propensity Business Applications: Total for All NAICS in Kansas                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAKY     | High-Propensity Business Applications: Total for All NAICS in Kentucky                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSALA     | High-Propensity Business Applications: Total for All NAICS in Louisiana                           | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAMA     | High-Propensity Business Applications: Total for All NAICS in Massachusetts                       | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAMD     | High-Propensity Business Applications: Total for All NAICS in Maryland                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAME     | High-Propensity Business Applications: Total for All NAICS in Maine                               | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAMI     | High-Propensity Business Applications: Total for All NAICS in Michigan                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAMN     | High-Propensity Business Applications: Total for All NAICS in Minnesota                           | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAMO     | High-Propensity Business Applications: Total for All NAICS in Missouri                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAMS     | High-Propensity Business Applications: Total for All NAICS in Mississippi                         | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAMT     | High-Propensity Business Applications: Total for All NAICS in Montana                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAMW     | High-Propensity Business Applications: Total for All NAICS in Midwest Census Region               | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSANC     | High-Propensity Business Applications: Total for All NAICS in North Carolina                      | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAND     | High-Propensity Business Applications: Total for All NAICS in North Dakota                        | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSANE     | High-Propensity Business Applications: Total for All NAICS in Nebraska                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSANH     | High-Propensity Business Applications: Total for All NAICS in New Hampshire                       | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSANJ     | High-Propensity Business Applications: Total for All NAICS in New Jersey                          | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSANM     | High-Propensity Business Applications: Total for All NAICS in New Mexico                          | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSANO     | High-Propensity Business Applications: Total for All NAICS in Northeast Census Region             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSANV     | High-Propensity Business Applications: Total for All NAICS in Nevada                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSANY     | High-Propensity Business Applications: Total for All NAICS in New York                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAOH     | High-Propensity Business Applications: Total for All NAICS in Ohio                                | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAOK     | High-Propensity Business Applications: Total for All NAICS in Oklahoma                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAOR     | High-Propensity Business Applications: Total for All NAICS in Oregon                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAPA     | High-Propensity Business Applications: Total for All NAICS in Pennsylvania                        | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSARI     | High-Propensity Business Applications: Total for All NAICS in Rhode Island                        | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSASC     | High-Propensity Business Applications: Total for All NAICS in South Carolina                      | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSASD     | High-Propensity Business Applications: Total for All NAICS in South Dakota                        | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSASO     | High-Propensity Business Applications: Total for All NAICS in South Census Region                 | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSATN     | High-Propensity Business Applications: Total for All NAICS in Tennessee                           | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSATX     | High-Propensity Business Applications: Total for All NAICS in Texas                               | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAUS     | High-Propensity Business Applications: Total for All NAICS in the United States                   | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAUT     | High-Propensity Business Applications: Total for All NAICS in Utah                                | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAVA     | High-Propensity Business Applications: Total for All NAICS in Virginia                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAVT     | High-Propensity Business Applications: Total for All NAICS in Vermont                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAWA     | High-Propensity Business Applications: Total for All NAICS in Washington                          | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAWE     | High-Propensity Business Applications: Total for All NAICS in West Census Region                  | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAWI     | High-Propensity Business Applications: Total for All NAICS in Wisconsin                           | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAWV     | High-Propensity Business Applications: Total for All NAICS in West Virginia                       | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALNSAWY     | High-Propensity Business Applications: Total for All NAICS in Wyoming                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAAK      | High-Propensity Business Applications: Total for All NAICS in Alaska                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAAL      | High-Propensity Business Applications: Total for All NAICS in Alabama                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAAR      | High-Propensity Business Applications: Total for All NAICS in Arkansas                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAAZ      | High-Propensity Business Applications: Total for All NAICS in Arizona                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSACA      | High-Propensity Business Applications: Total for All NAICS in California                          | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSACO      | High-Propensity Business Applications: Total for All NAICS in Colorado                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSACT      | High-Propensity Business Applications: Total for All NAICS in Connecticut                         | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSADC      | High-Propensity Business Applications: Total for All NAICS in District of Columbia                | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSADE      | High-Propensity Business Applications: Total for All NAICS in Delaware                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAFL      | High-Propensity Business Applications: Total for All NAICS in Florida                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAGA      | High-Propensity Business Applications: Total for All NAICS in Georgia                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAHI      | High-Propensity Business Applications: Total for All NAICS in Hawaii                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAIA      | High-Propensity Business Applications: Total for All NAICS in Iowa                                | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAID      | High-Propensity Business Applications: Total for All NAICS in Idaho                               | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAIL      | High-Propensity Business Applications: Total for All NAICS in Illinois                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAIN      | High-Propensity Business Applications: Total for All NAICS in Indiana                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAKS      | High-Propensity Business Applications: Total for All NAICS in Kansas                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAKY      | High-Propensity Business Applications: Total for All NAICS in Kentucky                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSALA      | High-Propensity Business Applications: Total for All NAICS in Louisiana                           | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAMA      | High-Propensity Business Applications: Total for All NAICS in Massachusetts                       | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAMD      | High-Propensity Business Applications: Total for All NAICS in Maryland                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAME      | High-Propensity Business Applications: Total for All NAICS in Maine                               | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAMI      | High-Propensity Business Applications: Total for All NAICS in Michigan                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAMN      | High-Propensity Business Applications: Total for All NAICS in Minnesota                           | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAMO      | High-Propensity Business Applications: Total for All NAICS in Missouri                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAMS      | High-Propensity Business Applications: Total for All NAICS in Mississippi                         | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAMT      | High-Propensity Business Applications: Total for All NAICS in Montana                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAMW      | High-Propensity Business Applications: Total for All NAICS in Midwest Census Region               | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSANC      | High-Propensity Business Applications: Total for All NAICS in North Carolina                      | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAND      | High-Propensity Business Applications: Total for All NAICS in North Dakota                        | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSANE      | High-Propensity Business Applications: Total for All NAICS in Nebraska                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSANH      | High-Propensity Business Applications: Total for All NAICS in New Hampshire                       | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSANJ      | High-Propensity Business Applications: Total for All NAICS in New Jersey                          | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSANM      | High-Propensity Business Applications: Total for All NAICS in New Mexico                          | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSANO      | High-Propensity Business Applications: Total for All NAICS in Northeast Census Region             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSANV      | High-Propensity Business Applications: Total for All NAICS in Nevada                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSANY      | High-Propensity Business Applications: Total for All NAICS in New York                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAOH      | High-Propensity Business Applications: Total for All NAICS in Ohio                                | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAOK      | High-Propensity Business Applications: Total for All NAICS in Oklahoma                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAOR      | High-Propensity Business Applications: Total for All NAICS in Oregon                              | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAPA      | High-Propensity Business Applications: Total for All NAICS in Pennsylvania                        | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSARI      | High-Propensity Business Applications: Total for All NAICS in Rhode Island                        | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSASC      | High-Propensity Business Applications: Total for All NAICS in South Carolina                      | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSASD      | High-Propensity Business Applications: Total for All NAICS in South Dakota                        | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSASO      | High-Propensity Business Applications: Total for All NAICS in South Census Region                 | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSATN      | High-Propensity Business Applications: Total for All NAICS in Tennessee                           | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSATX      | High-Propensity Business Applications: Total for All NAICS in Texas                               | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAUS      | High-Propensity Business Applications: Total for All NAICS in the United States                   | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAUT      | High-Propensity Business Applications: Total for All NAICS in Utah                                | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAVA      | High-Propensity Business Applications: Total for All NAICS in Virginia                            | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAVT      | High-Propensity Business Applications: Total for All NAICS in Vermont                             | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAWA      | High-Propensity Business Applications: Total for All NAICS in Washington                          | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAWE      | High-Propensity Business Applications: Total for All NAICS in West Census Region                  | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAWI      | High-Propensity Business Applications: Total for All NAICS in Wisconsin                           | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAWV      | High-Propensity Business Applications: Total for All NAICS in West Virginia                       | 2004-07-01          | 2022-07-01        |
-| BAHBATOTALSAWY      | High-Propensity Business Applications: Total for All NAICS in Wyoming                             | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS11NSAUS   | Business Applications with Planned Wages: Agriculture in the United States                        | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS11SAUS    | Business Applications with Planned Wages: Agriculture in the United States                        | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS21NSAUS   | Business Applications with Planned Wages: Mining in the United States                             | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS21SAUS    | Business Applications with Planned Wages: Mining in the United States                             | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS22NSAUS   | Business Applications with Planned Wages: Utilities in the United States                          | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS22SAUS    | Business Applications with Planned Wages: Utilities in the United States                          | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS23NSAUS   | Business Applications with Planned Wages: Construction in the United States                       | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS23SAUS    | Business Applications with Planned Wages: Construction in the United States                       | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS42NSAUS   | Business Applications with Planned Wages: Wholesale Trade in the United States                    | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS42SAUS    | Business Applications with Planned Wages: Wholesale Trade in the United States                    | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS51NSAUS   | Business Applications with Planned Wages: Information in the United States                        | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS51SAUS    | Business Applications with Planned Wages: Information in the United States                        | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS52NSAUS   | Business Applications with Planned Wages: Finance and Insurance in the United States              | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS52SAUS    | Business Applications with Planned Wages: Finance and Insurance in the United States              | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS53NSAUS   | Business Applications with Planned Wages: Real Estate in the United States                        | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS53SAUS    | Business Applications with Planned Wages: Real Estate in the United States                        | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS54NSAUS   | Business Applications with Planned Wages: Professional Services in the United States              | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS54SAUS    | Business Applications with Planned Wages: Professional Services in the United States              | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS55NSAUS   | Business Applications with Planned Wages: Management of Companies in the United States            | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS55SAUS    | Business Applications with Planned Wages: Management of Companies in the United States            | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS56NSAUS   | Business Applications with Planned Wages: Administrative and Support in the United States         | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS56SAUS    | Business Applications with Planned Wages: Administrative and Support in the United States         | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS61NSAUS   | Business Applications with Planned Wages: Educational Services in the United States               | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS61SAUS    | Business Applications with Planned Wages: Educational Services in the United States               | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS62NSAUS   | Business Applications with Planned Wages: Health Care and Social Assistance in the United States  | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS62SAUS    | Business Applications with Planned Wages: Health Care and Social Assistance in the United States  | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS71NSAUS   | Business Applications with Planned Wages: Arts and Entertainment in the United States             | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS71SAUS    | Business Applications with Planned Wages: Arts and Entertainment in the United States             | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS72NSAUS   | Business Applications with Planned Wages: Accommodation and Food Services in the United States    | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS72SAUS    | Business Applications with Planned Wages: Accommodation and Food Services in the United States    | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS81NSAUS   | Business Applications with Planned Wages: Other Services in the United States                     | 2004-07-01          | 2022-07-01        |
-| BAWBANAICS81SAUS    | Business Applications with Planned Wages: Other Services in the United States                     | 2004-07-01          | 2022-07-01        |
-| BAWBANAICSMNFNSAUS  | Business Applications with Planned Wages: Manufacturing in the United States                      | 2004-07-01          | 2022-07-01        |
-| BAWBANAICSMNFSAUS   | Business Applications with Planned Wages: Manufacturing in the United States                      | 2004-07-01          | 2022-07-01        |
-| BAWBANAICSRETNSAUS  | Business Applications with Planned Wages: Retail Trade in the United States                       | 2004-07-01          | 2022-07-01        |
-| BAWBANAICSRETSAUS   | Business Applications with Planned Wages: Retail Trade in the United States                       | 2004-07-01          | 2022-07-01        |
-| BAWBANAICSTWNSAUS   | Business Applications with Planned Wages: Transportation and Warehousing in the United States     | 2004-07-01          | 2022-07-01        |
-| BAWBANAICSTWSAUS    | Business Applications with Planned Wages: Transportation and Warehousing in the United States     | 2004-07-01          | 2022-07-01        |
-| BAWBANONAICSNSAUS   | Business Applications with Planned Wages: No NAICS Assigned in the United States                  | 2004-07-01          | 2022-07-01        |
-| BAWBANONAICSSAUS    | Business Applications with Planned Wages: No NAICS Assigned in the United States                  | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAAK     | Business Applications with Planned Wages: Total for All NAICS in Alaska                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAAL     | Business Applications with Planned Wages: Total for All NAICS in Alabama                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAAR     | Business Applications with Planned Wages: Total for All NAICS in Arkansas                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAAZ     | Business Applications with Planned Wages: Total for All NAICS in Arizona                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSACA     | Business Applications with Planned Wages: Total for All NAICS in California                       | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSACO     | Business Applications with Planned Wages: Total for All NAICS in Colorado                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSACT     | Business Applications with Planned Wages: Total for All NAICS in Connecticut                      | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSADC     | Business Applications with Planned Wages: Total for All NAICS in District of Columbia             | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSADE     | Business Applications with Planned Wages: Total for All NAICS in Delaware                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAFL     | Business Applications with Planned Wages: Total for All NAICS in Florida                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAGA     | Business Applications with Planned Wages: Total for All NAICS in Georgia                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAHI     | Business Applications with Planned Wages: Total for All NAICS in Hawaii                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAIA     | Business Applications with Planned Wages: Total for All NAICS in Iowa                             | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAID     | Business Applications with Planned Wages: Total for All NAICS in Idaho                            | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAIL     | Business Applications with Planned Wages: Total for All NAICS in Illinois                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAIN     | Business Applications with Planned Wages: Total for All NAICS in Indiana                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAKS     | Business Applications with Planned Wages: Total for All NAICS in Kansas                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAKY     | Business Applications with Planned Wages: Total for All NAICS in Kentucky                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSALA     | Business Applications with Planned Wages: Total for All NAICS in Louisiana                        | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAMA     | Business Applications with Planned Wages: Total for All NAICS in Massachusetts                    | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAMD     | Business Applications with Planned Wages: Total for All NAICS in Maryland                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAME     | Business Applications with Planned Wages: Total for All NAICS in Maine                            | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAMI     | Business Applications with Planned Wages: Total for All NAICS in Michigan                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAMN     | Business Applications with Planned Wages: Total for All NAICS in Minnesota                        | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAMO     | Business Applications with Planned Wages: Total for All NAICS in Missouri                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAMS     | Business Applications with Planned Wages: Total for All NAICS in Mississippi                      | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAMT     | Business Applications with Planned Wages: Total for All NAICS in Montana                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAMW     | Business Applications with Planned Wages: Total for All NAICS in Midwest Census Region            | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSANC     | Business Applications with Planned Wages: Total for All NAICS in North Carolina                   | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAND     | Business Applications with Planned Wages: Total for All NAICS in North Dakota                     | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSANE     | Business Applications with Planned Wages: Total for All NAICS in Nebraska                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSANH     | Business Applications with Planned Wages: Total for All NAICS in New Hampshire                    | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSANJ     | Business Applications with Planned Wages: Total for All NAICS in New Jersey                       | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSANM     | Business Applications with Planned Wages: Total for All NAICS in New Mexico                       | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSANO     | Business Applications with Planned Wages: Total for All NAICS in Northeast Census Region          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSANV     | Business Applications with Planned Wages: Total for All NAICS in Nevada                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSANY     | Business Applications with Planned Wages: Total for All NAICS in New York                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAOH     | Business Applications with Planned Wages: Total for All NAICS in Ohio                             | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAOK     | Business Applications with Planned Wages: Total for All NAICS in Oklahoma                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAOR     | Business Applications with Planned Wages: Total for All NAICS in Oregon                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAPA     | Business Applications with Planned Wages: Total for All NAICS in Pennsylvania                     | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSARI     | Business Applications with Planned Wages: Total for All NAICS in Rhode Island                     | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSASC     | Business Applications with Planned Wages: Total for All NAICS in South Carolina                   | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSASD     | Business Applications with Planned Wages: Total for All NAICS in South Dakota                     | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSASO     | Business Applications with Planned Wages: Total for All NAICS in South Census Region              | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSATN     | Business Applications with Planned Wages: Total for All NAICS in Tennessee                        | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSATX     | Business Applications with Planned Wages: Total for All NAICS in Texas                            | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAUS     | Business Applications with Planned Wages: Total for All NAICS in the United States                | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAUT     | Business Applications with Planned Wages: Total for All NAICS in Utah                             | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAVA     | Business Applications with Planned Wages: Total for All NAICS in Virginia                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAVT     | Business Applications with Planned Wages: Total for All NAICS in Vermont                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAWA     | Business Applications with Planned Wages: Total for All NAICS in Washington                       | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAWE     | Business Applications with Planned Wages: Total for All NAICS in West Census Region               | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAWI     | Business Applications with Planned Wages: Total for All NAICS in Wisconsin                        | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAWV     | Business Applications with Planned Wages: Total for All NAICS in West Virginia                    | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALNSAWY     | Business Applications with Planned Wages: Total for All NAICS in Wyoming                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAAK      | Business Applications with Planned Wages: Total for All NAICS in Alaska                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAAL      | Business Applications with Planned Wages: Total for All NAICS in Alabama                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAAR      | Business Applications with Planned Wages: Total for All NAICS in Arkansas                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAAZ      | Business Applications with Planned Wages: Total for All NAICS in Arizona                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSACA      | Business Applications with Planned Wages: Total for All NAICS in California                       | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSACO      | Business Applications with Planned Wages: Total for All NAICS in Colorado                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSACT      | Business Applications with Planned Wages: Total for All NAICS in Connecticut                      | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSADC      | Business Applications with Planned Wages: Total for All NAICS in District of Columbia             | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSADE      | Business Applications with Planned Wages: Total for All NAICS in Delaware                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAFL      | Business Applications with Planned Wages: Total for All NAICS in Florida                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAGA      | Business Applications with Planned Wages: Total for All NAICS in Georgia                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAHI      | Business Applications with Planned Wages: Total for All NAICS in Hawaii                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAIA      | Business Applications with Planned Wages: Total for All NAICS in Iowa                             | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAID      | Business Applications with Planned Wages: Total for All NAICS in Idaho                            | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAIL      | Business Applications with Planned Wages: Total for All NAICS in Illinois                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAIN      | Business Applications with Planned Wages: Total for All NAICS in Indiana                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAKS      | Business Applications with Planned Wages: Total for All NAICS in Kansas                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAKY      | Business Applications with Planned Wages: Total for All NAICS in Kentucky                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSALA      | Business Applications with Planned Wages: Total for All NAICS in Louisiana                        | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAMA      | Business Applications with Planned Wages: Total for All NAICS in Massachusetts                    | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAMD      | Business Applications with Planned Wages: Total for All NAICS in Maryland                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAME      | Business Applications with Planned Wages: Total for All NAICS in Maine                            | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAMI      | Business Applications with Planned Wages: Total for All NAICS in Michigan                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAMN      | Business Applications with Planned Wages: Total for All NAICS in Minnesota                        | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAMO      | Business Applications with Planned Wages: Total for All NAICS in Missouri                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAMS      | Business Applications with Planned Wages: Total for All NAICS in Mississippi                      | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAMT      | Business Applications with Planned Wages: Total for All NAICS in Montana                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAMW      | Business Applications with Planned Wages: Total for All NAICS in Midwest Census Region            | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSANC      | Business Applications with Planned Wages: Total for All NAICS in North Carolina                   | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAND      | Business Applications with Planned Wages: Total for All NAICS in North Dakota                     | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSANE      | Business Applications with Planned Wages: Total for All NAICS in Nebraska                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSANH      | Business Applications with Planned Wages: Total for All NAICS in New Hampshire                    | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSANJ      | Business Applications with Planned Wages: Total for All NAICS in New Jersey                       | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSANM      | Business Applications with Planned Wages: Total for All NAICS in New Mexico                       | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSANO      | Business Applications with Planned Wages: Total for All NAICS in Northeast Census Region          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSANV      | Business Applications with Planned Wages: Total for All NAICS in Nevada                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSANY      | Business Applications with Planned Wages: Total for All NAICS in New York                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAOH      | Business Applications with Planned Wages: Total for All NAICS in Ohio                             | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAOK      | Business Applications with Planned Wages: Total for All NAICS in Oklahoma                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAOR      | Business Applications with Planned Wages: Total for All NAICS in Oregon                           | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAPA      | Business Applications with Planned Wages: Total for All NAICS in Pennsylvania                     | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSARI      | Business Applications with Planned Wages: Total for All NAICS in Rhode Island                     | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSASC      | Business Applications with Planned Wages: Total for All NAICS in South Carolina                   | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSASD      | Business Applications with Planned Wages: Total for All NAICS in South Dakota                     | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSASO      | Business Applications with Planned Wages: Total for All NAICS in South Census Region              | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSATN      | Business Applications with Planned Wages: Total for All NAICS in Tennessee                        | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSATX      | Business Applications with Planned Wages: Total for All NAICS in Texas                            | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAUS      | Business Applications with Planned Wages: Total for All NAICS in the United States                | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAUT      | Business Applications with Planned Wages: Total for All NAICS in Utah                             | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAVA      | Business Applications with Planned Wages: Total for All NAICS in Virginia                         | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAVT      | Business Applications with Planned Wages: Total for All NAICS in Vermont                          | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAWA      | Business Applications with Planned Wages: Total for All NAICS in Washington                       | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAWE      | Business Applications with Planned Wages: Total for All NAICS in West Census Region               | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAWI      | Business Applications with Planned Wages: Total for All NAICS in Wisconsin                        | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAWV      | Business Applications with Planned Wages: Total for All NAICS in West Virginia                    | 2004-07-01          | 2022-07-01        |
-| BAWBATOTALSAWY      | Business Applications with Planned Wages: Total for All NAICS in Wyoming                          | 2004-07-01          | 2022-07-01        |
+| BABANAICS11NSAUS    | Business Applications: Agriculture in the United States                                           | 2004-07-01          | 2022-08-01        |
+| BABANAICS11SAUS     | Business Applications: Agriculture in the United States                                           | 2004-07-01          | 2022-08-01        |
+| BABANAICS21NSAUS    | Business Applications: Mining in the United States                                                | 2004-07-01          | 2022-08-01        |
+| BABANAICS21SAUS     | Business Applications: Mining in the United States                                                | 2004-07-01          | 2022-08-01        |
+| BABANAICS22NSAUS    | Business Applications: Utilities in the United States                                             | 2004-07-01          | 2022-08-01        |
+| BABANAICS22SAUS     | Business Applications: Utilities in the United States                                             | 2004-07-01          | 2022-08-01        |
+| BABANAICS23NSAUS    | Business Applications: Construction in the United States                                          | 2004-07-01          | 2022-08-01        |
+| BABANAICS23SAUS     | Business Applications: Construction in the United States                                          | 2004-07-01          | 2022-08-01        |
+| BABANAICS42NSAUS    | Business Applications: Wholesale Trade in the United States                                       | 2004-07-01          | 2022-08-01        |
+| BABANAICS42SAUS     | Business Applications: Wholesale Trade in the United States                                       | 2004-07-01          | 2022-08-01        |
+| BABANAICS51NSAUS    | Business Applications: Information in the United States                                           | 2004-07-01          | 2022-08-01        |
+| BABANAICS51SAUS     | Business Applications: Information in the United States                                           | 2004-07-01          | 2022-08-01        |
+| BABANAICS52NSAUS    | Business Applications: Finance and Insurance in the United States                                 | 2004-07-01          | 2022-08-01        |
+| BABANAICS52SAUS     | Business Applications: Finance and Insurance in the United States                                 | 2004-07-01          | 2022-08-01        |
+| BABANAICS53NSAUS    | Business Applications: Real Estate in the United States                                           | 2004-07-01          | 2022-08-01        |
+| BABANAICS53SAUS     | Business Applications: Real Estate in the United States                                           | 2004-07-01          | 2022-08-01        |
+| BABANAICS54NSAUS    | Business Applications: Professional Services in the United States                                 | 2004-07-01          | 2022-08-01        |
+| BABANAICS54SAUS     | Business Applications: Professional Services in the United States                                 | 2004-07-01          | 2022-08-01        |
+| BABANAICS55NSAUS    | Business Applications: Management of Companies in the United States                               | 2004-07-01          | 2022-08-01        |
+| BABANAICS55SAUS     | Business Applications: Management of Companies in the United States                               | 2004-07-01          | 2022-08-01        |
+| BABANAICS56NSAUS    | Business Applications: Administrative and Support in the United States                            | 2004-07-01          | 2022-08-01        |
+| BABANAICS56SAUS     | Business Applications: Administrative and Support in the United States                            | 2004-07-01          | 2022-08-01        |
+| BABANAICS61NSAUS    | Business Applications: Educational Services in the United States                                  | 2004-07-01          | 2022-08-01        |
+| BABANAICS61SAUS     | Business Applications: Educational Services in the United States                                  | 2004-07-01          | 2022-08-01        |
+| BABANAICS62NSAUS    | Business Applications: Health Care and Social Assistance in the United States                     | 2004-07-01          | 2022-08-01        |
+| BABANAICS62SAUS     | Business Applications: Health Care and Social Assistance in the United States                     | 2004-07-01          | 2022-08-01        |
+| BABANAICS71NSAUS    | Business Applications: Arts and Entertainment in the United States                                | 2004-07-01          | 2022-08-01        |
+| BABANAICS71SAUS     | Business Applications: Arts and Entertainment in the United States                                | 2004-07-01          | 2022-08-01        |
+| BABANAICS72NSAUS    | Business Applications: Accommodation and Food Services in the United States                       | 2004-07-01          | 2022-08-01        |
+| BABANAICS72SAUS     | Business Applications: Accommodation and Food Services in the United States                       | 2004-07-01          | 2022-08-01        |
+| BABANAICS81NSAUS    | Business Applications: Other Services in the United States                                        | 2004-07-01          | 2022-08-01        |
+| BABANAICS81SAUS     | Business Applications: Other Services in the United States                                        | 2004-07-01          | 2022-08-01        |
+| BABANAICSMNFNSAUS   | Business Applications: Manufacturing in the United States                                         | 2004-07-01          | 2022-08-01        |
+| BABANAICSMNFSAUS    | Business Applications: Manufacturing in the United States                                         | 2004-07-01          | 2022-08-01        |
+| BABANAICSRETNSAUS   | Business Applications: Retail Trade in the United States                                          | 2004-07-01          | 2022-08-01        |
+| BABANAICSRETSAUS    | Business Applications: Retail Trade in the United States                                          | 2004-07-01          | 2022-08-01        |
+| BABANAICSTWNSAUS    | Business Applications: Transportation and Warehousing in the United States                        | 2004-07-01          | 2022-08-01        |
+| BABANAICSTWSAUS     | Business Applications: Transportation and Warehousing in the United States                        | 2004-07-01          | 2022-08-01        |
+| BABANONAICSNSAUS    | Business Applications: No NAICS Assigned in the United States                                     | 2004-07-01          | 2022-08-01        |
+| BABANONAICSSAUS     | Business Applications: No NAICS Assigned in the United States                                     | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAAK      | Business Applications: Total for All NAICS in Alaska                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAAL      | Business Applications: Total for All NAICS in Alabama                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAAR      | Business Applications: Total for All NAICS in Arkansas                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAAZ      | Business Applications: Total for All NAICS in Arizona                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSACA      | Business Applications: Total for All NAICS in California                                          | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSACO      | Business Applications: Total for All NAICS in Colorado                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSACT      | Business Applications: Total for All NAICS in Connecticut                                         | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSADC      | Business Applications: Total for All NAICS in District of Columbia                                | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSADE      | Business Applications: Total for All NAICS in Delaware                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAFL      | Business Applications: Total for All NAICS in Florida                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAGA      | Business Applications: Total for All NAICS in Georgia                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAHI      | Business Applications: Total for All NAICS in Hawaii                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAIA      | Business Applications: Total for All NAICS in Iowa                                                | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAID      | Business Applications: Total for All NAICS in Idaho                                               | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAIL      | Business Applications: Total for All NAICS in Illinois                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAIN      | Business Applications: Total for All NAICS in Indiana                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAKS      | Business Applications: Total for All NAICS in Kansas                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAKY      | Business Applications: Total for All NAICS in Kentucky                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSALA      | Business Applications: Total for All NAICS in Louisiana                                           | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAMA      | Business Applications: Total for All NAICS in Massachusetts                                       | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAMD      | Business Applications: Total for All NAICS in Maryland                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAME      | Business Applications: Total for All NAICS in Maine                                               | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAMI      | Business Applications: Total for All NAICS in Michigan                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAMN      | Business Applications: Total for All NAICS in Minnesota                                           | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAMO      | Business Applications: Total for All NAICS in Missouri                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAMS      | Business Applications: Total for All NAICS in Mississippi                                         | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAMT      | Business Applications: Total for All NAICS in Montana                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAMW      | Business Applications: Total for All NAICS in Midwest Census Region                               | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSANC      | Business Applications: Total for All NAICS in North Carolina                                      | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAND      | Business Applications: Total for All NAICS in North Dakota                                        | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSANE      | Business Applications: Total for All NAICS in Nebraska                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSANH      | Business Applications: Total for All NAICS in New Hampshire                                       | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSANJ      | Business Applications: Total for All NAICS in New Jersey                                          | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSANM      | Business Applications: Total for All NAICS in New Mexico                                          | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSANO      | Business Applications: Total for All NAICS in Northeast Census Region                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSANV      | Business Applications: Total for All NAICS in Nevada                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSANY      | Business Applications: Total for All NAICS in New York                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAOH      | Business Applications: Total for All NAICS in Ohio                                                | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAOK      | Business Applications: Total for All NAICS in Oklahoma                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAOR      | Business Applications: Total for All NAICS in Oregon                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAPA      | Business Applications: Total for All NAICS in Pennsylvania                                        | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSARI      | Business Applications: Total for All NAICS in Rhode Island                                        | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSASC      | Business Applications: Total for All NAICS in South Carolina                                      | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSASD      | Business Applications: Total for All NAICS in South Dakota                                        | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSASO      | Business Applications: Total for All NAICS in South Census Region                                 | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSATN      | Business Applications: Total for All NAICS in Tennessee                                           | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSATX      | Business Applications: Total for All NAICS in Texas                                               | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAUS      | Business Applications: Total for All NAICS in the United States                                   | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAUT      | Business Applications: Total for All NAICS in Utah                                                | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAVA      | Business Applications: Total for All NAICS in Virginia                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAVT      | Business Applications: Total for All NAICS in Vermont                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAWA      | Business Applications: Total for All NAICS in Washington                                          | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAWE      | Business Applications: Total for All NAICS in West Census Region                                  | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAWI      | Business Applications: Total for All NAICS in Wisconsin                                           | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAWV      | Business Applications: Total for All NAICS in West Virginia                                       | 2004-07-01          | 2022-08-01        |
+| BABATOTALNSAWY      | Business Applications: Total for All NAICS in Wyoming                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAAK       | Business Applications: Total for All NAICS in Alaska                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAAL       | Business Applications: Total for All NAICS in Alabama                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAAR       | Business Applications: Total for All NAICS in Arkansas                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAAZ       | Business Applications: Total for All NAICS in Arizona                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSACA       | Business Applications: Total for All NAICS in California                                          | 2004-07-01          | 2022-08-01        |
+| BABATOTALSACO       | Business Applications: Total for All NAICS in Colorado                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSACT       | Business Applications: Total for All NAICS in Connecticut                                         | 2004-07-01          | 2022-08-01        |
+| BABATOTALSADC       | Business Applications: Total for All NAICS in District of Columbia                                | 2004-07-01          | 2022-08-01        |
+| BABATOTALSADE       | Business Applications: Total for All NAICS in Delaware                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAFL       | Business Applications: Total for All NAICS in Florida                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAGA       | Business Applications: Total for All NAICS in Georgia                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAHI       | Business Applications: Total for All NAICS in Hawaii                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAIA       | Business Applications: Total for All NAICS in Iowa                                                | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAID       | Business Applications: Total for All NAICS in Idaho                                               | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAIL       | Business Applications: Total for All NAICS in Illinois                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAIN       | Business Applications: Total for All NAICS in Indiana                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAKS       | Business Applications: Total for All NAICS in Kansas                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAKY       | Business Applications: Total for All NAICS in Kentucky                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSALA       | Business Applications: Total for All NAICS in Louisiana                                           | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAMA       | Business Applications: Total for All NAICS in Massachusetts                                       | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAMD       | Business Applications: Total for All NAICS in Maryland                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAME       | Business Applications: Total for All NAICS in Maine                                               | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAMI       | Business Applications: Total for All NAICS in Michigan                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAMN       | Business Applications: Total for All NAICS in Minnesota                                           | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAMO       | Business Applications: Total for All NAICS in Missouri                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAMS       | Business Applications: Total for All NAICS in Mississippi                                         | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAMT       | Business Applications: Total for All NAICS in Montana                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAMW       | Business Applications: Total for All NAICS in Midwest Census Region                               | 2004-07-01          | 2022-08-01        |
+| BABATOTALSANC       | Business Applications: Total for All NAICS in North Carolina                                      | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAND       | Business Applications: Total for All NAICS in North Dakota                                        | 2004-07-01          | 2022-08-01        |
+| BABATOTALSANE       | Business Applications: Total for All NAICS in Nebraska                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSANH       | Business Applications: Total for All NAICS in New Hampshire                                       | 2004-07-01          | 2022-08-01        |
+| BABATOTALSANJ       | Business Applications: Total for All NAICS in New Jersey                                          | 2004-07-01          | 2022-08-01        |
+| BABATOTALSANM       | Business Applications: Total for All NAICS in New Mexico                                          | 2004-07-01          | 2022-08-01        |
+| BABATOTALSANO       | Business Applications: Total for All NAICS in Northeast Census Region                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSANV       | Business Applications: Total for All NAICS in Nevada                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALSANY       | Business Applications: Total for All NAICS in New York                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAOH       | Business Applications: Total for All NAICS in Ohio                                                | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAOK       | Business Applications: Total for All NAICS in Oklahoma                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAOR       | Business Applications: Total for All NAICS in Oregon                                              | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAPA       | Business Applications: Total for All NAICS in Pennsylvania                                        | 2004-07-01          | 2022-08-01        |
+| BABATOTALSARI       | Business Applications: Total for All NAICS in Rhode Island                                        | 2004-07-01          | 2022-08-01        |
+| BABATOTALSASC       | Business Applications: Total for All NAICS in South Carolina                                      | 2004-07-01          | 2022-08-01        |
+| BABATOTALSASD       | Business Applications: Total for All NAICS in South Dakota                                        | 2004-07-01          | 2022-08-01        |
+| BABATOTALSASO       | Business Applications: Total for All NAICS in South Census Region                                 | 2004-07-01          | 2022-08-01        |
+| BABATOTALSATN       | Business Applications: Total for All NAICS in Tennessee                                           | 2004-07-01          | 2022-08-01        |
+| BABATOTALSATX       | Business Applications: Total for All NAICS in Texas                                               | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAUS       | Business Applications: Total for All NAICS in the United States                                   | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAUT       | Business Applications: Total for All NAICS in Utah                                                | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAVA       | Business Applications: Total for All NAICS in Virginia                                            | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAVT       | Business Applications: Total for All NAICS in Vermont                                             | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAWA       | Business Applications: Total for All NAICS in Washington                                          | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAWE       | Business Applications: Total for All NAICS in West Census Region                                  | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAWI       | Business Applications: Total for All NAICS in Wisconsin                                           | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAWV       | Business Applications: Total for All NAICS in West Virginia                                       | 2004-07-01          | 2022-08-01        |
+| BABATOTALSAWY       | Business Applications: Total for All NAICS in Wyoming                                             | 2004-07-01          | 2022-08-01        |
+| BACBANAICS11NSAUS   | Business Applications from Corporations: Agriculture in the United States                         | 2004-07-01          | 2022-08-01        |
+| BACBANAICS11SAUS    | Business Applications from Corporations: Agriculture in the United States                         | 2004-07-01          | 2022-08-01        |
+| BACBANAICS21NSAUS   | Business Applications from Corporations: Mining in the United States                              | 2004-07-01          | 2022-08-01        |
+| BACBANAICS21SAUS    | Business Applications from Corporations: Mining in the United States                              | 2004-07-01          | 2022-08-01        |
+| BACBANAICS22NSAUS   | Business Applications from Corporations: Utilities in the United States                           | 2004-07-01          | 2022-08-01        |
+| BACBANAICS22SAUS    | Business Applications from Corporations: Utilities in the United States                           | 2004-07-01          | 2022-08-01        |
+| BACBANAICS23NSAUS   | Business Applications from Corporations: Construction in the United States                        | 2004-07-01          | 2022-08-01        |
+| BACBANAICS23SAUS    | Business Applications from Corporations: Construction in the United States                        | 2004-07-01          | 2022-08-01        |
+| BACBANAICS42NSAUS   | Business Applications from Corporations: Wholesale Trade in the United States                     | 2004-07-01          | 2022-08-01        |
+| BACBANAICS42SAUS    | Business Applications from Corporations: Wholesale Trade in the United States                     | 2004-07-01          | 2022-08-01        |
+| BACBANAICS51NSAUS   | Business Applications from Corporations: Information in the United States                         | 2004-07-01          | 2022-08-01        |
+| BACBANAICS51SAUS    | Business Applications from Corporations: Information in the United States                         | 2004-07-01          | 2022-08-01        |
+| BACBANAICS52NSAUS   | Business Applications from Corporations: Finance and Insurance in the United States               | 2004-07-01          | 2022-08-01        |
+| BACBANAICS52SAUS    | Business Applications from Corporations: Finance and Insurance in the United States               | 2004-07-01          | 2022-08-01        |
+| BACBANAICS53NSAUS   | Business Applications from Corporations: Real Estate in the United States                         | 2004-07-01          | 2022-08-01        |
+| BACBANAICS53SAUS    | Business Applications from Corporations: Real Estate in the United States                         | 2004-07-01          | 2022-08-01        |
+| BACBANAICS54NSAUS   | Business Applications from Corporations: Professional Services in the United States               | 2004-07-01          | 2022-08-01        |
+| BACBANAICS54SAUS    | Business Applications from Corporations: Professional Services in the United States               | 2004-07-01          | 2022-08-01        |
+| BACBANAICS55NSAUS   | Business Applications from Corporations: Management of Companies in the United States             | 2004-07-01          | 2022-08-01        |
+| BACBANAICS55SAUS    | Business Applications from Corporations: Management of Companies in the United States             | 2004-07-01          | 2022-08-01        |
+| BACBANAICS56NSAUS   | Business Applications from Corporations: Administrative and Support in the United States          | 2004-07-01          | 2022-08-01        |
+| BACBANAICS56SAUS    | Business Applications from Corporations: Administrative and Support in the United States          | 2004-07-01          | 2022-08-01        |
+| BACBANAICS61NSAUS   | Business Applications from Corporations: Educational Services in the United States                | 2004-07-01          | 2022-08-01        |
+| BACBANAICS61SAUS    | Business Applications from Corporations: Educational Services in the United States                | 2004-07-01          | 2022-08-01        |
+| BACBANAICS62NSAUS   | Business Applications from Corporations: Health Care and Social Assistance in the United States   | 2004-07-01          | 2022-08-01        |
+| BACBANAICS62SAUS    | Business Applications from Corporations: Health Care and Social Assistance in the United States   | 2004-07-01          | 2022-08-01        |
+| BACBANAICS71NSAUS   | Business Applications from Corporations: Arts and Entertainment in the United States              | 2004-07-01          | 2022-08-01        |
+| BACBANAICS71SAUS    | Business Applications from Corporations: Arts and Entertainment in the United States              | 2004-07-01          | 2022-08-01        |
+| BACBANAICS72NSAUS   | Business Applications from Corporations: Accommodation and Food Services in the United States     | 2004-07-01          | 2022-08-01        |
+| BACBANAICS72SAUS    | Business Applications from Corporations: Accommodation and Food Services in the United States     | 2004-07-01          | 2022-08-01        |
+| BACBANAICS81NSAUS   | Business Applications from Corporations: Other Services in the United States                      | 2004-07-01          | 2022-08-01        |
+| BACBANAICS81SAUS    | Business Applications from Corporations: Other Services in the United States                      | 2004-07-01          | 2022-08-01        |
+| BACBANAICSMNFNSAUS  | Business Applications from Corporations: Manufacturing in the United States                       | 2004-07-01          | 2022-08-01        |
+| BACBANAICSMNFSAUS   | Business Applications from Corporations: Manufacturing in the United States                       | 2004-07-01          | 2022-08-01        |
+| BACBANAICSRETNSAUS  | Business Applications from Corporations: Retail Trade in the United States                        | 2004-07-01          | 2022-08-01        |
+| BACBANAICSRETSAUS   | Business Applications from Corporations: Retail Trade in the United States                        | 2004-07-01          | 2022-08-01        |
+| BACBANAICSTWNSAUS   | Business Applications from Corporations: Transportation and Warehousing in the United States      | 2004-07-01          | 2022-08-01        |
+| BACBANAICSTWSAUS    | Business Applications from Corporations: Transportation and Warehousing in the United States      | 2004-07-01          | 2022-08-01        |
+| BACBANONAICSNSAUS   | Business Applications from Corporations: No NAICS Assigned in the United States                   | 2004-07-01          | 2022-08-01        |
+| BACBANONAICSSAUS    | Business Applications from Corporations: No NAICS Assigned in the United States                   | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAAK     | Business Applications from Corporations: Total for All NAICS in Alaska                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAAL     | Business Applications from Corporations: Total for All NAICS in Alabama                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAAR     | Business Applications from Corporations: Total for All NAICS in Arkansas                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAAZ     | Business Applications from Corporations: Total for All NAICS in Arizona                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSACA     | Business Applications from Corporations: Total for All NAICS in California                        | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSACO     | Business Applications from Corporations: Total for All NAICS in Colorado                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSACT     | Business Applications from Corporations: Total for All NAICS in Connecticut                       | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSADC     | Business Applications from Corporations: Total for All NAICS in District of Columbia              | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSADE     | Business Applications from Corporations: Total for All NAICS in Delaware                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAFL     | Business Applications from Corporations: Total for All NAICS in Florida                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAGA     | Business Applications from Corporations: Total for All NAICS in Georgia                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAHI     | Business Applications from Corporations: Total for All NAICS in Hawaii                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAIA     | Business Applications from Corporations: Total for All NAICS in Iowa                              | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAID     | Business Applications from Corporations: Total for All NAICS in Idaho                             | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAIL     | Business Applications from Corporations: Total for All NAICS in Illinois                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAIN     | Business Applications from Corporations: Total for All NAICS in Indiana                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAKS     | Business Applications from Corporations: Total for All NAICS in Kansas                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAKY     | Business Applications from Corporations: Total for All NAICS in Kentucky                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSALA     | Business Applications from Corporations: Total for All NAICS in Louisiana                         | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAMA     | Business Applications from Corporations: Total for All NAICS in Massachusetts                     | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAMD     | Business Applications from Corporations: Total for All NAICS in Maryland                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAME     | Business Applications from Corporations: Total for All NAICS in Maine                             | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAMI     | Business Applications from Corporations: Total for All NAICS in Michigan                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAMN     | Business Applications from Corporations: Total for All NAICS in Minnesota                         | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAMO     | Business Applications from Corporations: Total for All NAICS in Missouri                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAMS     | Business Applications from Corporations: Total for All NAICS in Mississippi                       | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAMT     | Business Applications from Corporations: Total for All NAICS in Montana                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAMW     | Business Applications from Corporations: Total for All NAICS in Midwest Census Region             | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSANC     | Business Applications from Corporations: Total for All NAICS in North Carolina                    | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAND     | Business Applications from Corporations: Total for All NAICS in North Dakota                      | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSANE     | Business Applications from Corporations: Total for All NAICS in Nebraska                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSANH     | Business Applications from Corporations: Total for All NAICS in New Hampshire                     | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSANJ     | Business Applications from Corporations: Total for All NAICS in New Jersey                        | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSANM     | Business Applications from Corporations: Total for All NAICS in New Mexico                        | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSANO     | Business Applications from Corporations: Total for All NAICS in Northeast Census Region           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSANV     | Business Applications from Corporations: Total for All NAICS in Nevada                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSANY     | Business Applications from Corporations: Total for All NAICS in New York                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAOH     | Business Applications from Corporations: Total for All NAICS in Ohio                              | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAOK     | Business Applications from Corporations: Total for All NAICS in Oklahoma                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAOR     | Business Applications from Corporations: Total for All NAICS in Oregon                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAPA     | Business Applications from Corporations: Total for All NAICS in Pennsylvania                      | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSARI     | Business Applications from Corporations: Total for All NAICS in Rhode Island                      | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSASC     | Business Applications from Corporations: Total for All NAICS in South Carolina                    | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSASD     | Business Applications from Corporations: Total for All NAICS in South Dakota                      | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSASO     | Business Applications from Corporations: Total for All NAICS in South Census Region               | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSATN     | Business Applications from Corporations: Total for All NAICS in Tennessee                         | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSATX     | Business Applications from Corporations: Total for All NAICS in Texas                             | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAUS     | Business Applications from Corporations: Total for All NAICS in the United States                 | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAUT     | Business Applications from Corporations: Total for All NAICS in Utah                              | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAVA     | Business Applications from Corporations: Total for All NAICS in Virginia                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAVT     | Business Applications from Corporations: Total for All NAICS in Vermont                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAWA     | Business Applications from Corporations: Total for All NAICS in Washington                        | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAWE     | Business Applications from Corporations: Total for All NAICS in West Census Region                | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAWI     | Business Applications from Corporations: Total for All NAICS in Wisconsin                         | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAWV     | Business Applications from Corporations: Total for All NAICS in West Virginia                     | 2004-07-01          | 2022-08-01        |
+| BACBATOTALNSAWY     | Business Applications from Corporations: Total for All NAICS in Wyoming                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAAK      | Business Applications from Corporations: Total for All NAICS in Alaska                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAAL      | Business Applications from Corporations: Total for All NAICS in Alabama                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAAR      | Business Applications from Corporations: Total for All NAICS in Arkansas                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAAZ      | Business Applications from Corporations: Total for All NAICS in Arizona                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSACA      | Business Applications from Corporations: Total for All NAICS in California                        | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSACO      | Business Applications from Corporations: Total for All NAICS in Colorado                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSACT      | Business Applications from Corporations: Total for All NAICS in Connecticut                       | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSADC      | Business Applications from Corporations: Total for All NAICS in District of Columbia              | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSADE      | Business Applications from Corporations: Total for All NAICS in Delaware                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAFL      | Business Applications from Corporations: Total for All NAICS in Florida                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAGA      | Business Applications from Corporations: Total for All NAICS in Georgia                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAHI      | Business Applications from Corporations: Total for All NAICS in Hawaii                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAIA      | Business Applications from Corporations: Total for All NAICS in Iowa                              | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAID      | Business Applications from Corporations: Total for All NAICS in Idaho                             | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAIL      | Business Applications from Corporations: Total for All NAICS in Illinois                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAIN      | Business Applications from Corporations: Total for All NAICS in Indiana                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAKS      | Business Applications from Corporations: Total for All NAICS in Kansas                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAKY      | Business Applications from Corporations: Total for All NAICS in Kentucky                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSALA      | Business Applications from Corporations: Total for All NAICS in Louisiana                         | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAMA      | Business Applications from Corporations: Total for All NAICS in Massachusetts                     | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAMD      | Business Applications from Corporations: Total for All NAICS in Maryland                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAME      | Business Applications from Corporations: Total for All NAICS in Maine                             | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAMI      | Business Applications from Corporations: Total for All NAICS in Michigan                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAMN      | Business Applications from Corporations: Total for All NAICS in Minnesota                         | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAMO      | Business Applications from Corporations: Total for All NAICS in Missouri                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAMS      | Business Applications from Corporations: Total for All NAICS in Mississippi                       | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAMT      | Business Applications from Corporations: Total for All NAICS in Montana                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAMW      | Business Applications from Corporations: Total for All NAICS in Midwest Census Region             | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSANC      | Business Applications from Corporations: Total for All NAICS in North Carolina                    | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAND      | Business Applications from Corporations: Total for All NAICS in North Dakota                      | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSANE      | Business Applications from Corporations: Total for All NAICS in Nebraska                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSANH      | Business Applications from Corporations: Total for All NAICS in New Hampshire                     | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSANJ      | Business Applications from Corporations: Total for All NAICS in New Jersey                        | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSANM      | Business Applications from Corporations: Total for All NAICS in New Mexico                        | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSANO      | Business Applications from Corporations: Total for All NAICS in Northeast Census Region           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSANV      | Business Applications from Corporations: Total for All NAICS in Nevada                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSANY      | Business Applications from Corporations: Total for All NAICS in New York                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAOH      | Business Applications from Corporations: Total for All NAICS in Ohio                              | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAOK      | Business Applications from Corporations: Total for All NAICS in Oklahoma                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAOR      | Business Applications from Corporations: Total for All NAICS in Oregon                            | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAPA      | Business Applications from Corporations: Total for All NAICS in Pennsylvania                      | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSARI      | Business Applications from Corporations: Total for All NAICS in Rhode Island                      | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSASC      | Business Applications from Corporations: Total for All NAICS in South Carolina                    | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSASD      | Business Applications from Corporations: Total for All NAICS in South Dakota                      | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSASO      | Business Applications from Corporations: Total for All NAICS in South Census Region               | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSATN      | Business Applications from Corporations: Total for All NAICS in Tennessee                         | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSATX      | Business Applications from Corporations: Total for All NAICS in Texas                             | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAUS      | Business Applications from Corporations: Total for All NAICS in the United States                 | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAUT      | Business Applications from Corporations: Total for All NAICS in Utah                              | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAVA      | Business Applications from Corporations: Total for All NAICS in Virginia                          | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAVT      | Business Applications from Corporations: Total for All NAICS in Vermont                           | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAWA      | Business Applications from Corporations: Total for All NAICS in Washington                        | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAWE      | Business Applications from Corporations: Total for All NAICS in West Census Region                | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAWI      | Business Applications from Corporations: Total for All NAICS in Wisconsin                         | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAWV      | Business Applications from Corporations: Total for All NAICS in West Virginia                     | 2004-07-01          | 2022-08-01        |
+| BACBATOTALSAWY      | Business Applications from Corporations: Total for All NAICS in Wyoming                           | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS11NSAUS   | High-Propensity Business Applications: Agriculture in the United States                           | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS11SAUS    | High-Propensity Business Applications: Agriculture in the United States                           | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS21NSAUS   | High-Propensity Business Applications: Mining in the United States                                | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS21SAUS    | High-Propensity Business Applications: Mining in the United States                                | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS22NSAUS   | High-Propensity Business Applications: Utilities in the United States                             | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS22SAUS    | High-Propensity Business Applications: Utilities in the United States                             | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS23NSAUS   | High-Propensity Business Applications: Construction in the United States                          | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS23SAUS    | High-Propensity Business Applications: Construction in the United States                          | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS42NSAUS   | High-Propensity Business Applications: Wholesale Trade in the United States                       | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS42SAUS    | High-Propensity Business Applications: Wholesale Trade in the United States                       | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS51NSAUS   | High-Propensity Business Applications: Information in the United States                           | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS51SAUS    | High-Propensity Business Applications: Information in the United States                           | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS52NSAUS   | High-Propensity Business Applications: Finance and Insurance in the United States                 | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS52SAUS    | High-Propensity Business Applications: Finance and Insurance in the United States                 | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS53NSAUS   | High-Propensity Business Applications: Real Estate in the United States                           | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS53SAUS    | High-Propensity Business Applications: Real Estate in the United States                           | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS54NSAUS   | High-Propensity Business Applications: Professional Services in the United States                 | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS54SAUS    | High-Propensity Business Applications: Professional Services in the United States                 | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS55NSAUS   | High-Propensity Business Applications: Management of Companies in the United States               | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS55SAUS    | High-Propensity Business Applications: Management of Companies in the United States               | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS56NSAUS   | High-Propensity Business Applications: Administrative and Support in the United States            | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS56SAUS    | High-Propensity Business Applications: Administrative and Support in the United States            | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS61NSAUS   | High-Propensity Business Applications: Educational Services in the United States                  | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS61SAUS    | High-Propensity Business Applications: Educational Services in the United States                  | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS62NSAUS   | High-Propensity Business Applications: Health Care and Social Assistance in the United States     | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS62SAUS    | High-Propensity Business Applications: Health Care and Social Assistance in the United States     | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS71NSAUS   | High-Propensity Business Applications: Arts and Entertainment in the United States                | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS71SAUS    | High-Propensity Business Applications: Arts and Entertainment in the United States                | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS72NSAUS   | High-Propensity Business Applications: Accommodation and Food Services in the United States       | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS72SAUS    | High-Propensity Business Applications: Accommodation and Food Services in the United States       | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS81NSAUS   | High-Propensity Business Applications: Other Services in the United States                        | 2004-07-01          | 2022-08-01        |
+| BAHBANAICS81SAUS    | High-Propensity Business Applications: Other Services in the United States                        | 2004-07-01          | 2022-08-01        |
+| BAHBANAICSMNFNSAUS  | High-Propensity Business Applications: Manufacturing in the United States                         | 2004-07-01          | 2022-08-01        |
+| BAHBANAICSMNFSAUS   | High-Propensity Business Applications: Manufacturing in the United States                         | 2004-07-01          | 2022-08-01        |
+| BAHBANAICSRETNSAUS  | High-Propensity Business Applications: Retail Trade in the United States                          | 2004-07-01          | 2022-08-01        |
+| BAHBANAICSRETSAUS   | High-Propensity Business Applications: Retail Trade in the United States                          | 2004-07-01          | 2022-08-01        |
+| BAHBANAICSTWNSAUS   | High-Propensity Business Applications: Transportation and Warehousing in the United States        | 2004-07-01          | 2022-08-01        |
+| BAHBANAICSTWSAUS    | High-Propensity Business Applications: Transportation and Warehousing in the United States        | 2004-07-01          | 2022-08-01        |
+| BAHBANONAICSNSAUS   | High-Propensity Business Applications: No NAICS Assigned in the United States                     | 2004-07-01          | 2022-08-01        |
+| BAHBANONAICSSAUS    | High-Propensity Business Applications: No NAICS Assigned in the United States                     | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAAK     | High-Propensity Business Applications: Total for All NAICS in Alaska                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAAL     | High-Propensity Business Applications: Total for All NAICS in Alabama                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAAR     | High-Propensity Business Applications: Total for All NAICS in Arkansas                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAAZ     | High-Propensity Business Applications: Total for All NAICS in Arizona                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSACA     | High-Propensity Business Applications: Total for All NAICS in California                          | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSACO     | High-Propensity Business Applications: Total for All NAICS in Colorado                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSACT     | High-Propensity Business Applications: Total for All NAICS in Connecticut                         | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSADC     | High-Propensity Business Applications: Total for All NAICS in District of Columbia                | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSADE     | High-Propensity Business Applications: Total for All NAICS in Delaware                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAFL     | High-Propensity Business Applications: Total for All NAICS in Florida                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAGA     | High-Propensity Business Applications: Total for All NAICS in Georgia                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAHI     | High-Propensity Business Applications: Total for All NAICS in Hawaii                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAIA     | High-Propensity Business Applications: Total for All NAICS in Iowa                                | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAID     | High-Propensity Business Applications: Total for All NAICS in Idaho                               | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAIL     | High-Propensity Business Applications: Total for All NAICS in Illinois                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAIN     | High-Propensity Business Applications: Total for All NAICS in Indiana                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAKS     | High-Propensity Business Applications: Total for All NAICS in Kansas                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAKY     | High-Propensity Business Applications: Total for All NAICS in Kentucky                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSALA     | High-Propensity Business Applications: Total for All NAICS in Louisiana                           | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAMA     | High-Propensity Business Applications: Total for All NAICS in Massachusetts                       | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAMD     | High-Propensity Business Applications: Total for All NAICS in Maryland                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAME     | High-Propensity Business Applications: Total for All NAICS in Maine                               | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAMI     | High-Propensity Business Applications: Total for All NAICS in Michigan                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAMN     | High-Propensity Business Applications: Total for All NAICS in Minnesota                           | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAMO     | High-Propensity Business Applications: Total for All NAICS in Missouri                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAMS     | High-Propensity Business Applications: Total for All NAICS in Mississippi                         | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAMT     | High-Propensity Business Applications: Total for All NAICS in Montana                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAMW     | High-Propensity Business Applications: Total for All NAICS in Midwest Census Region               | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSANC     | High-Propensity Business Applications: Total for All NAICS in North Carolina                      | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAND     | High-Propensity Business Applications: Total for All NAICS in North Dakota                        | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSANE     | High-Propensity Business Applications: Total for All NAICS in Nebraska                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSANH     | High-Propensity Business Applications: Total for All NAICS in New Hampshire                       | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSANJ     | High-Propensity Business Applications: Total for All NAICS in New Jersey                          | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSANM     | High-Propensity Business Applications: Total for All NAICS in New Mexico                          | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSANO     | High-Propensity Business Applications: Total for All NAICS in Northeast Census Region             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSANV     | High-Propensity Business Applications: Total for All NAICS in Nevada                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSANY     | High-Propensity Business Applications: Total for All NAICS in New York                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAOH     | High-Propensity Business Applications: Total for All NAICS in Ohio                                | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAOK     | High-Propensity Business Applications: Total for All NAICS in Oklahoma                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAOR     | High-Propensity Business Applications: Total for All NAICS in Oregon                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAPA     | High-Propensity Business Applications: Total for All NAICS in Pennsylvania                        | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSARI     | High-Propensity Business Applications: Total for All NAICS in Rhode Island                        | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSASC     | High-Propensity Business Applications: Total for All NAICS in South Carolina                      | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSASD     | High-Propensity Business Applications: Total for All NAICS in South Dakota                        | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSASO     | High-Propensity Business Applications: Total for All NAICS in South Census Region                 | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSATN     | High-Propensity Business Applications: Total for All NAICS in Tennessee                           | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSATX     | High-Propensity Business Applications: Total for All NAICS in Texas                               | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAUS     | High-Propensity Business Applications: Total for All NAICS in the United States                   | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAUT     | High-Propensity Business Applications: Total for All NAICS in Utah                                | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAVA     | High-Propensity Business Applications: Total for All NAICS in Virginia                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAVT     | High-Propensity Business Applications: Total for All NAICS in Vermont                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAWA     | High-Propensity Business Applications: Total for All NAICS in Washington                          | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAWE     | High-Propensity Business Applications: Total for All NAICS in West Census Region                  | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAWI     | High-Propensity Business Applications: Total for All NAICS in Wisconsin                           | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAWV     | High-Propensity Business Applications: Total for All NAICS in West Virginia                       | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALNSAWY     | High-Propensity Business Applications: Total for All NAICS in Wyoming                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAAK      | High-Propensity Business Applications: Total for All NAICS in Alaska                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAAL      | High-Propensity Business Applications: Total for All NAICS in Alabama                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAAR      | High-Propensity Business Applications: Total for All NAICS in Arkansas                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAAZ      | High-Propensity Business Applications: Total for All NAICS in Arizona                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSACA      | High-Propensity Business Applications: Total for All NAICS in California                          | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSACO      | High-Propensity Business Applications: Total for All NAICS in Colorado                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSACT      | High-Propensity Business Applications: Total for All NAICS in Connecticut                         | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSADC      | High-Propensity Business Applications: Total for All NAICS in District of Columbia                | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSADE      | High-Propensity Business Applications: Total for All NAICS in Delaware                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAFL      | High-Propensity Business Applications: Total for All NAICS in Florida                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAGA      | High-Propensity Business Applications: Total for All NAICS in Georgia                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAHI      | High-Propensity Business Applications: Total for All NAICS in Hawaii                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAIA      | High-Propensity Business Applications: Total for All NAICS in Iowa                                | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAID      | High-Propensity Business Applications: Total for All NAICS in Idaho                               | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAIL      | High-Propensity Business Applications: Total for All NAICS in Illinois                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAIN      | High-Propensity Business Applications: Total for All NAICS in Indiana                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAKS      | High-Propensity Business Applications: Total for All NAICS in Kansas                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAKY      | High-Propensity Business Applications: Total for All NAICS in Kentucky                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSALA      | High-Propensity Business Applications: Total for All NAICS in Louisiana                           | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAMA      | High-Propensity Business Applications: Total for All NAICS in Massachusetts                       | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAMD      | High-Propensity Business Applications: Total for All NAICS in Maryland                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAME      | High-Propensity Business Applications: Total for All NAICS in Maine                               | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAMI      | High-Propensity Business Applications: Total for All NAICS in Michigan                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAMN      | High-Propensity Business Applications: Total for All NAICS in Minnesota                           | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAMO      | High-Propensity Business Applications: Total for All NAICS in Missouri                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAMS      | High-Propensity Business Applications: Total for All NAICS in Mississippi                         | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAMT      | High-Propensity Business Applications: Total for All NAICS in Montana                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAMW      | High-Propensity Business Applications: Total for All NAICS in Midwest Census Region               | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSANC      | High-Propensity Business Applications: Total for All NAICS in North Carolina                      | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAND      | High-Propensity Business Applications: Total for All NAICS in North Dakota                        | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSANE      | High-Propensity Business Applications: Total for All NAICS in Nebraska                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSANH      | High-Propensity Business Applications: Total for All NAICS in New Hampshire                       | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSANJ      | High-Propensity Business Applications: Total for All NAICS in New Jersey                          | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSANM      | High-Propensity Business Applications: Total for All NAICS in New Mexico                          | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSANO      | High-Propensity Business Applications: Total for All NAICS in Northeast Census Region             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSANV      | High-Propensity Business Applications: Total for All NAICS in Nevada                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSANY      | High-Propensity Business Applications: Total for All NAICS in New York                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAOH      | High-Propensity Business Applications: Total for All NAICS in Ohio                                | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAOK      | High-Propensity Business Applications: Total for All NAICS in Oklahoma                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAOR      | High-Propensity Business Applications: Total for All NAICS in Oregon                              | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAPA      | High-Propensity Business Applications: Total for All NAICS in Pennsylvania                        | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSARI      | High-Propensity Business Applications: Total for All NAICS in Rhode Island                        | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSASC      | High-Propensity Business Applications: Total for All NAICS in South Carolina                      | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSASD      | High-Propensity Business Applications: Total for All NAICS in South Dakota                        | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSASO      | High-Propensity Business Applications: Total for All NAICS in South Census Region                 | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSATN      | High-Propensity Business Applications: Total for All NAICS in Tennessee                           | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSATX      | High-Propensity Business Applications: Total for All NAICS in Texas                               | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAUS      | High-Propensity Business Applications: Total for All NAICS in the United States                   | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAUT      | High-Propensity Business Applications: Total for All NAICS in Utah                                | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAVA      | High-Propensity Business Applications: Total for All NAICS in Virginia                            | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAVT      | High-Propensity Business Applications: Total for All NAICS in Vermont                             | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAWA      | High-Propensity Business Applications: Total for All NAICS in Washington                          | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAWE      | High-Propensity Business Applications: Total for All NAICS in West Census Region                  | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAWI      | High-Propensity Business Applications: Total for All NAICS in Wisconsin                           | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAWV      | High-Propensity Business Applications: Total for All NAICS in West Virginia                       | 2004-07-01          | 2022-08-01        |
+| BAHBATOTALSAWY      | High-Propensity Business Applications: Total for All NAICS in Wyoming                             | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS11NSAUS   | Business Applications with Planned Wages: Agriculture in the United States                        | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS11SAUS    | Business Applications with Planned Wages: Agriculture in the United States                        | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS21NSAUS   | Business Applications with Planned Wages: Mining in the United States                             | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS21SAUS    | Business Applications with Planned Wages: Mining in the United States                             | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS22NSAUS   | Business Applications with Planned Wages: Utilities in the United States                          | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS22SAUS    | Business Applications with Planned Wages: Utilities in the United States                          | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS23NSAUS   | Business Applications with Planned Wages: Construction in the United States                       | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS23SAUS    | Business Applications with Planned Wages: Construction in the United States                       | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS42NSAUS   | Business Applications with Planned Wages: Wholesale Trade in the United States                    | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS42SAUS    | Business Applications with Planned Wages: Wholesale Trade in the United States                    | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS51NSAUS   | Business Applications with Planned Wages: Information in the United States                        | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS51SAUS    | Business Applications with Planned Wages: Information in the United States                        | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS52NSAUS   | Business Applications with Planned Wages: Finance and Insurance in the United States              | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS52SAUS    | Business Applications with Planned Wages: Finance and Insurance in the United States              | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS53NSAUS   | Business Applications with Planned Wages: Real Estate in the United States                        | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS53SAUS    | Business Applications with Planned Wages: Real Estate in the United States                        | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS54NSAUS   | Business Applications with Planned Wages: Professional Services in the United States              | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS54SAUS    | Business Applications with Planned Wages: Professional Services in the United States              | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS55NSAUS   | Business Applications with Planned Wages: Management of Companies in the United States            | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS55SAUS    | Business Applications with Planned Wages: Management of Companies in the United States            | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS56NSAUS   | Business Applications with Planned Wages: Administrative and Support in the United States         | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS56SAUS    | Business Applications with Planned Wages: Administrative and Support in the United States         | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS61NSAUS   | Business Applications with Planned Wages: Educational Services in the United States               | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS61SAUS    | Business Applications with Planned Wages: Educational Services in the United States               | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS62NSAUS   | Business Applications with Planned Wages: Health Care and Social Assistance in the United States  | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS62SAUS    | Business Applications with Planned Wages: Health Care and Social Assistance in the United States  | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS71NSAUS   | Business Applications with Planned Wages: Arts and Entertainment in the United States             | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS71SAUS    | Business Applications with Planned Wages: Arts and Entertainment in the United States             | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS72NSAUS   | Business Applications with Planned Wages: Accommodation and Food Services in the United States    | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS72SAUS    | Business Applications with Planned Wages: Accommodation and Food Services in the United States    | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS81NSAUS   | Business Applications with Planned Wages: Other Services in the United States                     | 2004-07-01          | 2022-08-01        |
+| BAWBANAICS81SAUS    | Business Applications with Planned Wages: Other Services in the United States                     | 2004-07-01          | 2022-08-01        |
+| BAWBANAICSMNFNSAUS  | Business Applications with Planned Wages: Manufacturing in the United States                      | 2004-07-01          | 2022-08-01        |
+| BAWBANAICSMNFSAUS   | Business Applications with Planned Wages: Manufacturing in the United States                      | 2004-07-01          | 2022-08-01        |
+| BAWBANAICSRETNSAUS  | Business Applications with Planned Wages: Retail Trade in the United States                       | 2004-07-01          | 2022-08-01        |
+| BAWBANAICSRETSAUS   | Business Applications with Planned Wages: Retail Trade in the United States                       | 2004-07-01          | 2022-08-01        |
+| BAWBANAICSTWNSAUS   | Business Applications with Planned Wages: Transportation and Warehousing in the United States     | 2004-07-01          | 2022-08-01        |
+| BAWBANAICSTWSAUS    | Business Applications with Planned Wages: Transportation and Warehousing in the United States     | 2004-07-01          | 2022-08-01        |
+| BAWBANONAICSNSAUS   | Business Applications with Planned Wages: No NAICS Assigned in the United States                  | 2004-07-01          | 2022-08-01        |
+| BAWBANONAICSSAUS    | Business Applications with Planned Wages: No NAICS Assigned in the United States                  | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAAK     | Business Applications with Planned Wages: Total for All NAICS in Alaska                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAAL     | Business Applications with Planned Wages: Total for All NAICS in Alabama                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAAR     | Business Applications with Planned Wages: Total for All NAICS in Arkansas                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAAZ     | Business Applications with Planned Wages: Total for All NAICS in Arizona                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSACA     | Business Applications with Planned Wages: Total for All NAICS in California                       | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSACO     | Business Applications with Planned Wages: Total for All NAICS in Colorado                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSACT     | Business Applications with Planned Wages: Total for All NAICS in Connecticut                      | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSADC     | Business Applications with Planned Wages: Total for All NAICS in District of Columbia             | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSADE     | Business Applications with Planned Wages: Total for All NAICS in Delaware                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAFL     | Business Applications with Planned Wages: Total for All NAICS in Florida                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAGA     | Business Applications with Planned Wages: Total for All NAICS in Georgia                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAHI     | Business Applications with Planned Wages: Total for All NAICS in Hawaii                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAIA     | Business Applications with Planned Wages: Total for All NAICS in Iowa                             | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAID     | Business Applications with Planned Wages: Total for All NAICS in Idaho                            | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAIL     | Business Applications with Planned Wages: Total for All NAICS in Illinois                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAIN     | Business Applications with Planned Wages: Total for All NAICS in Indiana                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAKS     | Business Applications with Planned Wages: Total for All NAICS in Kansas                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAKY     | Business Applications with Planned Wages: Total for All NAICS in Kentucky                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSALA     | Business Applications with Planned Wages: Total for All NAICS in Louisiana                        | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAMA     | Business Applications with Planned Wages: Total for All NAICS in Massachusetts                    | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAMD     | Business Applications with Planned Wages: Total for All NAICS in Maryland                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAME     | Business Applications with Planned Wages: Total for All NAICS in Maine                            | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAMI     | Business Applications with Planned Wages: Total for All NAICS in Michigan                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAMN     | Business Applications with Planned Wages: Total for All NAICS in Minnesota                        | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAMO     | Business Applications with Planned Wages: Total for All NAICS in Missouri                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAMS     | Business Applications with Planned Wages: Total for All NAICS in Mississippi                      | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAMT     | Business Applications with Planned Wages: Total for All NAICS in Montana                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAMW     | Business Applications with Planned Wages: Total for All NAICS in Midwest Census Region            | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSANC     | Business Applications with Planned Wages: Total for All NAICS in North Carolina                   | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAND     | Business Applications with Planned Wages: Total for All NAICS in North Dakota                     | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSANE     | Business Applications with Planned Wages: Total for All NAICS in Nebraska                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSANH     | Business Applications with Planned Wages: Total for All NAICS in New Hampshire                    | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSANJ     | Business Applications with Planned Wages: Total for All NAICS in New Jersey                       | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSANM     | Business Applications with Planned Wages: Total for All NAICS in New Mexico                       | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSANO     | Business Applications with Planned Wages: Total for All NAICS in Northeast Census Region          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSANV     | Business Applications with Planned Wages: Total for All NAICS in Nevada                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSANY     | Business Applications with Planned Wages: Total for All NAICS in New York                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAOH     | Business Applications with Planned Wages: Total for All NAICS in Ohio                             | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAOK     | Business Applications with Planned Wages: Total for All NAICS in Oklahoma                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAOR     | Business Applications with Planned Wages: Total for All NAICS in Oregon                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAPA     | Business Applications with Planned Wages: Total for All NAICS in Pennsylvania                     | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSARI     | Business Applications with Planned Wages: Total for All NAICS in Rhode Island                     | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSASC     | Business Applications with Planned Wages: Total for All NAICS in South Carolina                   | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSASD     | Business Applications with Planned Wages: Total for All NAICS in South Dakota                     | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSASO     | Business Applications with Planned Wages: Total for All NAICS in South Census Region              | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSATN     | Business Applications with Planned Wages: Total for All NAICS in Tennessee                        | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSATX     | Business Applications with Planned Wages: Total for All NAICS in Texas                            | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAUS     | Business Applications with Planned Wages: Total for All NAICS in the United States                | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAUT     | Business Applications with Planned Wages: Total for All NAICS in Utah                             | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAVA     | Business Applications with Planned Wages: Total for All NAICS in Virginia                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAVT     | Business Applications with Planned Wages: Total for All NAICS in Vermont                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAWA     | Business Applications with Planned Wages: Total for All NAICS in Washington                       | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAWE     | Business Applications with Planned Wages: Total for All NAICS in West Census Region               | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAWI     | Business Applications with Planned Wages: Total for All NAICS in Wisconsin                        | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAWV     | Business Applications with Planned Wages: Total for All NAICS in West Virginia                    | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALNSAWY     | Business Applications with Planned Wages: Total for All NAICS in Wyoming                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAAK      | Business Applications with Planned Wages: Total for All NAICS in Alaska                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAAL      | Business Applications with Planned Wages: Total for All NAICS in Alabama                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAAR      | Business Applications with Planned Wages: Total for All NAICS in Arkansas                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAAZ      | Business Applications with Planned Wages: Total for All NAICS in Arizona                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSACA      | Business Applications with Planned Wages: Total for All NAICS in California                       | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSACO      | Business Applications with Planned Wages: Total for All NAICS in Colorado                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSACT      | Business Applications with Planned Wages: Total for All NAICS in Connecticut                      | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSADC      | Business Applications with Planned Wages: Total for All NAICS in District of Columbia             | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSADE      | Business Applications with Planned Wages: Total for All NAICS in Delaware                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAFL      | Business Applications with Planned Wages: Total for All NAICS in Florida                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAGA      | Business Applications with Planned Wages: Total for All NAICS in Georgia                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAHI      | Business Applications with Planned Wages: Total for All NAICS in Hawaii                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAIA      | Business Applications with Planned Wages: Total for All NAICS in Iowa                             | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAID      | Business Applications with Planned Wages: Total for All NAICS in Idaho                            | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAIL      | Business Applications with Planned Wages: Total for All NAICS in Illinois                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAIN      | Business Applications with Planned Wages: Total for All NAICS in Indiana                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAKS      | Business Applications with Planned Wages: Total for All NAICS in Kansas                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAKY      | Business Applications with Planned Wages: Total for All NAICS in Kentucky                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSALA      | Business Applications with Planned Wages: Total for All NAICS in Louisiana                        | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAMA      | Business Applications with Planned Wages: Total for All NAICS in Massachusetts                    | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAMD      | Business Applications with Planned Wages: Total for All NAICS in Maryland                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAME      | Business Applications with Planned Wages: Total for All NAICS in Maine                            | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAMI      | Business Applications with Planned Wages: Total for All NAICS in Michigan                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAMN      | Business Applications with Planned Wages: Total for All NAICS in Minnesota                        | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAMO      | Business Applications with Planned Wages: Total for All NAICS in Missouri                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAMS      | Business Applications with Planned Wages: Total for All NAICS in Mississippi                      | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAMT      | Business Applications with Planned Wages: Total for All NAICS in Montana                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAMW      | Business Applications with Planned Wages: Total for All NAICS in Midwest Census Region            | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSANC      | Business Applications with Planned Wages: Total for All NAICS in North Carolina                   | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAND      | Business Applications with Planned Wages: Total for All NAICS in North Dakota                     | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSANE      | Business Applications with Planned Wages: Total for All NAICS in Nebraska                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSANH      | Business Applications with Planned Wages: Total for All NAICS in New Hampshire                    | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSANJ      | Business Applications with Planned Wages: Total for All NAICS in New Jersey                       | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSANM      | Business Applications with Planned Wages: Total for All NAICS in New Mexico                       | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSANO      | Business Applications with Planned Wages: Total for All NAICS in Northeast Census Region          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSANV      | Business Applications with Planned Wages: Total for All NAICS in Nevada                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSANY      | Business Applications with Planned Wages: Total for All NAICS in New York                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAOH      | Business Applications with Planned Wages: Total for All NAICS in Ohio                             | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAOK      | Business Applications with Planned Wages: Total for All NAICS in Oklahoma                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAOR      | Business Applications with Planned Wages: Total for All NAICS in Oregon                           | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAPA      | Business Applications with Planned Wages: Total for All NAICS in Pennsylvania                     | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSARI      | Business Applications with Planned Wages: Total for All NAICS in Rhode Island                     | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSASC      | Business Applications with Planned Wages: Total for All NAICS in South Carolina                   | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSASD      | Business Applications with Planned Wages: Total for All NAICS in South Dakota                     | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSASO      | Business Applications with Planned Wages: Total for All NAICS in South Census Region              | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSATN      | Business Applications with Planned Wages: Total for All NAICS in Tennessee                        | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSATX      | Business Applications with Planned Wages: Total for All NAICS in Texas                            | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAUS      | Business Applications with Planned Wages: Total for All NAICS in the United States                | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAUT      | Business Applications with Planned Wages: Total for All NAICS in Utah                             | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAVA      | Business Applications with Planned Wages: Total for All NAICS in Virginia                         | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAVT      | Business Applications with Planned Wages: Total for All NAICS in Vermont                          | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAWA      | Business Applications with Planned Wages: Total for All NAICS in Washington                       | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAWE      | Business Applications with Planned Wages: Total for All NAICS in West Census Region               | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAWI      | Business Applications with Planned Wages: Total for All NAICS in Wisconsin                        | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAWV      | Business Applications with Planned Wages: Total for All NAICS in West Virginia                    | 2004-07-01          | 2022-08-01        |
+| BAWBATOTALSAWY      | Business Applications with Planned Wages: Total for All NAICS in Wyoming                          | 2004-07-01          | 2022-08-01        |
 | BELPERMITAISMEI     | Permits Issued for Dwelling in Belgium                                                            | 1968-01-01          | 2021-01-01        |
 | BELPERMITMISMEI     | Permits Issued for Dwelling in Belgium                                                            | 1968-01-01          | 2022-04-01        |
 | BELPERMITQISMEI     | Permits Issued for Dwelling in Belgium                                                            | 1968-01-01          | 2022-01-01        |

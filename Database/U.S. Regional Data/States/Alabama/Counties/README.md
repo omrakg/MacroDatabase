@@ -9,8 +9,8 @@
 | Lauderdale County, AL |               146 |
 | Perry County, AL      |                89 |
 | Pike County, AL       |                90 |
-| Talladega County, AL  |               146 |
-| Clarke County, AL     |                 0 |
+| Talladega County, AL  |                 0 |
+| Clarke County, AL     |                89 |
 | Franklin County, AL   |                90 |
 | Limestone County, AL  |               147 |
 | Houston County, AL    |               147 |

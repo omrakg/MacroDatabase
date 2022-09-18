@@ -14,7 +14,7 @@
 | Marion County, OR     |               147 |
 | Multnomah County, OR  |               147 |
 | Baker County, OR      |                90 |
-| Hood River County, OR |                 0 |
+| Hood River County, OR |                90 |
 | Benton County, OR     |               147 |
 | Coos County, OR       |               146 |
 | Deschutes County, OR  |               147 |
@@ -29,7 +29,7 @@
 | Lake County, OR       |                89 |
 | Clatsop County, OR    |                90 |
 | Clackamas County, OR  |               147 |
-| Wallowa County, OR    |                90 |
+| Wallowa County, OR    |                 0 |
 | Washington County, OR |               147 |
 | Gilliam County, OR    |                88 |
 | Sherman County, OR    |                87 |

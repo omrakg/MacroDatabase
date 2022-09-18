@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Montgomery County, OH |                 0 |
+| Montgomery County, OH |               147 |
 | Auglaize County, OH   |                90 |
 | Tuscarawas County, OH |               145 |
 | Harrison County, OH   |                90 |
@@ -52,7 +52,7 @@
 | Delaware County, OH   |               147 |
 | Hardin County, OH     |                90 |
 | Champaign County, OH  |                90 |
-| Madison County, OH    |                90 |
+| Madison County, OH    |                 0 |
 | Licking County, OH    |               147 |
 | Clinton County, OH    |                90 |
 | Highland County, OH   |                89 |
@@ -60,7 +60,7 @@
 | Lucas County, OH      |               147 |
 | Noble County, OH      |                90 |
 | Butler County, OH     |               147 |
-| Erie County, OH       |                 0 |
+| Erie County, OH       |               147 |
 | Franklin County, OH   |               147 |
 | Marion County, OH     |               147 |
 | Greene County, OH     |               147 |

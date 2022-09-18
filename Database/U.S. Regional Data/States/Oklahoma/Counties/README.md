@@ -36,7 +36,7 @@
 | Cleveland County, OK    |               147 |
 | Kiowa County, OK        |                88 |
 | Garfield County, OK     |               144 |
-| Muskogee County, OK     |                 0 |
+| Muskogee County, OK     |               147 |
 | Jefferson County, OK    |                87 |
 | Delaware County, OK     |                90 |
 | Harmon County, OK       |                87 |
@@ -59,7 +59,7 @@
 | Pottawatomie County, OK |               147 |
 | Beaver County, OK       |                88 |
 | Woodward County, OK     |                90 |
-| Mayes County, OK        |                90 |
+| Mayes County, OK        |                 0 |
 | Tillman County, OK      |                88 |
 | McCurtain County, OK    |                89 |
 | Latimer County, OK      |                88 |

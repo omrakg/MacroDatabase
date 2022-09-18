@@ -12,21 +12,21 @@
 | CARS132BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Carson City, NV (MSA) | 2004-01-01          | 2022-07-01        |
 | CARS132BPPRIV             | New Private Housing Units Authorized by Building Permits for Carson City, NV (MSA)                    | 2004-01-01          | 2022-07-01        |
 | CARS132BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Carson City, NV (MSA)                    | 2004-01-01          | 2022-07-01        |
-| CARS132GOVT               | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2022-07-01        |
-| CARS132GOVTN              | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2022-07-01        |
-| CARS132LEIH               | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-07-01        |
-| CARS132LEIHN              | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-07-01        |
+| CARS132GOVT               | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2022-08-01        |
+| CARS132GOVTN              | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2022-08-01        |
+| CARS132LEIH               | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-08-01        |
+| CARS132LEIHN              | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2022-08-01        |
 | CARS132LF                 | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-07-01        |
 | CARS132LFN                | Civilian Labor Force in Carson City, NV (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| CARS132MFG                | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-07-01        |
-| CARS132MFGN               | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-07-01        |
-| CARS132NA                 | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-07-01        |
-| CARS132NAN                | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-07-01        |
-| CARS132PBSV               | All Employees: Professional and Business Services in Carson City, NV (MSA)                            | 1990-01-01          | 2022-07-01        |
-| CARS132PBSVN              | All Employees: Professional and Business Services in Carson City, NV (MSA)                            | 1990-01-01          | 2022-07-01        |
+| CARS132MFG                | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-08-01        |
+| CARS132MFGN               | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-08-01        |
+| CARS132NA                 | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-08-01        |
+| CARS132NAN                | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-08-01        |
+| CARS132PBSV               | All Employees: Professional and Business Services in Carson City, NV (MSA)                            | 1990-01-01          | 2022-08-01        |
+| CARS132PBSVN              | All Employees: Professional and Business Services in Carson City, NV (MSA)                            | 1990-01-01          | 2022-08-01        |
 | CARS132PCPI               | Per Capita Personal Income in Carson City, NV (MSA)                                                   | 1969-01-01          | 2020-01-01        |
-| CARS132TRAD               | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-07-01        |
-| CARS132TRADN              | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-07-01        |
+| CARS132TRAD               | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-08-01        |
+| CARS132TRADN              | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2022-08-01        |
 | CARS132UR                 | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | CARS132URN                | Unemployment Rate in Carson City, NV (MSA)                                                            | 1990-01-01          | 2022-07-01        |
 | ENUC161830010             | Total Quarterly Wages in Carson City, NV (MSA)                                                        | 1990-01-01          | 2022-01-01        |
@@ -82,40 +82,40 @@
 | RPPGOOD16180              | Regional Price Parities: Goods for Carson City, NV (MSA)                                              | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH16180          | Regional Price Parities: Services: Other for Carson City, NV (MSA)                                    | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT16180         | Regional Price Parities: Services: Rents for Carson City, NV (MSA)                                    | 2008-01-01          | 2020-01-01        |
-| SMS32161800000000026      | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-04-01          | 2022-07-01        |
+| SMS32161800000000026      | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-04-01          | 2022-08-01        |
 | SMU32161800000000001A     | All Employees: Total Nonfarm in Carson City, NV (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU32161800500000001      | All Employees: Total Private in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-07-01        |
+| SMU32161800500000001      | All Employees: Total Private in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | SMU32161800500000001A     | All Employees: Total Private in Carson City, NV (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU32161800500000001SA    | All Employees: Total Private in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-07-01        |
-| SMU32161800500000002      | Average Weekly Hours of All Employees: Total Private in Carson City, NV (MSA)                         | 2007-01-01          | 2022-07-01        |
+| SMU32161800500000001SA    | All Employees: Total Private in Carson City, NV (MSA)                                                 | 1990-01-01          | 2022-08-01        |
+| SMU32161800500000002      | Average Weekly Hours of All Employees: Total Private in Carson City, NV (MSA)                         | 2007-01-01          | 2022-08-01        |
 | SMU32161800500000002A     | Average Weekly Hours of All Employees: Total Private in Carson City, NV (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU32161800500000003      | Average Hourly Earnings of All Employees: Total Private in Carson City, NV (MSA)                      | 2007-01-01          | 2022-07-01        |
+| SMU32161800500000003      | Average Hourly Earnings of All Employees: Total Private in Carson City, NV (MSA)                      | 2007-01-01          | 2022-08-01        |
 | SMU32161800500000003A     | Average Hourly Earnings of All Employees: Total Private in Carson City, NV (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU32161800500000011      | Average Weekly Earnings of All Employees: Total Private in Carson City, NV (MSA)                      | 2007-01-01          | 2022-07-01        |
+| SMU32161800500000011      | Average Weekly Earnings of All Employees: Total Private in Carson City, NV (MSA)                      | 2007-01-01          | 2022-08-01        |
 | SMU32161800500000011A     | Average Weekly Earnings of All Employees: Total Private in Carson City, NV (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU32161800600000001      | All Employees: Goods Producing in Carson City, NV (MSA)                                               | 1990-01-01          | 2022-07-01        |
+| SMU32161800600000001      | All Employees: Goods Producing in Carson City, NV (MSA)                                               | 1990-01-01          | 2022-08-01        |
 | SMU32161800600000001A     | All Employees: Goods Producing in Carson City, NV (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU32161800600000001SA    | All Employees: Goods Producing in Carson City, NV (MSA)                                               | 1990-01-01          | 2022-07-01        |
-| SMU32161800700000001      | All Employees: Service-Providing in Carson City, NV (MSA)                                             | 1990-01-01          | 2022-07-01        |
+| SMU32161800600000001SA    | All Employees: Goods Producing in Carson City, NV (MSA)                                               | 1990-01-01          | 2022-08-01        |
+| SMU32161800700000001      | All Employees: Service-Providing in Carson City, NV (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU32161800700000001A     | All Employees: Service-Providing in Carson City, NV (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU32161800700000001SA    | All Employees: Service-Providing in Carson City, NV (MSA)                                             | 1990-01-01          | 2022-07-01        |
-| SMU32161800800000001      | All Employees: Private Service Providing in Carson City, NV (MSA)                                     | 1990-01-01          | 2022-07-01        |
+| SMU32161800700000001SA    | All Employees: Service-Providing in Carson City, NV (MSA)                                             | 1990-01-01          | 2022-08-01        |
+| SMU32161800800000001      | All Employees: Private Service Providing in Carson City, NV (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SMU32161800800000001A     | All Employees: Private Service Providing in Carson City, NV (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU32161800800000001SA    | All Employees: Private Service Providing in Carson City, NV (MSA)                                     | 1990-01-01          | 2022-07-01        |
+| SMU32161800800000001SA    | All Employees: Private Service Providing in Carson City, NV (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SMU32161803000000001A     | All Employees: Manufacturing in Carson City, NV (MSA)                                                 | 1990-01-01          | 2021-01-01        |
 | SMU32161804000000001A     | All Employees: Trade, Transportation, and Utilities in Carson City, NV (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU32161804200000001      | All Employees: Retail Trade in Carson City, NV (MSA)                                                  | 1990-01-01          | 2022-07-01        |
+| SMU32161804200000001      | All Employees: Retail Trade in Carson City, NV (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | SMU32161804200000001A     | All Employees: Retail Trade in Carson City, NV (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU32161804200000001SA    | All Employees: Retail Trade in Carson City, NV (MSA)                                                  | 1990-01-01          | 2022-07-01        |
+| SMU32161804200000001SA    | All Employees: Retail Trade in Carson City, NV (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | SMU32161806000000001A     | All Employees: Professional and Business Services in Carson City, NV (MSA)                            | 1990-01-01          | 2021-01-01        |
 | SMU32161807000000001A     | All Employees: Leisure and Hospitality in Carson City, NV (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU32161809000000001A     | All Employees: Government in Carson City, NV (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU32161809091000001      | All Employees: Government: Federal Government in Carson City, NV (MSA)                                | 1990-01-01          | 2022-07-01        |
+| SMU32161809091000001      | All Employees: Government: Federal Government in Carson City, NV (MSA)                                | 1990-01-01          | 2022-08-01        |
 | SMU32161809091000001A     | All Employees: Federal Government in Carson City, NV (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU32161809091000001SA    | All Employees: Government: Federal Government in Carson City, NV (MSA)                                | 1990-01-01          | 2022-07-01        |
-| SMU32161809092000001      | All Employees: Government: State Government in Carson City, NV (MSA)                                  | 1990-01-01          | 2022-07-01        |
+| SMU32161809091000001SA    | All Employees: Government: Federal Government in Carson City, NV (MSA)                                | 1990-01-01          | 2022-08-01        |
+| SMU32161809092000001      | All Employees: Government: State Government in Carson City, NV (MSA)                                  | 1990-01-01          | 2022-08-01        |
 | SMU32161809092000001A     | All Employees: State Government in Carson City, NV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU32161809092000001SA    | All Employees: Government: State Government in Carson City, NV (MSA)                                  | 1990-01-01          | 2022-07-01        |
-| SMU32161809093000001      | All Employees: Government: Local Government in Carson City, NV (MSA)                                  | 1990-01-01          | 2022-07-01        |
+| SMU32161809092000001SA    | All Employees: Government: State Government in Carson City, NV (MSA)                                  | 1990-01-01          | 2022-08-01        |
+| SMU32161809093000001      | All Employees: Government: Local Government in Carson City, NV (MSA)                                  | 1990-01-01          | 2022-08-01        |
 | SMU32161809093000001A     | All Employees: Local Government in Carson City, NV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU32161809093000001SA    | All Employees: Government: Local Government in Carson City, NV (MSA)                                  | 1990-01-01          | 2022-07-01        |
+| SMU32161809093000001SA    | All Employees: Government: Local Government in Carson City, NV (MSA)                                  | 1990-01-01          | 2022-08-01        |

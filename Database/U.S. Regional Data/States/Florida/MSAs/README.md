@@ -3,7 +3,7 @@
 | Port St. Lucie, FL                      |               162 |
 | Cape Coral-Fort Myers, FL               |               169 |
 | Orlando-Kissimmee, FL                   |               247 |
-| Deltona-Daytona Beach-Ormond Beach, FL  |               173 |
+| Deltona-Daytona Beach-Ormond Beach, FL  |                 0 |
 | Jacksonville, FL                        |               215 |
 | Punta Gorda, FL                         |               162 |
 | Lakeland-Winter Haven, FL               |               172 |
@@ -19,7 +19,7 @@
 | Tampa-St. Petersburg-Clearwater, FL     |               275 |
 | Miami-Fort Lauderdale-Pompano Beach, FL |               199 |
 | Gainesville, FL                         |               165 |
-| The Villages, FL                        |                 0 |
+| The Villages, FL                        |                59 |
 | Ocala, FL                               |               162 |
 | Homosassa Springs, FL                   |                59 |
 | Palm Bay-Melbourne-Titusville, FL       |               181 |

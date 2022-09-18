@@ -11,7 +11,7 @@
 | Reading, PA                                 |               176 |
 | Erie, PA                                    |               167 |
 | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |                 0 |
-| Scranton--Wilkes-Barre, PA                  |                 0 |
+| Scranton--Wilkes-Barre, PA                  |               192 |
 | New York-Newark-Jersey City, NY-NJ-PA       |                 0 |
 | Youngstown-Warren-Boardman, OH-PA           |               180 |
 | East Stroudsburg, PA                        |                89 |

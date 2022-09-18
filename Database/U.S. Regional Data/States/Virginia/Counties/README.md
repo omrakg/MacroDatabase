@@ -6,7 +6,7 @@
 | Wythe County, VA                                    |                89 |
 | Franklin County, VA                                 |               146 |
 | Frederick County, VA                                |               137 |
-| Spotsylvania County + Fredericksburg City, VA       |                 0 |
+| Spotsylvania County + Fredericksburg City, VA       |                12 |
 | Westmoreland County, VA                             |                90 |
 | Campbell County + Lynchburg City, VA                |                12 |
 | Campbell County, VA                                 |               136 |
@@ -28,7 +28,7 @@
 | Caroline County, VA                                 |                90 |
 | Rockingham County + Harrisonburg City, VA           |                12 |
 | York County + Poquoson City, VA                     |                12 |
-| Montgomery County + Radford City, VA                |                12 |
+| Montgomery County + Radford City, VA                |                 0 |
 | Petersburg City, VA                                 |                79 |
 | Wise County + Norton City, VA                       |                12 |
 | Buchanan County, VA                                 |                88 |
@@ -66,7 +66,7 @@
 | Washington County, VA                               |               136 |
 | Richmond City, VA                                   |               146 |
 | Carroll County, VA                                  |                80 |
-| Staunton City, VA                                   |                 0 |
+| Staunton City, VA                                   |                79 |
 | Emporia City, VA                                    |                77 |
 | Covington City, VA                                  |                77 |
 | Amherst County, VA                                  |                90 |
@@ -88,7 +88,7 @@
 | Alleghany County + Covington City, VA               |                12 |
 | Franklin City, VA                                   |                79 |
 | Colonial Heights City, VA                           |                77 |
-| Russell County, VA                                  |                89 |
+| Russell County, VA                                  |                 0 |
 | Norfolk City, VA                                    |               145 |
 | Louisa County, VA                                   |                90 |
 | Shenandoah County, VA                               |                90 |
@@ -126,7 +126,7 @@
 | Lunenburg County, VA                                |                88 |
 | Powhatan County, VA                                 |                90 |
 | Bedford City, VA                                    |                23 |
-| Isle of Wight County, VA                            |                 0 |
+| Isle of Wight County, VA                            |                90 |
 | Arlington County, VA                                |               147 |
 | Mathews County, VA                                  |                92 |
 | Pittsylvania County + Danville City, VA             |                12 |
@@ -148,7 +148,7 @@
 | Northampton County, VA                              |                90 |
 | Prince George County + Hopewell City, VA            |                12 |
 | Charles City County, VA                             |                90 |
-| Martinsville City, VA                               |                78 |
+| Martinsville City, VA                               |                 0 |
 | Frederick County + Winchester City, VA              |                12 |
 | Winchester City, VA                                 |                79 |
 | Rockbridge, Buena Vista + Lexington County, VA      |                10 |

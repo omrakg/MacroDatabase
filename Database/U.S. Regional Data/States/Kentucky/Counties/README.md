@@ -11,7 +11,7 @@
 | Taylor County, KY       |                90 |
 | Hickman County, KY      |                87 |
 | Martin County, KY       |                88 |
-| Larue County, KY        |                 0 |
+| Larue County, KY        |                89 |
 | Hardin County, KY       |               147 |
 | Clay County, KY         |                88 |
 | Graves County, KY       |                90 |
@@ -38,7 +38,7 @@
 | Logan County, KY        |                90 |
 | Lyon County, KY         |                90 |
 | Johnson County, KY      |                89 |
-| Hopkins County, KY      |               145 |
+| Hopkins County, KY      |                 0 |
 | Owsley County, KY       |                86 |
 | Wolfe County, KY        |                87 |
 | Laurel County, KY       |               146 |
@@ -71,7 +71,7 @@
 | Trimble County, KY      |                88 |
 | Caldwell County, KY     |                90 |
 | Perry County, KY        |                89 |
-| Bell County, KY         |                 0 |
+| Bell County, KY         |                89 |
 | Warren County, KY       |               147 |
 | McCreary County, KY     |                89 |
 | Grant County, KY        |                90 |
@@ -98,7 +98,7 @@
 | Barren County, KY       |                89 |
 | Breckinridge County, KY |                89 |
 | Henry County, KY        |                90 |
-| Boyd County, KY         |               146 |
+| Boyd County, KY         |                 0 |
 | Knott County, KY        |                87 |
 | Breathitt County, KY    |                89 |
 | Owen County, KY         |                90 |

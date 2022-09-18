@@ -45,7 +45,7 @@
 | Randolph County, IN    |                90 |
 | Boone County, IN       |               146 |
 | Posey County, IN       |                90 |
-| Jay County, IN         |                89 |
+| Jay County, IN         |                 0 |
 | Steuben County, IN     |                89 |
 | Rush County, IN        |                90 |
 | Gibson County, IN      |                90 |
@@ -82,7 +82,7 @@
 | White County, IN       |                90 |
 | Hancock County, IN     |               147 |
 | Fountain County, IN    |                89 |
-| Scott County, IN       |                 0 |
+| Scott County, IN       |                90 |
 | Spencer County, IN     |                89 |
 | St. Joseph County, IN  |               147 |
 | Monroe County, IN      |               147 |

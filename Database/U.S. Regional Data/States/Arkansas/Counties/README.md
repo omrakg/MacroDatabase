@@ -2,7 +2,7 @@
 |-------------------------|-------------------|
 | Calhoun County, AR      |                89 |
 | Craighead County, AR    |               147 |
-| Phillips County, AR     |                88 |
+| Phillips County, AR     |                 0 |
 | Lincoln County, AR      |                87 |
 | Crawford County, AR     |               146 |
 | Miller County, AR       |                89 |
@@ -22,7 +22,7 @@
 | Polk County, AR         |                90 |
 | Clark County, AR        |                90 |
 | Stone County, AR        |                89 |
-| Prairie County, AR      |                 0 |
+| Prairie County, AR      |                89 |
 | Crittenden County, AR   |               146 |
 | Van Buren County, AR    |                89 |
 | Logan County, AR        |                89 |

@@ -26,7 +26,7 @@
 | Pulaski County, GA       |                89 |
 | Turner County, GA        |                90 |
 | Lee County, GA           |                90 |
-| Jasper County, GA        |                90 |
+| Jasper County, GA        |                 0 |
 | Douglas County, GA       |               147 |
 | Whitfield County, GA     |               147 |
 | Effingham County, GA     |               145 |
@@ -42,7 +42,7 @@
 | Talbot County, GA        |                88 |
 | Hancock County, GA       |                88 |
 | Treutlen County, GA      |                88 |
-| Polk County, GA          |                 0 |
+| Polk County, GA          |                90 |
 | Taylor County, GA        |                88 |
 | Charlton County, GA      |                87 |
 | Laurens County, GA       |               146 |
@@ -91,7 +91,7 @@
 | Clarke County, GA        |               147 |
 | Heard County, GA         |                90 |
 | Forsyth County, GA       |               147 |
-| Floyd County, GA         |               147 |
+| Floyd County, GA         |                 0 |
 | Baldwin County, GA       |                90 |
 | Warren County, GA        |                88 |
 | Atkinson County, GA      |                88 |
@@ -136,7 +136,7 @@
 | Lanier County, GA        |                88 |
 | Richmond County, GA      |               146 |
 | Harris County, GA        |                90 |
-| Decatur County, GA       |                 0 |
+| Decatur County, GA       |                89 |
 | Schley County, GA        |                88 |
 | Taliaferro County, GA    |                87 |
 | Ben Hill County, GA      |                90 |
@@ -151,7 +151,7 @@
 | Calhoun County, GA       |                88 |
 | De Kalb County, GA       |               147 |
 | Cook County, GA          |                89 |
-| Butts County, GA         |                90 |
+| Butts County, GA         |                 0 |
 | Twiggs County, GA        |                88 |
 | Union County, GA         |                90 |
 | Peach County, GA         |                90 |

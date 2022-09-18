@@ -30,9 +30,9 @@
 | Anderson County, TN   |               147 |
 | Warren County, TN     |                90 |
 | De Kalb County, TN    |                90 |
-| Grainger County, TN   |                88 |
+| Grainger County, TN   |                 0 |
 | Macon County, TN      |                89 |
-| Hickman County, TN    |                 0 |
+| Hickman County, TN    |                90 |
 | Davidson County, TN   |               146 |
 | Gibson County, TN     |                90 |
 | Wilson County, TN     |               147 |
@@ -92,6 +92,6 @@
 | Carter County, TN     |               146 |
 | Lawrence County, TN   |                89 |
 | Stewart County, TN    |                90 |
-| Hardin County, TN     |                 0 |
+| Hardin County, TN     |                89 |
 | Lauderdale County, TN |                90 |
 | Rhea County, TN       |                90 |

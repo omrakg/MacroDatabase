@@ -36,7 +36,7 @@
 | Grant Parish, LA                |                90 |
 | Evangeline Parish, LA           |                90 |
 | Richland Parish, LA             |                89 |
-| West Baton Rouge Parish, LA     |                 0 |
+| West Baton Rouge Parish, LA     |                89 |
 | Bossier Parish, LA              |               147 |
 | St. Landry Parish, LA           |               146 |
 | East Carroll Parish, LA         |                88 |
@@ -56,7 +56,7 @@
 | St. Martin Parish, LA           |               146 |
 | Jefferson Davis Parish, LA      |                90 |
 | West Feliciana Parish, LA       |                89 |
-| Bienville Parish, LA            |                88 |
+| Bienville Parish, LA            |                 0 |
 | LaFourche Parish, LA            |               147 |
 | Plaquemines Parish, LA          |                89 |
 | Franklin Parish, LA             |                89 |

@@ -16,7 +16,7 @@
 | Iron County, UT       |                90 |
 | Uintah County, UT     |                90 |
 | Sevier County, UT     |                89 |
-| Kane County, UT       |                89 |
+| Kane County, UT       |                 0 |
 | Salt Lake County, UT  |               147 |
 | Juab County, UT       |                89 |
 | Box Elder County, UT  |                90 |

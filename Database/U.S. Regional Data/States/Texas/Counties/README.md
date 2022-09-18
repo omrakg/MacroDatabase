@@ -41,7 +41,7 @@
 | Floyd County, TX         |                89 |
 | Aransas County, TX       |                90 |
 | Bosque County, TX        |                89 |
-| Kent County, TX          |                 0 |
+| Kent County, TX          |                86 |
 | Midland County, TX       |               147 |
 | Grayson County, TX       |               147 |
 | Hemphill County, TX      |                88 |
@@ -77,7 +77,7 @@
 | Carson County, TX        |                88 |
 | Gaines County, TX        |                88 |
 | Travis County, TX        |               147 |
-| Kendall County, TX       |                90 |
+| Kendall County, TX       |                 0 |
 | San Patricio County, TX  |               147 |
 | Nolan County, TX         |                89 |
 | Limestone County, TX     |                88 |
@@ -101,7 +101,7 @@
 | Crosby County, TX        |                87 |
 | Rusk County, TX          |               146 |
 | Howard County, TX        |                90 |
-| Real County, TX          |                 0 |
+| Real County, TX          |                88 |
 | Loving County, TX        |                81 |
 | Leon County, TX          |                89 |
 | Swisher County, TX       |                88 |
@@ -137,7 +137,7 @@
 | Maverick County, TX      |                89 |
 | Bexar County, TX         |               147 |
 | Deaf Smith County, TX    |                89 |
-| Gregg County, TX         |               147 |
+| Gregg County, TX         |                 0 |
 | Burleson County, TX      |                89 |
 | Freestone County, TX     |                90 |
 | San Saba County, TX      |                88 |
@@ -161,7 +161,7 @@
 | Frio County, TX          |                88 |
 | Childress County, TX     |                87 |
 | Gonzales County, TX      |                90 |
-| Archer County, TX        |                 0 |
+| Archer County, TX        |                89 |
 | Ellis County, TX         |               147 |
 | Briscoe County, TX       |                86 |
 | Roberts County, TX       |                88 |
@@ -197,7 +197,7 @@
 | Knox County, TX          |                89 |
 | Duval County, TX         |                88 |
 | Young County, TX         |                90 |
-| Oldham County, TX        |                87 |
+| Oldham County, TX        |                 0 |
 | Menard County, TX        |                87 |
 | Erath County, TX         |                90 |
 | Rockwall County, TX      |               147 |
@@ -221,7 +221,7 @@
 | Rains County, TX         |                89 |
 | Terry County, TX         |                90 |
 | McCulloch County, TX     |                88 |
-| Falls County, TX         |                 0 |
+| Falls County, TX         |                89 |
 | Kenedy County, TX        |                83 |
 | Wheeler County, TX       |                88 |
 | Callahan County, TX      |                89 |

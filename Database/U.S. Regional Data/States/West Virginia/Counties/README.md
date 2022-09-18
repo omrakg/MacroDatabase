@@ -10,7 +10,7 @@
 | Fayette County, WV    |                90 |
 | Pocahontas County, WV |                87 |
 | Logan County, WV      |                90 |
-| Ritchie County, WV    |                 0 |
+| Ritchie County, WV    |                89 |
 | Mineral County, WV    |                89 |
 | Jefferson County, WV  |               146 |
 | Calhoun County, WV    |                87 |
@@ -50,7 +50,7 @@
 | Wayne County, WV      |                90 |
 | Randolph County, WV   |                90 |
 | Nicholas County, WV   |                90 |
-| Upshur County, WV     |                90 |
+| Upshur County, WV     |                 0 |
 | Braxton County, WV    |                88 |
 | Monroe County, WV     |                89 |
 | Gilmer County, WV     |                88 |

@@ -37,11 +37,11 @@
 | Kings County, NY        |               146 |
 | Cayuga County, NY       |               146 |
 | Chemung County, NY      |               147 |
-| St. Lawrence County, NY |               147 |
+| St. Lawrence County, NY |                 0 |
 | Hamilton County, NY     |                89 |
 | Cattaraugus County, NY  |               147 |
 | Franklin County, NY     |               146 |
-| Lewis County, NY        |                 0 |
+| Lewis County, NY        |                89 |
 | Wyoming County, NY      |                90 |
 | Suffolk County, NY      |               147 |
 | Cortland County, NY     |               146 |

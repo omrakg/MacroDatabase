@@ -2,7 +2,7 @@
 |--------------------------|-------------------|
 | Webster County, IA       |                90 |
 | Hardin County, IA        |                90 |
-| Sioux County, IA         |                 0 |
+| Sioux County, IA         |                90 |
 | Johnson County, IA       |               147 |
 | Carroll County, IA       |                90 |
 | Iowa County, IA          |                90 |
@@ -48,7 +48,7 @@
 | Polk County, IA          |               147 |
 | Buena Vista County, IA   |                90 |
 | Wapello County, IA       |                90 |
-| Lucas County, IA         |                89 |
+| Lucas County, IA         |                 0 |
 | Clinton County, IA       |               146 |
 | Benton County, IA        |                90 |
 | Monona County, IA        |                90 |
@@ -62,7 +62,7 @@
 | Kossuth County, IA       |                90 |
 | Calhoun County, IA       |                90 |
 | Louisa County, IA        |                90 |
-| Crawford County, IA      |                 0 |
+| Crawford County, IA      |                90 |
 | Fayette County, IA       |                90 |
 | Mitchell County, IA      |                90 |
 | Worth County, IA         |                89 |

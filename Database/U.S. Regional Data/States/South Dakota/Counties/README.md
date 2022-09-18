@@ -26,7 +26,7 @@
 | Beadle County, SD        |                89 |
 | Codington County, SD     |                90 |
 | Faulk County, SD         |                88 |
-| Bon Homme County, SD     |                 0 |
+| Bon Homme County, SD     |                89 |
 | Fall River County, SD    |                88 |
 | Lawrence County, SD      |                90 |
 | Lyman County, SD         |                88 |
@@ -61,7 +61,7 @@
 | Edmunds County, SD       |                88 |
 | Jerauld County, SD       |                88 |
 | Potter County, SD        |                87 |
-| Todd County, SD          |                88 |
+| Todd County, SD          |                 0 |
 | Douglas County, SD       |                88 |
 | Charles Mix County, SD   |                89 |
 | Brule County, SD         |                89 |
