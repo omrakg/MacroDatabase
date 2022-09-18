@@ -1,7 +1,7 @@
 {
   "id": "NVEWHO",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Wholesale Trade Earnings in Nevada",
   "observation_start": "1998-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-22 12:45:11-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS."
 }

@@ -1,7 +1,7 @@
 {
   "id": "PCU113310113310M",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Producer Price Index by Industry: Logging: Miscellaneous Receipts",
   "observation_start": "1986-06-01",
   "observation_end": "2022-06-01",
@@ -11,7 +11,7 @@
   "units_short": "Index Jun 1986=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 08:01:23-05",
+  "last_updated": "2022-09-14 07:56:16-05",
   "popularity": 2,
   "group_popularity": 2
 }

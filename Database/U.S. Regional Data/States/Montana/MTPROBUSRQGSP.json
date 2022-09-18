@@ -1,7 +1,7 @@
 {
   "id": "MTPROBUSRQGSP",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Real Gross Domestic Product: Professional, Scientific, and Technical Services (NAICS 54) in Montana",
   "observation_start": "2005-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-30 09:18:58-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
 }

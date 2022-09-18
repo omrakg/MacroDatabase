@@ -1,7 +1,7 @@
 {
   "id": "A011RS2A224NBEA",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Contributions to percent change in gross domestic purchases: Gross private domestic investment: Fixed investment: Residential",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 08:01:10-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: A011RS\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "NA000324Q",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Federal government current tax receipts: Taxes on production and imports",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-25 07:54:40-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "BEA Account Code: NA000324"
 }

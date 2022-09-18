@@ -1,7 +1,7 @@
 {
   "id": "A31SUO",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Manufacturers' Unfilled Orders: Primary Metals",
   "observation_start": "1992-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-02 09:05:42-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 5,
+  "group_popularity": 5
 }

@@ -1,7 +1,7 @@
 {
   "id": "DEUB6CATT00CXCUQ",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Balance of payments BPM6: Capital account: Capital account Balance: Capital account Balance for Germany",
   "observation_start": "1991-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "US $, sum over component sub-periods",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 15:15:51-05",
+  "last_updated": "2022-09-14 15:07:47-05",
   "popularity": 1,
   "group_popularity": 2,
   "notes": "OECD descriptor ID: B6CATT00 OECD unit ID: CXCU OECD country ID: DEU All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."

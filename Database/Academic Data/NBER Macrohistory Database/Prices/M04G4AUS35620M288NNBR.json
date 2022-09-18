@@ -1,7 +1,7 @@
 {
   "id": "M04G4AUS35620M288NNBR",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Wholesale Price of Anthracite Coal, Chestnut; Tidewater, New York Harbor for New York, NY",
   "observation_start": "1890-01-01",
   "observation_end": "1928-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:20-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Two Variables (1)-- Original Data, 1890-1928 (2)--Original Data, 1923-1941.\" For 1890-1902, Data Is The Average Monthly Selling Price, F.O.B. New York Harbor, While For 1890-1928, The Wholesale Price, New York Harbor, Is Used. For 1924-1935, Spot Price (Composite) At Eight Different Cities Is Quoted. There Were No Sales From June Through October, 1902. Prices For 1902 Are Those Received By One Of The Large Coal Companies. During The Latter Months Of The Year, Sales Were Reported To Have Been Made By Some Of The Coal Companies At Prices About Twice Those Stated Here. (Bls Note) There Was No Quotation For December, 1925. No Satisfactory Information Is Available After September, 1925 Because Of A Strike. Strikes Lasted From September, 1925 To February, 1926; Low Production Continued From September, 1925 To January, 1926. Source: Bls Bulletin #39, Pp. 384-385, Bulletin #45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114, 149, 181, 200, 226, 269, 296, 335, 367, 390, 415, 440, 473, 493, 521, 543, 572; Monthly\"Wholesale Price\" Bulletin, 1932-June, 1935; Monthly \"Wholesale Price\" Bulletin December, 1935 For July-December, 1935\n\nThis NBER data series m04044a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04044a"
 }

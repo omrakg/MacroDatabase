@@ -1,17 +1,17 @@
 {
   "id": "WPU333101",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Greeting Card Publishing Sales",
   "observation_start": "1985-12-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 1985=100",
   "units_short": "Index Dec 1985=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 07:57:09-05",
+  "last_updated": "2022-09-14 07:57:08-05",
   "popularity": 1,
   "group_popularity": 1
 }

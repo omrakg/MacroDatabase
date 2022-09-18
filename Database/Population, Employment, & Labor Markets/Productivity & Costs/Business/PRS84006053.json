@@ -1,7 +1,7 @@
 {
   "id": "PRS84006053",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Business Sector: Current Dollar Output for All Employed Persons",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-01 07:36:29-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

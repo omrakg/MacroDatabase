@@ -1,7 +1,7 @@
 {
   "id": "DROCLACBS",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Delinquency Rate on Other Consumer Loans, All Commercial Banks",
   "observation_start": "1991-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-22 13:18:13-05",
-  "popularity": 24,
-  "group_popularity": 25
+  "popularity": 23,
+  "group_popularity": 24
 }

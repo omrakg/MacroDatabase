@@ -1,7 +1,7 @@
 {
   "id": "LNU03000001",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Unemployment Level - Men",
   "observation_start": "1948-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-02 07:44:58-05",
-  "popularity": 4,
-  "group_popularity": 23,
+  "popularity": 10,
+  "group_popularity": 32,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU03000001"
 }

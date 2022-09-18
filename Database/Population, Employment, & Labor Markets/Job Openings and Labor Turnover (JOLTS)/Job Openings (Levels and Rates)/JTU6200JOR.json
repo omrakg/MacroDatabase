@@ -1,7 +1,7 @@
 {
   "id": "JTU6200JOR",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Job Openings: Health Care and Social Assistance",
   "observation_start": "2000-12-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-30 09:05:34-05",
   "popularity": 6,
-  "group_popularity": 26
+  "group_popularity": 22
 }

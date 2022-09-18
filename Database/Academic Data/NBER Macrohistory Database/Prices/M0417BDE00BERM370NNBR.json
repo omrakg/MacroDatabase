@@ -1,7 +1,7 @@
 {
   "id": "M0417BDE00BERM370NNBR",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Wholesale Price of Oxen for Slaughter (Monthly Average) for Berlin, Germany",
   "observation_start": "1897-07-01",
   "observation_end": "1916-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:55:58-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Three Variables--(1)-- Original Data, 1876-1897 (2)--Original Data, 1897-1916 (3)--Original Data, 1910-1915, 1921-1922, 1924-1936. Source: Vierteljahrshefte Zur Statistik Des Deutschen Reichs, 1893, I, P.38 And Later Issues.\n\nThis NBER data series m04117b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04117b"
 }

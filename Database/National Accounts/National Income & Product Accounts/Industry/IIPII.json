@@ -1,7 +1,7 @@
 {
   "id": "IIPII",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Intermediate Inputs by Industry: Information (Chain-Type Price Index)",
   "observation_start": "2005-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-29 07:31:09-05",
   "popularity": 3,
-  "group_popularity": 5,
+  "group_popularity": 4,
   "notes": "Intermediate inputs refer to the value of both foreign and domestically produced goods and services which are used as energy, materials, and purchased services as part of an industry's production process."
 }

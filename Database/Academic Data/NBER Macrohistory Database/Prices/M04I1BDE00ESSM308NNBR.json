@@ -1,7 +1,7 @@
 {
   "id": "M04I1BDE00ESSM308NNBR",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Wholesale Price of Coal (From Mine) Rhine-Westphalia for Essen, Germany",
   "observation_start": "1913-04-01",
   "observation_end": "1936-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:50:12-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Series Is Presented Here As Two Variables -- (1)-- Original Data, 1879-1919, (2)--Original Data, 1913-1936. Coal Tax Imposed 08/1917. Tax Abolished 10/1923. Source: 1913-1923: Wirtschift Und Stat. 1925 \"Lahlen Zur Geldentwertung\" P. 26; Vierhljahrshefle Zur Statistik.\n\nThis NBER data series m04101b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04101b"
 }

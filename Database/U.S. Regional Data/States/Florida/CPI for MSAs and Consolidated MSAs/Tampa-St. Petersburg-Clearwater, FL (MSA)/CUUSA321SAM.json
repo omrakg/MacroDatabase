@@ -1,7 +1,7 @@
 {
   "id": "CUUSA321SAM",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Consumer Price Index for All Urban Consumers: Medical care in Tampa-St. Petersburg-Clearwater, FL (CBSA)",
   "observation_start": "1987-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-12 07:39:23-06",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

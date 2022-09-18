@@ -1,7 +1,7 @@
 {
   "id": "INRQGSP",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Real Gross Domestic Product: All Industry Total in Indiana",
   "observation_start": "2005-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-30 09:05:12-05",
-  "popularity": 5,
-  "group_popularity": 7,
+  "popularity": 9,
+  "group_popularity": 11,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
 }

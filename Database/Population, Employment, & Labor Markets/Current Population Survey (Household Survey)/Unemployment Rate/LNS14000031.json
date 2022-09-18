@@ -1,7 +1,7 @@
 {
   "id": "LNS14000031",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Unemployment Rate - 20 Yrs. & over, Black or African American Men",
   "observation_start": "1972-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-02 07:44:15-05",
-  "popularity": 54,
-  "group_popularity": 54,
+  "popularity": 57,
+  "group_popularity": 57,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS14000031"
 }

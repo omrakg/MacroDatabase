@@ -1,7 +1,7 @@
 {
   "id": "LNS13023705",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Unemployment Level - Job Leavers",
   "observation_start": "1967-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-02 07:44:38-05",
-  "popularity": 13,
-  "group_popularity": 14,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13023705"
 }

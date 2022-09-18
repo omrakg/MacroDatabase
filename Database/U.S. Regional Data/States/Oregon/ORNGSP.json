@@ -1,7 +1,7 @@
 {
   "id": "ORNGSP",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Gross Domestic Product: All Industry Total in Oregon",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 10:32:10-05",
-  "popularity": 15,
-  "group_popularity": 19
+  "popularity": 18,
+  "group_popularity": 22
 }

@@ -1,17 +1,17 @@
 {
   "id": "PCU311612311612A",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Producer Price Index by Industry: Meat Processed from Carcasses: Other Processed, Frozen, or Cooked Meats, Made from Purchased Carcasses",
   "observation_start": "1982-12-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 1982=100",
   "units_short": "Index Dec 1982=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 08:00:57-05",
+  "last_updated": "2022-09-14 08:00:34-05",
   "popularity": 1,
   "group_popularity": 1
 }

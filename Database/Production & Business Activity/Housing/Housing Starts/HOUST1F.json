@@ -1,7 +1,7 @@
 {
   "id": "HOUST1F",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "New Privately-Owned Housing Units Started: Single-Family Units",
   "observation_start": "1959-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-08-16 07:31:14-05",
-  "popularity": 62,
+  "popularity": 63,
   "group_popularity": 63
 }

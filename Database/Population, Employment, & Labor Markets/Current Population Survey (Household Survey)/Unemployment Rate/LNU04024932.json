@@ -1,7 +1,7 @@
 {
   "id": "LNU04024932",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Unemployment Rate - 25-29 Yrs.",
   "observation_start": "1981-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-02 07:44:56-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04024932"
 }

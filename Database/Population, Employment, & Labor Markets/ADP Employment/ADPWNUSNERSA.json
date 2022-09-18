@@ -1,7 +1,7 @@
 {
   "id": "ADPWNUSNERSA",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Total Nonfarm Private Payroll Employment",
   "observation_start": "2010-01-02",
   "observation_end": "2022-06-11",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-02 14:33:54-05",
-  "popularity": 4,
-  "group_popularity": 16
+  "popularity": 10,
+  "group_popularity": 23
 }

@@ -1,7 +1,7 @@
 {
   "id": "M01115USM363SNBR",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Mining Volume Index, Fuels for United States",
   "observation_start": "1913-01-01",
   "observation_end": "1931-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-16 11:03:18-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Data Were Affected By Bituminous Coal Worker Strikes In April 1914, November 1919, And April 1927; Anthracite Worker Strikes In September Of 1923 And 1925; Also Anthracite And Bituminous Strike Of April-September 1922 Affected Data. Source: Harvard Economic Series, Review Of Economic Statistics, April 1924, P. 90; August 1929; And Successive Issues.\n\nThis NBER data series m01115 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01115"
 }

@@ -1,18 +1,18 @@
 {
   "id": "INDPFCEQDSMEI",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Private Final Consumption Expenditure in India",
   "observation_start": "1996-04-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-04-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Indian Rupees",
   "units_short": "Indian Rupees",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-08-11 14:45:02-05",
-  "popularity": 29,
+  "last_updated": "2022-09-14 14:38:03-05",
+  "popularity": 27,
   "group_popularity": 29,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

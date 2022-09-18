@@ -1,7 +1,7 @@
 {
   "id": "BELB6CATT01CXCUQ",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Balance of payments BPM6: Capital account: Capital account Balance: Gross acquisitions/disposals of non-produced non-financial assets Balance for Belgium",
   "observation_start": "2008-01-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "US $, sum over component sub-periods",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 15:18:35-05",
+  "last_updated": "2022-09-14 15:10:44-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "OECD descriptor ID: B6CATT01 OECD unit ID: CXCU OECD country ID: BEL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."

@@ -1,7 +1,7 @@
 {
   "id": "U34SUO",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Manufacturers' Unfilled Orders: Computers and Electronic Products",
   "observation_start": "1992-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-02 09:03:37-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Data on Unfilled Orders for the Semiconductor Industry are not available."
 }

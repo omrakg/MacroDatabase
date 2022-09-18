@@ -1,7 +1,7 @@
 {
   "id": "M0473BUS000NYM267NNBR",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Wholesale Price, Beef Fresh, Carcass Dressed, Western Native Skins for New York",
   "observation_start": "1913-01-01",
   "observation_end": "1942-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:31-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1890-1916; (2)--Original Data, 1913-1939. Source: Bls, Copied From Wpa Files\n\nThis NBER data series m04173b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04173b"
 }

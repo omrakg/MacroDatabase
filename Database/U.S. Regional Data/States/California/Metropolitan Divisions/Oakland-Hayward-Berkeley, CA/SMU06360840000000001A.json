@@ -1,7 +1,7 @@
 {
   "id": "SMU06360840000000001A",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "All Employees: Total Nonfarm in Oakland-Hayward-Berkeley, CA (MD)",
   "observation_start": "1972-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 05:45:27-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 6
 }

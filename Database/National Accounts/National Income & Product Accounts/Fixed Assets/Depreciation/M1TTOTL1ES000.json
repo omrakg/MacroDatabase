@@ -1,7 +1,7 @@
 {
   "id": "M1TTOTL1ES000",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Current-Cost Depreciation of Fixed Assets",
   "observation_start": "1925-01-01",
   "observation_end": "2020-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-19 12:59:02-05",
-  "popularity": 14,
-  "group_popularity": 14
+  "popularity": 12,
+  "group_popularity": 12
 }

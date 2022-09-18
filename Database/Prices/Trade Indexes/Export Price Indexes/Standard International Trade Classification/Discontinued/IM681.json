@@ -1,7 +1,7 @@
 {
   "id": "IM681",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Import Price Index (SITC): Silver, platinum and other platinum group metals (DISCONTINUED)",
   "observation_start": "1995-01-01",
   "observation_end": "2005-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-06-27 07:46:44-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

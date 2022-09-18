@@ -1,7 +1,7 @@
 {
   "id": "CIU1020000405000I",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Employment Cost Index: Wages and salaries for All Civilian workers in Construction, extraction, farming, fishing, and forestry occupations",
   "observation_start": "2001-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-29 07:52:02-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Historical data are available beginning with March 2001. Includes farming, fishing, and forestry occupations."
 }

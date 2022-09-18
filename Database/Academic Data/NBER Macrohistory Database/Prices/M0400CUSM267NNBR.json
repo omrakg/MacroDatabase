@@ -1,7 +1,7 @@
 {
   "id": "M0400CUSM267NNBR",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Wholesale Price of Cotton Yarn, Mills for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1956-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:10-05",
   "popularity": 1,
-  "group_popularity": 11,
+  "group_popularity": 6,
   "notes": "Series Has Been Subdivided Into Three Variables: (1)-- Original Data, 1890-1942; (2)-- Original Data, 1941-1951; (3)-- Original Data, 1947-1954. Source: Bls, 1947-1950:\"Prices And Price Relatives For Industrial Commodities In The Revised Index: 1947-50\", Group 3:\"Textile Products And Apparel: 1947-50\"; 1951-1956: Prices And Price Relatives\", January - November 1951 And Monthly Issues Thereafter\n\nThis NBER data series m04100c appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04100c"
 }

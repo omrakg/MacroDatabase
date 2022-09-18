@@ -1,17 +1,17 @@
 {
   "id": "WPSFD49301",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Producer Price Index by Commodity: Final Demand: Total Exports",
   "observation_start": "2010-04-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Apr 2010=100",
   "units_short": "Index Apr 2010=100",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-08-11 07:58:27-05",
+  "last_updated": "2022-09-14 07:58:31-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

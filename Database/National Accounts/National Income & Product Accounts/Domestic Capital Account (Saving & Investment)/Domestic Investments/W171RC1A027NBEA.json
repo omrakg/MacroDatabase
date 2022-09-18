@@ -1,7 +1,7 @@
 {
   "id": "W171RC1A027NBEA",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Net domestic investment",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:53:18-05",
-  "popularity": 3,
-  "group_popularity": 17,
+  "popularity": 2,
+  "group_popularity": 15,
   "notes": "BEA Account Code: W171RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

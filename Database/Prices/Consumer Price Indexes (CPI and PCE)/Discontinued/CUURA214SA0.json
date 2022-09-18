@@ -1,7 +1,7 @@
 {
   "id": "CUURA214SA0",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Consumer Price Index for All Urban Consumers: All Items in Kansas City, MO-KS (CMSA) (DISCONTINUED)",
   "observation_start": "1917-12-01",
   "observation_end": "1986-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-08-08 15:51:07-05",
   "popularity": 4,
-  "group_popularity": 5
+  "group_popularity": 6
 }

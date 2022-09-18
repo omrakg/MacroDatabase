@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS41700Q",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "All-Transactions House Price Index for San Antonio-New Braunfels, TX (MSA)",
   "observation_start": "1979-04-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-30 09:02:28-05",
-  "popularity": 28,
-  "group_popularity": 28,
+  "popularity": 32,
+  "group_popularity": 32,
   "notes": "Estimated using sales prices and appraisal data."
 }

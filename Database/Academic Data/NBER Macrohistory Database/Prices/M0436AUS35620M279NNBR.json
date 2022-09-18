@@ -1,7 +1,7 @@
 {
   "id": "M0436AUS35620M279NNBR",
-  "realtime_start": "2022-09-11",
-  "realtime_end": "2022-09-11",
+  "realtime_start": "2022-09-18",
+  "realtime_end": "2022-09-18",
   "title": "Wholesale Price of Bananas for New York, NY",
   "observation_start": "1913-01-01",
   "observation_end": "1933-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:53:07-05",
   "popularity": 4,
-  "group_popularity": 6,
+  "group_popularity": 5,
   "notes": "Series Is Presented Here As Three Variables--(1)-- Original Data, 1913-1933 (2)--Original Data, 1932-1940 (3)--Original Data, 1935-1942. There Is No Quotation For September, 1916; March-May, 1918; Or February-March, 1920. Prices For 1913-April, 1919 Are For Jamaica 8S; May, 1919-April, 1933 Are For Jamaica 9S. The 1919 Price For Jamaica 8S Was $2.090; For Jamaica 9S It Was $4.041. The July, 1932 Price For Jamaica 9S Was $1.925; For Honduras 9S It Was $2.275. Data For May, 1919-1933 Lowered To Level Of First Segment Of Series. Source: Bls Wholesale Price Bulletins, But Data For Data For 1913 And Second Segment, 1919 Are Directly From Bls.\n\nThis NBER data series m04036a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04036a"
 }
