@@ -1,8 +1,8 @@
 {
   "Romania": {
     "id": "SERVTRROM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Services Related to Transport for Romania",
     "observation_start": "2000-12-01",
     "observation_end": "2022-08-01",
@@ -20,8 +20,8 @@
   },
   "Bulgaria": {
     "id": "SERVTRBGM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Services Related to Transport for Bulgaria",
     "observation_start": "1996-12-01",
     "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "SERVTRHRM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Services Related to Transport for Croatia",
     "observation_start": "1998-01-01",
     "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "SERVTRCYM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Services Related to Transport for Cyprus",
     "observation_start": "1996-01-01",
     "observation_end": "2022-08-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "SERVTRMTM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Services Related to Transport for Malta",
     "observation_start": "1996-01-01",
     "observation_end": "2022-08-01",

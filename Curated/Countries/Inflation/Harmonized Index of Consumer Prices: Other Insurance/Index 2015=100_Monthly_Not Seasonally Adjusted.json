@@ -1,8 +1,8 @@
 {
   "Poland": {
     "id": "CP1255PLM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Other Insurance for Poland",
     "observation_start": "1996-01-01",
     "observation_end": "2022-08-01",
@@ -20,8 +20,8 @@
   },
   "Cyprus": {
     "id": "CP1255CYM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Other Insurance for Cyprus",
     "observation_start": "2006-01-01",
     "observation_end": "2013-11-01",
@@ -39,8 +39,8 @@
   },
   "Estonia": {
     "id": "CP1255EEM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Other Insurance for Estonia",
     "observation_start": "2000-12-01",
     "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
   },
   "Luxembourg": {
     "id": "CP1255LUM086NEST",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Harmonized Index of Consumer Prices: Other Insurance for Luxembourg",
     "observation_start": "1999-12-01",
     "observation_end": "2022-08-01",

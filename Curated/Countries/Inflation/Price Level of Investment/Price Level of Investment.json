@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "PLOINVUAA624NUPN",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Price Level of Investment for Ukraine",
     "observation_start": "1993-01-01",
     "observation_end": "2010-01-01",
@@ -20,8 +20,8 @@
   },
   "Suriname": {
     "id": "PLOINVSRA624NUPN",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Price Level of Investment for Suriname",
     "observation_start": "1970-01-01",
     "observation_end": "2010-01-01",

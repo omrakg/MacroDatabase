@@ -1,8 +1,8 @@
 {
   "Argentina": {
     "id": "NFIDNSAXDCARQ",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Nominal Gross Fixed Capital Formation, Dwellings for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2022-01-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-07-11 07:10:33-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "path": "Database/International Data/Countries/Argentina"
   }
 }

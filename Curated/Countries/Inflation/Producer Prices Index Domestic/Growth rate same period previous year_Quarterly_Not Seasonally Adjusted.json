@@ -1,9 +1,9 @@
 {
   "Estonia": {
     "id": "ESTPITGVG02GYQ",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
-    "title": "Producer Prices Index : Type of goods : Investments goods : Domestic for Estonia",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
+    "title": "Producer Prices Index: Type of Goods: Investments Goods: Domestic for Estonia",
     "observation_start": "2003-01-01",
     "observation_end": "2022-04-01",
     "frequency": "Quarterly",
@@ -14,7 +14,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-09-14 15:58:42-05",
     "popularity": 0,
-    "group_popularity": 0,
+    "group_popularity": 1,
     "notes": "OECD descriptor ID: EST.PITGVG02.GY.Q OECD unit ID: OECD country ID: PITGVG02 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Estonia"
   }
