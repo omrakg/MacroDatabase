@@ -50,7 +50,7 @@
 | HORAMSA23420              | Market Hotness: Hotness Rank in Fresno, CA (CBSA)                                                                                               | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA23420            | Market Hotness: Hotness Rank in Fresno, CA (CBSA)                                                                                               | 2018-08-01          | 2022-08-01        |
 | HOSCMSA23420              | Market Hotness: Hotness Score in Fresno, CA (CBSA)                                                                                              | 2017-08-01          | 2022-08-01        |
-| IHLCHG23420               | Job Postings on Indeed in Fresno, CA (MSA)                                                                                                      | 2020-02-01          | 2022-09-09        |
+| IHLCHG23420               | Job Postings on Indeed in Fresno, CA (MSA)                                                                                                      | 2020-02-01          | 2022-09-16        |
 | IRPD23420                 | Implicit Regional Price Deflator for Fresno, CA (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT062342000000003A     | Unemployment Rate in Fresno, CA (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT062342000000004      | Unemployed Persons in Fresno, CA (MSA)                                                                                                          | 1990-01-01          | 2022-07-01        |

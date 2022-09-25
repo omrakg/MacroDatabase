@@ -3,7 +3,7 @@
 | Auburn-Opelika, AL         |               159 |
 | Daphne-Fairhope-Foley, AL  |                59 |
 | Birmingham-Hoover, AL      |               229 |
-| Mobile, AL                 |                 0 |
+| Mobile, AL                 |               167 |
 | Decatur, AL                |               168 |
 | Huntsville, AL             |               179 |
 | Columbus, GA-AL            |               162 |

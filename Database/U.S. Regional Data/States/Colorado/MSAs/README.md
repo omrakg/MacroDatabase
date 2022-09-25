@@ -7,4 +7,4 @@
 | Grand Junction, CO         |               168 |
 | Canon, CO                  |                32 |
 | Pueblo, CO                 |               167 |
-| Colorado Springs, CO       |               211 |
+| Colorado Springs, CO       |                 0 |

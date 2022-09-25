@@ -29,7 +29,7 @@
 | Toole County, MT           |                90 |
 | Powder River County, MT    |                86 |
 | Phillips County, MT        |                88 |
-| Musselshell County, MT     |                 0 |
+| Musselshell County, MT     |                89 |
 | Lewis and Clark County, MT |               147 |
 | Yellowstone County, MT     |               147 |
 | Flathead County, MT        |               147 |
@@ -38,7 +38,7 @@
 | McCone County, MT          |                86 |
 | Valley County, MT          |                89 |
 | Jefferson County, MT       |                90 |
-| Wheatland County, MT       |                87 |
+| Wheatland County, MT       |                 0 |
 | Broadwater County, MT      |                89 |
 | Lake County, MT            |                90 |
 | Beaverhead County, MT      |                89 |

@@ -17,7 +17,7 @@
 | Walworth County, SD      |                89 |
 | Butte County, SD         |                90 |
 | Stanley County, SD       |                89 |
-| Tripp County, SD         |                88 |
+| Tripp County, SD         |                 0 |
 | Sanborn County, SD       |                88 |
 | Shannon County, SD       |                22 |
 | Gregory County, SD       |                87 |
@@ -61,7 +61,7 @@
 | Edmunds County, SD       |                88 |
 | Jerauld County, SD       |                88 |
 | Potter County, SD        |                87 |
-| Todd County, SD          |                 0 |
+| Todd County, SD          |                88 |
 | Douglas County, SD       |                88 |
 | Charles Mix County, SD   |                89 |
 | Brule County, SD         |                89 |

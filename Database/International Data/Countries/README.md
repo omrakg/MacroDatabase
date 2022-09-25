@@ -118,7 +118,7 @@
 | Colombia                                             |               919 |
 | Nicaragua                                            |               235 |
 | Hungary                                              |               864 |
-| Burundi                                              |               282 |
+| Burundi                                              |                 0 |
 | Saint Lucia                                          |               170 |
 | Cuba                                                 |               102 |
 | Egypt                                                |               249 |
@@ -161,7 +161,7 @@
 | Israel                                               |               862 |
 | Cook Islands                                         |                56 |
 | Saint Kitts and Nevis                                |               207 |
-| Nepal                                                |                 0 |
+| Nepal                                                |               223 |
 | Korea, Democratic People's Republic of (North Korea) |                43 |
 | French Polynesia                                     |               120 |
 | Argentina                                            |               557 |
@@ -178,7 +178,7 @@
 | Saint Martin, Collectivity of                        |                 6 |
 | Czech Republic                                       |               797 |
 | Côte d’Ivoire                                        |               224 |
-| Syrian Arab Republic                                 |               205 |
+| Syrian Arab Republic                                 |                 0 |
 | Switzerland                                          |                 0 |
 | Cambodia                                             |               211 |
 | Botswana                                             |               293 |
@@ -221,7 +221,7 @@
 | Palau                                                |               115 |
 | American Samoa                                       |                 7 |
 | Djibouti                                             |               188 |
-| Reunion                                              |                 0 |
+| Reunion                                              |                78 |
 | Serbia                                               |               245 |
 | Aland Islands                                        |                 0 |
 | Aruba                                                |               188 |
@@ -238,7 +238,7 @@
 | Bermuda                                              |               143 |
 | Papua New Guinea                                     |               229 |
 | Yemen, Republic of                                   |               201 |
-| Benin                                                |               253 |
+| Benin                                                |                 0 |
 | Somalia                                              |                80 |
 | Bolivia, Plurinational State of                      |               239 |
 | Virgin Islands, British                              |               106 |

@@ -2,7 +2,7 @@
 |-------------------------|-------------------|
 | Calhoun County, AR      |                89 |
 | Craighead County, AR    |               147 |
-| Phillips County, AR     |                 0 |
+| Phillips County, AR     |                88 |
 | Lincoln County, AR      |                87 |
 | Crawford County, AR     |               146 |
 | Miller County, AR       |                89 |
@@ -36,7 +36,7 @@
 | Pulaski County, AR      |               147 |
 | Poinsett County, AR     |                89 |
 | Jackson County, AR      |                90 |
-| Lee County, AR          |                88 |
+| Lee County, AR          |                 0 |
 | Nevada County, AR       |                89 |
 | Little River County, AR |                88 |
 | White County, AR        |               147 |

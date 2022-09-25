@@ -88,9 +88,9 @@
 | MIDL248TRADN              | All Employees: Trade, Transportation, and Utilities in Midland, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | MIDL248UR                 | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | MIDL248URN                | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| MIDSA158MFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| MIDSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Midland, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| MIDSA175MFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| MIDSA158MFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| MIDSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Midland, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| MIDSA175MFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | MIDSA674AFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | NEWLISCOU33260            | Housing Inventory: New Listing Count in Midland, TX (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
 | NEWLISCOUMM33260          | Housing Inventory: New Listing Count Month-Over-Month in Midland, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |

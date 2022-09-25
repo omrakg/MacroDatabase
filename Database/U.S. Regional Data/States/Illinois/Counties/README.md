@@ -1,6 +1,6 @@
 | Folder                 |   Files / Folders |
 |------------------------|-------------------|
-| Hardin County, IL      |                89 |
+| Hardin County, IL      |                 0 |
 | Piatt County, IL       |                90 |
 | Wabash County, IL      |                89 |
 | Marshall County, IL    |                90 |
@@ -9,7 +9,7 @@
 | Stephenson County, IL  |               146 |
 | Whiteside County, IL   |               146 |
 | Clay County, IL        |                88 |
-| Effingham County, IL   |                 0 |
+| Effingham County, IL   |                90 |
 | Pope County, IL        |                88 |
 | Rock Island County, IL |               147 |
 | Alexander County, IL   |                88 |
@@ -60,7 +60,7 @@
 | Tazewell County, IL    |               147 |
 | Massac County, IL      |                89 |
 | Montgomery County, IL  |                90 |
-| Pike County, IL        |                89 |
+| Pike County, IL        |                 0 |
 | Ford County, IL        |                90 |
 | Pulaski County, IL     |                88 |
 | Cumberland County, IL  |                90 |
@@ -69,7 +69,7 @@
 | Macoupin County, IL    |               144 |
 | Shelby County, IL      |                90 |
 | Champaign County, IL   |               147 |
-| Washington County, IL  |                 0 |
+| Washington County, IL  |                89 |
 | Stark County, IL       |                90 |
 | Clark County, IL       |                90 |
 | White County, IL       |                90 |

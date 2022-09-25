@@ -9,7 +9,7 @@
 | Lowell-Billerica-Chelmsford, MA-NH      |                 8 |
 | Rochester-Dover, NH-ME                  |                 0 |
 | Manchester, NH                          |                92 |
-| Haverhill-North Andover-Amesbury, MA-NH |                60 |
+| Haverhill-North Andover-Amesbury, MA-NH |                 0 |
 | Franklin, NH                            |                 0 |
 | Concord, NH                             |                 0 |
 | Keene, NH                               |                 0 |

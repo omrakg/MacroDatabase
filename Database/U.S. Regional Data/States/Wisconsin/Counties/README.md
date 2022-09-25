@@ -13,7 +13,7 @@
 | Trempealeau County, WI                  |                89 |
 | Douglas County, WI                      |               146 |
 | Ashland County, WI                      |                90 |
-| Rusk County, WI                         |                90 |
+| Rusk County, WI                         |                 0 |
 | Washburn County, WI                     |                89 |
 | Florence County, WI                     |                89 |
 | Racine County, WI                       |               147 |
@@ -57,7 +57,7 @@
 | Lincoln County, WI                      |                90 |
 | Rock County, WI                         |               147 |
 | Winnebago County, WI                    |               147 |
-| St. Croix County, WI                    |                 0 |
+| St. Croix County, WI                    |               147 |
 | Burnett County, WI                      |                90 |
 | Waushara County, WI                     |                90 |
 | Sheboygan County, WI                    |               147 |

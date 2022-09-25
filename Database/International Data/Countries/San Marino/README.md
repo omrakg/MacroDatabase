@@ -32,7 +32,7 @@
 | DDOI07SMA648NWDB  | Liquid Liabilities (Broad Money) for San Marino                                                                             | 1993-01-01          | 2020-01-01        |
 | DDSI01SMA645NWDB  | Bank Z-Score for San Marino                                                                                                 | 2004-01-01          | 2013-01-01        |
 | DDSI04SMA156NWDB  | Bank Credit to Bank Deposits for San Marino                                                                                 | 2001-01-01          | 2017-01-01        |
-| DEBTTLSMA188A     | Central government debt, total (% of GDP) for San Marino                                                                    | 2002-01-01          | 2016-01-01        |
+| DEBTTLSMA188A     | Central government debt, total (% of GDP) for San Marino                                                                    | 2002-01-01          | 2020-01-01        |
 | EXP4751           | U.S. Exports of Goods by F.A.S. Basis to San Marino                                                                         | 1992-01-01          | 2022-07-01        |
 | FLSMRA052SCEN     | Value of Exports to San Marino from Florida                                                                                 | 2002-01-01          | 2017-01-01        |
 | FLSMRA475SCEN     | Number of Identified Exporters to San Marino from Florida                                                                   | 1997-01-01          | 2017-01-01        |

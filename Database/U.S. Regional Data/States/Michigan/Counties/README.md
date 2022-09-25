@@ -19,8 +19,8 @@
 | Montcalm County, MI       |               146 |
 | Kent County, MI           |               147 |
 | Oakland County, MI        |               147 |
-| Barry County, MI          |                 0 |
-| Manistee County, MI       |                89 |
+| Barry County, MI          |               146 |
+| Manistee County, MI       |                 0 |
 | Cheboygan County, MI      |                90 |
 | Jackson County, MI        |               146 |
 | Saginaw County, MI        |               147 |
@@ -79,7 +79,7 @@
 | Menominee County, MI      |                90 |
 | Ontonagon County, MI      |                89 |
 | Lake County, MI           |                90 |
-| Luce County, MI           |                 0 |
-| Dickinson County, MI      |                90 |
+| Luce County, MI           |                90 |
+| Dickinson County, MI      |                 0 |
 | Antrim County, MI         |                90 |
 | Midland County, MI        |               147 |

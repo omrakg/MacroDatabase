@@ -8,9 +8,9 @@
 | AVELISPRIMM17780          | Housing Inventory: Average Listing Price Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY17780          | Housing Inventory: Average Listing Price Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | BRNPOP                    | Resident Population in College Station-Bryan, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| BRYSA158MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| BRYSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| BRYSA175MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| BRYSA158MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| BRYSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| BRYSA175MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | BRYSA674AFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | COLL748EDUH               | All Employees: Education and Health Services in College Station-Bryan, TX (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | COLL748EDUHN              | All Employees: Education and Health Services in College Station-Bryan, TX (MSA)                                            | 1990-01-01          | 2022-08-01        |

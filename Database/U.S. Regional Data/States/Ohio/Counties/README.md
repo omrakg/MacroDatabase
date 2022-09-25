@@ -26,7 +26,7 @@
 | Ashland County, OH    |               144 |
 | Wood County, OH       |               147 |
 | Muskingum County, OH  |               147 |
-| Perry County, OH      |                90 |
+| Perry County, OH      |                 0 |
 | Holmes County, OH     |                89 |
 | Washington County, OH |               146 |
 | Portage County, OH    |               147 |
@@ -52,7 +52,7 @@
 | Delaware County, OH   |               147 |
 | Hardin County, OH     |                90 |
 | Champaign County, OH  |                90 |
-| Madison County, OH    |                 0 |
+| Madison County, OH    |                90 |
 | Licking County, OH    |               147 |
 | Clinton County, OH    |                90 |
 | Highland County, OH   |                89 |
@@ -86,5 +86,5 @@
 | Monroe County, OH     |                88 |
 | Summit County, OH     |               147 |
 | Mercer County, OH     |                90 |
-| Allen County, OH      |               147 |
+| Allen County, OH      |                 0 |
 | Henry County, OH      |                90 |

@@ -9,7 +9,7 @@
 | Lauderdale County, AL |               146 |
 | Perry County, AL      |                89 |
 | Pike County, AL       |                90 |
-| Talladega County, AL  |                 0 |
+| Talladega County, AL  |               146 |
 | Clarke County, AL     |                89 |
 | Franklin County, AL   |                90 |
 | Limestone County, AL  |               147 |
@@ -60,7 +60,7 @@
 | Blount County, AL     |               146 |
 | Geneva County, AL     |                90 |
 | Chambers County, AL   |                90 |
-| Marion County, AL     |                89 |
+| Marion County, AL     |                 0 |
 | Coffee County, AL     |               146 |
 | Washington County, AL |                87 |
 | Jackson County, AL    |               143 |

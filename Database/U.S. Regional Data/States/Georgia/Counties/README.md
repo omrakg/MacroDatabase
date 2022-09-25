@@ -26,7 +26,7 @@
 | Pulaski County, GA       |                89 |
 | Turner County, GA        |                90 |
 | Lee County, GA           |                90 |
-| Jasper County, GA        |                 0 |
+| Jasper County, GA        |                90 |
 | Douglas County, GA       |               147 |
 | Whitfield County, GA     |               147 |
 | Effingham County, GA     |               145 |
@@ -58,7 +58,7 @@
 | Brantley County, GA      |                88 |
 | Rockdale County, GA      |               147 |
 | Meriwether County, GA    |                90 |
-| Bulloch County, GA       |               147 |
+| Bulloch County, GA       |                 0 |
 | Appling County, GA       |                90 |
 | Chattahoochee County, GA |                88 |
 | Grady County, GA         |                90 |
@@ -91,7 +91,7 @@
 | Clarke County, GA        |               147 |
 | Heard County, GA         |                90 |
 | Forsyth County, GA       |               147 |
-| Floyd County, GA         |                 0 |
+| Floyd County, GA         |               147 |
 | Baldwin County, GA       |                90 |
 | Warren County, GA        |                88 |
 | Atkinson County, GA      |                88 |
@@ -151,7 +151,7 @@
 | Calhoun County, GA       |                88 |
 | De Kalb County, GA       |               147 |
 | Cook County, GA          |                89 |
-| Butts County, GA         |                 0 |
+| Butts County, GA         |                90 |
 | Twiggs County, GA        |                88 |
 | Union County, GA         |                90 |
 | Peach County, GA         |                90 |

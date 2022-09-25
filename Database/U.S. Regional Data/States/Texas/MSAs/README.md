@@ -4,7 +4,7 @@
 | Killeen-Temple, TX                   |               168 |
 | Beaumont-Port Arthur, TX             |               171 |
 | Abilene, TX                          |               162 |
-| Wichita Falls, TX                    |                 0 |
+| Wichita Falls, TX                    |               162 |
 | Victoria, TX                         |               139 |
 | McAllen-Edinburg-Mission, TX         |               222 |
 | Waco, TX                             |               162 |

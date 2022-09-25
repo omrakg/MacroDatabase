@@ -1,6 +1,6 @@
 | Folder                                                             |   Files / Folders |
 |--------------------------------------------------------------------|-------------------|
-| Real Estate Services                                               |                37 |
+| Real Estate Services                                               |                 0 |
 | Rubber and Plastic Products                                        |                94 |
 | Final Demand                                                       |               218 |
 | Stage of Processing                                                |                 1 |
@@ -42,7 +42,7 @@
 | Rental and Leasing of Goods                                        |                20 |
 | Miscellaneous Products                                             |               175 |
 | Wholesale Trade Services                                           |                43 |
-| Metal Treatment Services                                           |                 0 |
+| Metal Treatment Services                                           |                12 |
 | Construction                                                       |                 0 |
 | Industrial Commodities                                             |                 0 |
 | Advertising Space and Time Sales                                   |                36 |

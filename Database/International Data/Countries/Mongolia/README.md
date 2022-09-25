@@ -65,7 +65,7 @@
 | DDSI04MNA156NWDB    | Bank Credit to Bank Deposits for Mongolia                                                                                    | 1992-01-01          | 2020-01-01        |
 | DDSI06MNA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Mongolia                                                                | 2000-01-01          | 2020-01-01        |
 | DDSM01MNA066NWDB    | Volatility of Stock Price Index for Mongolia                                                                                 | 2001-01-01          | 2020-01-01        |
-| DEBTTLMNA188A       | Central government debt, total (% of GDP) for Mongolia                                                                       | 1992-01-01          | 2009-01-01        |
+| DEBTTLMNA188A       | Central government debt, total (% of GDP) for Mongolia                                                                       | 1992-01-01          | 2020-01-01        |
 | DEMNGA475SCEN       | Number of Identified Exporters to Mongolia from Delaware                                                                     | 2004-01-01          | 2016-01-01        |
 | EXP5740             | U.S. Exports of Goods by F.A.S. Basis to Mongolia                                                                            | 1992-01-01          | 2022-07-01        |
 | FLMNGA052SCEN       | Value of Exports to Mongolia from Florida                                                                                    | 2002-01-01          | 2017-01-01        |

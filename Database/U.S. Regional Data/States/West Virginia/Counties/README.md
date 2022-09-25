@@ -41,7 +41,7 @@
 | Marion County, WV     |               146 |
 | Clay County, WV       |                88 |
 | Lincoln County, WV    |                88 |
-| Putnam County, WV     |               144 |
+| Putnam County, WV     |                 0 |
 | Kanawha County, WV    |               147 |
 | Pleasants County, WV  |                88 |
 | Barbour County, WV    |                89 |
@@ -50,7 +50,7 @@
 | Wayne County, WV      |                90 |
 | Randolph County, WV   |                90 |
 | Nicholas County, WV   |                90 |
-| Upshur County, WV     |                 0 |
+| Upshur County, WV     |                90 |
 | Braxton County, WV    |                88 |
 | Monroe County, WV     |                89 |
 | Gilmer County, WV     |                88 |

@@ -8,7 +8,7 @@
 | Miami County, KS        |                90 |
 | Pawnee County, KS       |                89 |
 | Crawford County, KS     |                90 |
-| Sheridan County, KS     |                 0 |
+| Sheridan County, KS     |                86 |
 | Logan County, KS        |                89 |
 | Doniphan County, KS     |                90 |
 | Clark County, KS        |                88 |
@@ -68,7 +68,7 @@
 | Norton County, KS       |                87 |
 | Brown County, KS        |                90 |
 | Cowley County, KS       |                90 |
-| Bourbon County, KS      |                 0 |
+| Bourbon County, KS      |                90 |
 | Saline County, KS       |               146 |
 | Johnson County, KS      |               147 |
 | Ford County, KS         |                90 |
@@ -96,7 +96,7 @@
 | Barber County, KS       |                89 |
 | Scott County, KS        |                88 |
 | Greenwood County, KS    |                88 |
-| Nemaha County, KS       |                90 |
+| Nemaha County, KS       |                 0 |
 | Dickinson County, KS    |                90 |
 | Marion County, KS       |                90 |
 | Thomas County, KS       |                90 |

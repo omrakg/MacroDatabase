@@ -1,7 +1,7 @@
 | Folder                                                           |   Files / Folders |
 |------------------------------------------------------------------|-------------------|
 | Real GDP per Person Counted in Total Employment                  |               123 |
-| Ratio of GNP to GDP                                              |                 0 |
+| Ratio of GNP to GDP                                              |               192 |
 | Population                                                       |               984 |
 | Real GDP per Worker                                              |               370 |
 | Openness                                                         |               382 |

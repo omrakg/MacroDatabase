@@ -9,7 +9,7 @@
 | Arapahoe County, CO          |               147 |
 | Boulder County, CO           |               147 |
 | Grand County, CO             |                90 |
-| Pitkin County, CO            |                90 |
+| Pitkin County, CO            |                 0 |
 | Summit County, CO            |                90 |
 | Conejos County, CO           |                88 |
 | Elbert County, CO            |                90 |
@@ -38,7 +38,7 @@
 | Mesa County, CO              |               146 |
 | La Plata County, CO          |               146 |
 | Rio Grande County, CO        |                89 |
-| Costilla County, CO          |                 0 |
+| Costilla County, CO          |                88 |
 | Yuma County, CO              |                89 |
 | Kit Carson County, CO        |                89 |
 | Custer County, CO            |                90 |

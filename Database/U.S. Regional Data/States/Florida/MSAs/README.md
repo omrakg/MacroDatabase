@@ -3,7 +3,7 @@
 | Port St. Lucie, FL                      |               162 |
 | Cape Coral-Fort Myers, FL               |               169 |
 | Orlando-Kissimmee, FL                   |               247 |
-| Deltona-Daytona Beach-Ormond Beach, FL  |                 0 |
+| Deltona-Daytona Beach-Ormond Beach, FL  |               173 |
 | Jacksonville, FL                        |               215 |
 | Punta Gorda, FL                         |               162 |
 | Lakeland-Winter Haven, FL               |               172 |

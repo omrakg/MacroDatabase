@@ -57,60 +57,60 @@
 | LARE748UR                 | Unemployment Rate in Laredo, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LARE748URN                | Unemployment Rate in Laredo, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LAREDUHA158MFRBDAL        | Education and Health Services Payroll Employment for Laredo, TX (MSA)                                       | 1990-02-01          | 2022-07-01        |
-| LAREDUHA175MCFRBDAL       | Change in Education and Health Services Payroll Employment for Laredo, TX (MSA)                             | 1990-02-01          | 2022-07-01        |
-| LAREDUHA175MFRBDAL        | Education and Health Services Payroll Employment for Laredo, TX (MSA)                                       | 1990-01-01          | 2022-07-01        |
+| LAREDUHA175MCFRBDAL       | Change in Education and Health Services Payroll Employment for Laredo, TX (MSA)                             | 1990-02-01          | 2022-08-01        |
+| LAREDUHA175MFRBDAL        | Education and Health Services Payroll Employment for Laredo, TX (MSA)                                       | 1990-01-01          | 2022-08-01        |
 | LAREDUHA674AFRBDAL        | Education and Health Services Payroll Employment for Laredo, TX (MSA)                                       | 1991-01-01          | 2021-01-01        |
-| LARFIREA158MFRBDAL        | Financial Activities Payroll Employment for Laredo, TX (MSA)                                                | 1990-02-01          | 2022-07-01        |
-| LARFIREA175MCFRBDAL       | Change in Financial Activities Payroll Employment for Laredo, TX (MSA)                                      | 1990-02-01          | 2022-07-01        |
-| LARFIREA175MFRBDAL        | Financial Activities Payroll Employment for Laredo, TX (MSA)                                                | 1990-01-01          | 2022-07-01        |
+| LARFIREA158MFRBDAL        | Financial Activities Payroll Employment for Laredo, TX (MSA)                                                | 1990-02-01          | 2022-08-01        |
+| LARFIREA175MCFRBDAL       | Change in Financial Activities Payroll Employment for Laredo, TX (MSA)                                      | 1990-02-01          | 2022-08-01        |
+| LARFIREA175MFRBDAL        | Financial Activities Payroll Employment for Laredo, TX (MSA)                                                | 1990-01-01          | 2022-08-01        |
 | LARFIREA674AFRBDAL        | Financial Activities Payroll Employment for Laredo, TX (MSA)                                                | 1991-01-01          | 2021-01-01        |
-| LARGOODA158MFRBDAL        | Goods Producing Payroll Employment for Laredo, TX (MSA)                                                     | 1990-02-01          | 2022-07-01        |
-| LARGOODA175MCFRBDAL       | Change in Goods Producing Payroll Employment for Laredo, TX (MSA)                                           | 1990-02-01          | 2022-07-01        |
-| LARGOODA175MFRBDAL        | Goods Producing Payroll Employment for Laredo, TX (MSA)                                                     | 1990-01-01          | 2022-07-01        |
+| LARGOODA158MFRBDAL        | Goods Producing Payroll Employment for Laredo, TX (MSA)                                                     | 1990-02-01          | 2022-08-01        |
+| LARGOODA175MCFRBDAL       | Change in Goods Producing Payroll Employment for Laredo, TX (MSA)                                           | 1990-02-01          | 2022-08-01        |
+| LARGOODA175MFRBDAL        | Goods Producing Payroll Employment for Laredo, TX (MSA)                                                     | 1990-01-01          | 2022-08-01        |
 | LARGOODA674AFRBDAL        | Goods Producing Payroll Employment for Laredo, TX (MSA)                                                     | 1991-01-01          | 2021-01-01        |
-| LARGOVTA158MFRBDAL        | Government Payroll Employment for Laredo, TX (MSA)                                                          | 1990-02-01          | 2022-07-01        |
-| LARGOVTA175MCFRBDAL       | Change in Government Payroll Employment for Laredo, TX (MSA)                                                | 1990-02-01          | 2022-07-01        |
-| LARGOVTA175MFRBDAL        | Government Payroll Employment for Laredo, TX (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LARGOVTA158MFRBDAL        | Government Payroll Employment for Laredo, TX (MSA)                                                          | 1990-02-01          | 2022-08-01        |
+| LARGOVTA175MCFRBDAL       | Change in Government Payroll Employment for Laredo, TX (MSA)                                                | 1990-02-01          | 2022-08-01        |
+| LARGOVTA175MFRBDAL        | Government Payroll Employment for Laredo, TX (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LARGOVTA674AFRBDAL        | Government Payroll Employment for Laredo, TX (MSA)                                                          | 1991-01-01          | 2021-01-01        |
-| LARINFOA158MFRBDAL        | Information Payroll Employment for Laredo, TX (MSA)                                                         | 1990-02-01          | 2022-07-01        |
-| LARINFOA175MCFRBDAL       | Change in Information Payroll Employment for Laredo, TX (MSA)                                               | 1990-02-01          | 2022-07-01        |
-| LARINFOA175MFRBDAL        | Information Payroll Employment for Laredo, TX (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| LARINFOA158MFRBDAL        | Information Payroll Employment for Laredo, TX (MSA)                                                         | 1990-02-01          | 2022-08-01        |
+| LARINFOA175MCFRBDAL       | Change in Information Payroll Employment for Laredo, TX (MSA)                                               | 1990-02-01          | 2022-08-01        |
+| LARINFOA175MFRBDAL        | Information Payroll Employment for Laredo, TX (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | LARINFOA674AFRBDAL        | Information Payroll Employment for Laredo, TX (MSA)                                                         | 1991-01-01          | 2021-01-01        |
-| LARLEIHA158MFRBDAL        | Leisure and Hospitality Payroll Employment for Laredo, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| LARLEIHA175MCFRBDAL       | Change in Leisure and Hospitality Payroll Employment for Laredo, TX (MSA)                                   | 1990-02-01          | 2022-07-01        |
-| LARLEIHA175MFRBDAL        | Leisure and Hospitality Payroll Employment for Laredo, TX (MSA)                                             | 1990-01-01          | 2022-07-01        |
+| LARLEIHA158MFRBDAL        | Leisure and Hospitality Payroll Employment for Laredo, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| LARLEIHA175MCFRBDAL       | Change in Leisure and Hospitality Payroll Employment for Laredo, TX (MSA)                                   | 1990-02-01          | 2022-08-01        |
+| LARLEIHA175MFRBDAL        | Leisure and Hospitality Payroll Employment for Laredo, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | LARLEIHA674AFRBDAL        | Leisure and Hospitality Payroll Employment for Laredo, TX (MSA)                                             | 1991-01-01          | 2021-01-01        |
-| LARMANUA158MFRBDAL        | Manufacturing Payroll Employment for Laredo, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| LARMANUA175MCFRBDAL       | Change in Manufacturing Payroll Employment for Laredo, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| LARMANUA175MFRBDAL        | Manufacturing Payroll Employment for Laredo, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| LARMANUA158MFRBDAL        | Manufacturing Payroll Employment for Laredo, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| LARMANUA175MCFRBDAL       | Change in Manufacturing Payroll Employment for Laredo, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| LARMANUA175MFRBDAL        | Manufacturing Payroll Employment for Laredo, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | LARMANUA674AFRBDAL        | Manufacturing Payroll Employment for Laredo, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| LARNRMCA158MFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for Laredo, TX (MSA)                          | 1990-02-01          | 2022-07-01        |
-| LARNRMCA175MCFRBDAL       | Change in Construction, Mining and Natural Resources Payroll Employment for Laredo, TX (MSA)                | 1990-02-01          | 2022-07-01        |
-| LARNRMCA175MFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for Laredo, TX (MSA)                          | 1990-01-01          | 2022-07-01        |
+| LARNRMCA158MFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for Laredo, TX (MSA)                          | 1990-02-01          | 2022-08-01        |
+| LARNRMCA175MCFRBDAL       | Change in Construction, Mining and Natural Resources Payroll Employment for Laredo, TX (MSA)                | 1990-02-01          | 2022-08-01        |
+| LARNRMCA175MFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for Laredo, TX (MSA)                          | 1990-01-01          | 2022-08-01        |
 | LARNRMCA674AFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for Laredo, TX (MSA)                          | 1991-01-01          | 2021-01-01        |
-| LARPBSVA158MFRBDAL        | Professional and Business Services Payroll Employment for Laredo, TX (MSA)                                  | 1990-02-01          | 2022-07-01        |
-| LARPBSVA175MCFRBDAL       | Change in Professional and Business Services Payroll Employment for Laredo, TX (MSA)                        | 1990-02-01          | 2022-07-01        |
-| LARPBSVA175MFRBDAL        | Professional and Business Services Payroll Employment for Laredo, TX (MSA)                                  | 1990-01-01          | 2022-07-01        |
+| LARPBSVA158MFRBDAL        | Professional and Business Services Payroll Employment for Laredo, TX (MSA)                                  | 1990-02-01          | 2022-08-01        |
+| LARPBSVA175MCFRBDAL       | Change in Professional and Business Services Payroll Employment for Laredo, TX (MSA)                        | 1990-02-01          | 2022-08-01        |
+| LARPBSVA175MFRBDAL        | Professional and Business Services Payroll Employment for Laredo, TX (MSA)                                  | 1990-01-01          | 2022-08-01        |
 | LARPBSVA674AFRBDAL        | Professional and Business Services Payroll Employment for Laredo, TX (MSA)                                  | 1991-01-01          | 2021-01-01        |
-| LARPRIVA158MFRBDAL        | Private Payroll Employment for Laredo, TX (MSA)                                                             | 1990-02-01          | 2022-07-01        |
-| LARPRIVA175MCFRBDAL       | Change in Private Payroll Employment for Laredo, TX (MSA)                                                   | 1990-02-01          | 2022-07-01        |
-| LARPRIVA175MFRBDAL        | Private Payroll Employment for Laredo, TX (MSA)                                                             | 1990-01-01          | 2022-07-01        |
+| LARPRIVA158MFRBDAL        | Private Payroll Employment for Laredo, TX (MSA)                                                             | 1990-02-01          | 2022-08-01        |
+| LARPRIVA175MCFRBDAL       | Change in Private Payroll Employment for Laredo, TX (MSA)                                                   | 1990-02-01          | 2022-08-01        |
+| LARPRIVA175MFRBDAL        | Private Payroll Employment for Laredo, TX (MSA)                                                             | 1990-01-01          | 2022-08-01        |
 | LARPRIVA674AFRBDAL        | Private Payroll Employment for Laredo, TX (MSA)                                                             | 1991-01-01          | 2021-01-01        |
-| LARSA158MFRBDAL           | Total Nonfarm Payroll Employment for Laredo, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| LARSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Laredo, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| LARSA175MFRBDAL           | Total Nonfarm Payroll Employment for Laredo, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| LARSA158MFRBDAL           | Total Nonfarm Payroll Employment for Laredo, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| LARSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Laredo, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| LARSA175MFRBDAL           | Total Nonfarm Payroll Employment for Laredo, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | LARSA674AFRBDAL           | Total Nonfarm Payroll Employment for Laredo, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| LARSERPA158MFRBDAL        | Service-Providing Payroll Employment for Laredo, TX (MSA)                                                   | 1990-02-01          | 2022-07-01        |
-| LARSERPA175MCFRBDAL       | Change in Service-Providing Payroll Employment for Laredo, TX (MSA)                                         | 1990-02-01          | 2022-07-01        |
-| LARSERPA175MFRBDAL        | Service-Providing Payroll Employment for Laredo, TX (MSA)                                                   | 1990-01-01          | 2022-07-01        |
+| LARSERPA158MFRBDAL        | Service-Providing Payroll Employment for Laredo, TX (MSA)                                                   | 1990-02-01          | 2022-08-01        |
+| LARSERPA175MCFRBDAL       | Change in Service-Providing Payroll Employment for Laredo, TX (MSA)                                         | 1990-02-01          | 2022-08-01        |
+| LARSERPA175MFRBDAL        | Service-Providing Payroll Employment for Laredo, TX (MSA)                                                   | 1990-01-01          | 2022-08-01        |
 | LARSERPA674AFRBDAL        | Service-Providing Payroll Employment for Laredo, TX (MSA)                                                   | 1991-01-01          | 2021-01-01        |
-| LARSRVOA158MFRBDAL        | Other Services Payroll Employment for Laredo, TX (MSA)                                                      | 1990-02-01          | 2022-07-01        |
-| LARSRVOA175MCFRBDAL       | Change in Other Services Payroll Employment for Laredo, TX (MSA)                                            | 1990-02-01          | 2022-07-01        |
-| LARSRVOA175MFRBDAL        | Other Services Payroll Employment for Laredo, TX (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| LARSRVOA158MFRBDAL        | Other Services Payroll Employment for Laredo, TX (MSA)                                                      | 1990-02-01          | 2022-08-01        |
+| LARSRVOA175MCFRBDAL       | Change in Other Services Payroll Employment for Laredo, TX (MSA)                                            | 1990-02-01          | 2022-08-01        |
+| LARSRVOA175MFRBDAL        | Other Services Payroll Employment for Laredo, TX (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | LARSRVOA674AFRBDAL        | Other Services Payroll Employment for Laredo, TX (MSA)                                                      | 1991-01-01          | 2021-01-01        |
-| LARTTULA158MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                                | 1990-02-01          | 2022-07-01        |
-| LARTTULA175MCFRBDAL       | Change in Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                      | 1990-02-01          | 2022-07-01        |
-| LARTTULA175MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                                | 1990-01-01          | 2022-07-01        |
+| LARTTULA158MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                                | 1990-02-01          | 2022-08-01        |
+| LARTTULA175MCFRBDAL       | Change in Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                      | 1990-02-01          | 2022-08-01        |
+| LARTTULA175MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                                | 1990-01-01          | 2022-08-01        |
 | LARTTULA674AFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                                | 1991-01-01          | 2021-01-01        |
 | LAUMT482970000000003A     | Unemployment Rate in Laredo, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT482970000000004      | Unemployed Persons in Laredo, TX (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

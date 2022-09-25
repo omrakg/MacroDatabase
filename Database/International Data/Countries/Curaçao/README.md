@@ -28,8 +28,8 @@
 | IACUWA475SCEN     | Number of Identified Exporters to Curacao from Iowa                                                                 | 2011-01-01          | 2017-01-01        |
 | IDCUWA052SCEN     | Value of Exports to Curacao from Idaho                                                                              | 2016-01-01          | 2016-01-01        |
 | IDCUWA475SCEN     | Number of Identified Exporters to Curacao from Idaho                                                                | 2011-01-01          | 2016-01-01        |
-| IDSAMRIAOCW       | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Curacao | 2005-04-01          | 2022-01-01        |
-| IDSAMRINICW       | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Curacao         | 2005-04-01          | 2022-01-01        |
+| IDSAMRIAOCW       | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Curacao | 2005-04-01          | 2022-04-01        |
+| IDSAMRINICW       | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Curacao         | 2005-04-01          | 2022-04-01        |
 | ILCUWA052SCEN     | Value of Exports to Curacao from Illinois                                                                           | 2011-01-01          | 2017-01-01        |
 | ILCUWA475SCEN     | Number of Identified Exporters to Curacao from Illinois                                                             | 2011-01-01          | 2017-01-01        |
 | IMP2777           | U.S. Imports of Goods by Customs Basis from Curacao                                                                 | 2011-01-01          | 2022-07-01        |

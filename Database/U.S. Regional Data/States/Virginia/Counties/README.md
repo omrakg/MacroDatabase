@@ -28,7 +28,7 @@
 | Caroline County, VA                                 |                90 |
 | Rockingham County + Harrisonburg City, VA           |                12 |
 | York County + Poquoson City, VA                     |                12 |
-| Montgomery County + Radford City, VA                |                 0 |
+| Montgomery County + Radford City, VA                |                12 |
 | Petersburg City, VA                                 |                79 |
 | Wise County + Norton City, VA                       |                12 |
 | Buchanan County, VA                                 |                88 |
@@ -45,7 +45,7 @@
 | Clifton Forge City, VA                              |                 1 |
 | Cumberland County, VA                               |                90 |
 | Dickenson County, VA                                |                89 |
-| Spotsylvania County, VA                             |               137 |
+| Spotsylvania County, VA                             |                 0 |
 | Henrico County, VA                                  |               147 |
 | Fairfax City, VA                                    |                79 |
 | Warren County, VA                                   |                90 |
@@ -88,7 +88,7 @@
 | Alleghany County + Covington City, VA               |                12 |
 | Franklin City, VA                                   |                79 |
 | Colonial Heights City, VA                           |                77 |
-| Russell County, VA                                  |                 0 |
+| Russell County, VA                                  |                89 |
 | Norfolk City, VA                                    |               145 |
 | Louisa County, VA                                   |                90 |
 | Shenandoah County, VA                               |                90 |
@@ -105,7 +105,7 @@
 | Dinwiddie County, VA                                |                80 |
 | Madison County, VA                                  |                90 |
 | Goochland County, VA                                |                89 |
-| Essex County, VA                                    |                89 |
+| Essex County, VA                                    |                 0 |
 | Alexandria City, VA                                 |               146 |
 | York County, VA                                     |               137 |
 | Bath County, VA                                     |                89 |
@@ -148,7 +148,7 @@
 | Northampton County, VA                              |                90 |
 | Prince George County + Hopewell City, VA            |                12 |
 | Charles City County, VA                             |                90 |
-| Martinsville City, VA                               |                 0 |
+| Martinsville City, VA                               |                78 |
 | Frederick County + Winchester City, VA              |                12 |
 | Winchester City, VA                                 |                79 |
 | Rockbridge, Buena Vista + Lexington County, VA      |                10 |

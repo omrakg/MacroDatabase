@@ -7,7 +7,7 @@
 | Real Estate and Rental and Leasing                                       |               196 |
 | Other Services (except Public Administration)                            |                11 |
 | Retail Trade                                                             |                 0 |
-| Professional, Scientific, and Technical Services                         |                69 |
+| Professional, Scientific, and Technical Services                         |                 0 |
 | Agriculture, Forestry, Fishing and Hunting                               |                 8 |
 | Arts, Entertainment, and Recreation                                      |                24 |
 | Utilities                                                                |                 0 |

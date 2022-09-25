@@ -28,7 +28,7 @@
 | Jefferson County, ID  |                90 |
 | Minidoka County, ID   |                90 |
 | Franklin County, ID   |                90 |
-| Idaho County, ID      |                90 |
+| Idaho County, ID      |                 0 |
 | Lemhi County, ID      |                89 |
 | Owyhee County, ID     |                88 |
 | Camas County, ID      |                85 |

@@ -6,7 +6,7 @@
 | Waterbury, CT                            |                86 |
 | Norwich-New London, CT-RI                |                 0 |
 | Worcester, MA-CT                         |               117 |
-| New Haven, CT                            |               107 |
+| New Haven, CT                            |                 0 |
 | Torrington, CT                           |                 0 |
 | Danielson, CT                            |                 0 |
 | Bridgeport-Stamford-Norwalk, CT          |               113 |

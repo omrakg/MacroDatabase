@@ -25,7 +25,7 @@
 | Calloway County, KY     |                90 |
 | Franklin County, KY     |               145 |
 | Shelby County, KY       |                90 |
-| Fulton County, KY       |                88 |
+| Fulton County, KY       |                 0 |
 | Clark County, KY        |                90 |
 | Monroe County, KY       |                88 |
 | Wayne County, KY        |                90 |
@@ -38,7 +38,7 @@
 | Logan County, KY        |                90 |
 | Lyon County, KY         |                90 |
 | Johnson County, KY      |                89 |
-| Hopkins County, KY      |                 0 |
+| Hopkins County, KY      |               145 |
 | Owsley County, KY       |                86 |
 | Wolfe County, KY        |                87 |
 | Laurel County, KY       |               146 |
@@ -85,7 +85,7 @@
 | Campbell County, KY     |               145 |
 | Daviess County, KY      |               147 |
 | Cumberland County, KY   |                88 |
-| Hart County, KY         |                89 |
+| Hart County, KY         |                 0 |
 | Casey County, KY        |                90 |
 | Webster County, KY      |                90 |
 | Powell County, KY       |                90 |
@@ -98,7 +98,7 @@
 | Barren County, KY       |                89 |
 | Breckinridge County, KY |                89 |
 | Henry County, KY        |                90 |
-| Boyd County, KY         |                 0 |
+| Boyd County, KY         |               146 |
 | Knott County, KY        |                87 |
 | Breathitt County, KY    |                89 |
 | Owen County, KY         |                90 |

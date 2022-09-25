@@ -10,12 +10,12 @@
 | CWNCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-07-01        |
 | CWNCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-07-01        |
 | CWNCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-07-01        |
-| CWNCLF                | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-07-01        |
-| CWNCLFN               | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-07-01        |
+| CWNCLF                | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-08-01        |
+| CWNCLFN               | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-08-01        |
 | CWNCPOP               | Resident Population in the West North Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |
 | CWNCSTHPI             | All-Transactions House Price Index for the West North Central Census Division                                                    | 1975-01-01          | 2022-04-01        |
-| CWNCUR                | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2022-07-01        |
-| CWNCURN               | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2022-07-01        |
+| CWNCUR                | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2022-08-01        |
+| CWNCURN               | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2022-08-01        |
 | LASRD840000000000004  | Unemployed Persons in West North Central Census Division                                                                         | 1976-01-01          | 2022-07-01        |
 | LASRD840000000000005  | Employed Persons in West North Central Census Division                                                                           | 1976-01-01          | 2022-07-01        |
 | LAURD840000000000003A | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2021-01-01        |

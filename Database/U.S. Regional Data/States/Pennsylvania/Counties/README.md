@@ -10,7 +10,7 @@
 | Mercer County, PA              |               143 |
 | Mifflin County, PA             |               143 |
 | Adams County, PA               |               147 |
-| Franklin County, PA            |               147 |
+| Franklin County, PA            |                 0 |
 | Clarion County, PA             |                90 |
 | Butler County, PA              |               143 |
 | Washington County, PA          |               145 |
@@ -39,7 +39,7 @@
 | Elk County, PA                 |                90 |
 | Snyder County, PA              |                90 |
 | Bucks County, PA               |               147 |
-| Allegheny County, PA           |                 0 |
+| Allegheny County, PA           |               145 |
 | Wyoming County, PA             |                90 |
 | York County, PA                |               147 |
 | Lebanon County, PA             |               145 |

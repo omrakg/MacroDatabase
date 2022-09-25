@@ -82,7 +82,7 @@
 | DDSI05BTA156NWDB  | Bank Regulatory Capital to Risk-Weighted Assets for Bhutan                                                           | 2009-01-01          | 2019-01-01        |
 | DDSI06BTA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Bhutan                                                          | 2013-01-01          | 2020-01-01        |
 | DDSI07BTA156NWDB  | Provisions to Non-Performing Loans for Bhutan                                                                        | 2009-01-01          | 2019-01-01        |
-| DEBTTLBTA188A     | Central government debt, total (% of GDP) for Bhutan                                                                 | 1990-01-01          | 2016-01-01        |
+| DEBTTLBTA188A     | Central government debt, total (% of GDP) for Bhutan                                                                 | 1990-01-01          | 2020-01-01        |
 | EXP5682           | U.S. Exports of Goods by F.A.S. Basis to Bhutan                                                                      | 1992-01-01          | 2022-07-01        |
 | FLBTNA052SCEN     | Value of Exports to Bhutan from Florida                                                                              | 2005-01-01          | 2016-01-01        |
 | FLBTNA475SCEN     | Number of Identified Exporters to Bhutan from Florida                                                                | 1997-01-01          | 2016-01-01        |

@@ -7,7 +7,7 @@
 | Wasatch County, UT    |                90 |
 | Tooele County, UT     |               146 |
 | Millard County, UT    |                89 |
-| Daggett County, UT    |                86 |
+| Daggett County, UT    |                 0 |
 | Garfield County, UT   |                87 |
 | Piute County, UT      |                88 |
 | Summit County, UT     |                90 |
@@ -16,7 +16,7 @@
 | Iron County, UT       |                90 |
 | Uintah County, UT     |                90 |
 | Sevier County, UT     |                89 |
-| Kane County, UT       |                 0 |
+| Kane County, UT       |                89 |
 | Salt Lake County, UT  |               147 |
 | Juab County, UT       |                89 |
 | Box Elder County, UT  |                90 |

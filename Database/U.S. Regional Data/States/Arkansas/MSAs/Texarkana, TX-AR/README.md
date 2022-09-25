@@ -155,9 +155,9 @@
 | TEXPBSVN                  | All Employees: Professional and Business Services in Texarkana, TX-AR (MSA)                                       | 1990-01-01          | 2022-08-01        |
 | TEXPCPI                   | Per Capita Personal Income in Texarkana, TX-AR (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | TEXPOP                    | Resident Population in Texarkana, TX-Texarkana, AR (MSA)                                                          | 1970-01-01          | 2021-01-01        |
-| TEXSA158MFRBDAL           | Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA)                                            | 1990-02-01          | 2022-07-01        |
-| TEXSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA)                                  | 1990-02-01          | 2022-07-01        |
-| TEXSA175MFRBDAL           | Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA)                                            | 1990-01-01          | 2022-07-01        |
+| TEXSA158MFRBDAL           | Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA)                                            | 1990-02-01          | 2022-08-01        |
+| TEXSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA)                                  | 1990-02-01          | 2022-08-01        |
+| TEXSA175MFRBDAL           | Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | TEXSA674AFRBDAL           | Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA)                                            | 1991-01-01          | 2021-01-01        |
 | TEXSRVON                  | All Employees: Other Services in Texarkana, TX-AR (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | TEXTRADN                  | All Employees: Trade, Transportation, and Utilities in Texarkana, TX-AR (MSA)                                     | 1990-01-01          | 2022-08-01        |

@@ -6,4 +6,4 @@
 | Yuma, AZ                     |               146 |
 | Tucson, AZ                   |               232 |
 | Phoenix-Mesa-Chandler, AZ    |               327 |
-| Flagstaff, AZ                |               126 |
+| Flagstaff, AZ                |                 0 |

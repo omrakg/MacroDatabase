@@ -52,7 +52,7 @@
 | HORAMSA16860              | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA16860            | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA16860              | Market Hotness: Hotness Score in Chattanooga, TN-GA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG16860               | Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                  | 2020-02-01          | 2022-09-09        |
+| IHLCHG16860               | Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD16860                 | Implicit Regional Price Deflator for Chattanooga, TN-GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT471686000000003A     | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT471686000000004      | Unemployed Persons in Chattanooga, TN-GA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

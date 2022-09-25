@@ -24,7 +24,7 @@
 | HORAMSA40060              | Market Hotness: Hotness Rank in Richmond, VA (CBSA)                                                                                               | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA40060            | Market Hotness: Hotness Rank in Richmond, VA (CBSA)                                                                                               | 2018-08-01          | 2022-08-01        |
 | HOSCMSA40060              | Market Hotness: Hotness Score in Richmond, VA (CBSA)                                                                                              | 2017-08-01          | 2022-08-01        |
-| IHLCHG40060               | Job Postings on Indeed in Richmond, VA (MSA)                                                                                                      | 2020-02-01          | 2022-09-09        |
+| IHLCHG40060               | Job Postings on Indeed in Richmond, VA (MSA)                                                                                                      | 2020-02-01          | 2022-09-16        |
 | IRPD40060                 | Implicit Regional Price Deflator for Richmond, VA (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT514006000000003A     | Unemployment Rate in Richmond, VA (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT514006000000004      | Unemployed Persons in Richmond, VA (MSA)                                                                                                          | 1990-01-01          | 2022-07-01        |

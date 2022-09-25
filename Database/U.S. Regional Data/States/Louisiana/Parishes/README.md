@@ -50,13 +50,13 @@
 | Lafayette Parish, LA            |               147 |
 | East Feliciana Parish, LA       |                90 |
 | Sabine Parish, LA               |                90 |
-| Caddo Parish, LA                |               147 |
+| Caddo Parish, LA                |                 0 |
 | Vernon Parish, LA               |               145 |
 | Orleans Parish, LA              |               145 |
 | St. Martin Parish, LA           |               146 |
 | Jefferson Davis Parish, LA      |                90 |
 | West Feliciana Parish, LA       |                89 |
-| Bienville Parish, LA            |                 0 |
+| Bienville Parish, LA            |                88 |
 | LaFourche Parish, LA            |               147 |
 | Plaquemines Parish, LA          |                89 |
 | Franklin Parish, LA             |                89 |

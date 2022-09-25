@@ -62,9 +62,9 @@
 | LUBB148TRADN              | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | LUBB148UR                 | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LUBB148URN                | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| LUBSA158MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| LUBSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| LUBSA175MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| LUBSA158MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| LUBSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| LUBSA175MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | LUBSA674AFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA31180        | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
 | MEDAONMAMSA31180          | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-08-01        |

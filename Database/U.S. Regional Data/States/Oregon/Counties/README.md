@@ -29,7 +29,7 @@
 | Lake County, OR       |                89 |
 | Clatsop County, OR    |                90 |
 | Clackamas County, OR  |               147 |
-| Wallowa County, OR    |                 0 |
+| Wallowa County, OR    |                90 |
 | Washington County, OR |               147 |
 | Gilliam County, OR    |                88 |
 | Sherman County, OR    |                87 |

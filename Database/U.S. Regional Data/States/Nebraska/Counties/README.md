@@ -14,9 +14,9 @@
 | Adams County, NE        |                89 |
 | Cedar County, NE        |                90 |
 | Valley County, NE       |                88 |
-| Keya Paha County, NE    |                85 |
+| Keya Paha County, NE    |                 0 |
 | Clay County, NE         |                88 |
-| Keith County, NE        |                 0 |
+| Keith County, NE        |                89 |
 | Howard County, NE       |                90 |
 | Nuckolls County, NE     |                87 |
 | Cuming County, NE       |                90 |
@@ -74,9 +74,9 @@
 | Wheeler County, NE      |                84 |
 | Fillmore County, NE     |                90 |
 | Red Willow County, NE   |                90 |
-| Saline County, NE       |                89 |
+| Saline County, NE       |                 0 |
 | Thomas County, NE       |                85 |
-| Custer County, NE       |                 0 |
+| Custer County, NE       |                90 |
 | Gosper County, NE       |                87 |
 | Sheridan County, NE     |                87 |
 | Washington County, NE   |                90 |

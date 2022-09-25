@@ -56,7 +56,7 @@
 | HORAMSA10740              | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA10740            | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA10740              | Market Hotness: Hotness Score in Albuquerque, NM (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG10740               | Job Postings on Indeed in Albuquerque, NM (MSA)                                                                  | 2020-02-01          | 2022-09-09        |
+| IHLCHG10740               | Job Postings on Indeed in Albuquerque, NM (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD10740                 | Implicit Regional Price Deflator for Albuquerque, NM (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT351074000000003A     | Unemployment Rate in Albuquerque, NM (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT351074000000004      | Unemployed Persons in Albuquerque, NM (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

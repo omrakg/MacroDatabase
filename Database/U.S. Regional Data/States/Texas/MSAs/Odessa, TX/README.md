@@ -93,9 +93,9 @@
 | ODES248TRADN              | All Employees: Trade, Transportation, and Utilities in Odessa, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | ODES248UR                 | Unemployment Rate in Odessa, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | ODES248URN                | Unemployment Rate in Odessa, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| ODESA158MFRBDAL           | Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| ODESA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| ODESA175MFRBDAL           | Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| ODESA158MFRBDAL           | Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| ODESA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| ODESA175MFRBDAL           | Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | ODESA674AFRBDAL           | Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | PATENTCBSA136220          | U.S. Granted Utility Patents Originating in Odessa, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36220            | Housing Inventory: Pending Listing Count in Odessa, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |

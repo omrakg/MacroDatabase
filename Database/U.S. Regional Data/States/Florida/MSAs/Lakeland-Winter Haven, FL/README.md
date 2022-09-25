@@ -24,7 +24,7 @@
 | HORAMSA29460              | Market Hotness: Hotness Rank in Lakeland-Winter Haven, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA29460            | Market Hotness: Hotness Rank in Lakeland-Winter Haven, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA29460              | Market Hotness: Hotness Score in Lakeland-Winter Haven, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG29460               | Job Postings on Indeed in Lakeland-Winter Haven, FL (MSA)                                                                  | 2020-02-01          | 2022-09-09        |
+| IHLCHG29460               | Job Postings on Indeed in Lakeland-Winter Haven, FL (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD29460                 | Implicit Regional Price Deflator for Lakeland-Winter Haven, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAKE412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Lakeland-Winter Haven, FL (MSA)            | 1988-01-01          | 2022-07-01        |
 | LAKE412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Lakeland-Winter Haven, FL (MSA)            | 1988-01-01          | 2022-07-01        |

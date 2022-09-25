@@ -31,7 +31,7 @@
 | Wahkiakum County, WA    |                90 |
 | Island County, WA       |               147 |
 | Mason County, WA        |               146 |
-| Ferry County, WA        |                88 |
+| Ferry County, WA        |                 0 |
 | Cowlitz County, WA      |               147 |
 | Okanogan County, WA     |                90 |
 | Pend Oreille County, WA |                90 |

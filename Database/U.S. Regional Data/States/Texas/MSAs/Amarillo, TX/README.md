@@ -31,9 +31,9 @@
 | AMAR148TRADN              | All Employees: Trade, Transportation, and Utilities in Amarillo, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | AMAR148UR                 | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | AMAR148URN                | Unemployment Rate in Amarillo, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| AMASA158MFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| AMASA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| AMASA175MFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| AMASA158MFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| AMASA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| AMASA175MFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | AMASA674AFRBDAL           | Total Nonfarm Payroll Employment for Amarillo, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | ATNHPIUS11100Q            | All-Transactions House Price Index for Amarillo, TX (MSA)                                                     | 1980-01-01          | 2022-04-01        |
 | AVELISPRI11100            | Housing Inventory: Average Listing Price in Amarillo, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |

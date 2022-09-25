@@ -39,7 +39,7 @@
 | Dickinson County, IA     |                90 |
 | Madison County, IA       |                90 |
 | Buchanan County, IA      |                90 |
-| Guthrie County, IA       |                89 |
+| Guthrie County, IA       |                 0 |
 | Appanoose County, IA     |                88 |
 | Hamilton County, IA      |                89 |
 | Winnebago County, IA     |                90 |
@@ -48,7 +48,7 @@
 | Polk County, IA          |               147 |
 | Buena Vista County, IA   |                90 |
 | Wapello County, IA       |                90 |
-| Lucas County, IA         |                 0 |
+| Lucas County, IA         |                89 |
 | Clinton County, IA       |               146 |
 | Benton County, IA        |                90 |
 | Monona County, IA        |                90 |

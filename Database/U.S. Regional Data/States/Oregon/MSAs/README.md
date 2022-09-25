@@ -2,7 +2,7 @@
 |-------------------------------------|-------------------|
 | Corvallis, OR                       |               144 |
 | Portland-Vancouver-Beaverton, OR-WA |                 0 |
-| Salem, OR                           |               197 |
+| Salem, OR                           |                 0 |
 | Albany-Lebanon, OR                  |               131 |
 | Grants Pass, OR                     |               119 |
 | Medford, OR                         |               186 |

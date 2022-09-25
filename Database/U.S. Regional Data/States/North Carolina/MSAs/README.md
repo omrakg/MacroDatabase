@@ -3,7 +3,7 @@
 | Hickory-Lenoir-Morganton, NC                  |               176 |
 | Charlotte-Concord-Gastonia, NC-SC             |               264 |
 | Myrtle Beach-Conway-North Myrtle Beach, SC-NC |               168 |
-| Rocky Mount, NC                               |                 0 |
+| Rocky Mount, NC                               |               143 |
 | Wilmington, NC                                |               169 |
 | Raleigh-Cary, NC                              |               217 |
 | New Bern, NC                                  |                59 |

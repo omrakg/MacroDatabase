@@ -4,7 +4,7 @@
 | Amador County, CA               |                90 |
 | Kings County, CA                |               147 |
 | Sacramento County, CA           |               147 |
-| Imperial County, CA             |                 0 |
+| Imperial County, CA             |               147 |
 | Madera County, CA               |               147 |
 | Alpine County, CA               |                86 |
 | Shasta County, CA               |               147 |
@@ -52,7 +52,7 @@
 | Sonoma County, CA               |               147 |
 | Butte County, CA                |               147 |
 | San Mateo County, CA            |               147 |
-| Sierra County, CA               |                89 |
+| Sierra County, CA               |                 0 |
 | El Dorado County, CA            |               147 |
 | Inyo County, CA                 |                90 |
 | Trinity County, CA              |                89 |

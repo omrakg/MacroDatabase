@@ -89,11 +89,11 @@
 | ICBUSEASEXQKEN      | Ease of doing business index for Kenya                                                                                                  | 2019-01-01          | 2019-01-01        |
 | IDKENA052SCEN       | Value of Exports to Kenya from Idaho                                                                                                    | 1997-01-01          | 2017-01-01        |
 | IDKENA475SCEN       | Number of Identified Exporters to Kenya from Idaho                                                                                      | 1997-01-01          | 2017-01-01        |
-| IDS1MNIAOAIKE       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Kenya                 | 1997-10-01          | 2022-01-01        |
-| IDS1YMAORIAIKE      | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Kenya                   | 1997-10-01          | 2022-01-01        |
-| IDSAMRIAOKE         | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Kenya                       | 1997-10-01          | 2022-01-01        |
+| IDS1MNIAOAIKE       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Kenya                 | 1997-10-01          | 2022-04-01        |
+| IDS1YMAORIAIKE      | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Kenya                   | 1997-10-01          | 2022-04-01        |
+| IDSAMRIAOKE         | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Kenya                       | 1997-10-01          | 2022-04-01        |
 | IDSAMRINIKE         | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Kenya                               | 1997-10-01          | 2021-04-01        |
-| IDSGAMNIAOKE        | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kenya                    | 1997-10-01          | 2022-01-01        |
+| IDSGAMNIAOKE        | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kenya                    | 1997-10-01          | 2022-04-01        |
 | IDSGAMNINIKE        | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kenya                             | 1997-10-01          | 2021-04-01        |
 | ILKENA052SCEN       | Value of Exports to Kenya from Illinois                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILKENA475SCEN       | Number of Identified Exporters to Kenya from Illinois                                                                                   | 1992-01-01          | 2017-01-01        |

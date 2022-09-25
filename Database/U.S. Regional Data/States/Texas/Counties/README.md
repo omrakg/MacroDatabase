@@ -58,7 +58,7 @@
 | Robertson County, TX     |                88 |
 | Ward County, TX          |                89 |
 | Hunt County, TX          |               147 |
-| Jasper County, TX        |                90 |
+| Jasper County, TX        |                 0 |
 | Llano County, TX         |                90 |
 | Hall County, TX          |                88 |
 | Hill County, TX          |                90 |
@@ -77,7 +77,7 @@
 | Carson County, TX        |                88 |
 | Gaines County, TX        |                88 |
 | Travis County, TX        |               147 |
-| Kendall County, TX       |                 0 |
+| Kendall County, TX       |                90 |
 | San Patricio County, TX  |               147 |
 | Nolan County, TX         |                89 |
 | Limestone County, TX     |                88 |
@@ -118,7 +118,7 @@
 | Garza County, TX         |                87 |
 | Borden County, TX        |                83 |
 | Wood County, TX          |                90 |
-| Comanche County, TX      |                89 |
+| Comanche County, TX      |                 0 |
 | Harris County, TX        |               147 |
 | Goliad County, TX        |                89 |
 | Bailey County, TX        |                89 |
@@ -137,7 +137,7 @@
 | Maverick County, TX      |                89 |
 | Bexar County, TX         |               147 |
 | Deaf Smith County, TX    |                89 |
-| Gregg County, TX         |                 0 |
+| Gregg County, TX         |               147 |
 | Burleson County, TX      |                89 |
 | Freestone County, TX     |                90 |
 | San Saba County, TX      |                88 |
@@ -178,7 +178,7 @@
 | Parker County, TX        |               147 |
 | Fisher County, TX        |                86 |
 | Ector County, TX         |               147 |
-| Waller County, TX        |                90 |
+| Waller County, TX        |                 0 |
 | Lamar County, TX         |               142 |
 | Concho County, TX        |                88 |
 | McLennan County, TX      |               147 |
@@ -197,7 +197,7 @@
 | Knox County, TX          |                89 |
 | Duval County, TX         |                88 |
 | Young County, TX         |                90 |
-| Oldham County, TX        |                 0 |
+| Oldham County, TX        |                87 |
 | Menard County, TX        |                87 |
 | Erath County, TX         |                90 |
 | Rockwall County, TX      |               147 |
@@ -247,7 +247,7 @@
 | Medina County, TX        |                90 |
 | Sherman County, TX       |                87 |
 | Foard County, TX         |                87 |
-| Zavala County, TX        |                87 |
+| Zavala County, TX        |                 0 |
 | Milam County, TX         |                90 |
 | Reagan County, TX        |                88 |
 | Washington County, TX    |                90 |

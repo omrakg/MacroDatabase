@@ -63,9 +63,9 @@
 | LONG948TRADN              | All Employees: Trade, Transportation, and Utilities in Longview, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | LONG948UR                 | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | LONG948URN                | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| LONSA158MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| LONSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Longview, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| LONSA175MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| LONSA158MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| LONSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Longview, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| LONSA175MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | LONSA674AFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA30980        | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
 | MEDAONMAMSA30980          | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2017-08-01          | 2022-08-01        |

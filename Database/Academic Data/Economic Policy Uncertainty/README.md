@@ -70,7 +70,7 @@
 | GEPUPPP            | Global Economic Policy Uncertainty Index: PPP-Adjusted GDP                                          | 1997-01-01          | 2022-08-01        |
 | INDEPUINDXM        | Economic Policy Uncertainty Index for India                                                         | 2003-01-01          | 2022-08-01        |
 | INFECTDISEMVTRACK  | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-08-01        |
-| INFECTDISEMVTRACKD | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-09-11        |
+| INFECTDISEMVTRACKD | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-09-22        |
 | ITEPUINDXM         | Economic Policy Uncertainty Index for Italy                                                         | 1997-01-01          | 2022-08-01        |
 | KOREAEPUINDXM      | Economic Policy Uncertainty Index for South Korea                                                   | 1990-01-01          | 2020-12-01        |
 | SPEPUINDXM         | Economic Policy Uncertainty Index for Spain                                                         | 2001-01-01          | 2022-08-01        |
@@ -78,11 +78,11 @@
 | UKEPUINDXM         | Economic Policy Uncertainty Index for United Kingdom                                                | 1997-01-01          | 2022-08-01        |
 | UKEPUMIGINDX       | Migration Policy Uncertainty Index for the United Kingdom                                           | 1990-01-01          | 2022-07-01        |
 | USEPUFEARINDX      | Migration Fear Index for the United States                                                          | 1990-01-01          | 2022-07-01        |
-| USEPUINDXD         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-09-11        |
+| USEPUINDXD         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-09-22        |
 | USEPUINDXM         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-08-01        |
 | USEPUMIGINDX       | Migration Policy Uncertainty Index for the United States                                            | 1990-01-01          | 2022-07-01        |
 | USEPUNEWSINDXM     | Economic Policy Uncertainty Index: News-Based Index for the United States                           | 1985-01-01          | 2022-08-01        |
-| WLEMUINDXD         | Equity Market-related Economic Uncertainty Index                                                    | 1985-01-01          | 2022-09-11        |
+| WLEMUINDXD         | Equity Market-related Economic Uncertainty Index                                                    | 1985-01-01          | 2022-09-22        |
 | WPDI               | World Discussion About Pandemics Index                                                              | 1996-01-01          | 2022-04-01        |
 | WPDIAFG            | Discussion About Pandemics Index for Afghanistan                                                    | 1996-01-01          | 2022-04-01        |
 | WPDIAGO            | Discussion About Pandemics Index for Angola                                                         | 1996-01-01          | 2022-04-01        |

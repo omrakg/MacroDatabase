@@ -24,7 +24,7 @@
 | HORAMSA44140              | Market Hotness: Hotness Rank in Springfield, MA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA44140            | Market Hotness: Hotness Rank in Springfield, MA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HOSCMSA44140              | Market Hotness: Hotness Score in Springfield, MA (CBSA)                                            | 2017-08-01          | 2022-08-01        |
-| IHLCHG44140               | Job Postings on Indeed in Springfield, MA (MSA)                                                    | 2020-02-01          | 2022-09-09        |
+| IHLCHG44140               | Job Postings on Indeed in Springfield, MA (MSA)                                                    | 2020-02-01          | 2022-09-16        |
 | IRPD44140                 | Implicit Regional Price Deflator for Springfield, MA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA44140          | Market Hotness: Listing Views per Property in Springfield, MA (CBSA)                               | 2018-08-01          | 2022-08-01        |
 | LDPEPRVSUSMSA44140        | Market Hotness: Listing Views per Property Versus the United States in Springfield, MA (CBSA)      | 2017-08-01          | 2022-08-01        |

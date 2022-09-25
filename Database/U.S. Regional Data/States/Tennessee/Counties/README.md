@@ -30,7 +30,7 @@
 | Anderson County, TN   |               147 |
 | Warren County, TN     |                90 |
 | De Kalb County, TN    |                90 |
-| Grainger County, TN   |                 0 |
+| Grainger County, TN   |                88 |
 | Macon County, TN      |                89 |
 | Hickman County, TN    |                90 |
 | Davidson County, TN   |               146 |
@@ -60,7 +60,7 @@
 | Putnam County, TN     |               147 |
 | Dickson County, TN    |               146 |
 | McMinn County, TN     |               146 |
-| Sevier County, TN     |               147 |
+| Sevier County, TN     |                 0 |
 | Washington County, TN |               147 |
 | Clay County, TN       |                87 |
 | Marshall County, TN   |                90 |

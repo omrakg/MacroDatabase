@@ -8,7 +8,7 @@
 | Caledonia County, VT  |                90 |
 | Bennington County, VT |                90 |
 | Franklin County, VT   |               146 |
-| Orange County, VT     |                90 |
+| Orange County, VT     |                 0 |
 | Essex County, VT      |                89 |
 | Windsor County, VT    |               146 |
 | Lamoille County, VT   |                90 |

@@ -3,7 +3,7 @@
 | Duluth, MN-WI                           |               161 |
 | Eau Claire, WI                          |               158 |
 | Appleton, WI                            |               170 |
-| Madison, WI                             |               182 |
+| Madison, WI                             |                 0 |
 | Green Bay, WI                           |               167 |
 | Milwaukee-Waukesha, WI                  |               252 |
 | Chicago-Naperville-Elgin, IL-IN-WI      |               173 |

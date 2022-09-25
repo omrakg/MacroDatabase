@@ -834,97 +834,97 @@
 | DDSM01VEA066NWDB | Volatility of Stock Price Index for Bolivarian Republic of Venezuela                                                  | 2019-01-01          | 2020-01-01        |
 | DDSM01VNA066NWDB | Volatility of Stock Price Index for Viet Nam                                                                          | 2003-01-01          | 2020-01-01        |
 | DDSM01ZAA066NWDB | Volatility of Stock Price Index for South Africa                                                                      | 1997-01-01          | 2020-01-01        |
-| NIKKEI225        | Nikkei Stock Average, Nikkei 225                                                                                      | 1949-05-16          | 2022-09-16        |
-| SPASTT01ATA657N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2021-01-01        |
-| SPASTT01ATA661N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2021-01-01        |
-| SPASTT01ATM657N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2022-08-01        |
-| SPASTT01ATM661N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2022-08-01        |
-| SPASTT01ATQ657N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2022-04-01        |
-| SPASTT01ATQ661N  | Total Share Prices for All Shares for Austria                                                                         | 1960-01-01          | 2022-04-01        |
-| SPASTT01AUA657N  | Total Share Prices for All Shares for Australia                                                                       | 1960-01-01          | 2021-01-01        |
-| SPASTT01AUA661N  | Total Share Prices for All Shares for Australia                                                                       | 1960-01-01          | 2021-01-01        |
-| SPASTT01AUM657N  | Total Share Prices for All Shares for Australia                                                                       | 1960-01-01          | 2022-08-01        |
-| SPASTT01AUM661N  | Total Share Prices for All Shares for Australia                                                                       | 1960-01-01          | 2022-08-01        |
-| SPASTT01AUQ657N  | Total Share Prices for All Shares for Australia                                                                       | 1960-01-01          | 2022-04-01        |
-| SPASTT01AUQ661N  | Total Share Prices for All Shares for Australia                                                                       | 1960-01-01          | 2022-04-01        |
-| SPASTT01BEA657N  | Total Share Prices for All Shares for Belgium                                                                         | 1987-01-01          | 2021-01-01        |
-| SPASTT01BEA661N  | Total Share Prices for All Shares for Belgium                                                                         | 1986-01-01          | 2021-01-01        |
-| SPASTT01BEM657N  | Total Share Prices for All Shares for Belgium                                                                         | 1985-05-01          | 2022-08-01        |
-| SPASTT01BEM661N  | Total Share Prices for All Shares for Belgium                                                                         | 1985-04-01          | 2022-08-01        |
-| SPASTT01BEQ657N  | Total Share Prices for All Shares for Belgium                                                                         | 1985-07-01          | 2022-04-01        |
-| SPASTT01BEQ661N  | Total Share Prices for All Shares for Belgium                                                                         | 1985-04-01          | 2022-04-01        |
-| SPASTT01BRA657N  | Total Share Prices for All Shares for Brazil                                                                          | 1989-01-01          | 2021-01-01        |
-| SPASTT01BRA661N  | Total Share Prices for All Shares for Brazil                                                                          | 1980-01-01          | 2021-01-01        |
-| SPASTT01BRM657N  | Total Share Prices for All Shares for Brazil                                                                          | 1988-11-01          | 2022-08-01        |
-| SPASTT01BRM661N  | Total Share Prices for All Shares for Brazil                                                                          | 1980-01-01          | 2022-08-01        |
-| SPASTT01BRQ657N  | Total Share Prices for All Shares for Brazil                                                                          | 1989-01-01          | 2022-04-01        |
-| SPASTT01BRQ661N  | Total Share Prices for All Shares for Brazil                                                                          | 1980-01-01          | 2022-04-01        |
-| SPASTT01CAA657N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2021-01-01        |
-| SPASTT01CAA661N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2021-01-01        |
-| SPASTT01CAM657N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-08-01        |
-| SPASTT01CAM661N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-08-01        |
-| SPASTT01CAQ657N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-04-01        |
-| SPASTT01CAQ661N  | Total Share Prices for All Shares for Canada                                                                          | 1960-01-01          | 2022-04-01        |
-| SPASTT01CHA657N  | Total Share Prices for All Shares for Switzerland                                                                     | 1960-01-01          | 2021-01-01        |
-| SPASTT01CHA661N  | Total Share Prices for All Shares for Switzerland                                                                     | 1960-01-01          | 2021-01-01        |
-| SPASTT01CHM657N  | Total Share Prices for All Shares for Switzerland                                                                     | 1960-01-01          | 2022-08-01        |
-| SPASTT01CHM661N  | Total Share Prices for All Shares for Switzerland                                                                     | 1960-01-01          | 2022-08-01        |
-| SPASTT01CHQ657N  | Total Share Prices for All Shares for Switzerland                                                                     | 1960-01-01          | 2022-04-01        |
-| SPASTT01CHQ661N  | Total Share Prices for All Shares for Switzerland                                                                     | 1960-01-01          | 2022-04-01        |
-| SPASTT01CLA657N  | Total Share Prices for All Shares for Chile                                                                           | 1991-01-01          | 2021-01-01        |
-| SPASTT01CLA659N  | Total Share Prices for All Shares for Chile                                                                           | 1991-01-01          | 2021-01-01        |
-| SPASTT01CLA661N  | Total Share Prices for All Shares for Chile                                                                           | 1990-01-01          | 2021-01-01        |
-| SPASTT01CLM657N  | Total Share Prices for All Shares for Chile                                                                           | 1990-02-01          | 2022-08-01        |
-| SPASTT01CLM659N  | Total Share Prices for All Shares for Chile                                                                           | 1991-01-01          | 2022-08-01        |
-| SPASTT01CLM661N  | Total Share Prices for All Shares for Chile                                                                           | 1990-01-01          | 2022-08-01        |
-| SPASTT01CLQ657N  | Total Share Prices for All Shares for Chile                                                                           | 1990-04-01          | 2022-04-01        |
-| SPASTT01CLQ659N  | Total Share Prices for All Shares for Chile                                                                           | 1991-01-01          | 2022-04-01        |
-| SPASTT01CLQ661N  | Total Share Prices for All Shares for Chile                                                                           | 1990-01-01          | 2022-04-01        |
-| SPASTT01CNA657N  | Total Share Prices for All Shares for China                                                                           | 1993-01-01          | 2021-01-01        |
-| SPASTT01CNA661N  | Total Share Prices for All Shares for China                                                                           | 1992-01-01          | 2021-01-01        |
-| SPASTT01CNM657N  | Total Share Prices for All Shares for China                                                                           | 1999-02-01          | 2022-08-01        |
-| SPASTT01CNM661N  | Total Share Prices for All Shares for China                                                                           | 1999-01-01          | 2022-08-01        |
-| SPASTT01CNQ657N  | Total Share Prices for All Shares for China                                                                           | 1999-04-01          | 2022-04-01        |
-| SPASTT01CNQ661N  | Total Share Prices for All Shares for China                                                                           | 1999-01-01          | 2022-04-01        |
-| SPASTT01CZA657N  | Total Share Prices for All Shares for the Czech Republic                                                              | 1995-01-01          | 2021-01-01        |
-| SPASTT01CZA661N  | Total Share Prices for All Shares for the Czech Republic                                                              | 1994-01-01          | 2021-01-01        |
-| SPASTT01CZM657N  | Total Share Prices for All Shares for the Czech Republic                                                              | 1994-02-01          | 2022-08-01        |
-| SPASTT01CZM661N  | Total Share Prices for All Shares for the Czech Republic                                                              | 1994-01-01          | 2022-08-01        |
-| SPASTT01CZQ657N  | Total Share Prices for All Shares for the Czech Republic                                                              | 1994-04-01          | 2022-04-01        |
-| SPASTT01CZQ661N  | Total Share Prices for All Shares for the Czech Republic                                                              | 1994-01-01          | 2022-04-01        |
-| SPASTT01DEA657N  | Total Share Prices for All Shares for Germany                                                                         | 1961-01-01          | 2021-01-01        |
-| SPASTT01DEA661N  | Total Share Prices for All Shares for Germany                                                                         | 1960-01-01          | 2021-01-01        |
-| SPASTT01DEM657N  | Total Share Prices for All Shares for Germany                                                                         | 1960-02-01          | 2022-08-01        |
-| SPASTT01DEM661N  | Total Share Prices for All Shares for Germany                                                                         | 1960-01-01          | 2022-08-01        |
-| SPASTT01DEQ657N  | Total Share Prices for All Shares for Germany                                                                         | 1960-04-01          | 2022-04-01        |
-| SPASTT01DEQ661N  | Total Share Prices for All Shares for Germany                                                                         | 1960-01-01          | 2022-04-01        |
-| SPASTT01DKA657N  | Total Share Prices for All Shares for Denmark                                                                         | 1984-01-01          | 2021-01-01        |
-| SPASTT01DKA661N  | Total Share Prices for All Shares for Denmark                                                                         | 1983-01-01          | 2021-01-01        |
-| SPASTT01DKM657N  | Total Share Prices for All Shares for Denmark                                                                         | 1983-02-01          | 2022-08-01        |
-| SPASTT01DKM661N  | Total Share Prices for All Shares for Denmark                                                                         | 1983-01-01          | 2022-08-01        |
-| SPASTT01DKQ657N  | Total Share Prices for All Shares for Denmark                                                                         | 1983-04-01          | 2022-04-01        |
-| SPASTT01DKQ661N  | Total Share Prices for All Shares for Denmark                                                                         | 1983-01-01          | 2022-04-01        |
-| SPASTT01EEA657N  | Total Share Prices for All Shares for Estonia                                                                         | 1998-01-01          | 2021-01-01        |
-| SPASTT01EEA659N  | Total Share Prices for All Shares for Estonia                                                                         | 1998-01-01          | 2021-01-01        |
-| SPASTT01EEA661N  | Total Share Prices for All Shares for Estonia                                                                         | 1997-01-01          | 2021-01-01        |
-| SPASTT01EEM657N  | Total Share Prices for All Shares for Estonia                                                                         | 1996-07-01          | 2022-08-01        |
-| SPASTT01EEM659N  | Total Share Prices for All Shares for Estonia                                                                         | 1997-06-01          | 2022-08-01        |
-| SPASTT01EEM661N  | Total Share Prices for All Shares for Estonia                                                                         | 1996-06-01          | 2022-08-01        |
-| SPASTT01EEQ657N  | Total Share Prices for All Shares for Estonia                                                                         | 1996-10-01          | 2022-04-01        |
-| SPASTT01EEQ659N  | Total Share Prices for All Shares for Estonia                                                                         | 1997-07-01          | 2022-04-01        |
-| SPASTT01EEQ661N  | Total Share Prices for All Shares for Estonia                                                                         | 1996-07-01          | 2022-04-01        |
-| SPASTT01ESA657N  | Total Share Prices for All Shares for Spain                                                                           | 1986-01-01          | 2021-01-01        |
-| SPASTT01ESA661N  | Total Share Prices for All Shares for Spain                                                                           | 1985-01-01          | 2021-01-01        |
-| SPASTT01ESM657N  | Total Share Prices for All Shares for Spain                                                                           | 1985-02-01          | 2022-08-01        |
-| SPASTT01ESM661N  | Total Share Prices for All Shares for Spain                                                                           | 1985-01-01          | 2022-08-01        |
-| SPASTT01ESQ657N  | Total Share Prices for All Shares for Spain                                                                           | 1985-04-01          | 2022-04-01        |
-| SPASTT01ESQ661N  | Total Share Prices for All Shares for Spain                                                                           | 1985-01-01          | 2022-04-01        |
-| SPASTT01EZA657N  | Total Share Prices for All Shares for the Euro Area                                                                   | 1988-01-01          | 2021-01-01        |
-| SPASTT01EZA661N  | Total Share Prices for All Shares for the Euro Area                                                                   | 1987-01-01          | 2021-01-01        |
-| SPASTT01EZM657N  | Total Share Prices for All Shares for the Euro Area                                                                   | 1987-01-01          | 2022-08-01        |
-| SPASTT01EZM661N  | Total Share Prices for All Shares for the Euro Area                                                                   | 1986-12-01          | 2022-08-01        |
-| SPASTT01EZQ657N  | Total Share Prices for All Shares for the Euro Area                                                                   | 1987-04-01          | 2022-04-01        |
-| SPASTT01EZQ661N  | Total Share Prices for All Shares for the Euro Area                                                                   | 1987-01-01          | 2022-04-01        |
+| NIKKEI225        | Nikkei Stock Average, Nikkei 225                                                                                      | 1949-05-16          | 2022-09-22        |
+| SPASTT01ATA657N  | Share Prices: All Shares/Broad: Total: Total for Austria                                                              | 1960-01-01          | 2021-01-01        |
+| SPASTT01ATA661N  | Share Prices: All Shares/Broad: Total: Total for Austria                                                              | 1960-01-01          | 2021-01-01        |
+| SPASTT01ATM657N  | Share Prices: All Shares/Broad: Total: Total for Austria                                                              | 1960-01-01          | 2022-08-01        |
+| SPASTT01ATM661N  | Share Prices: All Shares/Broad: Total: Total for Austria                                                              | 1960-01-01          | 2022-08-01        |
+| SPASTT01ATQ657N  | Share Prices: All Shares/Broad: Total: Total for Austria                                                              | 1960-01-01          | 2022-04-01        |
+| SPASTT01ATQ661N  | Share Prices: All Shares/Broad: Total: Total for Austria                                                              | 1960-01-01          | 2022-04-01        |
+| SPASTT01AUA657N  | Share Prices: All Shares/Broad: Total: Total for Australia                                                            | 1960-01-01          | 2021-01-01        |
+| SPASTT01AUA661N  | Share Prices: All Shares/Broad: Total: Total for Australia                                                            | 1960-01-01          | 2021-01-01        |
+| SPASTT01AUM657N  | Share Prices: All Shares/Broad: Total: Total for Australia                                                            | 1960-01-01          | 2022-08-01        |
+| SPASTT01AUM661N  | Share Prices: All Shares/Broad: Total: Total for Australia                                                            | 1960-01-01          | 2022-08-01        |
+| SPASTT01AUQ657N  | Share Prices: All Shares/Broad: Total: Total for Australia                                                            | 1960-01-01          | 2022-04-01        |
+| SPASTT01AUQ661N  | Share Prices: All Shares/Broad: Total: Total for Australia                                                            | 1960-01-01          | 2022-04-01        |
+| SPASTT01BEA657N  | Share Prices: All Shares/Broad: Total: Total for Belgium                                                              | 1987-01-01          | 2021-01-01        |
+| SPASTT01BEA661N  | Share Prices: All Shares/Broad: Total: Total for Belgium                                                              | 1986-01-01          | 2021-01-01        |
+| SPASTT01BEM657N  | Share Prices: All Shares/Broad: Total: Total for Belgium                                                              | 1985-05-01          | 2022-08-01        |
+| SPASTT01BEM661N  | Share Prices: All Shares/Broad: Total: Total for Belgium                                                              | 1985-04-01          | 2022-08-01        |
+| SPASTT01BEQ657N  | Share Prices: All Shares/Broad: Total: Total for Belgium                                                              | 1985-07-01          | 2022-04-01        |
+| SPASTT01BEQ661N  | Share Prices: All Shares/Broad: Total: Total for Belgium                                                              | 1985-04-01          | 2022-04-01        |
+| SPASTT01BRA657N  | Share Prices: All Shares/Broad: Total: Total for Brazil                                                               | 1989-01-01          | 2021-01-01        |
+| SPASTT01BRA661N  | Share Prices: All Shares/Broad: Total: Total for Brazil                                                               | 1980-01-01          | 2021-01-01        |
+| SPASTT01BRM657N  | Share Prices: All Shares/Broad: Total: Total for Brazil                                                               | 1988-11-01          | 2022-08-01        |
+| SPASTT01BRM661N  | Share Prices: All Shares/Broad: Total: Total for Brazil                                                               | 1980-01-01          | 2022-08-01        |
+| SPASTT01BRQ657N  | Share Prices: All Shares/Broad: Total: Total for Brazil                                                               | 1989-01-01          | 2022-04-01        |
+| SPASTT01BRQ661N  | Share Prices: All Shares/Broad: Total: Total for Brazil                                                               | 1980-01-01          | 2022-04-01        |
+| SPASTT01CAA657N  | Share Prices: All Shares/Broad: Total: Total for Canada                                                               | 1960-01-01          | 2021-01-01        |
+| SPASTT01CAA661N  | Share Prices: All Shares/Broad: Total: Total for Canada                                                               | 1960-01-01          | 2021-01-01        |
+| SPASTT01CAM657N  | Share Prices: All Shares/Broad: Total: Total for Canada                                                               | 1960-01-01          | 2022-08-01        |
+| SPASTT01CAM661N  | Share Prices: All Shares/Broad: Total: Total for Canada                                                               | 1960-01-01          | 2022-08-01        |
+| SPASTT01CAQ657N  | Share Prices: All Shares/Broad: Total: Total for Canada                                                               | 1960-01-01          | 2022-04-01        |
+| SPASTT01CAQ661N  | Share Prices: All Shares/Broad: Total: Total for Canada                                                               | 1960-01-01          | 2022-04-01        |
+| SPASTT01CHA657N  | Share Prices: All Shares/Broad: Total: Total for Switzerland                                                          | 1960-01-01          | 2021-01-01        |
+| SPASTT01CHA661N  | Share Prices: All Shares/Broad: Total: Total for Switzerland                                                          | 1960-01-01          | 2021-01-01        |
+| SPASTT01CHM657N  | Share Prices: All Shares/Broad: Total: Total for Switzerland                                                          | 1960-01-01          | 2022-08-01        |
+| SPASTT01CHM661N  | Share Prices: All Shares/Broad: Total: Total for Switzerland                                                          | 1960-01-01          | 2022-08-01        |
+| SPASTT01CHQ657N  | Share Prices: All Shares/Broad: Total: Total for Switzerland                                                          | 1960-01-01          | 2022-04-01        |
+| SPASTT01CHQ661N  | Share Prices: All Shares/Broad: Total: Total for Switzerland                                                          | 1960-01-01          | 2022-04-01        |
+| SPASTT01CLA657N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1991-01-01          | 2021-01-01        |
+| SPASTT01CLA659N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1991-01-01          | 2021-01-01        |
+| SPASTT01CLA661N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1990-01-01          | 2021-01-01        |
+| SPASTT01CLM657N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1990-02-01          | 2022-08-01        |
+| SPASTT01CLM659N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1991-01-01          | 2022-08-01        |
+| SPASTT01CLM661N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1990-01-01          | 2022-08-01        |
+| SPASTT01CLQ657N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1990-04-01          | 2022-04-01        |
+| SPASTT01CLQ659N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1991-01-01          | 2022-04-01        |
+| SPASTT01CLQ661N  | Share Prices: All Shares/Broad: Total: Total for Chile                                                                | 1990-01-01          | 2022-04-01        |
+| SPASTT01CNA657N  | Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)                                         | 1993-01-01          | 2021-01-01        |
+| SPASTT01CNA661N  | Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)                                         | 1992-01-01          | 2021-01-01        |
+| SPASTT01CNM657N  | Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)                                         | 1999-02-01          | 2022-08-01        |
+| SPASTT01CNM661N  | Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)                                         | 1999-01-01          | 2022-08-01        |
+| SPASTT01CNQ657N  | Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)                                         | 1999-04-01          | 2022-04-01        |
+| SPASTT01CNQ661N  | Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)                                         | 1999-01-01          | 2022-04-01        |
+| SPASTT01CZA657N  | Share Prices: All Shares/Broad: Total: Total for the Czech Republic                                                   | 1995-01-01          | 2021-01-01        |
+| SPASTT01CZA661N  | Share Prices: All Shares/Broad: Total: Total for the Czech Republic                                                   | 1994-01-01          | 2021-01-01        |
+| SPASTT01CZM657N  | Share Prices: All Shares/Broad: Total: Total for the Czech Republic                                                   | 1994-02-01          | 2022-08-01        |
+| SPASTT01CZM661N  | Share Prices: All Shares/Broad: Total: Total for the Czech Republic                                                   | 1994-01-01          | 2022-08-01        |
+| SPASTT01CZQ657N  | Share Prices: All Shares/Broad: Total: Total for the Czech Republic                                                   | 1994-04-01          | 2022-04-01        |
+| SPASTT01CZQ661N  | Share Prices: All Shares/Broad: Total: Total for the Czech Republic                                                   | 1994-01-01          | 2022-04-01        |
+| SPASTT01DEA657N  | Share Prices: All Shares/Broad: Total: Total for Germany                                                              | 1961-01-01          | 2021-01-01        |
+| SPASTT01DEA661N  | Share Prices: All Shares/Broad: Total: Total for Germany                                                              | 1960-01-01          | 2021-01-01        |
+| SPASTT01DEM657N  | Share Prices: All Shares/Broad: Total: Total for Germany                                                              | 1960-02-01          | 2022-08-01        |
+| SPASTT01DEM661N  | Share Prices: All Shares/Broad: Total: Total for Germany                                                              | 1960-01-01          | 2022-08-01        |
+| SPASTT01DEQ657N  | Share Prices: All Shares/Broad: Total: Total for Germany                                                              | 1960-04-01          | 2022-04-01        |
+| SPASTT01DEQ661N  | Share Prices: All Shares/Broad: Total: Total for Germany                                                              | 1960-01-01          | 2022-04-01        |
+| SPASTT01DKA657N  | Share Prices: All Shares/Broad: Total: Total for Denmark                                                              | 1984-01-01          | 2021-01-01        |
+| SPASTT01DKA661N  | Share Prices: All Shares/Broad: Total: Total for Denmark                                                              | 1983-01-01          | 2021-01-01        |
+| SPASTT01DKM657N  | Share Prices: All Shares/Broad: Total: Total for Denmark                                                              | 1983-02-01          | 2022-08-01        |
+| SPASTT01DKM661N  | Share Prices: All Shares/Broad: Total: Total for Denmark                                                              | 1983-01-01          | 2022-08-01        |
+| SPASTT01DKQ657N  | Share Prices: All Shares/Broad: Total: Total for Denmark                                                              | 1983-04-01          | 2022-04-01        |
+| SPASTT01DKQ661N  | Share Prices: All Shares/Broad: Total: Total for Denmark                                                              | 1983-01-01          | 2022-04-01        |
+| SPASTT01EEA657N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1998-01-01          | 2021-01-01        |
+| SPASTT01EEA659N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1998-01-01          | 2021-01-01        |
+| SPASTT01EEA661N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1997-01-01          | 2021-01-01        |
+| SPASTT01EEM657N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1996-07-01          | 2022-08-01        |
+| SPASTT01EEM659N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1997-06-01          | 2022-08-01        |
+| SPASTT01EEM661N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1996-06-01          | 2022-08-01        |
+| SPASTT01EEQ657N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1996-10-01          | 2022-04-01        |
+| SPASTT01EEQ659N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1997-07-01          | 2022-04-01        |
+| SPASTT01EEQ661N  | Share Prices: All Shares/Broad: Total: Total for Estonia                                                              | 1996-07-01          | 2022-04-01        |
+| SPASTT01ESA657N  | Share Prices: All Shares/Broad: Total: Total for Spain                                                                | 1986-01-01          | 2021-01-01        |
+| SPASTT01ESA661N  | Share Prices: All Shares/Broad: Total: Total for Spain                                                                | 1985-01-01          | 2021-01-01        |
+| SPASTT01ESM657N  | Share Prices: All Shares/Broad: Total: Total for Spain                                                                | 1985-02-01          | 2022-08-01        |
+| SPASTT01ESM661N  | Share Prices: All Shares/Broad: Total: Total for Spain                                                                | 1985-01-01          | 2022-08-01        |
+| SPASTT01ESQ657N  | Share Prices: All Shares/Broad: Total: Total for Spain                                                                | 1985-04-01          | 2022-04-01        |
+| SPASTT01ESQ661N  | Share Prices: All Shares/Broad: Total: Total for Spain                                                                | 1985-01-01          | 2022-04-01        |
+| SPASTT01EZA657N  | Share Prices: All Shares/Broad: Total: Total for the Euro Area (19 Countries)                                         | 1988-01-01          | 2021-01-01        |
+| SPASTT01EZA661N  | Share Prices: All Shares/Broad: Total: Total for the Euro Area (19 Countries)                                         | 1987-01-01          | 2021-01-01        |
+| SPASTT01EZM657N  | Share Prices: All Shares/Broad: Total: Total for the Euro Area (19 Countries)                                         | 1987-01-01          | 2022-08-01        |
+| SPASTT01EZM661N  | Share Prices: All Shares/Broad: Total: Total for the Euro Area (19 Countries)                                         | 1986-12-01          | 2022-08-01        |
+| SPASTT01EZQ657N  | Share Prices: All Shares/Broad: Total: Total for the Euro Area (19 Countries)                                         | 1987-04-01          | 2022-04-01        |
+| SPASTT01EZQ661N  | Share Prices: All Shares/Broad: Total: Total for the Euro Area (19 Countries)                                         | 1987-01-01          | 2022-04-01        |
 | SPASTT01FIA657N  | Total Share Prices for All Shares for Finland                                                                         | 1960-01-01          | 2021-01-01        |
 | SPASTT01FIA661N  | Total Share Prices for All Shares for Finland                                                                         | 1960-01-01          | 2021-01-01        |
 | SPASTT01FIM657N  | Total Share Prices for All Shares for Finland                                                                         | 1960-01-01          | 2022-08-01        |

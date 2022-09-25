@@ -39,7 +39,7 @@
 | Lenoir County, NC       |               146 |
 | Union County, NC        |               147 |
 | Orange County, NC       |               147 |
-| Wayne County, NC        |                 0 |
+| Wayne County, NC        |               147 |
 | Onslow County, NC       |               147 |
 | Watauga County, NC      |               146 |
 | Washington County, NC   |                90 |
@@ -60,7 +60,7 @@
 | Nash County, NC         |               147 |
 | Chatham County, NC      |               146 |
 | Randolph County, NC     |               147 |
-| Gates County, NC        |                89 |
+| Gates County, NC        |                 0 |
 | Harnett County, NC      |               147 |
 | Granville County, NC    |               145 |
 | Brunswick County, NC    |               147 |

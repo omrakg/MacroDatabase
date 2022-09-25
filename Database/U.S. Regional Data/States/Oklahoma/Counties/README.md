@@ -29,7 +29,7 @@
 | Noble County, OK        |                90 |
 | Harper County, OK       |                87 |
 | Logan County, OK        |                90 |
-| Okfuskee County, OK     |                89 |
+| Okfuskee County, OK     |                 0 |
 | Lincoln County, OK      |                90 |
 | McIntosh County, OK     |                90 |
 | Marshall County, OK     |                90 |
@@ -59,7 +59,7 @@
 | Pottawatomie County, OK |               147 |
 | Beaver County, OK       |                88 |
 | Woodward County, OK     |                90 |
-| Mayes County, OK        |                 0 |
+| Mayes County, OK        |                90 |
 | Tillman County, OK      |                88 |
 | McCurtain County, OK    |                89 |
 | Latimer County, OK      |                88 |

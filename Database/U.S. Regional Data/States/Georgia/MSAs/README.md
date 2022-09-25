@@ -4,7 +4,7 @@
 | Rome, GA                             |               118 |
 | Augusta-Richmond County, GA-SC       |                 0 |
 | Valdosta, GA                         |               104 |
-| Savannah, GA                         |               158 |
+| Savannah, GA                         |                 0 |
 | Albany, GA                           |               131 |
 | Warner Robins, GA                    |               141 |
 | Columbus, GA-AL                      |                 0 |

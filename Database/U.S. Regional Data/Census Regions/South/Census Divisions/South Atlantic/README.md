@@ -10,12 +10,12 @@
 | CSATBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the South Atlantic Census Division           | 1988-01-01          | 2022-07-01        |
 | CSATBPPRIV            | New Private Housing Units Authorized by Building Permits for the South Atlantic Census Division                              | 1988-01-01          | 2022-07-01        |
 | CSATBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the South Atlantic Census Division                              | 1988-01-01          | 2022-07-01        |
-| CSATLF                | Civilian Labor Force in South Atlantic Census Division                                                                       | 1976-01-01          | 2022-07-01        |
-| CSATLFN               | Civilian Labor Force in South Atlantic Census Division                                                                       | 1976-01-01          | 2022-07-01        |
+| CSATLF                | Civilian Labor Force in South Atlantic Census Division                                                                       | 1976-01-01          | 2022-08-01        |
+| CSATLFN               | Civilian Labor Force in South Atlantic Census Division                                                                       | 1976-01-01          | 2022-08-01        |
 | CSATLPOP              | Resident Population in the South Atlantic Census Division                                                                    | 1900-01-01          | 2021-01-01        |
 | CSATSTHPI             | All-Transactions House Price Index for the South Atlantic Census Division                                                    | 1975-01-01          | 2022-04-01        |
-| CSATUR                | Unemployment Rate in South Atlantic Census Division                                                                          | 1976-01-01          | 2022-07-01        |
-| CSATURN               | Unemployment Rate in South Atlantic Census Division                                                                          | 1976-01-01          | 2022-07-01        |
+| CSATUR                | Unemployment Rate in South Atlantic Census Division                                                                          | 1976-01-01          | 2022-08-01        |
+| CSATURN               | Unemployment Rate in South Atlantic Census Division                                                                          | 1976-01-01          | 2022-08-01        |
 | LASRD850000000000004  | Unemployed Persons in South Atlantic Census Division                                                                         | 1976-01-01          | 2022-07-01        |
 | LASRD850000000000005  | Employed Persons in South Atlantic Census Division                                                                           | 1976-01-01          | 2022-07-01        |
 | LAURD850000000000003A | Unemployment Rate in South Atlantic Census Division                                                                          | 1976-01-01          | 2021-01-01        |

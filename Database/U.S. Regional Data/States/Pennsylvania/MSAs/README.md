@@ -14,7 +14,7 @@
 | Scranton--Wilkes-Barre, PA                  |               192 |
 | New York-Newark-Jersey City, NY-NJ-PA       |                 0 |
 | Youngstown-Warren-Boardman, OH-PA           |               180 |
-| East Stroudsburg, PA                        |                89 |
+| East Stroudsburg, PA                        |                 0 |
 | Chambersburg-Waynesboro, PA                 |                94 |
 | Harrisburg-Carlisle, PA                     |               213 |
 | Johnstown, PA                               |               152 |

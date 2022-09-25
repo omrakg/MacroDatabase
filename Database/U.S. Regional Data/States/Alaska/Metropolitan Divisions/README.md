@@ -6,7 +6,7 @@
 | Yukon-Koyukuk Division, AK           |                 4 |
 | Southeast Fairbanks Division, AK     |                 4 |
 | Outer Ketchikan Division, AK         |                 4 |
-| Bethel Division, AK                  |                 0 |
+| Bethel Division, AK                  |                 4 |
 | Wrangell-Petersburg Division, AK     |                 4 |
 | Cordova-McCarthy Division, AK        |                 4 |
 | Aleutian Islands Division, AK        |                 4 |

@@ -6,7 +6,7 @@
 | Tippecanoe County, IN  |               147 |
 | Benton County, IN      |                89 |
 | Daviess County, IN     |                90 |
-| De Kalb County, IN     |                90 |
+| De Kalb County, IN     |                 0 |
 | Adams County, IN       |                89 |
 | Vermillion County, IN  |                90 |
 | Bartholomew County, IN |               147 |
@@ -45,7 +45,7 @@
 | Randolph County, IN    |                90 |
 | Boone County, IN       |               146 |
 | Posey County, IN       |                90 |
-| Jay County, IN         |                 0 |
+| Jay County, IN         |                89 |
 | Steuben County, IN     |                89 |
 | Rush County, IN        |                90 |
 | Gibson County, IN      |                90 |
@@ -75,7 +75,7 @@
 | Franklin County, IN    |                90 |
 | Jefferson County, IN   |                88 |
 | Switzerland County, IN |                89 |
-| Grant County, IN       |               144 |
+| Grant County, IN       |                 0 |
 | Pulaski County, IN     |                90 |
 | Crawford County, IN    |                88 |
 | Vigo County, IN        |               147 |

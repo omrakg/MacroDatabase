@@ -25,7 +25,7 @@
 | Ransom County, ND        |                89 |
 | Stutsman County, ND      |                90 |
 | McLean County, ND        |                89 |
-| Ramsey County, ND        |                89 |
+| Ramsey County, ND        |                 0 |
 | Ward County, ND          |               147 |
 | Golden Valley County, ND |                88 |
 | Renville County, ND      |                88 |
@@ -51,5 +51,5 @@
 | Kidder County, ND        |                89 |
 | Logan County, ND         |                89 |
 | Mountrail County, ND     |                88 |
-| Benson County, ND        |                 0 |
+| Benson County, ND        |                88 |
 | Steele County, ND        |                88 |

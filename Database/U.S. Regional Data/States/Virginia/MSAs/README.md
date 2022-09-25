@@ -9,6 +9,6 @@
 | Harrisonburg, VA                             |               108 |
 | Washington-Arlington-Alexandria, DC-VA-MD-WV |                 0 |
 | Roanoke, VA                                  |               158 |
-| Danville, VA                                 |                36 |
+| Danville, VA                                 |                 0 |
 | Virginia Beach-Norfolk-Newport News, VA-NC   |                 0 |
 | Richmond, VA                                 |               181 |

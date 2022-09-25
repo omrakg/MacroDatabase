@@ -4,7 +4,7 @@
 | Waseca County, MN            |                90 |
 | Meeker County, MN            |                90 |
 | Benton County, MN            |                90 |
-| Itasca County, MN            |                 0 |
+| Itasca County, MN            |                90 |
 | Red Lake County, MN          |                88 |
 | Polk County, MN              |                89 |
 | Dakota County, MN            |               147 |
@@ -37,7 +37,7 @@
 | Jackson County, MN           |                89 |
 | Anoka County, MN             |               147 |
 | Dodge County, MN             |                90 |
-| Clay County, MN              |               146 |
+| Clay County, MN              |                 0 |
 | Faribault County, MN         |                90 |
 | Sherburne County, MN         |               147 |
 | Otter Tail County, MN        |               146 |

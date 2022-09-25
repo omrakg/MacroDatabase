@@ -53,7 +53,7 @@
 | HORAMSA16980              | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA16980            | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA16980              | Market Hotness: Hotness Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG16980               | Job Postings on Indeed in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                  | 2020-02-01          | 2022-09-09        |
+| IHLCHG16980               | Job Postings on Indeed in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD16980                 | Implicit Regional Price Deflator for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171698000000003A     | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT171698000000004      | Unemployed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

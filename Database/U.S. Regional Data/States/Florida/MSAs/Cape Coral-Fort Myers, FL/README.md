@@ -56,7 +56,7 @@
 | HORAMSA15980              | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA15980            | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA15980              | Market Hotness: Hotness Score in Cape Coral-Fort Myers, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG15980               | Job Postings on Indeed in Cape Coral-Fort Myers, FL (MSA)                                                                  | 2020-02-01          | 2022-09-09        |
+| IHLCHG15980               | Job Postings on Indeed in Cape Coral-Fort Myers, FL (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD15980                 | Implicit Regional Price Deflator for Cape Coral-Fort Myers, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT121598000000003A     | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT121598000000004      | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |

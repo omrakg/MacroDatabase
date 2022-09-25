@@ -31,13 +31,13 @@
 | Livingston County, MO     |                90 |
 | Saline County, MO         |                90 |
 | New Madrid County, MO     |                90 |
-| Mississippi County, MO    |                90 |
+| Mississippi County, MO    |                 0 |
 | Howard County, MO         |                90 |
 | Laclede County, MO        |                90 |
 | Pemiscot County, MO       |                89 |
 | Mercer County, MO         |                87 |
 | Wayne County, MO          |                88 |
-| St. Louis County, MO      |                 0 |
+| St. Louis County, MO      |               147 |
 | Henry County, MO          |                89 |
 | Ralls County, MO          |                89 |
 | Cooper County, MO         |                89 |
@@ -91,13 +91,13 @@
 | Holt County, MO           |                88 |
 | St. Louis City, MO        |               146 |
 | Lewis County, MO          |                89 |
-| Marion County, MO         |                89 |
+| Marion County, MO         |                 0 |
 | Macon County, MO          |                90 |
 | Worth County, MO          |                89 |
 | Lafayette County, MO      |                90 |
 | Benton County, MO         |                88 |
 | Moniteau County, MO       |                90 |
-| Ozark County, MO          |                 0 |
+| Ozark County, MO          |                89 |
 | Atchison County, MO       |                88 |
 | Putnam County, MO         |                88 |
 | Morgan County, MO         |                90 |

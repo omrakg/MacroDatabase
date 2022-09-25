@@ -27,9 +27,9 @@
 | ABIL148TRADN              | All Employees: Trade, Transportation, and Utilities in Abilene, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | ABIL148UR                 | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
 | ABIL148URN                | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| ABISA158MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-02-01          | 2022-07-01        |
-| ABISA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                             | 1990-02-01          | 2022-07-01        |
-| ABISA175MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| ABISA158MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
+| ABISA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
+| ABISA175MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | ABISA674AFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | ABLPOP                    | Resident Population in Abilene, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ACTLISCOU10180            | Housing Inventory: Active Listing Count in Abilene, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |

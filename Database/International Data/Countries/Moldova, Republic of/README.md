@@ -74,7 +74,7 @@
 | DDSI05MDA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Republic of Moldova                                                                        | 2000-01-01          | 2019-01-01        |
 | DDSI06MDA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Republic of Moldova                                                                       | 2000-01-01          | 2020-01-01        |
 | DDSI07MDA156NWDB    | Provisions to Non-Performing Loans for Republic of Moldova                                                                                     | 2002-01-01          | 2019-01-01        |
-| DEBTTLMDA188A       | Central government debt, total (% of GDP) for Moldova                                                                                          | 1995-01-01          | 2016-01-01        |
+| DEBTTLMDA188A       | Central government debt, total (% of GDP) for Moldova                                                                                          | 1995-01-01          | 2020-01-01        |
 | DEMDAA475SCEN       | Number of Identified Exporters to Republic of Moldova from Delaware                                                                            | 2002-01-01          | 2015-01-01        |
 | EXP4641             | U.S. Exports of Goods by F.A.S. Basis to Moldova                                                                                               | 1992-01-01          | 2022-07-01        |
 | FLMDAA052SCEN       | Value of Exports to Republic of Moldova from Florida                                                                                           | 2002-01-01          | 2016-01-01        |

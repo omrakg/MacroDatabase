@@ -6,7 +6,7 @@
 | Colleton County, SC     |                90 |
 | Anderson County, SC     |               143 |
 | Bamberg County, SC      |                89 |
-| Marion County, SC       |                 0 |
+| Marion County, SC       |                89 |
 | Fairfield County, SC    |                90 |
 | Union County, SC        |                89 |
 | Newberry County, SC     |                89 |
@@ -40,7 +40,7 @@
 | Spartanburg County, SC  |               147 |
 | Lexington County, SC    |               147 |
 | Edgefield County, SC    |                90 |
-| Abbeville County, SC    |                90 |
+| Abbeville County, SC    |                 0 |
 | Charleston County, SC   |               147 |
 | Florence County, SC     |               147 |
 | Berkeley County, SC     |               147 |
