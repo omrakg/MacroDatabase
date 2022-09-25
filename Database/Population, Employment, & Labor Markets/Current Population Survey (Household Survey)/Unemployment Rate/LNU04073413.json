@@ -1,7 +1,7 @@
 {
   "id": "LNU04073413",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Unemployment Rate - Native Born",
   "observation_start": "2007-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-02 07:43:55-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04073413"
 }

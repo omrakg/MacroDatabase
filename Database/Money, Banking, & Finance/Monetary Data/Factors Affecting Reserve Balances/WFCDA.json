@@ -1,17 +1,17 @@
 {
   "id": "WFCDA",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Assets: Other Factors Supplying Reserve Balances: Foreign Currency Denominated Assets: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-09-14",
+  "observation_end": "2022-09-21",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-15 15:34:14-05",
-  "popularity": 16,
-  "group_popularity": 16
+  "last_updated": "2022-09-22 15:34:21-05",
+  "popularity": 14,
+  "group_popularity": 14
 }

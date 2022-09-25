@@ -1,18 +1,18 @@
 {
   "id": "WTB4WK",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "4-Week Treasury Bill Secondary Market Rate, Discount Basis",
   "observation_start": "2001-08-03",
-  "observation_end": "2022-09-09",
+  "observation_end": "2022-09-16",
   "frequency": "Weekly, Ending Friday",
   "frequency_short": "W",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-12 15:22:14-05",
-  "popularity": 15,
+  "last_updated": "2022-09-19 15:17:16-05",
+  "popularity": 13,
   "group_popularity": 61,
   "notes": "Averages of business days. Discount basis."
 }

@@ -1,7 +1,7 @@
 {
   "id": "SPPOP1564TOZSARB",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Population Ages 15 to 64 for the Arab World",
   "observation_start": "1960-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "% of Total",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-05 14:35:37-05",
+  "last_updated": "2022-09-20 14:15:12-05",
   "popularity": 0,
   "group_popularity": 0,
   "notes": "Nations that are included in this data series are listed at https://datahelpdesk.worldbank.org/knowledgebase/articles/906519\n\nSource Indicator: SP.POP.1564.TO.ZS"

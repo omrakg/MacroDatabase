@@ -1,8 +1,8 @@
 {
   "id": "PRMITO01CLQ661N",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
-  "title": "Total Mining Production for Chile",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
+  "title": "Production: Mining: Total Mining: Total for Chile",
   "observation_start": "1990-01-01",
   "observation_end": "2022-04-01",
   "frequency": "Quarterly",

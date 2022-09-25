@@ -1,7 +1,7 @@
 {
   "id": "NA000346Q",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Personal Consumption Expenditures: Durable Goods",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-25 07:52:31-05",
-  "popularity": 12,
-  "group_popularity": 66,
+  "popularity": 16,
+  "group_popularity": 68,
   "notes": "BEA Account Code: NA000346"
 }

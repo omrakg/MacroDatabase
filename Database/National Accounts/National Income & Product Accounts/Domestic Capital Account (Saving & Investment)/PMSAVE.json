@@ -1,7 +1,7 @@
 {
   "id": "PMSAVE",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Personal Saving",
   "observation_start": "1959-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-08-26 07:43:12-05",
-  "popularity": 64,
-  "group_popularity": 69,
+  "popularity": 63,
+  "group_popularity": 68,
   "notes": "BEA Account Code: A071RC\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

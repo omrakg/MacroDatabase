@@ -1,7 +1,7 @@
 {
   "id": "A020RO1Q156NBEA",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Real Exports of Goods and Services",
   "observation_start": "1948-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-25 07:55:53-05",
   "popularity": 3,
-  "group_popularity": 51,
+  "group_popularity": 52,
   "notes": "BEA Account Code: A020RO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "CHINTDUSDJPY",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Swiss Intervention: Swiss National Bank Purchases of USD against JPY (Millions of USD)",
   "observation_start": "1975-01-01",
   "observation_end": "2001-04-05",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2009-06-30 10:31:18-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Copyright, 2016, Swiss National Bank.\n\n(+) numbers mean purchases of USD, (-) numbers mean sales of USD. Unpublished data."
 }

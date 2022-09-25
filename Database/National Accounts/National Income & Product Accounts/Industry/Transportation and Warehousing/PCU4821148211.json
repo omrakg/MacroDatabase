@@ -1,7 +1,7 @@
 {
   "id": "PCU4821148211",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Producer Price Index by Industry: Rail Transportation",
   "observation_start": "1996-12-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:54:45-05",
   "popularity": 2,
-  "group_popularity": 36
+  "group_popularity": 35
 }

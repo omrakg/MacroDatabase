@@ -1,7 +1,7 @@
 {
   "id": "A349RX1A020NBEA",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Real private fixed investment in structures",
   "observation_start": "2002-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:03:00-05",
   "popularity": 1,
-  "group_popularity": 6,
+  "group_popularity": 3,
   "notes": "BEA Account Code: A349RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

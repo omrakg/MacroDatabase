@@ -1,7 +1,7 @@
 {
   "id": "SPADOTFRTWLD",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Adolescent Fertility Rate for World",
   "observation_start": "1960-01-01",
   "observation_end": "2020-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Births per 1,000 Women Ages 15-19",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-05 14:32:50-05",
+  "last_updated": "2022-09-20 14:15:03-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19.\n\nSource Indicator: SP.ADO.TFRT"

@@ -1,8 +1,8 @@
 {
   "id": "EA19CPALTT01IXOBQ",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
-  "title": "Consumer Price Index: All items: Total: Total for the Euro Area",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
+  "title": "Consumer Price Index: All Items: Total: Total for the Euro Area (19 Countries)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-04-01",
   "frequency": "Quarterly",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 14:41:03-05",
-  "popularity": 10,
-  "group_popularity": 42,
+  "popularity": 13,
+  "group_popularity": 41,
   "notes": "OECD descriptor ID: CPALTT01 OECD unit ID: IXOB OECD country ID: EA19 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

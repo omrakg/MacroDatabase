@@ -1,7 +1,7 @@
 {
   "id": "NHFSEPCS",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "New Houses for Sale by Stage of Construction, Completed",
   "observation_start": "1999-01-01",
   "observation_end": "2022-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-08-23 09:01:08-05",
   "popularity": 27,
-  "group_popularity": 29
+  "group_popularity": 31
 }

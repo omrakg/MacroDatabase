@@ -1,7 +1,7 @@
 {
   "id": "M0424BUSM299NNBR",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Wholesale Price of Woodpulp (Mechanical, No. 1, Domestic and Canadian, Delivered Consumer Mill) for United States",
   "observation_start": "1942-01-01",
   "observation_end": "1958-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:53:02-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1913-1942 (2)--Original Data, 1942-1958. Represents Delivered Price 1942 And After (Code 749.1), Quoted Weekly\"Domestic And Canadian (Ranges).\" No Change In Specifications After 1951, When New Bls Index Was First Published (New Code #09-10-31). Series Is Considered As Continuous. Source: Bls Wholesale Price Bulletin, Nos. 718, 736, 759, 785, 870, 877, 920, 947, 973, 1007, 1083, 1143, (For 1942-1951) And 1214 (For 1954-1956); Monthly Issues Of Bls, \"Wholesale Prices And Price Indexes\" (For 1952-1953, 1957, And 1958).\n\nThis NBER data series m04124b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04124b"
 }

@@ -1,7 +1,7 @@
 {
   "id": "INFIREN",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "All Employees: Financial Activities in Indiana",
   "observation_start": "1990-01-01",
   "observation_end": "2022-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-17 02:37:23-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Industry based on 2002 North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2002) for additional information about NAICS."
 }

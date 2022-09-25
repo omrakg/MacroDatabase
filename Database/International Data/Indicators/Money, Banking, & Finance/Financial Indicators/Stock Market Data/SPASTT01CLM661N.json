@@ -1,8 +1,8 @@
 {
   "id": "SPASTT01CLM661N",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
-  "title": "Total Share Prices for All Shares for Chile",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
+  "title": "Share Prices: All Shares/Broad: Total: Total for Chile",
   "observation_start": "1990-01-01",
   "observation_end": "2022-08-01",
   "frequency": "Monthly",

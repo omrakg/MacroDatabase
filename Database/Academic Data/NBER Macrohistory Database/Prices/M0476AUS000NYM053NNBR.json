@@ -1,7 +1,7 @@
 {
   "id": "M0476AUS000NYM053NNBR",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Wholesale Price of Portland Cement for New York",
   "observation_start": "1895-01-01",
   "observation_end": "1915-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:51:11-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1895-1915 (2)--Original Data, 1914-1941. Series Called \"Wholesale Prices Of Portland Cement, Domestic, New York. Data Are As Of The First Of Each Month. Quotations Are From The New York Journal Of Commerce Year Book For The Period 1895-1897, And From The New York Journal Of Commerce And Commercial Bulletin For 1898-1915. Figures For 1895-1901 Are Computed From The Range. 1911-1913 Data Are For Barrels Of 400 Pound Gross Weight. This Series Was Discontinued In 1915. \"It Has Been Necessary...To Make Substitutions In Case Of Cement...Owing To Discontinuance Of Quotations...In The Trade Journal Sources From Which...Hitherto Obtained\" (NBER Annotation; Quoted From Bls Bulletin No.226, P.5). Source: Bls Bulletins, Nos. 39, 45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114 149, 181, And 200. \"\n\nThis NBER data series m04076a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04076a"
 }

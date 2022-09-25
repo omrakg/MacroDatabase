@@ -1,7 +1,7 @@
 {
   "id": "M04F2AUS35620M283NNBR",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Wholesale Price of Canned Tomatoes for New York, NY",
   "observation_start": "1908-01-01",
   "observation_end": "1938-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:51:18-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series Has Been Subdivided Into Three Variables: (1)-- Original Data, 1908-1938; (2)-- Original Data, 1937-1942; (3)-- Original Data, 1942-1951. Data Refers To The Price Of Standard New Jersey #3 Cans At New York City. Source: 1908-1917: Bls Worksheets In NBER Files; 1918-1938: Bls Bulletins (1935-1941: Prices Published Only In June And December Bulletins)\n\nThis NBER data series m04042a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04042a"
 }

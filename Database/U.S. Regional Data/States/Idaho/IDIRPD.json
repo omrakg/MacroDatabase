@@ -1,7 +1,7 @@
 {
   "id": "IDIRPD",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Implicit Regional Price Deflator for Idaho",
   "observation_start": "2008-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-14 11:03:38-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The Implicit Regional Price Deflator (IRPD) is the ratio of the current-dollar value of a series, such as regional personal income, to its corresponding chained-dollar value, multiplied by 100.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/rpp/rpp_newsrelease.htm or http://www.bea.gov/regional/methods.cfm."
 }

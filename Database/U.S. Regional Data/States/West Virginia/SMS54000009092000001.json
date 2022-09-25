@@ -1,7 +1,7 @@
 {
   "id": "SMS54000009092000001",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "All Employees: Government: State Government in West Virginia",
   "observation_start": "1990-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-17 02:44:38-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics."
 }

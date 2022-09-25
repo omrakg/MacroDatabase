@@ -1,7 +1,7 @@
 {
   "id": "M0493AUSM267NNBR",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Wholesale Price of Newsprint Paper for United States",
   "observation_start": "1890-01-01",
   "observation_end": "1915-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:39-05",
   "popularity": 1,
-  "group_popularity": 10,
+  "group_popularity": 7,
   "notes": "Series Is Presented Here As Four Variables-- (1)--Original Data, 1890-1918 (2) Original Data, 1914-1928 (3)-- Original Data, 1926-1951 (4)--Original Data, 1947-1958. For 1890-1913, Data Are Figures For First Of Month. For 1914- 1915, Quotations From First Friday Are Used 1890-1915, Newsprint Paper, Roll, Contract; 1890-1910 Is On New York Basis; 1911-1915 F.O.B. Basis, J. Of C. Published Figures Refer To Rag And Wood Paper, While From 1898 On They Refer To Wood Paper. The 1890-1897 Data Were Reduced According To The Ratio January, 1898/December, 1897: 2.12 Divided By 2.62 Equals .8092. Title Changes From December, 1910 To January, 1911 From \"New York Basis\" To \"F.O.B. Mill\" But There Was No Discontnuity In Data. Source: Bls Bulletins. Figures For 1890-1897 Computed By NBER. 1914-1916, Paper Trade Journal. 1917-1928, Directly From Bls.\n\nThis NBER data series m04093a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04093a"
 }

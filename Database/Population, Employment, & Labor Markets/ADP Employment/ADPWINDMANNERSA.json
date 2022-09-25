@@ -1,7 +1,7 @@
 {
   "id": "ADPWINDMANNERSA",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Nonfarm Private Payroll Employment for Manufacturing",
   "observation_start": "2010-01-02",
   "observation_end": "2022-06-11",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-02 14:33:48-05",
-  "popularity": 6,
+  "popularity": 5,
   "group_popularity": 6
 }

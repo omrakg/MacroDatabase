@@ -1,7 +1,7 @@
 {
   "id": "NHSDPNS",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "New Houses Sold by Stage of Construction, Not Started",
   "observation_start": "1963-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-23 09:01:10-05",
-  "popularity": 13,
-  "group_popularity": 17
+  "popularity": 19,
+  "group_popularity": 25
 }

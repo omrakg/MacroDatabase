@@ -1,7 +1,7 @@
 {
   "id": "CPIENGNS",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Consumer Price Index for All Urban Consumers: Energy in U.S. City Average",
   "observation_start": "1957-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-13 07:37:48-05",
-  "popularity": 21,
-  "group_popularity": 62,
+  "popularity": 19,
+  "group_popularity": 61,
   "notes": "Handbook of Methods - (https://www.bls.gov/opub/hom/pdf/cpihom.pdf) Understanding the CPI: Frequently Asked Questions - (http://stats.bls.gov:80/cpi/cpifaq.htm)"
 }

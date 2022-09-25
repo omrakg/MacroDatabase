@@ -1,8 +1,8 @@
 {
   "id": "FINCPICORMINMEI",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
-  "title": "Consumer Price Index: All Items Excluding Food and Energy for Finland",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
+  "title": "Consumer Price Index: OECD Groups: All Items Non-Food Non-Energy: Total for Finland",
   "observation_start": "1960-01-01",
   "observation_end": "2022-07-01",
   "frequency": "Monthly",

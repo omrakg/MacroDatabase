@@ -1,7 +1,7 @@
 {
   "id": "NCNGSP",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Gross Domestic Product: All Industry Total in North Carolina",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 10:32:06-05",
-  "popularity": 25,
-  "group_popularity": 34
+  "popularity": 28,
+  "group_popularity": 33
 }

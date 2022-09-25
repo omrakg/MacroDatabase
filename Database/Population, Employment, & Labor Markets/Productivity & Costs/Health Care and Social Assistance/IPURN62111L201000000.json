@@ -1,7 +1,7 @@
 {
   "id": "IPURN62111L201000000",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Hours Worked for Health Care and Social Assistance: Offices of Physicians (NAICS 62111) in the United States",
   "observation_start": "1988-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-02 11:44:24-05",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services."
 }

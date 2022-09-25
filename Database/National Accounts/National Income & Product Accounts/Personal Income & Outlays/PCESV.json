@@ -1,7 +1,7 @@
 {
   "id": "PCESV",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Personal Consumption Expenditures: Services",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-08-25 07:53:22-05",
-  "popularity": 51,
-  "group_popularity": 62,
+  "popularity": 53,
+  "group_popularity": 63,
   "notes": "BEA Account Code: DSERRC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

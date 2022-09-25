@@ -1,7 +1,7 @@
 {
   "id": "CPIULFSL",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Consumer Price Index for All Urban Consumers: All Items Less Food in U.S. City Average",
   "observation_start": "1947-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-13 07:37:44-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Handbook of Methods - (https://www.bls.gov/opub/hom/pdf/cpihom.pdf) Understanding the CPI: Frequently Asked Questions - (http://stats.bls.gov:80/cpi/cpifaq.htm)"
 }

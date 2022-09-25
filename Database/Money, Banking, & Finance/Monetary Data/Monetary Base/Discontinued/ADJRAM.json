@@ -1,7 +1,7 @@
 {
   "id": "ADJRAM",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Reserve Adjustment Magnitude (RAM) (DISCONTINUED)",
   "observation_start": "1984-02-15",
   "observation_end": "2019-12-18",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-12-19 15:31:02-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Updates of this series will be ceased on December 19, 2019. There is no available alternative for this series.\nFor more details, see the FRED Announcement (https://news.research.stlouisfed.org/2019/12/discontinuance-of-st-louis-monetary-base-and-reserves-data/)."
 }

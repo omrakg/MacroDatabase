@@ -1,7 +1,7 @@
 {
   "id": "DTCOLRHFXDFBANA",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Revolving Consumer Credit Owned by Finance Companies, Flow",
   "observation_start": "1985-01-01",
   "observation_end": "2022-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-17 14:03:23-05",
   "popularity": 1,
-  "group_popularity": 5,
+  "group_popularity": 12,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/ ."
 }

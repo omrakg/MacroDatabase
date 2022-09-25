@@ -1,7 +1,7 @@
 {
   "id": "CUURA316SS47015",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Dallas-Fort Worth-Arlington, TX (CBSA)",
   "observation_start": "1993-12-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-13 07:40:37-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 4
 }

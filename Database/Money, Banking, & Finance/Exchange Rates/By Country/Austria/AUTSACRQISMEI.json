@@ -1,8 +1,8 @@
 {
   "id": "AUTSACRQISMEI",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
-  "title": "Passenger Car Registrations in Austria",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
+  "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Austria",
   "observation_start": "1960-01-01",
   "observation_end": "2022-01-01",
   "frequency": "Quarterly",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-06-14 12:26:58-05",
   "popularity": 0,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

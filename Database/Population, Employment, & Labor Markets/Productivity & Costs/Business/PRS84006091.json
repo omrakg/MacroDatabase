@@ -1,7 +1,7 @@
 {
   "id": "PRS84006091",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Business Sector: Labor Productivity (Output per Hour) for All Employed Persons",
   "observation_start": "1948-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-01 07:36:09-05",
-  "popularity": 24,
-  "group_popularity": 40,
+  "popularity": 28,
+  "group_popularity": 43,
   "notes": "Labor productivity, or output per hour, is calculated by dividing an index of real output by an index of hours worked of all persons, including employees, proprietors, and unpaid family workers.\n\nFor more information, please go to https://www.bls.gov/news.release/pdf/prod2.pdf\n\nSource Indicator PRS84006091"
 }

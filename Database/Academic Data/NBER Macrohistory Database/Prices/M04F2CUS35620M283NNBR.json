@@ -1,7 +1,7 @@
 {
   "id": "M04F2CUS35620M283NNBR",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Wholesale Price of Canned Tomatoes for New York, NY",
   "observation_start": "1942-01-01",
   "observation_end": "1951-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:35-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 3,
   "notes": "Series Has Been Subdivided Into Three Variables: (1)-- Original Data, 1908-1938; (2)-- Original Data, 1937-1942; (3)-- Original Data, 1942-1951. Data Refers To #3 And #2 Cans. Beginning With June 1942 Prices Are Quoted For \"Quantity Not Specified\" Instead Of Being Quoted For \"Carlot.\" Data For September And October, 1945 Are Interpolated. Data For December 1945 - October 1946 Are Extrapolated; See \"Wholesale Price Of Canned Tomatoes: #2 Can, Standard, Eastern Factory\". After 1951 Only Indices Are Published By The Source. Source: Bls Bulletins; 1950-1951: Bls Mimeographed Monthly Releases\n\nThis NBER data series m04042c appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04042c"
 }

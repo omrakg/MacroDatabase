@@ -1,7 +1,7 @@
 {
   "id": "WPU114115012",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Vacuum Pumps, Except Laboratory",
   "observation_start": "2011-12-01",
   "observation_end": "2019-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-05-09 07:54:26-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

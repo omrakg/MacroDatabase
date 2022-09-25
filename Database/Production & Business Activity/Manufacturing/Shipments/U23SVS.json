@@ -1,7 +1,7 @@
 {
   "id": "U23SVS",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Manufacturers' Value of Shipments: Printing",
   "observation_start": "1992-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-02 09:04:11-05",
-  "popularity": 5,
-  "group_popularity": 6
+  "popularity": 4,
+  "group_popularity": 5
 }

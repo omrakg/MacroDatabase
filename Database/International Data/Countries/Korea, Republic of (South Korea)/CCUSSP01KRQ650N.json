@@ -1,18 +1,18 @@
 {
   "id": "CCUSSP01KRQ650N",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "US Dollar to National Currency Spot Exchange Rate for the Republic of Korea",
   "observation_start": "1986-01-01",
   "observation_end": "2022-04-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
-  "units": "US Dollar per National Currency Units",
-  "units_short": "US $ per National Currency Units",
+  "units": "Won",
+  "units_short": "Won",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 14:37:08-05",
   "popularity": 3,
-  "group_popularity": 7,
+  "group_popularity": 10,
   "notes": "OECD descriptor ID: CCUSSP01\nOECD unit ID: ST\nOECD country ID: KOR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

@@ -1,8 +1,8 @@
 {
   "id": "PRENTO01CHQ661S",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
-  "title": "Total Energy Production for Switzerland",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
+  "title": "Production: Energy: Total Energy: Total for Switzerland",
   "observation_start": "1990-01-01",
   "observation_end": "2022-04-01",
   "frequency": "Quarterly",

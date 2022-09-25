@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS43780Q",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "All-Transactions House Price Index for South Bend-Mishawaka, IN-MI (MSA)",
   "observation_start": "1982-04-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-30 09:03:21-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Estimated using sales prices and appraisal data."
 }

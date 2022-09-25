@@ -1,7 +1,7 @@
 {
   "id": "RBMTSRBR",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Reserve Balances Maintained; Balances Maintained to Satisfy Reserve Balance Requirements (DISCONTINUED)",
   "observation_start": "2013-07-01",
   "observation_end": "2020-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-09-10 15:46:12-05",
-  "popularity": 1,
+  "popularity": 2,
   "group_popularity": 2,
   "notes": "The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.\n\nBalances maintained to satisfy reserve balance requirements, which consist of those up to and including the top of the penalty-free band, is calculated separately for each institution and then aggregated. If an institution maintains an average level of reserve balances over a maintenance period below the top of its penalty-free band, then balances maintained to satisfy reserve balance requirements is equal to the institution's average level of reserve balances maintained over the maintenance period. For all other institutions, balances maintained to satisfy reserve balance requirements is equal to the top of their penalty-free bands. This series equals the sum of balances maintained up to the top of each institution's penalty-free band."
 }

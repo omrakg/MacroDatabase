@@ -1,7 +1,7 @@
 {
   "id": "SPPOP1564TOZSHPC",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Population Ages 15 to 64 for Heavily Indebted Poor Countries",
   "observation_start": "1960-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "% of Total",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-05 14:31:41-05",
+  "last_updated": "2022-09-20 14:14:32-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Nations that are included in this data series are listed at https://datahelpdesk.worldbank.org/knowledgebase/articles/906519\n\nSource Indicator: SP.POP.1564.TO.ZS"

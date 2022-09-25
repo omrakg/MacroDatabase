@@ -1,7 +1,7 @@
 {
   "id": "GDIA",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Gross Domestic Income",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-26 07:52:25-05",
-  "popularity": 11,
-  "group_popularity": 55,
+  "popularity": 6,
+  "group_popularity": 53,
   "notes": "BEA Account Code: A261RC\n\n"
 }

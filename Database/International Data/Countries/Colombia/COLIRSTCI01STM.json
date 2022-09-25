@@ -1,8 +1,8 @@
 {
   "id": "COLIRSTCI01STM",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
-  "title": "Interest Rates: Immediate rates (< 24 hrs): Liquidity credit rates: Total for Colombia",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
+  "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for Colombia",
   "observation_start": "1999-01-01",
   "observation_end": "2022-08-01",
   "frequency": "Monthly",

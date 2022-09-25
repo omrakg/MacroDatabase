@@ -1,7 +1,7 @@
 {
   "id": "DFXARA3A086NBEA",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Real personal consumption expenditures: Nondurable goods: Food and beverages purchased for off-premises consumption (chain-type quantity index)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:59:20-05",
   "popularity": 1,
-  "group_popularity": 8,
+  "group_popularity": 3,
   "notes": "BEA Account Code: DFXARA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

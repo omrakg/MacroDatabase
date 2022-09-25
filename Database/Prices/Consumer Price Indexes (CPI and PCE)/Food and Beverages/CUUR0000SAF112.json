@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SAF112",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Consumer Price Index for All Urban Consumers: Meats, Poultry, Fish, and Eggs in U.S. City Average",
   "observation_start": "1967-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-13 07:39:14-05",
-  "popularity": 14,
-  "group_popularity": 44
+  "popularity": 12,
+  "group_popularity": 42
 }

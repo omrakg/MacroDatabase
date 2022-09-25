@@ -1,8 +1,8 @@
 {
   "id": "CCUSMA02ATM661N",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
-  "title": "National Currency to US Dollar Exchange Rate: Average of Daily Rates for Austria",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
+  "title": "Currency Conversions: US$ Exchange Rate: Average of Daily Rates: National Currency:usd for Austria",
   "observation_start": "1960-01-01",
   "observation_end": "2022-08-01",
   "frequency": "Monthly",

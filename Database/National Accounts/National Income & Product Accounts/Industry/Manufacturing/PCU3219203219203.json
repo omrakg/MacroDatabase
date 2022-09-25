@@ -1,7 +1,7 @@
 {
   "id": "PCU3219203219203",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Producer Price Index by Industry: Wood Container and Pallet Manufacturing: Wood Box and Crate Shook",
   "observation_start": "1985-06-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:56:13-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 5,
+  "group_popularity": 4
 }

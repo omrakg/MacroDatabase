@@ -1,7 +1,7 @@
 {
   "id": "M0122BDEM422NNBR",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Production of Coal (Excluding Saar) for Germany",
   "observation_start": "1923-01-01",
   "observation_end": "1935-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:51:14-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1901-1923 (2)--Original Data, 1923-1935. Data Exclude Eastern Upper Silesia. The Ruhr Miners Were On Strike In May, 1924. Source: Wirtschaft Und Statistiches.\n\nThis NBER data series m01122b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01122b"
 }

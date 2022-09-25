@@ -1,7 +1,7 @@
 {
   "id": "WPU021109",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Pies (Fruit, Cream, and Custard), Excluding Frozen",
   "observation_start": "1980-12-01",
   "observation_end": "2021-11-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-12 09:27:56-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

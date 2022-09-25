@@ -1,7 +1,7 @@
 {
   "id": "WPU342103",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Producer Price Index by Commodity: Software Publishing: Application Software Publishing, Cross-Industry, Vertical Market, Utilities, and Other",
   "observation_start": "2008-12-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:57:07-05",
   "popularity": 2,
-  "group_popularity": 2
+  "group_popularity": 3
 }

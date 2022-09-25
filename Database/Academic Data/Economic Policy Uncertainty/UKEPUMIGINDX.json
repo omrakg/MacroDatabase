@@ -1,7 +1,7 @@
 {
   "id": "UKEPUMIGINDX",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Migration Policy Uncertainty Index for the United Kingdom",
   "observation_start": "1990-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-01 08:01:11-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Please read the authors' description (https://www.policyuncertainty.com/immigration_fear.html) of this index for further explanation."
 }

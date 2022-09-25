@@ -1,7 +1,7 @@
 {
   "id": "SHCNNA156MNFRBPHI",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia",
   "observation_start": "1968-05-01",
   "observation_end": "2022-09-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-15 07:46:33-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Current Shipments reports the change in shipments compared to the previous month for reporting manufacturing firms. For more information about this release from the Federal Reserve Bank of Philadelphia, visit: http://www.philadelphiafed.org/research-and-data/regional-economy/business-outlook-survey/ ."
 }

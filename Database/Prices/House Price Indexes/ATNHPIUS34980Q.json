@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS34980Q",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "All-Transactions House Price Index for Nashville-Davidson--Murfreesboro--Franklin, TN (MSA)",
   "observation_start": "1979-04-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-30 09:02:15-05",
   "popularity": 44,
-  "group_popularity": 43,
+  "group_popularity": 44,
   "notes": "Estimated using sales prices and appraisal data."
 }

@@ -1,7 +1,7 @@
 {
   "id": "MSPUS",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Median Sales Price of Houses Sold for the United States",
   "observation_start": "1963-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-26 09:01:02-05",
-  "popularity": 90,
-  "group_popularity": 90
+  "popularity": 91,
+  "group_popularity": 91
 }

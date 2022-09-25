@@ -1,17 +1,17 @@
 {
   "id": "IEAIDI",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "US Incurrence of Direct Investment Liabilities",
   "observation_start": "1999-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-04-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-06-23 09:29:04-05",
+  "last_updated": "2022-09-22 08:47:25-05",
   "popularity": 1,
   "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "PRS88003183",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Nonfinancial Corporations Sector: Profits for Employees",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-01 07:36:51-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPS583102",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Producer Price Index by Commodity: Retail Trade Services: Jewelry Retailing",
   "observation_start": "2009-03-01",
   "observation_end": "2015-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-02-17 10:48:11-06",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

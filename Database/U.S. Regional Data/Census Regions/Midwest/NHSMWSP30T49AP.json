@@ -1,7 +1,7 @@
 {
   "id": "NHSMWSP30T49AP",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "New Houses Sold by Sales Price Between $300,000 and $499,999 in the Midwest Census Region",
   "observation_start": "2002-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-26 09:01:54-06",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "Percents computed from unrounded figures. Components may not add to total because of rounding."
 }

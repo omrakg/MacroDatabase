@@ -1,7 +1,7 @@
 {
   "id": "DRCARL1Q225SBEA",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Real Personal Consumption Expenditures: Services: Household Consumption Expenditures (for Services): Recreation Services",
   "observation_start": "1959-04-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-08-25 07:54:10-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: DRCARL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

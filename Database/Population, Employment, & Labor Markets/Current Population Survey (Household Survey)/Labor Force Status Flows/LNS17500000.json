@@ -1,7 +1,7 @@
 {
   "id": "LNS17500000",
-  "realtime_start": "2022-09-18",
-  "realtime_end": "2022-09-18",
+  "realtime_start": "2022-09-25",
+  "realtime_end": "2022-09-25",
   "title": "Labor Force Flows Unemployed to Unemployed",
   "observation_start": "1990-02-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-02 07:44:43-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "This series is from the Current Population Survey (Household Survey) conducted by the Bureau of Labor Statistics. Labor force flows show the movements that underlie the net over-the-month changes in employment, unemployment, or not in the labor force."
 }
