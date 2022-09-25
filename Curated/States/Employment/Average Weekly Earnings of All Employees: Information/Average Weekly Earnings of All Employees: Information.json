@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000005000000011",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "Average Weekly Earnings of All Employees: Information in Washington",
       "observation_start": "2007-01-01",
       "observation_end": "2022-08-01",
@@ -60,8 +60,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000005000000011A",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "Average Weekly Earnings of All Employees: Information in Washington",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000004349300001",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Transportation and Utilities: Warehousing and Storage in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -19,8 +19,8 @@
   },
   "Texas": {
     "id": "SMU48000004349300001SA",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Transportation and Utilities: Warehousing and Storage in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",

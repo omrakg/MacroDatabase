@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000006055000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
     },
     "Utah": {
       "id": "SMU49000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -77,8 +77,8 @@
     },
     "Virginia": {
       "id": "SMU51000006055000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -95,8 +95,8 @@
     },
     "Washington": {
       "id": "SMU53000006055000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -113,8 +113,8 @@
     },
     "West Virginia": {
       "id": "SMU54000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2022-08-01",
@@ -132,8 +132,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2022-08-01",
@@ -153,8 +153,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -191,8 +191,8 @@
     },
     "Texas": {
       "id": "SMU48000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -210,8 +210,8 @@
     },
     "Utah": {
       "id": "SMU49000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -229,8 +229,8 @@
     },
     "Virginia": {
       "id": "SMU51000006055000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -247,8 +247,8 @@
     },
     "Washington": {
       "id": "SMU53000006055000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -265,8 +265,8 @@
     },
     "West Virginia": {
       "id": "SMU54000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2022-08-01",
@@ -284,8 +284,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000006055000001SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Professional and Business Services: Management of Companies and Enterprises in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2022-08-01",

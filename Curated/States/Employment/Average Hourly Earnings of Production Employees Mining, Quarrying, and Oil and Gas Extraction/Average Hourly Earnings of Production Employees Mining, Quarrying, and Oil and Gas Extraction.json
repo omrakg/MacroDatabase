@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000001021000008",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "Average Hourly Earnings of Production Employees: Mining and Logging: Mining, Quarrying, and Oil and Gas Extraction in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-08-01",

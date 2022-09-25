@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Vermont": {
       "id": "SMU50000003133004501",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Durable Goods: Computer and Electronic Product Mfg, and Electrical Equipment, Appliance, and Component Mfg in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2016-12-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Vermont": {
       "id": "SMU50000003133004501A",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Durable Goods: Computer and Electronic Product Mfg, and Electrical Equipment, Appliance, and Component Mfg in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2015-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Vermont": {
       "id": "SMU50000003133004501SA",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Durable Goods: Computer and Electronic Product Mfg, and Electrical Equipment, Appliance, and Component Mfg in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2016-12-01",

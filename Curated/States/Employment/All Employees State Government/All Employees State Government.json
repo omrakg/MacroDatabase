@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMS56000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -14,8 +14,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-17 02:13:15-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics.",
       "path": "Database/U.S. Regional Data/States/Wyoming"
     },
@@ -57,8 +57,8 @@
     },
     "Utah": {
       "id": "SMU49000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -75,8 +75,8 @@
     },
     "Vermont": {
       "id": "SMU50000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -93,8 +93,8 @@
     },
     "Virginia": {
       "id": "SMU51000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -111,8 +111,8 @@
     },
     "Washington": {
       "id": "SMU53000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -129,8 +129,8 @@
     },
     "West Virginia": {
       "id": "SMU54000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -142,13 +142,13 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-17 02:03:41-05",
       "popularity": 1,
-      "group_popularity": 3,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/West Virginia"
     },
     "Wisconsin": {
       "id": "SMU55000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -167,8 +167,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -180,7 +180,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-17 02:02:32-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 3,
       "path": "Database/U.S. Regional Data/States/Wyoming"
     },
     "Tennessee": {
@@ -221,8 +221,8 @@
     },
     "Utah": {
       "id": "SMU49000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -239,8 +239,8 @@
     },
     "Vermont": {
       "id": "SMU50000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -257,8 +257,8 @@
     },
     "Virginia": {
       "id": "SMU51000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -275,8 +275,8 @@
     },
     "Washington": {
       "id": "SMU53000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -293,8 +293,8 @@
     },
     "West Virginia": {
       "id": "SMU54000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -306,13 +306,13 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-17 02:03:41-05",
       "popularity": 1,
-      "group_popularity": 3,
+      "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/West Virginia"
     },
     "Wisconsin": {
       "id": "SMU55000009092000001",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "All Employees: Government: State Government in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",

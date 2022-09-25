@@ -2,8 +2,8 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000005500000002",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "Average Weekly Hours of All Employees: Financial Activities in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000005500000002A",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "Average Weekly Hours of All Employees: Financial Activities in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -135,8 +135,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000005500000002A",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "Average Weekly Hours of All Employees: Financial Activities in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -172,8 +172,8 @@
     },
     "Texas": {
       "id": "SMU48000005500000002A",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "Average Weekly Hours of All Employees: Financial Activities in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -306,8 +306,8 @@
     },
     "Texas": {
       "id": "SMU48000005500000002A",
-      "realtime_start": "2022-09-18",
-      "realtime_end": "2022-09-18",
+      "realtime_start": "2022-09-25",
+      "realtime_end": "2022-09-25",
       "title": "Average Weekly Hours of All Employees: Financial Activities in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

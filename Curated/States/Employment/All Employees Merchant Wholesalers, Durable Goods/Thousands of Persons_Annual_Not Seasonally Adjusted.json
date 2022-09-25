@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000004142300001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000004142300001SA",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -57,8 +57,8 @@
   },
   "Washington": {
     "id": "SMU53000004142300001SA",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -76,8 +76,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000004142300001SA",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Durable Goods in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",

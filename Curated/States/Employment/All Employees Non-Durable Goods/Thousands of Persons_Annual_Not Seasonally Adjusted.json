@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000003200000001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Texas": {
     "id": "SMU48000003200000001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Utah": {
     "id": "SMU49000003200000001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Vermont": {
     "id": "SMU50000003200000001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -109,8 +109,8 @@
   },
   "Virginia": {
     "id": "SMU51000003200000001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -127,8 +127,8 @@
   },
   "Washington": {
     "id": "SMU53000003200000001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -145,8 +145,8 @@
   },
   "West Virginia": {
     "id": "SMU54000003200000001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Manufacturing: Non-Durable Goods in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -163,8 +163,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000003200000001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

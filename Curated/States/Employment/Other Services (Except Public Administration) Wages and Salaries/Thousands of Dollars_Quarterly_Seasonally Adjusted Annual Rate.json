@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWOTH",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Other Services (Except Public Administration) Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWOTH",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Other Services (Except Public Administration) Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWOTH",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Other Services (Except Public Administration) Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",
@@ -77,8 +77,8 @@
   },
   "Delaware": {
     "id": "DEWOTH",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Other Services (Except Public Administration) Wages and Salaries in Delaware",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",

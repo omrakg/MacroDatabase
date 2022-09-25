@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000006056130001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Employment Services in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Texas": {
     "id": "SMU48000006056130001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Employment Services in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Utah": {
     "id": "SMU49000006056130001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Employment Services in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Virginia": {
     "id": "SMU51000006056130001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Employment Services in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Washington": {
     "id": "SMU53000006056130001A",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "All Employees: Employment Services in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

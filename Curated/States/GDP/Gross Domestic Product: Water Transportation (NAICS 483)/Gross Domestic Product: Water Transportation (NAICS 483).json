@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWATTRANNGSP",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Gross Domestic Product: Water Transportation (NAICS 483) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWATTRANNGSP",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Gross Domestic Product: Water Transportation (NAICS 483) in Alabama",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWATTRANNGSP",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Gross Domestic Product: Water Transportation (NAICS 483) in Alaska",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWATTRANNGSP",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Gross Domestic Product: Water Transportation (NAICS 483) in Arizona",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEWATTRANNGSP",
-    "realtime_start": "2022-09-18",
-    "realtime_end": "2022-09-18",
+    "realtime_start": "2022-09-25",
+    "realtime_end": "2022-09-25",
     "title": "Gross Domestic Product: Water Transportation (NAICS 483) in Delaware",
     "observation_start": "1997-01-01",
     "observation_end": "2020-01-01",
