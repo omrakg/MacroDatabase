@@ -1,9 +1,9 @@
 {
-  "Russian Ruble_Annual_Not Seasonally Adjusted": {
+  "Russian Ruble_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP06RUA652S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Exports of Goods and Services for the Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2016-01-01",
@@ -11,20 +11,20 @@
       "frequency_short": "A",
       "units": "Russian Ruble",
       "units_short": "Russian Ruble",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:41:40-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP06\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
   },
-  "Growth rate previous period_Annual_Not Seasonally Adjusted": {
+  "Growth rate previous period_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP06RUA657S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Exports of Goods and Services for the Russian Federation",
       "observation_start": "2004-01-01",
       "observation_end": "2020-01-01",
@@ -32,20 +32,20 @@
       "frequency_short": "A",
       "units": "Growth rate previous period",
       "units_short": "Growth rate previous period",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 16:04:30-05",
       "popularity": 0,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP06\nOECD unit ID: GPSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
   },
-  "Growth rate same period previous year_Annual_Not Seasonally Adjusted": {
+  "Growth rate same period previous year_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP06RUA659S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Exports of Goods and Services for the Russian Federation",
       "observation_start": "2004-01-01",
       "observation_end": "2020-01-01",
@@ -53,20 +53,20 @@
       "frequency_short": "A",
       "units": "Growth rate same period previous year",
       "units_short": "Growth rate same period previous Yr.",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:41:40-05",
-      "popularity": 1,
-      "group_popularity": 2,
+      "popularity": 0,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP06\nOECD unit ID: GYSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
   },
-  "Index 2015=100_Annual_Not Seasonally Adjusted": {
+  "Index 2015=100_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP06RUA661S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Exports of Goods and Services for the Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2020-01-01",
@@ -74,11 +74,11 @@
       "frequency_short": "A",
       "units": "Index 2015=100",
       "units_short": "Index 2015=100",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:41:40-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP06\nOECD unit ID: IXOBSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -86,8 +86,8 @@
   "Russian Ruble_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP06RUQ652S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Exports of Goods and Services for the Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2016-10-01",
@@ -99,7 +99,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2018-02-26 13:36:55-06",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP06\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -107,8 +107,8 @@
   "Growth rate previous period_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP06RUQ657S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Exports of Goods and Services for the Russian Federation",
       "observation_start": "2003-04-01",
       "observation_end": "2021-07-01",
@@ -120,7 +120,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:47:40-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP06\nOECD unit ID: GPSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -128,8 +128,8 @@
   "Growth rate same period previous year_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP06RUQ659S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Exports of Goods and Services for the Russian Federation",
       "observation_start": "2004-01-01",
       "observation_end": "2021-07-01",
@@ -141,7 +141,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:47:40-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP06\nOECD unit ID: GYSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -149,8 +149,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "NAEXKP06RUQ661S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Gross Domestic Product by Expenditure in Constant Prices: Exports of Goods and Services for the Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -162,7 +162,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:47:40-05",
       "popularity": 1,
-      "group_popularity": 2,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: NAEXKP06\nOECD unit ID: IXOBSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }

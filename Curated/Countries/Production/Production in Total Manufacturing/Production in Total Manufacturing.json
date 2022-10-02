@@ -1,9 +1,9 @@
 {
-  "Index 2015=100_Annual_Not Seasonally Adjusted": {
+  "Index 2015=100_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPROMANAISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production in Total Manufacturing for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -11,8 +11,8 @@
       "frequency_short": "A",
       "units": "Index 2015=100",
       "units_short": "Index 2015=100",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 16:07:13-05",
       "popularity": 0,
       "group_popularity": 1,
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "ISLPROMANQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production in Total Manufacturing for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-10-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPROMANMISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production in Total Manufacturing for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-06-01",
@@ -61,8 +61,8 @@
     },
     "Iceland": {
       "id": "ISLPROMANQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production in Total Manufacturing for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-10-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPROMANQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production in Total Manufacturing for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -101,8 +101,8 @@
     },
     "Iceland": {
       "id": "ISLPROMANQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production in Total Manufacturing for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-10-01",

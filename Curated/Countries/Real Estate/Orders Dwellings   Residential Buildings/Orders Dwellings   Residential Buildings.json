@@ -1,9 +1,9 @@
 {
-  "Index 2015=100_Annual_Not Seasonally Adjusted": {
+  "Index 2015=100_Annual_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZEPERMITAISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Orders: Construction: Permits Issued: Dwellings / Residential Buildings for the Czech Republic",
       "observation_start": "1999-01-01",
       "observation_end": "2021-01-01",
@@ -11,18 +11,18 @@
       "frequency_short": "A",
       "units": "Index 2015=100",
       "units_short": "Index 2015=100",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:47:21-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Czech Republic"
     },
     "Chile": {
       "id": "CHLPERMITQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Chile": {
       "id": "CHLPERMITMISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-07-01",
@@ -61,8 +61,8 @@
     },
     "Czech Republic": {
       "id": "CZEPERMITQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Orders: Construction: Permits Issued: Dwellings / Residential Buildings for the Czech Republic",
       "observation_start": "1999-01-01",
       "observation_end": "2022-01-01",
@@ -73,8 +73,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:09:00-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 2,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Czech Republic"
     }
@@ -82,8 +82,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZEPERMITQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Orders: Construction: Permits Issued: Dwellings / Residential Buildings for the Czech Republic",
       "observation_start": "1999-01-01",
       "observation_end": "2022-01-01",
@@ -94,15 +94,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:09:00-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 2,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Czech Republic"
     },
     "Chile": {
       "id": "CHLPERMITQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",

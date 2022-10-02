@@ -1,9 +1,9 @@
 {
-  "Chilean Peso_Annual_Not Seasonally Adjusted": {
+  "Chilean Peso_Annual_Seasonally Adjusted": {
     "Chile": {
       "id": "CHLCINSADSMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -11,8 +11,8 @@
       "frequency_short": "A",
       "units": "Chilean Peso",
       "units_short": "Chilean Peso",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:47:25-05",
       "popularity": 1,
       "group_popularity": 1,
@@ -21,8 +21,8 @@
     },
     "Czech Republic": {
       "id": "CZECINSQDSMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -42,8 +42,8 @@
   "Chilean Peso_Quarterly_Seasonally Adjusted": {
     "Chile": {
       "id": "CHLCINSQDSMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
     },
     "Czech Republic": {
       "id": "CZECINSQDSMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -79,11 +79,11 @@
       "path": "Database/International Data/Countries/Czech Republic"
     }
   },
-  "Czech Koruna_Annual_Not Seasonally Adjusted": {
+  "Czech Koruna_Annual_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZECINSADSMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
       "frequency_short": "A",
       "units": "Czech Koruna",
       "units_short": "Czech Koruna",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-07-14 19:34:01-05",
       "popularity": 1,
       "group_popularity": 1,
@@ -101,8 +101,8 @@
     },
     "Chile": {
       "id": "CHLCINSQDSMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -122,8 +122,8 @@
   "Czech Koruna_Quarterly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZECINSQDSMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -141,8 +141,8 @@
     },
     "Chile": {
       "id": "CHLCINSQDSMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",

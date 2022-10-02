@@ -1,8 +1,8 @@
 {
   "Romania": {
     "id": "SERVHOROM086NEST",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Harmonized Index of Consumer Prices: Services Related to Housing for Romania",
     "observation_start": "2000-12-01",
     "observation_end": "2022-08-01",
@@ -20,8 +20,8 @@
   },
   "Bulgaria": {
     "id": "SERVHOBGM086NEST",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Harmonized Index of Consumer Prices: Services Related to Housing for Bulgaria",
     "observation_start": "1996-12-01",
     "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "SERVHOHRM086NEST",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Harmonized Index of Consumer Prices: Services Related to Housing for Croatia",
     "observation_start": "1998-01-01",
     "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "SERVHOCYM086NEST",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Harmonized Index of Consumer Prices: Services Related to Housing for Cyprus",
     "observation_start": "1996-01-01",
     "observation_end": "2022-08-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "SERVHOMTM086NEST",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Harmonized Index of Consumer Prices: Services Related to Housing for Malta",
     "observation_start": "1996-01-01",
     "observation_end": "2022-08-01",

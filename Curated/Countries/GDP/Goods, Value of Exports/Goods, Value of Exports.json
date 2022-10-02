@@ -2,8 +2,8 @@
   "Dollars_Monthly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "VALEXPSAM052N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Goods, Value of Exports for Saudi Arabia",
       "observation_start": "2015-01-01",
       "observation_end": "2022-04-01",
@@ -21,8 +21,8 @@
     },
     "Argentina": {
       "id": "VALEXPARQ052N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Goods, Value of Exports for Argentina",
       "observation_start": "2005-01-01",
       "observation_end": "2021-07-01",
@@ -33,8 +33,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-01-31 07:09:16-06",
-      "popularity": 2,
-      "group_popularity": 2,
+      "popularity": 1,
+      "group_popularity": 4,
       "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Argentina"
     }
@@ -42,8 +42,8 @@
   "Dollars_Quarterly_Not Seasonally Adjusted": {
     "Argentina": {
       "id": "VALEXPARQ052N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Goods, Value of Exports for Argentina",
       "observation_start": "2005-01-01",
       "observation_end": "2021-07-01",
@@ -54,15 +54,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-01-31 07:09:16-06",
-      "popularity": 2,
-      "group_popularity": 2,
+      "popularity": 1,
+      "group_popularity": 4,
       "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Argentina"
     },
     "Saudi Arabia": {
       "id": "VALEXPSAM052N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Goods, Value of Exports for Saudi Arabia",
       "observation_start": "2015-01-01",
       "observation_end": "2022-04-01",

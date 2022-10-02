@@ -1,8 +1,8 @@
 {
   "Slovenia": {
     "id": "LCEAMN01SIA189N",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Hourly Earnings: Manufacturing for Slovenia",
     "observation_start": "1998-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Iceland": {
     "id": "LCEAMN01ISQ661N",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Hourly Earnings: Manufacturing for Iceland",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Israel": {
     "id": "LCEAMN01ILQ661N",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Hourly Earnings: Manufacturing for Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Luxembourg": {
     "id": "LCEAMN01LUQ661S",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Hourly Earnings: Manufacturing for Luxembourg",
     "observation_start": "1980-01-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Poland": {
     "id": "LCEAMN01PLQ661S",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Hourly Earnings: Manufacturing for Poland",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Slovak Republic": {
     "id": "LCEAMN01SKQ661S",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Hourly Earnings: Manufacturing for the Slovak Republic",
     "observation_start": "1992-01-01",
     "observation_end": "2022-04-01",
@@ -115,8 +115,8 @@
   },
   "Turkey": {
     "id": "LCEAMN01TRQ661N",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Hourly Earnings: Manufacturing for Turkey",
     "observation_start": "1988-01-01",
     "observation_end": "2022-04-01",

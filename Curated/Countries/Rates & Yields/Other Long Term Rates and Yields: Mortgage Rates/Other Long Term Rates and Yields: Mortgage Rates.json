@@ -2,8 +2,8 @@
   "Percent_Annual_Not Seasonally Adjusted": {
     "Luxembourg": {
       "id": "IRLOHO02LUA156N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
       "observation_start": "1987-01-01",
       "observation_end": "2021-01-01",
@@ -15,7 +15,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:44:02-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 3,
       "notes": "OECD descriptor ID: IRLOHO02\nOECD unit ID: ST\nOECD country ID: LUX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Luxembourg"
     }
@@ -23,8 +23,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Luxembourg": {
       "id": "IRLOHO02LUM156N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
       "observation_start": "1987-01-01",
       "observation_end": "2022-07-01",
@@ -36,7 +36,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 14:49:26-05",
       "popularity": 3,
-      "group_popularity": 4,
+      "group_popularity": 3,
       "notes": "OECD descriptor ID: IRLOHO02\nOECD unit ID: ST\nOECD country ID: LUX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Luxembourg"
     }
@@ -44,8 +44,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Luxembourg": {
       "id": "IRLOHO02LUQ156N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
       "observation_start": "1987-01-01",
       "observation_end": "2022-04-01",
@@ -57,7 +57,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:01:13-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 3,
       "notes": "OECD descriptor ID: IRLOHO02\nOECD unit ID: ST\nOECD country ID: LUX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Luxembourg"
     }

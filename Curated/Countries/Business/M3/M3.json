@@ -2,8 +2,8 @@
   "National Currency_Monthly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "MYAGM3SAM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -21,8 +21,8 @@
     },
     "Argentina": {
       "id": "MYAGM3ARM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -40,8 +40,8 @@
     },
     "Russian Federation": {
       "id": "MABMM301RUQ657S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for the Russian Federation",
       "observation_start": "1995-10-01",
       "observation_end": "2022-04-01",
@@ -52,8 +52,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:47:49-05",
-      "popularity": 1,
-      "group_popularity": 19,
+      "popularity": 2,
+      "group_popularity": 24,
       "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: GPSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -61,8 +61,8 @@
   "National Currency_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MABMM301RUA189S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -73,15 +73,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:42:09-05",
-      "popularity": 1,
-      "group_popularity": 19,
+      "popularity": 2,
+      "group_popularity": 24,
       "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Argentina": {
       "id": "MYAGM3ARM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -99,8 +99,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM3SAM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -120,8 +120,8 @@
   "Growth Rate Previous Period_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MABMM301RUA657S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for the Russian Federation",
       "observation_start": "1997-01-01",
       "observation_end": "2021-01-01",
@@ -132,15 +132,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:42:09-05",
-      "popularity": 1,
-      "group_popularity": 19,
+      "popularity": 2,
+      "group_popularity": 24,
       "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: GPSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Argentina": {
       "id": "MYAGM3ARM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -158,8 +158,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM3SAM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -179,8 +179,8 @@
   "National Currency_Monthly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MABMM301RUM189S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for the Russian Federation",
       "observation_start": "1995-06-01",
       "observation_end": "2022-08-01",
@@ -191,15 +191,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:46:06-05",
-      "popularity": 16,
-      "group_popularity": 19,
+      "popularity": 21,
+      "group_popularity": 24,
       "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Argentina": {
       "id": "MYAGM3ARM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -217,8 +217,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM3SAM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -238,8 +238,8 @@
   "Growth Rate Previous Period_Monthly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MABMM301RUM657S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for the Russian Federation",
       "observation_start": "1995-08-01",
       "observation_end": "2022-08-01",
@@ -251,14 +251,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:15:27-05",
       "popularity": 1,
-      "group_popularity": 19,
+      "group_popularity": 24,
       "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: GPSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Argentina": {
       "id": "MYAGM3ARM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -276,8 +276,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM3SAM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -297,8 +297,8 @@
   "National Currency_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MABMM301RUQ189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for the Russian Federation",
       "observation_start": "1995-07-01",
       "observation_end": "2022-04-01",
@@ -310,14 +310,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 14:47:50-05",
       "popularity": 1,
-      "group_popularity": 19,
+      "group_popularity": 24,
       "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Argentina": {
       "id": "MYAGM3ARM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -335,8 +335,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM3SAM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -356,8 +356,8 @@
   "National Currency_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MABMM301RUQ189S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for the Russian Federation",
       "observation_start": "1995-04-01",
       "observation_end": "2022-04-01",
@@ -368,15 +368,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:47:49-05",
-      "popularity": 2,
-      "group_popularity": 19,
+      "popularity": 1,
+      "group_popularity": 24,
       "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Argentina": {
       "id": "MYAGM3ARM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -394,8 +394,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM3SAM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",
@@ -415,8 +415,8 @@
   "Growth Rate Previous Period_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "MABMM301RUQ657S",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for the Russian Federation",
       "observation_start": "1995-10-01",
       "observation_end": "2022-04-01",
@@ -427,15 +427,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:47:49-05",
-      "popularity": 1,
-      "group_popularity": 19,
+      "popularity": 2,
+      "group_popularity": 24,
       "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: GPSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Argentina": {
       "id": "MYAGM3ARM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Argentina",
       "observation_start": "1998-01-01",
       "observation_end": "2018-07-01",
@@ -453,8 +453,8 @@
     },
     "Saudi Arabia": {
       "id": "MYAGM3SAM189N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "M3 for Saudi Arabia",
       "observation_start": "1993-01-01",
       "observation_end": "2018-02-01",

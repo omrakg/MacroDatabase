@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NINVRNSAXDCSAQ",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
     },
     "Argentina": {
       "id": "NINVRXDCARA",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
     },
     "Great Britain": {
       "id": "NINVRXDCGBA",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NINVRXDCSAA",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -76,8 +76,8 @@
     },
     "Argentina": {
       "id": "NINVRXDCARA",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -94,8 +94,8 @@
     },
     "Great Britain": {
       "id": "NINVRXDCGBA",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -114,8 +114,8 @@
   "Domestic Currency_Quarterly_Seasonally Adjusted": {
     "Great Britain": {
       "id": "NINVRSAXDCGBQ",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -132,8 +132,8 @@
     },
     "Argentina": {
       "id": "NINVRXDCARA",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -150,8 +150,8 @@
     },
     "Saudi Arabia": {
       "id": "NINVRXDCSAA",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Real Changes in Inventories for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",

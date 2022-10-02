@@ -1,9 +1,9 @@
 {
-  "Index 2015=100_Annual_Not Seasonally Adjusted": {
+  "Index 2015=100_Annual_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZEPROMANAISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production: Manufacturing: Total Manufacturing: Total Manufacturing for the Czech Republic",
       "observation_start": "1991-01-01",
       "observation_end": "2021-01-01",
@@ -11,8 +11,8 @@
       "frequency_short": "A",
       "units": "Index 2015=100",
       "units_short": "Index 2015=100",
-      "seasonal_adjustment": "Not Seasonally Adjusted",
-      "seasonal_adjustment_short": "NSA",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:47:20-05",
       "popularity": 1,
       "group_popularity": 1,
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLPROMANQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZEPROMANMISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production: Manufacturing: Total Manufacturing: Total Manufacturing for the Czech Republic",
       "observation_start": "1991-01-01",
       "observation_end": "2022-06-01",
@@ -61,8 +61,8 @@
     },
     "Chile": {
       "id": "CHLPROMANQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZEPROMANQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production: Manufacturing: Total Manufacturing: Total Manufacturing for the Czech Republic",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",
@@ -101,8 +101,8 @@
     },
     "Chile": {
       "id": "CHLPROMANQISMEI",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",

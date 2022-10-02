@@ -2,8 +2,8 @@
   "Hours_Annual_Not Seasonally Adjusted": {
     "Hungary": {
       "id": "HOHWMN03HUA065N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Monthly Hours Worked: Manufacturing for Hungary",
       "observation_start": "1984-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Hours_Monthly_Not Seasonally Adjusted": {
     "Hungary": {
       "id": "HOHWMN03HUM065N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Monthly Hours Worked: Manufacturing for Hungary",
       "observation_start": "1984-01-01",
       "observation_end": "1989-12-01",
@@ -44,8 +44,8 @@
   "Hours_Quarterly_Not Seasonally Adjusted": {
     "Hungary": {
       "id": "HOHWMN03HUQ065N",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "Monthly Hours Worked: Manufacturing for Hungary",
       "observation_start": "1984-01-01",
       "observation_end": "2022-04-01",
