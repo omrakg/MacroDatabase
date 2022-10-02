@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000006561000001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Educational Services in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Texas": {
     "id": "SMU48000006561000001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Educational Services in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Utah": {
     "id": "SMU49000006561000001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Educational Services in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Vermont": {
     "id": "SMU50000006561000001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Educational Services in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Virginia": {
     "id": "SMU51000006561000001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Educational Services in Virginia",
     "observation_start": "2003-01-01",
     "observation_end": "2021-01-01",
@@ -109,8 +109,8 @@
   },
   "Washington": {
     "id": "SMU53000006561000001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Educational Services in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -127,8 +127,8 @@
   },
   "West Virginia": {
     "id": "SMU54000006561000001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Educational Services in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -145,8 +145,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000006561000001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Educational Services in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

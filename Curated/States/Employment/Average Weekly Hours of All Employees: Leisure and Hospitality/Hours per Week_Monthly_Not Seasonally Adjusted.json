@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000007000000002",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Average Weekly Hours of All Employees: Leisure and Hospitality in Wyoming",
     "observation_start": "2007-01-01",
     "observation_end": "2022-08-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000007000000002A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "Average Weekly Hours of All Employees: Leisure and Hospitality in Texas",
     "observation_start": "2007-01-01",
     "observation_end": "2021-01-01",

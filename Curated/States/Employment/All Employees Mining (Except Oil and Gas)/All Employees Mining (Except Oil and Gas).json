@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000001021200001",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "All Employees: Mining and Logging: Mining (Except Oil and Gas) in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000001021200001SA",
-      "realtime_start": "2022-09-25",
-      "realtime_end": "2022-09-25",
+      "realtime_start": "2022-10-02",
+      "realtime_end": "2022-10-02",
       "title": "All Employees: Mining and Logging: Mining (Except Oil and Gas) in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",

@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000004142440001A",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Wholesale Trade: Grocery and Related Product Merchant Wholesalers in Wisconsin",
     "observation_start": "2003-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Texas": {
     "id": "SMU48000004142440001SA",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Wholesale Trade: Grocery and Related Product Merchant Wholesalers in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",

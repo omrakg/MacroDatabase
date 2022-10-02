@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000007072259001SA",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -20,8 +20,8 @@
   },
   "Utah": {
     "id": "SMU49000007072259001SA",
-    "realtime_start": "2022-09-25",
-    "realtime_end": "2022-09-25",
+    "realtime_start": "2022-10-02",
+    "realtime_end": "2022-10-02",
     "title": "All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
